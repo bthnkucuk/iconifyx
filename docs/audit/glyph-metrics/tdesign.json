@@ -1,0 +1,447 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "chart-colum",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "chart-colum",
+        "chart-column"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "component-space",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "component-space",
+        "view-agenda"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "component-space-filled",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "component-space-filled",
+        "view-agenda-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "download-1",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "download-1",
+        "download-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "download-1-filled",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "download-1-filled",
+        "download-2-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "frame-filled",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "frame-filled",
+        "grid-view-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "gesture-typing",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "gesture-typing",
+        "gesture-up-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "highlighted-block",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "highlighted-block",
+        "typography"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "highlighted-block-filled",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "highlighted-block-filled",
+        "typography-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "logo-adobe-lightroom",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "logo-adobe-lightroom",
+        "logo-adobe-photoshop-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "play-circle-filled",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "play-circle-filled",
+        "play-circle-stroke-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "stop-circle-filled",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "stop-circle-filled",
+        "stop-circle-stroke-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "video-camera-2-1",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "video-camera-2-1",
+        "video-camera-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tdesign",
+      "glyphName": "video-camera-2-filled-1",
+      "prefix": "tdesign",
+      "sampleIcons": [
+        "video-camera-2-filled-1",
+        "video-camera-3-filled"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58963,
+      "icon": "order",
+      "prefix": "tdesign",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "Tdesign",
+      "score": 434,
+      "secondary": {
+        "xMax": 976,
+        "xMin": 0,
+        "yMax": 935,
+        "yMin": 0
+      },
+      "secondaryFont": "TdesignSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Tdesign",
+      "headBbox": "-30..1018 / -44..1007",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 44,
+      "prefix": "tdesign",
+      "reasons": [
+        "head.xMin=-30",
+        "head.xMax=1018",
+        "head.yMin=-44",
+        "head.yMax=1007",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=44"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "TdesignSecondary",
+      "headBbox": "0..976 / 0..935",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "tdesign",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 960,
+      "codepoint": 57377,
+      "font": "Tdesign",
+      "name": "ai-education",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57378,
+      "font": "Tdesign",
+      "name": "ai-education-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57387,
+      "font": "Tdesign",
+      "name": "ai-music",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57388,
+      "font": "Tdesign",
+      "name": "ai-music-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57391,
+      "font": "Tdesign",
+      "name": "ai-search-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57420,
+      "font": "Tdesign",
+      "name": "animation-1-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58036,
+      "font": "Tdesign",
+      "name": "data-checked-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58039,
+      "font": "Tdesign",
+      "name": "data-error-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58040,
+      "font": "Tdesign",
+      "name": "data-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58042,
+      "font": "Tdesign",
+      "name": "data-search-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58248,
+      "font": "Tdesign",
+      "name": "film-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58253,
+      "font": "Tdesign",
+      "name": "filter-2-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58255,
+      "font": "Tdesign",
+      "name": "filter-3-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58339,
+      "font": "Tdesign",
+      "name": "font-background",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58340,
+      "font": "Tdesign",
+      "name": "font-background-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58444,
+      "font": "Tdesign",
+      "name": "gps-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58702,
+      "font": "Tdesign",
+      "name": "logo-qq-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58857,
+      "font": "Tdesign",
+      "name": "mode-dark-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58861,
+      "font": "Tdesign",
+      "name": "mode-light-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 59134,
+      "font": "Tdesign",
+      "name": "rotate-locked-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 59633,
+      "font": "Tdesign",
+      "name": "video-camera-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 59679,
+      "font": "Tdesign",
+      "name": "widget-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 59682,
+      "font": "Tdesign",
+      "name": "wifi-1-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 59687,
+      "font": "Tdesign",
+      "name": "wifi-off-1-filled",
+      "prefix": "tdesign",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "tdesign",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Tdesign",
+      "glyphCount": 2364,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1018,
+        "xMin": -30,
+        "yMax": 1007,
+        "yMin": -44
+      },
+      "hhea": {
+        "advanceWidthMax": 1041,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 44
+      }
+    },
+    {
+      "error": null,
+      "font": "TdesignSecondary",
+      "glyphCount": 1,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 976,
+        "xMin": 0,
+        "yMax": 935,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

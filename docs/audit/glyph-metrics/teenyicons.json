@@ -1,0 +1,663 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "add-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "add-outline",
+        "add-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "add-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "add-small-outline",
+        "add-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "align-text-center-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "align-text-center-outline",
+        "align-text-center-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "align-text-justify-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "align-text-justify-outline",
+        "align-text-justify-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "align-text-left-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "align-text-left-outline",
+        "align-text-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "align-text-right-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "align-text-right-outline",
+        "align-text-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "arrow-down-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "arrow-down-small-outline",
+        "arrow-down-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "arrow-left-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "arrow-left-small-outline",
+        "arrow-left-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "arrow-right-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "arrow-right-small-outline",
+        "arrow-right-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "arrow-up-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "arrow-up-small-outline",
+        "arrow-up-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "bar-chart-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "bar-chart-outline",
+        "bar-chart-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "barcode-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "barcode-outline",
+        "barcode-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-all-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-all-outline",
+        "border-all-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-bottom-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-bottom-outline",
+        "border-bottom-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-horizontal-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-horizontal-outline",
+        "border-horizontal-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-inner-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-inner-outline",
+        "border-inner-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-left-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-left-outline",
+        "border-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-none-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-none-outline",
+        "border-none-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-outer-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-outer-outline",
+        "border-outer-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-right-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-right-outline",
+        "border-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-top-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-top-outline",
+        "border-top-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "border-vertical-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "border-vertical-outline",
+        "border-vertical-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "code-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "code-outline",
+        "code-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "crop-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "crop-outline",
+        "crop-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "divider-line-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "divider-line-outline",
+        "divider-line-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "double-caret-down-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "double-caret-down-small-outline",
+        "double-caret-down-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "double-caret-left-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "double-caret-left-small-outline",
+        "double-caret-left-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "double-caret-right-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "double-caret-right-small-outline",
+        "double-caret-right-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "double-caret-up-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "double-caret-up-small-outline",
+        "double-caret-up-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "exclamation-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "exclamation-outline",
+        "exclamation-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "exclamation-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "exclamation-small-outline",
+        "exclamation-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "face-id-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "face-id-outline",
+        "face-id-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "filter-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "filter-outline",
+        "filter-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "floorplan-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "floorplan-outline",
+        "floorplan-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "frame-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "frame-outline",
+        "frame-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "gantt-chart-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "gantt-chart-outline",
+        "gantt-chart-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "hashtag-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "hashtag-outline",
+        "hashtag-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "indent-decrease-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "indent-decrease-outline",
+        "indent-decrease-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "indent-increase-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "indent-increase-outline",
+        "indent-increase-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "info-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "info-outline",
+        "info-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "info-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "info-small-outline",
+        "info-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "italic-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "italic-outline",
+        "italic-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "list-unordered-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "list-unordered-outline",
+        "list-unordered-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "litecoin-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "litecoin-outline",
+        "litecoin-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "menu-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "menu-outline",
+        "menu-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "minus-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "minus-outline",
+        "minus-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "minus-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "minus-small-outline",
+        "minus-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "npm-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "npm-outline",
+        "npm-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "pause-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "pause-outline",
+        "pause-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "pause-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "pause-small-outline",
+        "pause-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "sort-down-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "sort-down-outline",
+        "sort-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "sort-high-to-low-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "sort-high-to-low-outline",
+        "sort-high-to-low-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "sort-low-to-high-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "sort-low-to-high-outline",
+        "sort-low-to-high-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "sort-up-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "sort-up-outline",
+        "sort-up-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "text-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "text-outline",
+        "text-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "tick-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "tick-outline",
+        "tick-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "tick-small-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "tick-small-outline",
+        "tick-small-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "view-column-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "view-column-outline",
+        "view-column-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "view-grid-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "view-grid-outline",
+        "view-grid-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Teenyicons",
+      "glyphName": "yen-outline",
+      "prefix": "teenyicons",
+      "sampleIcons": [
+        "yen-outline",
+        "yen-solid"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Teenyicons",
+      "headBbox": "-15..1034 / -15..1008",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 15,
+      "prefix": "teenyicons",
+      "reasons": [
+        "head.xMin=-15",
+        "head.xMax=1034",
+        "head.yMin=-15",
+        "head.yMax=1008",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=15"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1066,
+      "codepoint": 57749,
+      "font": "Teenyicons",
+      "name": "envelope-solid",
+      "prefix": "teenyicons",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "teenyicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Teenyicons",
+      "glyphCount": 1200,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1034,
+        "xMin": -15,
+        "yMax": 1008,
+        "yMin": -15
+      },
+      "hhea": {
+        "advanceWidthMax": 1066,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 15
+      }
+    }
+  ]
+}

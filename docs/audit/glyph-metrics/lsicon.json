@@ -1,0 +1,339 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "add-one-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "add-one-filled",
+        "add-one-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "arrow-down-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "arrow-down-filled",
+        "arrow-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "arrow-right-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "arrow-right-filled",
+        "arrow-right-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "close-small-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "close-small-filled",
+        "close-small-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "density-s-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "density-s-filled",
+        "density-s-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "double-arrow-down-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "double-arrow-down-filled",
+        "double-arrow-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "double-arrow-left-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "double-arrow-left-filled",
+        "double-arrow-left-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "down-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "down-filled",
+        "down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "file-mp3-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "file-mp3-filled",
+        "file-mp3-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "left-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "left-filled",
+        "left-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "light-rain-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "light-rain-filled",
+        "light-rain-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "line-chart-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "line-chart-filled",
+        "line-chart-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "menu-endways-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "menu-endways-filled",
+        "menu-endways-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "menu-thwartwise-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "menu-thwartwise-filled",
+        "menu-thwartwise-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "menu2-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "menu2-filled",
+        "menu2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "move-down-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "move-down-filled",
+        "move-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "move-up-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "move-up-filled",
+        "move-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "number-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "number-filled",
+        "number-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "rail-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "rail-filled",
+        "rail-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "right-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "right-filled",
+        "right-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "screen-full-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "screen-full-filled",
+        "screen-full-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "shell-window-minimize-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "shell-window-minimize-filled",
+        "shell-window-minimize-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "text-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "text-filled",
+        "text-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "to-bottom-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "to-bottom-filled",
+        "to-bottom-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "to-top-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "to-top-filled",
+        "to-top-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "toggle-warehouse-x-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "toggle-warehouse-x-filled",
+        "toggle-warehouse-x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "top-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "top-filled",
+        "top-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "up-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "up-filled",
+        "up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lsicon",
+      "glyphName": "uploading-filled",
+      "prefix": "lsicon",
+      "sampleIcons": [
+        "uploading-filled",
+        "uploading-outline"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Lsicon",
+      "headBbox": "0..969 / 0..974",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "lsicon",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "lsicon",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Lsicon",
+      "glyphCount": 716,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 974,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

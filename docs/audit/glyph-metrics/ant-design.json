@@ -1,0 +1,6828 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 7,
+      "font": "AntDesign",
+      "glyphName": "ci",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ci",
+        "ci-circle",
+        "ci-circle-outlined",
+        "ci-circle-twotone"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "AntDesign",
+      "glyphName": "dollar",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dollar",
+        "dollar-circle",
+        "dollar-circle-outlined",
+        "dollar-circle-twotone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "AntDesign",
+      "glyphName": "bars",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bars",
+        "bars-outline",
+        "bars-outlined",
+        "unordered-list"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "AntDesign",
+      "glyphName": "interaction",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "interaction",
+        "interaction-outline",
+        "interaction-outlined",
+        "interaction-twotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "alipay-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "alipay-circle",
+        "alipay-circle-fill",
+        "alipay-circle-filled",
+        "alipay-circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "arrows-alt",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "arrows-alt",
+        "arrows-alt-outline",
+        "arrows-alt-outlined",
+        "expand-alt"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "backward",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "backward",
+        "backward-fill",
+        "backward-filled",
+        "backward-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "behance-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "behance-square",
+        "behance-square-fill",
+        "behance-square-filled",
+        "behance-square-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "caret-down",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "caret-down",
+        "caret-down-fill",
+        "caret-down-filled",
+        "caret-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "caret-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "caret-left",
+        "caret-left-fill",
+        "caret-left-filled",
+        "caret-left-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "caret-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "caret-right",
+        "caret-right-fill",
+        "caret-right-filled",
+        "caret-right-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "caret-up",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "caret-up",
+        "caret-up-fill",
+        "caret-up-filled",
+        "caret-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "codepen-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "codepen-circle",
+        "codepen-circle-fill",
+        "codepen-circle-filled",
+        "codepen-circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "copyright",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "copyright",
+        "copyright-circle",
+        "copyright-circle-outlined",
+        "copyright-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "dingding",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dingding",
+        "dingding-outline",
+        "dingding-outlined",
+        "dingtalk"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "dribbble-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dribbble-square",
+        "dribbble-square-fill",
+        "dribbble-square-filled",
+        "dribbble-square-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "euro",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "euro",
+        "euro-circle",
+        "euro-circle-outlined",
+        "euro-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "fast-backward",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fast-backward",
+        "fast-backward-fill",
+        "fast-backward-filled",
+        "fast-backward-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "fast-forward",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fast-forward",
+        "fast-forward-fill",
+        "fast-forward-filled",
+        "fast-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "forward",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "forward",
+        "forward-fill",
+        "forward-filled",
+        "forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "github",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "github",
+        "github-fill",
+        "github-filled",
+        "github-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "pound",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pound",
+        "pound-circle",
+        "pound-circle-outlined",
+        "pound-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "slack-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "slack-square",
+        "slack-square-fill",
+        "slack-square-filled",
+        "slack-square-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "step-backward",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "step-backward",
+        "step-backward-fill",
+        "step-backward-filled",
+        "step-backward-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "step-forward",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "step-forward",
+        "step-forward-fill",
+        "step-forward-filled",
+        "step-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "taobao-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "taobao-circle",
+        "taobao-circle-fill",
+        "taobao-circle-filled",
+        "taobao-circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "trademark",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "trademark",
+        "trademark-circle",
+        "trademark-circle-outlined",
+        "trademark-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "wechat",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "wechat",
+        "wechat-fill",
+        "wechat-filled",
+        "wechat-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "weibo-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "weibo-circle",
+        "weibo-circle-fill",
+        "weibo-circle-filled",
+        "weibo-circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "AntDesign",
+      "glyphName": "weibo-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "weibo-square",
+        "weibo-square-fill",
+        "weibo-square-filled",
+        "weibo-square-outline"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "bulb",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bulb",
+        "bulb-outline",
+        "bulb-outlined",
+        "bulb-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "carry-out",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "carry-out",
+        "carry-out-outline",
+        "carry-out-outlined",
+        "carry-out-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "cloud",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "cloud",
+        "cloud-outline",
+        "cloud-outlined",
+        "cloud-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "colum-height-outline",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "colum-height-outline",
+        "column-height",
+        "column-height-outline",
+        "column-height-outlined"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "contacts",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "contacts",
+        "contacts-outline",
+        "contacts-outlined",
+        "contacts-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "copy",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "copy",
+        "copy-outline",
+        "copy-outlined",
+        "copy-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "customer-service",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "customer-service",
+        "customer-service-outline",
+        "customer-service-outlined",
+        "customer-service-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "eye",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "eye",
+        "eye-outline",
+        "eye-outlined",
+        "eye-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "eye-invisible",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "eye-invisible",
+        "eye-invisible-outline",
+        "eye-invisible-outlined",
+        "eye-invisible-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "fire",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fire",
+        "fire-outline",
+        "fire-outlined",
+        "fire-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "flag",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "flag",
+        "flag-outline",
+        "flag-outlined",
+        "flag-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "folder",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "folder",
+        "folder-outline",
+        "folder-outlined",
+        "folder-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "folder-open",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "folder-open",
+        "folder-open-outline",
+        "folder-open-outlined",
+        "folder-open-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "gold-filled",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "gold-filled",
+        "golden",
+        "golden-fill",
+        "golden-filled"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "heart",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "heart",
+        "heart-outline",
+        "heart-outlined",
+        "heart-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "history",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "history",
+        "history-outline",
+        "history-outlined",
+        "reload-time-outline"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "hourglass",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "hourglass",
+        "hourglass-outline",
+        "hourglass-outlined",
+        "hourglass-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "html5",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "html5",
+        "html5-outline",
+        "html5-outlined",
+        "html5-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "idcard",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "idcard",
+        "idcard-outline",
+        "idcard-outlined",
+        "idcard-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "info-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "info-circle",
+        "info-circle-outline",
+        "info-circle-outlined",
+        "info-circle-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "interaction-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "interaction-fill",
+        "interaction-filled",
+        "interation",
+        "interation-fill"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "lock",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "lock",
+        "lock-outline",
+        "lock-outlined",
+        "lock-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "mr-outline",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "mr-outline",
+        "pull-request",
+        "pull-request-outline",
+        "pull-request-outlined"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "notification",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "notification",
+        "notification-outline",
+        "notification-outlined",
+        "notification-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "pause-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pause-circle",
+        "pause-circle-outline",
+        "pause-circle-outlined",
+        "pause-circle-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "phone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "phone",
+        "phone-outline",
+        "phone-outlined",
+        "phone-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "picture",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "picture",
+        "picture-outline",
+        "picture-outlined",
+        "picture-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "pushpin",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pushpin",
+        "pushpin-outline",
+        "pushpin-outlined",
+        "pushpin-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "rest",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "rest",
+        "rest-outline",
+        "rest-outlined",
+        "rest-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "shopping",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "shopping",
+        "shopping-outline",
+        "shopping-outlined",
+        "shopping-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "skin",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "skin",
+        "skin-outline",
+        "skin-outlined",
+        "skin-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "snippets",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "snippets",
+        "snippets-outline",
+        "snippets-outlined",
+        "snippets-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "tablet",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "tablet",
+        "tablet-outline",
+        "tablet-outlined",
+        "tablet-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "tool",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "tool",
+        "tool-outline",
+        "tool-outlined",
+        "tool-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "AntDesign",
+      "glyphName": "video-camera",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "video-camera",
+        "video-camera-outline",
+        "video-camera-outlined",
+        "video-camera-twotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "account-book",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "account-book",
+        "account-book-outline",
+        "account-book-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "alert",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "alert",
+        "alert-outline",
+        "alert-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "alibaba",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "alibaba",
+        "alibaba-outline",
+        "alibaba-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "align-center",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "align-center",
+        "align-center-outline",
+        "align-center-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "align-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "align-left",
+        "align-left-outline",
+        "align-left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "align-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "align-right",
+        "align-right-outline",
+        "align-right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "alipay",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "alipay",
+        "alipay-outline",
+        "alipay-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "alipay-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "alipay-square",
+        "alipay-square-fill",
+        "alipay-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "aliwangwang",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "aliwangwang",
+        "aliwangwang-outline",
+        "aliwangwang-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "aliyun",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "aliyun",
+        "aliyun-outline",
+        "aliyun-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "amazon",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "amazon",
+        "amazon-outline",
+        "amazon-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "amazon-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "amazon-circle",
+        "amazon-circle-fill",
+        "amazon-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "amazon-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "amazon-square",
+        "amazon-square-fill",
+        "amazon-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "android",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "android",
+        "android-outline",
+        "android-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "ant-cloud",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ant-cloud",
+        "ant-cloud-outline",
+        "ant-cloud-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "ant-design",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ant-design",
+        "ant-design-outline",
+        "ant-design-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "apartment",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "apartment",
+        "apartment-outline",
+        "apartment-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "api",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "api",
+        "api-outline",
+        "api-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "apple",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "apple",
+        "apple-outline",
+        "apple-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "appstore",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "appstore",
+        "appstore-outline",
+        "appstore-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "area-chart",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "area-chart",
+        "area-chart-outline",
+        "area-chart-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "arrow-down",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "arrow-down",
+        "arrow-down-outline",
+        "arrow-down-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "arrow-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "arrow-left",
+        "arrow-left-outline",
+        "arrow-left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "arrow-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "arrow-right",
+        "arrow-right-outline",
+        "arrow-right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "arrow-up",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "arrow-up",
+        "arrow-up-outline",
+        "arrow-up-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "audio",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "audio",
+        "audio-outline",
+        "audio-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "audit",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "audit",
+        "audit-outline",
+        "audit-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "bank",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bank",
+        "bank-outline",
+        "bank-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "bar-chart",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bar-chart",
+        "bar-chart-outline",
+        "bar-chart-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "barcode",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "barcode",
+        "barcode-outline",
+        "barcode-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "behance",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "behance",
+        "behance-outline",
+        "behance-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "behance-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "behance-circle",
+        "behance-circle-fill",
+        "behance-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "bell",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bell",
+        "bell-outline",
+        "bell-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "bg-colors",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bg-colors",
+        "bg-colors-outline",
+        "bg-colors-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "block",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "block",
+        "block-outline",
+        "block-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "bold",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bold",
+        "bold-outline",
+        "bold-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "book",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "book",
+        "book-outline",
+        "book-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "border",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "border",
+        "border-outline",
+        "border-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "border-bottom",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "border-bottom",
+        "border-bottom-outline",
+        "border-bottom-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "border-horizontal",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "border-horizontal",
+        "border-horizontal-outline",
+        "border-horizontal-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "border-inner",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "border-inner",
+        "border-inner-outline",
+        "border-inner-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "border-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "border-left",
+        "border-left-outline",
+        "border-left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "border-outer",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "border-outer",
+        "border-outer-outline",
+        "border-outer-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "border-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "border-right",
+        "border-right-outline",
+        "border-right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "border-top",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "border-top",
+        "border-top-outline",
+        "border-top-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "border-verticle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "border-verticle",
+        "border-verticle-outline",
+        "border-verticle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "box-plot",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "box-plot",
+        "box-plot-outline",
+        "box-plot-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "branches",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "branches",
+        "branches-outline",
+        "branches-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "bug",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bug",
+        "bug-outline",
+        "bug-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "build",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "build",
+        "build-outline",
+        "build-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "calculator",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "calculator",
+        "calculator-outline",
+        "calculator-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "calendar",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "calendar",
+        "calendar-outline",
+        "calendar-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "camera",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "camera",
+        "camera-outline",
+        "camera-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "car",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "car",
+        "car-outline",
+        "car-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "check",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "check",
+        "check-outline",
+        "check-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "check-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "check-circle",
+        "check-circle-outline",
+        "check-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "check-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "check-square",
+        "check-square-outline",
+        "check-square-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "chrome",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "chrome",
+        "chrome-outline",
+        "chrome-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "clock-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "clock-circle",
+        "clock-circle-outline",
+        "clock-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "close",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "close",
+        "close-outline",
+        "close-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "close-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "close-circle",
+        "close-circle-outline",
+        "close-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "close-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "close-square",
+        "close-square-outline",
+        "close-square-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "cloud-download",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "cloud-download",
+        "cloud-download-outline",
+        "cloud-download-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "cloud-server",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "cloud-server",
+        "cloud-server-outline",
+        "cloud-server-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "cloud-sync",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "cloud-sync",
+        "cloud-sync-outline",
+        "cloud-sync-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "cloud-upload",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "cloud-upload",
+        "cloud-upload-outline",
+        "cloud-upload-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "cluster",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "cluster",
+        "cluster-outline",
+        "cluster-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "code",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "code",
+        "code-outline",
+        "code-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "code-sandbox",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "code-sandbox",
+        "code-sandbox-outline",
+        "code-sandbox-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "code-sandbox-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "code-sandbox-circle",
+        "code-sandbox-circle-fill",
+        "code-sandbox-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "code-sandbox-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "code-sandbox-square",
+        "code-sandbox-square-fill",
+        "code-sandbox-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "codepen",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "codepen",
+        "codepen-outline",
+        "codepen-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "codepen-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "codepen-square",
+        "codepen-square-fill",
+        "codepen-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "coffee",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "coffee",
+        "coffee-outline",
+        "coffee-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "column-width",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "column-width",
+        "column-width-outline",
+        "column-width-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "compass",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "compass",
+        "compass-outline",
+        "compass-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "container",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "container",
+        "container-outline",
+        "container-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "control",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "control",
+        "control-outline",
+        "control-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "credit-card",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "credit-card",
+        "credit-card-outline",
+        "credit-card-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "crown",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "crown",
+        "crown-outline",
+        "crown-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dash",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dash",
+        "dash-outline",
+        "dash-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dashboard",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dashboard",
+        "dashboard-outline",
+        "dashboard-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "database",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "database",
+        "database-outline",
+        "database-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "delete",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "delete",
+        "delete-outline",
+        "delete-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "deployment-unit",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "deployment-unit",
+        "deployment-unit-outline",
+        "deployment-unit-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "desktop",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "desktop",
+        "desktop-outline",
+        "desktop-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "diff",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "diff",
+        "diff-outline",
+        "diff-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dingtalk-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dingtalk-circle",
+        "dingtalk-circle-fill",
+        "dingtalk-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dingtalk-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dingtalk-square",
+        "dingtalk-square-fill",
+        "dingtalk-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "disconnect",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "disconnect",
+        "disconnect-outline",
+        "disconnect-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dislike",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dislike",
+        "dislike-outline",
+        "dislike-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dot-chart",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dot-chart",
+        "dot-chart-outline",
+        "dot-chart-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "double-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "double-left",
+        "double-left-outline",
+        "double-left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "double-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "double-right",
+        "double-right-outline",
+        "double-right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "down",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "down",
+        "down-outline",
+        "down-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "down-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "down-circle",
+        "down-circle-outline",
+        "down-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "down-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "down-square",
+        "down-square-outline",
+        "down-square-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "download",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "download",
+        "download-outline",
+        "download-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "drag",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "drag",
+        "drag-outline",
+        "drag-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dribbble",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dribbble",
+        "dribbble-outline",
+        "dribbble-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dribbble-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dribbble-circle",
+        "dribbble-circle-fill",
+        "dribbble-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dropbox",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dropbox",
+        "dropbox-outline",
+        "dropbox-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dropbox-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dropbox-circle",
+        "dropbox-circle-fill",
+        "dropbox-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "dropbox-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dropbox-square",
+        "dropbox-square-fill",
+        "dropbox-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "edit",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "edit",
+        "edit-outline",
+        "edit-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "ellipsis",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ellipsis",
+        "ellipsis-outline",
+        "ellipsis-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "enter",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "enter",
+        "enter-outline",
+        "enter-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "environment",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "environment",
+        "environment-outline",
+        "environment-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "exception",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "exception",
+        "exception-outline",
+        "exception-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "exclamation",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "exclamation",
+        "exclamation-outline",
+        "exclamation-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "exclamation-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "exclamation-circle",
+        "exclamation-circle-outline",
+        "exclamation-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "experiment",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "experiment",
+        "experiment-outline",
+        "experiment-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "export",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "export",
+        "export-outline",
+        "export-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "facebook",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "facebook",
+        "facebook-outline",
+        "facebook-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "fall",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fall",
+        "fall-outline",
+        "fall-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file",
+        "file-outline",
+        "file-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-add",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-add",
+        "file-add-outline",
+        "file-add-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-done",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-done",
+        "file-done-outline",
+        "file-done-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-excel",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-excel",
+        "file-excel-outline",
+        "file-excel-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-exclamation",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-exclamation",
+        "file-exclamation-outline",
+        "file-exclamation-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-image",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-image",
+        "file-image-outline",
+        "file-image-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-jpg",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-jpg",
+        "file-jpg-outline",
+        "file-jpg-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-markdown",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-markdown",
+        "file-markdown-outline",
+        "file-markdown-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-pdf",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-pdf",
+        "file-pdf-outline",
+        "file-pdf-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-ppt",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-ppt",
+        "file-ppt-outline",
+        "file-ppt-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-protect",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-protect",
+        "file-protect-outline",
+        "file-protect-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-search",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-search",
+        "file-search-outline",
+        "file-search-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-sync",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-sync",
+        "file-sync-outline",
+        "file-sync-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-text",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-text",
+        "file-text-outline",
+        "file-text-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-unknown",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-unknown",
+        "file-unknown-outline",
+        "file-unknown-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-word",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-word",
+        "file-word-outline",
+        "file-word-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "file-zip",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-zip",
+        "file-zip-outline",
+        "file-zip-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "filter",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "filter",
+        "filter-outline",
+        "filter-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "folder-add",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "folder-add",
+        "folder-add-outline",
+        "folder-add-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "font-colors",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "font-colors",
+        "font-colors-outline",
+        "font-colors-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "font-size",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "font-size",
+        "font-size-outline",
+        "font-size-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "fork",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fork",
+        "fork-outline",
+        "fork-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "form",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "form",
+        "form-outline",
+        "form-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "frown",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "frown",
+        "frown-outline",
+        "frown-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "fullscreen",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fullscreen",
+        "fullscreen-outline",
+        "fullscreen-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "fullscreen-exit",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fullscreen-exit",
+        "fullscreen-exit-outline",
+        "fullscreen-exit-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "fund",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fund",
+        "fund-outline",
+        "fund-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "funnel-plot",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "funnel-plot",
+        "funnel-plot-outline",
+        "funnel-plot-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "gateway",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "gateway",
+        "gateway-outline",
+        "gateway-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "gift",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "gift",
+        "gift-outline",
+        "gift-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "gitlab",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "gitlab",
+        "gitlab-outline",
+        "gitlab-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "global",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "global",
+        "global-outline",
+        "global-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "gold",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "gold",
+        "gold-outline",
+        "gold-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "google",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "google",
+        "google-outline",
+        "google-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "google-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "google-circle",
+        "google-circle-fill",
+        "google-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "google-plus",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "google-plus",
+        "google-plus-outline",
+        "google-plus-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "google-plus-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "google-plus-circle",
+        "google-plus-circle-fill",
+        "google-plus-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "google-plus-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "google-plus-square",
+        "google-plus-square-fill",
+        "google-plus-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "google-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "google-square",
+        "google-square-fill",
+        "google-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "hdd",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "hdd",
+        "hdd-outline",
+        "hdd-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "heat-map",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "heat-map",
+        "heat-map-outline",
+        "heat-map-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "highlight",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "highlight",
+        "highlight-outline",
+        "highlight-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "home",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "home",
+        "home-outline",
+        "home-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "ie",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ie",
+        "ie-outline",
+        "ie-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "ie-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ie-circle",
+        "ie-circle-fill",
+        "ie-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "ie-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ie-square",
+        "ie-square-fill",
+        "ie-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "import",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "import",
+        "import-outline",
+        "import-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "inbox",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "inbox",
+        "inbox-outline",
+        "inbox-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "info",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "info",
+        "info-outline",
+        "info-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "instagram",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "instagram",
+        "instagram-outline",
+        "instagram-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "insurance",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "insurance",
+        "insurance-outline",
+        "insurance-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "issues-close",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "issues-close",
+        "issues-close-outline",
+        "issues-close-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "italic",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "italic",
+        "italic-outline",
+        "italic-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "key",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "key",
+        "key-outline",
+        "key-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "laptop",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "laptop",
+        "laptop-outline",
+        "laptop-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "layout",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "layout",
+        "layout-outline",
+        "layout-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "left",
+        "left-outline",
+        "left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "left-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "left-circle",
+        "left-circle-outline",
+        "left-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "left-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "left-square",
+        "left-square-outline",
+        "left-square-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "like",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "like",
+        "like-outline",
+        "like-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "line",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "line",
+        "line-outline",
+        "line-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "line-chart",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "line-chart",
+        "line-chart-outline",
+        "line-chart-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "line-height",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "line-height",
+        "line-height-outline",
+        "line-height-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "link",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "link",
+        "link-outline",
+        "link-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "linkedin",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "linkedin",
+        "linkedin-outline",
+        "linkedin-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "loading",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "loading",
+        "loading-outline",
+        "loading-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "loading-3-quarters",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "loading-3-quarters",
+        "loading-3-quarters-outline",
+        "loading-3-quarters-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "login",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "login",
+        "login-outline",
+        "login-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "logout",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "logout",
+        "logout-outline",
+        "logout-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "mail",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "mail",
+        "mail-outline",
+        "mail-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "man",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "man",
+        "man-outline",
+        "man-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "medicine-box",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "medicine-box",
+        "medicine-box-outline",
+        "medicine-box-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "medium",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "medium",
+        "medium-outline",
+        "medium-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "medium-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "medium-circle",
+        "medium-circle-fill",
+        "medium-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "medium-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "medium-square",
+        "medium-square-fill",
+        "medium-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "medium-workmark",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "medium-workmark",
+        "medium-workmark-outline",
+        "medium-workmark-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "meh",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "meh",
+        "meh-outline",
+        "meh-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "menu",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "menu",
+        "menu-outline",
+        "menu-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "menu-fold",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "menu-fold",
+        "menu-fold-outline",
+        "menu-fold-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "menu-unfold",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "menu-unfold",
+        "menu-unfold-outline",
+        "menu-unfold-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "message",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "message",
+        "message-outline",
+        "message-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "minus",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "minus",
+        "minus-outline",
+        "minus-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "minus-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "minus-circle",
+        "minus-circle-outline",
+        "minus-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "minus-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "minus-square",
+        "minus-square-outline",
+        "minus-square-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "mobile",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "mobile",
+        "mobile-outline",
+        "mobile-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "money-collect",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "money-collect",
+        "money-collect-outline",
+        "money-collect-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "monitor",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "monitor",
+        "monitor-outline",
+        "monitor-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "more",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "more",
+        "more-outline",
+        "more-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "number",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "number",
+        "number-outline",
+        "number-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "ordered-list",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ordered-list",
+        "ordered-list-outline",
+        "ordered-list-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "paper-clip",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "paper-clip",
+        "paper-clip-outline",
+        "paper-clip-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "pause",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pause",
+        "pause-outline",
+        "pause-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "pay-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pay-circle",
+        "pay-circle-outline",
+        "pay-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "percentage",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "percentage",
+        "percentage-outline",
+        "percentage-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "pic-center",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pic-center",
+        "pic-center-outline",
+        "pic-center-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "pic-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pic-left",
+        "pic-left-outline",
+        "pic-left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "pic-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pic-right",
+        "pic-right-outline",
+        "pic-right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "pie-chart",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pie-chart",
+        "pie-chart-outline",
+        "pie-chart-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "play-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "play-circle",
+        "play-circle-outline",
+        "play-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "play-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "play-square",
+        "play-square-outline",
+        "play-square-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "plus",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "plus",
+        "plus-outline",
+        "plus-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "plus-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "plus-circle",
+        "plus-circle-outline",
+        "plus-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "plus-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "plus-square",
+        "plus-square-outline",
+        "plus-square-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "poweroff",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "poweroff",
+        "poweroff-outline",
+        "poweroff-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "printer",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "printer",
+        "printer-outline",
+        "printer-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "profile",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "profile",
+        "profile-outline",
+        "profile-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "project",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "project",
+        "project-outline",
+        "project-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "property-safety",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "property-safety",
+        "property-safety-outline",
+        "property-safety-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "qq",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "qq",
+        "qq-outline",
+        "qq-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "qq-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "qq-circle",
+        "qq-circle-fill",
+        "qq-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "qq-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "qq-square",
+        "qq-square-fill",
+        "qq-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "qrcode",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "qrcode",
+        "qrcode-outline",
+        "qrcode-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "question",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "question",
+        "question-outline",
+        "question-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "question-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "question-circle",
+        "question-circle-outline",
+        "question-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "radar-chart",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "radar-chart",
+        "radar-chart-outline",
+        "radar-chart-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "radius-bottomleft",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "radius-bottomleft",
+        "radius-bottomleft-outline",
+        "radius-bottomleft-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "radius-bottomright",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "radius-bottomright",
+        "radius-bottomright-outline",
+        "radius-bottomright-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "radius-setting",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "radius-setting",
+        "radius-setting-outline",
+        "radius-setting-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "radius-upleft",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "radius-upleft",
+        "radius-upleft-outline",
+        "radius-upleft-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "radius-upright",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "radius-upright",
+        "radius-upright-outline",
+        "radius-upright-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "read",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "read",
+        "read-outline",
+        "read-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "reconciliation",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "reconciliation",
+        "reconciliation-outline",
+        "reconciliation-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "red-envelope",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "red-envelope",
+        "red-envelope-outline",
+        "red-envelope-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "reddit",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "reddit",
+        "reddit-outline",
+        "reddit-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "reddit-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "reddit-circle",
+        "reddit-circle-fill",
+        "reddit-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "reddit-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "reddit-square",
+        "reddit-square-fill",
+        "reddit-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "redo",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "redo",
+        "redo-outline",
+        "redo-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "reload",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "reload",
+        "reload-outline",
+        "reload-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "retweet",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "retweet",
+        "retweet-outline",
+        "retweet-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "right",
+        "right-outline",
+        "right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "right-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "right-circle",
+        "right-circle-outline",
+        "right-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "right-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "right-square",
+        "right-square-outline",
+        "right-square-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "rise",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "rise",
+        "rise-outline",
+        "rise-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "robot",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "robot",
+        "robot-outline",
+        "robot-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "rocket",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "rocket",
+        "rocket-outline",
+        "rocket-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "rollback",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "rollback",
+        "rollback-outline",
+        "rollback-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "safety",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "safety",
+        "safety-outline",
+        "safety-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "safety-certificate",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "safety-certificate",
+        "safety-certificate-outline",
+        "safety-certificate-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "save",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "save",
+        "save-outline",
+        "save-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "scan",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "scan",
+        "scan-outline",
+        "scan-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "schedule",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "schedule",
+        "schedule-outline",
+        "schedule-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "scissor",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "scissor",
+        "scissor-outline",
+        "scissor-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "search",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "search",
+        "search-outline",
+        "search-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "security-scan",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "security-scan",
+        "security-scan-outline",
+        "security-scan-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "select",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "select",
+        "select-outline",
+        "select-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "setting",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "setting",
+        "setting-outline",
+        "setting-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "shake",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "shake",
+        "shake-outline",
+        "shake-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "share-alt",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "share-alt",
+        "share-alt-outline",
+        "share-alt-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "shop",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "shop",
+        "shop-outline",
+        "shop-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "shopping-cart",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "shopping-cart",
+        "shopping-cart-outline",
+        "shopping-cart-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "shrink",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "shrink",
+        "shrink-outline",
+        "shrink-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "sketch",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sketch",
+        "sketch-outline",
+        "sketch-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "sketch-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sketch-circle",
+        "sketch-circle-fill",
+        "sketch-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "sketch-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sketch-square",
+        "sketch-square-fill",
+        "sketch-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "skype",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "skype",
+        "skype-outline",
+        "skype-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "slack",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "slack",
+        "slack-outline",
+        "slack-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "slack-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "slack-circle",
+        "slack-circle-fill",
+        "slack-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "sliders",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sliders",
+        "sliders-outline",
+        "sliders-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "small-dash",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "small-dash",
+        "small-dash-outline",
+        "small-dash-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "smile",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "smile",
+        "smile-outline",
+        "smile-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "solution",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "solution",
+        "solution-outline",
+        "solution-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "sort-ascending",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sort-ascending",
+        "sort-ascending-outline",
+        "sort-ascending-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "sort-descending",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sort-descending",
+        "sort-descending-outline",
+        "sort-descending-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "sound",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sound",
+        "sound-outline",
+        "sound-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "star",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "star",
+        "star-outline",
+        "star-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "stock",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "stock",
+        "stock-outline",
+        "stock-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "stop",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "stop",
+        "stop-outline",
+        "stop-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "strikethrough",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "strikethrough",
+        "strikethrough-outline",
+        "strikethrough-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "swap",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "swap",
+        "swap-outline",
+        "swap-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "swap-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "swap-left",
+        "swap-left-outline",
+        "swap-left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "swap-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "swap-right",
+        "swap-right-outline",
+        "swap-right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "switcher",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "switcher",
+        "switcher-outline",
+        "switcher-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "sync",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sync",
+        "sync-outline",
+        "sync-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "table",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "table",
+        "table-outline",
+        "table-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "tag",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "tag",
+        "tag-outline",
+        "tag-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "tags",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "tags",
+        "tags-outline",
+        "tags-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "taobao",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "taobao",
+        "taobao-outline",
+        "taobao-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "taobao-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "taobao-square",
+        "taobao-square-fill",
+        "taobao-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "team",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "team",
+        "team-outline",
+        "team-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "thunderbolt",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "thunderbolt",
+        "thunderbolt-outline",
+        "thunderbolt-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "to-top",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "to-top",
+        "to-top-outline",
+        "to-top-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "transaction",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "transaction",
+        "transaction-outline",
+        "transaction-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "trophy",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "trophy",
+        "trophy-outline",
+        "trophy-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "twitter",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "twitter",
+        "twitter-outline",
+        "twitter-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "twitter-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "twitter-circle",
+        "twitter-circle-fill",
+        "twitter-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "twitter-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "twitter-square",
+        "twitter-square-fill",
+        "twitter-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "underline",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "underline",
+        "underline-outline",
+        "underline-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "undo",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "undo",
+        "undo-outline",
+        "undo-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "unlock",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "unlock",
+        "unlock-outline",
+        "unlock-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "up",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "up",
+        "up-outline",
+        "up-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "up-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "up-circle",
+        "up-circle-outline",
+        "up-circle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "up-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "up-square",
+        "up-square-outline",
+        "up-square-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "upload",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "upload",
+        "upload-outline",
+        "upload-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "usb",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "usb",
+        "usb-outline",
+        "usb-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "user",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "user",
+        "user-outline",
+        "user-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "user-add",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "user-add",
+        "user-add-outline",
+        "user-add-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "user-delete",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "user-delete",
+        "user-delete-outline",
+        "user-delete-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "usergroup-add",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "usergroup-add",
+        "usergroup-add-outline",
+        "usergroup-add-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "usergroup-delete",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "usergroup-delete",
+        "usergroup-delete-outline",
+        "usergroup-delete-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "vertical-align-bottom",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "vertical-align-bottom",
+        "vertical-align-bottom-outline",
+        "vertical-align-bottom-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "vertical-align-middle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "vertical-align-middle",
+        "vertical-align-middle-outline",
+        "vertical-align-middle-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "vertical-align-top",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "vertical-align-top",
+        "vertical-align-top-outline",
+        "vertical-align-top-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "vertical-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "vertical-left",
+        "vertical-left-outline",
+        "vertical-left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "vertical-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "vertical-right",
+        "vertical-right-outline",
+        "vertical-right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "wallet",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "wallet",
+        "wallet-outline",
+        "wallet-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "warning",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "warning",
+        "warning-outline",
+        "warning-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "weibo",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "weibo",
+        "weibo-outline",
+        "weibo-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "wifi",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "wifi",
+        "wifi-outline",
+        "wifi-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "windows",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "windows",
+        "windows-outline",
+        "windows-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "woman",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "woman",
+        "woman-outline",
+        "woman-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "yahoo",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "yahoo",
+        "yahoo-outline",
+        "yahoo-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "youtube",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "youtube",
+        "youtube-outline",
+        "youtube-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "yuque",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "yuque",
+        "yuque-outline",
+        "yuque-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "zhihu",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "zhihu",
+        "zhihu-outline",
+        "zhihu-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "zhihu-circle",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "zhihu-circle",
+        "zhihu-circle-fill",
+        "zhihu-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "zhihu-square",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "zhihu-square",
+        "zhihu-square-fill",
+        "zhihu-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "zoom-in",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "zoom-in",
+        "zoom-in-outline",
+        "zoom-in-outlined"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AntDesign",
+      "glyphName": "zoom-out",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "zoom-out",
+        "zoom-out-outline",
+        "zoom-out-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "account-book-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "account-book-fill",
+        "account-book-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "aim",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "aim",
+        "aim-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "alert-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "alert-fill",
+        "alert-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "aliwangwang-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "aliwangwang-fill",
+        "aliwangwang-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "android-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "android-fill",
+        "android-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "api-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "api-fill",
+        "api-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "apple-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "apple-fill",
+        "apple-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "appstore-add",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "appstore-add",
+        "appstore-add-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "appstore-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "appstore-fill",
+        "appstore-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "audio-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "audio-fill",
+        "audio-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "audio-muted",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "audio-muted",
+        "audio-muted-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "bank-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bank-fill",
+        "bank-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "bell-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bell-fill",
+        "bell-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "book-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "book-fill",
+        "book-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "borderless-table",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "borderless-table",
+        "borderless-table-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "box-plot-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "box-plot-fill",
+        "box-plot-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "bug-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bug-fill",
+        "bug-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "build-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "build-fill",
+        "build-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "bulb-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "bulb-fill",
+        "bulb-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "calculator-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "calculator-fill",
+        "calculator-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "calendar-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "calendar-fill",
+        "calendar-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "calendar-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "calendar-twotone",
+        "canlendar-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "camera-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "camera-fill",
+        "camera-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "car-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "car-fill",
+        "car-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "carry-out-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "carry-out-fill",
+        "carry-out-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "check-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "check-circle-fill",
+        "check-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "check-square-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "check-square-fill",
+        "check-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "chrome-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "chrome-fill",
+        "chrome-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "ci-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ci-circle-fill",
+        "ci-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "clear",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "clear",
+        "clear-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "clock-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "clock-circle-fill",
+        "clock-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "close-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "close-circle-fill",
+        "close-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "close-square-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "close-square-fill",
+        "close-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "cloud-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "cloud-fill",
+        "cloud-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "code-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "code-fill",
+        "code-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "comment",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "comment",
+        "comment-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "compass-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "compass-fill",
+        "compass-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "compress",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "compress",
+        "compress-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "console-sql",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "console-sql",
+        "console-sql-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "contacts-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "contacts-fill",
+        "contacts-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "container-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "container-fill",
+        "container-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "control-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "control-fill",
+        "control-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "copy-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "copy-fill",
+        "copy-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "copyright-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "copyright-circle-fill",
+        "copyright-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "copyright-circle-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "copyright-circle-twotone",
+        "copyright-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "credit-card-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "credit-card-fill",
+        "credit-card-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "crown-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "crown-fill",
+        "crown-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "customer-service-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "customer-service-fill",
+        "customer-service-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "dashboard-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dashboard-fill",
+        "dashboard-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "database-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "database-fill",
+        "database-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "delete-column",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "delete-column",
+        "delete-column-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "delete-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "delete-fill",
+        "delete-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "delete-row",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "delete-row",
+        "delete-row-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "delivered-procedure",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "delivered-procedure",
+        "delivered-procedure-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "diff-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "diff-fill",
+        "diff-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "dislike-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dislike-fill",
+        "dislike-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "dollar-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dollar-circle-fill",
+        "dollar-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "down-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "down-circle-fill",
+        "down-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "down-square-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "down-square-fill",
+        "down-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "edit-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "edit-fill",
+        "edit-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "environment-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "environment-fill",
+        "environment-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "euro-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "euro-circle-fill",
+        "euro-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "euro-circle-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "euro-circle-twotone",
+        "euro-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "exclamation-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "exclamation-circle-fill",
+        "exclamation-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "expand",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "expand",
+        "expand-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "experiment-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "experiment-fill",
+        "experiment-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "eye-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "eye-fill",
+        "eye-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "eye-invisible-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "eye-invisible-fill",
+        "eye-invisible-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "facebook-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "facebook-fill",
+        "facebook-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "field-binary",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "field-binary",
+        "field-binary-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "field-number",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "field-number",
+        "field-number-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "field-string",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "field-string",
+        "field-string-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "field-time",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "field-time",
+        "field-time-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-add-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-add-fill",
+        "file-add-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-excel-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-excel-fill",
+        "file-excel-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-exclamation-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-exclamation-fill",
+        "file-exclamation-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-fill",
+        "file-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-gif",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-gif",
+        "file-gif-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-image-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-image-fill",
+        "file-image-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-markdown-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-markdown-fill",
+        "file-markdown-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-pdf-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-pdf-fill",
+        "file-pdf-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-ppt-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-ppt-fill",
+        "file-ppt-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-text-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-text-fill",
+        "file-text-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-unknown-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-unknown-fill",
+        "file-unknown-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-word-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-word-fill",
+        "file-word-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "file-zip-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "file-zip-fill",
+        "file-zip-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "filter-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "filter-fill",
+        "filter-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "fire-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fire-fill",
+        "fire-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "flag-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "flag-fill",
+        "flag-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "folder-add-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "folder-add-fill",
+        "folder-add-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "folder-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "folder-fill",
+        "folder-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "folder-open-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "folder-open-fill",
+        "folder-open-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "folder-view",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "folder-view",
+        "folder-view-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "format-painter",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "format-painter",
+        "format-painter-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "frown-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "frown-fill",
+        "frown-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "function",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "function",
+        "function-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "fund-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fund-fill",
+        "fund-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "fund-projection-screen",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fund-projection-screen",
+        "fund-projection-screen-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "fund-view",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "fund-view",
+        "fund-view-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "funnel-plot-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "funnel-plot-fill",
+        "funnel-plot-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "gif",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "gif",
+        "gif-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "gift-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "gift-fill",
+        "gift-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "gitlab-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "gitlab-fill",
+        "gitlab-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "group",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "group",
+        "group-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "hdd-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "hdd-fill",
+        "hdd-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "heart-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "heart-fill",
+        "heart-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "highlight-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "highlight-fill",
+        "highlight-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "home-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "home-fill",
+        "home-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "hourglass-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "hourglass-fill",
+        "hourglass-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "html5-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "html5-fill",
+        "html5-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "idcard-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "idcard-fill",
+        "idcard-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "info-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "info-circle-fill",
+        "info-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "insert-row-above",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "insert-row-above",
+        "insert-row-above-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "insert-row-below",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "insert-row-below",
+        "insert-row-below-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "insert-row-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "insert-row-left",
+        "insert-row-left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "insert-row-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "insert-row-right",
+        "insert-row-right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "instagram-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "instagram-fill",
+        "instagram-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "insurance-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "insurance-fill",
+        "insurance-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "layout-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "layout-fill",
+        "layout-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "left-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "left-circle-fill",
+        "left-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "left-square-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "left-square-fill",
+        "left-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "like-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "like-fill",
+        "like-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "linkedin-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "linkedin-fill",
+        "linkedin-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "lock-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "lock-fill",
+        "lock-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "mac-command",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "mac-command",
+        "mac-command-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "mail-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "mail-fill",
+        "mail-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "medicine-box-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "medicine-box-fill",
+        "medicine-box-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "meh-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "meh-fill",
+        "meh-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "merge-cells",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "merge-cells",
+        "merge-cells-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "message-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "message-fill",
+        "message-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "minus-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "minus-circle-fill",
+        "minus-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "minus-square-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "minus-square-fill",
+        "minus-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "mobile-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "mobile-fill",
+        "mobile-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "money-collect-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "money-collect-fill",
+        "money-collect-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "node-collapse",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "node-collapse",
+        "node-collapse-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "node-expand",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "node-expand",
+        "node-expand-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "node-index",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "node-index",
+        "node-index-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "notification-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "notification-fill",
+        "notification-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "one-to-one",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "one-to-one",
+        "one-to-one-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "partition",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "partition",
+        "partition-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "pause-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pause-circle-fill",
+        "pause-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "pay-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pay-circle-fill",
+        "pay-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "phone-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "phone-fill",
+        "phone-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "picture-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "picture-fill",
+        "picture-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "pie-chart-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pie-chart-fill",
+        "pie-chart-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "play-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "play-circle-fill",
+        "play-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "play-square-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "play-square-fill",
+        "play-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "plus-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "plus-circle-fill",
+        "plus-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "plus-square-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "plus-square-fill",
+        "plus-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "pound-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pound-circle-fill",
+        "pound-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "printer-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "printer-fill",
+        "printer-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "profile-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "profile-fill",
+        "profile-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "project-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "project-fill",
+        "project-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "property-safety-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "property-safety-fill",
+        "property-safety-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "pushpin-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "pushpin-fill",
+        "pushpin-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "question-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "question-circle-fill",
+        "question-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "read-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "read-fill",
+        "read-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "reconciliation-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "reconciliation-fill",
+        "reconciliation-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "red-envelope-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "red-envelope-fill",
+        "red-envelope-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "rest-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "rest-fill",
+        "rest-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "right-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "right-circle-fill",
+        "right-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "right-square-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "right-square-fill",
+        "right-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "rocket-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "rocket-fill",
+        "rocket-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "rotate-left",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "rotate-left",
+        "rotate-left-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "rotate-right",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "rotate-right",
+        "rotate-right-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "safety-certificate-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "safety-certificate-fill",
+        "safety-certificate-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "save-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "save-fill",
+        "save-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "schedule-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "schedule-fill",
+        "schedule-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "security-scan-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "security-scan-fill",
+        "security-scan-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "send",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "send",
+        "send-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "setting-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "setting-fill",
+        "setting-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "shop-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "shop-fill",
+        "shop-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "shopping-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "shopping-fill",
+        "shopping-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "signal",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "signal",
+        "signal-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "sisternode",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sisternode",
+        "sisternode-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "skin-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "skin-fill",
+        "skin-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "skype-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "skype-fill",
+        "skype-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "sliders-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sliders-fill",
+        "sliders-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "smile-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "smile-fill",
+        "smile-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "snippets-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "snippets-fill",
+        "snippets-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "sound-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "sound-fill",
+        "sound-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "split-cells",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "split-cells",
+        "split-cells-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "star-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "star-fill",
+        "star-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "stop-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "stop-fill",
+        "stop-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "subnode",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "subnode",
+        "subnode-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "switcher-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "switcher-fill",
+        "switcher-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "tablet-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "tablet-fill",
+        "tablet-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "tag-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "tag-fill",
+        "tag-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "tags-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "tags-fill",
+        "tags-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "thunderbolt-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "thunderbolt-fill",
+        "thunderbolt-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "tool-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "tool-fill",
+        "tool-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "trademark-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "trademark-circle-fill",
+        "trademark-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "translation",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "translation",
+        "translation-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "trophy-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "trophy-fill",
+        "trophy-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "ungroup",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ungroup",
+        "ungroup-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "unlock-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "unlock-fill",
+        "unlock-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "up-circle-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "up-circle-fill",
+        "up-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "up-square-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "up-square-fill",
+        "up-square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "usb-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "usb-fill",
+        "usb-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "user-switch",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "user-switch",
+        "user-switch-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "verified",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "verified",
+        "verified-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "video-camera-add",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "video-camera-add",
+        "video-camera-add-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "video-camera-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "video-camera-fill",
+        "video-camera-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "wallet-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "wallet-fill",
+        "wallet-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "warning-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "warning-fill",
+        "warning-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "whats-app",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "whats-app",
+        "whats-app-outlined"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "windows-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "windows-fill",
+        "windows-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "yahoo-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "yahoo-fill",
+        "yahoo-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "youtube-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "youtube-fill",
+        "youtube-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesign",
+      "glyphName": "yuque-fill",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "yuque-fill",
+        "yuque-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesignSecondary",
+      "glyphName": "calendar-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "calendar-twotone",
+        "canlendar-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesignSecondary",
+      "glyphName": "ci-circle-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "ci-circle-twotone",
+        "ci-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesignSecondary",
+      "glyphName": "copyright-circle-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "copyright-circle-twotone",
+        "copyright-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesignSecondary",
+      "glyphName": "dollar-circle-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "dollar-circle-twotone",
+        "dollar-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesignSecondary",
+      "glyphName": "euro-circle-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "euro-circle-twotone",
+        "euro-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesignSecondary",
+      "glyphName": "interaction-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "interaction-twotone",
+        "interation-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AntDesignSecondary",
+      "glyphName": "lock-twotone",
+      "prefix": "ant-design",
+      "sampleIcons": [
+        "lock-twotone",
+        "unlock-twotone"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58916,
+      "icon": "sound-twotone",
+      "prefix": "ant-design",
+      "primary": {
+        "xMax": 928,
+        "xMin": 0,
+        "yMax": 888,
+        "yMin": 0
+      },
+      "primaryFont": "AntDesign",
+      "score": 355,
+      "secondary": {
+        "xMax": 573,
+        "xMin": 0,
+        "yMax": 785,
+        "yMin": 0
+      },
+      "secondaryFont": "AntDesignSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57564,
+      "icon": "build-twotone",
+      "prefix": "ant-design",
+      "primary": {
+        "xMax": 926,
+        "xMin": 0,
+        "yMax": 795,
+        "yMin": 0
+      },
+      "primaryFont": "AntDesign",
+      "score": 328,
+      "secondary": {
+        "xMax": 598,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "AntDesignSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59136,
+      "icon": "video-camera-twotone",
+      "prefix": "ant-design",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "primaryFont": "AntDesign",
+      "score": 242,
+      "secondary": {
+        "xMax": 696,
+        "xMin": 0,
+        "yMax": 774,
+        "yMin": 0
+      },
+      "secondaryFont": "AntDesignSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57456,
+      "icon": "audio-twotone",
+      "prefix": "ant-design",
+      "primary": {
+        "xMax": 823,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "AntDesign",
+      "score": 227,
+      "secondary": {
+        "xMax": 596,
+        "xMin": 0,
+        "yMax": 868,
+        "yMin": 0
+      },
+      "secondaryFont": "AntDesignSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57549,
+      "icon": "box-plot-twotone",
+      "prefix": "ant-design",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "primaryFont": "AntDesign",
+      "score": 227,
+      "secondary": {
+        "xMax": 711,
+        "xMin": 0,
+        "yMax": 641,
+        "yMin": 0
+      },
+      "secondaryFont": "AntDesignSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57558,
+      "icon": "bug-twotone",
+      "prefix": "ant-design",
+      "primary": {
+        "xMax": 926,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "AntDesign",
+      "score": 226,
+      "secondary": {
+        "xMax": 700,
+        "xMin": 0,
+        "yMax": 598,
+        "yMin": 0
+      },
+      "secondaryFont": "AntDesignSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "AntDesign",
+      "headBbox": "0..1001 / 0..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "ant-design",
+      "reasons": [
+        "head.xMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "AntDesignSecondary",
+      "headBbox": "0..932 / 0..938",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "ant-design",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "ant-design",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "AntDesign",
+      "glyphCount": 1870,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "AntDesignSecondary",
+      "glyphCount": 153,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 932,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

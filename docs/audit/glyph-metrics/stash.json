@@ -1,0 +1,2430 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 8,
+      "font": "Stash",
+      "glyphName": "folder-arrow-down-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "folder-arrow-down-duotone",
+        "folder-arrow-left-duotone",
+        "folder-arrow-right-duotone",
+        "folder-arrow-up-duotone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Stash",
+      "glyphName": "image-ban-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "image-ban-duotone",
+        "image-exclamation-duotone",
+        "image-minus-duotone",
+        "image-plus-duotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Stash",
+      "glyphName": "clock-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "clock-duotone",
+        "exclamation-alert-duotone",
+        "exclamation-circle-duotone",
+        "question-duotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Stash",
+      "glyphName": "shield",
+      "prefix": "stash",
+      "sampleIcons": [
+        "shield",
+        "shield-check-duotone",
+        "shield-duotone",
+        "shield-light"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Stash",
+      "glyphName": "user-arrow-down-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "user-arrow-down-duotone",
+        "user-check-duotone",
+        "user-clock-duotone",
+        "user-dollar-duotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Stash",
+      "glyphName": "cloud",
+      "prefix": "stash",
+      "sampleIcons": [
+        "cloud",
+        "cloud-check-duotone",
+        "cloud-duotone",
+        "cloud-minus-duotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Stash",
+      "glyphName": "save-ribbon",
+      "prefix": "stash",
+      "sampleIcons": [
+        "save-ribbon",
+        "save-ribbon-duotone",
+        "save-ribbon-light",
+        "save-ribbon-solid"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Stash",
+      "glyphName": "cam-web",
+      "prefix": "stash",
+      "sampleIcons": [
+        "cam-web",
+        "cam-web-duotone",
+        "cam-web-solid"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Stash",
+      "glyphName": "caret-down",
+      "prefix": "stash",
+      "sampleIcons": [
+        "caret-down",
+        "caret-down-duotone",
+        "caret-down-light"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Stash",
+      "glyphName": "caret-left",
+      "prefix": "stash",
+      "sampleIcons": [
+        "caret-left",
+        "caret-left-duotone",
+        "caret-left-light"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Stash",
+      "glyphName": "caret-right",
+      "prefix": "stash",
+      "sampleIcons": [
+        "caret-right",
+        "caret-right-duotone",
+        "caret-right-light"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Stash",
+      "glyphName": "caret-up",
+      "prefix": "stash",
+      "sampleIcons": [
+        "caret-up",
+        "caret-up-duotone",
+        "caret-up-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "airplane",
+      "prefix": "stash",
+      "sampleIcons": [
+        "airplane",
+        "airplane-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "angle-down",
+      "prefix": "stash",
+      "sampleIcons": [
+        "angle-down",
+        "angle-down-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "angle-left",
+      "prefix": "stash",
+      "sampleIcons": [
+        "angle-left",
+        "angle-left-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "angle-right",
+      "prefix": "stash",
+      "sampleIcons": [
+        "angle-right",
+        "angle-right-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "angle-up",
+      "prefix": "stash",
+      "sampleIcons": [
+        "angle-up",
+        "angle-up-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "arrow-down",
+      "prefix": "stash",
+      "sampleIcons": [
+        "arrow-down",
+        "arrow-down-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "arrow-down-large",
+      "prefix": "stash",
+      "sampleIcons": [
+        "arrow-down-large",
+        "arrow-down-large-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "arrow-left",
+      "prefix": "stash",
+      "sampleIcons": [
+        "arrow-left",
+        "arrow-left-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "arrow-left-large",
+      "prefix": "stash",
+      "sampleIcons": [
+        "arrow-left-large",
+        "arrow-left-large-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "arrow-retry",
+      "prefix": "stash",
+      "sampleIcons": [
+        "arrow-retry",
+        "arrow-retry-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "arrow-right",
+      "prefix": "stash",
+      "sampleIcons": [
+        "arrow-right",
+        "arrow-right-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "arrow-up",
+      "prefix": "stash",
+      "sampleIcons": [
+        "arrow-up",
+        "arrow-up-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "arrow-up-large",
+      "prefix": "stash",
+      "sampleIcons": [
+        "arrow-up-large",
+        "arrow-up-large-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "asterisk",
+      "prefix": "stash",
+      "sampleIcons": [
+        "asterisk",
+        "asterisk-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "at-symbol",
+      "prefix": "stash",
+      "sampleIcons": [
+        "at-symbol",
+        "at-symbol-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "burger",
+      "prefix": "stash",
+      "sampleIcons": [
+        "burger",
+        "burger-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "burger-classic",
+      "prefix": "stash",
+      "sampleIcons": [
+        "burger-classic",
+        "burger-classic-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "calendar-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "calendar-duotone",
+        "calendar-nine-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "cam-video",
+      "prefix": "stash",
+      "sampleIcons": [
+        "cam-video",
+        "cam-video-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "check",
+      "prefix": "stash",
+      "sampleIcons": [
+        "check",
+        "check-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "cloud-arrow-down-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "cloud-arrow-down-duotone",
+        "cloud-arrow-up-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "comments",
+      "prefix": "stash",
+      "sampleIcons": [
+        "comments",
+        "comments-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "crown",
+      "prefix": "stash",
+      "sampleIcons": [
+        "crown",
+        "crown-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "desktop",
+      "prefix": "stash",
+      "sampleIcons": [
+        "desktop",
+        "desktop-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "dollar-sign",
+      "prefix": "stash",
+      "sampleIcons": [
+        "dollar-sign",
+        "dollar-sign-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "drag-squares-horizontal",
+      "prefix": "stash",
+      "sampleIcons": [
+        "drag-squares-horizontal",
+        "drag-squares-horizontal-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "drag-squares-vertical",
+      "prefix": "stash",
+      "sampleIcons": [
+        "drag-squares-vertical",
+        "drag-squares-vertical-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "emoji-joy",
+      "prefix": "stash",
+      "sampleIcons": [
+        "emoji-joy",
+        "emoji-joy-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "emoji-laugh",
+      "prefix": "stash",
+      "sampleIcons": [
+        "emoji-laugh",
+        "emoji-laugh-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "emoji-wink",
+      "prefix": "stash",
+      "sampleIcons": [
+        "emoji-wink",
+        "emoji-wink-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "emoji-wink-plus",
+      "prefix": "stash",
+      "sampleIcons": [
+        "emoji-wink-plus",
+        "emoji-wink-plus-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "espiral-book",
+      "prefix": "stash",
+      "sampleIcons": [
+        "espiral-book",
+        "espiral-book-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "explicit-content-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "explicit-content-duotone",
+        "square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "eye-closed",
+      "prefix": "stash",
+      "sampleIcons": [
+        "eye-closed",
+        "eye-closed-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "file-export",
+      "prefix": "stash",
+      "sampleIcons": [
+        "file-export",
+        "file-export-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "file-import",
+      "prefix": "stash",
+      "sampleIcons": [
+        "file-import",
+        "file-import-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "flag",
+      "prefix": "stash",
+      "sampleIcons": [
+        "flag",
+        "flag-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "folder-multiple",
+      "prefix": "stash",
+      "sampleIcons": [
+        "folder-multiple",
+        "folder-multiple-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "hand-holding-dollar",
+      "prefix": "stash",
+      "sampleIcons": [
+        "hand-holding-dollar",
+        "hand-holding-dollar-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "heart",
+      "prefix": "stash",
+      "sampleIcons": [
+        "heart",
+        "heart-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "image-arrow-down-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "image-arrow-down-duotone",
+        "image-arrow-up-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "integrations",
+      "prefix": "stash",
+      "sampleIcons": [
+        "integrations",
+        "integrations-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "leaf",
+      "prefix": "stash",
+      "sampleIcons": [
+        "leaf",
+        "leaf-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "location-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "location-duotone",
+        "user-at-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "mic",
+      "prefix": "stash",
+      "sampleIcons": [
+        "mic",
+        "mic-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "moon",
+      "prefix": "stash",
+      "sampleIcons": [
+        "moon",
+        "moon-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "new-window-page",
+      "prefix": "stash",
+      "sampleIcons": [
+        "new-window-page",
+        "new-window-page-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "notebook",
+      "prefix": "stash",
+      "sampleIcons": [
+        "notebook",
+        "notebook-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "pagination-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "pagination-duotone",
+        "pagination-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "pause",
+      "prefix": "stash",
+      "sampleIcons": [
+        "pause",
+        "pause-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "peace-symbol",
+      "prefix": "stash",
+      "sampleIcons": [
+        "peace-symbol",
+        "peace-symbol-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "person",
+      "prefix": "stash",
+      "sampleIcons": [
+        "person",
+        "person-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "play",
+      "prefix": "stash",
+      "sampleIcons": [
+        "play",
+        "play-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "play-btn",
+      "prefix": "stash",
+      "sampleIcons": [
+        "play-btn",
+        "play-btn-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "podcast",
+      "prefix": "stash",
+      "sampleIcons": [
+        "podcast",
+        "podcast-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "qr-code",
+      "prefix": "stash",
+      "sampleIcons": [
+        "qr-code",
+        "qr-code-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "racket",
+      "prefix": "stash",
+      "sampleIcons": [
+        "racket",
+        "racket-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "search-results",
+      "prefix": "stash",
+      "sampleIcons": [
+        "search-results",
+        "search-results-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "shield-check",
+      "prefix": "stash",
+      "sampleIcons": [
+        "shield-check",
+        "shield-check-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "smartphone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "smartphone",
+        "smartphone-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "social-facebook",
+      "prefix": "stash",
+      "sampleIcons": [
+        "social-facebook",
+        "social-facebook-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "social-twitter",
+      "prefix": "stash",
+      "sampleIcons": [
+        "social-twitter",
+        "social-twitter-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "star",
+      "prefix": "stash",
+      "sampleIcons": [
+        "star",
+        "star-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "tablet",
+      "prefix": "stash",
+      "sampleIcons": [
+        "tablet",
+        "tablet-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "thumb-down",
+      "prefix": "stash",
+      "sampleIcons": [
+        "thumb-down",
+        "thumb-down-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "thumb-up",
+      "prefix": "stash",
+      "sampleIcons": [
+        "thumb-up",
+        "thumb-up-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "user-cog-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "user-cog-duotone",
+        "user-shield-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Stash",
+      "glyphName": "user-minus-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "user-minus-duotone",
+        "user-plus-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StashSecondary",
+      "glyphName": "folder-alt-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "folder-alt-duotone",
+        "folder-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StashSecondary",
+      "glyphName": "lock-closed-duotone",
+      "prefix": "stash",
+      "sampleIcons": [
+        "lock-closed-duotone",
+        "lock-opened-duotone"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57666,
+      "icon": "domain-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 657,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 918,
+      "secondary": {
+        "xMax": 84,
+        "xMin": -1,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57942,
+      "icon": "list-ul",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 251,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 562,
+      "secondary": {
+        "xMax": 813,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58260,
+      "icon": "trend-arrow-up-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 406,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 459,
+      "secondary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 740,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58257,
+      "icon": "trend-arrow-down-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 409,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 456,
+      "secondary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 740,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57955,
+      "icon": "mailbox-empty-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 948,
+        "xMin": 0,
+        "yMax": 698,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 416,
+      "secondary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 573,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57836,
+      "icon": "graduation-cap-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 395,
+      "secondary": {
+        "xMax": 522,
+        "xMin": 0,
+        "yMax": 627,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58027,
+      "icon": "pencil-writing-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 867,
+        "xMin": 0,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 392,
+      "secondary": {
+        "xMax": 475,
+        "xMin": 0,
+        "yMax": 251,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58023,
+      "icon": "pencil-single-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 376,
+      "secondary": {
+        "xMax": 386,
+        "xMin": 0,
+        "yMax": 285,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57579,
+      "icon": "cloud-plus-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 948,
+        "xMin": 0,
+        "yMax": 827,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 354,
+      "secondary": {
+        "xMax": 594,
+        "xMin": 0,
+        "yMax": 595,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57729,
+      "icon": "exclamation-triangle-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 909,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 354,
+      "secondary": {
+        "xMax": 555,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58069,
+      "icon": "podcast-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 343,
+      "secondary": {
+        "xMax": 563,
+        "xMin": 0,
+        "yMax": 605,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57570,
+      "icon": "cloud-check-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 825,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 334,
+      "secondary": {
+        "xMax": 615,
+        "xMin": 0,
+        "yMax": 573,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57576,
+      "icon": "cloud-minus-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 825,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 334,
+      "secondary": {
+        "xMax": 615,
+        "xMin": 0,
+        "yMax": 490,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57872,
+      "icon": "image-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 333,
+      "secondary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 740,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57436,
+      "icon": "bell-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 323,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 215,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57564,
+      "icon": "cloud-arrow-down-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 825,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 311,
+      "secondary": {
+        "xMax": 638,
+        "xMin": 0,
+        "yMax": 490,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57567,
+      "icon": "cloud-arrow-up-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 825,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 311,
+      "secondary": {
+        "xMax": 638,
+        "xMin": 0,
+        "yMax": 490,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57725,
+      "icon": "exclamation-circle-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 310,
+      "secondary": {
+        "xMax": 555,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57407,
+      "icon": "article-plus-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 948,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 302,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57994,
+      "icon": "pack-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 302,
+      "secondary": {
+        "xMax": 563,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58315,
+      "icon": "version-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 827,
+        "xMin": 0,
+        "yMax": 827,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 295,
+      "secondary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 696,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57909,
+      "icon": "info-circle-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 292,
+      "secondary": {
+        "xMax": 615,
+        "xMin": 0,
+        "yMax": 740,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57977,
+      "icon": "monetize-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 292,
+      "secondary": {
+        "xMax": 615,
+        "xMin": 0,
+        "yMax": 761,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57764,
+      "icon": "filter-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 844,
+        "xMin": 0,
+        "yMax": 803,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 275,
+      "secondary": {
+        "xMax": 569,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57860,
+      "icon": "home-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 908,
+        "xMin": 0,
+        "yMax": 832,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 272,
+      "secondary": {
+        "xMax": 636,
+        "xMin": 0,
+        "yMax": 448,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58294,
+      "icon": "user-heart-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 642,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 268,
+      "secondary": {
+        "xMax": 910,
+        "xMin": 0,
+        "yMax": 408,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58267,
+      "icon": "user-arrow-down-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 267,
+      "secondary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 448,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58279,
+      "icon": "user-clock-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 267,
+      "secondary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 448,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58300,
+      "icon": "user-minus-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 267,
+      "secondary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 282,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58303,
+      "icon": "user-plus-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 267,
+      "secondary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 407,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57396,
+      "icon": "arrows-switch-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 603,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 262,
+      "secondary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 682,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57919,
+      "icon": "last-updates-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 882,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 259,
+      "secondary": {
+        "xMax": 661,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58322,
+      "icon": "wand-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 660,
+        "xMin": 0,
+        "yMax": 660,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 257,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58270,
+      "icon": "user-at-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 256,
+      "secondary": {
+        "xMax": 896,
+        "xMin": 0,
+        "yMax": 438,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58288,
+      "icon": "user-envelope-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 256,
+      "secondary": {
+        "xMax": 896,
+        "xMin": 0,
+        "yMax": 417,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58119,
+      "icon": "search-split-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 1005,
+        "xMin": 0,
+        "yMax": 886,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 254,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 376,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57902,
+      "icon": "inbox-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 868,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 251,
+      "secondary": {
+        "xMax": 617,
+        "xMin": 0,
+        "yMax": 740,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57616,
+      "icon": "creators-club-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 916,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 250,
+      "secondary": {
+        "xMax": 666,
+        "xMin": 0,
+        "yMax": 716,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57991,
+      "icon": "outbox-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 250,
+      "secondary": {
+        "xMax": 615,
+        "xMin": 0,
+        "yMax": 740,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57597,
+      "icon": "copy-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 823,
+        "xMin": 0,
+        "yMax": 823,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 249,
+      "secondary": {
+        "xMax": 574,
+        "xMin": 0,
+        "yMax": 657,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57559,
+      "icon": "clock-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 248,
+      "secondary": {
+        "xMax": 617,
+        "xMin": 0,
+        "yMax": 698,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58136,
+      "icon": "shield-check-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 914,
+        "xMin": 0,
+        "yMax": 950,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 247,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 636,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57949,
+      "icon": "lock-closed-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 823,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 246,
+      "secondary": {
+        "xMax": 577,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57952,
+      "icon": "lock-opened-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 823,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 246,
+      "secondary": {
+        "xMax": 577,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58040,
+      "icon": "pin-location-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 703,
+        "xMin": 0,
+        "yMax": 868,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 246,
+      "secondary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 367,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58081,
+      "icon": "question-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 245,
+      "secondary": {
+        "xMax": 620,
+        "xMin": 0,
+        "yMax": 698,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57932,
+      "icon": "light-bulb-exclamation-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 786,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 242,
+      "secondary": {
+        "xMax": 544,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57424,
+      "icon": "badge-dollar-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 850,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 241,
+      "secondary": {
+        "xMax": 609,
+        "xMin": 0,
+        "yMax": 692,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58001,
+      "icon": "pagination-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 950,
+        "xMin": 0,
+        "yMax": 740,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 241,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57455,
+      "icon": "burger-arrow-right-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 948,
+        "xMin": 0,
+        "yMax": 636,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 239,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58263,
+      "icon": "trophy-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 844,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 238,
+      "secondary": {
+        "xMax": 606,
+        "xMin": 0,
+        "yMax": 734,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58282,
+      "icon": "user-cog-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 236,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58306,
+      "icon": "user-shield-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 236,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 458,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57946,
+      "icon": "location-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 235,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58214,
+      "icon": "stars-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 655,
+        "xMin": 0,
+        "yMax": 669,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 234,
+      "secondary": {
+        "xMax": 889,
+        "xMin": 0,
+        "yMax": 884,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57583,
+      "icon": "cog-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 890,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 233,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 658,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57741,
+      "icon": "explicit-content-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 823,
+        "xMin": 0,
+        "yMax": 823,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 229,
+      "secondary": {
+        "xMax": 594,
+        "xMin": 0,
+        "yMax": 678,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57961,
+      "icon": "marker-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 923,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 226,
+      "secondary": {
+        "xMax": 697,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58225,
+      "icon": "sun-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 226,
+      "secondary": {
+        "xMax": 894,
+        "xMin": 0,
+        "yMax": 897,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58276,
+      "icon": "user-check-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 225,
+      "secondary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 386,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58285,
+      "icon": "user-dollar-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 225,
+      "secondary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 490,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57401,
+      "icon": "article-alt-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 219,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58161,
+      "icon": "signin-alt-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 219,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 657,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57447,
+      "icon": "bug-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 623,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 213,
+      "secondary": {
+        "xMax": 836,
+        "xMin": 0,
+        "yMax": 746,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58043,
+      "icon": "pin-place-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 740,
+        "xMin": 0,
+        "yMax": 828,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 212,
+      "secondary": {
+        "xMax": 952,
+        "xMin": 0,
+        "yMax": 366,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58104,
+      "icon": "screw-nut-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 910,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 212,
+      "secondary": {
+        "xMax": 698,
+        "xMin": 0,
+        "yMax": 698,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57749,
+      "icon": "eye-opened-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 866,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 209,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 532,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58221,
+      "icon": "subscription-list-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 209,
+      "secondary": {
+        "xMax": 740,
+        "xMin": 0,
+        "yMax": 678,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57512,
+      "icon": "check-circle-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 208,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 615,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58163,
+      "icon": "signin-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 823,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 208,
+      "secondary": {
+        "xMax": 615,
+        "xMin": 0,
+        "yMax": 657,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58247,
+      "icon": "times-circle-duotone",
+      "prefix": "stash",
+      "primary": {
+        "xMax": 865,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Stash",
+      "score": 206,
+      "secondary": {
+        "xMax": 659,
+        "xMin": 0,
+        "yMax": 659,
+        "yMin": 0
+      },
+      "secondaryFont": "StashSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Stash",
+      "headBbox": "-7..1005 / 0..950",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "stash",
+      "reasons": [
+        "head.xMin=-7",
+        "head.xMax=1005",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "StashSecondary",
+      "headBbox": "-1..990 / 0..920",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "stash",
+      "reasons": [
+        "head.xMin=-1",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 57666,
+      "contentWidth": 85,
+      "font": "StashSecondary",
+      "name": "domain-duotone",
+      "prefix": "stash",
+      "reason": "narrow"
+    }
+  ],
+  "prefix": "stash",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Stash",
+      "glyphCount": 980,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1005,
+        "xMin": -7,
+        "yMax": 950,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "StashSecondary",
+      "glyphCount": 193,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 990,
+        "xMin": -1,
+        "yMax": 920,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

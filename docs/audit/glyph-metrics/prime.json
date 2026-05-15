@@ -1,0 +1,91 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Prime",
+      "glyphName": "circle",
+      "prefix": "prime",
+      "sampleIcons": [
+        "circle",
+        "circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Prime",
+      "glyphName": "circle-fill",
+      "prefix": "prime",
+      "sampleIcons": [
+        "circle-fill",
+        "circle-on"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Prime",
+      "glyphName": "file",
+      "prefix": "prime",
+      "sampleIcons": [
+        "file",
+        "file-o"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Prime",
+      "glyphName": "replay",
+      "prefix": "prime",
+      "sampleIcons": [
+        "replay",
+        "undo"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Prime",
+      "headBbox": "-1..1001 / 0..954",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "prime",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "prime",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Prime",
+      "glyphCount": 313,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 954,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

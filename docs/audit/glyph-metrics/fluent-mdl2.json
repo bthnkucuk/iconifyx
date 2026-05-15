@@ -1,0 +1,193 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "FluentMdl2",
+      "glyphName": "auto-racing",
+      "prefix": "fluent-mdl2",
+      "sampleIcons": [
+        "auto-racing",
+        "speed-high"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentMdl2",
+      "glyphName": "brightness",
+      "prefix": "fluent-mdl2",
+      "sampleIcons": [
+        "brightness",
+        "sunny"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentMdl2",
+      "glyphName": "chat",
+      "prefix": "fluent-mdl2",
+      "sampleIcons": [
+        "chat",
+        "message"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentMdl2",
+      "glyphName": "circle-ring",
+      "prefix": "fluent-mdl2",
+      "sampleIcons": [
+        "circle-ring",
+        "circle-shape"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentMdl2",
+      "glyphName": "double-chevron-left-12",
+      "prefix": "fluent-mdl2",
+      "sampleIcons": [
+        "double-chevron-left-12",
+        "double-chevron-left-med"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentMdl2",
+      "glyphName": "drop-shape",
+      "prefix": "fluent-mdl2",
+      "sampleIcons": [
+        "drop-shape",
+        "precipitation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentMdl2",
+      "glyphName": "export",
+      "prefix": "fluent-mdl2",
+      "sampleIcons": [
+        "export",
+        "import-mirrored"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentMdl2",
+      "glyphName": "export-mirrored",
+      "prefix": "fluent-mdl2",
+      "sampleIcons": [
+        "export-mirrored",
+        "import"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentMdl2",
+      "glyphName": "square-shape",
+      "prefix": "fluent-mdl2",
+      "sampleIcons": [
+        "square-shape",
+        "stop"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "FluentMdl2",
+      "headBbox": "-9..1563 / -13..1013",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 13,
+      "prefix": "fluent-mdl2",
+      "reasons": [
+        "head.xMin=-9",
+        "head.xMax=1563",
+        "head.yMin=-13",
+        "head.yMax=1013",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=13"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1562,
+      "codepoint": 57368,
+      "font": "FluentMdl2",
+      "name": "add-reaction",
+      "prefix": "fluent-mdl2",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58058,
+      "font": "FluentMdl2",
+      "name": "git-fork",
+      "prefix": "fluent-mdl2",
+      "reason": "advance"
+    },
+    {
+      "advance": 427,
+      "codepoint": 58639,
+      "font": "FluentMdl2",
+      "name": "right-double-quote",
+      "prefix": "fluent-mdl2",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57531,
+      "contentWidth": 63,
+      "font": "FluentMdl2",
+      "name": "bulleted-list-bullet",
+      "prefix": "fluent-mdl2",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57368,
+      "contentWidth": 1563,
+      "font": "FluentMdl2",
+      "name": "add-reaction",
+      "prefix": "fluent-mdl2",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58058,
+      "contentWidth": 1250,
+      "font": "FluentMdl2",
+      "name": "git-fork",
+      "prefix": "fluent-mdl2",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "fluent-mdl2",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FluentMdl2",
+      "glyphCount": 1735,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1563,
+        "xMin": -9,
+        "yMax": 1013,
+        "yMin": -13
+      },
+      "hhea": {
+        "advanceWidthMax": 1562,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 13
+      }
+    }
+  ]
+}

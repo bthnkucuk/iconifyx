@@ -1,0 +1,4009 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "SiGlyph",
+      "glyphName": "aligh-left",
+      "prefix": "si-glyph",
+      "sampleIcons": [
+        "aligh-left",
+        "align-left"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "SiGlyph",
+      "headBbox": "-18..1149 / -15..1007",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 15,
+      "prefix": "si-glyph",
+      "reasons": [
+        "head.xMin=-18",
+        "head.xMax=1149",
+        "head.yMin=-15",
+        "head.yMax=1007",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=15"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1062,
+      "codepoint": 57345,
+      "font": "SiGlyph",
+      "name": "adjustment-horizon",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57346,
+      "font": "SiGlyph",
+      "name": "adjustment-vertical",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57347,
+      "font": "SiGlyph",
+      "name": "air-balloon",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57352,
+      "font": "SiGlyph",
+      "name": "aligh-left",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57353,
+      "font": "SiGlyph",
+      "name": "align-center",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57354,
+      "font": "SiGlyph",
+      "name": "aligh-left",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57355,
+      "font": "SiGlyph",
+      "name": "align-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57357,
+      "font": "SiGlyph",
+      "name": "anchor",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57359,
+      "font": "SiGlyph",
+      "name": "angle-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57361,
+      "font": "SiGlyph",
+      "name": "antenna-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57362,
+      "font": "SiGlyph",
+      "name": "apron",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57363,
+      "font": "SiGlyph",
+      "name": "arrow-backward",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57364,
+      "font": "SiGlyph",
+      "name": "arrow-change",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57365,
+      "font": "SiGlyph",
+      "name": "arrow-circle-rycycle",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57367,
+      "font": "SiGlyph",
+      "name": "arrow-forward",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57368,
+      "font": "SiGlyph",
+      "name": "arrow-four-way",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57369,
+      "font": "SiGlyph",
+      "name": "arrow-fullscreen",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57370,
+      "font": "SiGlyph",
+      "name": "arrow-fullscreen-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57371,
+      "font": "SiGlyph",
+      "name": "arrow-left",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57372,
+      "font": "SiGlyph",
+      "name": "arrow-left-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57374,
+      "font": "SiGlyph",
+      "name": "arrow-reload",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57379,
+      "font": "SiGlyph",
+      "name": "arrow-resize-5",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57380,
+      "font": "SiGlyph",
+      "name": "arrow-resize-6",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57381,
+      "font": "SiGlyph",
+      "name": "arrow-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57382,
+      "font": "SiGlyph",
+      "name": "arrow-shuffle",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57383,
+      "font": "SiGlyph",
+      "name": "arrow-thick-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57384,
+      "font": "SiGlyph",
+      "name": "arrow-thick-left",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57387,
+      "font": "SiGlyph",
+      "name": "arrow-thick-thin-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57389,
+      "font": "SiGlyph",
+      "name": "arrow-thin-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57390,
+      "font": "SiGlyph",
+      "name": "arrow-thin-left",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57391,
+      "font": "SiGlyph",
+      "name": "arrow-thin-left-bottom",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57392,
+      "font": "SiGlyph",
+      "name": "arrow-thin-left-top",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57393,
+      "font": "SiGlyph",
+      "name": "arrow-thin-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57394,
+      "font": "SiGlyph",
+      "name": "arrow-thin-right-bottom",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57395,
+      "font": "SiGlyph",
+      "name": "arrow-thin-right-top",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57396,
+      "font": "SiGlyph",
+      "name": "arrow-thin-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57398,
+      "font": "SiGlyph",
+      "name": "arrow-three-way-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57399,
+      "font": "SiGlyph",
+      "name": "arrow-triangle-recycle",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57400,
+      "font": "SiGlyph",
+      "name": "arrow-two-left-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57402,
+      "font": "SiGlyph",
+      "name": "arrow-two-way",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57403,
+      "font": "SiGlyph",
+      "name": "arrow-two-way-left-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57405,
+      "font": "SiGlyph",
+      "name": "arrow-two-way-right-bottom",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57406,
+      "font": "SiGlyph",
+      "name": "arrow-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57407,
+      "font": "SiGlyph",
+      "name": "arrow-up-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57408,
+      "font": "SiGlyph",
+      "name": "arrow-wave",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57409,
+      "font": "SiGlyph",
+      "name": "art-board",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57410,
+      "font": "SiGlyph",
+      "name": "askterisk",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57411,
+      "font": "SiGlyph",
+      "name": "atm-card",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57412,
+      "font": "SiGlyph",
+      "name": "axe",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57413,
+      "font": "SiGlyph",
+      "name": "baby",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57414,
+      "font": "SiGlyph",
+      "name": "baby-milk-botl",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57416,
+      "font": "SiGlyph",
+      "name": "baby-troller",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57417,
+      "font": "SiGlyph",
+      "name": "back-pack",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57419,
+      "font": "SiGlyph",
+      "name": "badge-name",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57423,
+      "font": "SiGlyph",
+      "name": "balance",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57424,
+      "font": "SiGlyph",
+      "name": "balloon",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57426,
+      "font": "SiGlyph",
+      "name": "bank",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57427,
+      "font": "SiGlyph",
+      "name": "barcode",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57428,
+      "font": "SiGlyph",
+      "name": "barrier",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57430,
+      "font": "SiGlyph",
+      "name": "baseball-stick",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57441,
+      "font": "SiGlyph",
+      "name": "battery-charging",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57444,
+      "font": "SiGlyph",
+      "name": "battery-half",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57445,
+      "font": "SiGlyph",
+      "name": "battery-half-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57446,
+      "font": "SiGlyph",
+      "name": "battery-low",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57447,
+      "font": "SiGlyph",
+      "name": "bed",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57448,
+      "font": "SiGlyph",
+      "name": "bell",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57452,
+      "font": "SiGlyph",
+      "name": "bikini",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57453,
+      "font": "SiGlyph",
+      "name": "billiard-ball",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57458,
+      "font": "SiGlyph",
+      "name": "blood-bag",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57460,
+      "font": "SiGlyph",
+      "name": "board",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57461,
+      "font": "SiGlyph",
+      "name": "boat",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57462,
+      "font": "SiGlyph",
+      "name": "bolt",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57463,
+      "font": "SiGlyph",
+      "name": "bomb-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57464,
+      "font": "SiGlyph",
+      "name": "bomb-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57465,
+      "font": "SiGlyph",
+      "name": "bone",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57468,
+      "font": "SiGlyph",
+      "name": "book-3",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57469,
+      "font": "SiGlyph",
+      "name": "book-4",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57471,
+      "font": "SiGlyph",
+      "name": "book-person",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57472,
+      "font": "SiGlyph",
+      "name": "bookcase",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57474,
+      "font": "SiGlyph",
+      "name": "botl-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57476,
+      "font": "SiGlyph",
+      "name": "bow-tie",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57477,
+      "font": "SiGlyph",
+      "name": "box",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57478,
+      "font": "SiGlyph",
+      "name": "box-download",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57479,
+      "font": "SiGlyph",
+      "name": "box-upload",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57480,
+      "font": "SiGlyph",
+      "name": "bread",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57481,
+      "font": "SiGlyph",
+      "name": "briefcase",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57483,
+      "font": "SiGlyph",
+      "name": "brightness",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57484,
+      "font": "SiGlyph",
+      "name": "brush-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57488,
+      "font": "SiGlyph",
+      "name": "bubble-message",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57489,
+      "font": "SiGlyph",
+      "name": "bubble-message-dot",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57490,
+      "font": "SiGlyph",
+      "name": "bubble-message-dot-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57491,
+      "font": "SiGlyph",
+      "name": "bubble-message-hi",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57492,
+      "font": "SiGlyph",
+      "name": "bubble-message-quote",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57495,
+      "font": "SiGlyph",
+      "name": "bucket",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57497,
+      "font": "SiGlyph",
+      "name": "building",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57500,
+      "font": "SiGlyph",
+      "name": "bullet-list-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57501,
+      "font": "SiGlyph",
+      "name": "bus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57502,
+      "font": "SiGlyph",
+      "name": "button-arrow-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57503,
+      "font": "SiGlyph",
+      "name": "button-arrow-left",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57504,
+      "font": "SiGlyph",
+      "name": "button-arrow-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57505,
+      "font": "SiGlyph",
+      "name": "button-arrow-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57506,
+      "font": "SiGlyph",
+      "name": "button-buy",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57507,
+      "font": "SiGlyph",
+      "name": "button-error",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57508,
+      "font": "SiGlyph",
+      "name": "button-hd",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57509,
+      "font": "SiGlyph",
+      "name": "button-play",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57510,
+      "font": "SiGlyph",
+      "name": "button-plus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57511,
+      "font": "SiGlyph",
+      "name": "button-remove",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57512,
+      "font": "SiGlyph",
+      "name": "button-sale",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57513,
+      "font": "SiGlyph",
+      "name": "button-sell",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57514,
+      "font": "SiGlyph",
+      "name": "button-starburst",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57515,
+      "font": "SiGlyph",
+      "name": "button-triangle-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57516,
+      "font": "SiGlyph",
+      "name": "button-tv",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57517,
+      "font": "SiGlyph",
+      "name": "cabin-cable",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57518,
+      "font": "SiGlyph",
+      "name": "cabinet",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57519,
+      "font": "SiGlyph",
+      "name": "calculator",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57520,
+      "font": "SiGlyph",
+      "name": "calculator-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57522,
+      "font": "SiGlyph",
+      "name": "calendar-3",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57525,
+      "font": "SiGlyph",
+      "name": "call-forward",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57526,
+      "font": "SiGlyph",
+      "name": "call-reply",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57528,
+      "font": "SiGlyph",
+      "name": "camera-projector",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57530,
+      "font": "SiGlyph",
+      "name": "can-water",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57531,
+      "font": "SiGlyph",
+      "name": "candle",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57532,
+      "font": "SiGlyph",
+      "name": "candy",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57534,
+      "font": "SiGlyph",
+      "name": "car",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57536,
+      "font": "SiGlyph",
+      "name": "casette",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57540,
+      "font": "SiGlyph",
+      "name": "cente-justify",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57541,
+      "font": "SiGlyph",
+      "name": "chair-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57542,
+      "font": "SiGlyph",
+      "name": "chair-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57543,
+      "font": "SiGlyph",
+      "name": "champion-cup",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57546,
+      "font": "SiGlyph",
+      "name": "chart-column-increase",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57547,
+      "font": "SiGlyph",
+      "name": "chart-decrease",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57548,
+      "font": "SiGlyph",
+      "name": "chart-piece",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57549,
+      "font": "SiGlyph",
+      "name": "checked",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57550,
+      "font": "SiGlyph",
+      "name": "cheese",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57551,
+      "font": "SiGlyph",
+      "name": "cherry",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57555,
+      "font": "SiGlyph",
+      "name": "christmass-hat",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57558,
+      "font": "SiGlyph",
+      "name": "circle-backward",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57559,
+      "font": "SiGlyph",
+      "name": "circle-control-pad",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57560,
+      "font": "SiGlyph",
+      "name": "circle-drashed",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57561,
+      "font": "SiGlyph",
+      "name": "circle-error",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57562,
+      "font": "SiGlyph",
+      "name": "circle-forward",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57563,
+      "font": "SiGlyph",
+      "name": "circle-help",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57564,
+      "font": "SiGlyph",
+      "name": "circle-info",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57565,
+      "font": "SiGlyph",
+      "name": "circle-load-left",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57567,
+      "font": "SiGlyph",
+      "name": "circle-plus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57571,
+      "font": "SiGlyph",
+      "name": "circle-triangle-left",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57572,
+      "font": "SiGlyph",
+      "name": "circle-triangle-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57573,
+      "font": "SiGlyph",
+      "name": "city",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57574,
+      "font": "SiGlyph",
+      "name": "clamp",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57575,
+      "font": "SiGlyph",
+      "name": "clapboard",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57576,
+      "font": "SiGlyph",
+      "name": "clapboard-play",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57578,
+      "font": "SiGlyph",
+      "name": "clipboard",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57579,
+      "font": "SiGlyph",
+      "name": "clipboard-checked",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57581,
+      "font": "SiGlyph",
+      "name": "close",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57582,
+      "font": "SiGlyph",
+      "name": "cloud",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57586,
+      "font": "SiGlyph",
+      "name": "cloud-plus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57590,
+      "font": "SiGlyph",
+      "name": "cloud-sun",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57591,
+      "font": "SiGlyph",
+      "name": "cloud-thunder",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57593,
+      "font": "SiGlyph",
+      "name": "clover",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57596,
+      "font": "SiGlyph",
+      "name": "coconut",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57597,
+      "font": "SiGlyph",
+      "name": "code",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57598,
+      "font": "SiGlyph",
+      "name": "coffee-machine",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57599,
+      "font": "SiGlyph",
+      "name": "color-picker",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57600,
+      "font": "SiGlyph",
+      "name": "column-decrease",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57601,
+      "font": "SiGlyph",
+      "name": "column-increase",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57602,
+      "font": "SiGlyph",
+      "name": "column-wave",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57603,
+      "font": "SiGlyph",
+      "name": "comb",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57604,
+      "font": "SiGlyph",
+      "name": "compass",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57605,
+      "font": "SiGlyph",
+      "name": "cone",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57610,
+      "font": "SiGlyph",
+      "name": "contacter",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57611,
+      "font": "SiGlyph",
+      "name": "contrast",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57612,
+      "font": "SiGlyph",
+      "name": "control-pad",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57613,
+      "font": "SiGlyph",
+      "name": "corkscrew",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57614,
+      "font": "SiGlyph",
+      "name": "corner-flag",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57616,
+      "font": "SiGlyph",
+      "name": "cover-food",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57617,
+      "font": "SiGlyph",
+      "name": "cow",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57618,
+      "font": "SiGlyph",
+      "name": "cpu",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57620,
+      "font": "SiGlyph",
+      "name": "crop",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57621,
+      "font": "SiGlyph",
+      "name": "cross-hair",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57622,
+      "font": "SiGlyph",
+      "name": "cross-hair-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57623,
+      "font": "SiGlyph",
+      "name": "crown",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57625,
+      "font": "SiGlyph",
+      "name": "cubic",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57628,
+      "font": "SiGlyph",
+      "name": "customer-support",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57629,
+      "font": "SiGlyph",
+      "name": "dashboard",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57630,
+      "font": "SiGlyph",
+      "name": "data-arrow-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57632,
+      "font": "SiGlyph",
+      "name": "database-download",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57633,
+      "font": "SiGlyph",
+      "name": "database-error",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57640,
+      "font": "SiGlyph",
+      "name": "deny",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57641,
+      "font": "SiGlyph",
+      "name": "desktop",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57643,
+      "font": "SiGlyph",
+      "name": "dial-number-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57644,
+      "font": "SiGlyph",
+      "name": "diamond",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57648,
+      "font": "SiGlyph",
+      "name": "dice-5",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57649,
+      "font": "SiGlyph",
+      "name": "dice-6",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57651,
+      "font": "SiGlyph",
+      "name": "disc-add",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57654,
+      "font": "SiGlyph",
+      "name": "disc-error",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57658,
+      "font": "SiGlyph",
+      "name": "disc-remove",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57661,
+      "font": "SiGlyph",
+      "name": "dish",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57664,
+      "font": "SiGlyph",
+      "name": "document",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57672,
+      "font": "SiGlyph",
+      "name": "document-copy",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57675,
+      "font": "SiGlyph",
+      "name": "document-error",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57678,
+      "font": "SiGlyph",
+      "name": "document-music",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57680,
+      "font": "SiGlyph",
+      "name": "document-plus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57681,
+      "font": "SiGlyph",
+      "name": "document-remove",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57687,
+      "font": "SiGlyph",
+      "name": "door",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57688,
+      "font": "SiGlyph",
+      "name": "downstair",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57691,
+      "font": "SiGlyph",
+      "name": "drop-water",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57693,
+      "font": "SiGlyph",
+      "name": "drum",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57696,
+      "font": "SiGlyph",
+      "name": "egg",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57697,
+      "font": "SiGlyph",
+      "name": "eject",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57698,
+      "font": "SiGlyph",
+      "name": "electron",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57699,
+      "font": "SiGlyph",
+      "name": "elevator-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57700,
+      "font": "SiGlyph",
+      "name": "elevator-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57703,
+      "font": "SiGlyph",
+      "name": "erase",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57707,
+      "font": "SiGlyph",
+      "name": "eye-drop",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57708,
+      "font": "SiGlyph",
+      "name": "eye-glass",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57712,
+      "font": "SiGlyph",
+      "name": "female",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57713,
+      "font": "SiGlyph",
+      "name": "fence",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57714,
+      "font": "SiGlyph",
+      "name": "fence-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57716,
+      "font": "SiGlyph",
+      "name": "file-download",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57717,
+      "font": "SiGlyph",
+      "name": "file-upload",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57718,
+      "font": "SiGlyph",
+      "name": "film",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57721,
+      "font": "SiGlyph",
+      "name": "finger-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57722,
+      "font": "SiGlyph",
+      "name": "fire",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57723,
+      "font": "SiGlyph",
+      "name": "fire-alarm",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57724,
+      "font": "SiGlyph",
+      "name": "fire-hydrant",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57725,
+      "font": "SiGlyph",
+      "name": "fire-wood",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57726,
+      "font": "SiGlyph",
+      "name": "first-aid-briefcase",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57729,
+      "font": "SiGlyph",
+      "name": "float",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57730,
+      "font": "SiGlyph",
+      "name": "floppy-disk",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57732,
+      "font": "SiGlyph",
+      "name": "flower-pot",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57733,
+      "font": "SiGlyph",
+      "name": "folder",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57735,
+      "font": "SiGlyph",
+      "name": "folder-error",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57740,
+      "font": "SiGlyph",
+      "name": "folder-rss",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57742,
+      "font": "SiGlyph",
+      "name": "folder-share",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57743,
+      "font": "SiGlyph",
+      "name": "folder-warning",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57744,
+      "font": "SiGlyph",
+      "name": "foot-sign",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57745,
+      "font": "SiGlyph",
+      "name": "forcus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57748,
+      "font": "SiGlyph",
+      "name": "fridge",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57750,
+      "font": "SiGlyph",
+      "name": "game-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57753,
+      "font": "SiGlyph",
+      "name": "gate",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57754,
+      "font": "SiGlyph",
+      "name": "gear",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57756,
+      "font": "SiGlyph",
+      "name": "ghost",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57758,
+      "font": "SiGlyph",
+      "name": "glass-water",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57760,
+      "font": "SiGlyph",
+      "name": "globe",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57763,
+      "font": "SiGlyph",
+      "name": "golf-flag",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57764,
+      "font": "SiGlyph",
+      "name": "guitar",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57765,
+      "font": "SiGlyph",
+      "name": "hamburger",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57768,
+      "font": "SiGlyph",
+      "name": "hand",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57771,
+      "font": "SiGlyph",
+      "name": "handcuff",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57772,
+      "font": "SiGlyph",
+      "name": "hanger",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57773,
+      "font": "SiGlyph",
+      "name": "hardware",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57775,
+      "font": "SiGlyph",
+      "name": "hat-chef",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57777,
+      "font": "SiGlyph",
+      "name": "head-set",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57778,
+      "font": "SiGlyph",
+      "name": "heart",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57783,
+      "font": "SiGlyph",
+      "name": "helicopter",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57784,
+      "font": "SiGlyph",
+      "name": "helicopter-pad",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57786,
+      "font": "SiGlyph",
+      "name": "helmet",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57787,
+      "font": "SiGlyph",
+      "name": "hightheel",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57788,
+      "font": "SiGlyph",
+      "name": "history",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57789,
+      "font": "SiGlyph",
+      "name": "hockey",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57791,
+      "font": "SiGlyph",
+      "name": "horse",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57793,
+      "font": "SiGlyph",
+      "name": "hospital",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57794,
+      "font": "SiGlyph",
+      "name": "house",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57797,
+      "font": "SiGlyph",
+      "name": "image",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57798,
+      "font": "SiGlyph",
+      "name": "in-columns",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57799,
+      "font": "SiGlyph",
+      "name": "inbox-download",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57800,
+      "font": "SiGlyph",
+      "name": "inbox-upload",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57802,
+      "font": "SiGlyph",
+      "name": "infinity-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57804,
+      "font": "SiGlyph",
+      "name": "ipod",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57805,
+      "font": "SiGlyph",
+      "name": "iron",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57806,
+      "font": "SiGlyph",
+      "name": "jump-backward",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57807,
+      "font": "SiGlyph",
+      "name": "jump-double-page-left-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57808,
+      "font": "SiGlyph",
+      "name": "jump-forward",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57809,
+      "font": "SiGlyph",
+      "name": "jump-page-left-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57810,
+      "font": "SiGlyph",
+      "name": "jump-page-up-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57812,
+      "font": "SiGlyph",
+      "name": "key",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57813,
+      "font": "SiGlyph",
+      "name": "key-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57814,
+      "font": "SiGlyph",
+      "name": "keyboard",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57815,
+      "font": "SiGlyph",
+      "name": "knife",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57816,
+      "font": "SiGlyph",
+      "name": "ladder-pool",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57817,
+      "font": "SiGlyph",
+      "name": "lamp",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57819,
+      "font": "SiGlyph",
+      "name": "lavabo",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57821,
+      "font": "SiGlyph",
+      "name": "layout-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57822,
+      "font": "SiGlyph",
+      "name": "layout-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57824,
+      "font": "SiGlyph",
+      "name": "layout-4",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57827,
+      "font": "SiGlyph",
+      "name": "leftwards-arrow-to-bar",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57831,
+      "font": "SiGlyph",
+      "name": "like",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57832,
+      "font": "SiGlyph",
+      "name": "like-unlike",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57833,
+      "font": "SiGlyph",
+      "name": "line-two-angle-point",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57834,
+      "font": "SiGlyph",
+      "name": "link-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57836,
+      "font": "SiGlyph",
+      "name": "link-3",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57837,
+      "font": "SiGlyph",
+      "name": "load",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57838,
+      "font": "SiGlyph",
+      "name": "lock",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57839,
+      "font": "SiGlyph",
+      "name": "lock-unlock",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57840,
+      "font": "SiGlyph",
+      "name": "louder-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57842,
+      "font": "SiGlyph",
+      "name": "magnet",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57843,
+      "font": "SiGlyph",
+      "name": "magnifier",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57844,
+      "font": "SiGlyph",
+      "name": "magnifier-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57845,
+      "font": "SiGlyph",
+      "name": "mail",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57846,
+      "font": "SiGlyph",
+      "name": "mail-box",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57847,
+      "font": "SiGlyph",
+      "name": "mail-empty",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57849,
+      "font": "SiGlyph",
+      "name": "mail-inbox",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57850,
+      "font": "SiGlyph",
+      "name": "mail-send",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57851,
+      "font": "SiGlyph",
+      "name": "male",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57853,
+      "font": "SiGlyph",
+      "name": "map-3",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57855,
+      "font": "SiGlyph",
+      "name": "mark-snorker",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57856,
+      "font": "SiGlyph",
+      "name": "mask-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57857,
+      "font": "SiGlyph",
+      "name": "mask-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57859,
+      "font": "SiGlyph",
+      "name": "microphone-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57860,
+      "font": "SiGlyph",
+      "name": "microphone-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57861,
+      "font": "SiGlyph",
+      "name": "microscope",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57862,
+      "font": "SiGlyph",
+      "name": "mobile",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57863,
+      "font": "SiGlyph",
+      "name": "mocule",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57864,
+      "font": "SiGlyph",
+      "name": "money",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57865,
+      "font": "SiGlyph",
+      "name": "money-3",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57866,
+      "font": "SiGlyph",
+      "name": "money-bag",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57867,
+      "font": "SiGlyph",
+      "name": "money-coin",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57868,
+      "font": "SiGlyph",
+      "name": "moon-star",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57869,
+      "font": "SiGlyph",
+      "name": "motobike",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57871,
+      "font": "SiGlyph",
+      "name": "movie-play",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57874,
+      "font": "SiGlyph",
+      "name": "mushrooms",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57876,
+      "font": "SiGlyph",
+      "name": "music-note",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57877,
+      "font": "SiGlyph",
+      "name": "mustache",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57879,
+      "font": "SiGlyph",
+      "name": "network-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57880,
+      "font": "SiGlyph",
+      "name": "newspaper",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57881,
+      "font": "SiGlyph",
+      "name": "no-dog",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57882,
+      "font": "SiGlyph",
+      "name": "no-smoke",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57883,
+      "font": "SiGlyph",
+      "name": "note",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57884,
+      "font": "SiGlyph",
+      "name": "note-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57886,
+      "font": "SiGlyph",
+      "name": "open",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57889,
+      "font": "SiGlyph",
+      "name": "paper-plane",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57890,
+      "font": "SiGlyph",
+      "name": "paper-roll",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57892,
+      "font": "SiGlyph",
+      "name": "pause",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57893,
+      "font": "SiGlyph",
+      "name": "pawn",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57894,
+      "font": "SiGlyph",
+      "name": "paypal",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57895,
+      "font": "SiGlyph",
+      "name": "pen",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57897,
+      "font": "SiGlyph",
+      "name": "pencil",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57898,
+      "font": "SiGlyph",
+      "name": "percent",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57899,
+      "font": "SiGlyph",
+      "name": "person",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57900,
+      "font": "SiGlyph",
+      "name": "person-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57904,
+      "font": "SiGlyph",
+      "name": "person-man",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57912,
+      "font": "SiGlyph",
+      "name": "pet-carrier",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57913,
+      "font": "SiGlyph",
+      "name": "phone-fax",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57915,
+      "font": "SiGlyph",
+      "name": "piano",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57917,
+      "font": "SiGlyph",
+      "name": "picture",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57918,
+      "font": "SiGlyph",
+      "name": "picture-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57921,
+      "font": "SiGlyph",
+      "name": "pill",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57922,
+      "font": "SiGlyph",
+      "name": "pin-location",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57925,
+      "font": "SiGlyph",
+      "name": "pin-location-add",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57926,
+      "font": "SiGlyph",
+      "name": "pin-location-delete",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57927,
+      "font": "SiGlyph",
+      "name": "pin-location-love",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57929,
+      "font": "SiGlyph",
+      "name": "pin-location-remove",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57930,
+      "font": "SiGlyph",
+      "name": "pin-map",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57931,
+      "font": "SiGlyph",
+      "name": "ping-pong-racket",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57934,
+      "font": "SiGlyph",
+      "name": "plugin",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57936,
+      "font": "SiGlyph",
+      "name": "podium",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57937,
+      "font": "SiGlyph",
+      "name": "poker-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57938,
+      "font": "SiGlyph",
+      "name": "poker-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57939,
+      "font": "SiGlyph",
+      "name": "poker-3",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57940,
+      "font": "SiGlyph",
+      "name": "poker-4",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57941,
+      "font": "SiGlyph",
+      "name": "print",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57942,
+      "font": "SiGlyph",
+      "name": "puzzle",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57943,
+      "font": "SiGlyph",
+      "name": "quote-close",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57944,
+      "font": "SiGlyph",
+      "name": "quote-open",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57946,
+      "font": "SiGlyph",
+      "name": "radioactive",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57947,
+      "font": "SiGlyph",
+      "name": "record",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57952,
+      "font": "SiGlyph",
+      "name": "repeat",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57953,
+      "font": "SiGlyph",
+      "name": "resize-in-frame",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57954,
+      "font": "SiGlyph",
+      "name": "resize-out-frame",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57955,
+      "font": "SiGlyph",
+      "name": "retroeexcavadora",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57956,
+      "font": "SiGlyph",
+      "name": "ribbon",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57958,
+      "font": "SiGlyph",
+      "name": "rightwards-arrow-to-bar",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57959,
+      "font": "SiGlyph",
+      "name": "ring",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57960,
+      "font": "SiGlyph",
+      "name": "road",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57961,
+      "font": "SiGlyph",
+      "name": "rocket",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57962,
+      "font": "SiGlyph",
+      "name": "roller",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57963,
+      "font": "SiGlyph",
+      "name": "rss",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57964,
+      "font": "SiGlyph",
+      "name": "rugby-ball",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57965,
+      "font": "SiGlyph",
+      "name": "ruler",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57966,
+      "font": "SiGlyph",
+      "name": "safe-box",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57967,
+      "font": "SiGlyph",
+      "name": "safe-pin",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57969,
+      "font": "SiGlyph",
+      "name": "saw",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57971,
+      "font": "SiGlyph",
+      "name": "scissor-line-cut",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57972,
+      "font": "SiGlyph",
+      "name": "screen-ful",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57973,
+      "font": "SiGlyph",
+      "name": "screen-scale",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57974,
+      "font": "SiGlyph",
+      "name": "screw",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57977,
+      "font": "SiGlyph",
+      "name": "seriff",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57978,
+      "font": "SiGlyph",
+      "name": "sewing-machine",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57979,
+      "font": "SiGlyph",
+      "name": "sewing-roll",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57983,
+      "font": "SiGlyph",
+      "name": "share-5",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57986,
+      "font": "SiGlyph",
+      "name": "shield-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57987,
+      "font": "SiGlyph",
+      "name": "shield-plus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57989,
+      "font": "SiGlyph",
+      "name": "shovel",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57990,
+      "font": "SiGlyph",
+      "name": "shower",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57991,
+      "font": "SiGlyph",
+      "name": "sign-board",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57993,
+      "font": "SiGlyph",
+      "name": "sign-in",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57994,
+      "font": "SiGlyph",
+      "name": "sign-out",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57995,
+      "font": "SiGlyph",
+      "name": "sign-p",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57996,
+      "font": "SiGlyph",
+      "name": "sign-road-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57997,
+      "font": "SiGlyph",
+      "name": "sign-road-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57998,
+      "font": "SiGlyph",
+      "name": "signal-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58000,
+      "font": "SiGlyph",
+      "name": "signal-3",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58001,
+      "font": "SiGlyph",
+      "name": "site-map",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58002,
+      "font": "SiGlyph",
+      "name": "site-map-revert",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58011,
+      "font": "SiGlyph",
+      "name": "sock",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58012,
+      "font": "SiGlyph",
+      "name": "socket",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58016,
+      "font": "SiGlyph",
+      "name": "sound-mute",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58018,
+      "font": "SiGlyph",
+      "name": "spanner",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58020,
+      "font": "SiGlyph",
+      "name": "spray",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58021,
+      "font": "SiGlyph",
+      "name": "square",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58024,
+      "font": "SiGlyph",
+      "name": "square-dashed-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58025,
+      "font": "SiGlyph",
+      "name": "square-delicious",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58027,
+      "font": "SiGlyph",
+      "name": "square-four",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58028,
+      "font": "SiGlyph",
+      "name": "square-four-angle-point",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58029,
+      "font": "SiGlyph",
+      "name": "square-plus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58030,
+      "font": "SiGlyph",
+      "name": "square-star",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58031,
+      "font": "SiGlyph",
+      "name": "stamps",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58034,
+      "font": "SiGlyph",
+      "name": "stele",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58037,
+      "font": "SiGlyph",
+      "name": "stethoscope",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58038,
+      "font": "SiGlyph",
+      "name": "store",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58039,
+      "font": "SiGlyph",
+      "name": "stove",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58041,
+      "font": "SiGlyph",
+      "name": "street-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58042,
+      "font": "SiGlyph",
+      "name": "strolley",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58043,
+      "font": "SiGlyph",
+      "name": "strolley-arrow-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58044,
+      "font": "SiGlyph",
+      "name": "strolley-arrow-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58045,
+      "font": "SiGlyph",
+      "name": "strolley-plus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58046,
+      "font": "SiGlyph",
+      "name": "strolley-remove",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58047,
+      "font": "SiGlyph",
+      "name": "subway",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58048,
+      "font": "SiGlyph",
+      "name": "suitcase",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58049,
+      "font": "SiGlyph",
+      "name": "suitcase-person",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58052,
+      "font": "SiGlyph",
+      "name": "tablet",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58053,
+      "font": "SiGlyph",
+      "name": "tag",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58054,
+      "font": "SiGlyph",
+      "name": "tag-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58055,
+      "font": "SiGlyph",
+      "name": "tag-one-plus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58057,
+      "font": "SiGlyph",
+      "name": "tank",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58059,
+      "font": "SiGlyph",
+      "name": "tea-cup",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58064,
+      "font": "SiGlyph",
+      "name": "tennis-racket-ball",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58065,
+      "font": "SiGlyph",
+      "name": "tent-1",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58066,
+      "font": "SiGlyph",
+      "name": "tent-camp",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58068,
+      "font": "SiGlyph",
+      "name": "test-tube-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58069,
+      "font": "SiGlyph",
+      "name": "test-tube-empty",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58073,
+      "font": "SiGlyph",
+      "name": "tic-tac-toe",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58074,
+      "font": "SiGlyph",
+      "name": "time-glass",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58075,
+      "font": "SiGlyph",
+      "name": "time-reload",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58077,
+      "font": "SiGlyph",
+      "name": "toilet",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58078,
+      "font": "SiGlyph",
+      "name": "tool-box",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58080,
+      "font": "SiGlyph",
+      "name": "train",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58081,
+      "font": "SiGlyph",
+      "name": "train-rail",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58083,
+      "font": "SiGlyph",
+      "name": "tree",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58084,
+      "font": "SiGlyph",
+      "name": "trees",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 58088,
+      "font": "SiGlyph",
+      "name": "triangle-double-arrow-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58089,
+      "font": "SiGlyph",
+      "name": "triangle-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58091,
+      "font": "SiGlyph",
+      "name": "triangle-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58092,
+      "font": "SiGlyph",
+      "name": "triangle-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58093,
+      "font": "SiGlyph",
+      "name": "trolley-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58094,
+      "font": "SiGlyph",
+      "name": "trolley-arrow-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58095,
+      "font": "SiGlyph",
+      "name": "trolley-arrow-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58096,
+      "font": "SiGlyph",
+      "name": "trolley-briefcase",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58099,
+      "font": "SiGlyph",
+      "name": "trolley-plus",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58100,
+      "font": "SiGlyph",
+      "name": "trolley-remove",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58101,
+      "font": "SiGlyph",
+      "name": "truck",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58102,
+      "font": "SiGlyph",
+      "name": "trumpet",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58103,
+      "font": "SiGlyph",
+      "name": "turn-off",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58104,
+      "font": "SiGlyph",
+      "name": "two-arrow-down",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58105,
+      "font": "SiGlyph",
+      "name": "two-arrow-in-down-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58106,
+      "font": "SiGlyph",
+      "name": "two-arrow-in-left-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58107,
+      "font": "SiGlyph",
+      "name": "two-arrow-left",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58108,
+      "font": "SiGlyph",
+      "name": "two-arrow-right",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58109,
+      "font": "SiGlyph",
+      "name": "typewriter",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58110,
+      "font": "SiGlyph",
+      "name": "umberlla-chair",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58111,
+      "font": "SiGlyph",
+      "name": "umbrella-close",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58112,
+      "font": "SiGlyph",
+      "name": "umbrella-open",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58114,
+      "font": "SiGlyph",
+      "name": "upstair",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 58115,
+      "font": "SiGlyph",
+      "name": "upwards-arrow-to-bar",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58116,
+      "font": "SiGlyph",
+      "name": "upwards-arrow-with-loop",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58117,
+      "font": "SiGlyph",
+      "name": "usb",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58118,
+      "font": "SiGlyph",
+      "name": "view",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 58119,
+      "font": "SiGlyph",
+      "name": "wacom-tablet",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58120,
+      "font": "SiGlyph",
+      "name": "wall",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58121,
+      "font": "SiGlyph",
+      "name": "wallet",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58122,
+      "font": "SiGlyph",
+      "name": "wash-machine",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58123,
+      "font": "SiGlyph",
+      "name": "wash-machine-2",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58124,
+      "font": "SiGlyph",
+      "name": "watch",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58128,
+      "font": "SiGlyph",
+      "name": "weight-up",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58131,
+      "font": "SiGlyph",
+      "name": "wieght",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58133,
+      "font": "SiGlyph",
+      "name": "wind-turbines",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58134,
+      "font": "SiGlyph",
+      "name": "window",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58135,
+      "font": "SiGlyph",
+      "name": "wood-stove",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58136,
+      "font": "SiGlyph",
+      "name": "wrench",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58138,
+      "font": "SiGlyph",
+      "name": "yen",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58141,
+      "font": "SiGlyph",
+      "name": "zoom-in",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 58142,
+      "font": "SiGlyph",
+      "name": "zoom-out",
+      "prefix": "si-glyph",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57771,
+      "contentWidth": 1153,
+      "font": "SiGlyph",
+      "name": "handcuff",
+      "prefix": "si-glyph",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "si-glyph",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "SiGlyph",
+      "glyphCount": 799,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1149,
+        "xMin": -18,
+        "yMax": 1007,
+        "yMin": -15
+      },
+      "hhea": {
+        "advanceWidthMax": 1142,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 15
+      }
+    }
+  ]
+}

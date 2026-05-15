@@ -1,0 +1,246 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Pajamas",
+      "glyphName": "git-merge",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "git-merge",
+        "merge-request",
+        "merge-request-open"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Pajamas",
+      "glyphName": "issue-type-key-result",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "issue-type-key-result",
+        "issue-type-keyresult",
+        "work-item-keyresult"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "arrow-right",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "arrow-right",
+        "long-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "bullhorn",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "bullhorn",
+        "messages"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "copy-to-clipboard",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "copy-to-clipboard",
+        "duplicate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "dashboard",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "dashboard",
+        "tachometer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "download",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "download",
+        "import"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "ellipsis-h",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "ellipsis-h",
+        "status-preparing-borderless"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "export",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "export",
+        "upload"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "file-addition",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "file-addition",
+        "plus-square-o"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "file-addition-solid",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "file-addition-solid",
+        "plus-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "flag",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "flag",
+        "issue-type-feature-flag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "folder",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "folder",
+        "folder-o"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "issue-type-issue",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "issue-type-issue",
+        "issues"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "issue-type-requirements",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "issue-type-requirements",
+        "requirements"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "remove",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "remove",
+        "remove-all"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "severity-low",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "severity-low",
+        "status-active"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "task-done",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "task-done",
+        "todo-done"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pajamas",
+      "glyphName": "twitter",
+      "prefix": "pajamas",
+      "sampleIcons": [
+        "twitter",
+        "x"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Pajamas",
+      "headBbox": "-14..1014 / -13..1009",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 13,
+      "prefix": "pajamas",
+      "reasons": [
+        "head.xMin=-14",
+        "head.xMax=1014",
+        "head.yMin=-13",
+        "head.yMax=1009",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=13"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "pajamas",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Pajamas",
+      "glyphCount": 416,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1014,
+        "xMin": -14,
+        "yMax": 1009,
+        "yMin": -13
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Gcp",
+      "glyphName": "automl-tables",
+      "prefix": "gcp",
+      "sampleIcons": [
+        "automl-tables",
+        "automl-translation"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "secondary-empty",
+      "codepoint": 57365,
+      "icon": "automl",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 534,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57414,
+      "icon": "cloud-nat",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 586,
+      "secondary": {
+        "xMax": 330,
+        "xMin": 0,
+        "yMax": 790,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57423,
+      "icon": "cloud-run-for-anthos",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 423,
+        "xMin": 0,
+        "yMax": 461,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 469,
+      "secondary": {
+        "xMax": 892,
+        "xMin": 0,
+        "yMax": 869,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57350,
+      "icon": "ai-platform",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 441,
+      "secondary": {
+        "xMax": 476,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57542,
+      "icon": "text-to-speech",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 499,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 418,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 849,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57437,
+      "icon": "configuration-management",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 501,
+        "xMin": 0,
+        "yMax": 760,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 386,
+      "secondary": {
+        "xMax": 887,
+        "xMin": 0,
+        "yMax": 889,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57455,
+      "icon": "dataprep",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 512,
+        "xMin": 0,
+        "yMax": 795,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 369,
+      "secondary": {
+        "xMax": 881,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57555,
+      "icon": "web-security-scanner",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 600,
+        "xMin": 0,
+        "yMax": 648,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 320,
+      "secondary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 860,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57470,
+      "icon": "financial-services-marketplace",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 501,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 293,
+      "secondary": {
+        "xMax": 794,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57370,
+      "icon": "automl-vision",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 642,
+        "xMin": 0,
+        "yMax": 574,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 275,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 880,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57532,
+      "icon": "security-command-center",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 859,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 249,
+      "secondary": {
+        "xMax": 610,
+        "xMin": 0,
+        "yMax": 615,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57458,
+      "icon": "datashare",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 904,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 242,
+      "secondary": {
+        "xMax": 662,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57550,
+      "icon": "video-intelligence-api",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 680,
+        "xMin": 0,
+        "yMax": 799,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 237,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 752,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57433,
+      "icon": "cloud-translation-api",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 575,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 227,
+      "secondary": {
+        "xMax": 690,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57462,
+      "icon": "developer-portal",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 795,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 209,
+      "secondary": {
+        "xMax": 918,
+        "xMin": 0,
+        "yMax": 630,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57383,
+      "icon": "cloud-armor",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 635,
+        "xMin": 0,
+        "yMax": 624,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 208,
+      "secondary": {
+        "xMax": 843,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57467,
+      "icon": "error-reporting",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 208,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57534,
+      "icon": "security-key-enforcement",
+      "prefix": "gcp",
+      "primary": {
+        "xMax": 628,
+        "xMin": 0,
+        "yMax": 916,
+        "yMin": 0
+      },
+      "primaryFont": "Gcp",
+      "score": 200,
+      "secondary": {
+        "xMax": 828,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "GcpSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Gcp",
+      "headBbox": "-2..1003 / -1..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 1,
+      "prefix": "gcp",
+      "reasons": [
+        "head.xMin=-2",
+        "head.xMax=1003",
+        "head.yMin=-1",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "GcpSecondary",
+      "headBbox": "0..1000 / 0..999",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "gcp",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "gcp",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Gcp",
+      "glyphCount": 214,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1003,
+        "xMin": -2,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 1
+      }
+    },
+    {
+      "error": null,
+      "font": "GcpSecondary",
+      "glyphCount": 42,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

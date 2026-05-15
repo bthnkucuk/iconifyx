@@ -1,0 +1,814 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 10,
+      "font": "NotoSecondary",
+      "glyphName": "cat-face-with-tears-of-joy",
+      "prefix": "noto",
+      "sampleIcons": [
+        "cat-face-with-tears-of-joy",
+        "cat-face-with-wry-smile",
+        "cat-with-tears-of-joy",
+        "cat-with-wry-smile"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Noto",
+      "glyphName": "confounded-face",
+      "prefix": "noto",
+      "sampleIcons": [
+        "confounded-face",
+        "expressionless-face",
+        "pensive-face"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Noto",
+      "glyphName": "grinning-cat",
+      "prefix": "noto",
+      "sampleIcons": [
+        "grinning-cat",
+        "grinning-cat-face",
+        "smiling-cat-face-with-open-mouth"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Noto",
+      "glyphName": "kissing-cat",
+      "prefix": "noto",
+      "sampleIcons": [
+        "kissing-cat",
+        "kissing-cat-face",
+        "kissing-cat-face-with-closed-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "bullet-train",
+      "prefix": "noto",
+      "sampleIcons": [
+        "bullet-train",
+        "high-speed-train-with-bullet-nose"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "cat-face-with-tears-of-joy",
+      "prefix": "noto",
+      "sampleIcons": [
+        "cat-face-with-tears-of-joy",
+        "cat-with-tears-of-joy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "cat-face-with-wry-smile",
+      "prefix": "noto",
+      "sampleIcons": [
+        "cat-face-with-wry-smile",
+        "cat-with-wry-smile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "check-mark",
+      "prefix": "noto",
+      "sampleIcons": [
+        "check-mark",
+        "heavy-check-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "crying-cat",
+      "prefix": "noto",
+      "sampleIcons": [
+        "crying-cat",
+        "crying-cat-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "full-moon",
+      "prefix": "noto",
+      "sampleIcons": [
+        "full-moon",
+        "new-moon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "grinning-cat-face-with-smiling-eyes",
+      "prefix": "noto",
+      "sampleIcons": [
+        "grinning-cat-face-with-smiling-eyes",
+        "grinning-cat-with-smiling-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "man-fairy-dark-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "man-fairy-dark-skin-tone",
+        "man-fairy-tone5"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "man-fairy-light-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "man-fairy-light-skin-tone",
+        "man-fairy-tone1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "man-fairy-medium-dark-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "man-fairy-medium-dark-skin-tone",
+        "man-fairy-tone4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "man-fairy-medium-light-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "man-fairy-medium-light-skin-tone",
+        "man-fairy-tone2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "man-fairy-medium-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "man-fairy-medium-skin-tone",
+        "man-fairy-tone3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "man-supervillain-dark-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "man-supervillain-dark-skin-tone",
+        "man-supervillain-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "pouting-cat",
+      "prefix": "noto",
+      "sampleIcons": [
+        "pouting-cat",
+        "pouting-cat-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "smiling-cat-face-with-heart-eyes",
+      "prefix": "noto",
+      "sampleIcons": [
+        "smiling-cat-face-with-heart-eyes",
+        "smiling-cat-with-heart-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "speaker-high-volume",
+      "prefix": "noto",
+      "sampleIcons": [
+        "speaker-high-volume",
+        "speaker-medium-volume"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "weary-cat",
+      "prefix": "noto",
+      "sampleIcons": [
+        "weary-cat",
+        "weary-cat-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "woman-fairy-dark-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "woman-fairy-dark-skin-tone",
+        "woman-fairy-tone5"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "woman-fairy-light-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "woman-fairy-light-skin-tone",
+        "woman-fairy-tone1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "woman-fairy-medium-dark-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "woman-fairy-medium-dark-skin-tone",
+        "woman-fairy-tone4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "woman-fairy-medium-light-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "woman-fairy-medium-light-skin-tone",
+        "woman-fairy-tone2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Noto",
+      "glyphName": "woman-fairy-medium-skin-tone",
+      "prefix": "noto",
+      "sampleIcons": [
+        "woman-fairy-medium-skin-tone",
+        "woman-fairy-tone3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoSecondary",
+      "glyphName": "biohazard",
+      "prefix": "noto",
+      "sampleIcons": [
+        "biohazard",
+        "radioactive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoSecondary",
+      "glyphName": "check-mark",
+      "prefix": "noto",
+      "sampleIcons": [
+        "check-mark",
+        "heavy-check-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoSecondary",
+      "glyphName": "leo",
+      "prefix": "noto",
+      "sampleIcons": [
+        "leo",
+        "ophiuchus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoSecondary",
+      "glyphName": "pouting-cat",
+      "prefix": "noto",
+      "sampleIcons": [
+        "pouting-cat",
+        "pouting-cat-face"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57581,
+      "icon": "satellite-antenna",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 913,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 564,
+      "secondary": {
+        "xMax": 349,
+        "xMin": 0,
+        "yMax": 415,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57352,
+      "icon": "biohazard",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 973,
+        "xMin": 0,
+        "yMax": 970,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 517,
+      "secondary": {
+        "xMax": 456,
+        "xMin": 0,
+        "yMax": 890,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57466,
+      "icon": "leo",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 517,
+      "secondary": {
+        "xMax": 452,
+        "xMin": 0,
+        "yMax": 890,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57551,
+      "icon": "ophiuchus",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 517,
+      "secondary": {
+        "xMax": 452,
+        "xMin": 0,
+        "yMax": 890,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57575,
+      "icon": "radioactive",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 973,
+        "xMin": 0,
+        "yMax": 970,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 517,
+      "secondary": {
+        "xMax": 456,
+        "xMin": 0,
+        "yMax": 890,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57365,
+      "icon": "busts-in-silhouette",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 971,
+        "xMin": 0,
+        "yMax": 793,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 391,
+      "secondary": {
+        "xMax": 580,
+        "xMin": 0,
+        "yMax": 793,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57403,
+      "icon": "droplet",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 364,
+      "secondary": {
+        "xMax": 427,
+        "xMin": 0,
+        "yMax": 498,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57587,
+      "icon": "shorts",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 336,
+      "secondary": {
+        "xMax": 633,
+        "xMin": 0,
+        "yMax": 908,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57369,
+      "icon": "cat-face-with-tears-of-joy",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 957,
+        "xMin": 0,
+        "yMax": 947,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 331,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57371,
+      "icon": "cat-with-tears-of-joy",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 957,
+        "xMin": 0,
+        "yMax": 947,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 331,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57370,
+      "icon": "cat-face-with-wry-smile",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 903,
+        "xMin": 0,
+        "yMax": 947,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 277,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57372,
+      "icon": "cat-with-wry-smile",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 903,
+        "xMin": 0,
+        "yMax": 947,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 277,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57444,
+      "icon": "grinning-cat-face-with-smiling-eyes",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 903,
+        "xMin": 0,
+        "yMax": 947,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 277,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57445,
+      "icon": "grinning-cat-with-smiling-eyes",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 903,
+        "xMin": 0,
+        "yMax": 947,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 277,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57381,
+      "icon": "compass",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 975,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 271,
+      "secondary": {
+        "xMax": 704,
+        "xMin": 0,
+        "yMax": 685,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57430,
+      "icon": "female-sign",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 793,
+        "xMin": 0,
+        "yMax": 979,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 269,
+      "secondary": {
+        "xMax": 524,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57387,
+      "icon": "crying-cat",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 893,
+        "xMin": 0,
+        "yMax": 796,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 267,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57388,
+      "icon": "crying-cat-face",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 893,
+        "xMin": 0,
+        "yMax": 796,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 267,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57630,
+      "icon": "weary-cat",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 892,
+        "xMin": 0,
+        "yMax": 796,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 266,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57631,
+      "icon": "weary-cat-face",
+      "prefix": "noto",
+      "primary": {
+        "xMax": 892,
+        "xMin": 0,
+        "yMax": 796,
+        "yMin": 0
+      },
+      "primaryFont": "Noto",
+      "score": 266,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Noto",
+      "headBbox": "-1..1000 / 0..993",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "noto",
+      "reasons": [
+        "head.xMin=-1",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "NotoSecondary",
+      "headBbox": "0..994 / 0..980",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "noto",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "noto",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Noto",
+      "glyphCount": 328,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 993,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "NotoSecondary",
+      "glyphCount": 58,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 994,
+        "xMin": 0,
+        "yMax": 980,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

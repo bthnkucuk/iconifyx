@@ -1,0 +1,1833 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 4,
+      "font": "Maki",
+      "glyphName": "college-jp",
+      "prefix": "maki",
+      "sampleIcons": [
+        "college-jp",
+        "college-jp-15",
+        "school-jp",
+        "school-jp-15"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Maki",
+      "glyphName": "america-football-15",
+      "prefix": "maki",
+      "sampleIcons": [
+        "america-football-15",
+        "american-football",
+        "american-football-15"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Maki",
+      "glyphName": "buddhism-15",
+      "prefix": "maki",
+      "sampleIcons": [
+        "buddhism-15",
+        "religious-buddhist",
+        "religious-buddhist-15"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Maki",
+      "glyphName": "confectionary-15",
+      "prefix": "maki",
+      "sampleIcons": [
+        "confectionary-15",
+        "confectionery",
+        "confectionery-15"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Maki",
+      "glyphName": "convenience",
+      "prefix": "maki",
+      "sampleIcons": [
+        "convenience",
+        "convenience-15",
+        "convenience-store-15"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Maki",
+      "glyphName": "fitness-center-15",
+      "prefix": "maki",
+      "sampleIcons": [
+        "fitness-center-15",
+        "fitness-centre",
+        "fitness-centre-15"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Maki",
+      "glyphName": "garden-center-15",
+      "prefix": "maki",
+      "sampleIcons": [
+        "garden-center-15",
+        "garden-centre",
+        "garden-centre-15"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Maki",
+      "glyphName": "jewelry-15",
+      "prefix": "maki",
+      "sampleIcons": [
+        "jewelry-15",
+        "jewelry-store",
+        "jewelry-store-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "aerialway",
+      "prefix": "maki",
+      "sampleIcons": [
+        "aerialway",
+        "aerialway-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "airfield",
+      "prefix": "maki",
+      "sampleIcons": [
+        "airfield",
+        "airfield-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "airport",
+      "prefix": "maki",
+      "sampleIcons": [
+        "airport",
+        "airport-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "alcohol-shop",
+      "prefix": "maki",
+      "sampleIcons": [
+        "alcohol-shop",
+        "alcohol-shop-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "america-football-11",
+      "prefix": "maki",
+      "sampleIcons": [
+        "america-football-11",
+        "american-football-11"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "amusement-park",
+      "prefix": "maki",
+      "sampleIcons": [
+        "amusement-park",
+        "amusement-park-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "aquarium",
+      "prefix": "maki",
+      "sampleIcons": [
+        "aquarium",
+        "aquarium-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "art-gallery",
+      "prefix": "maki",
+      "sampleIcons": [
+        "art-gallery",
+        "art-gallery-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "attraction",
+      "prefix": "maki",
+      "sampleIcons": [
+        "attraction",
+        "attraction-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "bank",
+      "prefix": "maki",
+      "sampleIcons": [
+        "bank",
+        "bank-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "bank-jp",
+      "prefix": "maki",
+      "sampleIcons": [
+        "bank-jp",
+        "bank-jp-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "bar",
+      "prefix": "maki",
+      "sampleIcons": [
+        "bar",
+        "bar-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "barrier",
+      "prefix": "maki",
+      "sampleIcons": [
+        "barrier",
+        "barrier-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "baseball",
+      "prefix": "maki",
+      "sampleIcons": [
+        "baseball",
+        "baseball-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "basketball",
+      "prefix": "maki",
+      "sampleIcons": [
+        "basketball",
+        "basketball-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "bbq",
+      "prefix": "maki",
+      "sampleIcons": [
+        "bbq",
+        "bbq-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "beach",
+      "prefix": "maki",
+      "sampleIcons": [
+        "beach",
+        "beach-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "beer",
+      "prefix": "maki",
+      "sampleIcons": [
+        "beer",
+        "beer-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "bicycle",
+      "prefix": "maki",
+      "sampleIcons": [
+        "bicycle",
+        "bicycle-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "bicycle-share",
+      "prefix": "maki",
+      "sampleIcons": [
+        "bicycle-share",
+        "bicycle-share-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "blood-bank",
+      "prefix": "maki",
+      "sampleIcons": [
+        "blood-bank",
+        "blood-bank-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "bowling-alley",
+      "prefix": "maki",
+      "sampleIcons": [
+        "bowling-alley",
+        "bowling-alley-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "bridge",
+      "prefix": "maki",
+      "sampleIcons": [
+        "bridge",
+        "bridge-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "buddhism-11",
+      "prefix": "maki",
+      "sampleIcons": [
+        "buddhism-11",
+        "religious-buddhist-11"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "building",
+      "prefix": "maki",
+      "sampleIcons": [
+        "building",
+        "building-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "building-alt1",
+      "prefix": "maki",
+      "sampleIcons": [
+        "building-alt1",
+        "building-alt1-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "bus",
+      "prefix": "maki",
+      "sampleIcons": [
+        "bus",
+        "bus-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "cafe",
+      "prefix": "maki",
+      "sampleIcons": [
+        "cafe",
+        "cafe-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "campsite",
+      "prefix": "maki",
+      "sampleIcons": [
+        "campsite",
+        "campsite-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "casino",
+      "prefix": "maki",
+      "sampleIcons": [
+        "casino",
+        "casino-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "castle",
+      "prefix": "maki",
+      "sampleIcons": [
+        "castle",
+        "castle-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "castle-jp",
+      "prefix": "maki",
+      "sampleIcons": [
+        "castle-jp",
+        "castle-jp-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "cemetery",
+      "prefix": "maki",
+      "sampleIcons": [
+        "cemetery",
+        "cemetery-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "cemetery-jp",
+      "prefix": "maki",
+      "sampleIcons": [
+        "cemetery-jp",
+        "cemetery-jp-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "charging-station",
+      "prefix": "maki",
+      "sampleIcons": [
+        "charging-station",
+        "charging-station-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "cinema",
+      "prefix": "maki",
+      "sampleIcons": [
+        "cinema",
+        "cinema-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "circle",
+      "prefix": "maki",
+      "sampleIcons": [
+        "circle",
+        "circle-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "circle-stroked",
+      "prefix": "maki",
+      "sampleIcons": [
+        "circle-stroked",
+        "circle-stroked-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "city",
+      "prefix": "maki",
+      "sampleIcons": [
+        "city",
+        "city-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "clothing-store",
+      "prefix": "maki",
+      "sampleIcons": [
+        "clothing-store",
+        "clothing-store-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "college",
+      "prefix": "maki",
+      "sampleIcons": [
+        "college",
+        "college-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "commercial",
+      "prefix": "maki",
+      "sampleIcons": [
+        "commercial",
+        "commercial-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "communications-tower",
+      "prefix": "maki",
+      "sampleIcons": [
+        "communications-tower",
+        "communications-tower-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "confectionary-11",
+      "prefix": "maki",
+      "sampleIcons": [
+        "confectionary-11",
+        "confectionery-11"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "convenience-11",
+      "prefix": "maki",
+      "sampleIcons": [
+        "convenience-11",
+        "convenience-store-11"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "cricket",
+      "prefix": "maki",
+      "sampleIcons": [
+        "cricket",
+        "cricket-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "cross",
+      "prefix": "maki",
+      "sampleIcons": [
+        "cross",
+        "cross-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "dam",
+      "prefix": "maki",
+      "sampleIcons": [
+        "dam",
+        "dam-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "danger",
+      "prefix": "maki",
+      "sampleIcons": [
+        "danger",
+        "danger-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "defibrillator",
+      "prefix": "maki",
+      "sampleIcons": [
+        "defibrillator",
+        "defibrillator-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "dentist",
+      "prefix": "maki",
+      "sampleIcons": [
+        "dentist",
+        "dentist-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "doctor",
+      "prefix": "maki",
+      "sampleIcons": [
+        "doctor",
+        "doctor-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "dog-park",
+      "prefix": "maki",
+      "sampleIcons": [
+        "dog-park",
+        "dog-park-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "embassy",
+      "prefix": "maki",
+      "sampleIcons": [
+        "embassy",
+        "embassy-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "emergency-phone",
+      "prefix": "maki",
+      "sampleIcons": [
+        "emergency-phone",
+        "emergency-phone-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "entrance-alt1",
+      "prefix": "maki",
+      "sampleIcons": [
+        "entrance-alt1",
+        "entrance-alt1-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "farm",
+      "prefix": "maki",
+      "sampleIcons": [
+        "farm",
+        "farm-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "fast-food",
+      "prefix": "maki",
+      "sampleIcons": [
+        "fast-food",
+        "fast-food-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "fence",
+      "prefix": "maki",
+      "sampleIcons": [
+        "fence",
+        "fence-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "ferry",
+      "prefix": "maki",
+      "sampleIcons": [
+        "ferry",
+        "ferry-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "fire-station",
+      "prefix": "maki",
+      "sampleIcons": [
+        "fire-station",
+        "fire-station-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "fire-station-jp",
+      "prefix": "maki",
+      "sampleIcons": [
+        "fire-station-jp",
+        "fire-station-jp-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "fitness-center-11",
+      "prefix": "maki",
+      "sampleIcons": [
+        "fitness-center-11",
+        "fitness-centre-11"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "florist",
+      "prefix": "maki",
+      "sampleIcons": [
+        "florist",
+        "florist-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "fuel",
+      "prefix": "maki",
+      "sampleIcons": [
+        "fuel",
+        "fuel-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "gaming",
+      "prefix": "maki",
+      "sampleIcons": [
+        "gaming",
+        "gaming-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "garden",
+      "prefix": "maki",
+      "sampleIcons": [
+        "garden",
+        "garden-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "garden-center-11",
+      "prefix": "maki",
+      "sampleIcons": [
+        "garden-center-11",
+        "garden-centre-11"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "gift",
+      "prefix": "maki",
+      "sampleIcons": [
+        "gift",
+        "gift-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "golf",
+      "prefix": "maki",
+      "sampleIcons": [
+        "golf",
+        "golf-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "grocery",
+      "prefix": "maki",
+      "sampleIcons": [
+        "grocery",
+        "grocery-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "hairdresser",
+      "prefix": "maki",
+      "sampleIcons": [
+        "hairdresser",
+        "hairdresser-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "harbor",
+      "prefix": "maki",
+      "sampleIcons": [
+        "harbor",
+        "harbor-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "hardware",
+      "prefix": "maki",
+      "sampleIcons": [
+        "hardware",
+        "hardware-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "heart",
+      "prefix": "maki",
+      "sampleIcons": [
+        "heart",
+        "heart-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "heliport",
+      "prefix": "maki",
+      "sampleIcons": [
+        "heliport",
+        "heliport-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "home",
+      "prefix": "maki",
+      "sampleIcons": [
+        "home",
+        "home-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "horse-riding",
+      "prefix": "maki",
+      "sampleIcons": [
+        "horse-riding",
+        "horse-riding-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "hospital",
+      "prefix": "maki",
+      "sampleIcons": [
+        "hospital",
+        "hospital-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "hospital-jp",
+      "prefix": "maki",
+      "sampleIcons": [
+        "hospital-jp",
+        "hospital-jp-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "industry",
+      "prefix": "maki",
+      "sampleIcons": [
+        "industry",
+        "industry-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "information",
+      "prefix": "maki",
+      "sampleIcons": [
+        "information",
+        "information-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "jewelry-11",
+      "prefix": "maki",
+      "sampleIcons": [
+        "jewelry-11",
+        "jewelry-store-11"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "landmark",
+      "prefix": "maki",
+      "sampleIcons": [
+        "landmark",
+        "landmark-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "landmark-jp",
+      "prefix": "maki",
+      "sampleIcons": [
+        "landmark-jp",
+        "landmark-jp-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "landuse",
+      "prefix": "maki",
+      "sampleIcons": [
+        "landuse",
+        "landuse-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "laundry",
+      "prefix": "maki",
+      "sampleIcons": [
+        "laundry",
+        "laundry-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "lighthouse",
+      "prefix": "maki",
+      "sampleIcons": [
+        "lighthouse",
+        "lighthouse-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "lodging",
+      "prefix": "maki",
+      "sampleIcons": [
+        "lodging",
+        "lodging-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "logging",
+      "prefix": "maki",
+      "sampleIcons": [
+        "logging",
+        "logging-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "marker",
+      "prefix": "maki",
+      "sampleIcons": [
+        "marker",
+        "marker-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "marker-stroked",
+      "prefix": "maki",
+      "sampleIcons": [
+        "marker-stroked",
+        "marker-stroked-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "mobile-phone",
+      "prefix": "maki",
+      "sampleIcons": [
+        "mobile-phone",
+        "mobile-phone-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "monument",
+      "prefix": "maki",
+      "sampleIcons": [
+        "monument",
+        "monument-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "mountain",
+      "prefix": "maki",
+      "sampleIcons": [
+        "mountain",
+        "mountain-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "music",
+      "prefix": "maki",
+      "sampleIcons": [
+        "music",
+        "music-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "natural",
+      "prefix": "maki",
+      "sampleIcons": [
+        "natural",
+        "natural-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "optician",
+      "prefix": "maki",
+      "sampleIcons": [
+        "optician",
+        "optician-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "paint",
+      "prefix": "maki",
+      "sampleIcons": [
+        "paint",
+        "paint-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "park",
+      "prefix": "maki",
+      "sampleIcons": [
+        "park",
+        "park-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "park-alt1",
+      "prefix": "maki",
+      "sampleIcons": [
+        "park-alt1",
+        "park-alt1-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "parking",
+      "prefix": "maki",
+      "sampleIcons": [
+        "parking",
+        "parking-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "parking-garage",
+      "prefix": "maki",
+      "sampleIcons": [
+        "parking-garage",
+        "parking-garage-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "pharmacy",
+      "prefix": "maki",
+      "sampleIcons": [
+        "pharmacy",
+        "pharmacy-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "picnic-site",
+      "prefix": "maki",
+      "sampleIcons": [
+        "picnic-site",
+        "picnic-site-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "pitch",
+      "prefix": "maki",
+      "sampleIcons": [
+        "pitch",
+        "pitch-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "place-of-worship",
+      "prefix": "maki",
+      "sampleIcons": [
+        "place-of-worship",
+        "place-of-worship-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "playground",
+      "prefix": "maki",
+      "sampleIcons": [
+        "playground",
+        "playground-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "police",
+      "prefix": "maki",
+      "sampleIcons": [
+        "police",
+        "police-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "police-jp",
+      "prefix": "maki",
+      "sampleIcons": [
+        "police-jp",
+        "police-jp-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "post",
+      "prefix": "maki",
+      "sampleIcons": [
+        "post",
+        "post-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "post-jp",
+      "prefix": "maki",
+      "sampleIcons": [
+        "post-jp",
+        "post-jp-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "prison",
+      "prefix": "maki",
+      "sampleIcons": [
+        "prison",
+        "prison-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "rail",
+      "prefix": "maki",
+      "sampleIcons": [
+        "rail",
+        "rail-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "rail-light",
+      "prefix": "maki",
+      "sampleIcons": [
+        "rail-light",
+        "rail-light-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "rail-metro",
+      "prefix": "maki",
+      "sampleIcons": [
+        "rail-metro",
+        "rail-metro-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "ranger-station",
+      "prefix": "maki",
+      "sampleIcons": [
+        "ranger-station",
+        "ranger-station-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "recycling",
+      "prefix": "maki",
+      "sampleIcons": [
+        "recycling",
+        "recycling-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "religious-christian",
+      "prefix": "maki",
+      "sampleIcons": [
+        "religious-christian",
+        "religious-christian-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "religious-jewish",
+      "prefix": "maki",
+      "sampleIcons": [
+        "religious-jewish",
+        "religious-jewish-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "religious-muslim",
+      "prefix": "maki",
+      "sampleIcons": [
+        "religious-muslim",
+        "religious-muslim-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "religious-shinto",
+      "prefix": "maki",
+      "sampleIcons": [
+        "religious-shinto",
+        "religious-shinto-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "residential-community",
+      "prefix": "maki",
+      "sampleIcons": [
+        "residential-community",
+        "residential-community-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "restaurant",
+      "prefix": "maki",
+      "sampleIcons": [
+        "restaurant",
+        "restaurant-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "restaurant-noodle",
+      "prefix": "maki",
+      "sampleIcons": [
+        "restaurant-noodle",
+        "restaurant-noodle-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "restaurant-pizza",
+      "prefix": "maki",
+      "sampleIcons": [
+        "restaurant-pizza",
+        "restaurant-pizza-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "restaurant-seafood",
+      "prefix": "maki",
+      "sampleIcons": [
+        "restaurant-seafood",
+        "restaurant-seafood-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "restaurant-sushi",
+      "prefix": "maki",
+      "sampleIcons": [
+        "restaurant-sushi",
+        "sushi-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "roadblock",
+      "prefix": "maki",
+      "sampleIcons": [
+        "roadblock",
+        "roadblock-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "rocket",
+      "prefix": "maki",
+      "sampleIcons": [
+        "rocket",
+        "rocket-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "school",
+      "prefix": "maki",
+      "sampleIcons": [
+        "school",
+        "school-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "scooter",
+      "prefix": "maki",
+      "sampleIcons": [
+        "scooter",
+        "scooter-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "shelter",
+      "prefix": "maki",
+      "sampleIcons": [
+        "shelter",
+        "shelter-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "shop",
+      "prefix": "maki",
+      "sampleIcons": [
+        "shop",
+        "shop-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "skateboard",
+      "prefix": "maki",
+      "sampleIcons": [
+        "skateboard",
+        "skateboard-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "skiing",
+      "prefix": "maki",
+      "sampleIcons": [
+        "skiing",
+        "skiing-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "slaughterhouse",
+      "prefix": "maki",
+      "sampleIcons": [
+        "slaughterhouse",
+        "slaughterhouse-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "slipway",
+      "prefix": "maki",
+      "sampleIcons": [
+        "slipway",
+        "slipway-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "snowmobile",
+      "prefix": "maki",
+      "sampleIcons": [
+        "snowmobile",
+        "snowmobile-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "soccer",
+      "prefix": "maki",
+      "sampleIcons": [
+        "soccer",
+        "soccer-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "square",
+      "prefix": "maki",
+      "sampleIcons": [
+        "square",
+        "square-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "square-stroked",
+      "prefix": "maki",
+      "sampleIcons": [
+        "square-stroked",
+        "square-stroked-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "stadium",
+      "prefix": "maki",
+      "sampleIcons": [
+        "stadium",
+        "stadium-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "star",
+      "prefix": "maki",
+      "sampleIcons": [
+        "star",
+        "star-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "star-stroked",
+      "prefix": "maki",
+      "sampleIcons": [
+        "star-stroked",
+        "star-stroked-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "suitcase",
+      "prefix": "maki",
+      "sampleIcons": [
+        "suitcase",
+        "suitcase-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "swimming",
+      "prefix": "maki",
+      "sampleIcons": [
+        "swimming",
+        "swimming-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "table-tennis",
+      "prefix": "maki",
+      "sampleIcons": [
+        "table-tennis",
+        "table-tennis-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "teahouse",
+      "prefix": "maki",
+      "sampleIcons": [
+        "teahouse",
+        "teahouse-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "telephone",
+      "prefix": "maki",
+      "sampleIcons": [
+        "telephone",
+        "telephone-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "tennis",
+      "prefix": "maki",
+      "sampleIcons": [
+        "tennis",
+        "tennis-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "theatre",
+      "prefix": "maki",
+      "sampleIcons": [
+        "theatre",
+        "theatre-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "toll",
+      "prefix": "maki",
+      "sampleIcons": [
+        "toll",
+        "toll-booth"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "town",
+      "prefix": "maki",
+      "sampleIcons": [
+        "town",
+        "town-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "triangle",
+      "prefix": "maki",
+      "sampleIcons": [
+        "triangle",
+        "triangle-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "triangle-stroked",
+      "prefix": "maki",
+      "sampleIcons": [
+        "triangle-stroked",
+        "triangle-stroked-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "viewpoint",
+      "prefix": "maki",
+      "sampleIcons": [
+        "viewpoint",
+        "viewpoint-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "village",
+      "prefix": "maki",
+      "sampleIcons": [
+        "village",
+        "village-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "volcano",
+      "prefix": "maki",
+      "sampleIcons": [
+        "volcano",
+        "volcano-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "volleyball",
+      "prefix": "maki",
+      "sampleIcons": [
+        "volleyball",
+        "volleyball-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "warehouse",
+      "prefix": "maki",
+      "sampleIcons": [
+        "warehouse",
+        "warehouse-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "waste-basket",
+      "prefix": "maki",
+      "sampleIcons": [
+        "waste-basket",
+        "waste-basket-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "water",
+      "prefix": "maki",
+      "sampleIcons": [
+        "water",
+        "water-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "waterfall",
+      "prefix": "maki",
+      "sampleIcons": [
+        "waterfall",
+        "waterfall-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "watermill",
+      "prefix": "maki",
+      "sampleIcons": [
+        "watermill",
+        "watermill-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "wetland",
+      "prefix": "maki",
+      "sampleIcons": [
+        "wetland",
+        "wetland-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "wheelchair",
+      "prefix": "maki",
+      "sampleIcons": [
+        "wheelchair",
+        "wheelchair-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "windmill",
+      "prefix": "maki",
+      "sampleIcons": [
+        "windmill",
+        "windmill-15"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Maki",
+      "glyphName": "zoo",
+      "prefix": "maki",
+      "sampleIcons": [
+        "zoo",
+        "zoo-15"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Maki",
+      "headBbox": "-10..1010 / -12..1007",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 12,
+      "prefix": "maki",
+      "reasons": [
+        "head.xMin=-10",
+        "head.xMax=1010",
+        "head.yMin=-12",
+        "head.yMax=1007",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=12"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "maki",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Maki",
+      "glyphCount": 602,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1010,
+        "xMin": -10,
+        "yMax": 1007,
+        "yMin": -12
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 12
+      }
+    }
+  ]
+}

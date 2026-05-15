@@ -1,0 +1,3930 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 149,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "airplane-circle-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "airplane-circle-filled",
+        "alarm-circle-filled",
+        "angle-down-circle-filled",
+        "angle-left-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "circle-big-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle-big-filled",
+        "circle-big-filled-off",
+        "earth-americas",
+        "earth-americas-off"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "circle-big-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle-big-filled-circle",
+        "circle-big-filled-circle-off",
+        "earth-americas-circle",
+        "earth-americas-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "cloud",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cloud",
+        "cloud-down",
+        "cloud-down-off",
+        "cloud-off"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "cloud-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cloud-circle",
+        "cloud-circle-off",
+        "cloud-down-circle",
+        "cloud-down-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "face-frowning",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "face-frowning",
+        "face-frowning-off",
+        "face-grinning",
+        "face-grinning-off"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "face-frowning-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "face-frowning-circle",
+        "face-frowning-circle-off",
+        "face-grinning-circle",
+        "face-grinning-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrint",
+      "glyphName": "bookmark-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bookmark-circle",
+        "bookmark-circle-filled",
+        "bookmark-filled-circle",
+        "bookmark-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrint",
+      "glyphName": "circle-big-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle-big-circle",
+        "circle-big-circle-filled",
+        "circle-big-filled-circle",
+        "circle-big-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrint",
+      "glyphName": "heart-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "heart-circle",
+        "heart-circle-filled",
+        "heart-filled-circle",
+        "heart-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrint",
+      "glyphName": "square-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "square-circle",
+        "square-circle-filled",
+        "square-filled-circle",
+        "square-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-down-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-down-circle",
+        "triangle-down-circle-filled",
+        "triangle-down-filled-circle",
+        "triangle-down-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-left-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-left-circle",
+        "triangle-left-circle-filled",
+        "triangle-left-filled-circle",
+        "triangle-left-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-right-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-right-circle",
+        "triangle-right-circle-filled",
+        "triangle-right-filled-circle",
+        "triangle-right-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-up-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-up-circle",
+        "triangle-up-circle-filled",
+        "triangle-up-filled-circle",
+        "triangle-up-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "credit-card",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "credit-card",
+        "credit-card-off",
+        "identification",
+        "identification-off"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "credit-card-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "credit-card-circle",
+        "credit-card-circle-off",
+        "identification-circle",
+        "identification-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "cv",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cv",
+        "cv-off",
+        "file",
+        "file-off"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "cv-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cv-circle",
+        "cv-circle-off",
+        "file-circle",
+        "file-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "loop-minus",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "loop-minus",
+        "loop-minus-off",
+        "loop-plus",
+        "loop-plus-off"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "loop-minus-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "loop-minus-circle",
+        "loop-minus-circle-off",
+        "loop-plus-circle",
+        "loop-plus-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "shield",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "shield",
+        "shield-check",
+        "shield-check-off",
+        "shield-off"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "shield-check-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "shield-check-circle",
+        "shield-check-circle-off",
+        "shield-circle",
+        "shield-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "PepiconsPrint",
+      "glyphName": "circle-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle-circle",
+        "circle-circle-filled",
+        "circle-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "arrow-spin",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "arrow-spin",
+        "arrow-spin-off",
+        "reload"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "arrows-spin",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "arrows-spin",
+        "arrows-spin-off",
+        "refresh"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "grab",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "grab",
+        "grab-handle",
+        "grab-handle-off"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "monitor",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "monitor",
+        "monitor-off",
+        "monitor2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "paper-plane",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "paper-plane",
+        "paper-plane-off",
+        "send"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "smartphone-home-button",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "smartphone-home-button",
+        "smartphone-home-button-off",
+        "smartphone2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "tool",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "tool",
+        "wrench",
+        "wrench-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "airplane-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "airplane-circle",
+        "airplane-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "alarm-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "alarm-circle",
+        "alarm-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "angle-down-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-down-circle",
+        "angle-down-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "angle-left-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-left-circle",
+        "angle-left-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "angle-right-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-right-circle",
+        "angle-right-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "angle-up-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-up-circle",
+        "angle-up-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "arrows-spin",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "arrows-spin",
+        "refresh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "bell-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bell-circle",
+        "bell-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "bicycle-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bicycle-circle",
+        "bicycle-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "bluetooth-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bluetooth-circle",
+        "bluetooth-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "bookmark",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bookmark",
+        "bookmark-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "bookmark-circle-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bookmark-circle-off",
+        "bookmark-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "bookmark-filled-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bookmark-filled-off",
+        "bookmark-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "building-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "building-circle",
+        "building-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "calculator-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "calculator-circle",
+        "calculator-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "can-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "can-circle",
+        "can-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "cart-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cart-circle",
+        "cart-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "checkmark-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "checkmark-circle",
+        "checkmark-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle",
+        "circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "circle-big",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle-big",
+        "circle-big-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "circle-filled-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle-filled-off",
+        "circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "cloud-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cloud-circle",
+        "cloud-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "cloud-down-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cloud-down-circle",
+        "cloud-down-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "cloud-up-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cloud-up-circle",
+        "cloud-up-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "coctail-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "coctail-circle",
+        "coctail-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "color-picker-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "color-picker-circle",
+        "color-picker-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "contract-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "contract-circle",
+        "contract-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "controller-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "controller-circle",
+        "controller-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "countdown-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "countdown-circle",
+        "countdown-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "cup-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cup-circle",
+        "cup-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "cv-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cv-circle",
+        "cv-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "dots-x-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "dots-x-circle",
+        "dots-x-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "dots-y-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "dots-y-circle",
+        "dots-y-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "dress-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "dress-circle",
+        "dress-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "duplicate-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "duplicate-circle",
+        "duplicate-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "electricity-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "electricity-circle",
+        "electricity-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "equal-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "equal-circle",
+        "equal-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "expand-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "expand-circle",
+        "expand-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "eye-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "eye-circle",
+        "eye-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "eye-closed-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "eye-closed-circle",
+        "eye-closed-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "face-frowning-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "face-frowning-circle",
+        "face-frowning-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "face-grinning-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "face-grinning-circle",
+        "face-grinning-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "face-smiling-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "face-smiling-circle",
+        "face-smiling-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "file-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "file-circle",
+        "file-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "film-frame-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "film-frame-circle",
+        "film-frame-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "flower-bud-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "flower-bud-circle",
+        "flower-bud-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "flower-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "flower-circle",
+        "flower-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "folder-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "folder-circle",
+        "folder-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "gift-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "gift-circle",
+        "gift-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "grab",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "grab",
+        "grab-handle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "grab-handle-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "grab-handle-circle",
+        "grab-handle-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "hamburger-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "hamburger-circle",
+        "hamburger-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "hand-open-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "hand-open-circle",
+        "hand-open-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "headphone-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "headphone-circle",
+        "headphone-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "heart",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "heart",
+        "heart-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "heart-circle-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "heart-circle-off",
+        "heart-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "heart-filled-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "heart-filled-off",
+        "heart-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "identification-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "identification-circle",
+        "identification-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "internet-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "internet-circle",
+        "internet-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "knive-fork-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "knive-fork-circle",
+        "knive-fork-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "line-slant-down-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "line-slant-down-circle",
+        "line-slant-down-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "line-slant-up-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "line-slant-up-circle",
+        "line-slant-up-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "line-x-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "line-x-circle",
+        "line-x-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "line-y-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "line-y-circle",
+        "line-y-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "lock-closed-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "lock-closed-circle",
+        "lock-closed-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "lock-open-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "lock-open-circle",
+        "lock-open-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "loop-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "loop-circle",
+        "loop-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "loop-minus-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "loop-minus-circle",
+        "loop-minus-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "loop-plus-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "loop-plus-circle",
+        "loop-plus-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "map-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "map-circle",
+        "map-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "menu-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "menu-circle",
+        "menu-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "microphone-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "microphone-circle",
+        "microphone-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "minus-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "minus-circle",
+        "minus-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "monitor",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "monitor",
+        "monitor2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "monitor-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "monitor-circle",
+        "monitor-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "moon-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "moon-circle",
+        "moon-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "motorcycle-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "motorcycle-circle",
+        "motorcycle-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "music-note-double-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "music-note-double-circle",
+        "music-note-double-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "music-note-single-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "music-note-single-circle",
+        "music-note-single-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "paper-plane-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "paper-plane-circle",
+        "paper-plane-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "phone-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "phone-circle",
+        "phone-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "pill-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "pill-circle",
+        "pill-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "plus-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "plus-circle",
+        "plus-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "power-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "power-circle",
+        "power-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "ruler-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "ruler-circle",
+        "ruler-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "scissors-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "scissors-circle",
+        "scissors-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "share-android-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "share-android-circle",
+        "share-android-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "share-ios-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "share-ios-circle",
+        "share-ios-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "shield-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "shield-circle",
+        "shield-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "smartphone-home-button",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "smartphone-home-button",
+        "smartphone2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "smartphone-home-button-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "smartphone-home-button-circle",
+        "smartphone-home-button-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "smartphone-notch-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "smartphone-notch-circle",
+        "smartphone-notch-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "soft-drink-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "soft-drink-circle",
+        "soft-drink-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "square",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "square",
+        "square-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "square-circle-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "square-circle-off",
+        "square-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "square-filled-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "square-filled-off",
+        "square-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "star-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "star-circle",
+        "star-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "star-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "star-filled-circle",
+        "star-filled-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "syringe-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "syringe-circle",
+        "syringe-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "t-shirt-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "t-shirt-circle",
+        "t-shirt-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "television-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "television-circle",
+        "television-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "text-bubbles-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "text-bubbles-circle",
+        "text-bubbles-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "times-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "times-circle",
+        "times-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "train-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "train-circle",
+        "train-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-down",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-down",
+        "triangle-down-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-down-circle-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-down-circle-off",
+        "triangle-down-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-down-filled-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-down-filled-off",
+        "triangle-down-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-left",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-left",
+        "triangle-left-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-left-circle-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-left-circle-off",
+        "triangle-left-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-left-filled-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-left-filled-off",
+        "triangle-left-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-right",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-right",
+        "triangle-right-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-right-circle-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-right-circle-off",
+        "triangle-right-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-right-filled-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-right-filled-off",
+        "triangle-right-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-up",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-up",
+        "triangle-up-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-up-circle-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-up-circle-off",
+        "triangle-up-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "triangle-up-filled-off",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-up-filled-off",
+        "triangle-up-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "truck-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "truck-circle",
+        "truck-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "umbrella-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "umbrella-circle",
+        "umbrella-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrint",
+      "glyphName": "wrench-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "wrench-circle",
+        "wrench-circle-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "airplane",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "airplane",
+        "airplane-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "airplane-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "airplane-circle",
+        "airplane-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "alarm",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "alarm",
+        "alarm-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "alarm-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "alarm-circle",
+        "alarm-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "angle-down",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-down",
+        "angle-down-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "angle-down-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-down-circle",
+        "angle-down-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "angle-left",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-left",
+        "angle-left-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "angle-left-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-left-circle",
+        "angle-left-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "angle-right",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-right",
+        "angle-right-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "angle-right-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-right-circle",
+        "angle-right-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "angle-up",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-up",
+        "angle-up-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "angle-up-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "angle-up-circle",
+        "angle-up-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bell",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bell",
+        "bell-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bell-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bell-circle",
+        "bell-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bicycle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bicycle",
+        "bicycle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bicycle-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bicycle-circle",
+        "bicycle-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bluetooth",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bluetooth",
+        "bluetooth-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bluetooth-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bluetooth-circle",
+        "bluetooth-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "book",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "book",
+        "book-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "book-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "book-circle",
+        "book-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bookmark",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bookmark",
+        "bookmark-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bookmark-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bookmark-circle",
+        "bookmark-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bookmark-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bookmark-filled",
+        "bookmark-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "bookmark-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "bookmark-filled-circle",
+        "bookmark-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "building",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "building",
+        "building-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "building-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "building-circle",
+        "building-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "calculator",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "calculator",
+        "calculator-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "calculator-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "calculator-circle",
+        "calculator-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "calendar",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "calendar",
+        "calendar-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "camera",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "camera",
+        "camera-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "camera-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "camera-circle",
+        "camera-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "can",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "can",
+        "can-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "can-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "can-circle",
+        "can-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "car",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "car",
+        "car-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "car-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "car-circle",
+        "car-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "cart",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cart",
+        "cart-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "cart-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cart-circle",
+        "cart-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "checkmark",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "checkmark",
+        "checkmark-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "checkmark-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "checkmark-circle",
+        "checkmark-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "checkmark-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "checkmark-filled",
+        "checkmark-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "checkmark-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "checkmark-filled-circle",
+        "checkmark-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle",
+        "circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "circle-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle-circle",
+        "circle-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "circle-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "circle-filled",
+        "circle-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "clock",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "clock",
+        "clock-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "clock-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "clock-circle",
+        "clock-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "coctail",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "coctail",
+        "coctail-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "coctail-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "coctail-circle",
+        "coctail-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "color-picker",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "color-picker",
+        "color-picker-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "color-picker-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "color-picker-circle",
+        "color-picker-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "contract",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "contract",
+        "contract-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "contract-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "contract-circle",
+        "contract-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "controller",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "controller",
+        "controller-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "controller-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "controller-circle",
+        "controller-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "countdown",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "countdown",
+        "countdown-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "countdown-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "countdown-circle",
+        "countdown-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "cup",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cup",
+        "cup-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "cup-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "cup-circle",
+        "cup-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "database",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "database",
+        "database-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "database-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "database-circle",
+        "database-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "dots-x",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "dots-x",
+        "dots-x-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "dots-x-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "dots-x-circle",
+        "dots-x-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "dots-y",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "dots-y",
+        "dots-y-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "dots-y-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "dots-y-circle",
+        "dots-y-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "dress",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "dress",
+        "dress-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "dress-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "dress-circle",
+        "dress-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "duplicate",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "duplicate",
+        "duplicate-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "duplicate-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "duplicate-circle",
+        "duplicate-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "electricity",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "electricity",
+        "electricity-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "electricity-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "electricity-circle",
+        "electricity-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "enter",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "enter",
+        "enter-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "enter-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "enter-circle",
+        "enter-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "equal",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "equal",
+        "equal-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "equal-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "equal-circle",
+        "equal-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "expand",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "expand",
+        "expand-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "expand-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "expand-circle",
+        "expand-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "eye",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "eye",
+        "eye-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "eye-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "eye-circle",
+        "eye-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "eye-closed",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "eye-closed",
+        "eye-closed-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "eye-closed-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "eye-closed-circle",
+        "eye-closed-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "film-frame",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "film-frame",
+        "film-frame-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "film-frame-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "film-frame-circle",
+        "film-frame-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "flag",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "flag",
+        "flag-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "flag-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "flag-circle",
+        "flag-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "flower",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "flower",
+        "flower-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "flower-bud",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "flower-bud",
+        "flower-bud-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "flower-bud-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "flower-bud-circle",
+        "flower-bud-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "flower-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "flower-circle",
+        "flower-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "folder",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "folder",
+        "folder-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "folder-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "folder-circle",
+        "folder-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "gear",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "gear",
+        "gear-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "gear-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "gear-circle",
+        "gear-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "gift",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "gift",
+        "gift-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "gift-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "gift-circle",
+        "gift-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "grab-handle-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "grab-handle-circle",
+        "grab-handle-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "hamburger",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "hamburger",
+        "hamburger-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "hamburger-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "hamburger-circle",
+        "hamburger-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "hand-open",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "hand-open",
+        "hand-open-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "hand-open-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "hand-open-circle",
+        "hand-open-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "headphone",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "headphone",
+        "headphone-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "headphone-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "headphone-circle",
+        "headphone-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "heart",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "heart",
+        "heart-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "heart-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "heart-circle",
+        "heart-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "heart-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "heart-filled",
+        "heart-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "heart-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "heart-filled-circle",
+        "heart-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "house",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "house",
+        "house-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "house-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "house-circle",
+        "house-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "internet",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "internet",
+        "internet-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "internet-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "internet-circle",
+        "internet-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "key",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "key",
+        "key-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "key-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "key-circle",
+        "key-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "knive-fork",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "knive-fork",
+        "knive-fork-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "knive-fork-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "knive-fork-circle",
+        "knive-fork-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "leave",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "leave",
+        "leave-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "leave-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "leave-circle",
+        "leave-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "letter",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "letter",
+        "letter-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "letter-open",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "letter-open",
+        "letter-open-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "letter-open-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "letter-open-circle",
+        "letter-open-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "line-x",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "line-x",
+        "line-x-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "line-x-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "line-x-circle",
+        "line-x-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "line-y",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "line-y",
+        "line-y-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "line-y-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "line-y-circle",
+        "line-y-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "lock-closed",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "lock-closed",
+        "lock-closed-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "lock-closed-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "lock-closed-circle",
+        "lock-closed-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "lock-open",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "lock-open",
+        "lock-open-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "lock-open-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "lock-open-circle",
+        "lock-open-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "loop",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "loop",
+        "loop-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "loop-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "loop-circle",
+        "loop-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "map",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "map",
+        "map-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "map-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "map-circle",
+        "map-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "menu",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "menu",
+        "menu-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "menu-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "menu-circle",
+        "menu-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "microphone",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "microphone",
+        "microphone-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "microphone-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "microphone-circle",
+        "microphone-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "minus",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "minus",
+        "minus-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "minus-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "minus-circle",
+        "minus-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "monitor-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "monitor-circle",
+        "monitor-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "moon",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "moon",
+        "moon-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "moon-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "moon-circle",
+        "moon-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "motorcycle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "motorcycle",
+        "motorcycle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "motorcycle-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "motorcycle-circle",
+        "motorcycle-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "music-note-double",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "music-note-double",
+        "music-note-double-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "music-note-double-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "music-note-double-circle",
+        "music-note-double-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "music-note-single",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "music-note-single",
+        "music-note-single-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "music-note-single-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "music-note-single-circle",
+        "music-note-single-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "no-entry",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "no-entry",
+        "no-entry-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "no-entry-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "no-entry-circle",
+        "no-entry-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "open",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "open",
+        "open-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "paper-plane-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "paper-plane-circle",
+        "paper-plane-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "pen",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "pen",
+        "pen-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "pen-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "pen-circle",
+        "pen-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "phone",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "phone",
+        "phone-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "phone-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "phone-circle",
+        "phone-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "photo-camera",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "photo-camera",
+        "photo-camera-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "photo-camera-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "photo-camera-circle",
+        "photo-camera-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "pill",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "pill",
+        "pill-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "pill-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "pill-circle",
+        "pill-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "pinpoint",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "pinpoint",
+        "pinpoint-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "pinpoint-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "pinpoint-circle",
+        "pinpoint-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "plus",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "plus",
+        "plus-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "plus-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "plus-circle",
+        "plus-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "power",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "power",
+        "power-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "power-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "power-circle",
+        "power-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "printer",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "printer",
+        "printer-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "ruler",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "ruler",
+        "ruler-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "ruler-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "ruler-circle",
+        "ruler-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "scissors",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "scissors",
+        "scissors-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "scissors-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "scissors-circle",
+        "scissors-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "share-android",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "share-android",
+        "share-android-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "share-android-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "share-android-circle",
+        "share-android-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "share-ios",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "share-ios",
+        "share-ios-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "share-ios-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "share-ios-circle",
+        "share-ios-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "smartphone-cutout",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "smartphone-cutout",
+        "smartphone-cutout-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "smartphone-cutout-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "smartphone-cutout-circle",
+        "smartphone-cutout-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "smartphone-home-button-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "smartphone-home-button-circle",
+        "smartphone-home-button-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "smartphone-notch",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "smartphone-notch",
+        "smartphone-notch-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "smartphone-notch-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "smartphone-notch-circle",
+        "smartphone-notch-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "soft-drink",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "soft-drink",
+        "soft-drink-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "soft-drink-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "soft-drink-circle",
+        "soft-drink-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "square",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "square",
+        "square-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "square-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "square-circle",
+        "square-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "square-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "square-filled",
+        "square-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "square-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "square-filled-circle",
+        "square-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "star-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "star-filled",
+        "star-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "star-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "star-filled-circle",
+        "star-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "sun",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "sun",
+        "sun-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "syringe",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "syringe",
+        "syringe-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "syringe-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "syringe-circle",
+        "syringe-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "t-shirt",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "t-shirt",
+        "t-shirt-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "t-shirt-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "t-shirt-circle",
+        "t-shirt-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "taxi",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "taxi",
+        "taxi-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "taxi-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "taxi-circle",
+        "taxi-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "television",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "television",
+        "television-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "television-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "television-circle",
+        "television-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "text-bubble",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "text-bubble",
+        "text-bubble-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "text-bubbles",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "text-bubbles",
+        "text-bubbles-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "text-bubbles-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "text-bubbles-circle",
+        "text-bubbles-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "ticket",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "ticket",
+        "ticket-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "ticket-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "ticket-circle",
+        "ticket-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "times",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "times",
+        "times-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "times-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "times-circle",
+        "times-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "train",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "train",
+        "train-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "train-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "train-circle",
+        "train-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-down",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-down",
+        "triangle-down-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-down-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-down-circle",
+        "triangle-down-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-down-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-down-filled",
+        "triangle-down-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-down-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-down-filled-circle",
+        "triangle-down-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-left",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-left",
+        "triangle-left-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-left-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-left-circle",
+        "triangle-left-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-left-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-left-filled",
+        "triangle-left-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-left-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-left-filled-circle",
+        "triangle-left-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-right",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-right",
+        "triangle-right-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-right-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-right-circle",
+        "triangle-right-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-right-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-right-filled",
+        "triangle-right-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-right-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-right-filled-circle",
+        "triangle-right-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-up",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-up",
+        "triangle-up-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-up-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-up-circle",
+        "triangle-up-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-up-filled",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-up-filled",
+        "triangle-up-filled-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "triangle-up-filled-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "triangle-up-filled-circle",
+        "triangle-up-filled-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "truck",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "truck",
+        "truck-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "truck-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "truck-circle",
+        "truck-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "umbrella",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "umbrella",
+        "umbrella-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "umbrella-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "umbrella-circle",
+        "umbrella-circle-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPrintSecondary",
+      "glyphName": "wrench-circle",
+      "prefix": "pepicons-print",
+      "sampleIcons": [
+        "wrench-circle",
+        "wrench-circle-off"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58019,
+      "icon": "line-y-off",
+      "prefix": "pepicons-print",
+      "primary": {
+        "xMax": 953,
+        "xMin": 0,
+        "yMax": 979,
+        "yMin": 0
+      },
+      "primaryFont": "PepiconsPrint",
+      "score": 327,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 930,
+        "yMin": 0
+      },
+      "secondaryFont": "PepiconsPrintSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57683,
+      "icon": "dots-y-off",
+      "prefix": "pepicons-print",
+      "primary": {
+        "xMax": 952,
+        "xMin": 0,
+        "yMax": 952,
+        "yMin": 0
+      },
+      "primaryFont": "PepiconsPrint",
+      "score": 251,
+      "secondary": {
+        "xMax": 701,
+        "xMin": 0,
+        "yMax": 755,
+        "yMin": 0
+      },
+      "secondaryFont": "PepiconsPrintSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "PepiconsPrint",
+      "headBbox": "0..1007 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "pepicons-print",
+      "reasons": [
+        "head.xMax=1007",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "PepiconsPrintSecondary",
+      "headBbox": "0..1011 / -11..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 11,
+      "prefix": "pepicons-print",
+      "reasons": [
+        "head.xMax=1011",
+        "head.yMin=-11",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=11"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "pepicons-print",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "PepiconsPrint",
+      "glyphCount": 1286,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1007,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "PepiconsPrintSecondary",
+      "glyphCount": 703,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1011,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -11
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 11
+      }
+    }
+  ]
+}

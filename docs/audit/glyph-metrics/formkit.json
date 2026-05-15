@@ -1,0 +1,917 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Formkit",
+      "glyphName": "eyeclosed",
+      "prefix": "formkit",
+      "sampleIcons": [
+        "eyeclosed",
+        "hidden"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Formkit",
+      "glyphName": "file",
+      "prefix": "formkit",
+      "sampleIcons": [
+        "file",
+        "folder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Formkit",
+      "glyphName": "yen",
+      "prefix": "formkit",
+      "sampleIcons": [
+        "yen",
+        "yuan"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Formkit",
+      "headBbox": "-11..3500 / -2..1003",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 2,
+      "prefix": "formkit",
+      "reasons": [
+        "head.xMin=-11",
+        "head.xMax=3500",
+        "head.yMin=-2",
+        "head.yMax=1003",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=2"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1142,
+      "codepoint": 57345,
+      "font": "Formkit",
+      "name": "amex",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57348,
+      "font": "Formkit",
+      "name": "arrowdown",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1777,
+      "codepoint": 57349,
+      "font": "Formkit",
+      "name": "arrowleft",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1777,
+      "codepoint": 57350,
+      "font": "Formkit",
+      "name": "arrowright",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57351,
+      "font": "Formkit",
+      "name": "arrowup",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57352,
+      "font": "Formkit",
+      "name": "avatarman",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57353,
+      "font": "Formkit",
+      "name": "avatarwoman",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57354,
+      "font": "Formkit",
+      "name": "bitcoin",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57356,
+      "font": "Formkit",
+      "name": "bookmark",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1833,
+      "codepoint": 57357,
+      "font": "Formkit",
+      "name": "button",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1777,
+      "codepoint": 57359,
+      "font": "Formkit",
+      "name": "caretdown",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57360,
+      "font": "Formkit",
+      "name": "caretleft",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57361,
+      "font": "Formkit",
+      "name": "caretright",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1777,
+      "codepoint": 57362,
+      "font": "Formkit",
+      "name": "caretup",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1185,
+      "codepoint": 57363,
+      "font": "Formkit",
+      "name": "check",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57366,
+      "font": "Formkit",
+      "name": "close",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 57368,
+      "font": "Formkit",
+      "name": "compress",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1541,
+      "codepoint": 57369,
+      "font": "Formkit",
+      "name": "currency",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57372,
+      "font": "Formkit",
+      "name": "discover",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57373,
+      "font": "Formkit",
+      "name": "dogecoin",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 2285,
+      "codepoint": 57375,
+      "font": "Formkit",
+      "name": "down",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57376,
+      "font": "Formkit",
+      "name": "download",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57377,
+      "font": "Formkit",
+      "name": "downloadcloud",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 575,
+      "codepoint": 57378,
+      "font": "Formkit",
+      "name": "draghandle",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57379,
+      "font": "Formkit",
+      "name": "email",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57380,
+      "font": "Formkit",
+      "name": "ethereum",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57383,
+      "font": "Formkit",
+      "name": "export",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 57384,
+      "font": "Formkit",
+      "name": "eye",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57387,
+      "font": "Formkit",
+      "name": "fastforward",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57389,
+      "font": "Formkit",
+      "name": "fileaudio",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57390,
+      "font": "Formkit",
+      "name": "filedoc",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57391,
+      "font": "Formkit",
+      "name": "fileimage",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57392,
+      "font": "Formkit",
+      "name": "filepdf",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57393,
+      "font": "Formkit",
+      "name": "filevideo",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57394,
+      "font": "Formkit",
+      "name": "flag",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57401,
+      "font": "Formkit",
+      "name": "heart",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 437,
+      "codepoint": 57407,
+      "font": "Formkit",
+      "name": "left",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57408,
+      "font": "Formkit",
+      "name": "link",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 57412,
+      "font": "Formkit",
+      "name": "list",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57413,
+      "font": "Formkit",
+      "name": "mastercard",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57414,
+      "font": "Formkit",
+      "name": "medium",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57415,
+      "font": "Formkit",
+      "name": "megaphone",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57416,
+      "font": "Formkit",
+      "name": "minimize",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57419,
+      "font": "Formkit",
+      "name": "number",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 57420,
+      "font": "Formkit",
+      "name": "open",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 570,
+      "codepoint": 57422,
+      "font": "Formkit",
+      "name": "pause",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57423,
+      "font": "Formkit",
+      "name": "paypal",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57424,
+      "font": "Formkit",
+      "name": "people",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 57427,
+      "font": "Formkit",
+      "name": "play",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 3500,
+      "codepoint": 57431,
+      "font": "Formkit",
+      "name": "range",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57433,
+      "font": "Formkit",
+      "name": "refresh",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 437,
+      "codepoint": 57434,
+      "font": "Formkit",
+      "name": "reorder",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57436,
+      "font": "Formkit",
+      "name": "reply",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57437,
+      "font": "Formkit",
+      "name": "rewind",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 437,
+      "codepoint": 57438,
+      "font": "Formkit",
+      "name": "right",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57442,
+      "font": "Formkit",
+      "name": "search",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1833,
+      "codepoint": 57443,
+      "font": "Formkit",
+      "name": "select",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57445,
+      "font": "Formkit",
+      "name": "share",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57452,
+      "font": "Formkit",
+      "name": "start",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57453,
+      "font": "Formkit",
+      "name": "stepback",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57454,
+      "font": "Formkit",
+      "name": "stepforward",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57457,
+      "font": "Formkit",
+      "name": "submit",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57458,
+      "font": "Formkit",
+      "name": "table",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57459,
+      "font": "Formkit",
+      "name": "tag",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57460,
+      "font": "Formkit",
+      "name": "telephone",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57462,
+      "font": "Formkit",
+      "name": "text",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57463,
+      "font": "Formkit",
+      "name": "textarea",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 906,
+      "codepoint": 57469,
+      "font": "Formkit",
+      "name": "unit",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 2285,
+      "codepoint": 57470,
+      "font": "Formkit",
+      "name": "up",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57471,
+      "font": "Formkit",
+      "name": "upload",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57472,
+      "font": "Formkit",
+      "name": "uploadcloud",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57473,
+      "font": "Formkit",
+      "name": "url",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57474,
+      "font": "Formkit",
+      "name": "usdc",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 57477,
+      "font": "Formkit",
+      "name": "volumedown",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 57478,
+      "font": "Formkit",
+      "name": "volumeup",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57485,
+      "font": "Formkit",
+      "name": "youtube",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57487,
+      "font": "Formkit",
+      "name": "zip",
+      "prefix": "formkit",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57345,
+      "contentWidth": 1143,
+      "font": "Formkit",
+      "name": "amex",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57349,
+      "contentWidth": 1447,
+      "font": "Formkit",
+      "name": "arrowleft",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57350,
+      "contentWidth": 1557,
+      "font": "Formkit",
+      "name": "arrowright",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57357,
+      "contentWidth": 1837,
+      "font": "Formkit",
+      "name": "button",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57359,
+      "contentWidth": 1472,
+      "font": "Formkit",
+      "name": "caretdown",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57362,
+      "contentWidth": 1474,
+      "font": "Formkit",
+      "name": "caretup",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57363,
+      "contentWidth": 1186,
+      "font": "Formkit",
+      "name": "check",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57369,
+      "contentWidth": 1542,
+      "font": "Formkit",
+      "name": "currency",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57372,
+      "contentWidth": 1143,
+      "font": "Formkit",
+      "name": "discover",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57375,
+      "contentWidth": 1860,
+      "font": "Formkit",
+      "name": "down",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57377,
+      "contentWidth": 1143,
+      "font": "Formkit",
+      "name": "downloadcloud",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57379,
+      "contentWidth": 1143,
+      "font": "Formkit",
+      "name": "email",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57384,
+      "contentWidth": 1152,
+      "font": "Formkit",
+      "name": "eye",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57387,
+      "contentWidth": 1171,
+      "font": "Formkit",
+      "name": "fastforward",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57408,
+      "contentWidth": 1256,
+      "font": "Formkit",
+      "name": "link",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57412,
+      "contentWidth": 1277,
+      "font": "Formkit",
+      "name": "list",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57413,
+      "contentWidth": 1143,
+      "font": "Formkit",
+      "name": "mastercard",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57414,
+      "contentWidth": 1252,
+      "font": "Formkit",
+      "name": "medium",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57420,
+      "contentWidth": 1185,
+      "font": "Formkit",
+      "name": "open",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57423,
+      "contentWidth": 1143,
+      "font": "Formkit",
+      "name": "paypal",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57431,
+      "contentWidth": 3500,
+      "font": "Formkit",
+      "name": "range",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57437,
+      "contentWidth": 1169,
+      "font": "Formkit",
+      "name": "rewind",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57443,
+      "contentWidth": 1837,
+      "font": "Formkit",
+      "name": "select",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57470,
+      "contentWidth": 1863,
+      "font": "Formkit",
+      "name": "up",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57472,
+      "contentWidth": 1143,
+      "font": "Formkit",
+      "name": "uploadcloud",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57477,
+      "contentWidth": 1155,
+      "font": "Formkit",
+      "name": "volumedown",
+      "prefix": "formkit",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57478,
+      "contentWidth": 1156,
+      "font": "Formkit",
+      "name": "volumeup",
+      "prefix": "formkit",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "formkit",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Formkit",
+      "glyphCount": 144,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 3500,
+        "xMin": -11,
+        "yMax": 1003,
+        "yMin": -2
+      },
+      "hhea": {
+        "advanceWidthMax": 3500,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 2
+      }
+    }
+  ]
+}

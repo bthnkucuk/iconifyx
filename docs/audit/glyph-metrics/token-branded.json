@@ -1,0 +1,1593 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 15,
+      "font": "TokenBranded",
+      "glyphName": "aevo",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "aevo",
+        "aqua",
+        "cho",
+        "coinbase"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TokenBranded",
+      "glyphName": "okex",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "okex",
+        "okt",
+        "okx"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "ban",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "ban",
+        "banano"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "binance-smart-chain",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "binance-smart-chain",
+        "bnb"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "cronos",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "cronos",
+        "cronos-zkevm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "exrd",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "exrd",
+        "xrd"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "immutable",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "immutable",
+        "imx"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "iota",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "iota",
+        "iota-evm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "lukso",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "lukso",
+        "lyx"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "mantle",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "mantle",
+        "mnt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "matic",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "matic",
+        "pol"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "milkomeda-a1",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "milkomeda-a1",
+        "milkomeda-c1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "moonrive",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "moonrive",
+        "moonriver"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "ont",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "ont",
+        "ontology"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "polygon",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "polygon",
+        "polygon-zkevm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "telos",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "telos",
+        "tlos"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBranded",
+      "glyphName": "usn",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "usn",
+        "wallet-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBrandedSecondary",
+      "glyphName": "hedera",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "hedera",
+        "hedera-hashgraph"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBrandedSecondary",
+      "glyphName": "milkomeda-a1",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "milkomeda-a1",
+        "milkomeda-c1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TokenBrandedSecondary",
+      "glyphName": "moonrive",
+      "prefix": "token-branded",
+      "sampleIcons": [
+        "moonrive",
+        "moonriver"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "primary-empty",
+      "codepoint": 57950,
+      "icon": "h2o",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "primary-empty",
+      "codepoint": 58722,
+      "icon": "susd",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58029,
+      "icon": "inv",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 172,
+        "xMin": 0,
+        "yMax": 804,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 704,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58280,
+      "icon": "mvl",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 786,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 611,
+      "secondary": {
+        "xMax": 265,
+        "xMin": 0,
+        "yMax": 580,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57918,
+      "icon": "go",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 493,
+      "secondary": {
+        "xMax": 383,
+        "xMin": 0,
+        "yMax": 830,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58302,
+      "icon": "nct",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 880,
+        "xMin": 0,
+        "yMax": 852,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 472,
+      "secondary": {
+        "xMax": 408,
+        "xMin": 0,
+        "yMax": 594,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58440,
+      "icon": "pkt",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 630,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 469,
+      "secondary": {
+        "xMax": 406,
+        "xMin": 0,
+        "yMax": 649,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57672,
+      "icon": "cuminu",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 354,
+        "xMin": 0,
+        "yMax": 604,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 458,
+      "secondary": {
+        "xMax": 812,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57985,
+      "icon": "hpo",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 441,
+      "secondary": {
+        "xMax": 434,
+        "xMin": 0,
+        "yMax": 567,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57366,
+      "icon": "adoge",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 922,
+        "xMin": 0,
+        "yMax": 921,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 422,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 746,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58037,
+      "icon": "iq",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 453,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 422,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57875,
+      "icon": "fx",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 454,
+        "xMin": 0,
+        "yMax": 783,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 421,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 547,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57344,
+      "icon": "0x0",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 479,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 401,
+      "secondary": {
+        "xMax": 880,
+        "xMin": 0,
+        "yMax": 878,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58453,
+      "icon": "png",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 491,
+        "xMin": 0,
+        "yMax": 699,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 384,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57986,
+      "icon": "hst",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 881,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 381,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57715,
+      "icon": "dgnx",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 880,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 375,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 624,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58538,
+      "icon": "rbd",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 501,
+        "xMin": 0,
+        "yMax": 576,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 374,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57819,
+      "icon": "exd",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 425,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 351,
+      "secondary": {
+        "xMax": 776,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58125,
+      "icon": "libre",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 345,
+      "secondary": {
+        "xMax": 446,
+        "xMin": 0,
+        "yMax": 401,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57624,
+      "icon": "cnd",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 326,
+      "secondary": {
+        "xMax": 549,
+        "xMin": 0,
+        "yMax": 549,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57430,
+      "icon": "asd",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 593,
+        "xMin": 0,
+        "yMax": 655,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 323,
+      "secondary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 781,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58415,
+      "icon": "pdex",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 322,
+      "secondary": {
+        "xMax": 554,
+        "xMin": 0,
+        "yMax": 554,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58508,
+      "icon": "qanx",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 641,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 322,
+      "secondary": {
+        "xMax": 553,
+        "xMin": 0,
+        "yMax": 640,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58298,
+      "icon": "nblu",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 762,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 321,
+      "secondary": {
+        "xMax": 556,
+        "xMin": 0,
+        "yMax": 762,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57379,
+      "icon": "ai",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 562,
+        "xMin": 0,
+        "yMax": 537,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 313,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 537,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57542,
+      "icon": "bscpad",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 795,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 306,
+      "secondary": {
+        "xMax": 489,
+        "xMin": 0,
+        "yMax": 743,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58162,
+      "icon": "lusd",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 880,
+        "xMin": 0,
+        "yMax": 869,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 306,
+      "secondary": {
+        "xMax": 574,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58212,
+      "icon": "milkomeda-a1",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 579,
+        "xMin": 0,
+        "yMax": 569,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 297,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 707,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58213,
+      "icon": "milkomeda-c1",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 579,
+        "xMin": 0,
+        "yMax": 569,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 297,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 707,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58419,
+      "icon": "pendle",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 811,
+        "xMin": 0,
+        "yMax": 879,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 281,
+      "secondary": {
+        "xMax": 530,
+        "xMin": 0,
+        "yMax": 852,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58875,
+      "icon": "vix",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 594,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 281,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 840,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57473,
+      "icon": "bcd",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 815,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 274,
+      "secondary": {
+        "xMax": 601,
+        "xMin": 0,
+        "yMax": 664,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57797,
+      "icon": "es",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 268,
+      "secondary": {
+        "xMax": 608,
+        "xMin": 0,
+        "yMax": 683,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58735,
+      "icon": "sylo",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 880,
+        "xMin": 0,
+        "yMax": 609,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 268,
+      "secondary": {
+        "xMax": 612,
+        "xMin": 0,
+        "yMax": 679,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57736,
+      "icon": "dose",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 860,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 266,
+      "secondary": {
+        "xMax": 594,
+        "xMin": 0,
+        "yMax": 641,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58394,
+      "icon": "oxb",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 594,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 264,
+      "secondary": {
+        "xMax": 613,
+        "xMin": 0,
+        "yMax": 594,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57629,
+      "icon": "coinex-smart-chain",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 744,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 263,
+      "secondary": {
+        "xMax": 614,
+        "xMin": 0,
+        "yMax": 744,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57830,
+      "icon": "fdusd",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 579,
+        "xMin": 0,
+        "yMax": 305,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 258,
+      "secondary": {
+        "xMax": 837,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58009,
+      "icon": "idia",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 539,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 256,
+      "secondary": {
+        "xMax": 795,
+        "xMin": 0,
+        "yMax": 783,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58141,
+      "icon": "looks",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 251,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58467,
+      "icon": "pond",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 250,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 754,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57637,
+      "icon": "corn",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 245,
+      "secondary": {
+        "xMax": 630,
+        "xMin": 0,
+        "yMax": 745,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58030,
+      "icon": "ion",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 878,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 240,
+      "secondary": {
+        "xMax": 637,
+        "xMin": 0,
+        "yMax": 616,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58451,
+      "icon": "ply",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 881,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 225,
+      "secondary": {
+        "xMax": 656,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58579,
+      "icon": "rpg",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 881,
+        "xMin": 0,
+        "yMax": 705,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 222,
+      "secondary": {
+        "xMax": 659,
+        "xMin": 0,
+        "yMax": 677,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57515,
+      "icon": "bmx",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 798,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 221,
+      "secondary": {
+        "xMax": 577,
+        "xMin": 0,
+        "yMax": 766,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57960,
+      "icon": "hedera",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 221,
+      "secondary": {
+        "xMax": 654,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57961,
+      "icon": "hedera-hashgraph",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 221,
+      "secondary": {
+        "xMax": 654,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58026,
+      "icon": "insur",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 658,
+        "xMin": 0,
+        "yMax": 766,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 219,
+      "secondary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 764,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58164,
+      "icon": "lym",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 770,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 219,
+      "secondary": {
+        "xMax": 886,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58532,
+      "icon": "ramp",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 599,
+        "xMin": 0,
+        "yMax": 620,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 217,
+      "secondary": {
+        "xMax": 816,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57544,
+      "icon": "bsgg",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 547,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 212,
+      "secondary": {
+        "xMax": 759,
+        "xMin": 0,
+        "yMax": 677,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57581,
+      "icon": "cbeth",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 212,
+      "secondary": {
+        "xMax": 663,
+        "xMin": 0,
+        "yMax": 781,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58750,
+      "icon": "tetu",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 210,
+      "secondary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 796,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58007,
+      "icon": "idea",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 837,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 208,
+      "secondary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 651,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58044,
+      "icon": "ixt",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 208,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58604,
+      "icon": "sbd",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 853,
+        "xMin": 0,
+        "yMax": 798,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 206,
+      "secondary": {
+        "xMax": 647,
+        "xMin": 0,
+        "yMax": 878,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58933,
+      "icon": "xaut",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 837,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 206,
+      "secondary": {
+        "xMax": 669,
+        "xMin": 0,
+        "yMax": 725,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57477,
+      "icon": "bct",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 672,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 205,
+      "secondary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 675,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57582,
+      "icon": "cbx",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 819,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 205,
+      "secondary": {
+        "xMax": 614,
+        "xMin": 0,
+        "yMax": 874,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57708,
+      "icon": "dext",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 204,
+      "secondary": {
+        "xMax": 674,
+        "xMin": 0,
+        "yMax": 668,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57968,
+      "icon": "hez",
+      "prefix": "token-branded",
+      "primary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "primaryFont": "TokenBranded",
+      "score": 200,
+      "secondary": {
+        "xMax": 677,
+        "xMin": 0,
+        "yMax": 722,
+        "yMin": 0
+      },
+      "secondaryFont": "TokenBrandedSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "TokenBranded",
+      "headBbox": "0..1000 / 0..923",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "token-branded",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "TokenBrandedSecondary",
+      "headBbox": "0..1000 / 0..917",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "token-branded",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "token-branded",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "TokenBranded",
+      "glyphCount": 1664,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 923,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "TokenBrandedSecondary",
+      "glyphCount": 205,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

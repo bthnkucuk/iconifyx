@@ -1,0 +1,3299 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 15,
+      "font": "StreamlineSharpColor",
+      "glyphName": "align-object-bottom-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "align-object-bottom-flat",
+        "align-text-center-flat",
+        "asterisk-square-flat",
+        "board-flat"
+      ]
+    },
+    {
+      "codepointCount": 13,
+      "font": "StreamlineSharpColor",
+      "glyphName": "attribution-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "attribution-flat",
+        "ball-flat",
+        "dark-display-mode-flat",
+        "division-circle-flat"
+      ]
+    },
+    {
+      "codepointCount": 9,
+      "font": "StreamlineSharpColorSecondary",
+      "glyphName": "battery-empty-2-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "battery-empty-2-flat",
+        "chat-bubble-disable-oval-flat",
+        "cloud-off-flat",
+        "credit-card-disable-flat"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "StreamlineSharpColor",
+      "glyphName": "align-text-center",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "align-text-center",
+        "asterisk-square",
+        "download-square",
+        "facebook-1"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "StreamlineSharpColor",
+      "glyphName": "ball",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "ball",
+        "button-power-circle-1",
+        "elipse-frame",
+        "happy-face"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineSharpColor",
+      "glyphName": "browser-code-2-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "browser-code-2-flat",
+        "browser-error-404-flat",
+        "browser-key-flat"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineSharpColor",
+      "glyphName": "button-power-circle-1-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "button-power-circle-1-flat",
+        "petri-dish-lab-equipment-flat",
+        "smiley-shocked-flat"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineSharpColor",
+      "glyphName": "calendar-add",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "calendar-add",
+        "calendar-mark",
+        "calendar-warning"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineSharpColor",
+      "glyphName": "calendar-add-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "calendar-add-flat",
+        "calendar-mark-flat",
+        "calendar-warning-flat"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineSharpColor",
+      "glyphName": "chat-bubble-crack-square",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "chat-bubble-crack-square",
+        "chat-bubble-square-block",
+        "video-subtitles"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineSharpColor",
+      "glyphName": "chat-bubble-crack-square-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "chat-bubble-crack-square-flat",
+        "chat-bubble-square-block-flat",
+        "video-subtitles-flat"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineSharpColor",
+      "glyphName": "empty-clipboard",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "empty-clipboard",
+        "heart-rate-clipboard",
+        "strategy-tasks"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "browser-code-2",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "browser-code-2",
+        "browser-key"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "card-game-diamond-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "card-game-diamond-flat",
+        "gameboy-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "chat-bubble-typing-oval",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "chat-bubble-typing-oval",
+        "help-chat-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "chat-bubble-typing-oval-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "chat-bubble-typing-oval-flat",
+        "help-chat-2-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "cyborg-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "cyborg-flat",
+        "tool-box-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "eco-house",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "eco-house",
+        "home-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "empty-clipboard-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "empty-clipboard-flat",
+        "heart-rate-clipboard-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "file-bookmark-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "file-bookmark-flat",
+        "zip-file-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "home-1-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "home-1-flat",
+        "pet-friendly-hotel-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "medical-folder-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "medical-folder-flat",
+        "new-folder-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "padlock-square-1-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "padlock-square-1-flat",
+        "padlock-square-2-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "scanner-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "scanner-flat",
+        "voice-scan-1-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColor",
+      "glyphName": "watch-circle-bluetooth-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "watch-circle-bluetooth-flat",
+        "watch-square-time-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColorSecondary",
+      "glyphName": "brightness-1-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "brightness-1-flat",
+        "sun-flat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineSharpColorSecondary",
+      "glyphName": "landing-flat",
+      "prefix": "streamline-sharp-color",
+      "sampleIcons": [
+        "landing-flat",
+        "signal-full-flat"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57373,
+      "icon": "align-left-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 792,
+      "secondary": {
+        "xMax": 147,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57824,
+      "icon": "like-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 230,
+        "xMin": 0,
+        "yMax": 520,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 738,
+      "secondary": {
+        "xMax": 968,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58244,
+      "icon": "triangle-flag-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 831,
+        "xMin": 0,
+        "yMax": 957,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 706,
+      "secondary": {
+        "xMax": 125,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57780,
+      "icon": "insert-row-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 251,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 698,
+      "secondary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 885,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57461,
+      "icon": "bullet-list-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 292,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 667,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58056,
+      "icon": "rss-symbol-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 645,
+      "secondary": {
+        "xMax": 314,
+        "xMin": 0,
+        "yMax": 312,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58174,
+      "icon": "store-factory-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 645,
+      "secondary": {
+        "xMax": 314,
+        "xMin": 0,
+        "yMax": 250,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58034,
+      "icon": "remove-favorite-highlight-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 957,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 579,
+      "secondary": {
+        "xMax": 380,
+        "xMin": 0,
+        "yMax": 383,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57988,
+      "icon": "pin-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 385,
+        "xMin": 0,
+        "yMax": 384,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 574,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58072,
+      "icon": "screwdriver-wrench-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 931,
+        "xMin": 0,
+        "yMax": 952,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 547,
+      "secondary": {
+        "xMax": 384,
+        "xMin": 0,
+        "yMax": 479,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57862,
+      "icon": "megaphone-2-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 542,
+      "secondary": {
+        "xMax": 417,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57736,
+      "icon": "hierarchy-16-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 500,
+      "secondary": {
+        "xMax": 459,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57391,
+      "icon": "arrow-cursor-move-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 484,
+      "secondary": {
+        "xMax": 476,
+        "xMin": 0,
+        "yMax": 956,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57425,
+      "icon": "battery-medium-3-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 479,
+      "secondary": {
+        "xMax": 480,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57520,
+      "icon": "cleaning-room-woman-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 479,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 475,
+      "secondary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57658,
+      "icon": "file-bookmark-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 458,
+      "secondary": {
+        "xMax": 459,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58008,
+      "icon": "pyramid-shape-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 501,
+        "xMin": 0,
+        "yMax": 923,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 455,
+      "secondary": {
+        "xMax": 956,
+        "xMin": 0,
+        "yMax": 924,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57920,
+      "icon": "office-worker-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 468,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 439,
+      "secondary": {
+        "xMax": 520,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58340,
+      "icon": "zip-file-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 436,
+      "secondary": {
+        "xMax": 481,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57347,
+      "icon": "3d-rotate-y-axis-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 435,
+      "secondary": {
+        "xMax": 977,
+        "xMin": 0,
+        "yMax": 802,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57359,
+      "icon": "ai-generate-voice-spark-2-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 977,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 435,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 770,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58038,
+      "icon": "reset-clock-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 427,
+      "secondary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58242,
+      "icon": "tree-3-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 375,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 423,
+      "secondary": {
+        "xMax": 965,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58302,
+      "icon": "volume-level-high-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 965,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 423,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 956,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58134,
+      "icon": "smart-key-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 982,
+        "xMin": 0,
+        "yMax": 922,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 422,
+      "secondary": {
+        "xMax": 561,
+        "xMin": -1,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57764,
+      "icon": "image-highlights-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 922,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 420,
+      "secondary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 923,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58190,
+      "icon": "symmetry-mirror-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 961,
+        "xMin": 0,
+        "yMax": 920,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 419,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58180,
+      "icon": "street-sign-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 418,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57782,
+      "icon": "insert-top-left-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 417,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57820,
+      "icon": "lift-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 417,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58018,
+      "icon": "rate-stretch-tool-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 417,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 885,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58168,
+      "icon": "stock-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 417,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58144,
+      "icon": "song-recommendation-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 961,
+        "xMin": 0,
+        "yMax": 954,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 416,
+      "secondary": {
+        "xMax": 545,
+        "xMin": 0,
+        "yMax": 895,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57594,
+      "icon": "delete-tag-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 943,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 410,
+      "secondary": {
+        "xMax": 533,
+        "xMin": 0,
+        "yMax": 648,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58304,
+      "icon": "volume-sleep-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 395,
+      "secondary": {
+        "xMax": 564,
+        "xMin": 0,
+        "yMax": 955,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58324,
+      "icon": "water-drop-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 895,
+        "xMin": 0,
+        "yMax": 976,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 395,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 417,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58310,
+      "icon": "warning-shield-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 927,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 385,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57776,
+      "icon": "input-box-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 375,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57876,
+      "icon": "missed-call-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 955,
+        "xMin": 0,
+        "yMax": 747,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 375,
+      "secondary": {
+        "xMax": 580,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58288,
+      "icon": "view-document-files-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 578,
+        "xMin": 0,
+        "yMax": 411,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 371,
+      "secondary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 974,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57758,
+      "icon": "hotel-three-star-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 978,
+        "xMin": 0,
+        "yMax": 954,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 362,
+      "secondary": {
+        "xMax": 616,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57790,
+      "icon": "iris-scan-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 362,
+      "secondary": {
+        "xMax": 597,
+        "xMin": 0,
+        "yMax": 594,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57518,
+      "icon": "clean-broom-wipe-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 957,
+        "xMin": 0,
+        "yMax": 957,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 360,
+      "secondary": {
+        "xMax": 597,
+        "xMin": 0,
+        "yMax": 464,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57786,
+      "icon": "investing-and-banking-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 355,
+      "secondary": {
+        "xMax": 605,
+        "xMin": 0,
+        "yMax": 604,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57694,
+      "icon": "gas-station-fuel-petroleum-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 342,
+      "secondary": {
+        "xMax": 967,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57427,
+      "icon": "bell-notification-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 925,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 341,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 125,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57550,
+      "icon": "crutch-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 334,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57774,
+      "icon": "information-circle-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 333,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58200,
+      "icon": "target-3-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 333,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58218,
+      "icon": "threat-usb-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 332,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58058,
+      "icon": "ruler-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 325,
+      "secondary": {
+        "xMax": 634,
+        "xMin": 0,
+        "yMax": 832,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57602,
+      "icon": "diagonal-scroll-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 323,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 645,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58294,
+      "icon": "visible-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 982,
+        "xMin": 0,
+        "yMax": 871,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 316,
+      "secondary": {
+        "xMax": 666,
+        "xMin": 0,
+        "yMax": 658,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58274,
+      "icon": "user-protection-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 479,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 313,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58048,
+      "icon": "roller-paintbrush-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 647,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 312,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58130,
+      "icon": "skype-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 966,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 312,
+      "secondary": {
+        "xMax": 654,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57413,
+      "icon": "attribution-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 311,
+      "secondary": {
+        "xMax": 647,
+        "xMin": 0,
+        "yMax": 799,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58230,
+      "icon": "tooth-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 952,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 311,
+      "secondary": {
+        "xMax": 638,
+        "xMin": 0,
+        "yMax": 749,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57405,
+      "icon": "arrow-up-dashed-square-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 652,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 307,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57480,
+      "icon": "camera-setting-pin-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 303,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58110,
+      "icon": "shopping-cart-add-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 302,
+      "secondary": {
+        "xMax": 635,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58260,
+      "icon": "user-add-plus-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 302,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 417,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57570,
+      "icon": "dark-display-mode-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 301,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 760,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57816,
+      "icon": "leaf-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 956,
+        "xMin": 0,
+        "yMax": 955,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 301,
+      "secondary": {
+        "xMax": 655,
+        "xMin": 0,
+        "yMax": 654,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58232,
+      "icon": "traffic-light-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 885,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 301,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 840,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57906,
+      "icon": "non-commercial-dollars-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 674,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 295,
+      "secondary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57732,
+      "icon": "help-chat-2-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 293,
+      "secondary": {
+        "xMax": 665,
+        "xMin": 0,
+        "yMax": 771,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57682,
+      "icon": "following-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 292,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 395,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57804,
+      "icon": "laptop-project-screen-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 292,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 657,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58184,
+      "icon": "sun-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 292,
+      "secondary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58282,
+      "icon": "user-work-laptop-wifi-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 292,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 963,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57445,
+      "icon": "brightness-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 291,
+      "secondary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57850,
+      "icon": "mail-send-email-message-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 952,
+        "xMin": 0,
+        "yMax": 957,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 291,
+      "secondary": {
+        "xMax": 661,
+        "xMin": 0,
+        "yMax": 666,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58323,
+      "icon": "water-drop-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 291,
+      "secondary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58238,
+      "icon": "translate-text-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 290,
+      "secondary": {
+        "xMax": 915,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57409,
+      "icon": "artificial-intelligence-brain-chip-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 997,
+        "xMin": 0,
+        "yMax": 968,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 285,
+      "secondary": {
+        "xMax": 712,
+        "xMin": 0,
+        "yMax": 712,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57856,
+      "icon": "medical-folder-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 280,
+      "secondary": {
+        "xMax": 679,
+        "xMin": 0,
+        "yMax": 562,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57844,
+      "icon": "magic-wand-2-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 656,
+        "xMin": 0,
+        "yMax": 658,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 279,
+      "secondary": {
+        "xMax": 935,
+        "xMin": 0,
+        "yMax": 942,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57634,
+      "icon": "eco-house-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 952,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 278,
+      "secondary": {
+        "xMax": 674,
+        "xMin": 0,
+        "yMax": 650,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57554,
+      "icon": "cursor-click-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 274,
+      "secondary": {
+        "xMax": 685,
+        "xMin": 0,
+        "yMax": 970,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58222,
+      "icon": "time-lapse-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 273,
+      "secondary": {
+        "xMax": 696,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57417,
+      "icon": "bag-suitcase-add-plus-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 960,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 270,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57620,
+      "icon": "download-square-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 270,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57950,
+      "icon": "pathfinder-outline-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 270,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58126,
+      "icon": "sizing-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 270,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58258,
+      "icon": "upload-square-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 270,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57724,
+      "icon": "happy-face-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 269,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58176,
+      "icon": "story-post-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 269,
+      "secondary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57345,
+      "icon": "3d-move-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 692,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 268,
+      "secondary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57383,
+      "icon": "apple-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 941,
+        "xMin": 0,
+        "yMax": 820,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 265,
+      "secondary": {
+        "xMax": 676,
+        "xMin": 0,
+        "yMax": 957,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58080,
+      "icon": "select-all-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 260,
+      "secondary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57976,
+      "icon": "phone-personal-hotspot-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 256,
+      "secondary": {
+        "xMax": 965,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57630,
+      "icon": "drum-stick-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 964,
+        "xMin": 0,
+        "yMax": 461,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 255,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 962,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57936,
+      "icon": "panoramic-screen-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 956,
+        "xMin": 0,
+        "yMax": 809,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 254,
+      "secondary": {
+        "xMax": 702,
+        "xMin": 0,
+        "yMax": 752,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57478,
+      "icon": "camera-flip-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 965,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 252,
+      "secondary": {
+        "xMax": 707,
+        "xMin": 0,
+        "yMax": 699,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57784,
+      "icon": "insurance-hands-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 251,
+      "secondary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57958,
+      "icon": "pen-tool-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57972,
+      "icon": "phone-message-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57974,
+      "icon": "phone-pen-2-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58240,
+      "icon": "transparent-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58252,
+      "icon": "type-area-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58256,
+      "icon": "upload-computer-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58266,
+      "icon": "user-feedback-heart-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 970,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58220,
+      "icon": "ticket-star-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 249,
+      "secondary": {
+        "xMax": 700,
+        "xMin": 0,
+        "yMax": 700,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58182,
+      "icon": "summit-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 248,
+      "secondary": {
+        "xMax": 712,
+        "xMin": 0,
+        "yMax": 577,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58196,
+      "icon": "table-lamp-2-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 302,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 247,
+      "secondary": {
+        "xMax": 914,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57664,
+      "icon": "fire-alarm-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 713,
+        "xMin": 0,
+        "yMax": 963,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 246,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57381,
+      "icon": "allergens-peanut-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 245,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57998,
+      "icon": "polaroid-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 242,
+      "secondary": {
+        "xMax": 951,
+        "xMin": 0,
+        "yMax": 741,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57640,
+      "icon": "electric-cord-3-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 968,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 241,
+      "secondary": {
+        "xMax": 727,
+        "xMin": 0,
+        "yMax": 604,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57612,
+      "icon": "dollar-increase-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 240,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57548,
+      "icon": "critical-thinking-2-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 915,
+        "xMin": 0,
+        "yMax": 951,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 238,
+      "secondary": {
+        "xMax": 677,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57676,
+      "icon": "floppy-disk-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 234,
+      "secondary": {
+        "xMax": 725,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57463,
+      "icon": "business-idea-money-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 857,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 231,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58012,
+      "icon": "rabbit-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 940,
+        "xMin": 0,
+        "yMax": 952,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 231,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57926,
+      "icon": "padlock-shield-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 230,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57720,
+      "icon": "hand-washing-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 730,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 227,
+      "secondary": {
+        "xMax": 957,
+        "xMin": 0,
+        "yMax": 960,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57830,
+      "icon": "location-compass-2-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 226,
+      "secondary": {
+        "xMax": 732,
+        "xMin": 0,
+        "yMax": 732,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57606,
+      "icon": "discount-percent-fire-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 885,
+        "xMin": 0,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 225,
+      "secondary": {
+        "xMax": 660,
+        "xMin": 0,
+        "yMax": 512,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57624,
+      "icon": "drawing-compass-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 867,
+        "xMin": 0,
+        "yMax": 731,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 224,
+      "secondary": {
+        "xMax": 643,
+        "xMin": 0,
+        "yMax": 979,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57970,
+      "icon": "phone-circle-off-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 735,
+        "xMin": 0,
+        "yMax": 724,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 223,
+      "secondary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57978,
+      "icon": "phone-ringing-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 222,
+      "secondary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 732,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57411,
+      "icon": "asterisk-square-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 221,
+      "secondary": {
+        "xMax": 738,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58150,
+      "icon": "speaker-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 958,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 745,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58308,
+      "icon": "warehouse-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 740,
+        "xMin": 0,
+        "yMax": 594,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57648,
+      "icon": "empty-clipboard-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 885,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57964,
+      "icon": "pet-friendly-hotel-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 972,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 212,
+      "secondary": {
+        "xMax": 747,
+        "xMin": 0,
+        "yMax": 638,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57538,
+      "icon": "contact-book-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 209,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57580,
+      "icon": "database-server-2-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 209,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57600,
+      "icon": "device-database-encryption-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 209,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57638,
+      "icon": "eject-square-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 209,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 749,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57746,
+      "icon": "horizontal-menu-square-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 209,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57904,
+      "icon": "no-word-wrap-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 209,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58262,
+      "icon": "user-arrows-account-switch-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 760,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 209,
+      "secondary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57415,
+      "icon": "bag-dollar-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 208,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 760,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57504,
+      "icon": "chat-bubble-typing-oval-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 208,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 552,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57762,
+      "icon": "ice-cream-1-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 250,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 208,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 965,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58004,
+      "icon": "presentation-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 208,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 770,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58162,
+      "icon": "star-circle-flat",
+      "prefix": "streamline-sharp-color",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineSharpColor",
+      "score": 202,
+      "secondary": {
+        "xMax": 756,
+        "xMin": 0,
+        "yMax": 770,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineSharpColorSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "StreamlineSharpColor",
+      "headBbox": "0..1001 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "streamline-sharp-color",
+      "reasons": [
+        "head.xMax=1001",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "StreamlineSharpColorSecondary",
+      "headBbox": "-1..1000 / -6..987",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 6,
+      "prefix": "streamline-sharp-color",
+      "reasons": [
+        "head.xMin=-1",
+        "head.yMin=-6",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=6"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "streamline-sharp-color",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "StreamlineSharpColor",
+      "glyphCount": 999,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "StreamlineSharpColorSecondary",
+      "glyphCount": 437,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 987,
+        "yMin": -6
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 6
+      }
+    }
+  ]
+}

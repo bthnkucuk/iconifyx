@@ -1,0 +1,154 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "arrowtriangle-right-circle",
+      "prefix": "f7",
+      "sampleIcons": [
+        "arrowtriangle-right-circle",
+        "play-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "arrowtriangle-right-circle-fill",
+      "prefix": "f7",
+      "sampleIcons": [
+        "arrowtriangle-right-circle-fill",
+        "play-circle-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "heart",
+      "prefix": "f7",
+      "sampleIcons": [
+        "heart",
+        "suit-heart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "heart-fill",
+      "prefix": "f7",
+      "sampleIcons": [
+        "heart-fill",
+        "suit-heart-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "multiply-circle",
+      "prefix": "f7",
+      "sampleIcons": [
+        "multiply-circle",
+        "xmark-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "multiply-circle-fill",
+      "prefix": "f7",
+      "sampleIcons": [
+        "multiply-circle-fill",
+        "xmark-circle-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "multiply-square",
+      "prefix": "f7",
+      "sampleIcons": [
+        "multiply-square",
+        "xmark-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "multiply-square-fill",
+      "prefix": "f7",
+      "sampleIcons": [
+        "multiply-square-fill",
+        "xmark-square-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "rhombus",
+      "prefix": "f7",
+      "sampleIcons": [
+        "rhombus",
+        "suit-diamond"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "F7",
+      "glyphName": "rhombus-fill",
+      "prefix": "f7",
+      "sampleIcons": [
+        "rhombus-fill",
+        "suit-diamond-fill"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "F7",
+      "headBbox": "-18..1001 / -6..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 6,
+      "prefix": "f7",
+      "reasons": [
+        "head.xMin=-18",
+        "head.xMax=1001",
+        "head.yMin=-6",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=6"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "f7",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "F7",
+      "glyphCount": 1250,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": -18,
+        "yMax": 1001,
+        "yMin": -6
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 6
+      }
+    }
+  ]
+}

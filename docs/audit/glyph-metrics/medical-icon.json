@@ -1,0 +1,261 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "MedicalIcon",
+      "headBbox": "0..1006 / -2..1004",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 2,
+      "prefix": "medical-icon",
+      "reasons": [
+        "head.xMax=1006",
+        "head.yMin=-2",
+        "head.yMax=1004",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=2"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1015,
+      "codepoint": 57346,
+      "font": "MedicalIcon",
+      "name": "alternative-complementary",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57348,
+      "font": "MedicalIcon",
+      "name": "anesthesia",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57358,
+      "font": "MedicalIcon",
+      "name": "drinking-fountain",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57360,
+      "font": "MedicalIcon",
+      "name": "elevators",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57363,
+      "font": "MedicalIcon",
+      "name": "fire-extinguisher",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57364,
+      "font": "MedicalIcon",
+      "name": "first-aid",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1015,
+      "codepoint": 57367,
+      "font": "MedicalIcon",
+      "name": "health-education",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57369,
+      "font": "MedicalIcon",
+      "name": "hearing-assistance",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1015,
+      "codepoint": 57373,
+      "font": "MedicalIcon",
+      "name": "i-alternative-complementary",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57375,
+      "font": "MedicalIcon",
+      "name": "i-anesthesia",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57384,
+      "font": "MedicalIcon",
+      "name": "i-drinking-fountain",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57386,
+      "font": "MedicalIcon",
+      "name": "i-elevators",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57389,
+      "font": "MedicalIcon",
+      "name": "i-fire-extinguisher",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57390,
+      "font": "MedicalIcon",
+      "name": "i-first-aid",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1015,
+      "codepoint": 57393,
+      "font": "MedicalIcon",
+      "name": "i-health-education",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57395,
+      "font": "MedicalIcon",
+      "name": "i-hearing-assistance",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57398,
+      "font": "MedicalIcon",
+      "name": "i-imaging-alternative-mri",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1015,
+      "codepoint": 57400,
+      "font": "MedicalIcon",
+      "name": "i-imaging-alternative-pet",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57404,
+      "font": "MedicalIcon",
+      "name": "i-information-us",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57424,
+      "font": "MedicalIcon",
+      "name": "i-pathology",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57435,
+      "font": "MedicalIcon",
+      "name": "i-stairs",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57443,
+      "font": "MedicalIcon",
+      "name": "imaging-alternative-mri",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1015,
+      "codepoint": 57445,
+      "font": "MedicalIcon",
+      "name": "imaging-alternative-pet",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57449,
+      "font": "MedicalIcon",
+      "name": "information-us",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57469,
+      "font": "MedicalIcon",
+      "name": "pathology",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57480,
+      "font": "MedicalIcon",
+      "name": "stairs",
+      "prefix": "medical-icon",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "medical-icon",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "MedicalIcon",
+      "glyphCount": 143,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1006,
+        "xMin": 0,
+        "yMax": 1004,
+        "yMin": -2
+      },
+      "hhea": {
+        "advanceWidthMax": 1015,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,2973 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 12,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-clipperton-island",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-clipperton-island",
+        "flag-for-flag-clipperton-island",
+        "flag-for-flag-nigeria",
+        "flag-for-flag-peru"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-austria",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-austria",
+        "flag-for-flag-austria",
+        "flag-for-flag-luxembourg",
+        "flag-for-flag-sierra-leone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-chad",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-chad",
+        "flag-for-flag-chad",
+        "flag-for-flag-france",
+        "flag-for-flag-guinea"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-cote-divoire",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-cote-divoire",
+        "flag-for-flag-cote-divoire",
+        "flag-for-flag-ireland",
+        "flag-for-flag-italy"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-indonesia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-indonesia",
+        "flag-for-flag-monaco",
+        "flag-for-flag-ukraine",
+        "flag-for-indonesia"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-aland-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-aland-islands",
+        "flag-for-flag-aland-islands",
+        "flag-for-flag-svalbard-and-jan-mayen",
+        "flag-for-svalbard-and-jan-mayen"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-british-indian-ocean-territory",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-british-indian-ocean-territory",
+        "flag-for-diego-garcia",
+        "flag-for-flag-british-indian-ocean-territory",
+        "flag-for-flag-diego-garcia"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-netherlands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-netherlands",
+        "flag-for-flag-yemen",
+        "flag-for-netherlands",
+        "flag-for-yemen"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "EmojioneMonotone",
+      "glyphName": "black-circle",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "black-circle",
+        "new-moon",
+        "red-circle"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "EmojioneMonotone",
+      "glyphName": "blue-heart",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "blue-heart",
+        "green-heart",
+        "purple-heart"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "EmojioneMonotone",
+      "glyphName": "divide",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "divide",
+        "division-sign",
+        "heavy-division-sign"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-macedonia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-macedonia",
+        "flag-for-flag-north-macedonia",
+        "flag-for-macedonia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "EmojioneMonotone",
+      "glyphName": "heavy-minus-sign",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "heavy-minus-sign",
+        "minus",
+        "minus-sign"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "EmojioneMonotone",
+      "glyphName": "heavy-multiplication-x",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "heavy-multiplication-x",
+        "multiplication-sign",
+        "multiply"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "EmojioneMonotone",
+      "glyphName": "heavy-plus-sign",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "heavy-plus-sign",
+        "plus",
+        "plus-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "anticlockwise-arrows-button",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "anticlockwise-arrows-button",
+        "counterclockwise-arrows-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "anxious-face-with-sweat",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "anxious-face-with-sweat",
+        "face-with-open-mouth-and-cold-sweat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "backpack",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "backpack",
+        "school-backpack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "ballot-box-with-check",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "ballot-box-with-check",
+        "check-box-with-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "bullet-train",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "bullet-train",
+        "high-speed-train-with-bullet-nose"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "check-mark",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "check-mark",
+        "heavy-check-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "check-mark-button",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "check-mark-button",
+        "white-heavy-check-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "cricket",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "cricket",
+        "cricket-game"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "disappointed-but-relieved-face",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "disappointed-but-relieved-face",
+        "sad-but-relieved-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "down-button",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "down-button",
+        "downwards-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "downcast-face-with-sweat",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "downcast-face-with-sweat",
+        "face-with-cold-sweat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "face-savoring-food",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "face-savoring-food",
+        "face-savouring-delicious-food"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "face-with-stuck-out-tongue",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "face-with-stuck-out-tongue",
+        "face-with-tongue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "face-with-stuck-out-tongue-and-closed-eyes",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "face-with-stuck-out-tongue-and-closed-eyes",
+        "squinting-face-with-tongue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "face-with-stuck-out-tongue-and-winking-eye",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "face-with-stuck-out-tongue-and-winking-eye",
+        "winking-face-with-tongue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "first-quarter-moon-face",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "first-quarter-moon-face",
+        "first-quarter-moon-with-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-afghanistan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-afghanistan",
+        "flag-for-flag-afghanistan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-albania",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-albania",
+        "flag-for-flag-albania"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-algeria",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-algeria",
+        "flag-for-flag-algeria"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-american-samoa",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-american-samoa",
+        "flag-for-flag-american-samoa"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-andorra",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-andorra",
+        "flag-for-flag-andorra"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-anguilla",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-anguilla",
+        "flag-for-flag-anguilla"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-antarctica",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-antarctica",
+        "flag-for-flag-antarctica"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-antigua-and-barbuda",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-antigua-and-barbuda",
+        "flag-for-flag-antigua-and-barbuda"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-argentina",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-argentina",
+        "flag-for-flag-argentina"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-armenia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-armenia",
+        "flag-for-flag-armenia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-aruba",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-aruba",
+        "flag-for-flag-aruba"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-ascension-island",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-ascension-island",
+        "flag-for-flag-ascension-island"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-australia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-australia",
+        "flag-for-flag-australia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-azerbaijan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-azerbaijan",
+        "flag-for-flag-azerbaijan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-bahamas",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-bahamas",
+        "flag-for-flag-bahamas"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-bahrain",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-bahrain",
+        "flag-for-flag-bahrain"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-bangladesh",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-bangladesh",
+        "flag-for-flag-bangladesh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-barbados",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-barbados",
+        "flag-for-flag-barbados"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-belarus",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-belarus",
+        "flag-for-flag-belarus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-belgium",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-belgium",
+        "flag-for-flag-belgium"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-belize",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-belize",
+        "flag-for-flag-belize"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-benin",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-benin",
+        "flag-for-flag-benin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-bermuda",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-bermuda",
+        "flag-for-flag-bermuda"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-bhutan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-bhutan",
+        "flag-for-flag-bhutan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-bosnia-and-herzegovina",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-bosnia-and-herzegovina",
+        "flag-for-flag-bosnia-and-herzegovina"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-botswana",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-botswana",
+        "flag-for-flag-botswana"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-bouvet-island",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-bouvet-island",
+        "flag-for-flag-bouvet-island"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-brazil",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-brazil",
+        "flag-for-flag-brazil"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-british-virgin-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-british-virgin-islands",
+        "flag-for-flag-british-virgin-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-brunei",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-brunei",
+        "flag-for-flag-brunei"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-bulgaria",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-bulgaria",
+        "flag-for-flag-bulgaria"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-burkina-faso",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-burkina-faso",
+        "flag-for-flag-burkina-faso"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-burundi",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-burundi",
+        "flag-for-flag-burundi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-cambodia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-cambodia",
+        "flag-for-flag-cambodia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-cameroon",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-cameroon",
+        "flag-for-flag-cameroon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-canada",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-canada",
+        "flag-for-flag-canada"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-canary-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-canary-islands",
+        "flag-for-flag-canary-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-cape-verde",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-cape-verde",
+        "flag-for-flag-cape-verde"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-caribbean-netherlands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-caribbean-netherlands",
+        "flag-for-flag-caribbean-netherlands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-cayman-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-cayman-islands",
+        "flag-for-flag-cayman-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-central-african-republic",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-central-african-republic",
+        "flag-for-flag-central-african-republic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-ceuta-and-melilla",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-ceuta-and-melilla",
+        "flag-for-flag-ceuta-and-melilla"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-chile",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-chile",
+        "flag-for-flag-chile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-china",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-china",
+        "flag-for-flag-china"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-christmas-island",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-christmas-island",
+        "flag-for-flag-christmas-island"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-cocos-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-cocos-islands",
+        "flag-for-flag-cocos-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-colombia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-colombia",
+        "flag-for-flag-colombia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-comoros",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-comoros",
+        "flag-for-flag-comoros"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-congo-brazzaville",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-congo-brazzaville",
+        "flag-for-flag-congo-brazzaville"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-congo-kinshasa",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-congo-kinshasa",
+        "flag-for-flag-congo-kinshasa"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-cook-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-cook-islands",
+        "flag-for-flag-cook-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-costa-rica",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-costa-rica",
+        "flag-for-flag-costa-rica"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-croatia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-croatia",
+        "flag-for-flag-croatia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-cuba",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-cuba",
+        "flag-for-flag-cuba"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-curacao",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-curacao",
+        "flag-for-flag-curacao"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-cyprus",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-cyprus",
+        "flag-for-flag-cyprus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-czechia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-czechia",
+        "flag-for-flag-czechia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-denmark",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-denmark",
+        "flag-for-flag-denmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-djibouti",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-djibouti",
+        "flag-for-flag-djibouti"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-dominica",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-dominica",
+        "flag-for-flag-dominica"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-dominican-republic",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-dominican-republic",
+        "flag-for-flag-dominican-republic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-ecuador",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-ecuador",
+        "flag-for-flag-ecuador"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-egypt",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-egypt",
+        "flag-for-flag-egypt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-el-salvador",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-el-salvador",
+        "flag-for-flag-el-salvador"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-equatorial-guinea",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-equatorial-guinea",
+        "flag-for-flag-equatorial-guinea"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-eritrea",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-eritrea",
+        "flag-for-flag-eritrea"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-estonia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-estonia",
+        "flag-for-flag-estonia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-ethiopia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-ethiopia",
+        "flag-for-flag-ethiopia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-european-union",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-european-union",
+        "flag-for-flag-european-union"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-falkland-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-falkland-islands",
+        "flag-for-flag-falkland-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-faroe-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-faroe-islands",
+        "flag-for-flag-faroe-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-fiji",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-fiji",
+        "flag-for-flag-fiji"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-finland",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-finland",
+        "flag-for-flag-finland"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-eswatini",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-eswatini",
+        "flag-for-swaziland"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-french-guiana",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-french-guiana",
+        "flag-for-french-guiana"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-french-polynesia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-french-polynesia",
+        "flag-for-french-polynesia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-french-southern-territories",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-french-southern-territories",
+        "flag-for-french-southern-territories"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-gabon",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-gabon",
+        "flag-for-gabon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-gambia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-gambia",
+        "flag-for-gambia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-georgia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-georgia",
+        "flag-for-georgia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-germany",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-germany",
+        "flag-for-germany"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-ghana",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-ghana",
+        "flag-for-ghana"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-gibraltar",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-gibraltar",
+        "flag-for-gibraltar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-greece",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-greece",
+        "flag-for-greece"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-greenland",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-greenland",
+        "flag-for-greenland"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-grenada",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-grenada",
+        "flag-for-grenada"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-guadeloupe",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-guadeloupe",
+        "flag-for-guadeloupe"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-guam",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-guam",
+        "flag-for-guam"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-guatemala",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-guatemala",
+        "flag-for-guatemala"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-guernsey",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-guernsey",
+        "flag-for-guernsey"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-guinea-bissau",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-guinea-bissau",
+        "flag-for-guinea-bissau"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-guyana",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-guyana",
+        "flag-for-guyana"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-haiti",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-haiti",
+        "flag-for-haiti"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-heard-and-mcdonald-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-heard-and-mcdonald-islands",
+        "flag-for-heard-and-mcdonald-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-honduras",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-honduras",
+        "flag-for-honduras"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-hong-kong-sar-china",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-hong-kong-sar-china",
+        "flag-for-hong-kong-sar-china"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-hungary",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-hungary",
+        "flag-for-hungary"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-iceland",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-iceland",
+        "flag-for-iceland"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-india",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-india",
+        "flag-for-india"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-iran",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-iran",
+        "flag-for-iran"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-iraq",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-iraq",
+        "flag-for-iraq"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-isle-of-man",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-isle-of-man",
+        "flag-for-isle-of-man"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-israel",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-israel",
+        "flag-for-israel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-jamaica",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-jamaica",
+        "flag-for-jamaica"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-japan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-japan",
+        "flag-for-japan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-jersey",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-jersey",
+        "flag-for-jersey"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-jordan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-jordan",
+        "flag-for-jordan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-kazakhstan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-kazakhstan",
+        "flag-for-kazakhstan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-kenya",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-kenya",
+        "flag-for-kenya"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-kiribati",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-kiribati",
+        "flag-for-kiribati"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-kosovo",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-kosovo",
+        "flag-for-kosovo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-kuwait",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-kuwait",
+        "flag-for-kuwait"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-kyrgyzstan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-kyrgyzstan",
+        "flag-for-kyrgyzstan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-laos",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-laos",
+        "flag-for-laos"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-latvia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-latvia",
+        "flag-for-latvia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-lebanon",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-lebanon",
+        "flag-for-lebanon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-lesotho",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-lesotho",
+        "flag-for-lesotho"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-liberia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-liberia",
+        "flag-for-liberia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-libya",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-libya",
+        "flag-for-libya"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-liechtenstein",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-liechtenstein",
+        "flag-for-liechtenstein"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-lithuania",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-lithuania",
+        "flag-for-lithuania"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-macao-sar-china",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-macao-sar-china",
+        "flag-for-macau-sar-china"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-madagascar",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-madagascar",
+        "flag-for-madagascar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-malawi",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-malawi",
+        "flag-for-malawi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-malaysia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-malaysia",
+        "flag-for-malaysia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-maldives",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-maldives",
+        "flag-for-maldives"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-mali",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-mali",
+        "flag-for-mali"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-malta",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-malta",
+        "flag-for-malta"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-marshall-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-marshall-islands",
+        "flag-for-marshall-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-martinique",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-martinique",
+        "flag-for-martinique"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-mauritania",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-mauritania",
+        "flag-for-mauritania"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-mauritius",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-mauritius",
+        "flag-for-mauritius"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-mayotte",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-mayotte",
+        "flag-for-mayotte"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-mexico",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-mexico",
+        "flag-for-mexico"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-micronesia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-micronesia",
+        "flag-for-micronesia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-moldova",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-moldova",
+        "flag-for-moldova"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-mongolia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-mongolia",
+        "flag-for-mongolia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-montenegro",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-montenegro",
+        "flag-for-montenegro"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-montserrat",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-montserrat",
+        "flag-for-montserrat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-morocco",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-morocco",
+        "flag-for-morocco"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-mozambique",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-mozambique",
+        "flag-for-mozambique"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-myanmar",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-myanmar",
+        "flag-for-myanmar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-namibia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-namibia",
+        "flag-for-namibia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-nauru",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-nauru",
+        "flag-for-nauru"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-nepal",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-nepal",
+        "flag-for-nepal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-new-caledonia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-new-caledonia",
+        "flag-for-new-caledonia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-new-zealand",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-new-zealand",
+        "flag-for-new-zealand"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-nicaragua",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-nicaragua",
+        "flag-for-nicaragua"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-niger",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-niger",
+        "flag-for-niger"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-niue",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-niue",
+        "flag-for-niue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-norfolk-island",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-norfolk-island",
+        "flag-for-norfolk-island"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-north-korea",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-north-korea",
+        "flag-for-north-korea"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-northern-mariana-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-northern-mariana-islands",
+        "flag-for-northern-mariana-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-norway",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-norway",
+        "flag-for-norway"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-oman",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-oman",
+        "flag-for-oman"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-pakistan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-pakistan",
+        "flag-for-pakistan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-palau",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-palau",
+        "flag-for-palau"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-palestinian-territories",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-palestinian-territories",
+        "flag-for-palestinian-territories"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-panama",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-panama",
+        "flag-for-panama"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-papua-new-guinea",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-papua-new-guinea",
+        "flag-for-papua-new-guinea"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-paraguay",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-paraguay",
+        "flag-for-paraguay"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-philippines",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-philippines",
+        "flag-for-philippines"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-pitcairn-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-pitcairn-islands",
+        "flag-for-pitcairn-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-poland",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-poland",
+        "flag-for-poland"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-portugal",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-portugal",
+        "flag-for-portugal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-puerto-rico",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-puerto-rico",
+        "flag-for-puerto-rico"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-qatar",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-qatar",
+        "flag-for-qatar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-reunion",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-reunion",
+        "flag-for-reunion"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-russia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-russia",
+        "flag-for-russia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-rwanda",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-rwanda",
+        "flag-for-rwanda"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-samoa",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-samoa",
+        "flag-for-samoa"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-san-marino",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-san-marino",
+        "flag-for-san-marino"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-sao-tome-and-principe",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-sao-tome-and-principe",
+        "flag-for-sao-tome-and-principe"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-saudi-arabia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-saudi-arabia",
+        "flag-for-saudi-arabia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-senegal",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-senegal",
+        "flag-for-senegal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-serbia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-serbia",
+        "flag-for-serbia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-seychelles",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-seychelles",
+        "flag-for-seychelles"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-singapore",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-singapore",
+        "flag-for-singapore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-sint-maarten",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-sint-maarten",
+        "flag-for-sint-maarten"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-slovakia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-slovakia",
+        "flag-for-slovakia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-slovenia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-slovenia",
+        "flag-for-slovenia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-solomon-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-solomon-islands",
+        "flag-for-solomon-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-somalia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-somalia",
+        "flag-for-somalia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-south-africa",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-south-africa",
+        "flag-for-south-africa"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-south-georgia-and-south-sandwich-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-south-georgia-and-south-sandwich-islands",
+        "flag-for-south-georgia-and-south-sandwich-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-south-korea",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-south-korea",
+        "flag-for-south-korea"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-south-sudan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-south-sudan",
+        "flag-for-south-sudan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-spain",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-spain",
+        "flag-for-spain"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-sri-lanka",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-sri-lanka",
+        "flag-for-sri-lanka"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-st-barthelemy",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-st-barthelemy",
+        "flag-for-st-barthelemy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-st-helena",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-st-helena",
+        "flag-for-st-helena"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-st-kitts-and-nevis",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-st-kitts-and-nevis",
+        "flag-for-st-kitts-and-nevis"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-st-lucia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-st-lucia",
+        "flag-for-st-lucia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-st-pierre-and-miquelon",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-st-pierre-and-miquelon",
+        "flag-for-st-pierre-and-miquelon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-st-vincent-and-grenadines",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-st-vincent-and-grenadines",
+        "flag-for-st-vincent-and-grenadines"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-sudan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-sudan",
+        "flag-for-sudan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-suriname",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-suriname",
+        "flag-for-suriname"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-sweden",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-sweden",
+        "flag-for-sweden"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-switzerland",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-switzerland",
+        "flag-for-switzerland"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-syria",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-syria",
+        "flag-for-syria"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-taiwan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-taiwan",
+        "flag-for-taiwan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-tajikistan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-tajikistan",
+        "flag-for-tajikistan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-tanzania",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-tanzania",
+        "flag-for-tanzania"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-thailand",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-thailand",
+        "flag-for-thailand"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-timor-leste",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-timor-leste",
+        "flag-for-timor-leste"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-togo",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-togo",
+        "flag-for-togo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-tokelau",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-tokelau",
+        "flag-for-tokelau"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-tonga",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-tonga",
+        "flag-for-tonga"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-trinidad-and-tobago",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-trinidad-and-tobago",
+        "flag-for-trinidad-and-tobago"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-tristan-da-cunha",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-tristan-da-cunha",
+        "flag-for-tristan-da-cunha"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-tunisia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-tunisia",
+        "flag-for-tunisia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-turkey",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-turkey",
+        "flag-for-turkey"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-turkmenistan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-turkmenistan",
+        "flag-for-turkmenistan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-turks-and-caicos-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-turks-and-caicos-islands",
+        "flag-for-turks-and-caicos-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-tuvalu",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-tuvalu",
+        "flag-for-tuvalu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-uganda",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-uganda",
+        "flag-for-uganda"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-united-arab-emirates",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-united-arab-emirates",
+        "flag-for-united-arab-emirates"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-united-kingdom",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-united-kingdom",
+        "flag-for-united-kingdom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-united-states",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-united-states",
+        "flag-for-united-states"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-uruguay",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-uruguay",
+        "flag-for-uruguay"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-us-outlying-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-us-outlying-islands",
+        "flag-for-us-outlying-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-us-virgin-islands",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-us-virgin-islands",
+        "flag-for-us-virgin-islands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-uzbekistan",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-uzbekistan",
+        "flag-for-uzbekistan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-vanuatu",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-vanuatu",
+        "flag-for-vanuatu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-vatican-city",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-vatican-city",
+        "flag-for-vatican-city"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-venezuela",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-venezuela",
+        "flag-for-venezuela"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-vietnam",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-vietnam",
+        "flag-for-vietnam"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-western-sahara",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-western-sahara",
+        "flag-for-western-sahara"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-zambia",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-zambia",
+        "flag-for-zambia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "flag-for-flag-zimbabwe",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "flag-for-flag-zimbabwe",
+        "flag-for-zimbabwe"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "fox",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "fox",
+        "fox-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "frog",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "frog",
+        "frog-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "full-moon-face",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "full-moon-face",
+        "full-moon-with-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "grinning-cat-face",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "grinning-cat-face",
+        "smiling-cat-face-with-open-mouth"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "grinning-face-with-big-eyes",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "grinning-face-with-big-eyes",
+        "smiling-face-with-open-mouth"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "grinning-face-with-smiling-eyes",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "grinning-face-with-smiling-eyes",
+        "smiling-face-with-open-mouth-and-smiling-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "grinning-face-with-sweat",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "grinning-face-with-sweat",
+        "smiling-face-with-open-mouth-and-cold-sweat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "grinning-squinting-face",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "grinning-squinting-face",
+        "smiling-face-with-open-mouth-and-closed-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "hamster",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "hamster",
+        "hamster-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "hand-with-fingers-splayed",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "hand-with-fingers-splayed",
+        "raised-hand-with-fingers-splayed"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "heavy-large-circle",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "heavy-large-circle",
+        "hollow-red-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "hourglass",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "hourglass",
+        "hourglass-done"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "hourglass-not-done",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "hourglass-not-done",
+        "hourglass-with-flowing-sand"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "kissing-cat-face",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "kissing-cat-face",
+        "kissing-cat-face-with-closed-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "laptop",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "laptop",
+        "laptop-computer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "large-blue-diamond",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "large-blue-diamond",
+        "large-orange-diamond"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "last-quarter-moon-face",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "last-quarter-moon-face",
+        "last-quarter-moon-with-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "left-pointing-magnifying-glass",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "left-pointing-magnifying-glass",
+        "magnifying-glass-tilted-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "lion",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "lion",
+        "lion-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "magnifying-glass-tilted-right",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "magnifying-glass-tilted-right",
+        "right-pointing-magnifying-glass"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "man-in-business-suit-levitating",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "man-in-business-suit-levitating",
+        "man-in-suit-levitating"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "panda",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "panda",
+        "panda-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "people-with-bunny-ears",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "people-with-bunny-ears",
+        "people-with-bunny-ears-partying"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "scorpio",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "scorpio",
+        "scorpius"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "small-blue-diamond",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "small-blue-diamond",
+        "small-orange-diamond"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "star",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "star",
+        "white-medium-star"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "unicorn",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "unicorn",
+        "unicorn-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "up-button",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "up-button",
+        "upwards-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "EmojioneMonotone",
+      "glyphName": "wolf",
+      "prefix": "emojione-monotone",
+      "sampleIcons": [
+        "wolf",
+        "wolf-face"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "EmojioneMonotone",
+      "headBbox": "0..1001 / 0..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "emojione-monotone",
+      "reasons": [
+        "head.xMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "emojione-monotone",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "EmojioneMonotone",
+      "glyphCount": 1674,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Nrk",
+      "glyphName": "404",
+      "prefix": "nrk",
+      "sampleIcons": [
+        "404",
+        "media-404-notfound"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Nrk",
+      "glyphName": "duration",
+      "prefix": "nrk",
+      "sampleIcons": [
+        "duration",
+        "media-tilgjengelighet-kommer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Nrk",
+      "glyphName": "media-beam-note",
+      "prefix": "nrk",
+      "sampleIcons": [
+        "media-beam-note",
+        "note-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Nrk",
+      "glyphName": "media-quaver",
+      "prefix": "nrk",
+      "sampleIcons": [
+        "media-quaver",
+        "note-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NrkSecondary",
+      "glyphName": "media-direkte-golive",
+      "prefix": "nrk",
+      "sampleIcons": [
+        "media-direkte-golive",
+        "media-direkte-notlive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NrkSecondary",
+      "glyphName": "media-playlist-add",
+      "prefix": "nrk",
+      "sampleIcons": [
+        "media-playlist-add",
+        "media-playlist-remove"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57457,
+      "icon": "media-chromecast-1",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 834,
+      "secondary": {
+        "xMax": 125,
+        "xMin": 0,
+        "yMax": 209,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57458,
+      "icon": "media-chromecast-2",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 667,
+      "secondary": {
+        "xMax": 292,
+        "xMin": 0,
+        "yMax": 375,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57482,
+      "icon": "media-playlist",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 374,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 543,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57459,
+      "icon": "media-chromecast-3",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 500,
+      "secondary": {
+        "xMax": 459,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57484,
+      "icon": "media-playlist-add-later",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 421,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 496,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57485,
+      "icon": "media-playlist-add-next",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 421,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 496,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57563,
+      "icon": "some-youtube",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 307,
+      "secondary": {
+        "xMax": 653,
+        "xMin": 0,
+        "yMax": 631,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57463,
+      "icon": "media-direkte-golive",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 708,
+        "xMin": 0,
+        "yMax": 714,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 292,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57464,
+      "icon": "media-direkte-notlive",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 708,
+        "xMin": 0,
+        "yMax": 714,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 292,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57474,
+      "icon": "media-media-incomplete",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 697,
+        "xMin": 0,
+        "yMax": 696,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 261,
+      "secondary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57381,
+      "icon": "dialogue",
+      "prefix": "nrk",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 500,
+        "yMin": 0
+      },
+      "primaryFont": "Nrk",
+      "score": 209,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "NrkSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Nrk",
+      "headBbox": "0..1667 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "nrk",
+      "reasons": [
+        "head.xMax=1667",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "NrkSecondary",
+      "headBbox": "0..1000 / 0..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "nrk",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1666,
+      "codepoint": 57351,
+      "font": "Nrk",
+      "name": "arrow-left-long",
+      "prefix": "nrk",
+      "reason": "advance"
+    },
+    {
+      "advance": 1666,
+      "codepoint": 57354,
+      "font": "Nrk",
+      "name": "arrow-right-long",
+      "prefix": "nrk",
+      "reason": "advance"
+    },
+    {
+      "advance": 1666,
+      "codepoint": 57462,
+      "font": "Nrk",
+      "name": "media-direkte",
+      "prefix": "nrk",
+      "reason": "advance"
+    },
+    {
+      "advance": 1666,
+      "codepoint": 57499,
+      "font": "Nrk",
+      "name": "media-speed-0-8x",
+      "prefix": "nrk",
+      "reason": "advance"
+    },
+    {
+      "advance": 1666,
+      "codepoint": 57500,
+      "font": "Nrk",
+      "name": "media-speed-1-25x",
+      "prefix": "nrk",
+      "reason": "advance"
+    },
+    {
+      "advance": 1666,
+      "codepoint": 57501,
+      "font": "Nrk",
+      "name": "media-speed-1-5x",
+      "prefix": "nrk",
+      "reason": "advance"
+    },
+    {
+      "advance": 1666,
+      "codepoint": 57502,
+      "font": "Nrk",
+      "name": "media-speed-1x",
+      "prefix": "nrk",
+      "reason": "advance"
+    },
+    {
+      "advance": 1666,
+      "codepoint": 57503,
+      "font": "Nrk",
+      "name": "media-speed-2x",
+      "prefix": "nrk",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57351,
+      "contentWidth": 1501,
+      "font": "Nrk",
+      "name": "arrow-left-long",
+      "prefix": "nrk",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57354,
+      "contentWidth": 1500,
+      "font": "Nrk",
+      "name": "arrow-right-long",
+      "prefix": "nrk",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57462,
+      "contentWidth": 1667,
+      "font": "Nrk",
+      "name": "media-direkte",
+      "prefix": "nrk",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57499,
+      "contentWidth": 1467,
+      "font": "Nrk",
+      "name": "media-speed-0-8x",
+      "prefix": "nrk",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57500,
+      "contentWidth": 1551,
+      "font": "Nrk",
+      "name": "media-speed-1-25x",
+      "prefix": "nrk",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57501,
+      "contentWidth": 1376,
+      "font": "Nrk",
+      "name": "media-speed-1-5x",
+      "prefix": "nrk",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57502,
+      "contentWidth": 1120,
+      "font": "Nrk",
+      "name": "media-speed-1x",
+      "prefix": "nrk",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57503,
+      "contentWidth": 1165,
+      "font": "Nrk",
+      "name": "media-speed-2x",
+      "prefix": "nrk",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "nrk",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Nrk",
+      "glyphCount": 241,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1667,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1666,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "NrkSecondary",
+      "glyphCount": 23,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

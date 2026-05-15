@@ -1,0 +1,516 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 4,
+      "font": "Hugeicons",
+      "glyphName": "3d-printer",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "3d-printer",
+        "printer-3d",
+        "printer-three-d",
+        "three-d-printer"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Hugeicons",
+      "glyphName": "arrange-by-letters-a-z",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "arrange-by-letters-a-z",
+        "arrange-by-letters-az",
+        "sorting-a-z-02",
+        "sorting-az-02"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Hugeicons",
+      "glyphName": "arrange-by-letters-z-a",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "arrange-by-letters-z-a",
+        "arrange-by-letters-za",
+        "sorting-z-a-01",
+        "sorting-za-01"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "1st-bracket",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "1st-bracket",
+        "first-bracket",
+        "first-brecket"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "1st-bracket-circle",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "1st-bracket-circle",
+        "first-bracket-circle",
+        "first-brecket-circle"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "1st-bracket-square",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "1st-bracket-square",
+        "first-bracket-square",
+        "first-brecket-square"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "2nd-bracket",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "2nd-bracket",
+        "second-bracket",
+        "second-brecket"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "2nd-bracket-circle",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "2nd-bracket-circle",
+        "second-bracket-circle",
+        "second-brecket-circle"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "2nd-bracket-square",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "2nd-bracket-square",
+        "second-bracket-square",
+        "second-brecket-square"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "3rd-bracket",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "3rd-bracket",
+        "third-bracket",
+        "third-brecket"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "3rd-bracket-circle",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "3rd-bracket-circle",
+        "third-bracket-circle",
+        "third-brecket-circle"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "3rd-bracket-square",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "3rd-bracket-square",
+        "third-bracket-square",
+        "third-brecket-square"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "border-all-02",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "border-all-02",
+        "solid-line-02",
+        "square"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "root-1st-bracket",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "root-1st-bracket",
+        "root-first-bracket",
+        "root-first-brecket"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Hugeicons",
+      "glyphName": "root-3rd-bracket",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "root-3rd-bracket",
+        "root-third-bracket",
+        "root-third-brecket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "3d-move",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "3d-move",
+        "three-d-move"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "4k",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "4k",
+        "four-k"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "align-box-middle-left",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "align-box-middle-left",
+        "border-full"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "border-none-02",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "border-none-02",
+        "dashed-line-02"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "c",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "c",
+        "cpp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "cancel-01",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "cancel-01",
+        "multiplication-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "circle",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "circle",
+        "progress-01"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "compass-01",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "compass-01",
+        "drawing-compass"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "ds-3-tool",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "ds-3-tool",
+        "ds3-tool"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "fuel-01",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "fuel-01",
+        "fuel-02"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "megaphone-01",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "megaphone-01",
+        "promotion"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "mouse-01",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "mouse-01",
+        "mouse-23"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "mouse-10",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "mouse-10",
+        "mouse-22"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "pathfinder-merge",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "pathfinder-merge",
+        "pathfinder-unite"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "podium",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "podium",
+        "presentation-podium"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "refresh",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "refresh",
+        "rotate-01"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "restaurant-02",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "restaurant-02",
+        "restaurant-03"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "root-second-bracket",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "root-second-bracket",
+        "root-second-brecket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "sorting-1-9",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "sorting-1-9",
+        "sorting-19"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "sorting-9-1",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "sorting-9-1",
+        "sorting-91"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "sorting-a-z-01",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "sorting-a-z-01",
+        "sorting-az-01"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "suspicious",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "suspicious",
+        "unhappy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Hugeicons",
+      "glyphName": "tropical-storm-tracks",
+      "prefix": "hugeicons",
+      "sampleIcons": [
+        "tropical-storm-tracks",
+        "tropical-storm-tracks-02"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57622,
+      "icon": "arrow-big-right-dash",
+      "prefix": "hugeicons",
+      "primary": {
+        "xMax": 911,
+        "xMin": 0,
+        "yMax": 864,
+        "yMin": 0
+      },
+      "primaryFont": "Hugeicons",
+      "score": 754,
+      "secondary": {
+        "xMax": 157,
+        "xMin": 0,
+        "yMax": 657,
+        "yMin": 0
+      },
+      "secondaryFont": "HugeiconsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Hugeicons",
+      "headBbox": "0..998 / 0..998",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "hugeicons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "HugeiconsSecondary",
+      "headBbox": "0..893 / 0..865",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "hugeicons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 960,
+      "codepoint": 59650,
+      "font": "Hugeicons",
+      "name": "image-flip-horizontal",
+      "prefix": "hugeicons",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "hugeicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Hugeicons",
+      "glyphCount": 5115,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "HugeiconsSecondary",
+      "glyphCount": 3,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 893,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

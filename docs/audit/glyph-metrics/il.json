@@ -1,0 +1,676 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Il",
+      "headBbox": "-9..1103 / 0..1012",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "il",
+      "reasons": [
+        "head.xMin=-9",
+        "head.xMax=1103",
+        "head.yMax=1012",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 800,
+      "codepoint": 57344,
+      "font": "Il",
+      "name": "add-user",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 900,
+      "codepoint": 57345,
+      "font": "Il",
+      "name": "arrow-down",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 481,
+      "codepoint": 57346,
+      "font": "Il",
+      "name": "arrow-left",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 481,
+      "codepoint": 57347,
+      "font": "Il",
+      "name": "arrow-right",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 900,
+      "codepoint": 57348,
+      "font": "Il",
+      "name": "arrow-up",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 552,
+      "codepoint": 57349,
+      "font": "Il",
+      "name": "attachment",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 949,
+      "codepoint": 57350,
+      "font": "Il",
+      "name": "basket",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 1106,
+      "codepoint": 57351,
+      "font": "Il",
+      "name": "behance",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 853,
+      "codepoint": 57352,
+      "font": "Il",
+      "name": "bell",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 658,
+      "codepoint": 57353,
+      "font": "Il",
+      "name": "book",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 986,
+      "codepoint": 57354,
+      "font": "Il",
+      "name": "box",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57355,
+      "font": "Il",
+      "name": "brightness",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 682,
+      "codepoint": 57356,
+      "font": "Il",
+      "name": "bucket",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57357,
+      "font": "Il",
+      "name": "calendar",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 974,
+      "codepoint": 57358,
+      "font": "Il",
+      "name": "camera",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 878,
+      "codepoint": 57360,
+      "font": "Il",
+      "name": "cart",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57361,
+      "font": "Il",
+      "name": "clock",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 1028,
+      "codepoint": 57362,
+      "font": "Il",
+      "name": "cloud",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 891,
+      "codepoint": 57363,
+      "font": "Il",
+      "name": "cog",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 914,
+      "codepoint": 57364,
+      "font": "Il",
+      "name": "comment",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57365,
+      "font": "Il",
+      "name": "compass",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57366,
+      "font": "Il",
+      "name": "contrast",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57367,
+      "font": "Il",
+      "name": "controls",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57368,
+      "font": "Il",
+      "name": "conversation",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57369,
+      "font": "Il",
+      "name": "cup",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57371,
+      "font": "Il",
+      "name": "dialog",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 894,
+      "codepoint": 57372,
+      "font": "Il",
+      "name": "dribbble",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 726,
+      "codepoint": 57373,
+      "font": "Il",
+      "name": "drop",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57374,
+      "font": "Il",
+      "name": "dropbox",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 871,
+      "codepoint": 57375,
+      "font": "Il",
+      "name": "ellipsis",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 1057,
+      "codepoint": 57378,
+      "font": "Il",
+      "name": "eye",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57379,
+      "font": "Il",
+      "name": "facebook",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 658,
+      "codepoint": 57380,
+      "font": "Il",
+      "name": "file",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 752,
+      "codepoint": 57381,
+      "font": "Il",
+      "name": "flag",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 925,
+      "codepoint": 57382,
+      "font": "Il",
+      "name": "folder",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 950,
+      "codepoint": 57383,
+      "font": "Il",
+      "name": "github",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 880,
+      "codepoint": 57384,
+      "font": "Il",
+      "name": "google-plus",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57385,
+      "font": "Il",
+      "name": "grid",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 910,
+      "codepoint": 57386,
+      "font": "Il",
+      "name": "heart",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 892,
+      "codepoint": 57387,
+      "font": "Il",
+      "name": "house",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 870,
+      "codepoint": 57390,
+      "font": "Il",
+      "name": "instagram",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 857,
+      "codepoint": 57391,
+      "font": "Il",
+      "name": "layers",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57392,
+      "font": "Il",
+      "name": "linkedin",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 841,
+      "codepoint": 57393,
+      "font": "Il",
+      "name": "location",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 666,
+      "codepoint": 57394,
+      "font": "Il",
+      "name": "lock",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57395,
+      "font": "Il",
+      "name": "market",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 866,
+      "codepoint": 57396,
+      "font": "Il",
+      "name": "menu",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 658,
+      "codepoint": 57397,
+      "font": "Il",
+      "name": "mic",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 518,
+      "codepoint": 57398,
+      "font": "Il",
+      "name": "mobile",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 1056,
+      "codepoint": 57399,
+      "font": "Il",
+      "name": "money",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57400,
+      "font": "Il",
+      "name": "moon",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 674,
+      "codepoint": 57401,
+      "font": "Il",
+      "name": "music",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57402,
+      "font": "Il",
+      "name": "notification",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 752,
+      "codepoint": 57403,
+      "font": "Il",
+      "name": "paypal",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 853,
+      "codepoint": 57404,
+      "font": "Il",
+      "name": "pencil",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 870,
+      "codepoint": 57405,
+      "font": "Il",
+      "name": "pie",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 741,
+      "codepoint": 57406,
+      "font": "Il",
+      "name": "pin",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 925,
+      "codepoint": 57407,
+      "font": "Il",
+      "name": "refresh",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 494,
+      "codepoint": 57408,
+      "font": "Il",
+      "name": "ribbon",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 880,
+      "codepoint": 57409,
+      "font": "Il",
+      "name": "search",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 342,
+      "codepoint": 57410,
+      "font": "Il",
+      "name": "select",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 542,
+      "codepoint": 57411,
+      "font": "Il",
+      "name": "small-arrow-down",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 300,
+      "codepoint": 57412,
+      "font": "Il",
+      "name": "small-arrow-left",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 300,
+      "codepoint": 57413,
+      "font": "Il",
+      "name": "small-arrow-right",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 542,
+      "codepoint": 57414,
+      "font": "Il",
+      "name": "small-arrow-up",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 658,
+      "codepoint": 57415,
+      "font": "Il",
+      "name": "tablet",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 880,
+      "codepoint": 57416,
+      "font": "Il",
+      "name": "tag",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 923,
+      "codepoint": 57417,
+      "font": "Il",
+      "name": "thumbs",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 342,
+      "codepoint": 57418,
+      "font": "Il",
+      "name": "triangle-down",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 342,
+      "codepoint": 57419,
+      "font": "Il",
+      "name": "triangle-up",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 1024,
+      "codepoint": 57420,
+      "font": "Il",
+      "name": "twitter",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 666,
+      "codepoint": 57421,
+      "font": "Il",
+      "name": "unlock",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 839,
+      "codepoint": 57422,
+      "font": "Il",
+      "name": "url",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 717,
+      "codepoint": 57423,
+      "font": "Il",
+      "name": "user",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57424,
+      "font": "Il",
+      "name": "users",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 57426,
+      "font": "Il",
+      "name": "world",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "advance": 1063,
+      "codepoint": 57427,
+      "font": "Il",
+      "name": "youtube",
+      "prefix": "il",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57351,
+      "contentWidth": 1103,
+      "font": "Il",
+      "name": "behance",
+      "prefix": "il",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "il",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Il",
+      "glyphCount": 84,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1103,
+        "xMin": -9,
+        "yMax": 1012,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1106,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

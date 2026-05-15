@@ -1,0 +1,1010 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 116,
+      "font": "SkillIcons",
+      "glyphName": "ableton-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "ableton-dark",
+        "ableton-light",
+        "actix-dark",
+        "actix-light"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "SkillIcons",
+      "glyphName": "activitypub-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "activitypub-dark",
+        "julia-dark",
+        "kotlin-dark",
+        "reactivex-dark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIcons",
+      "glyphName": "bitbucket-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "bitbucket-dark",
+        "redhat-dark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "ableton-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "ableton-dark",
+        "ableton-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "actix-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "actix-dark",
+        "actix-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "anaconda-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "anaconda-dark",
+        "anaconda-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "autocad-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "autocad-dark",
+        "autocad-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "codepen-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "codepen-dark",
+        "codepen-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "coffeescript-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "coffeescript-dark",
+        "coffeescript-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "d3-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "d3-dark",
+        "d3-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "deno-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "deno-dark",
+        "deno-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "devto-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "devto-dark",
+        "devto-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "expressjs-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "expressjs-dark",
+        "expressjs-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "fediverse-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "fediverse-dark",
+        "fediverse-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "flask-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "flask-dark",
+        "flask-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "github-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "github-dark",
+        "github-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "gradle-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "gradle-dark",
+        "gradle-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "ipfs-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "ipfs-dark",
+        "ipfs-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "laravel-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "laravel-dark",
+        "laravel-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "materialui-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "materialui-dark",
+        "materialui-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "misskey-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "misskey-dark",
+        "misskey-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "nestjs-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "nestjs-dark",
+        "nestjs-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "nextjs-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "nextjs-dark",
+        "nextjs-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "nodejs-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "nodejs-dark",
+        "nodejs-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "nuxtjs-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "nuxtjs-dark",
+        "nuxtjs-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "openstack-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "openstack-dark",
+        "openstack-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "php-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "php-dark",
+        "php-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "planetscale-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "planetscale-dark",
+        "planetscale-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "pug-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "pug-dark",
+        "pug-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "qt-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "qt-dark",
+        "qt-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "rabbitmq-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "rabbitmq-dark",
+        "rabbitmq-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "regex-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "regex-dark",
+        "regex-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "replit-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "replit-dark",
+        "replit-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "ros-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "ros-dark",
+        "ros-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "sketchup-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "sketchup-dark",
+        "sketchup-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "spring-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "spring-dark",
+        "spring-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "svg-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "svg-dark",
+        "svg-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "symfony-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "symfony-dark",
+        "symfony-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "tensorflow-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "tensorflow-dark",
+        "tensorflow-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "vercel-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "vercel-dark",
+        "vercel-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SkillIconsSecondary",
+      "glyphName": "zig-dark",
+      "prefix": "skill-icons",
+      "sampleIcons": [
+        "zig-dark",
+        "zig-light"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "secondary-empty",
+      "codepoint": 57395,
+      "icon": "cassandra-dark",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "primary-empty",
+      "codepoint": 57505,
+      "icon": "ipfs-light",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": -1,
+      "secondary": {
+        "xMax": 839,
+        "xMin": 0,
+        "yMax": 697,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "primary-empty",
+      "codepoint": 57664,
+      "icon": "solidity",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": -1,
+      "secondary": {
+        "xMax": 794,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 57707,
+      "icon": "verilog",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 57714,
+      "icon": "vitest-dark",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "primary-empty",
+      "codepoint": 57715,
+      "icon": "vitest-light",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57451,
+      "icon": "fediverse-dark",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 693,
+      "secondary": {
+        "xMax": 308,
+        "xMin": 0,
+        "yMax": 731,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57487,
+      "icon": "gulp",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 304,
+      "secondary": {
+        "xMax": 696,
+        "xMin": 0,
+        "yMax": 930,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57452,
+      "icon": "fediverse-light",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 604,
+        "xMin": 0,
+        "yMax": 776,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 296,
+      "secondary": {
+        "xMax": 308,
+        "xMin": 0,
+        "yMax": 731,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57494,
+      "icon": "heroku",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 274,
+      "secondary": {
+        "xMax": 726,
+        "xMin": 0,
+        "yMax": 852,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57430,
+      "icon": "django",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 270,
+      "secondary": {
+        "xMax": 730,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57445,
+      "icon": "ember",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "primaryFont": "SkillIcons",
+      "score": 241,
+      "secondary": {
+        "xMax": 761,
+        "xMin": 0,
+        "yMax": 763,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57502,
+      "icon": "illustrator",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 235,
+      "secondary": {
+        "xMax": 765,
+        "xMin": 0,
+        "yMax": 772,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57611,
+      "icon": "pug-dark",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 235,
+      "secondary": {
+        "xMax": 766,
+        "xMin": 0,
+        "yMax": 640,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57610,
+      "icon": "prometheus",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 223,
+      "secondary": {
+        "xMax": 777,
+        "xMin": 0,
+        "yMax": 890,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57606,
+      "icon": "premiere",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 214,
+      "secondary": {
+        "xMax": 786,
+        "xMin": 0,
+        "yMax": 722,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57603,
+      "icon": "postman",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 208,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 786,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57623,
+      "icon": "rabbitmq-dark",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 206,
+      "secondary": {
+        "xMax": 794,
+        "xMin": 0,
+        "yMax": 809,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57624,
+      "icon": "rabbitmq-light",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 206,
+      "secondary": {
+        "xMax": 794,
+        "xMin": 0,
+        "yMax": 809,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57641,
+      "icon": "replit-dark",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 206,
+      "secondary": {
+        "xMax": 794,
+        "xMin": 0,
+        "yMax": 852,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57642,
+      "icon": "replit-light",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 206,
+      "secondary": {
+        "xMax": 794,
+        "xMin": 0,
+        "yMax": 852,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57612,
+      "icon": "pug-light",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 778,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 203,
+      "secondary": {
+        "xMax": 766,
+        "xMin": 0,
+        "yMax": 640,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57617,
+      "icon": "pytorch-dark",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 851,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57618,
+      "icon": "pytorch-light",
+      "prefix": "skill-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "SkillIcons",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 851,
+        "yMin": 0
+      },
+      "secondaryFont": "SkillIconsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "SkillIcons",
+      "headBbox": "-1..1001 / -1..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 1,
+      "prefix": "skill-icons",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1001",
+        "head.yMin=-1",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "SkillIconsSecondary",
+      "headBbox": "0..1000 / 0..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "skill-icons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "skill-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "SkillIcons",
+      "glyphCount": 400,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 1
+      }
+    },
+    {
+      "error": null,
+      "font": "SkillIconsSecondary",
+      "glyphCount": 131,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

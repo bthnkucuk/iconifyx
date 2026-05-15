@@ -1,0 +1,236 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "AkarIcons",
+      "glyphName": "linkedin-box-fill",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "linkedin-box-fill",
+        "linkedin-v1-fill",
+        "linkedinv1-fill"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "AkarIcons",
+      "glyphName": "linkedin-fill",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "linkedin-fill",
+        "linkedin-v2-fill",
+        "linkedinv2-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "bluetooh",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "bluetooh",
+        "bluetooth"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "book",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "book",
+        "book-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "chat-add",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "chat-add",
+        "comment-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "chat-bubble",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "chat-bubble",
+        "comment"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "eye",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "eye",
+        "eye-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "figma",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "figma",
+        "figma-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "github",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "github",
+        "github-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "infinite",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "infinite",
+        "infinity"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "instagram",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "instagram",
+        "instagram-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "link",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "link",
+        "link-chain"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "panel-left",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "panel-left",
+        "sidebar-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "panel-right",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "panel-right",
+        "sidebar-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "receipt",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "receipt",
+        "reciept"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "shipping-box-01",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "shipping-box-01",
+        "shipping-box-v1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "shipping-box-02",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "shipping-box-02",
+        "shipping-box-v2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "AkarIcons",
+      "glyphName": "youtube",
+      "prefix": "akar-icons",
+      "sampleIcons": [
+        "youtube",
+        "youtube-fill"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "AkarIcons",
+      "headBbox": "-4..1016 / -16..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 16,
+      "prefix": "akar-icons",
+      "reasons": [
+        "head.xMin=-4",
+        "head.xMax=1016",
+        "head.yMin=-16",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=16"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "akar-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "AkarIcons",
+      "glyphCount": 464,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1016,
+        "xMin": -4,
+        "yMax": 1006,
+        "yMin": -16
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 16
+      }
+    }
+  ]
+}

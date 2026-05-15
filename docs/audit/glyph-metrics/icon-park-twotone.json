@@ -1,0 +1,179 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "IconParkTwotone",
+      "glyphName": "balance",
+      "prefix": "icon-park-twotone",
+      "sampleIcons": [
+        "balance",
+        "balance-one"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkTwotone",
+      "glyphName": "emotion-happy",
+      "prefix": "icon-park-twotone",
+      "sampleIcons": [
+        "emotion-happy",
+        "slightly-smiling-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkTwotone",
+      "glyphName": "emotion-unhappy",
+      "prefix": "icon-park-twotone",
+      "sampleIcons": [
+        "emotion-unhappy",
+        "worried-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkTwotone",
+      "glyphName": "material",
+      "prefix": "icon-park-twotone",
+      "sampleIcons": [
+        "material",
+        "material-two"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkTwotone",
+      "glyphName": "projector",
+      "prefix": "icon-park-twotone",
+      "sampleIcons": [
+        "projector",
+        "projector-three"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkTwotone",
+      "glyphName": "shopping-cart",
+      "prefix": "icon-park-twotone",
+      "sampleIcons": [
+        "shopping-cart",
+        "shopping-cart-add"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "IconParkTwotone",
+      "headBbox": "-18..1006 / -8..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 8,
+      "prefix": "icon-park-twotone",
+      "reasons": [
+        "head.xMin=-18",
+        "head.xMax=1006",
+        "head.yMin=-8",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=8"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1020,
+      "codepoint": 57565,
+      "font": "IconParkTwotone",
+      "name": "bottom-bar-one",
+      "prefix": "icon-park-twotone",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57796,
+      "font": "IconParkTwotone",
+      "name": "cup",
+      "prefix": "icon-park-twotone",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57807,
+      "font": "IconParkTwotone",
+      "name": "dashboard-one",
+      "prefix": "icon-park-twotone",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57875,
+      "font": "IconParkTwotone",
+      "name": "disk-one",
+      "prefix": "icon-park-twotone",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57898,
+      "font": "IconParkTwotone",
+      "name": "dome-light",
+      "prefix": "icon-park-twotone",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 58355,
+      "font": "IconParkTwotone",
+      "name": "kettle",
+      "prefix": "icon-park-twotone",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 59006,
+      "font": "IconParkTwotone",
+      "name": "storage-card-one",
+      "prefix": "icon-park-twotone",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 59229,
+      "font": "IconParkTwotone",
+      "name": "washing-machine",
+      "prefix": "icon-park-twotone",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "icon-park-twotone",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "IconParkTwotone",
+      "glyphCount": 1947,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1006,
+        "xMin": -18,
+        "yMax": 1006,
+        "yMin": -8
+      },
+      "hhea": {
+        "advanceWidthMax": 1020,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 8
+      }
+    }
+  ]
+}

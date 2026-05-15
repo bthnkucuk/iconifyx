@@ -1,0 +1,64 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "StreamlineFlex",
+      "glyphName": "hierarchy-1-solid",
+      "prefix": "streamline-flex",
+      "sampleIcons": [
+        "hierarchy-1-solid",
+        "share-link-solid"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "StreamlineFlex",
+      "headBbox": "-19..1039 / -41..1008",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 41,
+      "prefix": "streamline-flex",
+      "reasons": [
+        "head.xMin=-19",
+        "head.xMax=1039",
+        "head.yMin=-41",
+        "head.yMax=1008",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=41"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "streamline-flex",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "StreamlineFlex",
+      "glyphCount": 1500,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1039,
+        "xMin": -19,
+        "yMax": 1008,
+        "yMin": -41
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 41
+      }
+    }
+  ]
+}

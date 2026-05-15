@@ -1,0 +1,219 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "angry-face",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "angry-face",
+        "pouting-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "dvd",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "dvd",
+        "optical-disk"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "man-biking",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "man-biking",
+        "person-biking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "man-blonde-hair",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "man-blonde-hair",
+        "man-white-hair"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "man-kneeling",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "man-kneeling",
+        "person-kneeling"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "man-kneeling-facing-right",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "man-kneeling-facing-right",
+        "person-kneeling-facing-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "man-mountain-biking",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "man-mountain-biking",
+        "person-mountain-biking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "man-wrestling",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "man-wrestling",
+        "person-wrestling"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "person",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "person",
+        "person-red-hair"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "person-blonde-hair",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "person-blonde-hair",
+        "person-white-hair"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "red-exclamation-mark",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "red-exclamation-mark",
+        "white-exclamation-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "small-blue-diamond",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "small-blue-diamond",
+        "small-orange-diamond"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "woman",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "woman",
+        "woman-red-hair"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiHighContrast",
+      "glyphName": "woman-blonde-hair",
+      "prefix": "fluent-emoji-high-contrast",
+      "sampleIcons": [
+        "woman-blonde-hair",
+        "woman-white-hair"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "FluentEmojiHighContrast",
+      "headBbox": "-1969..1011 / -13..1009",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 13,
+      "prefix": "fluent-emoji-high-contrast",
+      "reasons": [
+        "head.xMin=-1969",
+        "head.xMax=1011",
+        "head.yMin=-13",
+        "head.yMax=1009",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=13"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 969,
+      "codepoint": 57962,
+      "font": "FluentEmojiHighContrast",
+      "name": "keycap-5",
+      "prefix": "fluent-emoji-high-contrast",
+      "reason": "advance"
+    },
+    {
+      "advance": 969,
+      "codepoint": 58369,
+      "font": "FluentEmojiHighContrast",
+      "name": "piata",
+      "prefix": "fluent-emoji-high-contrast",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57395,
+      "contentWidth": 1969,
+      "font": "FluentEmojiHighContrast",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-high-contrast",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "fluent-emoji-high-contrast",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FluentEmojiHighContrast",
+      "glyphCount": 1551,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1011,
+        "xMin": -1969,
+        "yMax": 1009,
+        "yMin": -13
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 13
+      }
+    }
+  ]
+}

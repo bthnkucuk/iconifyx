@@ -1,0 +1,882 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Academicons",
+      "headBbox": "0..1089 / 0..991",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "academicons",
+      "reasons": [
+        "head.xMax=1089",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 750,
+      "codepoint": 57344,
+      "font": "Academicons",
+      "name": "acclaim",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57345,
+      "font": "Academicons",
+      "name": "acclaim-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57347,
+      "font": "Academicons",
+      "name": "acm-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57350,
+      "font": "Academicons",
+      "name": "ads-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57351,
+      "font": "Academicons",
+      "name": "archive",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57352,
+      "font": "Academicons",
+      "name": "archive-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57353,
+      "font": "Academicons",
+      "name": "arxiv",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57354,
+      "font": "Academicons",
+      "name": "arxiv-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57356,
+      "font": "Academicons",
+      "name": "biorxiv-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57358,
+      "font": "Academicons",
+      "name": "ceur-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57360,
+      "font": "Academicons",
+      "name": "ciencia-vitae-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57362,
+      "font": "Academicons",
+      "name": "clarivate-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57363,
+      "font": "Academicons",
+      "name": "closed-access",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57364,
+      "font": "Academicons",
+      "name": "closed-access-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 945,
+      "codepoint": 57365,
+      "font": "Academicons",
+      "name": "conversation",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57366,
+      "font": "Academicons",
+      "name": "conversation-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57368,
+      "font": "Academicons",
+      "name": "coursera-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57369,
+      "font": "Academicons",
+      "name": "crossref",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57370,
+      "font": "Academicons",
+      "name": "crossref-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57372,
+      "font": "Academicons",
+      "name": "cv-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57374,
+      "font": "Academicons",
+      "name": "datacite-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57375,
+      "font": "Academicons",
+      "name": "dataverse",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57376,
+      "font": "Academicons",
+      "name": "dataverse-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57377,
+      "font": "Academicons",
+      "name": "dblp",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57378,
+      "font": "Academicons",
+      "name": "dblp-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57380,
+      "font": "Academicons",
+      "name": "depsy-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57382,
+      "font": "Academicons",
+      "name": "doi-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57384,
+      "font": "Academicons",
+      "name": "dryad-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57385,
+      "font": "Academicons",
+      "name": "elsevier",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57386,
+      "font": "Academicons",
+      "name": "elsevier-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57388,
+      "font": "Academicons",
+      "name": "figshare-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57389,
+      "font": "Academicons",
+      "name": "google-scholar",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57390,
+      "font": "Academicons",
+      "name": "google-scholar-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57392,
+      "font": "Academicons",
+      "name": "hal-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57394,
+      "font": "Academicons",
+      "name": "hypothesis-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57395,
+      "font": "Academicons",
+      "name": "ideas-repec",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57396,
+      "font": "Academicons",
+      "name": "ideas-repec-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57397,
+      "font": "Academicons",
+      "name": "ieee-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57399,
+      "font": "Academicons",
+      "name": "impactstory-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57400,
+      "font": "Academicons",
+      "name": "inaturalist",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57401,
+      "font": "Academicons",
+      "name": "inaturalist-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57402,
+      "font": "Academicons",
+      "name": "inpn",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57403,
+      "font": "Academicons",
+      "name": "inpn-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57405,
+      "font": "Academicons",
+      "name": "inspire-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57406,
+      "font": "Academicons",
+      "name": "isidore",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57407,
+      "font": "Academicons",
+      "name": "isidore-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57409,
+      "font": "Academicons",
+      "name": "isni-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57411,
+      "font": "Academicons",
+      "name": "jstor-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57412,
+      "font": "Academicons",
+      "name": "lattes",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57413,
+      "font": "Academicons",
+      "name": "lattes-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57415,
+      "font": "Academicons",
+      "name": "mathoverflow-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57417,
+      "font": "Academicons",
+      "name": "mendeley-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57419,
+      "font": "Academicons",
+      "name": "moodle-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57421,
+      "font": "Academicons",
+      "name": "mtmt-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57423,
+      "font": "Academicons",
+      "name": "nakala-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57424,
+      "font": "Academicons",
+      "name": "open-access",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57425,
+      "font": "Academicons",
+      "name": "open-access-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57427,
+      "font": "Academicons",
+      "name": "open-data-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57429,
+      "font": "Academicons",
+      "name": "open-materials-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57430,
+      "font": "Academicons",
+      "name": "openedition",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57431,
+      "font": "Academicons",
+      "name": "openedition-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57433,
+      "font": "Academicons",
+      "name": "orcid-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57435,
+      "font": "Academicons",
+      "name": "osf-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57436,
+      "font": "Academicons",
+      "name": "overleaf",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57437,
+      "font": "Academicons",
+      "name": "overleaf-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57439,
+      "font": "Academicons",
+      "name": "philpapers-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57440,
+      "font": "Academicons",
+      "name": "piazza",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57441,
+      "font": "Academicons",
+      "name": "piazza-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57445,
+      "font": "Academicons",
+      "name": "preregistered-de-plus-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57446,
+      "font": "Academicons",
+      "name": "preregistered-de-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57449,
+      "font": "Academicons",
+      "name": "preregistered-de-tc-plus-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57450,
+      "font": "Academicons",
+      "name": "preregistered-de-tc-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57451,
+      "font": "Academicons",
+      "name": "preregistered-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57454,
+      "font": "Academicons",
+      "name": "preregistered-tc-plus-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57455,
+      "font": "Academicons",
+      "name": "preregistered-tc-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57456,
+      "font": "Academicons",
+      "name": "protocols",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57457,
+      "font": "Academicons",
+      "name": "protocols-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57459,
+      "font": "Academicons",
+      "name": "psyarxiv-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57460,
+      "font": "Academicons",
+      "name": "publons",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57461,
+      "font": "Academicons",
+      "name": "publons-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57462,
+      "font": "Academicons",
+      "name": "pubmed",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57463,
+      "font": "Academicons",
+      "name": "pubmed-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57464,
+      "font": "Academicons",
+      "name": "pubpeer",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57465,
+      "font": "Academicons",
+      "name": "pubpeer-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57466,
+      "font": "Academicons",
+      "name": "researcherid",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57467,
+      "font": "Academicons",
+      "name": "researcherid-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57468,
+      "font": "Academicons",
+      "name": "researchgate",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57469,
+      "font": "Academicons",
+      "name": "researchgate-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57470,
+      "font": "Academicons",
+      "name": "ror",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57471,
+      "font": "Academicons",
+      "name": "ror-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57472,
+      "font": "Academicons",
+      "name": "sci-hub",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57473,
+      "font": "Academicons",
+      "name": "sci-hub-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57475,
+      "font": "Academicons",
+      "name": "scirate-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57477,
+      "font": "Academicons",
+      "name": "scopus-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57479,
+      "font": "Academicons",
+      "name": "semantic-scholar-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57480,
+      "font": "Academicons",
+      "name": "springer",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57481,
+      "font": "Academicons",
+      "name": "springer-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57483,
+      "font": "Academicons",
+      "name": "ssrn-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57484,
+      "font": "Academicons",
+      "name": "stackoverflow",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57485,
+      "font": "Academicons",
+      "name": "stackoverflow-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57487,
+      "font": "Academicons",
+      "name": "viaf-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57490,
+      "font": "Academicons",
+      "name": "zenodo-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57491,
+      "font": "Academicons",
+      "name": "zotero",
+      "prefix": "academicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57492,
+      "font": "Academicons",
+      "name": "zotero-square",
+      "prefix": "academicons",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "academicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Academicons",
+      "glyphCount": 149,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1089,
+        "xMin": 0,
+        "yMax": 991,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1125,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

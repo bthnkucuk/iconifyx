@@ -1,0 +1,310 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "IcomoonFree",
+      "headBbox": "-16..2510 / -14..1063",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 14,
+      "prefix": "icomoon-free",
+      "reasons": [
+        "head.xMin=-16",
+        "head.xMax=2510",
+        "head.yMin=-14",
+        "head.yMax=1063",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=14"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1125,
+      "codepoint": 57392,
+      "font": "IcomoonFree",
+      "name": "books",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57399,
+      "font": "IcomoonFree",
+      "name": "bubbles",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57400,
+      "font": "IcomoonFree",
+      "name": "bubbles2",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57401,
+      "font": "IcomoonFree",
+      "name": "bubbles3",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57402,
+      "font": "IcomoonFree",
+      "name": "bubbles4",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57440,
+      "font": "IcomoonFree",
+      "name": "connection",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57472,
+      "font": "IcomoonFree",
+      "name": "embed2",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57555,
+      "font": "IcomoonFree",
+      "name": "history",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57565,
+      "font": "IcomoonFree",
+      "name": "images",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57576,
+      "font": "IcomoonFree",
+      "name": "keyboard",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57584,
+      "font": "IcomoonFree",
+      "name": "library",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57613,
+      "font": "IcomoonFree",
+      "name": "menu2",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57614,
+      "font": "IcomoonFree",
+      "name": "menu3",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57615,
+      "font": "IcomoonFree",
+      "name": "menu4",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57674,
+      "font": "IcomoonFree",
+      "name": "price-tags",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57801,
+      "font": "IcomoonFree",
+      "name": "users",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57808,
+      "font": "IcomoonFree",
+      "name": "volume-high",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "advance": 2500,
+      "codepoint": 57832,
+      "font": "IcomoonFree",
+      "name": "youtube2",
+      "prefix": "icomoon-free",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57399,
+      "contentWidth": 1126,
+      "font": "IcomoonFree",
+      "name": "bubbles",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57400,
+      "contentWidth": 1125,
+      "font": "IcomoonFree",
+      "name": "bubbles2",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57401,
+      "contentWidth": 1125,
+      "font": "IcomoonFree",
+      "name": "bubbles3",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57402,
+      "contentWidth": 1125,
+      "font": "IcomoonFree",
+      "name": "bubbles4",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57440,
+      "contentWidth": 1244,
+      "font": "IcomoonFree",
+      "name": "connection",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57472,
+      "contentWidth": 1219,
+      "font": "IcomoonFree",
+      "name": "embed2",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57565,
+      "contentWidth": 1125,
+      "font": "IcomoonFree",
+      "name": "images",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57576,
+      "contentWidth": 1125,
+      "font": "IcomoonFree",
+      "name": "keyboard",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57613,
+      "contentWidth": 1344,
+      "font": "IcomoonFree",
+      "name": "menu2",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57614,
+      "contentWidth": 1344,
+      "font": "IcomoonFree",
+      "name": "menu3",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57615,
+      "contentWidth": 1344,
+      "font": "IcomoonFree",
+      "name": "menu4",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57674,
+      "contentWidth": 1250,
+      "font": "IcomoonFree",
+      "name": "price-tags",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57801,
+      "contentWidth": 1125,
+      "font": "IcomoonFree",
+      "name": "users",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57832,
+      "contentWidth": 2510,
+      "font": "IcomoonFree",
+      "name": "youtube2",
+      "prefix": "icomoon-free",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "icomoon-free",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "IcomoonFree",
+      "glyphCount": 491,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 2510,
+        "xMin": -16,
+        "yMax": 1063,
+        "yMin": -14
+      },
+      "hhea": {
+        "advanceWidthMax": 2500,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 14
+      }
+    }
+  ]
+}

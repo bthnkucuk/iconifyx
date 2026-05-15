@@ -1,0 +1,60 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Mage",
+      "glyphName": "clipboard-2",
+      "prefix": "mage",
+      "sampleIcons": [
+        "clipboard-2",
+        "clipboard-3"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Mage",
+      "headBbox": "-1..990 / 0..969",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "mage",
+      "reasons": [
+        "head.xMin=-1",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "mage",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Mage",
+      "glyphCount": 1042,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 990,
+        "xMin": -1,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

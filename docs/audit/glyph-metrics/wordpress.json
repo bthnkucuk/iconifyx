@@ -1,0 +1,194 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 4,
+      "font": "WordpressSecondary",
+      "glyphName": "corner-bottom-left",
+      "prefix": "wordpress",
+      "sampleIcons": [
+        "corner-bottom-left",
+        "corner-bottom-right",
+        "corner-top-left",
+        "corner-top-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wordpress",
+      "glyphName": "resize-corner-n-e",
+      "prefix": "wordpress",
+      "sampleIcons": [
+        "resize-corner-n-e",
+        "resize-corner-ne"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wordpress",
+      "glyphName": "sides-all",
+      "prefix": "wordpress",
+      "sampleIcons": [
+        "sides-all",
+        "sides-bottom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wordpress",
+      "glyphName": "sides-top",
+      "prefix": "wordpress",
+      "sampleIcons": [
+        "sides-top",
+        "sides-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wordpress",
+      "glyphName": "tab",
+      "prefix": "wordpress",
+      "sampleIcons": [
+        "tab",
+        "tabs-menu-item"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wordpress",
+      "glyphName": "tab-list",
+      "prefix": "wordpress",
+      "sampleIcons": [
+        "tab-list",
+        "tabs-menu"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57423,
+      "icon": "corner-bottom-left",
+      "prefix": "wordpress",
+      "primary": {
+        "xMax": 375,
+        "xMin": 0,
+        "yMax": 375,
+        "yMin": 0
+      },
+      "primaryFont": "Wordpress",
+      "score": 449,
+      "secondary": {
+        "xMax": 824,
+        "xMin": 0,
+        "yMax": 824,
+        "yMin": 0
+      },
+      "secondaryFont": "WordpressSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57425,
+      "icon": "corner-top-left",
+      "prefix": "wordpress",
+      "primary": {
+        "xMax": 375,
+        "xMin": 0,
+        "yMax": 824,
+        "yMin": 0
+      },
+      "primaryFont": "Wordpress",
+      "score": 449,
+      "secondary": {
+        "xMax": 824,
+        "xMin": 0,
+        "yMax": 824,
+        "yMin": 0
+      },
+      "secondaryFont": "WordpressSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Wordpress",
+      "headBbox": "-8..956 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "wordpress",
+      "reasons": [
+        "head.xMin=-8",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "WordpressSecondary",
+      "headBbox": "0..824 / 0..824",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "wordpress",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "wordpress",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Wordpress",
+      "glyphCount": 334,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 956,
+        "xMin": -8,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "WordpressSecondary",
+      "glyphCount": 4,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 824,
+        "xMin": 0,
+        "yMax": 824,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

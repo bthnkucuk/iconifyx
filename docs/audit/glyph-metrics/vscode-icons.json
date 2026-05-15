@@ -1,0 +1,2732 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 33,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-android",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-android",
+        "folder-type-app",
+        "folder-type-audio",
+        "folder-type-circleci"
+      ]
+    },
+    {
+      "codepointCount": 28,
+      "font": "VscodeIcons",
+      "glyphName": "default-folder-opened",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "default-folder-opened",
+        "folder-type-app-opened",
+        "folder-type-audio-opened",
+        "folder-type-circleci-opened"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-go",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-go",
+        "file-type-go-aqua",
+        "file-type-go-black",
+        "file-type-go-lightblue"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-craco",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-craco",
+        "file-type-devcontainer",
+        "file-type-esbuild",
+        "file-type-slice"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-claude-opened",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-claude-opened",
+        "folder-type-gradle-opened",
+        "folder-type-husky-opened",
+        "folder-type-json-opened"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-android-opened",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-android-opened",
+        "folder-type-graphql-opened",
+        "folder-type-ios-opened",
+        "folder-type-light-redux-opened"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-certificate",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-certificate",
+        "folder-type-electron",
+        "folder-type-gulp",
+        "folder-type-light-electron"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-dtd",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-dtd",
+        "file-type-rnc",
+        "file-type-xquery",
+        "file-type-xsl"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-electron",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-electron",
+        "folder-type-electron-opened",
+        "folder-type-light-electron",
+        "folder-type-light-electron-opened"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-gradle",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-gradle",
+        "folder-type-gradle-opened",
+        "folder-type-light-gradle",
+        "folder-type-light-gradle-opened"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-light-meteor",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-light-meteor",
+        "folder-type-light-meteor-opened",
+        "folder-type-meteor",
+        "folder-type-meteor-opened"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-light-redux",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-light-redux",
+        "folder-type-light-redux-opened",
+        "folder-type-redux",
+        "folder-type-redux-opened"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-vscode-test2",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-vscode-test2",
+        "folder-type-vscode-test2-opened",
+        "folder-type-vscode2",
+        "folder-type-vscode2-opened"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-attw",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-attw",
+        "file-type-codeclimate",
+        "file-type-reason"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-db",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-db",
+        "file-type-plsql",
+        "file-type-sql"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-vash",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-vash",
+        "file-type-vash",
+        "file-type-vbhtml"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-vsixmanifest",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-vsixmanifest",
+        "file-type-vsix",
+        "file-type-vsixmanifest"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-nest-decorator-ts",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-nest-decorator-ts",
+        "file-type-nest-filter-ts",
+        "file-type-nest-gateway-ts"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-reactjs",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-reactjs",
+        "file-type-reacttemplate",
+        "file-type-reactts"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-tsconfig-official",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-tsconfig-official",
+        "file-type-typescript-official",
+        "file-type-typescriptdef-official"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-certificate-opened",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-certificate-opened",
+        "folder-type-gulp-opened",
+        "folder-type-windows-opened"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-typescript",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-typescript",
+        "folder-type-typings",
+        "folder-type-typings-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "default-file",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "default-file",
+        "file-type-bak"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-agents",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-agents",
+        "file-type-light-agents"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-apib",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-apib",
+        "file-type-apib2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-apl",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-apl",
+        "file-type-light-apl"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-babel",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-babel",
+        "file-type-light-babel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-babel2",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-babel2",
+        "file-type-light-babel2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-codacy",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-codacy",
+        "file-type-light-codacy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-config",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-config",
+        "file-type-ini"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-copilot",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-copilot",
+        "file-type-light-copilot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-docpad",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-docpad",
+        "file-type-light-docpad"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-eleventy",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-eleventy",
+        "file-type-light-eleventy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-font",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-font",
+        "file-type-light-font"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-gamemaker2",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-gamemaker2",
+        "file-type-light-gamemaker2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-gnu",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-gnu",
+        "file-type-makefile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-hashicorp",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-hashicorp",
+        "file-type-light-hashicorp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-io",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-io",
+        "file-type-light-io"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-js",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-js",
+        "file-type-light-js"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-jsconfig",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-jsconfig",
+        "file-type-light-jsconfig"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-jsmap",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-jsmap",
+        "file-type-light-jsmap"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-json",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-json",
+        "file-type-light-json"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-json-schema",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-json-schema",
+        "file-type-light-json-schema"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-lark",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-lark",
+        "file-type-light-lark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-markuplint",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-markuplint",
+        "file-type-markuplint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-mlang",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-mlang",
+        "file-type-mlang"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-mypy",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-mypy",
+        "file-type-mypy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-nim",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-nim",
+        "file-type-nim"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-openhab",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-openhab",
+        "file-type-openhab"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-packship",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-packship",
+        "file-type-packship"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-pnpm",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-pnpm",
+        "file-type-pnpm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-prettier",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-prettier",
+        "file-type-prettier"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-quasar",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-quasar",
+        "file-type-quasar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-railway",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-railway",
+        "file-type-railway"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-reactrouter",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-reactrouter",
+        "file-type-reactrouter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-render",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-render",
+        "file-type-render"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-replit",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-replit",
+        "file-type-replit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-rome",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-rome",
+        "file-type-rome"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-spin",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-spin",
+        "file-type-spin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-systemd",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-systemd",
+        "file-type-systemd"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-testcafe",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-testcafe",
+        "file-type-testcafe"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-testjs",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-testjs",
+        "file-type-testjs"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-tex",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-tex",
+        "file-type-tex"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-tmux",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-tmux",
+        "file-type-tmux"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-tree",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-tree",
+        "file-type-tree"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-light-vercel",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-vercel",
+        "file-type-light-zeit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-node2",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-node2",
+        "file-type-scss2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "file-type-tsbuildinfo",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-tsbuildinfo",
+        "file-type-tsconfig"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-claude",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-claude",
+        "folder-type-junie"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-electron-opened",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-electron-opened",
+        "folder-type-light-electron-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-github",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-github",
+        "folder-type-github-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-gradle",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-gradle",
+        "folder-type-light-gradle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIcons",
+      "glyphName": "folder-type-typescript",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-typescript",
+        "folder-type-typings"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-apib",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-apib",
+        "file-type-apib2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-gnu",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-gnu",
+        "file-type-makefile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-jsconfig",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-jsconfig",
+        "file-type-light-jsconfig"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-fla",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-fla",
+        "file-type-light-xfl"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-markuplint",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-markuplint",
+        "file-type-markuplint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-mypy",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-mypy",
+        "file-type-mypy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-nim",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-nim",
+        "file-type-nim"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-openhab",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-openhab",
+        "file-type-openhab"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-pnpm",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-pnpm",
+        "file-type-pnpm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-quasar",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-quasar",
+        "file-type-quasar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-reactrouter",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-reactrouter",
+        "file-type-reactrouter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-rome",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-rome",
+        "file-type-rome"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-systemd",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-systemd",
+        "file-type-systemd"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-testcafe",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-testcafe",
+        "file-type-testcafe"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-light-tmux",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-light-tmux",
+        "file-type-tmux"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-tsbuildinfo",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-tsbuildinfo",
+        "file-type-tsconfig"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "file-type-typescript-official",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "file-type-typescript-official",
+        "file-type-typescriptdef-official"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-android",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-android",
+        "folder-type-android-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-app",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-app",
+        "folder-type-app-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-audio",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-audio",
+        "folder-type-audio-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-circleci",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-circleci",
+        "folder-type-circleci-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-claude",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-claude",
+        "folder-type-claude-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-config",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-config",
+        "folder-type-config-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-db",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-db",
+        "folder-type-db-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-debian",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-debian",
+        "folder-type-debian-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-fonts",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-fonts",
+        "folder-type-fonts-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-graphql",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-graphql",
+        "folder-type-graphql-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-gulp",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-gulp",
+        "folder-type-gulp-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-helper",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-helper",
+        "folder-type-helper-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-hook",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-hook",
+        "folder-type-hook-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-husky",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-husky",
+        "folder-type-husky-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-ios",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-ios",
+        "folder-type-ios-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-js",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-js",
+        "folder-type-js-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-json",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-json",
+        "folder-type-json-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-junie",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-junie",
+        "folder-type-junie-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-node",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-node",
+        "folder-type-node-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-plugin",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-plugin",
+        "folder-type-plugin-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-sass",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-sass",
+        "folder-type-sass-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-seedkit",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-seedkit",
+        "folder-type-seedkit-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-src",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-src",
+        "folder-type-src-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-temp",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-temp",
+        "folder-type-temp-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-test",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-test",
+        "folder-type-test-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-tools",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-tools",
+        "folder-type-tools-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-typings2",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-typings2",
+        "folder-type-typings2-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-windows",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-windows",
+        "folder-type-windows-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-windsurf",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-windsurf",
+        "folder-type-windsurf-opened"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "VscodeIconsSecondary",
+      "glyphName": "folder-type-yarn",
+      "prefix": "vscode-icons",
+      "sampleIcons": [
+        "folder-type-yarn",
+        "folder-type-yarn-opened"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "secondary-empty",
+      "codepoint": 57547,
+      "icon": "file-type-knip",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 921,
+        "xMin": 0,
+        "yMax": 934,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 57606,
+      "icon": "file-type-light-prettier",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 821,
+        "xMin": 0,
+        "yMax": 859,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 57807,
+      "icon": "file-type-shellcheck",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 966,
+        "xMin": 0,
+        "yMax": 954,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57361,
+      "icon": "file-type-apib",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 903,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 668,
+      "secondary": {
+        "xMax": 270,
+        "xMin": 0,
+        "yMax": 305,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57362,
+      "icon": "file-type-apib2",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 903,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 668,
+      "secondary": {
+        "xMax": 270,
+        "xMin": 0,
+        "yMax": 305,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57662,
+      "icon": "file-type-mjml",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 941,
+        "xMin": 0,
+        "yMax": 894,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 663,
+      "secondary": {
+        "xMax": 278,
+        "xMin": 0,
+        "yMax": 606,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57677,
+      "icon": "file-type-mysql",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 299,
+        "xMin": 0,
+        "yMax": 786,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 639,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 931,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57782,
+      "icon": "file-type-remark",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 312,
+        "xMin": 0,
+        "yMax": 656,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 563,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 658,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57833,
+      "icon": "file-type-swig",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 401,
+        "xMin": 0,
+        "yMax": 377,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 531,
+      "secondary": {
+        "xMax": 932,
+        "xMin": 0,
+        "yMax": 925,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57479,
+      "icon": "file-type-fsharp2",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 526,
+      "secondary": {
+        "xMax": 412,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57787,
+      "icon": "file-type-rmd",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 518,
+      "secondary": {
+        "xMax": 389,
+        "xMin": 0,
+        "yMax": 348,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57467,
+      "icon": "file-type-excel2",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 514,
+      "secondary": {
+        "xMax": 424,
+        "xMin": 0,
+        "yMax": 679,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57522,
+      "icon": "file-type-informix",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 465,
+      "secondary": {
+        "xMax": 473,
+        "xMin": 0,
+        "yMax": 477,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57478,
+      "icon": "file-type-fsharp",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 478,
+        "xMin": 0,
+        "yMax": 916,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 460,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 916,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57545,
+      "icon": "file-type-kitchenci",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 458,
+      "secondary": {
+        "xMax": 449,
+        "xMin": 0,
+        "yMax": 837,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57349,
+      "icon": "file-type-actionscript2",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 930,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 455,
+      "secondary": {
+        "xMax": 475,
+        "xMin": 0,
+        "yMax": 839,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57365,
+      "icon": "file-type-appsemble",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 457,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 450,
+      "secondary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57714,
+      "icon": "file-type-numpy",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 435,
+      "secondary": {
+        "xMax": 472,
+        "xMin": 0,
+        "yMax": 710,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57409,
+      "icon": "file-type-clojurescript",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 475,
+        "xMin": 0,
+        "yMax": 902,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 429,
+      "secondary": {
+        "xMax": 904,
+        "xMin": 0,
+        "yMax": 902,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57679,
+      "icon": "file-type-neo4j",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 910,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 428,
+      "secondary": {
+        "xMax": 510,
+        "xMin": 0,
+        "yMax": 634,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57394,
+      "icon": "file-type-c3",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 950,
+        "xMin": 0,
+        "yMax": 776,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 424,
+      "secondary": {
+        "xMax": 526,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57417,
+      "icon": "file-type-commitlint",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 460,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 423,
+      "secondary": {
+        "xMax": 515,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57450,
+      "icon": "file-type-doxygen",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 548,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 390,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 757,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57790,
+      "icon": "file-type-robots",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 502,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 381,
+      "secondary": {
+        "xMax": 883,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57385,
+      "icon": "file-type-blitzbasic",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 375,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57781,
+      "icon": "file-type-rehype",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 408,
+        "xMin": 0,
+        "yMax": 583,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 374,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57732,
+      "icon": "file-type-pcl",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 372,
+      "secondary": {
+        "xMax": 566,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57604,
+      "icon": "file-type-light-pcl",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 369,
+      "secondary": {
+        "xMax": 569,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57510,
+      "icon": "file-type-hjson",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 572,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 350,
+      "secondary": {
+        "xMax": 589,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57444,
+      "icon": "file-type-docker2",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 784,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 347,
+      "secondary": {
+        "xMax": 591,
+        "xMin": 0,
+        "yMax": 769,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57445,
+      "icon": "file-type-dockertest2",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 783,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 347,
+      "secondary": {
+        "xMax": 591,
+        "xMin": 0,
+        "yMax": 769,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57880,
+      "icon": "file-type-vlang",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 935,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 309,
+      "secondary": {
+        "xMax": 633,
+        "xMin": 0,
+        "yMax": 935,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57656,
+      "icon": "file-type-mdx",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 635,
+        "xMin": 0,
+        "yMax": 632,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 303,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 638,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57767,
+      "icon": "file-type-qlikview",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 926,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 302,
+      "secondary": {
+        "xMax": 635,
+        "xMin": 0,
+        "yMax": 677,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57538,
+      "icon": "file-type-json5",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 637,
+        "xMin": 0,
+        "yMax": 704,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 301,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 737,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57727,
+      "icon": "file-type-ovpn",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 292,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57825,
+      "icon": "file-type-storyboard",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 669,
+        "xMin": 0,
+        "yMax": 700,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 269,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57357,
+      "icon": "file-type-allcontributors",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 940,
+        "xMin": 0,
+        "yMax": 814,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 263,
+      "secondary": {
+        "xMax": 677,
+        "xMin": 0,
+        "yMax": 776,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57707,
+      "icon": "file-type-noc",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 857,
+        "xMin": 0,
+        "yMax": 888,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 259,
+      "secondary": {
+        "xMax": 598,
+        "xMin": 0,
+        "yMax": 864,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57786,
+      "icon": "file-type-retext",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 461,
+        "xMin": 0,
+        "yMax": 619,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 258,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 704,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57464,
+      "icon": "file-type-eslint",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 256,
+      "secondary": {
+        "xMax": 682,
+        "xMin": 0,
+        "yMax": 704,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57400,
+      "icon": "file-type-ceylon",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 686,
+        "xMin": 0,
+        "yMax": 430,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 255,
+      "secondary": {
+        "xMax": 941,
+        "xMin": 0,
+        "yMax": 815,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57399,
+      "icon": "file-type-cddl",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 246,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57658,
+      "icon": "file-type-meson",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 246,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 610,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57793,
+      "icon": "file-type-rproj",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 240,
+      "secondary": {
+        "xMax": 697,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57908,
+      "icon": "file-type-yang",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 712,
+        "xMin": 0,
+        "yMax": 946,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 232,
+      "secondary": {
+        "xMax": 944,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57823,
+      "icon": "file-type-stan",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 230,
+      "secondary": {
+        "xMax": 708,
+        "xMin": 0,
+        "yMax": 604,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57550,
+      "icon": "file-type-latino",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 228,
+      "secondary": {
+        "xMax": 741,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57598,
+      "icon": "file-type-light-mypy",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 712,
+        "xMin": 0,
+        "yMax": 936,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 226,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 715,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57676,
+      "icon": "file-type-mypy",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 712,
+        "xMin": 0,
+        "yMax": 936,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 226,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 715,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57851,
+      "icon": "file-type-toml",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 712,
+        "xMin": 0,
+        "yMax": 787,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 226,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57624,
+      "icon": "file-type-light-systemd",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 224,
+      "secondary": {
+        "xMax": 714,
+        "xMin": 0,
+        "yMax": 587,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57835,
+      "icon": "file-type-systemd",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 224,
+      "secondary": {
+        "xMax": 714,
+        "xMin": 0,
+        "yMax": 587,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57440,
+      "icon": "file-type-devcontainer",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 223,
+      "secondary": {
+        "xMax": 715,
+        "xMin": 0,
+        "yMax": 707,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57799,
+      "icon": "file-type-sas",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 221,
+      "secondary": {
+        "xMax": 718,
+        "xMin": 0,
+        "yMax": 832,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57366,
+      "icon": "file-type-appveyor",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 218,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 720,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57527,
+      "icon": "file-type-janet",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 931,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 213,
+      "secondary": {
+        "xMax": 718,
+        "xMin": 0,
+        "yMax": 674,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57838,
+      "icon": "file-type-teal",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 206,
+      "secondary": {
+        "xMax": 732,
+        "xMin": 0,
+        "yMax": 772,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57551,
+      "icon": "file-type-layout",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 602,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 204,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57779,
+      "icon": "file-type-registry",
+      "prefix": "vscode-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "VscodeIcons",
+      "score": 202,
+      "secondary": {
+        "xMax": 736,
+        "xMin": 0,
+        "yMax": 736,
+        "yMin": 0
+      },
+      "secondaryFont": "VscodeIconsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "VscodeIcons",
+      "headBbox": "-318..1191 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "vscode-icons",
+      "reasons": [
+        "head.xMin=-318",
+        "head.xMax=1191",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "VscodeIconsSecondary",
+      "headBbox": "0..1002 / 0..967",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "vscode-icons",
+      "reasons": [
+        "head.xMax=1002",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 878,
+      "codepoint": 57436,
+      "font": "VscodeIcons",
+      "name": "file-type-denoify",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1131,
+      "codepoint": 57493,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1131,
+      "codepoint": 57494,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1131,
+      "codepoint": 57495,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1131,
+      "codepoint": 57497,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1131,
+      "codepoint": 57498,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1131,
+      "codepoint": 57499,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1131,
+      "codepoint": 57500,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1280,
+      "codepoint": 57894,
+      "font": "VscodeIcons",
+      "name": "file-type-wgsl",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57493,
+      "contentWidth": 1427,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57494,
+      "contentWidth": 1427,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57495,
+      "contentWidth": 1427,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57497,
+      "contentWidth": 1427,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57498,
+      "contentWidth": 1427,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57499,
+      "contentWidth": 1427,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57500,
+      "contentWidth": 1427,
+      "font": "VscodeIcons",
+      "name": "file-type-go",
+      "prefix": "vscode-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57894,
+      "contentWidth": 1191,
+      "font": "VscodeIcons",
+      "name": "file-type-wgsl",
+      "prefix": "vscode-icons",
+      "reason": "wide"
+    },
+    {
+      "advance": 878,
+      "codepoint": 57436,
+      "font": "VscodeIconsSecondary",
+      "name": "file-type-denoify",
+      "prefix": "vscode-icons",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "vscode-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "VscodeIcons",
+      "glyphCount": 701,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1191,
+        "xMin": -318,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1280,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "VscodeIconsSecondary",
+      "glyphCount": 329,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1002,
+        "xMin": 0,
+        "yMax": 967,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

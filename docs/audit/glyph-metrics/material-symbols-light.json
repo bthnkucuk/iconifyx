@@ -1,0 +1,482 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "airplanemode-active",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "airplanemode-active",
+        "flight"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "airware",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "airware",
+        "airwave"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "airware-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "airware-rounded",
+        "airwave-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "autorenew-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "autorenew-outline-rounded",
+        "autorenew-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "backup",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "backup",
+        "cloud-upload"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "badge-critical-battery",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "badge-critical-battery",
+        "battery-very-low"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "battery-android-0",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "battery-android-0",
+        "battery-android-full"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "battery-charging-20-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "battery-charging-20-outline-rounded",
+        "battery-charging-20-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "battery-charging-30-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "battery-charging-30-outline-rounded",
+        "battery-charging-30-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "battery-charging-50-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "battery-charging-50-outline-rounded",
+        "battery-charging-50-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "battery-plus-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "battery-plus-outline-rounded",
+        "battery-saver-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "battery-plus-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "battery-plus-rounded",
+        "battery-saver-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "bedtime",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "bedtime",
+        "clear-night"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "brand-family",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "brand-family",
+        "brand-family-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "brightness-1",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "brightness-1",
+        "circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "brightness-5",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "brightness-5",
+        "brightness-low"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "brightness-6",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "brightness-6",
+        "brightness-medium"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "brightness-7",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "brightness-7",
+        "brightness-high"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "car-defrost-mid-left",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "car-defrost-mid-left",
+        "car-defrost-mid-low-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "car-defrost-mid-low-right",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "car-defrost-mid-low-right",
+        "car-defrost-mid-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "check",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "check",
+        "done"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "check-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "check-rounded",
+        "done-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "chevron-backward",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "chevron-backward",
+        "chevron-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "chevron-forward",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "chevron-forward",
+        "chevron-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "content-cut",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "content-cut",
+        "cut"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "content-cut-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "content-cut-rounded",
+        "cut-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "delete-history",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "delete-history",
+        "delete-history-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "download-done",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "download-done",
+        "file-download-done"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "emoji-flags",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "emoji-flags",
+        "flag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "enable-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "enable-outline-rounded",
+        "enable-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ev-charger",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ev-charger",
+        "ev-station"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ev-charger-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ev-charger-outline",
+        "ev-station-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ev-charger-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ev-charger-outline-rounded",
+        "ev-station-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ev-charger-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ev-charger-outline-sharp",
+        "ev-station-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ev-charger-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ev-charger-rounded",
+        "ev-station-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ev-charger-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ev-charger-sharp",
+        "ev-station-sharp"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "MaterialSymbolsLight",
+      "headBbox": "6..994 / 0..982",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "material-symbols-light",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 62486,
+      "contentWidth": 42,
+      "font": "MaterialSymbolsLight",
+      "name": "exclamation",
+      "prefix": "material-symbols-light",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 62487,
+      "contentWidth": 42,
+      "font": "MaterialSymbolsLight",
+      "name": "exclamation-rounded",
+      "prefix": "material-symbols-light",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983597,
+      "contentWidth": 84,
+      "font": "MaterialSymbolsLight",
+      "name": "MaterialSymbolsLight_2__go-to-line",
+      "prefix": "material-symbols-light",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983598,
+      "contentWidth": 84,
+      "font": "MaterialSymbolsLight",
+      "name": "MaterialSymbolsLight_2__go-to-line-rounded",
+      "prefix": "material-symbols-light",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 986303,
+      "contentWidth": 84,
+      "font": "MaterialSymbolsLight",
+      "name": "MaterialSymbolsLight_2__more-vert",
+      "prefix": "material-symbols-light",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 988212,
+      "contentWidth": 84,
+      "font": "MaterialSymbolsLight",
+      "name": "MaterialSymbolsLight_2__priority-high",
+      "prefix": "material-symbols-light",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 988213,
+      "contentWidth": 84,
+      "font": "MaterialSymbolsLight",
+      "name": "MaterialSymbolsLight_2__priority-high-rounded",
+      "prefix": "material-symbols-light",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 989716,
+      "contentWidth": 67,
+      "font": "MaterialSymbolsLight",
+      "name": "MaterialSymbolsLight_3__signal-cellular-alt-1-bar",
+      "prefix": "material-symbols-light",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 989717,
+      "contentWidth": 67,
+      "font": "MaterialSymbolsLight",
+      "name": "MaterialSymbolsLight_3__signal-cellular-alt-1-bar-rounded",
+      "prefix": "material-symbols-light",
+      "reason": "narrow"
+    }
+  ],
+  "prefix": "material-symbols-light",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "MaterialSymbolsLight",
+      "glyphCount": 15997,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 994,
+        "xMin": 6,
+        "yMax": 982,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

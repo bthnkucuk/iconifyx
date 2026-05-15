@@ -1,0 +1,523 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [
+    {
+      "cause": "secondary-empty",
+      "codepoint": 57353,
+      "icon": "box",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 929,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "FlatUi",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatUiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57387,
+      "icon": "magicmouse",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 1008,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "primaryFont": "FlatUi",
+      "score": 679,
+      "secondary": {
+        "xMax": 330,
+        "xMin": 0,
+        "yMax": 311,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatUiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57390,
+      "icon": "money",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 930,
+        "yMin": 0
+      },
+      "primaryFont": "FlatUi",
+      "score": 517,
+      "secondary": {
+        "xMax": 484,
+        "xMin": 0,
+        "yMax": 668,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatUiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57385,
+      "icon": "loop",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -6
+      },
+      "primaryFont": "FlatUi",
+      "score": 489,
+      "secondary": {
+        "xMax": 510,
+        "xMin": 0,
+        "yMax": 495,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatUiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57406,
+      "icon": "shield",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 950,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "primaryFont": "FlatUi",
+      "score": 449,
+      "secondary": {
+        "xMax": 501,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "secondaryFont": "FlatUiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57411,
+      "icon": "toilet-paper",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": -1
+      },
+      "primaryFont": "FlatUi",
+      "score": 436,
+      "secondary": {
+        "xMax": 564,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatUiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57418,
+      "icon": "yinyang",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 999,
+        "xMin": -12,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "FlatUi",
+      "score": 301,
+      "secondary": {
+        "xMax": 710,
+        "xMin": 0,
+        "yMax": 910,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatUiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57370,
+      "icon": "earth",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "FlatUi",
+      "score": 261,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 614,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatUiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57388,
+      "icon": "map",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "primaryFont": "FlatUi",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "secondaryFont": "FlatUiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57393,
+      "icon": "paper-bag",
+      "prefix": "flat-ui",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "primaryFont": "FlatUi",
+      "score": 204,
+      "secondary": {
+        "xMax": 796,
+        "xMin": 0,
+        "yMax": 654,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatUiSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "FlatUi",
+      "headBbox": "-19..1499 / -15..1004",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 15,
+      "prefix": "flat-ui",
+      "reasons": [
+        "head.xMin=-19",
+        "head.xMax=1499",
+        "head.yMin=-15",
+        "head.yMax=1004",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=15"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "FlatUiSecondary",
+      "headBbox": "-1..1001 / -1..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 1,
+      "prefix": "flat-ui",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1001",
+        "head.yMin=-1",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 540,
+      "codepoint": 57344,
+      "font": "FlatUi",
+      "name": "android",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 540,
+      "codepoint": 57345,
+      "font": "FlatUi",
+      "name": "android1",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57346,
+      "font": "FlatUi",
+      "name": "app-store",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 900,
+      "codepoint": 57349,
+      "font": "FlatUi",
+      "name": "bag",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1086,
+      "codepoint": 57350,
+      "font": "FlatUi",
+      "name": "basket",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 890,
+      "codepoint": 57352,
+      "font": "FlatUi",
+      "name": "bowling",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1010,
+      "codepoint": 57360,
+      "font": "FlatUi",
+      "name": "car",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1098,
+      "codepoint": 57362,
+      "font": "FlatUi",
+      "name": "chair",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1009,
+      "codepoint": 57366,
+      "font": "FlatUi",
+      "name": "compas",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1123,
+      "codepoint": 57367,
+      "font": "FlatUi",
+      "name": "cup",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57368,
+      "font": "FlatUi",
+      "name": "donut",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 869,
+      "codepoint": 57378,
+      "font": "FlatUi",
+      "name": "google",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 880,
+      "codepoint": 57384,
+      "font": "FlatUi",
+      "name": "lock",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57389,
+      "font": "FlatUi",
+      "name": "mic",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57392,
+      "font": "FlatUi",
+      "name": "news",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1388,
+      "codepoint": 57396,
+      "font": "FlatUi",
+      "name": "picture",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 650,
+      "codepoint": 57397,
+      "font": "FlatUi",
+      "name": "pig",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57400,
+      "font": "FlatUi",
+      "name": "retina",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1010,
+      "codepoint": 57401,
+      "font": "FlatUi",
+      "name": "ring",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1207,
+      "codepoint": 57408,
+      "font": "FlatUi",
+      "name": "storage",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 800,
+      "codepoint": 57413,
+      "font": "FlatUi",
+      "name": "trunk",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57367,
+      "contentWidth": 1126,
+      "font": "FlatUi",
+      "name": "cup",
+      "prefix": "flat-ui",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57392,
+      "contentWidth": 1499,
+      "font": "FlatUi",
+      "name": "news",
+      "prefix": "flat-ui",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57396,
+      "contentWidth": 1320,
+      "font": "FlatUi",
+      "name": "picture",
+      "prefix": "flat-ui",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57408,
+      "contentWidth": 1210,
+      "font": "FlatUi",
+      "name": "storage",
+      "prefix": "flat-ui",
+      "reason": "wide"
+    },
+    {
+      "advance": 540,
+      "codepoint": 57344,
+      "font": "FlatUiSecondary",
+      "name": "android",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    },
+    {
+      "advance": 1009,
+      "codepoint": 57366,
+      "font": "FlatUiSecondary",
+      "name": "compas",
+      "prefix": "flat-ui",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "flat-ui",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FlatUi",
+      "glyphCount": 75,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1499,
+        "xMin": -19,
+        "yMax": 1004,
+        "yMin": -15
+      },
+      "hhea": {
+        "advanceWidthMax": 1500,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 15
+      }
+    },
+    {
+      "error": null,
+      "font": "FlatUiSecondary",
+      "glyphCount": 20,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "hhea": {
+        "advanceWidthMax": 1009,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,2230 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "FileIcons",
+      "headBbox": "-26..1252 / -15..1012",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 15,
+      "prefix": "file-icons",
+      "reasons": [
+        "head.xMin=-26",
+        "head.xMax=1252",
+        "head.yMin=-15",
+        "head.yMax=1012",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=15"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1019,
+      "codepoint": 57347,
+      "font": "FileIcons",
+      "name": "3ds-max",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 867,
+      "codepoint": 57352,
+      "font": "FileIcons",
+      "name": "acre",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 878,
+      "codepoint": 57354,
+      "font": "FileIcons",
+      "name": "ada",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 876,
+      "codepoint": 57384,
+      "font": "FileIcons",
+      "name": "alacritty",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 515,
+      "codepoint": 57386,
+      "font": "FileIcons",
+      "name": "alex",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57397,
+      "font": "FileIcons",
+      "name": "ansible-alt",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 849,
+      "codepoint": 57403,
+      "font": "FileIcons",
+      "name": "apiextractor",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 939,
+      "codepoint": 57404,
+      "font": "FileIcons",
+      "name": "apl",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1123,
+      "codepoint": 57405,
+      "font": "FileIcons",
+      "name": "apl-old",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57406,
+      "font": "FileIcons",
+      "name": "apollo",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 843,
+      "codepoint": 57414,
+      "font": "FileIcons",
+      "name": "arttext4",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 857,
+      "codepoint": 57415,
+      "font": "FileIcons",
+      "name": "asciidoc",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57416,
+      "font": "FileIcons",
+      "name": "asciidoctor",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 929,
+      "codepoint": 57432,
+      "font": "FileIcons",
+      "name": "asymptote-alt",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 726,
+      "codepoint": 57437,
+      "font": "FileIcons",
+      "name": "augeas",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 925,
+      "codepoint": 57441,
+      "font": "FileIcons",
+      "name": "automator",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57444,
+      "font": "FileIcons",
+      "name": "awk",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 824,
+      "codepoint": 57446,
+      "font": "FileIcons",
+      "name": "babel",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 552,
+      "codepoint": 57447,
+      "font": "FileIcons",
+      "name": "ballerina",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 976,
+      "codepoint": 57448,
+      "font": "FileIcons",
+      "name": "bazaar",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 693,
+      "codepoint": 57450,
+      "font": "FileIcons",
+      "name": "bazel-old",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 57451,
+      "font": "FileIcons",
+      "name": "behat",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57454,
+      "font": "FileIcons",
+      "name": "bikeshed",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 783,
+      "codepoint": 57456,
+      "font": "FileIcons",
+      "name": "binder",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 783,
+      "codepoint": 57457,
+      "font": "FileIcons",
+      "name": "bintray",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 910,
+      "codepoint": 57459,
+      "font": "FileIcons",
+      "name": "bithound",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 835,
+      "codepoint": 57462,
+      "font": "FileIcons",
+      "name": "bloc",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 785,
+      "codepoint": 57463,
+      "font": "FileIcons",
+      "name": "bluespec",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57466,
+      "font": "FileIcons",
+      "name": "bors",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 652,
+      "codepoint": 57469,
+      "font": "FileIcons",
+      "name": "brakeman",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 730,
+      "codepoint": 57473,
+      "font": "FileIcons",
+      "name": "brotli-old",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 703,
+      "codepoint": 57475,
+      "font": "FileIcons",
+      "name": "browsersync",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 695,
+      "codepoint": 57478,
+      "font": "FileIcons",
+      "name": "build-boot",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 939,
+      "codepoint": 57480,
+      "font": "FileIcons",
+      "name": "bundler",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 888,
+      "codepoint": 57482,
+      "font": "FileIcons",
+      "name": "c",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 896,
+      "codepoint": 57483,
+      "font": "FileIcons",
+      "name": "c-script",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 990,
+      "codepoint": 57485,
+      "font": "FileIcons",
+      "name": "caddy",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57487,
+      "font": "FileIcons",
+      "name": "caffe",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57488,
+      "font": "FileIcons",
+      "name": "caffe2",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 773,
+      "codepoint": 57489,
+      "font": "FileIcons",
+      "name": "cairo",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 890,
+      "codepoint": 57490,
+      "font": "FileIcons",
+      "name": "cake",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 964,
+      "codepoint": 57497,
+      "font": "FileIcons",
+      "name": "cdf",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 867,
+      "codepoint": 57499,
+      "font": "FileIcons",
+      "name": "chai",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 867,
+      "codepoint": 57501,
+      "font": "FileIcons",
+      "name": "chartjs",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 986,
+      "codepoint": 57506,
+      "font": "FileIcons",
+      "name": "circleci",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 906,
+      "codepoint": 57508,
+      "font": "FileIcons",
+      "name": "ckeditor",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 623,
+      "codepoint": 57510,
+      "font": "FileIcons",
+      "name": "clean",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 814,
+      "codepoint": 57512,
+      "font": "FileIcons",
+      "name": "clips",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 669,
+      "codepoint": 57515,
+      "font": "FileIcons",
+      "name": "cloudfoundry",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 917,
+      "codepoint": 57517,
+      "font": "FileIcons",
+      "name": "cnab",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 914,
+      "codepoint": 57522,
+      "font": "FileIcons",
+      "name": "codecov",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 851,
+      "codepoint": 57524,
+      "font": "FileIcons",
+      "name": "codemeta",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 773,
+      "codepoint": 57532,
+      "font": "FileIcons",
+      "name": "composer",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 939,
+      "codepoint": 57533,
+      "font": "FileIcons",
+      "name": "conan",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 869,
+      "codepoint": 57534,
+      "font": "FileIcons",
+      "name": "conda",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 667,
+      "codepoint": 57547,
+      "font": "FileIcons",
+      "name": "coq",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 724,
+      "codepoint": 57550,
+      "font": "FileIcons",
+      "name": "coreldraw-alt",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57552,
+      "font": "FileIcons",
+      "name": "cpan",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 976,
+      "codepoint": 57553,
+      "font": "FileIcons",
+      "name": "cpcdosc",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 976,
+      "codepoint": 57554,
+      "font": "FileIcons",
+      "name": "crafttweaker",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 992,
+      "codepoint": 57558,
+      "font": "FileIcons",
+      "name": "csound",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 859,
+      "codepoint": 57559,
+      "font": "FileIcons",
+      "name": "cubit",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 849,
+      "codepoint": 57560,
+      "font": "FileIcons",
+      "name": "cucumber",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 292,
+      "codepoint": 57566,
+      "font": "FileIcons",
+      "name": "cwl",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57574,
+      "font": "FileIcons",
+      "name": "default",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 859,
+      "codepoint": 57575,
+      "font": "FileIcons",
+      "name": "delphi",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57577,
+      "font": "FileIcons",
+      "name": "dependabot",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 474,
+      "codepoint": 57580,
+      "font": "FileIcons",
+      "name": "dhall",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 988,
+      "codepoint": 57584,
+      "font": "FileIcons",
+      "name": "dna",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 890,
+      "codepoint": 57594,
+      "font": "FileIcons",
+      "name": "dosbox-alt",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 855,
+      "codepoint": 57597,
+      "font": "FileIcons",
+      "name": "doxygen",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 861,
+      "codepoint": 57598,
+      "font": "FileIcons",
+      "name": "dragonflybsd",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 855,
+      "codepoint": 57599,
+      "font": "FileIcons",
+      "name": "dragula",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 917,
+      "codepoint": 57604,
+      "font": "FileIcons",
+      "name": "dyalog",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 982,
+      "codepoint": 57605,
+      "font": "FileIcons",
+      "name": "dylib",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 792,
+      "codepoint": 57606,
+      "font": "FileIcons",
+      "name": "e",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 693,
+      "codepoint": 57608,
+      "font": "FileIcons",
+      "name": "easybuild",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 925,
+      "codepoint": 57616,
+      "font": "FileIcons",
+      "name": "electron",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 878,
+      "codepoint": 57622,
+      "font": "FileIcons",
+      "name": "ensime",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 972,
+      "codepoint": 57626,
+      "font": "FileIcons",
+      "name": "eslint-old",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 892,
+      "codepoint": 57627,
+      "font": "FileIcons",
+      "name": "expo",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 929,
+      "codepoint": 57629,
+      "font": "FileIcons",
+      "name": "fabric",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 666,
+      "codepoint": 57632,
+      "font": "FileIcons",
+      "name": "fancy",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57634,
+      "font": "FileIcons",
+      "name": "fauna",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 863,
+      "codepoint": 57635,
+      "font": "FileIcons",
+      "name": "faust",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 757,
+      "codepoint": 57636,
+      "font": "FileIcons",
+      "name": "fbx",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 664,
+      "codepoint": 57640,
+      "font": "FileIcons",
+      "name": "figma",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 646,
+      "codepoint": 57641,
+      "font": "FileIcons",
+      "name": "finaldraft",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 908,
+      "codepoint": 57642,
+      "font": "FileIcons",
+      "name": "finder",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 728,
+      "codepoint": 57643,
+      "font": "FileIcons",
+      "name": "firebase",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 531,
+      "codepoint": 57644,
+      "font": "FileIcons",
+      "name": "firebase-bolt",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 806,
+      "codepoint": 57647,
+      "font": "FileIcons",
+      "name": "flow",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57648,
+      "font": "FileIcons",
+      "name": "flutter",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 878,
+      "codepoint": 57653,
+      "font": "FileIcons",
+      "name": "fontforge",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 923,
+      "codepoint": 57656,
+      "font": "FileIcons",
+      "name": "fortran",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 855,
+      "codepoint": 57657,
+      "font": "FileIcons",
+      "name": "fossa",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 876,
+      "codepoint": 57658,
+      "font": "FileIcons",
+      "name": "fossil",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 955,
+      "codepoint": 57664,
+      "font": "FileIcons",
+      "name": "freemat",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 861,
+      "codepoint": 57665,
+      "font": "FileIcons",
+      "name": "frege",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 957,
+      "codepoint": 57668,
+      "font": "FileIcons",
+      "name": "fusebox",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 605,
+      "codepoint": 57678,
+      "font": "FileIcons",
+      "name": "genshi",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 800,
+      "codepoint": 57682,
+      "font": "FileIcons",
+      "name": "ghostscript",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 867,
+      "codepoint": 57685,
+      "font": "FileIcons",
+      "name": "gitpod",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 763,
+      "codepoint": 57697,
+      "font": "FileIcons",
+      "name": "goreleaser",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 951,
+      "codepoint": 57700,
+      "font": "FileIcons",
+      "name": "grapher",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 767,
+      "codepoint": 57703,
+      "font": "FileIcons",
+      "name": "graphql-codegenerator",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 839,
+      "codepoint": 57709,
+      "font": "FileIcons",
+      "name": "grunt",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 439,
+      "codepoint": 57710,
+      "font": "FileIcons",
+      "name": "gulp",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 683,
+      "codepoint": 57711,
+      "font": "FileIcons",
+      "name": "hack",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 773,
+      "codepoint": 57712,
+      "font": "FileIcons",
+      "name": "haml",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57717,
+      "font": "FileIcons",
+      "name": "helix",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 775,
+      "codepoint": 57722,
+      "font": "FileIcons",
+      "name": "homebrew",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 890,
+      "codepoint": 57727,
+      "font": "FileIcons",
+      "name": "hugo",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 951,
+      "codepoint": 57728,
+      "font": "FileIcons",
+      "name": "husky",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 544,
+      "codepoint": 57735,
+      "font": "FileIcons",
+      "name": "idris",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 769,
+      "codepoint": 57737,
+      "font": "FileIcons",
+      "name": "illumos",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 857,
+      "codepoint": 57738,
+      "font": "FileIcons",
+      "name": "image",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 703,
+      "codepoint": 57742,
+      "font": "FileIcons",
+      "name": "imgbot",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57743,
+      "font": "FileIcons",
+      "name": "influxdata",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 888,
+      "codepoint": 57757,
+      "font": "FileIcons",
+      "name": "janet",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 748,
+      "codepoint": 57759,
+      "font": "FileIcons",
+      "name": "jenkins",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 878,
+      "codepoint": 57760,
+      "font": "FileIcons",
+      "name": "jest",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 923,
+      "codepoint": 57762,
+      "font": "FileIcons",
+      "name": "jison",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 921,
+      "codepoint": 57775,
+      "font": "FileIcons",
+      "name": "junos",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 734,
+      "codepoint": 57776,
+      "font": "FileIcons",
+      "name": "jupyter",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 921,
+      "codepoint": 57779,
+      "font": "FileIcons",
+      "name": "keybase",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 847,
+      "codepoint": 57780,
+      "font": "FileIcons",
+      "name": "keynote",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 929,
+      "codepoint": 57784,
+      "font": "FileIcons",
+      "name": "kitchenci",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 972,
+      "codepoint": 57796,
+      "font": "FileIcons",
+      "name": "laravel",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 970,
+      "codepoint": 57797,
+      "font": "FileIcons",
+      "name": "lark",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 898,
+      "codepoint": 57801,
+      "font": "FileIcons",
+      "name": "leaflet",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 615,
+      "codepoint": 57802,
+      "font": "FileIcons",
+      "name": "lean",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 595,
+      "codepoint": 57805,
+      "font": "FileIcons",
+      "name": "leiningen",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 976,
+      "codepoint": 57808,
+      "font": "FileIcons",
+      "name": "lex",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 847,
+      "codepoint": 57810,
+      "font": "FileIcons",
+      "name": "lfe",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 849,
+      "codepoint": 57812,
+      "font": "FileIcons",
+      "name": "libuv",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 57816,
+      "font": "FileIcons",
+      "name": "lime",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 947,
+      "codepoint": 57817,
+      "font": "FileIcons",
+      "name": "linqpad",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 802,
+      "codepoint": 57822,
+      "font": "FileIcons",
+      "name": "lolcode",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 642,
+      "codepoint": 57823,
+      "font": "FileIcons",
+      "name": "lookml",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 736,
+      "codepoint": 57824,
+      "font": "FileIcons",
+      "name": "lsl",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 757,
+      "codepoint": 57826,
+      "font": "FileIcons",
+      "name": "macaulay2",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 660,
+      "codepoint": 57829,
+      "font": "FileIcons",
+      "name": "mako",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 716,
+      "codepoint": 57846,
+      "font": "FileIcons",
+      "name": "mermaid",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 990,
+      "codepoint": 57857,
+      "font": "FileIcons",
+      "name": "microsoft-outlook",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 607,
+      "codepoint": 57866,
+      "font": "FileIcons",
+      "name": "mirah",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 585,
+      "codepoint": 57867,
+      "font": "FileIcons",
+      "name": "miranda",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 816,
+      "codepoint": 57869,
+      "font": "FileIcons",
+      "name": "mixin",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 605,
+      "codepoint": 57871,
+      "font": "FileIcons",
+      "name": "mocha",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 810,
+      "codepoint": 57883,
+      "font": "FileIcons",
+      "name": "monotone",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 898,
+      "codepoint": 57886,
+      "font": "FileIcons",
+      "name": "mruby",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 796,
+      "codepoint": 57887,
+      "font": "FileIcons",
+      "name": "ms-dos",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 964,
+      "codepoint": 57888,
+      "font": "FileIcons",
+      "name": "mupad",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 748,
+      "codepoint": 57889,
+      "font": "FileIcons",
+      "name": "nano",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 949,
+      "codepoint": 57894,
+      "font": "FileIcons",
+      "name": "neko",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 896,
+      "codepoint": 57896,
+      "font": "FileIcons",
+      "name": "neo4j",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 917,
+      "codepoint": 57897,
+      "font": "FileIcons",
+      "name": "neon",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 933,
+      "codepoint": 57907,
+      "font": "FileIcons",
+      "name": "ngrx",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 826,
+      "codepoint": 57910,
+      "font": "FileIcons",
+      "name": "nightwatch",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 880,
+      "codepoint": 57917,
+      "font": "FileIcons",
+      "name": "nodemon",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 855,
+      "codepoint": 57919,
+      "font": "FileIcons",
+      "name": "nomad",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 839,
+      "codepoint": 57922,
+      "font": "FileIcons",
+      "name": "npm",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1023,
+      "codepoint": 57923,
+      "font": "FileIcons",
+      "name": "npm-old",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 832,
+      "codepoint": 57926,
+      "font": "FileIcons",
+      "name": "nsri",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 693,
+      "codepoint": 57927,
+      "font": "FileIcons",
+      "name": "nsri-alt",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57928,
+      "font": "FileIcons",
+      "name": "nuclide",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57930,
+      "font": "FileIcons",
+      "name": "numpy",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 669,
+      "codepoint": 57937,
+      "font": "FileIcons",
+      "name": "nxc",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 900,
+      "codepoint": 57943,
+      "font": "FileIcons",
+      "name": "ogone",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 755,
+      "codepoint": 57945,
+      "font": "FileIcons",
+      "name": "ooc",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 939,
+      "codepoint": 57952,
+      "font": "FileIcons",
+      "name": "openexr",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 898,
+      "codepoint": 57956,
+      "font": "FileIcons",
+      "name": "openpolicyagent",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1251,
+      "codepoint": 57957,
+      "font": "FileIcons",
+      "name": "openscad",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 730,
+      "codepoint": 57960,
+      "font": "FileIcons",
+      "name": "openvms",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 912,
+      "codepoint": 57963,
+      "font": "FileIcons",
+      "name": "org-mode",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 621,
+      "codepoint": 57965,
+      "font": "FileIcons",
+      "name": "owl",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 732,
+      "codepoint": 57972,
+      "font": "FileIcons",
+      "name": "parrot",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 472,
+      "codepoint": 57976,
+      "font": "FileIcons",
+      "name": "pawn",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 814,
+      "codepoint": 57978,
+      "font": "FileIcons",
+      "name": "pegjs",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57980,
+      "font": "FileIcons",
+      "name": "phalcon",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 722,
+      "codepoint": 57986,
+      "font": "FileIcons",
+      "name": "pickle",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 951,
+      "codepoint": 57992,
+      "font": "FileIcons",
+      "name": "pkgsrc",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 830,
+      "codepoint": 57993,
+      "font": "FileIcons",
+      "name": "platformio",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 558,
+      "codepoint": 57997,
+      "font": "FileIcons",
+      "name": "pogoscript",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 724,
+      "codepoint": 58003,
+      "font": "FileIcons",
+      "name": "pov-ray",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 970,
+      "codepoint": 58004,
+      "font": "FileIcons",
+      "name": "powerbuilder",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 857,
+      "codepoint": 58009,
+      "font": "FileIcons",
+      "name": "prettier",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 828,
+      "codepoint": 58010,
+      "font": "FileIcons",
+      "name": "prisma",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 935,
+      "codepoint": 58012,
+      "font": "FileIcons",
+      "name": "progress",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 654,
+      "codepoint": 58021,
+      "font": "FileIcons",
+      "name": "puppet",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 572,
+      "codepoint": 58022,
+      "font": "FileIcons",
+      "name": "pure",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 886,
+      "codepoint": 58025,
+      "font": "FileIcons",
+      "name": "pypi",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1024,
+      "codepoint": 58026,
+      "font": "FileIcons",
+      "name": "pyret",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 865,
+      "codepoint": 58028,
+      "font": "FileIcons",
+      "name": "pyup",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 746,
+      "codepoint": 58029,
+      "font": "FileIcons",
+      "name": "q",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 853,
+      "codepoint": 58036,
+      "font": "FileIcons",
+      "name": "raml",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 787,
+      "codepoint": 58038,
+      "font": "FileIcons",
+      "name": "razzle",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 785,
+      "codepoint": 58042,
+      "font": "FileIcons",
+      "name": "readthedocs",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 890,
+      "codepoint": 58045,
+      "font": "FileIcons",
+      "name": "reasonstudios",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 894,
+      "codepoint": 58056,
+      "font": "FileIcons",
+      "name": "restql",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 689,
+      "codepoint": 58058,
+      "font": "FileIcons",
+      "name": "rexx",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 886,
+      "codepoint": 58060,
+      "font": "FileIcons",
+      "name": "ring",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 755,
+      "codepoint": 58068,
+      "font": "FileIcons",
+      "name": "rollup",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 871,
+      "codepoint": 58069,
+      "font": "FileIcons",
+      "name": "rollup-old",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 845,
+      "codepoint": 58073,
+      "font": "FileIcons",
+      "name": "rubocop",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 873,
+      "codepoint": 58074,
+      "font": "FileIcons",
+      "name": "rubygems",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58075,
+      "font": "FileIcons",
+      "name": "sac",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 976,
+      "codepoint": 58078,
+      "font": "FileIcons",
+      "name": "saltstack",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 830,
+      "codepoint": 58079,
+      "font": "FileIcons",
+      "name": "san",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 667,
+      "codepoint": 58081,
+      "font": "FileIcons",
+      "name": "sas",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 683,
+      "codepoint": 58083,
+      "font": "FileIcons",
+      "name": "scheme",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 529,
+      "codepoint": 58086,
+      "font": "FileIcons",
+      "name": "scratch",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 873,
+      "codepoint": 58087,
+      "font": "FileIcons",
+      "name": "scrutinizer",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 867,
+      "codepoint": 58089,
+      "font": "FileIcons",
+      "name": "semanticrelease",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 865,
+      "codepoint": 58091,
+      "font": "FileIcons",
+      "name": "sequelize",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 882,
+      "codepoint": 58099,
+      "font": "FileIcons",
+      "name": "shopify",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 988,
+      "codepoint": 58102,
+      "font": "FileIcons",
+      "name": "silicongraphics",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 992,
+      "codepoint": 58103,
+      "font": "FileIcons",
+      "name": "silverstripe",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 927,
+      "codepoint": 58107,
+      "font": "FileIcons",
+      "name": "sketchup-make",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 58108,
+      "font": "FileIcons",
+      "name": "sketchup-stylebuilder",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 546,
+      "codepoint": 58115,
+      "font": "FileIcons",
+      "name": "snyk",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 675,
+      "codepoint": 58116,
+      "font": "FileIcons",
+      "name": "solidarity",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 644,
+      "codepoint": 58117,
+      "font": "FileIcons",
+      "name": "solidity",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 955,
+      "codepoint": 58118,
+      "font": "FileIcons",
+      "name": "sophia",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 775,
+      "codepoint": 58119,
+      "font": "FileIcons",
+      "name": "sorbet",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 925,
+      "codepoint": 58122,
+      "font": "FileIcons",
+      "name": "spacengine",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 558,
+      "codepoint": 58123,
+      "font": "FileIcons",
+      "name": "sparc",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58124,
+      "font": "FileIcons",
+      "name": "spray",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 894,
+      "codepoint": 58126,
+      "font": "FileIcons",
+      "name": "sqlite",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 898,
+      "codepoint": 58130,
+      "font": "FileIcons",
+      "name": "stdlibjs",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 58131,
+      "font": "FileIcons",
+      "name": "stencil",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 820,
+      "codepoint": 58133,
+      "font": "FileIcons",
+      "name": "storybook",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 929,
+      "codepoint": 58135,
+      "font": "FileIcons",
+      "name": "strings",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 888,
+      "codepoint": 58136,
+      "font": "FileIcons",
+      "name": "stylable",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1025,
+      "codepoint": 58138,
+      "font": "FileIcons",
+      "name": "stylelint",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 814,
+      "codepoint": 58139,
+      "font": "FileIcons",
+      "name": "stylishhaskell",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 734,
+      "codepoint": 58142,
+      "font": "FileIcons",
+      "name": "stylus-s",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 832,
+      "codepoint": 58145,
+      "font": "FileIcons",
+      "name": "svelte",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 472,
+      "codepoint": 58151,
+      "font": "FileIcons",
+      "name": "tcl",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 923,
+      "codepoint": 58154,
+      "font": "FileIcons",
+      "name": "templeos",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 58156,
+      "font": "FileIcons",
+      "name": "tern",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 894,
+      "codepoint": 58157,
+      "font": "FileIcons",
+      "name": "terraform",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 996,
+      "codepoint": 58174,
+      "font": "FileIcons",
+      "name": "tfs",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 917,
+      "codepoint": 58176,
+      "font": "FileIcons",
+      "name": "tilt",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 646,
+      "codepoint": 58178,
+      "font": "FileIcons",
+      "name": "tipe",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 980,
+      "codepoint": 58183,
+      "font": "FileIcons",
+      "name": "totvs",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 957,
+      "codepoint": 58184,
+      "font": "FileIcons",
+      "name": "truffle",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 781,
+      "codepoint": 58187,
+      "font": "FileIcons",
+      "name": "ttcn-3",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 798,
+      "codepoint": 58189,
+      "font": "FileIcons",
+      "name": "twig",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58190,
+      "font": "FileIcons",
+      "name": "twine",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 912,
+      "codepoint": 58192,
+      "font": "FileIcons",
+      "name": "typedoc",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 771,
+      "codepoint": 58197,
+      "font": "FileIcons",
+      "name": "unibeautify",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 992,
+      "codepoint": 58206,
+      "font": "FileIcons",
+      "name": "vagrant",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 892,
+      "codepoint": 58210,
+      "font": "FileIcons",
+      "name": "velocity",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 859,
+      "codepoint": 58215,
+      "font": "FileIcons",
+      "name": "virtualbox",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 996,
+      "codepoint": 58217,
+      "font": "FileIcons",
+      "name": "vite",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 695,
+      "codepoint": 58229,
+      "font": "FileIcons",
+      "name": "wdl",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 902,
+      "codepoint": 58233,
+      "font": "FileIcons",
+      "name": "webpack",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 878,
+      "codepoint": 58234,
+      "font": "FileIcons",
+      "name": "webpack-old",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 585,
+      "codepoint": 58236,
+      "font": "FileIcons",
+      "name": "wenyan",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58237,
+      "font": "FileIcons",
+      "name": "wercker",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 921,
+      "codepoint": 58239,
+      "font": "FileIcons",
+      "name": "windi",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 589,
+      "codepoint": 58240,
+      "font": "FileIcons",
+      "name": "wine",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 892,
+      "codepoint": 58253,
+      "font": "FileIcons",
+      "name": "yaml",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58259,
+      "font": "FileIcons",
+      "name": "yandex",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 931,
+      "codepoint": 58262,
+      "font": "FileIcons",
+      "name": "yarn",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 902,
+      "codepoint": 58263,
+      "font": "FileIcons",
+      "name": "yasm",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 814,
+      "codepoint": 58264,
+      "font": "FileIcons",
+      "name": "yorick",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 929,
+      "codepoint": 58271,
+      "font": "FileIcons",
+      "name": "zimpl",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 917,
+      "codepoint": 58273,
+      "font": "FileIcons",
+      "name": "zork",
+      "prefix": "file-icons",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57405,
+      "contentWidth": 1126,
+      "font": "FileIcons",
+      "name": "apl-old",
+      "prefix": "file-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57957,
+      "contentWidth": 1253,
+      "font": "FileIcons",
+      "name": "openscad",
+      "prefix": "file-icons",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "file-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FileIcons",
+      "glyphCount": 930,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1252,
+        "xMin": -26,
+        "yMax": 1012,
+        "yMin": -15
+      },
+      "hhea": {
+        "advanceWidthMax": 1251,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 15
+      }
+    }
+  ]
+}

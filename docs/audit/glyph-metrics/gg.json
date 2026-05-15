@@ -1,0 +1,385 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Gg",
+      "glyphName": "spinner",
+      "prefix": "gg",
+      "sampleIcons": [
+        "spinner",
+        "spinner-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Gg",
+      "glyphName": "spinner-two",
+      "prefix": "gg",
+      "sampleIcons": [
+        "spinner-two",
+        "spinner-two-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Gg",
+      "glyphName": "vercel",
+      "prefix": "gg",
+      "sampleIcons": [
+        "vercel",
+        "zeit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GgSecondary",
+      "glyphName": "spinner",
+      "prefix": "gg",
+      "sampleIcons": [
+        "spinner",
+        "spinner-two"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57806,
+      "icon": "patreon",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 292,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 583,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57628,
+      "icon": "feed",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 394,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 504,
+      "secondary": {
+        "xMax": 898,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57452,
+      "icon": "border-left",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 292,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 500,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57956,
+      "icon": "spinner",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 417,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57433,
+      "icon": "atlasian",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 753,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 355,
+      "secondary": {
+        "xMax": 436,
+        "xMin": 0,
+        "yMax": 534,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57601,
+      "icon": "edit-flip-h",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 334,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57889,
+      "icon": "reorder",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 793,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 333,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57660,
+      "icon": "framer",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 251,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57353,
+      "icon": "align-left",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 250,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57354,
+      "icon": "align-middle",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 459,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 250,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57453,
+      "icon": "border-right",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 209,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57583,
+      "icon": "distribute-horizontal",
+      "prefix": "gg",
+      "primary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "Gg",
+      "score": 208,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "GgSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Gg",
+      "headBbox": "-6..1007 / -10..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 10,
+      "prefix": "gg",
+      "reasons": [
+        "head.xMin=-6",
+        "head.xMax=1007",
+        "head.yMin=-10",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=10"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "GgSecondary",
+      "headBbox": "0..917 / 0..918",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "gg",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "gg",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Gg",
+      "glyphCount": 705,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1007,
+        "xMin": -6,
+        "yMax": 1006,
+        "yMin": -10
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 10
+      }
+    },
+    {
+      "error": null,
+      "font": "GgSecondary",
+      "glyphCount": 31,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

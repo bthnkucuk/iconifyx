@@ -1,0 +1,929 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "activity-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "activity-fill",
+        "activity-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrow-back-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrow-back-fill",
+        "arrow-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrow-downward-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrow-downward-fill",
+        "arrow-downward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrow-forward-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrow-forward-fill",
+        "arrow-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrow-ios-back-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrow-ios-back-fill",
+        "arrow-ios-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrow-ios-downward-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrow-ios-downward-fill",
+        "arrow-ios-downward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrow-ios-forward-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrow-ios-forward-fill",
+        "arrow-ios-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrow-ios-upward-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrow-ios-upward-fill",
+        "arrow-ios-upward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrow-upward-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrow-upward-fill",
+        "arrow-upward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrowhead-down-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrowhead-down-fill",
+        "arrowhead-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrowhead-left-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrowhead-left-fill",
+        "arrowhead-left-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrowhead-right-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrowhead-right-fill",
+        "arrowhead-right-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "arrowhead-up-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "arrowhead-up-fill",
+        "arrowhead-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "at-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "at-fill",
+        "at-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "attach-2-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "attach-2-fill",
+        "attach-2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "attach-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "attach-fill",
+        "attach-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "bar-chart-2-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "bar-chart-2-fill",
+        "bar-chart-2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "bar-chart-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "bar-chart-fill",
+        "bar-chart-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "bluetooth-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "bluetooth-fill",
+        "bluetooth-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "cast-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "cast-fill",
+        "cast-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "checkmark-circle-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "checkmark-circle-fill",
+        "checkmark-circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "checkmark-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "checkmark-fill",
+        "checkmark-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "checkmark-square-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "checkmark-square-fill",
+        "checkmark-square-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "chevron-down-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "chevron-down-fill",
+        "chevron-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "chevron-left-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "chevron-left-fill",
+        "chevron-left-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "chevron-right-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "chevron-right-fill",
+        "chevron-right-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "chevron-up-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "chevron-up-fill",
+        "chevron-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "close-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "close-fill",
+        "close-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "code-download-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "code-download-fill",
+        "code-download-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "code-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "code-fill",
+        "code-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "collapse-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "collapse-fill",
+        "collapse-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "corner-down-left-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "corner-down-left-fill",
+        "corner-down-left-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "corner-down-right-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "corner-down-right-fill",
+        "corner-down-right-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "corner-left-down-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "corner-left-down-fill",
+        "corner-left-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "corner-left-up-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "corner-left-up-fill",
+        "corner-left-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "corner-right-down-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "corner-right-down-fill",
+        "corner-right-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "corner-right-up-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "corner-right-up-fill",
+        "corner-right-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "corner-up-left-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "corner-up-left-fill",
+        "corner-up-left-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "corner-up-right-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "corner-up-right-fill",
+        "corner-up-right-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "crop-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "crop-fill",
+        "crop-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "diagonal-arrow-left-down-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "diagonal-arrow-left-down-fill",
+        "diagonal-arrow-left-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "diagonal-arrow-left-up-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "diagonal-arrow-left-up-fill",
+        "diagonal-arrow-left-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "diagonal-arrow-right-down-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "diagonal-arrow-right-down-fill",
+        "diagonal-arrow-right-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "diagonal-arrow-right-up-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "diagonal-arrow-right-up-fill",
+        "diagonal-arrow-right-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "done-all-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "done-all-fill",
+        "done-all-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "download-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "download-fill",
+        "download-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "expand-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "expand-fill",
+        "expand-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "external-link-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "external-link-fill",
+        "external-link-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "eye-off-2-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "eye-off-2-fill",
+        "eye-off-2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "flip-2-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "flip-2-fill",
+        "flip-2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "flip-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "flip-fill",
+        "flip-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "globe-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "globe-fill",
+        "globe-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "hash-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "hash-fill",
+        "hash-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "link-2-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "link-2-fill",
+        "link-2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "link-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "link-fill",
+        "link-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "list-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "list-fill",
+        "list-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "log-in-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "log-in-fill",
+        "log-in-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "log-out-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "log-out-fill",
+        "log-out-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "menu-2-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "menu-2-fill",
+        "menu-2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "menu-arrow-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "menu-arrow-fill",
+        "menu-arrow-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "menu-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "menu-fill",
+        "menu-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "minus-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "minus-fill",
+        "minus-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "more-horizontal-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "more-horizontal-fill",
+        "more-horizontal-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "more-vertical-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "more-vertical-fill",
+        "more-vertical-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "move-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "move-fill",
+        "move-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "paper-plane-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "paper-plane-fill",
+        "paper-plane-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "percent-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "percent-fill",
+        "percent-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "plus-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "plus-fill",
+        "plus-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "power-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "power-fill",
+        "power-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "question-mark-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "question-mark-fill",
+        "question-mark-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "radio-button-off-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "radio-button-off-fill",
+        "radio-button-off-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "refresh-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "refresh-fill",
+        "refresh-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "repeat-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "repeat-fill",
+        "repeat-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "scissors-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "scissors-fill",
+        "scissors-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "search-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "search-fill",
+        "search-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "shake-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "shake-fill",
+        "shake-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "shuffle-2-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "shuffle-2-fill",
+        "shuffle-2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "shuffle-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "shuffle-fill",
+        "shuffle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "slash-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "slash-fill",
+        "slash-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "smiling-face-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "smiling-face-fill",
+        "smiling-face-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "square-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "square-fill",
+        "square-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "swap-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "swap-fill",
+        "swap-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "sync-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "sync-fill",
+        "sync-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "text-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "text-fill",
+        "text-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "trending-down-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "trending-down-fill",
+        "trending-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "trending-up-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "trending-up-fill",
+        "trending-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "wifi-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "wifi-fill",
+        "wifi-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Eva",
+      "glyphName": "wifi-off-fill",
+      "prefix": "eva",
+      "sampleIcons": [
+        "wifi-off-fill",
+        "wifi-off-outline"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Eva",
+      "headBbox": "0..966 / 0..961",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "eva",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "eva",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Eva",
+      "glyphCount": 487,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 966,
+        "xMin": 0,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

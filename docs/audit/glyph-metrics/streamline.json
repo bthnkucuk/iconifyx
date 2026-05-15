@@ -1,0 +1,2146 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 5,
+      "font": "Streamline",
+      "glyphName": "button-record-3",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "button-record-3",
+        "circle",
+        "entertainment-control-button-record-3-button-television-buttons-movies-record-tv-video-controls",
+        "interface-geometric-circle-geometric-circle-round-design-shape-shapes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "add-circle",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "add-circle",
+        "interface-add-circle-button-remove-cross-add-buttons-plus-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "add-layer-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "add-layer-2",
+        "interface-edit-layer-add-2-layer-add-design-plus-layers-square-box"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "add-square",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "add-square",
+        "interface-add-square-square-remove-cross-buttons-add-plus-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "alien",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "alien",
+        "ecology-science-alien-extraterristerial-life-form-space-universe-head"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "align-back-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "align-back-1",
+        "interface-align-back-back-design-layer-layers-pile-stack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "align-center",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "align-center",
+        "interface-text-formatting-center-align-text-alignment-align-paragraph-centered-formatting-center"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "align-front-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "align-front-1",
+        "interface-align-front-design-front-layer-layers-pile-stack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "align-left",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "align-left",
+        "interface-text-formatting-left-align-paragraph-text-alignment-align-left-formatting-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "align-right",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "align-right",
+        "interface-text-formatting-right-align-rag-paragraph-text-alignment-align-right-formatting-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "android",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "android",
+        "computer-logo-android-android-code-apps-bugdroid-programming"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "annoncement-megaphone-solid",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "annoncement-megaphone-solid",
+        "announcement-megaphone-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-bend-left-down-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-bend-left-down-2",
+        "interface-arrows-bend-down-left-3-arrow-bend-curve-change-direction-left-to-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-bend-right-down-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-bend-right-down-2",
+        "interface-arrows-bend-down-right-1-arrow-bend-curve-change-direction-right-to-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-crossover-down",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-crossover-down",
+        "interface-arrows-crossover-down-cross-move-over-arrow-arrows-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-crossover-left",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-crossover-left",
+        "interface-arrows-crossover-left-cross-move-over-arrow-arrows-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-crossover-right",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-crossover-right",
+        "interface-arrows-cross-over-cross-move-over-arrow-arrows-ight"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-crossover-up",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-crossover-up",
+        "interface-arrows-crossover-up-cross-move-over-arrow-arrows-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-curvy-up-down-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-curvy-up-down-1",
+        "interface-arrows-button-zigzag-both-direction-arrow-curvy-diagram-zigzag-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-down-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-down-2",
+        "interface-arrows-bottom-down-move-arrow-arrows"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-expand",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-expand",
+        "interface-arrows-expand-1-expand-small-bigger-retract-smaller-big"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-move",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-move",
+        "interface-arrows-all-direction-move-button-arrows-direction"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-reload-horizontal-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-reload-horizontal-1",
+        "interface-arrows-reload-2-arrows-load-arrow-sync-square-loading-reload-synchronize"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-reload-vertical-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-reload-vertical-1",
+        "interface-arrows-reload-1-arrows-load-arrow-sync-square-loading-reload-synchronize"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-round-left",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-round-left",
+        "interface-arrows-round-left-diagram-round-arrow-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-round-right",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-round-right",
+        "interface-arrows-round-right-diagram-round-arrow-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-shrink",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-shrink",
+        "interface-arrows-shrink-1-expand-retract-shrink-bigger-big-small-smaller"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-shrink-diagonal-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-shrink-diagonal-1",
+        "interface-arrows-shrink-3-expand-retract-shrink-bigger-big-small-smaller"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-shrink-diagonal-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-shrink-diagonal-2",
+        "interface-arrows-shrink-2-expand-retract-shrink-bigger-big-small-smaller"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-transfer-diagonal-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-transfer-diagonal-1",
+        "interface-arrows-data-transfer-diagonal-arrows-arrow-server-data-diagonal-internet-transfer-network"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-transfer-diagonal-3",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-transfer-diagonal-3",
+        "interface-arrows-diagonal-arrows-arrow-server-data-diagonal-internet-transfer-network"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "arrow-up-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "arrow-up-1",
+        "interface-arrows-up-arrow-up-keyboard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "asterisk-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "asterisk-1",
+        "computer-keyboard-asterisk-1-asterisk-star-keyboard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "baggage",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "baggage",
+        "travel-airport-baggage-check-baggage-travel-adventure-luggage-bag-checked"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "beach",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "beach",
+        "travel-places-beach-island-waves-outdoor-recreation-tree-beach-palm-wave-water"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "beer-mug",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "beer-mug",
+        "food-drinks-beer-mug-beer-cook-brewery-drink-mug-cooking-nutrition-brew-brewing-food"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "bitcoin",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "bitcoin",
+        "money-currency-bitcoin-crypto-circle-payment-blokchain-finance-bitcoin-currency-money"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "blank-notepad",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "blank-notepad",
+        "interface-content-note-pad-content-notes-book-notepad-notebook"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "bluetooth",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "bluetooth",
+        "computer-connection-bluetooth-bluetooth-internet-server-network-wireless"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "bone",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "bone",
+        "nature-ecology-bone-pet-dog-bone-food-snack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "bookmark",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "bookmark",
+        "interface-bookmark-bookmarks-tags-favorite"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "bracket",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "bracket",
+        "programming-script-code-code-angle-programming-file-bracket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "browser-add",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "browser-add",
+        "programming-browser-add-app-code-apps-add-programming-window-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "browser-build",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "browser-build",
+        "programming-browser-build-build-website-development-window-code-programming-web-backend-browser-dev"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "browser-check",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "browser-check",
+        "programming-browser-check-checkmark-pass-window-app-code-programming-success-check-apps"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "browser-delete",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "browser-delete",
+        "programming-browser-delete-app-code-apps-fail-delete-window-remove"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "browser-remove",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "browser-remove",
+        "programming-browser-remove-app-code-apps-subtract-programming-window-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "building-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "building-2",
+        "shopping-building-real-home-tower-building-house-estate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "bullet-list",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "bullet-list",
+        "interface-text-formatting-list-bullets-points-bullet-unordered-list-lists-bullets"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "burger",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "burger",
+        "food-burger-drink-burger-fast-cook-cooking-nutrition-food"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "button-pause-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "button-pause-2",
+        "entertainment-control-button-pause-2-button-television-buttons-movies-tv-pause-video-controls"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "button-record-3-solid",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "button-record-3-solid",
+        "circle-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "button-stop",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "button-stop",
+        "interface-geometric-square-square-geometric-design-shape-shapes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "camera-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "camera-1",
+        "image-camera-1-photos-picture-camera-photography-photo-pictures"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "camera-video",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "camera-video",
+        "entertainment-camera-video-film-television-tv-camera-movies-video-recorder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "camping-tent",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "camping-tent",
+        "travel-places-camping-tent-outdoor-recreation-camping-tent-teepee-tipi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "candy-cane",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "candy-cane",
+        "food-candy-cane-candy-sweet-cane-christmas"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "christian-cross-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "christian-cross-1",
+        "religion-cross-1-religion-cross-culture-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "christian-cross-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "christian-cross-2",
+        "religion-cross-2-religion-cross-culture-thin-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "christianity",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "christianity",
+        "religion-christianity-religion-jesus-christianity-christ-fish-culture"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "circle-clock",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "circle-clock",
+        "interface-time-clock-circle-clock-loading-measure-time-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "coffee-mug",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "coffee-mug",
+        "food-drinks-coffee-mug-coffee-cook-cup-drink-mug-cooking-nutrition-cafe-caffeine-food"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "cog",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "cog",
+        "interface-setting-cog-work-loading-cog-gear-settings-machine"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "color-palette",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "color-palette",
+        "interface-edit-color-palette-color-palette-company-office-supplies-work"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "color-swatches",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "color-swatches",
+        "interface-edit-swatch-color-colors-design-painting-palette-sample-swatch"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "command",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "command",
+        "computer-keyboard-command-keyboard-mac-command-apple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "composition-oval",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "composition-oval",
+        "image-photo-composition-oval-camera-frame-composition-photography-pictures-landscape-photo-oval"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "compsition-horizontal",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "compsition-horizontal",
+        "image-photo-compsition-horizontal-camera-horizontal-panorama-composition-photography-photo-pictures"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-chip-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-chip-1",
+        "computer-chip-1-computer-device-chip-electronics-cpu-microprocessor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-chip-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-chip-2",
+        "computer-chip-2-core-microprocessor-device-electronics-chip-computer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-connection-network-network-server-internet-ethernet",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-connection-network-network-server-internet-ethernet",
+        "network"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-connection-wifi-wireless-wifi-internet-server-network",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-connection-wifi-wireless-wifi-internet-server-network",
+        "wifi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-hand-held-tablet-kindle-device-electronics-ipad-computer",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-hand-held-tablet-kindle-device-electronics-ipad-computer",
+        "hand-held"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-keyboard-next-keyboard-next-arrow-right",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-keyboard-next-keyboard-next-arrow-right",
+        "next"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-keyboard-return-2-keyboard-arrow-return-enter",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-keyboard-return-2-keyboard-arrow-return-enter",
+        "return-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-logo-facebook-1-media-facebook-social",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-logo-facebook-1-media-facebook-social",
+        "facebook-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-logo-twitter-media-twitter-social",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-logo-twitter-media-twitter-social",
+        "twitter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-logo-windows-1-os-system-microsoft",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-logo-windows-1-os-system-microsoft",
+        "windows"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-printer-scan-device-electronics-printer-print-computer",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-printer-scan-device-electronics-printer-print-computer",
+        "printer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-screen-1-screen-device-electronics-monitor-diplay-computer",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-screen-1-screen-device-electronics-monitor-diplay-computer",
+        "screen-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-screen-2-screen-device-electronics-monitor-diplay-computer",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-screen-2-screen-device-electronics-monitor-diplay-computer",
+        "screen-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-storage-floppy-disk-disk-floppy-electronics-device-disc-computer",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-storage-floppy-disk-disk-floppy-electronics-device-disc-computer",
+        "floppy-disk"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-storage-hard-drive-1-disk-computer-device-electronics-disc-drive-raid",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-storage-hard-drive-1-disk-computer-device-electronics-disc-drive-raid",
+        "hard-drive-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-virtual-reality-gaming-virtual-gear-controller-reality-games-headset-technology-vr-eyewear",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-virtual-reality-gaming-virtual-gear-controller-reality-games-headset-technology-vr-eyewear",
+        "virtual-reality"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-voice-mail-mic-audio-mike-music-microphone",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-voice-mail-mic-audio-mike-music-microphone",
+        "voice-mail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-webcam-video-work-video-meeting-camera-company-conference-office",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-webcam-video-work-video-meeting-camera-company-conference-office",
+        "webcam-video"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "computer-webcam-webcam-camera-future-tech-chat-skype-technology-video",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "computer-webcam-webcam-camera-future-tech-chat-skype-technology-video",
+        "webcam"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "credit-card-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "credit-card-1",
+        "money-atm-card-1-credit-pay-payment-debit-card-finance-plastic-money"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "crown",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "crown",
+        "interface-award-crown-reward-social-rating-media-queen-vip-king-crown"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "customer-support-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "customer-support-1",
+        "interface-help-customer-support-1-customer-headset-help-microphone-phone-support"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "dashboard-3",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "dashboard-3",
+        "interface-dashboard-layout-3-app-application-dashboard-home-layout"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "dashboard-circle",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "dashboard-circle",
+        "interface-dashboard-layout-circle-app-application-dashboard-home-layout-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "delete-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "delete-1",
+        "interface-delete-1-remove-add-button-buttons-delete"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "dna",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "dna",
+        "ecology-science-dna-biology-experiment-lab-science"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "download-box-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "download-box-1",
+        "interface-download-box-1-arrow-box-down-download-internet-network-server-upload"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "earth-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "earth-1",
+        "travel-map-earth-1-planet-earth-globe-world"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "ecology-science-erlenmeyer-flask-experiment-lab-flask-science-chemistry-solution",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "ecology-science-erlenmeyer-flask-experiment-lab-flask-science-chemistry-solution",
+        "erlenmeyer-flask"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "entertainment-music-note-1-music-audio-note",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "entertainment-music-note-1-music-audio-note",
+        "music-note-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "entertainment-music-note-2-music-audio-note",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "entertainment-music-note-2-music-audio-note",
+        "music-note-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "entertainment-news-paper-newspaper-periodical-fold-content",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "entertainment-news-paper-newspaper-periodical-fold-content",
+        "news-paper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "entertainment-party-popper-hobby-entertainment-party-popper-confetti-event",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "entertainment-party-popper-hobby-entertainment-party-popper-confetti-event",
+        "party-popper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "entertainment-play-list-4-screen-television-display-player-movies-players-tv-media-video",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "entertainment-play-list-4-screen-television-display-player-movies-players-tv-media-video",
+        "play-list-4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "euro",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "euro",
+        "money-currency-euro-exchange-payment-euro-forex-finance-currency-money-foreign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "expand",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "expand",
+        "interface-edit-expand-big-bigger-design-expand-larger-resize-size-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "expand-horizontal-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "expand-horizontal-1",
+        "interface-arrows-vertical-left-right-expand-resize-bigger-horizontal-smaller-size-arrow-arrows-big"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "expand-window-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "expand-window-2",
+        "interface-arrows-expand-5-expand-small-bigger-retract-smaller-big"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "fahrenheit",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "fahrenheit",
+        "interface-weather-fahrenheit-degrees-temperature-fahrenheit-degree-weather"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "fingerprint-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "fingerprint-2",
+        "interface-id-thumb-mark-identification-password-touch-id-secure-fingerprint-finger-security"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "flash-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "flash-1",
+        "image-flash-1-flash-power-connect-charge-electricity-lightning"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "flash-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "flash-2",
+        "image-flash-2-flash-power-connect-charge-electricity-lightning"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "flash-off",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "flash-off",
+        "image-flash-off-flash-power-connect-charge-off-electricity-lightning"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "flip-vertical-arrow-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "flip-vertical-arrow-2",
+        "interface-edit-flip-vertical-2-arrow-design-flip-reflect-up-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "flip-vertical-square-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "flip-vertical-square-2",
+        "interface-edit-flip-up-design-up-flip-reflect-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "flower-alt",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "flower-alt",
+        "image-picture-flower-photos-photo-picture-camera-photography-pictures-flower"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "food-drinks-water-glass-glass-water-juice-drink-liquid",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "food-drinks-water-glass-glass-water-juice-drink-liquid",
+        "water-glass"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "food-ice-cream-2-cook-frozen-food-popsicle-freezer-nutrition-cream-stick-cold-ice-cooking",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "food-ice-cream-2-cook-frozen-food-popsicle-freezer-nutrition-cream-stick-cold-ice-cooking",
+        "ice-cream-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "food-kitchenware-serving-dome-cook-tool-dome-kitchen-serving-paltter-dish-tools-food",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "food-kitchenware-serving-dome-cook-tool-dome-kitchen-serving-paltter-dish-tools-food",
+        "serving-dome"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "fragile",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "fragile",
+        "shipping-box-fragile-fragile-shipping-glass-delivery-wine-crack-shipment-sign-sticker"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "glasses",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "glasses",
+        "interface-content-eye-glasses-vision-sunglasses-protection-spectacles-correction-sun-eye-glasses"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "gold",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "gold",
+        "shopping-jewelry-gold-gold-money-payment-bars-finance-wealth-bullion"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "graph",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "graph",
+        "money-graph-analytics-business-product-graph-data-chart-analysis"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "graph-arrow-decrease",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "graph-arrow-decrease",
+        "money-graph-arrow-decrease-down-stats-graph-descend-right-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "graph-arrow-increase",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "graph-arrow-increase",
+        "money-graph-arrow-increase-ascend-growth-up-arrow-stats-graph-right-grow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "graph-bar-decrease",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "graph-bar-decrease",
+        "money-graph-bar-decrease-arrow-product-performance-down-decrease-graph-business-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "hand-cursor",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "hand-cursor",
+        "interface-cursor-hand-hand-select-cursor-finger"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "health-medical-syringe-instrument-medical-syringe-health-beauty-needle",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "health-medical-syringe-instrument-medical-syringe-health-beauty-needle",
+        "syringe"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "hexagram",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "hexagram",
+        "religion-hexagram-star-jew-jewish-judaism-hexagram-culture-religion-david"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "hot-spring",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "hot-spring",
+        "travel-places-hot-spring-relax-location-outdoor-recreation-spa"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "hotel-bed-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "hotel-bed-2",
+        "travel-hotel-bed-2-bed-double-bedroom-bedrooms-queen-king-full-hotel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "hotel-shower-head",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "hotel-shower-head",
+        "travel-hotel-shower-head-bathe-bath-bathroom-shower-water-head"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "image-photo-polaroid-four-photos-camera-polaroid-picture-photography-pictures-four-photo",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "image-photo-polaroid-four-photos-camera-polaroid-picture-photography-pictures-four-photo",
+        "polaroid-four"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "input-box",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "input-box",
+        "interface-text-formatting-type-cursor-cursor-text-formatting-type-format"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "insert-side",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "insert-side",
+        "interface-text-formatting-paragraph-bullets-points-bullet-align-paragraph-formatting-bullets-text"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "insert-top-left",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "insert-top-left",
+        "interface-text-formatting-image-left-alignment-wrap-formatting-paragraph-image-left-text"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "insert-top-right",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "insert-top-right",
+        "interface-text-formatting-image-right-paragraph-image-text-alignment-wrap-right-formatting"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-alert-alarm-bell-1-notification-vibrate-ring-sound-alarm-alert-bell-noise",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-alert-alarm-bell-1-notification-vibrate-ring-sound-alarm-alert-bell-noise",
+        "ringing-bell-notification"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-alert-radio-active-3-warning-radioactive-radiation-emergency-danger-safety",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-alert-radio-active-3-warning-radioactive-radiation-emergency-danger-safety",
+        "radioactive-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-align-layers-1-design-layer-layers-pile-stack",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-align-layers-1-design-layer-layers-pile-stack",
+        "layers-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-align-layers-2-design-layer-layers-pile-stack",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-align-layers-2-design-layer-layers-pile-stack",
+        "layers-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-arrows-horizontal-shrink-resize-shrink-bigger-horizontal-smaller-size-arrow-arrows-big",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-arrows-horizontal-shrink-resize-shrink-bigger-horizontal-smaller-size-arrow-arrows-big",
+        "shrink-horizontal-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-arrows-move-left-move-left-arrows",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-arrows-move-left-move-left-arrows",
+        "move-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-arrows-move-right-move-right-arrows",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-arrows-move-right-move-right-arrows",
+        "move-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-arrows-shrink-5-expand-retract-shrink-bigger-big-small-smaller",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-arrows-shrink-5-expand-retract-shrink-bigger-big-small-smaller",
+        "minimize-window-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-arrows-shuffle-multimedia-shuffle-multi-button-controls-media",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-arrows-shuffle-multimedia-shuffle-multi-button-controls-media",
+        "shuffle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-edit-brush-1-brush-color-colors-design-paint-painting",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-edit-brush-1-brush-color-colors-design-paint-painting",
+        "paintbrush-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-edit-magic-wand-design-magic-star-supplies-tool-wand",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-edit-magic-wand-design-magic-star-supplies-tool-wand",
+        "magic-wand-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-edit-paint-color-colors-design-paint-painting-palette",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-edit-paint-color-colors-design-paint-painting-palette",
+        "paint-palette"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-edit-pen-3-content-creation-edit-pen-pens-write",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-edit-pen-3-content-creation-edit-pen-pens-write",
+        "pen-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-edit-pencil-change-edit-modify-pencil-write-writing",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-edit-pencil-change-edit-modify-pencil-write-writing",
+        "pencil"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-favorite-star-reward-rating-rate-social-star-media-favorite-like-stars",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-favorite-star-reward-rating-rate-social-star-media-favorite-like-stars",
+        "star-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-file-multiple-double-common-file",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-file-multiple-double-common-file",
+        "multiple-file-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-layout-1-column-layout-layouts-left-sidebar",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-layout-1-column-layout-layouts-left-sidebar",
+        "layout-window-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-layout-2-column-header-layout-layouts-masthead-sidebar",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-layout-2-column-header-layout-layouts-masthead-sidebar",
+        "layout-window-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-layout-8-grid-header-layout-layouts-masthead",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-layout-8-grid-header-layout-layouts-masthead",
+        "layout-window-8"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-lock-circle-circle-frame-key-keyhole-lock-locked-secure-security",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-lock-circle-circle-frame-key-keyhole-lock-locked-secure-security",
+        "keyhole-lock-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-lock-combination-combo-lock-locked-padlock-secure-security-shield-keyhole",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-lock-combination-combo-lock-locked-padlock-secure-security-shield-keyhole",
+        "padlock-square-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-logout-arrow-exit-frame-leave-logout-rectangle-right",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-logout-arrow-exit-frame-leave-logout-rectangle-right",
+        "logout-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-page-controller-settings-page-setting-square-triangle-circle-line-combination-variation",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-page-controller-settings-page-setting-square-triangle-circle-line-combination-variation",
+        "page-setting"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-presentation-podium-work-desk-notes-company-presentation-office-podium-microphone",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-presentation-podium-work-desk-notes-company-presentation-office-podium-microphone",
+        "podium"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-remove-1-button-delete-buttons-subtract-horizontal-remove-line-add",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-remove-1-button-delete-buttons-subtract-horizontal-remove-line-add",
+        "subtract-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-remove-circle-delete-add-circle-subtract-button-buttons-remove",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-remove-circle-delete-add-circle-subtract-button-buttons-remove",
+        "subtract-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-remove-square-subtract-buttons-remove-add-button-square-delete",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-remove-square-subtract-buttons-remove-add-button-square-delete",
+        "subtract-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-search-circle-circle-glass-search-magnifying",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-search-circle-circle-glass-search-magnifying",
+        "magnifying-glass-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-security-shield-2-shield-protection-security-defend-crime-war-cover",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-security-shield-2-shield-protection-security-defend-crime-war-cover",
+        "shield-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-setting-slider-vertical-adjustment-adjust-controls-fader-vertical-settings-slider-square",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-setting-slider-vertical-adjustment-adjust-controls-fader-vertical-settings-slider-square",
+        "vertical-slider-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-share-satellite-broadcast-satellite-share-transmit",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-share-satellite-broadcast-satellite-share-transmit",
+        "satellite-dish"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-share-share-transmit",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-share-share-transmit",
+        "share-link"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-signal-graph-heart-line-beat-square-graph-stats",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-signal-graph-heart-line-beat-square-graph-stats",
+        "wave-signal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-text-formatting-paragraph-alignment-paragraph-formatting-text",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-text-formatting-paragraph-alignment-paragraph-formatting-text",
+        "paragraph"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-text-formatting-quotation-4-quote-quotation-format-formatting-open-close-marks-text",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-text-formatting-quotation-4-quote-quotation-format-formatting-open-close-marks-text",
+        "quotation-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-text-formatting-text-style-text-style-formatting-format",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-text-formatting-text-style-text-style-formatting-format",
+        "text-style"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-time-clock-square-clock-loading-frame-measure-time-circle",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-time-clock-square-clock-loading-frame-measure-time-circle",
+        "square-clock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-upload-box-1-arrow-box-download-internet-network-server-up-upload",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-upload-box-1-arrow-box-download-internet-network-server-up-upload",
+        "upload-box-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-upload-circle-arrow-circle-download-internet-network-server-up-upload",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-upload-circle-arrow-circle-download-internet-network-server-up-upload",
+        "upload-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-user-circle-circle-geometric-human-person-single-user",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-user-circle-circle-geometric-human-person-single-user",
+        "user-circle-single"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-weather-rain-2-cloud-rain-rainy-meteorology-precipitation-weather",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-weather-rain-2-cloud-rain-rainy-meteorology-precipitation-weather",
+        "rain-cloud"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-weather-snow-flake-winter-freeze-snow-freezing-ice-cold-weather-snowflake",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-weather-snow-flake-winter-freeze-snow-freezing-ice-cold-weather-snowflake",
+        "snow-flake"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-weather-umbrella-storm-rain-umbrella-open-weather",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-weather-umbrella-storm-rain-umbrella-open-weather",
+        "open-umbrella"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "interface-weather-wind-wind-high-overcast-gust-weather-meteorology-gale",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "interface-weather-wind-wind-high-overcast-gust-weather-meteorology-gale",
+        "wind-flow-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "islam",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "islam",
+        "religion-islam-religion-islam-moon-crescent-muslim-culture-star"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "ladder",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "ladder",
+        "travel-wayfinder-ladder-business-product-metaphor-ladder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "location-compass-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "location-compass-1",
+        "travel-map-location-compass-1-arrow-compass-location-gps-map-maps-point"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "location-target-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "location-target-1",
+        "travel-map-location-target-1-navigation-location-map-services-maps-gps-target"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "mail-send-reply-all",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "mail-send-reply-all",
+        "mail-send-reply-all-email-message-reply-all-actions-action-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "mail-sign-hashtag-sharp-sign-hashtag-tag",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "mail-sign-hashtag-sharp-sign-hashtag-tag",
+        "sign-hashtag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "module-three",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "module-three",
+        "programming-module-three-code-three-module-programming-plugin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "money-cashier-qr-code-codes-tags-code-qr",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "money-cashier-qr-code-codes-tags-code-qr",
+        "qr-code"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "money-currency-yuan-circle-exchange-payment-forex-finance-yuan-currency-money-foreign",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "money-currency-yuan-circle-exchange-payment-forex-finance-yuan-currency-money-foreign",
+        "yuan-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "money-currency-yuan-exchange-payment-forex-finance-yuan-currency-money-foreign",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "money-currency-yuan-exchange-payment-forex-finance-yuan-currency-money-foreign",
+        "yuan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "money-graph-pie-chart-product-data-analysis-analytics-pie-graph-business-chart",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "money-graph-pie-chart-product-data-analysis-analytics-pie-graph-business-chart",
+        "pie-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "nature-ecology-rainbow-arch-rain-colorful-rainbow-curve-half-circle",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "nature-ecology-rainbow-arch-rain-colorful-rainbow-curve-half-circle",
+        "rainbow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "nature-ecology-tree-2-tree-plant-circle-round-park",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "nature-ecology-tree-2-tree-plant-circle-round-park",
+        "tree-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "peace-symbol",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "peace-symbol",
+        "religion-symbol-peace-religion-peace-war-culture"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "phone-signal-full-phone-mobile-device-signal-wireless-smartphone-iphone-bar-bars-full-android",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "phone-signal-full-phone-mobile-device-signal-wireless-smartphone-iphone-bar-bars-full-android",
+        "signal-full"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "pool-ladder",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "pool-ladder",
+        "travel-hotel-pool-ladder-2-pool-stairs-swim-swimming-water-ladder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "programming-rss-square-wireless-rss-feed-square-transmit-broadcast",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "programming-rss-square-wireless-rss-feed-square-transmit-broadcast",
+        "rss-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "programming-rss-symbol-wireless-feed-rss-transmit-broadcast",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "programming-rss-symbol-wireless-feed-rss-transmit-broadcast",
+        "rss-symbol"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "programming-script-2-language-programming-code",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "programming-script-2-language-programming-code",
+        "script-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "programming-web-server-world-internet-earth-www-globe-worldwide-web-network",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "programming-web-server-world-internet-earth-www-globe-worldwide-web-network",
+        "web"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "religion-symbol-yin-yang-religion-tao-yin-yang-taoism-culture",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "religion-symbol-yin-yang-religion-tao-yin-yang-taoism-culture",
+        "yin-yang-symbol"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "sail-ship",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "sail-ship",
+        "travel-transportation-sail-ship-travel-boat-transportation-transport-ocean-ship-sea-water"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "shipping-box-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "shipping-box-1",
+        "shipping-box-1-box-package-label-delivery-shipment-shipping"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "shopping-basket-1",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "shopping-basket-1",
+        "shopping-cart-basket-1-shopping-basket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "shopping-basket-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "shopping-basket-2",
+        "shopping-cart-basket-2-shopping-basket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "shopping-store-2-store-shop-shops-stores",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "shopping-store-2-store-shop-shops-stores",
+        "store-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "shopping-store-signage-3-street-sandwich-shops-shop-stores-board-sign-store",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "shopping-store-signage-3-street-sandwich-shops-shop-stores-board-sign-store",
+        "signage-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "snorkle",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "snorkle",
+        "travel-places-snorkle-diving-scuba-outdoor-recreation-ocean-mask-water-sea-snorkle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "toilet-sign-man-woman-2",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "toilet-sign-man-woman-2",
+        "travel-wayfinder-toilet-sign-man-woman-toilet-sign-restroom-bathroom-user-human-person"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Streamline",
+      "glyphName": "travel-map-triangle-flag-navigation-map-maps-flag-gps-location-destination-goal",
+      "prefix": "streamline",
+      "sampleIcons": [
+        "travel-map-triangle-flag-navigation-map-maps-flag-gps-location-destination-goal",
+        "triangle-flag"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Streamline",
+      "headBbox": "-39..1026 / -26..1010",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 26,
+      "prefix": "streamline",
+      "reasons": [
+        "head.xMin=-39",
+        "head.xMax=1026",
+        "head.yMin=-26",
+        "head.yMax=1010",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=26"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "streamline",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Streamline",
+      "glyphCount": 4002,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1026,
+        "xMin": -39,
+        "yMax": 1010,
+        "yMin": -26
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 26
+      }
+    }
+  ]
+}

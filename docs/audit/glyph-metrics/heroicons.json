@@ -1,0 +1,209 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "arrow-left-end-on-rectangle",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "arrow-left-end-on-rectangle",
+        "arrow-left-on-rectangle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "arrow-left-end-on-rectangle-20-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "arrow-left-end-on-rectangle-20-solid",
+        "arrow-left-on-rectangle-20-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "arrow-left-end-on-rectangle-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "arrow-left-end-on-rectangle-solid",
+        "arrow-left-on-rectangle-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "arrow-right-on-rectangle",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "arrow-right-on-rectangle",
+        "arrow-right-start-on-rectangle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "arrow-right-on-rectangle-20-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "arrow-right-on-rectangle-20-solid",
+        "arrow-right-start-on-rectangle-20-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "arrow-right-on-rectangle-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "arrow-right-on-rectangle-solid",
+        "arrow-right-start-on-rectangle-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "bars-2-16-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "bars-2-16-solid",
+        "equals-16-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "code-bracket-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "code-bracket-solid",
+        "code-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "code-bracket-square-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "code-bracket-square-solid",
+        "code-square-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "exclaimation-circle",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "exclaimation-circle",
+        "exclamation-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "exclaimation-circle-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "exclaimation-circle-solid",
+        "exclamation-circle-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "exclaimation-triangle",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "exclaimation-triangle",
+        "exclamation-triangle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "exclaimation-triangle-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "exclaimation-triangle-solid",
+        "exclamation-triangle-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "viewfinder-circle",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "viewfinder-circle",
+        "viewfinder-dot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "viewfinder-circle-20-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "viewfinder-circle-20-solid",
+        "viewfinder-dot-20-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Heroicons",
+      "glyphName": "viewfinder-circle-solid",
+      "prefix": "heroicons",
+      "sampleIcons": [
+        "viewfinder-circle-solid",
+        "viewfinder-dot-solid"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Heroicons",
+      "headBbox": "0..978 / 0..976",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "heroicons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "heroicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Heroicons",
+      "glyphCount": 1297,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 978,
+        "xMin": 0,
+        "yMax": 976,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

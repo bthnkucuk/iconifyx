@@ -1,0 +1,7979 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "FaSolid",
+      "glyphName": "bahai",
+      "prefix": "fa-solid",
+      "sampleIcons": [
+        "bahai",
+        "haykal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FaSolid",
+      "glyphName": "square",
+      "prefix": "fa-solid",
+      "sampleIcons": [
+        "square",
+        "stop"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "FaSolid",
+      "headBbox": "-16..1267 / -13..1017",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 13,
+      "prefix": "fa-solid",
+      "reasons": [
+        "head.xMin=-16",
+        "head.xMax=1267",
+        "head.yMin=-13",
+        "head.yMax=1017",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=13"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1125,
+      "codepoint": 57344,
+      "font": "FaSolid",
+      "name": "abacus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57346,
+      "font": "FaSolid",
+      "name": "address-book",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57347,
+      "font": "FaSolid",
+      "name": "address-card",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57350,
+      "font": "FaSolid",
+      "name": "align-center",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57351,
+      "font": "FaSolid",
+      "name": "align-justify",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57352,
+      "font": "FaSolid",
+      "name": "align-left",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57353,
+      "font": "FaSolid",
+      "name": "align-right",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57354,
+      "font": "FaSolid",
+      "name": "allergies",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57355,
+      "font": "FaSolid",
+      "name": "ambulance",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57356,
+      "font": "FaSolid",
+      "name": "american-sign-language-interpreting",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57357,
+      "font": "FaSolid",
+      "name": "anchor",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57358,
+      "font": "FaSolid",
+      "name": "angle-double-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57359,
+      "font": "FaSolid",
+      "name": "angle-double-left",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57360,
+      "font": "FaSolid",
+      "name": "angle-double-right",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57361,
+      "font": "FaSolid",
+      "name": "angle-double-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57362,
+      "font": "FaSolid",
+      "name": "angle-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57363,
+      "font": "FaSolid",
+      "name": "angle-left",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57364,
+      "font": "FaSolid",
+      "name": "angle-right",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57365,
+      "font": "FaSolid",
+      "name": "angle-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57366,
+      "font": "FaSolid",
+      "name": "angry",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57367,
+      "font": "FaSolid",
+      "name": "ankh",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57368,
+      "font": "FaSolid",
+      "name": "apple-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57370,
+      "font": "FaSolid",
+      "name": "archway",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57379,
+      "font": "FaSolid",
+      "name": "arrow-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57380,
+      "font": "FaSolid",
+      "name": "arrow-left",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57381,
+      "font": "FaSolid",
+      "name": "arrow-right",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57382,
+      "font": "FaSolid",
+      "name": "arrow-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57385,
+      "font": "FaSolid",
+      "name": "arrows-alt-v",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57389,
+      "font": "FaSolid",
+      "name": "atlas",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57390,
+      "font": "FaSolid",
+      "name": "atom",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57392,
+      "font": "FaSolid",
+      "name": "award",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57393,
+      "font": "FaSolid",
+      "name": "baby",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57395,
+      "font": "FaSolid",
+      "name": "backspace",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57397,
+      "font": "FaSolid",
+      "name": "bacon",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57398,
+      "font": "FaSolid",
+      "name": "bacteria",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57401,
+      "font": "FaSolid",
+      "name": "balance-scale",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57402,
+      "font": "FaSolid",
+      "name": "balance-scale-left",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57403,
+      "font": "FaSolid",
+      "name": "balance-scale-right",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57405,
+      "font": "FaSolid",
+      "name": "band-aid",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57407,
+      "font": "FaSolid",
+      "name": "bars",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57408,
+      "font": "FaSolid",
+      "name": "baseball-ball",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57409,
+      "font": "FaSolid",
+      "name": "basketball-ball",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57411,
+      "font": "FaSolid",
+      "name": "battery-empty",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57412,
+      "font": "FaSolid",
+      "name": "battery-full",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57413,
+      "font": "FaSolid",
+      "name": "battery-half",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57414,
+      "font": "FaSolid",
+      "name": "battery-quarter",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57415,
+      "font": "FaSolid",
+      "name": "battery-three-quarters",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57416,
+      "font": "FaSolid",
+      "name": "bed",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57417,
+      "font": "FaSolid",
+      "name": "beer",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57418,
+      "font": "FaSolid",
+      "name": "bell",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57419,
+      "font": "FaSolid",
+      "name": "bell-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57420,
+      "font": "FaSolid",
+      "name": "bezier-curve",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57421,
+      "font": "FaSolid",
+      "name": "bible",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57422,
+      "font": "FaSolid",
+      "name": "bicycle",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57423,
+      "font": "FaSolid",
+      "name": "biking",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57425,
+      "font": "FaSolid",
+      "name": "biohazard",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57426,
+      "font": "FaSolid",
+      "name": "birthday-cake",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57428,
+      "font": "FaSolid",
+      "name": "blender-phone",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57429,
+      "font": "FaSolid",
+      "name": "blind",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57431,
+      "font": "FaSolid",
+      "name": "bold",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57432,
+      "font": "FaSolid",
+      "name": "bolt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57434,
+      "font": "FaSolid",
+      "name": "bone",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57435,
+      "font": "FaSolid",
+      "name": "bong",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57436,
+      "font": "FaSolid",
+      "name": "book",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57437,
+      "font": "FaSolid",
+      "name": "book-dead",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57438,
+      "font": "FaSolid",
+      "name": "book-medical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57439,
+      "font": "FaSolid",
+      "name": "book-open",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57441,
+      "font": "FaSolid",
+      "name": "bookmark",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57442,
+      "font": "FaSolid",
+      "name": "border-all",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57443,
+      "font": "FaSolid",
+      "name": "border-none",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57444,
+      "font": "FaSolid",
+      "name": "border-style",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57445,
+      "font": "FaSolid",
+      "name": "bowling-ball",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57447,
+      "font": "FaSolid",
+      "name": "box-open",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57449,
+      "font": "FaSolid",
+      "name": "boxes",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57450,
+      "font": "FaSolid",
+      "name": "braille",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57451,
+      "font": "FaSolid",
+      "name": "brain",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57452,
+      "font": "FaSolid",
+      "name": "bread-slice",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57455,
+      "font": "FaSolid",
+      "name": "broadcast-tower",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57456,
+      "font": "FaSolid",
+      "name": "broom",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57457,
+      "font": "FaSolid",
+      "name": "brush",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57459,
+      "font": "FaSolid",
+      "name": "building",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57460,
+      "font": "FaSolid",
+      "name": "bullhorn",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57461,
+      "font": "FaSolid",
+      "name": "bullseye",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57462,
+      "font": "FaSolid",
+      "name": "burn",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57465,
+      "font": "FaSolid",
+      "name": "business-time",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57466,
+      "font": "FaSolid",
+      "name": "calculator",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57468,
+      "font": "FaSolid",
+      "name": "calendar",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57469,
+      "font": "FaSolid",
+      "name": "calendar-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57470,
+      "font": "FaSolid",
+      "name": "calendar-check",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57471,
+      "font": "FaSolid",
+      "name": "calendar-day",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57472,
+      "font": "FaSolid",
+      "name": "calendar-minus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57473,
+      "font": "FaSolid",
+      "name": "calendar-plus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57474,
+      "font": "FaSolid",
+      "name": "calendar-times",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57475,
+      "font": "FaSolid",
+      "name": "calendar-week",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57478,
+      "font": "FaSolid",
+      "name": "campground",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57481,
+      "font": "FaSolid",
+      "name": "capsules",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57483,
+      "font": "FaSolid",
+      "name": "car-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57485,
+      "font": "FaSolid",
+      "name": "car-crash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57486,
+      "font": "FaSolid",
+      "name": "car-side",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57487,
+      "font": "FaSolid",
+      "name": "caravan",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57488,
+      "font": "FaSolid",
+      "name": "caret-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57489,
+      "font": "FaSolid",
+      "name": "caret-left",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57490,
+      "font": "FaSolid",
+      "name": "caret-right",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57491,
+      "font": "FaSolid",
+      "name": "caret-square-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57492,
+      "font": "FaSolid",
+      "name": "caret-square-left",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57493,
+      "font": "FaSolid",
+      "name": "caret-square-right",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57494,
+      "font": "FaSolid",
+      "name": "caret-square-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57495,
+      "font": "FaSolid",
+      "name": "caret-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57497,
+      "font": "FaSolid",
+      "name": "cart-arrow-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57498,
+      "font": "FaSolid",
+      "name": "cart-plus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57502,
+      "font": "FaSolid",
+      "name": "chair",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57503,
+      "font": "FaSolid",
+      "name": "chalkboard",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57504,
+      "font": "FaSolid",
+      "name": "chalkboard-teacher",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57505,
+      "font": "FaSolid",
+      "name": "charging-station",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57509,
+      "font": "FaSolid",
+      "name": "chart-pie",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57513,
+      "font": "FaSolid",
+      "name": "check-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57516,
+      "font": "FaSolid",
+      "name": "chess-bishop",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57518,
+      "font": "FaSolid",
+      "name": "chess-king",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57519,
+      "font": "FaSolid",
+      "name": "chess-knight",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57520,
+      "font": "FaSolid",
+      "name": "chess-pawn",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57522,
+      "font": "FaSolid",
+      "name": "chess-rook",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57527,
+      "font": "FaSolid",
+      "name": "chevron-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57528,
+      "font": "FaSolid",
+      "name": "chevron-left",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57529,
+      "font": "FaSolid",
+      "name": "chevron-right",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57530,
+      "font": "FaSolid",
+      "name": "chevron-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57531,
+      "font": "FaSolid",
+      "name": "child",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57532,
+      "font": "FaSolid",
+      "name": "church",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57535,
+      "font": "FaSolid",
+      "name": "city",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57536,
+      "font": "FaSolid",
+      "name": "clinic-medical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57537,
+      "font": "FaSolid",
+      "name": "clipboard",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57538,
+      "font": "FaSolid",
+      "name": "clipboard-check",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57539,
+      "font": "FaSolid",
+      "name": "clipboard-list",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57543,
+      "font": "FaSolid",
+      "name": "cloud",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57544,
+      "font": "FaSolid",
+      "name": "cloud-download-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57546,
+      "font": "FaSolid",
+      "name": "cloud-moon",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57547,
+      "font": "FaSolid",
+      "name": "cloud-moon-rain",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57550,
+      "font": "FaSolid",
+      "name": "cloud-sun",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57551,
+      "font": "FaSolid",
+      "name": "cloud-sun-rain",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57552,
+      "font": "FaSolid",
+      "name": "cloud-upload-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57553,
+      "font": "FaSolid",
+      "name": "cocktail",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57554,
+      "font": "FaSolid",
+      "name": "code",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57555,
+      "font": "FaSolid",
+      "name": "code-branch",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57556,
+      "font": "FaSolid",
+      "name": "coffee",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57558,
+      "font": "FaSolid",
+      "name": "cogs",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57566,
+      "font": "FaSolid",
+      "name": "comment-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57567,
+      "font": "FaSolid",
+      "name": "comments",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57568,
+      "font": "FaSolid",
+      "name": "comments-dollar",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57569,
+      "font": "FaSolid",
+      "name": "compact-disc",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57570,
+      "font": "FaSolid",
+      "name": "compass",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57571,
+      "font": "FaSolid",
+      "name": "compress",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57572,
+      "font": "FaSolid",
+      "name": "compress-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57577,
+      "font": "FaSolid",
+      "name": "copy",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57579,
+      "font": "FaSolid",
+      "name": "couch",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57580,
+      "font": "FaSolid",
+      "name": "credit-card",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57583,
+      "font": "FaSolid",
+      "name": "cross",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57585,
+      "font": "FaSolid",
+      "name": "crow",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57586,
+      "font": "FaSolid",
+      "name": "crown",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57590,
+      "font": "FaSolid",
+      "name": "cut",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57591,
+      "font": "FaSolid",
+      "name": "database",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57593,
+      "font": "FaSolid",
+      "name": "democrat",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57594,
+      "font": "FaSolid",
+      "name": "desktop",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57596,
+      "font": "FaSolid",
+      "name": "diagnoses",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57597,
+      "font": "FaSolid",
+      "name": "dice",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57598,
+      "font": "FaSolid",
+      "name": "dice-d20",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57599,
+      "font": "FaSolid",
+      "name": "dice-d6",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57600,
+      "font": "FaSolid",
+      "name": "dice-five",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57601,
+      "font": "FaSolid",
+      "name": "dice-four",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57602,
+      "font": "FaSolid",
+      "name": "dice-one",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57603,
+      "font": "FaSolid",
+      "name": "dice-six",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57604,
+      "font": "FaSolid",
+      "name": "dice-three",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57605,
+      "font": "FaSolid",
+      "name": "dice-two",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57606,
+      "font": "FaSolid",
+      "name": "digital-tachograph",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57609,
+      "font": "FaSolid",
+      "name": "divide",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57610,
+      "font": "FaSolid",
+      "name": "dizzy",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57611,
+      "font": "FaSolid",
+      "name": "dna",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57612,
+      "font": "FaSolid",
+      "name": "dog",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57613,
+      "font": "FaSolid",
+      "name": "dollar-sign",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57614,
+      "font": "FaSolid",
+      "name": "dolly",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57615,
+      "font": "FaSolid",
+      "name": "dolly-flatbed",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57617,
+      "font": "FaSolid",
+      "name": "door-closed",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57618,
+      "font": "FaSolid",
+      "name": "door-open",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57623,
+      "font": "FaSolid",
+      "name": "dragon",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57624,
+      "font": "FaSolid",
+      "name": "draw-polygon",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57626,
+      "font": "FaSolid",
+      "name": "drum-steelpan",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57628,
+      "font": "FaSolid",
+      "name": "dumbbell",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57629,
+      "font": "FaSolid",
+      "name": "dumpster",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57630,
+      "font": "FaSolid",
+      "name": "dumpster-fire",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57632,
+      "font": "FaSolid",
+      "name": "edit",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57633,
+      "font": "FaSolid",
+      "name": "egg",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57634,
+      "font": "FaSolid",
+      "name": "eject",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57636,
+      "font": "FaSolid",
+      "name": "ellipsis-v",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57641,
+      "font": "FaSolid",
+      "name": "envelope-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57642,
+      "font": "FaSolid",
+      "name": "equals",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57645,
+      "font": "FaSolid",
+      "name": "euro-sign",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57647,
+      "font": "FaSolid",
+      "name": "exclamation",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57649,
+      "font": "FaSolid",
+      "name": "exclamation-triangle",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57650,
+      "font": "FaSolid",
+      "name": "expand",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57651,
+      "font": "FaSolid",
+      "name": "expand-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57652,
+      "font": "FaSolid",
+      "name": "expand-arrows-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57654,
+      "font": "FaSolid",
+      "name": "external-link-square-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57655,
+      "font": "FaSolid",
+      "name": "eye",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57657,
+      "font": "FaSolid",
+      "name": "eye-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57665,
+      "font": "FaSolid",
+      "name": "female",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57666,
+      "font": "FaSolid",
+      "name": "fighter-jet",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57667,
+      "font": "FaSolid",
+      "name": "file",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57668,
+      "font": "FaSolid",
+      "name": "file-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57669,
+      "font": "FaSolid",
+      "name": "file-archive",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57670,
+      "font": "FaSolid",
+      "name": "file-audio",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57671,
+      "font": "FaSolid",
+      "name": "file-code",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57672,
+      "font": "FaSolid",
+      "name": "file-contract",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57673,
+      "font": "FaSolid",
+      "name": "file-csv",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57674,
+      "font": "FaSolid",
+      "name": "file-download",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57675,
+      "font": "FaSolid",
+      "name": "file-excel",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57676,
+      "font": "FaSolid",
+      "name": "file-export",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57677,
+      "font": "FaSolid",
+      "name": "file-image",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57679,
+      "font": "FaSolid",
+      "name": "file-invoice",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57680,
+      "font": "FaSolid",
+      "name": "file-invoice-dollar",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57681,
+      "font": "FaSolid",
+      "name": "file-medical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57682,
+      "font": "FaSolid",
+      "name": "file-medical-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57683,
+      "font": "FaSolid",
+      "name": "file-pdf",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57684,
+      "font": "FaSolid",
+      "name": "file-powerpoint",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57685,
+      "font": "FaSolid",
+      "name": "file-prescription",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57686,
+      "font": "FaSolid",
+      "name": "file-signature",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57687,
+      "font": "FaSolid",
+      "name": "file-upload",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57688,
+      "font": "FaSolid",
+      "name": "file-video",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57689,
+      "font": "FaSolid",
+      "name": "file-word",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57691,
+      "font": "FaSolid",
+      "name": "fill-drip",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57695,
+      "font": "FaSolid",
+      "name": "fire",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57696,
+      "font": "FaSolid",
+      "name": "fire-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57697,
+      "font": "FaSolid",
+      "name": "fire-extinguisher",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57698,
+      "font": "FaSolid",
+      "name": "first-aid",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57699,
+      "font": "FaSolid",
+      "name": "fish",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57700,
+      "font": "FaSolid",
+      "name": "fist-raised",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57704,
+      "font": "FaSolid",
+      "name": "flask",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57705,
+      "font": "FaSolid",
+      "name": "flushed",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57708,
+      "font": "FaSolid",
+      "name": "folder-open",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57710,
+      "font": "FaSolid",
+      "name": "font",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57711,
+      "font": "FaSolid",
+      "name": "football-ball",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57713,
+      "font": "FaSolid",
+      "name": "frog",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57714,
+      "font": "FaSolid",
+      "name": "frown",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57715,
+      "font": "FaSolid",
+      "name": "frown-open",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57716,
+      "font": "FaSolid",
+      "name": "function",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57717,
+      "font": "FaSolid",
+      "name": "funnel-dollar",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57719,
+      "font": "FaSolid",
+      "name": "gamepad",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57722,
+      "font": "FaSolid",
+      "name": "gem",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57723,
+      "font": "FaSolid",
+      "name": "genderless",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57724,
+      "font": "FaSolid",
+      "name": "ghost",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57726,
+      "font": "FaSolid",
+      "name": "gifts",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57727,
+      "font": "FaSolid",
+      "name": "glass-cheers",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57731,
+      "font": "FaSolid",
+      "name": "glasses",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57732,
+      "font": "FaSolid",
+      "name": "globe",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57733,
+      "font": "FaSolid",
+      "name": "globe-africa",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57734,
+      "font": "FaSolid",
+      "name": "globe-americas",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57735,
+      "font": "FaSolid",
+      "name": "globe-asia",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57736,
+      "font": "FaSolid",
+      "name": "globe-europe",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57737,
+      "font": "FaSolid",
+      "name": "golf-ball",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57739,
+      "font": "FaSolid",
+      "name": "graduation-cap",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57740,
+      "font": "FaSolid",
+      "name": "greater-than",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57741,
+      "font": "FaSolid",
+      "name": "greater-than-equal",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57742,
+      "font": "FaSolid",
+      "name": "grimace",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57743,
+      "font": "FaSolid",
+      "name": "grin",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57744,
+      "font": "FaSolid",
+      "name": "grin-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57745,
+      "font": "FaSolid",
+      "name": "grin-beam",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57746,
+      "font": "FaSolid",
+      "name": "grin-beam-sweat",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57747,
+      "font": "FaSolid",
+      "name": "grin-hearts",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57748,
+      "font": "FaSolid",
+      "name": "grin-squint",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57750,
+      "font": "FaSolid",
+      "name": "grin-stars",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57751,
+      "font": "FaSolid",
+      "name": "grin-tears",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57752,
+      "font": "FaSolid",
+      "name": "grin-tongue",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57753,
+      "font": "FaSolid",
+      "name": "grin-tongue-squint",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57754,
+      "font": "FaSolid",
+      "name": "grin-tongue-wink",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57755,
+      "font": "FaSolid",
+      "name": "grin-wink",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57756,
+      "font": "FaSolid",
+      "name": "grip-horizontal",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57758,
+      "font": "FaSolid",
+      "name": "grip-lines-vertical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57759,
+      "font": "FaSolid",
+      "name": "grip-vertical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57761,
+      "font": "FaSolid",
+      "name": "h-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57763,
+      "font": "FaSolid",
+      "name": "hammer",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57765,
+      "font": "FaSolid",
+      "name": "hand-holding",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57766,
+      "font": "FaSolid",
+      "name": "hand-holding-heart",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57767,
+      "font": "FaSolid",
+      "name": "hand-holding-medical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57768,
+      "font": "FaSolid",
+      "name": "hand-holding-usd",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57769,
+      "font": "FaSolid",
+      "name": "hand-holding-water",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57770,
+      "font": "FaSolid",
+      "name": "hand-lizard",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57772,
+      "font": "FaSolid",
+      "name": "hand-paper",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57773,
+      "font": "FaSolid",
+      "name": "hand-peace",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57774,
+      "font": "FaSolid",
+      "name": "hand-point-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57777,
+      "font": "FaSolid",
+      "name": "hand-point-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57778,
+      "font": "FaSolid",
+      "name": "hand-pointer",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57781,
+      "font": "FaSolid",
+      "name": "hand-sparkles",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57783,
+      "font": "FaSolid",
+      "name": "hands",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57784,
+      "font": "FaSolid",
+      "name": "hands-helping",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57785,
+      "font": "FaSolid",
+      "name": "hands-wash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57786,
+      "font": "FaSolid",
+      "name": "handshake",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57787,
+      "font": "FaSolid",
+      "name": "handshake-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57788,
+      "font": "FaSolid",
+      "name": "handshake-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57789,
+      "font": "FaSolid",
+      "name": "hanukiah",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57791,
+      "font": "FaSolid",
+      "name": "hashtag",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57792,
+      "font": "FaSolid",
+      "name": "hat-cowboy",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57793,
+      "font": "FaSolid",
+      "name": "hat-cowboy-side",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57796,
+      "font": "FaSolid",
+      "name": "hdd",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57797,
+      "font": "FaSolid",
+      "name": "head-side-cough",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57798,
+      "font": "FaSolid",
+      "name": "head-side-cough-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57808,
+      "font": "FaSolid",
+      "name": "helicopter",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57809,
+      "font": "FaSolid",
+      "name": "highlighter",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57810,
+      "font": "FaSolid",
+      "name": "hiking",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57811,
+      "font": "FaSolid",
+      "name": "hippo",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57814,
+      "font": "FaSolid",
+      "name": "holly-berry",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57815,
+      "font": "FaSolid",
+      "name": "home",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57816,
+      "font": "FaSolid",
+      "name": "horse",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57818,
+      "font": "FaSolid",
+      "name": "hospital",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57819,
+      "font": "FaSolid",
+      "name": "hospital-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57821,
+      "font": "FaSolid",
+      "name": "hospital-user",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57824,
+      "font": "FaSolid",
+      "name": "hotel",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57825,
+      "font": "FaSolid",
+      "name": "hourglass",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57826,
+      "font": "FaSolid",
+      "name": "hourglass-end",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57827,
+      "font": "FaSolid",
+      "name": "hourglass-half",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57828,
+      "font": "FaSolid",
+      "name": "hourglass-start",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57829,
+      "font": "FaSolid",
+      "name": "house-damage",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57830,
+      "font": "FaSolid",
+      "name": "house-user",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57831,
+      "font": "FaSolid",
+      "name": "hryvnia",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57832,
+      "font": "FaSolid",
+      "name": "i-cursor",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57833,
+      "font": "FaSolid",
+      "name": "ice-cream",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57836,
+      "font": "FaSolid",
+      "name": "id-badge",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57837,
+      "font": "FaSolid",
+      "name": "id-card",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57838,
+      "font": "FaSolid",
+      "name": "id-card-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57839,
+      "font": "FaSolid",
+      "name": "igloo",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57841,
+      "font": "FaSolid",
+      "name": "images",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57842,
+      "font": "FaSolid",
+      "name": "inbox",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57843,
+      "font": "FaSolid",
+      "name": "indent",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57845,
+      "font": "FaSolid",
+      "name": "infinity",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57846,
+      "font": "FaSolid",
+      "name": "info",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57848,
+      "font": "FaSolid",
+      "name": "integral",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57849,
+      "font": "FaSolid",
+      "name": "intersection",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57850,
+      "font": "FaSolid",
+      "name": "italic",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57851,
+      "font": "FaSolid",
+      "name": "jedi",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57852,
+      "font": "FaSolid",
+      "name": "joint",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57853,
+      "font": "FaSolid",
+      "name": "journal-whills",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57854,
+      "font": "FaSolid",
+      "name": "kaaba",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57856,
+      "font": "FaSolid",
+      "name": "keyboard",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57858,
+      "font": "FaSolid",
+      "name": "kiss",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57859,
+      "font": "FaSolid",
+      "name": "kiss-beam",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 984,
+      "codepoint": 57860,
+      "font": "FaSolid",
+      "name": "kiss-wink-heart",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57861,
+      "font": "FaSolid",
+      "name": "kiwi-bird",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57862,
+      "font": "FaSolid",
+      "name": "lambda",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57864,
+      "font": "FaSolid",
+      "name": "language",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57865,
+      "font": "FaSolid",
+      "name": "laptop",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57866,
+      "font": "FaSolid",
+      "name": "laptop-code",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57867,
+      "font": "FaSolid",
+      "name": "laptop-house",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57868,
+      "font": "FaSolid",
+      "name": "laptop-medical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57869,
+      "font": "FaSolid",
+      "name": "laugh",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57870,
+      "font": "FaSolid",
+      "name": "laugh-beam",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57871,
+      "font": "FaSolid",
+      "name": "laugh-squint",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57872,
+      "font": "FaSolid",
+      "name": "laugh-wink",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57874,
+      "font": "FaSolid",
+      "name": "leaf",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57876,
+      "font": "FaSolid",
+      "name": "less-than",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57877,
+      "font": "FaSolid",
+      "name": "less-than-equal",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57878,
+      "font": "FaSolid",
+      "name": "level-down-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57879,
+      "font": "FaSolid",
+      "name": "level-up-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 57881,
+      "font": "FaSolid",
+      "name": "lightbulb",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57883,
+      "font": "FaSolid",
+      "name": "lira-sign",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57889,
+      "font": "FaSolid",
+      "name": "lock",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57890,
+      "font": "FaSolid",
+      "name": "lock-open",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57891,
+      "font": "FaSolid",
+      "name": "long-arrow-alt-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57892,
+      "font": "FaSolid",
+      "name": "long-arrow-alt-left",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57893,
+      "font": "FaSolid",
+      "name": "long-arrow-alt-right",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57894,
+      "font": "FaSolid",
+      "name": "long-arrow-alt-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57895,
+      "font": "FaSolid",
+      "name": "low-vision",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57896,
+      "font": "FaSolid",
+      "name": "luggage-cart",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57897,
+      "font": "FaSolid",
+      "name": "lungs",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57898,
+      "font": "FaSolid",
+      "name": "lungs-virus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57901,
+      "font": "FaSolid",
+      "name": "mail-bulk",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57902,
+      "font": "FaSolid",
+      "name": "male",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57903,
+      "font": "FaSolid",
+      "name": "map",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57904,
+      "font": "FaSolid",
+      "name": "map-marked",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57905,
+      "font": "FaSolid",
+      "name": "map-marked-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57906,
+      "font": "FaSolid",
+      "name": "map-marker",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57907,
+      "font": "FaSolid",
+      "name": "map-marker-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57908,
+      "font": "FaSolid",
+      "name": "map-pin",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57911,
+      "font": "FaSolid",
+      "name": "mars",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57913,
+      "font": "FaSolid",
+      "name": "mars-stroke",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57914,
+      "font": "FaSolid",
+      "name": "mars-stroke-h",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57915,
+      "font": "FaSolid",
+      "name": "mars-stroke-v",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57916,
+      "font": "FaSolid",
+      "name": "mask",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57919,
+      "font": "FaSolid",
+      "name": "meh",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57920,
+      "font": "FaSolid",
+      "name": "meh-blank",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57921,
+      "font": "FaSolid",
+      "name": "meh-rolling-eyes",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57922,
+      "font": "FaSolid",
+      "name": "memory",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57923,
+      "font": "FaSolid",
+      "name": "menorah",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57924,
+      "font": "FaSolid",
+      "name": "mercury",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 57927,
+      "font": "FaSolid",
+      "name": "microphone",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 57928,
+      "font": "FaSolid",
+      "name": "microphone-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57929,
+      "font": "FaSolid",
+      "name": "microphone-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57930,
+      "font": "FaSolid",
+      "name": "microphone-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57932,
+      "font": "FaSolid",
+      "name": "minus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57934,
+      "font": "FaSolid",
+      "name": "minus-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57935,
+      "font": "FaSolid",
+      "name": "mitten",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57936,
+      "font": "FaSolid",
+      "name": "mobile",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57937,
+      "font": "FaSolid",
+      "name": "mobile-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57938,
+      "font": "FaSolid",
+      "name": "money-bill",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57939,
+      "font": "FaSolid",
+      "name": "money-bill-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57940,
+      "font": "FaSolid",
+      "name": "money-bill-wave",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57941,
+      "font": "FaSolid",
+      "name": "money-bill-wave-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57942,
+      "font": "FaSolid",
+      "name": "money-check",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57943,
+      "font": "FaSolid",
+      "name": "money-check-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57944,
+      "font": "FaSolid",
+      "name": "monument",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57947,
+      "font": "FaSolid",
+      "name": "mosque",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57948,
+      "font": "FaSolid",
+      "name": "motorcycle",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57949,
+      "font": "FaSolid",
+      "name": "mountain",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57950,
+      "font": "FaSolid",
+      "name": "mouse",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57951,
+      "font": "FaSolid",
+      "name": "mouse-pointer",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57954,
+      "font": "FaSolid",
+      "name": "network-wired",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 57955,
+      "font": "FaSolid",
+      "name": "neuter",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57956,
+      "font": "FaSolid",
+      "name": "newspaper",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57957,
+      "font": "FaSolid",
+      "name": "not-equal",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57958,
+      "font": "FaSolid",
+      "name": "notes-medical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57960,
+      "font": "FaSolid",
+      "name": "object-ungroup",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57961,
+      "font": "FaSolid",
+      "name": "oil-can",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57964,
+      "font": "FaSolid",
+      "name": "otter",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57965,
+      "font": "FaSolid",
+      "name": "outdent",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57970,
+      "font": "FaSolid",
+      "name": "pallet",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57972,
+      "font": "FaSolid",
+      "name": "paperclip",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57974,
+      "font": "FaSolid",
+      "name": "paragraph",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57975,
+      "font": "FaSolid",
+      "name": "parking",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57976,
+      "font": "FaSolid",
+      "name": "passport",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57977,
+      "font": "FaSolid",
+      "name": "pastafarianism",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57978,
+      "font": "FaSolid",
+      "name": "paste",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57979,
+      "font": "FaSolid",
+      "name": "pause",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57982,
+      "font": "FaSolid",
+      "name": "peace",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57987,
+      "font": "FaSolid",
+      "name": "pen-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57990,
+      "font": "FaSolid",
+      "name": "people-arrows",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57991,
+      "font": "FaSolid",
+      "name": "people-carry",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57993,
+      "font": "FaSolid",
+      "name": "percent",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57994,
+      "font": "FaSolid",
+      "name": "percentage",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57995,
+      "font": "FaSolid",
+      "name": "person-booth",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57998,
+      "font": "FaSolid",
+      "name": "phone-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57999,
+      "font": "FaSolid",
+      "name": "phone-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58000,
+      "font": "FaSolid",
+      "name": "phone-square-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58001,
+      "font": "FaSolid",
+      "name": "phone-volume",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58002,
+      "font": "FaSolid",
+      "name": "photo-video",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58004,
+      "font": "FaSolid",
+      "name": "piggy-bank",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58005,
+      "font": "FaSolid",
+      "name": "pills",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58007,
+      "font": "FaSolid",
+      "name": "place-of-worship",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58008,
+      "font": "FaSolid",
+      "name": "plane",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58009,
+      "font": "FaSolid",
+      "name": "plane-arrival",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58010,
+      "font": "FaSolid",
+      "name": "plane-departure",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58011,
+      "font": "FaSolid",
+      "name": "plane-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58012,
+      "font": "FaSolid",
+      "name": "play",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58014,
+      "font": "FaSolid",
+      "name": "plug",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58015,
+      "font": "FaSolid",
+      "name": "plus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58017,
+      "font": "FaSolid",
+      "name": "plus-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58018,
+      "font": "FaSolid",
+      "name": "podcast",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58019,
+      "font": "FaSolid",
+      "name": "poll",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58020,
+      "font": "FaSolid",
+      "name": "poll-h",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58022,
+      "font": "FaSolid",
+      "name": "poo-storm",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58024,
+      "font": "FaSolid",
+      "name": "portrait",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58025,
+      "font": "FaSolid",
+      "name": "pound-sign",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58027,
+      "font": "FaSolid",
+      "name": "pray",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58028,
+      "font": "FaSolid",
+      "name": "praying-hands",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58029,
+      "font": "FaSolid",
+      "name": "prescription",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58030,
+      "font": "FaSolid",
+      "name": "prescription-bottle",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58031,
+      "font": "FaSolid",
+      "name": "prescription-bottle-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58033,
+      "font": "FaSolid",
+      "name": "procedures",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58034,
+      "font": "FaSolid",
+      "name": "project-diagram",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58035,
+      "font": "FaSolid",
+      "name": "pump-medical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58036,
+      "font": "FaSolid",
+      "name": "pump-soap",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58037,
+      "font": "FaSolid",
+      "name": "puzzle-piece",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58038,
+      "font": "FaSolid",
+      "name": "qrcode",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58039,
+      "font": "FaSolid",
+      "name": "question",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58041,
+      "font": "FaSolid",
+      "name": "quidditch",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58044,
+      "font": "FaSolid",
+      "name": "quran",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58045,
+      "font": "FaSolid",
+      "name": "radiation",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58046,
+      "font": "FaSolid",
+      "name": "radiation-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58047,
+      "font": "FaSolid",
+      "name": "rainbow",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58049,
+      "font": "FaSolid",
+      "name": "receipt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58055,
+      "font": "FaSolid",
+      "name": "remove-format",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58057,
+      "font": "FaSolid",
+      "name": "reply-all",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58058,
+      "font": "FaSolid",
+      "name": "republican",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58059,
+      "font": "FaSolid",
+      "name": "restroom",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58060,
+      "font": "FaSolid",
+      "name": "retweet",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58061,
+      "font": "FaSolid",
+      "name": "ribbon",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58063,
+      "font": "FaSolid",
+      "name": "road",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58064,
+      "font": "FaSolid",
+      "name": "robot",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58067,
+      "font": "FaSolid",
+      "name": "rss",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58068,
+      "font": "FaSolid",
+      "name": "rss-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58069,
+      "font": "FaSolid",
+      "name": "ruble-sign",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58070,
+      "font": "FaSolid",
+      "name": "ruler",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58072,
+      "font": "FaSolid",
+      "name": "ruler-horizontal",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58073,
+      "font": "FaSolid",
+      "name": "ruler-vertical",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58074,
+      "font": "FaSolid",
+      "name": "running",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58075,
+      "font": "FaSolid",
+      "name": "rupee-sign",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58076,
+      "font": "FaSolid",
+      "name": "sad-cry",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58077,
+      "font": "FaSolid",
+      "name": "sad-tear",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58080,
+      "font": "FaSolid",
+      "name": "save",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58081,
+      "font": "FaSolid",
+      "name": "school",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58083,
+      "font": "FaSolid",
+      "name": "scroll",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58084,
+      "font": "FaSolid",
+      "name": "sd-card",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58094,
+      "font": "FaSolid",
+      "name": "share-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58095,
+      "font": "FaSolid",
+      "name": "share-alt-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58096,
+      "font": "FaSolid",
+      "name": "share-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58097,
+      "font": "FaSolid",
+      "name": "shekel-sign",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58100,
+      "font": "FaSolid",
+      "name": "ship",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58101,
+      "font": "FaSolid",
+      "name": "shipping-fast",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58102,
+      "font": "FaSolid",
+      "name": "shoe-prints",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58103,
+      "font": "FaSolid",
+      "name": "shopping-bag",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58104,
+      "font": "FaSolid",
+      "name": "shopping-basket",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58105,
+      "font": "FaSolid",
+      "name": "shopping-cart",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58107,
+      "font": "FaSolid",
+      "name": "shuttle-van",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58108,
+      "font": "FaSolid",
+      "name": "sigma",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58111,
+      "font": "FaSolid",
+      "name": "sign-language",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58113,
+      "font": "FaSolid",
+      "name": "signal",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58114,
+      "font": "FaSolid",
+      "name": "signal-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58115,
+      "font": "FaSolid",
+      "name": "signal-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58116,
+      "font": "FaSolid",
+      "name": "signal-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58117,
+      "font": "FaSolid",
+      "name": "signature",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58118,
+      "font": "FaSolid",
+      "name": "sim-card",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58120,
+      "font": "FaSolid",
+      "name": "sitemap",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58121,
+      "font": "FaSolid",
+      "name": "skating",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58123,
+      "font": "FaSolid",
+      "name": "skiing-nordic",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58125,
+      "font": "FaSolid",
+      "name": "skull-crossbones",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58126,
+      "font": "FaSolid",
+      "name": "slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58127,
+      "font": "FaSolid",
+      "name": "sleigh",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58129,
+      "font": "FaSolid",
+      "name": "smile",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58130,
+      "font": "FaSolid",
+      "name": "smile-beam",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58131,
+      "font": "FaSolid",
+      "name": "smile-wink",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58132,
+      "font": "FaSolid",
+      "name": "smog",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58133,
+      "font": "FaSolid",
+      "name": "smoking",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58137,
+      "font": "FaSolid",
+      "name": "snowflake",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58139,
+      "font": "FaSolid",
+      "name": "snowplow",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58142,
+      "font": "FaSolid",
+      "name": "solar-panel",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58143,
+      "font": "FaSolid",
+      "name": "sort",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58144,
+      "font": "FaSolid",
+      "name": "sort-alpha-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58145,
+      "font": "FaSolid",
+      "name": "sort-alpha-down-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58146,
+      "font": "FaSolid",
+      "name": "sort-alpha-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58147,
+      "font": "FaSolid",
+      "name": "sort-alpha-up-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58152,
+      "font": "FaSolid",
+      "name": "sort-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58153,
+      "font": "FaSolid",
+      "name": "sort-numeric-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58154,
+      "font": "FaSolid",
+      "name": "sort-numeric-down-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58155,
+      "font": "FaSolid",
+      "name": "sort-numeric-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58156,
+      "font": "FaSolid",
+      "name": "sort-numeric-up-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58157,
+      "font": "FaSolid",
+      "name": "sort-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58158,
+      "font": "FaSolid",
+      "name": "spa",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58159,
+      "font": "FaSolid",
+      "name": "space-shuttle",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58160,
+      "font": "FaSolid",
+      "name": "spell-check",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58161,
+      "font": "FaSolid",
+      "name": "spider",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58165,
+      "font": "FaSolid",
+      "name": "square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58167,
+      "font": "FaSolid",
+      "name": "square-root",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58168,
+      "font": "FaSolid",
+      "name": "square-root-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58170,
+      "font": "FaSolid",
+      "name": "star",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58172,
+      "font": "FaSolid",
+      "name": "star-half",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1046,
+      "codepoint": 58173,
+      "font": "FaSolid",
+      "name": "star-half-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 906,
+      "codepoint": 58174,
+      "font": "FaSolid",
+      "name": "star-of-david",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58175,
+      "font": "FaSolid",
+      "name": "star-of-life",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58176,
+      "font": "FaSolid",
+      "name": "step-backward",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58177,
+      "font": "FaSolid",
+      "name": "step-forward",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58179,
+      "font": "FaSolid",
+      "name": "sticky-note",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58180,
+      "font": "FaSolid",
+      "name": "square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58182,
+      "font": "FaSolid",
+      "name": "stopwatch",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58183,
+      "font": "FaSolid",
+      "name": "stopwatch-20",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1203,
+      "codepoint": 58184,
+      "font": "FaSolid",
+      "name": "store",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58185,
+      "font": "FaSolid",
+      "name": "store-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58186,
+      "font": "FaSolid",
+      "name": "store-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58187,
+      "font": "FaSolid",
+      "name": "store-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58193,
+      "font": "FaSolid",
+      "name": "subway",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58195,
+      "font": "FaSolid",
+      "name": "suitcase-rolling",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58198,
+      "font": "FaSolid",
+      "name": "surprise",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58200,
+      "font": "FaSolid",
+      "name": "swimmer",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58201,
+      "font": "FaSolid",
+      "name": "swimming-pool",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58202,
+      "font": "FaSolid",
+      "name": "synagogue",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58208,
+      "font": "FaSolid",
+      "name": "tablet",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58209,
+      "font": "FaSolid",
+      "name": "tablet-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58210,
+      "font": "FaSolid",
+      "name": "tablets",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58211,
+      "font": "FaSolid",
+      "name": "tachometer-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58213,
+      "font": "FaSolid",
+      "name": "tags",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58214,
+      "font": "FaSolid",
+      "name": "tally",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58215,
+      "font": "FaSolid",
+      "name": "tape",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58218,
+      "font": "FaSolid",
+      "name": "teeth",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58219,
+      "font": "FaSolid",
+      "name": "teeth-open",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58222,
+      "font": "FaSolid",
+      "name": "tenge",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58223,
+      "font": "FaSolid",
+      "name": "terminal",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58224,
+      "font": "FaSolid",
+      "name": "text-height",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58225,
+      "font": "FaSolid",
+      "name": "text-width",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58229,
+      "font": "FaSolid",
+      "name": "theater-masks",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58231,
+      "font": "FaSolid",
+      "name": "thermometer-empty",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58232,
+      "font": "FaSolid",
+      "name": "thermometer-full",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58233,
+      "font": "FaSolid",
+      "name": "thermometer-half",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58234,
+      "font": "FaSolid",
+      "name": "thermometer-quarter",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58235,
+      "font": "FaSolid",
+      "name": "thermometer-three-quarters",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58236,
+      "font": "FaSolid",
+      "name": "theta",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58239,
+      "font": "FaSolid",
+      "name": "thumbtack",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58240,
+      "font": "FaSolid",
+      "name": "ticket-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 58242,
+      "font": "FaSolid",
+      "name": "times",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 58244,
+      "font": "FaSolid",
+      "name": "tint",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58245,
+      "font": "FaSolid",
+      "name": "tint-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58246,
+      "font": "FaSolid",
+      "name": "tired",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58247,
+      "font": "FaSolid",
+      "name": "toggle-off",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58248,
+      "font": "FaSolid",
+      "name": "toggle-on",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58249,
+      "font": "FaSolid",
+      "name": "toilet",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58250,
+      "font": "FaSolid",
+      "name": "toilet-paper",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58251,
+      "font": "FaSolid",
+      "name": "toilet-paper-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58254,
+      "font": "FaSolid",
+      "name": "tooth",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58255,
+      "font": "FaSolid",
+      "name": "torah",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58257,
+      "font": "FaSolid",
+      "name": "tractor",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58258,
+      "font": "FaSolid",
+      "name": "trademark",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58259,
+      "font": "FaSolid",
+      "name": "traffic-light",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58260,
+      "font": "FaSolid",
+      "name": "trailer",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58261,
+      "font": "FaSolid",
+      "name": "train",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58263,
+      "font": "FaSolid",
+      "name": "transgender",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58264,
+      "font": "FaSolid",
+      "name": "transgender-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58265,
+      "font": "FaSolid",
+      "name": "trash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58266,
+      "font": "FaSolid",
+      "name": "trash-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58267,
+      "font": "FaSolid",
+      "name": "trash-restore",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58268,
+      "font": "FaSolid",
+      "name": "trash-restore-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58269,
+      "font": "FaSolid",
+      "name": "tree",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58270,
+      "font": "FaSolid",
+      "name": "trophy",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58271,
+      "font": "FaSolid",
+      "name": "truck",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58272,
+      "font": "FaSolid",
+      "name": "truck-loading",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58273,
+      "font": "FaSolid",
+      "name": "truck-monster",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58274,
+      "font": "FaSolid",
+      "name": "truck-moving",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58275,
+      "font": "FaSolid",
+      "name": "truck-pickup",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58276,
+      "font": "FaSolid",
+      "name": "tshirt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58278,
+      "font": "FaSolid",
+      "name": "tv",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58279,
+      "font": "FaSolid",
+      "name": "umbrella",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58280,
+      "font": "FaSolid",
+      "name": "umbrella-beach",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58281,
+      "font": "FaSolid",
+      "name": "underline",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58284,
+      "font": "FaSolid",
+      "name": "union",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58288,
+      "font": "FaSolid",
+      "name": "unlock",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58289,
+      "font": "FaSolid",
+      "name": "unlock-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58291,
+      "font": "FaSolid",
+      "name": "user",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58293,
+      "font": "FaSolid",
+      "name": "user-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58294,
+      "font": "FaSolid",
+      "name": "user-astronaut",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58295,
+      "font": "FaSolid",
+      "name": "user-check",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58296,
+      "font": "FaSolid",
+      "name": "user-circle",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58297,
+      "font": "FaSolid",
+      "name": "user-clock",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58298,
+      "font": "FaSolid",
+      "name": "user-cog",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58299,
+      "font": "FaSolid",
+      "name": "user-edit",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58300,
+      "font": "FaSolid",
+      "name": "user-friends",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58301,
+      "font": "FaSolid",
+      "name": "user-graduate",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58302,
+      "font": "FaSolid",
+      "name": "user-injured",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58303,
+      "font": "FaSolid",
+      "name": "user-lock",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58304,
+      "font": "FaSolid",
+      "name": "user-md",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58305,
+      "font": "FaSolid",
+      "name": "user-minus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58306,
+      "font": "FaSolid",
+      "name": "user-ninja",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58307,
+      "font": "FaSolid",
+      "name": "user-nurse",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58308,
+      "font": "FaSolid",
+      "name": "user-plus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58309,
+      "font": "FaSolid",
+      "name": "user-secret",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58310,
+      "font": "FaSolid",
+      "name": "user-shield",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58311,
+      "font": "FaSolid",
+      "name": "user-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58312,
+      "font": "FaSolid",
+      "name": "user-tag",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58313,
+      "font": "FaSolid",
+      "name": "user-tie",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58314,
+      "font": "FaSolid",
+      "name": "user-times",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58315,
+      "font": "FaSolid",
+      "name": "users",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58316,
+      "font": "FaSolid",
+      "name": "users-cog",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58317,
+      "font": "FaSolid",
+      "name": "users-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58319,
+      "font": "FaSolid",
+      "name": "utensils",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 58322,
+      "font": "FaSolid",
+      "name": "venus",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58324,
+      "font": "FaSolid",
+      "name": "venus-mars",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58325,
+      "font": "FaSolid",
+      "name": "vest",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58326,
+      "font": "FaSolid",
+      "name": "vest-patches",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58327,
+      "font": "FaSolid",
+      "name": "vial",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58328,
+      "font": "FaSolid",
+      "name": "vials",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58329,
+      "font": "FaSolid",
+      "name": "video",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58330,
+      "font": "FaSolid",
+      "name": "video-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58331,
+      "font": "FaSolid",
+      "name": "vihara",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58333,
+      "font": "FaSolid",
+      "name": "virus-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58334,
+      "font": "FaSolid",
+      "name": "viruses",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58335,
+      "font": "FaSolid",
+      "name": "voicemail",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58337,
+      "font": "FaSolid",
+      "name": "volume",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58338,
+      "font": "FaSolid",
+      "name": "volume-down",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58340,
+      "font": "FaSolid",
+      "name": "volume-off",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58341,
+      "font": "FaSolid",
+      "name": "volume-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58342,
+      "font": "FaSolid",
+      "name": "volume-up",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58343,
+      "font": "FaSolid",
+      "name": "vote-yea",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58344,
+      "font": "FaSolid",
+      "name": "vr-cardboard",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58345,
+      "font": "FaSolid",
+      "name": "walking",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58347,
+      "font": "FaSolid",
+      "name": "warehouse",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58348,
+      "font": "FaSolid",
+      "name": "water",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58349,
+      "font": "FaSolid",
+      "name": "wave-square",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58353,
+      "font": "FaSolid",
+      "name": "wifi",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58354,
+      "font": "FaSolid",
+      "name": "wifi-slash",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 58361,
+      "font": "FaSolid",
+      "name": "wine-glass",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 58362,
+      "font": "FaSolid",
+      "name": "wine-glass-alt",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58363,
+      "font": "FaSolid",
+      "name": "won-sign",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58365,
+      "font": "FaSolid",
+      "name": "x-ray",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58366,
+      "font": "FaSolid",
+      "name": "yen-sign",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 58367,
+      "font": "FaSolid",
+      "name": "yin-yang",
+      "prefix": "fa-solid",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57344,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "abacus",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57347,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "address-card",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57355,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "ambulance",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57356,
+      "contentWidth": 1256,
+      "font": "FaSolid",
+      "name": "american-sign-language-interpreting",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57357,
+      "contentWidth": 1124,
+      "font": "FaSolid",
+      "name": "anchor",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57370,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "archway",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57395,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "backspace",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57397,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "bacon",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57398,
+      "contentWidth": 1256,
+      "font": "FaSolid",
+      "name": "bacteria",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57401,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "balance-scale",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57402,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "balance-scale-left",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57403,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "balance-scale-right",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57405,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "band-aid",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57411,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "battery-empty",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57412,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "battery-full",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57413,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "battery-half",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57414,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "battery-quarter",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57415,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "battery-three-quarters",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57416,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "bed",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57419,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "bell-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57420,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "bezier-curve",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57422,
+      "contentWidth": 1253,
+      "font": "FaSolid",
+      "name": "bicycle",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57423,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "biking",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57425,
+      "contentWidth": 1128,
+      "font": "FaSolid",
+      "name": "biohazard",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57428,
+      "contentWidth": 1141,
+      "font": "FaSolid",
+      "name": "blender-phone",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57434,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "bone",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57439,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "book-open",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57447,
+      "contentWidth": 1258,
+      "font": "FaSolid",
+      "name": "box-open",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57449,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "boxes",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57450,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "braille",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57451,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "brain",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57452,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "bread-slice",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57455,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "broadcast-tower",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57456,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "broom",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57460,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "bullhorn",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57465,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "business-time",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57478,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "campground",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57481,
+      "contentWidth": 1130,
+      "font": "FaSolid",
+      "name": "capsules",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57485,
+      "contentWidth": 1257,
+      "font": "FaSolid",
+      "name": "car-crash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57486,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "car-side",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57487,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "caravan",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57497,
+      "contentWidth": 1129,
+      "font": "FaSolid",
+      "name": "cart-arrow-down",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57498,
+      "contentWidth": 1129,
+      "font": "FaSolid",
+      "name": "cart-plus",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57503,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "chalkboard",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57504,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "chalkboard-teacher",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57505,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "charging-station",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57532,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "church",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57535,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "city",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57536,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "clinic-medical",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57543,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "cloud",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57544,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "cloud-download-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57546,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "cloud-moon",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57547,
+      "contentWidth": 1128,
+      "font": "FaSolid",
+      "name": "cloud-moon-rain",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57550,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "cloud-sun",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57551,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "cloud-sun-rain",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57552,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "cloud-upload-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57553,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "cocktail",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57554,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "code",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57556,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "coffee",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57558,
+      "contentWidth": 1257,
+      "font": "FaSolid",
+      "name": "cogs",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57566,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "comment-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57567,
+      "contentWidth": 1131,
+      "font": "FaSolid",
+      "name": "comments",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57568,
+      "contentWidth": 1131,
+      "font": "FaSolid",
+      "name": "comments-dollar",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57579,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "couch",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57580,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "credit-card",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57585,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "crow",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57586,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "crown",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57593,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "democrat",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57594,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "desktop",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57596,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "diagnoses",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57597,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "dice",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57606,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "digital-tachograph",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57614,
+      "contentWidth": 1128,
+      "font": "FaSolid",
+      "name": "dolly",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57615,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "dolly-flatbed",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57617,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "door-closed",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57618,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "door-open",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57623,
+      "contentWidth": 1255,
+      "font": "FaSolid",
+      "name": "dragon",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57626,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "drum-steelpan",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57628,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "dumbbell",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57629,
+      "contentWidth": 1131,
+      "font": "FaSolid",
+      "name": "dumpster",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57630,
+      "contentWidth": 1253,
+      "font": "FaSolid",
+      "name": "dumpster-fire",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57632,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "edit",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57649,
+      "contentWidth": 1135,
+      "font": "FaSolid",
+      "name": "exclamation-triangle",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57655,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "eye",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57657,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "eye-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57666,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "fighter-jet",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57676,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "file-export",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57686,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "file-signature",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57691,
+      "contentWidth": 1132,
+      "font": "FaSolid",
+      "name": "fill-drip",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57698,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "first-aid",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57699,
+      "contentWidth": 1128,
+      "font": "FaSolid",
+      "name": "fish",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57708,
+      "contentWidth": 1128,
+      "font": "FaSolid",
+      "name": "folder-open",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57713,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "frog",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57716,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "function",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57717,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "funnel-dollar",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57719,
+      "contentWidth": 1266,
+      "font": "FaSolid",
+      "name": "gamepad",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57722,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "gem",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57726,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "gifts",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57727,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "glass-cheers",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57731,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "glasses",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57739,
+      "contentWidth": 1260,
+      "font": "FaSolid",
+      "name": "graduation-cap",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57751,
+      "contentWidth": 1258,
+      "font": "FaSolid",
+      "name": "grin-tears",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57763,
+      "contentWidth": 1131,
+      "font": "FaSolid",
+      "name": "hammer",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57765,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "hand-holding",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57766,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "hand-holding-heart",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57767,
+      "contentWidth": 1130,
+      "font": "FaSolid",
+      "name": "hand-holding-medical",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57768,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "hand-holding-usd",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57769,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "hand-holding-water",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57770,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "hand-lizard",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57781,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "hand-sparkles",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57783,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "hands",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57784,
+      "contentWidth": 1260,
+      "font": "FaSolid",
+      "name": "hands-helping",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57786,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "handshake",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57787,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "handshake-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57788,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "handshake-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57789,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "hanukiah",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57792,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "hat-cowboy",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57793,
+      "contentWidth": 1253,
+      "font": "FaSolid",
+      "name": "hat-cowboy-side",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57796,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "hdd",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57797,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "head-side-cough",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57798,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "head-side-cough-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57808,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "helicopter",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57811,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "hippo",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57815,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "home",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57816,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "horse",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57819,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "hospital-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57821,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "hospital-user",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57824,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "hotel",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57829,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "house-damage",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57830,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "house-user",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57837,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "id-card",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57838,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "id-card-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57839,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "igloo",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57841,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "images",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57842,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "inbox",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57845,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "infinity",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57852,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "joint",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57854,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "kaaba",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57856,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "keyboard",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57861,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "kiwi-bird",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57864,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "language",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57865,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "laptop",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57866,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "laptop-code",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57867,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "laptop-house",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57868,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "laptop-medical",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57874,
+      "contentWidth": 1130,
+      "font": "FaSolid",
+      "name": "leaf",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57890,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "lock-open",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57895,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "low-vision",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57896,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "luggage-cart",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57897,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "lungs",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57898,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "lungs-virus",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57901,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "mail-bulk",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57903,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "map",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57904,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "map-marked",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57905,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "map-marked-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57916,
+      "contentWidth": 1261,
+      "font": "FaSolid",
+      "name": "mask",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57922,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "memory",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57923,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "menorah",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57929,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "microphone-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57930,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "microphone-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57938,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "money-bill",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57939,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "money-bill-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57940,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "money-bill-wave",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57941,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "money-bill-wave-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57942,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "money-check",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57943,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "money-check-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57947,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "mosque",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57948,
+      "contentWidth": 1253,
+      "font": "FaSolid",
+      "name": "motorcycle",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57949,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "mountain",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57954,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "network-wired",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57956,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "newspaper",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57960,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "object-ungroup",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57961,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "oil-can",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57964,
+      "contentWidth": 1255,
+      "font": "FaSolid",
+      "name": "otter",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57970,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "pallet",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57977,
+      "contentWidth": 1258,
+      "font": "FaSolid",
+      "name": "pastafarianism",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57990,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "people-arrows",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57991,
+      "contentWidth": 1262,
+      "font": "FaSolid",
+      "name": "people-carry",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57995,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "person-booth",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57998,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "phone-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58002,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "photo-video",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58004,
+      "contentWidth": 1129,
+      "font": "FaSolid",
+      "name": "piggy-bank",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58005,
+      "contentWidth": 1133,
+      "font": "FaSolid",
+      "name": "pills",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58007,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "place-of-worship",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58008,
+      "contentWidth": 1128,
+      "font": "FaSolid",
+      "name": "plane",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58009,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "plane-arrival",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58010,
+      "contentWidth": 1270,
+      "font": "FaSolid",
+      "name": "plane-departure",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58011,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "plane-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58028,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "praying-hands",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58033,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "procedures",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58034,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "project-diagram",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58037,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "puzzle-piece",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58041,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "quidditch",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58047,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "rainbow",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58055,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "remove-format",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58057,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "reply-all",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58058,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "republican",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58059,
+      "contentWidth": 1255,
+      "font": "FaSolid",
+      "name": "restroom",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58060,
+      "contentWidth": 1244,
+      "font": "FaSolid",
+      "name": "retweet",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58063,
+      "contentWidth": 1133,
+      "font": "FaSolid",
+      "name": "road",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58064,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "robot",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58070,
+      "contentWidth": 1260,
+      "font": "FaSolid",
+      "name": "ruler",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58072,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "ruler-horizontal",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58081,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "school",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58083,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "scroll",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58096,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "share-square",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58100,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "ship",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58101,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "shipping-fast",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58102,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "shoe-prints",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58104,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "shopping-basket",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58105,
+      "contentWidth": 1129,
+      "font": "FaSolid",
+      "name": "shopping-cart",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58107,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "shuttle-van",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58113,
+      "contentWidth": 1204,
+      "font": "FaSolid",
+      "name": "signal",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58114,
+      "contentWidth": 1188,
+      "font": "FaSolid",
+      "name": "signal-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58115,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "signal-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58116,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "signal-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58117,
+      "contentWidth": 1253,
+      "font": "FaSolid",
+      "name": "signature",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58120,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "sitemap",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58123,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "skiing-nordic",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58126,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58127,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "sleigh",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58132,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "smog",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58133,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "smoking",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58139,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "snowplow",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58142,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "solar-panel",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58158,
+      "contentWidth": 1127,
+      "font": "FaSolid",
+      "name": "spa",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58159,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "space-shuttle",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58160,
+      "contentWidth": 1129,
+      "font": "FaSolid",
+      "name": "spell-check",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58161,
+      "contentWidth": 1129,
+      "font": "FaSolid",
+      "name": "spider",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58167,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "square-root",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58168,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "square-root-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58184,
+      "contentWidth": 1213,
+      "font": "FaSolid",
+      "name": "store",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58185,
+      "contentWidth": 1256,
+      "font": "FaSolid",
+      "name": "store-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58186,
+      "contentWidth": 1256,
+      "font": "FaSolid",
+      "name": "store-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58187,
+      "contentWidth": 1191,
+      "font": "FaSolid",
+      "name": "store-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58200,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "swimmer",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58201,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "swimming-pool",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58202,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "synagogue",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58210,
+      "contentWidth": 1259,
+      "font": "FaSolid",
+      "name": "tablets",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58211,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "tachometer-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58213,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "tags",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58214,
+      "contentWidth": 1256,
+      "font": "FaSolid",
+      "name": "tally",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58215,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "tape",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58218,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "teeth",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58219,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "teeth-open",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58223,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "terminal",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58224,
+      "contentWidth": 1126,
+      "font": "FaSolid",
+      "name": "text-height",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58229,
+      "contentWidth": 1262,
+      "font": "FaSolid",
+      "name": "theater-masks",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58240,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "ticket-alt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58245,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "tint-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58247,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "toggle-off",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58248,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "toggle-on",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58250,
+      "contentWidth": 1129,
+      "font": "FaSolid",
+      "name": "toilet-paper",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58251,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "toilet-paper-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58255,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "torah",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58257,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "tractor",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58258,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "trademark",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58260,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "trailer",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58270,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "trophy",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58271,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "truck",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58272,
+      "contentWidth": 1253,
+      "font": "FaSolid",
+      "name": "truck-loading",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58273,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "truck-monster",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58274,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "truck-moving",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58275,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "truck-pickup",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58276,
+      "contentWidth": 1256,
+      "font": "FaSolid",
+      "name": "tshirt",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58278,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "tv",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58279,
+      "contentWidth": 1129,
+      "font": "FaSolid",
+      "name": "umbrella",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58280,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "umbrella-beach",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58293,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "user-alt-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58295,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "user-check",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58297,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "user-clock",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58298,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "user-cog",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58299,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "user-edit",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58300,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "user-friends",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58303,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "user-lock",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58305,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "user-minus",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58308,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "user-plus",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58310,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "user-shield",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58311,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "user-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58312,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "user-tag",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58314,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "user-times",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58315,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "users",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58316,
+      "contentWidth": 1251,
+      "font": "FaSolid",
+      "name": "users-cog",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58317,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "users-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58324,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "venus-mars",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58328,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "vials",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58329,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "video",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58330,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "video-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58331,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "vihara",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58333,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "virus-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58334,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "viruses",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58335,
+      "contentWidth": 1258,
+      "font": "FaSolid",
+      "name": "voicemail",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58341,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "volume-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58342,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "volume-up",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58343,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "vote-yea",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58344,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "vr-cardboard",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58347,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "warehouse",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58348,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "water",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58349,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "wave-square",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58353,
+      "contentWidth": 1252,
+      "font": "FaSolid",
+      "name": "wifi",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58354,
+      "contentWidth": 1254,
+      "font": "FaSolid",
+      "name": "wifi-slash",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58363,
+      "contentWidth": 1125,
+      "font": "FaSolid",
+      "name": "won-sign",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58365,
+      "contentWidth": 1250,
+      "font": "FaSolid",
+      "name": "x-ray",
+      "prefix": "fa-solid",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "fa-solid",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FaSolid",
+      "glyphCount": 1024,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1267,
+        "xMin": -16,
+        "yMax": 1017,
+        "yMin": -13
+      },
+      "hhea": {
+        "advanceWidthMax": 1250,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 13
+      }
+    }
+  ]
+}

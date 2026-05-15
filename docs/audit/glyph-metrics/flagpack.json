@@ -1,0 +1,4359 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 13,
+      "font": "Flagpack",
+      "glyphName": "bl",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "bl",
+        "fr",
+        "gn",
+        "gp"
+      ]
+    },
+    {
+      "codepointCount": 12,
+      "font": "Flagpack",
+      "glyphName": "al",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "al",
+        "bd",
+        "bh",
+        "cn"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Flagpack",
+      "glyphName": "ax",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "ax",
+        "bv",
+        "is",
+        "no"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Flagpack",
+      "glyphName": "ms",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "ms",
+        "sh",
+        "tc",
+        "vg"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Flagpack",
+      "glyphName": "am",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "am",
+        "de",
+        "mw"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Flagpack",
+      "glyphName": "at",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "at",
+        "nl",
+        "ye"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Flagpack",
+      "glyphName": "bg",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "bg",
+        "lt",
+        "sl"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Flagpack",
+      "glyphName": "id",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "id",
+        "mc",
+        "mu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flagpack",
+      "glyphName": "au",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "au",
+        "hm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flagpack",
+      "glyphName": "co",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "co",
+        "pl"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flagpack",
+      "glyphName": "dk",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "dk",
+        "se"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flagpack",
+      "glyphName": "hu",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "hu",
+        "lu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flagpack",
+      "glyphName": "um",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "um",
+        "us"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FlagpackSecondary",
+      "glyphName": "bh",
+      "prefix": "flagpack",
+      "sampleIcons": [
+        "bh",
+        "qa"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57366,
+      "icon": "bh",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 837,
+      "secondary": {
+        "xMax": 497,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57537,
+      "icon": "qa",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 837,
+      "secondary": {
+        "xMax": 497,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57393,
+      "icon": "cn",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 558,
+      "secondary": {
+        "xMax": 776,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57362,
+      "icon": "bd",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 489,
+      "secondary": {
+        "xMax": 845,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57556,
+      "icon": "so",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 438,
+      "secondary": {
+        "xMax": 896,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57513,
+      "icon": "nf",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 416,
+      "secondary": {
+        "xMax": 918,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57383,
+      "icon": "ca",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 334,
+      "secondary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57349,
+      "icon": "al",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 333,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 849,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagpackSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Flagpack",
+      "headBbox": "-1..1335 / -1..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 1,
+      "prefix": "flagpack",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1335",
+        "head.yMin=-1",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "FlagpackSecondary",
+      "headBbox": "-1..1334 / 0..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "flagpack",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1334",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1333,
+      "codepoint": 57344,
+      "font": "Flagpack",
+      "name": "ad",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57345,
+      "font": "Flagpack",
+      "name": "ae",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57346,
+      "font": "Flagpack",
+      "name": "af",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57347,
+      "font": "Flagpack",
+      "name": "ag",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57348,
+      "font": "Flagpack",
+      "name": "ai",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57349,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57350,
+      "font": "Flagpack",
+      "name": "am",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57351,
+      "font": "Flagpack",
+      "name": "ao",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57353,
+      "font": "Flagpack",
+      "name": "ar",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57354,
+      "font": "Flagpack",
+      "name": "as",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57355,
+      "font": "Flagpack",
+      "name": "at",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57356,
+      "font": "Flagpack",
+      "name": "au",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57357,
+      "font": "Flagpack",
+      "name": "aw",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57358,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57359,
+      "font": "Flagpack",
+      "name": "az",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57360,
+      "font": "Flagpack",
+      "name": "ba",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57361,
+      "font": "Flagpack",
+      "name": "bb",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57362,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57363,
+      "font": "Flagpack",
+      "name": "be",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57364,
+      "font": "Flagpack",
+      "name": "bf",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57365,
+      "font": "Flagpack",
+      "name": "bg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57366,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57367,
+      "font": "Flagpack",
+      "name": "bi",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57368,
+      "font": "Flagpack",
+      "name": "bj",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57369,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57370,
+      "font": "Flagpack",
+      "name": "bm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57371,
+      "font": "Flagpack",
+      "name": "bn",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57372,
+      "font": "Flagpack",
+      "name": "bo",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57373,
+      "font": "Flagpack",
+      "name": "bq-bo",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57374,
+      "font": "Flagpack",
+      "name": "bq-sa",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57375,
+      "font": "Flagpack",
+      "name": "bq-se",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57376,
+      "font": "Flagpack",
+      "name": "br",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57377,
+      "font": "Flagpack",
+      "name": "bs",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57378,
+      "font": "Flagpack",
+      "name": "bt",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57379,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57380,
+      "font": "Flagpack",
+      "name": "bw",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57381,
+      "font": "Flagpack",
+      "name": "by",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57382,
+      "font": "Flagpack",
+      "name": "bz",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57383,
+      "font": "Flagpack",
+      "name": "ca",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57384,
+      "font": "Flagpack",
+      "name": "cc",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57385,
+      "font": "Flagpack",
+      "name": "cd",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57386,
+      "font": "Flagpack",
+      "name": "cf",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57387,
+      "font": "Flagpack",
+      "name": "cg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57388,
+      "font": "Flagpack",
+      "name": "ch",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57390,
+      "font": "Flagpack",
+      "name": "ck",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57391,
+      "font": "Flagpack",
+      "name": "cl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57392,
+      "font": "Flagpack",
+      "name": "cm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57393,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57394,
+      "font": "Flagpack",
+      "name": "co",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57395,
+      "font": "Flagpack",
+      "name": "cr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57396,
+      "font": "Flagpack",
+      "name": "cu",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57397,
+      "font": "Flagpack",
+      "name": "cv",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57398,
+      "font": "Flagpack",
+      "name": "cw",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57399,
+      "font": "Flagpack",
+      "name": "cx",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57400,
+      "font": "Flagpack",
+      "name": "cy",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57401,
+      "font": "Flagpack",
+      "name": "cz",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57402,
+      "font": "Flagpack",
+      "name": "am",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57403,
+      "font": "Flagpack",
+      "name": "dj",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57404,
+      "font": "Flagpack",
+      "name": "dk",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57405,
+      "font": "Flagpack",
+      "name": "dm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57406,
+      "font": "Flagpack",
+      "name": "do",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57407,
+      "font": "Flagpack",
+      "name": "dz",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57408,
+      "font": "Flagpack",
+      "name": "ec",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57409,
+      "font": "Flagpack",
+      "name": "ee",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57410,
+      "font": "Flagpack",
+      "name": "eg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57411,
+      "font": "Flagpack",
+      "name": "eh",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57412,
+      "font": "Flagpack",
+      "name": "er",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57413,
+      "font": "Flagpack",
+      "name": "es",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57414,
+      "font": "Flagpack",
+      "name": "et",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57415,
+      "font": "Flagpack",
+      "name": "fi",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57416,
+      "font": "Flagpack",
+      "name": "fj",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57417,
+      "font": "Flagpack",
+      "name": "fk",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57419,
+      "font": "Flagpack",
+      "name": "fo",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57420,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57422,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57423,
+      "font": "Flagpack",
+      "name": "gb-eng",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57424,
+      "font": "Flagpack",
+      "name": "gb-nir",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57425,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57426,
+      "font": "Flagpack",
+      "name": "gb-ukm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57427,
+      "font": "Flagpack",
+      "name": "gb-wls",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57428,
+      "font": "Flagpack",
+      "name": "gd",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57429,
+      "font": "Flagpack",
+      "name": "ge",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57430,
+      "font": "Flagpack",
+      "name": "gf",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57431,
+      "font": "Flagpack",
+      "name": "gg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57432,
+      "font": "Flagpack",
+      "name": "gh",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57433,
+      "font": "Flagpack",
+      "name": "gi",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57434,
+      "font": "Flagpack",
+      "name": "gl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57435,
+      "font": "Flagpack",
+      "name": "gm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57436,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57437,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57438,
+      "font": "Flagpack",
+      "name": "gq",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57439,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57440,
+      "font": "Flagpack",
+      "name": "gs",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57441,
+      "font": "Flagpack",
+      "name": "gt",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57442,
+      "font": "Flagpack",
+      "name": "gu",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57443,
+      "font": "Flagpack",
+      "name": "gw",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57444,
+      "font": "Flagpack",
+      "name": "gy",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57445,
+      "font": "Flagpack",
+      "name": "hk",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57446,
+      "font": "Flagpack",
+      "name": "au",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57448,
+      "font": "Flagpack",
+      "name": "hr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57449,
+      "font": "Flagpack",
+      "name": "ht",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57450,
+      "font": "Flagpack",
+      "name": "hu",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57451,
+      "font": "Flagpack",
+      "name": "id",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57453,
+      "font": "Flagpack",
+      "name": "il",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57454,
+      "font": "Flagpack",
+      "name": "im",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57455,
+      "font": "Flagpack",
+      "name": "in",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57456,
+      "font": "Flagpack",
+      "name": "io",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57457,
+      "font": "Flagpack",
+      "name": "iq",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57458,
+      "font": "Flagpack",
+      "name": "ir",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57459,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57460,
+      "font": "Flagpack",
+      "name": "it",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57461,
+      "font": "Flagpack",
+      "name": "je",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57462,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57463,
+      "font": "Flagpack",
+      "name": "jo",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57464,
+      "font": "Flagpack",
+      "name": "jp",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57465,
+      "font": "Flagpack",
+      "name": "ke",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57466,
+      "font": "Flagpack",
+      "name": "kg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57467,
+      "font": "Flagpack",
+      "name": "kh",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57468,
+      "font": "Flagpack",
+      "name": "ki",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57469,
+      "font": "Flagpack",
+      "name": "km",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57470,
+      "font": "Flagpack",
+      "name": "kn",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57471,
+      "font": "Flagpack",
+      "name": "kp",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57472,
+      "font": "Flagpack",
+      "name": "kr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57473,
+      "font": "Flagpack",
+      "name": "kw",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57474,
+      "font": "Flagpack",
+      "name": "ky",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57476,
+      "font": "Flagpack",
+      "name": "la",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57477,
+      "font": "Flagpack",
+      "name": "lb",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57478,
+      "font": "Flagpack",
+      "name": "lc",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57479,
+      "font": "Flagpack",
+      "name": "li",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57480,
+      "font": "Flagpack",
+      "name": "lk",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57481,
+      "font": "Flagpack",
+      "name": "lr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57482,
+      "font": "Flagpack",
+      "name": "ls",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57483,
+      "font": "Flagpack",
+      "name": "bg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57484,
+      "font": "Flagpack",
+      "name": "hu",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57485,
+      "font": "Flagpack",
+      "name": "lv",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57486,
+      "font": "Flagpack",
+      "name": "ly",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57487,
+      "font": "Flagpack",
+      "name": "ma",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57488,
+      "font": "Flagpack",
+      "name": "id",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57489,
+      "font": "Flagpack",
+      "name": "md",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57490,
+      "font": "Flagpack",
+      "name": "me",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57491,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57492,
+      "font": "Flagpack",
+      "name": "mg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57493,
+      "font": "Flagpack",
+      "name": "mh",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57494,
+      "font": "Flagpack",
+      "name": "mk",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57495,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57496,
+      "font": "Flagpack",
+      "name": "mm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57497,
+      "font": "Flagpack",
+      "name": "mn",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57498,
+      "font": "Flagpack",
+      "name": "mo",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57499,
+      "font": "Flagpack",
+      "name": "mp",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57500,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57501,
+      "font": "Flagpack",
+      "name": "mr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57502,
+      "font": "Flagpack",
+      "name": "ms",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57503,
+      "font": "Flagpack",
+      "name": "mt",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57504,
+      "font": "Flagpack",
+      "name": "id",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57505,
+      "font": "Flagpack",
+      "name": "mv",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57506,
+      "font": "Flagpack",
+      "name": "am",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57507,
+      "font": "Flagpack",
+      "name": "mx",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57508,
+      "font": "Flagpack",
+      "name": "my",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57509,
+      "font": "Flagpack",
+      "name": "mz",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57510,
+      "font": "Flagpack",
+      "name": "na",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57511,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57512,
+      "font": "Flagpack",
+      "name": "ne",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57513,
+      "font": "Flagpack",
+      "name": "nf",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57514,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57515,
+      "font": "Flagpack",
+      "name": "ni",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57516,
+      "font": "Flagpack",
+      "name": "at",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57517,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57518,
+      "font": "Flagpack",
+      "name": "np",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57519,
+      "font": "Flagpack",
+      "name": "nr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57520,
+      "font": "Flagpack",
+      "name": "nu",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57521,
+      "font": "Flagpack",
+      "name": "nz",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57522,
+      "font": "Flagpack",
+      "name": "om",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57523,
+      "font": "Flagpack",
+      "name": "pa",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57524,
+      "font": "Flagpack",
+      "name": "pe",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57525,
+      "font": "Flagpack",
+      "name": "pf",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57526,
+      "font": "Flagpack",
+      "name": "pg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57527,
+      "font": "Flagpack",
+      "name": "ph",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57528,
+      "font": "Flagpack",
+      "name": "pk",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57529,
+      "font": "Flagpack",
+      "name": "co",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57530,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57531,
+      "font": "Flagpack",
+      "name": "pn",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57532,
+      "font": "Flagpack",
+      "name": "pr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57533,
+      "font": "Flagpack",
+      "name": "ps",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57534,
+      "font": "Flagpack",
+      "name": "pt",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57536,
+      "font": "Flagpack",
+      "name": "py",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57537,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57538,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57539,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57540,
+      "font": "Flagpack",
+      "name": "rs",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57541,
+      "font": "Flagpack",
+      "name": "ru",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57543,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57544,
+      "font": "Flagpack",
+      "name": "sb",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57545,
+      "font": "Flagpack",
+      "name": "sc",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57546,
+      "font": "Flagpack",
+      "name": "sd",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57547,
+      "font": "Flagpack",
+      "name": "dk",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57548,
+      "font": "Flagpack",
+      "name": "sg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57549,
+      "font": "Flagpack",
+      "name": "ms",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57550,
+      "font": "Flagpack",
+      "name": "si",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57551,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57552,
+      "font": "Flagpack",
+      "name": "sk",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57553,
+      "font": "Flagpack",
+      "name": "bg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57554,
+      "font": "Flagpack",
+      "name": "sm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57555,
+      "font": "Flagpack",
+      "name": "sn",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57556,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57557,
+      "font": "Flagpack",
+      "name": "sr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57558,
+      "font": "Flagpack",
+      "name": "ss",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57559,
+      "font": "Flagpack",
+      "name": "st",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57560,
+      "font": "Flagpack",
+      "name": "sv",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57561,
+      "font": "Flagpack",
+      "name": "sx",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57562,
+      "font": "Flagpack",
+      "name": "sy",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57563,
+      "font": "Flagpack",
+      "name": "sz",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57564,
+      "font": "Flagpack",
+      "name": "ms",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57565,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57566,
+      "font": "Flagpack",
+      "name": "tf",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57567,
+      "font": "Flagpack",
+      "name": "tg",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57568,
+      "font": "Flagpack",
+      "name": "th",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57569,
+      "font": "Flagpack",
+      "name": "tj",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57570,
+      "font": "Flagpack",
+      "name": "tk",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57571,
+      "font": "Flagpack",
+      "name": "tl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57572,
+      "font": "Flagpack",
+      "name": "tm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57573,
+      "font": "Flagpack",
+      "name": "tn",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57574,
+      "font": "Flagpack",
+      "name": "to",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57575,
+      "font": "Flagpack",
+      "name": "tr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57576,
+      "font": "Flagpack",
+      "name": "tt",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57577,
+      "font": "Flagpack",
+      "name": "tv",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57578,
+      "font": "Flagpack",
+      "name": "tw",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57579,
+      "font": "Flagpack",
+      "name": "tz",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57581,
+      "font": "Flagpack",
+      "name": "ug",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57582,
+      "font": "Flagpack",
+      "name": "um",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57583,
+      "font": "Flagpack",
+      "name": "um",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57584,
+      "font": "Flagpack",
+      "name": "uy",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57585,
+      "font": "Flagpack",
+      "name": "uz",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57586,
+      "font": "Flagpack",
+      "name": "va",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57587,
+      "font": "Flagpack",
+      "name": "vc",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57588,
+      "font": "Flagpack",
+      "name": "ve",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57589,
+      "font": "Flagpack",
+      "name": "ms",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57590,
+      "font": "Flagpack",
+      "name": "vi",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57591,
+      "font": "Flagpack",
+      "name": "vn",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57592,
+      "font": "Flagpack",
+      "name": "vu",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57593,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57594,
+      "font": "Flagpack",
+      "name": "ws",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57595,
+      "font": "Flagpack",
+      "name": "at",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57596,
+      "font": "Flagpack",
+      "name": "yt",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57597,
+      "font": "Flagpack",
+      "name": "za",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57598,
+      "font": "Flagpack",
+      "name": "zm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57599,
+      "font": "Flagpack",
+      "name": "zw",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57344,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ad",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57345,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ae",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57347,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ag",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57348,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ai",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57349,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57350,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "am",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57351,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ao",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57354,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "as",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57355,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "at",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57356,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "au",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57358,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57359,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "az",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57360,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ba",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57361,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bb",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57362,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57363,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "be",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57364,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bf",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57365,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57366,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57367,
+      "contentWidth": 1332,
+      "font": "Flagpack",
+      "name": "bi",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57368,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bj",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57369,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57370,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bm",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57371,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "bn",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57372,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bo",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57373,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bq-bo",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57374,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "bq-sa",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57375,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bq-se",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57376,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "br",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57378,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bt",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57379,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57380,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bw",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57381,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "by",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57382,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bz",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57385,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "cd",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57386,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "cf",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57387,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "cg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57388,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ch",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57390,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ck",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57391,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "cl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57393,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57394,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "co",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57395,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "cr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57396,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "cu",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57397,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "cv",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57398,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "cw",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57399,
+      "contentWidth": 1336,
+      "font": "Flagpack",
+      "name": "cx",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57401,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "cz",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57402,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "am",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57404,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "dk",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57405,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "dm",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57406,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "do",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57408,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ec",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57409,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ee",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57410,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "eg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57411,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "eh",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57412,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "er",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57413,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "es",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57414,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "et",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57415,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "fi",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57416,
+      "contentWidth": 1236,
+      "font": "Flagpack",
+      "name": "fj",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57417,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "fk",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57419,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "fo",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57420,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57422,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57423,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gb-eng",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57424,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "gb-nir",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57425,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57426,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "gb-ukm",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57427,
+      "contentWidth": 1229,
+      "font": "Flagpack",
+      "name": "gb-wls",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57428,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gd",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57429,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ge",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57431,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57432,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gh",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57433,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gi",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57434,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57435,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gm",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57436,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57437,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57438,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gq",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57439,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57440,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gs",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57442,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gu",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57443,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "gw",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57445,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "hk",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57446,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "au",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57448,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "hr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57449,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ht",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57450,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "hu",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57451,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "id",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57453,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "il",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57454,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "im",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57456,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "io",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57457,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "iq",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57458,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ir",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57459,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57460,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "it",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57461,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "je",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57462,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57463,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "jo",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57465,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ke",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57466,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "kg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57467,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "kh",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57468,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "ki",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57469,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "km",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57470,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "kn",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57471,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "kp",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57472,
+      "contentWidth": 1241,
+      "font": "Flagpack",
+      "name": "kr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57473,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "kw",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57474,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ky",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57476,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "la",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57477,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "lb",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57479,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "li",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57480,
+      "contentWidth": 1252,
+      "font": "Flagpack",
+      "name": "lk",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57481,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "lr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57482,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ls",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57483,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57484,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "hu",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57485,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "lv",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57486,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ly",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57487,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ma",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57488,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "id",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57489,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "md",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57490,
+      "contentWidth": 1167,
+      "font": "Flagpack",
+      "name": "me",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57491,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57492,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57493,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mh",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57494,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mk",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57495,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57496,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mm",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57497,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mn",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57498,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mo",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57500,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57501,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57502,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ms",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57503,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mt",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57504,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "id",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57505,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mv",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57506,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "am",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57507,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mx",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57508,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "my",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57509,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "mz",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57510,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "na",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57511,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57512,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ne",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57513,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "nf",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57514,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57515,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ni",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57516,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "at",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57517,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57519,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "nr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57520,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "nu",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57521,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "nz",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57522,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "om",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57523,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "pa",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57524,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "pe",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57525,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "pf",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57526,
+      "contentWidth": 1333,
+      "font": "Flagpack",
+      "name": "pg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57527,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ph",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57528,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "pk",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57529,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "co",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57530,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57531,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "pn",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57532,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "pr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57533,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ps",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57534,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "pt",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57536,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "py",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57537,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57538,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57539,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57540,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "rs",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57541,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ru",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57543,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57544,
+      "contentWidth": 1281,
+      "font": "Flagpack",
+      "name": "sb",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57545,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "sc",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57546,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "sd",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57547,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "dk",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57548,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "sg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57549,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ms",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57550,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "si",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57551,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ax",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57552,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "sk",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57553,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bg",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57555,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "sn",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57556,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57557,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "sr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57558,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ss",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57559,
+      "contentWidth": 1167,
+      "font": "Flagpack",
+      "name": "st",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57560,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "sv",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57561,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "sx",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57562,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "sy",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57563,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "sz",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57564,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ms",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57565,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57566,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "tf",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57568,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "th",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57569,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "tj",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57570,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "tk",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57571,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "tl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57573,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "tn",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57574,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "to",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57575,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "tr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57576,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "tt",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57578,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "tw",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57579,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "tz",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57581,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ug",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57582,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "um",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57583,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "um",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57584,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "uy",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57585,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "uz",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57588,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ve",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57589,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ms",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57590,
+      "contentWidth": 1185,
+      "font": "Flagpack",
+      "name": "vi",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57591,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "vn",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57592,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "vu",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57593,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "bl",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57594,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "ws",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57595,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "at",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57596,
+      "contentWidth": 1298,
+      "font": "Flagpack",
+      "name": "yt",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57597,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "za",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57598,
+      "contentWidth": 1335,
+      "font": "Flagpack",
+      "name": "zm",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57599,
+      "contentWidth": 1334,
+      "font": "Flagpack",
+      "name": "zw",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57349,
+      "font": "FlagpackSecondary",
+      "name": "al",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57362,
+      "font": "FlagpackSecondary",
+      "name": "bd",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57366,
+      "font": "FlagpackSecondary",
+      "name": "bh",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57383,
+      "font": "FlagpackSecondary",
+      "name": "ca",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57393,
+      "font": "FlagpackSecondary",
+      "name": "cn",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57422,
+      "font": "FlagpackSecondary",
+      "name": "gb",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57425,
+      "font": "FlagpackSecondary",
+      "name": "gb-sct",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57439,
+      "font": "FlagpackSecondary",
+      "name": "gr",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57462,
+      "font": "FlagpackSecondary",
+      "name": "jm",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57485,
+      "font": "FlagpackSecondary",
+      "name": "lv",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57513,
+      "font": "FlagpackSecondary",
+      "name": "nf",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57514,
+      "font": "FlagpackSecondary",
+      "name": "ng",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57537,
+      "font": "FlagpackSecondary",
+      "name": "bh",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57543,
+      "font": "FlagpackSecondary",
+      "name": "sa",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57556,
+      "font": "FlagpackSecondary",
+      "name": "so",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57568,
+      "font": "FlagpackSecondary",
+      "name": "th",
+      "prefix": "flagpack",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57383,
+      "contentWidth": 1334,
+      "font": "FlagpackSecondary",
+      "name": "ca",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57422,
+      "contentWidth": 1334,
+      "font": "FlagpackSecondary",
+      "name": "gb",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57425,
+      "contentWidth": 1334,
+      "font": "FlagpackSecondary",
+      "name": "gb-sct",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57439,
+      "contentWidth": 1334,
+      "font": "FlagpackSecondary",
+      "name": "gr",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57462,
+      "contentWidth": 1335,
+      "font": "FlagpackSecondary",
+      "name": "jm",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57485,
+      "contentWidth": 1334,
+      "font": "FlagpackSecondary",
+      "name": "lv",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57514,
+      "contentWidth": 1334,
+      "font": "FlagpackSecondary",
+      "name": "ng",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57543,
+      "contentWidth": 1139,
+      "font": "FlagpackSecondary",
+      "name": "sa",
+      "prefix": "flagpack",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57568,
+      "contentWidth": 1334,
+      "font": "FlagpackSecondary",
+      "name": "th",
+      "prefix": "flagpack",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "flagpack",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Flagpack",
+      "glyphCount": 256,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1335,
+        "xMin": -1,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "hhea": {
+        "advanceWidthMax": 1333,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 1
+      }
+    },
+    {
+      "error": null,
+      "font": "FlagpackSecondary",
+      "glyphCount": 16,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1334,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1333,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

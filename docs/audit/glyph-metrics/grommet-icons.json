@@ -1,0 +1,263 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 4,
+      "font": "GrommetIcons",
+      "glyphName": "status-disabled-small",
+      "prefix": "grommet-icons",
+      "sampleIcons": [
+        "status-disabled-small",
+        "status-info-small",
+        "status-placeholder-small",
+        "status-unknown-small"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GrommetIcons",
+      "glyphName": "js",
+      "prefix": "grommet-icons",
+      "sampleIcons": [
+        "js",
+        "npm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GrommetIcons",
+      "glyphName": "key",
+      "prefix": "grommet-icons",
+      "sampleIcons": [
+        "key",
+        "license"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GrommetIcons",
+      "glyphName": "power-reset",
+      "prefix": "grommet-icons",
+      "sampleIcons": [
+        "power-reset",
+        "refresh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GrommetIcons",
+      "glyphName": "upgrade",
+      "prefix": "grommet-icons",
+      "sampleIcons": [
+        "upgrade",
+        "upload-option"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57695,
+      "icon": "mastercard",
+      "prefix": "grommet-icons",
+      "primary": {
+        "xMax": 588,
+        "xMin": -8,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "primaryFont": "GrommetIcons",
+      "score": 425,
+      "secondary": {
+        "xMax": 1005,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "secondaryFont": "GrommetIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57841,
+      "icon": "star-half",
+      "prefix": "grommet-icons",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 915,
+        "yMin": 0
+      },
+      "primaryFont": "GrommetIcons",
+      "score": 416,
+      "secondary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 915,
+        "yMin": 0
+      },
+      "secondaryFont": "GrommetIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57969,
+      "icon": "wifi-none",
+      "prefix": "grommet-icons",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 376,
+        "yMin": 0
+      },
+      "primaryFont": "GrommetIcons",
+      "score": 317,
+      "secondary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "GrommetIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57967,
+      "icon": "wifi-low",
+      "prefix": "grommet-icons",
+      "primary": {
+        "xMax": 706,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "primaryFont": "GrommetIcons",
+      "score": 236,
+      "secondary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "GrommetIconsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "GrommetIcons",
+      "headBbox": "-21..1960 / -14..1010",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 14,
+      "prefix": "grommet-icons",
+      "reasons": [
+        "head.xMin=-21",
+        "head.xMax=1960",
+        "head.yMin=-14",
+        "head.yMax=1010",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=14"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "GrommetIconsSecondary",
+      "headBbox": "0..1005 / 0..915",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "grommet-icons",
+      "reasons": [
+        "head.xMax=1005",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 2000,
+      "codepoint": 57551,
+      "font": "GrommetIcons",
+      "name": "ezmeral",
+      "prefix": "grommet-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 2000,
+      "codepoint": 57637,
+      "font": "GrommetIcons",
+      "name": "hpe",
+      "prefix": "grommet-icons",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57551,
+      "contentWidth": 1960,
+      "font": "GrommetIcons",
+      "name": "ezmeral",
+      "prefix": "grommet-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57637,
+      "contentWidth": 1917,
+      "font": "GrommetIcons",
+      "name": "hpe",
+      "prefix": "grommet-icons",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "grommet-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "GrommetIcons",
+      "glyphCount": 637,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1960,
+        "xMin": -21,
+        "yMax": 1010,
+        "yMin": -14
+      },
+      "hhea": {
+        "advanceWidthMax": 2000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 14
+      }
+    },
+    {
+      "error": null,
+      "font": "GrommetIconsSecondary",
+      "glyphCount": 5,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1005,
+        "xMin": 0,
+        "yMax": 915,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

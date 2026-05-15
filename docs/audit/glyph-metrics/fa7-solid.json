@@ -1,0 +1,4936 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 5,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-left-rotate",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-left-rotate",
+        "arrow-rotate-back",
+        "arrow-rotate-backward",
+        "arrow-rotate-left"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Fa7Solid",
+      "glyphName": "bank",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bank",
+        "building-columns",
+        "institution",
+        "museum"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Fa7Solid",
+      "glyphName": "close",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "close",
+        "multiply",
+        "remove",
+        "times"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Fa7Solid",
+      "glyphName": "cny",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cny",
+        "jpy",
+        "rmb",
+        "yen"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Fa7Solid",
+      "glyphName": "ils",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ils",
+        "shekel",
+        "shekel-sign",
+        "sheqel"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "american-sign-language-interpreting",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "american-sign-language-interpreting",
+        "asl-interpreting",
+        "hands-american-sign-language-interpreting",
+        "hands-asl-interpreting"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-right-rotate",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-right-rotate",
+        "arrow-rotate-forward",
+        "arrow-rotate-right",
+        "redo"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "chain-broken",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "chain-broken",
+        "chain-slash",
+        "link-slash",
+        "unlink"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "dashboard",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "dashboard",
+        "gauge",
+        "gauge-med",
+        "tachometer-alt-average"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "deaf",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "deaf",
+        "deafness",
+        "ear-deaf",
+        "hard-of-hearing"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "earth",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "earth",
+        "earth-america",
+        "earth-americas",
+        "globe-americas"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "home",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "home",
+        "home-alt",
+        "home-lg-alt",
+        "house"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "rectangle-times",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "rectangle-times",
+        "rectangle-xmark",
+        "times-rectangle",
+        "window-close"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "rod-asclepius",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "rod-asclepius",
+        "rod-snake",
+        "staff-aesculapius",
+        "staff-snake"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "rotate-back",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "rotate-back",
+        "rotate-backward",
+        "rotate-left",
+        "undo-alt"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "rouble",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "rouble",
+        "rub",
+        "ruble",
+        "ruble-sign"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "temperature-0",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "temperature-0",
+        "temperature-empty",
+        "thermometer-0",
+        "thermometer-empty"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "temperature-1",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "temperature-1",
+        "temperature-quarter",
+        "thermometer-1",
+        "thermometer-quarter"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "temperature-2",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "temperature-2",
+        "temperature-half",
+        "thermometer-2",
+        "thermometer-half"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "temperature-3",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "temperature-3",
+        "temperature-three-quarters",
+        "thermometer-3",
+        "thermometer-three-quarters"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fa7Solid",
+      "glyphName": "temperature-4",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "temperature-4",
+        "temperature-full",
+        "thermometer-4",
+        "thermometer-full"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "address-card",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "address-card",
+        "contact-card",
+        "vcard"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-down-1-9",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-down-1-9",
+        "sort-numeric-asc",
+        "sort-numeric-down"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-down-9-1",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-down-9-1",
+        "sort-numeric-desc",
+        "sort-numeric-down-alt"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-down-a-z",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-down-a-z",
+        "sort-alpha-asc",
+        "sort-alpha-down"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-down-short-wide",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-down-short-wide",
+        "sort-amount-desc",
+        "sort-amount-down-alt"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-down-wide-short",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-down-wide-short",
+        "sort-amount-asc",
+        "sort-amount-down"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-down-z-a",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-down-z-a",
+        "sort-alpha-desc",
+        "sort-alpha-down-alt"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "arrows-rotate",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrows-rotate",
+        "refresh",
+        "sync"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "bars-staggered",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bars-staggered",
+        "reorder",
+        "stream"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "battery",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "battery",
+        "battery-5",
+        "battery-full"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "birthday-cake",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "birthday-cake",
+        "cake",
+        "cake-candles"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "boxes",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "boxes",
+        "boxes-alt",
+        "boxes-stacked"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "broom-ball",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "broom-ball",
+        "quidditch",
+        "quidditch-broom-ball"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "circle-xmark",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-xmark",
+        "times-circle",
+        "xmark-circle"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "cloud-arrow-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cloud-arrow-down",
+        "cloud-download",
+        "cloud-download-alt"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "cloud-arrow-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cloud-arrow-up",
+        "cloud-upload",
+        "cloud-upload-alt"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "dollar",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "dollar",
+        "dollar-sign",
+        "usd"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "eur",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "eur",
+        "euro",
+        "euro-sign"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "exclamation-triangle",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "exclamation-triangle",
+        "triangle-exclamation",
+        "warning"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "eye-dropper",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "eye-dropper",
+        "eye-dropper-empty",
+        "eyedropper"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "file-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "file-alt",
+        "file-lines",
+        "file-text"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "film",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "film",
+        "film-alt",
+        "film-simple"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "futbol",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "futbol",
+        "futbol-ball",
+        "soccer-ball"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "gauge-high",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "gauge-high",
+        "tachometer-alt",
+        "tachometer-alt-fast"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "gauge-simple",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "gauge-simple",
+        "gauge-simple-med",
+        "tachometer-average"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "gauge-simple-high",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "gauge-simple-high",
+        "tachometer",
+        "tachometer-fast"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "gbp",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "gbp",
+        "pound-sign",
+        "sterling-sign"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "grid-horizontal",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "grid-horizontal",
+        "grip",
+        "grip-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "hands",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hands",
+        "sign-language",
+        "signing"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "handshake",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "handshake",
+        "handshake-alt",
+        "handshake-simple"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "handshake-alt-slash",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "handshake-alt-slash",
+        "handshake-simple-slash",
+        "handshake-slash"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "hard-hat",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hard-hat",
+        "hat-hard",
+        "helmet-safety"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "headphones",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "headphones",
+        "headphones-alt",
+        "headphones-simple"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "hospital",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hospital",
+        "hospital-alt",
+        "hospital-wide"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "indian-rupee",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "indian-rupee",
+        "indian-rupee-sign",
+        "inr"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "krw",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "krw",
+        "won",
+        "won-sign"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "ladder-water",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ladder-water",
+        "swimming-pool",
+        "water-ladder"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "list-1-2",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "list-1-2",
+        "list-numeric",
+        "list-ol"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "mobile",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "mobile",
+        "mobile-android",
+        "mobile-phone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "pen-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "pen-square",
+        "pencil-square",
+        "square-pen"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "ping-pong-paddle-ball",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ping-pong-paddle-ball",
+        "table-tennis",
+        "table-tennis-paddle-ball"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "redo-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "redo-alt",
+        "rotate-forward",
+        "rotate-right"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "shirt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "shirt",
+        "t-shirt",
+        "tshirt"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "signal",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "signal",
+        "signal-5",
+        "signal-perfect"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "square-xmark",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "square-xmark",
+        "times-square",
+        "xmark-square"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "television",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "television",
+        "tv",
+        "tv-alt"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "toilet-paper",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "toilet-paper",
+        "toilet-paper-alt",
+        "toilet-paper-blank"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "try",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "try",
+        "turkish-lira",
+        "turkish-lira-sign"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "user",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "user",
+        "user-alt",
+        "user-large"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "user-alt-slash",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "user-alt-slash",
+        "user-large-slash",
+        "user-slash"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "volume-mute",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "volume-mute",
+        "volume-times",
+        "volume-xmark"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fa7Solid",
+      "glyphName": "wifi",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "wifi",
+        "wifi-3",
+        "wifi-strong"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "ad",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ad",
+        "rectangle-ad"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "add",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "add",
+        "plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "address-book",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "address-book",
+        "contact-book"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "adjust",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "adjust",
+        "circle-half-stroke"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "air-freshener",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "air-freshener",
+        "spray-can-sparkles"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "allergies",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "allergies",
+        "hand-dots"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "ambulance",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ambulance",
+        "truck-medical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "angle-double-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "angle-double-down",
+        "angles-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "angle-double-left",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "angle-double-left",
+        "angles-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "angle-double-right",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "angle-double-right",
+        "angles-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "angle-double-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "angle-double-up",
+        "angles-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "angry",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "angry",
+        "face-angry"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "apple-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "apple-alt",
+        "apple-whole"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "archive",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "archive",
+        "box-archive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "area-chart",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "area-chart",
+        "chart-area"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-alt-circle-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-alt-circle-down",
+        "circle-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-alt-circle-left",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-alt-circle-left",
+        "circle-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-alt-circle-right",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-alt-circle-right",
+        "circle-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-alt-circle-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-alt-circle-up",
+        "circle-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-circle-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-circle-down",
+        "circle-arrow-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-circle-left",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-circle-left",
+        "circle-arrow-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-circle-right",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-circle-right",
+        "circle-arrow-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-circle-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-circle-up",
+        "circle-arrow-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-down-long",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-down-long",
+        "long-arrow-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-left-long",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-left-long",
+        "long-arrow-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-pointer",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-pointer",
+        "mouse-pointer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-right-arrow-left",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-right-arrow-left",
+        "exchange"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-right-from-bracket",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-right-from-bracket",
+        "sign-out"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-right-from-file",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-right-from-file",
+        "file-export"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-right-long",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-right-long",
+        "long-arrow-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-right-to-bracket",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-right-to-bracket",
+        "sign-in"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-right-to-file",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-right-to-file",
+        "file-import"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-turn-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-turn-down",
+        "level-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-turn-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-turn-up",
+        "level-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-up-1-9",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-up-1-9",
+        "sort-numeric-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-up-9-1",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-up-9-1",
+        "sort-numeric-up-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-up-a-z",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-up-a-z",
+        "sort-alpha-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-up-long",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-up-long",
+        "long-arrow-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-up-right-from-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-up-right-from-square",
+        "external-link"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-up-short-wide",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-up-short-wide",
+        "sort-amount-up-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-up-wide-short",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-up-wide-short",
+        "sort-amount-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrow-up-z-a",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrow-up-z-a",
+        "sort-alpha-up-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrows",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrows",
+        "arrows-up-down-left-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrows-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrows-alt",
+        "up-down-left-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrows-alt-h",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrows-alt-h",
+        "left-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrows-alt-v",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrows-alt-v",
+        "up-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrows-h",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrows-h",
+        "arrows-left-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "arrows-up-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "arrows-up-down",
+        "arrows-v"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "assistive-listening-systems",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "assistive-listening-systems",
+        "ear-listen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "atlas",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "atlas",
+        "book-atlas"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "automobile",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "automobile",
+        "car"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "baby-carriage",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "baby-carriage",
+        "carriage-baby"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "backspace",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "backspace",
+        "delete-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "backward-fast",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "backward-fast",
+        "fast-backward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "backward-step",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "backward-step",
+        "step-backward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bag-shopping",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bag-shopping",
+        "shopping-bag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bahai",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bahai",
+        "haykal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "balance-scale",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "balance-scale",
+        "scale-balanced"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "balance-scale-left",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "balance-scale-left",
+        "scale-unbalanced"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "balance-scale-right",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "balance-scale-right",
+        "scale-unbalanced-flip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "ban",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ban",
+        "cancel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "ban-smoking",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ban-smoking",
+        "smoking-ban"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "band-aid",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "band-aid",
+        "bandage"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bar-chart",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bar-chart",
+        "chart-bar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bars",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bars",
+        "navicon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bars-progress",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bars-progress",
+        "tasks-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "baseball",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "baseball",
+        "baseball-ball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "basket-shopping",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "basket-shopping",
+        "shopping-basket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "basketball",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "basketball",
+        "basketball-ball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bath",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bath",
+        "bathtub"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "battery-0",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "battery-0",
+        "battery-empty"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "battery-2",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "battery-2",
+        "battery-quarter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "battery-3",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "battery-3",
+        "battery-half"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "battery-4",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "battery-4",
+        "battery-three-quarters"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "battery-car",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "battery-car",
+        "car-battery"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bed-pulse",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bed-pulse",
+        "procedures"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "beer",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "beer",
+        "beer-mug-empty"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bell-concierge",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bell-concierge",
+        "concierge-bell"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bible",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bible",
+        "book-bible"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "biking",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "biking",
+        "person-biking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "blackboard",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "blackboard",
+        "chalkboard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "blind",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "blind",
+        "person-walking-with-cane"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bolt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bolt",
+        "zap"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "book-dead",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "book-dead",
+        "book-skull"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "book-journal-whills",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "book-journal-whills",
+        "journal-whills"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "book-open-reader",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "book-open-reader",
+        "book-reader"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "book-quran",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "book-quran",
+        "quran"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "book-tanakh",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "book-tanakh",
+        "tanakh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "border-style",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "border-style",
+        "border-top-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "briefcase-clock",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "briefcase-clock",
+        "business-time"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "broadcast-tower",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "broadcast-tower",
+        "tower-broadcast"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "burger",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "burger",
+        "hamburger"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "burn",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "burn",
+        "fire-flame-simple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "bus-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "bus-alt",
+        "bus-simple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cab",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cab",
+        "taxi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cable-car",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cable-car",
+        "tram"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "calendar-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "calendar-alt",
+        "calendar-days"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "calendar-times",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "calendar-times",
+        "calendar-xmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "camera",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "camera",
+        "camera-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "car-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "car-alt",
+        "car-rear"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "car-burst",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "car-burst",
+        "car-crash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "caret-square-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "caret-square-down",
+        "square-caret-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "caret-square-left",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "caret-square-left",
+        "square-caret-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "caret-square-right",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "caret-square-right",
+        "square-caret-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "caret-square-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "caret-square-up",
+        "square-caret-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cart-flatbed",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cart-flatbed",
+        "dolly-flatbed"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cart-flatbed-suitcase",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cart-flatbed-suitcase",
+        "luggage-cart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cart-shopping",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cart-shopping",
+        "shopping-cart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "chain",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "chain",
+        "link"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "chalkboard-teacher",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "chalkboard-teacher",
+        "chalkboard-user"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "champagne-glasses",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "champagne-glasses",
+        "glass-cheers"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "chart-line",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "chart-line",
+        "line-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "chart-pie",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "chart-pie",
+        "pie-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "check-circle",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "check-circle",
+        "circle-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "check-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "check-square",
+        "square-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "check-to-slot",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "check-to-slot",
+        "vote-yea"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "chevron-circle-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "chevron-circle-down",
+        "circle-chevron-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "chevron-circle-left",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "chevron-circle-left",
+        "circle-chevron-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "chevron-circle-right",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "chevron-circle-right",
+        "circle-chevron-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "chevron-circle-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "chevron-circle-up",
+        "circle-chevron-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "child-combatant",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "child-combatant",
+        "child-rifle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-dollar-to-slot",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-dollar-to-slot",
+        "donate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-dot",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-dot",
+        "dot-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-exclamation",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-exclamation",
+        "exclamation-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-h",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-h",
+        "hospital-symbol"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-info",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-info",
+        "info-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-minus",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-minus",
+        "minus-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-pause",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-pause",
+        "pause-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-play",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-play",
+        "play-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-plus",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-plus",
+        "plus-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-question",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-question",
+        "question-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-radiation",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-radiation",
+        "radiation-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-stop",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-stop",
+        "stop-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "circle-user",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "circle-user",
+        "user-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "clinic-medical",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "clinic-medical",
+        "house-chimney-medical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "clock",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "clock",
+        "clock-four"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "clock-rotate-left",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "clock-rotate-left",
+        "history"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cloud-bolt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cloud-bolt",
+        "thunderstorm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cocktail",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cocktail",
+        "martini-glass-citrus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "coffee",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "coffee",
+        "mug-saucer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cog",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cog",
+        "gear"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cogs",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cogs",
+        "gears"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "columns",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "columns",
+        "table-columns"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "comment-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "comment-alt",
+        "message"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "comment-dots",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "comment-dots",
+        "commenting"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "comment-sms",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "comment-sms",
+        "sms"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "compass-drafting",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "compass-drafting",
+        "drafting-compass"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "compress-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "compress-alt",
+        "down-left-and-up-right-to-center"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "compress-arrows-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "compress-arrows-alt",
+        "minimize"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "computer-mouse",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "computer-mouse",
+        "mouse"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "credit-card",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "credit-card",
+        "credit-card-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "crop-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "crop-alt",
+        "crop-simple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cut",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cut",
+        "scissors"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "cutlery",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "cutlery",
+        "utensils"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "dedent",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "dedent",
+        "outdent"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "desktop",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "desktop",
+        "desktop-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "diagnoses",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "diagnoses",
+        "person-dots-from-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "diagram-project",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "diagram-project",
+        "project-diagram"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "diamond-turn-right",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "diamond-turn-right",
+        "directions"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "digging",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "digging",
+        "person-digging"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "digital-tachograph",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "digital-tachograph",
+        "tachograph-digital"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "dizzy",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "dizzy",
+        "face-dizzy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "dolly",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "dolly",
+        "dolly-box"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "down-long",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "down-long",
+        "long-arrow-alt-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "draw-polygon",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "draw-polygon",
+        "vector-polygon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "drivers-license",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "drivers-license",
+        "id-card"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "droplet",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "droplet",
+        "tint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "droplet-slash",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "droplet-slash",
+        "tint-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "earth-africa",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "earth-africa",
+        "globe-africa"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "earth-asia",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "earth-asia",
+        "globe-asia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "earth-europe",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "earth-europe",
+        "globe-europe"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "earth-oceania",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "earth-oceania",
+        "globe-oceania"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "edit",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "edit",
+        "pen-to-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "ellipsis",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ellipsis",
+        "ellipsis-h"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "ellipsis-v",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ellipsis-v",
+        "ellipsis-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "envelope-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "envelope-square",
+        "square-envelope"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "envelopes-bulk",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "envelopes-bulk",
+        "mail-bulk"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "exchange-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "exchange-alt",
+        "right-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "expand-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "expand-alt",
+        "up-right-and-down-left-from-center"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "expand-arrows-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "expand-arrows-alt",
+        "maximize"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "external-link-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "external-link-alt",
+        "up-right-from-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "external-link-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "external-link-square",
+        "square-arrow-up-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "external-link-square-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "external-link-square-alt",
+        "square-up-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "eye-low-vision",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "eye-low-vision",
+        "low-vision"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-flushed",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-flushed",
+        "flushed"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-frown",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-frown",
+        "frown"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-frown-open",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-frown-open",
+        "frown-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grimace",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grimace",
+        "grimace"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin",
+        "grin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-beam",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-beam",
+        "grin-beam"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-beam-sweat",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-beam-sweat",
+        "grin-beam-sweat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-hearts",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-hearts",
+        "grin-hearts"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-squint",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-squint",
+        "grin-squint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-squint-tears",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-squint-tears",
+        "grin-squint-tears"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-stars",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-stars",
+        "grin-stars"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-tears",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-tears",
+        "grin-tears"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-tongue",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-tongue",
+        "grin-tongue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-tongue-squint",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-tongue-squint",
+        "grin-tongue-squint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-tongue-wink",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-tongue-wink",
+        "grin-tongue-wink"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-wide",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-wide",
+        "grin-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-grin-wink",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-grin-wink",
+        "grin-wink"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-kiss",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-kiss",
+        "kiss"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-kiss-beam",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-kiss-beam",
+        "kiss-beam"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-kiss-wink-heart",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-kiss-wink-heart",
+        "kiss-wink-heart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-laugh",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-laugh",
+        "laugh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-laugh-beam",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-laugh-beam",
+        "laugh-beam"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-laugh-squint",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-laugh-squint",
+        "laugh-squint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-laugh-wink",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-laugh-wink",
+        "laugh-wink"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-meh",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-meh",
+        "meh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-meh-blank",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-meh-blank",
+        "meh-blank"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-rolling-eyes",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-rolling-eyes",
+        "meh-rolling-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-sad-cry",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-sad-cry",
+        "sad-cry"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-sad-tear",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-sad-tear",
+        "sad-tear"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-smile",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-smile",
+        "smile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-smile-beam",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-smile-beam",
+        "smile-beam"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-smile-wink",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-smile-wink",
+        "smile-wink"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-surprise",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-surprise",
+        "surprise"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "face-tired",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "face-tired",
+        "tired"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "fast-forward",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "fast-forward",
+        "forward-fast"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "feather-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "feather-alt",
+        "feather-pointed"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "feed",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "feed",
+        "rss"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "female",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "female",
+        "person-dress"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "fighter-jet",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "fighter-jet",
+        "jet-fighter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "file-archive",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "file-archive",
+        "file-zipper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "file-arrow-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "file-arrow-down",
+        "file-download"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "file-arrow-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "file-arrow-up",
+        "file-upload"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "file-clipboard",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "file-clipboard",
+        "paste"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "file-edit",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "file-edit",
+        "file-pen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "file-medical-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "file-medical-alt",
+        "file-waveform"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "filter-circle-dollar",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "filter-circle-dollar",
+        "funnel-dollar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "fire-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "fire-alt",
+        "fire-flame-curved"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "first-aid",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "first-aid",
+        "kit-medical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "fist-raised",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "fist-raised",
+        "hand-fist"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "floppy-disk",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "floppy-disk",
+        "save"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "folder",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "folder",
+        "folder-blank"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "font-awesome",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "font-awesome",
+        "font-awesome-flag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "football",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "football",
+        "football-ball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "forward-step",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "forward-step",
+        "step-forward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "gavel",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "gavel",
+        "legal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "glass-martini",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "glass-martini",
+        "martini-glass-empty"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "glass-martini-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "glass-martini-alt",
+        "martini-glass"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "glass-whiskey",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "glass-whiskey",
+        "whiskey-glass"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "golf-ball",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "golf-ball",
+        "golf-ball-tee"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "graduation-cap",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "graduation-cap",
+        "mortar-board"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "grid-vertical",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "grid-vertical",
+        "grip-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "h-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "h-square",
+        "square-h"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hand",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hand",
+        "hand-paper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hand-back-fist",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hand-back-fist",
+        "hand-rock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hand-holding-dollar",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hand-holding-dollar",
+        "hand-holding-usd"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hand-holding-droplet",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hand-holding-droplet",
+        "hand-holding-water"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hands-bubbles",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hands-bubbles",
+        "hands-wash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hands-helping",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hands-helping",
+        "handshake-angle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hands-praying",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hands-praying",
+        "praying-hands"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hard-drive",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hard-drive",
+        "hdd"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "header",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "header",
+        "heading"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "heart-broken",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "heart-broken",
+        "heart-crack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "heart-music-camera-bolt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "heart-music-camera-bolt",
+        "icons"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "heart-pulse",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "heart-pulse",
+        "heartbeat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "heptagon",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "heptagon",
+        "septagon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hiking",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hiking",
+        "person-hiking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "home-lg",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "home-lg",
+        "house-chimney"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "home-user",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "home-user",
+        "house-user"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hot-tub",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hot-tub",
+        "hot-tub-person"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hourglass",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hourglass",
+        "hourglass-empty"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hourglass-1",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hourglass-1",
+        "hourglass-start"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hourglass-2",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hourglass-2",
+        "hourglass-half"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hourglass-3",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hourglass-3",
+        "hourglass-end"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "house-chimney-crack",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "house-chimney-crack",
+        "house-damage"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "house-laptop",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "house-laptop",
+        "laptop-house"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "hryvnia",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "hryvnia",
+        "hryvnia-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "id-card-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "id-card-alt",
+        "id-card-clip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "image-portrait",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "image-portrait",
+        "portrait"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "landmark-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "landmark-alt",
+        "landmark-dome"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "left-long",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "left-long",
+        "long-arrow-alt-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "level-down-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "level-down-alt",
+        "turn-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "level-up-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "level-up-alt",
+        "turn-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "list",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "list",
+        "list-squares"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "list-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "list-alt",
+        "rectangle-list"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "list-check",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "list-check",
+        "tasks"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "list-dots",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "list-dots",
+        "list-ul"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "location",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "location",
+        "location-crosshairs"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "location-dot",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "location-dot",
+        "map-marker-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "location-pin",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "location-pin",
+        "map-marker"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "long-arrow-alt-right",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "long-arrow-alt-right",
+        "right-long"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "long-arrow-alt-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "long-arrow-alt-up",
+        "up-long"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "magic",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "magic",
+        "wand-magic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "magic-wand-sparkles",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "magic-wand-sparkles",
+        "wand-magic-sparkles"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "magnifying-glass",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "magnifying-glass",
+        "search"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "magnifying-glass-dollar",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "magnifying-glass-dollar",
+        "search-dollar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "magnifying-glass-location",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "magnifying-glass-location",
+        "search-location"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "magnifying-glass-minus",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "magnifying-glass-minus",
+        "search-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "magnifying-glass-plus",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "magnifying-glass-plus",
+        "search-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "mail-forward",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "mail-forward",
+        "share"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "mail-reply",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "mail-reply",
+        "reply"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "mail-reply-all",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "mail-reply-all",
+        "reply-all"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "male",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "male",
+        "person"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "map-location",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "map-location",
+        "map-marked"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "map-location-dot",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "map-location-dot",
+        "map-marked-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "map-signs",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "map-signs",
+        "signs-post"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "mars-stroke-h",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "mars-stroke-h",
+        "mars-stroke-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "mars-stroke-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "mars-stroke-up",
+        "mars-stroke-v"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "masks-theater",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "masks-theater",
+        "theater-masks"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "medkit",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "medkit",
+        "suitcase-medical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "microphone-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "microphone-alt",
+        "microphone-lines"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "microphone-alt-slash",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "microphone-alt-slash",
+        "microphone-lines-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "minus",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "minus",
+        "subtract"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "minus-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "minus-square",
+        "square-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "mobile-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "mobile-alt",
+        "mobile-screen-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "mobile-android-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "mobile-android-alt",
+        "mobile-screen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "money-bill-1",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "money-bill-1",
+        "money-bill-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "money-bill-1-wave",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "money-bill-1-wave",
+        "money-bill-wave-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "money-check-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "money-check-alt",
+        "money-check-dollar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "note-sticky",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "note-sticky",
+        "sticky-note"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "paint-brush",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "paint-brush",
+        "paintbrush"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "parking",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "parking",
+        "square-parking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "pastafarianism",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "pastafarianism",
+        "spaghetti-monster-flying"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "pen-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "pen-alt",
+        "pen-clip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "pen-ruler",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "pen-ruler",
+        "pencil-ruler"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "pencil",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "pencil",
+        "pencil-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "people-arrows",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "people-arrows",
+        "people-arrows-left-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "people-carry",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "people-carry",
+        "people-carry-box"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "percent",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "percent",
+        "percentage"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "person-praying",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "person-praying",
+        "pray"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "person-running",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "person-running",
+        "running"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "person-skating",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "person-skating",
+        "skating"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "person-skiing",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "person-skiing",
+        "skiing"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "person-skiing-nordic",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "person-skiing-nordic",
+        "skiing-nordic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "person-snowboarding",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "person-snowboarding",
+        "snowboarding"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "person-swimming",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "person-swimming",
+        "swimmer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "person-walking",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "person-walking",
+        "walking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "phone-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "phone-alt",
+        "phone-flip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "phone-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "phone-square",
+        "square-phone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "phone-square-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "phone-square-alt",
+        "square-phone-flip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "phone-volume",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "phone-volume",
+        "volume-control-phone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "photo-film",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "photo-film",
+        "photo-video"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "plus-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "plus-square",
+        "square-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "poll",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "poll",
+        "square-poll-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "poll-h",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "poll-h",
+        "square-poll-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "poo-bolt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "poo-bolt",
+        "poo-storm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "prescription-bottle-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "prescription-bottle-alt",
+        "prescription-bottle-medical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "quote-left",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "quote-left",
+        "quote-left-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "quote-right",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "quote-right",
+        "quote-right-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "random",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "random",
+        "shuffle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "remove-format",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "remove-format",
+        "text-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "right-from-bracket",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "right-from-bracket",
+        "sign-out-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "right-to-bracket",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "right-to-bracket",
+        "sign-in-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "rotate",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "rotate",
+        "sync-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "rss-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "rss-square",
+        "square-rss"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "rupee",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "rupee",
+        "rupee-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "screwdriver-wrench",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "screwdriver-wrench",
+        "tools"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "scroll-torah",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "scroll-torah",
+        "torah"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "seedling",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "seedling",
+        "sprout"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "shapes",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "shapes",
+        "triangle-circle-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "share-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "share-alt",
+        "share-nodes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "share-alt-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "share-alt-square",
+        "square-share-nodes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "share-from-square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "share-from-square",
+        "share-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "shield",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "shield",
+        "shield-blank"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "shield-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "shield-alt",
+        "shield-halved"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "shipping-fast",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "shipping-fast",
+        "truck-fast"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "shop",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "shop",
+        "store-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "shop-slash",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "shop-slash",
+        "store-alt-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "shuttle-space",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "shuttle-space",
+        "space-shuttle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "shuttle-van",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "shuttle-van",
+        "van-shuttle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "sign",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "sign",
+        "sign-hanging"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "sliders",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "sliders",
+        "sliders-h"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "sort",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "sort",
+        "unsorted"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "sort-asc",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "sort-asc",
+        "sort-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "sort-desc",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "sort-desc",
+        "sort-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "spoon",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "spoon",
+        "utensil-spoon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "square",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "square",
+        "stop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "square-root-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "square-root-alt",
+        "square-root-variable"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "star-half-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "star-half-alt",
+        "star-half-stroke"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "subway",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "subway",
+        "train-subway"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "table-cells",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "table-cells",
+        "th"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "table-cells-large",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "table-cells-large",
+        "th-large"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "table-list",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "table-list",
+        "th-list"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "tablet",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "tablet",
+        "tablet-android"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "tablet-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "tablet-alt",
+        "tablet-screen-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "teletype",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "teletype",
+        "tty"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "temperature-arrow-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "temperature-arrow-down",
+        "temperature-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "temperature-arrow-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "temperature-arrow-up",
+        "temperature-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "tenge",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "tenge",
+        "tenge-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "thumb-tack",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "thumb-tack",
+        "thumbtack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "thumb-tack-slash",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "thumb-tack-slash",
+        "thumbtack-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "ticket-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "ticket-alt",
+        "ticket-simple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "transgender",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "transgender",
+        "transgender-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "trash-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "trash-alt",
+        "trash-can"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "trash-arrow-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "trash-arrow-up",
+        "trash-restore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "trash-can-arrow-up",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "trash-can-arrow-up",
+        "trash-restore-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "truck-loading",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "truck-loading",
+        "truck-ramp-box"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "unlock-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "unlock-alt",
+        "unlock-keyhole"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "user-cog",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "user-cog",
+        "user-gear"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "user-doctor",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "user-doctor",
+        "user-md"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "user-edit",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "user-edit",
+        "user-pen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "user-friends",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "user-friends",
+        "user-group"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "user-times",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "user-times",
+        "user-xmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "users-cog",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "users-cog",
+        "users-gear"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "video",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "video",
+        "video-camera"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "volleyball",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "volleyball",
+        "volleyball-ball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "volume",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "volume",
+        "volume-medium"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "volume-down",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "volume-down",
+        "volume-low"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "volume-high",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "volume-high",
+        "volume-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "weight",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "weight",
+        "weight-scale"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "wheat-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "wheat-alt",
+        "wheat-awn"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "wheelchair-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "wheelchair-alt",
+        "wheelchair-move"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Solid",
+      "glyphName": "wine-glass-alt",
+      "prefix": "fa7-solid",
+      "sampleIcons": [
+        "wine-glass-alt",
+        "wine-glass-empty"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Fa7Solid",
+      "headBbox": "-5..1004 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "fa7-solid",
+      "reasons": [
+        "head.xMin=-5",
+        "head.xMax=1004",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "fa7-solid",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Fa7Solid",
+      "glyphCount": 1999,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1004,
+        "xMin": -5,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

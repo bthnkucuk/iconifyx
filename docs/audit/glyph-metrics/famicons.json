@@ -1,0 +1,576 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Famicons",
+      "glyphName": "radio-button-off",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "radio-button-off",
+        "radio-button-off-outline",
+        "radio-button-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Famicons",
+      "glyphName": "radio-button-on",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "radio-button-on",
+        "radio-button-on-outline",
+        "radio-button-on-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "add",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "add",
+        "add-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "alert",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "alert",
+        "alert-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "arrow-back",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "arrow-back",
+        "arrow-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "arrow-down",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "arrow-down",
+        "arrow-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "arrow-forward",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "arrow-forward",
+        "arrow-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "arrow-up",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "arrow-up",
+        "arrow-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "at",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "at",
+        "at-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "attach",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "attach",
+        "attach-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "basketball",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "basketball",
+        "basketball-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "battery-charging",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "battery-charging",
+        "battery-charging-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "battery-dead",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "battery-dead",
+        "battery-dead-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "battery-full",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "battery-full",
+        "battery-full-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "battery-half",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "battery-half",
+        "battery-half-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "caret-back",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "caret-back",
+        "caret-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "caret-down",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "caret-down",
+        "caret-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "caret-forward",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "caret-forward",
+        "caret-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "caret-up",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "caret-up",
+        "caret-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "checkmark",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "checkmark",
+        "checkmark-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "checkmark-done",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "checkmark-done",
+        "checkmark-done-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "chevron-back",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "chevron-back",
+        "chevron-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "chevron-down",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "chevron-down",
+        "chevron-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "chevron-forward",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "chevron-forward",
+        "chevron-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "chevron-up",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "chevron-up",
+        "chevron-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "contract",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "contract",
+        "contract-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "ellipse",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "ellipse",
+        "ellipse-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "ellipsis-horizontal",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "ellipsis-horizontal",
+        "ellipsis-horizontal-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "ellipsis-horizontal-circle",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "ellipsis-horizontal-circle",
+        "ellipsis-horizontal-circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "ellipsis-vertical",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "ellipsis-vertical",
+        "ellipsis-vertical-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "ellipsis-vertical-circle",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "ellipsis-vertical-circle",
+        "ellipsis-vertical-circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "expand",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "expand",
+        "expand-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "heart-half",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "heart-half",
+        "heart-half-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "help",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "help",
+        "help-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "information",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "information",
+        "information-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "move",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "move",
+        "move-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "refresh",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "refresh",
+        "refresh-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "reload",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "reload",
+        "reload-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "remove",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "remove",
+        "remove-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "repeat",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "repeat",
+        "repeat-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "resize",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "resize",
+        "resize-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "return-down-back",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "return-down-back",
+        "return-down-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "return-down-forward",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "return-down-forward",
+        "return-down-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "return-up-back",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "return-up-back",
+        "return-up-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "return-up-forward",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "return-up-forward",
+        "return-up-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "shuffle",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "shuffle",
+        "shuffle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "star-half",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "star-half",
+        "star-half-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "swap-horizontal",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "swap-horizontal",
+        "swap-horizontal-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "swap-vertical",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "swap-vertical",
+        "swap-vertical-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "sync",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "sync",
+        "sync-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "trending-down",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "trending-down",
+        "trending-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Famicons",
+      "glyphName": "trending-up",
+      "prefix": "famicons",
+      "sampleIcons": [
+        "trending-up",
+        "trending-up-outline"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Famicons",
+      "headBbox": "-27..1019 / -6..1010",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 6,
+      "prefix": "famicons",
+      "reasons": [
+        "head.xMin=-27",
+        "head.xMax=1019",
+        "head.yMin=-6",
+        "head.yMax=1010",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=6"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "famicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Famicons",
+      "glyphCount": 1339,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1019,
+        "xMin": -27,
+        "yMax": 1010,
+        "yMin": -6
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 6
+      }
+    }
+  ]
+}

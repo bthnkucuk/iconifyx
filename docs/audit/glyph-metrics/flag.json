@@ -1,0 +1,4751 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 49,
+      "font": "Flag",
+      "glyphName": "al-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "al-1x1",
+        "bd-1x1",
+        "bg-1x1",
+        "bh-1x1"
+      ]
+    },
+    {
+      "codepointCount": 44,
+      "font": "Flag",
+      "glyphName": "al-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "al-4x3",
+        "bd-4x3",
+        "bg-4x3",
+        "bh-4x3"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Flag",
+      "glyphName": "be-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "be-4x3",
+        "fr-4x3",
+        "gn-4x3",
+        "ro-4x3"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Flag",
+      "glyphName": "id-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "id-4x3",
+        "mc-4x3",
+        "pl-4x3",
+        "ua-4x3"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "FlagSecondary",
+      "glyphName": "id-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "id-4x3",
+        "mc-4x3",
+        "pl-4x3",
+        "ua-4x3"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Flag",
+      "glyphName": "be-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "be-1x1",
+        "gn-1x1",
+        "ro-1x1"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Flag",
+      "glyphName": "eg-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "eg-1x1",
+        "hn-1x1",
+        "nl-1x1"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Flag",
+      "glyphName": "eg-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "eg-4x3",
+        "hn-4x3",
+        "nl-4x3"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "FlagSecondary",
+      "glyphName": "id-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "id-1x1",
+        "mc-1x1",
+        "pl-1x1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "au-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "au-1x1",
+        "hm-1x1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "au-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "au-4x3",
+        "hm-4x3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "dg-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "dg-1x1",
+        "io-1x1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "dg-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "dg-4x3",
+        "io-4x3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "ea-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "ea-1x1",
+        "es-1x1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "ea-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "ea-4x3",
+        "es-4x3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "id-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "id-1x1",
+        "mc-1x1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "no-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "no-4x3",
+        "sj-4x3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "sh-ta-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "sh-ta-1x1",
+        "ta-1x1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "sh-ta-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "sh-ta-4x3",
+        "ta-4x3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "um-1x1",
+      "prefix": "flag",
+      "sampleIcons": [
+        "um-1x1",
+        "us-1x1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flag",
+      "glyphName": "um-4x3",
+      "prefix": "flag",
+      "sampleIcons": [
+        "um-4x3",
+        "us-4x3"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57715,
+      "icon": "qa-4x3",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 803,
+      "secondary": {
+        "xMax": 531,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57485,
+      "icon": "es-ga-4x3",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 623,
+      "secondary": {
+        "xMax": 711,
+        "xMin": 0,
+        "yMax": 627,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57714,
+      "icon": "qa-1x1",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 576,
+      "secondary": {
+        "xMax": 424,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57484,
+      "icon": "es-ga-1x1",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 456,
+      "secondary": {
+        "xMax": 544,
+        "xMin": 0,
+        "yMax": 627,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57691,
+      "icon": "pe-4x3",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 445,
+      "secondary": {
+        "xMax": 889,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57779,
+      "icon": "tn-4x3",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 419,
+      "secondary": {
+        "xMax": 915,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57381,
+      "icon": "bd-4x3",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 411,
+      "secondary": {
+        "xMax": 923,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57668,
+      "icon": "nf-4x3",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 929,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 405,
+      "secondary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57582,
+      "icon": "kg-4x3",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 360,
+      "secondary": {
+        "xMax": 974,
+        "xMin": 0,
+        "yMax": 807,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57690,
+      "icon": "pe-1x1",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 333,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57411,
+      "icon": "ca-4x3",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1021,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 313,
+      "secondary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57781,
+      "icon": "tr-4x3",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 294,
+      "secondary": {
+        "xMax": 1040,
+        "xMin": 0,
+        "yMax": 734,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57778,
+      "icon": "tn-1x1",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 265,
+      "secondary": {
+        "xMax": 735,
+        "xMin": 0,
+        "yMax": 740,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57380,
+      "icon": "bd-1x1",
+      "prefix": "flag",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flag",
+      "score": 207,
+      "secondary": {
+        "xMax": 793,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Flag",
+      "headBbox": "-1..1334 / -5..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 5,
+      "prefix": "flag",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1334",
+        "head.yMin=-5",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=5"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "FlagSecondary",
+      "headBbox": "0..1334 / -1..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 1,
+      "prefix": "flag",
+      "reasons": [
+        "head.xMax=1334",
+        "head.yMin=-1",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1333,
+      "codepoint": 57345,
+      "font": "Flag",
+      "name": "ad-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57347,
+      "font": "Flag",
+      "name": "ae-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57349,
+      "font": "Flag",
+      "name": "af-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57351,
+      "font": "Flag",
+      "name": "ag-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57353,
+      "font": "Flag",
+      "name": "ai-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57355,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57357,
+      "font": "Flag",
+      "name": "ao-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57359,
+      "font": "Flag",
+      "name": "aq-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57361,
+      "font": "Flag",
+      "name": "ar-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57363,
+      "font": "Flag",
+      "name": "as-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57365,
+      "font": "Flag",
+      "name": "asean-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57367,
+      "font": "Flag",
+      "name": "at-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57369,
+      "font": "Flag",
+      "name": "au-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57371,
+      "font": "Flag",
+      "name": "aw-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57373,
+      "font": "Flag",
+      "name": "ax-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57375,
+      "font": "Flag",
+      "name": "az-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57377,
+      "font": "Flag",
+      "name": "ba-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57379,
+      "font": "Flag",
+      "name": "bb-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57381,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57383,
+      "font": "Flag",
+      "name": "be-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57385,
+      "font": "Flag",
+      "name": "bf-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57387,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57389,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57391,
+      "font": "Flag",
+      "name": "bi-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57393,
+      "font": "Flag",
+      "name": "bj-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57395,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57397,
+      "font": "Flag",
+      "name": "bm-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57399,
+      "font": "Flag",
+      "name": "bs-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57401,
+      "font": "Flag",
+      "name": "bt-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57403,
+      "font": "Flag",
+      "name": "bv-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57405,
+      "font": "Flag",
+      "name": "bw-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57407,
+      "font": "Flag",
+      "name": "by-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57409,
+      "font": "Flag",
+      "name": "bz-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57411,
+      "font": "Flag",
+      "name": "ca-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57413,
+      "font": "Flag",
+      "name": "cc-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57415,
+      "font": "Flag",
+      "name": "cd-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57417,
+      "font": "Flag",
+      "name": "cefta-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57419,
+      "font": "Flag",
+      "name": "cf-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57421,
+      "font": "Flag",
+      "name": "cg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57423,
+      "font": "Flag",
+      "name": "ch-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57425,
+      "font": "Flag",
+      "name": "ci-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57427,
+      "font": "Flag",
+      "name": "ck-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57429,
+      "font": "Flag",
+      "name": "cl-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57431,
+      "font": "Flag",
+      "name": "cm-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57433,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57435,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57437,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57439,
+      "font": "Flag",
+      "name": "cr-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57441,
+      "font": "Flag",
+      "name": "cu-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57443,
+      "font": "Flag",
+      "name": "cv-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57445,
+      "font": "Flag",
+      "name": "cw-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57447,
+      "font": "Flag",
+      "name": "cx-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57449,
+      "font": "Flag",
+      "name": "cy-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57451,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57453,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57455,
+      "font": "Flag",
+      "name": "dg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57457,
+      "font": "Flag",
+      "name": "dj-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57459,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57461,
+      "font": "Flag",
+      "name": "dm-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57463,
+      "font": "Flag",
+      "name": "do-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57465,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57467,
+      "font": "Flag",
+      "name": "ea-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57469,
+      "font": "Flag",
+      "name": "eac-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57471,
+      "font": "Flag",
+      "name": "ec-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57473,
+      "font": "Flag",
+      "name": "ee-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57475,
+      "font": "Flag",
+      "name": "eg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57477,
+      "font": "Flag",
+      "name": "eh-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57479,
+      "font": "Flag",
+      "name": "er-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57481,
+      "font": "Flag",
+      "name": "ea-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57483,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57485,
+      "font": "Flag",
+      "name": "es-ga-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57487,
+      "font": "Flag",
+      "name": "es-pv-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57489,
+      "font": "Flag",
+      "name": "et-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57491,
+      "font": "Flag",
+      "name": "eu-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57493,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57495,
+      "font": "Flag",
+      "name": "fj-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57497,
+      "font": "Flag",
+      "name": "fk-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57501,
+      "font": "Flag",
+      "name": "fo-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57503,
+      "font": "Flag",
+      "name": "be-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57505,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57507,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57509,
+      "font": "Flag",
+      "name": "gb-nir-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57511,
+      "font": "Flag",
+      "name": "gb-sct-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57513,
+      "font": "Flag",
+      "name": "gb-wls-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57515,
+      "font": "Flag",
+      "name": "gd-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57517,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57519,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57521,
+      "font": "Flag",
+      "name": "gg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57523,
+      "font": "Flag",
+      "name": "gh-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57525,
+      "font": "Flag",
+      "name": "gi-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57527,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57529,
+      "font": "Flag",
+      "name": "gm-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57531,
+      "font": "Flag",
+      "name": "be-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57533,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57535,
+      "font": "Flag",
+      "name": "gr-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57537,
+      "font": "Flag",
+      "name": "gs-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57539,
+      "font": "Flag",
+      "name": "gu-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57541,
+      "font": "Flag",
+      "name": "gw-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57543,
+      "font": "Flag",
+      "name": "hk-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57545,
+      "font": "Flag",
+      "name": "au-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57547,
+      "font": "Flag",
+      "name": "eg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57550,
+      "font": "Flag",
+      "name": "ic-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57552,
+      "font": "Flag",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57554,
+      "font": "Flag",
+      "name": "ie-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57556,
+      "font": "Flag",
+      "name": "il-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57558,
+      "font": "Flag",
+      "name": "im-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57560,
+      "font": "Flag",
+      "name": "in-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57562,
+      "font": "Flag",
+      "name": "dg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57564,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57566,
+      "font": "Flag",
+      "name": "ir-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57568,
+      "font": "Flag",
+      "name": "is-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57570,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57572,
+      "font": "Flag",
+      "name": "je-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57574,
+      "font": "Flag",
+      "name": "jm-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57576,
+      "font": "Flag",
+      "name": "jo-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57578,
+      "font": "Flag",
+      "name": "jp-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57580,
+      "font": "Flag",
+      "name": "ke-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57582,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57584,
+      "font": "Flag",
+      "name": "kh-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57586,
+      "font": "Flag",
+      "name": "ki-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57588,
+      "font": "Flag",
+      "name": "km-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57590,
+      "font": "Flag",
+      "name": "kn-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57592,
+      "font": "Flag",
+      "name": "kp-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57594,
+      "font": "Flag",
+      "name": "kr-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57596,
+      "font": "Flag",
+      "name": "kw-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57598,
+      "font": "Flag",
+      "name": "ky-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57600,
+      "font": "Flag",
+      "name": "kz-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57602,
+      "font": "Flag",
+      "name": "la-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57604,
+      "font": "Flag",
+      "name": "lb-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57606,
+      "font": "Flag",
+      "name": "lc-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57608,
+      "font": "Flag",
+      "name": "li-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57610,
+      "font": "Flag",
+      "name": "lk-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57612,
+      "font": "Flag",
+      "name": "lr-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57614,
+      "font": "Flag",
+      "name": "ls-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57616,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57617,
+      "font": "Flag",
+      "name": "lu-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57619,
+      "font": "Flag",
+      "name": "lv-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57621,
+      "font": "Flag",
+      "name": "ly-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57623,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57625,
+      "font": "Flag",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57627,
+      "font": "Flag",
+      "name": "md-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57629,
+      "font": "Flag",
+      "name": "me-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57631,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57633,
+      "font": "Flag",
+      "name": "mg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57635,
+      "font": "Flag",
+      "name": "mh-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57637,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57639,
+      "font": "Flag",
+      "name": "ml-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57641,
+      "font": "Flag",
+      "name": "mm-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57643,
+      "font": "Flag",
+      "name": "mn-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57645,
+      "font": "Flag",
+      "name": "mo-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57647,
+      "font": "Flag",
+      "name": "mp-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57649,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57651,
+      "font": "Flag",
+      "name": "mr-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57653,
+      "font": "Flag",
+      "name": "mt-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57655,
+      "font": "Flag",
+      "name": "mu-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57658,
+      "font": "Flag",
+      "name": "mx-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57660,
+      "font": "Flag",
+      "name": "my-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57662,
+      "font": "Flag",
+      "name": "mz-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57664,
+      "font": "Flag",
+      "name": "na-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57666,
+      "font": "Flag",
+      "name": "ne-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57668,
+      "font": "Flag",
+      "name": "nf-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57670,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57672,
+      "font": "Flag",
+      "name": "ni-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57674,
+      "font": "Flag",
+      "name": "eg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57675,
+      "font": "Flag",
+      "name": "no-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57677,
+      "font": "Flag",
+      "name": "np-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57679,
+      "font": "Flag",
+      "name": "nr-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57681,
+      "font": "Flag",
+      "name": "nu-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57683,
+      "font": "Flag",
+      "name": "nz-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57685,
+      "font": "Flag",
+      "name": "om-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57687,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57689,
+      "font": "Flag",
+      "name": "pc-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57691,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57693,
+      "font": "Flag",
+      "name": "pf-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57695,
+      "font": "Flag",
+      "name": "pg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57697,
+      "font": "Flag",
+      "name": "ph-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57699,
+      "font": "Flag",
+      "name": "pk-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57701,
+      "font": "Flag",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57703,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57705,
+      "font": "Flag",
+      "name": "pn-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57707,
+      "font": "Flag",
+      "name": "pr-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57709,
+      "font": "Flag",
+      "name": "pt-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57713,
+      "font": "Flag",
+      "name": "py-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57715,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57717,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57719,
+      "font": "Flag",
+      "name": "be-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57721,
+      "font": "Flag",
+      "name": "rs-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57723,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57725,
+      "font": "Flag",
+      "name": "sa-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57727,
+      "font": "Flag",
+      "name": "sb-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57729,
+      "font": "Flag",
+      "name": "sc-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57731,
+      "font": "Flag",
+      "name": "sd-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57733,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57735,
+      "font": "Flag",
+      "name": "sg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57737,
+      "font": "Flag",
+      "name": "sh-hl-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57739,
+      "font": "Flag",
+      "name": "sh-ta-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57741,
+      "font": "Flag",
+      "name": "si-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57743,
+      "font": "Flag",
+      "name": "no-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57745,
+      "font": "Flag",
+      "name": "sk-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57747,
+      "font": "Flag",
+      "name": "sl-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57749,
+      "font": "Flag",
+      "name": "sm-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57753,
+      "font": "Flag",
+      "name": "st-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57755,
+      "font": "Flag",
+      "name": "sv-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57757,
+      "font": "Flag",
+      "name": "sx-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57759,
+      "font": "Flag",
+      "name": "sy-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57761,
+      "font": "Flag",
+      "name": "sh-ta-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57762,
+      "font": "Flag",
+      "name": "tc-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57763,
+      "font": "Flag",
+      "name": "td-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57765,
+      "font": "Flag",
+      "name": "tf-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57767,
+      "font": "Flag",
+      "name": "tg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57769,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57771,
+      "font": "Flag",
+      "name": "tj-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57773,
+      "font": "Flag",
+      "name": "tk-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57775,
+      "font": "Flag",
+      "name": "tl-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57777,
+      "font": "Flag",
+      "name": "tm-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57779,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57781,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57783,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57785,
+      "font": "Flag",
+      "name": "tv-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57787,
+      "font": "Flag",
+      "name": "tw-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57789,
+      "font": "Flag",
+      "name": "tz-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57791,
+      "font": "Flag",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57793,
+      "font": "Flag",
+      "name": "ug-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57795,
+      "font": "Flag",
+      "name": "um-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57797,
+      "font": "Flag",
+      "name": "un-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57799,
+      "font": "Flag",
+      "name": "um-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57801,
+      "font": "Flag",
+      "name": "uy-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57803,
+      "font": "Flag",
+      "name": "uz-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57805,
+      "font": "Flag",
+      "name": "va-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57807,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57809,
+      "font": "Flag",
+      "name": "ve-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57811,
+      "font": "Flag",
+      "name": "vg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57813,
+      "font": "Flag",
+      "name": "vi-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57815,
+      "font": "Flag",
+      "name": "vn-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57817,
+      "font": "Flag",
+      "name": "vu-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57819,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57821,
+      "font": "Flag",
+      "name": "ws-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57823,
+      "font": "Flag",
+      "name": "xk-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57825,
+      "font": "Flag",
+      "name": "xx-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57827,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57829,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57831,
+      "font": "Flag",
+      "name": "za-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57833,
+      "font": "Flag",
+      "name": "zm-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57345,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ad-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57347,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ae-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57349,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "af-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57351,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ag-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57353,
+      "contentWidth": 1335,
+      "font": "Flag",
+      "name": "ai-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57355,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57357,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ao-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57359,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "aq-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57361,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ar-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57363,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "as-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57365,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "asean-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57367,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "at-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57369,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "au-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57373,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ax-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57375,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "az-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57377,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ba-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57379,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "bb-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57381,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57383,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "be-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57385,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "bf-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57387,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57389,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57391,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "bi-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57393,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "bj-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57395,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57397,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "bm-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57401,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "bt-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57403,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "bv-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57405,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "bw-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57407,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "by-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57409,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "bz-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57413,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cc-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57415,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cd-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57417,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cefta-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57419,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cf-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57421,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57423,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ch-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57425,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ci-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57427,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ck-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57429,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cl-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57433,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57435,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57437,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57439,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cr-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57441,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cu-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57443,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cv-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57445,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cw-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57447,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cx-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57449,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "cy-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57451,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57453,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57455,
+      "contentWidth": 1335,
+      "font": "Flag",
+      "name": "dg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57459,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57461,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "dm-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57463,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "do-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57465,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57467,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ea-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57469,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "eac-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57471,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ec-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57473,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ee-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57475,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "eg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57477,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "eh-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57479,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "er-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57481,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ea-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57483,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57485,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "es-ga-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57487,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "es-pv-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57489,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "et-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57491,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "eu-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57493,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57495,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "fj-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57497,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "fk-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57501,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "fo-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57503,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "be-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57505,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57507,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57509,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gb-nir-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57511,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gb-sct-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57513,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gb-wls-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57515,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gd-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57517,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57519,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57521,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57523,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gh-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57525,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gi-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57527,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57529,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gm-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57531,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "be-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57533,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57535,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gr-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57537,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gs-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57539,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gu-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57541,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "gw-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57543,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "hk-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57545,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "au-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57547,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "eg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57552,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57556,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "il-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57558,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "im-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57560,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "in-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57562,
+      "contentWidth": 1335,
+      "font": "Flag",
+      "name": "dg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57564,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57566,
+      "contentWidth": 1335,
+      "font": "Flag",
+      "name": "ir-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57568,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "is-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57570,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57572,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "je-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57574,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "jm-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57576,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "jo-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57580,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ke-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57582,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57584,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "kh-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57586,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ki-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57588,
+      "contentWidth": 1335,
+      "font": "Flag",
+      "name": "km-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57590,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "kn-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57592,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "kp-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57594,
+      "contentWidth": 1186,
+      "font": "Flag",
+      "name": "kr-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57596,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "kw-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57598,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ky-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57600,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "kz-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57602,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "la-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57604,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "lb-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57606,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "lc-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57608,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "li-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57610,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "lk-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57612,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "lr-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57614,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ls-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57616,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57617,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "lu-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57619,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "lv-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57621,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ly-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57623,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57625,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57627,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "md-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57629,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "me-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57631,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57633,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57635,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mh-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57637,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57639,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ml-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57641,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mm-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57643,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mn-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57645,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mo-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57647,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mp-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57649,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57651,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mr-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57653,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mt-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57655,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mu-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57658,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mx-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57660,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "my-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57662,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "mz-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57664,
+      "contentWidth": 1335,
+      "font": "Flag",
+      "name": "na-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57666,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ne-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57670,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57672,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ni-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57674,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "eg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57675,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "no-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57679,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "nr-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57681,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "nu-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57683,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "nz-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57685,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "om-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57687,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57689,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "pc-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57691,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57693,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "pf-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57695,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "pg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57697,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ph-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57699,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "pk-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57701,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57703,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57705,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "pn-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57707,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "pr-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57709,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "pt-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57713,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "py-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57715,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57717,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57719,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "be-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57721,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "rs-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57723,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57725,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sa-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57727,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sb-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57729,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sc-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57731,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sd-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57733,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57735,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57737,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sh-hl-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57739,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sh-ta-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57741,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "si-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57743,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "no-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57745,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sk-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57747,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sl-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57749,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sm-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57753,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "st-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57755,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sv-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57757,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sx-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57759,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sy-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57761,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "sh-ta-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57762,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tc-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57763,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "td-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57765,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tf-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57767,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57769,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57771,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tj-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57773,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tk-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57775,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tl-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57777,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tm-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57779,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57781,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57783,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57785,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tv-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57787,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tw-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57789,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "tz-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57791,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57793,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ug-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57795,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "um-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57797,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "un-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57799,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "um-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57801,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "uy-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57803,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "uz-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57805,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "va-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57807,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57809,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ve-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57811,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "vg-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57813,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "vi-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57815,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "vn-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57817,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "vu-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57819,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57821,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "ws-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57823,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "xk-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57825,
+      "contentWidth": 1330,
+      "font": "Flag",
+      "name": "xx-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57827,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57829,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "al-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57831,
+      "contentWidth": 1335,
+      "font": "Flag",
+      "name": "za-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57833,
+      "contentWidth": 1334,
+      "font": "Flag",
+      "name": "zm-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57367,
+      "font": "FlagSecondary",
+      "name": "at-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57381,
+      "font": "FlagSecondary",
+      "name": "bd-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57389,
+      "font": "FlagSecondary",
+      "name": "bh-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57411,
+      "font": "FlagSecondary",
+      "name": "ca-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57459,
+      "font": "FlagSecondary",
+      "name": "dk-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57485,
+      "font": "FlagSecondary",
+      "name": "es-ga-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57493,
+      "font": "FlagSecondary",
+      "name": "fi-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57507,
+      "font": "FlagSecondary",
+      "name": "gb-eng-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57517,
+      "font": "FlagSecondary",
+      "name": "ge-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57527,
+      "font": "FlagSecondary",
+      "name": "gl-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57552,
+      "font": "FlagSecondary",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57582,
+      "font": "FlagSecondary",
+      "name": "kg-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57619,
+      "font": "FlagSecondary",
+      "name": "lv-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57625,
+      "font": "FlagSecondary",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57637,
+      "font": "FlagSecondary",
+      "name": "mk-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57668,
+      "font": "FlagSecondary",
+      "name": "nf-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57670,
+      "font": "FlagSecondary",
+      "name": "ng-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57691,
+      "font": "FlagSecondary",
+      "name": "pe-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57701,
+      "font": "FlagSecondary",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57715,
+      "font": "FlagSecondary",
+      "name": "qa-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57733,
+      "font": "FlagSecondary",
+      "name": "se-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57779,
+      "font": "FlagSecondary",
+      "name": "tn-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57781,
+      "font": "FlagSecondary",
+      "name": "tr-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57791,
+      "font": "FlagSecondary",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57367,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "at-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57389,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "bh-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57411,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "ca-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57459,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "dk-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57493,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "fi-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57507,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "gb-eng-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57517,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "ge-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57527,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "gl-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57552,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57619,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "lv-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57625,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57637,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "mk-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57668,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "nf-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57670,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "ng-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57701,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57733,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "se-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57791,
+      "contentWidth": 1334,
+      "font": "FlagSecondary",
+      "name": "id-4x3",
+      "prefix": "flag",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "flag",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Flag",
+      "glyphCount": 491,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1334,
+        "xMin": -1,
+        "yMax": 1001,
+        "yMin": -5
+      },
+      "hhea": {
+        "advanceWidthMax": 1333,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 5
+      }
+    },
+    {
+      "error": null,
+      "font": "FlagSecondary",
+      "glyphCount": 47,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "hhea": {
+        "advanceWidthMax": 1333,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 1
+      }
+    }
+  ]
+}

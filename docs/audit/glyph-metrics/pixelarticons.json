@@ -1,0 +1,190 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Pixelarticons",
+      "glyphName": "brackets-angle",
+      "prefix": "pixelarticons",
+      "sampleIcons": [
+        "brackets-angle",
+        "code"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pixelarticons",
+      "glyphName": "dashbaord",
+      "prefix": "pixelarticons",
+      "sampleIcons": [
+        "dashbaord",
+        "dashboard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pixelarticons",
+      "glyphName": "files",
+      "prefix": "pixelarticons",
+      "sampleIcons": [
+        "files",
+        "files-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pixelarticons",
+      "glyphName": "shopping-bag",
+      "prefix": "pixelarticons",
+      "sampleIcons": [
+        "shopping-bag",
+        "shopping-bag-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pixelarticons",
+      "glyphName": "sort-alpabetic",
+      "prefix": "pixelarticons",
+      "sampleIcons": [
+        "sort-alpabetic",
+        "sort-alphabetic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PixelarticonsSecondary",
+      "glyphName": "mail-right",
+      "prefix": "pixelarticons",
+      "sampleIcons": [
+        "mail-right",
+        "mail-right-sharp"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58034,
+      "icon": "mail-right",
+      "prefix": "pixelarticons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "Pixelarticons",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "PixelarticonsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58035,
+      "icon": "mail-right-sharp",
+      "prefix": "pixelarticons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "Pixelarticons",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "PixelarticonsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Pixelarticons",
+      "headBbox": "0..1000 / 0..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "pixelarticons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "PixelarticonsSecondary",
+      "headBbox": "0..750 / 0..667",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "pixelarticons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "pixelarticons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Pixelarticons",
+      "glyphCount": 1099,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "PixelarticonsSecondary",
+      "glyphCount": 2,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

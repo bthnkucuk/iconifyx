@@ -1,0 +1,4121 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 8,
+      "font": "Tabler",
+      "glyphName": "accessible-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "accessible-filled",
+        "accessible-filled-bold",
+        "accessible-filled-light",
+        "accessible-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Tabler",
+      "glyphName": "article-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "article-filled",
+        "article-filled-bold",
+        "article-filled-filled",
+        "article-filled-filled-bold"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Tabler",
+      "glyphName": "brand-tikto-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-tikto-filled",
+        "brand-tikto-filled-bold",
+        "brand-tikto-filled-light",
+        "brand-tikto-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "ad-circle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ad-circle-filled",
+        "ad-circle-filled-bold",
+        "ad-circle-filled-light",
+        "ad-circle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "ad-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ad-filled",
+        "ad-filled-bold",
+        "ad-filled-light",
+        "ad-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "adjustments-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "adjustments-filled",
+        "adjustments-filled-bold",
+        "adjustments-filled-light",
+        "adjustments-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "adjustments-horizontal-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "adjustments-horizontal-filled",
+        "adjustments-horizontal-filled-bold",
+        "adjustments-horizontal-filled-light",
+        "adjustments-horizontal-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "aerial-lift-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "aerial-lift-filled",
+        "aerial-lift-filled-bold",
+        "aerial-lift-filled-light",
+        "aerial-lift-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "affiliate-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "affiliate-filled",
+        "affiliate-filled-bold",
+        "affiliate-filled-light",
+        "affiliate-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "air-balloon-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "air-balloon-filled",
+        "air-balloon-filled-bold",
+        "air-balloon-filled-light",
+        "air-balloon-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alarm-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alarm-filled",
+        "alarm-filled-bold",
+        "alarm-filled-light",
+        "alarm-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alarm-minus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alarm-minus-filled",
+        "alarm-minus-filled-bold",
+        "alarm-minus-filled-light",
+        "alarm-minus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alarm-plus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alarm-plus-filled",
+        "alarm-plus-filled-bold",
+        "alarm-plus-filled-light",
+        "alarm-plus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alarm-snooze-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alarm-snooze-filled",
+        "alarm-snooze-filled-bold",
+        "alarm-snooze-filled-light",
+        "alarm-snooze-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alert-circle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alert-circle-filled",
+        "alert-circle-filled-bold",
+        "alert-circle-filled-light",
+        "alert-circle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alert-hexagon-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alert-hexagon-filled",
+        "alert-hexagon-filled-bold",
+        "alert-hexagon-filled-light",
+        "alert-hexagon-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alert-octagon-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alert-octagon-filled",
+        "alert-octagon-filled-bold",
+        "alert-octagon-filled-light",
+        "alert-octagon-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alert-square-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alert-square-filled",
+        "alert-square-filled-bold",
+        "alert-square-filled-light",
+        "alert-square-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alert-square-rounded-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alert-square-rounded-filled",
+        "alert-square-rounded-filled-bold",
+        "alert-square-rounded-filled-light",
+        "alert-square-rounded-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alert-triangle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alert-triangle-filled",
+        "alert-triangle-filled-bold",
+        "alert-triangle-filled-light",
+        "alert-triangle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "alien-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "alien-filled",
+        "alien-filled-bold",
+        "alien-filled-light",
+        "alien-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-bottom-center-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-bottom-center-filled",
+        "align-box-bottom-center-filled-bold",
+        "align-box-bottom-center-filled-light",
+        "align-box-bottom-center-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-bottom-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-bottom-left-filled",
+        "align-box-bottom-left-filled-bold",
+        "align-box-bottom-left-filled-light",
+        "align-box-bottom-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-bottom-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-bottom-right-filled",
+        "align-box-bottom-right-filled-bold",
+        "align-box-bottom-right-filled-light",
+        "align-box-bottom-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-center-middle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-center-middle-filled",
+        "align-box-center-middle-filled-bold",
+        "align-box-center-middle-filled-light",
+        "align-box-center-middle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-left-bottom-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-left-bottom-filled",
+        "align-box-left-bottom-filled-bold",
+        "align-box-left-bottom-filled-light",
+        "align-box-left-bottom-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-left-middle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-left-middle-filled",
+        "align-box-left-middle-filled-bold",
+        "align-box-left-middle-filled-light",
+        "align-box-left-middle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-left-top-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-left-top-filled",
+        "align-box-left-top-filled-bold",
+        "align-box-left-top-filled-light",
+        "align-box-left-top-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-right-bottom-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-right-bottom-filled",
+        "align-box-right-bottom-filled-bold",
+        "align-box-right-bottom-filled-light",
+        "align-box-right-bottom-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-right-middle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-right-middle-filled",
+        "align-box-right-middle-filled-bold",
+        "align-box-right-middle-filled-light",
+        "align-box-right-middle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-right-top-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-right-top-filled",
+        "align-box-right-top-filled-bold",
+        "align-box-right-top-filled-light",
+        "align-box-right-top-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-top-center-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-top-center-filled",
+        "align-box-top-center-filled-bold",
+        "align-box-top-center-filled-light",
+        "align-box-top-center-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-top-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-top-left-filled",
+        "align-box-top-left-filled-bold",
+        "align-box-top-left-filled-light",
+        "align-box-top-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "align-box-top-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "align-box-top-right-filled",
+        "align-box-top-right-filled-bold",
+        "align-box-top-right-filled-light",
+        "align-box-top-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "analyze-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "analyze-filled",
+        "analyze-filled-bold",
+        "analyze-filled-light",
+        "analyze-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "app-window-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "app-window-filled",
+        "app-window-filled-bold",
+        "app-window-filled-light",
+        "app-window-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "apple-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "apple-filled",
+        "apple-filled-bold",
+        "apple-filled-light",
+        "apple-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "apps-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "apps-filled",
+        "apps-filled-bold",
+        "apps-filled-light",
+        "apps-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "archive-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "archive-filled",
+        "archive-filled-bold",
+        "archive-filled-light",
+        "archive-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-autofit-content-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-autofit-content-filled",
+        "arrow-autofit-content-filled-bold",
+        "arrow-autofit-content-filled-light",
+        "arrow-autofit-content-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-autofit-down-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-autofit-down-filled",
+        "arrow-autofit-down-filled-bold",
+        "arrow-autofit-down-filled-light",
+        "arrow-autofit-down-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-autofit-height-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-autofit-height-filled",
+        "arrow-autofit-height-filled-bold",
+        "arrow-autofit-height-filled-light",
+        "arrow-autofit-height-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-autofit-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-autofit-left-filled",
+        "arrow-autofit-left-filled-bold",
+        "arrow-autofit-left-filled-light",
+        "arrow-autofit-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-autofit-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-autofit-right-filled",
+        "arrow-autofit-right-filled-bold",
+        "arrow-autofit-right-filled-light",
+        "arrow-autofit-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-autofit-up-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-autofit-up-filled",
+        "arrow-autofit-up-filled-bold",
+        "arrow-autofit-up-filled-light",
+        "arrow-autofit-up-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-autofit-width-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-autofit-width-filled",
+        "arrow-autofit-width-filled-bold",
+        "arrow-autofit-width-filled-light",
+        "arrow-autofit-width-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-badge-down-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-badge-down-filled",
+        "arrow-badge-down-filled-bold",
+        "arrow-badge-down-filled-light",
+        "arrow-badge-down-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-badge-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-badge-left-filled",
+        "arrow-badge-left-filled-bold",
+        "arrow-badge-left-filled-light",
+        "arrow-badge-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-badge-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-badge-right-filled",
+        "arrow-badge-right-filled-bold",
+        "arrow-badge-right-filled-light",
+        "arrow-badge-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-badge-up-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-badge-up-filled",
+        "arrow-badge-up-filled-bold",
+        "arrow-badge-up-filled-light",
+        "arrow-badge-up-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-down-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-down-filled",
+        "arrow-big-down-filled-bold",
+        "arrow-big-down-filled-light",
+        "arrow-big-down-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-down-line-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-down-line-filled",
+        "arrow-big-down-line-filled-bold",
+        "arrow-big-down-line-filled-light",
+        "arrow-big-down-line-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-down-lines-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-down-lines-filled",
+        "arrow-big-down-lines-filled-bold",
+        "arrow-big-down-lines-filled-light",
+        "arrow-big-down-lines-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-left-filled",
+        "arrow-big-left-filled-bold",
+        "arrow-big-left-filled-light",
+        "arrow-big-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-left-line-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-left-line-filled",
+        "arrow-big-left-line-filled-bold",
+        "arrow-big-left-line-filled-light",
+        "arrow-big-left-line-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-left-lines-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-left-lines-filled",
+        "arrow-big-left-lines-filled-bold",
+        "arrow-big-left-lines-filled-light",
+        "arrow-big-left-lines-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-right-filled",
+        "arrow-big-right-filled-bold",
+        "arrow-big-right-filled-light",
+        "arrow-big-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-right-line-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-right-line-filled",
+        "arrow-big-right-line-filled-bold",
+        "arrow-big-right-line-filled-light",
+        "arrow-big-right-line-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-right-lines-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-right-lines-filled",
+        "arrow-big-right-lines-filled-bold",
+        "arrow-big-right-lines-filled-light",
+        "arrow-big-right-lines-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-up-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-up-filled",
+        "arrow-big-up-filled-bold",
+        "arrow-big-up-filled-light",
+        "arrow-big-up-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-up-line-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-up-line-filled",
+        "arrow-big-up-line-filled-bold",
+        "arrow-big-up-line-filled-light",
+        "arrow-big-up-line-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-big-up-lines-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-up-lines-filled",
+        "arrow-big-up-lines-filled-bold",
+        "arrow-big-up-lines-filled-light",
+        "arrow-big-up-lines-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-down-circle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-down-circle-filled",
+        "arrow-down-circle-filled-bold",
+        "arrow-down-circle-filled-light",
+        "arrow-down-circle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-down-rhombus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-down-rhombus-filled",
+        "arrow-down-rhombus-filled-bold",
+        "arrow-down-rhombus-filled-light",
+        "arrow-down-rhombus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-down-square-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-down-square-filled",
+        "arrow-down-square-filled-bold",
+        "arrow-down-square-filled-light",
+        "arrow-down-square-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-guide-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-guide-filled",
+        "arrow-guide-filled-bold",
+        "arrow-guide-filled-light",
+        "arrow-guide-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-left-circle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-left-circle-filled",
+        "arrow-left-circle-filled-bold",
+        "arrow-left-circle-filled-light",
+        "arrow-left-circle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-left-rhombus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-left-rhombus-filled",
+        "arrow-left-rhombus-filled-bold",
+        "arrow-left-rhombus-filled-light",
+        "arrow-left-rhombus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-left-square-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-left-square-filled",
+        "arrow-left-square-filled-bold",
+        "arrow-left-square-filled-light",
+        "arrow-left-square-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-move-down-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-move-down-filled",
+        "arrow-move-down-filled-bold",
+        "arrow-move-down-filled-light",
+        "arrow-move-down-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-move-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-move-left-filled",
+        "arrow-move-left-filled-bold",
+        "arrow-move-left-filled-light",
+        "arrow-move-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-move-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-move-right-filled",
+        "arrow-move-right-filled-bold",
+        "arrow-move-right-filled-light",
+        "arrow-move-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-move-up-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-move-up-filled",
+        "arrow-move-up-filled-bold",
+        "arrow-move-up-filled-light",
+        "arrow-move-up-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-right-circle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-right-circle-filled",
+        "arrow-right-circle-filled-bold",
+        "arrow-right-circle-filled-light",
+        "arrow-right-circle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-right-rhombus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-right-rhombus-filled",
+        "arrow-right-rhombus-filled-bold",
+        "arrow-right-rhombus-filled-light",
+        "arrow-right-rhombus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-right-square-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-right-square-filled",
+        "arrow-right-square-filled-bold",
+        "arrow-right-square-filled-light",
+        "arrow-right-square-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-up-circle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-up-circle-filled",
+        "arrow-up-circle-filled-bold",
+        "arrow-up-circle-filled-light",
+        "arrow-up-circle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-up-rhombus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-up-rhombus-filled",
+        "arrow-up-rhombus-filled-bold",
+        "arrow-up-rhombus-filled-light",
+        "arrow-up-rhombus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "arrow-up-square-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-up-square-filled",
+        "arrow-up-square-filled-bold",
+        "arrow-up-square-filled-light",
+        "arrow-up-square-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "artboard-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "artboard-filled",
+        "artboard-filled-bold",
+        "artboard-filled-light",
+        "artboard-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "aspect-ratio-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "aspect-ratio-filled",
+        "aspect-ratio-filled-bold",
+        "aspect-ratio-filled-light",
+        "aspect-ratio-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "assembly-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "assembly-filled",
+        "assembly-filled-bold",
+        "assembly-filled-light",
+        "assembly-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "asset-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "asset-filled",
+        "asset-filled-bold",
+        "asset-filled-light",
+        "asset-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "atom-2-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "atom-2-filled",
+        "atom-2-filled-bold",
+        "atom-2-filled-light",
+        "atom-2-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "automatic-gearbox-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "automatic-gearbox-filled",
+        "automatic-gearbox-filled-bold",
+        "automatic-gearbox-filled-light",
+        "automatic-gearbox-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "award-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "award-filled",
+        "award-filled-bold",
+        "award-filled-light",
+        "award-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "baby-carriage-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "baby-carriage-filled",
+        "baby-carriage-filled-bold",
+        "baby-carriage-filled-light",
+        "baby-carriage-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "backspace-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "backspace-filled",
+        "backspace-filled-bold",
+        "backspace-filled-light",
+        "backspace-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-3d-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-3d-filled",
+        "badge-3d-filled-bold",
+        "badge-3d-filled-light",
+        "badge-3d-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-4k-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-4k-filled",
+        "badge-4k-filled-bold",
+        "badge-4k-filled-light",
+        "badge-4k-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-8k-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-8k-filled",
+        "badge-8k-filled-bold",
+        "badge-8k-filled-light",
+        "badge-8k-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-ad-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-ad-filled",
+        "badge-ad-filled-bold",
+        "badge-ad-filled-light",
+        "badge-ad-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-ar-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-ar-filled",
+        "badge-ar-filled-bold",
+        "badge-ar-filled-light",
+        "badge-ar-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-cc-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-cc-filled",
+        "badge-cc-filled-bold",
+        "badge-cc-filled-light",
+        "badge-cc-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-filled",
+        "badge-filled-bold",
+        "badge-filled-light",
+        "badge-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-hd-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-hd-filled",
+        "badge-hd-filled-bold",
+        "badge-hd-filled-light",
+        "badge-hd-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-sd-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-sd-filled",
+        "badge-sd-filled-bold",
+        "badge-sd-filled-light",
+        "badge-sd-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-tm-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-tm-filled",
+        "badge-tm-filled-bold",
+        "badge-tm-filled-light",
+        "badge-tm-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-vo-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-vo-filled",
+        "badge-vo-filled-bold",
+        "badge-vo-filled-light",
+        "badge-vo-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-vr-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-vr-filled",
+        "badge-vr-filled-bold",
+        "badge-vr-filled-light",
+        "badge-vr-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badge-wc-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badge-wc-filled",
+        "badge-wc-filled-bold",
+        "badge-wc-filled-light",
+        "badge-wc-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "badges-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "badges-filled",
+        "badges-filled-bold",
+        "badges-filled-light",
+        "badges-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "ball-bowling-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ball-bowling-filled",
+        "ball-bowling-filled-bold",
+        "ball-bowling-filled-light",
+        "ball-bowling-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "balloon-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "balloon-filled",
+        "balloon-filled-bold",
+        "balloon-filled-light",
+        "balloon-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "ballpen-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ballpen-filled",
+        "ballpen-filled-bold",
+        "ballpen-filled-light",
+        "ballpen-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bandage-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bandage-filled",
+        "bandage-filled-bold",
+        "bandage-filled-light",
+        "bandage-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "barbell-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "barbell-filled",
+        "barbell-filled-bold",
+        "barbell-filled-light",
+        "barbell-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "barrier-block-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "barrier-block-filled",
+        "barrier-block-filled-bold",
+        "barrier-block-filled-light",
+        "barrier-block-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "basket-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "basket-filled",
+        "basket-filled-bold",
+        "basket-filled-light",
+        "basket-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bath-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bath-filled",
+        "bath-filled-bold",
+        "bath-filled-light",
+        "bath-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-1-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-1-filled",
+        "battery-1-filled-bold",
+        "battery-1-filled-light",
+        "battery-1-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-2-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-2-filled",
+        "battery-2-filled-bold",
+        "battery-2-filled-light",
+        "battery-2-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-3-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-3-filled",
+        "battery-3-filled-bold",
+        "battery-3-filled-light",
+        "battery-3-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-4-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-4-filled",
+        "battery-4-filled-bold",
+        "battery-4-filled-light",
+        "battery-4-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-automotive-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-automotive-filled",
+        "battery-automotive-filled-bold",
+        "battery-automotive-filled-light",
+        "battery-automotive-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-filled",
+        "battery-filled-bold",
+        "battery-filled-light",
+        "battery-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-vertical-1-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-vertical-1-filled",
+        "battery-vertical-1-filled-bold",
+        "battery-vertical-1-filled-light",
+        "battery-vertical-1-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-vertical-2-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-vertical-2-filled",
+        "battery-vertical-2-filled-bold",
+        "battery-vertical-2-filled-light",
+        "battery-vertical-2-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-vertical-3-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-vertical-3-filled",
+        "battery-vertical-3-filled-bold",
+        "battery-vertical-3-filled-light",
+        "battery-vertical-3-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-vertical-4-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-vertical-4-filled",
+        "battery-vertical-4-filled-bold",
+        "battery-vertical-4-filled-light",
+        "battery-vertical-4-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "battery-vertical-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "battery-vertical-filled",
+        "battery-vertical-filled-bold",
+        "battery-vertical-filled-light",
+        "battery-vertical-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bed-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bed-filled",
+        "bed-filled-bold",
+        "bed-filled-light",
+        "bed-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bed-flat-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bed-flat-filled",
+        "bed-flat-filled-bold",
+        "bed-flat-filled-light",
+        "bed-flat-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "beer-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "beer-filled",
+        "beer-filled-bold",
+        "beer-filled-light",
+        "beer-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bell-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bell-filled",
+        "bell-filled-bold",
+        "bell-filled-light",
+        "bell-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bell-minus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bell-minus-filled",
+        "bell-minus-filled-bold",
+        "bell-minus-filled-light",
+        "bell-minus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bell-plus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bell-plus-filled",
+        "bell-plus-filled-bold",
+        "bell-plus-filled-light",
+        "bell-plus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bell-ringing-2-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bell-ringing-2-filled",
+        "bell-ringing-2-filled-bold",
+        "bell-ringing-2-filled-light",
+        "bell-ringing-2-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bell-ringing-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bell-ringing-filled",
+        "bell-ringing-filled-bold",
+        "bell-ringing-filled-light",
+        "bell-ringing-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bell-x-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bell-x-filled",
+        "bell-x-filled-bold",
+        "bell-x-filled-light",
+        "bell-x-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bell-z-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bell-z-filled",
+        "bell-z-filled-bold",
+        "bell-z-filled-light",
+        "bell-z-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bike-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bike-filled",
+        "bike-filled-bold",
+        "bike-filled-light",
+        "bike-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "binary-tree-2-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "binary-tree-2-filled",
+        "binary-tree-2-filled-bold",
+        "binary-tree-2-filled-light",
+        "binary-tree-2-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "binary-tree-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "binary-tree-filled",
+        "binary-tree-filled-bold",
+        "binary-tree-filled-light",
+        "binary-tree-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "binoculars-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "binoculars-filled",
+        "binoculars-filled-bold",
+        "binoculars-filled-light",
+        "binoculars-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "biohazard-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "biohazard-filled",
+        "biohazard-filled-bold",
+        "biohazard-filled-light",
+        "biohazard-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "blade-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "blade-filled",
+        "blade-filled-bold",
+        "blade-filled-light",
+        "blade-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "blender-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "blender-filled",
+        "blender-filled-bold",
+        "blender-filled-light",
+        "blender-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "blob-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "blob-filled",
+        "blob-filled-bold",
+        "blob-filled-light",
+        "blob-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bolt-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bolt-filled",
+        "bolt-filled-bold",
+        "bolt-filled-light",
+        "bolt-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bomb-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bomb-filled",
+        "bomb-filled-bold",
+        "bomb-filled-light",
+        "bomb-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bone-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bone-filled",
+        "bone-filled-bold",
+        "bone-filled-light",
+        "bone-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bong-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bong-filled",
+        "bong-filled-bold",
+        "bong-filled-light",
+        "bong-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "book-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "book-filled",
+        "book-filled-bold",
+        "book-filled-light",
+        "book-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bookmark-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bookmark-filled",
+        "bookmark-filled-bold",
+        "bookmark-filled-light",
+        "bookmark-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bookmarks-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bookmarks-filled",
+        "bookmarks-filled-bold",
+        "bookmarks-filled-light",
+        "bookmarks-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "boom-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "boom-filled",
+        "boom-filled-bold",
+        "boom-filled-light",
+        "boom-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bottle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bottle-filled",
+        "bottle-filled-bold",
+        "bottle-filled-light",
+        "bottle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bounce-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bounce-left-filled",
+        "bounce-left-filled-bold",
+        "bounce-left-filled-light",
+        "bounce-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bounce-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bounce-right-filled",
+        "bounce-right-filled-bold",
+        "bounce-right-filled-light",
+        "bounce-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bow-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bow-filled",
+        "bow-filled-bold",
+        "bow-filled-light",
+        "bow-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bowl-chopsticks-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bowl-chopsticks-filled",
+        "bowl-chopsticks-filled-bold",
+        "bowl-chopsticks-filled-light",
+        "bowl-chopsticks-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bowl-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bowl-filled",
+        "bowl-filled-bold",
+        "bowl-filled-light",
+        "bowl-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bowl-spoon-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bowl-spoon-filled",
+        "bowl-spoon-filled-bold",
+        "bowl-spoon-filled-light",
+        "bowl-spoon-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "box-align-bottom-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "box-align-bottom-filled",
+        "box-align-bottom-filled-bold",
+        "box-align-bottom-filled-light",
+        "box-align-bottom-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "box-align-bottom-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "box-align-bottom-left-filled",
+        "box-align-bottom-left-filled-bold",
+        "box-align-bottom-left-filled-light",
+        "box-align-bottom-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "box-align-bottom-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "box-align-bottom-right-filled",
+        "box-align-bottom-right-filled-bold",
+        "box-align-bottom-right-filled-light",
+        "box-align-bottom-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "box-align-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "box-align-left-filled",
+        "box-align-left-filled-bold",
+        "box-align-left-filled-light",
+        "box-align-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "box-align-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "box-align-right-filled",
+        "box-align-right-filled-bold",
+        "box-align-right-filled-light",
+        "box-align-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "box-align-top-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "box-align-top-filled",
+        "box-align-top-filled-bold",
+        "box-align-top-filled-light",
+        "box-align-top-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "box-align-top-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "box-align-top-left-filled",
+        "box-align-top-left-filled-bold",
+        "box-align-top-left-filled-light",
+        "box-align-top-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "box-align-top-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "box-align-top-right-filled",
+        "box-align-top-right-filled-bold",
+        "box-align-top-right-filled-light",
+        "box-align-top-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "box-multiple-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "box-multiple-filled",
+        "box-multiple-filled-bold",
+        "box-multiple-filled-light",
+        "box-multiple-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-angular-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-angular-filled",
+        "brand-angular-filled-bold",
+        "brand-angular-filled-light",
+        "brand-angular-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-apple-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-apple-filled",
+        "brand-apple-filled-bold",
+        "brand-apple-filled-light",
+        "brand-apple-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-bitbucket-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-bitbucket-filled",
+        "brand-bitbucket-filled-bold",
+        "brand-bitbucket-filled-light",
+        "brand-bitbucket-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-discord-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-discord-filled",
+        "brand-discord-filled-bold",
+        "brand-discord-filled-light",
+        "brand-discord-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-dribbble-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-dribbble-filled",
+        "brand-dribbble-filled-bold",
+        "brand-dribbble-filled-light",
+        "brand-dribbble-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-facebook-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-facebook-filled",
+        "brand-facebook-filled-bold",
+        "brand-facebook-filled-light",
+        "brand-facebook-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-github-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-github-filled",
+        "brand-github-filled-bold",
+        "brand-github-filled-light",
+        "brand-github-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-google-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-google-filled",
+        "brand-google-filled-bold",
+        "brand-google-filled-light",
+        "brand-google-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-instagram-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-instagram-filled",
+        "brand-instagram-filled-bold",
+        "brand-instagram-filled-light",
+        "brand-instagram-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-kick-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-kick-filled",
+        "brand-kick-filled-bold",
+        "brand-kick-filled-light",
+        "brand-kick-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-linkedin-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-linkedin-filled",
+        "brand-linkedin-filled-bold",
+        "brand-linkedin-filled-light",
+        "brand-linkedin-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-messenger-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-messenger-filled",
+        "brand-messenger-filled-bold",
+        "brand-messenger-filled-light",
+        "brand-messenger-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-open-source-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-open-source-filled",
+        "brand-open-source-filled-bold",
+        "brand-open-source-filled-light",
+        "brand-open-source-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-opera-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-opera-filled",
+        "brand-opera-filled-bold",
+        "brand-opera-filled-light",
+        "brand-opera-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-patreon-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-patreon-filled",
+        "brand-patreon-filled-bold",
+        "brand-patreon-filled-light",
+        "brand-patreon-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-paypal-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-paypal-filled",
+        "brand-paypal-filled-bold",
+        "brand-paypal-filled-light",
+        "brand-paypal-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-pinterest-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-pinterest-filled",
+        "brand-pinterest-filled-bold",
+        "brand-pinterest-filled-light",
+        "brand-pinterest-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-sketch-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-sketch-filled",
+        "brand-sketch-filled-bold",
+        "brand-sketch-filled-light",
+        "brand-sketch-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-snapchat-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-snapchat-filled",
+        "brand-snapchat-filled-bold",
+        "brand-snapchat-filled-light",
+        "brand-snapchat-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-spotify-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-spotify-filled",
+        "brand-spotify-filled-bold",
+        "brand-spotify-filled-light",
+        "brand-spotify-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-steam-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-steam-filled",
+        "brand-steam-filled-bold",
+        "brand-steam-filled-light",
+        "brand-steam-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-stripe-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-stripe-filled",
+        "brand-stripe-filled-bold",
+        "brand-stripe-filled-light",
+        "brand-stripe-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-tabler-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-tabler-filled",
+        "brand-tabler-filled-bold",
+        "brand-tabler-filled-light",
+        "brand-tabler-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-tinder-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-tinder-filled",
+        "brand-tinder-filled-bold",
+        "brand-tinder-filled-light",
+        "brand-tinder-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-tumblr-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-tumblr-filled",
+        "brand-tumblr-filled-bold",
+        "brand-tumblr-filled-light",
+        "brand-tumblr-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-twitter-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-twitter-filled",
+        "brand-twitter-filled-bold",
+        "brand-twitter-filled-light",
+        "brand-twitter-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-vercel-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-vercel-filled",
+        "brand-vercel-filled-bold",
+        "brand-vercel-filled-light",
+        "brand-vercel-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-vimeo-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-vimeo-filled",
+        "brand-vimeo-filled-bold",
+        "brand-vimeo-filled-light",
+        "brand-vimeo-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-weibo-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-weibo-filled",
+        "brand-weibo-filled-bold",
+        "brand-weibo-filled-light",
+        "brand-weibo-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-whatsapp-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-whatsapp-filled",
+        "brand-whatsapp-filled-bold",
+        "brand-whatsapp-filled-light",
+        "brand-whatsapp-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-windows-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-windows-filled",
+        "brand-windows-filled-bold",
+        "brand-windows-filled-light",
+        "brand-windows-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-x-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-x-filled",
+        "brand-x-filled-bold",
+        "brand-x-filled-light",
+        "brand-x-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brand-youtube-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-youtube-filled",
+        "brand-youtube-filled-bold",
+        "brand-youtube-filled-light",
+        "brand-youtube-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bread-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bread-filled",
+        "bread-filled-bold",
+        "bread-filled-light",
+        "bread-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "briefcase-2-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "briefcase-2-filled",
+        "briefcase-2-filled-bold",
+        "briefcase-2-filled-light",
+        "briefcase-2-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "briefcase-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "briefcase-filled",
+        "briefcase-filled-bold",
+        "briefcase-filled-light",
+        "briefcase-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brightness-auto-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brightness-auto-filled",
+        "brightness-auto-filled-bold",
+        "brightness-auto-filled-light",
+        "brightness-auto-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brightness-down-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brightness-down-filled",
+        "brightness-down-filled-bold",
+        "brightness-down-filled-light",
+        "brightness-down-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brightness-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brightness-filled",
+        "brightness-filled-bold",
+        "brightness-filled-light",
+        "brightness-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "brightness-up-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brightness-up-filled",
+        "brightness-up-filled-bold",
+        "brightness-up-filled-light",
+        "brightness-up-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bubble-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bubble-filled",
+        "bubble-filled-bold",
+        "bubble-filled-light",
+        "bubble-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bubble-text-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bubble-text-filled",
+        "bubble-text-filled-bold",
+        "bubble-text-filled-light",
+        "bubble-text-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bug-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bug-filled",
+        "bug-filled-bold",
+        "bug-filled-light",
+        "bug-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "building-bridge-2-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "building-bridge-2-filled",
+        "building-bridge-2-filled-bold",
+        "building-bridge-2-filled-light",
+        "building-bridge-2-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "building-broadcast-tower-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "building-broadcast-tower-filled",
+        "building-broadcast-tower-filled-bold",
+        "building-broadcast-tower-filled-light",
+        "building-broadcast-tower-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bulb-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bulb-filled",
+        "bulb-filled-bold",
+        "bulb-filled-light",
+        "bulb-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "bus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "bus-filled",
+        "bus-filled-bold",
+        "bus-filled-light",
+        "bus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "butterfly-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "butterfly-filled",
+        "butterfly-filled-bold",
+        "butterfly-filled-light",
+        "butterfly-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "cactus-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "cactus-filled",
+        "cactus-filled-bold",
+        "cactus-filled-light",
+        "cactus-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "calculator-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "calculator-filled",
+        "calculator-filled-bold",
+        "calculator-filled-light",
+        "calculator-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "calendar-event-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "calendar-event-filled",
+        "calendar-event-filled-bold",
+        "calendar-event-filled-light",
+        "calendar-event-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "calendar-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "calendar-filled",
+        "calendar-filled-bold",
+        "calendar-filled-light",
+        "calendar-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "calendar-month-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "calendar-month-filled",
+        "calendar-month-filled-bold",
+        "calendar-month-filled-light",
+        "calendar-month-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "calendar-week-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "calendar-week-filled",
+        "calendar-week-filled-bold",
+        "calendar-week-filled-light",
+        "calendar-week-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "camera-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "camera-filled",
+        "camera-filled-bold",
+        "camera-filled-light",
+        "camera-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "campfire-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "campfire-filled",
+        "campfire-filled-bold",
+        "campfire-filled-light",
+        "campfire-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "candle-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "candle-filled",
+        "candle-filled-bold",
+        "candle-filled-light",
+        "candle-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "cannabis-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "cannabis-filled",
+        "cannabis-filled-bold",
+        "cannabis-filled-light",
+        "cannabis-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "capsule-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "capsule-filled",
+        "capsule-filled-bold",
+        "capsule-filled-light",
+        "capsule-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "capsule-horizontal-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "capsule-horizontal-filled",
+        "capsule-horizontal-filled-bold",
+        "capsule-horizontal-filled-light",
+        "capsule-horizontal-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "capture-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "capture-filled",
+        "capture-filled-bold",
+        "capture-filled-light",
+        "capture-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "car-4wd-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "car-4wd-filled",
+        "car-4wd-filled-bold",
+        "car-4wd-filled-light",
+        "car-4wd-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "car-crane-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "car-crane-filled",
+        "car-crane-filled-bold",
+        "car-crane-filled-light",
+        "car-crane-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "car-fan-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "car-fan-filled",
+        "car-fan-filled-bold",
+        "car-fan-filled-light",
+        "car-fan-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "car-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "car-filled",
+        "car-filled-bold",
+        "car-filled-light",
+        "car-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "car-suv-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "car-suv-filled",
+        "car-suv-filled-bold",
+        "car-suv-filled-light",
+        "car-suv-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "carambola-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "carambola-filled",
+        "carambola-filled-bold",
+        "carambola-filled-light",
+        "carambola-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "caravan-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "caravan-filled",
+        "caravan-filled-bold",
+        "caravan-filled-light",
+        "caravan-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "cardboards-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "cardboards-filled",
+        "cardboards-filled-bold",
+        "cardboards-filled-light",
+        "cardboards-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "cards-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "cards-filled",
+        "cards-filled-bold",
+        "cards-filled-light",
+        "cards-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "caret-down-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "caret-down-filled",
+        "caret-down-filled-bold",
+        "caret-down-filled-light",
+        "caret-down-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "caret-left-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "caret-left-filled",
+        "caret-left-filled-bold",
+        "caret-left-filled-light",
+        "caret-left-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "caret-left-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "caret-left-right-filled",
+        "caret-left-right-filled-bold",
+        "caret-left-right-filled-light",
+        "caret-left-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "caret-right-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "caret-right-filled",
+        "caret-right-filled-bold",
+        "caret-right-filled-light",
+        "caret-right-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "caret-up-down-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "caret-up-down-filled",
+        "caret-up-down-filled-bold",
+        "caret-up-down-filled-light",
+        "caret-up-down-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "caret-up-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "caret-up-filled",
+        "caret-up-filled-bold",
+        "caret-up-filled-light",
+        "caret-up-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "carousel-horizontal-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "carousel-horizontal-filled",
+        "carousel-horizontal-filled-bold",
+        "carousel-horizontal-filled-light",
+        "carousel-horizontal-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "carousel-vertical-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "carousel-vertical-filled",
+        "carousel-vertical-filled-bold",
+        "carousel-vertical-filled-light",
+        "carousel-vertical-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Tabler",
+      "glyphName": "cash-banknote-filled",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "cash-banknote-filled",
+        "cash-banknote-filled-bold",
+        "cash-banknote-filled-light",
+        "cash-banknote-filled-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "2fa",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "2fa",
+        "auth-2fa"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "2fa-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "2fa-bold",
+        "auth-2fa-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "2fa-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "2fa-light",
+        "auth-2fa-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "2fa-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "2fa-thin",
+        "auth-2fa-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-big-top",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-top",
+        "arrow-big-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-big-top-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-top-bold",
+        "arrow-big-up-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-big-top-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-top-light",
+        "arrow-big-up-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-big-top-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-big-top-thin",
+        "arrow-big-up-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-bar",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-bar",
+        "arrow-down-bar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-bar-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-bar-bold",
+        "arrow-down-bar-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-bar-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-bar-light",
+        "arrow-down-bar-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-bar-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-bar-thin",
+        "arrow-down-bar-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-circle",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-circle",
+        "arrow-down-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-circle-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-circle-bold",
+        "arrow-down-circle-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-circle-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-circle-light",
+        "arrow-down-circle-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-square",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-square",
+        "arrow-down-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-square-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-square-bold",
+        "arrow-down-square-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-square-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-square-light",
+        "arrow-down-square-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-square-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-square-thin",
+        "arrow-down-square-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-tail",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-tail",
+        "arrow-down-tail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-tail-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-tail-bold",
+        "arrow-down-tail-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-tail-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-tail-light",
+        "arrow-down-tail-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-bottom-tail-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-bottom-tail-thin",
+        "arrow-down-tail-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-bar",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-bar",
+        "arrow-up-bar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-bar-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-bar-bold",
+        "arrow-up-bar-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-bar-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-bar-light",
+        "arrow-up-bar-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-bar-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-bar-thin",
+        "arrow-up-bar-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-circle",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-circle",
+        "arrow-up-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-circle-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-circle-bold",
+        "arrow-up-circle-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-circle-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-circle-light",
+        "arrow-up-circle-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-circle-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-circle-thin",
+        "arrow-up-circle-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-square",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-square",
+        "arrow-up-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-square-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-square-bold",
+        "arrow-up-square-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-square-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-square-light",
+        "arrow-up-square-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-square-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-square-thin",
+        "arrow-up-square-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-tail",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-tail",
+        "arrow-up-tail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-tail-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-tail-bold",
+        "arrow-up-tail-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-tail-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-tail-light",
+        "arrow-up-tail-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "arrow-top-tail-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "arrow-top-tail-thin",
+        "arrow-up-tail-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "ballon",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ballon",
+        "balloon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "ballon-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ballon-bold",
+        "balloon-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "ballon-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ballon-light",
+        "balloon-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "ballon-off",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ballon-off",
+        "balloon-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "ballon-off-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ballon-off-bold",
+        "balloon-off-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "ballon-off-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ballon-off-light",
+        "balloon-off-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "ballon-off-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ballon-off-thin",
+        "balloon-off-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "ballon-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "ballon-thin",
+        "balloon-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "braile",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "braile",
+        "braille"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "braile-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "braile-bold",
+        "braille-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "braile-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "braile-light",
+        "braille-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "braile-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "braile-thin",
+        "braille-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-adobe-premier",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-adobe-premier",
+        "brand-adobe-premiere"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-adobe-premier-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-adobe-premier-bold",
+        "brand-adobe-premiere-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-adobe-premier-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-adobe-premier-light",
+        "brand-adobe-premiere-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-adobe-premier-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-adobe-premier-thin",
+        "brand-adobe-premiere-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-albolia",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-albolia",
+        "brand-algolia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-albolia-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-albolia-bold",
+        "brand-algolia-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-albolia-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-albolia-light",
+        "brand-algolia-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-albolia-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-albolia-thin",
+        "brand-algolia-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-among-us",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-among-us",
+        "brand-amongus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-among-us-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-among-us-bold",
+        "brand-amongus-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-among-us-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-among-us-light",
+        "brand-amongus-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-among-us-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-among-us-thin",
+        "brand-amongus-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-blackberry",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-blackberry",
+        "brand-blackbery"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-blackberry-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-blackberry-bold",
+        "brand-blackbery-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-blackberry-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-blackberry-light",
+        "brand-blackbery-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-blackberry-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-blackberry-thin",
+        "brand-blackbery-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-c-sharp",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-c-sharp",
+        "c-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-c-sharp-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-c-sharp-bold",
+        "c-sharp-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-c-sharp-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-c-sharp-light",
+        "c-sharp-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-c-sharp-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-c-sharp-thin",
+        "c-sharp-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-cypress",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-cypress",
+        "brand-vcypress"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-cypress-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-cypress-bold",
+        "brand-vcypress-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-cypress-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-cypress-light",
+        "brand-vcypress-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-cypress-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-cypress-thin",
+        "brand-vcypress-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-microsoft-teams",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-microsoft-teams",
+        "brand-teams"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-microsoft-teams-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-microsoft-teams-bold",
+        "brand-teams-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-microsoft-teams-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-microsoft-teams-light",
+        "brand-teams-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-microsoft-teams-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-microsoft-teams-thin",
+        "brand-teams-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-stack-ofverflow",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-stack-ofverflow",
+        "brand-stackoverflow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-stack-ofverflow-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-stack-ofverflow-bold",
+        "brand-stackoverflow-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-stack-ofverflow-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-stack-ofverflow-light",
+        "brand-stackoverflow-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "brand-stack-ofverflow-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "brand-stack-ofverflow-thin",
+        "brand-stackoverflow-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "building-pavilion",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "building-pavilion",
+        "building-pavilon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "building-pavilion-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "building-pavilion-bold",
+        "building-pavilon-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "building-pavilion-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "building-pavilion-light",
+        "building-pavilon-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "building-pavilion-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "building-pavilion-thin",
+        "building-pavilon-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "buldozer",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "buldozer",
+        "bulldozer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "buldozer-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "buldozer-bold",
+        "bulldozer-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "buldozer-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "buldozer-light",
+        "bulldozer-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "buldozer-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "buldozer-thin",
+        "bulldozer-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "cart-check",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "cart-check",
+        "cart-copy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "cart-check-bold",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "cart-check-bold",
+        "cart-copy-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "cart-check-light",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "cart-check-light",
+        "cart-copy-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Tabler",
+      "glyphName": "cart-check-thin",
+      "prefix": "tabler",
+      "sampleIcons": [
+        "cart-check-thin",
+        "cart-copy-thin"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Tabler",
+      "headBbox": "-4..1003 / 0..1004",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "tabler",
+      "reasons": [
+        "head.xMin=-4",
+        "head.xMax=1003",
+        "head.yMax=1004",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "TablerSecondary",
+      "headBbox": "0..927 / 0..928",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "tabler",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 57720,
+      "contentWidth": 83,
+      "font": "Tabler",
+      "name": "alert-small",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57722,
+      "contentWidth": 65,
+      "font": "Tabler",
+      "name": "alert-small-light",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57727,
+      "contentWidth": 45,
+      "font": "Tabler",
+      "name": "alert-small-thin",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 988048,
+      "contentWidth": 82,
+      "font": "Tabler",
+      "name": "Tabler_2__exclamation-mark",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 988050,
+      "contentWidth": 66,
+      "font": "Tabler",
+      "name": "Tabler_2__exclamation-mark-light",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 988055,
+      "contentWidth": 44,
+      "font": "Tabler",
+      "name": "Tabler_2__exclamation-mark-thin",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 992268,
+      "contentWidth": 82,
+      "font": "Tabler",
+      "name": "Tabler_3__letter-i",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 992270,
+      "contentWidth": 64,
+      "font": "Tabler",
+      "name": "Tabler_3__letter-i-light",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 992271,
+      "contentWidth": 82,
+      "font": "Tabler",
+      "name": "Tabler_3__letter-i-small",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 992273,
+      "contentWidth": 64,
+      "font": "Tabler",
+      "name": "Tabler_3__letter-i-small-light",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 992274,
+      "contentWidth": 44,
+      "font": "Tabler",
+      "name": "Tabler_3__letter-i-small-thin",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 992275,
+      "contentWidth": 44,
+      "font": "Tabler",
+      "name": "Tabler_3__letter-i-thin",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 994040,
+      "contentWidth": 82,
+      "font": "Tabler",
+      "name": "Tabler_3__minus-vertical",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 994042,
+      "contentWidth": 64,
+      "font": "Tabler",
+      "name": "Tabler_3__minus-vertical-light",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 994043,
+      "contentWidth": 44,
+      "font": "Tabler",
+      "name": "Tabler_3__minus-vertical-thin",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 994767,
+      "contentWidth": 86,
+      "font": "Tabler",
+      "name": "Tabler_3__number-1-small-thin",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 1000523,
+      "contentWidth": 82,
+      "font": "Tabler",
+      "name": "Tabler_4__tallymark-1",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 1000525,
+      "contentWidth": 64,
+      "font": "Tabler",
+      "name": "Tabler_4__tallymark-1-light",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 1000526,
+      "contentWidth": 44,
+      "font": "Tabler",
+      "name": "Tabler_4__tallymark-1-thin",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 1002068,
+      "contentWidth": 83,
+      "font": "Tabler",
+      "name": "Tabler_5__wifi-0",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 1002070,
+      "contentWidth": 64,
+      "font": "Tabler",
+      "name": "Tabler_5__wifi-0-light",
+      "prefix": "tabler",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 1002071,
+      "contentWidth": 44,
+      "font": "Tabler",
+      "name": "Tabler_5__wifi-0-thin",
+      "prefix": "tabler",
+      "reason": "narrow"
+    }
+  ],
+  "prefix": "tabler",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Tabler",
+      "glyphCount": 25511,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1003,
+        "xMin": -4,
+        "yMax": 1004,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "TablerSecondary",
+      "glyphCount": 4,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 927,
+        "xMin": 0,
+        "yMax": 928,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

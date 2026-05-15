@@ -1,0 +1,84 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "GravityUi",
+      "glyphName": "layout-side-content",
+      "prefix": "gravity-ui",
+      "sampleIcons": [
+        "layout-side-content",
+        "layout-side-content-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GravityUi",
+      "glyphName": "square",
+      "prefix": "gravity-ui",
+      "sampleIcons": [
+        "square",
+        "stop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GravityUi",
+      "glyphName": "square-fill",
+      "prefix": "gravity-ui",
+      "sampleIcons": [
+        "square-fill",
+        "stop-fill"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "GravityUi",
+      "headBbox": "-13..1013 / -7..1007",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 7,
+      "prefix": "gravity-ui",
+      "reasons": [
+        "head.xMin=-13",
+        "head.xMax=1013",
+        "head.yMin=-7",
+        "head.yMax=1007",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=7"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "gravity-ui",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "GravityUi",
+      "glyphCount": 781,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1013,
+        "xMin": -13,
+        "yMax": 1007,
+        "yMin": -7
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 7
+      }
+    }
+  ]
+}

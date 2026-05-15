@@ -1,0 +1,1467 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "bug",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "bug",
+        "bug-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "check-circle-24",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "check-circle-24",
+        "issue-closed-24"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "clippy-16",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "clippy-16",
+        "paste-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "clippy-24",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "clippy-24",
+        "paste-24"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "device-camera",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "device-camera",
+        "device-camera-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "eye-closed-24",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "eye-closed-24",
+        "eye-slash-24"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "file-media-16",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "file-media-16",
+        "image-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "file-symlink-24",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "file-symlink-24",
+        "file-symlink-file-24"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "fire-24",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "fire-24",
+        "flame-24"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "git-fork-24",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "git-fork-24",
+        "repo-forked-24"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "issue-tracked-by-16",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "issue-tracked-by-16",
+        "issue-tracked-in-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "issue-tracked-by-24",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "issue-tracked-by-24",
+        "issue-tracked-in-24"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "logo-gist",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "logo-gist",
+        "logo-gist-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "logo-github",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "logo-github",
+        "logo-github-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "mark-github",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "mark-github",
+        "mark-github-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "markdown",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "markdown",
+        "markdown-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "move-to-end-16",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "move-to-end-16",
+        "tab-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "repo-clone",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "repo-clone",
+        "repo-clone-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "repo-pull",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "repo-pull",
+        "repo-pull-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "select-single-16",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "select-single-16",
+        "single-select-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "trash-16",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "trash-16",
+        "trashcan-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Octicon",
+      "glyphName": "unverifed-24",
+      "prefix": "octicon",
+      "sampleIcons": [
+        "unverifed-24",
+        "unverified-24"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Octicon",
+      "headBbox": "-12..4261 / -12..1009",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 12,
+      "prefix": "octicon",
+      "reasons": [
+        "head.xMin=-12",
+        "head.xMax=4261",
+        "head.yMin=-12",
+        "head.yMax=1009",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=12"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 875,
+      "codepoint": 57360,
+      "font": "Octicon",
+      "name": "archive",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57363,
+      "font": "Octicon",
+      "name": "arrow-both",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57366,
+      "font": "Octicon",
+      "name": "arrow-down",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57373,
+      "font": "Octicon",
+      "name": "arrow-left",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57376,
+      "font": "Octicon",
+      "name": "arrow-right",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57379,
+      "font": "Octicon",
+      "name": "arrow-small-down",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57380,
+      "font": "Octicon",
+      "name": "arrow-small-left",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57381,
+      "font": "Octicon",
+      "name": "arrow-small-right",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57382,
+      "font": "Octicon",
+      "name": "arrow-small-up",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57385,
+      "font": "Octicon",
+      "name": "arrow-up",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57395,
+      "font": "Octicon",
+      "name": "bell",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57404,
+      "font": "Octicon",
+      "name": "bold",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57411,
+      "font": "Octicon",
+      "name": "bookmark",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57424,
+      "font": "Octicon",
+      "name": "briefcase",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57430,
+      "font": "Octicon",
+      "name": "browser",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57438,
+      "font": "Octicon",
+      "name": "calendar",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57441,
+      "font": "Octicon",
+      "name": "check",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57456,
+      "font": "Octicon",
+      "name": "chevron-down",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57460,
+      "font": "Octicon",
+      "name": "chevron-left",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57464,
+      "font": "Octicon",
+      "name": "chevron-right",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57468,
+      "font": "Octicon",
+      "name": "chevron-up",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57474,
+      "font": "Octicon",
+      "name": "circle-slash",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57477,
+      "font": "Octicon",
+      "name": "circuit-board",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57478,
+      "font": "Octicon",
+      "name": "clippy",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57481,
+      "font": "Octicon",
+      "name": "clock",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57492,
+      "font": "Octicon",
+      "name": "code",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57542,
+      "font": "Octicon",
+      "name": "dash",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57546,
+      "font": "Octicon",
+      "name": "database",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57563,
+      "font": "Octicon",
+      "name": "device-mobile",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57572,
+      "font": "Octicon",
+      "name": "diff",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57575,
+      "font": "Octicon",
+      "name": "diff-added",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57578,
+      "font": "Octicon",
+      "name": "diff-ignored",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57581,
+      "font": "Octicon",
+      "name": "diff-modified",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57584,
+      "font": "Octicon",
+      "name": "diff-removed",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57587,
+      "font": "Octicon",
+      "name": "diff-renamed",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57604,
+      "font": "Octicon",
+      "name": "ellipsis",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57612,
+      "font": "Octicon",
+      "name": "eye-closed",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57622,
+      "font": "Octicon",
+      "name": "feed-issue-reopen-16",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57635,
+      "font": "Octicon",
+      "name": "file",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57642,
+      "font": "Octicon",
+      "name": "file-binary",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57647,
+      "font": "Octicon",
+      "name": "file-code",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57652,
+      "font": "Octicon",
+      "name": "file-directory",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57661,
+      "font": "Octicon",
+      "name": "file-media",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57666,
+      "font": "Octicon",
+      "name": "file-pdf",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57669,
+      "font": "Octicon",
+      "name": "file-submodule",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57673,
+      "font": "Octicon",
+      "name": "file-symlink-directory",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57674,
+      "font": "Octicon",
+      "name": "file-symlink-file",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57677,
+      "font": "Octicon",
+      "name": "file-zip",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57687,
+      "font": "Octicon",
+      "name": "flame",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57694,
+      "font": "Octicon",
+      "name": "fold",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57697,
+      "font": "Octicon",
+      "name": "fold-down",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57700,
+      "font": "Octicon",
+      "name": "fold-up",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57703,
+      "font": "Octicon",
+      "name": "gear",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57706,
+      "font": "Octicon",
+      "name": "gift",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57709,
+      "font": "Octicon",
+      "name": "gist",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57710,
+      "font": "Octicon",
+      "name": "gist-secret",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57711,
+      "font": "Octicon",
+      "name": "git-branch",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57716,
+      "font": "Octicon",
+      "name": "git-commit",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57719,
+      "font": "Octicon",
+      "name": "git-compare",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57723,
+      "font": "Octicon",
+      "name": "git-merge",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57728,
+      "font": "Octicon",
+      "name": "git-pull-request",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57737,
+      "font": "Octicon",
+      "name": "globe",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57742,
+      "font": "Octicon",
+      "name": "grabber",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57756,
+      "font": "Octicon",
+      "name": "heart",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57761,
+      "font": "Octicon",
+      "name": "history",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57769,
+      "font": "Octicon",
+      "name": "horizontal-rule",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57774,
+      "font": "Octicon",
+      "name": "hubot",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57781,
+      "font": "Octicon",
+      "name": "inbox",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57788,
+      "font": "Octicon",
+      "name": "info",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57798,
+      "font": "Octicon",
+      "name": "issue-opened",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57801,
+      "font": "Octicon",
+      "name": "issue-reopened",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 57810,
+      "font": "Octicon",
+      "name": "italic",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57815,
+      "font": "Octicon",
+      "name": "jersey",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57816,
+      "font": "Octicon",
+      "name": "kebab-horizontal",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 187,
+      "codepoint": 57819,
+      "font": "Octicon",
+      "name": "kebab-vertical",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57820,
+      "font": "Octicon",
+      "name": "key",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57826,
+      "font": "Octicon",
+      "name": "law",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57829,
+      "font": "Octicon",
+      "name": "light-bulb",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57835,
+      "font": "Octicon",
+      "name": "link-external",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57838,
+      "font": "Octicon",
+      "name": "list-ordered",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57841,
+      "font": "Octicon",
+      "name": "list-unordered",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57844,
+      "font": "Octicon",
+      "name": "location",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57847,
+      "font": "Octicon",
+      "name": "lock",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 4250,
+      "codepoint": 57850,
+      "font": "Octicon",
+      "name": "lockup-github-16",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 4291,
+      "codepoint": 57851,
+      "font": "Octicon",
+      "name": "lockup-github-24",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1562,
+      "codepoint": 57854,
+      "font": "Octicon",
+      "name": "logo-gist",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1562,
+      "codepoint": 57855,
+      "font": "Octicon",
+      "name": "logo-gist",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1583,
+      "codepoint": 57856,
+      "font": "Octicon",
+      "name": "logo-gist-24",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 3062,
+      "codepoint": 57857,
+      "font": "Octicon",
+      "name": "logo-github",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 3062,
+      "codepoint": 57858,
+      "font": "Octicon",
+      "name": "logo-github",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 3083,
+      "codepoint": 57859,
+      "font": "Octicon",
+      "name": "logo-github-24",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57862,
+      "font": "Octicon",
+      "name": "mail",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57865,
+      "font": "Octicon",
+      "name": "mail-read",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57879,
+      "font": "Octicon",
+      "name": "mention",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57884,
+      "font": "Octicon",
+      "name": "milestone",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57918,
+      "font": "Octicon",
+      "name": "note",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57938,
+      "font": "Octicon",
+      "name": "paintcan",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57949,
+      "font": "Octicon",
+      "name": "pencil",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57956,
+      "font": "Octicon",
+      "name": "person",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57970,
+      "font": "Octicon",
+      "name": "play",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57973,
+      "font": "Octicon",
+      "name": "plug",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57976,
+      "font": "Octicon",
+      "name": "plus",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 437,
+      "codepoint": 57981,
+      "font": "Octicon",
+      "name": "plus-small",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57982,
+      "font": "Octicon",
+      "name": "primitive-dot",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57983,
+      "font": "Octicon",
+      "name": "primitive-square",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57984,
+      "font": "Octicon",
+      "name": "project",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57993,
+      "font": "Octicon",
+      "name": "pulse",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57996,
+      "font": "Octicon",
+      "name": "question",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57999,
+      "font": "Octicon",
+      "name": "quote",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58009,
+      "font": "Octicon",
+      "name": "reply",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58012,
+      "font": "Octicon",
+      "name": "repo",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58020,
+      "font": "Octicon",
+      "name": "repo-force-push",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58021,
+      "font": "Octicon",
+      "name": "repo-forked",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58029,
+      "font": "Octicon",
+      "name": "repo-push",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58043,
+      "font": "Octicon",
+      "name": "rss",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58050,
+      "font": "Octicon",
+      "name": "screen-full",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58053,
+      "font": "Octicon",
+      "name": "screen-normal",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58060,
+      "font": "Octicon",
+      "name": "server",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58069,
+      "font": "Octicon",
+      "name": "shield",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58084,
+      "font": "Octicon",
+      "name": "sign-in",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 58087,
+      "font": "Octicon",
+      "name": "sign-out",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58144,
+      "font": "Octicon",
+      "name": "star",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58149,
+      "font": "Octicon",
+      "name": "stop",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58158,
+      "font": "Octicon",
+      "name": "sync",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58167,
+      "font": "Octicon",
+      "name": "tag",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58173,
+      "font": "Octicon",
+      "name": "telescope",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58178,
+      "font": "Octicon",
+      "name": "terminal",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 58181,
+      "font": "Octicon",
+      "name": "text-size",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58182,
+      "font": "Octicon",
+      "name": "three-bars",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58200,
+      "font": "Octicon",
+      "name": "trashcan",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58202,
+      "font": "Octicon",
+      "name": "triangle-down",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 58205,
+      "font": "Octicon",
+      "name": "triangle-left",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 58208,
+      "font": "Octicon",
+      "name": "triangle-right",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58211,
+      "font": "Octicon",
+      "name": "triangle-up",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58220,
+      "font": "Octicon",
+      "name": "unfold",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58243,
+      "font": "Octicon",
+      "name": "versions",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58251,
+      "font": "Octicon",
+      "name": "watch",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58257,
+      "font": "Octicon",
+      "name": "x",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58266,
+      "font": "Octicon",
+      "name": "zap",
+      "prefix": "octicon",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57363,
+      "contentWidth": 1248,
+      "font": "Octicon",
+      "name": "arrow-both",
+      "prefix": "octicon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57612,
+      "contentWidth": 1145,
+      "font": "Octicon",
+      "name": "eye-closed",
+      "prefix": "octicon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57850,
+      "contentWidth": 4255,
+      "font": "Octicon",
+      "name": "lockup-github-16",
+      "prefix": "octicon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57851,
+      "contentWidth": 4261,
+      "font": "Octicon",
+      "name": "lockup-github-24",
+      "prefix": "octicon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57854,
+      "contentWidth": 1517,
+      "font": "Octicon",
+      "name": "logo-gist",
+      "prefix": "octicon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57855,
+      "contentWidth": 1517,
+      "font": "Octicon",
+      "name": "logo-gist",
+      "prefix": "octicon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57856,
+      "contentWidth": 1517,
+      "font": "Octicon",
+      "name": "logo-gist-24",
+      "prefix": "octicon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57857,
+      "contentWidth": 3064,
+      "font": "Octicon",
+      "name": "logo-github",
+      "prefix": "octicon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57858,
+      "contentWidth": 3064,
+      "font": "Octicon",
+      "name": "logo-github",
+      "prefix": "octicon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57859,
+      "contentWidth": 3088,
+      "font": "Octicon",
+      "name": "logo-github-24",
+      "prefix": "octicon",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "octicon",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Octicon",
+      "glyphCount": 929,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 4261,
+        "xMin": -12,
+        "yMax": 1009,
+        "yMin": -12
+      },
+      "hhea": {
+        "advanceWidthMax": 4291,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 12
+      }
+    }
+  ]
+}

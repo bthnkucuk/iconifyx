@@ -1551,6 +1551,17 @@ Risk if skipped: 1 500+ duotone icons across logos / lets-icons /
 catppuccin / cif / cryptocurrency-color etc. — a half-failure looks
 like a Phosphor-bug-not-iconifyx-bug to the consumer.
 
+**Implemented (extended) → `bun run audit glyph-metrics`**. Lives in
+`tools/generator/audit/glyph_metrics.ts` and writes
+`GLYPH_METRICS_AUDIT.md` + `docs/audit/glyph-metrics/<prefix>.json`.
+Goes beyond the A6 scope (presence) to also catch alignment-class
+bugs: primary/secondary x-bbox mismatch (`solar:add-circle-bold-
+duotone` discovery — score 522), cmap-dedup collisions via path
+hash (the `SolarSecondary.accessibility-bold-duotone` glyph shared
+across 69 codepoints), font-level metric drift, and outlier glyphs.
+First run: 6,320 mismatches across 59 packs, 18,513 dedup
+collisions across 166 packs.
+
 ### Honourable mentions kept out of top 5
 
 - **A4 — Codepoint exhaustion forecast** (30 min). Per-font slot

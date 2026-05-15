@@ -1,0 +1,6799 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 152,
+      "font": "Twemoji",
+      "glyphName": "a-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "a-button",
+        "a-button-blood-type",
+        "ab-button",
+        "ab-button-blood-type"
+      ]
+    },
+    {
+      "codepointCount": 19,
+      "font": "Twemoji",
+      "glyphName": "angry-face",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "angry-face",
+        "anguished-face",
+        "confounded-face",
+        "confused-face"
+      ]
+    },
+    {
+      "codepointCount": 16,
+      "font": "Twemoji",
+      "glyphName": "england",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "england",
+        "flag-england",
+        "flag-european-union",
+        "flag-for-england"
+      ]
+    },
+    {
+      "codepointCount": 15,
+      "font": "Twemoji",
+      "glyphName": "basketball",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "basketball",
+        "blue-circle",
+        "disappointed-face",
+        "face-with-spiral-eyes"
+      ]
+    },
+    {
+      "codepointCount": 10,
+      "font": "Twemoji",
+      "glyphName": "circled-m",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "circled-m",
+        "face-with-diagonal-mouth",
+        "face-with-open-mouth",
+        "face-with-raised-eyebrow"
+      ]
+    },
+    {
+      "codepointCount": 10,
+      "font": "Twemoji",
+      "glyphName": "family-adult-adult-child-child",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "family-adult-adult-child-child",
+        "family-man-man-boy-boy",
+        "family-man-man-girl-boy",
+        "family-man-man-girl-girl"
+      ]
+    },
+    {
+      "codepointCount": 10,
+      "font": "Twemoji",
+      "glyphName": "flag-antarctica",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-antarctica",
+        "flag-bangladesh",
+        "flag-china",
+        "flag-for-antarctica"
+      ]
+    },
+    {
+      "codepointCount": 10,
+      "font": "TwemojiSecondary",
+      "glyphName": "family-adult-adult-child-child",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "family-adult-adult-child-child",
+        "family-man-man-boy-boy",
+        "family-man-man-girl-boy",
+        "family-man-man-girl-girl"
+      ]
+    },
+    {
+      "codepointCount": 9,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-indonesia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-indonesia",
+        "flag-for-flag-poland",
+        "flag-for-flag-ukraine",
+        "flag-for-indonesia"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Twemoji",
+      "glyphName": "blue-heart",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "blue-heart",
+        "green-heart",
+        "grey-heart",
+        "light-blue-heart"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Twemoji",
+      "glyphName": "family",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "family",
+        "family-adult-adult-child",
+        "family-man-man-boy",
+        "family-man-man-girl"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Twemoji",
+      "glyphName": "flag-for-european-union",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-european-union",
+        "flag-for-flag-european-union",
+        "flag-for-flag-micronesia",
+        "flag-for-flag-morocco"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "TwemojiSecondary",
+      "glyphName": "family",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "family",
+        "family-adult-adult-child",
+        "family-man-man-boy",
+        "family-man-man-girl"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "Twemoji",
+      "glyphName": "family-adult-child-child",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "family-adult-child-child",
+        "family-man-boy-boy",
+        "family-man-girl-boy",
+        "family-man-girl-girl"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "TwemojiSecondary",
+      "glyphName": "family-adult-child-child",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "family-adult-child-child",
+        "family-man-boy-boy",
+        "family-man-girl-boy",
+        "family-man-girl-girl"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "call-me-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "call-me-hand",
+        "call-me-hand-dark-skin-tone",
+        "call-me-hand-light-skin-tone",
+        "call-me-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "ear",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "ear",
+        "ear-dark-skin-tone",
+        "ear-light-skin-tone",
+        "ear-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "flag-for-bangladesh",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-bangladesh",
+        "flag-for-china",
+        "flag-for-flag-bangladesh",
+        "flag-for-flag-china"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-nigeria",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-nigeria",
+        "flag-for-flag-peru",
+        "flag-for-nigeria",
+        "flag-for-peru"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "flexed-biceps",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flexed-biceps",
+        "flexed-biceps-dark-skin-tone",
+        "flexed-biceps-light-skin-tone",
+        "flexed-biceps-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "foot",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "foot",
+        "foot-dark-skin-tone",
+        "foot-light-skin-tone",
+        "foot-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "hand-with-fingers-splayed",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "hand-with-fingers-splayed",
+        "hand-with-fingers-splayed-dark-skin-tone",
+        "hand-with-fingers-splayed-light-skin-tone",
+        "hand-with-fingers-splayed-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "hand-with-index-finger-and-thumb-crossed",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "hand-with-index-finger-and-thumb-crossed",
+        "hand-with-index-finger-and-thumb-crossed-dark-skin-tone",
+        "hand-with-index-finger-and-thumb-crossed-light-skin-tone",
+        "hand-with-index-finger-and-thumb-crossed-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "heart-hands",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "heart-hands",
+        "heart-hands-dark-skin-tone",
+        "heart-hands-light-skin-tone",
+        "heart-hands-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "index-pointing-at-the-viewer",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "index-pointing-at-the-viewer",
+        "index-pointing-at-the-viewer-dark-skin-tone",
+        "index-pointing-at-the-viewer-light-skin-tone",
+        "index-pointing-at-the-viewer-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "left-facing-fist",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "left-facing-fist",
+        "left-facing-fist-dark-skin-tone",
+        "left-facing-fist-light-skin-tone",
+        "left-facing-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "leftwards-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "leftwards-hand",
+        "leftwards-hand-dark-skin-tone",
+        "leftwards-hand-light-skin-tone",
+        "leftwards-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "leg",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "leg",
+        "leg-dark-skin-tone",
+        "leg-light-skin-tone",
+        "leg-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "love-you-gesture",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "love-you-gesture",
+        "love-you-gesture-dark-skin-tone",
+        "love-you-gesture-light-skin-tone",
+        "love-you-gesture-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "middle-finger",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "middle-finger",
+        "middle-finger-dark-skin-tone",
+        "middle-finger-light-skin-tone",
+        "middle-finger-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "ok-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "ok-hand",
+        "ok-hand-dark-skin-tone",
+        "ok-hand-light-skin-tone",
+        "ok-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "oncoming-fist",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "oncoming-fist",
+        "oncoming-fist-dark-skin-tone",
+        "oncoming-fist-light-skin-tone",
+        "oncoming-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "palm-down-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "palm-down-hand",
+        "palm-down-hand-dark-skin-tone",
+        "palm-down-hand-light-skin-tone",
+        "palm-down-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "palm-up-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "palm-up-hand",
+        "palm-up-hand-dark-skin-tone",
+        "palm-up-hand-light-skin-tone",
+        "palm-up-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "pinching-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "pinching-hand",
+        "pinching-hand-dark-skin-tone",
+        "pinching-hand-light-skin-tone",
+        "pinching-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "raised-back-of-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "raised-back-of-hand",
+        "raised-back-of-hand-dark-skin-tone",
+        "raised-back-of-hand-light-skin-tone",
+        "raised-back-of-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "raised-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "raised-hand",
+        "raised-hand-dark-skin-tone",
+        "raised-hand-light-skin-tone",
+        "raised-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "right-facing-fist",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "right-facing-fist",
+        "right-facing-fist-dark-skin-tone",
+        "right-facing-fist-light-skin-tone",
+        "right-facing-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "rightwards-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "rightwards-hand",
+        "rightwards-hand-dark-skin-tone",
+        "rightwards-hand-light-skin-tone",
+        "rightwards-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "rightwards-pushing-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "rightwards-pushing-hand",
+        "rightwards-pushing-hand-dark-skin-tone",
+        "rightwards-pushing-hand-light-skin-tone",
+        "rightwards-pushing-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "thumbs-down",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "thumbs-down",
+        "thumbs-down-dark-skin-tone",
+        "thumbs-down-light-skin-tone",
+        "thumbs-down-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "thumbs-up",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "thumbs-up",
+        "thumbs-up-dark-skin-tone",
+        "thumbs-up-light-skin-tone",
+        "thumbs-up-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Twemoji",
+      "glyphName": "vulcan-salute",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "vulcan-salute",
+        "vulcan-salute-dark-skin-tone",
+        "vulcan-salute-light-skin-tone",
+        "vulcan-salute-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "call-me-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "call-me-hand",
+        "call-me-hand-dark-skin-tone",
+        "call-me-hand-light-skin-tone",
+        "call-me-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "ear",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "ear",
+        "ear-dark-skin-tone",
+        "ear-light-skin-tone",
+        "ear-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-indonesia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-indonesia",
+        "flag-for-flag-ukraine",
+        "flag-for-indonesia",
+        "flag-for-ukraine"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-nigeria",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-nigeria",
+        "flag-for-flag-peru",
+        "flag-for-nigeria",
+        "flag-for-peru"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "flexed-biceps",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flexed-biceps",
+        "flexed-biceps-dark-skin-tone",
+        "flexed-biceps-light-skin-tone",
+        "flexed-biceps-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "foot",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "foot",
+        "foot-dark-skin-tone",
+        "foot-light-skin-tone",
+        "foot-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "hand-with-fingers-splayed",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "hand-with-fingers-splayed",
+        "hand-with-fingers-splayed-dark-skin-tone",
+        "hand-with-fingers-splayed-light-skin-tone",
+        "hand-with-fingers-splayed-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "hand-with-index-finger-and-thumb-crossed",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "hand-with-index-finger-and-thumb-crossed",
+        "hand-with-index-finger-and-thumb-crossed-dark-skin-tone",
+        "hand-with-index-finger-and-thumb-crossed-light-skin-tone",
+        "hand-with-index-finger-and-thumb-crossed-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "heart-hands",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "heart-hands",
+        "heart-hands-dark-skin-tone",
+        "heart-hands-light-skin-tone",
+        "heart-hands-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "index-pointing-at-the-viewer",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "index-pointing-at-the-viewer",
+        "index-pointing-at-the-viewer-dark-skin-tone",
+        "index-pointing-at-the-viewer-light-skin-tone",
+        "index-pointing-at-the-viewer-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "left-facing-fist",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "left-facing-fist",
+        "left-facing-fist-dark-skin-tone",
+        "left-facing-fist-light-skin-tone",
+        "left-facing-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "leftwards-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "leftwards-hand",
+        "leftwards-hand-dark-skin-tone",
+        "leftwards-hand-light-skin-tone",
+        "leftwards-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "leg",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "leg",
+        "leg-dark-skin-tone",
+        "leg-light-skin-tone",
+        "leg-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "love-you-gesture",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "love-you-gesture",
+        "love-you-gesture-dark-skin-tone",
+        "love-you-gesture-light-skin-tone",
+        "love-you-gesture-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "middle-finger",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "middle-finger",
+        "middle-finger-dark-skin-tone",
+        "middle-finger-light-skin-tone",
+        "middle-finger-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "ok-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "ok-hand",
+        "ok-hand-dark-skin-tone",
+        "ok-hand-light-skin-tone",
+        "ok-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "oncoming-fist",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "oncoming-fist",
+        "oncoming-fist-dark-skin-tone",
+        "oncoming-fist-light-skin-tone",
+        "oncoming-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "open-hands",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "open-hands",
+        "open-hands-dark-skin-tone",
+        "open-hands-light-skin-tone",
+        "open-hands-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "palm-down-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "palm-down-hand",
+        "palm-down-hand-dark-skin-tone",
+        "palm-down-hand-light-skin-tone",
+        "palm-down-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "palm-up-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "palm-up-hand",
+        "palm-up-hand-dark-skin-tone",
+        "palm-up-hand-light-skin-tone",
+        "palm-up-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "palms-up-together",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "palms-up-together",
+        "palms-up-together-dark-skin-tone",
+        "palms-up-together-light-skin-tone",
+        "palms-up-together-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "pinching-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "pinching-hand",
+        "pinching-hand-dark-skin-tone",
+        "pinching-hand-light-skin-tone",
+        "pinching-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "raised-back-of-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "raised-back-of-hand",
+        "raised-back-of-hand-dark-skin-tone",
+        "raised-back-of-hand-light-skin-tone",
+        "raised-back-of-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "raised-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "raised-hand",
+        "raised-hand-dark-skin-tone",
+        "raised-hand-light-skin-tone",
+        "raised-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "right-facing-fist",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "right-facing-fist",
+        "right-facing-fist-dark-skin-tone",
+        "right-facing-fist-light-skin-tone",
+        "right-facing-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "rightwards-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "rightwards-hand",
+        "rightwards-hand-dark-skin-tone",
+        "rightwards-hand-light-skin-tone",
+        "rightwards-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "rightwards-pushing-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "rightwards-pushing-hand",
+        "rightwards-pushing-hand-dark-skin-tone",
+        "rightwards-pushing-hand-light-skin-tone",
+        "rightwards-pushing-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "thumbs-down",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "thumbs-down",
+        "thumbs-down-dark-skin-tone",
+        "thumbs-down-light-skin-tone",
+        "thumbs-down-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "thumbs-up",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "thumbs-up",
+        "thumbs-up-dark-skin-tone",
+        "thumbs-up-light-skin-tone",
+        "thumbs-up-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "TwemojiSecondary",
+      "glyphName": "vulcan-salute",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "vulcan-salute",
+        "vulcan-salute-dark-skin-tone",
+        "vulcan-salute-light-skin-tone",
+        "vulcan-salute-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Twemoji",
+      "glyphName": "family-adult-child",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "family-adult-child",
+        "family-man-boy",
+        "family-man-girl",
+        "family-woman-boy"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Twemoji",
+      "glyphName": "leftwards-pushing-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "leftwards-pushing-hand",
+        "leftwards-pushing-hand-dark-skin-tone",
+        "leftwards-pushing-hand-light-skin-tone",
+        "leftwards-pushing-hand-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "TwemojiSecondary",
+      "glyphName": "family-adult-child",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "family-adult-child",
+        "family-man-boy",
+        "family-man-girl",
+        "family-woman-boy"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "TwemojiSecondary",
+      "glyphName": "leftwards-pushing-hand",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "leftwards-pushing-hand",
+        "leftwards-pushing-hand-dark-skin-tone",
+        "leftwards-pushing-hand-light-skin-tone",
+        "leftwards-pushing-hand-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Twemoji",
+      "glyphName": "backhand-index-pointing-left",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "backhand-index-pointing-left",
+        "backhand-index-pointing-left-light-skin-tone",
+        "backhand-index-pointing-left-medium-light-skin-tone",
+        "backhand-index-pointing-left-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Twemoji",
+      "glyphName": "backhand-index-pointing-right",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "backhand-index-pointing-right",
+        "backhand-index-pointing-right-light-skin-tone",
+        "backhand-index-pointing-right-medium-light-skin-tone",
+        "backhand-index-pointing-right-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Twemoji",
+      "glyphName": "backhand-index-pointing-up",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "backhand-index-pointing-up",
+        "backhand-index-pointing-up-light-skin-tone",
+        "backhand-index-pointing-up-medium-light-skin-tone",
+        "backhand-index-pointing-up-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Twemoji",
+      "glyphName": "fast-reverse-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "fast-reverse-button",
+        "left-arrow-curving-right",
+        "reverse-button",
+        "up-right-arrow"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "TwemojiSecondary",
+      "glyphName": "ballot-box-with-check",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "ballot-box-with-check",
+        "check-box-with-check",
+        "check-mark-button",
+        "white-heavy-check-mark"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-turkey",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-turkey",
+        "flag-for-turkey",
+        "flag-turkey",
+        "flag-turkiye"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "backhand-index-pointing-down",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "backhand-index-pointing-down",
+        "backhand-index-pointing-down-light-skin-tone",
+        "backhand-index-pointing-down-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "curly-haired",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "curly-haired",
+        "red-haired",
+        "white-haired"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-austria",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-austria",
+        "flag-for-austria",
+        "flag-for-flag-austria"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-bahrain",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-bahrain",
+        "flag-for-bahrain",
+        "flag-for-flag-bahrain"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-canada",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-canada",
+        "flag-for-canada",
+        "flag-for-flag-canada"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-denmark",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-denmark",
+        "flag-for-denmark",
+        "flag-for-flag-denmark"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-georgia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-georgia",
+        "flag-for-georgia",
+        "flag-georgia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-greece",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-greece",
+        "flag-for-greece",
+        "flag-greece"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-latvia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-latvia",
+        "flag-for-latvia",
+        "flag-latvia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-monaco",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-monaco",
+        "flag-for-monaco",
+        "flag-monaco"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-norfolk-island",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-norfolk-island",
+        "flag-for-norfolk-island",
+        "flag-norfolk-island"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-north-macedonia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-north-macedonia",
+        "flag-for-macedonia",
+        "flag-north-macedonia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-sweden",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-sweden",
+        "flag-for-sweden",
+        "flag-sweden"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-switzerland",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-switzerland",
+        "flag-for-switzerland",
+        "flag-switzerland"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-tonga",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-tonga",
+        "flag-for-tonga",
+        "flag-tonga"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Twemoji",
+      "glyphName": "light-skin-tone",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "light-skin-tone",
+        "medium-light-skin-tone",
+        "medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "a-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "a-button",
+        "a-button-blood-type",
+        "letter-a"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "angry-face",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "angry-face",
+        "enraged-face",
+        "pouting-face"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "b-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "b-button",
+        "b-button-blood-type",
+        "letter-b"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "england",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "england",
+        "flag-england",
+        "flag-for-england"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-antarctica",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-antarctica",
+        "flag-for-antarctica",
+        "flag-for-flag-antarctica"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-austria",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-austria",
+        "flag-for-austria",
+        "flag-for-flag-austria"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-bahrain",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-bahrain",
+        "flag-for-bahrain",
+        "flag-for-flag-bahrain"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-bangladesh",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-bangladesh",
+        "flag-for-bangladesh",
+        "flag-for-flag-bangladesh"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-canada",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-canada",
+        "flag-for-canada",
+        "flag-for-flag-canada"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-china",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-china",
+        "flag-for-china",
+        "flag-for-flag-china"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-denmark",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-denmark",
+        "flag-for-denmark",
+        "flag-for-flag-denmark"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-european-union",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-european-union",
+        "flag-for-european-union",
+        "flag-for-flag-european-union"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-georgia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-georgia",
+        "flag-for-georgia",
+        "flag-georgia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-greece",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-greece",
+        "flag-for-greece",
+        "flag-greece"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-japan",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-japan",
+        "flag-for-japan",
+        "flag-japan"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-latvia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-latvia",
+        "flag-for-latvia",
+        "flag-latvia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-micronesia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-micronesia",
+        "flag-for-micronesia",
+        "flag-micronesia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-monaco",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-monaco",
+        "flag-for-monaco",
+        "flag-monaco"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-norfolk-island",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-norfolk-island",
+        "flag-for-norfolk-island",
+        "flag-norfolk-island"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-north-macedonia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-north-macedonia",
+        "flag-for-macedonia",
+        "flag-north-macedonia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-palau",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-palau",
+        "flag-for-palau",
+        "flag-palau"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-poland",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-poland",
+        "flag-for-poland",
+        "flag-poland"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-somalia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-somalia",
+        "flag-for-somalia",
+        "flag-somalia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-sweden",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-sweden",
+        "flag-for-sweden",
+        "flag-sweden"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-switzerland",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-switzerland",
+        "flag-for-switzerland",
+        "flag-switzerland"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-tonga",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-tonga",
+        "flag-for-tonga",
+        "flag-tonga"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-tunisia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-tunisia",
+        "flag-for-tunisia",
+        "flag-tunisia"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-vietnam",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-vietnam",
+        "flag-for-vietnam",
+        "flag-vietnam"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-scotland",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-scotland",
+        "flag-scotland",
+        "scotland"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "angry-face-with-horns",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "angry-face-with-horns",
+        "smiling-face-with-horns"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "antenna-bars",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "antenna-bars",
+        "litter-in-bin-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "bell",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "bell",
+        "bell-with-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "biohazard",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "biohazard",
+        "radioactive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "cloud-with-rain",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "cloud-with-rain",
+        "cloud-with-snow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "down-right-arrow",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "down-right-arrow",
+        "information"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "drop-of-blood",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "drop-of-blood",
+        "droplet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "file-folder",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "file-folder",
+        "open-file-folder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "flag-for-albania",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-albania",
+        "flag-for-flag-albania"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "flag-for-cyprus",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-cyprus",
+        "flag-for-flag-cyprus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-greenland",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-greenland",
+        "flag-for-greenland"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-qatar",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-qatar",
+        "flag-for-qatar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "flag-for-flag-tunisia",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-tunisia",
+        "flag-for-tunisia"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "flag-for-triangular-flag",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-triangular-flag",
+        "triangular-flag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "ice",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "ice",
+        "ice-cube"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "japanese-congratulations-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "japanese-congratulations-button",
+        "japanese-secret-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "jigsaw",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "jigsaw",
+        "puzzle-piece"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "mobile-phone-off",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "mobile-phone-off",
+        "vibration-mode"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "star",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "star",
+        "white-medium-star"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Twemoji",
+      "glyphName": "woman-detective",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "woman-detective",
+        "woman-detective-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "ab-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "ab-button",
+        "ab-button-blood-type"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "anticlockwise-arrows-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "anticlockwise-arrows-button",
+        "counterclockwise-arrows-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "black-square-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "black-square-button",
+        "white-square-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "circled-m",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "circled-m",
+        "letter-m"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "dizzy-face",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "dizzy-face",
+        "knocked-out-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "down-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "down-button",
+        "downwards-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-albania",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-albania",
+        "flag-for-flag-albania"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-greenland",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-greenland",
+        "flag-for-greenland"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-morocco",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-morocco",
+        "flag-for-morocco"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-flag-qatar",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-flag-qatar",
+        "flag-for-qatar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "flag-for-triangular-flag",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "flag-for-triangular-flag",
+        "triangular-flag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "ice",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "ice",
+        "ice-cube"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "locked",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "locked",
+        "unlocked"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "o-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "o-button",
+        "o-button-blood-type"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "red-haired",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "red-haired",
+        "white-haired"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "scorpio",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "scorpio",
+        "scorpius"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "up-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "up-button",
+        "upwards-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "TwemojiSecondary",
+      "glyphName": "up-exclamation-button",
+      "prefix": "twemoji",
+      "sampleIcons": [
+        "up-exclamation-button",
+        "up-text-button"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58013,
+      "icon": "two-hump-camel",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 997,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 772,
+      "secondary": {
+        "xMax": 225,
+        "xMin": 0,
+        "yMax": 786,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57403,
+      "icon": "camel",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 927,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 769,
+      "secondary": {
+        "xMax": 231,
+        "xMin": 0,
+        "yMax": 874,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57875,
+      "icon": "pig",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 736,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 706,
+      "secondary": {
+        "xMax": 295,
+        "xMin": 0,
+        "yMax": 558,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57871,
+      "icon": "pear",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 802,
+        "yMin": -8
+      },
+      "primaryFont": "Twemoji",
+      "score": 699,
+      "secondary": {
+        "xMax": 237,
+        "xMin": 0,
+        "yMax": 987,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57454,
+      "icon": "eggplant",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 973,
+        "xMin": 0,
+        "yMax": 889,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 667,
+      "secondary": {
+        "xMax": 306,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57890,
+      "icon": "postal-horn",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 636,
+      "secondary": {
+        "xMax": 364,
+        "xMin": 0,
+        "yMax": 445,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57729,
+      "icon": "left-facing-fist",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -2,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 625,
+      "secondary": {
+        "xMax": 378,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57730,
+      "icon": "left-facing-fist-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -2,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 625,
+      "secondary": {
+        "xMax": 378,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57731,
+      "icon": "left-facing-fist-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -2,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 625,
+      "secondary": {
+        "xMax": 378,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57732,
+      "icon": "left-facing-fist-medium-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -2,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 625,
+      "secondary": {
+        "xMax": 378,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57733,
+      "icon": "left-facing-fist-medium-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -2,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 625,
+      "secondary": {
+        "xMax": 378,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57734,
+      "icon": "left-facing-fist-medium-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -2,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 625,
+      "secondary": {
+        "xMax": 378,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57892,
+      "icon": "poultry-leg",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 390,
+        "xMin": 0,
+        "yMax": 993,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 617,
+      "secondary": {
+        "xMax": 1007,
+        "xMin": 0,
+        "yMax": 778,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57512,
+      "icon": "flag-bahrain",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 417,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 585,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57523,
+      "icon": "flag-for-bahrain",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 417,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 585,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57534,
+      "icon": "flag-for-flag-bahrain",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 417,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 585,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57560,
+      "icon": "flag-for-flag-tonga",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 585,
+      "secondary": {
+        "xMax": 417,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57585,
+      "icon": "flag-for-tonga",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 585,
+      "secondary": {
+        "xMax": 417,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57612,
+      "icon": "flag-tonga",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 585,
+      "secondary": {
+        "xMax": 417,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57515,
+      "icon": "flag-china",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 556,
+      "secondary": {
+        "xMax": 445,
+        "xMin": 0,
+        "yMax": 757,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57526,
+      "icon": "flag-for-china",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 556,
+      "secondary": {
+        "xMax": 445,
+        "xMin": 0,
+        "yMax": 757,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57537,
+      "icon": "flag-for-flag-china",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 556,
+      "secondary": {
+        "xMax": 445,
+        "xMin": 0,
+        "yMax": 757,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57586,
+      "icon": "flag-for-triangular-flag",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 362,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 556,
+      "secondary": {
+        "xMax": 918,
+        "xMin": 0,
+        "yMax": 967,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57968,
+      "icon": "sparkles",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 973,
+        "xMin": 0,
+        "yMax": 945,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 556,
+      "secondary": {
+        "xMax": 417,
+        "xMin": 0,
+        "yMax": 936,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58009,
+      "icon": "triangular-flag",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 362,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 556,
+      "secondary": {
+        "xMax": 918,
+        "xMin": 0,
+        "yMax": 967,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57556,
+      "icon": "flag-for-flag-qatar",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 549,
+      "secondary": {
+        "xMax": 453,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57580,
+      "icon": "flag-for-qatar",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 549,
+      "secondary": {
+        "xMax": 453,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57606,
+      "icon": "flag-qatar",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 549,
+      "secondary": {
+        "xMax": 453,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57802,
+      "icon": "middle-finger",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -2
+      },
+      "primaryFont": "Twemoji",
+      "score": 528,
+      "secondary": {
+        "xMax": 306,
+        "xMin": 0,
+        "yMax": 556,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57803,
+      "icon": "middle-finger-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -2
+      },
+      "primaryFont": "Twemoji",
+      "score": 528,
+      "secondary": {
+        "xMax": 306,
+        "xMin": 0,
+        "yMax": 556,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57804,
+      "icon": "middle-finger-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -2
+      },
+      "primaryFont": "Twemoji",
+      "score": 528,
+      "secondary": {
+        "xMax": 306,
+        "xMin": 0,
+        "yMax": 556,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57805,
+      "icon": "middle-finger-medium-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -2
+      },
+      "primaryFont": "Twemoji",
+      "score": 528,
+      "secondary": {
+        "xMax": 306,
+        "xMin": 0,
+        "yMax": 556,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57806,
+      "icon": "middle-finger-medium-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -2
+      },
+      "primaryFont": "Twemoji",
+      "score": 528,
+      "secondary": {
+        "xMax": 306,
+        "xMin": 0,
+        "yMax": 556,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57807,
+      "icon": "middle-finger-medium-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -2
+      },
+      "primaryFont": "Twemoji",
+      "score": 528,
+      "secondary": {
+        "xMax": 306,
+        "xMin": 0,
+        "yMax": 556,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57749,
+      "icon": "leg",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 790,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 505,
+      "secondary": {
+        "xMax": 285,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57750,
+      "icon": "leg-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 790,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 505,
+      "secondary": {
+        "xMax": 285,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57751,
+      "icon": "leg-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 790,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 505,
+      "secondary": {
+        "xMax": 285,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57752,
+      "icon": "leg-medium-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 790,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 505,
+      "secondary": {
+        "xMax": 285,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57753,
+      "icon": "leg-medium-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 790,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 505,
+      "secondary": {
+        "xMax": 285,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57754,
+      "icon": "leg-medium-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 790,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 505,
+      "secondary": {
+        "xMax": 285,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58012,
+      "icon": "trumpet",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 976,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 487,
+      "secondary": {
+        "xMax": 489,
+        "xMin": 0,
+        "yMax": 712,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57970,
+      "icon": "speaker-high-volume",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 443,
+      "secondary": {
+        "xMax": 556,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57788,
+      "icon": "love-you-gesture",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 967,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 441,
+      "secondary": {
+        "xMax": 526,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57789,
+      "icon": "love-you-gesture-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 967,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 441,
+      "secondary": {
+        "xMax": 526,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57790,
+      "icon": "love-you-gesture-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 967,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 441,
+      "secondary": {
+        "xMax": 526,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57791,
+      "icon": "love-you-gesture-medium-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 967,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 441,
+      "secondary": {
+        "xMax": 526,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57792,
+      "icon": "love-you-gesture-medium-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 967,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 441,
+      "secondary": {
+        "xMax": 526,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57793,
+      "icon": "love-you-gesture-medium-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 967,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 441,
+      "secondary": {
+        "xMax": 526,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57670,
+      "icon": "ice",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 975,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 439,
+      "secondary": {
+        "xMax": 536,
+        "xMin": 0,
+        "yMax": 370,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57671,
+      "icon": "ice-cube",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 975,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 439,
+      "secondary": {
+        "xMax": 536,
+        "xMin": 0,
+        "yMax": 370,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57764,
+      "icon": "letter-i",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 435,
+      "secondary": {
+        "xMax": 565,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57680,
+      "icon": "information",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 430,
+      "secondary": {
+        "xMax": 570,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58036,
+      "icon": "warning",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 989,
+        "xMin": 0,
+        "yMax": 984,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 421,
+      "secondary": {
+        "xMax": 568,
+        "xMin": 0,
+        "yMax": 763,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57706,
+      "icon": "keycap-1",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 413,
+      "secondary": {
+        "xMax": 587,
+        "xMin": 0,
+        "yMax": 809,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57457,
+      "icon": "electric-plug",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 534,
+        "xMin": 0,
+        "yMax": 989,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 411,
+      "secondary": {
+        "xMax": 945,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57878,
+      "icon": "pinching-hand",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 976,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 378,
+      "secondary": {
+        "xMax": 598,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57879,
+      "icon": "pinching-hand-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 976,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 378,
+      "secondary": {
+        "xMax": 598,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57880,
+      "icon": "pinching-hand-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 976,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 378,
+      "secondary": {
+        "xMax": 598,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57881,
+      "icon": "pinching-hand-medium-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 976,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 378,
+      "secondary": {
+        "xMax": 598,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57882,
+      "icon": "pinching-hand-medium-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 976,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 378,
+      "secondary": {
+        "xMax": 598,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57883,
+      "icon": "pinching-hand-medium-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 976,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 378,
+      "secondary": {
+        "xMax": 598,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57785,
+      "icon": "linked-paperclips",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 975,
+        "xMin": 0,
+        "yMax": 997,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 374,
+      "secondary": {
+        "xMax": 601,
+        "xMin": 0,
+        "yMax": 954,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57549,
+      "icon": "flag-for-flag-morocco",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 369,
+      "secondary": {
+        "xMax": 633,
+        "xMin": 0,
+        "yMax": 637,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57574,
+      "icon": "flag-for-morocco",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 369,
+      "secondary": {
+        "xMax": 633,
+        "xMin": 0,
+        "yMax": 637,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57599,
+      "icon": "flag-morocco",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 369,
+      "secondary": {
+        "xMax": 633,
+        "xMin": 0,
+        "yMax": 637,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57553,
+      "icon": "flag-for-flag-palau",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 368,
+      "secondary": {
+        "xMax": 634,
+        "xMin": 0,
+        "yMax": 723,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57577,
+      "icon": "flag-for-palau",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 368,
+      "secondary": {
+        "xMax": 634,
+        "xMin": 0,
+        "yMax": 723,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57603,
+      "icon": "flag-palau",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 368,
+      "secondary": {
+        "xMax": 634,
+        "xMin": 0,
+        "yMax": 723,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57513,
+      "icon": "flag-bangladesh",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 362,
+      "secondary": {
+        "xMax": 639,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57524,
+      "icon": "flag-for-bangladesh",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 362,
+      "secondary": {
+        "xMax": 639,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57535,
+      "icon": "flag-for-flag-bangladesh",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 362,
+      "secondary": {
+        "xMax": 639,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57765,
+      "icon": "letter-j",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 358,
+      "secondary": {
+        "xMax": 642,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57645,
+      "icon": "hammer",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 968,
+        "xMin": 0,
+        "yMax": 801,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 349,
+      "secondary": {
+        "xMax": 619,
+        "xMin": 0,
+        "yMax": 944,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57557,
+      "icon": "flag-for-flag-somalia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 336,
+      "secondary": {
+        "xMax": 666,
+        "xMin": 0,
+        "yMax": 674,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57582,
+      "icon": "flag-for-somalia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 336,
+      "secondary": {
+        "xMax": 666,
+        "xMin": 0,
+        "yMax": 674,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57609,
+      "icon": "flag-somalia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 336,
+      "secondary": {
+        "xMax": 666,
+        "xMin": 0,
+        "yMax": 674,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57550,
+      "icon": "flag-for-flag-nigeria",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 335,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57551,
+      "icon": "flag-for-flag-norfolk-island",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 335,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57554,
+      "icon": "flag-for-flag-peru",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 335,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57575,
+      "icon": "flag-for-nigeria",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 335,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57576,
+      "icon": "flag-for-norfolk-island",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 335,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57578,
+      "icon": "flag-for-peru",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 335,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57600,
+      "icon": "flag-nigeria",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 335,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57601,
+      "icon": "flag-norfolk-island",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 335,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57604,
+      "icon": "flag-peru",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 335,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57396,
+      "icon": "busts-in-silhouette",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 973,
+        "xMin": 0,
+        "yMax": 983,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 334,
+      "secondary": {
+        "xMax": 639,
+        "xMin": 0,
+        "yMax": 761,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57436,
+      "icon": "dizzy",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1009,
+        "xMin": 0,
+        "yMax": 1009,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 334,
+      "secondary": {
+        "xMax": 675,
+        "xMin": 0,
+        "yMax": 620,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57417,
+      "icon": "cloud-with-lightning",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 669,
+        "xMin": 0,
+        "yMax": 474,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 332,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57877,
+      "icon": "pill",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 697,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 324,
+      "secondary": {
+        "xMax": 677,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57561,
+      "icon": "flag-for-flag-tunisia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 321,
+      "secondary": {
+        "xMax": 681,
+        "xMin": 0,
+        "yMax": 681,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57587,
+      "icon": "flag-for-tunisia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 321,
+      "secondary": {
+        "xMax": 681,
+        "xMin": 0,
+        "yMax": 681,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57613,
+      "icon": "flag-tunisia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 321,
+      "secondary": {
+        "xMax": 681,
+        "xMin": 0,
+        "yMax": 681,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57760,
+      "icon": "letter-e",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 310,
+      "secondary": {
+        "xMax": 690,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57761,
+      "icon": "letter-f",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 307,
+      "secondary": {
+        "xMax": 693,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57545,
+      "icon": "flag-for-flag-japan",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 306,
+      "secondary": {
+        "xMax": 695,
+        "xMin": 0,
+        "yMax": 695,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57569,
+      "icon": "flag-for-japan",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 306,
+      "secondary": {
+        "xMax": 695,
+        "xMin": 0,
+        "yMax": 695,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57595,
+      "icon": "flag-japan",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 306,
+      "secondary": {
+        "xMax": 695,
+        "xMin": 0,
+        "yMax": 695,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57868,
+      "icon": "pause-button",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 305,
+      "secondary": {
+        "xMax": 695,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57711,
+      "icon": "keycap-5",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 301,
+      "secondary": {
+        "xMax": 699,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57767,
+      "icon": "letter-l",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 299,
+      "secondary": {
+        "xMax": 701,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57564,
+      "icon": "flag-for-flag-vietnam",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 295,
+      "secondary": {
+        "xMax": 707,
+        "xMin": 0,
+        "yMax": 705,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57590,
+      "icon": "flag-for-vietnam",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 295,
+      "secondary": {
+        "xMax": 707,
+        "xMin": 0,
+        "yMax": 705,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57617,
+      "icon": "flag-vietnam",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 295,
+      "secondary": {
+        "xMax": 707,
+        "xMin": 0,
+        "yMax": 705,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57709,
+      "icon": "keycap-3",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 295,
+      "secondary": {
+        "xMax": 705,
+        "xMin": 0,
+        "yMax": 818,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57710,
+      "icon": "keycap-4",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 294,
+      "secondary": {
+        "xMax": 706,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57708,
+      "icon": "keycap-2",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 291,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57520,
+      "icon": "flag-for-albania",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 289,
+      "secondary": {
+        "xMax": 711,
+        "xMin": 0,
+        "yMax": 724,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57531,
+      "icon": "flag-for-flag-albania",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 289,
+      "secondary": {
+        "xMax": 711,
+        "xMin": 0,
+        "yMax": 724,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57714,
+      "icon": "keycap-8",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 287,
+      "secondary": {
+        "xMax": 713,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57774,
+      "icon": "letter-s",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 285,
+      "secondary": {
+        "xMax": 715,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57712,
+      "icon": "keycap-6",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 283,
+      "secondary": {
+        "xMax": 717,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57715,
+      "icon": "keycap-9",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 283,
+      "secondary": {
+        "xMax": 717,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57775,
+      "icon": "letter-t",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 282,
+      "secondary": {
+        "xMax": 718,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57799,
+      "icon": "melting-face",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1004,
+        "xMin": -2,
+        "yMax": 1004,
+        "yMin": -2
+      },
+      "primaryFont": "Twemoji",
+      "score": 282,
+      "secondary": {
+        "xMax": 724,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57713,
+      "icon": "keycap-7",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57514,
+      "icon": "flag-canada",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 279,
+      "secondary": {
+        "xMax": 723,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57525,
+      "icon": "flag-for-canada",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 279,
+      "secondary": {
+        "xMax": 723,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57536,
+      "icon": "flag-for-flag-canada",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 279,
+      "secondary": {
+        "xMax": 723,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57719,
+      "icon": "kissing-face",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 278,
+      "secondary": {
+        "xMax": 723,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57898,
+      "icon": "radio-button",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 277,
+      "secondary": {
+        "xMax": 723,
+        "xMin": 0,
+        "yMax": 723,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57705,
+      "icon": "keycap-0",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 271,
+      "secondary": {
+        "xMax": 729,
+        "xMin": 0,
+        "yMax": 818,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57562,
+      "icon": "flag-for-flag-turkey",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 270,
+      "secondary": {
+        "xMax": 731,
+        "xMin": 0,
+        "yMax": 705,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57588,
+      "icon": "flag-for-turkey",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 270,
+      "secondary": {
+        "xMax": 731,
+        "xMin": 0,
+        "yMax": 705,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57614,
+      "icon": "flag-turkey",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 270,
+      "secondary": {
+        "xMax": 731,
+        "xMin": 0,
+        "yMax": 705,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57615,
+      "icon": "flag-turkiye",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 270,
+      "secondary": {
+        "xMax": 731,
+        "xMin": 0,
+        "yMax": 705,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58006,
+      "icon": "tomato",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 265,
+      "secondary": {
+        "xMax": 735,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57465,
+      "icon": "face-with-open-mouth",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 263,
+      "secondary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 723,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57504,
+      "icon": "female-sign",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 263,
+      "secondary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 848,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57773,
+      "icon": "letter-r",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 263,
+      "secondary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57781,
+      "icon": "letter-z",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 263,
+      "secondary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57959,
+      "icon": "slightly-frowning-face",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 263,
+      "secondary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 723,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57960,
+      "icon": "slightly-smiling-face",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 263,
+      "secondary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 723,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57359,
+      "icon": "b-button",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 262,
+      "secondary": {
+        "xMax": 738,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57360,
+      "icon": "b-button-blood-type",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 262,
+      "secondary": {
+        "xMax": 738,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57757,
+      "icon": "letter-b",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 262,
+      "secondary": {
+        "xMax": 738,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57927,
+      "icon": "right-arrow-curving-down",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 261,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 851,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57929,
+      "icon": "right-arrow-curving-up",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 261,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 839,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57771,
+      "icon": "letter-p",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 260,
+      "secondary": {
+        "xMax": 740,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57780,
+      "icon": "letter-y",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 260,
+      "secondary": {
+        "xMax": 740,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57692,
+      "icon": "japanese-monthly-amount-button",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 258,
+      "secondary": {
+        "xMax": 742,
+        "xMin": 0,
+        "yMax": 803,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57758,
+      "icon": "letter-c",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 258,
+      "secondary": {
+        "xMax": 742,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58021,
+      "icon": "up-right-arrow",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 252,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57462,
+      "icon": "eye-in-speech-bubble",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 945,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 251,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57422,
+      "icon": "confused-face",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 250,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 639,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57443,
+      "icon": "down-right-arrow",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57468,
+      "icon": "face-without-mouth",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 250,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 639,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57506,
+      "icon": "film-projector",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 973,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 250,
+      "secondary": {
+        "xMax": 723,
+        "xMin": 0,
+        "yMax": 528,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57633,
+      "icon": "frowning-face-with-open-mouth",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 250,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 639,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57725,
+      "icon": "latin-cross",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57817,
+      "icon": "neutral-face",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 250,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 639,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58018,
+      "icon": "up-down-arrow",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57397,
+      "icon": "call-me-hand",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 988,
+        "xMin": 0,
+        "yMax": 1002,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 249,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 670,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57398,
+      "icon": "call-me-hand-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 988,
+        "xMin": 0,
+        "yMax": 1002,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 249,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 670,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57399,
+      "icon": "call-me-hand-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 988,
+        "xMin": 0,
+        "yMax": 1002,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 249,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 670,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57400,
+      "icon": "call-me-hand-medium-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 988,
+        "xMin": 0,
+        "yMax": 1002,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 249,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 670,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57401,
+      "icon": "call-me-hand-medium-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 988,
+        "xMin": 0,
+        "yMax": 1002,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 249,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 670,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57402,
+      "icon": "call-me-hand-medium-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 988,
+        "xMin": 0,
+        "yMax": 1002,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 249,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 670,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57464,
+      "icon": "face-with-diagonal-mouth",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57889,
+      "icon": "pool-8-ball",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57796,
+      "icon": "medical-symbol",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 248,
+      "secondary": {
+        "xMax": 752,
+        "xMin": 0,
+        "yMax": 945,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57985,
+      "icon": "sun-behind-large-cloud",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 752,
+        "xMin": 0,
+        "yMax": 889,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 248,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 639,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57720,
+      "icon": "kissing-face-with-smiling-eyes",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 247,
+      "secondary": {
+        "xMax": 754,
+        "xMin": 0,
+        "yMax": 612,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57646,
+      "icon": "hand-with-fingers-splayed",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 934,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 242,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 428,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57647,
+      "icon": "hand-with-fingers-splayed-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 934,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 242,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 428,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57648,
+      "icon": "hand-with-fingers-splayed-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 934,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 242,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 428,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57649,
+      "icon": "hand-with-fingers-splayed-medium-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 934,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 242,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 428,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57650,
+      "icon": "hand-with-fingers-splayed-medium-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 934,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 242,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 428,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57651,
+      "icon": "hand-with-fingers-splayed-medium-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 934,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 242,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 428,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57717,
+      "icon": "keycap-pound",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 241,
+      "secondary": {
+        "xMax": 759,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57777,
+      "icon": "letter-v",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 241,
+      "secondary": {
+        "xMax": 759,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57831,
+      "icon": "old-key",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 990,
+        "xMin": 0,
+        "yMax": 1004,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 241,
+      "secondary": {
+        "xMax": 749,
+        "xMin": 0,
+        "yMax": 774,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57847,
+      "icon": "p-button",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 240,
+      "secondary": {
+        "xMax": 760,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57766,
+      "icon": "letter-k",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 239,
+      "secondary": {
+        "xMax": 761,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57779,
+      "icon": "letter-x",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 239,
+      "secondary": {
+        "xMax": 761,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57473,
+      "icon": "family-adult-child",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57474,
+      "icon": "family-adult-child-child",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57475,
+      "icon": "family-man-boy",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57476,
+      "icon": "family-man-boy-boy",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57477,
+      "icon": "family-man-girl",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57478,
+      "icon": "family-man-girl-boy",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57479,
+      "icon": "family-man-girl-girl",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57490,
+      "icon": "family-woman-boy",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57491,
+      "icon": "family-woman-boy-boy",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57492,
+      "icon": "family-woman-girl",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57493,
+      "icon": "family-woman-girl-boy",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57494,
+      "icon": "family-woman-girl-girl",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57769,
+      "icon": "letter-n",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57906,
+      "icon": "raised-hand",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57907,
+      "icon": "raised-hand-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57908,
+      "icon": "raised-hand-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57909,
+      "icon": "raised-hand-medium-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57910,
+      "icon": "raised-hand-medium-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57911,
+      "icon": "raised-hand-medium-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57632,
+      "icon": "frowning-face",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -1
+      },
+      "primaryFont": "Twemoji",
+      "score": 236,
+      "secondary": {
+        "xMax": 765,
+        "xMin": 0,
+        "yMax": 695,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57759,
+      "icon": "letter-d",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 235,
+      "secondary": {
+        "xMax": 765,
+        "xMin": 0,
+        "yMax": 808,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58023,
+      "icon": "upside-down-face",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 235,
+      "secondary": {
+        "xMax": 765,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58030,
+      "icon": "vulcan-salute",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 234,
+      "secondary": {
+        "xMax": 971,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58031,
+      "icon": "vulcan-salute-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 234,
+      "secondary": {
+        "xMax": 971,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58032,
+      "icon": "vulcan-salute-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 234,
+      "secondary": {
+        "xMax": 971,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58033,
+      "icon": "vulcan-salute-medium-dark-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 234,
+      "secondary": {
+        "xMax": 971,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58034,
+      "icon": "vulcan-salute-medium-light-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 234,
+      "secondary": {
+        "xMax": 971,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58035,
+      "icon": "vulcan-salute-medium-skin-tone",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 234,
+      "secondary": {
+        "xMax": 971,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57801,
+      "icon": "mens-room",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 233,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58053,
+      "icon": "womens-room",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 233,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57344,
+      "icon": "a-button",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 230,
+      "secondary": {
+        "xMax": 770,
+        "xMin": 0,
+        "yMax": 818,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57345,
+      "icon": "a-button-blood-type",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 230,
+      "secondary": {
+        "xMax": 770,
+        "xMin": 0,
+        "yMax": 818,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57756,
+      "icon": "letter-a",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 230,
+      "secondary": {
+        "xMax": 770,
+        "xMin": 0,
+        "yMax": 818,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57716,
+      "icon": "keycap-asterisk",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 225,
+      "secondary": {
+        "xMax": 777,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57502,
+      "icon": "fast-reverse-button",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 224,
+      "secondary": {
+        "xMax": 778,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57923,
+      "icon": "reverse-button",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 224,
+      "secondary": {
+        "xMax": 778,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57510,
+      "icon": "flag-antarctica",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 223,
+      "secondary": {
+        "xMax": 778,
+        "xMin": 0,
+        "yMax": 736,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57519,
+      "icon": "flag-european-union",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 223,
+      "secondary": {
+        "xMax": 779,
+        "xMin": 0,
+        "yMax": 776,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57521,
+      "icon": "flag-for-antarctica",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 223,
+      "secondary": {
+        "xMax": 778,
+        "xMin": 0,
+        "yMax": 736,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57530,
+      "icon": "flag-for-european-union",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 223,
+      "secondary": {
+        "xMax": 779,
+        "xMin": 0,
+        "yMax": 776,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57532,
+      "icon": "flag-for-flag-antarctica",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 223,
+      "secondary": {
+        "xMax": 778,
+        "xMin": 0,
+        "yMax": 736,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57540,
+      "icon": "flag-for-flag-european-union",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 223,
+      "secondary": {
+        "xMax": 779,
+        "xMin": 0,
+        "yMax": 776,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57776,
+      "icon": "letter-u",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 223,
+      "secondary": {
+        "xMax": 777,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57974,
+      "icon": "speech-balloon",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 223,
+      "secondary": {
+        "xMax": 778,
+        "xMin": 0,
+        "yMax": 639,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57763,
+      "icon": "letter-h",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 222,
+      "secondary": {
+        "xMax": 778,
+        "xMin": 0,
+        "yMax": 806,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57972,
+      "icon": "speaker-medium-volume",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 222,
+      "secondary": {
+        "xMax": 695,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57815,
+      "icon": "musical-score",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 217,
+      "secondary": {
+        "xMax": 783,
+        "xMin": 0,
+        "yMax": 983,
+        "yMin": -1
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57687,
+      "icon": "japanese-application-button",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 214,
+      "secondary": {
+        "xMax": 786,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57509,
+      "icon": "fish-cake-with-swirl",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 996,
+        "xMin": 0,
+        "yMax": 991,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 212,
+      "secondary": {
+        "xMax": 784,
+        "xMin": 0,
+        "yMax": 790,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57637,
+      "icon": "globe-showing-asia-australia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 211,
+      "secondary": {
+        "xMax": 789,
+        "xMin": 0,
+        "yMax": 943,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57762,
+      "icon": "letter-g",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 211,
+      "secondary": {
+        "xMax": 789,
+        "xMin": 0,
+        "yMax": 818,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57547,
+      "icon": "flag-for-flag-micronesia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 204,
+      "secondary": {
+        "xMax": 798,
+        "xMin": 0,
+        "yMax": 789,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57572,
+      "icon": "flag-for-micronesia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 204,
+      "secondary": {
+        "xMax": 798,
+        "xMin": 0,
+        "yMax": 789,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57597,
+      "icon": "flag-micronesia",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 204,
+      "secondary": {
+        "xMax": 798,
+        "xMin": 0,
+        "yMax": 789,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57770,
+      "icon": "letter-o",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 818,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57973,
+      "icon": "speaking-head",
+      "prefix": "twemoji",
+      "primary": {
+        "xMax": 996,
+        "xMin": 0,
+        "yMax": 528,
+        "yMin": 0
+      },
+      "primaryFont": "Twemoji",
+      "score": 201,
+      "secondary": {
+        "xMax": 795,
+        "xMin": 0,
+        "yMax": 980,
+        "yMin": 0
+      },
+      "secondaryFont": "TwemojiSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Twemoji",
+      "headBbox": "-8..1009 / -8..1011",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 8,
+      "prefix": "twemoji",
+      "reasons": [
+        "head.xMin=-8",
+        "head.xMax=1009",
+        "head.yMin=-8",
+        "head.yMax=1011",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=8"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "TwemojiSecondary",
+      "headBbox": "-8..1007 / -6..1007",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 6,
+      "prefix": "twemoji",
+      "reasons": [
+        "head.xMin=-8",
+        "head.xMax=1007",
+        "head.yMin=-6",
+        "head.yMax=1007",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=6"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "twemoji",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Twemoji",
+      "glyphCount": 715,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1009,
+        "xMin": -8,
+        "yMax": 1011,
+        "yMin": -8
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 8
+      }
+    },
+    {
+      "error": null,
+      "font": "TwemojiSecondary",
+      "glyphCount": 637,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1007,
+        "xMin": -8,
+        "yMax": 1007,
+        "yMin": -6
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 6
+      }
+    }
+  ]
+}

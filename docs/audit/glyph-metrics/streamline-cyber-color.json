@@ -1,0 +1,96 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 5,
+      "font": "StreamlineCyberColor",
+      "glyphName": "add-hexagon",
+      "prefix": "streamline-cyber-color",
+      "sampleIcons": [
+        "add-hexagon",
+        "left-right-traffic-data-transfer-hexagon",
+        "remove-hexagon-1",
+        "temperature-fahrenheit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineCyberColor",
+      "glyphName": "bubble-chat-double-text",
+      "prefix": "streamline-cyber-color",
+      "sampleIcons": [
+        "bubble-chat-double-text",
+        "bubble-chat-double-typing-smiley-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineCyberColor",
+      "glyphName": "filter-10",
+      "prefix": "streamline-cyber-color",
+      "sampleIcons": [
+        "filter-10",
+        "filter-6"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineCyberColor",
+      "glyphName": "smiley-smile1",
+      "prefix": "streamline-cyber-color",
+      "sampleIcons": [
+        "smiley-smile1",
+        "smiley-thinking"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "StreamlineCyberColor",
+      "headBbox": "-4..1004 / -4..1004",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 4,
+      "prefix": "streamline-cyber-color",
+      "reasons": [
+        "head.xMin=-4",
+        "head.xMax=1004",
+        "head.yMin=-4",
+        "head.yMax=1004",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=4"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "streamline-cyber-color",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "StreamlineCyberColor",
+      "glyphCount": 500,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1004,
+        "xMin": -4,
+        "yMax": 1004,
+        "yMin": -4
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 4
+      }
+    }
+  ]
+}

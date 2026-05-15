@@ -1,0 +1,2091 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 7,
+      "font": "Devicon",
+      "glyphName": "aframe",
+      "prefix": "devicon",
+      "sampleIcons": [
+        "aframe",
+        "burpsuite",
+        "ember",
+        "entityframeworkcore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Devicon",
+      "glyphName": "3dsmax",
+      "prefix": "devicon",
+      "sampleIcons": [
+        "3dsmax",
+        "threedsmax"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Devicon",
+      "glyphName": "amazonwebservices",
+      "prefix": "devicon",
+      "sampleIcons": [
+        "amazonwebservices",
+        "amazonwebservices-wordmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Devicon",
+      "glyphName": "photoshop",
+      "prefix": "devicon",
+      "sampleIcons": [
+        "photoshop",
+        "xd"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "DeviconSecondary",
+      "glyphName": "amazonwebservices",
+      "prefix": "devicon",
+      "sampleIcons": [
+        "amazonwebservices",
+        "amazonwebservices-wordmark"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "primary-empty",
+      "codepoint": 57463,
+      "icon": "capacitor",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 606,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "primary-empty",
+      "codepoint": 57476,
+      "icon": "chartjs",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "primary-empty",
+      "codepoint": 57477,
+      "icon": "chartjs-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "primary-empty",
+      "codepoint": 57623,
+      "icon": "firebase",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 867,
+        "xMin": 0,
+        "yMax": 198,
+        "yMin": -5
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "primary-empty",
+      "codepoint": 57624,
+      "icon": "firebase-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 754,
+        "xMin": 0,
+        "yMax": 434,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 57772,
+      "icon": "jetpackcompose",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 947,
+        "xMin": 0,
+        "yMax": 757,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 58274,
+      "icon": "travis",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1003,
+        "xMin": 0,
+        "yMax": 996,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 58275,
+      "icon": "travis-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 672,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 58310,
+      "icon": "vapor",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 935,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 58311,
+      "icon": "vapor-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 692,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "secondary-empty",
+      "codepoint": 58320,
+      "icon": "visualbasic",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1003,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "primary-empty",
+      "codepoint": 58328,
+      "icon": "vitest",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58008,
+      "icon": "pixijs-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 700,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 897,
+      "secondary": {
+        "xMax": 103,
+        "xMin": 0,
+        "yMax": 526,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57464,
+      "icon": "capacitor-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 575,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 884,
+      "secondary": {
+        "xMax": 116,
+        "xMin": 0,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58379,
+      "icon": "yugabytedb-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 567,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 855,
+      "secondary": {
+        "xMax": 147,
+        "xMin": -1,
+        "yMax": 567,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57803,
+      "icon": "kaldi-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 152,
+        "xMin": 0,
+        "yMax": 547,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 849,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 615,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58208,
+      "icon": "storybook-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 840,
+      "secondary": {
+        "xMax": 160,
+        "xMin": -1,
+        "yMax": 602,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58243,
+      "icon": "tensorflow-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 179,
+        "xMin": 0,
+        "yMax": 599,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 821,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57635,
+      "icon": "forgejo-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1010,
+        "xMin": 0,
+        "yMax": 680,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 820,
+      "secondary": {
+        "xMax": 191,
+        "xMin": -1,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57402,
+      "icon": "appwrite-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 577,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 817,
+      "secondary": {
+        "xMax": 185,
+        "xMin": -2,
+        "yMax": 592,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58118,
+      "icon": "replit-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 597,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 804,
+      "secondary": {
+        "xMax": 197,
+        "xMin": 0,
+        "yMax": 617,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58234,
+      "icon": "tailwindcss-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 206,
+        "xMin": -1,
+        "yMax": 562,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 796,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 559,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57718,
+      "icon": "haskell-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 207,
+        "xMin": 0,
+        "yMax": 589,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 793,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 594,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58227,
+      "icon": "swagger-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 241,
+        "xMin": 0,
+        "yMax": 635,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 763,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": -3,
+        "yMax": 642,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57859,
+      "icon": "magento-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 247,
+        "xMin": 0,
+        "yMax": 642,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 753,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 570,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57788,
+      "icon": "junie-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 254,
+        "xMin": 0,
+        "yMax": 627,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 746,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 599,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57618,
+      "icon": "fiber",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 630,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 745,
+      "secondary": {
+        "xMax": 256,
+        "xMin": -1,
+        "yMax": 549,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58188,
+      "icon": "spyder-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 264,
+        "xMin": 0,
+        "yMax": 660,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 736,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 602,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58264,
+      "icon": "tmux-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 999,
+        "xMin": -1,
+        "yMax": 609,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 735,
+      "secondary": {
+        "xMax": 264,
+        "xMin": -1,
+        "yMax": 632,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58352,
+      "icon": "webpack-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 242,
+        "xMin": 0,
+        "yMax": 615,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 728,
+      "secondary": {
+        "xMax": 970,
+        "xMin": 0,
+        "yMax": 575,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57440,
+      "icon": "biome-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 284,
+        "xMin": -1,
+        "yMax": 622,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 718,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 547,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57920,
+      "icon": "netbox-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 999,
+        "xMin": -1,
+        "yMax": 641,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 717,
+      "secondary": {
+        "xMax": 284,
+        "xMin": -3,
+        "yMax": 640,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58145,
+      "icon": "scala-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 974,
+        "xMin": 0,
+        "yMax": 684,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 713,
+      "secondary": {
+        "xMax": 261,
+        "xMin": 0,
+        "yMax": 684,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57362,
+      "icon": "alpinejs-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 984,
+        "xMin": 0,
+        "yMax": 579,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 712,
+      "secondary": {
+        "xMax": 272,
+        "xMin": 0,
+        "yMax": 574,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57649,
+      "icon": "gatling-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 295,
+        "xMin": 0,
+        "yMax": 576,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 705,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 587,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57761,
+      "icon": "jamstack-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 922,
+        "xMin": 0,
+        "yMax": 556,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 705,
+      "secondary": {
+        "xMax": 217,
+        "xMin": 0,
+        "yMax": 580,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58279,
+      "icon": "trpc-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 301,
+        "xMin": 0,
+        "yMax": 649,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 696,
+      "secondary": {
+        "xMax": 997,
+        "xMin": 0,
+        "yMax": 605,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58171,
+      "icon": "socketio-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 314,
+        "xMin": 0,
+        "yMax": 657,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 689,
+      "secondary": {
+        "xMax": 1003,
+        "xMin": 0,
+        "yMax": 572,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57518,
+      "icon": "couchdb-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 965,
+        "xMin": 0,
+        "yMax": 540,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 684,
+      "secondary": {
+        "xMax": 281,
+        "xMin": 0,
+        "yMax": 582,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58190,
+      "icon": "sqlalchemy-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 334,
+        "xMin": -1,
+        "yMax": 582,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 667,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 595,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57593,
+      "icon": "emailjs-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 349,
+        "xMin": 0,
+        "yMax": 674,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 653,
+      "secondary": {
+        "xMax": 1002,
+        "xMin": 0,
+        "yMax": 589,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58267,
+      "icon": "tortoisegit",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 781,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 622,
+      "secondary": {
+        "xMax": 379,
+        "xMin": 0,
+        "yMax": 374,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57356,
+      "icon": "akka-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 992,
+        "xMin": 0,
+        "yMax": 619,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 615,
+      "secondary": {
+        "xMax": 377,
+        "xMin": 0,
+        "yMax": 636,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57667,
+      "icon": "gitea-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 580,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 594,
+      "secondary": {
+        "xMax": 408,
+        "xMin": -2,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57909,
+      "icon": "nasm-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -9,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 548,
+      "secondary": {
+        "xMax": 462,
+        "xMin": 0,
+        "yMax": 515,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57486,
+      "icon": "clojurescript",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 449,
+        "xMin": 0,
+        "yMax": 659,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 534,
+      "secondary": {
+        "xMax": 983,
+        "xMin": 0,
+        "yMax": 994,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57645,
+      "icon": "fsharp",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 475,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 525,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 971,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58177,
+      "icon": "sourceengine",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 492,
+        "xMin": 0,
+        "yMax": 710,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 514,
+      "secondary": {
+        "xMax": 1004,
+        "xMin": -2,
+        "yMax": 967,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58285,
+      "icon": "typeorm",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 830,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 507,
+      "secondary": {
+        "xMax": 496,
+        "xMin": -3,
+        "yMax": 837,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57798,
+      "icon": "k3s-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 981,
+        "xMin": 0,
+        "yMax": 589,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 506,
+      "secondary": {
+        "xMax": 475,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57954,
+      "icon": "numpy",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "primaryFont": "Devicon",
+      "score": 502,
+      "secondary": {
+        "xMax": 467,
+        "xMin": 0,
+        "yMax": 741,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58007,
+      "icon": "pixijs",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 872,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -5
+      },
+      "primaryFont": "Devicon",
+      "score": 487,
+      "secondary": {
+        "xMax": 385,
+        "xMin": 0,
+        "yMax": 566,
+        "yMin": -6
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57905,
+      "icon": "n8n-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 531,
+        "xMin": 0,
+        "yMax": 639,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 469,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 589,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57774,
+      "icon": "jhipster",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 583,
+        "xMin": -1,
+        "yMax": 701,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 418,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 702,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57975,
+      "icon": "openstack-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 996,
+        "xMin": 0,
+        "yMax": 454,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 389,
+      "secondary": {
+        "xMax": 607,
+        "xMin": 0,
+        "yMax": 739,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57865,
+      "icon": "materialui",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 375,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57897,
+      "icon": "monogame-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 628,
+        "xMin": 0,
+        "yMax": 549,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 373,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 607,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58001,
+      "icon": "phoenix-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 628,
+        "xMin": 0,
+        "yMax": 463,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 370,
+      "secondary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 756,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57921,
+      "icon": "netlify",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 635,
+        "xMin": 0,
+        "yMax": 640,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 365,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57404,
+      "icon": "archlinux-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 620,
+        "xMin": 0,
+        "yMax": 590,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 352,
+      "secondary": {
+        "xMax": 972,
+        "xMin": 0,
+        "yMax": 647,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58081,
+      "icon": "rabbitmq-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 652,
+        "xMin": 0,
+        "yMax": 579,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 349,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 580,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58040,
+      "icon": "processwire-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 599,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 338,
+      "secondary": {
+        "xMax": 663,
+        "xMin": 0,
+        "yMax": 533,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57731,
+      "icon": "htmx",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 664,
+        "xMin": 0,
+        "yMax": 825,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 335,
+      "secondary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 661,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58101,
+      "icon": "reactrouter-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 665,
+        "xMin": 0,
+        "yMax": 772,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 332,
+      "secondary": {
+        "xMax": 997,
+        "xMin": 0,
+        "yMax": 656,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57789,
+      "icon": "junit",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 674,
+        "xMin": -2,
+        "yMax": 997,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 328,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 974,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57598,
+      "icon": "entityframeworkcore",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 325,
+      "secondary": {
+        "xMax": 675,
+        "xMin": 0,
+        "yMax": 630,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58343,
+      "icon": "wasm-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 679,
+        "xMin": 0,
+        "yMax": 775,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 321,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 343,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57461,
+      "icon": "cakephp-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 988,
+        "xMin": 0,
+        "yMax": 597,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 314,
+      "secondary": {
+        "xMax": 674,
+        "xMin": 0,
+        "yMax": 556,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57361,
+      "icon": "alpinejs",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 985,
+        "xMin": 0,
+        "yMax": 722,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 309,
+      "secondary": {
+        "xMax": 676,
+        "xMin": 0,
+        "yMax": 722,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57603,
+      "icon": "eslint",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 705,
+        "xMin": 0,
+        "yMax": 732,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 299,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": -3,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58189,
+      "icon": "sqlalchemy",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 672,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 294,
+      "secondary": {
+        "xMax": 1003,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57988,
+      "icon": "packer",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 519,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": -1
+      },
+      "primaryFont": "Devicon",
+      "score": 288,
+      "secondary": {
+        "xMax": 807,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57911,
+      "icon": "neo4j",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 730,
+        "xMin": 0,
+        "yMax": 747,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 287,
+      "secondary": {
+        "xMax": 443,
+        "xMin": 0,
+        "yMax": 562,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58132,
+      "icon": "rstudio",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 279,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 744,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57979,
+      "icon": "opentelemetry-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 705,
+        "xMin": 0,
+        "yMax": 769,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 277,
+      "secondary": {
+        "xMax": 982,
+        "xMin": 0,
+        "yMax": 690,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58246,
+      "icon": "terraform",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 609,
+        "xMin": 0,
+        "yMax": 957,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 275,
+      "secondary": {
+        "xMax": 884,
+        "xMin": 0,
+        "yMax": 796,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57455,
+      "icon": "burpsuite",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 271,
+      "secondary": {
+        "xMax": 729,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57810,
+      "icon": "keras",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 266,
+      "secondary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58093,
+      "icon": "reach",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 721,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 261,
+      "secondary": {
+        "xMax": 982,
+        "xMin": 0,
+        "yMax": 585,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57376,
+      "icon": "ansible",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 984,
+        "xMin": 0,
+        "yMax": 984,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 249,
+      "secondary": {
+        "xMax": 735,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58112,
+      "icon": "reflex",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57716,
+      "icon": "harvester-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 754,
+        "xMin": 0,
+        "yMax": 840,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 247,
+      "secondary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 292,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58025,
+      "icon": "postcss-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1004,
+        "xMin": 0,
+        "yMax": 300,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 239,
+      "secondary": {
+        "xMax": 765,
+        "xMin": 0,
+        "yMax": 914,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57743,
+      "icon": "illustrator",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 987,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 772,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57350,
+      "icon": "aframe",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 225,
+      "secondary": {
+        "xMax": 775,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57908,
+      "icon": "nasm",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1004,
+        "xMin": -9,
+        "yMax": 1003,
+        "yMin": -5
+      },
+      "primaryFont": "Devicon",
+      "score": 223,
+      "secondary": {
+        "xMax": 790,
+        "xMin": 0,
+        "yMax": 525,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57444,
+      "icon": "blender",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 788,
+        "xMin": 0,
+        "yMax": 569,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 212,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57458,
+      "icon": "cairo",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 868,
+        "xMin": 0,
+        "yMax": 842,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 211,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57377,
+      "icon": "ansible-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 896,
+        "xMin": 0,
+        "yMax": 984,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 205,
+      "secondary": {
+        "xMax": 691,
+        "xMin": 0,
+        "yMax": 829,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58251,
+      "icon": "testrail-wordmark",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 624,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 204,
+      "secondary": {
+        "xMax": 796,
+        "xMin": 0,
+        "yMax": 592,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57628,
+      "icon": "fish",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 639,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 202,
+      "secondary": {
+        "xMax": 799,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57967,
+      "icon": "openal",
+      "prefix": "devicon",
+      "primary": {
+        "xMax": 788,
+        "xMin": 0,
+        "yMax": 764,
+        "yMin": 0
+      },
+      "primaryFont": "Devicon",
+      "score": 201,
+      "secondary": {
+        "xMax": 989,
+        "xMin": 0,
+        "yMax": 559,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Devicon",
+      "headBbox": "-17..1019 / -17..1011",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 17,
+      "prefix": "devicon",
+      "reasons": [
+        "head.xMin=-17",
+        "head.xMax=1019",
+        "head.yMin=-17",
+        "head.yMax=1011",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=17"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "DeviconSecondary",
+      "headBbox": "-4..1004 / -7..1003",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 7,
+      "prefix": "devicon",
+      "reasons": [
+        "head.xMin=-4",
+        "head.xMax=1004",
+        "head.yMin=-7",
+        "head.yMax=1003",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=7"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 57360,
+      "contentWidth": 96,
+      "font": "Devicon",
+      "name": "almalinux-wordmark",
+      "prefix": "devicon",
+      "reason": "narrow"
+    }
+  ],
+  "prefix": "devicon",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Devicon",
+      "glyphCount": 1045,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1019,
+        "xMin": -17,
+        "yMax": 1011,
+        "yMin": -17
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 17
+      }
+    },
+    {
+      "error": null,
+      "font": "DeviconSecondary",
+      "glyphCount": 192,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1004,
+        "xMin": -4,
+        "yMax": 1003,
+        "yMin": -7
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 7
+      }
+    }
+  ]
+}

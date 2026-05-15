@@ -1,0 +1,65 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Fad",
+      "headBbox": "0..996 / 0..966",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "fad",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 500,
+      "codepoint": 57373,
+      "font": "Fad",
+      "name": "digital-colon",
+      "prefix": "fad",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57374,
+      "font": "Fad",
+      "name": "digital-dot",
+      "prefix": "fad",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "fad",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Fad",
+      "glyphCount": 155,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 996,
+        "xMin": 0,
+        "yMax": 966,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

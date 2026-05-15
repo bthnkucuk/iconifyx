@@ -1,0 +1,1069 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 22,
+      "font": "Wi",
+      "glyphName": "forecast-io-rain",
+      "prefix": "wi",
+      "sampleIcons": [
+        "forecast-io-rain",
+        "owm-302",
+        "owm-311",
+        "owm-312"
+      ]
+    },
+    {
+      "codepointCount": 21,
+      "font": "Wi",
+      "glyphName": "owm-310",
+      "prefix": "wi",
+      "sampleIcons": [
+        "owm-310",
+        "owm-511",
+        "owm-611",
+        "owm-612"
+      ]
+    },
+    {
+      "codepointCount": 20,
+      "font": "Wi",
+      "glyphName": "forecast-io-snow",
+      "prefix": "wi",
+      "sampleIcons": [
+        "forecast-io-snow",
+        "owm-600",
+        "owm-601",
+        "owm-621"
+      ]
+    },
+    {
+      "codepointCount": 17,
+      "font": "Wi",
+      "glyphName": "fog",
+      "prefix": "wi",
+      "sampleIcons": [
+        "fog",
+        "forecast-io-fog",
+        "owm-741",
+        "wmo4680-04"
+      ]
+    },
+    {
+      "codepointCount": 17,
+      "font": "Wi",
+      "glyphName": "forecast-io-thunderstorm",
+      "prefix": "wi",
+      "sampleIcons": [
+        "forecast-io-thunderstorm",
+        "owm-200",
+        "owm-201",
+        "owm-202"
+      ]
+    },
+    {
+      "codepointCount": 14,
+      "font": "Wi",
+      "glyphName": "dust",
+      "prefix": "wi",
+      "sampleIcons": [
+        "dust",
+        "owm-731",
+        "owm-761",
+        "owm-762"
+      ]
+    },
+    {
+      "codepointCount": 13,
+      "font": "Wi",
+      "glyphName": "forecast-io-hail",
+      "prefix": "wi",
+      "sampleIcons": [
+        "forecast-io-hail",
+        "hail",
+        "owm-906",
+        "wmo4680-25"
+      ]
+    },
+    {
+      "codepointCount": 13,
+      "font": "Wi",
+      "glyphName": "owm-300",
+      "prefix": "wi",
+      "sampleIcons": [
+        "owm-300",
+        "owm-301",
+        "owm-321",
+        "owm-500"
+      ]
+    },
+    {
+      "codepointCount": 12,
+      "font": "Wi",
+      "glyphName": "owm-903",
+      "prefix": "wi",
+      "sampleIcons": [
+        "owm-903",
+        "owm-day-903",
+        "owm-night-903",
+        "snowflake-cold"
+      ]
+    },
+    {
+      "codepointCount": 11,
+      "font": "Wi",
+      "glyphName": "day-rain",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-rain",
+        "owm-day-302",
+        "owm-day-310",
+        "owm-day-311"
+      ]
+    },
+    {
+      "codepointCount": 11,
+      "font": "Wi",
+      "glyphName": "night-alt-rain",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-rain",
+        "owm-night-302",
+        "owm-night-310",
+        "owm-night-311"
+      ]
+    },
+    {
+      "codepointCount": 11,
+      "font": "Wi",
+      "glyphName": "owm-313",
+      "prefix": "wi",
+      "sampleIcons": [
+        "owm-313",
+        "owm-520",
+        "owm-521",
+        "owm-522"
+      ]
+    },
+    {
+      "codepointCount": 10,
+      "font": "Wi",
+      "glyphName": "day-sunny",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-sunny",
+        "forecast-io-clear-day",
+        "owm-800",
+        "owm-day-800"
+      ]
+    },
+    {
+      "codepointCount": 10,
+      "font": "Wi",
+      "glyphName": "forecast-io-tornado",
+      "prefix": "wi",
+      "sampleIcons": [
+        "forecast-io-tornado",
+        "owm-781",
+        "owm-900",
+        "owm-day-781"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Wi",
+      "glyphName": "cloudy",
+      "prefix": "wi",
+      "sampleIcons": [
+        "cloudy",
+        "forecast-io-cloudy",
+        "owm-804",
+        "wmo4680-01"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Wi",
+      "glyphName": "day-storm-showers",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-storm-showers",
+        "owm-day-531",
+        "yahoo-1",
+        "yahoo-37"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Wi",
+      "glyphName": "forecast-io-wind",
+      "prefix": "wi",
+      "sampleIcons": [
+        "forecast-io-wind",
+        "owm-957",
+        "owm-day-957",
+        "owm-night-957"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Wi",
+      "glyphName": "lightning",
+      "prefix": "wi",
+      "sampleIcons": [
+        "lightning",
+        "owm-210",
+        "owm-211",
+        "owm-212"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "Wi",
+      "glyphName": "day-cloudy",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-cloudy",
+        "forecast-io-partly-cloudy-day",
+        "wu-cloudy",
+        "wu-mostlycloudy"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "Wi",
+      "glyphName": "day-rain-mix",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-rain-mix",
+        "owm-day-511",
+        "owm-day-611",
+        "owm-day-612"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "Wi",
+      "glyphName": "day-thunderstorm",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-thunderstorm",
+        "owm-day-200",
+        "owm-day-201",
+        "owm-day-202"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "Wi",
+      "glyphName": "night-alt-rain-mix",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-rain-mix",
+        "owm-night-511",
+        "owm-night-611",
+        "owm-night-612"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "Wi",
+      "glyphName": "night-alt-thunderstorm",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-thunderstorm",
+        "owm-night-200",
+        "owm-night-201",
+        "owm-night-202"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Wi",
+      "glyphName": "day-snow",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-snow",
+        "owm-day-600",
+        "owm-day-602",
+        "owm-day-621"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Wi",
+      "glyphName": "snow-wind",
+      "prefix": "wi",
+      "sampleIcons": [
+        "snow-wind",
+        "wu-chanceflurries",
+        "wu-flurries",
+        "yahoo-15"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "day-haze",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-haze",
+        "owm-721",
+        "owm-day-721",
+        "owm-night-721"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "day-lightning",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-lightning",
+        "owm-day-210",
+        "owm-day-211",
+        "owm-day-212"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "day-showers",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-showers",
+        "owm-day-520",
+        "owm-day-521",
+        "owm-day-522"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "day-sprinkle",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-sprinkle",
+        "owm-day-300",
+        "owm-day-301",
+        "owm-day-321"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "forecast-io-sleet",
+      "prefix": "wi",
+      "sampleIcons": [
+        "forecast-io-sleet",
+        "owm-602",
+        "sleet",
+        "wu-chancesleat"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "hot",
+      "prefix": "wi",
+      "sampleIcons": [
+        "hot",
+        "owm-904",
+        "owm-day-904",
+        "owm-night-904"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "hurricane",
+      "prefix": "wi",
+      "sampleIcons": [
+        "hurricane",
+        "owm-902",
+        "owm-day-902",
+        "owm-night-902"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "night-alt-lightning",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-lightning",
+        "owm-night-210",
+        "owm-night-211",
+        "owm-night-212"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "night-alt-showers",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-showers",
+        "owm-night-520",
+        "owm-night-521",
+        "owm-night-522"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "night-alt-snow",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-snow",
+        "owm-night-600",
+        "owm-night-602",
+        "owm-night-621"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "night-alt-sprinkle",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-sprinkle",
+        "owm-night-300",
+        "owm-night-301",
+        "owm-night-321"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "owm-531",
+      "prefix": "wi",
+      "sampleIcons": [
+        "owm-531",
+        "owm-901",
+        "storm-showers",
+        "wmo4680-84"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "owm-711",
+      "prefix": "wi",
+      "sampleIcons": [
+        "owm-711",
+        "owm-day-711",
+        "owm-night-711",
+        "smoke"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Wi",
+      "glyphName": "thermometer",
+      "prefix": "wi",
+      "sampleIcons": [
+        "thermometer",
+        "wmo4680-0",
+        "wmo4680-00",
+        "wmo4680-02"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Wi",
+      "glyphName": "cloudy-gusts",
+      "prefix": "wi",
+      "sampleIcons": [
+        "cloudy-gusts",
+        "owm-771",
+        "owm-801",
+        "owm-802"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Wi",
+      "glyphName": "day-cloudy-gusts",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-cloudy-gusts",
+        "owm-day-801",
+        "owm-day-802",
+        "owm-day-803"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Wi",
+      "glyphName": "day-sunny-overcast",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-sunny-overcast",
+        "owm-day-804",
+        "yahoo-34",
+        "yahoo-44"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Wi",
+      "glyphName": "forecast-io-clear-night",
+      "prefix": "wi",
+      "sampleIcons": [
+        "forecast-io-clear-night",
+        "night-clear",
+        "owm-night-800",
+        "yahoo-31"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Wi",
+      "glyphName": "forecast-io-partly-cloudy-night",
+      "prefix": "wi",
+      "sampleIcons": [
+        "forecast-io-partly-cloudy-night",
+        "night-cloudy",
+        "yahoo-27",
+        "yahoo-29"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Wi",
+      "glyphName": "night-alt-cloudy-gusts",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-cloudy-gusts",
+        "owm-night-801",
+        "owm-night-802",
+        "owm-night-803"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Wi",
+      "glyphName": "moon-0",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-0",
+        "moon-alt-full",
+        "moon-new"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Wi",
+      "glyphName": "moon-14",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-14",
+        "moon-alt-new",
+        "moon-full"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Wi",
+      "glyphName": "moon-5",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-5",
+        "moon-waxing-6",
+        "moon-waxing-crescent-5"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Wi",
+      "glyphName": "owm-905",
+      "prefix": "wi",
+      "sampleIcons": [
+        "owm-905",
+        "windy",
+        "yahoo-21"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "cloudy-windy",
+      "prefix": "wi",
+      "sampleIcons": [
+        "cloudy-windy",
+        "owm-803"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "day-fog",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-fog",
+        "owm-day-741"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "day-hail",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-hail",
+        "owm-day-906"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "day-sleet",
+      "prefix": "wi",
+      "sampleIcons": [
+        "day-sleet",
+        "owm-day-601"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-1",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-1",
+        "moon-waxing-crescent-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-10",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-10",
+        "moon-waxing-gibbous-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-11",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-11",
+        "moon-waxing-gibbous-4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-12",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-12",
+        "moon-waxing-gibbous-5"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-13",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-13",
+        "moon-waxing-gibbous-6"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-15",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-15",
+        "moon-waning-gibbous-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-16",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-16",
+        "moon-waning-gibbous-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-17",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-17",
+        "moon-waning-gibbous-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-18",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-18",
+        "moon-waning-gibbous-4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-19",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-19",
+        "moon-waning-gibbous-5"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-2",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-2",
+        "moon-waxing-crescent-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-20",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-20",
+        "moon-waning-gibbous-6"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-21",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-21",
+        "moon-third-quarter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-22",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-22",
+        "moon-waning-crescent-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-23",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-23",
+        "moon-waning-crescent-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-24",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-24",
+        "moon-waning-crescent-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-25",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-25",
+        "moon-waning-crescent-4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-26",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-26",
+        "moon-waning-crescent-5"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-27",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-27",
+        "moon-waning-crescent-6"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-3",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-3",
+        "moon-waxing-crescent-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-4",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-4",
+        "moon-waxing-crescent-4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-6",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-6",
+        "moon-waxing-crescent-6"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-7",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-7",
+        "moon-first-quarter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-8",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-8",
+        "moon-waxing-gibbous-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "moon-9",
+      "prefix": "wi",
+      "sampleIcons": [
+        "moon-9",
+        "moon-waxing-gibbous-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "night-alt-cloudy",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-cloudy",
+        "owm-night-804"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "night-alt-hail",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-hail",
+        "owm-night-906"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "night-alt-sleet",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-sleet",
+        "owm-night-601"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "night-alt-storm-showers",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-alt-storm-showers",
+        "owm-night-531"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "night-fog",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-fog",
+        "owm-night-741"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "night-partly-cloudy",
+      "prefix": "wi",
+      "sampleIcons": [
+        "night-partly-cloudy",
+        "yahoo-33"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wi",
+      "glyphName": "stars",
+      "prefix": "wi",
+      "sampleIcons": [
+        "stars",
+        "yahoo-3200"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Wi",
+      "headBbox": "-24..1002 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "wi",
+      "reasons": [
+        "head.xMin=-24",
+        "head.xMax=1002",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 753,
+      "codepoint": 57345,
+      "font": "Wi",
+      "name": "aliens",
+      "prefix": "wi",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57442,
+      "font": "Wi",
+      "name": "moon-6",
+      "prefix": "wi",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57496,
+      "font": "Wi",
+      "name": "moon-6",
+      "prefix": "wi",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 57783,
+      "font": "Wi",
+      "name": "wind-direction-e",
+      "prefix": "wi",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 57785,
+      "font": "Wi",
+      "name": "wind-direction-ne",
+      "prefix": "wi",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 57786,
+      "font": "Wi",
+      "name": "wind-direction-nw",
+      "prefix": "wi",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57787,
+      "font": "Wi",
+      "name": "wind-direction-s",
+      "prefix": "wi",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 57788,
+      "font": "Wi",
+      "name": "wind-direction-se",
+      "prefix": "wi",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 57789,
+      "font": "Wi",
+      "name": "wind-direction-sw",
+      "prefix": "wi",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "wi",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Wi",
+      "glyphCount": 601,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1002,
+        "xMin": -24,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1001,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

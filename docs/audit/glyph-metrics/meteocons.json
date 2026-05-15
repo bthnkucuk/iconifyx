@@ -1,0 +1,619 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 22,
+      "font": "Meteocons",
+      "glyphName": "overcast-day-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "overcast-day-fill",
+        "overcast-day-fog-fill",
+        "overcast-day-hail-fill",
+        "overcast-day-haze-fill"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Meteocons",
+      "glyphName": "extreme",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "extreme",
+        "extreme-fog",
+        "extreme-hail",
+        "extreme-haze"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Meteocons",
+      "glyphName": "extreme-day",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "extreme-day",
+        "extreme-day-fog",
+        "extreme-day-hail",
+        "extreme-day-haze"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "Meteocons",
+      "glyphName": "extreme-night",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "extreme-night",
+        "extreme-night-fog",
+        "extreme-night-hail",
+        "extreme-night-haze"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Meteocons",
+      "glyphName": "drizzle",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "drizzle",
+        "overcast-day-drizzle",
+        "overcast-drizzle",
+        "overcast-night-drizzle"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Meteocons",
+      "glyphName": "overcast-day-rain",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "overcast-day-rain",
+        "overcast-night-rain",
+        "overcast-rain",
+        "partly-cloudy-day-rain"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Meteocons",
+      "glyphName": "overcast-day-sleet",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "overcast-day-sleet",
+        "overcast-night-sleet",
+        "overcast-sleet",
+        "partly-cloudy-day-sleet"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Meteocons",
+      "glyphName": "extreme-day-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "extreme-day-fill",
+        "extreme-day-fog-fill",
+        "extreme-day-haze-fill",
+        "extreme-day-smoke-fill"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Meteocons",
+      "glyphName": "extreme-night-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "extreme-night-fill",
+        "extreme-night-fog-fill",
+        "extreme-night-haze-fill",
+        "extreme-night-smoke-fill"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Meteocons",
+      "glyphName": "moonrise",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "moonrise",
+        "moonrise-fill",
+        "sunrise",
+        "sunrise-fill"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Meteocons",
+      "glyphName": "moonset",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "moonset",
+        "moonset-fill",
+        "sunset",
+        "sunset-fill"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Meteocons",
+      "glyphName": "thermometer",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "thermometer",
+        "thermometer-moon",
+        "thermometer-snow",
+        "thermometer-sun"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Meteocons",
+      "glyphName": "thermometer-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "thermometer-fill",
+        "thermometer-moon-fill",
+        "thermometer-snow-fill",
+        "thermometer-sun-fill"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Meteocons",
+      "glyphName": "overcast-day-rain-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "overcast-day-rain-fill",
+        "overcast-night-rain-fill",
+        "overcast-rain-fill"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Meteocons",
+      "glyphName": "overcast-day-sleet-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "overcast-day-sleet-fill",
+        "overcast-night-sleet-fill",
+        "overcast-sleet-fill"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Meteocons",
+      "glyphName": "partly-cloudy-day-rain-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "partly-cloudy-day-rain-fill",
+        "partly-cloudy-night-rain-fill",
+        "rain-fill"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Meteocons",
+      "glyphName": "partly-cloudy-day-sleet-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "partly-cloudy-day-sleet-fill",
+        "partly-cloudy-night-sleet-fill",
+        "sleet-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "cloudy-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "cloudy-fill",
+        "haze-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "extreme-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "extreme-fill",
+        "extreme-haze-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "extreme-fog-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "extreme-fog-fill",
+        "extreme-smoke-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "horizon",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "horizon",
+        "horizon-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "overcast-day-drizzle-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "overcast-day-drizzle-fill",
+        "overcast-drizzle-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "overcast-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "overcast-fill",
+        "overcast-haze-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "partly-cloudy-day-drizzle-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "partly-cloudy-day-drizzle-fill",
+        "partly-cloudy-night-drizzle-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "pressure-high",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "pressure-high",
+        "pressure-high-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "pressure-low",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "pressure-low",
+        "pressure-low-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "rainbow-clear-fill",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "rainbow-clear-fill",
+        "rainbow-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "thermometer-colder",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "thermometer-colder",
+        "thermometer-colder-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "thermometer-mercury",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "thermometer-mercury",
+        "thermometer-mercury-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "thermometer-mercury-cold",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "thermometer-mercury-cold",
+        "thermometer-mercury-cold-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "time-afternoon",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "time-afternoon",
+        "time-afternoon-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "time-evening",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "time-evening",
+        "time-evening-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "time-late-afternoon",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "time-late-afternoon",
+        "time-late-afternoon-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "time-late-morning",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "time-late-morning",
+        "time-late-morning-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "time-morning",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "time-morning",
+        "time-morning-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "time-night",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "time-night",
+        "time-night-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "uv-index",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "uv-index",
+        "uv-index-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "uv-index-10",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "uv-index-10",
+        "uv-index-10-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "uv-index-11",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "uv-index-11",
+        "uv-index-11-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "uv-index-8",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "uv-index-8",
+        "uv-index-8-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "uv-index-9",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "uv-index-9",
+        "uv-index-9-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-0",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-0",
+        "wind-beaufort-0-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-1",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-1",
+        "wind-beaufort-1-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-10",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-10",
+        "wind-beaufort-10-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-11",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-11",
+        "wind-beaufort-11-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-12",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-12",
+        "wind-beaufort-12-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-2",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-2",
+        "wind-beaufort-2-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-3",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-3",
+        "wind-beaufort-3-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-4",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-4",
+        "wind-beaufort-4-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-5",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-5",
+        "wind-beaufort-5-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-6",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-6",
+        "wind-beaufort-6-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-7",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-7",
+        "wind-beaufort-7-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-8",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-8",
+        "wind-beaufort-8-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Meteocons",
+      "glyphName": "wind-beaufort-9",
+      "prefix": "meteocons",
+      "sampleIcons": [
+        "wind-beaufort-9",
+        "wind-beaufort-9-fill"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Meteocons",
+      "headBbox": "0..1000 / 0..869",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "meteocons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "meteocons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Meteocons",
+      "glyphCount": 440,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 869,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,3585 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "FaBrands",
+      "glyphName": "r",
+      "prefix": "fa-brands",
+      "sampleIcons": [
+        "r",
+        "r-project"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "FaBrands",
+      "headBbox": "-24..1262 / -13..1061",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 13,
+      "prefix": "fa-brands",
+      "reasons": [
+        "head.xMin=-24",
+        "head.xMax=1262",
+        "head.yMin=-13",
+        "head.yMax=1061",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=13"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 875,
+      "codepoint": 57344,
+      "font": "FaBrands",
+      "name": "500px",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57345,
+      "font": "FaBrands",
+      "name": "accessible-icon",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57346,
+      "font": "FaBrands",
+      "name": "accusoft",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57347,
+      "font": "FaBrands",
+      "name": "acquisitions-incorporated",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57348,
+      "font": "FaBrands",
+      "name": "adn",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57352,
+      "font": "FaBrands",
+      "name": "airbnb",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57353,
+      "font": "FaBrands",
+      "name": "algolia",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57354,
+      "font": "FaBrands",
+      "name": "alipay",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57355,
+      "font": "FaBrands",
+      "name": "amazon",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57356,
+      "font": "FaBrands",
+      "name": "amazon-pay",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57357,
+      "font": "FaBrands",
+      "name": "amilia",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57358,
+      "font": "FaBrands",
+      "name": "android",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57359,
+      "font": "FaBrands",
+      "name": "angellist",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57360,
+      "font": "FaBrands",
+      "name": "angrycreative",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57361,
+      "font": "FaBrands",
+      "name": "angular",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57363,
+      "font": "FaBrands",
+      "name": "app-store-ios",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57364,
+      "font": "FaBrands",
+      "name": "apper",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57365,
+      "font": "FaBrands",
+      "name": "apple",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57366,
+      "font": "FaBrands",
+      "name": "apple-pay",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57368,
+      "font": "FaBrands",
+      "name": "asymmetrik",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57370,
+      "font": "FaBrands",
+      "name": "audible",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57371,
+      "font": "FaBrands",
+      "name": "autoprefixer",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57373,
+      "font": "FaBrands",
+      "name": "aviato",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57374,
+      "font": "FaBrands",
+      "name": "aws",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57377,
+      "font": "FaBrands",
+      "name": "behance",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57378,
+      "font": "FaBrands",
+      "name": "behance-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57379,
+      "font": "FaBrands",
+      "name": "bimobject",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57382,
+      "font": "FaBrands",
+      "name": "bity",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57383,
+      "font": "FaBrands",
+      "name": "black-tie",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57385,
+      "font": "FaBrands",
+      "name": "blogger",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57386,
+      "font": "FaBrands",
+      "name": "blogger-b",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57387,
+      "font": "FaBrands",
+      "name": "bluetooth",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57388,
+      "font": "FaBrands",
+      "name": "bluetooth-b",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57389,
+      "font": "FaBrands",
+      "name": "bootstrap",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57390,
+      "font": "FaBrands",
+      "name": "btc",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57391,
+      "font": "FaBrands",
+      "name": "buffer",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57392,
+      "font": "FaBrands",
+      "name": "buromobelexperte",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57393,
+      "font": "FaBrands",
+      "name": "buy-n-large",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57394,
+      "font": "FaBrands",
+      "name": "buysellads",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57396,
+      "font": "FaBrands",
+      "name": "cc-amazon-pay",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57397,
+      "font": "FaBrands",
+      "name": "cc-amex",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57398,
+      "font": "FaBrands",
+      "name": "cc-apple-pay",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57399,
+      "font": "FaBrands",
+      "name": "cc-diners-club",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57400,
+      "font": "FaBrands",
+      "name": "cc-discover",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57401,
+      "font": "FaBrands",
+      "name": "cc-jcb",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57402,
+      "font": "FaBrands",
+      "name": "cc-mastercard",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57403,
+      "font": "FaBrands",
+      "name": "cc-paypal",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57404,
+      "font": "FaBrands",
+      "name": "cc-stripe",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57405,
+      "font": "FaBrands",
+      "name": "cc-visa",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57407,
+      "font": "FaBrands",
+      "name": "centos",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57408,
+      "font": "FaBrands",
+      "name": "chrome",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57410,
+      "font": "FaBrands",
+      "name": "cloudflare",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57411,
+      "font": "FaBrands",
+      "name": "cloudscale",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 648,
+      "codepoint": 57412,
+      "font": "FaBrands",
+      "name": "cloudsmith",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1203,
+      "codepoint": 57413,
+      "font": "FaBrands",
+      "name": "cloudversify",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 921,
+      "codepoint": 57415,
+      "font": "FaBrands",
+      "name": "codiepie",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57417,
+      "font": "FaBrands",
+      "name": "connectdevelop",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57420,
+      "font": "FaBrands",
+      "name": "cpanel",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57421,
+      "font": "FaBrands",
+      "name": "creative-commons",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57422,
+      "font": "FaBrands",
+      "name": "creative-commons-by",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57423,
+      "font": "FaBrands",
+      "name": "creative-commons-nc",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57424,
+      "font": "FaBrands",
+      "name": "creative-commons-nc-eu",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57425,
+      "font": "FaBrands",
+      "name": "creative-commons-nc-jp",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57426,
+      "font": "FaBrands",
+      "name": "creative-commons-nd",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57427,
+      "font": "FaBrands",
+      "name": "creative-commons-pd",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57428,
+      "font": "FaBrands",
+      "name": "creative-commons-pd-alt",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57429,
+      "font": "FaBrands",
+      "name": "creative-commons-remix",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57430,
+      "font": "FaBrands",
+      "name": "creative-commons-sa",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57431,
+      "font": "FaBrands",
+      "name": "creative-commons-sampling",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57432,
+      "font": "FaBrands",
+      "name": "creative-commons-sampling-plus",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57433,
+      "font": "FaBrands",
+      "name": "creative-commons-share",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57434,
+      "font": "FaBrands",
+      "name": "creative-commons-zero",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57435,
+      "font": "FaBrands",
+      "name": "critical-role",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57437,
+      "font": "FaBrands",
+      "name": "css3-alt",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 859,
+      "codepoint": 57438,
+      "font": "FaBrands",
+      "name": "cuttlefish",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57439,
+      "font": "FaBrands",
+      "name": "d-and-d",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57440,
+      "font": "FaBrands",
+      "name": "d-and-d-beyond",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57441,
+      "font": "FaBrands",
+      "name": "dailymotion",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57442,
+      "font": "FaBrands",
+      "name": "dashcube",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57443,
+      "font": "FaBrands",
+      "name": "deezer",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57444,
+      "font": "FaBrands",
+      "name": "delicious",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57446,
+      "font": "FaBrands",
+      "name": "deskpro",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57447,
+      "font": "FaBrands",
+      "name": "dev",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57448,
+      "font": "FaBrands",
+      "name": "deviantart",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57449,
+      "font": "FaBrands",
+      "name": "dhl",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57453,
+      "font": "FaBrands",
+      "name": "discord",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57454,
+      "font": "FaBrands",
+      "name": "discourse",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57455,
+      "font": "FaBrands",
+      "name": "dochub",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57456,
+      "font": "FaBrands",
+      "name": "docker",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57457,
+      "font": "FaBrands",
+      "name": "draft2digital",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57459,
+      "font": "FaBrands",
+      "name": "dribbble-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1031,
+      "codepoint": 57460,
+      "font": "FaBrands",
+      "name": "dropbox",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57461,
+      "font": "FaBrands",
+      "name": "drupal",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57462,
+      "font": "FaBrands",
+      "name": "dyalog",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57463,
+      "font": "FaBrands",
+      "name": "earlybirds",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57464,
+      "font": "FaBrands",
+      "name": "ebay",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57467,
+      "font": "FaBrands",
+      "name": "elementor",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57468,
+      "font": "FaBrands",
+      "name": "ello",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57469,
+      "font": "FaBrands",
+      "name": "ember",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57470,
+      "font": "FaBrands",
+      "name": "empire",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57471,
+      "font": "FaBrands",
+      "name": "envira",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57472,
+      "font": "FaBrands",
+      "name": "erlang",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57473,
+      "font": "FaBrands",
+      "name": "ethereum",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57474,
+      "font": "FaBrands",
+      "name": "etsy",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57475,
+      "font": "FaBrands",
+      "name": "evernote",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57476,
+      "font": "FaBrands",
+      "name": "expeditedssl",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57478,
+      "font": "FaBrands",
+      "name": "facebook-f",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57480,
+      "font": "FaBrands",
+      "name": "facebook-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57481,
+      "font": "FaBrands",
+      "name": "fedex",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57482,
+      "font": "FaBrands",
+      "name": "fedora",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57483,
+      "font": "FaBrands",
+      "name": "figma",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57486,
+      "font": "FaBrands",
+      "name": "first-order",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57487,
+      "font": "FaBrands",
+      "name": "first-order-alt",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57488,
+      "font": "FaBrands",
+      "name": "firstdraft",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57489,
+      "font": "FaBrands",
+      "name": "flickr",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57490,
+      "font": "FaBrands",
+      "name": "flipboard",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57491,
+      "font": "FaBrands",
+      "name": "fly",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57492,
+      "font": "FaBrands",
+      "name": "font-awesome",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57493,
+      "font": "FaBrands",
+      "name": "font-awesome-alt",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57494,
+      "font": "FaBrands",
+      "name": "font-awesome-flag",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57495,
+      "font": "FaBrands",
+      "name": "fonticons",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57496,
+      "font": "FaBrands",
+      "name": "fonticons-fi",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57499,
+      "font": "FaBrands",
+      "name": "forumbee",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 718,
+      "codepoint": 57500,
+      "font": "FaBrands",
+      "name": "foursquare",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57501,
+      "font": "FaBrands",
+      "name": "free-code-camp",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57502,
+      "font": "FaBrands",
+      "name": "freebsd",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57503,
+      "font": "FaBrands",
+      "name": "fulcrum",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57504,
+      "font": "FaBrands",
+      "name": "galactic-republic",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57506,
+      "font": "FaBrands",
+      "name": "get-pocket",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57510,
+      "font": "FaBrands",
+      "name": "git-alt",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57511,
+      "font": "FaBrands",
+      "name": "git-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57512,
+      "font": "FaBrands",
+      "name": "github",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57513,
+      "font": "FaBrands",
+      "name": "github-alt",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57514,
+      "font": "FaBrands",
+      "name": "github-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1156,
+      "codepoint": 57515,
+      "font": "FaBrands",
+      "name": "gitkraken",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57517,
+      "font": "FaBrands",
+      "name": "gitter",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57518,
+      "font": "FaBrands",
+      "name": "glide",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57519,
+      "font": "FaBrands",
+      "name": "glide-g",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 781,
+      "codepoint": 57520,
+      "font": "FaBrands",
+      "name": "gofore",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57521,
+      "font": "FaBrands",
+      "name": "goodreads",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57522,
+      "font": "FaBrands",
+      "name": "goodreads-g",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 953,
+      "codepoint": 57523,
+      "font": "FaBrands",
+      "name": "google",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57525,
+      "font": "FaBrands",
+      "name": "google-pay",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57528,
+      "font": "FaBrands",
+      "name": "google-plus-g",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57529,
+      "font": "FaBrands",
+      "name": "google-plus-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57530,
+      "font": "FaBrands",
+      "name": "google-wallet",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57531,
+      "font": "FaBrands",
+      "name": "gratipay",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57533,
+      "font": "FaBrands",
+      "name": "gripfire",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57534,
+      "font": "FaBrands",
+      "name": "grunt",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57535,
+      "font": "FaBrands",
+      "name": "guilded",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57536,
+      "font": "FaBrands",
+      "name": "gulp",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57537,
+      "font": "FaBrands",
+      "name": "hacker-news",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57538,
+      "font": "FaBrands",
+      "name": "hacker-news-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57540,
+      "font": "FaBrands",
+      "name": "hips",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57543,
+      "font": "FaBrands",
+      "name": "hooli",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57545,
+      "font": "FaBrands",
+      "name": "hotjar",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57546,
+      "font": "FaBrands",
+      "name": "houzz",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57547,
+      "font": "FaBrands",
+      "name": "html5",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57549,
+      "font": "FaBrands",
+      "name": "ideal",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57550,
+      "font": "FaBrands",
+      "name": "imdb",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57551,
+      "font": "FaBrands",
+      "name": "innosoft",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57552,
+      "font": "FaBrands",
+      "name": "instagram",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57553,
+      "font": "FaBrands",
+      "name": "instagram-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57555,
+      "font": "FaBrands",
+      "name": "intercom",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57557,
+      "font": "FaBrands",
+      "name": "invision",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57558,
+      "font": "FaBrands",
+      "name": "ioxhost",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57560,
+      "font": "FaBrands",
+      "name": "itunes",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57561,
+      "font": "FaBrands",
+      "name": "itunes-note",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57562,
+      "font": "FaBrands",
+      "name": "java",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57563,
+      "font": "FaBrands",
+      "name": "jedi-order",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57565,
+      "font": "FaBrands",
+      "name": "jira",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57566,
+      "font": "FaBrands",
+      "name": "joget",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57567,
+      "font": "FaBrands",
+      "name": "joomla",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57568,
+      "font": "FaBrands",
+      "name": "js",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57569,
+      "font": "FaBrands",
+      "name": "js-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57570,
+      "font": "FaBrands",
+      "name": "jsfiddle",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57571,
+      "font": "FaBrands",
+      "name": "kaggle",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57572,
+      "font": "FaBrands",
+      "name": "keybase",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57574,
+      "font": "FaBrands",
+      "name": "kickstarter",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57575,
+      "font": "FaBrands",
+      "name": "kickstarter-k",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 871,
+      "codepoint": 57576,
+      "font": "FaBrands",
+      "name": "korvue",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57579,
+      "font": "FaBrands",
+      "name": "lastfm-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57580,
+      "font": "FaBrands",
+      "name": "leanpub",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57581,
+      "font": "FaBrands",
+      "name": "less",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57582,
+      "font": "FaBrands",
+      "name": "line",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57583,
+      "font": "FaBrands",
+      "name": "linkedin",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57584,
+      "font": "FaBrands",
+      "name": "linkedin-in",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57585,
+      "font": "FaBrands",
+      "name": "linode",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57586,
+      "font": "FaBrands",
+      "name": "linux",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57588,
+      "font": "FaBrands",
+      "name": "magento",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57589,
+      "font": "FaBrands",
+      "name": "mailchimp",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57590,
+      "font": "FaBrands",
+      "name": "mandalorian",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57591,
+      "font": "FaBrands",
+      "name": "markdown",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57592,
+      "font": "FaBrands",
+      "name": "mastodon",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57594,
+      "font": "FaBrands",
+      "name": "mdb",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57595,
+      "font": "FaBrands",
+      "name": "medapps",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57596,
+      "font": "FaBrands",
+      "name": "medium",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57598,
+      "font": "FaBrands",
+      "name": "medrt",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57600,
+      "font": "FaBrands",
+      "name": "megaport",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57601,
+      "font": "FaBrands",
+      "name": "mendeley",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57602,
+      "font": "FaBrands",
+      "name": "microblog",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57603,
+      "font": "FaBrands",
+      "name": "microsoft",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57604,
+      "font": "FaBrands",
+      "name": "mix",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57605,
+      "font": "FaBrands",
+      "name": "mixcloud",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57607,
+      "font": "FaBrands",
+      "name": "mizuni",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57608,
+      "font": "FaBrands",
+      "name": "modx",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57609,
+      "font": "FaBrands",
+      "name": "monero",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57610,
+      "font": "FaBrands",
+      "name": "napster",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57612,
+      "font": "FaBrands",
+      "name": "nimblr",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57613,
+      "font": "FaBrands",
+      "name": "nintendo-switch",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57614,
+      "font": "FaBrands",
+      "name": "node",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57615,
+      "font": "FaBrands",
+      "name": "node-js",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57616,
+      "font": "FaBrands",
+      "name": "npm",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57617,
+      "font": "FaBrands",
+      "name": "ns8",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 781,
+      "codepoint": 57618,
+      "font": "FaBrands",
+      "name": "nutritionix",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57620,
+      "font": "FaBrands",
+      "name": "odnoklassniki",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57621,
+      "font": "FaBrands",
+      "name": "odnoklassniki-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57622,
+      "font": "FaBrands",
+      "name": "old-republic",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57623,
+      "font": "FaBrands",
+      "name": "opencart",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57624,
+      "font": "FaBrands",
+      "name": "openid",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57625,
+      "font": "FaBrands",
+      "name": "opera",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57626,
+      "font": "FaBrands",
+      "name": "optin-monster",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57629,
+      "font": "FaBrands",
+      "name": "page4",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57630,
+      "font": "FaBrands",
+      "name": "pagelines",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57631,
+      "font": "FaBrands",
+      "name": "palfed",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57633,
+      "font": "FaBrands",
+      "name": "paypal",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57634,
+      "font": "FaBrands",
+      "name": "penny-arcade",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57635,
+      "font": "FaBrands",
+      "name": "perbyte",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57636,
+      "font": "FaBrands",
+      "name": "periscope",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57637,
+      "font": "FaBrands",
+      "name": "phabricator",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57638,
+      "font": "FaBrands",
+      "name": "phoenix-framework",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57640,
+      "font": "FaBrands",
+      "name": "php",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57641,
+      "font": "FaBrands",
+      "name": "pied-piper",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57642,
+      "font": "FaBrands",
+      "name": "pied-piper-alt",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57643,
+      "font": "FaBrands",
+      "name": "pied-piper-hat",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57644,
+      "font": "FaBrands",
+      "name": "pied-piper-pp",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57645,
+      "font": "FaBrands",
+      "name": "pied-piper-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57646,
+      "font": "FaBrands",
+      "name": "pinterest",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57647,
+      "font": "FaBrands",
+      "name": "pinterest-p",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57648,
+      "font": "FaBrands",
+      "name": "pinterest-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57649,
+      "font": "FaBrands",
+      "name": "playstation",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 843,
+      "codepoint": 57651,
+      "font": "FaBrands",
+      "name": "pushed",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57652,
+      "font": "FaBrands",
+      "name": "python",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57653,
+      "font": "FaBrands",
+      "name": "qq",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57655,
+      "font": "FaBrands",
+      "name": "quora",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1134,
+      "codepoint": 57656,
+      "font": "FaBrands",
+      "name": "r",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1134,
+      "codepoint": 57657,
+      "font": "FaBrands",
+      "name": "r",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 794,
+      "codepoint": 57658,
+      "font": "FaBrands",
+      "name": "raspberry-pi",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57661,
+      "font": "FaBrands",
+      "name": "reacteurope",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57662,
+      "font": "FaBrands",
+      "name": "readme",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57664,
+      "font": "FaBrands",
+      "name": "red-river",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57667,
+      "font": "FaBrands",
+      "name": "reddit-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57669,
+      "font": "FaBrands",
+      "name": "rendact",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57671,
+      "font": "FaBrands",
+      "name": "replyd",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57672,
+      "font": "FaBrands",
+      "name": "researchgate",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57673,
+      "font": "FaBrands",
+      "name": "resolving",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57674,
+      "font": "FaBrands",
+      "name": "rev",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57675,
+      "font": "FaBrands",
+      "name": "rocketchat",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57676,
+      "font": "FaBrands",
+      "name": "rockrms",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57679,
+      "font": "FaBrands",
+      "name": "salesforce",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57680,
+      "font": "FaBrands",
+      "name": "sass",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57681,
+      "font": "FaBrands",
+      "name": "schlix",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57682,
+      "font": "FaBrands",
+      "name": "scribd",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 898,
+      "codepoint": 57683,
+      "font": "FaBrands",
+      "name": "searchengin",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57684,
+      "font": "FaBrands",
+      "name": "sellcast",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57685,
+      "font": "FaBrands",
+      "name": "sellsy",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57686,
+      "font": "FaBrands",
+      "name": "servicestack",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57687,
+      "font": "FaBrands",
+      "name": "shirtsinbulk",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57688,
+      "font": "FaBrands",
+      "name": "shopify",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57691,
+      "font": "FaBrands",
+      "name": "sistrix",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57692,
+      "font": "FaBrands",
+      "name": "sith",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57694,
+      "font": "FaBrands",
+      "name": "skyatlas",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57695,
+      "font": "FaBrands",
+      "name": "skype",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57696,
+      "font": "FaBrands",
+      "name": "slack",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57697,
+      "font": "FaBrands",
+      "name": "slack-hash",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57699,
+      "font": "FaBrands",
+      "name": "snapchat",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57701,
+      "font": "FaBrands",
+      "name": "snapchat-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57702,
+      "font": "FaBrands",
+      "name": "soundcloud",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57703,
+      "font": "FaBrands",
+      "name": "sourcetree",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57704,
+      "font": "FaBrands",
+      "name": "speakap",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57706,
+      "font": "FaBrands",
+      "name": "spotify",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57708,
+      "font": "FaBrands",
+      "name": "stack-exchange",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57709,
+      "font": "FaBrands",
+      "name": "stack-overflow",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57710,
+      "font": "FaBrands",
+      "name": "stackpath",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 859,
+      "codepoint": 57711,
+      "font": "FaBrands",
+      "name": "staylinked",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57712,
+      "font": "FaBrands",
+      "name": "steam",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57713,
+      "font": "FaBrands",
+      "name": "steam-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57714,
+      "font": "FaBrands",
+      "name": "steam-symbol",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57715,
+      "font": "FaBrands",
+      "name": "sticker-mule",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57716,
+      "font": "FaBrands",
+      "name": "strava",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57717,
+      "font": "FaBrands",
+      "name": "stripe",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57718,
+      "font": "FaBrands",
+      "name": "stripe-s",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57721,
+      "font": "FaBrands",
+      "name": "stumbleupon-circle",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57722,
+      "font": "FaBrands",
+      "name": "superpowers",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57723,
+      "font": "FaBrands",
+      "name": "supple",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57724,
+      "font": "FaBrands",
+      "name": "suse",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57725,
+      "font": "FaBrands",
+      "name": "swift",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57728,
+      "font": "FaBrands",
+      "name": "telegram",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57729,
+      "font": "FaBrands",
+      "name": "telegram-plane",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57730,
+      "font": "FaBrands",
+      "name": "tencent-weibo",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57732,
+      "font": "FaBrands",
+      "name": "themeco",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57734,
+      "font": "FaBrands",
+      "name": "think-peaks",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57735,
+      "font": "FaBrands",
+      "name": "tiktok",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57736,
+      "font": "FaBrands",
+      "name": "trade-federation",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57737,
+      "font": "FaBrands",
+      "name": "trello",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57738,
+      "font": "FaBrands",
+      "name": "tripadvisor",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57739,
+      "font": "FaBrands",
+      "name": "tumblr",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57740,
+      "font": "FaBrands",
+      "name": "tumblr-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57743,
+      "font": "FaBrands",
+      "name": "twitter-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57744,
+      "font": "FaBrands",
+      "name": "typo3",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57745,
+      "font": "FaBrands",
+      "name": "uber",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57746,
+      "font": "FaBrands",
+      "name": "ubuntu",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57747,
+      "font": "FaBrands",
+      "name": "uikit",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 996,
+      "codepoint": 57748,
+      "font": "FaBrands",
+      "name": "umbraco",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57749,
+      "font": "FaBrands",
+      "name": "uncharted",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57750,
+      "font": "FaBrands",
+      "name": "uniregistry",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57751,
+      "font": "FaBrands",
+      "name": "unity",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57752,
+      "font": "FaBrands",
+      "name": "unsplash",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57753,
+      "font": "FaBrands",
+      "name": "untappd",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57754,
+      "font": "FaBrands",
+      "name": "ups",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57755,
+      "font": "FaBrands",
+      "name": "usb",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57756,
+      "font": "FaBrands",
+      "name": "usps",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57758,
+      "font": "FaBrands",
+      "name": "vaadin",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57759,
+      "font": "FaBrands",
+      "name": "viacoin",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57760,
+      "font": "FaBrands",
+      "name": "viadeo",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57761,
+      "font": "FaBrands",
+      "name": "viadeo-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57763,
+      "font": "FaBrands",
+      "name": "vimeo",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57764,
+      "font": "FaBrands",
+      "name": "vimeo-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57765,
+      "font": "FaBrands",
+      "name": "vimeo-v",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57766,
+      "font": "FaBrands",
+      "name": "vine",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57767,
+      "font": "FaBrands",
+      "name": "vk",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57768,
+      "font": "FaBrands",
+      "name": "vnv",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57769,
+      "font": "FaBrands",
+      "name": "vuejs",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57774,
+      "font": "FaBrands",
+      "name": "weixin",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57775,
+      "font": "FaBrands",
+      "name": "whatsapp",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57776,
+      "font": "FaBrands",
+      "name": "whatsapp-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57777,
+      "font": "FaBrands",
+      "name": "whmcs",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57778,
+      "font": "FaBrands",
+      "name": "wikipedia-w",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57779,
+      "font": "FaBrands",
+      "name": "windows",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57780,
+      "font": "FaBrands",
+      "name": "wix",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57781,
+      "font": "FaBrands",
+      "name": "wizards-of-the-coast",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57782,
+      "font": "FaBrands",
+      "name": "wodu",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57788,
+      "font": "FaBrands",
+      "name": "wpforms",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57789,
+      "font": "FaBrands",
+      "name": "wpressr",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57791,
+      "font": "FaBrands",
+      "name": "xing",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57792,
+      "font": "FaBrands",
+      "name": "xing-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57793,
+      "font": "FaBrands",
+      "name": "y-combinator",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57796,
+      "font": "FaBrands",
+      "name": "yandex",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57797,
+      "font": "FaBrands",
+      "name": "yandex-international",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57798,
+      "font": "FaBrands",
+      "name": "yarn",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57799,
+      "font": "FaBrands",
+      "name": "yelp",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57800,
+      "font": "FaBrands",
+      "name": "yoast",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57801,
+      "font": "FaBrands",
+      "name": "youtube",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57802,
+      "font": "FaBrands",
+      "name": "youtube-square",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57803,
+      "font": "FaBrands",
+      "name": "zhihu",
+      "prefix": "fa-brands",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57346,
+      "contentWidth": 1265,
+      "font": "FaBrands",
+      "name": "accusoft",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57356,
+      "contentWidth": 1222,
+      "font": "FaBrands",
+      "name": "amazon-pay",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57358,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "android",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57360,
+      "contentWidth": 1253,
+      "font": "FaBrands",
+      "name": "angrycreative",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57364,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "apper",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57366,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "apple-pay",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57368,
+      "contentWidth": 1126,
+      "font": "FaBrands",
+      "name": "asymmetrik",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57370,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "audible",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57371,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "autoprefixer",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57373,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "aviato",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57374,
+      "contentWidth": 1255,
+      "font": "FaBrands",
+      "name": "aws",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57377,
+      "contentWidth": 1126,
+      "font": "FaBrands",
+      "name": "behance",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57389,
+      "contentWidth": 1112,
+      "font": "FaBrands",
+      "name": "bootstrap",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57393,
+      "contentWidth": 1110,
+      "font": "FaBrands",
+      "name": "buy-n-large",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57396,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "cc-amazon-pay",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57397,
+      "contentWidth": 1127,
+      "font": "FaBrands",
+      "name": "cc-amex",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57398,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "cc-apple-pay",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57399,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "cc-diners-club",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57400,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "cc-discover",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57401,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "cc-jcb",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57402,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "cc-mastercard",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57403,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "cc-paypal",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57404,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "cc-stripe",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57405,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "cc-visa",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57410,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "cloudflare",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57413,
+      "contentWidth": 1211,
+      "font": "FaBrands",
+      "name": "cloudversify",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57420,
+      "contentWidth": 1256,
+      "font": "FaBrands",
+      "name": "cpanel",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57440,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "d-and-d-beyond",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57443,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "deezer",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57449,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "dhl",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57453,
+      "contentWidth": 1212,
+      "font": "FaBrands",
+      "name": "discord",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57456,
+      "contentWidth": 1259,
+      "font": "FaBrands",
+      "name": "docker",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57464,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "ebay",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57469,
+      "contentWidth": 1252,
+      "font": "FaBrands",
+      "name": "ember",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57472,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "erlang",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57481,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "fedex",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57501,
+      "contentWidth": 1120,
+      "font": "FaBrands",
+      "name": "free-code-camp",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57515,
+      "contentWidth": 1141,
+      "font": "FaBrands",
+      "name": "gitkraken",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57525,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "google-pay",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57528,
+      "contentWidth": 1225,
+      "font": "FaBrands",
+      "name": "google-plus-g",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57540,
+      "contentWidth": 1257,
+      "font": "FaBrands",
+      "name": "hips",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57543,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "hooli",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57558,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "ioxhost",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57570,
+      "contentWidth": 1127,
+      "font": "FaBrands",
+      "name": "jsfiddle",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57580,
+      "contentWidth": 1112,
+      "font": "FaBrands",
+      "name": "leanpub",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57581,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "less",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57591,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "markdown",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57594,
+      "contentWidth": 1112,
+      "font": "FaBrands",
+      "name": "mdb",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57601,
+      "contentWidth": 1258,
+      "font": "FaBrands",
+      "name": "mendeley",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57605,
+      "contentWidth": 1249,
+      "font": "FaBrands",
+      "name": "mixcloud",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57614,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "node",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57616,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "npm",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57617,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "ns8",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57623,
+      "contentWidth": 1262,
+      "font": "FaBrands",
+      "name": "opencart",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57626,
+      "contentWidth": 1130,
+      "font": "FaBrands",
+      "name": "optin-monster",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57631,
+      "contentWidth": 1110,
+      "font": "FaBrands",
+      "name": "palfed",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57634,
+      "contentWidth": 1253,
+      "font": "FaBrands",
+      "name": "penny-arcade",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57638,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "phoenix-framework",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57640,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "php",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57642,
+      "contentWidth": 1112,
+      "font": "FaBrands",
+      "name": "pied-piper-alt",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57643,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "pied-piper-hat",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57649,
+      "contentWidth": 1128,
+      "font": "FaBrands",
+      "name": "playstation",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57656,
+      "contentWidth": 1135,
+      "font": "FaBrands",
+      "name": "r",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57657,
+      "contentWidth": 1135,
+      "font": "FaBrands",
+      "name": "r",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57661,
+      "contentWidth": 1127,
+      "font": "FaBrands",
+      "name": "reacteurope",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57662,
+      "contentWidth": 1125,
+      "font": "FaBrands",
+      "name": "readme",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57675,
+      "contentWidth": 1122,
+      "font": "FaBrands",
+      "name": "rocketchat",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57679,
+      "contentWidth": 1256,
+      "font": "FaBrands",
+      "name": "salesforce",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57680,
+      "contentWidth": 1255,
+      "font": "FaBrands",
+      "name": "sass",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57685,
+      "contentWidth": 1238,
+      "font": "FaBrands",
+      "name": "sellsy",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57694,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "skyatlas",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57702,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "soundcloud",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57715,
+      "contentWidth": 1128,
+      "font": "FaBrands",
+      "name": "sticker-mule",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57717,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "stripe",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57723,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "supple",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57724,
+      "contentWidth": 1243,
+      "font": "FaBrands",
+      "name": "suse",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57738,
+      "contentWidth": 1133,
+      "font": "FaBrands",
+      "name": "tripadvisor",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57753,
+      "contentWidth": 1226,
+      "font": "FaBrands",
+      "name": "untappd",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57755,
+      "contentWidth": 1253,
+      "font": "FaBrands",
+      "name": "usb",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57768,
+      "contentWidth": 1254,
+      "font": "FaBrands",
+      "name": "vnv",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57778,
+      "contentWidth": 1251,
+      "font": "FaBrands",
+      "name": "wikipedia-w",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57780,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "wix",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57781,
+      "contentWidth": 1252,
+      "font": "FaBrands",
+      "name": "wizards-of-the-coast",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57782,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "wodu",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57803,
+      "contentWidth": 1250,
+      "font": "FaBrands",
+      "name": "zhihu",
+      "prefix": "fa-brands",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "fa-brands",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FaBrands",
+      "glyphCount": 460,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1262,
+        "xMin": -24,
+        "yMax": 1061,
+        "yMin": -13
+      },
+      "hhea": {
+        "advanceWidthMax": 1250,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 13
+      }
+    }
+  ]
+}

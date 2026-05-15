@@ -1,0 +1,134 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Feather",
+      "glyphName": "divide-circle",
+      "prefix": "feather",
+      "sampleIcons": [
+        "divide-circle",
+        "minus-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Feather",
+      "glyphName": "divide-circle-bold",
+      "prefix": "feather",
+      "sampleIcons": [
+        "divide-circle-bold",
+        "minus-circle-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Feather",
+      "glyphName": "divide-circle-light",
+      "prefix": "feather",
+      "sampleIcons": [
+        "divide-circle-light",
+        "minus-circle-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Feather",
+      "glyphName": "divide-circle-thin",
+      "prefix": "feather",
+      "sampleIcons": [
+        "divide-circle-thin",
+        "minus-circle-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Feather",
+      "glyphName": "divide-square",
+      "prefix": "feather",
+      "sampleIcons": [
+        "divide-square",
+        "minus-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Feather",
+      "glyphName": "divide-square-bold",
+      "prefix": "feather",
+      "sampleIcons": [
+        "divide-square-bold",
+        "minus-square-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Feather",
+      "glyphName": "divide-square-light",
+      "prefix": "feather",
+      "sampleIcons": [
+        "divide-square-light",
+        "minus-square-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Feather",
+      "glyphName": "divide-square-thin",
+      "prefix": "feather",
+      "sampleIcons": [
+        "divide-square-thin",
+        "minus-square-thin"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Feather",
+      "headBbox": "-9..1011 / -5..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 5,
+      "prefix": "feather",
+      "reasons": [
+        "head.xMin=-9",
+        "head.xMax=1011",
+        "head.yMin=-5",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=5"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "feather",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Feather",
+      "glyphCount": 1144,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1011,
+        "xMin": -9,
+        "yMax": 1006,
+        "yMin": -5
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Guidance",
+      "headBbox": "-13..1011 / -11..1009",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 11,
+      "prefix": "guidance",
+      "reasons": [
+        "head.xMin=-13",
+        "head.xMax=1011",
+        "head.yMin=-11",
+        "head.yMax=1009",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=11"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "guidance",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Guidance",
+      "glyphCount": 360,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1011,
+        "xMin": -13,
+        "yMax": 1009,
+        "yMin": -11
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 11
+      }
+    }
+  ]
+}

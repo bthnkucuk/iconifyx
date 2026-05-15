@@ -1,0 +1,2637 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 6,
+      "font": "Ion",
+      "glyphName": "radio-button-off",
+      "prefix": "ion",
+      "sampleIcons": [
+        "radio-button-off",
+        "radio-button-off-outline",
+        "radio-button-off-sharp",
+        "radio-off"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Ion",
+      "glyphName": "radio-button-on",
+      "prefix": "ion",
+      "sampleIcons": [
+        "radio-button-on",
+        "radio-button-on-outline",
+        "radio-button-on-sharp",
+        "radio-on"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Ion",
+      "glyphName": "logo-bitcoin",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-bitcoin",
+        "logo-buffer-63",
+        "logo-buffer-63-outline",
+        "social-bitcoin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Ion",
+      "glyphName": "logo-buffer",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-buffer",
+        "logo-buffer-62",
+        "logo-buffer-62-outline",
+        "social-buffer"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-android",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-android",
+        "logo-android-outline",
+        "social-android"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-angular",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-angular",
+        "logo-angular-outline",
+        "social-angular"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-apple",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-apple",
+        "logo-apple-outline",
+        "social-apple"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-chrome",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-chrome",
+        "logo-chrome-outline",
+        "social-chrome"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-codepen",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-codepen",
+        "logo-codepen-outline",
+        "social-codepen"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-css3",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-css3",
+        "logo-css3-outline",
+        "social-css3"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-designernews",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-designernews",
+        "logo-designernews-outline",
+        "social-designernews"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-dribbble",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-dribbble",
+        "logo-dribbble-outline",
+        "social-dribbble-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-dropbox",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-dropbox",
+        "logo-dropbox-outline",
+        "social-dropbox"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-euro",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-euro",
+        "logo-euro-outline",
+        "social-euro"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-foursquare",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-foursquare",
+        "logo-foursquare-outline",
+        "social-foursquare"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-github",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-github",
+        "logo-github-outline",
+        "social-github"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-hackernews",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-hackernews",
+        "logo-hackernews-outline",
+        "social-hackernews"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-html5",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-html5",
+        "logo-html5-outline",
+        "social-html5"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-javascript",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-javascript",
+        "logo-javascript-outline",
+        "social-javascript"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-linkedin",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-linkedin",
+        "logo-linkedin-outline",
+        "social-linkedin"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-markdown",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-markdown",
+        "logo-markdown-outline",
+        "social-markdown"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-nodejs",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-nodejs",
+        "logo-nodejs-outline",
+        "social-nodejs"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-pinterest",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-pinterest",
+        "logo-pinterest-outline",
+        "social-pinterest"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-python",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-python",
+        "logo-python-outline",
+        "social-python"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-reddit",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-reddit",
+        "logo-reddit-outline",
+        "social-reddit-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-rss",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-rss",
+        "logo-rss-outline",
+        "social-rss"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-sass",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-sass",
+        "logo-sass-outline",
+        "social-sass"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-skype",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-skype",
+        "logo-skype-outline",
+        "social-skype"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-snapchat",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-snapchat",
+        "logo-snapchat-outline",
+        "social-snapchat"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-tumblr",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-tumblr",
+        "logo-tumblr-outline",
+        "social-tumblr"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-twitch",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-twitch",
+        "logo-twitch-outline",
+        "social-twitch-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-twitter",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-twitter",
+        "logo-twitter-outline",
+        "social-twitter"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-usd",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-usd",
+        "logo-usd-outline",
+        "social-usd"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-whatsapp",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-whatsapp",
+        "logo-whatsapp-outline",
+        "social-whatsapp"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-windows",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-windows",
+        "logo-windows-outline",
+        "social-windows"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-wordpress",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-wordpress",
+        "logo-wordpress-outline",
+        "social-wordpress"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-yahoo",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-yahoo",
+        "logo-yahoo-outline",
+        "social-yahoo"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-yen",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-yen",
+        "logo-yen-outline",
+        "social-yen"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Ion",
+      "glyphName": "logo-youtube",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-youtube",
+        "logo-youtube-outline",
+        "social-youtube"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "add",
+      "prefix": "ion",
+      "sampleIcons": [
+        "add",
+        "add-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "alert",
+      "prefix": "ion",
+      "sampleIcons": [
+        "alert",
+        "alert-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-add",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-add",
+        "md-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-add-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-add-circle",
+        "md-add-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-alarm-clock",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-alarm-clock",
+        "md-alarm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-alert",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-alert",
+        "md-alert"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-apps",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-apps",
+        "md-apps"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-archive",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-archive",
+        "md-archive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-back",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-back",
+        "md-arrow-back"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-down",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-down",
+        "md-arrow-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-dropdown",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-dropdown",
+        "md-arrow-dropdown"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-dropdown-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-dropdown-circle",
+        "md-arrow-dropdown-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-dropleft",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-dropleft",
+        "md-arrow-dropleft"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-dropleft-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-dropleft-circle",
+        "md-arrow-dropleft-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-dropright",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-dropright",
+        "md-arrow-dropright"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-dropright-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-dropright-circle",
+        "md-arrow-dropright-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-dropup",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-dropup",
+        "md-arrow-dropup"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-dropup-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-dropup-circle",
+        "md-arrow-dropup-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-forward",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-forward",
+        "md-arrow-forward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-arrow-up",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-arrow-up",
+        "md-arrow-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-attach",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-attach",
+        "md-attach"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-bar",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-bar",
+        "md-wine"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-bicycle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-bicycle",
+        "md-bicycle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-boat",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-boat",
+        "md-boat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-bookmark",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-bookmark",
+        "md-bookmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-bus",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-bus",
+        "md-bus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-calendar",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-calendar",
+        "md-calendar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-call",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-call",
+        "md-call"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-camera",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-camera",
+        "md-camera"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-cancel",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-cancel",
+        "md-close-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-car",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-car",
+        "md-car"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-cart",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-cart",
+        "md-cart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-chat",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-chat",
+        "md-chatboxes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-checkbox",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-checkbox",
+        "md-checkbox"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-checkbox-blank",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-checkbox-blank",
+        "md-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-checkbox-outline",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-checkbox-outline",
+        "md-checkbox-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-checkmark-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-checkmark-circle",
+        "md-checkmark-circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-clipboard",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-clipboard",
+        "md-clipboard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-close",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-close",
+        "md-close"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-cloud",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-cloud",
+        "md-cloud"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-cloud-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-cloud-circle",
+        "md-cloud-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-cloud-done",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-cloud-done",
+        "md-cloud-done"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-cloud-outline",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-cloud-outline",
+        "md-cloud-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-color-palette",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-color-palette",
+        "md-color-palette"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-compass",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-compass",
+        "md-compass"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-contacts",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-contacts",
+        "md-contacts"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-contract",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-contract",
+        "md-contract"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-create",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-create",
+        "md-create"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-delete",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-delete",
+        "md-trash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-desktop",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-desktop",
+        "md-desktop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-document",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-document",
+        "md-document"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-done",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-done",
+        "md-checkmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-done-all",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-done-all",
+        "md-done-all"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-download",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-download",
+        "md-cloud-download"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-drafts",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-drafts",
+        "md-mail-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-exit",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-exit",
+        "md-exit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-expand",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-expand",
+        "md-expand"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-favorite",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-favorite",
+        "md-heart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-film",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-film",
+        "md-film"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-folder",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-folder",
+        "md-folder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-folder-open",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-folder-open",
+        "md-folder-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-funnel",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-funnel",
+        "md-funnel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-globe",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-globe",
+        "md-globe"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-hand",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-hand",
+        "md-hand"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-happy",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-happy",
+        "md-happy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-home",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-home",
+        "md-home"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-image",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-image",
+        "md-image"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-laptop",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-laptop",
+        "md-laptop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-list",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-list",
+        "md-list-box"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-locate",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-locate",
+        "md-locate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-lock",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-lock",
+        "md-lock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-mail",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-mail",
+        "md-mail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-map",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-map",
+        "md-map"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-menu",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-menu",
+        "md-menu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-microphone",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-microphone",
+        "md-mic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-microphone-off",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-microphone-off",
+        "md-mic-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-more-vertical",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-more-vertical",
+        "md-more"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-navigate",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-navigate",
+        "md-navigate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-notifications",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-notifications",
+        "md-notifications"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-notifications-none",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-notifications-none",
+        "md-notifications-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-notifications-off",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-notifications-off",
+        "md-notifications-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-open",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-open",
+        "md-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-options",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-options",
+        "md-options"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-people",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-people",
+        "md-people"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-person",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-person",
+        "md-person"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-person-add",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-person-add",
+        "md-person-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-phone-landscape",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-phone-landscape",
+        "md-phone-landscape"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-phone-portrait",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-phone-portrait",
+        "md-phone-portrait"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-pin",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-pin",
+        "md-pin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-playstore",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-playstore",
+        "md-appstore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-print",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-print",
+        "md-print"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-radio-button-off",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-radio-button-off",
+        "md-radio-button-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-radio-button-on",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-radio-button-on",
+        "md-radio-button-on"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-refresh",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-refresh",
+        "md-refresh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-remove",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-remove",
+        "md-remove"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-remove-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-remove-circle",
+        "md-remove-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-restaurant",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-restaurant",
+        "md-restaurant"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-sad",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-sad",
+        "md-sad"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-search",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-search",
+        "md-search"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-send",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-send",
+        "md-send"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-settings",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-settings",
+        "md-settings"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-share",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-share",
+        "md-share-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-share-alt",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-share-alt",
+        "md-share"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-star",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-star",
+        "md-star"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-star-half",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-star-half",
+        "md-star-half"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-star-outline",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-star-outline",
+        "md-star-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-stopwatch",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-stopwatch",
+        "md-stopwatch"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-subway",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-subway",
+        "md-subway"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-sync",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-sync",
+        "md-sync"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-textsms",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-textsms",
+        "md-text"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-unlock",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-unlock",
+        "md-unlock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-upload",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-upload",
+        "md-cloud-upload"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-volume-down",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-volume-down",
+        "md-volume-low"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-volume-mute",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-volume-mute",
+        "md-volume-mute"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-volume-off",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-volume-off",
+        "md-volume-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-volume-up",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-volume-up",
+        "md-volume-high"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-walk",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-walk",
+        "md-walk"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-warning",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-warning",
+        "md-warning"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-watch",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-watch",
+        "md-watch"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "android-wifi",
+      "prefix": "ion",
+      "sampleIcons": [
+        "android-wifi",
+        "md-wifi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "arrow-back",
+      "prefix": "ion",
+      "sampleIcons": [
+        "arrow-back",
+        "arrow-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "arrow-down",
+      "prefix": "ion",
+      "sampleIcons": [
+        "arrow-down",
+        "arrow-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "arrow-forward",
+      "prefix": "ion",
+      "sampleIcons": [
+        "arrow-forward",
+        "arrow-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "arrow-up",
+      "prefix": "ion",
+      "sampleIcons": [
+        "arrow-up",
+        "arrow-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "at",
+      "prefix": "ion",
+      "sampleIcons": [
+        "at",
+        "at-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "attach",
+      "prefix": "ion",
+      "sampleIcons": [
+        "attach",
+        "attach-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "basketball",
+      "prefix": "ion",
+      "sampleIcons": [
+        "basketball",
+        "basketball-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "battery-charging",
+      "prefix": "ion",
+      "sampleIcons": [
+        "battery-charging",
+        "battery-charging-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "battery-dead",
+      "prefix": "ion",
+      "sampleIcons": [
+        "battery-dead",
+        "battery-dead-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "battery-full",
+      "prefix": "ion",
+      "sampleIcons": [
+        "battery-full",
+        "battery-full-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "battery-half",
+      "prefix": "ion",
+      "sampleIcons": [
+        "battery-half",
+        "battery-half-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "caret-back",
+      "prefix": "ion",
+      "sampleIcons": [
+        "caret-back",
+        "caret-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "caret-down",
+      "prefix": "ion",
+      "sampleIcons": [
+        "caret-down",
+        "caret-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "caret-forward",
+      "prefix": "ion",
+      "sampleIcons": [
+        "caret-forward",
+        "caret-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "caret-up",
+      "prefix": "ion",
+      "sampleIcons": [
+        "caret-up",
+        "caret-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "chatbubble-ellipses",
+      "prefix": "ion",
+      "sampleIcons": [
+        "chatbubble-ellipses",
+        "chatbubble-ellipses-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "checkmark",
+      "prefix": "ion",
+      "sampleIcons": [
+        "checkmark",
+        "checkmark-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "checkmark-done",
+      "prefix": "ion",
+      "sampleIcons": [
+        "checkmark-done",
+        "checkmark-done-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "chevron-back",
+      "prefix": "ion",
+      "sampleIcons": [
+        "chevron-back",
+        "chevron-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "chevron-down",
+      "prefix": "ion",
+      "sampleIcons": [
+        "chevron-down",
+        "chevron-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "chevron-forward",
+      "prefix": "ion",
+      "sampleIcons": [
+        "chevron-forward",
+        "chevron-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "chevron-up",
+      "prefix": "ion",
+      "sampleIcons": [
+        "chevron-up",
+        "chevron-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "contract",
+      "prefix": "ion",
+      "sampleIcons": [
+        "contract",
+        "contract-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "ellipse",
+      "prefix": "ion",
+      "sampleIcons": [
+        "ellipse",
+        "ellipse-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "ellipsis-horizontal",
+      "prefix": "ion",
+      "sampleIcons": [
+        "ellipsis-horizontal",
+        "ellipsis-horizontal-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "ellipsis-horizontal-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "ellipsis-horizontal-circle",
+        "ellipsis-horizontal-circle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "ellipsis-vertical",
+      "prefix": "ion",
+      "sampleIcons": [
+        "ellipsis-vertical",
+        "ellipsis-vertical-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "ellipsis-vertical-circle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "ellipsis-vertical-circle",
+        "ellipsis-vertical-circle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "expand",
+      "prefix": "ion",
+      "sampleIcons": [
+        "expand",
+        "expand-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "heart-half",
+      "prefix": "ion",
+      "sampleIcons": [
+        "heart-half",
+        "heart-half-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "help",
+      "prefix": "ion",
+      "sampleIcons": [
+        "help",
+        "help-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "information",
+      "prefix": "ion",
+      "sampleIcons": [
+        "information",
+        "information-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "ios-drag",
+      "prefix": "ion",
+      "sampleIcons": [
+        "ios-drag",
+        "ios-reorder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-amazon",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-amazon",
+        "logo-amazon-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-amplify",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-amplify",
+        "logo-amplify-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-apple-appstore",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-apple-appstore",
+        "logo-apple-appstore-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-bitbucket",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-bitbucket",
+        "logo-bitbucket-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-capacitor",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-capacitor",
+        "logo-capacitor-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-closed-captioning",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-closed-captioning",
+        "logo-closed-captioning-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-edge",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-edge",
+        "logo-edge-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-electron",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-electron",
+        "logo-electron-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-facebook",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-facebook",
+        "logo-facebook-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-firebase",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-firebase",
+        "logo-firebase-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-firefox",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-firefox",
+        "logo-firefox-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-flickr",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-flickr",
+        "logo-flickr-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-freebsd-devil",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-freebsd-devil",
+        "social-freebsd-devil"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-google",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-google",
+        "logo-google-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-google-playstore",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-google-playstore",
+        "logo-google-playstore-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-instagram",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-instagram",
+        "logo-instagram-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-ionic",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-ionic",
+        "logo-ionic-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-ionitron",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-ionitron",
+        "logo-ionitron-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-laravel",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-laravel",
+        "logo-laravel-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-no-smoking",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-no-smoking",
+        "logo-no-smoking-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-npm",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-npm",
+        "logo-npm-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-octocat",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-octocat",
+        "logo-octocat-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-playstation",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-playstation",
+        "logo-playstation-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-pwa",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-pwa",
+        "logo-pwa-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-react",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-react",
+        "logo-react-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-slack",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-slack",
+        "logo-slack-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-stackoverflow",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-stackoverflow",
+        "logo-stackoverflow-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-steam",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-steam",
+        "logo-steam-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-stencil",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-stencil",
+        "logo-stencil-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-tux",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-tux",
+        "logo-tux-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-vimeo",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-vimeo",
+        "logo-vimeo-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-vk",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-vk",
+        "logo-vk-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-vue",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-vue",
+        "logo-vue-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-web-component",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-web-component",
+        "logo-web-component-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-xbox",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-xbox",
+        "logo-xbox-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "logo-xing",
+      "prefix": "ion",
+      "sampleIcons": [
+        "logo-xing",
+        "logo-xing-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "mail-notification",
+      "prefix": "ion",
+      "sampleIcons": [
+        "mail-notification",
+        "mail-unread"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "mail-notification-outline",
+      "prefix": "ion",
+      "sampleIcons": [
+        "mail-notification-outline",
+        "mail-unread-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "mail-notification-sharp",
+      "prefix": "ion",
+      "sampleIcons": [
+        "mail-notification-sharp",
+        "mail-unread-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "md-medical",
+      "prefix": "ion",
+      "sampleIcons": [
+        "md-medical",
+        "medical-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "md-pie",
+      "prefix": "ion",
+      "sampleIcons": [
+        "md-pie",
+        "pie-graph"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "move",
+      "prefix": "ion",
+      "sampleIcons": [
+        "move",
+        "move-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "notifcations",
+      "prefix": "ion",
+      "sampleIcons": [
+        "notifcations",
+        "notifications"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "refresh",
+      "prefix": "ion",
+      "sampleIcons": [
+        "refresh",
+        "refresh-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "reload",
+      "prefix": "ion",
+      "sampleIcons": [
+        "reload",
+        "reload-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "remove",
+      "prefix": "ion",
+      "sampleIcons": [
+        "remove",
+        "remove-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "repeat",
+      "prefix": "ion",
+      "sampleIcons": [
+        "repeat",
+        "repeat-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "resize",
+      "prefix": "ion",
+      "sampleIcons": [
+        "resize",
+        "resize-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "return-down-back",
+      "prefix": "ion",
+      "sampleIcons": [
+        "return-down-back",
+        "return-down-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "return-down-forward",
+      "prefix": "ion",
+      "sampleIcons": [
+        "return-down-forward",
+        "return-down-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "return-up-back",
+      "prefix": "ion",
+      "sampleIcons": [
+        "return-up-back",
+        "return-up-back-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "return-up-forward",
+      "prefix": "ion",
+      "sampleIcons": [
+        "return-up-forward",
+        "return-up-forward-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "shuffle",
+      "prefix": "ion",
+      "sampleIcons": [
+        "shuffle",
+        "shuffle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "star-half",
+      "prefix": "ion",
+      "sampleIcons": [
+        "star-half",
+        "star-half-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "swap-horizontal",
+      "prefix": "ion",
+      "sampleIcons": [
+        "swap-horizontal",
+        "swap-horizontal-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "swap-vertical",
+      "prefix": "ion",
+      "sampleIcons": [
+        "swap-vertical",
+        "swap-vertical-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "switch",
+      "prefix": "ion",
+      "sampleIcons": [
+        "switch",
+        "toggle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "switch-outline",
+      "prefix": "ion",
+      "sampleIcons": [
+        "switch-outline",
+        "toggle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "switch-sharp",
+      "prefix": "ion",
+      "sampleIcons": [
+        "switch-sharp",
+        "toggle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "sync",
+      "prefix": "ion",
+      "sampleIcons": [
+        "sync",
+        "sync-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "trending-down",
+      "prefix": "ion",
+      "sampleIcons": [
+        "trending-down",
+        "trending-down-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ion",
+      "glyphName": "trending-up",
+      "prefix": "ion",
+      "sampleIcons": [
+        "trending-up",
+        "trending-up-outline"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Ion",
+      "headBbox": "-27..1019 / -6..1010",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 6,
+      "prefix": "ion",
+      "reasons": [
+        "head.xMin=-27",
+        "head.xMax=1019",
+        "head.yMin=-6",
+        "head.yMax=1010",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=6"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "ion",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Ion",
+      "glyphCount": 2602,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1019,
+        "xMin": -27,
+        "yMax": 1010,
+        "yMin": -6
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 6
+      }
+    }
+  ]
+}

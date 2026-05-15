@@ -1,0 +1,7635 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 4,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-pf-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-pf-outline",
+        "rdt-result-pf2x-outline",
+        "rdt-result-pv-invalid-outline",
+        "rdt-result-pv-invalid2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "animal-mosquitos-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-mosquitos-outline",
+        "animal-mosquitos2x-outline",
+        "malaria-outbreak-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "baby-female-0203m-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-female-0203m-outline",
+        "baby-female-0609m-outline",
+        "baby-female-0609m2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "baby-male-0203m-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-male-0203m-outline",
+        "baby-male-0609m-outline",
+        "baby-male-0609m2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "bike",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "bike",
+        "bike-outline",
+        "bike2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "biomarker",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "biomarker",
+        "biomarker-outline",
+        "biomarker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "cancel",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cancel",
+        "cancel-outline",
+        "cancel2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "chart-line-stacked",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-line-stacked",
+        "chart-line-stacked-outline",
+        "chart-line-stacked2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "copper-iud",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "copper-iud",
+        "copper-iud-outline",
+        "copper-iud2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "defibrilator-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "defibrilator-outline",
+        "defibrillator-outline",
+        "defibrillator2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "dhis2-logo",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "dhis2-logo",
+        "dhis2-logo-outline",
+        "dhis2-logo2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "e-1-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "e-1-outline",
+        "p-outline",
+        "p2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "entry-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "entry-outline",
+        "entry-outline-outline",
+        "entry2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "exercise-walk-supported-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-walk-supported-outline",
+        "walk-supported-outline",
+        "walk-supported2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "exercise-walking-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-walking-outline",
+        "walking-outline",
+        "walking2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "female",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "female",
+        "female-outline",
+        "female2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "health-1-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-1-outline",
+        "health-alt-outline",
+        "health-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "health-data-sync",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-data-sync",
+        "health-data-sync-outline",
+        "health-data-sync2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "hormonal-ring",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hormonal-ring",
+        "hormonal-ring-outline",
+        "hormonal-ring2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "iud",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "iud",
+        "iud-outline",
+        "iud2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "lab-search-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "lab-search-outline",
+        "lab-search2x-outline",
+        "medical-search-1-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "male",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "male",
+        "male-outline",
+        "male2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "mask-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mask-outline",
+        "ppe-mask-outline",
+        "ppe-mask2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "masked",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "masked",
+        "masked-outline",
+        "masked2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "nauseous",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "nauseous",
+        "nauseous-outline",
+        "nauseous2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "pain",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pain",
+        "pain-outline",
+        "pain2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "peace",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "peace",
+        "peace-outline",
+        "peace2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "ppe-sanitizer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-sanitizer-outline",
+        "ppe-sanitizer2x-outline",
+        "sanitizer-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "sexual-reproductive-health",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sexual-reproductive-health",
+        "sexual-reproductive-health-outline",
+        "sexual-reproductive-health2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "sonogram",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sonogram",
+        "sonogram-outline",
+        "sonogram2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "staples",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "staples",
+        "staples-outline",
+        "staples2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "stitches",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "stitches",
+        "stitches-outline",
+        "stitches2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "transgender",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "transgender",
+        "transgender-outline",
+        "transgender2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "ui-menu",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-menu",
+        "ui-menu-outline",
+        "ui-menu2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Healthicons",
+      "glyphName": "wold-care-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "wold-care-outline",
+        "world-care-outline",
+        "world-care2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "0-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "0-outline",
+        "02x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "1-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "1-outline",
+        "12x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "2-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "2-outline",
+        "22x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "2g-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "2g-outline",
+        "2g2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "2x-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "2x-outline",
+        "warning-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "3-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "3-outline",
+        "32x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "3g-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "3g-outline",
+        "3g2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "4-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "4-outline",
+        "42x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "4x4-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "4x4-outline",
+        "4x42x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "5-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "5-outline",
+        "52x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "6-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "6-outline",
+        "62x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "7-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "7-outline",
+        "72x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "8-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "8-outline",
+        "82x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "9-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "9-outline",
+        "92x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "a-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "a-outline",
+        "a2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "accident-and-emergency-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "accident-and-emergency-outline",
+        "accident-and-emergency2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "admissions-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "admissions-outline",
+        "admissions2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "agriculture-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "agriculture-outline",
+        "agriculture2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "agriculture-worker-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "agriculture-worker-alt-outline",
+        "agriculture-worker-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "agriculture-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "agriculture-worker-outline",
+        "agriculture-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "alcohol-cessation-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "alcohol-cessation-outline",
+        "alcohol-cessation2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "alcohol-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "alcohol-outline",
+        "alcohol2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "alert-circle-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "alert-circle-outline",
+        "alert-circle2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "alert-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "alert-outline",
+        "alert2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "alert-triangle-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "alert-triangle-outline",
+        "alert-triangle2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "allergies-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "allergies-24px",
+        "allergies-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ambulance-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ambulance-outline",
+        "ambulance2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ambulatory-clinic-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ambulatory-clinic-outline",
+        "ambulatory-clinic2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ancv-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ancv-outline",
+        "ancv2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "angry-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "angry-outline",
+        "angry2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-bat-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-bat-outline",
+        "animal-bat2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-chicken-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-chicken-outline",
+        "animal-chicken2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-cow-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-cow-outline",
+        "animal-cow2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-donkey-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-donkey-outline",
+        "animal-donkey2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-mosquitos",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-mosquitos",
+        "malaria-outbreak"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-pig-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-pig-outline",
+        "animal-pig2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-rat-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-rat-outline",
+        "animal-rat2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-snake-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-snake-outline",
+        "animal-snake2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-spider-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-spider-outline",
+        "animal-spider2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "animal-tick-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "animal-tick-outline",
+        "animal-tick2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "arm-circumference-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "arm-circumference-outline",
+        "arm-circumference2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "artificial-intelligence-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "artificial-intelligence-outline",
+        "artificial-intelligence2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "assembly-point-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "assembly-point-outline",
+        "assembly-point2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "asthma-inhaler-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "asthma-inhaler-outline",
+        "asthma-inhaler2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "asthma-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "asthma-outline",
+        "asthma2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "autoimmune-disease-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "autoimmune-disease-24px",
+        "autoimmune-disease-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "award-ribbon-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "award-ribbon-outline",
+        "award-ribbon2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "award-trophy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "award-trophy-outline",
+        "award-trophy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "b-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "b-outline",
+        "b2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-0203-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-0203-alt-outline",
+        "baby-0203-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-0203m-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-0203m-24px",
+        "baby-0203m-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-0203m-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-0203m-outline",
+        "baby-0203m2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-0306m-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-0306m-outline",
+        "baby-0306m2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-female-0203m",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-female-0203m",
+        "baby-female-0609m"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-female-0203m-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-female-0203m-alt-outline",
+        "baby-female-0203m-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-female-0306m-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-female-0306m-outline",
+        "baby-female-0306m2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-formula-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-formula-outline",
+        "baby-formula2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-male-0203m",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-male-0203m",
+        "baby-male-0609m"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-male-0203m-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-male-0203m-alt-outline",
+        "baby-male-0203m-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-male-0203m-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-male-0203m-negative",
+        "baby-male-0609m-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "baby-male-0306m-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "baby-male-0306m-outline",
+        "baby-male-0306m2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "back-pain-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "back-pain-24px",
+        "back-pain-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "bandage-adhesive-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "bandage-adhesive-outline",
+        "bandage-adhesive2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "bandaged-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "bandaged-24px",
+        "bandaged-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "bandaged-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "bandaged-outline",
+        "bandaged2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "basic-motorcycle-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "basic-motorcycle-outline",
+        "basic-motorcycle2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "bills-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "bills-outline",
+        "bills2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "bio-pharma-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "bio-pharma-outline",
+        "bio-pharma2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "biochemistry-laboratory-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "biochemistry-laboratory-outline",
+        "biochemistry-laboratory2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "biomarker-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "biomarker-24px",
+        "biomarker-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "biopsy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "biopsy-outline",
+        "biopsy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blister-pills-oval-x1-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blister-pills-oval-x1-outline",
+        "blister-pills-oval-x12x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blister-pills-oval-x14-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blister-pills-oval-x14-outline",
+        "blister-pills-oval-x142x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blister-pills-oval-x16-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blister-pills-oval-x16-outline",
+        "blister-pills-oval-x162x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blister-pills-oval-x4-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blister-pills-oval-x4-outline",
+        "blister-pills-oval-x42x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blister-pills-round-x1-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blister-pills-round-x1-outline",
+        "blister-pills-round-x12x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blister-pills-round-x14-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blister-pills-round-x14-outline",
+        "blister-pills-round-x142x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blister-pills-round-x16-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blister-pills-round-x16-outline",
+        "blister-pills-round-x162x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blister-pills-round-x4-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blister-pills-round-x4-outline",
+        "blister-pills-round-x42x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blood-cells-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blood-cells-24px",
+        "blood-cells-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blood-pressure-2-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blood-pressure-2-outline",
+        "blood-pressure-22x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blood-pressure-monitor-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blood-pressure-monitor-outline",
+        "blood-pressure-monitor2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blood-pressure-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blood-pressure-outline",
+        "blood-pressure2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "blood-transfusion-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "blood-transfusion-outline",
+        "blood-transfusion2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "body-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "body-24px",
+        "body-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "body-mass-index-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "body-mass-index-outline",
+        "body-mass-index2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "book-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "book-outline",
+        "book2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "boy-0105y-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "boy-0105y-24px",
+        "boy-0105y-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "boy-0105y-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "boy-0105y-outline",
+        "boy-0105y2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "boy-1015y-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "boy-1015y-outline",
+        "boy-1015y2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "breast-pump-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "breast-pump-outline",
+        "breast-pump2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "breeding-sites-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "breeding-sites-outline",
+        "breeding-sites2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "burn-unit-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "burn-unit-outline",
+        "burn-unit2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "c-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "c-outline",
+        "c2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "calendar-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "calendar-outline",
+        "calendar2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "calendar-quarantine-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "calendar-quarantine-outline",
+        "calendar-quarantine2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "call-centre-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "call-centre-outline",
+        "call-centre2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "calm-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "calm-outline",
+        "calm2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cancel-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cancel-24px",
+        "cancel-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cane-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cane-outline",
+        "cane2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cannabis-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cannabis-outline",
+        "cannabis2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "carbohydrates-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "carbohydrates-outline",
+        "carbohydrates2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cardiogram-e-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cardiogram-e-outline",
+        "cardiogram-e2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cardiogram-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cardiogram-outline",
+        "cardiogram2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cardiology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cardiology-outline",
+        "cardiology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cast-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cast-outline",
+        "cast2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chaplaincy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chaplaincy-outline",
+        "chaplaincy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-bar-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-bar-outline",
+        "chart-bar2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-bar-stacked-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-bar-stacked-outline",
+        "chart-bar-stacked2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-cured-decreasing-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-cured-decreasing-24px",
+        "chart-cured-decreasing-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-cured-decreasing-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-cured-decreasing-outline",
+        "chart-cured-decreasing2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-cured-increasing-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-cured-increasing-24px",
+        "chart-cured-increasing-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-cured-increasing-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-cured-increasing-outline",
+        "chart-cured-increasing2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-death-rate-decreasing-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-death-rate-decreasing-24px",
+        "chart-death-rate-decreasing-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-death-rate-decreasing-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-death-rate-decreasing-outline",
+        "chart-death-rate-decreasing2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-death-rate-increasing-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-death-rate-increasing-24px",
+        "chart-death-rate-increasing-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-death-rate-increasing-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-death-rate-increasing-outline",
+        "chart-death-rate-increasing2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-death-rate-stable-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-death-rate-stable-24px",
+        "chart-death-rate-stable-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-death-rate-stable-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-death-rate-stable-outline",
+        "chart-death-rate-stable2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-infected-decreasing-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-infected-decreasing-outline",
+        "chart-infected-decreasing2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-infected-increasing-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-infected-increasing-outline",
+        "chart-infected-increasing2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-infected-stable-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-infected-stable-outline",
+        "chart-infected-stable2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-line-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-line-24px",
+        "chart-line-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-line-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-line-outline",
+        "chart-line2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chart-pie-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chart-pie-outline",
+        "chart-pie2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "child-care-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "child-care-outline",
+        "child-care2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "child-cognition-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "child-cognition-outline",
+        "child-cognition2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "child-program-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "child-program-outline",
+        "child-program2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "chills-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "chills-24px",
+        "chills-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cholera-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cholera-outline",
+        "cholera2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "church-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "church-outline",
+        "church2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "circle-large-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "circle-large-outline",
+        "circle-large2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "circle-medium-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "circle-medium-outline",
+        "circle-medium2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "circle-small-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "circle-small-outline",
+        "circle-small2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "city-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "city-outline",
+        "city2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "city-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "city-worker-outline",
+        "city-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "clean-hands-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "clean-hands-outline",
+        "clean-hands2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cleaning-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cleaning-outline",
+        "cleaning2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "clinical-a-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "clinical-a-outline",
+        "clinical-a2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "clinical-f-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "clinical-f-outline",
+        "clinical-f2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "clinical-fe-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "clinical-fe-outline",
+        "clinical-fe2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "close-policy-gaps-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "close-policy-gaps-alt-outline",
+        "close-policy-gaps-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "close-policy-gaps-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "close-policy-gaps-outline",
+        "close-policy-gaps2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cochlear-implant-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cochlear-implant-outline",
+        "cochlear-implant2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "coins-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "coins-outline",
+        "coins2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cold-chain-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cold-chain-outline",
+        "cold-chain2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "communication-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "communication-outline",
+        "communication2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "community-healthworker-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "community-healthworker-24px",
+        "community-healthworker-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "community-healthworker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "community-healthworker-outline",
+        "community-healthworker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "community-meeting-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "community-meeting-outline",
+        "community-meeting2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cone-test-on-nets-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cone-test-on-nets-outline",
+        "cone-test-on-nets2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cone-test-on-walls-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cone-test-on-walls-outline",
+        "cone-test-on-walls2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "confused-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "confused-24px",
+        "confused-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "confused-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "confused-outline",
+        "confused2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "construction-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "construction-outline",
+        "construction2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "construction-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "construction-worker-outline",
+        "construction-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "contact-lenses-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "contact-lenses-outline",
+        "contact-lenses2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "contact-support-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "contact-support-outline",
+        "contact-support2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "contraceptive-diaphragm-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "contraceptive-diaphragm-outline",
+        "contraceptive-diaphragm2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "contraceptive-injection-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "contraceptive-injection-outline",
+        "contraceptive-injection2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "contraceptive-patch-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "contraceptive-patch-outline",
+        "contraceptive-patch2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "contraceptive-voucher-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "contraceptive-voucher-outline",
+        "contraceptive-voucher2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "coronary-care-unit-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "coronary-care-unit-outline",
+        "coronary-care-unit2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "coughing-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "coughing-outline",
+        "coughing2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cpap-machine-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cpap-machine-outline",
+        "cpap-machine2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cpap-tubes-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cpap-tubes-outline",
+        "cpap-tubes2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cpr-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cpr-outline",
+        "cpr2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "credit-card-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "credit-card-outline",
+        "credit-card2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "crisis-response-center-person-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "crisis-response-center-person-outline",
+        "crisis-response-center-person2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "critical-care-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "critical-care-outline",
+        "critical-care2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "cross-country-motorcycle-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "cross-country-motorcycle-outline",
+        "cross-country-motorcycle2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "crutches-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "crutches-outline",
+        "crutches2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "crying-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "crying-outline",
+        "crying2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "d-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "d-outline",
+        "d2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "dairy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "dairy-outline",
+        "dairy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "database-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "database-outline",
+        "database2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "deaf",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "deaf",
+        "deaf-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "deaf-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "deaf-24px",
+        "deaf-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "death-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "death-alt-outline",
+        "death-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "death-alt2-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "death-alt2-outline",
+        "death-alt22x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "death-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "death-outline",
+        "death2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "default-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "default-outline",
+        "default2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "defibrilator",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "defibrilator",
+        "defibrillator"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "dental-hygiene-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "dental-hygiene-outline",
+        "dental-hygiene2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "desktop-app-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "desktop-app-outline",
+        "desktop-app2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "diabetes-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "diabetes-24px",
+        "diabetes-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "diabetes-measure-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "diabetes-measure-24px",
+        "diabetes-measure-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "diabetes-measure-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "diabetes-measure-outline",
+        "diabetes-measure2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "diabetes-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "diabetes-outline",
+        "diabetes2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "diagnostics-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "diagnostics-outline",
+        "diagnostics2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "diarrhea-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "diarrhea-24px",
+        "diarrhea-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "discharge-lounge-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "discharge-lounge-outline",
+        "discharge-lounge2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "discharge-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "discharge-outline",
+        "discharge2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "discriminating-concentration-bioassays-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "discriminating-concentration-bioassays-outline",
+        "discriminating-concentration-bioassays2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "disinfecting-wipes-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "disinfecting-wipes-outline",
+        "disinfecting-wipes2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "dizzy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "dizzy-outline",
+        "dizzy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "dna",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "dna",
+        "dna-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "dna-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "dna-24px",
+        "dna-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "doctor-female-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "doctor-female-outline",
+        "doctor-female2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "doctor-male-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "doctor-male-outline",
+        "doctor-male2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "doctor-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "doctor-outline",
+        "doctor2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "dollar-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "dollar-outline",
+        "dollar2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "domestic-worker-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "domestic-worker-alt-outline",
+        "domestic-worker-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "domestic-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "domestic-worker-outline",
+        "domestic-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "drone-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "drone-outline",
+        "drone2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "e-1-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "e-1-negative",
+        "f-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "e-2-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "e-2-negative",
+        "g-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "e-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "e-outline",
+        "e2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ears-nose-and-throat-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ears-nose-and-throat-outline",
+        "ears-nose-and-throat2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ecmo-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ecmo-outline",
+        "ecmo2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "eco-care-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "eco-care-outline",
+        "eco-care2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "elderly-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "elderly-outline",
+        "elderly2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "electricity-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "electricity-outline",
+        "electricity2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "emergency-operations-center-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "emergency-operations-center-outline",
+        "emergency-operations-center2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "emergency-post-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "emergency-post-outline",
+        "emergency-post2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "endocrinology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "endocrinology-outline",
+        "endocrinology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "endotracheal-tube-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "endotracheal-tube-outline",
+        "endotracheal-tube2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "entry",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "entry",
+        "entry-positive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "entry-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "entry-negative",
+        "entry-negative-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "excel-logo-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "excel-logo-outline",
+        "excel-logo2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-bicycle-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-bicycle-outline",
+        "exercise-bicycle2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-outline",
+        "exercise2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-running",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-running",
+        "running"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-running-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-running-negative",
+        "running-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-walk-supported",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-walk-supported",
+        "walk-supported"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-walk-supported-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-walk-supported-negative",
+        "walk-supported-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-walking",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-walking",
+        "walking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-walking-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-walking-negative",
+        "walking-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-weights-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-weights-negative",
+        "weights-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "exercise-yoga-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "exercise-yoga-outline",
+        "exercise-yoga2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "expectorate-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "expectorate-outline",
+        "expectorate2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "eye-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "eye-24px",
+        "eye-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "eyeglasses-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "eyeglasses-24px",
+        "eyeglasses-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "eyeglasses-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "eyeglasses-outline",
+        "eyeglasses2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "f-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "f-outline",
+        "f2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "factory-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "factory-worker-outline",
+        "factory-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "family-planning-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "family-planning-24px",
+        "family-planning-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "family-planning-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "family-planning-outline",
+        "family-planning2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "female-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "female-24px",
+        "female-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "female-and-male-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "female-and-male-outline",
+        "female-and-male2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "female-condom-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "female-condom-24px",
+        "female-condom-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "female-condom-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "female-condom-outline",
+        "female-condom2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "female-sex-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "female-sex-worker-outline",
+        "female-sex-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "fetus-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "fetus-outline",
+        "fetus2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "fever-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "fever-outline",
+        "fever2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "fhir-logo-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "fhir-logo-outline",
+        "fhir-logo2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "finance-dept-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "finance-dept-outline",
+        "finance-dept2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "fingerprint-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "fingerprint-24px",
+        "fingerprint-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "fingerprint-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "fingerprint-outline",
+        "fingerprint2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "foot-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "foot-24px",
+        "foot-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "forest-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "forest-outline",
+        "forest2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "forest-persons-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "forest-persons-outline",
+        "forest-persons2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "forum-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "forum-outline",
+        "forum2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "fruits-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "fruits-outline",
+        "fruits2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "g-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "g-outline",
+        "g2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "gastroenterology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "gastroenterology-outline",
+        "gastroenterology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "general-surgery-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "general-surgery-outline",
+        "general-surgery2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "geo-location-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "geo-location-outline",
+        "geo-location2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "geriatrics-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "geriatrics-outline",
+        "geriatrics2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ghana-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ghana-outline",
+        "ghana2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "girl-0105y-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "girl-0105y-24px",
+        "girl-0105y-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "girl-0105y-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "girl-0105y-outline",
+        "girl-0105y2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "girl-1015y-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "girl-1015y-outline",
+        "girl-1015y2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "global-pandemic-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "global-pandemic-outline",
+        "global-pandemic2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "globe-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "globe-outline",
+        "globe2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "gluten-free-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "gluten-free-outline",
+        "gluten-free2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "gluten-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "gluten-outline",
+        "gluten2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "group-discussion-meeting-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "group-discussion-meeting-outline",
+        "group-discussion-meeting2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "group-discussion-meetingx3-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "group-discussion-meetingx3-outline",
+        "group-discussion-meetingx32x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "guide-dog-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "guide-dog-outline",
+        "guide-dog2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "gym-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "gym-outline",
+        "gym2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "gynecology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "gynecology-outline",
+        "gynecology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "h-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "h-outline",
+        "h2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hand-wipe-paper-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hand-wipe-paper-outline",
+        "hand-wipe-paper2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "happy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "happy-outline",
+        "happy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hazardous-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hazardous-24px",
+        "hazardous-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hazardous-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hazardous-outline",
+        "hazardous2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "head-circumference-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "head-circumference-outline",
+        "head-circumference2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "headache-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "headache-24px",
+        "headache-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "headache-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "headache-outline",
+        "headache2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "health-1",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-1",
+        "health-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "health-1-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-1-negative",
+        "health-alt-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "health-data-security-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-data-security-outline",
+        "health-data-security2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "health-literacy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-literacy-outline",
+        "health-literacy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "health-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-outline",
+        "health2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "health-vulnerability-through-social-determinants-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-vulnerability-through-social-determinants-24px",
+        "health-vulnerability-through-social-determinants-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "health-vulnerability-through-social-determinants-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-vulnerability-through-social-determinants-outline",
+        "health-vulnerability-through-social-determinants2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "health-worker-form-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-worker-form-outline",
+        "health-worker-form2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "health-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "health-worker-outline",
+        "health-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "healthcare-it-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "healthcare-it-outline",
+        "healthcare-it2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hearing-aid-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hearing-aid-outline",
+        "hearing-aid2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "heart-cardiogram-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "heart-cardiogram-outline",
+        "heart-cardiogram2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "heart-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "heart-outline",
+        "heart2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "heartbeat-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "heartbeat-24px",
+        "heartbeat-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "heartbeat-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "heartbeat-outline",
+        "heartbeat2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "height-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "height-outline",
+        "height2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "helicopter-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "helicopter-outline",
+        "helicopter2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hematology-laboratory-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hematology-laboratory-outline",
+        "hematology-laboratory2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hematology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hematology-outline",
+        "hematology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hepatology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hepatology-outline",
+        "hepatology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "high-bars-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "high-bars-outline",
+        "high-bars2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "high-level-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "high-level-24px",
+        "high-level-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "high-level-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "high-level-outline",
+        "high-level2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hiv-ind-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hiv-ind-outline",
+        "hiv-ind2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hiv-neg-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hiv-neg-outline",
+        "hiv-neg2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hiv-pos-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hiv-pos-outline",
+        "hiv-pos2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hiv-self-test-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hiv-self-test-outline",
+        "hiv-self-test2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hl7v2-logo-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hl7v2-logo-outline",
+        "hl7v2-logo2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "home-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "home-alt-outline",
+        "home-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "home-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "home-outline",
+        "home2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "home-quarantine-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "home-quarantine-outline",
+        "home-quarantine2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hormonal-ring-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hormonal-ring-24px",
+        "hormonal-ring-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hospice-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hospice-outline",
+        "hospice2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hospital-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hospital-outline",
+        "hospital2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hospital-symbol-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hospital-symbol-outline",
+        "hospital-symbol2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hospitalized-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hospitalized-outline",
+        "hospitalized2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hot-meal-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hot-meal-outline",
+        "hot-meal2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "hpv-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "hpv-outline",
+        "hpv2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "human-resoruces-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "human-resoruces-outline",
+        "human-resoruces2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-certificate-paper-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-certificate-paper-outline",
+        "i-certificate-paper2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-documents-accepted-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-documents-accepted-outline",
+        "i-documents-accepted2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-documents-denied-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-documents-denied-outline",
+        "i-documents-denied2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-exam-multiple-choice-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-exam-multiple-choice-outline",
+        "i-exam-multiple-choice2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-exam-qualification-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-exam-qualification-outline",
+        "i-exam-qualification2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-groups-perspective-crowd-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-groups-perspective-crowd-outline",
+        "i-groups-perspective-crowd2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-note-action-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-note-action-outline",
+        "i-note-action2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-outline",
+        "i2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-schedule-school-date-time-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-schedule-school-date-time-outline",
+        "i-schedule-school-date-time2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-training-class-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-training-class-24px",
+        "i-training-class-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-training-class-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-training-class-outline",
+        "i-training-class2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "i-utensils-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "i-utensils-outline",
+        "i-utensils2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "icd-10-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "icd-10-outline",
+        "icd-102x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "icd-11-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "icd-11-outline",
+        "icd-112x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "icd-9-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "icd-9-outline",
+        "icd-92x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "icd-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "icd-outline",
+        "icd2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "imm-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "imm-outline",
+        "imm2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "implant-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "implant-outline",
+        "implant2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "info-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "info-outline",
+        "info2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "information-campaign-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "information-campaign-outline",
+        "information-campaign2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "infusion-pump-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "infusion-pump-outline",
+        "infusion-pump2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "inpatient-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "inpatient-outline",
+        "inpatient2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "insecticide-resistance-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "insecticide-resistance-outline",
+        "insecticide-resistance2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "insurance-card-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "insurance-card-outline",
+        "insurance-card2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "integrated-data-and-research-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "integrated-data-and-research-outline",
+        "integrated-data-and-research2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "intensity-concentration-bioassays-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "intensity-concentration-bioassays-outline",
+        "intensity-concentration-bioassays2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "intensive-care-unit-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "intensive-care-unit-outline",
+        "intensive-care-unit2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "interoperability-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "interoperability-outline",
+        "interoperability2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "intestinal-pain-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "intestinal-pain-outline",
+        "intestinal-pain2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "intravenous-bag-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "intravenous-bag-outline",
+        "intravenous-bag2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "intravenous-drip-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "intravenous-drip-outline",
+        "intravenous-drip2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "iud-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "iud-24px",
+        "iud-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "j-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "j-outline",
+        "j2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "job-status-level-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "job-status-level-outline",
+        "job-status-level2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "justice-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "justice-outline",
+        "justice2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "k-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "k-outline",
+        "k2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "l-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "l-outline",
+        "l2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "lab-search",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "lab-search",
+        "medical-search-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "lactation-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "lactation-outline",
+        "lactation2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "lactose-free-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "lactose-free-outline",
+        "lactose-free2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "lactose-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "lactose-outline",
+        "lactose2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "laptop-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "laptop-outline",
+        "laptop2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "laryngoscope-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "laryngoscope-outline",
+        "laryngoscope2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "letrina-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "letrina-alt-outline",
+        "letrina-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "letrina-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "letrina-outline",
+        "letrina2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "life-science-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "life-science-outline",
+        "life-science2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "liver-1-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "liver-1-24px",
+        "liver-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "liver-1-outline-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "liver-1-outline-24px",
+        "liver-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "llin-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "llin-outline",
+        "llin2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "loinc-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "loinc-outline",
+        "loinc2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "loss-smell-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "loss-smell-outline",
+        "loss-smell2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "loudly-crying-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "loudly-crying-outline",
+        "loudly-crying2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "low-bars-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "low-bars-outline",
+        "low-bars2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "low-income-level-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "low-income-level-outline",
+        "low-income-level2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "low-level-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "low-level-24px",
+        "low-level-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "low-level-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "low-level-outline",
+        "low-level2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "low-vision-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "low-vision-24px",
+        "low-vision-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "low-vision-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "low-vision-outline",
+        "low-vision2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "lymphoma-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "lymphoma-outline",
+        "lymphoma2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "m-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "m-outline",
+        "m2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "machinery-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "machinery-outline",
+        "machinery2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "magic-wand-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "magic-wand-outline",
+        "magic-wand2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "magnifying-glass-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "magnifying-glass-outline",
+        "magnifying-glass2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "malaria-microscope-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "malaria-microscope-outline",
+        "malaria-microscope2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "malaria-mixed-microscope-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "malaria-mixed-microscope-outline",
+        "malaria-mixed-microscope2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "malaria-pf-microscope-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "malaria-pf-microscope-outline",
+        "malaria-pf-microscope2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "malaria-pv-microscope-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "malaria-pv-microscope-outline",
+        "malaria-pv-microscope2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "malaria-testing-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "malaria-testing-outline",
+        "malaria-testing2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "male-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "male-24px",
+        "male-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "male-and-female-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "male-and-female-24px",
+        "male-and-female-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "male-and-female-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "male-and-female-outline",
+        "male-and-female2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "male-condom-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "male-condom-outline",
+        "male-condom2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "male-sex-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "male-sex-worker-outline",
+        "male-sex-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "malnutrition-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "malnutrition-outline",
+        "malnutrition2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "man-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "man-24px",
+        "man-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "man-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "man-outline",
+        "man2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "market-stall-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "market-stall-outline",
+        "market-stall2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mask",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mask",
+        "ppe-mask"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mask-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mask-negative",
+        "ppe-mask-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "masked-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "masked-24px",
+        "masked-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "measles-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "measles-outline",
+        "measles2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medical-advice-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medical-advice-outline",
+        "medical-advice2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medical-records-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medical-records-outline",
+        "medical-records2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medical-sample-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medical-sample-outline",
+        "medical-sample2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medical-search-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medical-search-outline",
+        "medical-search2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medicine-bottle-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medicine-bottle-outline",
+        "medicine-bottle2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medicine-mortar-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medicine-mortar-outline",
+        "medicine-mortar2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medicines-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medicines-outline",
+        "medicines2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medium-bars-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medium-bars-outline",
+        "medium-bars2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medium-level-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medium-level-24px",
+        "medium-level-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "medium-level-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "medium-level-outline",
+        "medium-level2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "megaphone-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "megaphone-outline",
+        "megaphone2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mental-disorders-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mental-disorders-outline",
+        "mental-disorders2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mental-health-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mental-health-outline",
+        "mental-health2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "microscope-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "microscope-outline",
+        "microscope2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "microscope-with-specimen-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "microscope-with-specimen-outline",
+        "microscope-with-specimen2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "military-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "military-worker-outline",
+        "military-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "miner-worker-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "miner-worker-alt-outline",
+        "miner-worker-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "miner-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "miner-worker-outline",
+        "miner-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ministry-of-health-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ministry-of-health-24px",
+        "ministry-of-health-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ministry-of-health-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ministry-of-health-outline",
+        "ministry-of-health2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mobile-clinic-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mobile-clinic-outline",
+        "mobile-clinic2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mobile-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mobile-outline",
+        "mobile2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "money-bag-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "money-bag-outline",
+        "money-bag2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mosque-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mosque-outline",
+        "mosque2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mosquito-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mosquito-24px",
+        "mosquito-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mosquito-collection-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mosquito-collection-outline",
+        "mosquito-collection2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "mosquito-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "mosquito-outline",
+        "mosquito2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "msm-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "msm-outline",
+        "msm2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "n-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "n-outline",
+        "n2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "nausea-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "nausea-outline",
+        "nausea2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "negative-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "negative-outline",
+        "negative2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "nephrology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "nephrology-outline",
+        "nephrology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "nervous-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "nervous-24px",
+        "nervous-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "nervous-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "nervous-outline",
+        "nervous2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "network-4g-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "network-4g-outline",
+        "network-4g2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "network-5g-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "network-5g-outline",
+        "network-5g2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "neuro-surgery-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "neuro-surgery-outline",
+        "neuro-surgery2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "neutral-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "neutral-24px",
+        "neutral-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "neutral-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "neutral-outline",
+        "neutral2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "no-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "no-outline",
+        "no2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "not-ok-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "not-ok-24px",
+        "not-ok-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "not-ok-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "not-ok-outline",
+        "not-ok2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "nurse-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "nurse-outline",
+        "nurse2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "nutrition-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "nutrition-outline",
+        "nutrition2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "o-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "o-outline",
+        "o2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "observation-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "observation-outline",
+        "observation2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "obstetricsmonia-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "obstetricsmonia-outline",
+        "obstetricsmonia2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "occupational-therapy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "occupational-therapy-outline",
+        "occupational-therapy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "odontology-implant-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "odontology-implant-outline",
+        "odontology-implant2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "odontology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "odontology-outline",
+        "odontology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "oesophagus-cancer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "oesophagus-cancer-outline",
+        "oesophagus-cancer2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "officer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "officer-outline",
+        "officer2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ok-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ok-24px",
+        "ok-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ok-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ok-outline",
+        "ok2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "old-man-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "old-man-24px",
+        "old-man-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "old-man-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "old-man-outline",
+        "old-man2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "old-woman-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "old-woman-24px",
+        "old-woman-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "old-woman-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "old-woman-outline",
+        "old-woman2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "oncology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "oncology-outline",
+        "oncology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "openmrs-logo-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "openmrs-logo-outline",
+        "openmrs-logo2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "opthalmology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "opthalmology-outline",
+        "opthalmology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "oral-contraception-pillsx21-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "oral-contraception-pillsx21-outline",
+        "oral-contraception-pillsx212x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "oral-contraception-pillsx28-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "oral-contraception-pillsx28-outline",
+        "oral-contraception-pillsx282x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "orthopaedics-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "orthopaedics-outline",
+        "orthopaedics2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "orthotics-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "orthotics-outline",
+        "orthotics2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "outbreak-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "outbreak-24px",
+        "outbreak-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "outbreak-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "outbreak-outline",
+        "outbreak2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "outpatient-department-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "outpatient-department-outline",
+        "outpatient-department2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "outpatient-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "outpatient-outline",
+        "outpatient2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "overweight-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "overweight-24px",
+        "overweight-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "overweight-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "overweight-outline",
+        "overweight2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "oxygen-tank-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "oxygen-tank-outline",
+        "oxygen-tank2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pain-managment-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pain-managment-outline",
+        "pain-managment2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "palliative-care-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "palliative-care-outline",
+        "palliative-care2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "palm-branches-roof-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "palm-branches-roof-outline",
+        "palm-branches-roof2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pancreatic-cancer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pancreatic-cancer-outline",
+        "pancreatic-cancer2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "patient-band-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "patient-band-alt-outline",
+        "patient-band-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "patient-band-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "patient-band-outline",
+        "patient-band2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "paved-road-1-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "paved-road-1-negative",
+        "paved-road-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "paved-road-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "paved-road-alt-outline",
+        "paved-road-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "paved-road-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "paved-road-outline",
+        "paved-road2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "peace-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "peace-24px",
+        "peace-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pediatric-surgery-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pediatric-surgery-outline",
+        "pediatric-surgery2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pediatrics-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pediatrics-outline",
+        "pediatrics2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "people-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "people-outline",
+        "people2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "person-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "person-outline",
+        "person2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pharmacy-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pharmacy-alt-outline",
+        "pharmacy-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pharmacy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pharmacy-outline",
+        "pharmacy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "phone-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "phone-outline",
+        "phone2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "physical-therapy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "physical-therapy-outline",
+        "physical-therapy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pill-1-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pill-1-outline",
+        "pill-12x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pills-2-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pills-2-outline",
+        "pills-22x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pills-3-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pills-3-outline",
+        "pills-32x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pills-4-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pills-4-outline",
+        "pills-42x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "plantation-worker-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "plantation-worker-alt-outline",
+        "plantation-worker-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "plantation-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "plantation-worker-outline",
+        "plantation-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pneumonia-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pneumonia-outline",
+        "pneumonia2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "poison-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "poison-outline",
+        "poison2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "polygon-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "polygon-outline",
+        "polygon2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "positive-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "positive-outline",
+        "positive2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-apron-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-apron-outline",
+        "ppe-apron2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-face-mask-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-face-mask-outline",
+        "ppe-face-mask2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-face-shield-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-face-shield-alt-outline",
+        "ppe-face-shield-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-face-shield-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-face-shield-outline",
+        "ppe-face-shield2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-gloves-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-gloves-24px",
+        "ppe-gloves-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-gloves-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-gloves-outline",
+        "ppe-gloves2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-goggles-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-goggles-outline",
+        "ppe-goggles2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-gown-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-gown-outline",
+        "ppe-gown2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-mask-n95-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-mask-n95-outline",
+        "ppe-mask-n952x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-sanitizer",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-sanitizer",
+        "sanitizer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-sanitizer-negative",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-sanitizer-negative",
+        "sanitizer-negative"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-santizer-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-santizer-alt-outline",
+        "ppe-santizer-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ppe-suit-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ppe-suit-outline",
+        "ppe-suit2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pregnant-0812w-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pregnant-0812w-outline",
+        "pregnant-0812w2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pregnant-2426w-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pregnant-2426w-outline",
+        "pregnant-2426w2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pregnant-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pregnant-24px",
+        "pregnant-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pregnant-32w-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pregnant-32w-outline",
+        "pregnant-32w2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pregnant-3638w-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pregnant-3638w-outline",
+        "pregnant-3638w2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pregnant-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pregnant-outline",
+        "pregnant2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "prescription-document-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "prescription-document-outline",
+        "prescription-document2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "prisoner-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "prisoner-outline",
+        "prisoner2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "proper-roof-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "proper-roof-outline",
+        "proper-roof2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "prostate-cancer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "prostate-cancer-outline",
+        "prostate-cancer2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "provider-fst-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "provider-fst-outline",
+        "provider-fst2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "psychology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "psychology-outline",
+        "psychology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pulse-oximeter-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pulse-oximeter-alt-outline",
+        "pulse-oximeter-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pulse-oximeter-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pulse-oximeter-outline",
+        "pulse-oximeter2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "pwid-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "pwid-outline",
+        "pwid2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "q-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "q-outline",
+        "q2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "qr-code-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "qr-code-outline",
+        "qr-code2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "question-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "question-24px",
+        "question-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "question-circle-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "question-circle-outline",
+        "question-circle2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "question-mark-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "question-mark-outline",
+        "question-mark2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "question-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "question-outline",
+        "question2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "question-triangle-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "question-triangle-outline",
+        "question-triangle2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "r-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "r-outline",
+        "r2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "radiology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "radiology-outline",
+        "radiology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-invalid-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-invalid-outline",
+        "rdt-result-invalid2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-mixed-invalid-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-mixed-invalid-outline",
+        "rdt-result-mixed-invalid2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-mixed-invalid-rectangular-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-mixed-invalid-rectangular-outline",
+        "rdt-result-mixed-invalid-rectangular2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-mixed-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-mixed-outline",
+        "rdt-result-mixed2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-mixed-rectangular-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-mixed-rectangular-outline",
+        "rdt-result-mixed-rectangular2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-neg-invalid-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-neg-invalid-outline",
+        "rdt-result-neg-invalid2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-neg-invalid-rectangular-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-neg-invalid-rectangular-outline",
+        "rdt-result-neg-invalid-rectangular2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-neg-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-neg-outline",
+        "rdt-result-neg2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-neg-rectangular-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-neg-rectangular-outline",
+        "rdt-result-neg-rectangular2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-no-test-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-no-test-outline",
+        "rdt-result-no-test2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-out-stock-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-out-stock-outline",
+        "rdt-result-out-stock2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-outline",
+        "rdt-result2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-pf-invalid-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-pf-invalid-outline",
+        "rdt-result-pf-invalid2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-pf-invalid-rectangular-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-pf-invalid-rectangular-outline",
+        "rdt-result-pf-invalid-rectangular2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-pf-rectangular-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-pf-rectangular-outline",
+        "rdt-result-pf-rectangular2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-positive-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-positive-outline",
+        "rdt-result-positive2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-pv-invalid-rectangular-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-pv-invalid-rectangular-outline",
+        "rdt-result-pv-invalid-rectangular2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-pv-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-pv-outline",
+        "rdt-result-pv2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rdt-result-pv-rectangular-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rdt-result-pv-rectangular-outline",
+        "rdt-result-pv-rectangular2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "referral-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "referral-outline",
+        "referral2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "refused-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "refused-24px",
+        "refused-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "refused-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "refused-outline",
+        "refused2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "register-book-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "register-book-outline",
+        "register-book2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "regular-patient-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "regular-patient-outline",
+        "regular-patient2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "resilient-and-migration-sensitive-health-system-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "resilient-and-migration-sensitive-health-system-outline",
+        "resilient-and-migration-sensitive-health-system2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "respirator-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "respirator-outline",
+        "respirator2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "respirology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "respirology-outline",
+        "respirology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rheumatology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rheumatology-outline",
+        "rheumatology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ribbon-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ribbon-outline",
+        "ribbon2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "risk-analysis-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "risk-analysis-outline",
+        "risk-analysis2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rmnh-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rmnh-outline",
+        "rmnh2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "running-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "running-24px",
+        "running-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "running-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "running-outline",
+        "running2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "running-water-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "running-water-alt-outline",
+        "running-water-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "running-water-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "running-water-outline",
+        "running-water2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rupee-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rupee-outline",
+        "rupee2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rural-post-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rural-post-alt-outline",
+        "rural-post-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rural-post-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rural-post-outline",
+        "rural-post2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "rx-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "rx-outline",
+        "rx2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "s-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "s-outline",
+        "s2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sad-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sad-outline",
+        "sad2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sayana-press-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sayana-press-outline",
+        "sayana-press2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "secure-communication-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "secure-communication-outline",
+        "secure-communication2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "security-worker-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "security-worker-outline",
+        "security-worker2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "simple-logo-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "simple-logo-outline",
+        "simple-logo2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "skeleton-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "skeleton-24px",
+        "skeleton-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "skin-cancer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "skin-cancer-outline",
+        "skin-cancer2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "skull-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "skull-24px",
+        "skull-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sleepy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sleepy-outline",
+        "sleepy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sling-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sling-outline",
+        "sling2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "small-plane-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "small-plane-outline",
+        "small-plane2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "smoking-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "smoking-24px",
+        "smoking-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "smoking-cessation-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "smoking-cessation-24px",
+        "smoking-cessation-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "smoking-cessation-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "smoking-cessation-alt-outline",
+        "smoking-cessation-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "smoking-cessation-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "smoking-cessation-outline",
+        "smoking-cessation2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "smoking-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "smoking-outline",
+        "smoking2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "social-distancing-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "social-distancing-alt-outline",
+        "social-distancing-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "social-distancing-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "social-distancing-outline",
+        "social-distancing2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "social-work-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "social-work-outline",
+        "social-work2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sodium-free-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sodium-free-outline",
+        "sodium-free2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sonography-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sonography-outline",
+        "sonography2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "speech-language-therapy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "speech-language-therapy-outline",
+        "speech-language-therapy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sperm-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sperm-24px",
+        "sperm-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sperm-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sperm-outline",
+        "sperm2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "spraying-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "spraying-outline",
+        "spraying2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "spreadsheets-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "spreadsheets-outline",
+        "spreadsheets2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "square-large-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "square-large-outline",
+        "square-large2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "square-medium-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "square-medium-outline",
+        "square-medium2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "square-small-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "square-small-outline",
+        "square-small2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "staples-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "staples-24px",
+        "staples-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "star-large-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "star-large-outline",
+        "star-large2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "star-medium-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "star-medium-outline",
+        "star-medium2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "star-small-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "star-small-outline",
+        "star-small2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "stent-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "stent-outline",
+        "stent2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "stethoscope-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "stethoscope-outline",
+        "stethoscope2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sti-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sti-outline",
+        "sti2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "stock-out-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "stock-out-outline",
+        "stock-out2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "stomach-cancer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "stomach-cancer-outline",
+        "stomach-cancer2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "stop-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "stop-outline",
+        "stop2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sugar-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sugar-alt-outline",
+        "sugar-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sugar-free-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sugar-free-24px",
+        "sugar-free-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sugar-free-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sugar-free-outline",
+        "sugar-free2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sugar-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sugar-outline",
+        "sugar2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "surgical-sterilization-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "surgical-sterilization-outline",
+        "surgical-sterilization2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "surveilance-officer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "surveilance-officer-outline",
+        "surveilance-officer2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "sweating-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "sweating-outline",
+        "sweating2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "swim-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "swim-outline",
+        "swim2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "symptom-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "symptom-24px",
+        "symptom-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "symptom-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "symptom-outline",
+        "symptom2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "synergist-insecticide-bioassays-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "synergist-insecticide-bioassays-outline",
+        "synergist-insecticide-bioassays2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "syphilis-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "syphilis-alt-outline",
+        "syphilis-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "syringe-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "syringe-outline",
+        "syringe2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "syringe-vaccine-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "syringe-vaccine-outline",
+        "syringe-vaccine2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "t-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "t-outline",
+        "t2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "tac-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "tac-outline",
+        "tac2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "tally-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "tally-outline",
+        "tally2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "tb-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "tb-outline",
+        "tb2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "telemedicine-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "telemedicine-outline",
+        "telemedicine2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "temple-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "temple-alt-outline",
+        "temple-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "temple-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "temple-outline",
+        "temple2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "test-tubes-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "test-tubes-outline",
+        "test-tubes2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "thermometer-digital-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "thermometer-digital-outline",
+        "thermometer-digital2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "thermometer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "thermometer-outline",
+        "thermometer2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "thyroid-cancer-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "thyroid-cancer-outline",
+        "thyroid-cancer2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "toilet-paper-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "toilet-paper-outline",
+        "toilet-paper2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "tongue-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "tongue-24px",
+        "tongue-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "tongue-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "tongue-outline",
+        "tongue2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "traumatism-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "traumatism-outline",
+        "traumatism2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "travel-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "travel-alt-outline",
+        "travel-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "travel-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "travel-outline",
+        "travel2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "treated-water-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "treated-water-outline",
+        "treated-water2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "triangle-inverted-large-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "triangle-inverted-large-outline",
+        "triangle-inverted-large2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "triangle-inverted-medium-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "triangle-inverted-medium-outline",
+        "triangle-inverted-medium2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "triangle-inverted-small-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "triangle-inverted-small-outline",
+        "triangle-inverted-small2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "triangle-large-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "triangle-large-outline",
+        "triangle-large2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "triangle-medium-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "triangle-medium-outline",
+        "triangle-medium2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "triangle-small-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "triangle-small-outline",
+        "triangle-small2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "truck-driver-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "truck-driver-outline",
+        "truck-driver2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "u-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "u-outline",
+        "u2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-folder-family-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-folder-family-outline",
+        "ui-folder-family2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-folder-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-folder-outline",
+        "ui-folder2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-menu-grid-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-menu-grid-outline",
+        "ui-menu-grid2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-preferences-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-preferences-outline",
+        "ui-preferences2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-secure-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-secure-outline",
+        "ui-secure2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-settings-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-settings-outline",
+        "ui-settings2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-user-profile-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-user-profile-outline",
+        "ui-user-profile2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-zoom-in-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-zoom-in-outline",
+        "ui-zoom-in2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-zoom-out-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-zoom-out-outline",
+        "ui-zoom-out2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ui-zoom-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ui-zoom-outline",
+        "ui-zoom2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ultrasound-scanner-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ultrasound-scanner-outline",
+        "ultrasound-scanner2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "umbrella-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "umbrella-outline",
+        "umbrella2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "un-paved-road-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "un-paved-road-outline",
+        "un-paved-road2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "underweight-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "underweight-24px",
+        "underweight-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "underweight-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "underweight-outline",
+        "underweight2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "unhealthy-food-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "unhealthy-food-outline",
+        "unhealthy-food2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "urine-sample-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "urine-sample-outline",
+        "urine-sample2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "urology-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "urology-outline",
+        "urology2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "v-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "v-outline",
+        "v2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "varicose-vein-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "varicose-vein-outline",
+        "varicose-vein2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "vascular-surgery-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "vascular-surgery-outline",
+        "vascular-surgery2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "vegetables-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "vegetables-outline",
+        "vegetables2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ventilator-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ventilator-alt-outline",
+        "ventilator-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "ventilator-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "ventilator-outline",
+        "ventilator2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "vespa-motorcycle-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "vespa-motorcycle-outline",
+        "vespa-motorcycle2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "vih-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "vih-outline",
+        "vih2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "village-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "village-outline",
+        "village2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "viral-lung-infection-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "viral-lung-infection-outline",
+        "viral-lung-infection2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-alt-outline",
+        "virus-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-lab-research-syringe-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-lab-research-syringe-outline",
+        "virus-lab-research-syringe2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-lab-research-test-tube-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-lab-research-test-tube-outline",
+        "virus-lab-research-test-tube2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-mutation-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-mutation-outline",
+        "virus-mutation2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-outline",
+        "virus2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-patient-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-patient-outline",
+        "virus-patient2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-research-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-research-alt-outline",
+        "virus-research-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-research-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-research-outline",
+        "virus-research2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-sanitizer-spray-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-sanitizer-spray-outline",
+        "virus-sanitizer-spray2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "virus-shield-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "virus-shield-outline",
+        "virus-shield2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "vomiting-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "vomiting-24px",
+        "vomiting-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "vomiting-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "vomiting-outline",
+        "vomiting2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "vomitting-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "vomitting-outline",
+        "vomitting2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "w-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "w-outline",
+        "w2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "waist-circumference-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "waist-circumference-outline",
+        "waist-circumference2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "walk-supported-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "walk-supported-24px",
+        "walk-supported-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "war-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "war-outline",
+        "war2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "wash-hands-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "wash-hands-outline",
+        "wash-hands2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "water-sanitation-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "water-sanitation-outline",
+        "water-sanitation2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "water-treatment-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "water-treatment-outline",
+        "water-treatment2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "weight-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "weight-outline",
+        "weight2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "weights-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "weights-outline",
+        "weights2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "wheelchair-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "wheelchair-24px",
+        "wheelchair-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "wheelchair-alt-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "wheelchair-alt-outline",
+        "wheelchair-alt2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "wheelchair-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "wheelchair-outline",
+        "wheelchair2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "wold-care",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "wold-care",
+        "world-care"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "woman-24px",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "woman-24px",
+        "woman-outline-24px"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "woman-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "woman-outline",
+        "woman2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "woozy-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "woozy-outline",
+        "woozy2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "x-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "x-outline",
+        "x2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "xray-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "xray-outline",
+        "xray2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "y-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "y-outline",
+        "y2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "yen-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "yen-outline",
+        "yen2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "yes-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "yes-outline",
+        "yes2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "young-people-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "young-people-outline",
+        "young-people2x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Healthicons",
+      "glyphName": "z-outline",
+      "prefix": "healthicons",
+      "sampleIcons": [
+        "z-outline",
+        "z2x-outline"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Healthicons",
+      "headBbox": "0..1000 / 0..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "healthicons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "healthicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Healthicons",
+      "glyphCount": 3373,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

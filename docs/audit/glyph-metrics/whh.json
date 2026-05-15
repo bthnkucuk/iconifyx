@@ -1,0 +1,9183 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "a",
+      "prefix": "whh",
+      "sampleIcons": [
+        "a",
+        "a-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "b",
+      "prefix": "whh",
+      "sampleIcons": [
+        "b",
+        "b-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "c",
+      "prefix": "whh",
+      "sampleIcons": [
+        "c",
+        "c-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "d",
+      "prefix": "whh",
+      "sampleIcons": [
+        "d",
+        "d-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "e",
+      "prefix": "whh",
+      "sampleIcons": [
+        "e",
+        "e-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "elipse",
+      "prefix": "whh",
+      "sampleIcons": [
+        "elipse",
+        "moonnew"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "f",
+      "prefix": "whh",
+      "sampleIcons": [
+        "f",
+        "f-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "g",
+      "prefix": "whh",
+      "sampleIcons": [
+        "g",
+        "g-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "h",
+      "prefix": "whh",
+      "sampleIcons": [
+        "h",
+        "h-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "i",
+      "prefix": "whh",
+      "sampleIcons": [
+        "i",
+        "i-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "j",
+      "prefix": "whh",
+      "sampleIcons": [
+        "j",
+        "j-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "k",
+      "prefix": "whh",
+      "sampleIcons": [
+        "k",
+        "k-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "l",
+      "prefix": "whh",
+      "sampleIcons": [
+        "l",
+        "l-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "loadingeight",
+      "prefix": "whh",
+      "sampleIcons": [
+        "loadingeight",
+        "record"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "m",
+      "prefix": "whh",
+      "sampleIcons": [
+        "m",
+        "m-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "n",
+      "prefix": "whh",
+      "sampleIcons": [
+        "n",
+        "n-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "o",
+      "prefix": "whh",
+      "sampleIcons": [
+        "o",
+        "o-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "p",
+      "prefix": "whh",
+      "sampleIcons": [
+        "p",
+        "p-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "q",
+      "prefix": "whh",
+      "sampleIcons": [
+        "q",
+        "q-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "r",
+      "prefix": "whh",
+      "sampleIcons": [
+        "r",
+        "r-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "s",
+      "prefix": "whh",
+      "sampleIcons": [
+        "s",
+        "s-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "t",
+      "prefix": "whh",
+      "sampleIcons": [
+        "t",
+        "t-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "u",
+      "prefix": "whh",
+      "sampleIcons": [
+        "u",
+        "u-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "v",
+      "prefix": "whh",
+      "sampleIcons": [
+        "v",
+        "v-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "w",
+      "prefix": "whh",
+      "sampleIcons": [
+        "w",
+        "w-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "x",
+      "prefix": "whh",
+      "sampleIcons": [
+        "x",
+        "x-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "y",
+      "prefix": "whh",
+      "sampleIcons": [
+        "y",
+        "y-upper-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Whh",
+      "glyphName": "z",
+      "prefix": "whh",
+      "sampleIcons": [
+        "z",
+        "z-upper-case"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Whh",
+      "headBbox": "-55..1668 / -29..1025",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 29,
+      "prefix": "whh",
+      "reasons": [
+        "head.xMin=-55",
+        "head.xMax=1668",
+        "head.yMin=-29",
+        "head.yMax=1025",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=29"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 750,
+      "codepoint": 57344,
+      "font": "Whh",
+      "name": "0",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57345,
+      "font": "Whh",
+      "name": "1",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57346,
+      "font": "Whh",
+      "name": "2",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57347,
+      "font": "Whh",
+      "name": "3",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57348,
+      "font": "Whh",
+      "name": "4",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57349,
+      "font": "Whh",
+      "name": "5",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57350,
+      "font": "Whh",
+      "name": "6",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57351,
+      "font": "Whh",
+      "name": "7",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57352,
+      "font": "Whh",
+      "name": "8",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57353,
+      "font": "Whh",
+      "name": "9",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57354,
+      "font": "Whh",
+      "name": "a",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57355,
+      "font": "Whh",
+      "name": "a",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 57357,
+      "font": "Whh",
+      "name": "abacus",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 57363,
+      "font": "Whh",
+      "name": "addfolderalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57365,
+      "font": "Whh",
+      "name": "address",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57368,
+      "font": "Whh",
+      "name": "addtocart",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57372,
+      "font": "Whh",
+      "name": "adobe",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 749,
+      "codepoint": 57376,
+      "font": "Whh",
+      "name": "ajax",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57382,
+      "font": "Whh",
+      "name": "alertpay",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57384,
+      "font": "Whh",
+      "name": "alienship",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57385,
+      "font": "Whh",
+      "name": "alienware",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57387,
+      "font": "Whh",
+      "name": "aligncenter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57388,
+      "font": "Whh",
+      "name": "alignhorizontalcenter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 57389,
+      "font": "Whh",
+      "name": "alignjustify",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 57390,
+      "font": "Whh",
+      "name": "alignleft",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57392,
+      "font": "Whh",
+      "name": "alignright",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57395,
+      "font": "Whh",
+      "name": "alignverticalcenter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57396,
+      "font": "Whh",
+      "name": "amazon",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57398,
+      "font": "Whh",
+      "name": "analogdown",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57399,
+      "font": "Whh",
+      "name": "analogleft",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57400,
+      "font": "Whh",
+      "name": "analogright",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57401,
+      "font": "Whh",
+      "name": "analogup",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57405,
+      "font": "Whh",
+      "name": "android",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57408,
+      "font": "Whh",
+      "name": "antenna",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 57419,
+      "font": "Whh",
+      "name": "arrowleft",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57420,
+      "font": "Whh",
+      "name": "arrowright",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57422,
+      "font": "Whh",
+      "name": "asterisk",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57426,
+      "font": "Whh",
+      "name": "atari",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 876,
+      "codepoint": 57427,
+      "font": "Whh",
+      "name": "atom",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57431,
+      "font": "Whh",
+      "name": "automobile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57436,
+      "font": "Whh",
+      "name": "avocado",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57439,
+      "font": "Whh",
+      "name": "b",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57440,
+      "font": "Whh",
+      "name": "b",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57441,
+      "font": "Whh",
+      "name": "baby",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57445,
+      "font": "Whh",
+      "name": "backward",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57447,
+      "font": "Whh",
+      "name": "bag",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57449,
+      "font": "Whh",
+      "name": "baloon",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57450,
+      "font": "Whh",
+      "name": "bamboo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57452,
+      "font": "Whh",
+      "name": "bancircle",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57460,
+      "font": "Whh",
+      "name": "barchartdesc",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57461,
+      "font": "Whh",
+      "name": "barcode",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 813,
+      "codepoint": 57462,
+      "font": "Whh",
+      "name": "barrel",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57463,
+      "font": "Whh",
+      "name": "basecamp",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 813,
+      "codepoint": 57467,
+      "font": "Whh",
+      "name": "batman",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57468,
+      "font": "Whh",
+      "name": "batteryaltcharging",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57469,
+      "font": "Whh",
+      "name": "batteryaltfull",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57470,
+      "font": "Whh",
+      "name": "batteryaltsixty",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57471,
+      "font": "Whh",
+      "name": "batteryaltthird",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57472,
+      "font": "Whh",
+      "name": "batterycharged",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57473,
+      "font": "Whh",
+      "name": "batterycharging",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57474,
+      "font": "Whh",
+      "name": "batteryeighty",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57475,
+      "font": "Whh",
+      "name": "batteryempty",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57476,
+      "font": "Whh",
+      "name": "batteryforty",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57477,
+      "font": "Whh",
+      "name": "batteryfull",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57478,
+      "font": "Whh",
+      "name": "batterysixty",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57479,
+      "font": "Whh",
+      "name": "batterytwenty",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57483,
+      "font": "Whh",
+      "name": "bed",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57484,
+      "font": "Whh",
+      "name": "beer",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57485,
+      "font": "Whh",
+      "name": "beeralt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 57486,
+      "font": "Whh",
+      "name": "behance",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57492,
+      "font": "Whh",
+      "name": "bill",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57493,
+      "font": "Whh",
+      "name": "binary",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1064,
+      "codepoint": 57496,
+      "font": "Whh",
+      "name": "biohazard",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57499,
+      "font": "Whh",
+      "name": "bishop",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 57500,
+      "font": "Whh",
+      "name": "bitcoin",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1458,
+      "codepoint": 57503,
+      "font": "Whh",
+      "name": "blackberry",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 748,
+      "codepoint": 57506,
+      "font": "Whh",
+      "name": "bluetooth",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57508,
+      "font": "Whh",
+      "name": "boardgame",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57510,
+      "font": "Whh",
+      "name": "bold",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57511,
+      "font": "Whh",
+      "name": "bomb",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57513,
+      "font": "Whh",
+      "name": "book",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57514,
+      "font": "Whh",
+      "name": "bookalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57515,
+      "font": "Whh",
+      "name": "bookmark",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57516,
+      "font": "Whh",
+      "name": "bookmarkalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57520,
+      "font": "Whh",
+      "name": "boombox",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57521,
+      "font": "Whh",
+      "name": "bottle",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57524,
+      "font": "Whh",
+      "name": "bowl",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 57527,
+      "font": "Whh",
+      "name": "bowtie",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57530,
+      "font": "Whh",
+      "name": "boxing",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57531,
+      "font": "Whh",
+      "name": "boxtrapper",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57533,
+      "font": "Whh",
+      "name": "braillea",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57534,
+      "font": "Whh",
+      "name": "brailleb",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57535,
+      "font": "Whh",
+      "name": "braillec",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57536,
+      "font": "Whh",
+      "name": "brailled",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57537,
+      "font": "Whh",
+      "name": "braillee",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57538,
+      "font": "Whh",
+      "name": "brailleeight",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57539,
+      "font": "Whh",
+      "name": "braillef",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57540,
+      "font": "Whh",
+      "name": "braillefive",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57541,
+      "font": "Whh",
+      "name": "braillefour",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57542,
+      "font": "Whh",
+      "name": "brailleg",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57543,
+      "font": "Whh",
+      "name": "brailleh",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57544,
+      "font": "Whh",
+      "name": "braillei",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57545,
+      "font": "Whh",
+      "name": "braillej",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57546,
+      "font": "Whh",
+      "name": "braillek",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57547,
+      "font": "Whh",
+      "name": "braillel",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57548,
+      "font": "Whh",
+      "name": "braillem",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57549,
+      "font": "Whh",
+      "name": "braillen",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57550,
+      "font": "Whh",
+      "name": "braillenine",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57551,
+      "font": "Whh",
+      "name": "brailleo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57552,
+      "font": "Whh",
+      "name": "brailleone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57553,
+      "font": "Whh",
+      "name": "braillep",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57554,
+      "font": "Whh",
+      "name": "brailleq",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57555,
+      "font": "Whh",
+      "name": "brailler",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57556,
+      "font": "Whh",
+      "name": "brailles",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57557,
+      "font": "Whh",
+      "name": "brailleseven",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57558,
+      "font": "Whh",
+      "name": "braillesix",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57559,
+      "font": "Whh",
+      "name": "braillespace",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57560,
+      "font": "Whh",
+      "name": "braillet",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57561,
+      "font": "Whh",
+      "name": "braillethree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57562,
+      "font": "Whh",
+      "name": "brailletwo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57563,
+      "font": "Whh",
+      "name": "brailleu",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57564,
+      "font": "Whh",
+      "name": "braillev",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57565,
+      "font": "Whh",
+      "name": "braillew",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57566,
+      "font": "Whh",
+      "name": "braillex",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57567,
+      "font": "Whh",
+      "name": "brailley",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57568,
+      "font": "Whh",
+      "name": "braillez",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57569,
+      "font": "Whh",
+      "name": "braillezero",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 57570,
+      "font": "Whh",
+      "name": "brain",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57573,
+      "font": "Whh",
+      "name": "breakable",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57596,
+      "font": "Whh",
+      "name": "bullhorn",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57597,
+      "font": "Whh",
+      "name": "burstmode",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1471,
+      "codepoint": 57599,
+      "font": "Whh",
+      "name": "busalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 376,
+      "codepoint": 57600,
+      "font": "Whh",
+      "name": "business",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57601,
+      "font": "Whh",
+      "name": "businesscard",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57602,
+      "font": "Whh",
+      "name": "businesscardalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57609,
+      "font": "Whh",
+      "name": "c",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57610,
+      "font": "Whh",
+      "name": "c",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57611,
+      "font": "Whh",
+      "name": "cactus",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57617,
+      "font": "Whh",
+      "name": "calculator",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57621,
+      "font": "Whh",
+      "name": "calendarthree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57623,
+      "font": "Whh",
+      "name": "call",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1065,
+      "codepoint": 57626,
+      "font": "Whh",
+      "name": "camel",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 57627,
+      "font": "Whh",
+      "name": "camera",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57628,
+      "font": "Whh",
+      "name": "cameraflash",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57629,
+      "font": "Whh",
+      "name": "campfire",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57630,
+      "font": "Whh",
+      "name": "camping",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 715,
+      "codepoint": 57633,
+      "font": "Whh",
+      "name": "candycane",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57634,
+      "font": "Whh",
+      "name": "canister",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57635,
+      "font": "Whh",
+      "name": "cannon",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 57638,
+      "font": "Whh",
+      "name": "capacitator",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57639,
+      "font": "Whh",
+      "name": "capslock",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57641,
+      "font": "Whh",
+      "name": "carbattery",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 57644,
+      "font": "Whh",
+      "name": "cash",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57645,
+      "font": "Whh",
+      "name": "cashregister",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57646,
+      "font": "Whh",
+      "name": "cassette",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57647,
+      "font": "Whh",
+      "name": "cassettealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57648,
+      "font": "Whh",
+      "name": "cat",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57650,
+      "font": "Whh",
+      "name": "cctv",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57654,
+      "font": "Whh",
+      "name": "certificate",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57655,
+      "font": "Whh",
+      "name": "certificatealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57656,
+      "font": "Whh",
+      "name": "certificatethree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1229,
+      "codepoint": 57657,
+      "font": "Whh",
+      "name": "cgi",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 57659,
+      "font": "Whh",
+      "name": "chair",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57663,
+      "font": "Whh",
+      "name": "checkbox",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57664,
+      "font": "Whh",
+      "name": "checkboxalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 57665,
+      "font": "Whh",
+      "name": "checkin",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57666,
+      "font": "Whh",
+      "name": "checkinalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1233,
+      "codepoint": 57667,
+      "font": "Whh",
+      "name": "checkmark",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 57671,
+      "font": "Whh",
+      "name": "chevrondown",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57672,
+      "font": "Whh",
+      "name": "chevronleft",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57673,
+      "font": "Whh",
+      "name": "chevronright",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 57675,
+      "font": "Whh",
+      "name": "chevronup",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57677,
+      "font": "Whh",
+      "name": "chickenalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 57678,
+      "font": "Whh",
+      "name": "chocolate",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57679,
+      "font": "Whh",
+      "name": "christiancross",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57680,
+      "font": "Whh",
+      "name": "christmasstree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1016,
+      "codepoint": 57714,
+      "font": "Whh",
+      "name": "circlegithub",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57726,
+      "font": "Whh",
+      "name": "circleloaderfive",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57727,
+      "font": "Whh",
+      "name": "circleloaderfour",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 933,
+      "codepoint": 57729,
+      "font": "Whh",
+      "name": "circleloaderone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57783,
+      "font": "Whh",
+      "name": "clipboard",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57784,
+      "font": "Whh",
+      "name": "clipboardalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57785,
+      "font": "Whh",
+      "name": "clock",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57789,
+      "font": "Whh",
+      "name": "cloud",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57790,
+      "font": "Whh",
+      "name": "cloudalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57791,
+      "font": "Whh",
+      "name": "cloudaltdownload",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57792,
+      "font": "Whh",
+      "name": "cloudaltprivate",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57793,
+      "font": "Whh",
+      "name": "cloudaltsync",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57794,
+      "font": "Whh",
+      "name": "cloudaltupload",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 57799,
+      "font": "Whh",
+      "name": "cloudupload",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57800,
+      "font": "Whh",
+      "name": "clover",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57806,
+      "font": "Whh",
+      "name": "cocktail",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1331,
+      "codepoint": 57807,
+      "font": "Whh",
+      "name": "code",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57808,
+      "font": "Whh",
+      "name": "codeigniter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57810,
+      "font": "Whh",
+      "name": "coffeealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57812,
+      "font": "Whh",
+      "name": "coffeecupalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 57815,
+      "font": "Whh",
+      "name": "coinsalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57816,
+      "font": "Whh",
+      "name": "collabtive",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 57817,
+      "font": "Whh",
+      "name": "colocation",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 57819,
+      "font": "Whh",
+      "name": "colors",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 57830,
+      "font": "Whh",
+      "name": "commit",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 874,
+      "codepoint": 57836,
+      "font": "Whh",
+      "name": "concretefive",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57838,
+      "font": "Whh",
+      "name": "connected",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1231,
+      "codepoint": 57841,
+      "font": "Whh",
+      "name": "construction",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 57843,
+      "font": "Whh",
+      "name": "controllernes",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57844,
+      "font": "Whh",
+      "name": "controllerps",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 57845,
+      "font": "Whh",
+      "name": "controllersnes",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57849,
+      "font": "Whh",
+      "name": "coppermine",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 57851,
+      "font": "Whh",
+      "name": "copyapp",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57853,
+      "font": "Whh",
+      "name": "counter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57854,
+      "font": "Whh",
+      "name": "counteralt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57862,
+      "font": "Whh",
+      "name": "crackedegg",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57864,
+      "font": "Whh",
+      "name": "createfile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57867,
+      "font": "Whh",
+      "name": "creditcard",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 57872,
+      "font": "Whh",
+      "name": "crown",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57874,
+      "font": "Whh",
+      "name": "cssthree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 953,
+      "codepoint": 57875,
+      "font": "Whh",
+      "name": "cube",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 57878,
+      "font": "Whh",
+      "name": "curling",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 626,
+      "codepoint": 57881,
+      "font": "Whh",
+      "name": "cursor",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57882,
+      "font": "Whh",
+      "name": "cut",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57884,
+      "font": "Whh",
+      "name": "d",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57885,
+      "font": "Whh",
+      "name": "d",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57889,
+      "font": "Whh",
+      "name": "darthvader",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57893,
+      "font": "Whh",
+      "name": "davidstar",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 57895,
+      "font": "Whh",
+      "name": "dcsource",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57898,
+      "font": "Whh",
+      "name": "debug",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57904,
+      "font": "Whh",
+      "name": "deletefile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57905,
+      "font": "Whh",
+      "name": "deletefolder",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 57906,
+      "font": "Whh",
+      "name": "deletefolderalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57909,
+      "font": "Whh",
+      "name": "designcontest",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57910,
+      "font": "Whh",
+      "name": "desklamp",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 934,
+      "codepoint": 57914,
+      "font": "Whh",
+      "name": "dialpad",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57915,
+      "font": "Whh",
+      "name": "diamond",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 874,
+      "codepoint": 57916,
+      "font": "Whh",
+      "name": "diamonds",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57917,
+      "font": "Whh",
+      "name": "dice",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57918,
+      "font": "Whh",
+      "name": "diefive",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57919,
+      "font": "Whh",
+      "name": "diefour",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57920,
+      "font": "Whh",
+      "name": "dieone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57921,
+      "font": "Whh",
+      "name": "diesix",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57922,
+      "font": "Whh",
+      "name": "diethree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57923,
+      "font": "Whh",
+      "name": "dietwo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57924,
+      "font": "Whh",
+      "name": "digg",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1597,
+      "codepoint": 57925,
+      "font": "Whh",
+      "name": "diode",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57927,
+      "font": "Whh",
+      "name": "director",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57928,
+      "font": "Whh",
+      "name": "diskspace",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57929,
+      "font": "Whh",
+      "name": "distributehorizontalcenters",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 57930,
+      "font": "Whh",
+      "name": "distributeverticalcenters",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57934,
+      "font": "Whh",
+      "name": "document",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 57935,
+      "font": "Whh",
+      "name": "dog",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57937,
+      "font": "Whh",
+      "name": "dollar",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1025,
+      "codepoint": 57942,
+      "font": "Whh",
+      "name": "domain",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57945,
+      "font": "Whh",
+      "name": "dominoeight",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57946,
+      "font": "Whh",
+      "name": "dominofive",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57947,
+      "font": "Whh",
+      "name": "dominofour",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57948,
+      "font": "Whh",
+      "name": "dominonine",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57949,
+      "font": "Whh",
+      "name": "dominoone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57950,
+      "font": "Whh",
+      "name": "dominoseven",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57951,
+      "font": "Whh",
+      "name": "dominosix",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57952,
+      "font": "Whh",
+      "name": "dominothree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57953,
+      "font": "Whh",
+      "name": "dominotwo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57959,
+      "font": "Whh",
+      "name": "doubletap",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57963,
+      "font": "Whh",
+      "name": "downright",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57965,
+      "font": "Whh",
+      "name": "drawer",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57970,
+      "font": "Whh",
+      "name": "drmanhattan",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 57971,
+      "font": "Whh",
+      "name": "dropbox",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57973,
+      "font": "Whh",
+      "name": "drupal",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 886,
+      "codepoint": 57974,
+      "font": "Whh",
+      "name": "drwho",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57976,
+      "font": "Whh",
+      "name": "e",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57977,
+      "font": "Whh",
+      "name": "e",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 938,
+      "codepoint": 57978,
+      "font": "Whh",
+      "name": "earbuds",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57980,
+      "font": "Whh",
+      "name": "edit",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57981,
+      "font": "Whh",
+      "name": "editalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57982,
+      "font": "Whh",
+      "name": "egg",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 57984,
+      "font": "Whh",
+      "name": "egyptpyramid",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 813,
+      "codepoint": 57988,
+      "font": "Whh",
+      "name": "elevator",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 57991,
+      "font": "Whh",
+      "name": "emailalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57994,
+      "font": "Whh",
+      "name": "emailforwarders",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58011,
+      "font": "Whh",
+      "name": "emptycart",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1065,
+      "codepoint": 58012,
+      "font": "Whh",
+      "name": "emptystar",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 58015,
+      "font": "Whh",
+      "name": "envelope",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58017,
+      "font": "Whh",
+      "name": "equalizeralt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 58019,
+      "font": "Whh",
+      "name": "equals",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 58022,
+      "font": "Whh",
+      "name": "escalator",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 58023,
+      "font": "Whh",
+      "name": "etano",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58024,
+      "font": "Whh",
+      "name": "euro",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 58027,
+      "font": "Whh",
+      "name": "event",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58029,
+      "font": "Whh",
+      "name": "evernote",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58033,
+      "font": "Whh",
+      "name": "exitalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58038,
+      "font": "Whh",
+      "name": "extinguisher",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58040,
+      "font": "Whh",
+      "name": "eye",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58042,
+      "font": "Whh",
+      "name": "eyedropper",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58043,
+      "font": "Whh",
+      "name": "eyeopen",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58045,
+      "font": "Whh",
+      "name": "f",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58046,
+      "font": "Whh",
+      "name": "f",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 58047,
+      "font": "Whh",
+      "name": "facebook",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58049,
+      "font": "Whh",
+      "name": "facetimevideo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58051,
+      "font": "Whh",
+      "name": "fallingstar",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 938,
+      "codepoint": 58052,
+      "font": "Whh",
+      "name": "fan",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58054,
+      "font": "Whh",
+      "name": "faq",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58062,
+      "font": "Whh",
+      "name": "fatarrowleft",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58066,
+      "font": "Whh",
+      "name": "fatundo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58067,
+      "font": "Whh",
+      "name": "favorite",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58068,
+      "font": "Whh",
+      "name": "favoritealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58069,
+      "font": "Whh",
+      "name": "favoritefile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58071,
+      "font": "Whh",
+      "name": "fbdislike",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58072,
+      "font": "Whh",
+      "name": "fblike",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 58074,
+      "font": "Whh",
+      "name": "fedora",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58075,
+      "font": "Whh",
+      "name": "feedly",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58077,
+      "font": "Whh",
+      "name": "female",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58080,
+      "font": "Whh",
+      "name": "file",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58081,
+      "font": "Whh",
+      "name": "filemanager",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 58082,
+      "font": "Whh",
+      "name": "film",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58093,
+      "font": "Whh",
+      "name": "fish",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58094,
+      "font": "Whh",
+      "name": "fishbone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 58098,
+      "font": "Whh",
+      "name": "flame",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58102,
+      "font": "Whh",
+      "name": "flashplayer",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58103,
+      "font": "Whh",
+      "name": "flask",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58104,
+      "font": "Whh",
+      "name": "flaskfull",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58105,
+      "font": "Whh",
+      "name": "flickr",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58107,
+      "font": "Whh",
+      "name": "flickrthree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1229,
+      "codepoint": 58112,
+      "font": "Whh",
+      "name": "flowdown",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58115,
+      "font": "Whh",
+      "name": "flowerpot",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1229,
+      "codepoint": 58116,
+      "font": "Whh",
+      "name": "flowup",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58117,
+      "font": "Whh",
+      "name": "fluxbb",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58118,
+      "font": "Whh",
+      "name": "folderalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58119,
+      "font": "Whh",
+      "name": "folderopen",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1002,
+      "codepoint": 58123,
+      "font": "Whh",
+      "name": "fontcase",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58124,
+      "font": "Whh",
+      "name": "fontcomic",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58125,
+      "font": "Whh",
+      "name": "fontgothic",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58126,
+      "font": "Whh",
+      "name": "fonthandwriting",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 813,
+      "codepoint": 58127,
+      "font": "Whh",
+      "name": "fontrounded",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58128,
+      "font": "Whh",
+      "name": "fontsansserif",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58129,
+      "font": "Whh",
+      "name": "fontserif",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 814,
+      "codepoint": 58130,
+      "font": "Whh",
+      "name": "fontstencil",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58131,
+      "font": "Whh",
+      "name": "fonttypewriter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58132,
+      "font": "Whh",
+      "name": "foodtray",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 876,
+      "codepoint": 58135,
+      "font": "Whh",
+      "name": "forest",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58136,
+      "font": "Whh",
+      "name": "forestalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58137,
+      "font": "Whh",
+      "name": "fork",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58138,
+      "font": "Whh",
+      "name": "forkcms",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58139,
+      "font": "Whh",
+      "name": "forklift",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1231,
+      "codepoint": 58146,
+      "font": "Whh",
+      "name": "fourg",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1065,
+      "codepoint": 58149,
+      "font": "Whh",
+      "name": "foursquare",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58152,
+      "font": "Whh",
+      "name": "fridge",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1002,
+      "codepoint": 58154,
+      "font": "Whh",
+      "name": "fries",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58158,
+      "font": "Whh",
+      "name": "fuelphp",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1065,
+      "codepoint": 58161,
+      "font": "Whh",
+      "name": "fullstar",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58162,
+      "font": "Whh",
+      "name": "fx",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58163,
+      "font": "Whh",
+      "name": "g",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58164,
+      "font": "Whh",
+      "name": "g",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58165,
+      "font": "Whh",
+      "name": "galaxy",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58166,
+      "font": "Whh",
+      "name": "galaxyalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58168,
+      "font": "Whh",
+      "name": "gameboy",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58170,
+      "font": "Whh",
+      "name": "garage",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58171,
+      "font": "Whh",
+      "name": "gasstation",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58172,
+      "font": "Whh",
+      "name": "gavel",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1064,
+      "codepoint": 58175,
+      "font": "Whh",
+      "name": "gears",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58177,
+      "font": "Whh",
+      "name": "gender",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58178,
+      "font": "Whh",
+      "name": "ghost",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 58180,
+      "font": "Whh",
+      "name": "github",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58181,
+      "font": "Whh",
+      "name": "glass",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1392,
+      "codepoint": 58182,
+      "font": "Whh",
+      "name": "glasses",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 58183,
+      "font": "Whh",
+      "name": "glassesalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58185,
+      "font": "Whh",
+      "name": "globealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58186,
+      "font": "Whh",
+      "name": "glue",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 58187,
+      "font": "Whh",
+      "name": "gmail",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58190,
+      "font": "Whh",
+      "name": "googledrive",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58191,
+      "font": "Whh",
+      "name": "googleglass",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58200,
+      "font": "Whh",
+      "name": "gramophone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58209,
+      "font": "Whh",
+      "name": "greenlantern",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58210,
+      "font": "Whh",
+      "name": "greenlightbulb",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 58214,
+      "font": "Whh",
+      "name": "gun",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58215,
+      "font": "Whh",
+      "name": "h",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58216,
+      "font": "Whh",
+      "name": "h",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1065,
+      "codepoint": 58218,
+      "font": "Whh",
+      "name": "halfstar",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58219,
+      "font": "Whh",
+      "name": "halo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 58220,
+      "font": "Whh",
+      "name": "hamburger",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58221,
+      "font": "Whh",
+      "name": "hammer",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 58224,
+      "font": "Whh",
+      "name": "handdown",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58225,
+      "font": "Whh",
+      "name": "handdrag",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 58227,
+      "font": "Whh",
+      "name": "handleft",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 58229,
+      "font": "Whh",
+      "name": "handright",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58231,
+      "font": "Whh",
+      "name": "handtwofingers",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 58232,
+      "font": "Whh",
+      "name": "handup",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58233,
+      "font": "Whh",
+      "name": "hanger",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58235,
+      "font": "Whh",
+      "name": "hangouts",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58237,
+      "font": "Whh",
+      "name": "harddisk",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1156,
+      "codepoint": 58239,
+      "font": "Whh",
+      "name": "harrypotter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1231,
+      "codepoint": 58242,
+      "font": "Whh",
+      "name": "hdtv",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58243,
+      "font": "Whh",
+      "name": "hdvideo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 688,
+      "codepoint": 58252,
+      "font": "Whh",
+      "name": "heavymetal",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 58253,
+      "font": "Whh",
+      "name": "helicopter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1141,
+      "codepoint": 58254,
+      "font": "Whh",
+      "name": "hexagon",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58257,
+      "font": "Whh",
+      "name": "home",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58258,
+      "font": "Whh",
+      "name": "homealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58259,
+      "font": "Whh",
+      "name": "honeycomb",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58264,
+      "font": "Whh",
+      "name": "hot",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58270,
+      "font": "Whh",
+      "name": "hryvnia",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58273,
+      "font": "Whh",
+      "name": "html",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58274,
+      "font": "Whh",
+      "name": "htmlfile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58275,
+      "font": "Whh",
+      "name": "htmlfive",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58276,
+      "font": "Whh",
+      "name": "hydrant",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 58277,
+      "font": "Whh",
+      "name": "i",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 58278,
+      "font": "Whh",
+      "name": "i",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58279,
+      "font": "Whh",
+      "name": "icecream",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58280,
+      "font": "Whh",
+      "name": "icecreamalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58281,
+      "font": "Whh",
+      "name": "icecreamthree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58282,
+      "font": "Whh",
+      "name": "idea",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58284,
+      "font": "Whh",
+      "name": "imac",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58285,
+      "font": "Whh",
+      "name": "image",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58288,
+      "font": "Whh",
+      "name": "importfile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58289,
+      "font": "Whh",
+      "name": "impresscms",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58293,
+      "font": "Whh",
+      "name": "incomingcall",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58300,
+      "font": "Whh",
+      "name": "infinity",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1620,
+      "codepoint": 58301,
+      "font": "Whh",
+      "name": "infinityalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58304,
+      "font": "Whh",
+      "name": "ingress",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 939,
+      "codepoint": 58305,
+      "font": "Whh",
+      "name": "ink",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 58310,
+      "font": "Whh",
+      "name": "insertpicturecenter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 58311,
+      "font": "Whh",
+      "name": "insertpictureleft",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 58312,
+      "font": "Whh",
+      "name": "insertpictureright",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58323,
+      "font": "Whh",
+      "name": "invoice",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58325,
+      "font": "Whh",
+      "name": "iphone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58326,
+      "font": "Whh",
+      "name": "ipod",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58327,
+      "font": "Whh",
+      "name": "ironman",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58333,
+      "font": "Whh",
+      "name": "italic",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58334,
+      "font": "Whh",
+      "name": "j",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58335,
+      "font": "Whh",
+      "name": "j",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58336,
+      "font": "Whh",
+      "name": "jar",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58337,
+      "font": "Whh",
+      "name": "jason",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1603,
+      "codepoint": 58339,
+      "font": "Whh",
+      "name": "jcore",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58340,
+      "font": "Whh",
+      "name": "jcow",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58341,
+      "font": "Whh",
+      "name": "jersey",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58346,
+      "font": "Whh",
+      "name": "jqueryui",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58347,
+      "font": "Whh",
+      "name": "k",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58348,
+      "font": "Whh",
+      "name": "k",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1145,
+      "codepoint": 58349,
+      "font": "Whh",
+      "name": "kerning",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58351,
+      "font": "Whh",
+      "name": "keyboard",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1597,
+      "codepoint": 58353,
+      "font": "Whh",
+      "name": "keyboarddelete",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58354,
+      "font": "Whh",
+      "name": "keyhole",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58355,
+      "font": "Whh",
+      "name": "kidney",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58357,
+      "font": "Whh",
+      "name": "king",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58358,
+      "font": "Whh",
+      "name": "kiss",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 58359,
+      "font": "Whh",
+      "name": "kiwi",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58362,
+      "font": "Whh",
+      "name": "knight",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58364,
+      "font": "Whh",
+      "name": "koala",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 752,
+      "codepoint": 58365,
+      "font": "Whh",
+      "name": "kohana",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58366,
+      "font": "Whh",
+      "name": "l",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58367,
+      "font": "Whh",
+      "name": "l",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58368,
+      "font": "Whh",
+      "name": "lamp",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 938,
+      "codepoint": 58370,
+      "font": "Whh",
+      "name": "lan",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 58372,
+      "font": "Whh",
+      "name": "laptop",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58373,
+      "font": "Whh",
+      "name": "lasso",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 58374,
+      "font": "Whh",
+      "name": "lastfm",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58376,
+      "font": "Whh",
+      "name": "launch",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58385,
+      "font": "Whh",
+      "name": "leechprotect",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58387,
+      "font": "Whh",
+      "name": "legacyfilemanager",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 58388,
+      "font": "Whh",
+      "name": "lego",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 58389,
+      "font": "Whh",
+      "name": "lemon",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 58393,
+      "font": "Whh",
+      "name": "lifehacker",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58400,
+      "font": "Whh",
+      "name": "lighton",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58409,
+      "font": "Whh",
+      "name": "lips",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58410,
+      "font": "Whh",
+      "name": "lipstick",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58427,
+      "font": "Whh",
+      "name": "lock",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58431,
+      "font": "Whh",
+      "name": "m",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58432,
+      "font": "Whh",
+      "name": "m",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58435,
+      "font": "Whh",
+      "name": "magazine",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58436,
+      "font": "Whh",
+      "name": "magento",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58439,
+      "font": "Whh",
+      "name": "mahara",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58441,
+      "font": "Whh",
+      "name": "mailinglists",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1145,
+      "codepoint": 58443,
+      "font": "Whh",
+      "name": "mambo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1032,
+      "codepoint": 58444,
+      "font": "Whh",
+      "name": "managedhosting",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 437,
+      "codepoint": 58445,
+      "font": "Whh",
+      "name": "manalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 813,
+      "codepoint": 58446,
+      "font": "Whh",
+      "name": "manillaenvelope",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 58450,
+      "font": "Whh",
+      "name": "mapmarker",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58451,
+      "font": "Whh",
+      "name": "marker",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58452,
+      "font": "Whh",
+      "name": "markerdown",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58453,
+      "font": "Whh",
+      "name": "markerleft",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58454,
+      "font": "Whh",
+      "name": "markerright",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58455,
+      "font": "Whh",
+      "name": "markerup",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 58456,
+      "font": "Whh",
+      "name": "marvin",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 58457,
+      "font": "Whh",
+      "name": "mastercard",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58459,
+      "font": "Whh",
+      "name": "mayanpyramid",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 58466,
+      "font": "Whh",
+      "name": "men",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58471,
+      "font": "Whh",
+      "name": "mergethree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58475,
+      "font": "Whh",
+      "name": "metronome",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58476,
+      "font": "Whh",
+      "name": "mibew",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58477,
+      "font": "Whh",
+      "name": "mickeymouse",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58479,
+      "font": "Whh",
+      "name": "microphonealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58481,
+      "font": "Whh",
+      "name": "microscope",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58482,
+      "font": "Whh",
+      "name": "microsd",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58483,
+      "font": "Whh",
+      "name": "microsoftoffice",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1231,
+      "codepoint": 58484,
+      "font": "Whh",
+      "name": "microwave",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 58485,
+      "font": "Whh",
+      "name": "middlefinger",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58487,
+      "font": "Whh",
+      "name": "mimetype",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1141,
+      "codepoint": 58490,
+      "font": "Whh",
+      "name": "miniangry",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1141,
+      "codepoint": 58493,
+      "font": "Whh",
+      "name": "minigrin",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58494,
+      "font": "Whh",
+      "name": "minilaugh",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58496,
+      "font": "Whh",
+      "name": "minisad",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58497,
+      "font": "Whh",
+      "name": "minismile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58501,
+      "font": "Whh",
+      "name": "miniwink",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58502,
+      "font": "Whh",
+      "name": "minus",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58505,
+      "font": "Whh",
+      "name": "missedcall",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 58507,
+      "font": "Whh",
+      "name": "miui",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 58508,
+      "font": "Whh",
+      "name": "mobile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58512,
+      "font": "Whh",
+      "name": "moleskine",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 966,
+      "codepoint": 58514,
+      "font": "Whh",
+      "name": "moneybag",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 562,
+      "codepoint": 58515,
+      "font": "Whh",
+      "name": "mongodb",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58517,
+      "font": "Whh",
+      "name": "monstersinc",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58518,
+      "font": "Whh",
+      "name": "monstra",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 375,
+      "codepoint": 58529,
+      "font": "Whh",
+      "name": "mootools",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58530,
+      "font": "Whh",
+      "name": "mootoolsthree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58531,
+      "font": "Whh",
+      "name": "mootoolstwo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1144,
+      "codepoint": 58533,
+      "font": "Whh",
+      "name": "mountains",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 688,
+      "codepoint": 58534,
+      "font": "Whh",
+      "name": "mouse",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58535,
+      "font": "Whh",
+      "name": "mousealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58536,
+      "font": "Whh",
+      "name": "moustache",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58537,
+      "font": "Whh",
+      "name": "move",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58538,
+      "font": "Whh",
+      "name": "movieclapper",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58542,
+      "font": "Whh",
+      "name": "mug",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58543,
+      "font": "Whh",
+      "name": "multiply",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58544,
+      "font": "Whh",
+      "name": "mushroom",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58547,
+      "font": "Whh",
+      "name": "musicalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 996,
+      "codepoint": 58550,
+      "font": "Whh",
+      "name": "mute",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58555,
+      "font": "Whh",
+      "name": "mymusic",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58556,
+      "font": "Whh",
+      "name": "mypictures",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58560,
+      "font": "Whh",
+      "name": "myvideos",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58561,
+      "font": "Whh",
+      "name": "n",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58562,
+      "font": "Whh",
+      "name": "n",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58564,
+      "font": "Whh",
+      "name": "navigation",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58565,
+      "font": "Whh",
+      "name": "neofourj",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1519,
+      "codepoint": 58567,
+      "font": "Whh",
+      "name": "networksignal",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58573,
+      "font": "Whh",
+      "name": "nexus",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58575,
+      "font": "Whh",
+      "name": "ninegag",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58576,
+      "font": "Whh",
+      "name": "nintendods",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 876,
+      "codepoint": 58578,
+      "font": "Whh",
+      "name": "nodejs",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58581,
+      "font": "Whh",
+      "name": "notebook",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58582,
+      "font": "Whh",
+      "name": "notes",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58594,
+      "font": "Whh",
+      "name": "nuclearplant",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58597,
+      "font": "Whh",
+      "name": "nut",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58598,
+      "font": "Whh",
+      "name": "o",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58599,
+      "font": "Whh",
+      "name": "o",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1117,
+      "codepoint": 58600,
+      "font": "Whh",
+      "name": "observatory",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58611,
+      "font": "Whh",
+      "name": "officechair",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58620,
+      "font": "Whh",
+      "name": "openfolderalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58623,
+      "font": "Whh",
+      "name": "openshare",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1033,
+      "codepoint": 58624,
+      "font": "Whh",
+      "name": "opensource",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58627,
+      "font": "Whh",
+      "name": "orangehrm",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 58628,
+      "font": "Whh",
+      "name": "origami",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58629,
+      "font": "Whh",
+      "name": "osclass",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58630,
+      "font": "Whh",
+      "name": "oscommerce",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58636,
+      "font": "Whh",
+      "name": "p",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58637,
+      "font": "Whh",
+      "name": "p",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58640,
+      "font": "Whh",
+      "name": "pacman",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58642,
+      "font": "Whh",
+      "name": "pagebreak",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58645,
+      "font": "Whh",
+      "name": "pagesetup",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1331,
+      "codepoint": 58651,
+      "font": "Whh",
+      "name": "panorama",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1331,
+      "codepoint": 58652,
+      "font": "Whh",
+      "name": "panoramaalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58654,
+      "font": "Whh",
+      "name": "panties",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1459,
+      "codepoint": 58655,
+      "font": "Whh",
+      "name": "paperboat",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58656,
+      "font": "Whh",
+      "name": "paperclip",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 873,
+      "codepoint": 58657,
+      "font": "Whh",
+      "name": "paperclipalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 58658,
+      "font": "Whh",
+      "name": "paperclipvertical",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 874,
+      "codepoint": 58659,
+      "font": "Whh",
+      "name": "papercutter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58662,
+      "font": "Whh",
+      "name": "parkeddomain",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58663,
+      "font": "Whh",
+      "name": "parkingmeter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58664,
+      "font": "Whh",
+      "name": "parthenon",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1071,
+      "codepoint": 58666,
+      "font": "Whh",
+      "name": "passwordalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1186,
+      "codepoint": 58673,
+      "font": "Whh",
+      "name": "paw",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58674,
+      "font": "Whh",
+      "name": "pawn",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58678,
+      "font": "Whh",
+      "name": "pebble",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58690,
+      "font": "Whh",
+      "name": "phoneold",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58691,
+      "font": "Whh",
+      "name": "phonescreensize",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 873,
+      "codepoint": 58692,
+      "font": "Whh",
+      "name": "phorum",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58693,
+      "font": "Whh",
+      "name": "photobucket",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58696,
+      "font": "Whh",
+      "name": "photosphere",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58697,
+      "font": "Whh",
+      "name": "php",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 58700,
+      "font": "Whh",
+      "name": "phplist",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58701,
+      "font": "Whh",
+      "name": "phpmyfaq",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58702,
+      "font": "Whh",
+      "name": "phpnuke",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 938,
+      "codepoint": 58704,
+      "font": "Whh",
+      "name": "piano",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 58728,
+      "font": "Whh",
+      "name": "pigpent",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 58729,
+      "font": "Whh",
+      "name": "pigpenu",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58730,
+      "font": "Whh",
+      "name": "pigpenv",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58732,
+      "font": "Whh",
+      "name": "pigpenx",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 58733,
+      "font": "Whh",
+      "name": "pigpeny",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58734,
+      "font": "Whh",
+      "name": "pigpenz",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 811,
+      "codepoint": 58739,
+      "font": "Whh",
+      "name": "pinterest",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58741,
+      "font": "Whh",
+      "name": "pivotx",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 58742,
+      "font": "Whh",
+      "name": "piwigo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1071,
+      "codepoint": 58749,
+      "font": "Whh",
+      "name": "pixelchest",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58751,
+      "font": "Whh",
+      "name": "pixelelixir",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58755,
+      "font": "Whh",
+      "name": "pixelpotion",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58756,
+      "font": "Whh",
+      "name": "pixelpotionalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58757,
+      "font": "Whh",
+      "name": "pixelshield",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 58764,
+      "font": "Whh",
+      "name": "placeadd",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58765,
+      "font": "Whh",
+      "name": "placealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58766,
+      "font": "Whh",
+      "name": "placealtadd",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58767,
+      "font": "Whh",
+      "name": "placealtdelete",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 58768,
+      "font": "Whh",
+      "name": "placedelete",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58771,
+      "font": "Whh",
+      "name": "planealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 58772,
+      "font": "Whh",
+      "name": "planet",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58773,
+      "font": "Whh",
+      "name": "plantalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58775,
+      "font": "Whh",
+      "name": "play",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1231,
+      "codepoint": 58777,
+      "font": "Whh",
+      "name": "playstation",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58779,
+      "font": "Whh",
+      "name": "playvideo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58781,
+      "font": "Whh",
+      "name": "plogger",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58782,
+      "font": "Whh",
+      "name": "plug",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58784,
+      "font": "Whh",
+      "name": "pluginalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58791,
+      "font": "Whh",
+      "name": "pocket",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 752,
+      "codepoint": 58793,
+      "font": "Whh",
+      "name": "podium",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58796,
+      "font": "Whh",
+      "name": "police",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58797,
+      "font": "Whh",
+      "name": "polygonlasso",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58798,
+      "font": "Whh",
+      "name": "pommo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58801,
+      "font": "Whh",
+      "name": "popcorn",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58805,
+      "font": "Whh",
+      "name": "pound",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1153,
+      "codepoint": 58808,
+      "font": "Whh",
+      "name": "powerjack",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58809,
+      "font": "Whh",
+      "name": "powerplug",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58814,
+      "font": "Whh",
+      "name": "prestashop",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58815,
+      "font": "Whh",
+      "name": "pretzel",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58816,
+      "font": "Whh",
+      "name": "preview",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58818,
+      "font": "Whh",
+      "name": "price",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58819,
+      "font": "Whh",
+      "name": "pricealt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58821,
+      "font": "Whh",
+      "name": "profile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58824,
+      "font": "Whh",
+      "name": "projectcompare",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58825,
+      "font": "Whh",
+      "name": "projectfork",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58828,
+      "font": "Whh",
+      "name": "projectmerge",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 58829,
+      "font": "Whh",
+      "name": "projector",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58832,
+      "font": "Whh",
+      "name": "protecteddirectory",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 874,
+      "codepoint": 58835,
+      "font": "Whh",
+      "name": "psdown",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58836,
+      "font": "Whh",
+      "name": "psleft",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58837,
+      "font": "Whh",
+      "name": "pslone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58838,
+      "font": "Whh",
+      "name": "psltwo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58839,
+      "font": "Whh",
+      "name": "psright",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58840,
+      "font": "Whh",
+      "name": "psrone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58841,
+      "font": "Whh",
+      "name": "psrtwo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58844,
+      "font": "Whh",
+      "name": "psup",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 811,
+      "codepoint": 58846,
+      "font": "Whh",
+      "name": "pull",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58848,
+      "font": "Whh",
+      "name": "pullrequest",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58851,
+      "font": "Whh",
+      "name": "punisher",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 811,
+      "codepoint": 58853,
+      "font": "Whh",
+      "name": "push",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 58855,
+      "font": "Whh",
+      "name": "pushbullet",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 626,
+      "codepoint": 58856,
+      "font": "Whh",
+      "name": "pyrocms",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58858,
+      "font": "Whh",
+      "name": "q",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58859,
+      "font": "Whh",
+      "name": "q",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58861,
+      "font": "Whh",
+      "name": "quake",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58862,
+      "font": "Whh",
+      "name": "queen",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58863,
+      "font": "Whh",
+      "name": "query",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58865,
+      "font": "Whh",
+      "name": "quora",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58867,
+      "font": "Whh",
+      "name": "quotedown",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58868,
+      "font": "Whh",
+      "name": "quoteup",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58869,
+      "font": "Whh",
+      "name": "r",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58870,
+      "font": "Whh",
+      "name": "r",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 935,
+      "codepoint": 58871,
+      "font": "Whh",
+      "name": "rabbit",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58875,
+      "font": "Whh",
+      "name": "radio",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58877,
+      "font": "Whh",
+      "name": "radiobutton",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58878,
+      "font": "Whh",
+      "name": "railroad",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58879,
+      "font": "Whh",
+      "name": "railtunnel",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58880,
+      "font": "Whh",
+      "name": "rain",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58881,
+      "font": "Whh",
+      "name": "ram",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58885,
+      "font": "Whh",
+      "name": "raspberry",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 58886,
+      "font": "Whh",
+      "name": "raspberrypi",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58887,
+      "font": "Whh",
+      "name": "rawaccesslogs",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58889,
+      "font": "Whh",
+      "name": "rdio",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58895,
+      "font": "Whh",
+      "name": "recycle",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 58897,
+      "font": "Whh",
+      "name": "reddit",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 997,
+      "codepoint": 58899,
+      "font": "Whh",
+      "name": "refresh",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58900,
+      "font": "Whh",
+      "name": "refreshalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58905,
+      "font": "Whh",
+      "name": "removefolderalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58908,
+      "font": "Whh",
+      "name": "removetags",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58910,
+      "font": "Whh",
+      "name": "repeat",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 58911,
+      "font": "Whh",
+      "name": "repeatone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58912,
+      "font": "Whh",
+      "name": "report",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58915,
+      "font": "Whh",
+      "name": "resistor",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1597,
+      "codepoint": 58920,
+      "font": "Whh",
+      "name": "resizehorizontal",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58925,
+      "font": "Whh",
+      "name": "resizevertical",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58928,
+      "font": "Whh",
+      "name": "restaurantmenu",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 58931,
+      "font": "Whh",
+      "name": "retweet",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58934,
+      "font": "Whh",
+      "name": "ring",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58935,
+      "font": "Whh",
+      "name": "road",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58938,
+      "font": "Whh",
+      "name": "roadtunnel",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 58939,
+      "font": "Whh",
+      "name": "robocop",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58940,
+      "font": "Whh",
+      "name": "rook",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 749,
+      "codepoint": 58945,
+      "font": "Whh",
+      "name": "rouble",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58954,
+      "font": "Whh",
+      "name": "rubberstamp",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 58956,
+      "font": "Whh",
+      "name": "rubyalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58959,
+      "font": "Whh",
+      "name": "s",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58960,
+      "font": "Whh",
+      "name": "s",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1667,
+      "codepoint": 58962,
+      "font": "Whh",
+      "name": "safetygoggles",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 58967,
+      "font": "Whh",
+      "name": "saurus",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 58974,
+      "font": "Whh",
+      "name": "screw",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 874,
+      "codepoint": 58979,
+      "font": "Whh",
+      "name": "sd",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 58980,
+      "font": "Whh",
+      "name": "sdvideo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 58981,
+      "font": "Whh",
+      "name": "sea",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 58982,
+      "font": "Whh",
+      "name": "seaalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 58983,
+      "font": "Whh",
+      "name": "searchdocument",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 58984,
+      "font": "Whh",
+      "name": "searchfolder",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 58990,
+      "font": "Whh",
+      "name": "selectionsymbol",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 58994,
+      "font": "Whh",
+      "name": "server",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 58998,
+      "font": "Whh",
+      "name": "shapes",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 59001,
+      "font": "Whh",
+      "name": "sharedfile",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59003,
+      "font": "Whh",
+      "name": "sharethree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59004,
+      "font": "Whh",
+      "name": "sharetronix",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 59006,
+      "font": "Whh",
+      "name": "sheep",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1229,
+      "codepoint": 59007,
+      "font": "Whh",
+      "name": "shell",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59008,
+      "font": "Whh",
+      "name": "sheriff",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 59009,
+      "font": "Whh",
+      "name": "shipping",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 59013,
+      "font": "Whh",
+      "name": "shoebox",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 59014,
+      "font": "Whh",
+      "name": "shopping",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 59020,
+      "font": "Whh",
+      "name": "shredder",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59024,
+      "font": "Whh",
+      "name": "sidu",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59025,
+      "font": "Whh",
+      "name": "signal",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1003,
+      "codepoint": 59026,
+      "font": "Whh",
+      "name": "silverstripe",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59027,
+      "font": "Whh",
+      "name": "sim",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 749,
+      "codepoint": 59028,
+      "font": "Whh",
+      "name": "simalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 874,
+      "codepoint": 59029,
+      "font": "Whh",
+      "name": "simcardthree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1443,
+      "codepoint": 59030,
+      "font": "Whh",
+      "name": "simplepie",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 59031,
+      "font": "Whh",
+      "name": "sixteentonine",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 59032,
+      "font": "Whh",
+      "name": "sizzle",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 59035,
+      "font": "Whh",
+      "name": "skull",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59058,
+      "font": "Whh",
+      "name": "snow",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 813,
+      "codepoint": 59059,
+      "font": "Whh",
+      "name": "snowman",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 59061,
+      "font": "Whh",
+      "name": "sodacup",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1646,
+      "codepoint": 59068,
+      "font": "Whh",
+      "name": "soundcloud",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59073,
+      "font": "Whh",
+      "name": "spaceinvaders",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59078,
+      "font": "Whh",
+      "name": "speaker",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1381,
+      "codepoint": 59080,
+      "font": "Whh",
+      "name": "speed",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 59083,
+      "font": "Whh",
+      "name": "spider",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 815,
+      "codepoint": 59084,
+      "font": "Whh",
+      "name": "spiderman",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 59086,
+      "font": "Whh",
+      "name": "split",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59089,
+      "font": "Whh",
+      "name": "spock",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 59090,
+      "font": "Whh",
+      "name": "spoon",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 59156,
+      "font": "Whh",
+      "name": "ssh",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59157,
+      "font": "Whh",
+      "name": "sslmanager",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 733,
+      "codepoint": 59159,
+      "font": "Whh",
+      "name": "stadium",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 59165,
+      "font": "Whh",
+      "name": "steak",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 59167,
+      "font": "Whh",
+      "name": "stepbackward",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 59172,
+      "font": "Whh",
+      "name": "stiletto",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 59182,
+      "font": "Whh",
+      "name": "strawberry",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59185,
+      "font": "Whh",
+      "name": "student",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 59189,
+      "font": "Whh",
+      "name": "submarine",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59192,
+      "font": "Whh",
+      "name": "subtitles",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 59193,
+      "font": "Whh",
+      "name": "subtitlesoff",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59195,
+      "font": "Whh",
+      "name": "sum",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1392,
+      "codepoint": 59196,
+      "font": "Whh",
+      "name": "sunglasses",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59200,
+      "font": "Whh",
+      "name": "superman",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59208,
+      "font": "Whh",
+      "name": "switchoff",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59210,
+      "font": "Whh",
+      "name": "switchon",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 59218,
+      "font": "Whh",
+      "name": "systemfolder",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59219,
+      "font": "Whh",
+      "name": "t",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59220,
+      "font": "Whh",
+      "name": "t",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59221,
+      "font": "Whh",
+      "name": "tablet",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 59222,
+      "font": "Whh",
+      "name": "tabletscreensize",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59224,
+      "font": "Whh",
+      "name": "tagged",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1145,
+      "codepoint": 59225,
+      "font": "Whh",
+      "name": "tags",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 59226,
+      "font": "Whh",
+      "name": "tagvertical",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 59227,
+      "font": "Whh",
+      "name": "tallglass",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 59229,
+      "font": "Whh",
+      "name": "tank",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1011,
+      "codepoint": 59231,
+      "font": "Whh",
+      "name": "taskfreak",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 59236,
+      "font": "Whh",
+      "name": "teapot",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1010,
+      "codepoint": 59237,
+      "font": "Whh",
+      "name": "technorati",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1141,
+      "codepoint": 59239,
+      "font": "Whh",
+      "name": "teddybear",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 59241,
+      "font": "Whh",
+      "name": "temperature",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 59247,
+      "font": "Whh",
+      "name": "tetrisone",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 59248,
+      "font": "Whh",
+      "name": "tetristhree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 59249,
+      "font": "Whh",
+      "name": "tetristwo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 59250,
+      "font": "Whh",
+      "name": "textcursor",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 59251,
+      "font": "Whh",
+      "name": "textfield",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 59253,
+      "font": "Whh",
+      "name": "textlayer",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 876,
+      "codepoint": 59257,
+      "font": "Whh",
+      "name": "thermometeralt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 59258,
+      "font": "Whh",
+      "name": "theverge",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 59264,
+      "font": "Whh",
+      "name": "threed",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1231,
+      "codepoint": 59265,
+      "font": "Whh",
+      "name": "threeg",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 59266,
+      "font": "Whh",
+      "name": "threetofour",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 59267,
+      "font": "Whh",
+      "name": "ticket",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 59274,
+      "font": "Whh",
+      "name": "tint",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59279,
+      "font": "Whh",
+      "name": "tooth",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 59280,
+      "font": "Whh",
+      "name": "toothbrush",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 59283,
+      "font": "Whh",
+      "name": "torch",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1071,
+      "codepoint": 59286,
+      "font": "Whh",
+      "name": "touchpad",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59287,
+      "font": "Whh",
+      "name": "trafficlight",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 565,
+      "codepoint": 59290,
+      "font": "Whh",
+      "name": "train",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59292,
+      "font": "Whh",
+      "name": "traq",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 59296,
+      "font": "Whh",
+      "name": "treediagram",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59298,
+      "font": "Whh",
+      "name": "treethree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1067,
+      "codepoint": 59305,
+      "font": "Whh",
+      "name": "tron",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1141,
+      "codepoint": 59309,
+      "font": "Whh",
+      "name": "tshirt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 59318,
+      "font": "Whh",
+      "name": "twitter",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1231,
+      "codepoint": 59325,
+      "font": "Whh",
+      "name": "twog",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59327,
+      "font": "Whh",
+      "name": "u",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59328,
+      "font": "Whh",
+      "name": "u",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 995,
+      "codepoint": 59329,
+      "font": "Whh",
+      "name": "ubuntu",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59333,
+      "font": "Whh",
+      "name": "unlock",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 59340,
+      "font": "Whh",
+      "name": "usb",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 938,
+      "codepoint": 59341,
+      "font": "Whh",
+      "name": "usbalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59343,
+      "font": "Whh",
+      "name": "usbplug",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 59344,
+      "font": "Whh",
+      "name": "useralt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59347,
+      "font": "Whh",
+      "name": "v",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59348,
+      "font": "Whh",
+      "name": "v",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59349,
+      "font": "Whh",
+      "name": "vanillacms",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 59353,
+      "font": "Whh",
+      "name": "vendetta",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 59356,
+      "font": "Whh",
+      "name": "vial",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 59358,
+      "font": "Whh",
+      "name": "video",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 59359,
+      "font": "Whh",
+      "name": "videocamerathree",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59360,
+      "font": "Whh",
+      "name": "viking",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59362,
+      "font": "Whh",
+      "name": "vineapp",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1334,
+      "codepoint": 59367,
+      "font": "Whh",
+      "name": "visa",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1600,
+      "codepoint": 59369,
+      "font": "Whh",
+      "name": "vk",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59370,
+      "font": "Whh",
+      "name": "voice",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 59371,
+      "font": "Whh",
+      "name": "voltage",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59372,
+      "font": "Whh",
+      "name": "volumedown",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1454,
+      "codepoint": 59375,
+      "font": "Whh",
+      "name": "vtiger",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59376,
+      "font": "Whh",
+      "name": "w",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59377,
+      "font": "Whh",
+      "name": "w",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1145,
+      "codepoint": 59380,
+      "font": "Whh",
+      "name": "wallet",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59383,
+      "font": "Whh",
+      "name": "warmedal",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59384,
+      "font": "Whh",
+      "name": "warmedalalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 59385,
+      "font": "Whh",
+      "name": "warningsign",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59386,
+      "font": "Whh",
+      "name": "washer",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 59388,
+      "font": "Whh",
+      "name": "watermelon",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59389,
+      "font": "Whh",
+      "name": "webcam",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 813,
+      "codepoint": 59390,
+      "font": "Whh",
+      "name": "webcamalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 59391,
+      "font": "Whh",
+      "name": "webhostinghub",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1330,
+      "codepoint": 59392,
+      "font": "Whh",
+      "name": "webinsta",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1002,
+      "codepoint": 59395,
+      "font": "Whh",
+      "name": "webplatform",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1002,
+      "codepoint": 59399,
+      "font": "Whh",
+      "name": "weightscale",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59406,
+      "font": "Whh",
+      "name": "whistle",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 951,
+      "codepoint": 59407,
+      "font": "Whh",
+      "name": "whmcs",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59411,
+      "font": "Whh",
+      "name": "windmill",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 624,
+      "codepoint": 59412,
+      "font": "Whh",
+      "name": "windmillalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 59416,
+      "font": "Whh",
+      "name": "wine",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 59419,
+      "font": "Whh",
+      "name": "wizardalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 437,
+      "codepoint": 59421,
+      "font": "Whh",
+      "name": "womanalt",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 751,
+      "codepoint": 59422,
+      "font": "Whh",
+      "name": "women",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 59428,
+      "font": "Whh",
+      "name": "wwf",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59429,
+      "font": "Whh",
+      "name": "x",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59430,
+      "font": "Whh",
+      "name": "x",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1230,
+      "codepoint": 59431,
+      "font": "Whh",
+      "name": "xbox",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59434,
+      "font": "Whh",
+      "name": "y",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59435,
+      "font": "Whh",
+      "name": "y",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 748,
+      "codepoint": 59437,
+      "font": "Whh",
+      "name": "yelp",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59438,
+      "font": "Whh",
+      "name": "yen",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 938,
+      "codepoint": 59441,
+      "font": "Whh",
+      "name": "yiiframework",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 59442,
+      "font": "Whh",
+      "name": "yinyang",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 59443,
+      "font": "Whh",
+      "name": "youtube",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1066,
+      "codepoint": 59444,
+      "font": "Whh",
+      "name": "yui",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59445,
+      "font": "Whh",
+      "name": "z",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59446,
+      "font": "Whh",
+      "name": "z",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1145,
+      "codepoint": 59447,
+      "font": "Whh",
+      "name": "zelda",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1142,
+      "codepoint": 59449,
+      "font": "Whh",
+      "name": "zendframework",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1141,
+      "codepoint": 59450,
+      "font": "Whh",
+      "name": "zenphoto",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 59451,
+      "font": "Whh",
+      "name": "zerply",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 1143,
+      "codepoint": 59454,
+      "font": "Whh",
+      "name": "zodiacaquarius",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 59459,
+      "font": "Whh",
+      "name": "zodiacleo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 59468,
+      "font": "Whh",
+      "name": "zurmo",
+      "prefix": "whh",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57363,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "addfolderalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57365,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "address",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57372,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "adobe",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57384,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "alienship",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57387,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "aligncenter",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57389,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "alignjustify",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57390,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "alignleft",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57392,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "alignright",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57395,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "alignverticalcenter",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57399,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "analogleft",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57400,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "analogright",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57405,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "android",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57426,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "atari",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57431,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "automobile",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57463,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "basecamp",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57472,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "batterycharged",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57473,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "batterycharging",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57474,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "batteryeighty",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57475,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "batteryempty",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57476,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "batteryforty",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57477,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "batteryfull",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57478,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "batterysixty",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57479,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "batterytwenty",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57483,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "bed",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57486,
+      "contentWidth": 1455,
+      "font": "Whh",
+      "name": "behance",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57492,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "bill",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57493,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "binary",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57503,
+      "contentWidth": 1468,
+      "font": "Whh",
+      "name": "blackberry",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57520,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "boombox",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57527,
+      "contentWidth": 1669,
+      "font": "Whh",
+      "name": "bowtie",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57597,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "burstmode",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57599,
+      "contentWidth": 1473,
+      "font": "Whh",
+      "name": "busalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57601,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "businesscard",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57602,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "businesscardalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57635,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "cannon",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57638,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "capacitator",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57641,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "carbattery",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57644,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "cash",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57646,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "cassette",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57647,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "cassettealt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57657,
+      "contentWidth": 1237,
+      "font": "Whh",
+      "name": "cgi",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57659,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "chair",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57667,
+      "contentWidth": 1234,
+      "font": "Whh",
+      "name": "checkmark",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57671,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "chevrondown",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57675,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "chevronup",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57677,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "chickenalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57789,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "cloud",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57790,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "cloudalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57791,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "cloudaltdownload",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57792,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "cloudaltprivate",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57793,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "cloudaltsync",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57794,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "cloudaltupload",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57807,
+      "contentWidth": 1332,
+      "font": "Whh",
+      "name": "code",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57830,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "commit",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57838,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "connected",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57841,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "construction",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57843,
+      "contentWidth": 1669,
+      "font": "Whh",
+      "name": "controllernes",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57844,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "controllerps",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57845,
+      "contentWidth": 1668,
+      "font": "Whh",
+      "name": "controllersnes",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57849,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "coppermine",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57851,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "copyapp",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57853,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "counter",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57854,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "counteralt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57867,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "creditcard",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57872,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "crown",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57895,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "dcsource",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57906,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "deletefolderalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57915,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "diamond",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57925,
+      "contentWidth": 1598,
+      "font": "Whh",
+      "name": "diode",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57930,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "distributeverticalcenters",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57984,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "egyptpyramid",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57991,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "emailalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58015,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "envelope",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58017,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "equalizeralt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58019,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "equals",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58022,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "escalator",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58023,
+      "contentWidth": 1237,
+      "font": "Whh",
+      "name": "etano",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58040,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "eye",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58043,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "eyeopen",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58049,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "facetimevideo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58074,
+      "contentWidth": 1455,
+      "font": "Whh",
+      "name": "fedora",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58081,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "filemanager",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58093,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "fish",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58094,
+      "contentWidth": 1668,
+      "font": "Whh",
+      "name": "fishbone",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58105,
+      "contentWidth": 1669,
+      "font": "Whh",
+      "name": "flickr",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58107,
+      "contentWidth": 1669,
+      "font": "Whh",
+      "name": "flickrthree",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58112,
+      "contentWidth": 1230,
+      "font": "Whh",
+      "name": "flowdown",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58116,
+      "contentWidth": 1230,
+      "font": "Whh",
+      "name": "flowup",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58118,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "folderalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58119,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "folderopen",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58132,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "foodtray",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58138,
+      "contentWidth": 1148,
+      "font": "Whh",
+      "name": "forkcms",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58139,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "forklift",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58146,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "fourg",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58162,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "fx",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58165,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "galaxy",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58166,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "galaxyalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58170,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "garage",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58172,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "gavel",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58180,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "github",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58182,
+      "contentWidth": 1412,
+      "font": "Whh",
+      "name": "glasses",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58183,
+      "contentWidth": 1358,
+      "font": "Whh",
+      "name": "glassesalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58187,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "gmail",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58190,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "googledrive",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58214,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "gun",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58219,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "halo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58220,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "hamburger",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58227,
+      "contentWidth": 1455,
+      "font": "Whh",
+      "name": "handleft",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58229,
+      "contentWidth": 1455,
+      "font": "Whh",
+      "name": "handright",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58239,
+      "contentWidth": 1196,
+      "font": "Whh",
+      "name": "harrypotter",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58242,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "hdtv",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58243,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "hdvideo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58253,
+      "contentWidth": 1455,
+      "font": "Whh",
+      "name": "helicopter",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58254,
+      "contentWidth": 1142,
+      "font": "Whh",
+      "name": "hexagon",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58289,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "impresscms",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58300,
+      "contentWidth": 1668,
+      "font": "Whh",
+      "name": "infinity",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58301,
+      "contentWidth": 1622,
+      "font": "Whh",
+      "name": "infinityalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58339,
+      "contentWidth": 1619,
+      "font": "Whh",
+      "name": "jcore",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58340,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "jcow",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58346,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "jqueryui",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58349,
+      "contentWidth": 1150,
+      "font": "Whh",
+      "name": "kerning",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58351,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "keyboard",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58353,
+      "contentWidth": 1598,
+      "font": "Whh",
+      "name": "keyboarddelete",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58358,
+      "contentWidth": 1668,
+      "font": "Whh",
+      "name": "kiss",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58359,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "kiwi",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58372,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "laptop",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58374,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "lastfm",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58385,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "leechprotect",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58387,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "legacyfilemanager",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58388,
+      "contentWidth": 1455,
+      "font": "Whh",
+      "name": "lego",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58409,
+      "contentWidth": 1668,
+      "font": "Whh",
+      "name": "lips",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58443,
+      "contentWidth": 1151,
+      "font": "Whh",
+      "name": "mambo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58453,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "markerleft",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58454,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "markerright",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58457,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "mastercard",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58459,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "mayanpyramid",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58476,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "mibew",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58484,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "microwave",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58490,
+      "contentWidth": 1142,
+      "font": "Whh",
+      "name": "miniangry",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58493,
+      "contentWidth": 1142,
+      "font": "Whh",
+      "name": "minigrin",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58494,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "minilaugh",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58496,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "minisad",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58497,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "minismile",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58501,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "miniwink",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58502,
+      "contentWidth": 1669,
+      "font": "Whh",
+      "name": "minus",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58507,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "miui",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58517,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "monstersinc",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58531,
+      "contentWidth": 1668,
+      "font": "Whh",
+      "name": "mootoolstwo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58533,
+      "contentWidth": 1181,
+      "font": "Whh",
+      "name": "mountains",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58536,
+      "contentWidth": 1668,
+      "font": "Whh",
+      "name": "moustache",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58542,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "mug",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58555,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "mymusic",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58556,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "mypictures",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58560,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "myvideos",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58567,
+      "contentWidth": 1520,
+      "font": "Whh",
+      "name": "networksignal",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58576,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "nintendods",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58600,
+      "contentWidth": 1119,
+      "font": "Whh",
+      "name": "observatory",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58620,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "openfolderalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58623,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "openshare",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58628,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "origami",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58629,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "osclass",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58651,
+      "contentWidth": 1331,
+      "font": "Whh",
+      "name": "panorama",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58652,
+      "contentWidth": 1331,
+      "font": "Whh",
+      "name": "panoramaalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58655,
+      "contentWidth": 1469,
+      "font": "Whh",
+      "name": "paperboat",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58673,
+      "contentWidth": 1192,
+      "font": "Whh",
+      "name": "paw",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58693,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "photobucket",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58696,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "photosphere",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58697,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "php",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58700,
+      "contentWidth": 1456,
+      "font": "Whh",
+      "name": "phplist",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58702,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "phpnuke",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58742,
+      "contentWidth": 1455,
+      "font": "Whh",
+      "name": "piwigo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58772,
+      "contentWidth": 1661,
+      "font": "Whh",
+      "name": "planet",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58777,
+      "contentWidth": 1247,
+      "font": "Whh",
+      "name": "playstation",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58781,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "plogger",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58791,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "pocket",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58798,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "pommo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58808,
+      "contentWidth": 1154,
+      "font": "Whh",
+      "name": "powerjack",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58815,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "pretzel",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58829,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "projector",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58832,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "protecteddirectory",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58836,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "psleft",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58837,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "pslone",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58838,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "psltwo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58839,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "psright",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58840,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "psrone",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58841,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "psrtwo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58855,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "pushbullet",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58867,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "quotedown",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58868,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "quoteup",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58875,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "radio",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58889,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "rdio",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58905,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "removefolderalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58911,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "repeatone",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58915,
+      "contentWidth": 1669,
+      "font": "Whh",
+      "name": "resistor",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58920,
+      "contentWidth": 1598,
+      "font": "Whh",
+      "name": "resizehorizontal",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58931,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "retweet",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58956,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "rubyalt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58962,
+      "contentWidth": 1668,
+      "font": "Whh",
+      "name": "safetygoggles",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58967,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "saurus",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58980,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "sdvideo",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58984,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "searchfolder",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59003,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "sharethree",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59007,
+      "contentWidth": 1237,
+      "font": "Whh",
+      "name": "shell",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59009,
+      "contentWidth": 1233,
+      "font": "Whh",
+      "name": "shipping",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59013,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "shoebox",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59030,
+      "contentWidth": 1444,
+      "font": "Whh",
+      "name": "simplepie",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59031,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "sixteentonine",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59032,
+      "contentWidth": 1152,
+      "font": "Whh",
+      "name": "sizzle",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59068,
+      "contentWidth": 1648,
+      "font": "Whh",
+      "name": "soundcloud",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59073,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "spaceinvaders",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59080,
+      "contentWidth": 1382,
+      "font": "Whh",
+      "name": "speed",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59156,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "ssh",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59172,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "stiletto",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59182,
+      "contentWidth": 1124,
+      "font": "Whh",
+      "name": "strawberry",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59185,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "student",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59189,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "submarine",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59192,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "subtitles",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59196,
+      "contentWidth": 1412,
+      "font": "Whh",
+      "name": "sunglasses",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59200,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "superman",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59208,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "switchoff",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59210,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "switchon",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59218,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "systemfolder",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59221,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "tablet",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59222,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "tabletscreensize",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59224,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "tagged",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59225,
+      "contentWidth": 1153,
+      "font": "Whh",
+      "name": "tags",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59236,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "teapot",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59239,
+      "contentWidth": 1154,
+      "font": "Whh",
+      "name": "teddybear",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59251,
+      "contentWidth": 1455,
+      "font": "Whh",
+      "name": "textfield",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59258,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "theverge",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59265,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "threeg",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59266,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "threetofour",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59267,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "ticket",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59309,
+      "contentWidth": 1142,
+      "font": "Whh",
+      "name": "tshirt",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59318,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "twitter",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59325,
+      "contentWidth": 1232,
+      "font": "Whh",
+      "name": "twog",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59359,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "videocamerathree",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59360,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "viking",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59367,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "visa",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59369,
+      "contentWidth": 1600,
+      "font": "Whh",
+      "name": "vk",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59375,
+      "contentWidth": 1456,
+      "font": "Whh",
+      "name": "vtiger",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59380,
+      "contentWidth": 1145,
+      "font": "Whh",
+      "name": "wallet",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59385,
+      "contentWidth": 1144,
+      "font": "Whh",
+      "name": "warningsign",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59391,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "webhostinghub",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59392,
+      "contentWidth": 1350,
+      "font": "Whh",
+      "name": "webinsta",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59406,
+      "contentWidth": 1335,
+      "font": "Whh",
+      "name": "whistle",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59431,
+      "contentWidth": 1231,
+      "font": "Whh",
+      "name": "xbox",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59443,
+      "contentWidth": 1334,
+      "font": "Whh",
+      "name": "youtube",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59447,
+      "contentWidth": 1161,
+      "font": "Whh",
+      "name": "zelda",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59449,
+      "contentWidth": 1143,
+      "font": "Whh",
+      "name": "zendframework",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59450,
+      "contentWidth": 1142,
+      "font": "Whh",
+      "name": "zenphoto",
+      "prefix": "whh",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 59454,
+      "contentWidth": 1150,
+      "font": "Whh",
+      "name": "zodiacaquarius",
+      "prefix": "whh",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "whh",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Whh",
+      "glyphCount": 2125,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1668,
+        "xMin": -55,
+        "yMax": 1025,
+        "yMin": -29
+      },
+      "hhea": {
+        "advanceWidthMax": 1667,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 29
+      }
+    }
+  ]
+}

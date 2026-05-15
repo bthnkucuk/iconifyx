@@ -1,0 +1,4003 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 125,
+      "font": "FluentEmojiFlat",
+      "glyphName": "a-button-blood-type",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "a-button-blood-type",
+        "ab-button-blood-type",
+        "antenna-bars",
+        "aquarius"
+      ]
+    },
+    {
+      "codepointCount": 10,
+      "font": "FluentEmojiFlat",
+      "glyphName": "black-circle",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "black-circle",
+        "blue-circle",
+        "full-moon",
+        "green-circle"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "FluentEmojiFlat",
+      "glyphName": "confounded-face",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "confounded-face",
+        "disappointed-face",
+        "expressionless-face",
+        "face-with-spiral-eyes"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "FluentEmojiFlat",
+      "glyphName": "khanda",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "khanda",
+        "latin-cross",
+        "orthodox-cross",
+        "peace-symbol"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "backhand-index-pointing-down",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "backhand-index-pointing-down",
+        "backhand-index-pointing-down-dark",
+        "backhand-index-pointing-down-light",
+        "backhand-index-pointing-down-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "backhand-index-pointing-left",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "backhand-index-pointing-left",
+        "backhand-index-pointing-left-dark",
+        "backhand-index-pointing-left-light",
+        "backhand-index-pointing-left-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "backhand-index-pointing-right",
+        "backhand-index-pointing-right-dark",
+        "backhand-index-pointing-right-light",
+        "backhand-index-pointing-right-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "basketball",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "basketball",
+        "circled-m",
+        "coin",
+        "globe-showing-americas"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "call-me-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "call-me-hand",
+        "call-me-hand-dark",
+        "call-me-hand-light",
+        "call-me-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "crossed-fingers",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "crossed-fingers",
+        "crossed-fingers-dark",
+        "crossed-fingers-light",
+        "crossed-fingers-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "ear",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "ear",
+        "ear-dark",
+        "ear-light",
+        "ear-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "flexed-biceps",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "flexed-biceps",
+        "flexed-biceps-dark",
+        "flexed-biceps-light",
+        "flexed-biceps-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "hand-with-fingers-splayed",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "hand-with-fingers-splayed",
+        "hand-with-fingers-splayed-dark",
+        "hand-with-fingers-splayed-light",
+        "hand-with-fingers-splayed-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "hand-with-index-finger-and-thumb-crossed",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "hand-with-index-finger-and-thumb-crossed",
+        "hand-with-index-finger-and-thumb-crossed-dark",
+        "hand-with-index-finger-and-thumb-crossed-light",
+        "hand-with-index-finger-and-thumb-crossed-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "index-pointing-up",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "index-pointing-up",
+        "index-pointing-up-dark",
+        "index-pointing-up-light",
+        "index-pointing-up-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "left-facing-fist",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "left-facing-fist",
+        "left-facing-fist-dark",
+        "left-facing-fist-light",
+        "left-facing-fist-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "leftwards-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "leftwards-hand",
+        "leftwards-hand-dark",
+        "leftwards-hand-light",
+        "leftwards-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "leg",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "leg",
+        "leg-dark",
+        "leg-light",
+        "leg-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "love-you-gesture",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "love-you-gesture",
+        "love-you-gesture-dark",
+        "love-you-gesture-light",
+        "love-you-gesture-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "middle-finger",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "middle-finger",
+        "middle-finger-dark",
+        "middle-finger-light",
+        "middle-finger-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "nose",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "nose",
+        "nose-dark",
+        "nose-light",
+        "nose-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "ok-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "ok-hand",
+        "ok-hand-dark",
+        "ok-hand-light",
+        "ok-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "open-hands",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "open-hands",
+        "open-hands-dark",
+        "open-hands-light",
+        "open-hands-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "palms-up-together",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "palms-up-together",
+        "palms-up-together-dark",
+        "palms-up-together-light",
+        "palms-up-together-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "pinched-fingers",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "pinched-fingers",
+        "pinched-fingers-dark",
+        "pinched-fingers-light",
+        "pinched-fingers-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "pinching-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "pinching-hand",
+        "pinching-hand-dark",
+        "pinching-hand-light",
+        "pinching-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "raised-back-of-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "raised-back-of-hand",
+        "raised-back-of-hand-dark",
+        "raised-back-of-hand-light",
+        "raised-back-of-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "raised-fist",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "raised-fist",
+        "raised-fist-dark",
+        "raised-fist-light",
+        "raised-fist-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "rightwards-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "rightwards-hand",
+        "rightwards-hand-dark",
+        "rightwards-hand-light",
+        "rightwards-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "sign-of-the-horns",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "sign-of-the-horns",
+        "sign-of-the-horns-dark",
+        "sign-of-the-horns-light",
+        "sign-of-the-horns-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "thumbs-down",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "thumbs-down",
+        "thumbs-down-dark",
+        "thumbs-down-light",
+        "thumbs-down-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "thumbs-up",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "thumbs-up",
+        "thumbs-up-dark",
+        "thumbs-up-light",
+        "thumbs-up-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "victory-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "victory-hand",
+        "victory-hand-dark",
+        "victory-hand-light",
+        "victory-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlat",
+      "glyphName": "vulcan-salute",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "vulcan-salute",
+        "vulcan-salute-dark",
+        "vulcan-salute-light",
+        "vulcan-salute-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "backhand-index-pointing-left",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "backhand-index-pointing-left",
+        "backhand-index-pointing-left-dark",
+        "backhand-index-pointing-left-light",
+        "backhand-index-pointing-left-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "backhand-index-pointing-right",
+        "backhand-index-pointing-right-dark",
+        "backhand-index-pointing-right-light",
+        "backhand-index-pointing-right-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "call-me-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "call-me-hand",
+        "call-me-hand-dark",
+        "call-me-hand-light",
+        "call-me-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "crossed-fingers",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "crossed-fingers",
+        "crossed-fingers-dark",
+        "crossed-fingers-light",
+        "crossed-fingers-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "ear",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "ear",
+        "ear-dark",
+        "ear-light",
+        "ear-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "flexed-biceps",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "flexed-biceps",
+        "flexed-biceps-dark",
+        "flexed-biceps-light",
+        "flexed-biceps-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "hand-with-index-finger-and-thumb-crossed",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "hand-with-index-finger-and-thumb-crossed",
+        "hand-with-index-finger-and-thumb-crossed-dark",
+        "hand-with-index-finger-and-thumb-crossed-light",
+        "hand-with-index-finger-and-thumb-crossed-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "index-pointing-up",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "index-pointing-up",
+        "index-pointing-up-dark",
+        "index-pointing-up-light",
+        "index-pointing-up-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "left-facing-fist",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "left-facing-fist",
+        "left-facing-fist-dark",
+        "left-facing-fist-light",
+        "left-facing-fist-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "leg",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "leg",
+        "leg-dark",
+        "leg-light",
+        "leg-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "love-you-gesture",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "love-you-gesture",
+        "love-you-gesture-dark",
+        "love-you-gesture-light",
+        "love-you-gesture-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "middle-finger",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "middle-finger",
+        "middle-finger-dark",
+        "middle-finger-light",
+        "middle-finger-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "nose",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "nose",
+        "nose-dark",
+        "nose-light",
+        "nose-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "ok-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "ok-hand",
+        "ok-hand-dark",
+        "ok-hand-light",
+        "ok-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "open-hands",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "open-hands",
+        "open-hands-dark",
+        "open-hands-light",
+        "open-hands-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "palm-down-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "palm-down-hand",
+        "palm-down-hand-dark",
+        "palm-down-hand-light",
+        "palm-down-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "palms-up-together",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "palms-up-together",
+        "palms-up-together-dark",
+        "palms-up-together-light",
+        "palms-up-together-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "pinched-fingers",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "pinched-fingers",
+        "pinched-fingers-dark",
+        "pinched-fingers-light",
+        "pinched-fingers-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "pinching-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "pinching-hand",
+        "pinching-hand-dark",
+        "pinching-hand-light",
+        "pinching-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "raised-back-of-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "raised-back-of-hand",
+        "raised-back-of-hand-dark",
+        "raised-back-of-hand-light",
+        "raised-back-of-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "raised-fist",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "raised-fist",
+        "raised-fist-dark",
+        "raised-fist-light",
+        "raised-fist-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "rightwards-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "rightwards-hand",
+        "rightwards-hand-dark",
+        "rightwards-hand-light",
+        "rightwards-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "sign-of-the-horns",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "sign-of-the-horns",
+        "sign-of-the-horns-dark",
+        "sign-of-the-horns-light",
+        "sign-of-the-horns-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "thumbs-down",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "thumbs-down",
+        "thumbs-down-dark",
+        "thumbs-down-light",
+        "thumbs-down-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "thumbs-up",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "thumbs-up",
+        "thumbs-up-dark",
+        "thumbs-up-light",
+        "thumbs-up-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "victory-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "victory-hand",
+        "victory-hand-dark",
+        "victory-hand-light",
+        "victory-hand-medium"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "vulcan-salute",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "vulcan-salute",
+        "vulcan-salute-dark",
+        "vulcan-salute-light",
+        "vulcan-salute-medium"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "FluentEmojiFlat",
+      "glyphName": "index-pointing-at-the-viewer-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "index-pointing-at-the-viewer-dark",
+        "index-pointing-at-the-viewer-light",
+        "index-pointing-at-the-viewer-medium",
+        "index-pointing-at-the-viewer-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "FluentEmojiFlat",
+      "glyphName": "palm-down-hand-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "palm-down-hand-dark",
+        "palm-down-hand-light",
+        "palm-down-hand-medium",
+        "palm-down-hand-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "FluentEmojiFlat",
+      "glyphName": "palm-up-hand-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "palm-up-hand-dark",
+        "palm-up-hand-light",
+        "palm-up-hand-medium",
+        "palm-up-hand-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "backhand-index-pointing-down-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "backhand-index-pointing-down-dark",
+        "backhand-index-pointing-down-light",
+        "backhand-index-pointing-down-medium",
+        "backhand-index-pointing-down-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "hand-with-fingers-splayed-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "hand-with-fingers-splayed-dark",
+        "hand-with-fingers-splayed-light",
+        "hand-with-fingers-splayed-medium",
+        "hand-with-fingers-splayed-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "index-pointing-at-the-viewer-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "index-pointing-at-the-viewer-dark",
+        "index-pointing-at-the-viewer-light",
+        "index-pointing-at-the-viewer-medium",
+        "index-pointing-at-the-viewer-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "palm-up-hand-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "palm-up-hand-dark",
+        "palm-up-hand-light",
+        "palm-up-hand-medium",
+        "palm-up-hand-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "right-facing-fist-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "right-facing-fist-dark",
+        "right-facing-fist-light",
+        "right-facing-fist-medium",
+        "right-facing-fist-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "FluentEmojiFlat",
+      "glyphName": "biohazard",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "biohazard",
+        "japanese-congratulations-button",
+        "japanese-secret-button",
+        "radioactive"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "FluentEmojiFlat",
+      "glyphName": "black-large-square",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "black-large-square",
+        "blue-square",
+        "green-square",
+        "yellow-square"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "FluentEmojiFlat",
+      "glyphName": "right-facing-fist-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "right-facing-fist-dark",
+        "right-facing-fist-light",
+        "right-facing-fist-medium",
+        "right-facing-fist-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "leftwards-hand",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "leftwards-hand",
+        "leftwards-hand-light",
+        "leftwards-hand-medium-dark",
+        "leftwards-hand-medium-light"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "FluentEmojiFlat",
+      "glyphName": "black-square-button",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "black-square-button",
+        "brick",
+        "white-square-button"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "FluentEmojiFlat",
+      "glyphName": "raised-hand-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "raised-hand-dark",
+        "raised-hand-medium",
+        "raised-hand-medium-dark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlat",
+      "glyphName": "backhand-index-pointing-up",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "backhand-index-pointing-up",
+        "backhand-index-pointing-up-medium-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlat",
+      "glyphName": "green-apple",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "green-apple",
+        "red-apple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlat",
+      "glyphName": "information",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "information",
+        "play-or-pause-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlat",
+      "glyphName": "man-in-lotus-position",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "man-in-lotus-position",
+        "person-in-lotus-position"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlat",
+      "glyphName": "person-white-hair",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "person-white-hair",
+        "person-white-hair-medium-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlat",
+      "glyphName": "raised-hand-light",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "raised-hand-light",
+        "raised-hand-medium-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlat",
+      "glyphName": "woman-white-hair",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "woman-white-hair",
+        "woman-white-hair-medium-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "black-square-button",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "black-square-button",
+        "white-square-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "check-box-with-check",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "check-box-with-check",
+        "check-mark-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "full-moon",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "full-moon",
+        "new-moon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "green-apple",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "green-apple",
+        "red-apple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "japanese-hear-button",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "japanese-hear-button",
+        "japanese-here-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphName": "leftwards-hand-dark",
+      "prefix": "fluent-emoji-flat",
+      "sampleIcons": [
+        "leftwards-hand-dark",
+        "leftwards-hand-medium"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57929,
+      "icon": "triangular-flag",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 626,
+      "secondary": {
+        "xMax": 250,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57393,
+      "icon": "black-flag",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 255,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 576,
+      "secondary": {
+        "xMax": 831,
+        "xMin": 0,
+        "yMax": 892,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57662,
+      "icon": "linked-paperclips",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 421,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 519,
+      "secondary": {
+        "xMax": 940,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57658,
+      "icon": "lemon",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 442,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 510,
+      "secondary": {
+        "xMax": 952,
+        "xMin": 0,
+        "yMax": 886,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57774,
+      "icon": "pear",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 399,
+        "xMin": 0,
+        "yMax": 942,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 498,
+      "secondary": {
+        "xMax": 897,
+        "xMin": 0,
+        "yMax": 871,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57898,
+      "icon": "spoon",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 918,
+        "xMin": 0,
+        "yMax": 964,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 491,
+      "secondary": {
+        "xMax": 427,
+        "xMin": 0,
+        "yMax": 910,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57364,
+      "icon": "backhand-index-pointing-left",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 448,
+        "xMin": 0,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57365,
+      "icon": "backhand-index-pointing-left-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 448,
+        "xMin": 0,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57366,
+      "icon": "backhand-index-pointing-left-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 448,
+        "xMin": 0,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57367,
+      "icon": "backhand-index-pointing-left-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 448,
+        "xMin": 0,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57368,
+      "icon": "backhand-index-pointing-left-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 448,
+        "xMin": 0,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57369,
+      "icon": "backhand-index-pointing-left-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 448,
+        "xMin": 0,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57370,
+      "icon": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 0,
+        "xMin": -1938,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 0,
+        "xMin": -1448,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57371,
+      "icon": "backhand-index-pointing-right-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 0,
+        "xMin": -1938,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 0,
+        "xMin": -1448,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57372,
+      "icon": "backhand-index-pointing-right-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 0,
+        "xMin": -1938,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 0,
+        "xMin": -1448,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57373,
+      "icon": "backhand-index-pointing-right-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 0,
+        "xMin": -1938,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 0,
+        "xMin": -1448,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57374,
+      "icon": "backhand-index-pointing-right-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 0,
+        "xMin": -1938,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 0,
+        "xMin": -1448,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57375,
+      "icon": "backhand-index-pointing-right-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 0,
+        "xMin": -1938,
+        "yMax": 867,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 490,
+      "secondary": {
+        "xMax": 0,
+        "xMin": -1448,
+        "yMax": 560,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57699,
+      "icon": "mango",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 391,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 461,
+      "secondary": {
+        "xMax": 852,
+        "xMin": 0,
+        "yMax": 879,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57529,
+      "icon": "green-apple",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 506,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 431,
+      "secondary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57846,
+      "icon": "red-apple",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 506,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 431,
+      "secondary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57637,
+      "icon": "left-facing-fist",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 563,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 406,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57638,
+      "icon": "left-facing-fist-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 563,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 406,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57639,
+      "icon": "left-facing-fist-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 563,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 406,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57640,
+      "icon": "left-facing-fist-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 563,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 406,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57641,
+      "icon": "left-facing-fist-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 563,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 406,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57642,
+      "icon": "left-facing-fist-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 563,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 406,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57350,
+      "icon": "ant",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 534,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 404,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57954,
+      "icon": "warning",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 940,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 396,
+      "secondary": {
+        "xMax": 544,
+        "xMin": 0,
+        "yMax": 659,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57664,
+      "icon": "lizard",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 833,
+        "xMin": 0,
+        "yMax": 942,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 395,
+      "secondary": {
+        "xMax": 438,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57809,
+      "icon": "plunger",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 393,
+      "secondary": {
+        "xMax": 545,
+        "xMin": 0,
+        "yMax": 545,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57504,
+      "icon": "flexed-biceps",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 893,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 384,
+      "secondary": {
+        "xMax": 554,
+        "xMin": 0,
+        "yMax": 803,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57505,
+      "icon": "flexed-biceps-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 893,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 384,
+      "secondary": {
+        "xMax": 554,
+        "xMin": 0,
+        "yMax": 803,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57506,
+      "icon": "flexed-biceps-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 893,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 384,
+      "secondary": {
+        "xMax": 554,
+        "xMin": 0,
+        "yMax": 803,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57507,
+      "icon": "flexed-biceps-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 893,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 384,
+      "secondary": {
+        "xMax": 554,
+        "xMin": 0,
+        "yMax": 803,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57508,
+      "icon": "flexed-biceps-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 893,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 384,
+      "secondary": {
+        "xMax": 554,
+        "xMin": 0,
+        "yMax": 803,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57509,
+      "icon": "flexed-biceps-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 893,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 384,
+      "secondary": {
+        "xMax": 554,
+        "xMin": 0,
+        "yMax": 803,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57579,
+      "icon": "information",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 376,
+      "secondary": {
+        "xMax": 562,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57469,
+      "icon": "dizzy",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 373,
+      "secondary": {
+        "xMax": 566,
+        "xMin": 0,
+        "yMax": 466,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57610,
+      "icon": "keycap-1",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 354,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 761,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57776,
+      "icon": "performing-arts",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 941,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 347,
+      "secondary": {
+        "xMax": 594,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57906,
+      "icon": "tangerine",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 532,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 343,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57440,
+      "icon": "cloud-with-lightning",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 336,
+      "secondary": {
+        "xMax": 602,
+        "xMin": 0,
+        "yMax": 566,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57465,
+      "icon": "deciduous-tree",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 563,
+        "xMin": 0,
+        "yMax": 305,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 312,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57359,
+      "icon": "backhand-index-pointing-down-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 595,
+        "xMin": 0,
+        "yMax": 439,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57360,
+      "icon": "backhand-index-pointing-down-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 595,
+        "xMin": 0,
+        "yMax": 439,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57361,
+      "icon": "backhand-index-pointing-down-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 595,
+        "xMin": 0,
+        "yMax": 439,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57362,
+      "icon": "backhand-index-pointing-down-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 595,
+        "xMin": 0,
+        "yMax": 439,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57363,
+      "icon": "backhand-index-pointing-down-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 595,
+        "xMin": 0,
+        "yMax": 439,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57910,
+      "icon": "thumbs-down",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 844,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 533,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57911,
+      "icon": "thumbs-down-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 844,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 533,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57912,
+      "icon": "thumbs-down-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 844,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 533,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57913,
+      "icon": "thumbs-down-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 844,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 533,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57914,
+      "icon": "thumbs-down-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 844,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 533,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57915,
+      "icon": "thumbs-down-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 844,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 311,
+      "secondary": {
+        "xMax": 533,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57700,
+      "icon": "mans-shoe",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 501,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 310,
+      "secondary": {
+        "xMax": 628,
+        "xMin": 0,
+        "yMax": 481,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57358,
+      "icon": "backhand-index-pointing-down",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 306,
+      "secondary": {
+        "xMax": 600,
+        "xMin": 0,
+        "yMax": 441,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57407,
+      "icon": "broccoli",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 594,
+        "xMin": 0,
+        "yMax": 487,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 301,
+      "secondary": {
+        "xMax": 895,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57666,
+      "icon": "love-you-gesture",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 909,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 299,
+      "secondary": {
+        "xMax": 610,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57667,
+      "icon": "love-you-gesture-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 909,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 299,
+      "secondary": {
+        "xMax": 610,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57668,
+      "icon": "love-you-gesture-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 909,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 299,
+      "secondary": {
+        "xMax": 610,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57669,
+      "icon": "love-you-gesture-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 909,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 299,
+      "secondary": {
+        "xMax": 610,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57670,
+      "icon": "love-you-gesture-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 909,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 299,
+      "secondary": {
+        "xMax": 610,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57671,
+      "icon": "love-you-gesture-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 909,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 299,
+      "secondary": {
+        "xMax": 610,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57931,
+      "icon": "trident-emblem",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 297,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 157,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57613,
+      "icon": "keycap-3",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 285,
+      "secondary": {
+        "xMax": 653,
+        "xMin": 0,
+        "yMax": 756,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57771,
+      "icon": "pause-button",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 281,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57714,
+      "icon": "money-bag",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 866,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 280,
+      "secondary": {
+        "xMax": 586,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57429,
+      "icon": "cherry-blossom",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 908,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 273,
+      "secondary": {
+        "xMax": 669,
+        "xMin": 0,
+        "yMax": 645,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57466,
+      "icon": "diamond-with-a-dot",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 835,
+        "xMin": 0,
+        "yMax": 835,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 272,
+      "secondary": {
+        "xMax": 563,
+        "xMin": 0,
+        "yMax": 563,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57614,
+      "icon": "keycap-4",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 269,
+      "secondary": {
+        "xMax": 669,
+        "xMin": 0,
+        "yMax": 762,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57618,
+      "icon": "keycap-8",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 267,
+      "secondary": {
+        "xMax": 671,
+        "xMin": 0,
+        "yMax": 752,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57706,
+      "icon": "mens-room",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 266,
+      "secondary": {
+        "xMax": 672,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57616,
+      "icon": "keycap-6",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 263,
+      "secondary": {
+        "xMax": 675,
+        "xMin": 0,
+        "yMax": 752,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57661,
+      "icon": "link",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 679,
+        "xMin": 0,
+        "yMax": 705,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 263,
+      "secondary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 946,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57612,
+      "icon": "keycap-2",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 262,
+      "secondary": {
+        "xMax": 676,
+        "xMin": 0,
+        "yMax": 760,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57619,
+      "icon": "keycap-9",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 262,
+      "secondary": {
+        "xMax": 676,
+        "xMin": 0,
+        "yMax": 758,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57615,
+      "icon": "keycap-5",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 910,
+        "xMin": 0,
+        "yMax": 936,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 259,
+      "secondary": {
+        "xMax": 651,
+        "xMin": 0,
+        "yMax": 754,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57348,
+      "icon": "alien-monster",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 250,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 594,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57609,
+      "icon": "keycap-0",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 250,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 758,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57617,
+      "icon": "keycap-7",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 250,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57729,
+      "icon": "o-button-blood-type",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 250,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 784,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57851,
+      "icon": "reverse-button",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 250,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 748,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57982,
+      "icon": "womens-room",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 246,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57838,
+      "icon": "raised-hand-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 242,
+      "secondary": {
+        "xMax": 636,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57839,
+      "icon": "raised-hand-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 242,
+      "secondary": {
+        "xMax": 636,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57840,
+      "icon": "raised-hand-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 242,
+      "secondary": {
+        "xMax": 636,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57841,
+      "icon": "raised-hand-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 242,
+      "secondary": {
+        "xMax": 636,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57842,
+      "icon": "raised-hand-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 242,
+      "secondary": {
+        "xMax": 636,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57472,
+      "icon": "down-arrow",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 240,
+      "secondary": {
+        "xMax": 698,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57933,
+      "icon": "up-arrow",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 240,
+      "secondary": {
+        "xMax": 698,
+        "xMin": 0,
+        "yMax": 770,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57935,
+      "icon": "up-down-arrow",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 240,
+      "secondary": {
+        "xMax": 698,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57356,
+      "icon": "b-button-blood-type",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 236,
+      "secondary": {
+        "xMax": 702,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57473,
+      "icon": "down-left-arrow",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 231,
+      "secondary": {
+        "xMax": 707,
+        "xMin": 0,
+        "yMax": 738,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57476,
+      "icon": "dress",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 879,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 228,
+      "secondary": {
+        "xMax": 651,
+        "xMin": 0,
+        "yMax": 657,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57502,
+      "icon": "flat-shoe",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 712,
+        "xMin": 0,
+        "yMax": 344,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 226,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 343,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57789,
+      "icon": "pick",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 772,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 223,
+      "secondary": {
+        "xMax": 715,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57444,
+      "icon": "comet",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 910,
+        "xMin": 0,
+        "yMax": 909,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 221,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57462,
+      "icon": "currency-exchange",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 717,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 221,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57798,
+      "icon": "pinching-hand",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 913,
+        "xMin": 0,
+        "yMax": 863,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 221,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57799,
+      "icon": "pinching-hand-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 913,
+        "xMin": 0,
+        "yMax": 863,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 221,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57800,
+      "icon": "pinching-hand-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 913,
+        "xMin": 0,
+        "yMax": 863,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 221,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57801,
+      "icon": "pinching-hand-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 913,
+        "xMin": 0,
+        "yMax": 863,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 221,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57802,
+      "icon": "pinching-hand-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 913,
+        "xMin": 0,
+        "yMax": 863,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 221,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57803,
+      "icon": "pinching-hand-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 913,
+        "xMin": 0,
+        "yMax": 863,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 221,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57492,
+      "icon": "eye-in-speech-bubble",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 220,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 657,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57804,
+      "icon": "pirate-flag",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 220,
+      "secondary": {
+        "xMax": 718,
+        "xMin": 0,
+        "yMax": 721,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57445,
+      "icon": "computer-mouse",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 219,
+      "secondary": {
+        "xMax": 563,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57496,
+      "icon": "fast-reverse-button",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 219,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57621,
+      "icon": "keycap-hashtag",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 219,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 752,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57634,
+      "icon": "latin-cross",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 219,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57749,
+      "icon": "orthodox-cross",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 219,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57474,
+      "icon": "down-right-arrow",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 218,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 738,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57856,
+      "icon": "right-arrow-curving-down",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 218,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57858,
+      "icon": "right-arrow-curving-up",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 218,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 785,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57937,
+      "icon": "up-right-arrow",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 218,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57750,
+      "icon": "p-button",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 217,
+      "secondary": {
+        "xMax": 721,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57344,
+      "icon": "a-button-blood-type",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 216,
+      "secondary": {
+        "xMax": 722,
+        "xMin": 0,
+        "yMax": 760,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57431,
+      "icon": "children-crossing",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 214,
+      "secondary": {
+        "xMax": 724,
+        "xMin": 0,
+        "yMax": 683,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57434,
+      "icon": "circled-m",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 211,
+      "secondary": {
+        "xMax": 727,
+        "xMin": 0,
+        "yMax": 707,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57494,
+      "icon": "fast-down-button",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 209,
+      "secondary": {
+        "xMax": 729,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57497,
+      "icon": "fast-up-button",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 209,
+      "secondary": {
+        "xMax": 729,
+        "xMin": 0,
+        "yMax": 799,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57443,
+      "icon": "collision",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 926,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 206,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 723,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57620,
+      "icon": "keycap-asterisk",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 206,
+      "secondary": {
+        "xMax": 732,
+        "xMin": 0,
+        "yMax": 758,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57593,
+      "icon": "japanese-monthly-amount-button",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 204,
+      "secondary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57534,
+      "icon": "hand-with-fingers-splayed",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 200,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57535,
+      "icon": "hand-with-fingers-splayed-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 200,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57536,
+      "icon": "hand-with-fingers-splayed-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 200,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57537,
+      "icon": "hand-with-fingers-splayed-medium",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 200,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57538,
+      "icon": "hand-with-fingers-splayed-medium-dark",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 200,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57539,
+      "icon": "hand-with-fingers-splayed-medium-light",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 200,
+      "secondary": {
+        "xMax": 720,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57936,
+      "icon": "up-left-arrow",
+      "prefix": "fluent-emoji-flat",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FluentEmojiFlat",
+      "score": 200,
+      "secondary": {
+        "xMax": 738,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "FluentEmojiFlatSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "FluentEmojiFlat",
+      "headBbox": "-1938..979 / 0..969",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "fluent-emoji-flat",
+      "reasons": [
+        "head.xMin=-1938",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "FluentEmojiFlatSecondary",
+      "headBbox": "-1448..1000 / 0..946",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "fluent-emoji-flat",
+      "reasons": [
+        "head.xMin=-1448",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 969,
+      "codepoint": 57615,
+      "font": "FluentEmojiFlat",
+      "name": "keycap-5",
+      "prefix": "fluent-emoji-flat",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57370,
+      "contentWidth": 1938,
+      "font": "FluentEmojiFlat",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57371,
+      "contentWidth": 1938,
+      "font": "FluentEmojiFlat",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57372,
+      "contentWidth": 1938,
+      "font": "FluentEmojiFlat",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57373,
+      "contentWidth": 1938,
+      "font": "FluentEmojiFlat",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57374,
+      "contentWidth": 1938,
+      "font": "FluentEmojiFlat",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57375,
+      "contentWidth": 1938,
+      "font": "FluentEmojiFlat",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "advance": 969,
+      "codepoint": 57615,
+      "font": "FluentEmojiFlatSecondary",
+      "name": "keycap-5",
+      "prefix": "fluent-emoji-flat",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57370,
+      "contentWidth": 1448,
+      "font": "FluentEmojiFlatSecondary",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57371,
+      "contentWidth": 1448,
+      "font": "FluentEmojiFlatSecondary",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57372,
+      "contentWidth": 1448,
+      "font": "FluentEmojiFlatSecondary",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57373,
+      "contentWidth": 1448,
+      "font": "FluentEmojiFlatSecondary",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57374,
+      "contentWidth": 1448,
+      "font": "FluentEmojiFlatSecondary",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57375,
+      "contentWidth": 1448,
+      "font": "FluentEmojiFlatSecondary",
+      "name": "backhand-index-pointing-right",
+      "prefix": "fluent-emoji-flat",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "fluent-emoji-flat",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FluentEmojiFlat",
+      "glyphCount": 645,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 979,
+        "xMin": -1938,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "FluentEmojiFlatSecondary",
+      "glyphCount": 495,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": -1448,
+        "yMax": 946,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

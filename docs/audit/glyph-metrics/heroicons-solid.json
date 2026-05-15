@@ -1,0 +1,69 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "HeroiconsSolid",
+      "glyphName": "exclaimation-circle",
+      "prefix": "heroicons-solid",
+      "sampleIcons": [
+        "exclaimation-circle",
+        "exclamation-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "HeroiconsSolid",
+      "glyphName": "exclaimation-triangle",
+      "prefix": "heroicons-solid",
+      "sampleIcons": [
+        "exclaimation-triangle",
+        "exclamation-triangle"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "HeroiconsSolid",
+      "headBbox": "0..978 / 0..957",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "heroicons-solid",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "heroicons-solid",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "HeroiconsSolid",
+      "glyphCount": 389,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 978,
+        "xMin": 0,
+        "yMax": 957,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

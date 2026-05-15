@@ -1,0 +1,1690 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 19,
+      "font": "IconPark",
+      "glyphName": "checkbox",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "checkbox",
+        "direction",
+        "extend",
+        "facetime"
+      ]
+    },
+    {
+      "codepointCount": 10,
+      "font": "IconPark",
+      "glyphName": "black-eight",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "black-eight",
+        "contrast",
+        "crown-two",
+        "financing"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "IconPark",
+      "glyphName": "folder-focus",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "folder-focus",
+        "folder-protection",
+        "folder-quality"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "IconPark",
+      "glyphName": "radio-two",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "radio-two",
+        "red-cross",
+        "round"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "IconParkSecondary",
+      "glyphName": "preview-open",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "preview-open",
+        "setting",
+        "setting-one"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconPark",
+      "glyphName": "emotion-happy",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "emotion-happy",
+        "slightly-smiling-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconPark",
+      "glyphName": "emotion-unhappy",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "emotion-unhappy",
+        "worried-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconPark",
+      "glyphName": "material",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "material",
+        "material-two"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconPark",
+      "glyphName": "projector",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "projector",
+        "projector-three"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconPark",
+      "glyphName": "shopping-cart",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "shopping-cart",
+        "shopping-cart-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkSecondary",
+      "glyphName": "inclusive-gateway",
+      "prefix": "icon-park",
+      "sampleIcons": [
+        "inclusive-gateway",
+        "radio-two"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "secondary-empty",
+      "codepoint": 59648,
+      "icon": "switch-button",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57587,
+      "icon": "bird",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 962,
+        "xMin": 0,
+        "yMax": 809,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 628,
+      "secondary": {
+        "xMax": 334,
+        "xMin": 0,
+        "yMax": 627,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57951,
+      "icon": "damage-map",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 626,
+      "secondary": {
+        "xMax": 312,
+        "xMin": 0,
+        "yMax": 669,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58065,
+      "icon": "dolphin",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 962,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 583,
+      "secondary": {
+        "xMax": 379,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59890,
+      "icon": "video-one",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 543,
+      "secondary": {
+        "xMax": 416,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57888,
+      "icon": "contrast",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 510,
+      "secondary": {
+        "xMax": 459,
+        "xMin": 0,
+        "yMax": 704,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59667,
+      "icon": "tag-one",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 944,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 506,
+      "secondary": {
+        "xMax": 438,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59462,
+      "icon": "server",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 499,
+      "secondary": {
+        "xMax": 459,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58111,
+      "icon": "eagle",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 928,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 439,
+      "secondary": {
+        "xMax": 521,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59945,
+      "icon": "webcam",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 438,
+      "secondary": {
+        "xMax": 563,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57926,
+      "icon": "crown",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 418,
+      "secondary": {
+        "xMax": 541,
+        "xMin": 0,
+        "yMax": 437,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58957,
+      "icon": "more-three",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 415,
+      "secondary": {
+        "xMax": 554,
+        "xMin": 0,
+        "yMax": 761,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58716,
+      "icon": "keyhole",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 408,
+      "secondary": {
+        "xMax": 561,
+        "xMin": 0,
+        "yMax": 645,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58993,
+      "icon": "mute",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 407,
+      "secondary": {
+        "xMax": 562,
+        "xMin": 0,
+        "yMax": 651,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58488,
+      "icon": "gps",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 404,
+      "secondary": {
+        "xMax": 565,
+        "xMin": 0,
+        "yMax": 595,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59237,
+      "icon": "preview-open",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 961,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 400,
+      "secondary": {
+        "xMax": 561,
+        "xMin": 0,
+        "yMax": 562,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59468,
+      "icon": "setting-one",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 961,
+        "xMin": 0,
+        "yMax": 895,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 400,
+      "secondary": {
+        "xMax": 561,
+        "xMin": 0,
+        "yMax": 562,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59464,
+      "icon": "setting",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 398,
+      "secondary": {
+        "xMax": 561,
+        "xMin": 0,
+        "yMax": 562,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59271,
+      "icon": "radiation",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 566,
+        "xMin": 0,
+        "yMax": 562,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 394,
+      "secondary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59200,
+      "icon": "play",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 387,
+      "secondary": {
+        "xMax": 582,
+        "xMin": 0,
+        "yMax": 572,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59993,
+      "icon": "youtobe",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 839,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 386,
+      "secondary": {
+        "xMax": 572,
+        "xMin": 0,
+        "yMax": 566,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57590,
+      "icon": "black-eight",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 383,
+      "secondary": {
+        "xMax": 586,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59994,
+      "icon": "youtube",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 943,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 383,
+      "secondary": {
+        "xMax": 560,
+        "xMin": 0,
+        "yMax": 557,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59990,
+      "icon": "xingfuli",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 382,
+      "secondary": {
+        "xMax": 534,
+        "xMin": 0,
+        "yMax": 672,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58313,
+      "icon": "financing",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 379,
+      "secondary": {
+        "xMax": 590,
+        "xMin": 0,
+        "yMax": 589,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58368,
+      "icon": "folder-focus",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 378,
+      "secondary": {
+        "xMax": 561,
+        "xMin": 0,
+        "yMax": 482,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58208,
+      "icon": "eyebrow",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 918,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 376,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 417,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59080,
+      "icon": "painted-eggshell",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 376,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 466,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58538,
+      "icon": "handle-left",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 374,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 607,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57875,
+      "icon": "config",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 372,
+      "secondary": {
+        "xMax": 586,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59996,
+      "icon": "zijinyunying",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 979,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 368,
+      "secondary": {
+        "xMax": 611,
+        "xMin": 0,
+        "yMax": 609,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58155,
+      "icon": "endocrine",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 960,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 367,
+      "secondary": {
+        "xMax": 511,
+        "xMin": 0,
+        "yMax": 416,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58378,
+      "icon": "folder-protection",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 357,
+      "secondary": {
+        "xMax": 582,
+        "xMin": 0,
+        "yMax": 541,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59199,
+      "icon": "platte",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 961,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 357,
+      "secondary": {
+        "xMax": 604,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59470,
+      "icon": "setting-two",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 944,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 355,
+      "secondary": {
+        "xMax": 603,
+        "xMin": 0,
+        "yMax": 604,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58539,
+      "icon": "handle-right",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 350,
+      "secondary": {
+        "xMax": 566,
+        "xMin": 0,
+        "yMax": 608,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58380,
+      "icon": "folder-quality",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 347,
+      "secondary": {
+        "xMax": 592,
+        "xMin": 0,
+        "yMax": 520,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58647,
+      "icon": "inclusive-gateway",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 971,
+        "xMin": 0,
+        "yMax": 970,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 347,
+      "secondary": {
+        "xMax": 624,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59275,
+      "icon": "radio-two",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 345,
+      "secondary": {
+        "xMax": 624,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59205,
+      "icon": "play-two",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 334,
+      "secondary": {
+        "xMax": 582,
+        "xMin": 0,
+        "yMax": 591,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57695,
+      "icon": "camera",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 333,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 562,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57952,
+      "icon": "dark-mode",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 962,
+        "xMin": 0,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 333,
+      "secondary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 578,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58243,
+      "icon": "figma",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 332,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 646,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57582,
+      "icon": "bib",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 960,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 329,
+      "secondary": {
+        "xMax": 546,
+        "xMin": 0,
+        "yMax": 379,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59900,
+      "icon": "vigo",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 903,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 316,
+      "secondary": {
+        "xMax": 587,
+        "xMin": 0,
+        "yMax": 504,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58537,
+      "icon": "handle-down",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 308,
+      "secondary": {
+        "xMax": 608,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58543,
+      "icon": "handle-up",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 308,
+      "secondary": {
+        "xMax": 608,
+        "xMin": 0,
+        "yMax": 565,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59989,
+      "icon": "xigua",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 933,
+        "xMin": 0,
+        "yMax": 920,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 302,
+      "secondary": {
+        "xMax": 631,
+        "xMin": 0,
+        "yMax": 615,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59597,
+      "icon": "stamp",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 940,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 294,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 645,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57750,
+      "icon": "checkbox",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 291,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59576,
+      "icon": "speaker",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 289,
+      "secondary": {
+        "xMax": 586,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57928,
+      "icon": "crown-two",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 282,
+      "secondary": {
+        "xMax": 687,
+        "xMin": 0,
+        "yMax": 615,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59525,
+      "icon": "sketch",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 281,
+      "secondary": {
+        "xMax": 635,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58818,
+      "icon": "local-two",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 866,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 280,
+      "secondary": {
+        "xMax": 586,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59302,
+      "icon": "red-cross",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 260,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57511,
+      "icon": "avocado",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 838,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 254,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 492,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57849,
+      "icon": "collection-files",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 253,
+      "secondary": {
+        "xMax": 622,
+        "xMin": 0,
+        "yMax": 585,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58231,
+      "icon": "factory-building",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 250,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 375,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59168,
+      "icon": "phone-two",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 249,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58916,
+      "icon": "messages-one",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 241,
+      "secondary": {
+        "xMax": 675,
+        "xMin": 0,
+        "yMax": 670,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59918,
+      "icon": "vr-glasses",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 232,
+      "secondary": {
+        "xMax": 770,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58227,
+      "icon": "facetime",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 229,
+      "secondary": {
+        "xMax": 687,
+        "xMin": 0,
+        "yMax": 562,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59807,
+      "icon": "tumblr",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 229,
+      "secondary": {
+        "xMax": 687,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59895,
+      "icon": "view-grid-card",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 229,
+      "secondary": {
+        "xMax": 687,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57461,
+      "icon": "apple",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 658,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 224,
+      "secondary": {
+        "xMax": 882,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59189,
+      "icon": "pill",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 945,
+        "xMin": 0,
+        "yMax": 947,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 211,
+      "secondary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 736,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58450,
+      "icon": "gavel",
+      "prefix": "icon-park",
+      "primary": {
+        "xMax": 712,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "IconPark",
+      "score": 204,
+      "secondary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 689,
+        "yMin": 0
+      },
+      "secondaryFont": "IconParkSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "IconPark",
+      "headBbox": "-9..1008 / -8..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 8,
+      "prefix": "icon-park",
+      "reasons": [
+        "head.xMin=-9",
+        "head.xMax=1008",
+        "head.yMin=-8",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=8"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "IconParkSecondary",
+      "headBbox": "0..1000 / 0..985",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "icon-park",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1020,
+      "codepoint": 57628,
+      "font": "IconPark",
+      "name": "bottom-bar-one",
+      "prefix": "icon-park",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57632,
+      "font": "IconPark",
+      "name": "bowling",
+      "prefix": "icon-park",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57936,
+      "font": "IconPark",
+      "name": "cup",
+      "prefix": "icon-park",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57955,
+      "font": "IconPark",
+      "name": "dashboard-one",
+      "prefix": "icon-park",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 58037,
+      "font": "IconPark",
+      "name": "disk-one",
+      "prefix": "icon-park",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 58067,
+      "font": "IconPark",
+      "name": "dome-light",
+      "prefix": "icon-park",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 58709,
+      "font": "IconPark",
+      "name": "kettle",
+      "prefix": "icon-park",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 59613,
+      "font": "IconPark",
+      "name": "storage-card-one",
+      "prefix": "icon-park",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 59925,
+      "font": "IconPark",
+      "name": "washing-machine",
+      "prefix": "icon-park",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "icon-park",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "IconPark",
+      "glyphCount": 2658,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1008,
+        "xMin": -9,
+        "yMax": 1006,
+        "yMin": -8
+      },
+      "hhea": {
+        "advanceWidthMax": 1020,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 8
+      }
+    },
+    {
+      "error": null,
+      "font": "IconParkSecondary",
+      "glyphCount": 80,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 985,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

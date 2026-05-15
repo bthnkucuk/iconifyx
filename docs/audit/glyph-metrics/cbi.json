@@ -1,0 +1,862 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Cbi",
+      "glyphName": "twinkly-curtain",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "twinkly-curtain",
+        "twinkly-curtian",
+        "twinly-curtian"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bridges-v1",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bridges-v1",
+        "bridgesv1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bridges-v2",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bridges-v2",
+        "bridgesv2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bulb-candle",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bulb-candle",
+        "bulbcandle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bulb-flood",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bulb-flood",
+        "bulbflood"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bulb-foh",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bulb-foh",
+        "bulbfoh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bulb-general-group",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bulb-general-group",
+        "bulbgeneralgroup"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bulb-group",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bulb-group",
+        "bulbgroup"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bulbs-classic",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bulbs-classic",
+        "bulbsclassic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bulbs-filament",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bulbs-filament",
+        "bulbsfilament"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bulbs-spot",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bulbs-spot",
+        "bulbsspot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "bulbs-sultan",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "bulbs-sultan",
+        "bulbssultan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "ceiling-round",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "ceiling-round",
+        "ceilinground"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "ceiling-square",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "ceiling-square",
+        "ceilingsquare"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "creston-swirl",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "creston-swirl",
+        "crestron-swirl"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "desk-lamp",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "desk-lamp",
+        "desklamp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "dimmer-switch",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "dimmer-switch",
+        "dimmerswitch"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "double-spot",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "double-spot",
+        "doublespot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "floor-lantern",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "floor-lantern",
+        "floorlantern"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "floor-shade",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "floor-shade",
+        "floorshade"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "floor-spot",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "floor-spot",
+        "floorspot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "friends-of-hue",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "friends-of-hue",
+        "friendsofhue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "ikea-pilskott",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "ikea-pilskott",
+        "ikea-piskott"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "lift-out-window-close",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "lift-out-window-close",
+        "lift-out-window-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "light-strip",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "light-strip",
+        "lightstrip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "motion-sensor",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "motion-sensor",
+        "motionsensor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "pendant-long",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "pendant-long",
+        "pendantlong"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "pendant-round",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "pendant-round",
+        "pendantround"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "recessed-floor",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "recessed-floor",
+        "recessedfloor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "romain-letttace",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "romain-letttace",
+        "romaine-lettuce"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-attic",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-attic",
+        "roomsattic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-balcony",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-balcony",
+        "roomsbalcony"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-bathroom",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-bathroom",
+        "roomsbathroom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-bedroom",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-bedroom",
+        "roomsbedroom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-carport",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-carport",
+        "roomscarport"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-closet",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-closet",
+        "roomscloset"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-computer",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-computer",
+        "roomscomputer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-dining",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-dining",
+        "roomsdining"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-driveway",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-driveway",
+        "roomsdriveway"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-front-door",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-front-door",
+        "roomsfrontdoor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-garage",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-garage",
+        "roomsgarage"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-guest-room",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-guest-room",
+        "roomsguestroom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-gym",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-gym",
+        "roomsgym"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-hallway",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-hallway",
+        "roomshallway"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-kids-bedroom",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-kids-bedroom",
+        "roomskidsbedroom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-kitchen",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-kitchen",
+        "roomskitchen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-laundry-room",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-laundry-room",
+        "roomslaundryroom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-living",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-living",
+        "roomsliving"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-lounge",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-lounge",
+        "roomslounge"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-mancave",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-mancave",
+        "roomsmancave"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-nursery",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-nursery",
+        "roomsnursery"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-office",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-office",
+        "roomsoffice"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-other",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-other",
+        "roomsother"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-outdoor",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-outdoor",
+        "roomsoutdoor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-outdoor-social-time",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-outdoor-social-time",
+        "roomsoutdoorsocialtime"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-pool",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-pool",
+        "roomspool"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-recreation",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-recreation",
+        "roomsrecreation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-staircase",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-staircase",
+        "roomsstaircase"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-storage",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-storage",
+        "roomsstorage"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-studio",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-studio",
+        "roomsstudio"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-terrace",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-terrace",
+        "roomsterrace"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "rooms-toilet",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "rooms-toilet",
+        "roomstoilet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "single-spot",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "single-spot",
+        "singlespot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "slling",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "slling",
+        "slling-tv"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "spotbear-bal-v2",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "spotbear-bal-v2",
+        "spotpear-bal-v2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "spotbear-ball-v1",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "spotbear-ball-v1",
+        "spotpear-ball-v1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "spotbear-cube",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "spotbear-cube",
+        "spotpear-cube"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "spotbear-custom-speaker",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "spotbear-custom-speaker",
+        "spotpear-custom-speaker"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "spotbear-round-n16r8",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "spotbear-round-n16r8",
+        "spotpear-round-n16r8"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "spotbear-round-speaker-n16r8",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "spotbear-round-speaker-n16r8",
+        "spotpear-round-speaker-n16r8"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "table-shade",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "table-shade",
+        "tableshade"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "table-wash",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "table-wash",
+        "tablewash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "telenet",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "telenet",
+        "telnet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "telenet-box",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "telenet-box",
+        "telnet-box"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "twinkly",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "twinkly",
+        "twinly"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "twinkly-c9",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "twinkly-c9",
+        "twinly-c9"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "twinkly-candies-candles",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "twinkly-candies-candles",
+        "twinly-candies-candles"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "twinkly-candies-hearts",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "twinkly-candies-hearts",
+        "twinly-candies-hearts"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "wall-lantern",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "wall-lantern",
+        "walllantern"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "wall-shade",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "wall-shade",
+        "wallshade"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cbi",
+      "glyphName": "wall-spot",
+      "prefix": "cbi",
+      "sampleIcons": [
+        "wall-spot",
+        "wallspot"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Cbi",
+      "headBbox": "-153..934 / 0..1266",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1266,
+      "os2WinDesc": 0,
+      "prefix": "cbi",
+      "reasons": [
+        "head.xMin=-153",
+        "head.yMax=1266",
+        "OS/2.winAsc=1266"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "cbi",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Cbi",
+      "glyphCount": 1602,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 934,
+        "xMin": -153,
+        "yMax": 1266,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1266,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

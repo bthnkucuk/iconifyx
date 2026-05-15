@@ -1,0 +1,64 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Map",
+      "glyphName": "postal-code",
+      "prefix": "map",
+      "sampleIcons": [
+        "postal-code",
+        "postal-code-prefix"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Map",
+      "headBbox": "-6..1002 / -5..1010",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 5,
+      "prefix": "map",
+      "reasons": [
+        "head.xMin=-6",
+        "head.xMax=1002",
+        "head.yMin=-5",
+        "head.yMax=1010",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=5"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "map",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Map",
+      "glyphCount": 165,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1002,
+        "xMin": -6,
+        "yMax": 1010,
+        "yMin": -5
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 5
+      }
+    }
+  ]
+}

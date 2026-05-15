@@ -1,0 +1,3079 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 18,
+      "font": "LetsIconsSecondary",
+      "glyphName": "add-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "add-duotone",
+        "add-ring-duotone",
+        "add-round-duotone",
+        "check-ring-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 11,
+      "font": "LetsIconsSecondary",
+      "glyphName": "check-ring-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "check-ring-duotone",
+        "check-ring-round-duotone",
+        "done-duotone",
+        "done-ring-round-duotone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "LetsIconsSecondary",
+      "glyphName": "add-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "add-duotone-line",
+        "add-ring-duotone-line",
+        "add-round-duotone-line",
+        "close-round-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "LetsIconsSecondary",
+      "glyphName": "folder-add-duotone-fill",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "folder-add-duotone-fill",
+        "folder-check-duotone",
+        "folder-del-duotone-fill",
+        "folder-search-duotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "LetsIcons",
+      "glyphName": "gps-fixed-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "gps-fixed-duotone",
+        "setting-alt-line-duotone",
+        "setting-line-duotone",
+        "target-duotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LetsIcons",
+      "glyphName": "folder-add-fill",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "folder-add-fill",
+        "folder-check-fill",
+        "folder-del-fill",
+        "folder-search-fill"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LetsIconsSecondary",
+      "glyphName": "chat-alt-2-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "chat-alt-2-duotone",
+        "chat-alt-2-duotone-line",
+        "chat-alt-3-duotone",
+        "chat-alt-3-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LetsIconsSecondary",
+      "glyphName": "chat-alt-add-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "chat-alt-add-duotone",
+        "chat-alt-duotone",
+        "chat-plus-duotone",
+        "chat-search-duotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LetsIcons",
+      "glyphName": "sign-in-circle-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "sign-in-circle-duotone",
+        "sign-in-squre-duotone",
+        "sign-in-squre-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LetsIconsSecondary",
+      "glyphName": "insta-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "insta-duotone",
+        "key-alt-duotone",
+        "user-box-duotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LetsIconsSecondary",
+      "glyphName": "lightning-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "lightning-alt-duotone",
+        "lightning-duotone",
+        "lightning-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LetsIconsSecondary",
+      "glyphName": "sound-max-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "sound-max-duotone",
+        "sound-min-duotone",
+        "sound-mute-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "add-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "add-duotone",
+        "add-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "add-ring-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "add-ring-duotone",
+        "add-ring-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "add-round-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "add-round-duotone",
+        "add-round-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "add-square-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "add-square-duotone",
+        "add-square-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "arhive-alt-big-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "arhive-alt-big-duotone-line",
+        "arhive-alt-big-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "arhive-alt-small-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "arhive-alt-small-duotone-line",
+        "arhive-alt-small-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "bag-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "bag-alt-duotone",
+        "bag-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "bell-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "bell-duotone-line",
+        "ring-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "bookmark-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "bookmark-duotone",
+        "bookmark-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "broken-heart-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "broken-heart-duotone",
+        "broken-heart-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "chart-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "chart-duotone",
+        "chart-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "chat-alt-2-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "chat-alt-2-duotone",
+        "comment-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "chat-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "chat-alt-duotone",
+        "chat-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "clock-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "clock-duotone",
+        "clock-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "close-ring-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "close-ring-duotone",
+        "close-ring-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "close-round-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "close-round-duotone",
+        "close-round-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "close-square-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "close-square-duotone",
+        "close-square-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "dell-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "dell-duotone",
+        "dell-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "done-all-round-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "done-all-round-duotone",
+        "done-all-round-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "download-circle-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "download-circle-duotone",
+        "download-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "favorite-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "favorite-duotone",
+        "favorite-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "filter-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "filter-alt-duotone",
+        "filter-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "fire-duotone-fill",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "fire-duotone-fill",
+        "fire-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "flag-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "flag-alt-duotone",
+        "flag-alt-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "flag-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "flag-duotone",
+        "flag-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "flag-finish-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "flag-finish-duotone",
+        "flag-finish-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "hide-eye-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "hide-eye-duotone",
+        "hide-eye-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "img-rol-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "img-rol-duotone-line",
+        "img-rol-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "info-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "info-alt-duotone",
+        "info-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "key-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "key-alt-duotone",
+        "key-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "lightning-alt-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "lightning-alt-duotone-line",
+        "lightning-alt-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "lightning-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "lightning-duotone",
+        "lightning-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "lightning-ring-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "lightning-ring-duotone",
+        "lightning-ring-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "lock-alt-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "lock-alt-duotone-line",
+        "lock-alt-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "news-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "news-duotone",
+        "news-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "nfc-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "nfc-duotone",
+        "nfc-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "pipe-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "pipe-duotone",
+        "pipe-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "play-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "play-duotone",
+        "play-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "print-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "print-duotone-line",
+        "print-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "question-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "question-duotone",
+        "question-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "road-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "road-alt-duotone",
+        "road-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "sign-out-circle-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "sign-out-circle-duotone",
+        "sign-out-squre-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "sound-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "sound-duotone",
+        "sound-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "star-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "star-duotone",
+        "star-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "user-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "user-alt-duotone",
+        "user-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "video-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "video-duotone",
+        "video-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "view-alt-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "view-alt-duotone-line",
+        "view-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "world-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "world-alt-duotone",
+        "world-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIcons",
+      "glyphName": "world-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "world-duotone",
+        "world-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "alarmclock-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "alarmclock-duotone",
+        "tumer-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "arhive-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "arhive-duotone-line",
+        "arhive-load-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "basket-alt-2-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "basket-alt-2-duotone-line",
+        "basket-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "battery-full-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "battery-full-duotone",
+        "battery-low-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "battery-full-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "battery-full-duotone-line",
+        "battery-low-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "book-check-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "book-check-duotone",
+        "book-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "book-check-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "book-check-duotone-line",
+        "book-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "box-alt-fill-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "box-alt-fill-duotone",
+        "box-fill-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "calendar-add-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "calendar-add-duotone",
+        "calendar-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "cancel-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "cancel-duotone-line",
+        "remove-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "chart-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "chart-alt-duotone",
+        "chart-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "chart-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "chart-duotone",
+        "chart-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "chat-alt-add-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "chat-alt-add-duotone-line",
+        "chat-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "chield-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "chield-alt-duotone",
+        "chield-check-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "credit-card-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "credit-card-duotone",
+        "money-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "critical-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "critical-duotone",
+        "critical-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "direction-alt-2-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "direction-alt-2-duotone",
+        "direction-alt-3-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "direction-alt-2-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "direction-alt-2-duotone-line",
+        "direction-alt-3-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "direction-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "direction-alt-duotone",
+        "direction-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "direction-alt-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "direction-alt-duotone-line",
+        "direction-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "done-all-round-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "done-all-round-duotone",
+        "done-all-round-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "done-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "done-duotone-line",
+        "done-round-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "download-circle-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "download-circle-duotone",
+        "load-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "download-circle-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "download-circle-duotone-line",
+        "load-circle-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "export-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "export-duotone",
+        "import-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "export-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "export-duotone-line",
+        "import-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "file-dock-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "file-dock-duotone",
+        "file-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "file-dock-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "file-dock-duotone-line",
+        "file-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "filter-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "filter-alt-duotone",
+        "filter-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "folder-add-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "folder-add-duotone-line",
+        "folder-del-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "folders-line-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "folders-line-duotone",
+        "folders-line-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "gps-fixed-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "gps-fixed-duotone-line",
+        "target-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "hide-eye-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "hide-eye-duotone",
+        "hide-eye-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "home-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "home-duotone-line",
+        "shop-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "info-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "info-duotone-line",
+        "progress-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "lightning-ring-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "lightning-ring-duotone",
+        "lightning-ring-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "lock-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "lock-alt-duotone",
+        "lock-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "lock-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "lock-duotone",
+        "unlock-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "message-alt-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "message-alt-duotone",
+        "message-alt-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "news-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "news-duotone",
+        "news-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "nfc-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "nfc-duotone",
+        "nfc-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "phone-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "phone-duotone",
+        "phone-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "pipe-duotone",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "pipe-duotone",
+        "pipe-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "search-alt-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "search-alt-duotone-line",
+        "search-duotone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LetsIconsSecondary",
+      "glyphName": "user-add-duotone-line",
+      "prefix": "lets-icons",
+      "sampleIcons": [
+        "user-add-duotone-line",
+        "user-duotone-line"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58610,
+      "icon": "sound-max-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 948,
+        "xMin": 0,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 490,
+      "secondary": {
+        "xMax": 458,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58032,
+      "icon": "folder-send-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 435,
+        "xMin": 0,
+        "yMax": 414,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 465,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58618,
+      "icon": "sound-mute-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 903,
+        "xMin": 0,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 445,
+      "secondary": {
+        "xMax": 458,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58339,
+      "icon": "nfc-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 487,
+        "xMin": 0,
+        "yMax": 694,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 413,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 879,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58340,
+      "icon": "nfc-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 487,
+        "xMin": 0,
+        "yMax": 694,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 413,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 879,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57985,
+      "icon": "folder-check-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 497,
+        "xMin": 0,
+        "yMax": 434,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 403,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58541,
+      "icon": "send-hor-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 374,
+        "xMin": 0,
+        "yMax": 651,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 402,
+      "secondary": {
+        "xMax": 776,
+        "xMin": 0,
+        "yMax": 700,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58584,
+      "icon": "sign-out-squre-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 526,
+        "xMin": 0,
+        "yMax": 724,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 390,
+      "secondary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 895,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57537,
+      "icon": "book-open-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 376,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58645,
+      "icon": "stop-and-play-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 859,
+        "xMin": 0,
+        "yMax": 734,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 361,
+      "secondary": {
+        "xMax": 498,
+        "xMin": 0,
+        "yMax": 697,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58781,
+      "icon": "user-add-alt-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 860,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 357,
+      "secondary": {
+        "xMax": 585,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58427,
+      "icon": "pointers-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 864,
+        "xMin": 0,
+        "yMax": 833,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 343,
+      "secondary": {
+        "xMax": 521,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58414,
+      "icon": "pipe-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 497,
+        "xMin": 0,
+        "yMax": 899,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 342,
+      "secondary": {
+        "xMax": 839,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58415,
+      "icon": "pipe-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 497,
+        "xMin": 0,
+        "yMax": 899,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 342,
+      "secondary": {
+        "xMax": 839,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58043,
+      "icon": "folders-line-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 814,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 334,
+      "secondary": {
+        "xMax": 480,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58003,
+      "icon": "folder-duotone-fill",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 333,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58579,
+      "icon": "sign-out-circle-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 607,
+        "xMin": 0,
+        "yMax": 627,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 315,
+      "secondary": {
+        "xMax": 922,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58707,
+      "icon": "ticket-use-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 563,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 313,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58044,
+      "icon": "folders-line-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 312,
+      "secondary": {
+        "xMax": 480,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58158,
+      "icon": "info-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 564,
+        "xMin": 0,
+        "yMax": 755,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 311,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57405,
+      "icon": "arhive-fill-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 501,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 294,
+      "secondary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58155,
+      "icon": "info-alt-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 562,
+        "xMin": 0,
+        "yMax": 670,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 293,
+      "secondary": {
+        "xMax": 855,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57643,
+      "icon": "chat-plus-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 942,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 291,
+      "secondary": {
+        "xMax": 651,
+        "xMin": 0,
+        "yMax": 609,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57835,
+      "icon": "done-all-round-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 944,
+        "xMin": 0,
+        "yMax": 778,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 290,
+      "secondary": {
+        "xMax": 654,
+        "xMin": 0,
+        "yMax": 775,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57836,
+      "icon": "done-all-round-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 944,
+        "xMin": 0,
+        "yMax": 778,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 290,
+      "secondary": {
+        "xMax": 654,
+        "xMin": 0,
+        "yMax": 775,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58559,
+      "icon": "setting-line-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 287,
+      "secondary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58614,
+      "icon": "sound-min-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 737,
+        "xMin": 0,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 279,
+      "secondary": {
+        "xMax": 458,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58036,
+      "icon": "folder-up-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 599,
+        "xMin": 0,
+        "yMax": 539,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 276,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58785,
+      "icon": "user-add-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 860,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 274,
+      "secondary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57989,
+      "icon": "folder-copy-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 940,
+        "xMin": 0,
+        "yMax": 895,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 272,
+      "secondary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58073,
+      "icon": "gps-fixed-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 272,
+      "secondary": {
+        "xMax": 901,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58154,
+      "icon": "info-alt-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 562,
+        "xMin": 0,
+        "yMax": 670,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 272,
+      "secondary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 836,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57736,
+      "icon": "compass-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 605,
+        "xMin": 0,
+        "yMax": 675,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 270,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58668,
+      "icon": "sun-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 901,
+        "xMin": 0,
+        "yMax": 900,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 259,
+      "secondary": {
+        "xMax": 642,
+        "xMin": 0,
+        "yMax": 642,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57994,
+      "icon": "folder-del-duotone-fill",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 620,
+        "xMin": 0,
+        "yMax": 536,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 255,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58501,
+      "icon": "roda-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 664,
+        "xMin": 0,
+        "yMax": 497,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 253,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 833,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57479,
+      "icon": "basket-alt-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 752,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 252,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 522,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58871,
+      "icon": "winter-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 859,
+        "xMin": 0,
+        "yMax": 859,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 252,
+      "secondary": {
+        "xMax": 607,
+        "xMin": 0,
+        "yMax": 603,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57862,
+      "icon": "download-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 627,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 251,
+      "secondary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 547,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58773,
+      "icon": "upload-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 627,
+        "xMin": 0,
+        "yMax": 645,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 251,
+      "secondary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 880,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57474,
+      "icon": "basket-alt-2-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 835,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 522,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57974,
+      "icon": "folder-add-duotone-fill",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 542,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58554,
+      "icon": "setting-alt-line-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 879,
+        "xMin": 0,
+        "yMax": 853,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58706,
+      "icon": "ticket-use-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57584,
+      "icon": "calendar-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 904,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 249,
+      "secondary": {
+        "xMax": 651,
+        "xMin": 0,
+        "yMax": 359,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58842,
+      "icon": "view-horizont-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 627,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 249,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 720,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58843,
+      "icon": "view-horizont-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 627,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 249,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57648,
+      "icon": "chat-search-duotone-light",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 248,
+      "secondary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 587,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58833,
+      "icon": "view-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 242,
+      "secondary": {
+        "xMax": 871,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58780,
+      "icon": "user-add-alt-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 918,
+        "xMin": 0,
+        "yMax": 585,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 241,
+      "secondary": {
+        "xMax": 677,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57786,
+      "icon": "dell-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 643,
+        "xMin": 0,
+        "yMax": 642,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 239,
+      "secondary": {
+        "xMax": 882,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58401,
+      "icon": "pin-alt-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 237,
+      "secondary": {
+        "xMax": 883,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57984,
+      "icon": "folder-check-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 535,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 235,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58037,
+      "icon": "folder-up-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 599,
+        "xMin": 0,
+        "yMax": 580,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 235,
+      "secondary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58031,
+      "icon": "folder-send-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 641,
+        "xMin": 0,
+        "yMax": 535,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 234,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58379,
+      "icon": "paper-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 900,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 234,
+      "secondary": {
+        "xMax": 666,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58493,
+      "icon": "road-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 662,
+        "xMin": 0,
+        "yMax": 434,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 234,
+      "secondary": {
+        "xMax": 896,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58184,
+      "icon": "key-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 776,
+        "xMin": 0,
+        "yMax": 779,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 233,
+      "secondary": {
+        "xMax": 543,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58569,
+      "icon": "sign-in-circle-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 605,
+        "xMin": 0,
+        "yMax": 628,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 233,
+      "secondary": {
+        "xMax": 838,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58830,
+      "icon": "view-alt-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 669,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 233,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 859,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57356,
+      "icon": "add-ring-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 650,
+        "xMin": 0,
+        "yMax": 650,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 232,
+      "secondary": {
+        "xMax": 882,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57691,
+      "icon": "close-ring-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 653,
+        "xMin": 0,
+        "yMax": 653,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 232,
+      "secondary": {
+        "xMax": 885,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57785,
+      "icon": "dell-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 643,
+        "xMin": 0,
+        "yMax": 642,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 232,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58426,
+      "icon": "pointers-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 795,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 231,
+      "secondary": {
+        "xMax": 564,
+        "xMin": 0,
+        "yMax": 895,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58701,
+      "icon": "ticket-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 645,
+        "xMin": 0,
+        "yMax": 652,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 231,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 833,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57728,
+      "icon": "compas-mini-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 227,
+      "secondary": {
+        "xMax": 852,
+        "xMin": 0,
+        "yMax": 852,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57355,
+      "icon": "add-ring-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 650,
+        "xMin": 0,
+        "yMax": 650,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 225,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58834,
+      "icon": "view-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 669,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 223,
+      "secondary": {
+        "xMax": 890,
+        "xMin": 0,
+        "yMax": 776,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57690,
+      "icon": "close-ring-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 653,
+        "xMin": 0,
+        "yMax": 653,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 222,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58702,
+      "icon": "ticket-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 659,
+        "xMin": 0,
+        "yMax": 665,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 217,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58489,
+      "icon": "road-alt-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 662,
+        "xMin": 0,
+        "yMax": 434,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 212,
+      "secondary": {
+        "xMax": 874,
+        "xMin": 0,
+        "yMax": 880,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58490,
+      "icon": "road-alt-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 664,
+        "xMin": 0,
+        "yMax": 456,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 212,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 878,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57498,
+      "icon": "bell-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 622,
+        "xMin": 0,
+        "yMax": 246,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 211,
+      "secondary": {
+        "xMax": 833,
+        "xMin": 0,
+        "yMax": 922,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58474,
+      "icon": "remove-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 525,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 211,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 901,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57365,
+      "icon": "add-square-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 209,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57547,
+      "icon": "box-alt-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 859,
+        "xMin": 0,
+        "yMax": 900,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 209,
+      "secondary": {
+        "xMax": 650,
+        "xMin": 0,
+        "yMax": 567,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57573,
+      "icon": "bug-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 889,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 209,
+      "secondary": {
+        "xMax": 708,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57580,
+      "icon": "calendar-add-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 521,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 209,
+      "secondary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58750,
+      "icon": "trash-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 209,
+      "secondary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58754,
+      "icon": "tree-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 730,
+        "xMin": 0,
+        "yMax": 872,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 209,
+      "secondary": {
+        "xMax": 521,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57553,
+      "icon": "box-fill-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 208,
+      "secondary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57579,
+      "icon": "calendar-add-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 208,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58473,
+      "icon": "remove-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 525,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 208,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57549,
+      "icon": "box-alt-fill-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 627,
+        "xMin": 0,
+        "yMax": 504,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 207,
+      "secondary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57596,
+      "icon": "cancel-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 693,
+        "xMin": 0,
+        "yMax": 695,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 207,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 901,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58628,
+      "icon": "speed-fill-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 669,
+        "xMin": 0,
+        "yMax": 631,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 207,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58026,
+      "icon": "folder-search-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 669,
+        "xMin": 0,
+        "yMax": 548,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 206,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57464,
+      "icon": "bag-alt-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 202,
+      "secondary": {
+        "xMax": 869,
+        "xMin": 0,
+        "yMax": 668,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58484,
+      "icon": "ring-duotone-line",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 622,
+        "xMin": 0,
+        "yMax": 246,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 201,
+      "secondary": {
+        "xMax": 823,
+        "xMin": 0,
+        "yMax": 898,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57463,
+      "icon": "bag-alt-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 200,
+      "secondary": {
+        "xMax": 867,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58183,
+      "icon": "key-duotone",
+      "prefix": "lets-icons",
+      "primary": {
+        "xMax": 670,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "primaryFont": "LetsIcons",
+      "score": 200,
+      "secondary": {
+        "xMax": 870,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "LetsIconsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "LetsIcons",
+      "headBbox": "0..983 / 0..987",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "lets-icons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "LetsIconsSecondary",
+      "headBbox": "0..961 / 0..922",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "lets-icons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "lets-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "LetsIcons",
+      "glyphCount": 1544,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 983,
+        "xMin": 0,
+        "yMax": 987,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "LetsIconsSecondary",
+      "glyphCount": 380,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 961,
+        "xMin": 0,
+        "yMax": 922,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

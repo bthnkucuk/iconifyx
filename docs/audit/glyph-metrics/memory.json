@@ -1,0 +1,126 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Memory",
+      "glyphName": "account",
+      "prefix": "memory",
+      "sampleIcons": [
+        "account",
+        "user"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Memory",
+      "glyphName": "account-box",
+      "prefix": "memory",
+      "sampleIcons": [
+        "account-box",
+        "user-box"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Memory",
+      "glyphName": "alert-octagon",
+      "prefix": "memory",
+      "sampleIcons": [
+        "alert-octagon",
+        "octagon-alert"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Memory",
+      "glyphName": "box-outer-light-down-left-stipple",
+      "prefix": "memory",
+      "sampleIcons": [
+        "box-outer-light-down-left-stipple",
+        "box-outer-light-down-right-stipple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Memory",
+      "glyphName": "format-float-left",
+      "prefix": "memory",
+      "sampleIcons": [
+        "format-float-left",
+        "format-float-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Memory",
+      "glyphName": "gamepad",
+      "prefix": "memory",
+      "sampleIcons": [
+        "gamepad",
+        "gamepad-empty"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Memory",
+      "headBbox": "0..1000 / 0..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "memory",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 57629,
+      "contentWidth": 91,
+      "font": "Memory",
+      "name": "box-outer-light-dashed-left",
+      "prefix": "memory",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57649,
+      "contentWidth": 91,
+      "font": "Memory",
+      "name": "box-outer-light-left",
+      "prefix": "memory",
+      "reason": "narrow"
+    }
+  ],
+  "prefix": "memory",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Memory",
+      "glyphCount": 655,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

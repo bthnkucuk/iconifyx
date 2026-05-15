@@ -1,0 +1,100 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "SvgSpinners",
+      "glyphName": "3-dots-bounce",
+      "prefix": "svg-spinners",
+      "sampleIcons": [
+        "3-dots-bounce",
+        "3-dots-fade",
+        "3-dots-scale"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SvgSpinners",
+      "glyphName": "6-dots-scale",
+      "prefix": "svg-spinners",
+      "sampleIcons": [
+        "6-dots-scale",
+        "6-dots-scale-middle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SvgSpinners",
+      "glyphName": "bars-scale",
+      "prefix": "svg-spinners",
+      "sampleIcons": [
+        "bars-scale",
+        "bars-scale-middle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SvgSpinners",
+      "glyphName": "pulse-3",
+      "prefix": "svg-spinners",
+      "sampleIcons": [
+        "pulse-3",
+        "pulse-multiple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SvgSpinners",
+      "glyphName": "wifi",
+      "prefix": "svg-spinners",
+      "sampleIcons": [
+        "wifi",
+        "wifi-fade"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "SvgSpinners",
+      "headBbox": "0..959 / 0..959",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "svg-spinners",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "svg-spinners",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "SvgSpinners",
+      "glyphCount": 23,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

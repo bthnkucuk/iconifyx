@@ -1,0 +1,446 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Cryptocurrency",
+      "glyphName": "d",
+      "prefix": "cryptocurrency",
+      "sampleIcons": [
+        "d",
+        "dnr"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cryptocurrency",
+      "glyphName": "dht",
+      "prefix": "cryptocurrency",
+      "sampleIcons": [
+        "dht",
+        "dth"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cryptocurrency",
+      "glyphName": "eql",
+      "prefix": "cryptocurrency",
+      "sampleIcons": [
+        "eql",
+        "eqli"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cryptocurrency",
+      "glyphName": "gas",
+      "prefix": "cryptocurrency",
+      "sampleIcons": [
+        "gas",
+        "neo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cryptocurrency",
+      "glyphName": "glxt",
+      "prefix": "cryptocurrency",
+      "sampleIcons": [
+        "glxt",
+        "gxlt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cryptocurrency",
+      "glyphName": "pax",
+      "prefix": "cryptocurrency",
+      "sampleIcons": [
+        "pax",
+        "paxg"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cryptocurrency",
+      "glyphName": "pgt",
+      "prefix": "cryptocurrency",
+      "sampleIcons": [
+        "pgt",
+        "pungo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cryptocurrency",
+      "glyphName": "ven",
+      "prefix": "cryptocurrency",
+      "sampleIcons": [
+        "ven",
+        "vet"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57438,
+      "icon": "cix",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 410,
+      "secondary": {
+        "xMax": 590,
+        "xMin": 0,
+        "yMax": 690,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57357,
+      "icon": "agi",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 354,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57495,
+      "icon": "emc2",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 323,
+      "secondary": {
+        "xMax": 677,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57491,
+      "icon": "elix",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 317,
+      "secondary": {
+        "xMax": 683,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57796,
+      "icon": "wtc",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 305,
+      "secondary": {
+        "xMax": 695,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57478,
+      "icon": "drgn",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 293,
+      "secondary": {
+        "xMax": 707,
+        "xMin": 0,
+        "yMax": 690,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57505,
+      "icon": "etc",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 282,
+      "secondary": {
+        "xMax": 718,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57613,
+      "icon": "mod",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 747,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57830,
+      "icon": "zil",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57663,
+      "icon": "pink",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 266,
+      "secondary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57595,
+      "icon": "maid",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 261,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 804,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57482,
+      "icon": "dtr",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 219,
+      "secondary": {
+        "xMax": 781,
+        "xMin": 0,
+        "yMax": 689,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57616,
+      "icon": "mth",
+      "prefix": "cryptocurrency",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Cryptocurrency",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencySecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Cryptocurrency",
+      "headBbox": "-17..1012 / -2..1004",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 2,
+      "prefix": "cryptocurrency",
+      "reasons": [
+        "head.xMin=-17",
+        "head.xMax=1012",
+        "head.yMin=-2",
+        "head.yMax=1004",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=2"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "CryptocurrencySecondary",
+      "headBbox": "0..846 / 0..875",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "cryptocurrency",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "cryptocurrency",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Cryptocurrency",
+      "glyphCount": 489,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1012,
+        "xMin": -17,
+        "yMax": 1004,
+        "yMin": -2
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 2
+      }
+    },
+    {
+      "error": null,
+      "font": "CryptocurrencySecondary",
+      "glyphCount": 21,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 846,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

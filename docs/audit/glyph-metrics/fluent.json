@@ -1,0 +1,1908 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Fluent",
+      "glyphName": "border-outside-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "border-outside-20-filled",
+        "border-outside-thick-20-regular",
+        "checkbox-unchecked-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fluent",
+      "glyphName": "caret-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "caret-16-filled",
+        "caret-down-left-16-filled",
+        "caret-down-right-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fluent",
+      "glyphName": "caret-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "caret-16-regular",
+        "caret-down-left-16-regular",
+        "caret-down-right-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fluent",
+      "glyphName": "caret-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "caret-20-filled",
+        "caret-down-left-20-filled",
+        "caret-down-right-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fluent",
+      "glyphName": "caret-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "caret-20-regular",
+        "caret-down-left-20-regular",
+        "caret-down-right-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "approval-app-32-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "approval-app-32-filled",
+        "approvals-app-32-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "approval-app-32-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "approval-app-32-regular",
+        "approvals-app-32-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-circle-up-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-circle-up-16-filled",
+        "arrow-up-circle-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-circle-up-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-circle-up-16-regular",
+        "arrow-up-circle-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-circle-up-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-circle-up-20-filled",
+        "arrow-up-circle-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-circle-up-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-circle-up-20-regular",
+        "arrow-up-circle-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-circle-up-left-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-circle-up-left-24-filled",
+        "arrow-up-left-circle-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-circle-up-left-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-circle-up-left-24-regular",
+        "arrow-up-left-circle-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-down-square-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-down-square-24-filled",
+        "arrow-square-down-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-down-square-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-down-square-24-regular",
+        "arrow-square-down-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-export-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-export-16-filled",
+        "arrow-export-ltr-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-export-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-export-16-regular",
+        "arrow-export-ltr-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-export-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-export-20-filled",
+        "arrow-export-ltr-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-export-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-export-20-regular",
+        "arrow-export-ltr-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-export-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-export-24-filled",
+        "arrow-export-ltr-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-export-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-export-24-regular",
+        "arrow-export-ltr-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-fit-height-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-fit-height-24-filled",
+        "auto-fit-height-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-fit-height-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-fit-height-24-regular",
+        "auto-fit-height-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-fit-width-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-fit-width-24-filled",
+        "auto-fit-width-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-fit-width-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-fit-width-24-regular",
+        "auto-fit-width-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-flow-up-right-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-flow-up-right-20-filled",
+        "arrow-routing-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-flow-up-right-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-flow-up-right-20-regular",
+        "arrow-routing-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-flow-up-right-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-flow-up-right-24-filled",
+        "arrow-routing-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-flow-up-right-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-flow-up-right-24-regular",
+        "arrow-routing-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-flow-up-right-rectangle-multiple-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-flow-up-right-rectangle-multiple-20-filled",
+        "arrow-routing-rectangle-multiple-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-flow-up-right-rectangle-multiple-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-flow-up-right-rectangle-multiple-20-regular",
+        "arrow-routing-rectangle-multiple-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-flow-up-right-rectangle-multiple-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-flow-up-right-rectangle-multiple-24-filled",
+        "arrow-routing-rectangle-multiple-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-flow-up-right-rectangle-multiple-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-flow-up-right-rectangle-multiple-24-regular",
+        "arrow-routing-rectangle-multiple-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-growth-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-growth-20-filled",
+        "arrow-trending-lines-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-growth-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-growth-20-regular",
+        "arrow-trending-lines-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-growth-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-growth-24-filled",
+        "arrow-trending-lines-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-growth-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-growth-24-regular",
+        "arrow-trending-lines-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-sort-down-line-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-sort-down-line-20-filled",
+        "arrow-sort-down-lines-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-sort-down-line-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-sort-down-line-20-regular",
+        "arrow-sort-down-lines-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-square-32-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-square-32-filled",
+        "arrow-square-down-32-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-square-32-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-square-32-regular",
+        "arrow-square-down-32-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-step-in-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-step-in-20-filled",
+        "arrow-step-in-default-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-step-in-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-step-in-20-regular",
+        "arrow-step-in-default-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-step-in-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-step-in-24-filled",
+        "arrow-step-in-default-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "arrow-step-in-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "arrow-step-in-24-regular",
+        "arrow-step-in-default-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "battery-0-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "battery-0-20-filled",
+        "battery-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "battery-0-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "battery-0-20-regular",
+        "battery-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "battery-10-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "battery-10-24-filled",
+        "battery-full-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "battery-charge-0-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "battery-charge-0-20-filled",
+        "battery-charge-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "battery-charge-0-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "battery-charge-0-20-regular",
+        "battery-charge-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "bezier-curve-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "bezier-curve-20-filled",
+        "bezier-curve-square-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "book-contacts-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "book-contacts-20-filled",
+        "contacts-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "book-contacts-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "book-contacts-24-filled",
+        "contacts-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "border-bottom-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "border-bottom-20-filled",
+        "border-bottom-thick-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "border-outside-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "border-outside-20-regular",
+        "checkbox-unchecked-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "border-outside-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "border-outside-24-filled",
+        "border-outside-thick-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "bowl-chopsticks-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "bowl-chopsticks-16-filled",
+        "chopsticks-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "bowl-chopsticks-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "bowl-chopsticks-16-regular",
+        "chopsticks-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "bowl-chopsticks-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "bowl-chopsticks-20-filled",
+        "chopsticks-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "bowl-chopsticks-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "bowl-chopsticks-20-regular",
+        "chopsticks-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "bowl-chopsticks-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "bowl-chopsticks-24-filled",
+        "chopsticks-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "bowl-chopsticks-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "bowl-chopsticks-24-regular",
+        "chopsticks-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "bowl-chopsticks-28-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "bowl-chopsticks-28-filled",
+        "chopsticks-28-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "bowl-chopsticks-28-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "bowl-chopsticks-28-regular",
+        "chopsticks-28-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "briefcase-add-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "briefcase-add-24-filled",
+        "briefcase-medical-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "briefcase-add-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "briefcase-add-24-regular",
+        "briefcase-medical-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "briefcase-add-32-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "briefcase-add-32-filled",
+        "briefcase-medical-32-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "briefcase-add-32-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "briefcase-add-32-regular",
+        "briefcase-medical-32-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "building-more-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "building-more-24-filled",
+        "building-retail-more-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "building-more-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "building-more-24-regular",
+        "building-retail-more-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-12-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-12-filled",
+        "calendar-ltr-12-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-12-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-12-regular",
+        "calendar-ltr-12-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-16-filled",
+        "calendar-ltr-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-16-regular",
+        "calendar-ltr-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-20-filled",
+        "calendar-ltr-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-20-regular",
+        "calendar-ltr-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-24-filled",
+        "calendar-ltr-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-24-regular",
+        "calendar-ltr-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-28-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-28-filled",
+        "calendar-ltr-28-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-28-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-28-regular",
+        "calendar-ltr-28-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-48-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-48-filled",
+        "calendar-ltr-48-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-48-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-48-regular",
+        "calendar-ltr-48-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-pattern-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-pattern-16-filled",
+        "calendar-patterns-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "calendar-pattern-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "calendar-pattern-16-regular",
+        "calendar-patterns-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "call-blocked-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "call-blocked-16-filled",
+        "call-prohibited-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "call-blocked-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "call-blocked-16-regular",
+        "call-prohibited-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "call-blocked-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "call-blocked-20-filled",
+        "call-prohibited-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "call-blocked-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "call-blocked-20-regular",
+        "call-prohibited-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "call-blocked-28-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "call-blocked-28-filled",
+        "call-prohibited-28-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "call-blocked-28-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "call-blocked-28-regular",
+        "call-prohibited-28-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "call-blocked-48-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "call-blocked-48-filled",
+        "call-prohibited-48-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "call-blocked-48-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "call-blocked-48-regular",
+        "call-prohibited-48-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "caret-12-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "caret-12-filled",
+        "caret-down-left-12-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "caret-12-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "caret-12-regular",
+        "caret-down-left-12-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cellular-data-cellular-off-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cellular-data-cellular-off-24-filled",
+        "cellular-data-off-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cellular-data-cellular-off-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cellular-data-cellular-off-24-regular",
+        "cellular-data-off-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cellular-data-cellular-unavailable-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cellular-data-cellular-unavailable-24-filled",
+        "cellular-unavailable-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cellular-data-unavailable-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cellular-data-unavailable-24-filled",
+        "cellular-warning-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cellular-data-unavailable-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cellular-data-unavailable-24-regular",
+        "cellular-warning-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "center-horizontal-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "center-horizontal-24-filled",
+        "center-horizontally-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "center-horizontal-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "center-horizontal-24-regular",
+        "center-horizontally-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "center-vertical-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "center-vertical-24-filled",
+        "center-vertically-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "center-vertical-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "center-vertical-24-regular",
+        "center-vertically-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "chevron-circle-right-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "chevron-circle-right-24-filled",
+        "chevron-right-circle-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "chevron-circle-right-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "chevron-circle-right-24-regular",
+        "chevron-right-circle-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-bullet-list-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-bullet-list-16-filled",
+        "clipboard-bullet-list-ltr-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-bullet-list-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-bullet-list-16-regular",
+        "clipboard-bullet-list-ltr-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-bullet-list-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-bullet-list-20-filled",
+        "clipboard-bullet-list-ltr-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-bullet-list-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-bullet-list-20-regular",
+        "clipboard-bullet-list-ltr-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-task-list-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-task-list-20-filled",
+        "clipboard-task-list-ltr-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-task-list-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-task-list-20-regular",
+        "clipboard-task-list-ltr-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-task-list-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-task-list-24-filled",
+        "clipboard-task-list-ltr-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-task-list-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-task-list-24-regular",
+        "clipboard-task-list-ltr-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-text-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-text-20-filled",
+        "clipboard-text-ltr-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-text-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-text-24-filled",
+        "clipboard-text-ltr-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-text-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-text-24-regular",
+        "clipboard-text-ltr-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-text-32-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-text-32-filled",
+        "clipboard-text-ltr-32-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "clipboard-text-32-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "clipboard-text-32-regular",
+        "clipboard-text-ltr-32-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-16-filled",
+        "cloud-download-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-16-regular",
+        "cloud-download-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-20-filled",
+        "cloud-download-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-20-regular",
+        "cloud-download-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-24-filled",
+        "cloud-download-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-24-regular",
+        "cloud-download-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-28-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-28-filled",
+        "cloud-download-28-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-28-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-28-regular",
+        "cloud-download-28-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-32-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-32-filled",
+        "cloud-download-32-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-32-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-32-regular",
+        "cloud-download-32-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-48-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-48-filled",
+        "cloud-download-48-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-down-48-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-down-48-regular",
+        "cloud-download-48-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-16-filled",
+        "cloud-backup-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-16-regular",
+        "cloud-backup-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-20-filled",
+        "cloud-backup-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-20-regular",
+        "cloud-backup-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-24-filled",
+        "cloud-backup-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-24-regular",
+        "cloud-backup-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-28-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-28-filled",
+        "cloud-backup-28-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-28-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-28-regular",
+        "cloud-backup-28-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-32-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-32-filled",
+        "cloud-backup-32-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-32-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-32-regular",
+        "cloud-backup-32-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-48-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-48-filled",
+        "cloud-backup-48-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-arrow-up-48-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-arrow-up-48-regular",
+        "cloud-backup-48-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-16-filled",
+        "cloud-sync-complete-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-16-regular",
+        "cloud-sync-complete-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-20-filled",
+        "cloud-sync-complete-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-20-regular",
+        "cloud-sync-complete-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-24-filled",
+        "cloud-sync-complete-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-24-regular",
+        "cloud-sync-complete-24-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-28-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-28-filled",
+        "cloud-sync-complete-28-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-28-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-28-regular",
+        "cloud-sync-complete-28-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-32-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-32-filled",
+        "cloud-sync-complete-32-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-32-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-32-regular",
+        "cloud-sync-complete-32-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-48-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-48-filled",
+        "cloud-sync-complete-48-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "cloud-checkmark-48-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "cloud-checkmark-48-regular",
+        "cloud-sync-complete-48-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "coin-multiple-16-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "coin-multiple-16-filled",
+        "coin-stack-16-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "coin-multiple-16-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "coin-multiple-16-regular",
+        "coin-stack-16-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "coin-multiple-20-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "coin-multiple-20-filled",
+        "coin-stack-20-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "coin-multiple-20-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "coin-multiple-20-regular",
+        "coin-stack-20-regular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "coin-multiple-24-filled",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "coin-multiple-24-filled",
+        "coin-stack-24-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fluent",
+      "glyphName": "coin-multiple-24-regular",
+      "prefix": "fluent",
+      "sampleIcons": [
+        "coin-multiple-24-regular",
+        "coin-stack-24-regular"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Fluent",
+      "headBbox": "-15..1010 / -12..1015",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 4,
+      "prefix": "fluent",
+      "reasons": [
+        "head.xMin=-15",
+        "head.xMax=1010",
+        "head.yMin=-12",
+        "head.yMax=1015",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=4"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1062,
+      "codepoint": 62672,
+      "font": "Fluent",
+      "name": "comment-edit-16-filled",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 62673,
+      "font": "Fluent",
+      "name": "comment-edit-16-regular",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 983773,
+      "font": "Fluent",
+      "name": "Fluent_2__document-bullet-list-cube-16-filled",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 983774,
+      "font": "Fluent",
+      "name": "Fluent_2__document-bullet-list-cube-16-regular",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 984343,
+      "font": "Fluent",
+      "name": "Fluent_2__document-table-search-24-filled",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 952,
+      "codepoint": 986183,
+      "font": "Fluent",
+      "name": "Fluent_2__hand-wave-20-filled",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 988121,
+      "font": "Fluent",
+      "name": "Fluent_2__mail-rewind-24-filled",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 988122,
+      "font": "Fluent",
+      "name": "Fluent_2__mail-rewind-24-regular",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 988565,
+      "font": "Fluent",
+      "name": "Fluent_2__more-24-filled",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 988566,
+      "font": "Fluent",
+      "name": "Fluent_2__more-24-regular",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 1035,
+      "codepoint": 988568,
+      "font": "Fluent",
+      "name": "Fluent_2__more-28-regular",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 988569,
+      "font": "Fluent",
+      "name": "Fluent_2__more-48-filled",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 988570,
+      "font": "Fluent",
+      "name": "Fluent_2__more-48-regular",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 952,
+      "codepoint": 990186,
+      "font": "Fluent",
+      "name": "Fluent_3__person-passkey-20-filled",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "advance": 952,
+      "codepoint": 990187,
+      "font": "Fluent",
+      "name": "Fluent_3__person-passkey-20-regular",
+      "prefix": "fluent",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 61033,
+      "contentWidth": 75,
+      "font": "Fluent",
+      "name": "cellular-data-5-20-filled",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 61034,
+      "contentWidth": 50,
+      "font": "Fluent",
+      "name": "cellular-data-5-20-regular",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 61035,
+      "contentWidth": 83,
+      "font": "Fluent",
+      "name": "cellular-data-5-24-filled",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 61036,
+      "contentWidth": 63,
+      "font": "Fluent",
+      "name": "cellular-data-5-24-regular",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983599,
+      "contentWidth": 93,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-short-16-filled",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983600,
+      "contentWidth": 63,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-short-16-regular",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983601,
+      "contentWidth": 75,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-short-20-filled",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983602,
+      "contentWidth": 50,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-short-20-regular",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983603,
+      "contentWidth": 84,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-short-24-filled",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983604,
+      "contentWidth": 62,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-short-24-regular",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983605,
+      "contentWidth": 93,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-tall-16-filled",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983606,
+      "contentWidth": 63,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-tall-16-regular",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983607,
+      "contentWidth": 75,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-tall-20-filled",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983608,
+      "contentWidth": 50,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-tall-20-regular",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983609,
+      "contentWidth": 84,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-tall-24-filled",
+      "prefix": "fluent",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 983610,
+      "contentWidth": 62,
+      "font": "Fluent",
+      "name": "Fluent_2__divider-tall-24-regular",
+      "prefix": "fluent",
+      "reason": "narrow"
+    }
+  ],
+  "prefix": "fluent",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Fluent",
+      "glyphCount": 20197,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1010,
+        "xMin": -15,
+        "yMax": 1015,
+        "yMin": -12
+      },
+      "hhea": {
+        "advanceWidthMax": 1062,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 4
+      }
+    }
+  ]
+}

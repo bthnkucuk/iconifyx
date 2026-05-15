@@ -1,0 +1,954 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "2f-swipe-down",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "2f-swipe-down",
+        "2fswipedown"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "2f-swipe-right",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "2f-swipe-right",
+        "2fswiperight"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "add-image",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "add-image",
+        "addimage"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "add-user",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "add-user",
+        "adduser"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "alarm-clock",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "alarm-clock",
+        "alarmclock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "align-justify",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "align-justify",
+        "alignjustify"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "android-os",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "android-os",
+        "androidos"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "app-shield",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "app-shield",
+        "appshield"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "ask-question",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "ask-question",
+        "askquestion"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "audio-wave",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "audio-wave",
+        "audiowave"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "ball-point-pen",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "ball-point-pen",
+        "ballpointpen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "bank-cards",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "bank-cards",
+        "bankcards"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "bright-moon",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "bright-moon",
+        "brightmoon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "business-contact",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "business-contact",
+        "businesscontact"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "call-transfer",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "call-transfer",
+        "calltransfer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "car-rental",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "car-rental",
+        "carrental"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "charge-battery",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "charge-battery",
+        "chargebattery"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "check-book",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "check-book",
+        "checkbook"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "check-file",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "check-file",
+        "checkfile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "close-up-mode",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "close-up-mode",
+        "closeupmode"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "color-dropper",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "color-dropper",
+        "colordropper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "create-new",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "create-new",
+        "createnew"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "cut-paper",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "cut-paper",
+        "cutpaper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "define-location",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "define-location",
+        "definelocation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "delete-shield",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "delete-shield",
+        "deleteshield"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "desk-lamp",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "desk-lamp",
+        "desklamp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "dining-room",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "dining-room",
+        "diningroom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "diploma-1",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "diploma-1",
+        "diploma1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "doctors-bag",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "doctors-bag",
+        "doctorsbag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "edit-file",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "edit-file",
+        "editfile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "edit-image",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "edit-image",
+        "editimage"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "empty-battery",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "empty-battery",
+        "emptybattery"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "empty-flag",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "empty-flag",
+        "emptyflag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "facial-recognition-scan",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "facial-recognition-scan",
+        "facialrecognitionscan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "fast-forward",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "fast-forward",
+        "fastforward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "filled-flag",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "filled-flag",
+        "filledflag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "fingerprint-scan",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "fingerprint-scan",
+        "fingerprintscan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "full-battery",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "full-battery",
+        "fullbattery"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "full-trash",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "full-trash",
+        "fulltrash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "geo-fence",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "geo-fence",
+        "geofence"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "globe-earth",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "globe-earth",
+        "globeearth"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "gps-receiving",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "gps-receiving",
+        "gpsreceiving"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "herald-trumpet",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "herald-trumpet",
+        "heraldtrumpet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "high-battery",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "high-battery",
+        "highbattery"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "image-file",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "image-file",
+        "imagefile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "in-transit",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "in-transit",
+        "intransit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "integrated-circuit",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "integrated-circuit",
+        "integratedcircuit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "keep-dry",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "keep-dry",
+        "keepdry"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "key-security",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "key-security",
+        "keysecurity"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "luggage-trolley",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "luggage-trolley",
+        "luggagetrolley"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "mac-os",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "mac-os",
+        "macos"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "medical-doctor",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "medical-doctor",
+        "medicaldoctor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "message-outline",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "message-outline",
+        "messageoutline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "musical-notes",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "musical-notes",
+        "musicalnotes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "my-topic",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "my-topic",
+        "mytopic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "nfc-checkpoint",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "nfc-checkpoint",
+        "nfccheckpoint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "paper-clamp",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "paper-clamp",
+        "paperclamp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "paper-plane",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "paper-plane",
+        "paperplane"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "partly-cloudy-day",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "partly-cloudy-day",
+        "partlycloudyday"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "partly-cloudy-night",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "partly-cloudy-night",
+        "partlycloudynight"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "phone-office",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "phone-office",
+        "phoneoffice"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "qr-code",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "qr-code",
+        "qrcode"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "recurring-appointment",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "recurring-appointment",
+        "recurringappointment"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "refresh-shield",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "refresh-shield",
+        "refreshshield"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "remove-image",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "remove-image",
+        "removeimage"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "renew-subscription",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "renew-subscription",
+        "renewsubscription"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "restriction-shield",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "restriction-shield",
+        "restrictionshield"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "retro-tv",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "retro-tv",
+        "retrotv"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "rfid-tag",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "rfid-tag",
+        "rfidtag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "security-checked",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "security-checked",
+        "securitychecked"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "shopping-bag",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "shopping-bag",
+        "shoppingbag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "shopping-basket",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "shopping-basket",
+        "shoppingbasket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "shopping-cart",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "shopping-cart",
+        "shoppingcart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "sim-card-chip",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "sim-card-chip",
+        "simcardchip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "skip-to-start",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "skip-to-start",
+        "skiptostart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "speech-bubble",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "speech-bubble",
+        "speechbubble"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "stack-of-photos",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "stack-of-photos",
+        "stackofphotos"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "stanley-knife",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "stanley-knife",
+        "stanleyknife"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "swiss-army-knife",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "swiss-army-knife",
+        "swissarmyknife"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "switch-camera",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "switch-camera",
+        "switchcamera"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "todo-list",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "todo-list",
+        "todolist"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "unlock-2",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "unlock-2",
+        "unlock2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "user-shield",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "user-shield",
+        "usershield"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "video-call",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "video-call",
+        "videocall"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "view-file",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "view-file",
+        "viewfile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "volume-down",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "volume-down",
+        "volumedown"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "volume-up",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "volume-up",
+        "volumeup"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "wedding-cake",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "wedding-cake",
+        "weddingcake"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "wind-rose",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "wind-rose",
+        "windrose"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Wpf",
+      "glyphName": "worldwide-location",
+      "prefix": "wpf",
+      "sampleIcons": [
+        "worldwide-location",
+        "worldwidelocation"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Wpf",
+      "headBbox": "-8..1008 / -14..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 14,
+      "prefix": "wpf",
+      "reasons": [
+        "head.xMin=-8",
+        "head.xMax=1008",
+        "head.yMin=-14",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=14"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "wpf",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Wpf",
+      "glyphCount": 283,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1008,
+        "xMin": -8,
+        "yMax": 1006,
+        "yMin": -14
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 9,
+      "font": "FlatColorIcons",
+      "glyphName": "copyleft",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "copyleft",
+        "copyright",
+        "info",
+        "ok"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "FlatColorIcons",
+      "glyphName": "alphabetical-sorting-az",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "alphabetical-sorting-az",
+        "numerical-sorting-12",
+        "numerical-sorting-21"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "FlatColorIcons",
+      "glyphName": "flash-auto",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "flash-auto",
+        "flash-off",
+        "flash-on"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FlatColorIcons",
+      "glyphName": "automatic",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "automatic",
+        "electro-devices"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FlatColorIcons",
+      "glyphName": "circuit",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "circuit",
+        "light-at-the-end-of-tunnel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FlatColorIcons",
+      "glyphName": "dislike",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "dislike",
+        "like-placeholder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FlatColorIcons",
+      "glyphName": "empty-battery",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "empty-battery",
+        "full-battery"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FlatColorIcons",
+      "glyphName": "package",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "package",
+        "start"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FlatColorIconsSecondary",
+      "glyphName": "approval",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "approval",
+        "ok"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FlatColorIconsSecondary",
+      "glyphName": "dislike",
+      "prefix": "flat-color-icons",
+      "sampleIcons": [
+        "dislike",
+        "flash-off"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57405,
+      "icon": "numerical-sorting-21",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 516,
+      "secondary": {
+        "xMax": 401,
+        "xMin": 0,
+        "yMax": 903,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57404,
+      "icon": "numerical-sorting-12",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 512,
+      "secondary": {
+        "xMax": 405,
+        "xMin": 0,
+        "yMax": 894,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57430,
+      "icon": "todo-list",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 417,
+        "xMin": 0,
+        "yMax": 894,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 500,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57345,
+      "icon": "alphabetical-sorting-za",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 440,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 477,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57344,
+      "icon": "alphabetical-sorting-az",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 475,
+      "secondary": {
+        "xMax": 442,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57390,
+      "icon": "high-priority",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 961,
+        "xMin": 0,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 406,
+      "secondary": {
+        "xMax": 555,
+        "xMin": 0,
+        "yMax": 730,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57391,
+      "icon": "info",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 385,
+      "secondary": {
+        "xMax": 553,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57422,
+      "icon": "services",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 599,
+        "xMin": 0,
+        "yMax": 586,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 340,
+      "secondary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57354,
+      "icon": "broken-link",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 730,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 334,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57399,
+      "icon": "link",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 730,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 271,
+      "secondary": {
+        "xMax": 730,
+        "xMin": 0,
+        "yMax": 563,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57360,
+      "icon": "copyleft",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 240,
+      "secondary": {
+        "xMax": 698,
+        "xMin": 0,
+        "yMax": 744,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57361,
+      "icon": "copyright",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 238,
+      "secondary": {
+        "xMax": 700,
+        "xMin": 0,
+        "yMax": 744,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57382,
+      "icon": "flash-off",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 237,
+      "secondary": {
+        "xMax": 925,
+        "xMin": 0,
+        "yMax": 926,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57381,
+      "icon": "flash-auto",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 235,
+      "secondary": {
+        "xMax": 923,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57426,
+      "icon": "sound-recording-copyright",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 233,
+      "secondary": {
+        "xMax": 705,
+        "xMin": 0,
+        "yMax": 732,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57408,
+      "icon": "package",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 230,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 730,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57427,
+      "icon": "start",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 230,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57414,
+      "icon": "registered-trademark",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 227,
+      "secondary": {
+        "xMax": 711,
+        "xMin": 0,
+        "yMax": 740,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57420,
+      "icon": "ruler",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 225,
+      "secondary": {
+        "xMax": 713,
+        "xMin": 0,
+        "yMax": 873,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57436,
+      "icon": "video-call",
+      "prefix": "flat-color-icons",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "primaryFont": "FlatColorIcons",
+      "score": 208,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 730,
+        "yMin": 0
+      },
+      "secondaryFont": "FlatColorIconsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "FlatColorIcons",
+      "headBbox": "-1..1001 / 0..964",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "flat-color-icons",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "FlatColorIconsSecondary",
+      "headBbox": "0..1001 / 0..959",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "flat-color-icons",
+      "reasons": [
+        "head.xMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "flat-color-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FlatColorIcons",
+      "glyphCount": 97,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 964,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "FlatColorIconsSecondary",
+      "glyphCount": 61,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

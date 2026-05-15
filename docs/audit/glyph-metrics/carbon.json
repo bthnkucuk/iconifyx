@@ -1,0 +1,245 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Carbon",
+      "glyphName": "cloud-lightning",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "cloud-lightning",
+        "flash",
+        "lightning"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "app-switcher",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "app-switcher",
+        "switcher"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "arrows",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "arrows",
+        "arrows-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "asleep",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "asleep",
+        "moon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "back-to-top",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "back-to-top",
+        "up-to-top"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "bloch-sphere",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "bloch-sphere",
+        "research-bloch-sphere"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "checkbox",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "checkbox",
+        "square-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "checkbox-indeterminate",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "checkbox-indeterminate",
+        "checkbox-undeterminate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "close-outline",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "close-outline",
+        "misuse-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "cloud-rain",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "cloud-rain",
+        "rain"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "cloud-snow",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "cloud-snow",
+        "snow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "data-share",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "data-share",
+        "platform-automation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "database-enterprise-db2",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "database-enterprise-db2",
+        "database-enterprisedb"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "hinton-plot",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "hinton-plot",
+        "research-hinton-plot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "ibm-content-cortex-repository",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "ibm-content-cortex-repository",
+        "ibm-content-services"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "infinity",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "infinity",
+        "infinity-symbol"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "letter-aa-large",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "letter-aa-large",
+        "text-font"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "matrix",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "matrix",
+        "research-matrix"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Carbon",
+      "glyphName": "sun",
+      "prefix": "carbon",
+      "sampleIcons": [
+        "sun",
+        "sunny"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Carbon",
+      "headBbox": "-7..1005 / -8..1005",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 8,
+      "prefix": "carbon",
+      "reasons": [
+        "head.xMin=-7",
+        "head.xMax=1005",
+        "head.yMin=-8",
+        "head.yMax=1005",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=8"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "carbon",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Carbon",
+      "glyphCount": 2678,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1005,
+        "xMin": -7,
+        "yMax": 1005,
+        "yMin": -8
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 8
+      }
+    }
+  ]
+}

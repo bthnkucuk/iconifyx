@@ -1,0 +1,63 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "CircleFlags",
+      "glyphName": "it-21",
+      "prefix": "circle-flags",
+      "sampleIcons": [
+        "it-21",
+        "lang-pms",
+        "pms"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "CircleFlags",
+      "headBbox": "0..999 / -24..1002",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 24,
+      "prefix": "circle-flags",
+      "reasons": [
+        "head.yMin=-24",
+        "head.yMax=1002",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=24"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "circle-flags",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "CircleFlags",
+      "glyphCount": 5,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 1002,
+        "yMin": -24
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 24
+      }
+    }
+  ]
+}

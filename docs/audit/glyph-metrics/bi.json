@@ -1,0 +1,172 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Bi",
+      "glyphName": "arrow-down-up",
+      "prefix": "bi",
+      "sampleIcons": [
+        "arrow-down-up",
+        "arrow-up-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bi",
+      "glyphName": "back",
+      "prefix": "bi",
+      "sampleIcons": [
+        "back",
+        "subtract"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bi",
+      "glyphName": "brightness-high",
+      "prefix": "bi",
+      "sampleIcons": [
+        "brightness-high",
+        "sun"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bi",
+      "glyphName": "check-box",
+      "prefix": "bi",
+      "sampleIcons": [
+        "check-box",
+        "check2-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bi",
+      "glyphName": "cloud-haze",
+      "prefix": "bi",
+      "sampleIcons": [
+        "cloud-haze",
+        "cloud-haze-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bi",
+      "glyphName": "people-circle",
+      "prefix": "bi",
+      "sampleIcons": [
+        "people-circle",
+        "person-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bi",
+      "glyphName": "ticket-perferated",
+      "prefix": "bi",
+      "sampleIcons": [
+        "ticket-perferated",
+        "ticket-perforated"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bi",
+      "glyphName": "ticket-perferated-fill",
+      "prefix": "bi",
+      "sampleIcons": [
+        "ticket-perferated-fill",
+        "ticket-perforated-fill"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Bi",
+      "headBbox": "-17..1094 / -94..1016",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 94,
+      "prefix": "bi",
+      "reasons": [
+        "head.xMin=-17",
+        "head.xMax=1094",
+        "head.yMin=-94",
+        "head.yMax=1016",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=94"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "BiSecondary",
+      "headBbox": "0..988 / 0..786",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "bi",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "bi",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Bi",
+      "glyphCount": 2082,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1094,
+        "xMin": -17,
+        "yMax": 1016,
+        "yMin": -94
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 94
+      }
+    },
+    {
+      "error": null,
+      "font": "BiSecondary",
+      "glyphCount": 1,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 988,
+        "xMin": 0,
+        "yMax": 786,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

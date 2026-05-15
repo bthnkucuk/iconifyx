@@ -1,0 +1,2306 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 5,
+      "font": "LineMd",
+      "glyphName": "circle-to-confirm-circle-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "circle-to-confirm-circle-transition",
+        "circle-twotone-to-confirm-circle-transition",
+        "confirm-circle",
+        "confirm-circle-to-circle-transition"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "LineMd",
+      "glyphName": "circle-to-confirm-circle-twotone-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "circle-to-confirm-circle-twotone-transition",
+        "circle-twotone-to-confirm-circle-twotone-transition",
+        "confirm-circle-to-circle-twotone-transition",
+        "confirm-circle-twotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "LineMd",
+      "glyphName": "confirm-square",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "confirm-square",
+        "confirm-square-to-square-transition",
+        "confirm-square-twotone-to-square-transition",
+        "square-to-confirm-square-transition"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "LineMd",
+      "glyphName": "confirm-square-to-square-twotone-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "confirm-square-to-square-twotone-transition",
+        "confirm-square-twotone",
+        "confirm-square-twotone-to-square-twotone-transition",
+        "square-to-confirm-square-twotone-transition"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "LineMd",
+      "glyphName": "gauge",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "gauge",
+        "gauge-empty",
+        "gauge-full",
+        "gauge-loop"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "LineMd",
+      "glyphName": "gauge-empty-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "gauge-empty-twotone",
+        "gauge-full-twotone",
+        "gauge-low-twotone",
+        "gauge-twotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "beer-alt-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "beer-alt-filled",
+        "beer-alt-solid",
+        "beer-filled",
+        "beer-solid"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "bell-alert-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "bell-alert-twotone",
+        "bell-alert-twotone-loop",
+        "bell-twotone-alert",
+        "bell-twotone-alert-loop"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "clipboard-check-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "clipboard-check-twotone",
+        "clipboard-check-twotone-to-clipboard-twotone-transition",
+        "clipboard-twotone-to-clipboard-check-twotone-transition",
+        "clipboard-twotone-to-clipboard-twotone-check-transition"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "close",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "close",
+        "menu-to-close-alt-transition",
+        "menu-to-close-transition",
+        "remove"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "edit",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "edit",
+        "edit-full-twotone",
+        "edit-twotone",
+        "edit-twotone-full"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "map-marker-alt-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-alt-off",
+        "map-marker-alt-off-loop",
+        "map-marker-off-alt",
+        "map-marker-off-alt-loop"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "map-marker-alt-off-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-alt-off-filled",
+        "map-marker-alt-off-filled-loop",
+        "map-marker-off-alt-filled",
+        "map-marker-off-alt-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "map-marker-alt-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-alt-off-twotone",
+        "map-marker-alt-off-twotone-loop",
+        "map-marker-off-alt-twotone",
+        "map-marker-off-alt-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "sunny",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "sunny",
+        "sunny-loop",
+        "sunny-outline",
+        "sunny-outline-loop"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "LineMd",
+      "glyphName": "sunny-outline-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "sunny-outline-twotone",
+        "sunny-outline-twotone-loop",
+        "sunny-twotone",
+        "sunny-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "beer-alt-filled-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "beer-alt-filled-loop",
+        "beer-alt-solid-loop",
+        "beer-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "circle-filled-to-confirm-circle-filled-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "circle-filled-to-confirm-circle-filled-transition",
+        "confirm-circle-filled",
+        "confirm-circle-filled-to-circle-filled-transition"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "clipboard-check",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "clipboard-check",
+        "clipboard-check-to-clipboard-transition",
+        "clipboard-to-clipboard-check-transition"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "close-to-menu-alt-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "close-to-menu-alt-transition",
+        "close-to-menu-transition",
+        "menu"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt",
+        "cloud-alt-loop",
+        "cloud-outline-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-braces",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-braces",
+        "cloud-alt-braces-loop",
+        "cloud-braces-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-download",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-download",
+        "cloud-alt-download-loop",
+        "cloud-download-outline-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-download-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-download-filled",
+        "cloud-alt-download-filled-loop",
+        "cloud-download-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-filled",
+        "cloud-alt-filled-loop",
+        "cloud-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-print",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-print",
+        "cloud-alt-print-loop",
+        "cloud-print-outline-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-print-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-print-filled",
+        "cloud-alt-print-filled-loop",
+        "cloud-print-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-tags-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-tags-filled",
+        "cloud-alt-tags-filled-loop",
+        "cloud-tags-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-upload",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-upload",
+        "cloud-alt-upload-loop",
+        "cloud-upload-outline-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-upload-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-upload-filled",
+        "cloud-alt-upload-filled-loop",
+        "cloud-upload-loop"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "compass-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "compass-off-twotone",
+        "compass-off-twotone-loop",
+        "compass-twotone-off"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "confirm-square-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "confirm-square-filled",
+        "confirm-square-filled-to-square-filled-transition",
+        "square-filled-to-confirm-square-filled-transition"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "home-md",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "home-md",
+        "home-md-alt-twotone",
+        "home-md-twotone-alt"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "moon-alt-to-sunny-outline-loop-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-alt-to-sunny-outline-loop-transition",
+        "moon-to-sunny-outline-loop-transition",
+        "moon-to-sunny-outline-transition"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "moon-filled-alt-to-sunny-filled-loop-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-filled-alt-to-sunny-filled-loop-transition",
+        "moon-filled-to-sunny-filled-loop-transition",
+        "moon-filled-to-sunny-filled-transition"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "pause",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "pause",
+        "play-filled-to-pause-transition",
+        "play-to-pause-transition"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "LineMd",
+      "glyphName": "pencil",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "pencil",
+        "pencil-alt-twotone",
+        "pencil-twotone-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "account-alert",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "account-alert",
+        "account-alert-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "alert",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "alert",
+        "alert-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "alert-circle",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "alert-circle",
+        "alert-circle-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "alert-circle-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "alert-circle-twotone",
+        "alert-circle-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "alert-square",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "alert-square",
+        "alert-square-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "alert-square-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "alert-square-twotone",
+        "alert-square-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "alert-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "alert-twotone",
+        "alert-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "arrow-long-diagonal",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "arrow-long-diagonal",
+        "arrows-long-diagonal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "arrow-long-diagonal-rotated",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "arrow-long-diagonal-rotated",
+        "arrows-long-diagonal-rotated"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "beer",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "beer",
+        "beer-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "beer-alt-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "beer-alt-loop",
+        "beer-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "beer-alt-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "beer-alt-twotone",
+        "beer-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "beer-alt-twotone-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "beer-alt-twotone-loop",
+        "beer-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "bell",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "bell",
+        "bell-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "bell-alert",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "bell-alert",
+        "bell-alert-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "bell-alert-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "bell-alert-filled",
+        "bell-alert-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "bell-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "bell-filled",
+        "bell-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "bell-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "bell-twotone",
+        "bell-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "briefcase",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "briefcase",
+        "briefcase-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "briefcase-cancel",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "briefcase-cancel",
+        "briefcase-cancel-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "briefcase-check",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "briefcase-check",
+        "briefcase-check-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "briefcase-minus",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "briefcase-minus",
+        "briefcase-minus-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "briefcase-plus",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "briefcase-plus",
+        "briefcase-plus-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "briefcase-remove",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "briefcase-remove",
+        "briefcase-remove-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "buy-me-a-coffee",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "buy-me-a-coffee",
+        "buy-me-a-coffee-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cellphone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cellphone",
+        "cellphone-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cellphone-arrow-down",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cellphone-arrow-down",
+        "cellphonearrow-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cellphone-arrow-down-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cellphone-arrow-down-twotone",
+        "cellphonearrow-down-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cellphone-arrow-up",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cellphone-arrow-up",
+        "cellphonearrow-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cellphone-arrow-up-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cellphone-arrow-up-twotone",
+        "cellphonearrow-up-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cellphone-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cellphone-off",
+        "cellphone-off-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cellphone-screenshot",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cellphone-screenshot",
+        "cellphonescreenshot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cellphone-screenshot-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cellphone-screenshot-twotone",
+        "cellphonescreenshot-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "chat-bubble-filled-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "chat-bubble-filled-off",
+        "chat-bubble-off-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "chat-bubble-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "chat-bubble-off-twotone",
+        "chat-bubble-twotone-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "chat-filled-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "chat-filled-off",
+        "chat-off-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "chat-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "chat-off-twotone",
+        "chat-twotone-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "chat-round-filled-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "chat-round-filled-off",
+        "chat-round-off-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "chat-round-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "chat-round-off-twotone",
+        "chat-round-twotone-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "check-list-3-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "check-list-3-filled",
+        "check-list-3-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-download-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-download-twotone",
+        "cloud-alt-download-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-off-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-off-loop",
+        "cloud-off-outline-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-print-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-print-twotone",
+        "cloud-alt-print-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-tags",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-tags",
+        "cloud-alt-tags-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-tags-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-tags-twotone",
+        "cloud-alt-tags-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-twotone",
+        "cloud-alt-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cloud-alt-upload-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cloud-alt-upload-twotone",
+        "cloud-alt-upload-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "coffee-half-empty-twotone-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "coffee-half-empty-twotone-loop",
+        "coffee-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cog",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cog",
+        "cog-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "cog-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "cog-filled",
+        "cog-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "compass",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "compass",
+        "compass-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "compass-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "compass-filled",
+        "compass-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "compass-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "compass-off",
+        "compass-off-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "compass-off-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "compass-off-filled",
+        "compass-off-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "compass-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "compass-twotone",
+        "compass-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "computer",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "computer",
+        "computer-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "computer-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "computer-off",
+        "computer-off-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "download",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "download",
+        "download-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "download-off-outline",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "download-off-outline",
+        "download-off-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "download-off-outline-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "download-off-outline-loop",
+        "download-off-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "download-outline",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "download-outline",
+        "download-outline-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "download-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "download-twotone",
+        "download-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "downloading",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "downloading",
+        "downloading-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "email-alt-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "email-alt-twotone",
+        "email-twotone-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "email-opened-alt-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "email-opened-alt-twotone",
+        "email-opened-twotone-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder",
+        "folder-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-arrow-down",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-arrow-down",
+        "folder-arrow-down-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-arrow-left",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-arrow-left",
+        "folder-arrow-left-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-arrow-right",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-arrow-right",
+        "folder-arrow-right-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-arrow-up",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-arrow-up",
+        "folder-arrow-up-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-cancel",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-cancel",
+        "folder-cancel-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-check",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-check",
+        "folder-check-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-filled",
+        "folder-zip-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-minus",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-minus",
+        "folder-minus-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-multiple",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-multiple",
+        "folder-multiple-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-music",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-music",
+        "folder-music-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-network",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-network",
+        "folder-network-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-off",
+        "folder-off-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-plus",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-plus",
+        "folder-plus-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-remove",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-remove",
+        "folder-remove-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "folder-settings",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "folder-settings",
+        "folder-settings-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "grid-3-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "grid-3-filled",
+        "grid-3-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "hazard-lights",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "hazard-lights",
+        "hazard-lights-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "hazard-lights-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "hazard-lights-filled",
+        "hazard-lights-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "hazard-lights-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "hazard-lights-off",
+        "hazard-lights-off-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "hazard-lights-off-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "hazard-lights-off-filled",
+        "hazard-lights-off-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "hazard-lights-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "hazard-lights-off-twotone",
+        "hazard-lights-off-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "hazard-lights-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "hazard-lights-twotone",
+        "hazard-lights-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "home-alt-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "home-alt-twotone",
+        "home-twotone-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "iconify2",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "iconify2",
+        "iconify2-static"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "iconify2-static-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "iconify2-static-twotone",
+        "iconify2-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "laptop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "laptop",
+        "laptop-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "laptop-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "laptop-off",
+        "laptop-off-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "list-3-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "list-3-filled",
+        "list-3-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker",
+        "map-marker-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-alt",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-alt",
+        "map-marker-alt-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-alt-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-alt-filled",
+        "map-marker-alt-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-alt-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-alt-twotone",
+        "map-marker-alt-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-filled",
+        "map-marker-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple",
+        "map-marker-multiple-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-alt",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-alt",
+        "map-marker-multiple-alt-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-alt-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-alt-filled",
+        "map-marker-multiple-alt-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-alt-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-alt-off",
+        "map-marker-multiple-alt-off-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-alt-off-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-alt-off-filled",
+        "map-marker-multiple-alt-off-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-alt-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-alt-off-twotone",
+        "map-marker-multiple-alt-off-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-alt-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-alt-twotone",
+        "map-marker-multiple-alt-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-filled",
+        "map-marker-multiple-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-off",
+        "map-marker-multiple-off-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-off-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-off-filled",
+        "map-marker-multiple-off-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-off-twotone",
+        "map-marker-multiple-off-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-multiple-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-multiple-twotone",
+        "map-marker-multiple-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-off",
+        "map-marker-off-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-off-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-off-filled",
+        "map-marker-off-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-off-twotone",
+        "map-marker-off-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "map-marker-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "map-marker-twotone",
+        "map-marker-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "marker",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "marker",
+        "marker-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "monitor",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "monitor",
+        "monitor-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "monitor-mutlple",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "monitor-mutlple",
+        "monitor-mutlple-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "monitor-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "monitor-off",
+        "monitor-off-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "monitor-small",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "monitor-small",
+        "monitor-small-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "monitor-small-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "monitor-small-off",
+        "monitor-small-off-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon",
+        "moon-rising"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-alt",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-alt",
+        "moon-rising-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-alt-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-alt-filled",
+        "moon-rising-alt-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-alt-filled-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-alt-filled-loop",
+        "moon-rising-alt-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-alt-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-alt-loop",
+        "moon-rising-alt-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-alt-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-alt-twotone",
+        "moon-rising-alt-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-alt-twotone-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-alt-twotone-loop",
+        "moon-rising-alt-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-filled",
+        "moon-rising-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-filled-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-filled-loop",
+        "moon-rising-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-loop",
+        "moon-rising-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-rising-filled-alt-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-rising-filled-alt-loop",
+        "moon-rising-twotone-alt-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-rising-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-rising-twotone",
+        "moon-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "moon-rising-twotone-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "moon-rising-twotone-loop",
+        "moon-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "my-location",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "my-location",
+        "my-location-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "my-location-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "my-location-off",
+        "my-location-off-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "my-location-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "my-location-off-twotone",
+        "my-location-off-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "my-location-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "my-location-twotone",
+        "my-location-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "phone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "phone",
+        "phone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "phone-call",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "phone-call",
+        "phone-call-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "phone-call-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "phone-call-filled",
+        "phone-call-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "phone-call-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "phone-call-twotone",
+        "phone-call-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "phone-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "phone-filled",
+        "phone-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "phone-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "phone-off",
+        "phone-off-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "phone-off-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "phone-off-filled",
+        "phone-off-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "phone-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "phone-off-twotone",
+        "phone-off-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "phone-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "phone-twotone",
+        "phone-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "reddit",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "reddit",
+        "reddit-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "reddit-circle",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "reddit-circle",
+        "reddit-circle-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "speed",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "speed",
+        "speed-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "speed-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "speed-twotone",
+        "speed-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "speedometer",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "speedometer",
+        "speedometer-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "square",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "square",
+        "square-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "star",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "star",
+        "star-pulsating-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "star-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "star-filled",
+        "star-pulsating-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "star-pulsating-twotone-loop",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "star-pulsating-twotone-loop",
+        "star-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "sun-rising",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "sun-rising",
+        "sun-rising-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "sun-rising-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "sun-rising-filled",
+        "sun-rising-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "sun-rising-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "sun-rising-twotone",
+        "sun-rising-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "sunny-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "sunny-filled",
+        "sunny-filled-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "sunny-filled-loop-to-moon-alt-filled-loop-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "sunny-filled-loop-to-moon-alt-filled-loop-transition",
+        "sunny-filled-loop-to-moon-filled-alt-loop-transition"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "switch",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "switch",
+        "switch-off-to-switch-transition"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "switch-filled",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "switch-filled",
+        "switch-off-filled-to-switch-filled-transition"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "switch-filled-to-switch-off-filled-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "switch-filled-to-switch-off-filled-transition",
+        "switch-off-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "switch-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "switch-off",
+        "switch-to-switch-off-transition"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "switch-off-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "switch-off-twotone",
+        "switch-twotone-to-switch-off-twotone-transition"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "switch-off-twotone-to-switch-twotone-transition",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "switch-off-twotone-to-switch-twotone-transition",
+        "switch-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "tablet",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "tablet",
+        "tablet-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "tablet-off",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "tablet-off",
+        "tablet-off-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "text-box",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "text-box",
+        "text-box-multiple-to-text-box-transition"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "text-box-multiple",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "text-box-multiple",
+        "text-box-to-text-box-multiple-transition"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "text-box-multiple-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "text-box-multiple-twotone",
+        "text-box-twotone-to-text-box-multiple-twotone-transition"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "thumbs-down",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "thumbs-down",
+        "thumbs-down-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "thumbs-up",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "thumbs-up",
+        "thumbs-up-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "twitter-x",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "twitter-x",
+        "twitter-x-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "upload",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "upload",
+        "upload-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "upload-outline",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "upload-outline",
+        "upload-outline-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "upload-twotone",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "upload-twotone",
+        "upload-twotone-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "uploading",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "uploading",
+        "uploading-loop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "valign-baseline",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "valign-baseline",
+        "valign-baseline-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "valign-bottom",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "valign-bottom",
+        "valign-bottom-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "valign-middle",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "valign-middle",
+        "valign-middle-twotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LineMd",
+      "glyphName": "valign-top",
+      "prefix": "line-md",
+      "sampleIcons": [
+        "valign-top",
+        "valign-top-twotone"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "LineMd",
+      "headBbox": "-6..1012 / -2..999",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 2,
+      "prefix": "line-md",
+      "reasons": [
+        "head.xMin=-6",
+        "head.xMax=1012",
+        "head.yMin=-2",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=2"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "line-md",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "LineMd",
+      "glyphCount": 1279,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1012,
+        "xMin": -6,
+        "yMax": 999,
+        "yMin": -2
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 2
+      }
+    }
+  ]
+}

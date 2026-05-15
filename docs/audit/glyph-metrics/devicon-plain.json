@@ -1,0 +1,153 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "DeviconPlain",
+      "glyphName": "3dsmax",
+      "prefix": "devicon-plain",
+      "sampleIcons": [
+        "3dsmax",
+        "threedsmax"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "DeviconPlain",
+      "glyphName": "amazonwebservices",
+      "prefix": "devicon-plain",
+      "sampleIcons": [
+        "amazonwebservices",
+        "amazonwebservices-wordmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "DeviconPlain",
+      "glyphName": "web3",
+      "prefix": "devicon-plain",
+      "sampleIcons": [
+        "web3",
+        "web3js"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58076,
+      "icon": "weblate-wordmark",
+      "prefix": "devicon-plain",
+      "primary": {
+        "xMax": 996,
+        "xMin": 0,
+        "yMax": 630,
+        "yMin": 0
+      },
+      "primaryFont": "DeviconPlain",
+      "score": 751,
+      "secondary": {
+        "xMax": 245,
+        "xMin": 0,
+        "yMax": 499,
+        "yMin": 0
+      },
+      "secondaryFont": "DeviconPlainSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "DeviconPlain",
+      "headBbox": "-174..1174 / -109..1110",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1110,
+      "os2WinDesc": 109,
+      "prefix": "devicon-plain",
+      "reasons": [
+        "head.xMin=-174",
+        "head.xMax=1174",
+        "head.yMin=-109",
+        "head.yMax=1110",
+        "OS/2.winAsc=1110",
+        "OS/2.winDesc=109"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "DeviconPlainSecondary",
+      "headBbox": "0..749 / 0..528",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "devicon-plain",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 57976,
+      "contentWidth": 1348,
+      "font": "DeviconPlain",
+      "name": "starship",
+      "prefix": "devicon-plain",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "devicon-plain",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "DeviconPlain",
+      "glyphCount": 758,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1174,
+        "xMin": -174,
+        "yMax": 1110,
+        "yMin": -109
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1110,
+        "usWinDescent": 109
+      }
+    },
+    {
+      "error": null,
+      "font": "DeviconPlainSecondary",
+      "glyphCount": 2,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 749,
+        "xMin": 0,
+        "yMax": 528,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

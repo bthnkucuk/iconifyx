@@ -1,0 +1,450 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "arrow",
+      "prefix": "uil",
+      "sampleIcons": [
+        "arrow",
+        "code"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "arrow-growth",
+      "prefix": "uil",
+      "sampleIcons": [
+        "arrow-growth",
+        "statistics"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "atm-card",
+      "prefix": "uil",
+      "sampleIcons": [
+        "atm-card",
+        "credit-card"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "baby-carriage",
+      "prefix": "uil",
+      "sampleIcons": [
+        "baby-carriage",
+        "stroller"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "ball",
+      "prefix": "uil",
+      "sampleIcons": [
+        "ball",
+        "table-tennis"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "band-aid",
+      "prefix": "uil",
+      "sampleIcons": [
+        "band-aid",
+        "medical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "bed",
+      "prefix": "uil",
+      "sampleIcons": [
+        "bed",
+        "sleep"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "bitcoin-bold",
+      "prefix": "uil",
+      "sampleIcons": [
+        "bitcoin-bold",
+        "bitcoin-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "brain",
+      "prefix": "uil",
+      "sampleIcons": [
+        "brain",
+        "science"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "browser",
+      "prefix": "uil",
+      "sampleIcons": [
+        "browser",
+        "window-restore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "calcualtor",
+      "prefix": "uil",
+      "sampleIcons": [
+        "calcualtor",
+        "calculator"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "calendar",
+      "prefix": "uil",
+      "sampleIcons": [
+        "calendar",
+        "calender"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "cart",
+      "prefix": "uil",
+      "sampleIcons": [
+        "cart",
+        "shopping-bag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "closed-captioning-slash",
+      "prefix": "uil",
+      "sampleIcons": [
+        "closed-captioning-slash",
+        "creative-commons-pd-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "cloud-moon-tear",
+      "prefix": "uil",
+      "sampleIcons": [
+        "cloud-moon-tear",
+        "forecastcloud-moon-tear"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "cloud-set",
+      "prefix": "uil",
+      "sampleIcons": [
+        "cloud-set",
+        "windy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "comment-alt-slash",
+      "prefix": "uil",
+      "sampleIcons": [
+        "comment-alt-slash",
+        "commnet-alt-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "computer-mouse",
+      "prefix": "uil",
+      "sampleIcons": [
+        "computer-mouse",
+        "mouse"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "corner-up-left-alt",
+      "prefix": "uil",
+      "sampleIcons": [
+        "corner-up-left-alt",
+        "left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "document",
+      "prefix": "uil",
+      "sampleIcons": [
+        "document",
+        "document-info"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "dollar-sign",
+      "prefix": "uil",
+      "sampleIcons": [
+        "dollar-sign",
+        "dollar-sign-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "down-arrow",
+      "prefix": "uil",
+      "sampleIcons": [
+        "down-arrow",
+        "import"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "entry",
+      "prefix": "uil",
+      "sampleIcons": [
+        "entry",
+        "signin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "estate",
+      "prefix": "uil",
+      "sampleIcons": [
+        "estate",
+        "home-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "exit",
+      "prefix": "uil",
+      "sampleIcons": [
+        "exit",
+        "signout"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "folder-medical",
+      "prefix": "uil",
+      "sampleIcons": [
+        "folder-medical",
+        "folder-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "food",
+      "prefix": "uil",
+      "sampleIcons": [
+        "food",
+        "pizza-slice"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "game",
+      "prefix": "uil",
+      "sampleIcons": [
+        "game",
+        "tennis-ball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "golf-ball",
+      "prefix": "uil",
+      "sampleIcons": [
+        "golf-ball",
+        "sport"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "graduation-cap",
+      "prefix": "uil",
+      "sampleIcons": [
+        "graduation-cap",
+        "graduation-hat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "hard-hat",
+      "prefix": "uil",
+      "sampleIcons": [
+        "hard-hat",
+        "user-hard-hat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "laptop-connection",
+      "prefix": "uil",
+      "sampleIcons": [
+        "laptop-connection",
+        "technology"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "location",
+      "prefix": "uil",
+      "sampleIcons": [
+        "location",
+        "user-location"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "luggage-cart",
+      "prefix": "uil",
+      "sampleIcons": [
+        "luggage-cart",
+        "truck-case"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "mobey-bill-slash",
+      "prefix": "uil",
+      "sampleIcons": [
+        "mobey-bill-slash",
+        "money-bill-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "parking-circle",
+      "prefix": "uil",
+      "sampleIcons": [
+        "parking-circle",
+        "symbol"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "raddit-alien-alt",
+      "prefix": "uil",
+      "sampleIcons": [
+        "raddit-alien-alt",
+        "reddit-alien-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "shopping-cart",
+      "prefix": "uil",
+      "sampleIcons": [
+        "shopping-cart",
+        "shopping-trolley"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "square",
+      "prefix": "uil",
+      "sampleIcons": [
+        "square",
+        "square-full"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Uil",
+      "glyphName": "traffic-light",
+      "prefix": "uil",
+      "sampleIcons": [
+        "traffic-light",
+        "yellow"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Uil",
+      "headBbox": "-1..1000 / 0..980",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "uil",
+      "reasons": [
+        "head.xMin=-1",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "uil",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Uil",
+      "glyphCount": 1242,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 980,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

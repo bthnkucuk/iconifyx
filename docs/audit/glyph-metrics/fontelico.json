@@ -1,0 +1,254 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Fontelico",
+      "headBbox": "-16..1948 / -15..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 15,
+      "prefix": "fontelico",
+      "reasons": [
+        "head.xMin=-16",
+        "head.xMax=1948",
+        "head.yMin=-15",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=15"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1789,
+      "codepoint": 57349,
+      "font": "Fontelico",
+      "name": "emo-beer",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 1673,
+      "codepoint": 57350,
+      "font": "Fontelico",
+      "name": "emo-coffee",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 851,
+      "codepoint": 57351,
+      "font": "Fontelico",
+      "name": "emo-cry",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 817,
+      "codepoint": 57353,
+      "font": "Fontelico",
+      "name": "emo-displeased",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 870,
+      "codepoint": 57354,
+      "font": "Fontelico",
+      "name": "emo-grin",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57355,
+      "font": "Fontelico",
+      "name": "emo-happy",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 893,
+      "codepoint": 57356,
+      "font": "Fontelico",
+      "name": "emo-laugh",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57357,
+      "font": "Fontelico",
+      "name": "emo-saint",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 1948,
+      "codepoint": 57358,
+      "font": "Fontelico",
+      "name": "emo-shoot",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 888,
+      "codepoint": 57359,
+      "font": "Fontelico",
+      "name": "emo-sleep",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57360,
+      "font": "Fontelico",
+      "name": "emo-squint",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 990,
+      "codepoint": 57361,
+      "font": "Fontelico",
+      "name": "emo-sunglasses",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 696,
+      "codepoint": 57362,
+      "font": "Fontelico",
+      "name": "emo-surprised",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 1447,
+      "codepoint": 57363,
+      "font": "Fontelico",
+      "name": "emo-thumbsup",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 824,
+      "codepoint": 57364,
+      "font": "Fontelico",
+      "name": "emo-tongue",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57365,
+      "font": "Fontelico",
+      "name": "emo-unhappy",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57366,
+      "font": "Fontelico",
+      "name": "emo-wink",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 774,
+      "codepoint": 57367,
+      "font": "Fontelico",
+      "name": "emo-wink2",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 944,
+      "codepoint": 57369,
+      "font": "Fontelico",
+      "name": "ie",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 851,
+      "codepoint": 57371,
+      "font": "Fontelico",
+      "name": "opera",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "advance": 1001,
+      "codepoint": 57375,
+      "font": "Fontelico",
+      "name": "spin4",
+      "prefix": "fontelico",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57349,
+      "contentWidth": 1789,
+      "font": "Fontelico",
+      "name": "emo-beer",
+      "prefix": "fontelico",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57350,
+      "contentWidth": 1677,
+      "font": "Fontelico",
+      "name": "emo-coffee",
+      "prefix": "fontelico",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57358,
+      "contentWidth": 1953,
+      "font": "Fontelico",
+      "name": "emo-shoot",
+      "prefix": "fontelico",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57363,
+      "contentWidth": 1453,
+      "font": "Fontelico",
+      "name": "emo-thumbsup",
+      "prefix": "fontelico",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "fontelico",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Fontelico",
+      "glyphCount": 34,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1948,
+        "xMin": -16,
+        "yMax": 1006,
+        "yMin": -15
+      },
+      "hhea": {
+        "advanceWidthMax": 1948,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 15
+      }
+    }
+  ]
+}

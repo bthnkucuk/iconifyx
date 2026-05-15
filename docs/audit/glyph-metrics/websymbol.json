@@ -1,0 +1,516 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Websymbol",
+      "headBbox": "0..1550 / -1..1068",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 1,
+      "prefix": "websymbol",
+      "reasons": [
+        "head.xMax=1550",
+        "head.yMin=-1",
+        "head.yMax=1068",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1217,
+      "codepoint": 57344,
+      "font": "Websymbol",
+      "name": "archive",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 857,
+      "codepoint": 57345,
+      "font": "Websymbol",
+      "name": "arrows-cw",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1113,
+      "codepoint": 57346,
+      "font": "Websymbol",
+      "name": "attach",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1113,
+      "codepoint": 57347,
+      "font": "Websymbol",
+      "name": "attention",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1179,
+      "codepoint": 57351,
+      "font": "Websymbol",
+      "name": "chat",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1435,
+      "codepoint": 57353,
+      "font": "Websymbol",
+      "name": "cloud",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57354,
+      "font": "Websymbol",
+      "name": "code",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1137,
+      "codepoint": 57356,
+      "font": "Websymbol",
+      "name": "comment",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1179,
+      "codepoint": 57357,
+      "font": "Websymbol",
+      "name": "comment-alt",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 760,
+      "codepoint": 57359,
+      "font": "Websymbol",
+      "name": "doc",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 989,
+      "codepoint": 57360,
+      "font": "Websymbol",
+      "name": "docs-landscape",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 529,
+      "codepoint": 57362,
+      "font": "Websymbol",
+      "name": "down-dir",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 471,
+      "codepoint": 57363,
+      "font": "Websymbol",
+      "name": "down-micro",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1391,
+      "codepoint": 57365,
+      "font": "Websymbol",
+      "name": "folder",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 925,
+      "codepoint": 57366,
+      "font": "Websymbol",
+      "name": "font",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1185,
+      "codepoint": 57367,
+      "font": "Websymbol",
+      "name": "forward",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1063,
+      "codepoint": 57369,
+      "font": "Websymbol",
+      "name": "heart",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1063,
+      "codepoint": 57370,
+      "font": "Websymbol",
+      "name": "heart-empty",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 654,
+      "codepoint": 57374,
+      "font": "Websymbol",
+      "name": "left-open",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 586,
+      "codepoint": 57379,
+      "font": "Websymbol",
+      "name": "location",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 582,
+      "codepoint": 57380,
+      "font": "Websymbol",
+      "name": "lock",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 582,
+      "codepoint": 57381,
+      "font": "Websymbol",
+      "name": "lock-open",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1188,
+      "codepoint": 57382,
+      "font": "Websymbol",
+      "name": "logout",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1360,
+      "codepoint": 57383,
+      "font": "Websymbol",
+      "name": "mail",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1179,
+      "codepoint": 57386,
+      "font": "Websymbol",
+      "name": "ok",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1360,
+      "codepoint": 57388,
+      "font": "Websymbol",
+      "name": "picture",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1091,
+      "codepoint": 57390,
+      "font": "Websymbol",
+      "name": "popup",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1185,
+      "codepoint": 57399,
+      "font": "Websymbol",
+      "name": "reply",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1550,
+      "codepoint": 57400,
+      "font": "Websymbol",
+      "name": "reply-all",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1360,
+      "codepoint": 57403,
+      "font": "Websymbol",
+      "name": "retweet",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 529,
+      "codepoint": 57405,
+      "font": "Websymbol",
+      "name": "right-dir",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 654,
+      "codepoint": 57406,
+      "font": "Websymbol",
+      "name": "right-open",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 963,
+      "codepoint": 57410,
+      "font": "Websymbol",
+      "name": "signal",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1050,
+      "codepoint": 57412,
+      "font": "Websymbol",
+      "name": "star",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1360,
+      "codepoint": 57415,
+      "font": "Websymbol",
+      "name": "terminal",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1003,
+      "codepoint": 57420,
+      "font": "Websymbol",
+      "name": "twitter-bird",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 471,
+      "codepoint": 57422,
+      "font": "Websymbol",
+      "name": "up-micro",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1070,
+      "codepoint": 57424,
+      "font": "Websymbol",
+      "name": "user",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "advance": 1360,
+      "codepoint": 57425,
+      "font": "Websymbol",
+      "name": "video",
+      "prefix": "websymbol",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57344,
+      "contentWidth": 1217,
+      "font": "Websymbol",
+      "name": "archive",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57346,
+      "contentWidth": 1113,
+      "font": "Websymbol",
+      "name": "attach",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57347,
+      "contentWidth": 1113,
+      "font": "Websymbol",
+      "name": "attention",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57351,
+      "contentWidth": 1179,
+      "font": "Websymbol",
+      "name": "chat",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57353,
+      "contentWidth": 1435,
+      "font": "Websymbol",
+      "name": "cloud",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57354,
+      "contentWidth": 1500,
+      "font": "Websymbol",
+      "name": "code",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57356,
+      "contentWidth": 1137,
+      "font": "Websymbol",
+      "name": "comment",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57357,
+      "contentWidth": 1179,
+      "font": "Websymbol",
+      "name": "comment-alt",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57365,
+      "contentWidth": 1391,
+      "font": "Websymbol",
+      "name": "folder",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57367,
+      "contentWidth": 1185,
+      "font": "Websymbol",
+      "name": "forward",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57382,
+      "contentWidth": 1188,
+      "font": "Websymbol",
+      "name": "logout",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57383,
+      "contentWidth": 1362,
+      "font": "Websymbol",
+      "name": "mail",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57386,
+      "contentWidth": 1179,
+      "font": "Websymbol",
+      "name": "ok",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57388,
+      "contentWidth": 1360,
+      "font": "Websymbol",
+      "name": "picture",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57399,
+      "contentWidth": 1185,
+      "font": "Websymbol",
+      "name": "reply",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57400,
+      "contentWidth": 1550,
+      "font": "Websymbol",
+      "name": "reply-all",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57403,
+      "contentWidth": 1360,
+      "font": "Websymbol",
+      "name": "retweet",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57415,
+      "contentWidth": 1360,
+      "font": "Websymbol",
+      "name": "terminal",
+      "prefix": "websymbol",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57425,
+      "contentWidth": 1360,
+      "font": "Websymbol",
+      "name": "video",
+      "prefix": "websymbol",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "websymbol",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Websymbol",
+      "glyphCount": 85,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1550,
+        "xMin": 0,
+        "yMax": 1068,
+        "yMin": -1
+      },
+      "hhea": {
+        "advanceWidthMax": 1550,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 1
+      }
+    }
+  ]
+}

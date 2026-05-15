@@ -1,0 +1,2606 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Mynaui",
+      "glyphName": "clock-4",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-4",
+        "clock-circle",
+        "clock-four"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Mynaui",
+      "glyphName": "clock-4-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-4-solid",
+        "clock-circle-solid",
+        "clock-four-solid"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Mynaui",
+      "glyphName": "daze",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "daze",
+        "daze-circle",
+        "emoji-daze"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Mynaui",
+      "glyphName": "emoji-funny",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "emoji-funny",
+        "funny",
+        "funny-circle"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Mynaui",
+      "glyphName": "emoji-indifferent",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "emoji-indifferent",
+        "indifferent",
+        "indifferent-circle"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Mynaui",
+      "glyphName": "emoji-sad",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "emoji-sad",
+        "sad",
+        "sad-circle"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Mynaui",
+      "glyphName": "emoji-smile",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "emoji-smile",
+        "smile",
+        "smile-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "academic-hat",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "academic-hat",
+        "graduation-cap"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "academic-hat-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "academic-hat-solid",
+        "graduation-cap-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "aeroplane",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "aeroplane",
+        "plane"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "aeroplane-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "aeroplane-solid",
+        "plane-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "air-conditioner",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "air-conditioner",
+        "air-vent"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "air-conditioner-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "air-conditioner-solid",
+        "air-vent-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm",
+        "alarm-clock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-check",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-check",
+        "alarm-clock-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-check-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-check-solid",
+        "alarm-clock-check-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-clock-minus",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-clock-minus",
+        "alarm-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-clock-minus-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-clock-minus-solid",
+        "alarm-minus-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-clock-plus",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-clock-plus",
+        "alarm-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-clock-plus-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-clock-plus-solid",
+        "alarm-plus-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-clock-snooze",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-clock-snooze",
+        "alarm-snooze"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-clock-snooze-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-clock-snooze-solid",
+        "alarm-snooze-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-clock-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-clock-solid",
+        "alarm-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-clock-x",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-clock-x",
+        "alarm-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "alarm-clock-x-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "alarm-clock-x-solid",
+        "alarm-x-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "angry",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "angry",
+        "angry-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "angry-circle-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "angry-circle-solid",
+        "angry-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "annoyed",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "annoyed",
+        "annoyed-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "annoyed-circle-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "annoyed-circle-solid",
+        "annoyed-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-down",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-down",
+        "fat-arrow-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-down-left",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-down-left",
+        "fat-arrow-down-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-down-left-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-down-left-solid",
+        "fat-arrow-down-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-down-right",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-down-right",
+        "fat-arrow-down-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-down-right-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-down-right-solid",
+        "fat-arrow-down-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-down-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-down-solid",
+        "fat-arrow-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-left",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-left",
+        "fat-arrow-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-left-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-left-solid",
+        "fat-arrow-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-right",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-right",
+        "fat-arrow-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-right-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-right-solid",
+        "fat-arrow-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-up",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-up",
+        "fat-arrow-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-up-left",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-up-left",
+        "fat-arrow-up-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-up-left-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-up-left-solid",
+        "fat-arrow-up-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-up-right",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-up-right",
+        "fat-arrow-up-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-up-right-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-up-right-solid",
+        "fat-arrow-up-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "arrow-big-up-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "arrow-big-up-solid",
+        "fat-arrow-up-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "bell-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "bell-off",
+        "bell-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "bell-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "bell-off-solid",
+        "bell-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "book-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "book-off",
+        "book-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "book-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "book-off-solid",
+        "book-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "bookmark-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "bookmark-off",
+        "bookmark-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "bookmark-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "bookmark-off-solid",
+        "bookmark-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-chrome",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-chrome",
+        "chrome"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-chrome-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-chrome-solid",
+        "chrome-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-codepen",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-codepen",
+        "codepen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-codepen-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-codepen-solid",
+        "codepen-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-codesandbox",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-codesandbox",
+        "codesandbox"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-codesandbox-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-codesandbox-solid",
+        "codesandbox-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-dribbble",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-dribbble",
+        "dribbble"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-dribbble-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-dribbble-solid",
+        "dribbble-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-facebook",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-facebook",
+        "facebook"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-facebook-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-facebook-solid",
+        "facebook-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-figma",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-figma",
+        "figma"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-figma-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-figma-solid",
+        "figma-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-framer",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-framer",
+        "framer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-framer-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-framer-solid",
+        "framer-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-github",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-github",
+        "github"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-github-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-github-solid",
+        "github-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-gitlab",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-gitlab",
+        "gitlab"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-gitlab-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-gitlab-solid",
+        "gitlab-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-google",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-google",
+        "google"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-google-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-google-solid",
+        "google-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-instagram",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-instagram",
+        "instagram"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-instagram-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-instagram-solid",
+        "instagram-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-linkedin",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-linkedin",
+        "linkedin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-linkedin-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-linkedin-solid",
+        "linkedin-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-pinterest",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-pinterest",
+        "pinterest"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-pinterest-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-pinterest-solid",
+        "pinterest-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-pocket",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-pocket",
+        "pocket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-pocket-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-pocket-solid",
+        "pocket-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-slack",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-slack",
+        "slack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-slack-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-slack-solid",
+        "slack-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-spotify",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-spotify",
+        "spotify"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-spotify-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-spotify-solid",
+        "spotify-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-telegram",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-telegram",
+        "telegram"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-telegram-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-telegram-solid",
+        "telegram-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-threads",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-threads",
+        "threads"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-threads-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-threads-solid",
+        "threads-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-trello",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-trello",
+        "trello"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-trello-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-trello-solid",
+        "trello-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-twitch",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-twitch",
+        "twitch"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-twitch-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-twitch-solid",
+        "twitch-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-twitter",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-twitter",
+        "twitter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-twitter-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-twitter-solid",
+        "twitter-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-x",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-x",
+        "x-twitter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-x-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-x-solid",
+        "x-twitter-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-youtube",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-youtube",
+        "youtube"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "brand-youtube-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "brand-youtube-solid",
+        "youtube-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "calendar-arrow-down",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "calendar-arrow-down",
+        "calendar-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "calendar-arrow-down-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "calendar-arrow-down-solid",
+        "calendar-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "calendar-arrow-up",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "calendar-arrow-up",
+        "calendar-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "calendar-arrow-up-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "calendar-arrow-up-solid",
+        "calendar-up-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "calendar-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "calendar-off",
+        "calendar-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "calendar-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "calendar-off-solid",
+        "calendar-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "camera-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "camera-off",
+        "camera-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "camera-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "camera-off-solid",
+        "camera-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "cast",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "cast",
+        "cast-screen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "cast-screen-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "cast-screen-solid",
+        "cast-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "center-focus",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "center-focus",
+        "focus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "center-focus-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "center-focus-solid",
+        "focus-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chart-bar-one",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chart-bar-one",
+        "chart-bar-two"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chart-bar-one-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chart-bar-one-solid",
+        "chart-bar-two-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chart-graph",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chart-graph",
+        "chart-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chart-graph-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chart-graph-solid",
+        "chart-line-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-down",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-down",
+        "chevrons-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-down-left",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-down-left",
+        "chevrons-down-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-down-left-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-down-left-solid",
+        "chevrons-down-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-down-right",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-down-right",
+        "chevrons-down-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-down-right-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-down-right-solid",
+        "chevrons-down-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-down-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-down-solid",
+        "chevrons-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-left",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-left",
+        "chevrons-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-left-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-left-solid",
+        "chevrons-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-right",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-right",
+        "chevrons-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-right-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-right-solid",
+        "chevrons-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-up",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-up",
+        "chevrons-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-up-left",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-up-left",
+        "chevrons-up-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-up-left-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-up-left-solid",
+        "chevrons-up-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-up-right",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-up-right",
+        "chevrons-up-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-up-right-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-up-right-solid",
+        "chevrons-up-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-double-up-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-double-up-solid",
+        "chevrons-up-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-up-down",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-up-down",
+        "chevrons-up-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chevron-up-down-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chevron-up-down-solid",
+        "chevrons-up-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chip",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chip",
+        "microchip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "chip-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "chip-solid",
+        "microchip-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "click",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "click",
+        "mouse-pointer-click"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "click-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "click-solid",
+        "mouse-pointer-click-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-1",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-1",
+        "clock-one"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-1-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-1-solid",
+        "clock-one-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-10",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-10",
+        "clock-ten"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-10-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-10-solid",
+        "clock-ten-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-11",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-11",
+        "clock-eleven"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-11-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-11-solid",
+        "clock-eleven-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-12",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-12",
+        "clock-twelve"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-12-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-12-solid",
+        "clock-twelve-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-2",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-2",
+        "clock-two"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-2-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-2-solid",
+        "clock-two-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-3",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-3",
+        "clock-three"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-3-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-3-solid",
+        "clock-three-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-5",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-5",
+        "clock-five"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-5-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-5-solid",
+        "clock-five-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-6",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-6",
+        "clock-six"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-6-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-6-solid",
+        "clock-six-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-7",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-7",
+        "clock-seven"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-7-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-7-solid",
+        "clock-seven-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-8",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-8",
+        "clock-eight"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-8-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-8-solid",
+        "clock-eight-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-9",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-9",
+        "clock-nine"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "clock-9-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "clock-9-solid",
+        "clock-nine-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "cloud-drizzle",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "cloud-drizzle",
+        "cloud-snow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "cloud-drizzle-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "cloud-drizzle-solid",
+        "cloud-snow-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "cloud-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "cloud-off",
+        "cloud-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "component",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "component",
+        "components"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "component-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "component-solid",
+        "components-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "copyright-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "copyright-off",
+        "copyright-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "copyright-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "copyright-off-solid",
+        "copyright-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "danger-octagon",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "danger-octagon",
+        "octagon-danger"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "daze-circle-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "daze-circle-solid",
+        "daze-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "daze-ghost",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "daze-ghost",
+        "ghost-daze"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "desktop",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "desktop",
+        "monitor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "desktop-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "desktop-solid",
+        "monitor-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-1",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-1",
+        "dice-one"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-1-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-1-solid",
+        "dice-one-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-2",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-2",
+        "dice-two"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-2-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-2-solid",
+        "dice-two-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-3",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-3",
+        "dice-three"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-3-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-3-solid",
+        "dice-three-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-4",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-4",
+        "dice-four"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-4-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-4-solid",
+        "dice-four-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-5",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-5",
+        "dice-five"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-5-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-5-solid",
+        "dice-five-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-6",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-6",
+        "dice-six"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "dice-6-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "dice-6-solid",
+        "dice-six-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "ear-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "ear-off",
+        "ear-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "ear-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "ear-off-solid",
+        "ear-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "envelope",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "envelope",
+        "mail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "envelope-open",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "envelope-open",
+        "mail-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "envelope-open-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "envelope-open-solid",
+        "mail-open-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "envelope-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "envelope-solid",
+        "mail-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "eye-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "eye-off",
+        "eye-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "eye-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "eye-off-solid",
+        "eye-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "flask",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "flask",
+        "flask-conical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "flask-conical-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "flask-conical-solid",
+        "flask-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "folder-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "folder-off",
+        "folder-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "folder-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "folder-off-solid",
+        "folder-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "funny-circle-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "funny-circle-solid",
+        "funny-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "funny-ghost",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "funny-ghost",
+        "ghost-funny"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "ghost-indifferent",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "ghost-indifferent",
+        "indifferent-ghost"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "ghost-sad",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "ghost-sad",
+        "sad-ghost"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "ghost-smile",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "ghost-smile",
+        "smile-ghost"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-1",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-1",
+        "heading-one"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-1-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-1-solid",
+        "heading-one-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-2",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-2",
+        "heading-two"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-2-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-2-solid",
+        "heading-two-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-3",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-3",
+        "heading-three"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-3-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-3-solid",
+        "heading-three-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-4",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-4",
+        "heading-four"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-4-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-4-solid",
+        "heading-four-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-5",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-5",
+        "heading-five"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-5-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-5-solid",
+        "heading-five-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-6",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-6",
+        "heading-six"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heading-6-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heading-6-solid",
+        "heading-six-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heart-broken",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heart-broken",
+        "heart-crack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heart-broken-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heart-broken-solid",
+        "heart-crack-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heart-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heart-off",
+        "heart-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "heart-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "heart-off-solid",
+        "heart-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "indifferent-circle-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "indifferent-circle-solid",
+        "indifferent-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "info-octagon",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "info-octagon",
+        "octagon-info"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "lightning-slash",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "lightning-slash",
+        "zap-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "lightning-slash-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "lightning-slash-solid",
+        "zap-off-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "link-alt",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "link-alt",
+        "link-two"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "microphone-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "microphone-off",
+        "microphone-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "microphone-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "microphone-off-solid",
+        "microphone-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "minus-octagon",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "minus-octagon",
+        "octagon-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "octagon-plus",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "octagon-plus",
+        "plus-octagon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "octagon-slash",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "octagon-slash",
+        "slash-octagon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "octagon-x",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "octagon-x",
+        "x-octagon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "panel-left",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "panel-left",
+        "sidebar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "panel-left-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "panel-left-solid",
+        "sidebar-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "panel-right",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "panel-right",
+        "sidebar-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "panel-right-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "panel-right-solid",
+        "sidebar-alt-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "sad-circle-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "sad-circle-solid",
+        "sad-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "sea-waves",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "sea-waves",
+        "waves"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "sea-waves-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "sea-waves-solid",
+        "waves-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "search-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "search-off",
+        "search-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "search-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "search-off-solid",
+        "search-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "shield-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "shield-off",
+        "shield-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "shield-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "shield-off-solid",
+        "shield-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "shuffle-alt",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "shuffle-alt",
+        "shuffle-one"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "slash",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "slash",
+        "slash-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "smile-circle-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "smile-circle-solid",
+        "smile-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "sort",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "sort",
+        "sort-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "telephone-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "telephone-off",
+        "telephone-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "telephone-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "telephone-off-solid",
+        "telephone-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "text-align-left",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "text-align-left",
+        "text-align-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "text-align-right",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "text-align-right",
+        "text-align-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "text-justify",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "text-justify",
+        "text-justify-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "ticket-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "ticket-off",
+        "ticket-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "ticket-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "ticket-off-solid",
+        "ticket-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "video-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "video-off",
+        "video-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "video-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "video-off-solid",
+        "video-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "volume-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "volume-off",
+        "volume-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "volume-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "volume-off-solid",
+        "volume-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "wifi-off",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "wifi-off",
+        "wifi-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "wifi-off-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "wifi-off-solid",
+        "wifi-slash-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "wink",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "wink",
+        "wink-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mynaui",
+      "glyphName": "wink-circle-solid",
+      "prefix": "mynaui",
+      "sampleIcons": [
+        "wink-circle-solid",
+        "wink-solid"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Mynaui",
+      "headBbox": "0..958 / 0..959",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "mynaui",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "mynaui",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Mynaui",
+      "glyphCount": 2852,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

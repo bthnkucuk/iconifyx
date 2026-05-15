@@ -1,0 +1,8189 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "abacus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "abacus",
+        "bx-abacus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "accessibility",
+      "prefix": "bx",
+      "sampleIcons": [
+        "accessibility",
+        "bx-accessibility"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "add-to-queue",
+      "prefix": "bx",
+      "sampleIcons": [
+        "add-to-queue",
+        "bx-add-to-queue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "adjust",
+      "prefix": "bx",
+      "sampleIcons": [
+        "adjust",
+        "bx-adjust"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "alarm",
+      "prefix": "bx",
+      "sampleIcons": [
+        "alarm",
+        "bx-alarm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "alarm-add",
+      "prefix": "bx",
+      "sampleIcons": [
+        "alarm-add",
+        "bx-alarm-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "alarm-exclamation",
+      "prefix": "bx",
+      "sampleIcons": [
+        "alarm-exclamation",
+        "bx-alarm-exclamation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "alarm-off",
+      "prefix": "bx",
+      "sampleIcons": [
+        "alarm-off",
+        "bx-alarm-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "alarm-snooze",
+      "prefix": "bx",
+      "sampleIcons": [
+        "alarm-snooze",
+        "bx-alarm-snooze"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "album",
+      "prefix": "bx",
+      "sampleIcons": [
+        "album",
+        "bx-album"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "align-justify",
+      "prefix": "bx",
+      "sampleIcons": [
+        "align-justify",
+        "bx-align-justify"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "align-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "align-left",
+        "bx-align-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "align-middle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "align-middle",
+        "bx-align-middle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "align-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "align-right",
+        "bx-align-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "analyse",
+      "prefix": "bx",
+      "sampleIcons": [
+        "analyse",
+        "bx-analyse"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "anchor",
+      "prefix": "bx",
+      "sampleIcons": [
+        "anchor",
+        "bx-anchor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "angry",
+      "prefix": "bx",
+      "sampleIcons": [
+        "angry",
+        "bx-angry"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "aperture",
+      "prefix": "bx",
+      "sampleIcons": [
+        "aperture",
+        "bx-aperture"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arch",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arch",
+        "bx-arch"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "archive",
+      "prefix": "bx",
+      "sampleIcons": [
+        "archive",
+        "bx-archive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "archive-in",
+      "prefix": "bx",
+      "sampleIcons": [
+        "archive-in",
+        "bx-archive-in"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "archive-out",
+      "prefix": "bx",
+      "sampleIcons": [
+        "archive-out",
+        "bx-archive-out"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "area",
+      "prefix": "bx",
+      "sampleIcons": [
+        "area",
+        "bx-area"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arrow-back",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arrow-back",
+        "bx-arrow-back"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arrow-from-bottom",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arrow-from-bottom",
+        "bx-arrow-from-bottom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arrow-from-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arrow-from-left",
+        "bx-arrow-from-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arrow-from-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arrow-from-right",
+        "bx-arrow-from-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arrow-from-top",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arrow-from-top",
+        "bx-arrow-from-top"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arrow-to-bottom",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arrow-to-bottom",
+        "bx-arrow-to-bottom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arrow-to-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arrow-to-left",
+        "bx-arrow-to-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arrow-to-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arrow-to-right",
+        "bx-arrow-to-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "arrow-to-top",
+      "prefix": "bx",
+      "sampleIcons": [
+        "arrow-to-top",
+        "bx-arrow-to-top"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "at",
+      "prefix": "bx",
+      "sampleIcons": [
+        "at",
+        "bx-at"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "atom",
+      "prefix": "bx",
+      "sampleIcons": [
+        "atom",
+        "bx-atom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "award",
+      "prefix": "bx",
+      "sampleIcons": [
+        "award",
+        "bx-award"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "badge",
+      "prefix": "bx",
+      "sampleIcons": [
+        "badge",
+        "bx-badge"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "badge-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "badge-check",
+        "bx-badge-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "baguette",
+      "prefix": "bx",
+      "sampleIcons": [
+        "baguette",
+        "bx-baguette"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "ball",
+      "prefix": "bx",
+      "sampleIcons": [
+        "ball",
+        "bx-ball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "band-aid",
+      "prefix": "bx",
+      "sampleIcons": [
+        "band-aid",
+        "bx-band-aid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bar-chart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bar-chart",
+        "bx-bar-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bar-chart-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bar-chart-alt",
+        "bx-bar-chart-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bar-chart-alt-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bar-chart-alt-2",
+        "bx-bar-chart-alt-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bar-chart-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bar-chart-square",
+        "bx-bar-chart-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "barcode",
+      "prefix": "bx",
+      "sampleIcons": [
+        "barcode",
+        "bx-barcode"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "barcode-reader",
+      "prefix": "bx",
+      "sampleIcons": [
+        "barcode-reader",
+        "bx-barcode-reader"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "baseball",
+      "prefix": "bx",
+      "sampleIcons": [
+        "baseball",
+        "bx-baseball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "basket",
+      "prefix": "bx",
+      "sampleIcons": [
+        "basket",
+        "bx-basket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "basketball",
+      "prefix": "bx",
+      "sampleIcons": [
+        "basketball",
+        "bx-basketball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bath",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bath",
+        "bx-bath"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "battery",
+      "prefix": "bx",
+      "sampleIcons": [
+        "battery",
+        "bx-battery"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bed",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bed",
+        "bx-bed"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "been-here",
+      "prefix": "bx",
+      "sampleIcons": [
+        "been-here",
+        "bx-been-here"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "beer",
+      "prefix": "bx",
+      "sampleIcons": [
+        "beer",
+        "bx-beer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bell",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bell",
+        "bx-bell"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bell-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bell-minus",
+        "bx-bell-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bell-off",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bell-off",
+        "bx-bell-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bell-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bell-plus",
+        "bx-bell-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bible",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bible",
+        "bx-bible"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bitcoin",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bitcoin",
+        "bx-bitcoin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "blanket",
+      "prefix": "bx",
+      "sampleIcons": [
+        "blanket",
+        "bx-blanket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "block",
+      "prefix": "bx",
+      "sampleIcons": [
+        "block",
+        "bx-block"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bluetooth",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bluetooth",
+        "bx-bluetooth"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "body",
+      "prefix": "bx",
+      "sampleIcons": [
+        "body",
+        "bx-body"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bold",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bold",
+        "bx-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bolt-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bolt-circle",
+        "bx-bolt-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bomb",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bomb",
+        "bx-bomb"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bone",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bone",
+        "bx-bone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bong",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bong",
+        "bx-bong"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "book",
+      "prefix": "bx",
+      "sampleIcons": [
+        "book",
+        "bx-book"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "book-add",
+      "prefix": "bx",
+      "sampleIcons": [
+        "book-add",
+        "bx-book-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "book-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "book-alt",
+        "bx-book-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "book-bookmark",
+      "prefix": "bx",
+      "sampleIcons": [
+        "book-bookmark",
+        "bx-book-bookmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "book-content",
+      "prefix": "bx",
+      "sampleIcons": [
+        "book-content",
+        "bx-book-content"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "book-heart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "book-heart",
+        "bx-book-heart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "book-open",
+      "prefix": "bx",
+      "sampleIcons": [
+        "book-open",
+        "bx-book-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "book-reader",
+      "prefix": "bx",
+      "sampleIcons": [
+        "book-reader",
+        "bx-book-reader"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bookmark",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bookmark",
+        "bx-bookmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bookmark-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bookmark-alt",
+        "bx-bookmark-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bookmark-alt-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bookmark-alt-minus",
+        "bx-bookmark-alt-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bookmark-alt-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bookmark-alt-plus",
+        "bx-bookmark-alt-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bookmark-heart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bookmark-heart",
+        "bx-bookmark-heart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bookmark-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bookmark-minus",
+        "bx-bookmark-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bookmark-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bookmark-plus",
+        "bx-bookmark-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bookmarks",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bookmarks",
+        "bx-bookmarks"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "border-all",
+      "prefix": "bx",
+      "sampleIcons": [
+        "border-all",
+        "bx-border-all"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "border-bottom",
+      "prefix": "bx",
+      "sampleIcons": [
+        "border-bottom",
+        "bx-border-bottom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "border-inner",
+      "prefix": "bx",
+      "sampleIcons": [
+        "border-inner",
+        "bx-border-inner"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "border-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "border-left",
+        "bx-border-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "border-none",
+      "prefix": "bx",
+      "sampleIcons": [
+        "border-none",
+        "bx-border-none"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "border-outer",
+      "prefix": "bx",
+      "sampleIcons": [
+        "border-outer",
+        "bx-border-outer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "border-radius",
+      "prefix": "bx",
+      "sampleIcons": [
+        "border-radius",
+        "bx-border-radius"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "border-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "border-right",
+        "bx-border-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "border-top",
+      "prefix": "bx",
+      "sampleIcons": [
+        "border-top",
+        "bx-border-top"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bot",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bot",
+        "bx-bot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bowl-hot",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bowl-hot",
+        "bx-bowl-hot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bowl-rice",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bowl-rice",
+        "bx-bowl-rice"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bowling-ball",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bowling-ball",
+        "bx-bowling-ball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "box",
+      "prefix": "bx",
+      "sampleIcons": [
+        "box",
+        "bx-box"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bracket",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bracket",
+        "bx-bracket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "braille",
+      "prefix": "bx",
+      "sampleIcons": [
+        "braille",
+        "bx-braille"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "brain",
+      "prefix": "bx",
+      "sampleIcons": [
+        "brain",
+        "bx-brain"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "briefcase",
+      "prefix": "bx",
+      "sampleIcons": [
+        "briefcase",
+        "bx-briefcase"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "briefcase-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "briefcase-alt",
+        "bx-briefcase-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "briefcase-alt-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "briefcase-alt-2",
+        "bx-briefcase-alt-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "brightness",
+      "prefix": "bx",
+      "sampleIcons": [
+        "brightness",
+        "bx-brightness"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "brightness-half",
+      "prefix": "bx",
+      "sampleIcons": [
+        "brightness-half",
+        "bx-brightness-half"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "broadcast",
+      "prefix": "bx",
+      "sampleIcons": [
+        "broadcast",
+        "bx-broadcast"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "brush",
+      "prefix": "bx",
+      "sampleIcons": [
+        "brush",
+        "bx-brush"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "brush-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "brush-alt",
+        "bx-brush-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bug",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bug",
+        "bx-bug"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bug-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bug-alt",
+        "bx-bug-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "building",
+      "prefix": "bx",
+      "sampleIcons": [
+        "building",
+        "bx-building"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "building-house",
+      "prefix": "bx",
+      "sampleIcons": [
+        "building-house",
+        "bx-building-house"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "buildings",
+      "prefix": "bx",
+      "sampleIcons": [
+        "buildings",
+        "bx-buildings"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bulb",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bulb",
+        "bx-bulb"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bullseye",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bullseye",
+        "bx-bullseye"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "buoy",
+      "prefix": "bx",
+      "sampleIcons": [
+        "buoy",
+        "bx-buoy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bus",
+        "bx-bus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bus-school",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bus-school",
+        "bx-bus-school"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cabinet",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cabinet",
+        "cabinet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cable-car",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cable-car",
+        "cable-car"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cake",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cake",
+        "cake"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calculator",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calculator",
+        "calculator"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar",
+        "calendar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-alt",
+        "calendar-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-check",
+        "calendar-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-edit",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-edit",
+        "calendar-edit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-event",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-event",
+        "calendar-event"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-exclamation",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-exclamation",
+        "calendar-exclamation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-heart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-heart",
+        "calendar-heart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-minus",
+        "calendar-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-plus",
+        "calendar-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-star",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-star",
+        "calendar-star"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-week",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-week",
+        "calendar-week"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-calendar-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-calendar-x",
+        "calendar-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-camera",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-camera",
+        "camera"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-camera-home",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-camera-home",
+        "camera-home"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-camera-movie",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-camera-movie",
+        "camera-movie"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-camera-off",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-camera-off",
+        "camera-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-candles",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-candles",
+        "candles"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-capsule",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-capsule",
+        "capsule"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-captions",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-captions",
+        "captions"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-car",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-car",
+        "car"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-card",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-card",
+        "card"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-down",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-down",
+        "caret-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-down-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-down-circle",
+        "caret-down-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-down-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-down-square",
+        "caret-down-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-left",
+        "caret-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-left-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-left-circle",
+        "caret-left-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-left-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-left-square",
+        "caret-left-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-right",
+        "caret-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-right-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-right-circle",
+        "caret-right-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-right-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-right-square",
+        "caret-right-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-up",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-up",
+        "caret-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-up-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-up-circle",
+        "caret-up-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-caret-up-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-caret-up-square",
+        "caret-up-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-carousel",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-carousel",
+        "carousel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cart",
+        "cart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cart-add",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cart-add",
+        "cart-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cart-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cart-alt",
+        "cart-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cart-download",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cart-download",
+        "cart-download"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cast",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cast",
+        "cast"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-category",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-category",
+        "category"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-category-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-category-alt",
+        "category-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cctv",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cctv",
+        "cctv"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-certification",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-certification",
+        "certification"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chair",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chair",
+        "chair"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chalkboard",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chalkboard",
+        "chalkboard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chart",
+        "chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chat",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chat",
+        "chat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-check",
+        "check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-check-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-check-circle",
+        "check-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-check-double",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-check-double",
+        "check-double"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-check-shield",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-check-shield",
+        "check-shield"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-check-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-check-square",
+        "check-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-checkbox",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-checkbox",
+        "checkbox"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-checkbox-checked",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-checkbox-checked",
+        "checkbox-checked"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-checkbox-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-checkbox-minus",
+        "checkbox-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-checkbox-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-checkbox-square",
+        "checkbox-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cheese",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cheese",
+        "cheese"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-down",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-down",
+        "chevron-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-down-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-down-circle",
+        "chevron-down-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-down-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-down-square",
+        "chevron-down-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-left",
+        "chevron-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-left-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-left-circle",
+        "chevron-left-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-left-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-left-square",
+        "chevron-left-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-right",
+        "chevron-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-right-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-right-circle",
+        "chevron-right-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-right-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-right-square",
+        "chevron-right-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-up",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-up",
+        "chevron-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-up-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-up-circle",
+        "chevron-up-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevron-up-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevron-up-square",
+        "chevron-up-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevrons-down",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevrons-down",
+        "chevrons-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevrons-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevrons-left",
+        "chevrons-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevrons-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevrons-right",
+        "chevrons-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chevrons-up",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chevrons-up",
+        "chevrons-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-child",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-child",
+        "child"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-chip",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-chip",
+        "chip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-church",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-church",
+        "church"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-circle",
+        "circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-circle-half",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-circle-half",
+        "circle-half"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-circle-quarter",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-circle-quarter",
+        "circle-quarter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-circle-three-quarter",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-circle-three-quarter",
+        "circle-three-quarter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-clinic",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-clinic",
+        "clinic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-clipboard",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-clipboard",
+        "clipboard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-closet",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-closet",
+        "closet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cloud",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cloud",
+        "cloud"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cloud-download",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cloud-download",
+        "cloud-download"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cloud-drizzle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cloud-drizzle",
+        "cloud-drizzle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cloud-light-rain",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cloud-light-rain",
+        "cloud-light-rain"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cloud-lightning",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cloud-lightning",
+        "cloud-lightning"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cloud-rain",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cloud-rain",
+        "cloud-rain"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cloud-snow",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cloud-snow",
+        "cloud-snow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cloud-upload",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cloud-upload",
+        "cloud-upload"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-code",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-code",
+        "code"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-code-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-code-alt",
+        "code-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-code-block",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-code-block",
+        "code-block"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-code-curly",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-code-curly",
+        "code-curly"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-coffee",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-coffee",
+        "coffee"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-coffee-togo",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-coffee-togo",
+        "coffee-togo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cog",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cog",
+        "cog"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-coin",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-coin",
+        "coin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-coin-stack",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-coin-stack",
+        "coin-stack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-collapse",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-collapse",
+        "collapse"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-collapse-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-collapse-alt",
+        "collapse-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-collapse-horizontal",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-collapse-horizontal",
+        "collapse-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-collapse-vertical",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-collapse-vertical",
+        "collapse-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-collection",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-collection",
+        "collection"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-color",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-color",
+        "color"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-color-fill",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-color-fill",
+        "color-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-columns",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-columns",
+        "columns"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-command",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-command",
+        "command"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-comment",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-comment",
+        "comment"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-comment-add",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-comment-add",
+        "comment-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-comment-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-comment-check",
+        "comment-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-comment-detail",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-comment-detail",
+        "comment-detail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-comment-dots",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-comment-dots",
+        "comment-dots"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-comment-edit",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-comment-edit",
+        "comment-edit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-comment-error",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-comment-error",
+        "comment-error"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-comment-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-comment-minus",
+        "comment-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-comment-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-comment-x",
+        "comment-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-compass",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-compass",
+        "compass"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-confused",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-confused",
+        "confused"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-conversation",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-conversation",
+        "conversation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cookie",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cookie",
+        "cookie"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cool",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cool",
+        "cool"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-copy",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-copy",
+        "copy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-copy-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-copy-alt",
+        "copy-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-copyright",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-copyright",
+        "copyright"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-credit-card",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-credit-card",
+        "credit-card"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-credit-card-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-credit-card-alt",
+        "credit-card-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-credit-card-front",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-credit-card-front",
+        "credit-card-front"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cricket-ball",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cricket-ball",
+        "cricket-ball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-crop",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-crop",
+        "crop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cross",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cross",
+        "cross"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-crosshair",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-crosshair",
+        "crosshair"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-crown",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-crown",
+        "crown"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cube",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cube",
+        "cube"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cube-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cube-alt",
+        "cube-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cuboid",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cuboid",
+        "cuboid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-current-location",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-current-location",
+        "current-location"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-customize",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-customize",
+        "customize"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cut",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cut",
+        "cut"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cycling",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cycling",
+        "cycling"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-cylinder",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-cylinder",
+        "cylinder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-data",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-data",
+        "data"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-desktop",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-desktop",
+        "desktop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-detail",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-detail",
+        "detail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-devices",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-devices",
+        "devices"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dialpad",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dialpad",
+        "dialpad"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dialpad-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dialpad-alt",
+        "dialpad-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-diamond",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-diamond",
+        "diamond"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dice-1",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dice-1",
+        "dice-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dice-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dice-2",
+        "dice-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dice-3",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dice-3",
+        "dice-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dice-4",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dice-4",
+        "dice-4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dice-5",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dice-5",
+        "dice-5"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dice-6",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dice-6",
+        "dice-6"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-directions",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-directions",
+        "directions"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-disc",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-disc",
+        "disc"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dish",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dish",
+        "dish"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dislike",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dislike",
+        "dislike"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dizzy",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dizzy",
+        "dizzy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dna",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dna",
+        "dna"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dock-bottom",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dock-bottom",
+        "dock-bottom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dock-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dock-left",
+        "dock-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dock-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dock-right",
+        "dock-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dock-top",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dock-top",
+        "dock-top"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dollar",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dollar",
+        "dollar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dollar-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dollar-circle",
+        "dollar-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-donate-blood",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-donate-blood",
+        "donate-blood"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-donate-heart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-donate-heart",
+        "donate-heart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-door-open",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-door-open",
+        "door-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dots-horizontal",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dots-horizontal",
+        "dots-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dots-horizontal-rounded",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dots-horizontal-rounded",
+        "dots-horizontal-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dots-vertical",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dots-vertical",
+        "dots-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dots-vertical-rounded",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dots-vertical-rounded",
+        "dots-vertical-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-doughnut-chart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-doughnut-chart",
+        "doughnut-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-down-arrow",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-down-arrow",
+        "down-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-down-arrow-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-down-arrow-alt",
+        "down-arrow-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-down-arrow-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-down-arrow-circle",
+        "down-arrow-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-download",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-download",
+        "download"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-downvote",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-downvote",
+        "downvote"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-drink",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-drink",
+        "drink"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-droplet",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-droplet",
+        "droplet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-dumbbell",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-dumbbell",
+        "dumbbell"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-duplicate",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-duplicate",
+        "duplicate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-edit",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-edit",
+        "edit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-edit-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-edit-alt",
+        "edit-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-envelope",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-envelope",
+        "envelope"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-envelope-open",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-envelope-open",
+        "envelope-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-equalizer",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-equalizer",
+        "equalizer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-eraser",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-eraser",
+        "eraser"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-error",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-error",
+        "error"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-error-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-error-alt",
+        "error-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-error-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-error-circle",
+        "error-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-euro",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-euro",
+        "euro"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-exclude",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-exclude",
+        "exclude"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-exit",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-exit",
+        "exit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-exit-fullscreen",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-exit-fullscreen",
+        "exit-fullscreen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-expand",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-expand",
+        "expand"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-expand-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-expand-alt",
+        "expand-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-expand-horizontal",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-expand-horizontal",
+        "expand-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-expand-vertical",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-expand-vertical",
+        "expand-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-export",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-export",
+        "export"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-extension",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-extension",
+        "extension"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-face",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-face",
+        "face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-fast-forward",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-fast-forward",
+        "fast-forward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-fast-forward-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-fast-forward-circle",
+        "fast-forward-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-female",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-female",
+        "female"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-female-sign",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-female-sign",
+        "female-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-file",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-file",
+        "file"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-file-blank",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-file-blank",
+        "file-blank"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-file-find",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-file-find",
+        "file-find"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-film",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-film",
+        "film"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-filter",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-filter",
+        "filter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-filter-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-filter-alt",
+        "filter-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-fingerprint",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-fingerprint",
+        "fingerprint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-first-aid",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-first-aid",
+        "first-aid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-first-page",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-first-page",
+        "first-page"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-flag",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-flag",
+        "flag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-folder",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-folder",
+        "folder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-folder-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-folder-minus",
+        "folder-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-folder-open",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-folder-open",
+        "folder-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-folder-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-folder-plus",
+        "folder-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-font",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-font",
+        "font"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-font-color",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-font-color",
+        "font-color"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-font-family",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-font-family",
+        "font-family"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-font-size",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-font-size",
+        "font-size"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-food-menu",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-food-menu",
+        "food-menu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-food-tag",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-food-tag",
+        "food-tag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-football",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-football",
+        "football"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-fork",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-fork",
+        "fork"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-fridge",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-fridge",
+        "fridge"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-fullscreen",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-fullscreen",
+        "fullscreen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-game",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-game",
+        "game"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-gas-pump",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-gas-pump",
+        "gas-pump"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-ghost",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-ghost",
+        "ghost"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-gift",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-gift",
+        "gift"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-git-branch",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-git-branch",
+        "git-branch"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-git-commit",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-git-commit",
+        "git-commit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-git-compare",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-git-compare",
+        "git-compare"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-git-merge",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-git-merge",
+        "git-merge"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-git-pull-request",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-git-pull-request",
+        "git-pull-request"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-git-repo-forked",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-git-repo-forked",
+        "git-repo-forked"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-glasses",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-glasses",
+        "glasses"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-glasses-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-glasses-alt",
+        "glasses-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-globe",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-globe",
+        "globe"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-globe-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-globe-alt",
+        "globe-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-grid",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-grid",
+        "grid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-grid-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-grid-alt",
+        "grid-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-grid-horizontal",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-grid-horizontal",
+        "grid-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-grid-small",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-grid-small",
+        "grid-small"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-grid-vertical",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-grid-vertical",
+        "grid-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-group",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-group",
+        "group"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-handicap",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-handicap",
+        "handicap"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-happy",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-happy",
+        "happy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-happy-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-happy-alt",
+        "happy-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-happy-beaming",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-happy-beaming",
+        "happy-beaming"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-happy-heart-eyes",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-happy-heart-eyes",
+        "happy-heart-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-hard-hat",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-hard-hat",
+        "hard-hat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-hash",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-hash",
+        "hash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-hdd",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-hdd",
+        "hdd"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-heading",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-heading",
+        "heading"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-headphone",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-headphone",
+        "headphone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-health",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-health",
+        "health"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-heart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-heart",
+        "heart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-heart-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-heart-circle",
+        "heart-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-heart-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-heart-square",
+        "heart-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-help-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-help-circle",
+        "help-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-hide",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-hide",
+        "hide"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-highlight",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-highlight",
+        "highlight"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-history",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-history",
+        "history"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-hive",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-hive",
+        "hive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-home",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-home",
+        "home"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-home-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-home-alt",
+        "home-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-home-alt-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-home-alt-2",
+        "home-alt-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-home-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-home-circle",
+        "home-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-home-heart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-home-heart",
+        "home-heart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-home-smile",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-home-smile",
+        "home-smile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-horizontal-center",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-horizontal-center",
+        "horizontal-center"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-horizontal-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-horizontal-left",
+        "horizontal-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-horizontal-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-horizontal-right",
+        "horizontal-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-hotel",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-hotel",
+        "hotel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-hourglass",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-hourglass",
+        "hourglass"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-id-card",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-id-card",
+        "id-card"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-image",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-image",
+        "image"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-image-add",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-image-add",
+        "image-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-image-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-image-alt",
+        "image-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-images",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-images",
+        "images"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-import",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-import",
+        "import"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-infinite",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-infinite",
+        "infinite"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-info-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-info-circle",
+        "info-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-info-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-info-square",
+        "info-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-injection",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-injection",
+        "injection"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-intersect",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-intersect",
+        "intersect"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-italic",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-italic",
+        "italic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-joystick",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-joystick",
+        "joystick"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-joystick-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-joystick-alt",
+        "joystick-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-joystick-button",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-joystick-button",
+        "joystick-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-key",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-key",
+        "key"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-knife",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-knife",
+        "knife"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-label",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-label",
+        "label"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-landscape",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-landscape",
+        "landscape"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-laptop",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-laptop",
+        "laptop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-last-page",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-last-page",
+        "last-page"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-laugh",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-laugh",
+        "laugh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-layer",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-layer",
+        "layer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-layer-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-layer-minus",
+        "layer-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-layer-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-layer-plus",
+        "layer-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-layout",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-layout",
+        "layout"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-leaf",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-leaf",
+        "leaf"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-left-arrow",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-left-arrow",
+        "left-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-left-arrow-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-left-arrow-alt",
+        "left-arrow-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-left-arrow-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-left-arrow-circle",
+        "left-arrow-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-left-down-arrow-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-left-down-arrow-circle",
+        "left-down-arrow-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-left-indent",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-left-indent",
+        "left-indent"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-left-top-arrow-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-left-top-arrow-circle",
+        "left-top-arrow-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-lemon",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-lemon",
+        "lemon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-library",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-library",
+        "library"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-like",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-like",
+        "like"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-line-chart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-line-chart",
+        "line-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-line-chart-down",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-line-chart-down",
+        "line-chart-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-link",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-link",
+        "link"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-link-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-link-alt",
+        "link-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-link-external",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-link-external",
+        "link-external"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-lira",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-lira",
+        "lira"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-list-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-list-check",
+        "list-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-list-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-list-minus",
+        "list-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-list-ol",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-list-ol",
+        "list-ol"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-list-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-list-plus",
+        "list-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-list-ul",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-list-ul",
+        "list-ul"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-loader",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-loader",
+        "loader"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-loader-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-loader-alt",
+        "loader-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-loader-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-loader-circle",
+        "loader-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-location-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-location-plus",
+        "location-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-lock",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-lock",
+        "lock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-lock-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-lock-alt",
+        "lock-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-lock-open",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-lock-open",
+        "lock-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-lock-open-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-lock-open-alt",
+        "lock-open-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-log-in",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-log-in",
+        "log-in"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-log-in-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-log-in-circle",
+        "log-in-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-log-out",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-log-out",
+        "log-out"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-log-out-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-log-out-circle",
+        "log-out-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-low-vision",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-low-vision",
+        "low-vision"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-magnet",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-magnet",
+        "magnet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-mail-send",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-mail-send",
+        "mail-send"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-male",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-male",
+        "male"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-male-female",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-male-female",
+        "male-female"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-male-sign",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-male-sign",
+        "male-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-map",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-map",
+        "map"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-map-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-map-alt",
+        "map-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-map-pin",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-map-pin",
+        "map-pin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-mask",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-mask",
+        "mask"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-math",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-math",
+        "math"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-medal",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-medal",
+        "medal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-meh",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-meh",
+        "meh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-meh-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-meh-alt",
+        "meh-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-meh-blank",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-meh-blank",
+        "meh-blank"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-memory-card",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-memory-card",
+        "memory-card"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-menu",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-menu",
+        "menu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-menu-alt-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-menu-alt-left",
+        "menu-alt-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-menu-alt-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-menu-alt-right",
+        "menu-alt-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-merge",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-merge",
+        "merge"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message",
+        "message"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-add",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-add",
+        "message-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-alt",
+        "message-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-alt-add",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-alt-add",
+        "message-alt-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-alt-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-alt-check",
+        "message-alt-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-alt-detail",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-alt-detail",
+        "message-alt-detail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-alt-dots",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-alt-dots",
+        "message-alt-dots"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-alt-edit",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-alt-edit",
+        "message-alt-edit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-alt-error",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-alt-error",
+        "message-alt-error"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-alt-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-alt-minus",
+        "message-alt-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-alt-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-alt-x",
+        "message-alt-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-check",
+        "message-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-detail",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-detail",
+        "message-detail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-dots",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-dots",
+        "message-dots"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-edit",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-edit",
+        "message-edit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-error",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-error",
+        "message-error"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-minus",
+        "message-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-rounded",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-rounded",
+        "message-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-rounded-add",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-rounded-add",
+        "message-rounded-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-rounded-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-rounded-check",
+        "message-rounded-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-rounded-detail",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-rounded-detail",
+        "message-rounded-detail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-rounded-dots",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-rounded-dots",
+        "message-rounded-dots"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-rounded-edit",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-rounded-edit",
+        "message-rounded-edit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-rounded-error",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-rounded-error",
+        "message-rounded-error"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-rounded-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-rounded-minus",
+        "message-rounded-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-rounded-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-rounded-x",
+        "message-rounded-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-square",
+        "message-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-square-add",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-square-add",
+        "message-square-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-square-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-square-check",
+        "message-square-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-square-detail",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-square-detail",
+        "message-square-detail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-square-dots",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-square-dots",
+        "message-square-dots"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-square-edit",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-square-edit",
+        "message-square-edit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-square-error",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-square-error",
+        "message-square-error"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-square-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-square-minus",
+        "message-square-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-square-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-square-x",
+        "message-square-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-message-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-message-x",
+        "message-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-meteor",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-meteor",
+        "meteor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-microchip",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-microchip",
+        "microchip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-microphone",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-microphone",
+        "microphone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-microphone-off",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-microphone-off",
+        "microphone-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-minus",
+        "minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-minus-back",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-minus-back",
+        "minus-back"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-minus-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-minus-circle",
+        "minus-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-minus-front",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-minus-front",
+        "minus-front"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-mobile",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-mobile",
+        "mobile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-mobile-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-mobile-alt",
+        "mobile-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-mobile-landscape",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-mobile-landscape",
+        "mobile-landscape"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-mobile-vibration",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-mobile-vibration",
+        "mobile-vibration"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-money",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-money",
+        "money"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-money-withdraw",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-money-withdraw",
+        "money-withdraw"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-moon",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-moon",
+        "moon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-mouse",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-mouse",
+        "mouse"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-mouse-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-mouse-alt",
+        "mouse-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-move",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-move",
+        "move"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-move-horizontal",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-move-horizontal",
+        "move-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-move-vertical",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-move-vertical",
+        "move-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-movie",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-movie",
+        "movie"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-movie-play",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-movie-play",
+        "movie-play"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-music",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-music",
+        "music"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-navigation",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-navigation",
+        "navigation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-network-chart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-network-chart",
+        "network-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-news",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-news",
+        "news"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-no-entry",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-no-entry",
+        "no-entry"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-no-signal",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-no-signal",
+        "no-signal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-note",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-note",
+        "note"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-notepad",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-notepad",
+        "notepad"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-notification",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-notification",
+        "notification"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-notification-off",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-notification-off",
+        "notification-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-objects-horizontal-center",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-objects-horizontal-center",
+        "objects-horizontal-center"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-objects-horizontal-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-objects-horizontal-left",
+        "objects-horizontal-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-objects-horizontal-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-objects-horizontal-right",
+        "objects-horizontal-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-objects-vertical-bottom",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-objects-vertical-bottom",
+        "objects-vertical-bottom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-objects-vertical-center",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-objects-vertical-center",
+        "objects-vertical-center"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-objects-vertical-top",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-objects-vertical-top",
+        "objects-vertical-top"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-outline",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-outline",
+        "outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-package",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-package",
+        "package"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-paint",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-paint",
+        "paint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-paint-roll",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-paint-roll",
+        "paint-roll"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-palette",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-palette",
+        "palette"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-paper-plane",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-paper-plane",
+        "paper-plane"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-paperclip",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-paperclip",
+        "paperclip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-paragraph",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-paragraph",
+        "paragraph"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-party",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-party",
+        "party"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-paste",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-paste",
+        "paste"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pause",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pause",
+        "pause"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pause-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pause-circle",
+        "pause-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pen",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pen",
+        "pen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pencil",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pencil",
+        "pencil"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-phone",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-phone",
+        "phone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-phone-call",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-phone-call",
+        "phone-call"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-phone-incoming",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-phone-incoming",
+        "phone-incoming"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-phone-off",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-phone-off",
+        "phone-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-phone-outgoing",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-phone-outgoing",
+        "phone-outgoing"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-photo-album",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-photo-album",
+        "photo-album"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pie-chart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pie-chart",
+        "pie-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pie-chart-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pie-chart-alt",
+        "pie-chart-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pie-chart-alt-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pie-chart-alt-2",
+        "pie-chart-alt-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pin",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pin",
+        "pin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-planet",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-planet",
+        "planet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-play",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-play",
+        "play"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-play-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-play-circle",
+        "play-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-plug",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-plug",
+        "plug"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-plus",
+        "plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-plus-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-plus-circle",
+        "plus-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-plus-medical",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-plus-medical",
+        "plus-medical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-podcast",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-podcast",
+        "podcast"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pointer",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pointer",
+        "pointer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-poll",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-poll",
+        "poll"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-polygon",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-polygon",
+        "polygon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-popsicle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-popsicle",
+        "popsicle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pound",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pound",
+        "pound"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-power-off",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-power-off",
+        "power-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-printer",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-printer",
+        "printer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pulse",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pulse",
+        "pulse"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-purchase-tag",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-purchase-tag",
+        "purchase-tag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-purchase-tag-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-purchase-tag-alt",
+        "purchase-tag-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-pyramid",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-pyramid",
+        "pyramid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-qr",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-qr",
+        "qr"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-qr-scan",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-qr-scan",
+        "qr-scan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-question-mark",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-question-mark",
+        "question-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-radar",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-radar",
+        "radar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-radio",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-radio",
+        "radio"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-radio-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-radio-circle",
+        "radio-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-radio-circle-marked",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-radio-circle-marked",
+        "radio-circle-marked"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-receipt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-receipt",
+        "receipt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rectangle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rectangle",
+        "rectangle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-recycle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-recycle",
+        "recycle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-redo",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-redo",
+        "redo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-reflect-horizontal",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-reflect-horizontal",
+        "reflect-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-reflect-vertical",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-reflect-vertical",
+        "reflect-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-refresh",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-refresh",
+        "refresh"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-registered",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-registered",
+        "registered"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rename",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rename",
+        "rename"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-repeat",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-repeat",
+        "repeat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-reply",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-reply",
+        "reply"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-reply-all",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-reply-all",
+        "reply-all"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-repost",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-repost",
+        "repost"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-reset",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-reset",
+        "reset"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-restaurant",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-restaurant",
+        "restaurant"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-revision",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-revision",
+        "revision"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rewind",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rewind",
+        "rewind"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rewind-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rewind-circle",
+        "rewind-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rfid",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rfid",
+        "rfid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-right-arrow",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-right-arrow",
+        "right-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-right-arrow-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-right-arrow-alt",
+        "right-arrow-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-right-arrow-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-right-arrow-circle",
+        "right-arrow-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-right-down-arrow-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-right-down-arrow-circle",
+        "right-down-arrow-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-right-indent",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-right-indent",
+        "right-indent"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-right-top-arrow-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-right-top-arrow-circle",
+        "right-top-arrow-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rocket",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rocket",
+        "rocket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rotate-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rotate-left",
+        "rotate-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rotate-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rotate-right",
+        "rotate-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rss",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rss",
+        "rss"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-ruble",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-ruble",
+        "ruble"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-ruler",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-ruler",
+        "ruler"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-run",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-run",
+        "run"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-rupee",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-rupee",
+        "rupee"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sad",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sad",
+        "sad"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-save",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-save",
+        "save"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-scan",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-scan",
+        "scan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-scatter-chart",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-scatter-chart",
+        "scatter-chart"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-screenshot",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-screenshot",
+        "screenshot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-search",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-search",
+        "search"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-search-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-search-alt",
+        "search-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-search-alt-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-search-alt-2",
+        "search-alt-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-select-multiple",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-select-multiple",
+        "select-multiple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-selection",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-selection",
+        "selection"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-send",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-send",
+        "send"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-server",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-server",
+        "server"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shape-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shape-circle",
+        "shape-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shape-polygon",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shape-polygon",
+        "shape-polygon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shape-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shape-square",
+        "shape-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shape-triangle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shape-triangle",
+        "shape-triangle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-share",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-share",
+        "share"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-share-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-share-alt",
+        "share-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shekel",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shekel",
+        "shekel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shield",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shield",
+        "shield"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shield-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shield-alt",
+        "shield-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shield-alt-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shield-alt-2",
+        "shield-alt-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shield-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shield-minus",
+        "shield-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shield-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shield-plus",
+        "shield-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shield-quarter",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shield-quarter",
+        "shield-quarter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shield-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shield-x",
+        "shield-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shocked",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shocked",
+        "shocked"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shopping-bag",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shopping-bag",
+        "shopping-bag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-show",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-show",
+        "show"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-show-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-show-alt",
+        "show-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shower",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shower",
+        "shower"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-shuffle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-shuffle",
+        "shuffle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sidebar",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sidebar",
+        "sidebar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-signal-1",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-signal-1",
+        "signal-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-signal-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-signal-2",
+        "signal-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-signal-3",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-signal-3",
+        "signal-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-signal-4",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-signal-4",
+        "signal-4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-signal-5",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-signal-5",
+        "signal-5"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sitemap",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sitemap",
+        "sitemap"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-skip-next",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-skip-next",
+        "skip-next"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-skip-next-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-skip-next-circle",
+        "skip-next-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-skip-previous",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-skip-previous",
+        "skip-previous"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-skip-previous-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-skip-previous-circle",
+        "skip-previous-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sleepy",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sleepy",
+        "sleepy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-slider",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-slider",
+        "slider"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-slider-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-slider-alt",
+        "slider-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-slideshow",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-slideshow",
+        "slideshow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-smile",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-smile",
+        "smile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sort",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sort",
+        "sort"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sort-a-z",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sort-a-z",
+        "sort-a-z"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sort-alt-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sort-alt-2",
+        "sort-alt-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sort-down",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sort-down",
+        "sort-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sort-up",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sort-up",
+        "sort-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sort-z-a",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sort-z-a",
+        "sort-z-a"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-spa",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-spa",
+        "spa"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-space-bar",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-space-bar",
+        "space-bar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-speaker",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-speaker",
+        "speaker"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-spray-can",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-spray-can",
+        "spray-can"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-spreadsheet",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-spreadsheet",
+        "spreadsheet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-square",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-square",
+        "square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-square-rounded",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-square-rounded",
+        "square-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-star",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-star",
+        "star"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-station",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-station",
+        "station"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-stats",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-stats",
+        "stats"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sticker",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sticker",
+        "sticker"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-stop",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-stop",
+        "stop"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-stop-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-stop-circle",
+        "stop-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-stopwatch",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-stopwatch",
+        "stopwatch"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-store",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-store",
+        "store"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-store-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-store-alt",
+        "store-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-street-view",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-street-view",
+        "street-view"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-strikethrough",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-strikethrough",
+        "strikethrough"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-subdirectory-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-subdirectory-left",
+        "subdirectory-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-subdirectory-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-subdirectory-right",
+        "subdirectory-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sun",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sun",
+        "sun"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-support",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-support",
+        "support"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sushi",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sushi",
+        "sushi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-swim",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-swim",
+        "swim"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-sync",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-sync",
+        "sync"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-tab",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-tab",
+        "tab"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-table",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-table",
+        "table"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-tachometer",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-tachometer",
+        "tachometer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-tag",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-tag",
+        "tag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-tag-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-tag-alt",
+        "tag-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-target-lock",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-target-lock",
+        "target-lock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-task",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-task",
+        "task"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-task-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-task-x",
+        "task-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-taxi",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-taxi",
+        "taxi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-tennis-ball",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-tennis-ball",
+        "tennis-ball"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-terminal",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-terminal",
+        "terminal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-test-tube",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-test-tube",
+        "test-tube"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-text",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-text",
+        "text"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-time",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-time",
+        "time"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-time-five",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-time-five",
+        "time-five"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-timer",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-timer",
+        "timer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-tired",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-tired",
+        "tired"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-toggle-left",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-toggle-left",
+        "toggle-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-toggle-right",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-toggle-right",
+        "toggle-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-tone",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-tone",
+        "tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-traffic-cone",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-traffic-cone",
+        "traffic-cone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-train",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-train",
+        "train"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-transfer",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-transfer",
+        "transfer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-transfer-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-transfer-alt",
+        "transfer-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-trash",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-trash",
+        "trash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-trash-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-trash-alt",
+        "trash-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-trending-down",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-trending-down",
+        "trending-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-trending-up",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-trending-up",
+        "trending-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-trim",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-trim",
+        "trim"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-trip",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-trip",
+        "trip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-trophy",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-trophy",
+        "trophy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-tv",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-tv",
+        "tv"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-underline",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-underline",
+        "underline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-undo",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-undo",
+        "undo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-unite",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-unite",
+        "unite"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-universal-access",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-universal-access",
+        "universal-access"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-unlink",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-unlink",
+        "unlink"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-up-arrow",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-up-arrow",
+        "up-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-up-arrow-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-up-arrow-alt",
+        "up-arrow-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-up-arrow-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-up-arrow-circle",
+        "up-arrow-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-upload",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-upload",
+        "upload"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-upside-down",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-upside-down",
+        "upside-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-upvote",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-upvote",
+        "upvote"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-usb",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-usb",
+        "usb"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-user",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-user",
+        "user"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-user-check",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-user-check",
+        "user-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-user-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-user-circle",
+        "user-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-user-minus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-user-minus",
+        "user-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-user-pin",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-user-pin",
+        "user-pin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-user-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-user-plus",
+        "user-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-user-voice",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-user-voice",
+        "user-voice"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-user-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-user-x",
+        "user-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-vector",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-vector",
+        "vector"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-vertical-bottom",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-vertical-bottom",
+        "vertical-bottom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-vertical-center",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-vertical-center",
+        "vertical-center"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-vertical-top",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-vertical-top",
+        "vertical-top"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-vial",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-vial",
+        "vial"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-video",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-video",
+        "video"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-video-off",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-video-off",
+        "video-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-video-plus",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-video-plus",
+        "video-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-video-recording",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-video-recording",
+        "video-recording"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-voicemail",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-voicemail",
+        "voicemail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-volume",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-volume",
+        "volume"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-volume-full",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-volume-full",
+        "volume-full"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-volume-low",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-volume-low",
+        "volume-low"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-volume-mute",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-volume-mute",
+        "volume-mute"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-walk",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-walk",
+        "walk"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wallet",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wallet",
+        "wallet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wallet-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wallet-alt",
+        "wallet-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-water",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-water",
+        "water"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-webcam",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-webcam",
+        "webcam"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wifi",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wifi",
+        "wifi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wifi-0",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wifi-0",
+        "wifi-0"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wifi-1",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wifi-1",
+        "wifi-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wifi-2",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wifi-2",
+        "wifi-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wifi-off",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wifi-off",
+        "wifi-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wind",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wind",
+        "wind"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-window",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-window",
+        "window"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-window-alt",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-window-alt",
+        "window-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-window-close",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-window-close",
+        "window-close"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-window-open",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-window-open",
+        "window-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-windows",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-windows",
+        "windows"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wine",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wine",
+        "wine"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wink-smile",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wink-smile",
+        "wink-smile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wink-tongue",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wink-tongue",
+        "wink-tongue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-won",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-won",
+        "won"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-world",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-world",
+        "world"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-wrench",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-wrench",
+        "wrench"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-x",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-x",
+        "x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-x-circle",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-x-circle",
+        "x-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-yen",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-yen",
+        "yen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-zoom-in",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-zoom-in",
+        "zoom-in"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Bx",
+      "glyphName": "bx-zoom-out",
+      "prefix": "bx",
+      "sampleIcons": [
+        "bx-zoom-out",
+        "zoom-out"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Bx",
+      "headBbox": "0..959 / 0..960",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "bx",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "bx",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Bx",
+      "glyphCount": 2422,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 960,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

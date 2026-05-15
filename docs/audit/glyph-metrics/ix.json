@@ -1,0 +1,221 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "about",
+      "prefix": "ix",
+      "sampleIcons": [
+        "about",
+        "info"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "about-filled",
+      "prefix": "ix",
+      "sampleIcons": [
+        "about-filled",
+        "info-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "add-circle-small",
+      "prefix": "ix",
+      "sampleIcons": [
+        "add-circle-small",
+        "new-indicator"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "add-circle-small-filled",
+      "prefix": "ix",
+      "sampleIcons": [
+        "add-circle-small-filled",
+        "new-indicator-filled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "applications",
+      "prefix": "ix",
+      "sampleIcons": [
+        "applications",
+        "tiles"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "arrow-up-left",
+      "prefix": "ix",
+      "sampleIcons": [
+        "arrow-up-left",
+        "corner-arrow-up-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "battery-bolt",
+      "prefix": "ix",
+      "sampleIcons": [
+        "battery-bolt",
+        "battery-charge"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "battery-upright-bolt",
+      "prefix": "ix",
+      "sampleIcons": [
+        "battery-upright-bolt",
+        "battery-upright-charge"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "cam",
+      "prefix": "ix",
+      "sampleIcons": [
+        "cam",
+        "output-cam"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "checkbox-component-unchecked",
+      "prefix": "ix",
+      "sampleIcons": [
+        "checkbox-component-unchecked",
+        "namur-diagnostics-passive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "checkbox-empty",
+      "prefix": "ix",
+      "sampleIcons": [
+        "checkbox-empty",
+        "editor-grid-none"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "filter",
+      "prefix": "ix",
+      "sampleIcons": [
+        "filter",
+        "filter-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "folder",
+      "prefix": "ix",
+      "sampleIcons": [
+        "folder",
+        "folder-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "full-screeen",
+      "prefix": "ix",
+      "sampleIcons": [
+        "full-screeen",
+        "full-screen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "full-screeen-exit",
+      "prefix": "ix",
+      "sampleIcons": [
+        "full-screeen-exit",
+        "full-screen-exit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "location",
+      "prefix": "ix",
+      "sampleIcons": [
+        "location",
+        "location-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ix",
+      "glyphName": "plant",
+      "prefix": "ix",
+      "sampleIcons": [
+        "plant",
+        "plant-outline"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Ix",
+      "headBbox": "-6..1001 / 0..999",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "ix",
+      "reasons": [
+        "head.xMin=-6",
+        "head.xMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "ix",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Ix",
+      "glyphCount": 1434,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": -6,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

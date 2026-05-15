@@ -1,0 +1,459 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "address-book-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "address-book-outline",
+        "adress-book-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "address-book-solid",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "address-book-solid",
+        "adress-book-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "angle-down-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "angle-down-outline",
+        "angle-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "angle-left-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "angle-left-outline",
+        "angle-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "angle-right-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "angle-right-outline",
+        "angle-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "angle-top-solid",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "angle-top-solid",
+        "angle-up-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "arrow-down-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "arrow-down-outline",
+        "arrow-up-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "arrow-down-to-bracket-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "arrow-down-to-bracket-outline",
+        "arrow-down-to-bracket-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "arrow-left-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "arrow-left-outline",
+        "arrow-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "arrow-left-to-bracket-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "arrow-left-to-bracket-outline",
+        "arrow-left-to-bracket-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "arrow-right-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "arrow-right-outline",
+        "arrow-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "arrow-right-to-bracket-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "arrow-right-to-bracket-outline",
+        "arrow-right-to-bracket-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "arrow-sort-letters-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "arrow-sort-letters-outline",
+        "arrow-sort-letters-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "bars-from-left-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "bars-from-left-outline",
+        "bars-from-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "bars-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "bars-outline",
+        "bars-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chart-mixed-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chart-mixed-outline",
+        "chart-mixed-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "check-circle-solid",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "check-circle-solid",
+        "circle-check-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chevron-double-down-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chevron-double-down-outline",
+        "chevron-double-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chevron-double-left-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chevron-double-left-outline",
+        "chevron-double-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chevron-double-right-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chevron-double-right-outline",
+        "chevron-double-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chevron-double-up-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chevron-double-up-outline",
+        "chevron-double-up-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chevron-down-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chevron-down-outline",
+        "chevron-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chevron-left-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chevron-left-outline",
+        "chevron-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chevron-right-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chevron-right-outline",
+        "chevron-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chevron-sort-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chevron-sort-outline",
+        "chevron-sort-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "chevron-up-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "chevron-up-outline",
+        "chevron-up-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "close-circle-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "close-circle-outline",
+        "x-circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "close-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "close-outline",
+        "x-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "code-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "code-outline",
+        "code-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "command-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "command-outline",
+        "command-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "compress-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "compress-outline",
+        "compress-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "dna-solid",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "dna-solid",
+        "truck-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "face-laugh-solid",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "face-laugh-solid",
+        "face-laughz-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "grid-24x24px-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "grid-24x24px-outline",
+        "pause-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "minus-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "minus-outline",
+        "minus-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "paper-clip-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "paper-clip-outline",
+        "paper-clip-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "paper-plane-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "paper-plane-outline",
+        "papper-plane-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "plus-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "plus-outline",
+        "plus-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "redo-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "redo-outline",
+        "undo-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "redo-solid",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "redo-solid",
+        "undo-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Flowbite",
+      "glyphName": "sort-outline",
+      "prefix": "flowbite",
+      "sampleIcons": [
+        "sort-outline",
+        "sort-solid"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Flowbite",
+      "headBbox": "0..1000 / 0..959",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "flowbite",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "flowbite",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Flowbite",
+      "glyphCount": 833,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

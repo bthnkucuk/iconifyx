@@ -1,0 +1,2428 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "DinkieIcons",
+      "headBbox": "0..1125 / -125..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 125,
+      "prefix": "dinkie-icons",
+      "reasons": [
+        "head.xMax=1125",
+        "head.yMin=-125",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=125"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 57350,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "address-book-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57351,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "address-book-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57370,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "adult-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57371,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "adult-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57377,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "alarm-clock-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57379,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "alien-monster-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57382,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "alipay-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57383,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "alipay-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57385,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "anchor-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57392,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "app-notifacation-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57406,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "automobile-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57416,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "ballot-box-with-check-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57417,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "ballot-box-with-check-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57424,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "battery-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57425,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "battery-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57434,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "bezier-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57436,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "bigger-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57438,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "bilibili-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57440,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "billed-cap-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57449,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "black-cross-square-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57450,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "black-cross-square-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57468,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "black-sun-with-rays-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57469,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "black-sun-with-rays-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57476,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "boy-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57477,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "boy-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57480,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "briefcase-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57492,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "calendar-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57497,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "cat-face-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57500,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "checkmark-circled-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57501,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "checkmark-circled-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57504,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "cherries-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57511,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "circle-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57512,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "circle-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57515,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "circled-information-source-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57516,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "circled-information-source-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57521,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "clipboard-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57522,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "clipboard-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57525,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "clock-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57528,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "closed-book-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57529,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "closed-book-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57536,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "code-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57539,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "compass-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57540,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "compass-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57544,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "contrast-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57545,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "contrast-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57553,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "copies-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57554,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "copies-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57559,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "crescent-moon-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57560,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "crescent-moon-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57563,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "cube-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57575,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "dagger-knife-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57580,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "delivery-truck-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57581,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "delivery-truck-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57585,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "desktop-computer-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57586,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "desktop-computer-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57589,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "diagonal-cross-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57592,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face1-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57593,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face1-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57596,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face2-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57597,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face2-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57600,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face3-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57601,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face3-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57604,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face4-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57605,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face4-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57608,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face5-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57609,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face5-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57612,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face6-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57613,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "die-face6-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57616,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "display-dot-matrix-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57621,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "doge-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57625,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "download-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57633,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "duplicate-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57634,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "duplicate-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57651,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "elevator-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57655,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "envelope-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57656,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "envelope-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57662,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "eye-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57682,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "facebook-alt-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57685,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "factory-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57691,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "file-folder-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57692,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "file-folder-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57695,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "file-font-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57698,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "file-graphics-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57701,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "file-otf-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57704,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "file-ttf-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57707,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "file-vector-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57710,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "file-woff-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57713,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "file-woff2-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57715,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "film-frames-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57717,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "filter-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57719,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "finder-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57721,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "fire-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57735,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "floppy-disk-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57736,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "floppy-disk-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57750,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "game-die-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57757,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "girl-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57758,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "girl-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57760,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "github-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57762,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "globe-meridians-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57773,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "grid-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57779,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "hamburger-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57785,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "hashtag-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57790,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "heart-black-suit-circled-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57791,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "heart-black-suit-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57795,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "heart-white-suit-circled-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57796,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "heart-white-suit-circled-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57797,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "heart-white-suit-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57808,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "hocho-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57809,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "hocho-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57816,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "house-building-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57818,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "house-buildings-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57823,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "informationsource-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57824,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "informationsource-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57832,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "instagram-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57834,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "invert-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57845,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keyboard-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57848,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-asterisk-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57849,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-asterisk-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57852,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-command-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57853,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-command-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57856,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-control-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57857,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-control-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57860,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-eight-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57861,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-eight-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57864,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-five-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57865,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-five-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57868,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-four-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57869,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-four-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57872,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-nine-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57873,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-nine-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57876,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-one-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57877,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-one-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57880,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-seven-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57881,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-seven-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57884,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-six-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57885,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-six-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57888,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-three-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57889,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-three-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57892,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-two-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57893,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-two-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57896,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-zero-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57897,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-digit-zero-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57900,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-eleven-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57901,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-eleven-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57904,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-fn-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57905,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-fn-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57908,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-number-sign-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57909,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-number-sign-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57912,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-option-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57913,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-option-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57916,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-return-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57917,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-return-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57920,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-shift-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57921,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-shift-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57924,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-tab-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57925,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-tab-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57928,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-ten-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57929,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-ten-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57932,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-windows-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57933,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "keycap-windows-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57939,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "label-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57940,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "label-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57943,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-cyrillic-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57944,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-cyrillic-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57947,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-greek-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57948,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-greek-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57951,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-han-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57952,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-han-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57955,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-hangul-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57956,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-hangul-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57959,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-hebrew-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57960,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-hebrew-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57963,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-hira-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57964,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-hira-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57967,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-latin-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57968,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-latin-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57971,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-thai-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57972,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "language-thai-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57978,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "left-arrow-circled-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57979,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "left-arrow-circled-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57982,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "left-hook-arrow-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57983,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "left-hook-arrow-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57986,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "left-magnifying-glass-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57987,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "left-magnifying-glass-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57991,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "line-gap-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57993,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "line-height-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57995,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "link-symbol-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58002,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "lock-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58011,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "memo-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58012,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "memo-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58014,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "menu-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58024,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "milk-package-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58035,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "money-bag-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58053,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "netease-music-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58073,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "ok-hand-sign-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58081,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "open-book-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58084,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "open-lock-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58095,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-acps-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58097,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-c2sc-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58099,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-calt-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58101,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-ccmp-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58103,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-dlig-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58105,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-frac-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58107,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-fwid-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58109,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-hrzt-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58111,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-hwid-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58113,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-liga-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58115,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-onum-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58117,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-ordn-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58119,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-smcp-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58121,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-ss01-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58123,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-ss02-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58125,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-ss03-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58127,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-subs-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58129,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-sups-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58131,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-vert-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58133,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "otfeature-zero-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58136,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "page-curl-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58137,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "page-curl-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58140,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "page-facing-up-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58141,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "page-facing-up-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58144,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "page-graphics-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58152,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "party-popper-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58162,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "pencil-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58176,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "placard-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58180,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "podcast-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58188,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "public-address-loudspeaker-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58198,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "radio-button-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58200,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "radioactive-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58203,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "raised-back-of-hand-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58205,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "raised-hand-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58207,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "red-apple-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58214,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "restroom-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58219,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-arrow-circled-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58220,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-arrow-circled-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58225,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-hook-arrow-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58226,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-hook-arrow-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58229,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-magnifying-glass-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58230,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-magnifying-glass-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58233,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-then-curving-down-arrow-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58234,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-then-curving-down-arrow-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58237,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-then-curving-up-arrow-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58238,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "right-then-curving-up-arrow-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58259,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "scan-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58277,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "shopping-trolley-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58284,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "sina-weibo-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58291,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "size-emoji-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58294,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "size-text-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58295,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "size-text-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58301,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "slightly-frowning-face-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58302,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "slightly-frowning-face-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58305,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "slightly-smiling-face-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58306,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "slightly-smiling-face-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58309,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "smaller-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58329,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "speech-balloon-empty-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58330,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "speech-balloon-empty-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58332,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "speech-balloon-heart-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58334,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "speech-balloon-info-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58336,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "speech-balloon-question-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58337,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "speech-balloon-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58338,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "speech-balloon-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58343,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "squint-smiling-face-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58349,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "stopwatch-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58359,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "t-rex-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58360,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "t-rex-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58366,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "telegram-alt-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58373,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "text-edit-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58389,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "tiktok-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58393,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "top-hat-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58413,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "twitter-alt-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58414,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "twitter-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58424,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "u1faaa-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58426,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "u1faab-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58431,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "u1fae5-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58458,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "unicode-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58463,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "upside-down-face-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58464,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "upside-down-face-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58468,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "video-game-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58471,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "view-grid-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58473,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "view-list-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58483,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "webcam-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58487,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "wechat-moments-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58488,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "wechat-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58489,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "wechat-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58497,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "white-heavy-check-mark-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58498,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "white-heavy-check-mark-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58502,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "white-medium-star-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58503,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "white-medium-star-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58507,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "whitesquare-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58510,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "window-browser-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58515,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "windows-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58522,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "wireless-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58528,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "wrench-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58536,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "zoom-in-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58537,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "zoom-in-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58540,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "zoom-out-small",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58541,
+      "contentWidth": 1125,
+      "font": "DinkieIcons",
+      "name": "zoom-out-small-filled",
+      "prefix": "dinkie-icons",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "dinkie-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "DinkieIcons",
+      "glyphCount": 1198,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1125,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -125
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 125
+      }
+    }
+  ]
+}

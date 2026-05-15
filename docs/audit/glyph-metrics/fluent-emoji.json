@@ -1,0 +1,324 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 4,
+      "font": "FluentEmoji",
+      "glyphName": "japanese-discount-button",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "japanese-discount-button",
+        "japanese-no-vacancy-button",
+        "japanese-passing-grade-button",
+        "japanese-prohibited-button"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "FluentEmoji",
+      "glyphName": "black-large-square",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "black-large-square",
+        "brown-square",
+        "red-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "angry-face-with-horns",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "angry-face-with-horns",
+        "smiling-face-with-horns"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "cinema",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "cinema",
+        "upwards-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "down-right-arrow",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "down-right-arrow",
+        "left-arrow-curving-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "eject-button",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "eject-button",
+        "last-track-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "fast-forward-button",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "fast-forward-button",
+        "right-arrow-curving-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "fast-reverse-button",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "fast-reverse-button",
+        "record-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "information",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "information",
+        "keycap-asterisk"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "input-latin-lowercase",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "input-latin-lowercase",
+        "ng-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "input-latin-uppercase",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "input-latin-uppercase",
+        "new-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "japanese-hear-button",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "japanese-hear-button",
+        "japanese-here-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "left-right-arrow",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "left-right-arrow",
+        "up-right-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "next-track-button",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "next-track-button",
+        "right-arrow-curving-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "right-arrow",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "right-arrow",
+        "right-arrow-curving-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FluentEmoji",
+      "glyphName": "up-arrow",
+      "prefix": "fluent-emoji",
+      "sampleIcons": [
+        "up-arrow",
+        "up-down-arrow"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "FluentEmoji",
+      "headBbox": "0..1001 / 0..978",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "fluent-emoji",
+      "reasons": [
+        "head.xMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "FluentEmojiSecondary",
+      "headBbox": "0..750 / 0..624",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "fluent-emoji",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 969,
+      "codepoint": 57475,
+      "font": "FluentEmoji",
+      "name": "black-heart",
+      "prefix": "fluent-emoji",
+      "reason": "advance"
+    },
+    {
+      "advance": 1031,
+      "codepoint": 57489,
+      "font": "FluentEmoji",
+      "name": "bomb",
+      "prefix": "fluent-emoji",
+      "reason": "advance"
+    },
+    {
+      "advance": 969,
+      "codepoint": 57750,
+      "font": "FluentEmoji",
+      "name": "eye-in-speech-bubble",
+      "prefix": "fluent-emoji",
+      "reason": "advance"
+    },
+    {
+      "advance": 969,
+      "codepoint": 57909,
+      "font": "FluentEmoji",
+      "name": "growing-heart",
+      "prefix": "fluent-emoji",
+      "reason": "advance"
+    },
+    {
+      "advance": 969,
+      "codepoint": 57920,
+      "font": "FluentEmoji",
+      "name": "hamster",
+      "prefix": "fluent-emoji",
+      "reason": "advance"
+    },
+    {
+      "advance": 969,
+      "codepoint": 58870,
+      "font": "FluentEmoji",
+      "name": "person-feeding-baby-dark",
+      "prefix": "fluent-emoji",
+      "reason": "advance"
+    },
+    {
+      "advance": 969,
+      "codepoint": 59164,
+      "font": "FluentEmoji",
+      "name": "pig-nose",
+      "prefix": "fluent-emoji",
+      "reason": "advance"
+    },
+    {
+      "advance": 969,
+      "codepoint": 59260,
+      "font": "FluentEmoji",
+      "name": "raising-hands",
+      "prefix": "fluent-emoji",
+      "reason": "advance"
+    },
+    {
+      "advance": 969,
+      "codepoint": 59288,
+      "font": "FluentEmoji",
+      "name": "rhinoceros",
+      "prefix": "fluent-emoji",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "fluent-emoji",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FluentEmoji",
+      "glyphCount": 2777,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 978,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1031,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "FluentEmojiSecondary",
+      "glyphCount": 1,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 624,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

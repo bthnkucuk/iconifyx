@@ -1,0 +1,173 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57484,
+      "icon": "sort-ascending-duotone",
+      "prefix": "cuida",
+      "primary": {
+        "xMax": 483,
+        "xMin": 0,
+        "yMax": 913,
+        "yMin": 0
+      },
+      "primaryFont": "Cuida",
+      "score": 357,
+      "secondary": {
+        "xMax": 840,
+        "xMin": 0,
+        "yMax": 669,
+        "yMin": 0
+      },
+      "secondaryFont": "CuidaSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Cuida",
+      "headBbox": "0..926 / 0..924",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "cuida",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "CuidaSecondary",
+      "headBbox": "0..840 / 0..669",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "cuida",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 960,
+      "codepoint": 57455,
+      "font": "Cuida",
+      "name": "pin-fill",
+      "prefix": "cuida",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57484,
+      "font": "Cuida",
+      "name": "sort-ascending-duotone",
+      "prefix": "cuida",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57485,
+      "font": "Cuida",
+      "name": "sort-descending-duotone",
+      "prefix": "cuida",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57492,
+      "font": "Cuida",
+      "name": "swap-horizontal-arrows-outline",
+      "prefix": "cuida",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57493,
+      "font": "Cuida",
+      "name": "swap-vertical-arrows-outline",
+      "prefix": "cuida",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57508,
+      "font": "Cuida",
+      "name": "unfold-horizontal-outline",
+      "prefix": "cuida",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57509,
+      "font": "Cuida",
+      "name": "unfold-vertical-outline",
+      "prefix": "cuida",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57484,
+      "font": "CuidaSecondary",
+      "name": "sort-ascending-duotone",
+      "prefix": "cuida",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "cuida",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Cuida",
+      "glyphCount": 182,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 926,
+        "xMin": 0,
+        "yMax": 924,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "CuidaSecondary",
+      "glyphCount": 1,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 840,
+        "xMin": 0,
+        "yMax": 669,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 960,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

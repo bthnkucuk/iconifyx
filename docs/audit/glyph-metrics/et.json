@@ -1,0 +1,830 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Et",
+      "headBbox": "-9..1753 / -13..1011",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 13,
+      "prefix": "et",
+      "reasons": [
+        "head.xMin=-9",
+        "head.xMax=1753",
+        "head.yMin=-13",
+        "head.yMax=1011",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=13"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1031,
+      "codepoint": 57344,
+      "font": "Et",
+      "name": "adjustments",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57345,
+      "font": "Et",
+      "name": "alarmclock",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1093,
+      "codepoint": 57346,
+      "font": "Et",
+      "name": "anchor",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57349,
+      "font": "Et",
+      "name": "bargraph",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57350,
+      "font": "Et",
+      "name": "basket",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 843,
+      "codepoint": 57351,
+      "font": "Et",
+      "name": "beaker",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1750,
+      "codepoint": 57352,
+      "font": "Et",
+      "name": "bike",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57353,
+      "font": "Et",
+      "name": "book-open",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1187,
+      "codepoint": 57354,
+      "font": "Et",
+      "name": "briefcase",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57355,
+      "font": "Et",
+      "name": "browser",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57356,
+      "font": "Et",
+      "name": "calendar",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57357,
+      "font": "Et",
+      "name": "camera",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1093,
+      "codepoint": 57358,
+      "font": "Et",
+      "name": "caution",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57359,
+      "font": "Et",
+      "name": "chat",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 718,
+      "codepoint": 57360,
+      "font": "Et",
+      "name": "circle-compass",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57361,
+      "font": "Et",
+      "name": "clipboard",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57363,
+      "font": "Et",
+      "name": "cloud",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1218,
+      "codepoint": 57365,
+      "font": "Et",
+      "name": "desktop",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57367,
+      "font": "Et",
+      "name": "document",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57368,
+      "font": "Et",
+      "name": "documents",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57369,
+      "font": "Et",
+      "name": "download",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1187,
+      "codepoint": 57372,
+      "font": "Et",
+      "name": "envelope",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57375,
+      "font": "Et",
+      "name": "flag",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57376,
+      "font": "Et",
+      "name": "focus",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57377,
+      "font": "Et",
+      "name": "gears",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57378,
+      "font": "Et",
+      "name": "genius",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57379,
+      "font": "Et",
+      "name": "gift",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 781,
+      "codepoint": 57381,
+      "font": "Et",
+      "name": "globe",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57383,
+      "font": "Et",
+      "name": "grid",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1156,
+      "codepoint": 57386,
+      "font": "Et",
+      "name": "heart",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57387,
+      "font": "Et",
+      "name": "hotairballoon",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 656,
+      "codepoint": 57388,
+      "font": "Et",
+      "name": "hourglass",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57390,
+      "font": "Et",
+      "name": "laptop",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 57393,
+      "font": "Et",
+      "name": "lightbulb",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57394,
+      "font": "Et",
+      "name": "linegraph",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57396,
+      "font": "Et",
+      "name": "lock",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1281,
+      "codepoint": 57398,
+      "font": "Et",
+      "name": "map",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57399,
+      "font": "Et",
+      "name": "map-pin",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57400,
+      "font": "Et",
+      "name": "megaphone",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 468,
+      "codepoint": 57401,
+      "font": "Et",
+      "name": "mic",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57403,
+      "font": "Et",
+      "name": "newspaper",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 843,
+      "codepoint": 57404,
+      "font": "Et",
+      "name": "notebook",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 687,
+      "codepoint": 57405,
+      "font": "Et",
+      "name": "paintbrush",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57406,
+      "font": "Et",
+      "name": "paperclip",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 593,
+      "codepoint": 57408,
+      "font": "Et",
+      "name": "phone",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1031,
+      "codepoint": 57410,
+      "font": "Et",
+      "name": "pictures",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57412,
+      "font": "Et",
+      "name": "presentation",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57413,
+      "font": "Et",
+      "name": "pricetags",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57414,
+      "font": "Et",
+      "name": "printer",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57415,
+      "font": "Et",
+      "name": "profile-female",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57416,
+      "font": "Et",
+      "name": "profile-male",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1093,
+      "codepoint": 57417,
+      "font": "Et",
+      "name": "puzzle",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57421,
+      "font": "Et",
+      "name": "ribbon",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1031,
+      "codepoint": 57426,
+      "font": "Et",
+      "name": "search",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 843,
+      "codepoint": 57427,
+      "font": "Et",
+      "name": "shield",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 718,
+      "codepoint": 57429,
+      "font": "Et",
+      "name": "strategy",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 906,
+      "codepoint": 57430,
+      "font": "Et",
+      "name": "streetsign",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 781,
+      "codepoint": 57431,
+      "font": "Et",
+      "name": "tablet",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1093,
+      "codepoint": 57432,
+      "font": "Et",
+      "name": "telescope",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57433,
+      "font": "Et",
+      "name": "toolbox",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 995,
+      "codepoint": 57434,
+      "font": "Et",
+      "name": "tools",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57436,
+      "font": "Et",
+      "name": "traget",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57437,
+      "font": "Et",
+      "name": "trophy",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1312,
+      "codepoint": 57440,
+      "font": "Et",
+      "name": "upload",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1156,
+      "codepoint": 57441,
+      "font": "Et",
+      "name": "video",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 1187,
+      "codepoint": 57442,
+      "font": "Et",
+      "name": "wallet",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "advance": 718,
+      "codepoint": 57443,
+      "font": "Et",
+      "name": "wine",
+      "prefix": "et",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57349,
+      "contentWidth": 1125,
+      "font": "Et",
+      "name": "bargraph",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57350,
+      "contentWidth": 1317,
+      "font": "Et",
+      "name": "basket",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57352,
+      "contentWidth": 1756,
+      "font": "Et",
+      "name": "bike",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57353,
+      "contentWidth": 1282,
+      "font": "Et",
+      "name": "book-open",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57354,
+      "contentWidth": 1189,
+      "font": "Et",
+      "name": "briefcase",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57355,
+      "contentWidth": 1313,
+      "font": "Et",
+      "name": "browser",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57357,
+      "contentWidth": 1312,
+      "font": "Et",
+      "name": "camera",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57359,
+      "contentWidth": 1314,
+      "font": "Et",
+      "name": "chat",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57363,
+      "contentWidth": 1341,
+      "font": "Et",
+      "name": "cloud",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57365,
+      "contentWidth": 1219,
+      "font": "Et",
+      "name": "desktop",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57369,
+      "contentWidth": 1312,
+      "font": "Et",
+      "name": "download",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57372,
+      "contentWidth": 1188,
+      "font": "Et",
+      "name": "envelope",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57376,
+      "contentWidth": 1313,
+      "font": "Et",
+      "name": "focus",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57377,
+      "contentWidth": 1313,
+      "font": "Et",
+      "name": "gears",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57379,
+      "contentWidth": 1322,
+      "font": "Et",
+      "name": "gift",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57386,
+      "contentWidth": 1156,
+      "font": "Et",
+      "name": "heart",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57390,
+      "contentWidth": 1314,
+      "font": "Et",
+      "name": "laptop",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57394,
+      "contentWidth": 1319,
+      "font": "Et",
+      "name": "linegraph",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57398,
+      "contentWidth": 1283,
+      "font": "Et",
+      "name": "map",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57400,
+      "contentWidth": 1250,
+      "font": "Et",
+      "name": "megaphone",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57403,
+      "contentWidth": 1311,
+      "font": "Et",
+      "name": "newspaper",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57413,
+      "contentWidth": 1314,
+      "font": "Et",
+      "name": "pricetags",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57414,
+      "contentWidth": 1313,
+      "font": "Et",
+      "name": "printer",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57415,
+      "contentWidth": 1122,
+      "font": "Et",
+      "name": "profile-female",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57416,
+      "contentWidth": 1122,
+      "font": "Et",
+      "name": "profile-male",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57433,
+      "contentWidth": 1313,
+      "font": "Et",
+      "name": "toolbox",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57436,
+      "contentWidth": 1321,
+      "font": "Et",
+      "name": "traget",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57440,
+      "contentWidth": 1341,
+      "font": "Et",
+      "name": "upload",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57441,
+      "contentWidth": 1156,
+      "font": "Et",
+      "name": "video",
+      "prefix": "et",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57442,
+      "contentWidth": 1188,
+      "font": "Et",
+      "name": "wallet",
+      "prefix": "et",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "et",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Et",
+      "glyphCount": 100,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1753,
+        "xMin": -9,
+        "yMax": 1011,
+        "yMin": -13
+      },
+      "hhea": {
+        "advanceWidthMax": 1750,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 13
+      }
+    }
+  ]
+}

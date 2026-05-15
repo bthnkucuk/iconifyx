@@ -1,0 +1,222 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Codicon",
+      "glyphName": "browser",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "browser",
+        "project",
+        "window"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "circle",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "circle",
+        "circle-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "circle-large",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "circle-large",
+        "circle-large-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "circle-small-filled",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "circle-small-filled",
+        "debug-stackframe-dot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "diff-single",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "diff-single",
+        "request-changes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "file",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "file",
+        "symbol-file"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "file-code",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "file-code",
+        "gist"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "json",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "json",
+        "symbol-namespace"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "lightbulb",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "lightbulb",
+        "lightbulb-empty"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "multiple-windows",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "multiple-windows",
+        "versions"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Codicon",
+      "glyphName": "symbol-key",
+      "prefix": "codicon",
+      "sampleIcons": [
+        "symbol-key",
+        "symbol-string"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Codicon",
+      "headBbox": "-6..1012 / -12..1012",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 12,
+      "prefix": "codicon",
+      "reasons": [
+        "head.xMin=-6",
+        "head.xMax=1012",
+        "head.yMin=-12",
+        "head.yMax=1012",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=12"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 923,
+      "codepoint": 57413,
+      "font": "Codicon",
+      "name": "circle-slash-compact",
+      "prefix": "codicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57582,
+      "font": "Codicon",
+      "name": "github",
+      "prefix": "codicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57584,
+      "font": "Codicon",
+      "name": "github-alt",
+      "prefix": "codicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57658,
+      "font": "Codicon",
+      "name": "live-share",
+      "prefix": "codicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57701,
+      "font": "Codicon",
+      "name": "output",
+      "prefix": "codicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57735,
+      "font": "Codicon",
+      "name": "references",
+      "prefix": "codicon",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57740,
+      "font": "Codicon",
+      "name": "remote-explorer",
+      "prefix": "codicon",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "codicon",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Codicon",
+      "glyphCount": 568,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1012,
+        "xMin": -6,
+        "yMax": 1012,
+        "yMin": -12
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 12
+      }
+    }
+  ]
+}

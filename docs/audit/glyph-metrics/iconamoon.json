@@ -1,0 +1,3531 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 55,
+      "font": "IconamoonSecondary",
+      "glyphName": "arrow-bottom-left-5-circle-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-left-5-circle-duotone",
+        "arrow-bottom-left-6-circle-duotone",
+        "arrow-bottom-right-5-circle-duotone",
+        "arrow-bottom-right-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 38,
+      "font": "IconamoonSecondary",
+      "glyphName": "arrow-bottom-left-3-square-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-left-3-square-duotone",
+        "arrow-bottom-left-4-square-duotone",
+        "arrow-bottom-right-3-square-duotone",
+        "arrow-bottom-right-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 9,
+      "font": "IconamoonSecondary",
+      "glyphName": "cloud-add-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-add-duotone",
+        "cloud-clock-duotone",
+        "cloud-download-duotone",
+        "cloud-duotone"
+      ]
+    },
+    {
+      "codepointCount": 9,
+      "font": "IconamoonSecondary",
+      "glyphName": "file-add-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file-add-duotone",
+        "file-audio-duotone",
+        "file-check-duotone",
+        "file-close-duotone"
+      ]
+    },
+    {
+      "codepointCount": 9,
+      "font": "IconamoonSecondary",
+      "glyphName": "folder-add-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder-add-duotone",
+        "folder-check-duotone",
+        "folder-close-duotone",
+        "folder-document-duotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "IconamoonSecondary",
+      "glyphName": "box-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "box-duotone",
+        "calendar-1-duotone",
+        "calendar-2-duotone",
+        "calendar-add-duotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "IconamoonSecondary",
+      "glyphName": "comment-add-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "comment-add-duotone",
+        "comment-check-duotone",
+        "comment-close-duotone",
+        "comment-duotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Iconamoon",
+      "glyphName": "close",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "close",
+        "close-duotone",
+        "sign-times",
+        "sign-times-duotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "IconamoonSecondary",
+      "glyphName": "sign-division-circle-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-division-circle-duotone",
+        "sign-minus-circle-duotone",
+        "sign-plus-circle-duotone",
+        "sign-times-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "IconamoonSecondary",
+      "glyphName": "search-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "search-duotone",
+        "zoom-in-duotone",
+        "zoom-out-duotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "IconamoonSecondary",
+      "glyphName": "shield-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "shield-duotone",
+        "shield-no-duotone",
+        "shield-yes-duotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "IconamoonSecondary",
+      "glyphName": "shopping-card-add-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "shopping-card-add-duotone",
+        "shopping-card-duotone",
+        "shopping-card-remove-duotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "IconamoonSecondary",
+      "glyphName": "volume-down-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "volume-down-duotone",
+        "volume-off-duotone",
+        "volume-up-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "3d",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "3d",
+        "3d-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "apps",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "apps",
+        "apps-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-left-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-left-1",
+        "arrow-bottom-left-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-left-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-left-2",
+        "arrow-bottom-left-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-left-3-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-left-3-square",
+        "arrow-bottom-left-3-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-left-4-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-left-4-square",
+        "arrow-bottom-left-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-left-5-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-left-5-circle",
+        "arrow-bottom-left-5-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-left-6-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-left-6-circle",
+        "arrow-bottom-left-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-right-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-right-1",
+        "arrow-bottom-right-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-right-3-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-right-3-square",
+        "arrow-bottom-right-3-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-right-4-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-right-4-square",
+        "arrow-bottom-right-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-right-5-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-right-5-circle",
+        "arrow-bottom-right-5-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-right-6-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-right-6-circle",
+        "arrow-bottom-right-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-bottom-up-4-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-bottom-up-4-square",
+        "arrow-bottom-up-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-down-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-down-1",
+        "arrow-down-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-down-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-down-2",
+        "arrow-down-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-down-3-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-down-3-square",
+        "arrow-down-3-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-down-4-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-down-4-square",
+        "arrow-down-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-down-5-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-down-5-circle",
+        "arrow-down-5-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-down-6-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-down-6-circle",
+        "arrow-down-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-left-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-left-1",
+        "arrow-left-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-left-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-left-2",
+        "arrow-left-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-left-3-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-left-3-square",
+        "arrow-left-3-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-left-4-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-left-4-square",
+        "arrow-left-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-left-5-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-left-5-circle",
+        "arrow-left-5-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-left-6-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-left-6-circle",
+        "arrow-left-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-right-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-right-1",
+        "arrow-right-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-right-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-right-2",
+        "arrow-right-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-right-3-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-right-3-square",
+        "arrow-right-3-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-right-4-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-right-4-square",
+        "arrow-right-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-right-5-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-right-5-circle",
+        "arrow-right-5-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-right-6-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-right-6-circle",
+        "arrow-right-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-left-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-left-1",
+        "arrow-top-left-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-left-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-left-2",
+        "arrow-top-left-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-left-3-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-left-3-square",
+        "arrow-top-left-3-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-left-4-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-left-4-square",
+        "arrow-top-left-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-left-5-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-left-5-circle",
+        "arrow-top-left-5-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-left-6-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-left-6-circle",
+        "arrow-top-left-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-right-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-right-1",
+        "arrow-top-right-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-right-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-right-2",
+        "arrow-top-right-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-right-3-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-right-3-square",
+        "arrow-top-right-3-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-right-5-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-right-5-circle",
+        "arrow-top-right-5-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-top-right-6-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-top-right-6-circle",
+        "arrow-top-right-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-up-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-up-1",
+        "arrow-up-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-up-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-up-2",
+        "arrow-up-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-up-3-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-up-3-square",
+        "arrow-up-3-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-up-4-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-up-4-square",
+        "arrow-up-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-up-5-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-up-5-circle",
+        "arrow-up-5-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "arrow-up-6-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "arrow-up-6-circle",
+        "arrow-up-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "attachment",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "attachment",
+        "attachment-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "attention-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "attention-circle",
+        "attention-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "attention-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "attention-square",
+        "attention-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "backspace",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "backspace",
+        "backspace-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "badge",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "badge",
+        "badge-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "bluetooth",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "bluetooth",
+        "bluetooth-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "bookmark",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "bookmark",
+        "bookmark-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "bookmark-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "bookmark-off",
+        "bookmark-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "box",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "box",
+        "box-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "briefcase",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "briefcase",
+        "briefcase-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "calculator",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "calculator",
+        "calculator-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "calendar-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "calendar-1",
+        "calendar-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "calendar-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "calendar-2",
+        "calendar-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "calendar-add",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "calendar-add",
+        "calendar-add-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "calendar-remove",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "calendar-remove",
+        "calendar-remove-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "camera-image",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "camera-image",
+        "camera-image-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "camera-video",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "camera-video",
+        "camera-video-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "category",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "category",
+        "category-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "certificate-badge",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "certificate-badge",
+        "certificate-badge-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "check",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "check",
+        "check-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "check-circle-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "check-circle-1",
+        "check-circle-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "check-circle-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "check-circle-2",
+        "check-circle-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cheque",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cheque",
+        "cheque-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "clock",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "clock",
+        "clock-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "close-bold",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "close-bold",
+        "sign-times-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "close-circle-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "close-circle-1",
+        "close-circle-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "close-circle-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "close-circle-2",
+        "close-circle-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "close-light",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "close-light",
+        "sign-times-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "close-thin",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "close-thin",
+        "sign-times-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud",
+        "cloud-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud-add",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-add",
+        "cloud-add-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud-clock",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-clock",
+        "cloud-clock-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud-download",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-download",
+        "cloud-download-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud-error",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-error",
+        "cloud-error-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud-no",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-no",
+        "cloud-no-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-off",
+        "cloud-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud-remove",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-remove",
+        "cloud-remove-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud-upload",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-upload",
+        "cloud-upload-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cloud-yes",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cloud-yes",
+        "cloud-yes-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "comment-dots",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "comment-dots",
+        "comment-dots-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "compare",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "compare",
+        "compare-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "component",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "component",
+        "component-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "confused-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "confused-face",
+        "confused-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "copy",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "copy",
+        "copy-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "credit-card",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "credit-card",
+        "credit-card-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "cursor",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "cursor",
+        "cursor-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "delivery",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "delivery",
+        "delivery-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "delivery-fast",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "delivery-fast",
+        "delivery-fast-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "delivery-free",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "delivery-free",
+        "delivery-free-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "disappointed-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "disappointed-face",
+        "disappointed-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "discount",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "discount",
+        "discount-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "discover",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "discover",
+        "discover-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "do-redo",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "do-redo",
+        "do-redo-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "download",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "download",
+        "download-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "edit",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "edit",
+        "edit-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "email",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "email",
+        "email-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "enter",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "enter",
+        "enter-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "exit",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "exit",
+        "exit-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "expressionless-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "expressionless-face",
+        "expressionless-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "eye",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "eye",
+        "eye-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "eye-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "eye-off",
+        "eye-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "face-with-open-mouth",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "face-with-open-mouth",
+        "face-with-open-mouth-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "face-without-mouth",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "face-without-mouth",
+        "face-without-mouth-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "file",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file",
+        "file-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "file-add",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file-add",
+        "file-add-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "file-audio",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file-audio",
+        "file-audio-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "file-check",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file-check",
+        "file-check-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "file-close",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file-close",
+        "file-close-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "file-document",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file-document",
+        "file-document-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "file-image",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file-image",
+        "file-image-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "file-remove",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file-remove",
+        "file-remove-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "file-video",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "file-video",
+        "file-video-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "flag",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "flag",
+        "flag-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "folder",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder",
+        "folder-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "folder-add",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder-add",
+        "folder-add-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "folder-check",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder-check",
+        "folder-check-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "folder-close",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder-close",
+        "folder-close-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "folder-document",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder-document",
+        "folder-document-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "folder-image",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder-image",
+        "folder-image-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "folder-music",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder-music",
+        "folder-music-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "folder-remove",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder-remove",
+        "folder-remove-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "folder-video",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "folder-video",
+        "folder-video-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "frame",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "frame",
+        "frame-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "frowning-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "frowning-face",
+        "frowning-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "funnel",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "funnel",
+        "funnel-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "gift",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "gift",
+        "gift-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "headphone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "headphone",
+        "headphone-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "heart-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "heart-off",
+        "heart-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "history",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "history",
+        "history-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "home",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "home",
+        "home-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "information-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "information-circle",
+        "information-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "information-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "information-square",
+        "information-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "invoice",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "invoice",
+        "invoice-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "kissing-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "kissing-face",
+        "kissing-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "kissing-face-with-smiling-eyes",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "kissing-face-with-smiling-eyes",
+        "kissing-face-with-smiling-eyes-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "lightning-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "lightning-1",
+        "lightning-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "lightning-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "lightning-2",
+        "lightning-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "link",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "link",
+        "link-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "link-external",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "link-external",
+        "link-external-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "location",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "location",
+        "location-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "location-pin",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "location-pin",
+        "location-pin-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "lock",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "lock",
+        "lock-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "lock-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "lock-off",
+        "lock-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "menu-kebab-horizontal",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "menu-kebab-horizontal",
+        "menu-kebab-horizontal-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "menu-kebab-horizontal-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "menu-kebab-horizontal-circle",
+        "menu-kebab-horizontal-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "menu-kebab-horizontal-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "menu-kebab-horizontal-square",
+        "menu-kebab-horizontal-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "menu-kebab-vertical",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "menu-kebab-vertical",
+        "menu-kebab-vertical-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "menu-kebab-vertical-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "menu-kebab-vertical-circle",
+        "menu-kebab-vertical-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "menu-kebab-vertical-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "menu-kebab-vertical-square",
+        "menu-kebab-vertical-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "microphone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "microphone",
+        "microphone-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "microphone-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "microphone-off",
+        "microphone-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "mode-light",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "mode-light",
+        "mode-light-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "mouse",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "mouse",
+        "mouse-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "move",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "move",
+        "move-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "music-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "music-1",
+        "music-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "music-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "music-2",
+        "music-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "music-album",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "music-album",
+        "music-album-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "music-artist",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "music-artist",
+        "music-artist-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "neutral-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "neutral-face",
+        "neutral-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "news",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "news",
+        "news-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "notification",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "notification",
+        "notification-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "notification-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "notification-off",
+        "notification-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-0",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-0",
+        "number-0-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-0-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-0-circle",
+        "number-0-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-0-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-0-square",
+        "number-0-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-1",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-1",
+        "number-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-1-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-1-circle",
+        "number-1-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-1-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-1-square",
+        "number-1-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-2",
+        "number-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-2-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-2-circle",
+        "number-2-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-2-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-2-square",
+        "number-2-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-3",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-3",
+        "number-3-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-3-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-3-circle",
+        "number-3-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-3-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-3-square",
+        "number-3-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-4",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-4",
+        "number-4-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-4-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-4-circle",
+        "number-4-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-4-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-4-square",
+        "number-4-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-5",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-5",
+        "number-5-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-5-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-5-circle",
+        "number-5-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-5-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-5-square",
+        "number-5-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-6",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-6",
+        "number-6-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-6-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-6-circle",
+        "number-6-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-6-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-6-square",
+        "number-6-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-7",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-7",
+        "number-7-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-7-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-7-circle",
+        "number-7-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-7-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-7-square",
+        "number-7-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-8",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-8",
+        "number-8-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-8-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-8-circle",
+        "number-8-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-8-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-8-square",
+        "number-8-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-9",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-9",
+        "number-9-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-9-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-9-circle",
+        "number-9-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "number-9-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "number-9-square",
+        "number-9-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "options",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "options",
+        "options-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "pensive-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "pensive-face",
+        "pensive-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "phone-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "phone-off",
+        "phone-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "play-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "play-circle",
+        "play-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "player-end",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "player-end",
+        "player-end-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "player-next",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "player-next",
+        "player-next-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "player-pause",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "player-pause",
+        "player-pause-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "player-play",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "player-play",
+        "player-play-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "player-previous",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "player-previous",
+        "player-previous-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "player-start",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "player-start",
+        "player-start-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "player-stop",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "player-stop",
+        "player-stop-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "playlist",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "playlist",
+        "playlist-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "playlist-repeat-list",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "playlist-repeat-list",
+        "playlist-repeat-list-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "playlist-repeat-song",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "playlist-repeat-song",
+        "playlist-repeat-song-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "playlist-shuffle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "playlist-shuffle",
+        "playlist-shuffle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "printer",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "printer",
+        "printer-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "profile",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "profile",
+        "profile-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "profile-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "profile-circle",
+        "profile-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "question-mark-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "question-mark-circle",
+        "question-mark-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "question-mark-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "question-mark-square",
+        "question-mark-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "relieved-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "relieved-face",
+        "relieved-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "restart",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "restart",
+        "restart-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "scanner",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "scanner",
+        "scanner-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "screen-full",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "screen-full",
+        "screen-full-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "screen-normal",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "screen-normal",
+        "screen-normal-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "search",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "search",
+        "search-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "send",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "send",
+        "send-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "share-2",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "share-2",
+        "share-2-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "shield",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "shield",
+        "shield-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "shield-no",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "shield-no",
+        "shield-no-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "shield-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "shield-off",
+        "shield-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "shield-yes",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "shield-yes",
+        "shield-yes-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "shopping-bag",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "shopping-bag",
+        "shopping-bag-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "shopping-card-add",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "shopping-card-add",
+        "shopping-card-add-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "shopping-card-remove",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "shopping-card-remove",
+        "shopping-card-remove-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-division",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-division",
+        "sign-division-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-division-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-division-circle",
+        "sign-division-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-division-slash",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-division-slash",
+        "sign-division-slash-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-division-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-division-square",
+        "sign-division-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-equal",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-equal",
+        "sign-equal-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-f",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-f",
+        "sign-f-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-factorial",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-factorial",
+        "sign-factorial-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-lemniscate",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-lemniscate",
+        "sign-lemniscate-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-minus",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-minus",
+        "sign-minus-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-minus-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-minus-circle",
+        "sign-minus-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-minus-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-minus-square",
+        "sign-minus-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-percent",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-percent",
+        "sign-percent-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-pi",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-pi",
+        "sign-pi-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-plus",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-plus",
+        "sign-plus-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-plus-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-plus-circle",
+        "sign-plus-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-plus-minus",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-plus-minus",
+        "sign-plus-minus-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-plus-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-plus-square",
+        "sign-plus-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-radical",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-radical",
+        "sign-radical-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-times-circle",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-times-circle",
+        "sign-times-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-times-square",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-times-square",
+        "sign-times-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-x",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-x",
+        "sign-x-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sign-y",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sign-y",
+        "sign-y-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "slightly-smiling-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "slightly-smiling-face",
+        "slightly-smiling-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "smiling-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "smiling-face",
+        "smiling-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sorting-center",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sorting-center",
+        "sorting-center-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sorting-left",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sorting-left",
+        "sorting-left-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "sorting-right",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "sorting-right",
+        "sorting-right-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "squinting-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "squinting-face",
+        "squinting-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "star",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "star",
+        "star-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "star-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "star-off",
+        "star-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "store",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "store",
+        "store-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "swap",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "swap",
+        "swap-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "synchronize",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "synchronize",
+        "synchronize-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "ticket",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "ticket",
+        "ticket-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "trash",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "trash",
+        "trash-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "trash-simple",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "trash-simple",
+        "trash-simple-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "trend-down",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "trend-down",
+        "trend-down-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "trend-up",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "trend-up",
+        "trend-up-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "type",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "type",
+        "type-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "unavailable",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "unavailable",
+        "unavailable-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "upload",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "upload",
+        "upload-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "upside-down-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "upside-down-face",
+        "upside-down-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "volume-down",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "volume-down",
+        "volume-down-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "volume-off",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "volume-off",
+        "volume-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "volume-up",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "volume-up",
+        "volume-up-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "winking-face",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "winking-face",
+        "winking-face-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "zoom-in",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "zoom-in",
+        "zoom-in-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Iconamoon",
+      "glyphName": "zoom-out",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "zoom-out",
+        "zoom-out-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconamoonSecondary",
+      "glyphName": "delivery-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "delivery-duotone",
+        "delivery-fast-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconamoonSecondary",
+      "glyphName": "lock-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "lock-duotone",
+        "lock-off-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconamoonSecondary",
+      "glyphName": "trash-duotone",
+      "prefix": "iconamoon",
+      "sampleIcons": [
+        "trash-duotone",
+        "trash-simple-duotone"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57946,
+      "icon": "delivery-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 417,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57949,
+      "icon": "delivery-fast-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 417,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57956,
+      "icon": "delivery-free-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 417,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57910,
+      "icon": "compare-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 375,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58414,
+      "icon": "music-album-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 374,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 590,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59134,
+      "icon": "volume-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 369,
+      "secondary": {
+        "xMax": 548,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59140,
+      "icon": "volume-up-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 369,
+      "secondary": {
+        "xMax": 548,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58420,
+      "icon": "music-artist-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 329,
+      "secondary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58371,
+      "icon": "microphone-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 313,
+      "secondary": {
+        "xMax": 565,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58690,
+      "icon": "player-previous-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 291,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58402,
+      "icon": "music-1-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 288,
+      "secondary": {
+        "xMax": 504,
+        "xMin": 0,
+        "yMax": 375,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58384,
+      "icon": "mode-light-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 248,
+      "secondary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58653,
+      "icon": "phone-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 878,
+        "xMin": 0,
+        "yMax": 878,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 239,
+      "secondary": {
+        "xMax": 639,
+        "xMin": 0,
+        "yMax": 480,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58209,
+      "icon": "heart-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 878,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 235,
+      "secondary": {
+        "xMax": 672,
+        "xMin": 0,
+        "yMax": 769,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58041,
+      "icon": "eye-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 878,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 230,
+      "secondary": {
+        "xMax": 729,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58366,
+      "icon": "microphone-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 836,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 210,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59049,
+      "icon": "star-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 979,
+        "xMin": 0,
+        "yMax": 960,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 210,
+      "secondary": {
+        "xMax": 769,
+        "xMin": 0,
+        "yMax": 635,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57736,
+      "icon": "camera-video-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 208,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58432,
+      "icon": "news-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 207,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59128,
+      "icon": "volume-down-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "primaryFont": "Iconamoon",
+      "score": 202,
+      "secondary": {
+        "xMax": 548,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Iconamoon",
+      "headBbox": "-6..988 / 0..974",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "iconamoon",
+      "reasons": [
+        "head.xMin=-6",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "IconamoonSecondary",
+      "headBbox": "0..936 / 0..917",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "iconamoon",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "iconamoon",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Iconamoon",
+      "glyphCount": 1818,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 988,
+        "xMin": -6,
+        "yMax": 974,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "IconamoonSecondary",
+      "glyphCount": 235,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

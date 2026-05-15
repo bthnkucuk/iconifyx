@@ -1,0 +1,1772 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 36,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "australia",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "australia",
+        "baby-chick",
+        "brazil",
+        "cactus-2"
+      ]
+    },
+    {
+      "codepointCount": 27,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "astronaut-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "astronaut-1",
+        "astronaut-2",
+        "backhand-index-pointing-left-2",
+        "backhand-index-pointing-right-2"
+      ]
+    },
+    {
+      "codepointCount": 12,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "backhand-index-pointing-down-2",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "backhand-index-pointing-down-2",
+        "backhand-index-pointing-up-2",
+        "hand-with-fingers-splayed-2",
+        "index-pointing-up-2"
+      ]
+    },
+    {
+      "codepointCount": 9,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "man-cook-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "man-cook-1",
+        "man-facepalming-1",
+        "man-facepalming-2",
+        "man-office-worker-1"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "carousel-horse",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "carousel-horse",
+        "castle",
+        "factory",
+        "ferris-wheel"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "detective-2",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "detective-2",
+        "man-2",
+        "santa-claus-1",
+        "santa-claus-2"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "airplane",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "airplane",
+        "man-gesturing-no-1",
+        "man-gesturing-no-2",
+        "woman-gesturing-no-2"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "christmas-tree",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "christmas-tree",
+        "cowboy-hat-face",
+        "fishing-pole",
+        "musical-note"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "guard-2",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "guard-2",
+        "horse-face",
+        "prince-2",
+        "waving-hand-2"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "man-getting-haircut-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "man-getting-haircut-1",
+        "man-getting-haircut-2",
+        "woman-getting-haircut-1",
+        "woman-getting-haircut-2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "alien",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "alien",
+        "baby-angel-1",
+        "baby-angel-2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "anchor",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "anchor",
+        "hamster-face",
+        "monkey-face"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "bride-with-veil-2",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "bride-with-veil-2",
+        "man-shrugging-1",
+        "man-shrugging-2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "cocktail-glass",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "cocktail-glass",
+        "confetti-ball",
+        "wine-glass"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "man-artist-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "man-artist-1",
+        "man-artist-2",
+        "woman-artist-2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "man-astronaut-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "man-astronaut-1",
+        "man-astronaut-2",
+        "woman-astronaut-2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "man-bowing-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "man-bowing-1",
+        "man-bowing-2",
+        "recycling-symbol"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "man-frowning-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "man-frowning-1",
+        "man-frowning-2",
+        "woman-frowning-2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "man-walking-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "man-walking-1",
+        "woman-walking-1",
+        "woman-walking-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojis",
+      "glyphName": "astronaut-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "astronaut-1",
+        "astronaut-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojis",
+      "glyphName": "man-cook-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "man-cook-1",
+        "man-cook-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojis",
+      "glyphName": "old-woman-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "old-woman-1",
+        "old-woman-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "2",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "2",
+        "cookie"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "baby-2",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "baby-2",
+        "watermelon-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "champagne-glass-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "champagne-glass-1",
+        "champagne-glass-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "clapping-hands-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "clapping-hands-1",
+        "clapping-hands-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "clinking-glasses-3",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "clinking-glasses-3",
+        "clinking-glasses-4"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "crown",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "crown",
+        "open-book"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "crystal-ball-2",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "crystal-ball-2",
+        "electric-plug"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "dollar-banknote",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "dollar-banknote",
+        "pound-banknote"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "hospital",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "hospital",
+        "wedding"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "hourglass-done",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "hourglass-done",
+        "hourglass-not-done-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "love-hotel",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "love-hotel",
+        "princess-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "man-cook-2",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "man-cook-2",
+        "woman-cook-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "no-smoking",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "no-smoking",
+        "restroom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "old-woman-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "old-woman-1",
+        "old-woman-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "two-men-holding-hands-2",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "two-men-holding-hands-2",
+        "two-women-holding-hands-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "umbrella",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "umbrella",
+        "umbrella-with-rain-drops"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineEmojisSecondary",
+      "glyphName": "writing-hand-1",
+      "prefix": "streamline-emojis",
+      "sampleIcons": [
+        "writing-hand-1",
+        "writing-hand-2"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57705,
+      "icon": "violin",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 979,
+        "xMin": 0,
+        "yMax": 932,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 422,
+      "secondary": {
+        "xMax": 557,
+        "xMin": 0,
+        "yMax": 91,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57678,
+      "icon": "syringe",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 951,
+        "xMin": 0,
+        "yMax": 935,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 301,
+      "secondary": {
+        "xMax": 650,
+        "xMin": 0,
+        "yMax": 138,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57508,
+      "icon": "herb",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 997,
+        "xMin": -2,
+        "yMax": 958,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 294,
+      "secondary": {
+        "xMax": 705,
+        "xMin": 0,
+        "yMax": 85,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57702,
+      "icon": "united-states",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 294,
+      "secondary": {
+        "xMax": 708,
+        "xMin": 0,
+        "yMax": 83,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57417,
+      "icon": "confetti-ball",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 927,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 288,
+      "secondary": {
+        "xMax": 713,
+        "xMin": 0,
+        "yMax": 83,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57643,
+      "icon": "revolving-hearts",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 890,
+        "xMin": 0,
+        "yMax": 851,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 288,
+      "secondary": {
+        "xMax": 602,
+        "xMin": 0,
+        "yMax": 165,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57438,
+      "icon": "dolphin",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 979,
+        "xMin": 0,
+        "yMax": 979,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 277,
+      "secondary": {
+        "xMax": 702,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57507,
+      "icon": "headphone",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 757,
+        "xMin": 0,
+        "yMax": 977,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 259,
+      "secondary": {
+        "xMax": 498,
+        "xMin": 0,
+        "yMax": 84,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57492,
+      "icon": "glasses-1",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 991,
+        "xMin": 0,
+        "yMax": 887,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 257,
+      "secondary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 125,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57501,
+      "icon": "guitar",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 942,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 257,
+      "secondary": {
+        "xMax": 659,
+        "xMin": 0,
+        "yMax": 85,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57664,
+      "icon": "snowflake",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1002,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 257,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57389,
+      "icon": "cactus-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 255,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57731,
+      "icon": "woman-health-worker-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 919,
+        "xMin": 0,
+        "yMax": 883,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 255,
+      "secondary": {
+        "xMax": 664,
+        "xMin": 0,
+        "yMax": 83,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57670,
+      "icon": "spaghetti",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 912,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 242,
+      "secondary": {
+        "xMax": 758,
+        "xMin": 0,
+        "yMax": 87,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57587,
+      "icon": "monkey-face",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 987,
+        "xMin": 0,
+        "yMax": 909,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 240,
+      "secondary": {
+        "xMax": 747,
+        "xMin": 0,
+        "yMax": 104,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57674,
+      "icon": "sunglasses",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 238,
+      "secondary": {
+        "xMax": 721,
+        "xMin": 0,
+        "yMax": 177,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57646,
+      "icon": "ring-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 981,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 237,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 211,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57427,
+      "icon": "cowboy-hat-face",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 988,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 234,
+      "secondary": {
+        "xMax": 754,
+        "xMin": 0,
+        "yMax": 85,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57505,
+      "icon": "hamster-face",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 981,
+        "xMin": 0,
+        "yMax": 926,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 234,
+      "secondary": {
+        "xMax": 747,
+        "xMin": 0,
+        "yMax": 104,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57732,
+      "icon": "woman-judge-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 880,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 233,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 84,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57555,
+      "icon": "man-getting-haircut-1",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 979,
+        "xMin": 0,
+        "yMax": 967,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 232,
+      "secondary": {
+        "xMax": 747,
+        "xMin": 0,
+        "yMax": 83,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57556,
+      "icon": "man-getting-haircut-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 979,
+        "xMin": 0,
+        "yMax": 967,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 232,
+      "secondary": {
+        "xMax": 747,
+        "xMin": 0,
+        "yMax": 83,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57728,
+      "icon": "woman-getting-haircut-1",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 978,
+        "xMin": 0,
+        "yMax": 880,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 231,
+      "secondary": {
+        "xMax": 747,
+        "xMin": 0,
+        "yMax": 83,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57729,
+      "icon": "woman-getting-haircut-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 978,
+        "xMin": 0,
+        "yMax": 880,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 231,
+      "secondary": {
+        "xMax": 747,
+        "xMin": 0,
+        "yMax": 83,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57413,
+      "icon": "cloud-with-rain-1",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 1012,
+        "xMin": 0,
+        "yMax": 979,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 230,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 62,
+        "yMin": -2
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57668,
+      "icon": "south-africa",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 971,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 227,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57349,
+      "icon": "anchor",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 973,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 226,
+      "secondary": {
+        "xMax": 747,
+        "xMin": 0,
+        "yMax": 104,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57520,
+      "icon": "india",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 970,
+        "xMin": 0,
+        "yMax": 856,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 226,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57701,
+      "icon": "united-kingdom",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 970,
+        "xMin": 0,
+        "yMax": 856,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 226,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57715,
+      "icon": "wolf-face",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 226,
+      "secondary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 62,
+        "yMin": -2
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57353,
+      "icon": "australia",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 856,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57382,
+      "icon": "brazil",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57392,
+      "icon": "canada",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 856,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57447,
+      "icon": "egypt",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 856,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57497,
+      "icon": "greece",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57521,
+      "icon": "iran",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57522,
+      "icon": "iraq",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 856,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57523,
+      "icon": "japan",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57534,
+      "icon": "malaysia",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 855,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57595,
+      "icon": "nepal",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57598,
+      "icon": "north-korea",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 856,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57613,
+      "icon": "pakistan",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 856,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57669,
+      "icon": "south-korea",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57677,
+      "icon": "syria",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57700,
+      "icon": "united-arab-emirates",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 855,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 225,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57582,
+      "icon": "microphone",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 895,
+        "xMin": 0,
+        "yMax": 879,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 224,
+      "secondary": {
+        "xMax": 671,
+        "xMin": 0,
+        "yMax": 127,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57693,
+      "icon": "tropical-fish",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 968,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 224,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57724,
+      "icon": "woman-firefighter-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 974,
+        "xMin": 0,
+        "yMax": 944,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 224,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 85,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57488,
+      "icon": "fox-face-1",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 996,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 219,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 62,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57429,
+      "icon": "crossed-flags",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 215,
+      "secondary": {
+        "xMax": 754,
+        "xMin": 0,
+        "yMax": 109,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57412,
+      "icon": "cloud-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 1005,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 214,
+      "secondary": {
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 105,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57393,
+      "icon": "candy",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 980,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 213,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 273,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57710,
+      "icon": "watermelon-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 999,
+        "xMin": -1,
+        "yMax": 902,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 209,
+      "secondary": {
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 125,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57431,
+      "icon": "crystal-ball-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 914,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 207,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 84,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57376,
+      "icon": "boar-1",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 966,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 206,
+      "secondary": {
+        "xMax": 760,
+        "xMin": 0,
+        "yMax": 93,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57637,
+      "icon": "raising-hands-1",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 983,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 206,
+      "secondary": {
+        "xMax": 731,
+        "xMin": 0,
+        "yMax": 83,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57638,
+      "icon": "raising-hands-2",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 983,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 206,
+      "secondary": {
+        "xMax": 731,
+        "xMin": 0,
+        "yMax": 83,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57426,
+      "icon": "cow-face",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 956,
+        "xMin": 0,
+        "yMax": 951,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 202,
+      "secondary": {
+        "xMax": 754,
+        "xMin": 0,
+        "yMax": 87,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57616,
+      "icon": "peach",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 946,
+        "xMin": 0,
+        "yMax": 986,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 202,
+      "secondary": {
+        "xMax": 744,
+        "xMin": 0,
+        "yMax": 86,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57530,
+      "icon": "koala",
+      "prefix": "streamline-emojis",
+      "primary": {
+        "xMax": 968,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineEmojis",
+      "score": 201,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 91,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineEmojisSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "StreamlineEmojis",
+      "headBbox": "-4..1012 / 0..1005",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "streamline-emojis",
+      "reasons": [
+        "head.xMin=-4",
+        "head.xMax=1012",
+        "head.yMax=1005",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "StreamlineEmojisSecondary",
+      "headBbox": "0..1000 / -2..745",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 2,
+      "prefix": "streamline-emojis",
+      "reasons": [
+        "head.yMin=-2",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=2"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "streamline-emojis",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "StreamlineEmojis",
+      "glyphCount": 407,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1012,
+        "xMin": -4,
+        "yMax": 1005,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "StreamlineEmojisSecondary",
+      "glyphCount": 364,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 745,
+        "yMin": -2
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 2
+      }
+    }
+  ]
+}

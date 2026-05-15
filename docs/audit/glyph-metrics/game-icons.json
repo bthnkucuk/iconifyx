@@ -1,0 +1,83 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "GameIcons",
+      "glyphName": "eskimo",
+      "prefix": "game-icons",
+      "sampleIcons": [
+        "eskimo",
+        "person-in-blizzard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GameIcons",
+      "glyphName": "satellite",
+      "prefix": "game-icons",
+      "sampleIcons": [
+        "satellite",
+        "sattelite"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GameIcons",
+      "glyphName": "star-satellites",
+      "prefix": "game-icons",
+      "sampleIcons": [
+        "star-satellites",
+        "star-sattelites"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "GameIcons",
+      "headBbox": "-38..1002 / -28..994",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 28,
+      "prefix": "game-icons",
+      "reasons": [
+        "head.xMin=-38",
+        "head.xMax=1002",
+        "head.yMin=-28",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=28"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "game-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "GameIcons",
+      "glyphCount": 4061,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1002,
+        "xMin": -38,
+        "yMax": 994,
+        "yMin": -28
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 28
+      }
+    }
+  ]
+}

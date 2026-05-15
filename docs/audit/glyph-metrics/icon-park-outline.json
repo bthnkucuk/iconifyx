@@ -1,0 +1,217 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "IconParkOutline",
+      "glyphName": "balance",
+      "prefix": "icon-park-outline",
+      "sampleIcons": [
+        "balance",
+        "balance-one"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkOutline",
+      "glyphName": "data-null",
+      "prefix": "icon-park-outline",
+      "sampleIcons": [
+        "data-null",
+        "data-one"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkOutline",
+      "glyphName": "difference-set",
+      "prefix": "icon-park-outline",
+      "sampleIcons": [
+        "difference-set",
+        "intersection"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkOutline",
+      "glyphName": "emotion-happy",
+      "prefix": "icon-park-outline",
+      "sampleIcons": [
+        "emotion-happy",
+        "slightly-smiling-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkOutline",
+      "glyphName": "emotion-unhappy",
+      "prefix": "icon-park-outline",
+      "sampleIcons": [
+        "emotion-unhappy",
+        "worried-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkOutline",
+      "glyphName": "leaves",
+      "prefix": "icon-park-outline",
+      "sampleIcons": [
+        "leaves",
+        "sleaves"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkOutline",
+      "glyphName": "material",
+      "prefix": "icon-park-outline",
+      "sampleIcons": [
+        "material",
+        "material-two"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkOutline",
+      "glyphName": "projector",
+      "prefix": "icon-park-outline",
+      "sampleIcons": [
+        "projector",
+        "projector-three"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkOutline",
+      "glyphName": "shopping-cart",
+      "prefix": "icon-park-outline",
+      "sampleIcons": [
+        "shopping-cart",
+        "shopping-cart-add"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "IconParkOutline",
+      "headBbox": "-5..1006 / -8..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 8,
+      "prefix": "icon-park-outline",
+      "reasons": [
+        "head.xMin=-5",
+        "head.xMax=1006",
+        "head.yMin=-8",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=8"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1020,
+      "codepoint": 57628,
+      "font": "IconParkOutline",
+      "name": "bottom-bar-one",
+      "prefix": "icon-park-outline",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57632,
+      "font": "IconParkOutline",
+      "name": "bowling",
+      "prefix": "icon-park-outline",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57936,
+      "font": "IconParkOutline",
+      "name": "cup",
+      "prefix": "icon-park-outline",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57955,
+      "font": "IconParkOutline",
+      "name": "dashboard-one",
+      "prefix": "icon-park-outline",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 58037,
+      "font": "IconParkOutline",
+      "name": "disk-one",
+      "prefix": "icon-park-outline",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 58067,
+      "font": "IconParkOutline",
+      "name": "dome-light",
+      "prefix": "icon-park-outline",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 58709,
+      "font": "IconParkOutline",
+      "name": "kettle",
+      "prefix": "icon-park-outline",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 59613,
+      "font": "IconParkOutline",
+      "name": "storage-card-one",
+      "prefix": "icon-park-outline",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 59925,
+      "font": "IconParkOutline",
+      "name": "washing-machine",
+      "prefix": "icon-park-outline",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "icon-park-outline",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "IconParkOutline",
+      "glyphCount": 2658,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1006,
+        "xMin": -5,
+        "yMax": 1006,
+        "yMin": -8
+      },
+      "hhea": {
+        "advanceWidthMax": 1020,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 8
+      }
+    }
+  ]
+}

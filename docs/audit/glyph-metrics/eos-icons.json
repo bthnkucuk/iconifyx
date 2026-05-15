@@ -1,0 +1,53 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "EosIcons",
+      "headBbox": "-84..1010 / -2..1008",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 2,
+      "prefix": "eos-icons",
+      "reasons": [
+        "head.xMin=-84",
+        "head.xMax=1010",
+        "head.yMin=-2",
+        "head.yMax=1008",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=2"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "eos-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "EosIcons",
+      "glyphCount": 246,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1010,
+        "xMin": -84,
+        "yMax": 1008,
+        "yMin": -2
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 2
+      }
+    }
+  ]
+}

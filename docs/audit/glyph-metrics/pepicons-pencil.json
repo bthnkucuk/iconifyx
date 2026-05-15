@@ -1,0 +1,130 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPencil",
+      "glyphName": "line-slant-down",
+      "prefix": "pepicons-pencil",
+      "sampleIcons": [
+        "line-slant-down",
+        "line-slant-down-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsPencil",
+      "glyphName": "line-slant-down-circle",
+      "prefix": "pepicons-pencil",
+      "sampleIcons": [
+        "line-slant-down-circle",
+        "line-slant-down-circle-off"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57966,
+      "icon": "keyboard-circle-filled",
+      "prefix": "pepicons-pencil",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "PepiconsPencil",
+      "score": 354,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 347,
+        "yMin": 0
+      },
+      "secondaryFont": "PepiconsPencilSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "PepiconsPencil",
+      "headBbox": "0..1000 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "pepicons-pencil",
+      "reasons": [
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "PepiconsPencilSecondary",
+      "headBbox": "0..646 / 0..347",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "pepicons-pencil",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "pepicons-pencil",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "PepiconsPencil",
+      "glyphCount": 1275,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "PepiconsPencilSecondary",
+      "glyphCount": 1,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 347,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

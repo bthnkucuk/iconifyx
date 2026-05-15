@@ -1,0 +1,2821 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 18,
+      "font": "NotoV1Secondary",
+      "glyphName": "man-bowing",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-bowing",
+        "man-bowing-dark-skin-tone",
+        "man-bowing-light-skin-tone",
+        "man-bowing-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "call-me-hand",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "call-me-hand",
+        "call-me-hand-dark-skin-tone",
+        "call-me-hand-light-skin-tone",
+        "call-me-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "ear",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "ear",
+        "ear-dark-skin-tone",
+        "ear-light-skin-tone",
+        "ear-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "flexed-biceps",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "flexed-biceps",
+        "flexed-biceps-dark-skin-tone",
+        "flexed-biceps-light-skin-tone",
+        "flexed-biceps-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "left-facing-fist",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "left-facing-fist",
+        "left-facing-fist-dark-skin-tone",
+        "left-facing-fist-light-skin-tone",
+        "left-facing-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "nose",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "nose",
+        "nose-dark-skin-tone",
+        "nose-light-skin-tone",
+        "nose-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "ok-hand",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "ok-hand",
+        "ok-hand-dark-skin-tone",
+        "ok-hand-light-skin-tone",
+        "ok-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "oncoming-fist",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "oncoming-fist",
+        "oncoming-fist-dark-skin-tone",
+        "oncoming-fist-light-skin-tone",
+        "oncoming-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "open-hands",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "open-hands",
+        "open-hands-dark-skin-tone",
+        "open-hands-light-skin-tone",
+        "open-hands-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "raised-hand",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "raised-hand",
+        "raised-hand-dark-skin-tone",
+        "raised-hand-light-skin-tone",
+        "raised-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "right-facing-fist",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "right-facing-fist",
+        "right-facing-fist-dark-skin-tone",
+        "right-facing-fist-light-skin-tone",
+        "right-facing-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "thumbs-down",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "thumbs-down",
+        "thumbs-down-dark-skin-tone",
+        "thumbs-down-light-skin-tone",
+        "thumbs-down-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1",
+      "glyphName": "thumbs-up",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "thumbs-up",
+        "thumbs-up-dark-skin-tone",
+        "thumbs-up-light-skin-tone",
+        "thumbs-up-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "call-me-hand",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "call-me-hand",
+        "call-me-hand-dark-skin-tone",
+        "call-me-hand-light-skin-tone",
+        "call-me-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "ear",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "ear",
+        "ear-dark-skin-tone",
+        "ear-light-skin-tone",
+        "ear-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "flexed-biceps",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "flexed-biceps",
+        "flexed-biceps-dark-skin-tone",
+        "flexed-biceps-light-skin-tone",
+        "flexed-biceps-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "left-facing-fist",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "left-facing-fist",
+        "left-facing-fist-dark-skin-tone",
+        "left-facing-fist-light-skin-tone",
+        "left-facing-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "nose",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "nose",
+        "nose-dark-skin-tone",
+        "nose-light-skin-tone",
+        "nose-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "ok-hand",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "ok-hand",
+        "ok-hand-dark-skin-tone",
+        "ok-hand-light-skin-tone",
+        "ok-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "oncoming-fist",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "oncoming-fist",
+        "oncoming-fist-dark-skin-tone",
+        "oncoming-fist-light-skin-tone",
+        "oncoming-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "open-hands",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "open-hands",
+        "open-hands-dark-skin-tone",
+        "open-hands-light-skin-tone",
+        "open-hands-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "raised-hand",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "raised-hand",
+        "raised-hand-dark-skin-tone",
+        "raised-hand-light-skin-tone",
+        "raised-hand-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "right-facing-fist",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "right-facing-fist",
+        "right-facing-fist-dark-skin-tone",
+        "right-facing-fist-light-skin-tone",
+        "right-facing-fist-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "thumbs-down",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "thumbs-down",
+        "thumbs-down-dark-skin-tone",
+        "thumbs-down-light-skin-tone",
+        "thumbs-down-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "NotoV1Secondary",
+      "glyphName": "thumbs-up",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "thumbs-up",
+        "thumbs-up-dark-skin-tone",
+        "thumbs-up-light-skin-tone",
+        "thumbs-up-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "NotoV1",
+      "glyphName": "raised-fist",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "raised-fist",
+        "raised-fist-light-skin-tone",
+        "raised-fist-medium-dark-skin-tone",
+        "raised-fist-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "NotoV1Secondary",
+      "glyphName": "raised-fist",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "raised-fist",
+        "raised-fist-light-skin-tone",
+        "raised-fist-medium-dark-skin-tone",
+        "raised-fist-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "NotoV1",
+      "glyphName": "raised-back-of-hand",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "raised-back-of-hand",
+        "raised-back-of-hand-light-skin-tone",
+        "raised-back-of-hand-medium-light-skin-tone",
+        "raised-back-of-hand-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "NotoV1Secondary",
+      "glyphName": "raised-back-of-hand",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "raised-back-of-hand",
+        "raised-back-of-hand-light-skin-tone",
+        "raised-back-of-hand-medium-light-skin-tone",
+        "raised-back-of-hand-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1",
+      "glyphName": "clapping-hands",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "clapping-hands",
+        "clapping-hands-light-skin-tone",
+        "clapping-hands-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1",
+      "glyphName": "grinning-cat",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "grinning-cat",
+        "grinning-cat-face",
+        "smiling-cat-face-with-open-mouth"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1",
+      "glyphName": "heavy-minus-sign",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "heavy-minus-sign",
+        "minus",
+        "minus-sign"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1",
+      "glyphName": "heavy-plus-sign",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "heavy-plus-sign",
+        "plus",
+        "plus-sign"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1",
+      "glyphName": "kissing-cat",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "kissing-cat",
+        "kissing-cat-face",
+        "kissing-cat-face-with-closed-eyes"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1",
+      "glyphName": "light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "light-skin-tone",
+        "medium-light-skin-tone",
+        "medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1",
+      "glyphName": "man-in-business-suit-levitating",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-in-business-suit-levitating",
+        "man-in-suit-levitating",
+        "person-in-suit-levitating"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1",
+      "glyphName": "raising-hands",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "raising-hands",
+        "raising-hands-light-skin-tone",
+        "raising-hands-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1Secondary",
+      "glyphName": "grinning-cat",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "grinning-cat",
+        "grinning-cat-face",
+        "smiling-cat-face-with-open-mouth"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "NotoV1Secondary",
+      "glyphName": "kissing-cat",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "kissing-cat",
+        "kissing-cat-face",
+        "kissing-cat-face-with-closed-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "ab-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "ab-button",
+        "ab-button-blood-type"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "anticlockwise-arrows-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "anticlockwise-arrows-button",
+        "counterclockwise-arrows-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "b-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "b-button",
+        "b-button-blood-type"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "ballot-box-with-check",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "ballot-box-with-check",
+        "check-box-with-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "black-square-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "black-square-button",
+        "white-square-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "cat-face-with-wry-smile",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "cat-face-with-wry-smile",
+        "cat-with-wry-smile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "check-mark",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "check-mark",
+        "heavy-check-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "check-mark-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "check-mark-button",
+        "white-heavy-check-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "confounded-face",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "confounded-face",
+        "disappointed-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "exclamation-mark",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "exclamation-mark",
+        "white-exclamation-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "face-with-stuck-out-tongue-and-closed-eyes",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "face-with-stuck-out-tongue-and-closed-eyes",
+        "squinting-face-with-tongue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "face-without-mouth",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "face-without-mouth",
+        "neutral-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "first-quarter-moon-face",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "first-quarter-moon-face",
+        "first-quarter-moon-with-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "flag-for-china",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "flag-for-china",
+        "flag-for-flag-china"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "flag-for-flag-spain",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "flag-for-flag-spain",
+        "flag-for-spain"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "flag-for-triangular-flag",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "flag-for-triangular-flag",
+        "triangular-flag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "fox",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "fox",
+        "fox-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "guard",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "guard",
+        "man-guard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "guard-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "guard-dark-skin-tone",
+        "man-guard-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "guard-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "guard-light-skin-tone",
+        "man-guard-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "guard-medium-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "guard-medium-dark-skin-tone",
+        "man-guard-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "guard-medium-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "guard-medium-light-skin-tone",
+        "man-guard-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "guard-medium-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "guard-medium-skin-tone",
+        "man-guard-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "heart-exclamation",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "heart-exclamation",
+        "heavy-heart-exclamation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "id-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "id-button",
+        "ok-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "japanese-acceptable-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "japanese-acceptable-button",
+        "japanese-bargain-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "last-quarter-moon-face",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "last-quarter-moon-face",
+        "last-quarter-moon-with-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "lion",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "lion",
+        "lion-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-biking",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-biking",
+        "person-biking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-biking-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-biking-dark-skin-tone",
+        "person-biking-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-biking-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-biking-light-skin-tone",
+        "person-biking-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-biking-medium-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-biking-medium-dark-skin-tone",
+        "person-biking-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-biking-medium-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-biking-medium-light-skin-tone",
+        "person-biking-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-biking-medium-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-biking-medium-skin-tone",
+        "person-biking-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-bowing",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-bowing",
+        "person-bowing"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-bowing-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-bowing-dark-skin-tone",
+        "person-bowing-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-bowing-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-bowing-light-skin-tone",
+        "person-bowing-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-bowing-medium-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-bowing-medium-dark-skin-tone",
+        "person-bowing-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-bowing-medium-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-bowing-medium-light-skin-tone",
+        "person-bowing-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-bowing-medium-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-bowing-medium-skin-tone",
+        "person-bowing-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-mountain-biking",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-mountain-biking",
+        "person-mountain-biking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-mountain-biking-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-mountain-biking-dark-skin-tone",
+        "person-mountain-biking-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-mountain-biking-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-mountain-biking-light-skin-tone",
+        "person-mountain-biking-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-mountain-biking-medium-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-mountain-biking-medium-dark-skin-tone",
+        "person-mountain-biking-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-mountain-biking-medium-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-mountain-biking-medium-light-skin-tone",
+        "person-mountain-biking-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-mountain-biking-medium-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-mountain-biking-medium-skin-tone",
+        "person-mountain-biking-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-playing-water-polo",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-playing-water-polo",
+        "person-playing-water-polo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-playing-water-polo-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-playing-water-polo-dark-skin-tone",
+        "person-playing-water-polo-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-playing-water-polo-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-playing-water-polo-light-skin-tone",
+        "person-playing-water-polo-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-playing-water-polo-medium-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-playing-water-polo-medium-dark-skin-tone",
+        "person-playing-water-polo-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-playing-water-polo-medium-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-playing-water-polo-medium-light-skin-tone",
+        "person-playing-water-polo-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "man-playing-water-polo-medium-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "man-playing-water-polo-medium-skin-tone",
+        "person-playing-water-polo-medium-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "o-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "o-button",
+        "o-button-blood-type"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "on-arrow",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "on-arrow",
+        "on-exclamation-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "panda",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "panda",
+        "panda-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "pouting-cat",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "pouting-cat",
+        "pouting-cat-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "question-mark",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "question-mark",
+        "white-question-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "restroom",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "restroom",
+        "womens-room"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "scorpio",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "scorpio",
+        "scorpius"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "snowman",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "snowman",
+        "snowman-without-snow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "star",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "star",
+        "white-medium-star"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "up-exclamation-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "up-exclamation-button",
+        "up-text-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "waving-hand-light-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "waving-hand-light-skin-tone",
+        "waving-hand-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "weary-cat",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "weary-cat",
+        "weary-cat-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1",
+      "glyphName": "woman-guard-dark-skin-tone",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "woman-guard-dark-skin-tone",
+        "woman-guard-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "ab-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "ab-button",
+        "ab-button-blood-type"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "b-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "b-button",
+        "b-button-blood-type"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "black-square-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "black-square-button",
+        "white-square-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "cat-face-with-wry-smile",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "cat-face-with-wry-smile",
+        "cat-with-wry-smile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "check-mark-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "check-mark-button",
+        "white-heavy-check-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "first-quarter-moon-face",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "first-quarter-moon-face",
+        "first-quarter-moon-with-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "flag-for-china",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "flag-for-china",
+        "flag-for-flag-china"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "flag-for-triangular-flag",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "flag-for-triangular-flag",
+        "triangular-flag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "heart-exclamation",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "heart-exclamation",
+        "heavy-heart-exclamation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "kissing-face",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "kissing-face",
+        "kissing-face-with-smiling-eyes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "last-quarter-moon-face",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "last-quarter-moon-face",
+        "last-quarter-moon-with-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "o-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "o-button",
+        "o-button-blood-type"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "on-arrow",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "on-arrow",
+        "on-exclamation-arrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "panda",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "panda",
+        "panda-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "pouting-cat",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "pouting-cat",
+        "pouting-cat-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "star",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "star",
+        "white-medium-star"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "up-exclamation-button",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "up-exclamation-button",
+        "up-text-button"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "NotoV1Secondary",
+      "glyphName": "weary-cat",
+      "prefix": "noto-v1",
+      "sampleIcons": [
+        "weary-cat",
+        "weary-cat-face"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57815,
+      "icon": "right-anger-bubble",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 3599,
+        "xMin": -3172,
+        "yMax": 2624,
+        "yMin": -2305
+      },
+      "primaryFont": "NotoV1",
+      "score": 3234,
+      "secondary": {
+        "xMax": 3661,
+        "xMin": 0,
+        "yMax": 980,
+        "yMin": -1558
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57399,
+      "icon": "check-mark-button",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 1841,
+      "secondary": {
+        "xMax": 0,
+        "xMin": -934,
+        "yMax": 1153,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57918,
+      "icon": "white-heavy-check-mark",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 1841,
+      "secondary": {
+        "xMax": 0,
+        "xMin": -934,
+        "yMax": 1153,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57930,
+      "icon": "woman-biking-dark-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 962,
+        "xMin": 0,
+        "yMax": 987,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 1293,
+      "secondary": {
+        "xMax": 2255,
+        "xMin": 0,
+        "yMax": 614,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57963,
+      "icon": "woman-mountain-biking-dark-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 969,
+        "xMin": 0,
+        "yMax": 987,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 903,
+      "secondary": {
+        "xMax": 1872,
+        "xMin": 0,
+        "yMax": 491,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57486,
+      "icon": "flag-for-triangular-flag",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 984,
+        "xMin": 0,
+        "yMax": 972,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 692,
+      "secondary": {
+        "xMax": 292,
+        "xMin": 0,
+        "yMax": 996,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57889,
+      "icon": "triangular-flag",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 984,
+        "xMin": 0,
+        "yMax": 972,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 692,
+      "secondary": {
+        "xMax": 292,
+        "xMin": 0,
+        "yMax": 996,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57604,
+      "icon": "lizard",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 978,
+        "xMin": 0,
+        "yMax": 980,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 622,
+      "secondary": {
+        "xMax": 356,
+        "xMin": 0,
+        "yMax": 857,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57669,
+      "icon": "microphone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 370,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 591,
+      "secondary": {
+        "xMax": 961,
+        "xMin": 0,
+        "yMax": 940,
+        "yMin": -3
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57482,
+      "icon": "flag-for-china",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 921,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 580,
+      "secondary": {
+        "xMax": 418,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57483,
+      "icon": "flag-for-flag-china",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 921,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 580,
+      "secondary": {
+        "xMax": 418,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57514,
+      "icon": "heart-exclamation",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 845,
+        "xMin": 0,
+        "yMax": 963,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 502,
+      "secondary": {
+        "xMax": 343,
+        "xMin": 0,
+        "yMax": 912,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57518,
+      "icon": "heavy-heart-exclamation",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 845,
+        "xMin": 0,
+        "yMax": 963,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 502,
+      "secondary": {
+        "xMax": 343,
+        "xMin": 0,
+        "yMax": 912,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57565,
+      "icon": "left-facing-fist",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 500,
+      "secondary": {
+        "xMax": 454,
+        "xMin": 0,
+        "yMax": 628,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57566,
+      "icon": "left-facing-fist-dark-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 500,
+      "secondary": {
+        "xMax": 454,
+        "xMin": 0,
+        "yMax": 628,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57567,
+      "icon": "left-facing-fist-light-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 500,
+      "secondary": {
+        "xMax": 454,
+        "xMin": 0,
+        "yMax": 628,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57568,
+      "icon": "left-facing-fist-medium-dark-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 500,
+      "secondary": {
+        "xMax": 454,
+        "xMin": 0,
+        "yMax": 628,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57569,
+      "icon": "left-facing-fist-medium-light-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 500,
+      "secondary": {
+        "xMax": 454,
+        "xMin": 0,
+        "yMax": 628,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57570,
+      "icon": "left-facing-fist-medium-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 841,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 500,
+      "secondary": {
+        "xMax": 454,
+        "xMin": 0,
+        "yMax": 628,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57559,
+      "icon": "last-quarter-moon-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 923,
+        "xMin": 0,
+        "yMax": 997,
+        "yMin": -9
+      },
+      "primaryFont": "NotoV1",
+      "score": 486,
+      "secondary": {
+        "xMax": 437,
+        "xMin": 0,
+        "yMax": 565,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57560,
+      "icon": "last-quarter-moon-with-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 923,
+        "xMin": 0,
+        "yMax": 997,
+        "yMin": -9
+      },
+      "primaryFont": "NotoV1",
+      "score": 486,
+      "secondary": {
+        "xMax": 437,
+        "xMin": 0,
+        "yMax": 565,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57884,
+      "icon": "ticket",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 1002,
+        "xMin": 0,
+        "yMax": 863,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 444,
+      "secondary": {
+        "xMax": 558,
+        "xMin": 0,
+        "yMax": 712,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57827,
+      "icon": "rugby-football",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 1005,
+        "xMin": 0,
+        "yMax": 1003,
+        "yMin": -4
+      },
+      "primaryFont": "NotoV1",
+      "score": 431,
+      "secondary": {
+        "xMax": 574,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57428,
+      "icon": "diamond-with-a-dot",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 992,
+        "xMin": 0,
+        "yMax": 991,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 416,
+      "secondary": {
+        "xMax": 576,
+        "xMin": 0,
+        "yMax": 576,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57833,
+      "icon": "sheaf-of-rice",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 743,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 412,
+      "secondary": {
+        "xMax": 587,
+        "xMin": -1,
+        "yMax": 878,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57890,
+      "icon": "trident-emblem",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 1011,
+        "xMin": -11,
+        "yMax": 996,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 408,
+      "secondary": {
+        "xMax": 614,
+        "xMin": 0,
+        "yMax": 187,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57400,
+      "icon": "cherry-blossom",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 992,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 399,
+      "secondary": {
+        "xMax": 599,
+        "xMin": 0,
+        "yMax": 603,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57376,
+      "icon": "blossom",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 680,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 351,
+      "secondary": {
+        "xMax": 1004,
+        "xMin": -4,
+        "yMax": 964,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57521,
+      "icon": "herb",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 943,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 322,
+      "secondary": {
+        "xMax": 679,
+        "xMin": 0,
+        "yMax": 887,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57719,
+      "icon": "open-hands",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": -1,
+        "yMax": 773,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 290,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 533,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57720,
+      "icon": "open-hands-dark-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": -1,
+        "yMax": 773,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 290,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 533,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57721,
+      "icon": "open-hands-light-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": -1,
+        "yMax": 773,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 290,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 533,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57722,
+      "icon": "open-hands-medium-dark-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": -1,
+        "yMax": 773,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 290,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 533,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57723,
+      "icon": "open-hands-medium-light-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": -1,
+        "yMax": 773,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 290,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 533,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57724,
+      "icon": "open-hands-medium-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": -1,
+        "yMax": 773,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 290,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 533,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57832,
+      "icon": "seedling",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -2,
+        "yMax": 887,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 289,
+      "secondary": {
+        "xMax": 714,
+        "xMin": 0,
+        "yMax": 818,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57987,
+      "icon": "womens-room",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 271,
+      "secondary": {
+        "xMax": 729,
+        "xMin": 0,
+        "yMax": 927,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57470,
+      "icon": "face-without-mouth",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 926,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 262,
+      "secondary": {
+        "xMax": 738,
+        "xMin": 0,
+        "yMax": 642,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57555,
+      "icon": "kissing-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 738,
+        "xMin": 0,
+        "yMax": 766,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 262,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 926,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57684,
+      "icon": "neutral-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 926,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 262,
+      "secondary": {
+        "xMax": 738,
+        "xMin": 0,
+        "yMax": 666,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57416,
+      "icon": "collision",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 994,
+        "xMin": 0,
+        "yMax": 982,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 260,
+      "secondary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 685,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57440,
+      "icon": "disappointed-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 925,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 260,
+      "secondary": {
+        "xMax": 739,
+        "xMin": 0,
+        "yMax": 592,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57679,
+      "icon": "mount-fuji",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 630,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 258,
+      "secondary": {
+        "xMax": 740,
+        "xMin": 0,
+        "yMax": 565,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57465,
+      "icon": "expressionless-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 997,
+        "xMin": 0,
+        "yMax": 923,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 248,
+      "secondary": {
+        "xMax": 749,
+        "xMin": 0,
+        "yMax": 613,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57497,
+      "icon": "fork-and-knife-with-plate",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 831,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 248,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57885,
+      "icon": "tokyo-tower",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 822,
+        "xMin": 0,
+        "yMax": 995,
+        "yMin": -1
+      },
+      "primaryFont": "NotoV1",
+      "score": 238,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 739,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57797,
+      "icon": "raised-hand",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 985,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 237,
+      "secondary": {
+        "xMax": 699,
+        "xMin": 0,
+        "yMax": 449,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57798,
+      "icon": "raised-hand-dark-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 985,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 237,
+      "secondary": {
+        "xMax": 699,
+        "xMin": 0,
+        "yMax": 449,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57799,
+      "icon": "raised-hand-light-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 985,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 237,
+      "secondary": {
+        "xMax": 699,
+        "xMin": 0,
+        "yMax": 449,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57800,
+      "icon": "raised-hand-medium-dark-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 985,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 237,
+      "secondary": {
+        "xMax": 699,
+        "xMin": 0,
+        "yMax": 449,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57801,
+      "icon": "raised-hand-medium-light-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 985,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 237,
+      "secondary": {
+        "xMax": 699,
+        "xMin": 0,
+        "yMax": 449,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57802,
+      "icon": "raised-hand-medium-skin-tone",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 985,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 237,
+      "secondary": {
+        "xMax": 699,
+        "xMin": 0,
+        "yMax": 449,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57709,
+      "icon": "old-key",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 596,
+        "xMin": 0,
+        "yMax": 637,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 235,
+      "secondary": {
+        "xMax": 831,
+        "xMin": 0,
+        "yMax": 957,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57986,
+      "icon": "womans-hat",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 759,
+        "xMin": 0,
+        "yMax": 882,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 233,
+      "secondary": {
+        "xMax": 992,
+        "xMin": 0,
+        "yMax": 731,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57710,
+      "icon": "on-arrow",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 773,
+        "xMin": 0,
+        "yMax": 281,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 225,
+      "secondary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 905,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57711,
+      "icon": "on-exclamation-arrow",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 773,
+        "xMin": 0,
+        "yMax": 281,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 225,
+      "secondary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 905,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57562,
+      "icon": "leaf-fluttering-in-wind",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 742,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 224,
+      "secondary": {
+        "xMax": 966,
+        "xMin": 0,
+        "yMax": 997,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57912,
+      "icon": "weary-cat",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 779,
+        "xMin": 0,
+        "yMax": 472,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 215,
+      "secondary": {
+        "xMax": 994,
+        "xMin": 0,
+        "yMax": 822,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57913,
+      "icon": "weary-cat-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 779,
+        "xMin": 0,
+        "yMax": 472,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 215,
+      "secondary": {
+        "xMax": 994,
+        "xMin": 0,
+        "yMax": 822,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57928,
+      "icon": "winking-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 994,
+        "xMin": 0,
+        "yMax": 926,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 209,
+      "secondary": {
+        "xMax": 785,
+        "xMin": 0,
+        "yMax": 644,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57417,
+      "icon": "confounded-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 925,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 207,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 651,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57738,
+      "icon": "pensive-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 925,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 206,
+      "secondary": {
+        "xMax": 793,
+        "xMin": 0,
+        "yMax": 603,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57480,
+      "icon": "first-quarter-moon-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 929,
+        "xMin": 0,
+        "yMax": 997,
+        "yMin": -9
+      },
+      "primaryFont": "NotoV1",
+      "score": 203,
+      "secondary": {
+        "xMax": 726,
+        "xMin": 0,
+        "yMax": 565,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57481,
+      "icon": "first-quarter-moon-with-face",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 929,
+        "xMin": 0,
+        "yMax": 997,
+        "yMin": -9
+      },
+      "primaryFont": "NotoV1",
+      "score": 203,
+      "secondary": {
+        "xMax": 726,
+        "xMin": 0,
+        "yMax": 565,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57361,
+      "icon": "b-button",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 202,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57362,
+      "icon": "b-button-blood-type",
+      "prefix": "noto-v1",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "NotoV1",
+      "score": 202,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "secondaryFont": "NotoV1Secondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "NotoV1",
+      "headBbox": "-3172..3599 / -2305..2624",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 2624,
+      "os2WinDesc": 2305,
+      "prefix": "noto-v1",
+      "reasons": [
+        "head.xMin=-3172",
+        "head.xMax=3599",
+        "head.yMin=-2305",
+        "head.yMax=2624",
+        "OS/2.winAsc=2624",
+        "OS/2.winDesc=2305"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "NotoV1Secondary",
+      "headBbox": "-934..3661 / -1558..1153",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1153,
+      "os2WinDesc": 1558,
+      "prefix": "noto-v1",
+      "reasons": [
+        "head.xMin=-934",
+        "head.xMax=3661",
+        "head.yMin=-1558",
+        "head.yMax=1153",
+        "OS/2.winAsc=1153",
+        "OS/2.winDesc=1558"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 57503,
+      "contentWidth": 1961,
+      "font": "NotoV1",
+      "name": "gorilla",
+      "prefix": "noto-v1",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57815,
+      "contentWidth": 6771,
+      "font": "NotoV1",
+      "name": "right-anger-bubble",
+      "prefix": "noto-v1",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57503,
+      "contentWidth": 1910,
+      "font": "NotoV1Secondary",
+      "name": "gorilla",
+      "prefix": "noto-v1",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57815,
+      "contentWidth": 3661,
+      "font": "NotoV1Secondary",
+      "name": "right-anger-bubble",
+      "prefix": "noto-v1",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57930,
+      "contentWidth": 2255,
+      "font": "NotoV1Secondary",
+      "name": "woman-biking-dark-skin-tone",
+      "prefix": "noto-v1",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57963,
+      "contentWidth": 1872,
+      "font": "NotoV1Secondary",
+      "name": "woman-mountain-biking-dark-skin-tone",
+      "prefix": "noto-v1",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "noto-v1",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "NotoV1",
+      "glyphCount": 647,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 3599,
+        "xMin": -3172,
+        "yMax": 2624,
+        "yMin": -2305
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 2624,
+        "usWinDescent": 2305
+      }
+    },
+    {
+      "error": null,
+      "font": "NotoV1Secondary",
+      "glyphCount": 246,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 3661,
+        "xMin": -934,
+        "yMax": 1153,
+        "yMin": -1558
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1153,
+        "usWinDescent": 1558
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Subway",
+      "glyphName": "zoom",
+      "prefix": "subway",
+      "sampleIcons": [
+        "zoom",
+        "zoom-plus"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Subway",
+      "headBbox": "-6..1014 / -11..1005",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 11,
+      "prefix": "subway",
+      "reasons": [
+        "head.xMin=-6",
+        "head.xMax=1014",
+        "head.yMin=-11",
+        "head.yMax=1005",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=11"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "subway",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Subway",
+      "glyphCount": 307,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1014,
+        "xMin": -6,
+        "yMax": 1005,
+        "yMin": -11
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 11
+      }
+    }
+  ]
+}

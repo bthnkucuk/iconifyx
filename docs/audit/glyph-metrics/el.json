@@ -1,0 +1,64 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "El",
+      "glyphName": "caret-right",
+      "prefix": "el",
+      "sampleIcons": [
+        "caret-right",
+        "play"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "El",
+      "headBbox": "-7..1014 / -10..1011",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 10,
+      "prefix": "el",
+      "reasons": [
+        "head.xMin=-7",
+        "head.xMax=1014",
+        "head.yMin=-10",
+        "head.yMax=1011",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=10"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "el",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "El",
+      "glyphCount": 304,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1014,
+        "xMin": -7,
+        "yMax": 1011,
+        "yMin": -10
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 10
+      }
+    }
+  ]
+}

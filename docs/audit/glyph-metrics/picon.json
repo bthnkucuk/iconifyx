@@ -1,0 +1,377 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Picon",
+      "glyphName": "battery",
+      "prefix": "picon",
+      "sampleIcons": [
+        "battery",
+        "battery5"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Picon",
+      "headBbox": "-625..1500 / -750..1375",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1375,
+      "os2WinDesc": 750,
+      "prefix": "picon",
+      "reasons": [
+        "head.xMin=-625",
+        "head.xMax=1500",
+        "head.yMin=-750",
+        "head.yMax=1375",
+        "OS/2.winAsc=1375",
+        "OS/2.winDesc=750"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 57356,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "aflat",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57357,
+      "contentWidth": 1125,
+      "font": "Picon",
+      "name": "africa",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57371,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "amazon",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57399,
+      "contentWidth": 1750,
+      "font": "Picon",
+      "name": "atom",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57409,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "badge",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57411,
+      "contentWidth": 1375,
+      "font": "Picon",
+      "name": "baguette",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57431,
+      "contentWidth": 1125,
+      "font": "Picon",
+      "name": "battleaxe",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57436,
+      "contentWidth": 1262,
+      "font": "Picon",
+      "name": "bee",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57450,
+      "contentWidth": 1375,
+      "font": "Picon",
+      "name": "bold",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57452,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "bone",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57458,
+      "contentWidth": 1125,
+      "font": "Picon",
+      "name": "bowling",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57464,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "break",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57468,
+      "contentWidth": 1500,
+      "font": "Picon",
+      "name": "broadcast",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57474,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "bulldozer",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57496,
+      "contentWidth": 1625,
+      "font": "Picon",
+      "name": "carrot",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57533,
+      "contentWidth": 1500,
+      "font": "Picon",
+      "name": "clover",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57546,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "connected",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57551,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "couch",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57573,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "debian",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57589,
+      "contentWidth": 1500,
+      "font": "Picon",
+      "name": "disconnected",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57608,
+      "contentWidth": 1125,
+      "font": "Picon",
+      "name": "duck",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57665,
+      "contentWidth": 1500,
+      "font": "Picon",
+      "name": "football",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57747,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "icecream",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57758,
+      "contentWidth": 1375,
+      "font": "Picon",
+      "name": "java",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57804,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "louder",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57827,
+      "contentWidth": 1125,
+      "font": "Picon",
+      "name": "messenger",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57853,
+      "contentWidth": 1375,
+      "font": "Picon",
+      "name": "nfc",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57862,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "octopus",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57885,
+      "contentWidth": 1125,
+      "font": "Picon",
+      "name": "perl",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57904,
+      "contentWidth": 1375,
+      "font": "Picon",
+      "name": "playstation",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57916,
+      "contentWidth": 1500,
+      "font": "Picon",
+      "name": "pressure",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57939,
+      "contentWidth": 1375,
+      "font": "Picon",
+      "name": "receive",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57987,
+      "contentWidth": 1125,
+      "font": "Picon",
+      "name": "seatbelt",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57995,
+      "contentWidth": 1375,
+      "font": "Picon",
+      "name": "shark",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58036,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "stamp",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58081,
+      "contentWidth": 1500,
+      "font": "Picon",
+      "name": "toast",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58096,
+      "contentWidth": 1500,
+      "font": "Picon",
+      "name": "trophy",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58125,
+      "contentWidth": 1250,
+      "font": "Picon",
+      "name": "viking",
+      "prefix": "picon",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58144,
+      "contentWidth": 1125,
+      "font": "Picon",
+      "name": "whatsapp",
+      "prefix": "picon",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "picon",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Picon",
+      "glyphCount": 824,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1500,
+        "xMin": -625,
+        "yMax": 1375,
+        "yMin": -750
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1375,
+        "usWinDescent": 750
+      }
+    }
+  ]
+}

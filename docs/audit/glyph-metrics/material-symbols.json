@@ -1,0 +1,5816 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 7,
+      "font": "MaterialSymbols",
+      "glyphName": "battery-20",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "battery-20",
+        "battery-30",
+        "battery-50",
+        "battery-60"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud",
+        "cloud-queue",
+        "cloud-sharp",
+        "cloudy"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "add-to-drive",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-to-drive",
+        "add-to-drive-outline",
+        "add-to-drive-sharp"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "airware",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "airware",
+        "airwave",
+        "airwave-sharp"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-fix",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-fix",
+        "auto-fix-high",
+        "auto-fix-sharp"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "backup",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "backup",
+        "backup-sharp",
+        "cloud-upload"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "bedtime",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bedtime",
+        "bedtime-sharp",
+        "clear-night"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-5",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-5",
+        "brightness-5-sharp",
+        "brightness-low"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-6",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-6",
+        "brightness-6-sharp",
+        "brightness-medium"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-7",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-7",
+        "brightness-7-sharp",
+        "brightness-high"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "check",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "check",
+        "done",
+        "done-sharp"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "chevron-backward",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chevron-backward",
+        "chevron-left",
+        "chevron-left-sharp"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "chevron-forward",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chevron-forward",
+        "chevron-right",
+        "chevron-right-sharp"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-circle-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-circle-outline",
+        "cloud-circle-outline-rounded",
+        "cloud-circle-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbols",
+      "glyphName": "content-cut",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "content-cut",
+        "cut",
+        "cut-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "1x-mobiledata",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "1x-mobiledata",
+        "1x-mobiledata-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "360",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "360",
+        "360-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ac-unit",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ac-unit",
+        "ac-unit-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "accessibility",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "accessibility",
+        "accessibility-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "accessibility-new",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "accessibility-new",
+        "accessibility-new-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "account-balance",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "account-balance",
+        "account-balance-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "account-balance-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "account-balance-outline",
+        "account-balance-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "account-circle",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "account-circle",
+        "account-circle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "account-circle-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "account-circle-off",
+        "account-circle-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "account-circle-off-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "account-circle-off-outline",
+        "account-circle-off-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "account-circle-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "account-circle-outline",
+        "account-circle-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "account-tree",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "account-tree",
+        "account-tree-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "account-tree-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "account-tree-outline",
+        "account-tree-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "activity-zone",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "activity-zone",
+        "activity-zone-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "activity-zone-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "activity-zone-outline",
+        "activity-zone-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "acute",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "acute",
+        "acute-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "acute-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "acute-outline",
+        "acute-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "adb",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "adb",
+        "adb-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add",
+        "add-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-business",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-business",
+        "add-business-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-business-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-business-outline",
+        "add-business-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-circle",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-circle",
+        "add-circle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-circle-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-circle-outline",
+        "add-circle-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-home",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-home",
+        "add-home-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-home-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-home-outline",
+        "add-home-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-home-work",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-home-work",
+        "add-home-work-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-home-work-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-home-work-outline",
+        "add-home-work-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-link",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-link",
+        "add-link-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-location",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-location",
+        "add-location-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-location-alt",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-location-alt",
+        "add-location-alt-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-location-alt-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-location-alt-outline",
+        "add-location-alt-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-location-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-location-outline",
+        "add-location-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-moderator",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-moderator",
+        "add-moderator-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-moderator-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-moderator-outline",
+        "add-moderator-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-reaction-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-reaction-outline",
+        "add-reaction-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-road",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-road",
+        "add-road-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "add-task",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "add-task",
+        "add-task-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "adjust",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "adjust",
+        "adjust-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "adjust-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "adjust-outline",
+        "adjust-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "admin-panel-settings",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "admin-panel-settings",
+        "admin-panel-settings-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "admin-panel-settings-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "admin-panel-settings-outline",
+        "admin-panel-settings-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ads-click",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ads-click",
+        "ads-click-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "agender",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "agender",
+        "agender-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "air",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "air",
+        "air-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "airline-stops",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "airline-stops",
+        "airline-stops-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "airlines",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "airlines",
+        "airlines-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "airlines-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "airlines-outline",
+        "airlines-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "airplanemode-inactive",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "airplanemode-inactive",
+        "airplanemode-inactive-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "airware-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "airware-rounded",
+        "airwave-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm",
+        "alarm-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm-add",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm-add",
+        "alarm-add-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm-add-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm-add-outline",
+        "alarm-add-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm-off",
+        "alarm-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm-off-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm-off-outline",
+        "alarm-off-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm-on",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm-on",
+        "alarm-on-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm-on-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm-on-outline",
+        "alarm-on-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm-outline",
+        "alarm-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm-smart-wake",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm-smart-wake",
+        "alarm-smart-wake-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alarm-smart-wake-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alarm-smart-wake-outline",
+        "alarm-smart-wake-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "album",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "album",
+        "album-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "album-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "album-outline",
+        "album-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-center",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-center",
+        "align-center-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-end",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-end",
+        "align-end-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-flex-center",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-flex-center",
+        "align-flex-center-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-flex-end",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-flex-end",
+        "align-flex-end-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-flex-start",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-flex-start",
+        "align-flex-start-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-horizontal-center",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-horizontal-center",
+        "align-horizontal-center-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-horizontal-left",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-horizontal-left",
+        "align-horizontal-left-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-horizontal-right",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-horizontal-right",
+        "align-horizontal-right-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-items-stretch",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-items-stretch",
+        "align-items-stretch-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-justify-center",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-justify-center",
+        "align-justify-center-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-justify-flex-end",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-justify-flex-end",
+        "align-justify-flex-end-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-justify-flex-start",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-justify-flex-start",
+        "align-justify-flex-start-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-justify-space-around",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-justify-space-around",
+        "align-justify-space-around-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-justify-space-between",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-justify-space-between",
+        "align-justify-space-between-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-justify-space-even",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-justify-space-even",
+        "align-justify-space-even-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-justify-stretch",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-justify-stretch",
+        "align-justify-stretch-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-self-stretch",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-self-stretch",
+        "align-self-stretch-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-space-around",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-space-around",
+        "align-space-around-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-space-between",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-space-between",
+        "align-space-between-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-space-even",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-space-even",
+        "align-space-even-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-start",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-start",
+        "align-start-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-stretch",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-stretch",
+        "align-stretch-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-vertical-bottom",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-vertical-bottom",
+        "align-vertical-bottom-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-vertical-center",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-vertical-center",
+        "align-vertical-center-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "align-vertical-top",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "align-vertical-top",
+        "align-vertical-top-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "all-inclusive",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "all-inclusive",
+        "all-inclusive-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "all-out",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "all-out",
+        "all-out-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "all-out-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "all-out-outline",
+        "all-out-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "allergies",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "allergies",
+        "allergies-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "allergies-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "allergies-outline",
+        "allergies-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "allergy",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "allergy",
+        "allergy-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alt-route",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alt-route",
+        "alt-route-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "alternate-email",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "alternate-email",
+        "alternate-email-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "altitude",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "altitude",
+        "altitude-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "altitude-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "altitude-outline",
+        "altitude-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "amend",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "amend",
+        "amend-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "amend-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "amend-outline",
+        "amend-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "amp-stories",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "amp-stories",
+        "amp-stories-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "amp-stories-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "amp-stories-outline",
+        "amp-stories-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "anchor",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "anchor",
+        "anchor-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "android",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "android",
+        "android-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "animation",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "animation",
+        "animation-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "aod-watch",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "aod-watch",
+        "aod-watch-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "aod-watch-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "aod-watch-outline",
+        "aod-watch-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "apartment",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "apartment",
+        "apartment-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "api",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "api",
+        "api-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "apk-install-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "apk-install-outline",
+        "close-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "app-badging",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "app-badging",
+        "app-badging-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "app-badging-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "app-badging-outline",
+        "app-badging-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "apps",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "apps",
+        "apps-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "apps-outage",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "apps-outage",
+        "apps-outage-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "architecture",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "architecture",
+        "architecture-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "area-chart",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "area-chart",
+        "area-chart-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "area-chart-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "area-chart-outline",
+        "area-chart-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arming-countdown",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arming-countdown",
+        "arming-countdown-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arming-countdown-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arming-countdown-outline",
+        "arming-countdown-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-back",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-back",
+        "arrow-back-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-back-ios",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-back-ios",
+        "arrow-back-ios-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-back-ios-new",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-back-ios-new",
+        "arrow-back-ios-new-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-circle-down",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-circle-down",
+        "arrow-circle-down-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-circle-down-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-circle-down-outline",
+        "arrow-circle-down-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-circle-left",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-circle-left",
+        "arrow-circle-left-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-circle-left-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-circle-left-outline",
+        "arrow-circle-left-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-circle-right",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-circle-right",
+        "arrow-circle-right-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-circle-right-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-circle-right-outline",
+        "arrow-circle-right-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-circle-up",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-circle-up",
+        "arrow-circle-up-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-circle-up-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-circle-up-outline",
+        "arrow-circle-up-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-downward",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-downward",
+        "arrow-downward-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-drop-down",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-drop-down",
+        "arrow-drop-down-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-drop-down-circle",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-drop-down-circle",
+        "arrow-drop-down-circle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-drop-down-circle-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-drop-down-circle-outline",
+        "arrow-drop-down-circle-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-drop-up",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-drop-up",
+        "arrow-drop-up-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-forward",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-forward",
+        "arrow-forward-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-forward-ios",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-forward-ios",
+        "arrow-forward-ios-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-insert",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-insert",
+        "arrow-insert-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-left",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-left",
+        "arrow-left-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-outward",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-outward",
+        "arrow-outward-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-range",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-range",
+        "arrow-range-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-right",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-right",
+        "arrow-right-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-right-alt",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-right-alt",
+        "arrow-right-alt-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-selector-tool",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-selector-tool",
+        "arrow-selector-tool-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-selector-tool-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-selector-tool-outline",
+        "arrow-selector-tool-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-top-left",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-top-left",
+        "arrow-top-left-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-top-right",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-top-right",
+        "arrow-top-right-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrow-upward",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrow-upward",
+        "arrow-upward-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrows-more-down",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrows-more-down",
+        "arrows-more-down-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrows-more-up",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrows-more-up",
+        "arrows-more-up-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "arrows-outward",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "arrows-outward",
+        "arrows-outward-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "assistant-navigation",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "assistant-navigation",
+        "assistant-navigation-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "assistant-navigation-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "assistant-navigation-outline",
+        "assistant-navigation-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "assured-workload",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "assured-workload",
+        "assured-workload-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "assured-workload-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "assured-workload-outline",
+        "assured-workload-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "astrophotography-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "astrophotography-off",
+        "astrophotography-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "atr",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "atr",
+        "atr-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "attach-file",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "attach-file",
+        "attach-file-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "attach-file-add",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "attach-file-add",
+        "attach-file-add-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "attach-money",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "attach-money",
+        "attach-money-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "attachment",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "attachment",
+        "attachment-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "attractions",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "attractions",
+        "attractions-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "attractions-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "attractions-outline",
+        "attractions-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-activity-zone",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-activity-zone",
+        "auto-activity-zone-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-activity-zone-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-activity-zone-outline",
+        "auto-activity-zone-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-awesome",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-awesome",
+        "auto-awesome-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-awesome-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-awesome-outline",
+        "auto-awesome-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-detect-voice",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-detect-voice",
+        "auto-detect-voice-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-detect-voice-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-detect-voice-outline",
+        "auto-detect-voice-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-fix-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-fix-outline",
+        "auto-fix-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-graph",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-graph",
+        "auto-graph-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-meeting-room",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-meeting-room",
+        "auto-meeting-room-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-meeting-room-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-meeting-room-outline",
+        "auto-meeting-room-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "auto-mode",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "auto-mode",
+        "auto-mode-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "autofps-select",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "autofps-select",
+        "autofps-select-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "autopause",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "autopause",
+        "autopause-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "autopay",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "autopay",
+        "autopay-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "autoplay",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "autoplay",
+        "autoplay-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "autorenew",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "autorenew",
+        "autorenew-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "autorenew-outline-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "autorenew-outline-rounded",
+        "autorenew-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "av-timer",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "av-timer",
+        "av-timer-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "avg-pace",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "avg-pace",
+        "avg-pace-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "azm",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "azm",
+        "azm-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "azm-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "azm-outline",
+        "azm-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "backlight-high",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "backlight-high",
+        "backlight-high-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "backlight-low",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "backlight-low",
+        "backlight-low-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "backup-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "backup-outline",
+        "backup-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "badge-critical-battery",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "badge-critical-battery",
+        "battery-very-low"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "balance",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "balance",
+        "balance-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "balcony",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "balcony",
+        "balcony-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bar-chart",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bar-chart",
+        "bar-chart-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "barcode",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "barcode",
+        "barcode-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "barcode-scanner",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "barcode-scanner",
+        "barcode-scanner-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "barefoot",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "barefoot",
+        "barefoot-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bath-outdoor",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bath-outdoor",
+        "bath-outdoor-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bath-outdoor-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bath-outdoor-outline",
+        "bath-outdoor-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "battery-20-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "battery-20-rounded",
+        "battery-full-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "battery-20-sharp",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "battery-20-sharp",
+        "battery-full-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "battery-android-0",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "battery-android-0",
+        "battery-android-full"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "battery-charging-20-outline-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "battery-charging-20-outline-rounded",
+        "battery-charging-20-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "battery-charging-30-outline-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "battery-charging-30-outline-rounded",
+        "battery-charging-30-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "battery-charging-50-outline-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "battery-charging-50-outline-rounded",
+        "battery-charging-50-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "battery-plus-outline-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "battery-plus-outline-rounded",
+        "battery-saver-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "battery-plus-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "battery-plus-rounded",
+        "battery-saver-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "beach-access",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "beach-access",
+        "beach-access-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "beach-access-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "beach-access-outline",
+        "beach-access-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bedtime-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bedtime-off",
+        "bedtime-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bedtime-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bedtime-outline",
+        "bedtime-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bia",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bia",
+        "bia-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bia-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bia-outline",
+        "bia-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "biotech",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "biotech",
+        "biotech-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "biotech-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "biotech-outline",
+        "biotech-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blanket",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blanket",
+        "blanket-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blind",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blind",
+        "blind-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blinds",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blinds",
+        "blinds-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blinds-closed",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blinds-closed",
+        "blinds-closed-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "block",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "block",
+        "block-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bloodtype",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bloodtype",
+        "bloodtype-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bloodtype-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bloodtype-outline",
+        "bloodtype-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bluetooth",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bluetooth",
+        "bluetooth-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bluetooth-connected",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bluetooth-connected",
+        "bluetooth-connected-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bluetooth-disabled",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bluetooth-disabled",
+        "bluetooth-disabled-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bluetooth-searching",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bluetooth-searching",
+        "bluetooth-searching-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blur-circular",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blur-circular",
+        "blur-circular-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blur-circular-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blur-circular-outline",
+        "blur-circular-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blur-linear",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blur-linear",
+        "blur-linear-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blur-linear-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blur-linear-outline",
+        "blur-linear-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blur-medium",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blur-medium",
+        "blur-medium-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blur-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blur-off",
+        "blur-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blur-on",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blur-on",
+        "blur-on-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "blur-short",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "blur-short",
+        "blur-short-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "body-system",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "body-system",
+        "body-system-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bolt",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bolt",
+        "bolt-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bolt-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bolt-outline",
+        "bolt-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-all",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-all",
+        "border-all-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-all-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-all-outline",
+        "border-all-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-bottom",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-bottom",
+        "border-bottom-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-clear",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-clear",
+        "border-clear-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-horizontal",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-horizontal",
+        "border-horizontal-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-inner",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-inner",
+        "border-inner-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-left",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-left",
+        "border-left-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-outer",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-outer",
+        "border-outer-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-right",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-right",
+        "border-right-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-style",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-style",
+        "border-style-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-top",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-top",
+        "border-top-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "border-vertical",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "border-vertical",
+        "border-vertical-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "boy",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "boy",
+        "boy-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brand-family",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brand-family",
+        "brand-family-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "breastfeeding",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "breastfeeding",
+        "breastfeeding-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-1",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-1",
+        "circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-3",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-3",
+        "brightness-3-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-3-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-3-outline",
+        "brightness-3-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-4",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-4",
+        "brightness-4-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-4-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-4-outline",
+        "brightness-4-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-5-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-5-outline",
+        "brightness-5-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-6-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-6-outline",
+        "brightness-6-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-7-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-7-outline",
+        "brightness-7-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-auto",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-auto",
+        "brightness-auto-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-auto-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-auto-outline",
+        "brightness-auto-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-empty",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-empty",
+        "brightness-empty-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "brightness-empty-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "brightness-empty-outline",
+        "brightness-empty-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bring-your-own-ip",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bring-your-own-ip",
+        "bring-your-own-ip-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "broadcast-on-personal",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "broadcast-on-personal",
+        "broadcast-on-personal-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "broadcast-on-personal-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "broadcast-on-personal-outline",
+        "broadcast-on-personal-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "browse-gallery",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "browse-gallery",
+        "browse-gallery-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "browse-gallery-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "browse-gallery-outline",
+        "browse-gallery-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bubble-chart",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bubble-chart",
+        "bubble-chart-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bubble-chart-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bubble-chart-outline",
+        "bubble-chart-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bug-report",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bug-report",
+        "bug-report-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bug-report-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bug-report-outline",
+        "bug-report-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bungalow",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bungalow",
+        "bungalow-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "bungalow-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "bungalow-outline",
+        "bungalow-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cabin",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cabin",
+        "cabin-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cached",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cached",
+        "cached-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "call-made",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "call-made",
+        "call-made-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "call-merge",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "call-merge",
+        "call-merge-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "call-missed",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "call-missed",
+        "call-missed-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "call-missed-outgoing",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "call-missed-outgoing",
+        "call-missed-outgoing-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "call-split",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "call-split",
+        "call-split-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "camera",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "camera",
+        "camera-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "camera-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "camera-outline",
+        "camera-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "camera-video",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "camera-video",
+        "camera-video-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "camera-video-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "camera-video-outline",
+        "camera-video-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "camping",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "camping",
+        "camping-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "camping-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "camping-outline",
+        "camping-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cancel",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cancel",
+        "cancel-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cancel-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cancel-outline",
+        "cancel-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cancel-schedule-send",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cancel-schedule-send",
+        "cancel-schedule-send-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cancel-schedule-send-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cancel-schedule-send-outline",
+        "cancel-schedule-send-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "candlestick-chart",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "candlestick-chart",
+        "candlestick-chart-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "candlestick-chart-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "candlestick-chart-outline",
+        "candlestick-chart-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "captive-portal",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "captive-portal",
+        "captive-portal-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "car-defrost-mid-left",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "car-defrost-mid-left",
+        "car-defrost-mid-low-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "car-defrost-mid-low-right",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "car-defrost-mid-low-right",
+        "car-defrost-mid-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cardiology",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cardiology",
+        "cardiology-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cardiology-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cardiology-outline",
+        "cardiology-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "category",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "category",
+        "category-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "category-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "category-outline",
+        "category-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cell-merge",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cell-merge",
+        "cell-merge-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cell-tower",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cell-tower",
+        "cell-tower-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cell-wifi",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cell-wifi",
+        "cell-wifi-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "chalet",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chalet",
+        "chalet-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "chalet-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chalet-outline",
+        "chalet-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "change-circle",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "change-circle",
+        "change-circle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "change-circle-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "change-circle-outline",
+        "change-circle-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "change-history",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "change-history",
+        "change-history-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "change-history-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "change-history-outline",
+        "change-history-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "charger",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "charger",
+        "charger-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "charger-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "charger-outline",
+        "charger-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "check-circle",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "check-circle",
+        "check-circle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "check-circle-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "check-circle-outline",
+        "check-circle-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "check-in-out",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "check-in-out",
+        "check-in-out-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "check-indeterminate-small",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "check-indeterminate-small",
+        "check-indeterminate-small-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "check-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "check-rounded",
+        "done-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "check-small",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "check-small",
+        "check-small-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "checklist",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "checklist",
+        "checklist-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "checklist-rtl",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "checklist-rtl",
+        "checklist-rtl-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "checkroom",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "checkroom",
+        "checkroom-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "child-care",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "child-care",
+        "child-care-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "child-care-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "child-care-outline",
+        "child-care-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "chip-extraction",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chip-extraction",
+        "chip-extraction-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "chromecast-2",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chromecast-2",
+        "chromecast-2-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "chromecast-device",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chromecast-device",
+        "chromecast-device-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "chromecast-device-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chromecast-device-outline",
+        "chromecast-device-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "chronic",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chronic",
+        "chronic-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "chronic-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "chronic-outline",
+        "chronic-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "clear-all",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "clear-all",
+        "clear-all-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "clock-loader-10",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "clock-loader-10",
+        "clock-loader-10-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "clock-loader-20",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "clock-loader-20",
+        "clock-loader-20-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "clock-loader-40",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "clock-loader-40",
+        "clock-loader-40-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "clock-loader-60",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "clock-loader-60",
+        "clock-loader-60-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "clock-loader-80",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "clock-loader-80",
+        "clock-loader-80-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "clock-loader-90",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "clock-loader-90",
+        "clock-loader-90-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "close",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "close",
+        "close-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "close-fullscreen",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "close-fullscreen",
+        "close-fullscreen-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-circle",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-circle",
+        "cloud-circle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-done",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-done",
+        "cloud-done-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-done-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-done-outline",
+        "cloud-done-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-download",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-download",
+        "cloud-download-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-download-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-download-outline",
+        "cloud-download-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-off",
+        "cloud-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-off-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-off-outline",
+        "cloud-off-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-outline",
+        "cloud-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-sync",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-sync",
+        "cloud-sync-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloud-sync-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloud-sync-outline",
+        "cloud-sync-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloudy-snowing",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloudy-snowing",
+        "cloudy-snowing-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cloudy-snowing-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cloudy-snowing-outline",
+        "cloudy-snowing-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "code",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "code",
+        "code-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "code-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "code-off",
+        "code-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "commit",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "commit",
+        "commit-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "communication",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "communication",
+        "communication-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "compare-arrows",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "compare-arrows",
+        "compare-arrows-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "compass-calibration",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "compass-calibration",
+        "compass-calibration-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "compass-calibration-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "compass-calibration-outline",
+        "compass-calibration-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "compost",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "compost",
+        "compost-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "compress",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "compress",
+        "compress-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "conditions",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "conditions",
+        "conditions-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "congenital",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "congenital",
+        "congenital-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "congenital-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "congenital-outline",
+        "congenital-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "connect-without-contact",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "connect-without-contact",
+        "connect-without-contact-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "connecting-airports",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "connecting-airports",
+        "connecting-airports-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "construction",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "construction",
+        "construction-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "contact-support",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "contact-support",
+        "contact-support-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "contact-support-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "contact-support-outline",
+        "contact-support-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "contactless",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "contactless",
+        "contactless-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "contactless-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "contactless-off",
+        "contactless-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "contactless-off-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "contactless-off-outline",
+        "contactless-off-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "contactless-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "contactless-outline",
+        "contactless-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "content-cut-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "content-cut-rounded",
+        "cut-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "contrast",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "contrast",
+        "contrast-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "contrast-rtl-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "contrast-rtl-off",
+        "contrast-rtl-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "control-camera",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "control-camera",
+        "control-camera-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "control-point-duplicate",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "control-point-duplicate",
+        "control-point-duplicate-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "control-point-duplicate-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "control-point-duplicate-outline",
+        "control-point-duplicate-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "conversion-path",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "conversion-path",
+        "conversion-path-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "conversion-path-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "conversion-path-off",
+        "conversion-path-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cookie",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cookie",
+        "cookie-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cookie-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cookie-off",
+        "cookie-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cookie-off-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cookie-off-outline",
+        "cookie-off-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cookie-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cookie-outline",
+        "cookie-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cooking",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cooking",
+        "cooking-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cool-to-dry",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cool-to-dry",
+        "cool-to-dry-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cool-to-dry-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cool-to-dry-outline",
+        "cool-to-dry-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "corporate-fare",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "corporate-fare",
+        "corporate-fare-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cottage",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cottage",
+        "cottage-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cottage-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cottage-outline",
+        "cottage-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "counter-1",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "counter-1",
+        "counter-1-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "counter-1-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "counter-1-outline",
+        "counter-1-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "counter-4",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "counter-4",
+        "counter-4-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "counter-4-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "counter-4-outline",
+        "counter-4-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "countertops",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "countertops",
+        "countertops-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "countertops-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "countertops-outline",
+        "countertops-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "crisis-alert",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "crisis-alert",
+        "crisis-alert-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cruelty-free",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cruelty-free",
+        "cruelty-free-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "currency-bitcoin",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "currency-bitcoin",
+        "currency-bitcoin-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "currency-exchange",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "currency-exchange",
+        "currency-exchange-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "currency-franc",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "currency-franc",
+        "currency-franc-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "currency-lira",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "currency-lira",
+        "currency-lira-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "currency-pound",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "currency-pound",
+        "currency-pound-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "currency-ruble",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "currency-ruble",
+        "currency-ruble-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "currency-rupee",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "currency-rupee",
+        "currency-rupee-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "currency-yen",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "currency-yen",
+        "currency-yen-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "currency-yuan",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "currency-yuan",
+        "currency-yuan-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "curtains",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "curtains",
+        "curtains-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "curtains-closed",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "curtains-closed",
+        "curtains-closed-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "curtains-closed-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "curtains-closed-outline",
+        "curtains-closed-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "curtains-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "curtains-outline",
+        "curtains-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cycle",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cycle",
+        "cycle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "cyclone",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "cyclone",
+        "cyclone-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dangerous",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dangerous",
+        "dangerous-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dangerous-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dangerous-outline",
+        "dangerous-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dark-mode",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dark-mode",
+        "dark-mode-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dark-mode-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dark-mode-outline",
+        "dark-mode-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dashboard",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dashboard",
+        "dashboard-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dashboard-customize",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dashboard-customize",
+        "dashboard-customize-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dashboard-customize-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dashboard-customize-outline",
+        "dashboard-customize-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dashboard-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dashboard-outline",
+        "dashboard-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "data-alert",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "data-alert",
+        "data-alert-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "data-array",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "data-array",
+        "data-array-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "data-check",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "data-check",
+        "data-check-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "data-info-alert",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "data-info-alert",
+        "data-info-alert-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "data-saver-on",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "data-saver-on",
+        "data-saver-on-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "data-usage",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "data-usage",
+        "data-usage-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "deblur",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "deblur",
+        "deblur-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "deblur-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "deblur-outline",
+        "deblur-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "decimal-decrease",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "decimal-decrease",
+        "decimal-decrease-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "decimal-increase",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "decimal-increase",
+        "decimal-increase-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "deck",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "deck",
+        "deck-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "deck-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "deck-outline",
+        "deck-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dehaze",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dehaze",
+        "dehaze-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "delete-history",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "delete-history",
+        "delete-history-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "density-large",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "density-large",
+        "density-large-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "density-medium",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "density-medium",
+        "density-medium-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "density-small",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "density-small",
+        "density-small-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dentistry",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dentistry",
+        "dentistry-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dentistry-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dentistry-outline",
+        "dentistry-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "desk",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "desk",
+        "desk-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "details",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "details",
+        "details-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "device-hub",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "device-hub",
+        "device-hub-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "device-thermostat",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "device-thermostat",
+        "device-thermostat-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dew-point",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dew-point",
+        "dew-point-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dew-point-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dew-point-outline",
+        "dew-point-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dialpad",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dialpad",
+        "dialpad-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "diamond",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "diamond",
+        "diamond-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "diamond-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "diamond-outline",
+        "diamond-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "directions-railway",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "directions-railway",
+        "directions-railway-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "directions-railway-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "directions-railway-outline",
+        "directions-railway-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "directions-run",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "directions-run",
+        "directions-run-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "directions-subway",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "directions-subway",
+        "directions-subway-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "directions-subway-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "directions-subway-outline",
+        "directions-subway-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "directions-walk",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "directions-walk",
+        "directions-walk-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "disabled-visible",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "disabled-visible",
+        "disabled-visible-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "disc-full",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "disc-full",
+        "disc-full-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "disc-full-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "disc-full-outline",
+        "disc-full-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "discover-tune",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "discover-tune",
+        "discover-tune-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "distance",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "distance",
+        "distance-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "distance-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "distance-outline",
+        "distance-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "diversity-1",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "diversity-1",
+        "diversity-1-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "diversity-1-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "diversity-1-outline",
+        "diversity-1-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "diversity-2",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "diversity-2",
+        "diversity-2-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "diversity-2-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "diversity-2-outline",
+        "diversity-2-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "diversity-3",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "diversity-3",
+        "diversity-3-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "do-not-disturb-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "do-not-disturb-off",
+        "do-not-disturb-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "do-not-disturb-off-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "do-not-disturb-off-outline",
+        "do-not-disturb-off-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "do-not-disturb-on",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "do-not-disturb-on",
+        "do-not-disturb-on-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "do-not-disturb-on-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "do-not-disturb-on-outline",
+        "do-not-disturb-on-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "do-not-disturb-on-total-silence",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "do-not-disturb-on-total-silence",
+        "do-not-disturb-on-total-silence-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "do-not-disturb-on-total-silence-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "do-not-disturb-on-total-silence-outline",
+        "do-not-disturb-on-total-silence-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "docs-add-on",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "docs-add-on",
+        "docs-add-on-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "docs-apps-script",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "docs-apps-script",
+        "docs-apps-script-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "docs-apps-script-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "docs-apps-script-outline",
+        "docs-apps-script-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "domain",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "domain",
+        "domain-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "domain-add",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "domain-add",
+        "domain-add-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "domain-disabled",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "domain-disabled",
+        "domain-disabled-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "done-all",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "done-all",
+        "done-all-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "donut-large",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "donut-large",
+        "donut-large-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "donut-small",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "donut-small",
+        "donut-small-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "donut-small-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "donut-small-outline",
+        "donut-small-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "doorbell-chime",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "doorbell-chime",
+        "doorbell-chime-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "doorbell-chime-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "doorbell-chime-outline",
+        "doorbell-chime-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "double-arrow",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "double-arrow",
+        "double-arrow-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "downhill-skiing",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "downhill-skiing",
+        "downhill-skiing-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "download-done",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "download-done",
+        "download-done-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "download-done-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "download-done-outline",
+        "download-done-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "download-for-offline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "download-for-offline",
+        "download-for-offline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "download-for-offline-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "download-for-offline-outline",
+        "download-for-offline-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "downloading",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "downloading",
+        "downloading-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "drag-click",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "drag-click",
+        "drag-click-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "drag-handle",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "drag-handle",
+        "drag-handle-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "drag-indicator",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "drag-indicator",
+        "drag-indicator-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "drag-pan",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "drag-pan",
+        "drag-pan-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "dresser",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "dresser",
+        "dresser-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "duo",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "duo",
+        "duo-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "duo-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "duo-outline",
+        "duo-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "e-mobiledata",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "e-mobiledata",
+        "e-mobiledata-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "east",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "east",
+        "east-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "eco",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "eco",
+        "eco-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "eco-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "eco-outline",
+        "eco-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "edit-attributes",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "edit-attributes",
+        "edit-attributes-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "edit-attributes-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "edit-attributes-outline",
+        "edit-attributes-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "egg-alt",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "egg-alt",
+        "egg-alt-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "egg-alt-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "egg-alt-outline",
+        "egg-alt-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "eject",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "eject",
+        "eject-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "eject-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "eject-outline",
+        "eject-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "elderly",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "elderly",
+        "elderly-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "elderly-woman",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "elderly-woman",
+        "elderly-woman-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "electric-meter",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "electric-meter",
+        "electric-meter-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "electric-meter-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "electric-meter-outline",
+        "electric-meter-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "elevation",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "elevation",
+        "elevation-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "elevation-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "elevation-outline",
+        "elevation-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "emergency",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "emergency",
+        "emergency-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "emergency-heat",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "emergency-heat",
+        "emergency-heat-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "emergency-heat-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "emergency-heat-outline",
+        "emergency-heat-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "emergency-share",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "emergency-share",
+        "emergency-share-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "emergency-share-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "emergency-share-outline",
+        "emergency-share-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "emoji-nature",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "emoji-nature",
+        "emoji-nature-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "emoji-nature-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "emoji-nature-outline",
+        "emoji-nature-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "emoji-people",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "emoji-people",
+        "emoji-people-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "emoticon",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "emoticon",
+        "emoticon-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "enable",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "enable",
+        "enable-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "enable-outline-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "enable-outline-rounded",
+        "enable-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "endocrinology",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "endocrinology",
+        "endocrinology-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "endocrinology-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "endocrinology-outline",
+        "endocrinology-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "equal",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "equal",
+        "equal-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "equalizer",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "equalizer",
+        "equalizer-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "error",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "error",
+        "error-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "error-circle-rounded-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "error-circle-rounded-outline",
+        "error-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "error-med",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "error-med",
+        "error-med-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "error-med-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "error-med-outline",
+        "error-med-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "error-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "error-outline",
+        "error-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "euro",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "euro",
+        "euro-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "euro-symbol",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "euro-symbol",
+        "euro-symbol-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ev-charger",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ev-charger",
+        "ev-station"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ev-charger-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ev-charger-outline",
+        "ev-station-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ev-charger-outline-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ev-charger-outline-rounded",
+        "ev-station-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ev-charger-outline-sharp",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ev-charger-outline-sharp",
+        "ev-station-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ev-charger-rounded",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ev-charger-rounded",
+        "ev-station-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ev-charger-sharp",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ev-charger-sharp",
+        "ev-station-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ev-shadow",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ev-shadow",
+        "ev-shadow-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "ev-shadow-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "ev-shadow-outline",
+        "ev-shadow-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "exclamation",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "exclamation",
+        "exclamation-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "expand",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "expand",
+        "expand-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "expand-circle-down",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "expand-circle-down",
+        "expand-circle-down-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "expand-circle-down-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "expand-circle-down-outline",
+        "expand-circle-down-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "expand-content",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "expand-content",
+        "expand-content-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "expand-less",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "expand-less",
+        "expand-less-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "expand-more",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "expand-more",
+        "expand-more-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "explore",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "explore",
+        "explore-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "explore-off",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "explore-off",
+        "explore-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "explore-off-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "explore-off-outline",
+        "explore-off-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "explore-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "explore-outline",
+        "explore-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "exposure-neg-1",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "exposure-neg-1",
+        "exposure-neg-1-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "exposure-neg-2",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "exposure-neg-2",
+        "exposure-neg-2-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "exposure-plus-1",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "exposure-plus-1",
+        "exposure-plus-1-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "exposure-plus-2",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "exposure-plus-2",
+        "exposure-plus-2-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "exposure-zero",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "exposure-zero",
+        "exposure-zero-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "eyeglasses",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "eyeglasses",
+        "eyeglasses-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "face-2",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "face-2",
+        "face-2-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbols",
+      "glyphName": "face-2-outline",
+      "prefix": "material-symbols",
+      "sampleIcons": [
+        "face-2-outline",
+        "face-2-outline-sharp"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "MaterialSymbols",
+      "headBbox": "-46..1030 / -15..1026",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 15,
+      "prefix": "material-symbols",
+      "reasons": [
+        "head.xMin=-46",
+        "head.xMax=1030",
+        "head.yMin=-15",
+        "head.yMax=1026",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=15"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 63208,
+      "contentWidth": 84,
+      "font": "MaterialSymbols",
+      "name": "exclamation",
+      "prefix": "material-symbols",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 63209,
+      "contentWidth": 84,
+      "font": "MaterialSymbols",
+      "name": "exclamation-rounded",
+      "prefix": "material-symbols",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 63210,
+      "contentWidth": 84,
+      "font": "MaterialSymbols",
+      "name": "exclamation",
+      "prefix": "material-symbols",
+      "reason": "narrow"
+    }
+  ],
+  "prefix": "material-symbols",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "MaterialSymbols",
+      "glyphCount": 18575,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1030,
+        "xMin": -46,
+        "yMax": 1026,
+        "yMin": -15
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 15
+      }
+    }
+  ]
+}

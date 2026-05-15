@@ -1,0 +1,1898 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 49,
+      "font": "Catppuccin",
+      "glyphName": "folder-azure-pipelines",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-azure-pipelines",
+        "folder-content",
+        "folder-database",
+        "folder-debug"
+      ]
+    },
+    {
+      "codepointCount": 48,
+      "font": "Catppuccin",
+      "glyphName": "folder-azure-pipelines-open",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-azure-pipelines-open",
+        "folder-database-open",
+        "folder-debug-open",
+        "folder-direnv-open"
+      ]
+    },
+    {
+      "codepointCount": 31,
+      "font": "Catppuccin",
+      "glyphName": "folder-android",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-android",
+        "folder-animation",
+        "folder-api",
+        "folder-assets"
+      ]
+    },
+    {
+      "codepointCount": 29,
+      "font": "Catppuccin",
+      "glyphName": "folder-api-open",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-api-open",
+        "folder-audit-open",
+        "folder-azure-devops-open",
+        "folder-benchmark-open"
+      ]
+    },
+    {
+      "codepointCount": 9,
+      "font": "Catppuccin",
+      "glyphName": "nest",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "nest",
+        "nest-controller",
+        "nest-decorator",
+        "nest-filter"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "Catppuccin",
+      "glyphName": "angular",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "angular",
+        "angular-component",
+        "angular-directive",
+        "angular-guard"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "CatppuccinSecondary",
+      "glyphName": "angular",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "angular",
+        "angular-component",
+        "angular-directive",
+        "angular-guard"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "Catppuccin",
+      "glyphName": "java",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "java",
+        "java-alt-1",
+        "java-alt-2",
+        "java-alt-3"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "CatppuccinSecondary",
+      "glyphName": "java",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "java",
+        "java-alt-1",
+        "java-alt-2",
+        "java-alt-3"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Catppuccin",
+      "glyphName": "gleam-config",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "gleam-config",
+        "rust-alt-config",
+        "typescript-config",
+        "vue-config"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Catppuccin",
+      "glyphName": "java-class",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "java-class",
+        "java-class-abstract",
+        "java-class-final",
+        "java-class-sealed"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Catppuccin",
+      "glyphName": "docker",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "docker",
+        "docker-compose",
+        "docker-ignore"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Catppuccin",
+      "glyphName": "storybook",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "storybook",
+        "storybook-svelte",
+        "storybook-vue"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Catppuccin",
+      "glyphName": "visual-studio",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "visual-studio",
+        "vscode",
+        "vscode-ignore"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "CatppuccinSecondary",
+      "glyphName": "storybook",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "storybook",
+        "storybook-svelte",
+        "storybook-vue"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "apache",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "apache",
+        "maven"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "c",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "c",
+        "c-header"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "cpp",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "cpp",
+        "cpp-header"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "css3",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "css3",
+        "html"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "cursor",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "cursor",
+        "cursor-ignore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "dart",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "dart",
+        "dart-generated"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "folder-android-open",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-android-open",
+        "folder-assets-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "folder-cargo",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-cargo",
+        "folder-fvm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "folder-drizzle-orm",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-drizzle-orm",
+        "folder-drizzle-orm-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "folder-graphql",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-graphql",
+        "folder-windows"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "folder-graphql-open",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-graphql-open",
+        "folder-windows-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "godot",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "godot",
+        "godot-assets"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "java-annotation",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "java-annotation",
+        "razor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "markdown",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "markdown",
+        "markdown-mdx"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "nuxt",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "nuxt",
+        "nuxt-ignore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "nx",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "nx",
+        "nx-ignore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "prettier",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "prettier",
+        "prettier-ignore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "python",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "python",
+        "python-compiled"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "semgrep",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "semgrep",
+        "semgrep-ignore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "stylelint",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "stylelint",
+        "stylelint-ignore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "vala",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "vala",
+        "vapi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Catppuccin",
+      "glyphName": "vercel",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "vercel",
+        "vercel-ignore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "apache",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "apache",
+        "maven"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "dub-selections",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "dub-selections",
+        "ruby-gem-lock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-admin",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-admin",
+        "folder-admin-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-android",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-android",
+        "folder-android-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-animation",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-animation",
+        "folder-animation-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-api",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-api",
+        "folder-api-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-audit",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-audit",
+        "folder-audit-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-azure-devops",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-azure-devops",
+        "folder-azure-devops-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-azure-pipelines",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-azure-pipelines",
+        "folder-azure-pipelines-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-benchmark",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-benchmark",
+        "folder-benchmark-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-client",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-client",
+        "folder-client-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-cloud",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-cloud",
+        "folder-cloud-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-command",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-command",
+        "folder-command-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-components",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-components",
+        "folder-components-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-composables",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-composables",
+        "folder-composables-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-config",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-config",
+        "folder-config-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-connection",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-connection",
+        "folder-connection-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-constant",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-constant",
+        "folder-constant-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-content",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-content",
+        "folder-content-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-controllers",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-controllers",
+        "folder-controllers-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-core",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-core",
+        "folder-core-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-coverage",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-coverage",
+        "folder-coverage-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-cypress",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-cypress",
+        "folder-cypress-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-database",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-database",
+        "folder-database-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-debug",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-debug",
+        "folder-debug-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-devcontainer",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-devcontainer",
+        "folder-devcontainer-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-direnv",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-direnv",
+        "folder-direnv-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-dist",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-dist",
+        "folder-dist-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-docs",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-docs",
+        "folder-docs-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-download",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-download",
+        "folder-download-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-drizzle-orm-open",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-drizzle-orm-open",
+        "folder-fvm-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-examples",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-examples",
+        "folder-examples-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-firebase",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-firebase",
+        "folder-firebase-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-fonts",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-fonts",
+        "folder-fonts-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-functions",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-functions",
+        "folder-functions-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-git",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-git",
+        "folder-git-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-github",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-github",
+        "folder-github-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-gitlab",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-gitlab",
+        "folder-gitlab-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-hooks",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-hooks",
+        "folder-hooks-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-include",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-include",
+        "folder-include-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-javascript",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-javascript",
+        "folder-javascript-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-layouts",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-layouts",
+        "folder-layouts-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-locales",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-locales",
+        "folder-locales-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-luau",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-luau",
+        "folder-luau-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-lune",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-lune",
+        "folder-lune-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-middleware",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-middleware",
+        "folder-middleware-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-mocks",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-mocks",
+        "folder-mocks-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-next",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-next",
+        "folder-next-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-node",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-node",
+        "folder-node-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-nuxt",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-nuxt",
+        "folder-nuxt-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-packages",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-packages",
+        "folder-packages-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-pesde",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-pesde",
+        "folder-pesde-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-pre-commit",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-pre-commit",
+        "folder-pre-commit-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-prisma",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-prisma",
+        "folder-prisma-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-private",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-private",
+        "folder-private-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-queue",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-queue",
+        "folder-queue-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-renovate",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-renovate",
+        "folder-renovate-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-routes",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-routes",
+        "folder-routes-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-sass",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-sass",
+        "folder-sass-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-scripts",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-scripts",
+        "folder-scripts-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-security",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-security",
+        "folder-security-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-server",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-server",
+        "folder-server-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-shared",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-shared",
+        "folder-shared-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-src",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-src",
+        "folder-src-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-storybook",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-storybook",
+        "folder-storybook-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-styles",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-styles",
+        "folder-styles-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-svg",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-svg",
+        "folder-svg-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-symlink",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-symlink",
+        "folder-symlink-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-temp",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-temp",
+        "folder-temp-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-templates",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-templates",
+        "folder-templates-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-types",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-types",
+        "folder-types-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-upload",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-upload",
+        "folder-upload-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-utils",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-utils",
+        "folder-utils-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-vercel",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-vercel",
+        "folder-vercel-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-video",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-video",
+        "folder-video-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-views",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-views",
+        "folder-views-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-vscode",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-vscode",
+        "folder-vscode-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-windows",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-windows",
+        "folder-windows-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-workflows",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-workflows",
+        "folder-workflows-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "folder-wxt",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "folder-wxt",
+        "folder-wxt-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "javascript-config",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "javascript-config",
+        "svelte-config"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CatppuccinSecondary",
+      "glyphName": "python",
+      "prefix": "catppuccin",
+      "sampleIcons": [
+        "python",
+        "python-compiled"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57854,
+      "icon": "playwright",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 405,
+        "xMin": 0,
+        "yMax": 733,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 595,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57945,
+      "icon": "symlink",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 524,
+      "secondary": {
+        "xMax": 477,
+        "xMin": -1,
+        "yMax": 688,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57750,
+      "icon": "javascript-map",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 500,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 501,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57956,
+      "icon": "twine",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 439,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 436,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57406,
+      "icon": "commitlint",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 563,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 377,
+      "secondary": {
+        "xMax": 940,
+        "xMin": 0,
+        "yMax": 437,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57944,
+      "icon": "swiftformat",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 649,
+        "xMin": 0,
+        "yMax": 936,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 354,
+      "secondary": {
+        "xMax": 1003,
+        "xMin": 0,
+        "yMax": 991,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57791,
+      "icon": "makefile",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 609,
+        "xMin": 0,
+        "yMax": 638,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 330,
+      "secondary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57849,
+      "icon": "phrase",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 814,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 314,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57796,
+      "icon": "matlab",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 690,
+        "xMin": -2,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 312,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57820,
+      "icon": "netlify",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 312,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57768,
+      "icon": "latte",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 672,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 310,
+      "secondary": {
+        "xMax": 982,
+        "xMin": 0,
+        "yMax": 909,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57959,
+      "icon": "typescript-def",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 308,
+      "secondary": {
+        "xMax": 693,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57778,
+      "icon": "lua",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 695,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 305,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57880,
+      "icon": "rdata",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 695,
+        "yMin": -3
+      },
+      "primaryFont": "Catppuccin",
+      "score": 293,
+      "secondary": {
+        "xMax": 646,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57941,
+      "icon": "svelte-config",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 688,
+        "xMin": -5,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 289,
+      "secondary": {
+        "xMax": 972,
+        "xMin": 0,
+        "yMax": 437,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57955,
+      "icon": "twig",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 1002,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 284,
+      "secondary": {
+        "xMax": 718,
+        "xMin": 0,
+        "yMax": 381,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57901,
+      "icon": "ruby-gem-lock",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 250,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 502,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57392,
+      "icon": "caddy",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 249,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57809,
+      "icon": "msbuild",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 698,
+        "xMin": 0,
+        "yMax": 989,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 248,
+      "secondary": {
+        "xMax": 946,
+        "xMin": 0,
+        "yMax": 866,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57454,
+      "icon": "eslint",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 996,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 245,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 777,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57701,
+      "icon": "git",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 752,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 240,
+      "secondary": {
+        "xMax": 992,
+        "xMin": 0,
+        "yMax": 993,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57396,
+      "icon": "certificate",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 660,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 225,
+      "secondary": {
+        "xMax": 885,
+        "xMin": 0,
+        "yMax": 947,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57749,
+      "icon": "javascript-config",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 221,
+      "secondary": {
+        "xMax": 972,
+        "xMin": 0,
+        "yMax": 437,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57416,
+      "icon": "css3",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 219,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57878,
+      "icon": "racket",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 946,
+        "xMin": 0,
+        "yMax": 945,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 219,
+      "secondary": {
+        "xMax": 727,
+        "xMin": 0,
+        "yMax": 838,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57726,
+      "icon": "html",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 217,
+      "secondary": {
+        "xMax": 721,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57729,
+      "icon": "hugo",
+      "prefix": "catppuccin",
+      "primary": {
+        "xMax": 861,
+        "xMin": 0,
+        "yMax": 897,
+        "yMin": 0
+      },
+      "primaryFont": "Catppuccin",
+      "score": 204,
+      "secondary": {
+        "xMax": 657,
+        "xMin": 0,
+        "yMax": 716,
+        "yMin": 0
+      },
+      "secondaryFont": "CatppuccinSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Catppuccin",
+      "headBbox": "-10..1009 / -10..1007",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 10,
+      "prefix": "catppuccin",
+      "reasons": [
+        "head.xMin=-10",
+        "head.xMax=1009",
+        "head.yMin=-10",
+        "head.yMax=1007",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=10"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "CatppuccinSecondary",
+      "headBbox": "-4..1009 / -11..1007",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 11,
+      "prefix": "catppuccin",
+      "reasons": [
+        "head.xMin=-4",
+        "head.xMax=1009",
+        "head.yMin=-11",
+        "head.yMax=1007",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=11"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 941,
+      "codepoint": 57801,
+      "font": "Catppuccin",
+      "name": "midi",
+      "prefix": "catppuccin",
+      "reason": "advance"
+    },
+    {
+      "advance": 888,
+      "codepoint": 57850,
+      "font": "Catppuccin",
+      "name": "phtml",
+      "prefix": "catppuccin",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "catppuccin",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Catppuccin",
+      "glyphCount": 660,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1009,
+        "xMin": -10,
+        "yMax": 1007,
+        "yMin": -10
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 10
+      }
+    },
+    {
+      "error": null,
+      "font": "CatppuccinSecondary",
+      "glyphCount": 264,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1009,
+        "xMin": -4,
+        "yMax": 1007,
+        "yMin": -11
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 11
+      }
+    }
+  ]
+}

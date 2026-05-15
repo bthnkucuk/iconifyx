@@ -1,0 +1,102 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Dashicons",
+      "glyphName": "editor-code",
+      "prefix": "dashicons",
+      "sampleIcons": [
+        "editor-code",
+        "editor-code-duplicate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Dashicons",
+      "glyphName": "google",
+      "prefix": "dashicons",
+      "sampleIcons": [
+        "google",
+        "googleplus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Dashicons",
+      "glyphName": "lock",
+      "prefix": "dashicons",
+      "sampleIcons": [
+        "lock",
+        "lock-duplicate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Dashicons",
+      "glyphName": "menu-alt-2",
+      "prefix": "dashicons",
+      "sampleIcons": [
+        "menu-alt-2",
+        "menu-alt3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Dashicons",
+      "glyphName": "plus-alt2",
+      "prefix": "dashicons",
+      "sampleIcons": [
+        "plus-alt2",
+        "plus-light"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Dashicons",
+      "headBbox": "-7..1024 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "dashicons",
+      "reasons": [
+        "head.xMin=-7",
+        "head.xMax=1024",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "dashicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Dashicons",
+      "glyphCount": 347,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1024,
+        "xMin": -7,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

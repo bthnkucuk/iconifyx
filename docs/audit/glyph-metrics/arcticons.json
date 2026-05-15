@@ -1,0 +1,1442 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Arcticons",
+      "glyphName": "dbs-digibank",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "dbs-digibank",
+        "dbs-india",
+        "dsb-digibank"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Arcticons",
+      "glyphName": "google-play",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-play",
+        "google-play-games-alt",
+        "googleplay"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Arcticons",
+      "glyphName": "google-play-store-alt",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-play-store-alt",
+        "google-playstore",
+        "googleplaystore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "0h-h1",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "0h-h1",
+        "a-0h-h1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "1111",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "1111",
+        "a1111"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "17track",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "17track",
+        "a17track"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "1822tan",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "1822tan",
+        "a1822tan"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "1945airforce",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "1945airforce",
+        "a1945airforce"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "1by1",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "1by1",
+        "a1by1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "1dm-plus",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "1dm-plus",
+        "a1dm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "1money",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "1money",
+        "a1money"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "1password",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "1password",
+        "a1password"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "1se",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "1se",
+        "a1se"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "1xbit",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "1xbit",
+        "a1xbit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "2048",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "2048",
+        "a2048"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "2050",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "2050",
+        "a2050"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "2gis",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "2gis",
+        "a2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "30-day-fitness-challenge",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "30-day-fitness-challenge",
+        "a30-day-fitness-challenge"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "3c-all-in-one-toolbox",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "3c-all-in-one-toolbox",
+        "a3c-all-in-one-toolbox"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "3ctaskmanager",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "3ctaskmanager",
+        "a3ctaskmanager"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "3d-calculator",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "3d-calculator",
+        "a3d-calculator"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "5etools",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "5etools",
+        "a5etools"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "7m-workout",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "7m-workout",
+        "a7m-workout"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "7mind",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "7mind",
+        "a7mind"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "7zipper",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "7zipper",
+        "a7zipper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "8ballpool",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "8ballpool",
+        "a8ballpool"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "9292",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "9292",
+        "a9292"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "99",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "99",
+        "a99"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "9gag",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "9gag",
+        "a9gag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "a-photowidget-app",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "a-photowidget-app",
+        "example"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "abn-amro",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "abn-amro",
+        "abnamro"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "abnto",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "abnto",
+        "avito"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "adblock-plus",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "adblock-plus",
+        "adblock-plus-fur-samsung-internet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "addy-io",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "addy-io",
+        "anonaddy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "adguard-vpn",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "adguard-vpn",
+        "adguardvpn"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "aeon",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "aeon",
+        "aeon-thai-mobile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "alarm-clock",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "alarm-clock",
+        "alarmclockxtreme"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "alovoa",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "alovoa",
+        "alovoa-lite"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "amazon-appstore",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "amazon-appstore",
+        "amazonappstore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "amazon-aws-console",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "amazon-aws-console",
+        "amazon-workspaces"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "amazon-music",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "amazon-music",
+        "amazonmusic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "amazon-shopping",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "amazon-shopping",
+        "amazonshopping"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "amboss-bank",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "amboss-bank",
+        "amboss-qbank"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "amex",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "amex",
+        "amexca"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "app-finder",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "app-finder",
+        "appfinder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "asn-bankieren",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "asn-bankieren",
+        "asnbankieren"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "aurora-droid",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "aurora-droid",
+        "auroradroid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "aurora-services",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "aurora-services",
+        "auroraservices"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "aurora-store",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "aurora-store",
+        "aurorastore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "automan-folder-widget",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "automan-folder-widget",
+        "folder-widget"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "baby-phone",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "baby-phone",
+        "babyphone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "bad-piggies",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "bad-piggies",
+        "badpiggies-hd"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "battery-alt",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "battery-alt",
+        "batterydoctor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "bbc",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "bbc",
+        "bbcnews"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "blizzard-authenticator",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "blizzard-authenticator",
+        "blizzardauthenticator"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "bmeia",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "bmeia",
+        "digitalesamt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "bricks-breaker-balls-crush",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "bricks-breaker-balls-crush",
+        "bricksbreakerballscrush"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "bubbleupnp",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "bubbleupnp",
+        "bubleupnp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "budapestgo",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "budapestgo",
+        "embr-wave-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "bullet-echo",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "bullet-echo",
+        "gun"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "burger-king",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "burger-king",
+        "burgerking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "business-kalendar",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "business-kalendar",
+        "business-kalender"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "cameraremote",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "cameraremote",
+        "fujifilmconnect"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "canvas",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "canvas",
+        "canvasstudent"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "chess-pgn-master",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "chess-pgn-master",
+        "chesspgnmaster"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "cinepolis",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "cinepolis",
+        "cinepolis-india"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "clash-royale",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "clash-royale",
+        "clashroyale"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "cleartip",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "cleartip",
+        "cleartrip"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "clone-phone",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "clone-phone",
+        "clonephone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "collabora-office",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "collabora-office",
+        "collaboraoffice"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "comaps",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "comaps",
+        "comaps-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "credit-one",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "credit-one",
+        "creditone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "dbnavigator-alt",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "dbnavigator-alt",
+        "dbnavigatoralt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "delta",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "delta",
+        "delta-icon-pack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "delta-chat",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "delta-chat",
+        "deltachat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "digitalwellbeing",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "digitalwellbeing",
+        "google-digital-wellbeing"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "dowser",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "dowser",
+        "drowser"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "dpolg-alt-1",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "dpolg-alt-1",
+        "dpolg-alt1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "dpolg-alt-2",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "dpolg-alt-2",
+        "dpolg-alt2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "droidify-alt",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "droidify-alt",
+        "droidify-alt-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "duolingo-steak-saver",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "duolingo-steak-saver",
+        "duolingo-steaksaver-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "easy-diary",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "easy-diary",
+        "easydiary"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "emoji-angry-face",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "emoji-angry-face",
+        "emoji-face-angry"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "emoji-anguished-face",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "emoji-anguished-face",
+        "emoji-face-anguished"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "emoji-astonished-face",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "emoji-astonished-face",
+        "emoji-face-astonished"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "emoji-clown-face",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "emoji-clown-face",
+        "emoji-face-clown"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "emoji-confounded-face",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "emoji-confounded-face",
+        "emoji-face-confounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "emoji-confused-face",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "emoji-confused-face",
+        "emoji-face-confused"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "emoji-flag-2-waves",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "emoji-flag-2-waves",
+        "emoji-flag-swiss"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "ente",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "ente",
+        "ente-photos-alt-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "ente-auth-alt",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "ente-auth-alt",
+        "ente-authenticator"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "enter-the-guneon",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "enter-the-guneon",
+        "enter-the-gungeon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "eurofurence-alt-1",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "eurofurence-alt-1",
+        "eurofurence-cyberpunk"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "everydady-tasks",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "everydady-tasks",
+        "everyday-tasks"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "familylink",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "familylink",
+        "google-family-link"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "folder-pond",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "folder-pond",
+        "folder-pound"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "foodora",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "foodora",
+        "foodora-dk"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "frost",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "frost",
+        "frost-icon-pack"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "garmin-connect-alt",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "garmin-connect-alt",
+        "garminconnect"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "geometry-dash",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "geometry-dash",
+        "geometrydash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "gif-live-wallpaper",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "gif-live-wallpaper",
+        "giflivewallpaper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-app",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-app",
+        "googleapp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-assistant",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-assistant",
+        "googleassistant"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-authenticator",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-authenticator",
+        "googleauthenticator"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-camera",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-camera",
+        "googlecamera"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-chrome",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-chrome",
+        "googlechrome"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-docs",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-docs",
+        "googledocs"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-drive",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-drive",
+        "googledrive"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-fi",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-fi",
+        "googlefi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-hangouts",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-hangouts",
+        "googlehangouts"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-home",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-home",
+        "googlehome"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-keep",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-keep",
+        "googlekeep"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-mail",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-mail",
+        "googlemail"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-maps",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-maps",
+        "googlemaps"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-meet",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-meet",
+        "googlemeet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-movies",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-movies",
+        "googlemovies"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-music",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-music",
+        "googlemusic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-newsstand",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-newsstand",
+        "googlenewsstand"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-newsweather",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-newsweather",
+        "googlenewsweather"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-one",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-one",
+        "googleone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-pay",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-pay",
+        "googlepay"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-photos",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-photos",
+        "googlephotos"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-play-store-alt-2",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-play-store-alt-2",
+        "googleplaystore-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-podcasts",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-podcasts",
+        "googlepodcasts"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-settings",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-settings",
+        "googlesettings"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-sheets",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-sheets",
+        "googlesheets"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-slides",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-slides",
+        "googleslides"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-tasks",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-tasks",
+        "googletasks"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-translate",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-translate",
+        "googletranslate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Arcticons",
+      "glyphName": "google-tv",
+      "prefix": "arcticons",
+      "sampleIcons": [
+        "google-tv",
+        "googletv"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 62086,
+      "icon": "fairtiq",
+      "prefix": "arcticons",
+      "primary": {
+        "xMax": 692,
+        "xMin": 525,
+        "yMax": 487,
+        "yMin": 298
+      },
+      "primaryFont": "Arcticons",
+      "score": 731,
+      "secondary": {
+        "xMax": 950,
+        "xMin": 52,
+        "yMax": 933,
+        "yMin": 65
+      },
+      "secondaryFont": "ArcticonsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 983766,
+      "icon": "itinerary",
+      "prefix": "arcticons",
+      "primary": {
+        "xMax": 927,
+        "xMin": 73,
+        "yMax": 813,
+        "yMin": 156
+      },
+      "primaryFont": "Arcticons",
+      "score": 364,
+      "secondary": {
+        "xMax": 910,
+        "xMin": 420,
+        "yMax": 458,
+        "yMin": 336
+      },
+      "secondaryFont": "ArcticonsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Arcticons",
+      "headBbox": "12..996 / 10..991",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "arcticons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "ArcticonsSecondary",
+      "headBbox": "52..950 / 65..933",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "arcticons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "codepoint": 984007,
+      "contentWidth": 20,
+      "font": "Arcticons",
+      "name": "Arcticons_2__kan",
+      "prefix": "arcticons",
+      "reason": "narrow"
+    }
+  ],
+  "prefix": "arcticons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Arcticons",
+      "glyphCount": 15099,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 996,
+        "xMin": 12,
+        "yMax": 991,
+        "yMin": 10
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "ArcticonsSecondary",
+      "glyphCount": 3,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 950,
+        "xMin": 52,
+        "yMax": 933,
+        "yMin": 65
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Zondicons",
+      "glyphName": "bookmark-copy-2",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "bookmark-copy-2",
+        "bookmarkcopy2",
+        "subdirectory-left"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Zondicons",
+      "glyphName": "bookmark-copy-3",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "bookmark-copy-3",
+        "bookmarkcopy3",
+        "subdirectory-right"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Zondicons",
+      "glyphName": "hot",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "hot",
+        "tools-copy",
+        "toolscopy"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Zondicons",
+      "glyphName": "radar",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "radar",
+        "radar-copy-2",
+        "radarcopy2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "album",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "album",
+        "music-album"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "arrow-down",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "arrow-down",
+        "arrow-thin-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "arrow-left",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "arrow-left",
+        "arrow-thin-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "arrow-right",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "arrow-right",
+        "arrow-thin-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "arrow-thin-up",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "arrow-thin-up",
+        "arrow-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "artist",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "artist",
+        "music-artist"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "backward",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "backward",
+        "fast-rewind"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "backward-step",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "backward-step",
+        "step-backward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "browser-window",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "browser-window",
+        "window"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "browser-window-new",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "browser-window-new",
+        "window-new"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "browser-window-open",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "browser-window-open",
+        "window-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "copy",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "copy",
+        "edit-copy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "fast-forward",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "fast-forward",
+        "forward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "format-font-size",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "format-font-size",
+        "format-text-size"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "forward-step",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "forward-step",
+        "step-forward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "list",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "list",
+        "list-bullet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "music-playlist",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "music-playlist",
+        "playlist"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "notification",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "notification",
+        "notifications"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "share",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "share",
+        "share-01"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Zondicons",
+      "glyphName": "travel",
+      "prefix": "zondicons",
+      "sampleIcons": [
+        "travel",
+        "travel-case"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Zondicons",
+      "headBbox": "-18..1011 / -11..1013",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 11,
+      "prefix": "zondicons",
+      "reasons": [
+        "head.xMin=-18",
+        "head.xMax=1011",
+        "head.yMin=-11",
+        "head.yMax=1013",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=11"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "zondicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Zondicons",
+      "glyphCount": 301,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1011,
+        "xMin": -18,
+        "yMax": 1013,
+        "yMin": -11
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 11
+      }
+    }
+  ]
+}

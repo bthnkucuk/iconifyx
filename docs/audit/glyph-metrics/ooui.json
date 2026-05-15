@@ -1,0 +1,154 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "double-chevron-end-ltr",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "double-chevron-end-ltr",
+        "double-chevron-start-rtl"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "double-chevron-end-rtl",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "double-chevron-end-rtl",
+        "double-chevron-start-ltr"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "move-first-ltr",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "move-first-ltr",
+        "move-last-rtl"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "move-first-rtl",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "move-first-rtl",
+        "move-last-ltr"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "next-ltr",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "next-ltr",
+        "previous-rtl"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "next-rtl",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "next-rtl",
+        "previous-ltr"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "table-add-column-after-ltr",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "table-add-column-after-ltr",
+        "table-add-column-before-rtl"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "table-add-column-after-rtl",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "table-add-column-after-rtl",
+        "table-add-column-before-ltr"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "table-move-column-after-ltr",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "table-move-column-after-ltr",
+        "table-move-column-before-rtl"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ooui",
+      "glyphName": "table-move-column-after-rtl",
+      "prefix": "ooui",
+      "sampleIcons": [
+        "table-move-column-after-rtl",
+        "table-move-column-before-ltr"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Ooui",
+      "headBbox": "-15..1014 / -12..1009",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 12,
+      "prefix": "ooui",
+      "reasons": [
+        "head.xMin=-15",
+        "head.xMax=1014",
+        "head.yMin=-12",
+        "head.yMax=1009",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=12"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "ooui",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Ooui",
+      "glyphCount": 365,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1014,
+        "xMin": -15,
+        "yMax": 1009,
+        "yMin": -12
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 12
+      }
+    }
+  ]
+}

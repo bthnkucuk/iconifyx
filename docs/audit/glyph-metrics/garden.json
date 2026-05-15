@@ -1,0 +1,493 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Garden",
+      "glyphName": "align-left-fill-16",
+      "prefix": "garden",
+      "sampleIcons": [
+        "align-left-fill-16",
+        "align-left-stroke-12"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Garden",
+      "glyphName": "circle-fill-12",
+      "prefix": "garden",
+      "sampleIcons": [
+        "circle-fill-12",
+        "circle-full-fill-12"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Garden",
+      "glyphName": "x-fill-16",
+      "prefix": "garden",
+      "sampleIcons": [
+        "x-fill-16",
+        "x-stroke-16"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Garden",
+      "headBbox": "-11..4377 / -11..1011",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 11,
+      "prefix": "garden",
+      "reasons": [
+        "head.xMin=-11",
+        "head.xMax=4377",
+        "head.yMin=-11",
+        "head.yMax=1011",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=11"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1062,
+      "codepoint": 57421,
+      "font": "Garden",
+      "name": "banknote-fill-16",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 769,
+      "codepoint": 57700,
+      "font": "Garden",
+      "name": "file-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 769,
+      "codepoint": 57701,
+      "font": "Garden",
+      "name": "file-document-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 769,
+      "codepoint": 57706,
+      "font": "Garden",
+      "name": "file-error-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 769,
+      "codepoint": 57715,
+      "font": "Garden",
+      "name": "file-image-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 769,
+      "codepoint": 57720,
+      "font": "Garden",
+      "name": "file-pdf-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 769,
+      "codepoint": 57725,
+      "font": "Garden",
+      "name": "file-presentation-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 769,
+      "codepoint": 57730,
+      "font": "Garden",
+      "name": "file-spreadsheet-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 769,
+      "codepoint": 57735,
+      "font": "Garden",
+      "name": "file-zip-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 1846,
+      "codepoint": 58328,
+      "font": "Garden",
+      "name": "wordmark-bold-suite-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 3000,
+      "codepoint": 58329,
+      "font": "Garden",
+      "name": "wordmark-bold-support-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 2000,
+      "codepoint": 58330,
+      "font": "Garden",
+      "name": "wordmark-capital-suite-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 58331,
+      "font": "Garden",
+      "name": "wordmark-capital-the-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 3346,
+      "codepoint": 58332,
+      "font": "Garden",
+      "name": "wordmark-capital-zendesk-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 1807,
+      "codepoint": 58333,
+      "font": "Garden",
+      "name": "wordmark-chat-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 3269,
+      "codepoint": 58334,
+      "font": "Garden",
+      "name": "wordmark-connect-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 3000,
+      "codepoint": 58335,
+      "font": "Garden",
+      "name": "wordmark-explore-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 2807,
+      "codepoint": 58336,
+      "font": "Garden",
+      "name": "wordmark-garden-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 2653,
+      "codepoint": 58337,
+      "font": "Garden",
+      "name": "wordmark-gather-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 2192,
+      "codepoint": 58338,
+      "font": "Garden",
+      "name": "wordmark-guide-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 4423,
+      "codepoint": 58339,
+      "font": "Garden",
+      "name": "wordmark-help-center-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 2153,
+      "codepoint": 58340,
+      "font": "Garden",
+      "name": "wordmark-inbox-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 3615,
+      "codepoint": 58341,
+      "font": "Garden",
+      "name": "wordmark-message-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 4192,
+      "codepoint": 58342,
+      "font": "Garden",
+      "name": "wordmark-messaging-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 2346,
+      "codepoint": 58343,
+      "font": "Garden",
+      "name": "wordmark-reach-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 1269,
+      "codepoint": 58344,
+      "font": "Garden",
+      "name": "wordmark-sell-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 3346,
+      "codepoint": 58345,
+      "font": "Garden",
+      "name": "wordmark-sunshine-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 3153,
+      "codepoint": 58346,
+      "font": "Garden",
+      "name": "wordmark-support-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 58347,
+      "font": "Garden",
+      "name": "wordmark-talk-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "advance": 3384,
+      "codepoint": 58348,
+      "font": "Garden",
+      "name": "wordmark-zendesk-26",
+      "prefix": "garden",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 58328,
+      "contentWidth": 1824,
+      "font": "Garden",
+      "name": "wordmark-bold-suite-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58329,
+      "contentWidth": 2987,
+      "font": "Garden",
+      "name": "wordmark-bold-support-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58330,
+      "contentWidth": 1952,
+      "font": "Garden",
+      "name": "wordmark-capital-suite-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58331,
+      "contentWidth": 1467,
+      "font": "Garden",
+      "name": "wordmark-capital-the-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58332,
+      "contentWidth": 3308,
+      "font": "Garden",
+      "name": "wordmark-capital-zendesk-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58333,
+      "contentWidth": 1758,
+      "font": "Garden",
+      "name": "wordmark-chat-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58334,
+      "contentWidth": 3197,
+      "font": "Garden",
+      "name": "wordmark-connect-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58335,
+      "contentWidth": 2924,
+      "font": "Garden",
+      "name": "wordmark-explore-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58336,
+      "contentWidth": 2770,
+      "font": "Garden",
+      "name": "wordmark-garden-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58337,
+      "contentWidth": 2636,
+      "font": "Garden",
+      "name": "wordmark-gather-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58338,
+      "contentWidth": 2147,
+      "font": "Garden",
+      "name": "wordmark-guide-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58339,
+      "contentWidth": 4377,
+      "font": "Garden",
+      "name": "wordmark-help-center-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58340,
+      "contentWidth": 2127,
+      "font": "Garden",
+      "name": "wordmark-inbox-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58341,
+      "contentWidth": 3554,
+      "font": "Garden",
+      "name": "wordmark-message-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58342,
+      "contentWidth": 4193,
+      "font": "Garden",
+      "name": "wordmark-messaging-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58343,
+      "contentWidth": 2307,
+      "font": "Garden",
+      "name": "wordmark-reach-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58344,
+      "contentWidth": 1231,
+      "font": "Garden",
+      "name": "wordmark-sell-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58345,
+      "contentWidth": 3305,
+      "font": "Garden",
+      "name": "wordmark-sunshine-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58346,
+      "contentWidth": 3066,
+      "font": "Garden",
+      "name": "wordmark-support-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58347,
+      "contentWidth": 1458,
+      "font": "Garden",
+      "name": "wordmark-talk-26",
+      "prefix": "garden",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58348,
+      "contentWidth": 3331,
+      "font": "Garden",
+      "name": "wordmark-zendesk-26",
+      "prefix": "garden",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "garden",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Garden",
+      "glyphCount": 1027,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 4377,
+        "xMin": -11,
+        "yMax": 1011,
+        "yMin": -11
+      },
+      "hhea": {
+        "advanceWidthMax": 4423,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 11
+      }
+    }
+  ]
+}

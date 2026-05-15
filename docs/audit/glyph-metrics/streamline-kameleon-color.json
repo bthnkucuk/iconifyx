@@ -1,0 +1,155 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57369,
+      "icon": "heart-key-duo",
+      "prefix": "streamline-kameleon-color",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineKameleonColor",
+      "score": 305,
+      "secondary": {
+        "xMax": 696,
+        "xMin": 0,
+        "yMax": 790,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineKameleonColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57382,
+      "icon": "peace-duo",
+      "prefix": "streamline-kameleon-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineKameleonColor",
+      "score": 210,
+      "secondary": {
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 791,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineKameleonColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57409,
+      "icon": "wrench-duo",
+      "prefix": "streamline-kameleon-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "StreamlineKameleonColor",
+      "score": 210,
+      "secondary": {
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 791,
+        "yMin": 0
+      },
+      "secondaryFont": "StreamlineKameleonColorSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "StreamlineKameleonColor",
+      "headBbox": "-10..1013 / -11..1009",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 11,
+      "prefix": "streamline-kameleon-color",
+      "reasons": [
+        "head.xMin=-10",
+        "head.xMax=1013",
+        "head.yMin=-11",
+        "head.yMax=1009",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=11"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "StreamlineKameleonColorSecondary",
+      "headBbox": "0..791 / 0..791",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "streamline-kameleon-color",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "streamline-kameleon-color",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "StreamlineKameleonColor",
+      "glyphCount": 66,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1013,
+        "xMin": -10,
+        "yMax": 1009,
+        "yMin": -11
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 11
+      }
+    },
+    {
+      "error": null,
+      "font": "StreamlineKameleonColorSecondary",
+      "glyphCount": 3,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 791,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

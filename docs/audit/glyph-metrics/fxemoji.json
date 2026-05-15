@@ -1,0 +1,1487 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 5,
+      "font": "FxemojiSecondary",
+      "glyphName": "donotlittersymbol",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "donotlittersymbol",
+        "nobicycles",
+        "nonpotablewatersymbol",
+        "nooneunder18symbol"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Fxemoji",
+      "glyphName": "banknotedollar",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "banknotedollar",
+        "banknoteeuro",
+        "banknotepound",
+        "banknoteyen"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fxemoji",
+      "glyphName": "ballotboxboldcheck",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "ballotboxboldcheck",
+        "ballotboxwithboldscriptx",
+        "ballottboxwithscriptx"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Fxemoji",
+      "glyphName": "largebluecircle",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "largebluecircle",
+        "largeredcircle",
+        "mediumwhitecircle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fxemoji",
+      "glyphName": "blackquestionmark",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "blackquestionmark",
+        "whitequestionmark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fxemoji",
+      "glyphName": "blacksquarebutton",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "blacksquarebutton",
+        "whitesquarebutton"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fxemoji",
+      "glyphName": "crossmark",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "crossmark",
+        "heavymultiplicationsymbol"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fxemoji",
+      "glyphName": "heartgreen",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "heartgreen",
+        "heartpurple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fxemoji",
+      "glyphName": "heavylatincross",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "heavylatincross",
+        "whitelatincross"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fxemoji",
+      "glyphName": "sunrays",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "sunrays",
+        "whitesun"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fxemoji",
+      "glyphName": "whitemediumstar",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "whitemediumstar",
+        "whitestar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FxemojiSecondary",
+      "glyphName": "blacksquarebutton",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "blacksquarebutton",
+        "whitesquarebutton"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FxemojiSecondary",
+      "glyphName": "heartgreen",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "heartgreen",
+        "heartpurple"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "FxemojiSecondary",
+      "glyphName": "sunrays",
+      "prefix": "fxemoji",
+      "sampleIcons": [
+        "sunrays",
+        "whitesun"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57519,
+      "icon": "right",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1002,
+        "xMin": 0,
+        "yMax": 842,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 849,
+      "secondary": {
+        "xMax": 153,
+        "xMin": 0,
+        "yMax": 566,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57432,
+      "icon": "heartgreen",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1005,
+        "xMin": -6,
+        "yMax": 911,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 716,
+      "secondary": {
+        "xMax": 295,
+        "xMin": 0,
+        "yMax": 829,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57434,
+      "icon": "heartpurple",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1005,
+        "xMin": -6,
+        "yMax": 911,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 716,
+      "secondary": {
+        "xMax": 295,
+        "xMin": 0,
+        "yMax": 829,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57512,
+      "icon": "redheart",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 848,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 715,
+      "secondary": {
+        "xMax": 287,
+        "xMin": 0,
+        "yMax": 763,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57435,
+      "icon": "heartyellow",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1005,
+        "xMin": -5,
+        "yMax": 911,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 714,
+      "secondary": {
+        "xMax": 296,
+        "xMin": 0,
+        "yMax": 829,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57431,
+      "icon": "heartblue",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1474,
+        "xMin": 0,
+        "yMax": 1380,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 710,
+      "secondary": {
+        "xMax": 764,
+        "xMin": 0,
+        "yMax": 1298,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57561,
+      "icon": "triangularflagonpost",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 283,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 611,
+      "secondary": {
+        "xMax": 894,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57383,
+      "icon": "chineseflag",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 996,
+        "xMin": 0,
+        "yMax": 871,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 601,
+      "secondary": {
+        "xMax": 395,
+        "xMin": 0,
+        "yMax": 780,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57547,
+      "icon": "sunbehindcloud",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 395,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 598,
+      "secondary": {
+        "xMax": 993,
+        "xMin": 0,
+        "yMax": 703,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57507,
+      "icon": "poultryleg",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 433,
+        "xMin": 0,
+        "yMax": 433,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 573,
+      "secondary": {
+        "xMax": 1006,
+        "xMin": 0,
+        "yMax": 1004,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57585,
+      "icon": "whitesunbehindcloud",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 428,
+        "xMin": 0,
+        "yMax": 872,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 559,
+      "secondary": {
+        "xMax": 987,
+        "xMin": 0,
+        "yMax": 701,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57548,
+      "icon": "sunraincloud",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 410,
+        "xMin": 0,
+        "yMax": 994,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 550,
+      "secondary": {
+        "xMax": 960,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57506,
+      "icon": "phonewithpage",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 446,
+        "xMin": 0,
+        "yMax": 997,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 549,
+      "secondary": {
+        "xMax": 995,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57454,
+      "icon": "label",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 455,
+        "xMin": 0,
+        "yMax": 975,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 544,
+      "secondary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 881,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57450,
+      "icon": "increasefontsize",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 474,
+        "xMin": 0,
+        "yMax": 662,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 528,
+      "secondary": {
+        "xMax": 1002,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57366,
+      "icon": "blackdroplet",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 838,
+        "xMin": 0,
+        "yMax": 988,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 454,
+      "secondary": {
+        "xMax": 384,
+        "xMin": 0,
+        "yMax": 509,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57555,
+      "icon": "thumbsdown",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1089,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": -6
+      },
+      "primaryFont": "Fxemoji",
+      "score": 429,
+      "secondary": {
+        "xMax": 661,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57568,
+      "icon": "warningsign",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 980,
+        "xMin": 0,
+        "yMax": 991,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 424,
+      "secondary": {
+        "xMax": 556,
+        "xMin": 0,
+        "yMax": 737,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57470,
+      "icon": "mapleleaf",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 951,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 423,
+      "secondary": {
+        "xMax": 519,
+        "xMin": 0,
+        "yMax": 440,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57398,
+      "icon": "dizzy",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 997,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 419,
+      "secondary": {
+        "xMax": 578,
+        "xMin": 0,
+        "yMax": 520,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57397,
+      "icon": "diamondshapewithdotinside",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 400,
+      "secondary": {
+        "xMax": 598,
+        "xMin": 0,
+        "yMax": 603,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57556,
+      "icon": "thumbsup",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 984,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 392,
+      "secondary": {
+        "xMax": 607,
+        "xMin": 0,
+        "yMax": 654,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57453,
+      "icon": "kissmark",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 810,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 386,
+      "secondary": {
+        "xMax": 613,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57408,
+      "icon": "electricplug",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 534,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 385,
+      "secondary": {
+        "xMax": 919,
+        "xMin": 0,
+        "yMax": 828,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57357,
+      "icon": "banknotedollar",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 704,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 367,
+      "secondary": {
+        "xMax": 633,
+        "xMin": 0,
+        "yMax": 725,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57358,
+      "icon": "banknoteeuro",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 704,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 367,
+      "secondary": {
+        "xMax": 633,
+        "xMin": 0,
+        "yMax": 725,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57359,
+      "icon": "banknotepound",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 704,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 367,
+      "secondary": {
+        "xMax": 633,
+        "xMin": 0,
+        "yMax": 725,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57360,
+      "icon": "banknoteyen",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 704,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 367,
+      "secondary": {
+        "xMax": 633,
+        "xMin": 0,
+        "yMax": 725,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57532,
+      "icon": "sidewaysrightpointingindex",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 645,
+        "xMin": 0,
+        "yMax": 592,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 350,
+      "secondary": {
+        "xMax": 995,
+        "xMin": 0,
+        "yMax": 703,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57396,
+      "icon": "decreasefontsize",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1002,
+        "xMin": 0,
+        "yMax": 662,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 347,
+      "secondary": {
+        "xMax": 659,
+        "xMin": -4,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57388,
+      "icon": "contact2",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": 0,
+        "yMax": 826,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 326,
+      "secondary": {
+        "xMax": 675,
+        "xMin": 0,
+        "yMax": 1008,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57451,
+      "icon": "japanflag",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 998,
+        "xMin": 0,
+        "yMax": 868,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 319,
+      "secondary": {
+        "xMax": 679,
+        "xMin": 0,
+        "yMax": 680,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57541,
+      "icon": "speaker",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 763,
+        "xMin": 0,
+        "yMax": 908,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 319,
+      "secondary": {
+        "xMax": 444,
+        "xMin": 0,
+        "yMax": 723,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57430,
+      "icon": "hands",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -5,
+        "yMax": 784,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 308,
+      "secondary": {
+        "xMax": 698,
+        "xMin": 0,
+        "yMax": 366,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57429,
+      "icon": "hand",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 940,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 304,
+      "secondary": {
+        "xMax": 636,
+        "xMin": 0,
+        "yMax": 131,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57344,
+      "icon": "2hearts",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 706,
+        "xMin": -5,
+        "yMax": 585,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 302,
+      "secondary": {
+        "xMax": 1003,
+        "xMin": 0,
+        "yMax": 1005,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57531,
+      "icon": "sidewaysleftpointingindex",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 703,
+        "xMin": 0,
+        "yMax": 592,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 292,
+      "secondary": {
+        "xMax": 995,
+        "xMin": 0,
+        "yMax": 703,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57378,
+      "icon": "bread",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 985,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 289,
+      "secondary": {
+        "xMax": 696,
+        "xMin": 0,
+        "yMax": 842,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57545,
+      "icon": "stormcloud",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 635,
+        "xMin": 0,
+        "yMax": 565,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 287,
+      "secondary": {
+        "xMax": 922,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57346,
+      "icon": "alienmonster",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 284,
+      "secondary": {
+        "xMax": 716,
+        "xMin": 0,
+        "yMax": 491,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57510,
+      "icon": "raisedhandpartfingers",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 946,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 282,
+      "secondary": {
+        "xMax": 664,
+        "xMin": 0,
+        "yMax": 137,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57511,
+      "icon": "raisedhandsfingerssplayed",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 946,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 282,
+      "secondary": {
+        "xMax": 664,
+        "xMin": 0,
+        "yMax": 127,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57564,
+      "icon": "twospeechbubbles",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 707,
+        "xMin": 0,
+        "yMax": 753,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 280,
+      "secondary": {
+        "xMax": 987,
+        "xMin": 0,
+        "yMax": 908,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57402,
+      "icon": "down",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 854,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -2
+      },
+      "primaryFont": "Fxemoji",
+      "score": 276,
+      "secondary": {
+        "xMax": 578,
+        "xMin": 0,
+        "yMax": 924,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57477,
+      "icon": "moneybag",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 904,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "primaryFont": "Fxemoji",
+      "score": 275,
+      "secondary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 802,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57484,
+      "icon": "musicalscore",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 994,
+        "xMin": 0,
+        "yMax": 944,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 269,
+      "secondary": {
+        "xMax": 725,
+        "xMin": 0,
+        "yMax": 999,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57493,
+      "icon": "nopedestrians",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 728,
+        "xMin": 0,
+        "yMax": 864,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 267,
+      "secondary": {
+        "xMax": 995,
+        "xMin": 0,
+        "yMax": 997,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57463,
+      "icon": "lightningmoodbubble",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 995,
+        "xMin": -1,
+        "yMax": 855,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 266,
+      "secondary": {
+        "xMax": 730,
+        "xMin": 0,
+        "yMax": 756,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57416,
+      "icon": "evergreen",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 558,
+        "xMin": 0,
+        "yMax": 457,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 258,
+      "secondary": {
+        "xMax": 816,
+        "xMin": 0,
+        "yMax": 991,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57445,
+      "icon": "heels",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 996,
+        "xMin": 0,
+        "yMax": 906,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 246,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 884,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57496,
+      "icon": "oldkey",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 997,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 242,
+      "secondary": {
+        "xMax": 755,
+        "xMin": 0,
+        "yMax": 745,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57399,
+      "icon": "donotlittersymbol",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 757,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 238,
+      "secondary": {
+        "xMax": 995,
+        "xMin": 0,
+        "yMax": 997,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57557,
+      "icon": "toilet",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 969,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 231,
+      "secondary": {
+        "xMax": 676,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57420,
+      "icon": "fishcakeswirl",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 1002,
+        "xMin": -2,
+        "yMax": 1001,
+        "yMin": -3
+      },
+      "primaryFont": "Fxemoji",
+      "score": 228,
+      "secondary": {
+        "xMax": 776,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57515,
+      "icon": "reverseraisedhandsfingerssplayed",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 944,
+        "xMin": 0,
+        "yMax": 998,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 221,
+      "secondary": {
+        "xMax": 723,
+        "xMin": 0,
+        "yMax": 127,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57425,
+      "icon": "forkknife",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 989,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 214,
+      "secondary": {
+        "xMax": 775,
+        "xMin": 0,
+        "yMax": 745,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57513,
+      "icon": "reminder",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 801,
+        "xMin": 0,
+        "yMax": 990,
+        "yMin": 0
+      },
+      "primaryFont": "Fxemoji",
+      "score": 211,
+      "secondary": {
+        "xMax": 590,
+        "xMin": 0,
+        "yMax": 873,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57422,
+      "icon": "flexbicep",
+      "prefix": "fxemoji",
+      "primary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "primaryFont": "Fxemoji",
+      "score": 204,
+      "secondary": {
+        "xMax": 733,
+        "xMin": 0,
+        "yMax": 252,
+        "yMin": 0
+      },
+      "secondaryFont": "FxemojiSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Fxemoji",
+      "headBbox": "-9..1474 / -12..1380",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1380,
+      "os2WinDesc": 12,
+      "prefix": "fxemoji",
+      "reasons": [
+        "head.xMin=-9",
+        "head.xMax=1474",
+        "head.yMin=-12",
+        "head.yMax=1380",
+        "OS/2.winAsc=1380",
+        "OS/2.winDesc=12"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "FxemojiSecondary",
+      "headBbox": "-4..1006 / -7..1298",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1298,
+      "os2WinDesc": 7,
+      "prefix": "fxemoji",
+      "reasons": [
+        "head.xMin=-4",
+        "head.xMax=1006",
+        "head.yMin=-7",
+        "head.yMax=1298",
+        "OS/2.winAsc=1298",
+        "OS/2.winDesc=7"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1089,
+      "codepoint": 57555,
+      "font": "Fxemoji",
+      "name": "thumbsdown",
+      "prefix": "fxemoji",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57431,
+      "contentWidth": 1474,
+      "font": "Fxemoji",
+      "name": "heartblue",
+      "prefix": "fxemoji",
+      "reason": "wide"
+    },
+    {
+      "advance": 1089,
+      "codepoint": 57555,
+      "font": "FxemojiSecondary",
+      "name": "thumbsdown",
+      "prefix": "fxemoji",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "fxemoji",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Fxemoji",
+      "glyphCount": 244,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1474,
+        "xMin": -9,
+        "yMax": 1380,
+        "yMin": -12
+      },
+      "hhea": {
+        "advanceWidthMax": 1089,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1380,
+        "usWinDescent": 12
+      }
+    },
+    {
+      "error": null,
+      "font": "FxemojiSecondary",
+      "glyphCount": 128,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1006,
+        "xMin": -4,
+        "yMax": 1298,
+        "yMin": -7
+      },
+      "hhea": {
+        "advanceWidthMax": 1089,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1298,
+        "usWinDescent": 7
+      }
+    }
+  ]
+}

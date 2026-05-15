@@ -1,0 +1,89 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Gala",
+      "glyphName": "file-csv",
+      "prefix": "gala",
+      "sampleIcons": [
+        "file-csv",
+        "file-spreadsheet"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Gala",
+      "glyphName": "file-doc",
+      "prefix": "gala",
+      "sampleIcons": [
+        "file-doc",
+        "file-document"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Gala",
+      "glyphName": "menu-left",
+      "prefix": "gala",
+      "sampleIcons": [
+        "menu-left",
+        "sidebar-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Gala",
+      "glyphName": "menu-right",
+      "prefix": "gala",
+      "sampleIcons": [
+        "menu-right",
+        "sidebar-right"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Gala",
+      "headBbox": "0..977 / 0..973",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "gala",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "gala",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Gala",
+      "glyphCount": 55,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 977,
+        "xMin": 0,
+        "yMax": 973,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

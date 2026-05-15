@@ -1,0 +1,82 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Ci",
+      "glyphName": "chat",
+      "prefix": "ci",
+      "sampleIcons": [
+        "chat",
+        "chat-dots"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ci",
+      "glyphName": "chat-circle",
+      "prefix": "ci",
+      "sampleIcons": [
+        "chat-circle",
+        "chat-circle-dots"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ci",
+      "glyphName": "long-bottom-up",
+      "prefix": "ci",
+      "sampleIcons": [
+        "long-bottom-up",
+        "long-up-right"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Ci",
+      "headBbox": "-1..1008 / 0..1002",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "ci",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1008",
+        "head.yMax=1002",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "ci",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Ci",
+      "glyphCount": 716,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1008,
+        "xMin": -1,
+        "yMax": 1002,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

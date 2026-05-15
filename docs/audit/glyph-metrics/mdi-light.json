@@ -1,0 +1,91 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "MdiLight",
+      "glyphName": "circle",
+      "prefix": "mdi-light",
+      "sampleIcons": [
+        "circle",
+        "shape-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MdiLight",
+      "glyphName": "format-list-numbered",
+      "prefix": "mdi-light",
+      "sampleIcons": [
+        "format-list-numbered",
+        "format-list-numbers"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MdiLight",
+      "glyphName": "rhombus",
+      "prefix": "mdi-light",
+      "sampleIcons": [
+        "rhombus",
+        "shape-rhombus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MdiLight",
+      "glyphName": "shape-square",
+      "prefix": "mdi-light",
+      "sampleIcons": [
+        "shape-square",
+        "square"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "MdiLight",
+      "headBbox": "-1..963 / -1..959",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 1,
+      "prefix": "mdi-light",
+      "reasons": [
+        "head.xMin=-1",
+        "head.yMin=-1",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "mdi-light",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "MdiLight",
+      "glyphCount": 304,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 963,
+        "xMin": -1,
+        "yMax": 959,
+        "yMin": -1
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Proicons",
+      "glyphName": "volume",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "volume",
+        "volume-0",
+        "volume-medium"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "add-circle",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "add-circle",
+        "add-circular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "add-square-multiple",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "add-square-multiple",
+        "add-square-multiple-var"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "apps-list",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "apps-list",
+        "checkbox-list"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "arrow-forward",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "arrow-forward",
+        "arrow-foward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "arrow-left-right",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "arrow-left-right",
+        "arrow-up-down-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "attach",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "attach",
+        "attatch"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "bank",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "bank",
+        "museum"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "box-drag",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "box-drag",
+        "square-drag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "box-margins",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "box-margins",
+        "square-margins"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "bullet-list",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "bullet-list",
+        "text-bullet-list"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "bullet-list-square",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "bullet-list-square",
+        "text-bullet-list-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "bullet-list-square-add",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "bullet-list-square-add",
+        "text-bullet-list-square-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "bullet-list-tree",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "bullet-list-tree",
+        "text-bullet-list-tree"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "checkbox-checked",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "checkbox-checked",
+        "checkmark-checked"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "checkbox-indeterminate",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "checkbox-indeterminate",
+        "checkmark-intermediate"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "checkbox-indeterminate-2",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "checkbox-indeterminate-2",
+        "checkbox-intermediate-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "checkbox-unchecked",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "checkbox-unchecked",
+        "square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "comment-multiple",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "comment-multiple",
+        "comment-multiple-var"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "fast-forward",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "fast-forward",
+        "fast-foward"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "panel-left-open-1",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "panel-left-open-1",
+        "panel-right-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "play-circle",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "play-circle",
+        "play-circular"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "save-as",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "save-as",
+        "save-pencil"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "slash-box",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "slash-box",
+        "slash-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Proicons",
+      "glyphName": "volume-1",
+      "prefix": "proicons",
+      "sampleIcons": [
+        "volume-1",
+        "volume-low"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Proicons",
+      "headBbox": "0..984 / 0..961",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "proicons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "proicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Proicons",
+      "glyphCount": 572,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 984,
+        "xMin": 0,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

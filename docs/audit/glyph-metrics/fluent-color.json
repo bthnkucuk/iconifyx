@@ -1,0 +1,63 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "FluentColor",
+      "glyphName": "animal-paw-print-20",
+      "prefix": "fluent-color",
+      "sampleIcons": [
+        "animal-paw-print-20",
+        "paw-20"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "FluentColor",
+      "headBbox": "0..1007 / -10..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 10,
+      "prefix": "fluent-color",
+      "reasons": [
+        "head.xMax=1007",
+        "head.yMin=-10",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=10"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "fluent-color",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "FluentColor",
+      "glyphCount": 167,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1007,
+        "xMin": 0,
+        "yMax": 1001,
+        "yMin": -10
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 10
+      }
+    }
+  ]
+}

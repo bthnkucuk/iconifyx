@@ -1,0 +1,188 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 4,
+      "font": "PepiconsSecondary",
+      "glyphName": "countdown-print",
+      "prefix": "pepicons",
+      "sampleIcons": [
+        "countdown-print",
+        "exclamation-circle-print",
+        "info-circle-print",
+        "question-circle-print"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "PepiconsSecondary",
+      "glyphName": "cloud-down-print",
+      "prefix": "pepicons",
+      "sampleIcons": [
+        "cloud-down-print",
+        "cloud-print",
+        "cloud-up-print"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pepicons",
+      "glyphName": "clipboard-check-print",
+      "prefix": "pepicons",
+      "sampleIcons": [
+        "clipboard-check-print",
+        "clipboard-print"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pepicons",
+      "glyphName": "flag-straight",
+      "prefix": "pepicons",
+      "sampleIcons": [
+        "flag-straight",
+        "flag2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Pepicons",
+      "glyphName": "flag-straight-print",
+      "prefix": "pepicons",
+      "sampleIcons": [
+        "flag-straight-print",
+        "flag2-print"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsSecondary",
+      "glyphName": "bell-off-print",
+      "prefix": "pepicons",
+      "sampleIcons": [
+        "bell-off-print",
+        "bell-print"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsSecondary",
+      "glyphName": "cv-print",
+      "prefix": "pepicons",
+      "sampleIcons": [
+        "cv-print",
+        "file-print"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsSecondary",
+      "glyphName": "monitor-print",
+      "prefix": "pepicons",
+      "sampleIcons": [
+        "monitor-print",
+        "monitor2-print"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "PepiconsSecondary",
+      "glyphName": "pinpoint-off-print",
+      "prefix": "pepicons",
+      "sampleIcons": [
+        "pinpoint-off-print",
+        "pinpoint-print"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Pepicons",
+      "headBbox": "-1..1007 / -7..1005",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 7,
+      "prefix": "pepicons",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1007",
+        "head.yMin=-7",
+        "head.yMax=1005",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=7"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "PepiconsSecondary",
+      "headBbox": "0..1011 / -11..975",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 11,
+      "prefix": "pepicons",
+      "reasons": [
+        "head.xMax=1011",
+        "head.yMin=-11",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=11"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "pepicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Pepicons",
+      "glyphCount": 430,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1007,
+        "xMin": -1,
+        "yMax": 1005,
+        "yMin": -7
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 7
+      }
+    },
+    {
+      "error": null,
+      "font": "PepiconsSecondary",
+      "glyphCount": 125,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1011,
+        "xMin": 0,
+        "yMax": 975,
+        "yMin": -11
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 11
+      }
+    }
+  ]
+}

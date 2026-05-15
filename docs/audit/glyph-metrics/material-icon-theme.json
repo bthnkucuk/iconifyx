@@ -1,0 +1,3077 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 218,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-admin",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-admin",
+        "folder-android",
+        "folder-angular",
+        "folder-animation"
+      ]
+    },
+    {
+      "codepointCount": 208,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-admin-open",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-admin-open",
+        "folder-android-open",
+        "folder-angular-open",
+        "folder-animation-open"
+      ]
+    },
+    {
+      "codepointCount": 11,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-appwrite-open",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-appwrite-open",
+        "folder-archive-open",
+        "folder-assembly-open",
+        "folder-certificate-open"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-class",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-class",
+        "folder-class-open",
+        "folder-enum",
+        "folder-enum-open"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "MaterialIconTheme",
+      "glyphName": "astro-config",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "astro-config",
+        "jsconfig",
+        "markdoc-config",
+        "tobimake"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconTheme",
+      "glyphName": "adobe-illustrator",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "adobe-illustrator",
+        "adobe-illustrator-light",
+        "adobe-photoshop",
+        "adobe-photoshop-light"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconTheme",
+      "glyphName": "ngrx-actions",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "ngrx-actions",
+        "ngrx-effects",
+        "ngrx-entity",
+        "ngrx-state"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-backup",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-backup",
+        "folder-backup-open",
+        "folder-temp",
+        "folder-temp-open"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-ci",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-ci",
+        "folder-ci-open",
+        "folder-generator",
+        "folder-generator-open"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-cursor",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-cursor",
+        "folder-cursor-light",
+        "folder-cursor-open",
+        "folder-cursor-open-light"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-import",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-import",
+        "folder-import-open",
+        "folder-include",
+        "folder-include-open"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-jinja",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-jinja",
+        "folder-jinja-light",
+        "folder-jinja-open",
+        "folder-jinja-open-light"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-meta",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-meta",
+        "folder-meta-open",
+        "folder-resource",
+        "folder-resource-open"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-middleware",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-middleware",
+        "folder-middleware-open",
+        "folder-plugin",
+        "folder-plugin-open"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-node",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-node",
+        "folder-node-open",
+        "folder-taskfile",
+        "folder-taskfile-open"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-atom",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-atom",
+        "folder-molecule",
+        "folder-organism"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-element",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-element",
+        "folder-license",
+        "folder-snippet"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-element-open",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-element-open",
+        "folder-flutter-open",
+        "folder-snippet-open"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-config",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-config",
+        "folder-config-open",
+        "folder-controller"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "bench-js",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "bench-js",
+        "bench-jsx"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "code-climate",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "code-climate",
+        "code-climate-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "edge",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "edge",
+        "razor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-bloc",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-bloc",
+        "folder-gemini-ai"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-bloc-open",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-bloc-open",
+        "folder-gemini-ai-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-decorators-open",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-decorators-open",
+        "folder-windows-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-firebase",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-firebase",
+        "folder-firestore"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-input-open",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-input-open",
+        "folder-simulations-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "folder-scons",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-scons",
+        "folder-unity"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "markdown",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "markdown",
+        "mdx"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "netlify",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "netlify",
+        "netlify-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "oxc",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "oxc",
+        "oxlint"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "pnpm",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "pnpm",
+        "pnpm-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "redux-action",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "redux-action",
+        "redux-store"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "rubocop",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "rubocop",
+        "rubocop-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "scons",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "scons",
+        "scons-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "semantic-release",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "semantic-release",
+        "semantic-release-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "snowpack",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "snowpack",
+        "snowpack-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "systemd",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "systemd",
+        "systemd-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "test-js",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "test-js",
+        "test-jsx"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconTheme",
+      "glyphName": "toml",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "toml",
+        "toml-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "adobe-illustrator",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "adobe-illustrator",
+        "adobe-illustrator-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "adobe-photoshop",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "adobe-photoshop",
+        "adobe-photoshop-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-admin",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-admin",
+        "folder-admin-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-android",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-android",
+        "folder-android-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-angular",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-angular",
+        "folder-angular-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-animation",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-animation",
+        "folder-animation-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-api",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-api",
+        "folder-api-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-apollo",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-apollo",
+        "folder-apollo-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-app",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-app",
+        "folder-app-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-appwrite",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-appwrite",
+        "folder-appwrite-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-archive",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-archive",
+        "folder-archive-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-assembly",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-assembly",
+        "folder-assembly-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-astro",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-astro",
+        "folder-astro-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-atom",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-atom",
+        "folder-atom-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-audio",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-audio",
+        "folder-audio-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-aws",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-aws",
+        "folder-aws-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-azure-pipelines",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-azure-pipelines",
+        "folder-azure-pipelines-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-base",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-base",
+        "folder-base-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-batch",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-batch",
+        "folder-batch-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-benchmark",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-benchmark",
+        "folder-benchmark-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-bicep",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-bicep",
+        "folder-bicep-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-blender",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-blender",
+        "folder-blender-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-bloc",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-bloc",
+        "folder-bloc-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-cart",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-cart",
+        "folder-cart-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-certificate",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-certificate",
+        "folder-certificate-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-changesets",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-changesets",
+        "folder-changesets-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-circleci",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-circleci",
+        "folder-circleci-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-client",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-client",
+        "folder-client-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-cline",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-cline",
+        "folder-cline-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-cloudflare",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-cloudflare",
+        "folder-cloudflare-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-cluster",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-cluster",
+        "folder-cluster-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-cobol",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-cobol",
+        "folder-cobol-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-command",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-command",
+        "folder-command-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-components",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-components",
+        "folder-components-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-connection",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-connection",
+        "folder-connection-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-console",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-console",
+        "folder-console-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-constant",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-constant",
+        "folder-constant-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-container",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-container",
+        "folder-container-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-content",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-content",
+        "folder-content-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-context",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-context",
+        "folder-context-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-contract",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-contract",
+        "folder-contract-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-core",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-core",
+        "folder-core-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-coverage",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-coverage",
+        "folder-coverage-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-cue",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-cue",
+        "folder-cue-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-custom",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-custom",
+        "folder-custom-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-cypress",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-cypress",
+        "folder-cypress-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-dart",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-dart",
+        "folder-dart-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-database",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-database",
+        "folder-database-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-debug",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-debug",
+        "folder-debug-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-decorators",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-decorators",
+        "folder-decorators-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-delta",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-delta",
+        "folder-delta-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-desktop",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-desktop",
+        "folder-desktop-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-dist",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-dist",
+        "folder-dist-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-docker",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-docker",
+        "folder-docker-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-docs",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-docs",
+        "folder-docs-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-download",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-download",
+        "folder-download-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-drizzle",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-drizzle",
+        "folder-drizzle-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-dump",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-dump",
+        "folder-dump-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-environment",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-environment",
+        "folder-environment-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-error",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-error",
+        "folder-error-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-event",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-event",
+        "folder-event-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-examples",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-examples",
+        "folder-examples-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-expo",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-expo",
+        "folder-expo-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-export",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-export",
+        "folder-export-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-fastlane",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-fastlane",
+        "folder-fastlane-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-favicon",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-favicon",
+        "folder-favicon-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-filter",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-filter",
+        "folder-filter-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-firestore",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-firestore",
+        "folder-firestore-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-flutter",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-flutter",
+        "folder-flutter-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-font",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-font",
+        "folder-font-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-form",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-form",
+        "folder-form-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-functions",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-functions",
+        "folder-functions-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-gamemaker",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-gamemaker",
+        "folder-gamemaker-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-gemini-ai",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-gemini-ai",
+        "folder-gemini-ai-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-gh-workflows",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-gh-workflows",
+        "folder-gh-workflows-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-git",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-git",
+        "folder-git-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-gitea",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-gitea",
+        "folder-gitea-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-github",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-github",
+        "folder-github-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-global",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-global",
+        "folder-global-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-go",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-go",
+        "folder-go-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-godot",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-godot",
+        "folder-godot-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-gradle",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-gradle",
+        "folder-gradle-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-graphql",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-graphql",
+        "folder-graphql-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-guard",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-guard",
+        "folder-guard-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-gulp",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-gulp",
+        "folder-gulp-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-helper",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-helper",
+        "folder-helper-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-home",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-home",
+        "folder-home-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-hook",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-hook",
+        "folder-hook-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-husky",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-husky",
+        "folder-husky-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-i18n",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-i18n",
+        "folder-i18n-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-images",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-images",
+        "folder-images-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-input",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-input",
+        "folder-input-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-ios",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-ios",
+        "folder-ios-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-java",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-java",
+        "folder-java-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-javascript",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-javascript",
+        "folder-javascript-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-job",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-job",
+        "folder-job-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-keys",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-keys",
+        "folder-keys-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-kotlin",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-kotlin",
+        "folder-kotlin-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-kubernetes",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-kubernetes",
+        "folder-kubernetes-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-kusto",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-kusto",
+        "folder-kusto-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-layout",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-layout",
+        "folder-layout-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-less",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-less",
+        "folder-less-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-license",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-license",
+        "folder-license-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-link",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-link",
+        "folder-link-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-linux",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-linux",
+        "folder-linux-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-log",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-log",
+        "folder-log-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-lottie",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-lottie",
+        "folder-lottie-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-lua",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-lua",
+        "folder-lua-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-luau",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-luau",
+        "folder-luau-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-macos",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-macos",
+        "folder-macos-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-mail",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-mail",
+        "folder-mail-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-mappings",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-mappings",
+        "folder-mappings-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-markdown",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-markdown",
+        "folder-markdown-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-mercurial",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-mercurial",
+        "folder-mercurial-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-messages",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-messages",
+        "folder-messages-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-metro",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-metro",
+        "folder-metro-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-migrations",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-migrations",
+        "folder-migrations-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-mjml",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-mjml",
+        "folder-mjml-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-mobile",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-mobile",
+        "folder-mobile-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-mock",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-mock",
+        "folder-mock-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-mojo",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-mojo",
+        "folder-mojo-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-molecule",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-molecule",
+        "folder-molecule-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-moon",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-moon",
+        "folder-moon-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-netlify",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-netlify",
+        "folder-netlify-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-next",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-next",
+        "folder-next-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-ngrx-store",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-ngrx-store",
+        "folder-ngrx-store-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-nuxt",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-nuxt",
+        "folder-nuxt-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-organism",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-organism",
+        "folder-organism-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-other",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-other",
+        "folder-other-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-packages",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-packages",
+        "folder-packages-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-pdf",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-pdf",
+        "folder-pdf-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-pdm",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-pdm",
+        "folder-pdm-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-php",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-php",
+        "folder-php-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-pipe",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-pipe",
+        "folder-pipe-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-plastic",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-plastic",
+        "folder-plastic-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-policy",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-policy",
+        "folder-policy-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-powershell",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-powershell",
+        "folder-powershell-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-prisma",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-prisma",
+        "folder-prisma-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-private",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-private",
+        "folder-private-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-project",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-project",
+        "folder-project-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-prompts",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-prompts",
+        "folder-prompts-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-proto",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-proto",
+        "folder-proto-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-public",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-public",
+        "folder-public-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-pytorch",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-pytorch",
+        "folder-pytorch-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-quasar",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-quasar",
+        "folder-quasar-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-queue",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-queue",
+        "folder-queue-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-r",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-r",
+        "folder-r-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-redux-reducer",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-redux-reducer",
+        "folder-redux-reducer-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-repository",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-repository",
+        "folder-repository-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-resolver",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-resolver",
+        "folder-resolver-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-review",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-review",
+        "folder-review-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-robot",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-robot",
+        "folder-robot-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-routes",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-routes",
+        "folder-routes-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-rules",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-rules",
+        "folder-rules-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-rust",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-rust",
+        "folder-rust-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-salt",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-salt",
+        "folder-salt-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-sandbox",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-sandbox",
+        "folder-sandbox-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-sass",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-sass",
+        "folder-sass-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-scala",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-scala",
+        "folder-scala-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-scons",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-scons",
+        "folder-scons-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-scripts",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-scripts",
+        "folder-scripts-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-secure",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-secure",
+        "folder-secure-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-server",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-server",
+        "folder-server-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-serverless",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-serverless",
+        "folder-serverless-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-shader",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-shader",
+        "folder-shader-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-shared",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-shared",
+        "folder-shared-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-simulations",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-simulations",
+        "folder-simulations-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-skills",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-skills",
+        "folder-skills-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-snapcraft",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-snapcraft",
+        "folder-snapcraft-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-snippet",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-snippet",
+        "folder-snippet-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-stack",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-stack",
+        "folder-stack-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-stencil",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-stencil",
+        "folder-stencil-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-store",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-store",
+        "folder-store-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-storybook",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-storybook",
+        "folder-storybook-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-stylus",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-stylus",
+        "folder-stylus-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-sublime",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-sublime",
+        "folder-sublime-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-supabase",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-supabase",
+        "folder-supabase-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-svelte",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-svelte",
+        "folder-svelte-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-svg",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-svg",
+        "folder-svg-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-syntax",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-syntax",
+        "folder-syntax-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-target",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-target",
+        "folder-target-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-tasks",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-tasks",
+        "folder-tasks-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-television",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-television",
+        "folder-television-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-template",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-template",
+        "folder-template-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-terraform",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-terraform",
+        "folder-terraform-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-test",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-test",
+        "folder-test-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-theme",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-theme",
+        "folder-theme-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-toc",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-toc",
+        "folder-toc-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-tools",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-tools",
+        "folder-tools-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-trash",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-trash",
+        "folder-trash-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-trigger",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-trigger",
+        "folder-trigger-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-typescript",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-typescript",
+        "folder-typescript-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-ui",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-ui",
+        "folder-ui-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-unity",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-unity",
+        "folder-unity-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-update",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-update",
+        "folder-update-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-upload",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-upload",
+        "folder-upload-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-utils",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-utils",
+        "folder-utils-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-vercel",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-vercel",
+        "folder-vercel-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-video",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-video",
+        "folder-video-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-views",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-views",
+        "folder-views-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-vm",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-vm",
+        "folder-vm-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-vscode",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-vscode",
+        "folder-vscode-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-wakatime",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-wakatime",
+        "folder-wakatime-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-windows",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-windows",
+        "folder-windows-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-wordpress",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-wordpress",
+        "folder-wordpress-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-yarn",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-yarn",
+        "folder-yarn-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "folder-zed",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "folder-zed",
+        "folder-zed-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "netlify",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "netlify",
+        "netlify-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "pnpm",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "pnpm",
+        "pnpm-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "rubocop",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "rubocop",
+        "rubocop-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "scons",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "scons",
+        "scons-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "systemd",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "systemd",
+        "systemd-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialIconThemeSecondary",
+      "glyphName": "toml",
+      "prefix": "material-icon-theme",
+      "sampleIcons": [
+        "toml",
+        "toml-light"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58097,
+      "icon": "velite",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 418,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 520,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 831,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57907,
+      "icon": "fsharp",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 473,
+        "xMin": 0,
+        "yMax": 928,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 483,
+      "secondary": {
+        "xMax": 956,
+        "xMin": 0,
+        "yMax": 928,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58001,
+      "icon": "playwright",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 488,
+        "xMin": 0,
+        "yMax": 770,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 465,
+      "secondary": {
+        "xMax": 953,
+        "xMin": 0,
+        "yMax": 832,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57957,
+      "icon": "markdoc",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 688,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 375,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58090,
+      "icon": "twine",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 454,
+        "xMin": 0,
+        "yMax": 871,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 370,
+      "secondary": {
+        "xMax": 824,
+        "xMin": 0,
+        "yMax": 778,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57971,
+      "icon": "netlify",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 963,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 338,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 633,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57972,
+      "icon": "netlify-light",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 963,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 338,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 633,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58039,
+      "icon": "scons",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 313,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 688,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58040,
+      "icon": "scons-light",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 313,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 688,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58071,
+      "icon": "taze",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 582,
+        "xMin": 0,
+        "yMax": 489,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 294,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58108,
+      "icon": "vlang",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 889,
+        "xMin": 0,
+        "yMax": 883,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 272,
+      "secondary": {
+        "xMax": 617,
+        "xMin": 0,
+        "yMax": 883,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57345,
+      "icon": "adobe-illustrator",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 250,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 749,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57346,
+      "icon": "adobe-illustrator-light",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 938,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 250,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 749,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57420,
+      "icon": "eslint",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 250,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 711,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58047,
+      "icon": "siyuan",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 250,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58119,
+      "icon": "wrangler",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 688,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 250,
+      "secondary": {
+        "xMax": 938,
+        "xMin": 0,
+        "yMax": 563,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58013,
+      "icon": "python",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 208,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58016,
+      "icon": "racket",
+      "prefix": "material-icon-theme",
+      "primary": {
+        "xMax": 898,
+        "xMin": 0,
+        "yMax": 898,
+        "yMin": 0
+      },
+      "primaryFont": "MaterialIconTheme",
+      "score": 206,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "secondaryFont": "MaterialIconThemeSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "MaterialIconTheme",
+      "headBbox": "-1..1500 / -500..1834",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1834,
+      "os2WinDesc": 500,
+      "prefix": "material-icon-theme",
+      "reasons": [
+        "head.xMin=-1",
+        "head.xMax=1500",
+        "head.yMin=-500",
+        "head.yMax=1834",
+        "OS/2.winAsc=1834",
+        "OS/2.winDesc=500"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "MaterialIconThemeSecondary",
+      "headBbox": "0..1013 / 0..950",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "material-icon-theme",
+      "reasons": [
+        "head.xMax=1013",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1041,
+      "codepoint": 57405,
+      "font": "MaterialIconTheme",
+      "name": "dinophp",
+      "prefix": "material-icon-theme",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57931,
+      "font": "MaterialIconTheme",
+      "name": "imba",
+      "prefix": "material-icon-theme",
+      "reason": "advance"
+    },
+    {
+      "advance": 1002,
+      "codepoint": 58115,
+      "font": "MaterialIconTheme",
+      "name": "watchman",
+      "prefix": "material-icon-theme",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 58020,
+      "contentWidth": 1500,
+      "font": "MaterialIconTheme",
+      "name": "readme",
+      "prefix": "material-icon-theme",
+      "reason": "wide"
+    },
+    {
+      "advance": 1002,
+      "codepoint": 58115,
+      "font": "MaterialIconThemeSecondary",
+      "name": "watchman",
+      "prefix": "material-icon-theme",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "material-icon-theme",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "MaterialIconTheme",
+      "glyphCount": 778,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1500,
+        "xMin": -1,
+        "yMax": 1834,
+        "yMin": -500
+      },
+      "hhea": {
+        "advanceWidthMax": 1041,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1834,
+        "usWinDescent": 500
+      }
+    },
+    {
+      "error": null,
+      "font": "MaterialIconThemeSecondary",
+      "glyphCount": 539,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1013,
+        "xMin": 0,
+        "yMax": 950,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1002,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "arrow-down-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "arrow-down-outline",
+        "arrow-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "arrow-left-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "arrow-left-outline",
+        "arrow-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "arrow-right-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "arrow-right-outline",
+        "arrow-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "arrow-up-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "arrow-up-outline",
+        "arrow-up-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "at-sign-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "at-sign-outline",
+        "at-sign-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "attach-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "attach-outline",
+        "attach-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "bluetooth-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "bluetooth-outline",
+        "bluetooth-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "caret-down-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "caret-down-outline",
+        "caret-down-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "caret-left-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "caret-left-outline",
+        "caret-left-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "caret-right-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "caret-right-outline",
+        "caret-right-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "caret-up-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "caret-up-outline",
+        "caret-up-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "check-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "check-outline",
+        "check-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "collapse-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "collapse-outline",
+        "collapse-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "exchange-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "exchange-outline",
+        "exchange-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "expand-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "expand-outline",
+        "expand-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "history-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "history-outline",
+        "history-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "hotspot-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "hotspot-outline",
+        "hotspot-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "menu-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "menu-outline",
+        "menu-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "move-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "move-outline",
+        "move-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "other-1-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "other-1-outline",
+        "other-1-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "other-2-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "other-2-outline",
+        "other-2-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "refresh-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "refresh-outline",
+        "refresh-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "shuffle-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "shuffle-outline",
+        "shuffle-solid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Basil",
+      "glyphName": "sort-outline",
+      "prefix": "basil",
+      "sampleIcons": [
+        "sort-outline",
+        "sort-solid"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Basil",
+      "headBbox": "-4..1006 / 0..990",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "basil",
+      "reasons": [
+        "head.xMin=-4",
+        "head.xMax=1006",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "basil",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Basil",
+      "glyphCount": 497,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1006,
+        "xMin": -4,
+        "yMax": 990,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

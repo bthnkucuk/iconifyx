@@ -1,0 +1,74 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "MeteorIcons",
+      "glyphName": "comment",
+      "prefix": "meteor-icons",
+      "sampleIcons": [
+        "comment",
+        "comment-dots"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MeteorIcons",
+      "glyphName": "message",
+      "prefix": "meteor-icons",
+      "sampleIcons": [
+        "message",
+        "message-dots"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "MeteorIcons",
+      "headBbox": "-5..1010 / -18..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 18,
+      "prefix": "meteor-icons",
+      "reasons": [
+        "head.xMin=-5",
+        "head.xMax=1010",
+        "head.yMin=-18",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=18"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "meteor-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "MeteorIcons",
+      "glyphCount": 321,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1010,
+        "xMin": -5,
+        "yMax": 1006,
+        "yMin": -18
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 18
+      }
+    }
+  ]
+}

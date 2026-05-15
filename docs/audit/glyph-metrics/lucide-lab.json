@@ -1,0 +1,649 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "bell-concierge",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "bell-concierge",
+        "concierge-bell"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "bell-concierge-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "bell-concierge-bold",
+        "concierge-bell-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "bell-concierge-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "bell-concierge-light",
+        "concierge-bell-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "bell-concierge-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "bell-concierge-thin",
+        "concierge-bell-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "chef-hat",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "chef-hat",
+        "hat-chef"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "chef-hat-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "chef-hat-bold",
+        "hat-chef-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "chef-hat-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "chef-hat-light",
+        "hat-chef-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "chef-hat-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "chef-hat-thin",
+        "hat-chef-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "chevrons-left-right-square",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "chevrons-left-right-square",
+        "square-code"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "chevrons-left-right-square-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "chevrons-left-right-square-bold",
+        "square-code-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "chevrons-left-right-square-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "chevrons-left-right-square-light",
+        "square-code-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "chevrons-left-right-square-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "chevrons-left-right-square-thin",
+        "square-code-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "circle-dollar-sign",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "circle-dollar-sign",
+        "dollar-sign-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "circle-dollar-sign-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "circle-dollar-sign-bold",
+        "dollar-sign-circle-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "circle-dollar-sign-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "circle-dollar-sign-light",
+        "dollar-sign-circle-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "circle-dollar-sign-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "circle-dollar-sign-thin",
+        "dollar-sign-circle-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "coffee",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "coffee",
+        "mug"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "coffee-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "coffee-bold",
+        "mug-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "coffee-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "coffee-light",
+        "mug-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "coffee-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "coffee-thin",
+        "mug-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "floppy-disk",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "floppy-disk",
+        "save"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "floppy-disk-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "floppy-disk-bold",
+        "save-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "floppy-disk-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "floppy-disk-light",
+        "save-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "floppy-disk-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "floppy-disk-thin",
+        "save-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "floppy-disks",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "floppy-disks",
+        "save-all"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "floppy-disks-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "floppy-disks-bold",
+        "save-all-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "floppy-disks-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "floppy-disks-light",
+        "save-all-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "floppy-disks-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "floppy-disks-thin",
+        "save-all-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "flower-2",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "flower-2",
+        "flower-stem"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "flower-2-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "flower-2-bold",
+        "flower-stem-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "flower-2-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "flower-2-light",
+        "flower-stem-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "flower-2-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "flower-2-thin",
+        "flower-stem-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "fork-knife",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "fork-knife",
+        "utensils"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "fork-knife-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "fork-knife-bold",
+        "utensils-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "fork-knife-crossed",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "fork-knife-crossed",
+        "utensils-crossed"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "fork-knife-crossed-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "fork-knife-crossed-bold",
+        "utensils-crossed-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "fork-knife-crossed-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "fork-knife-crossed-light",
+        "utensils-crossed-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "fork-knife-crossed-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "fork-knife-crossed-thin",
+        "utensils-crossed-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "fork-knife-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "fork-knife-light",
+        "utensils-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "fork-knife-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "fork-knife-thin",
+        "utensils-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "grape",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "grape",
+        "grapes"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "grape-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "grape-bold",
+        "grapes-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "grape-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "grape-light",
+        "grapes-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "grape-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "grape-thin",
+        "grapes-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "hard-hat",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "hard-hat",
+        "hat-hard"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "hard-hat-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "hard-hat-bold",
+        "hat-hard-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "hard-hat-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "hard-hat-light",
+        "hat-hard-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "hard-hat-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "hard-hat-thin",
+        "hat-hard-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "home",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "home",
+        "house"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "home-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "home-bold",
+        "house-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "home-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "home-light",
+        "house-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "home-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "home-thin",
+        "house-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "shirt",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "shirt",
+        "shirt-t"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "shirt-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "shirt-bold",
+        "shirt-t-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "shirt-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "shirt-light",
+        "shirt-t-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "shirt-t-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "shirt-t-thin",
+        "shirt-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "tab-check",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "tab-check",
+        "vote"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "tab-check-bold",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "tab-check-bold",
+        "vote-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "tab-check-light",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "tab-check-light",
+        "vote-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "LucideLab",
+      "glyphName": "tab-check-thin",
+      "prefix": "lucide-lab",
+      "sampleIcons": [
+        "tab-check-thin",
+        "vote-thin"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "LucideLab",
+      "headBbox": "0..986 / 0..980",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "lucide-lab",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "lucide-lab",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "LucideLab",
+      "glyphCount": 1552,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 986,
+        "xMin": 0,
+        "yMax": 980,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

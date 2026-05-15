@@ -1,0 +1,963 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "add-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "add-fill",
+        "add-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "arrow-down-circle-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "arrow-down-circle-fill",
+        "arrow-down-circle-fill-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "arrow-down-double-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "arrow-down-double-fill",
+        "arrow-down-double-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "arrow-down-wide-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "arrow-down-wide-fill",
+        "arrow-down-wide-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "arrow-left-double-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "arrow-left-double-fill",
+        "arrow-left-double-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "arrow-left-wide-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "arrow-left-wide-fill",
+        "arrow-left-wide-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "arrow-right-double-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "arrow-right-double-fill",
+        "arrow-right-double-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "arrow-right-wide-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "arrow-right-wide-fill",
+        "arrow-right-wide-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "arrow-up-double-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "arrow-up-double-fill",
+        "arrow-up-double-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "arrow-up-wide-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "arrow-up-wide-fill",
+        "arrow-up-wide-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "bar-chart-grouped-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "bar-chart-grouped-fill",
+        "bar-chart-grouped-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "battery-low-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "battery-low-fill",
+        "battery-low-fill-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "bluetooth-connect-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "bluetooth-connect-fill",
+        "bluetooth-connect-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "bluetooth-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "bluetooth-fill",
+        "bluetooth-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "book-mark-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "book-mark-fill",
+        "book-marked-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "book-mark-line",
+      "prefix": "ri",
+      "sampleIcons": [
+        "book-mark-line",
+        "book-marked-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "braces-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "braces-fill",
+        "braces-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "brackets-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "brackets-fill",
+        "brackets-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "celsius-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "celsius-fill",
+        "celsius-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "chat-1-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "chat-1-fill",
+        "chat-1-fill-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "check-double-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "check-double-fill",
+        "check-double-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "check-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "check-fill",
+        "check-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "checkbox-blank-circle-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "checkbox-blank-circle-fill",
+        "circle-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "checkbox-blank-circle-line",
+      "prefix": "ri",
+      "sampleIcons": [
+        "checkbox-blank-circle-line",
+        "circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "checkbox-blank-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "checkbox-blank-fill",
+        "square-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "checkbox-blank-line",
+      "prefix": "ri",
+      "sampleIcons": [
+        "checkbox-blank-line",
+        "square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "close-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "close-fill",
+        "close-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "close-large-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "close-large-fill",
+        "close-large-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "code-ai-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "code-ai-fill",
+        "code-ai-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "code-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "code-fill",
+        "code-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "code-s-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "code-s-fill",
+        "code-s-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "code-s-slash-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "code-s-slash-fill",
+        "code-s-slash-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "command-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "command-fill",
+        "command-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "divide-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "divide-fill",
+        "divide-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "equal-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "equal-fill",
+        "equal-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "fahrenheit-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "fahrenheit-fill",
+        "fahrenheit-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "file-2-line",
+      "prefix": "ri",
+      "sampleIcons": [
+        "file-2-line",
+        "file-2-line-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "file-mark-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "file-mark-fill",
+        "file-marked-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "file-mark-line",
+      "prefix": "ri",
+      "sampleIcons": [
+        "file-mark-line",
+        "file-marked-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "filter-3-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "filter-3-fill",
+        "filter-3-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "fingerprint-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "fingerprint-fill",
+        "fingerprint-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "flight-land-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "flight-land-fill",
+        "flight-land-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "flight-takeoff-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "flight-takeoff-fill",
+        "flight-takeoff-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "font-sans",
+      "prefix": "ri",
+      "sampleIcons": [
+        "font-sans",
+        "font-sans-serif"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "fullscreen-exit-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "fullscreen-exit-fill",
+        "fullscreen-exit-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "hard-drive-2-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "hard-drive-2-fill",
+        "hard-drive-2-fill-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "heading",
+      "prefix": "ri",
+      "sampleIcons": [
+        "heading",
+        "heading-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "keyboard-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "keyboard-fill",
+        "keyboard-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "links-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "links-fill",
+        "links-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "loader-2-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "loader-2-fill",
+        "loader-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "loader-3-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "loader-3-fill",
+        "loader-3-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "loader-4-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "loader-4-fill",
+        "loader-4-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "loader-5-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "loader-5-fill",
+        "loader-5-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "loader-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "loader-fill",
+        "loader-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "menu-2-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "menu-2-fill",
+        "menu-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "menu-3-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "menu-3-fill",
+        "menu-3-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "menu-4-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "menu-4-fill",
+        "menu-4-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "menu-5-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "menu-5-fill",
+        "menu-5-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "menu-add-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "menu-add-fill",
+        "menu-add-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "menu-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "menu-fill",
+        "menu-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "menu-fold-3-line",
+      "prefix": "ri",
+      "sampleIcons": [
+        "menu-fold-3-line",
+        "menu-fold-3-line-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "menu-unfold-3-line",
+      "prefix": "ri",
+      "sampleIcons": [
+        "menu-unfold-3-line",
+        "menu-unfold-3-line-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "menu-unfold-4-line",
+      "prefix": "ri",
+      "sampleIcons": [
+        "menu-unfold-4-line",
+        "menu-unfold-4-line-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "order-play-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "order-play-fill",
+        "order-play-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "parentheses-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "parentheses-fill",
+        "parentheses-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "pause-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "pause-fill",
+        "pause-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "pause-large-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "pause-large-fill",
+        "pause-large-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "pause-mini-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "pause-mini-fill",
+        "pause-mini-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "plane-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "plane-fill",
+        "plane-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "play-list-add-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "play-list-add-fill",
+        "play-list-add-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "playstation-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "playstation-fill",
+        "playstation-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "pulse-ai-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "pulse-ai-fill",
+        "pulse-ai-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "pulse-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "pulse-fill",
+        "pulse-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "repeat-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "repeat-fill",
+        "repeat-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "rfid-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "rfid-fill",
+        "rfid-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "rhythm-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "rhythm-fill",
+        "rhythm-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "shuffle-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "shuffle-fill",
+        "shuffle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "snowflake-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "snowflake-fill",
+        "snowflake-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "star-half-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "star-half-fill",
+        "star-half-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "star-half-s-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "star-half-s-fill",
+        "star-half-s-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "sticky-note-2-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "sticky-note-2-fill",
+        "sticky-note-2-fill-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "terminal-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "terminal-fill",
+        "terminal-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "tornado-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "tornado-fill",
+        "tornado-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "trademark-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "trademark-fill",
+        "trademark-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "traffic-light-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "traffic-light-fill",
+        "traffic-light-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "voice-ai-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "voice-ai-fill",
+        "voice-ai-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "voiceprint-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "voiceprint-fill",
+        "voiceprint-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "walk-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "walk-fill",
+        "walk-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "windy-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "windy-fill",
+        "windy-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "xrp-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "xrp-fill",
+        "xrp-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Ri",
+      "glyphName": "zzz-fill",
+      "prefix": "ri",
+      "sampleIcons": [
+        "zzz-fill",
+        "zzz-line"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Ri",
+      "headBbox": "-7..1007 / -1..1003",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 1,
+      "prefix": "ri",
+      "reasons": [
+        "head.xMin=-7",
+        "head.xMax=1007",
+        "head.yMin=-1",
+        "head.yMax=1003",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "ri",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Ri",
+      "glyphCount": 3241,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1007,
+        "xMin": -7,
+        "yMax": 1003,
+        "yMin": -1
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "SimpleLineIcons",
+      "headBbox": "-12..1143 / -7..1011",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 7,
+      "prefix": "simple-line-icons",
+      "reasons": [
+        "head.xMin=-12",
+        "head.xMax=1143",
+        "head.yMin=-7",
+        "head.yMax=1011",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=7"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1142,
+      "codepoint": 57406,
+      "font": "SimpleLineIcons",
+      "name": "envelope",
+      "prefix": "simple-line-icons",
+      "reason": "advance"
+    },
+    {
+      "advance": 786,
+      "codepoint": 57504,
+      "font": "SimpleLineIcons",
+      "name": "social-pinterest",
+      "prefix": "simple-line-icons",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57406,
+      "contentWidth": 1146,
+      "font": "SimpleLineIcons",
+      "name": "envelope",
+      "prefix": "simple-line-icons",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "simple-line-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "SimpleLineIcons",
+      "glyphCount": 194,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1143,
+        "xMin": -12,
+        "yMax": 1011,
+        "yMin": -7
+      },
+      "hhea": {
+        "advanceWidthMax": 1142,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 7
+      }
+    }
+  ]
+}

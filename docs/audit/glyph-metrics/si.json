@@ -1,0 +1,4854 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 35,
+      "font": "SiSecondary",
+      "glyphName": "add-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-circle-duotone",
+        "arrow-downward-circle-duotone",
+        "arrow-left-circle-duotone",
+        "arrow-right-circle-duotone"
+      ]
+    },
+    {
+      "codepointCount": 33,
+      "font": "SiSecondary",
+      "glyphName": "add-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-square-duotone",
+        "arrow-downward-square-duotone",
+        "arrow-left-square-duotone",
+        "arrow-right-square-duotone"
+      ]
+    },
+    {
+      "codepointCount": 9,
+      "font": "SiSecondary",
+      "glyphName": "ai-fact-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-fact-alt-1-duotone",
+        "ai-fact-duotone",
+        "cancel-presentation-duotone",
+        "credit-card-duotone"
+      ]
+    },
+    {
+      "codepointCount": 8,
+      "font": "SiSecondary",
+      "glyphName": "ai-shield-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-shield-duotone",
+        "shield-alert-duotone",
+        "shield-bad-duotone",
+        "shield-duotone"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "SiSecondary",
+      "glyphName": "ai-monitor-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-monitor-duotone",
+        "monitor-check-duotone",
+        "monitor-close-duotone",
+        "monitor-down-duotone"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "SiSecondary",
+      "glyphName": "ai-phone-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-phone-duotone",
+        "phone-add-call-duotone",
+        "phone-callback-duotone",
+        "phone-duotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "SiSecondary",
+      "glyphName": "add-to-library-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-to-library-duotone",
+        "cancel-photo-duotone",
+        "filter-none-duotone",
+        "library-books-duotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "SiSecondary",
+      "glyphName": "ai-note-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-note-1-duotone",
+        "ai-note-duotone",
+        "clipboard-alt-duotone",
+        "clipboard-check-alt-duotone"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "SiSecondary",
+      "glyphName": "ai-note-alt-1-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-note-alt-1-1-duotone",
+        "ai-note-alt-1-duotone",
+        "clipboard-check-duotone",
+        "clipboard-duotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Si",
+      "glyphName": "ai-note-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-note-1-duotone",
+        "ai-note-1-line",
+        "ai-note-duotone",
+        "ai-note-line"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Si",
+      "glyphName": "ai-note-alt-1-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-note-alt-1-1-duotone",
+        "ai-note-alt-1-1-line",
+        "ai-note-alt-1-duotone",
+        "ai-note-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Si",
+      "glyphName": "grid-on-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "grid-on-duotone",
+        "grid-on-line",
+        "table-duotone",
+        "table-line"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "SiSecondary",
+      "glyphName": "ai-edit-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-edit-alt-2-duotone",
+        "ai-edit-duotone",
+        "edit-detailed-alt-duotone",
+        "edit-detailed-duotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "SiSecondary",
+      "glyphName": "ai-lock-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-lock-duotone",
+        "lock-duotone",
+        "lock-muted-duotone",
+        "unlock-duotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "SiSecondary",
+      "glyphName": "ai-search-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-search-duotone",
+        "search-duotone",
+        "zoom-in-duotone",
+        "zoom-out-duotone"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "SiSecondary",
+      "glyphName": "dangerous-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dangerous-duotone",
+        "error-duotone",
+        "octagon-check-duotone",
+        "octagon-duotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "SiSecondary",
+      "glyphName": "add-alarm-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-alarm-duotone",
+        "delete-alarm-duotone",
+        "remove-alarm-duotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "SiSecondary",
+      "glyphName": "ai-briefcase-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-briefcase-duotone",
+        "briefcase-duotone",
+        "briefcase-medical-duotone"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "SiSecondary",
+      "glyphName": "ai-chat-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-chat-duotone",
+        "chat-duotone",
+        "chat-text-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "actions-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "actions-duotone",
+        "actions-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "activity-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "activity-duotone",
+        "activity-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "add-alarm-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-alarm-duotone",
+        "add-alarm-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "add-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-circle-duotone",
+        "add-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "add-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-duotone",
+        "add-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "add-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-square-duotone",
+        "add-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "add-to-library-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-to-library-duotone",
+        "add-to-library-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "add-to-playlist-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "add-to-playlist-duotone",
+        "add-to-playlist-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-alt-1-duotone",
+        "ai-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-alt-2-duotone",
+        "ai-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-archive-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-archive-duotone",
+        "ai-archive-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-briefcase-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-briefcase-duotone",
+        "ai-briefcase-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-chat-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-chat-duotone",
+        "ai-chat-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-checklist-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-checklist-duotone",
+        "ai-checklist-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-edit-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-edit-alt-1-duotone",
+        "ai-edit-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-edit-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-edit-alt-2-duotone",
+        "ai-edit-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-edit-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-edit-duotone",
+        "ai-edit-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-fact-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-fact-alt-1-duotone",
+        "ai-fact-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-fact-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-fact-duotone",
+        "ai-fact-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-inventory-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-inventory-duotone",
+        "ai-inventory-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-lock-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-lock-duotone",
+        "ai-lock-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-monitor-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-monitor-duotone",
+        "ai-monitor-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-note-1-fill",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-note-1-fill",
+        "ai-note-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-note-alt-1-1-fill",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-note-alt-1-1-fill",
+        "ai-note-alt-1-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-phone-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-phone-alt-1-duotone",
+        "ai-phone-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-phone-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-phone-duotone",
+        "ai-phone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-scan-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-scan-duotone",
+        "ai-scan-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-search-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-search-duotone",
+        "ai-search-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-shield-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-shield-duotone",
+        "ai-shield-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-smartphone-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-smartphone-duotone",
+        "ai-smartphone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-sort-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-sort-alt-1-duotone",
+        "ai-sort-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-sort-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-sort-duotone",
+        "ai-sort-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-summarize-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-summarize-alt-duotone",
+        "ai-summarize-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-summarize-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-summarize-duotone",
+        "ai-summarize-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ai-unlock-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-unlock-duotone",
+        "ai-unlock-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "airplane-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "airplane-duotone",
+        "airplane-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "album-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "album-duotone",
+        "album-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "alert-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "alert-duotone",
+        "alert-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-bottom-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-bottom-detailed-duotone",
+        "align-bottom-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-bottom-simple-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-bottom-simple-duotone",
+        "align-bottom-simple-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-center-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-center-duotone",
+        "align-center-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-horiz-center-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-horiz-center-detailed-duotone",
+        "align-horiz-center-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-horiz-center-simple-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-horiz-center-simple-duotone",
+        "align-horiz-center-simple-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-justify-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-justify-duotone",
+        "align-justify-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-left-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-left-detailed-duotone",
+        "align-left-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-left-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-left-duotone",
+        "align-left-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-left-simple-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-left-simple-duotone",
+        "align-left-simple-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-right-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-right-detailed-duotone",
+        "align-right-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-right-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-right-duotone",
+        "align-right-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-right-simple-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-right-simple-duotone",
+        "align-right-simple-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-top-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-top-detailed-duotone",
+        "align-top-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-top-simple-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-top-simple-duotone",
+        "align-top-simple-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-vert-center-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-vert-center-detailed-duotone",
+        "align-vert-center-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "align-vert-center-simple-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "align-vert-center-simple-duotone",
+        "align-vert-center-simple-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "apple-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "apple-duotone",
+        "apple-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "archive-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "archive-alt-duotone",
+        "archive-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "archive-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "archive-duotone",
+        "archive-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "arrow-downward-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "arrow-downward-duotone",
+        "arrow-downward-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "arrow-downward-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "arrow-downward-square-duotone",
+        "arrow-downward-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "arrow-left-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "arrow-left-duotone",
+        "arrow-left-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "arrow-right-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "arrow-right-circle-duotone",
+        "arrow-right-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "arrow-right-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "arrow-right-duotone",
+        "arrow-right-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "arrow-right-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "arrow-right-square-duotone",
+        "arrow-right-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "arrow-upward-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "arrow-upward-circle-duotone",
+        "arrow-upward-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "arrow-upward-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "arrow-upward-duotone",
+        "arrow-upward-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "arrow-upward-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "arrow-upward-square-duotone",
+        "arrow-upward-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "article-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "article-duotone",
+        "article-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "assignment-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "assignment-duotone",
+        "assignment-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "attachment-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "attachment-duotone",
+        "attachment-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ballot-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ballot-duotone",
+        "ballot-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "bar-chart-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "bar-chart-duotone",
+        "bar-chart-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "barcode-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "barcode-duotone",
+        "barcode-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "barcode-scan-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "barcode-scan-duotone",
+        "barcode-scan-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "barn-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "barn-duotone",
+        "barn-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "bin-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "bin-duotone",
+        "bin-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "bluetooth-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "bluetooth-duotone",
+        "bluetooth-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "bold-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "bold-duotone",
+        "bold-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "book-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "book-duotone",
+        "book-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "bookmark-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "bookmark-duotone",
+        "bookmark-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "briefcase-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "briefcase-detailed-duotone",
+        "briefcase-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "briefcase-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "briefcase-duotone",
+        "briefcase-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "briefcase-medical-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "briefcase-medical-duotone",
+        "briefcase-medical-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "briefcases-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "briefcases-duotone",
+        "briefcases-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "building-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "building-alt-1-duotone",
+        "building-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "building-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "building-alt-2-duotone",
+        "building-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "building-alt-3-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "building-alt-3-duotone",
+        "building-alt-3-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "building-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "building-duotone",
+        "building-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "bus-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "bus-duotone",
+        "bus-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "cancel-photo-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "cancel-photo-duotone",
+        "cancel-photo-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "cancel-presentation-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "cancel-presentation-duotone",
+        "cancel-presentation-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "castle-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "castle-alt-1-duotone",
+        "castle-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "castle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "castle-duotone",
+        "castle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "chat-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "chat-duotone",
+        "chat-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "chat-text-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "chat-text-duotone",
+        "chat-text-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "check-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "check-alt-duotone",
+        "check-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "check-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "check-circle-duotone",
+        "check-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "check-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "check-duotone",
+        "check-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "check-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "check-square-duotone",
+        "check-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "checklist-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "checklist-alt-duotone",
+        "checklist-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "checklist-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "checklist-duotone",
+        "checklist-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "chevron-left-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "chevron-left-alt-duotone",
+        "chevron-left-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "chevron-left-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "chevron-left-duotone",
+        "chevron-left-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "chevron-right-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "chevron-right-alt-duotone",
+        "chevron-right-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "chevron-right-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "chevron-right-duotone",
+        "chevron-right-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "city-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "city-duotone",
+        "city-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clear-all-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clear-all-duotone",
+        "clear-all-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clear-day-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clear-day-duotone",
+        "clear-day-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "click-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "click-duotone",
+        "click-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clipboard-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clipboard-alt-duotone",
+        "clipboard-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clipboard-check-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clipboard-check-alt-duotone",
+        "clipboard-check-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clipboard-check-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clipboard-check-duotone",
+        "clipboard-check-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clipboard-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clipboard-duotone",
+        "clipboard-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clipboard-filled-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clipboard-filled-alt-duotone",
+        "clipboard-filled-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clipboard-filled-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clipboard-filled-duotone",
+        "clipboard-filled-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clock-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clock-alt-duotone",
+        "clock-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "clock-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "clock-duotone",
+        "clock-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "close-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "close-circle-duotone",
+        "close-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "close-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "close-duotone",
+        "close-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "close-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "close-square-duotone",
+        "close-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "cloud-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "cloud-duotone",
+        "cloud-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "code-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "code-duotone",
+        "code-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "code-muted-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "code-muted-duotone",
+        "code-muted-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "columns-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "columns-duotone",
+        "columns-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "copy-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "copy-alt-duotone",
+        "copy-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "copy-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "copy-duotone",
+        "copy-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "copyright-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "copyright-alt-duotone",
+        "copyright-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "copyright-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "copyright-duotone",
+        "copyright-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "credit-card-detailed-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "credit-card-detailed-alt-duotone",
+        "credit-card-detailed-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "credit-card-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "credit-card-detailed-duotone",
+        "credit-card-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "credit-card-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "credit-card-duotone",
+        "credit-card-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "crop-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "crop-duotone",
+        "crop-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "crosshair-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "crosshair-detailed-duotone",
+        "crosshair-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "crosshair-simple-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "crosshair-simple-duotone",
+        "crosshair-simple-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "dangerous-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dangerous-duotone",
+        "dangerous-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "dashboard-customize-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dashboard-customize-duotone",
+        "dashboard-customize-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "dashboard-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dashboard-duotone",
+        "dashboard-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "dashboard-horz-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dashboard-horz-duotone",
+        "dashboard-horz-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "dashboard-vert-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dashboard-vert-duotone",
+        "dashboard-vert-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "delete-alarm-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "delete-alarm-duotone",
+        "delete-alarm-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "direction-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "direction-alt-duotone",
+        "direction-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "direction-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "direction-duotone",
+        "direction-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "dollar-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dollar-alt-1-duotone",
+        "dollar-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "dollar-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dollar-alt-2-duotone",
+        "dollar-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "dollar-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dollar-duotone",
+        "dollar-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "double-arrow-right-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "double-arrow-right-duotone",
+        "double-arrow-right-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "down-left-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "down-left-duotone",
+        "down-left-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "down-right-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "down-right-duotone",
+        "down-right-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "down-two-headed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "down-two-headed-duotone",
+        "down-two-headed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "download-offline-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "download-offline-duotone",
+        "download-offline-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "drag-handle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "drag-handle-duotone",
+        "drag-handle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "drag-indicator-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "drag-indicator-alt-duotone",
+        "drag-indicator-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "drag-indicator-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "drag-indicator-duotone",
+        "drag-indicator-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "eject-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "eject-duotone",
+        "eject-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "emoji-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "emoji-alt-duotone",
+        "emoji-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "emoji-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "emoji-duotone",
+        "emoji-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "equalizer-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "equalizer-duotone",
+        "equalizer-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "error-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "error-duotone",
+        "error-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "expand-less-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "expand-less-alt-duotone",
+        "expand-less-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "expand-less-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "expand-less-duotone",
+        "expand-less-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "expand-more-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "expand-more-alt-duotone",
+        "expand-more-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "expand-more-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "expand-more-duotone",
+        "expand-more-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "eye-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "eye-duotone",
+        "eye-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "fact-check-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "fact-check-duotone",
+        "fact-check-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "featured-playlist-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "featured-playlist-duotone",
+        "featured-playlist-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "filter-list-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "filter-list-alt-duotone",
+        "filter-list-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "filter-list-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "filter-list-duotone",
+        "filter-list-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "filter-none-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "filter-none-duotone",
+        "filter-none-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flag-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flag-alt-1-duotone",
+        "flag-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flag-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flag-alt-2-duotone",
+        "flag-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flag-alt-3-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flag-alt-3-duotone",
+        "flag-alt-3-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flag-alt-4-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flag-alt-4-duotone",
+        "flag-alt-4-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flag-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flag-duotone",
+        "flag-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flow-branch-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flow-branch-duotone",
+        "flow-branch-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flow-cascade-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flow-cascade-duotone",
+        "flow-cascade-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flow-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flow-duotone",
+        "flow-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flow-line-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flow-line-duotone",
+        "flow-line-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flow-parallel-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flow-parallel-duotone",
+        "flow-parallel-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "flow-tree-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "flow-tree-duotone",
+        "flow-tree-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "garage-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "garage-duotone",
+        "garage-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "globe-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "globe-detailed-duotone",
+        "globe-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "grid-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "grid-duotone",
+        "grid-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "grid-on-fill",
+      "prefix": "si",
+      "sampleIcons": [
+        "grid-on-fill",
+        "table-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "grid-view-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "grid-view-duotone",
+        "grid-view-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "heart-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "heart-alt-duotone",
+        "heart-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "heart-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "heart-duotone",
+        "heart-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "help-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "help-duotone",
+        "help-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "home-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "home-detailed-duotone",
+        "home-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "hospital-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "hospital-alt-1-duotone",
+        "hospital-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "hospital-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "hospital-duotone",
+        "hospital-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "hourglass-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "hourglass-duotone",
+        "hourglass-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "inflight-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "inflight-duotone",
+        "inflight-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "info-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "info-duotone",
+        "info-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "input-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "input-duotone",
+        "input-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "insights-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "insights-duotone",
+        "insights-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "inventory-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "inventory-duotone",
+        "inventory-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "italic-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "italic-duotone",
+        "italic-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "json-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "json-alt-1-duotone",
+        "json-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "json-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "json-alt-2-duotone",
+        "json-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "json-alt-3-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "json-alt-3-duotone",
+        "json-alt-3-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "json-alt-4-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "json-alt-4-duotone",
+        "json-alt-4-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "json-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "json-duotone",
+        "json-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "key-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "key-duotone",
+        "key-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "keypad-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "keypad-duotone",
+        "keypad-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "knob-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "knob-duotone",
+        "knob-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "lamp-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "lamp-duotone",
+        "lamp-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "landing-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "landing-duotone",
+        "landing-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "layers-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "layers-duotone",
+        "layers-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "left-down-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "left-down-duotone",
+        "left-down-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "left-right-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "left-right-duotone",
+        "left-right-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "left-two-headed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "left-two-headed-duotone",
+        "left-two-headed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "left-up-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "left-up-duotone",
+        "left-up-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "library-books-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "library-books-duotone",
+        "library-books-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "lightning-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "lightning-duotone",
+        "lightning-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "link-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "link-duotone",
+        "link-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "lock-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "lock-alt-duotone",
+        "lock-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "lock-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "lock-duotone",
+        "lock-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "mail-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "mail-duotone",
+        "mail-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "map-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "map-duotone",
+        "map-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "memory-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "memory-duotone",
+        "memory-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "meter-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "meter-duotone",
+        "meter-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "mic-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "mic-detailed-duotone",
+        "mic-detailed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "mic-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "mic-duotone",
+        "mic-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "money-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "money-duotone",
+        "money-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "monitor-check-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "monitor-check-duotone",
+        "monitor-check-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "monitor-close-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "monitor-close-duotone",
+        "monitor-close-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "monitor-down-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "monitor-down-duotone",
+        "monitor-down-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "monitor-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "monitor-duotone",
+        "monitor-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "monitor-pause-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "monitor-pause-duotone",
+        "monitor-pause-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "monitor-play-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "monitor-play-duotone",
+        "monitor-play-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "monitor-stop-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "monitor-stop-duotone",
+        "monitor-stop-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "monitor-up-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "monitor-up-duotone",
+        "monitor-up-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "moon-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "moon-duotone",
+        "moon-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-horiz-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-horiz-circle-duotone",
+        "more-horiz-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-horiz-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-horiz-duotone",
+        "more-horiz-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-horiz-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-horiz-square-duotone",
+        "more-horiz-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-muted-horiz-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-muted-horiz-circle-duotone",
+        "more-muted-horiz-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-muted-horiz-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-muted-horiz-duotone",
+        "more-muted-horiz-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-muted-horiz-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-muted-horiz-square-duotone",
+        "more-muted-horiz-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-muted-vert-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-muted-vert-circle-duotone",
+        "more-muted-vert-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-muted-vert-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-muted-vert-duotone",
+        "more-muted-vert-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-muted-vert-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-muted-vert-square-duotone",
+        "more-muted-vert-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-square-horiz-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-square-horiz-duotone",
+        "more-square-horiz-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-square-vert-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-square-vert-duotone",
+        "more-square-vert-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-vert-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-vert-circle-duotone",
+        "more-vert-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-vert-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-vert-duotone",
+        "more-vert-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "more-vert-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "more-vert-square-duotone",
+        "more-vert-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "move-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "move-duotone",
+        "move-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "nope-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "nope-duotone",
+        "nope-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-east-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-east-circle-duotone",
+        "north-east-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-east-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-east-duotone",
+        "north-east-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-east-escape-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-east-escape-alt-duotone",
+        "north-east-escape-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-east-escape-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-east-escape-duotone",
+        "north-east-escape-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-east-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-east-square-duotone",
+        "north-east-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-west-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-west-circle-duotone",
+        "north-west-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-west-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-west-duotone",
+        "north-west-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-west-escape-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-west-escape-alt-duotone",
+        "north-west-escape-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-west-escape-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-west-escape-duotone",
+        "north-west-escape-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "north-west-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "north-west-square-duotone",
+        "north-west-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "northeast-southwest-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "northeast-southwest-duotone",
+        "northeast-southwest-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "northwest-southeast-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "northwest-southeast-duotone",
+        "northwest-southeast-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "notifications-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "notifications-alt-2-duotone",
+        "notifications-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "notifications-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "notifications-alt-duotone",
+        "notifications-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "notifications-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "notifications-duotone",
+        "notifications-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "notifications-thick-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "notifications-thick-duotone",
+        "notifications-thick-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "octagon-check-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "octagon-check-duotone",
+        "octagon-check-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "octagon-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "octagon-duotone",
+        "octagon-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "pause-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "pause-duotone",
+        "pause-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "pause-presentation-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "pause-presentation-duotone",
+        "pause-presentation-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "pentagon-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "pentagon-duotone",
+        "pentagon-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "phone-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "phone-duotone",
+        "phone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "phone-enabled-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "phone-enabled-duotone",
+        "phone-enabled-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "pie-chart-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "pie-chart-duotone",
+        "pie-chart-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "pin-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "pin-alt-1-duotone",
+        "pin-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "pin-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "pin-alt-2-duotone",
+        "pin-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "pin-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "pin-duotone",
+        "pin-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "play-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "play-duotone",
+        "play-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "play-forward-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "play-forward-duotone",
+        "play-forward-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "play-next-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "play-next-duotone",
+        "play-next-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "play-previous-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "play-previous-duotone",
+        "play-previous-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "play-rewind-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "play-rewind-duotone",
+        "play-rewind-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "projects-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "projects-alt-duotone",
+        "projects-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "pull-request-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "pull-request-duotone",
+        "pull-request-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "quote-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "quote-duotone",
+        "quote-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "record-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "record-duotone",
+        "record-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "release-notes-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "release-notes-duotone",
+        "release-notes-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "remove-alarm-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "remove-alarm-duotone",
+        "remove-alarm-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "remove-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "remove-circle-duotone",
+        "remove-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "remove-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "remove-duotone",
+        "remove-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "remove-from-library-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "remove-from-library-duotone",
+        "remove-from-library-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "remove-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "remove-square-duotone",
+        "remove-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "reorder-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "reorder-alt-duotone",
+        "reorder-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "reorder-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "reorder-duotone",
+        "reorder-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "right-two-headed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "right-two-headed-duotone",
+        "right-two-headed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "rocket-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "rocket-duotone",
+        "rocket-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "rupee-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "rupee-duotone",
+        "rupee-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "search-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "search-alt-duotone",
+        "search-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "search-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "search-duotone",
+        "search-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "segment-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "segment-duotone",
+        "segment-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "server-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "server-duotone",
+        "server-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "settings-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "settings-alt-2-duotone",
+        "settings-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "shield-alert-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "shield-alert-duotone",
+        "shield-alert-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "shield-bad-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "shield-bad-duotone",
+        "shield-bad-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "shield-health-safety-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "shield-health-safety-duotone",
+        "shield-health-safety-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "shield-police-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "shield-police-duotone",
+        "shield-police-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "shield-security-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "shield-security-duotone",
+        "shield-security-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "shield-tip-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "shield-tip-duotone",
+        "shield-tip-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "shield-verified-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "shield-verified-duotone",
+        "shield-verified-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "sign-in-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "sign-in-alt-duotone",
+        "sign-in-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "sign-in-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "sign-in-duotone",
+        "sign-in-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "sign-out-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "sign-out-alt-duotone",
+        "sign-out-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "sign-out-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "sign-out-duotone",
+        "sign-out-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "smart-phone-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "smart-phone-duotone",
+        "smart-phone-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "sort-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "sort-alt-duotone",
+        "sort-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "sort-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "sort-duotone",
+        "sort-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-east-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-east-circle-duotone",
+        "south-east-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-east-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-east-duotone",
+        "south-east-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-east-escape-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-east-escape-alt-duotone",
+        "south-east-escape-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-east-escape-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-east-escape-duotone",
+        "south-east-escape-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-east-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-east-square-duotone",
+        "south-east-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-west-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-west-circle-duotone",
+        "south-west-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-west-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-west-duotone",
+        "south-west-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-west-escape-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-west-escape-alt-duotone",
+        "south-west-escape-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-west-escape-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-west-escape-duotone",
+        "south-west-escape-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "south-west-square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "south-west-square-duotone",
+        "south-west-square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "spark-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "spark-duotone",
+        "spark-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "spinner-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "spinner-duotone",
+        "spinner-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "square-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "square-duotone",
+        "square-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "star-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "star-alt-duotone",
+        "star-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "star-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "star-duotone",
+        "star-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "stop-circle-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "stop-circle-duotone",
+        "stop-circle-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "stop-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "stop-duotone",
+        "stop-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "street-sign-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "street-sign-duotone",
+        "street-sign-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "strikethrough-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "strikethrough-duotone",
+        "strikethrough-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "sun-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "sun-duotone",
+        "sun-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "swap-horiz-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "swap-horiz-duotone",
+        "swap-horiz-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "swap-vert-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "swap-vert-duotone",
+        "swap-vert-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "swatch-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "swatch-duotone",
+        "swatch-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "table-columns-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "table-columns-duotone",
+        "table-columns-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "table-rows-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "table-rows-duotone",
+        "table-rows-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "takeoff-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "takeoff-duotone",
+        "takeoff-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "target-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "target-duotone",
+        "target-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "taxiing-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "taxiing-duotone",
+        "taxiing-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "terminal-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "terminal-alt-duotone",
+        "terminal-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "terminal-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "terminal-duotone",
+        "terminal-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "text-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "text-duotone",
+        "text-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "thumb-down-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "thumb-down-alt-1-duotone",
+        "thumb-down-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "thumb-down-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "thumb-down-alt-2-duotone",
+        "thumb-down-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "thumb-down-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "thumb-down-duotone",
+        "thumb-down-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "thumb-up-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "thumb-up-alt-1-duotone",
+        "thumb-up-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "thumb-up-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "thumb-up-alt-2-duotone",
+        "thumb-up-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "thumb-up-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "thumb-up-duotone",
+        "thumb-up-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ticket-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ticket-alt-1-duotone",
+        "ticket-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "ticket-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ticket-duotone",
+        "ticket-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "toggle-off-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "toggle-off-duotone",
+        "toggle-off-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "toggle-on-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "toggle-on-duotone",
+        "toggle-on-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "twitter-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "twitter-duotone",
+        "twitter-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "umbrella-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "umbrella-duotone",
+        "umbrella-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "underline-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "underline-duotone",
+        "underline-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "unfold-more-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "unfold-more-duotone",
+        "unfold-more-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "unlink-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "unlink-duotone",
+        "unlink-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "unlock-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "unlock-duotone",
+        "unlock-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "unlock-muted-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "unlock-muted-duotone",
+        "unlock-muted-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "up-down-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "up-down-duotone",
+        "up-down-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "up-two-headed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "up-two-headed-duotone",
+        "up-two-headed-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "user-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "user-alt-2-duotone",
+        "user-alt-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "user-alt-3-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "user-alt-3-duotone",
+        "user-alt-3-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "user-alt-4-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "user-alt-4-duotone",
+        "user-alt-4-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "user-alt-5-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "user-alt-5-duotone",
+        "user-alt-5-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "user-alt-6-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "user-alt-6-duotone",
+        "user-alt-6-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "user-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "user-alt-duotone",
+        "user-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "user-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "user-duotone",
+        "user-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "verified-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "verified-duotone",
+        "verified-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "video-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "video-duotone",
+        "video-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "view-compact-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "view-compact-duotone",
+        "view-compact-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "view-stream-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "view-stream-duotone",
+        "view-stream-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "wallet-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "wallet-alt-duotone",
+        "wallet-alt-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "wallet-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "wallet-duotone",
+        "wallet-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "warning-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "warning-duotone",
+        "warning-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "widget-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "widget-alt-1-duotone",
+        "widget-alt-1-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "widget-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "widget-duotone",
+        "widget-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "window-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "window-duotone",
+        "window-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "wrench-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "wrench-duotone",
+        "wrench-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "zoom-in-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "zoom-in-duotone",
+        "zoom-in-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Si",
+      "glyphName": "zoom-out-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "zoom-out-duotone",
+        "zoom-out-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "ai-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-alt-1-duotone",
+        "ai-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "ai-archive-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-archive-duotone",
+        "archive-alt-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "ai-edit-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-edit-alt-1-duotone",
+        "edit-simple-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "ai-inventory-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-inventory-duotone",
+        "inventory-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "ai-phone-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-phone-alt-1-duotone",
+        "phone-enabled-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "ai-smartphone-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-smartphone-duotone",
+        "smart-phone-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "ai-sort-alt-1-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-sort-alt-1-duotone",
+        "grid-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "ai-unlock-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "ai-unlock-duotone",
+        "unlock-muted-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "barn-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "barn-duotone",
+        "garage-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "building-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "building-alt-2-duotone",
+        "hospital-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "building-alt-3-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "building-alt-3-duotone",
+        "hospital-alt-1-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "dollar-alt-2-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "dollar-alt-2-duotone",
+        "verified-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "home-detailed-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "home-detailed-duotone",
+        "home-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "inflight-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "inflight-duotone",
+        "taxiing-duotone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SiSecondary",
+      "glyphName": "lock-alt-duotone",
+      "prefix": "si",
+      "sampleIcons": [
+        "lock-alt-duotone",
+        "unlock-alt-duotone"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58484,
+      "icon": "swatch-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 530,
+      "secondary": {
+        "xMax": 376,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58604,
+      "icon": "video-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 991,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 407,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58280,
+      "icon": "play-next-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 824,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 367,
+      "secondary": {
+        "xMax": 540,
+        "xMin": 0,
+        "yMax": 793,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57575,
+      "icon": "bar-chart-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 952,
+        "xMin": 0,
+        "yMax": 948,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 326,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58276,
+      "icon": "play-forward-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 823,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 325,
+      "secondary": {
+        "xMax": 582,
+        "xMin": 0,
+        "yMax": 793,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57473,
+      "icon": "align-bottom-simple-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 948,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 324,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57509,
+      "icon": "align-top-simple-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 324,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57515,
+      "icon": "align-vert-center-simple-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 865,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 324,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58082,
+      "icon": "map-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 324,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57524,
+      "icon": "archive-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 990,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 323,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58475,
+      "icon": "sunny-snowing-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 991,
+        "xMin": 0,
+        "yMax": 948,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 323,
+      "secondary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58337,
+      "icon": "search-alt-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 910,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 285,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57698,
+      "icon": "clear-day-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 948,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 281,
+      "secondary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57749,
+      "icon": "copy-alt-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 280,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57623,
+      "icon": "building-alt-3-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 991,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 241,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57638,
+      "icon": "castle-alt-1-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 991,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 241,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57983,
+      "icon": "hospital-alt-1-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 991,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 241,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57455,
+      "icon": "ai-unlock-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 240,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57620,
+      "icon": "building-alt-2-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 240,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57986,
+      "icon": "hospital-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 240,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58571,
+      "icon": "unlock-muted-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 949,
+        "xMin": 0,
+        "yMax": 907,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 240,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58580,
+      "icon": "user-alt-2-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 949,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 240,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57566,
+      "icon": "assignment-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 992,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 239,
+      "secondary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58472,
+      "icon": "sun-set-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 991,
+        "xMin": 0,
+        "yMax": 948,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 238,
+      "secondary": {
+        "xMax": 753,
+        "xMin": 0,
+        "yMax": 716,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58589,
+      "icon": "user-alt-5-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 947,
+        "xMin": 0,
+        "yMax": 951,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 238,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 922,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58268,
+      "icon": "pin-alt-2-duotone",
+      "prefix": "si",
+      "primary": {
+        "xMax": 954,
+        "xMin": 0,
+        "yMax": 950,
+        "yMin": 0
+      },
+      "primaryFont": "Si",
+      "score": 227,
+      "secondary": {
+        "xMax": 727,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "SiSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Si",
+      "headBbox": "-2..1003 / -3..1007",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 3,
+      "prefix": "si",
+      "reasons": [
+        "head.xMin=-2",
+        "head.xMax=1003",
+        "head.yMin=-3",
+        "head.yMax=1007",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=3"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "SiSecondary",
+      "headBbox": "0..965 / 0..959",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "si",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "si",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Si",
+      "glyphCount": 1305,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1003,
+        "xMin": -2,
+        "yMax": 1007,
+        "yMin": -3
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 3
+      }
+    },
+    {
+      "error": null,
+      "font": "SiSecondary",
+      "glyphCount": 323,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 965,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

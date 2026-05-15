@@ -1,0 +1,4179 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Fontisto",
+      "glyphName": "fi",
+      "prefix": "fontisto",
+      "sampleIcons": [
+        "fi",
+        "fontisto"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fontisto",
+      "glyphName": "intersex",
+      "prefix": "fontisto",
+      "sampleIcons": [
+        "intersex",
+        "transgender"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Fontisto",
+      "headBbox": "-20..1501 / -16..1012",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 16,
+      "prefix": "fontisto",
+      "reasons": [
+        "head.xMin=-20",
+        "head.xMax=1501",
+        "head.yMin=-16",
+        "head.yMax=1012",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=16"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 791,
+      "codepoint": 57344,
+      "font": "Fontisto",
+      "name": "500px",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57347,
+      "font": "Fontisto",
+      "name": "adobe",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 666,
+      "codepoint": 57348,
+      "font": "Fontisto",
+      "name": "aids",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57349,
+      "font": "Fontisto",
+      "name": "airplay",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57351,
+      "font": "Fontisto",
+      "name": "amazon",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1458,
+      "codepoint": 57352,
+      "font": "Fontisto",
+      "name": "ambulance",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57353,
+      "font": "Fontisto",
+      "name": "american-express",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57354,
+      "font": "Fontisto",
+      "name": "american-sign-language-interpreting",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57357,
+      "font": "Fontisto",
+      "name": "android",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57358,
+      "font": "Fontisto",
+      "name": "angelist",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57359,
+      "font": "Fontisto",
+      "name": "angle-dobule-down",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57360,
+      "font": "Fontisto",
+      "name": "angle-dobule-left",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57361,
+      "font": "Fontisto",
+      "name": "angle-dobule-right",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57362,
+      "font": "Fontisto",
+      "name": "angle-dobule-up",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57367,
+      "font": "Fontisto",
+      "name": "angularjs",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57369,
+      "font": "Fontisto",
+      "name": "apple",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57371,
+      "font": "Fontisto",
+      "name": "apple-pay",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57372,
+      "font": "Fontisto",
+      "name": "archive",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57373,
+      "font": "Fontisto",
+      "name": "area-chart",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57390,
+      "font": "Fontisto",
+      "name": "asterisk",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57393,
+      "font": "Fontisto",
+      "name": "atom",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57398,
+      "font": "Fontisto",
+      "name": "backward",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57399,
+      "font": "Fontisto",
+      "name": "baidu",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57402,
+      "font": "Fontisto",
+      "name": "bar-chart",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57408,
+      "font": "Fontisto",
+      "name": "beach-slipper",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57410,
+      "font": "Fontisto",
+      "name": "behance",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57411,
+      "font": "Fontisto",
+      "name": "bell",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57412,
+      "font": "Fontisto",
+      "name": "bell-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57413,
+      "font": "Fontisto",
+      "name": "bicycle",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57414,
+      "font": "Fontisto",
+      "name": "bing",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57415,
+      "font": "Fontisto",
+      "name": "bitbucket",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57416,
+      "font": "Fontisto",
+      "name": "bitcoin",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 541,
+      "codepoint": 57417,
+      "font": "Fontisto",
+      "name": "blind",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 583,
+      "codepoint": 57419,
+      "font": "Fontisto",
+      "name": "blood",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57420,
+      "font": "Fontisto",
+      "name": "blood-drop",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 541,
+      "codepoint": 57422,
+      "font": "Fontisto",
+      "name": "bluetooth-b",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57423,
+      "font": "Fontisto",
+      "name": "bold",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 541,
+      "codepoint": 57424,
+      "font": "Fontisto",
+      "name": "bookmark",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 541,
+      "codepoint": 57425,
+      "font": "Fontisto",
+      "name": "bookmark-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57426,
+      "font": "Fontisto",
+      "name": "bower",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57427,
+      "font": "Fontisto",
+      "name": "braille",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57429,
+      "font": "Fontisto",
+      "name": "bug",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57430,
+      "font": "Fontisto",
+      "name": "bus",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57432,
+      "font": "Fontisto",
+      "name": "calculator",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57434,
+      "font": "Fontisto",
+      "name": "camera",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57440,
+      "font": "Fontisto",
+      "name": "center-align",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57441,
+      "font": "Fontisto",
+      "name": "check",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57442,
+      "font": "Fontisto",
+      "name": "checkbox-active",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57443,
+      "font": "Fontisto",
+      "name": "checkbox-passive",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57449,
+      "font": "Fontisto",
+      "name": "cloud-down",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57450,
+      "font": "Fontisto",
+      "name": "cloud-refresh",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57451,
+      "font": "Fontisto",
+      "name": "cloud-up",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57452,
+      "font": "Fontisto",
+      "name": "cloudflare",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57453,
+      "font": "Fontisto",
+      "name": "cloudy",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1458,
+      "codepoint": 57454,
+      "font": "Fontisto",
+      "name": "cloudy-gusts",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57455,
+      "font": "Fontisto",
+      "name": "cocktail",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57457,
+      "font": "Fontisto",
+      "name": "code",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57459,
+      "font": "Fontisto",
+      "name": "coffeescript",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57460,
+      "font": "Fontisto",
+      "name": "columns",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57461,
+      "font": "Fontisto",
+      "name": "comment",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57462,
+      "font": "Fontisto",
+      "name": "commenting",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57463,
+      "font": "Fontisto",
+      "name": "comments",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57466,
+      "font": "Fontisto",
+      "name": "composer",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57468,
+      "font": "Fontisto",
+      "name": "copy",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57470,
+      "font": "Fontisto",
+      "name": "credit-card",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57473,
+      "font": "Fontisto",
+      "name": "css3",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 583,
+      "codepoint": 57474,
+      "font": "Fontisto",
+      "name": "cursor",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57477,
+      "font": "Fontisto",
+      "name": "database",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57479,
+      "font": "Fontisto",
+      "name": "day-cloudy",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57480,
+      "font": "Fontisto",
+      "name": "day-haze",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57481,
+      "font": "Fontisto",
+      "name": "day-lightning",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57482,
+      "font": "Fontisto",
+      "name": "day-rain",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57483,
+      "font": "Fontisto",
+      "name": "day-snow",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57487,
+      "font": "Fontisto",
+      "name": "deskpro",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57488,
+      "font": "Fontisto",
+      "name": "desktop",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57489,
+      "font": "Fontisto",
+      "name": "deviantart",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57491,
+      "font": "Fontisto",
+      "name": "dinners-club",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57492,
+      "font": "Fontisto",
+      "name": "direction-sign",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57493,
+      "font": "Fontisto",
+      "name": "discord",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57495,
+      "font": "Fontisto",
+      "name": "discover",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57496,
+      "font": "Fontisto",
+      "name": "dislike",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57497,
+      "font": "Fontisto",
+      "name": "disqus",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 541,
+      "codepoint": 57499,
+      "font": "Fontisto",
+      "name": "dna",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 416,
+      "codepoint": 57500,
+      "font": "Fontisto",
+      "name": "do-not-disturb",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57501,
+      "font": "Fontisto",
+      "name": "docker",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57502,
+      "font": "Fontisto",
+      "name": "doctor",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57503,
+      "font": "Fontisto",
+      "name": "dollar",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57506,
+      "font": "Fontisto",
+      "name": "dropbox",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57509,
+      "font": "Fontisto",
+      "name": "edge",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57511,
+      "font": "Fontisto",
+      "name": "electronjs",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57515,
+      "font": "Fontisto",
+      "name": "envato",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57516,
+      "font": "Fontisto",
+      "name": "equalizer",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57517,
+      "font": "Fontisto",
+      "name": "eraser",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57518,
+      "font": "Fontisto",
+      "name": "euro",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57519,
+      "font": "Fontisto",
+      "name": "export",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57521,
+      "font": "Fontisto",
+      "name": "eye",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57522,
+      "font": "Fontisto",
+      "name": "facebook",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57523,
+      "font": "Fontisto",
+      "name": "famale",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 541,
+      "codepoint": 57524,
+      "font": "Fontisto",
+      "name": "favorite",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57526,
+      "font": "Fontisto",
+      "name": "file",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57527,
+      "font": "Fontisto",
+      "name": "file-1",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57528,
+      "font": "Fontisto",
+      "name": "film",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57529,
+      "font": "Fontisto",
+      "name": "filter",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57530,
+      "font": "Fontisto",
+      "name": "fire",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57531,
+      "font": "Fontisto",
+      "name": "firefox",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57532,
+      "font": "Fontisto",
+      "name": "first-aid-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57533,
+      "font": "Fontisto",
+      "name": "flag",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57534,
+      "font": "Fontisto",
+      "name": "flash",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57538,
+      "font": "Fontisto",
+      "name": "fog",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57539,
+      "font": "Fontisto",
+      "name": "folder",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57542,
+      "font": "Fontisto",
+      "name": "forward",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57543,
+      "font": "Fontisto",
+      "name": "foursquare",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57545,
+      "font": "Fontisto",
+      "name": "gbp",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57547,
+      "font": "Fontisto",
+      "name": "gg",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57548,
+      "font": "Fontisto",
+      "name": "git",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57549,
+      "font": "Fontisto",
+      "name": "github",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57550,
+      "font": "Fontisto",
+      "name": "gitlab",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57552,
+      "font": "Fontisto",
+      "name": "google-drive",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57553,
+      "font": "Fontisto",
+      "name": "google-play",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57556,
+      "font": "Fontisto",
+      "name": "graphql",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57557,
+      "font": "Fontisto",
+      "name": "grunt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 458,
+      "codepoint": 57558,
+      "font": "Fontisto",
+      "name": "gulp",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57560,
+      "font": "Fontisto",
+      "name": "hangout",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57562,
+      "font": "Fontisto",
+      "name": "headphone",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57563,
+      "font": "Fontisto",
+      "name": "heart",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57564,
+      "font": "Fontisto",
+      "name": "heart-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57566,
+      "font": "Fontisto",
+      "name": "heartbeat",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57568,
+      "font": "Fontisto",
+      "name": "helicopter",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57570,
+      "font": "Fontisto",
+      "name": "hexo",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57571,
+      "font": "Fontisto",
+      "name": "hipchat",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57573,
+      "font": "Fontisto",
+      "name": "holiday-village",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57575,
+      "font": "Fontisto",
+      "name": "horizon",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57576,
+      "font": "Fontisto",
+      "name": "horizon-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 57578,
+      "font": "Fontisto",
+      "name": "hot-air-balloon",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57579,
+      "font": "Fontisto",
+      "name": "hotel",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57580,
+      "font": "Fontisto",
+      "name": "hotel-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57581,
+      "font": "Fontisto",
+      "name": "hourglass",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57582,
+      "font": "Fontisto",
+      "name": "hourglass-end",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57583,
+      "font": "Fontisto",
+      "name": "hourglass-half",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57584,
+      "font": "Fontisto",
+      "name": "hourglass-start",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 583,
+      "codepoint": 57585,
+      "font": "Fontisto",
+      "name": "houzz",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57586,
+      "font": "Fontisto",
+      "name": "html5",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57589,
+      "font": "Fontisto",
+      "name": "ils",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57592,
+      "font": "Fontisto",
+      "name": "indent",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 458,
+      "codepoint": 57593,
+      "font": "Fontisto",
+      "name": "info",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57595,
+      "font": "Fontisto",
+      "name": "inr",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 57598,
+      "font": "Fontisto",
+      "name": "intersex",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57600,
+      "font": "Fontisto",
+      "name": "island",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57601,
+      "font": "Fontisto",
+      "name": "italic",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57602,
+      "font": "Fontisto",
+      "name": "iyzigo",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57603,
+      "font": "Fontisto",
+      "name": "java",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57604,
+      "font": "Fontisto",
+      "name": "jcb",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 583,
+      "codepoint": 57605,
+      "font": "Fontisto",
+      "name": "jekyll",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57606,
+      "font": "Fontisto",
+      "name": "jenkins",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57607,
+      "font": "Fontisto",
+      "name": "jira",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57609,
+      "font": "Fontisto",
+      "name": "jquery",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1458,
+      "codepoint": 57610,
+      "font": "Fontisto",
+      "name": "jsfiddle",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57612,
+      "font": "Fontisto",
+      "name": "justify",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57614,
+      "font": "Fontisto",
+      "name": "keyboard",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57615,
+      "font": "Fontisto",
+      "name": "kickstarter",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57616,
+      "font": "Fontisto",
+      "name": "krw",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57617,
+      "font": "Fontisto",
+      "name": "laboratory",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57619,
+      "font": "Fontisto",
+      "name": "laptop",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1458,
+      "codepoint": 57620,
+      "font": "Fontisto",
+      "name": "laravel",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57622,
+      "font": "Fontisto",
+      "name": "left-align",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 666,
+      "codepoint": 57624,
+      "font": "Fontisto",
+      "name": "lightbulb",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57625,
+      "font": "Fontisto",
+      "name": "lightning",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57626,
+      "font": "Fontisto",
+      "name": "lightnings",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57627,
+      "font": "Fontisto",
+      "name": "like",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57628,
+      "font": "Fontisto",
+      "name": "line",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57629,
+      "font": "Fontisto",
+      "name": "line-chart",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57631,
+      "font": "Fontisto",
+      "name": "linkedin",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57632,
+      "font": "Fontisto",
+      "name": "linux",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57633,
+      "font": "Fontisto",
+      "name": "list-1",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57634,
+      "font": "Fontisto",
+      "name": "list-2",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57635,
+      "font": "Fontisto",
+      "name": "livestream",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57636,
+      "font": "Fontisto",
+      "name": "locked",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57639,
+      "font": "Fontisto",
+      "name": "magento",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57640,
+      "font": "Fontisto",
+      "name": "magnet",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57641,
+      "font": "Fontisto",
+      "name": "male",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57642,
+      "font": "Fontisto",
+      "name": "map",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57643,
+      "font": "Fontisto",
+      "name": "map-marker",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57644,
+      "font": "Fontisto",
+      "name": "map-marker-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57646,
+      "font": "Fontisto",
+      "name": "mars-double",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57648,
+      "font": "Fontisto",
+      "name": "mars-stroke-h",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57649,
+      "font": "Fontisto",
+      "name": "mars-stroke-v",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57650,
+      "font": "Fontisto",
+      "name": "mastercard",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57651,
+      "font": "Fontisto",
+      "name": "maxcdn",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57653,
+      "font": "Fontisto",
+      "name": "meetup",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57654,
+      "font": "Fontisto",
+      "name": "mercury",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57657,
+      "font": "Fontisto",
+      "name": "metro",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57658,
+      "font": "Fontisto",
+      "name": "mic",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57661,
+      "font": "Fontisto",
+      "name": "mobile",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57662,
+      "font": "Fontisto",
+      "name": "mobile-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 458,
+      "codepoint": 57664,
+      "font": "Fontisto",
+      "name": "mongodb",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 208,
+      "codepoint": 57665,
+      "font": "Fontisto",
+      "name": "more-v",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 208,
+      "codepoint": 57666,
+      "font": "Fontisto",
+      "name": "more-v-a",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57667,
+      "font": "Fontisto",
+      "name": "motorcycle",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57670,
+      "font": "Fontisto",
+      "name": "music-note",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57672,
+      "font": "Fontisto",
+      "name": "nav-icon",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57673,
+      "font": "Fontisto",
+      "name": "nav-icon-a",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57674,
+      "font": "Fontisto",
+      "name": "nav-icon-grid",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57675,
+      "font": "Fontisto",
+      "name": "nav-icon-grid-a",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57676,
+      "font": "Fontisto",
+      "name": "nav-icon-list",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57677,
+      "font": "Fontisto",
+      "name": "nav-icon-list-a",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 541,
+      "codepoint": 57680,
+      "font": "Fontisto",
+      "name": "netflix",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57681,
+      "font": "Fontisto",
+      "name": "neuter",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57683,
+      "font": "Fontisto",
+      "name": "nginx",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57684,
+      "font": "Fontisto",
+      "name": "night-alt-cloudy",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57685,
+      "font": "Fontisto",
+      "name": "night-alt-lightning",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57686,
+      "font": "Fontisto",
+      "name": "night-alt-rain",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57687,
+      "font": "Fontisto",
+      "name": "night-alt-snow",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57689,
+      "font": "Fontisto",
+      "name": "nodejs",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57691,
+      "font": "Fontisto",
+      "name": "nurse",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 583,
+      "codepoint": 57693,
+      "font": "Fontisto",
+      "name": "odnoklassniki",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57695,
+      "font": "Fontisto",
+      "name": "onenote",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57697,
+      "font": "Fontisto",
+      "name": "opencart",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57700,
+      "font": "Fontisto",
+      "name": "origin",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57701,
+      "font": "Fontisto",
+      "name": "outdent",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57703,
+      "font": "Fontisto",
+      "name": "paperclip",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57704,
+      "font": "Fontisto",
+      "name": "paragraph",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57705,
+      "font": "Fontisto",
+      "name": "paralysis-disability",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57707,
+      "font": "Fontisto",
+      "name": "passport",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57708,
+      "font": "Fontisto",
+      "name": "passport-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57709,
+      "font": "Fontisto",
+      "name": "paste",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57710,
+      "font": "Fontisto",
+      "name": "pause",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57711,
+      "font": "Fontisto",
+      "name": "paw",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57712,
+      "font": "Fontisto",
+      "name": "paypal",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57713,
+      "font": "Fontisto",
+      "name": "paypal-p",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57714,
+      "font": "Fontisto",
+      "name": "payu",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 57715,
+      "font": "Fontisto",
+      "name": "periscope",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57716,
+      "font": "Fontisto",
+      "name": "person",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57717,
+      "font": "Fontisto",
+      "name": "persons",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57719,
+      "font": "Fontisto",
+      "name": "photograph",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57721,
+      "font": "Fontisto",
+      "name": "picture",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57726,
+      "font": "Fontisto",
+      "name": "pingdom",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57727,
+      "font": "Fontisto",
+      "name": "pinterest",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57728,
+      "font": "Fontisto",
+      "name": "plane",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57731,
+      "font": "Fontisto",
+      "name": "play-list",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57733,
+      "font": "Fontisto",
+      "name": "playstation",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57735,
+      "font": "Fontisto",
+      "name": "podcast",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57736,
+      "font": "Fontisto",
+      "name": "power",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57737,
+      "font": "Fontisto",
+      "name": "prescription",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57741,
+      "font": "Fontisto",
+      "name": "propeller-1",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57742,
+      "font": "Fontisto",
+      "name": "propeller-2",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57743,
+      "font": "Fontisto",
+      "name": "propeller-3",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57745,
+      "font": "Fontisto",
+      "name": "pulse",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57748,
+      "font": "Fontisto",
+      "name": "question",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57749,
+      "font": "Fontisto",
+      "name": "quora",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57750,
+      "font": "Fontisto",
+      "name": "quote-a-left",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57751,
+      "font": "Fontisto",
+      "name": "quote-a-right",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57752,
+      "font": "Fontisto",
+      "name": "quote-left",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57753,
+      "font": "Fontisto",
+      "name": "quote-right",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57759,
+      "font": "Fontisto",
+      "name": "rainbow",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57760,
+      "font": "Fontisto",
+      "name": "rains",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57761,
+      "font": "Fontisto",
+      "name": "random",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 57762,
+      "font": "Fontisto",
+      "name": "raspberry-pi",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57763,
+      "font": "Fontisto",
+      "name": "react",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57766,
+      "font": "Fontisto",
+      "name": "recycle",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57767,
+      "font": "Fontisto",
+      "name": "reddit",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57768,
+      "font": "Fontisto",
+      "name": "redis",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57769,
+      "font": "Fontisto",
+      "name": "redo",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57770,
+      "font": "Fontisto",
+      "name": "redux",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57772,
+      "font": "Fontisto",
+      "name": "right-align",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 541,
+      "codepoint": 57773,
+      "font": "Fontisto",
+      "name": "rocket",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57775,
+      "font": "Fontisto",
+      "name": "rouble",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57777,
+      "font": "Fontisto",
+      "name": "ruby",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57779,
+      "font": "Fontisto",
+      "name": "sait-boat",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57780,
+      "font": "Fontisto",
+      "name": "sass",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57785,
+      "font": "Fontisto",
+      "name": "scorp",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57787,
+      "font": "Fontisto",
+      "name": "sentry",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57789,
+      "font": "Fontisto",
+      "name": "share-a",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57791,
+      "font": "Fontisto",
+      "name": "shield",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57792,
+      "font": "Fontisto",
+      "name": "ship",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57793,
+      "font": "Fontisto",
+      "name": "shopify",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57794,
+      "font": "Fontisto",
+      "name": "shopping-bag",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57795,
+      "font": "Fontisto",
+      "name": "shopping-bag-1",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1458,
+      "codepoint": 57796,
+      "font": "Fontisto",
+      "name": "shopping-barcode",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57797,
+      "font": "Fontisto",
+      "name": "shopping-basket",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57798,
+      "font": "Fontisto",
+      "name": "shopping-basket-add",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57799,
+      "font": "Fontisto",
+      "name": "shopping-basket-remove",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57800,
+      "font": "Fontisto",
+      "name": "shopping-package",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 583,
+      "codepoint": 57801,
+      "font": "Fontisto",
+      "name": "shopping-pos-machine",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57803,
+      "font": "Fontisto",
+      "name": "shopping-store",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57804,
+      "font": "Fontisto",
+      "name": "sina-weibo",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57805,
+      "font": "Fontisto",
+      "name": "sitemap",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57813,
+      "font": "Fontisto",
+      "name": "snapchat",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57814,
+      "font": "Fontisto",
+      "name": "snorkel",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57816,
+      "font": "Fontisto",
+      "name": "snowflake",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57817,
+      "font": "Fontisto",
+      "name": "snowflake-1",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57818,
+      "font": "Fontisto",
+      "name": "snowflake-2",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57819,
+      "font": "Fontisto",
+      "name": "snowflake-3",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57820,
+      "font": "Fontisto",
+      "name": "snowflake-4",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57821,
+      "font": "Fontisto",
+      "name": "snowflake-5",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57822,
+      "font": "Fontisto",
+      "name": "snowflake-6",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57823,
+      "font": "Fontisto",
+      "name": "snowflake-7",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57824,
+      "font": "Fontisto",
+      "name": "snowflake-8",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57825,
+      "font": "Fontisto",
+      "name": "snows",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57826,
+      "font": "Fontisto",
+      "name": "soundcloud",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57828,
+      "font": "Fontisto",
+      "name": "spinner",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57830,
+      "font": "Fontisto",
+      "name": "spinner-fidget",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57831,
+      "font": "Fontisto",
+      "name": "spinner-refresh",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57832,
+      "font": "Fontisto",
+      "name": "spinner-rotate-forward",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57834,
+      "font": "Fontisto",
+      "name": "stack-overflow",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57837,
+      "font": "Fontisto",
+      "name": "steam",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57838,
+      "font": "Fontisto",
+      "name": "step-backwrad",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57839,
+      "font": "Fontisto",
+      "name": "step-forward",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 57840,
+      "font": "Fontisto",
+      "name": "stethoscope",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57842,
+      "font": "Fontisto",
+      "name": "stopwatch",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57843,
+      "font": "Fontisto",
+      "name": "strikethrough",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57845,
+      "font": "Fontisto",
+      "name": "stumbleupon",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57847,
+      "font": "Fontisto",
+      "name": "sublime-text",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57849,
+      "font": "Fontisto",
+      "name": "subway",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57850,
+      "font": "Fontisto",
+      "name": "suitcase",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 57851,
+      "font": "Fontisto",
+      "name": "suitcase-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1333,
+      "codepoint": 57854,
+      "font": "Fontisto",
+      "name": "sunglasses-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57856,
+      "font": "Fontisto",
+      "name": "surgical-knife",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1375,
+      "codepoint": 57858,
+      "font": "Fontisto",
+      "name": "svn",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57859,
+      "font": "Fontisto",
+      "name": "swarm",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57860,
+      "font": "Fontisto",
+      "name": "swift",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57861,
+      "font": "Fontisto",
+      "name": "swimsuit",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57862,
+      "font": "Fontisto",
+      "name": "table-1",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57863,
+      "font": "Fontisto",
+      "name": "table-2",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57864,
+      "font": "Fontisto",
+      "name": "tablet",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57865,
+      "font": "Fontisto",
+      "name": "tablet-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57867,
+      "font": "Fontisto",
+      "name": "taxi",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57870,
+      "font": "Fontisto",
+      "name": "tent",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57872,
+      "font": "Fontisto",
+      "name": "test-bottle",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57873,
+      "font": "Fontisto",
+      "name": "test-tube",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57874,
+      "font": "Fontisto",
+      "name": "test-tube-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 583,
+      "codepoint": 57876,
+      "font": "Fontisto",
+      "name": "text-width",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57877,
+      "font": "Fontisto",
+      "name": "thermometer",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57881,
+      "font": "Fontisto",
+      "name": "tinder",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57882,
+      "font": "Fontisto",
+      "name": "tl",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57886,
+      "font": "Fontisto",
+      "name": "train",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 57888,
+      "font": "Fontisto",
+      "name": "intersex",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57889,
+      "font": "Fontisto",
+      "name": "transgender-alt",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57890,
+      "font": "Fontisto",
+      "name": "trash",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57892,
+      "font": "Fontisto",
+      "name": "treehouse",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57895,
+      "font": "Fontisto",
+      "name": "troy",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57896,
+      "font": "Fontisto",
+      "name": "truck",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57897,
+      "font": "Fontisto",
+      "name": "tty",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 583,
+      "codepoint": 57898,
+      "font": "Fontisto",
+      "name": "tumblr",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57899,
+      "font": "Fontisto",
+      "name": "tv",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57900,
+      "font": "Fontisto",
+      "name": "twitch",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57901,
+      "font": "Fontisto",
+      "name": "twitter",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57906,
+      "font": "Fontisto",
+      "name": "umbrella",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57907,
+      "font": "Fontisto",
+      "name": "underline",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57908,
+      "font": "Fontisto",
+      "name": "undo",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57909,
+      "font": "Fontisto",
+      "name": "unity",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57911,
+      "font": "Fontisto",
+      "name": "unlocked",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 458,
+      "codepoint": 57914,
+      "font": "Fontisto",
+      "name": "usb",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 833,
+      "codepoint": 57915,
+      "font": "Fontisto",
+      "name": "user-secret",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57916,
+      "font": "Fontisto",
+      "name": "venus",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57918,
+      "font": "Fontisto",
+      "name": "venus-mars",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57919,
+      "font": "Fontisto",
+      "name": "viber",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57920,
+      "font": "Fontisto",
+      "name": "vimeo",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57921,
+      "font": "Fontisto",
+      "name": "vine",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1500,
+      "codepoint": 57922,
+      "font": "Fontisto",
+      "name": "visa",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 958,
+      "codepoint": 57923,
+      "font": "Fontisto",
+      "name": "visual-studio",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1291,
+      "codepoint": 57925,
+      "font": "Fontisto",
+      "name": "volume-down",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 708,
+      "codepoint": 57926,
+      "font": "Fontisto",
+      "name": "volume-mute",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1208,
+      "codepoint": 57927,
+      "font": "Fontisto",
+      "name": "volume-off",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1458,
+      "codepoint": 57928,
+      "font": "Fontisto",
+      "name": "volume-up",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57929,
+      "font": "Fontisto",
+      "name": "vuejs",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 916,
+      "codepoint": 57931,
+      "font": "Fontisto",
+      "name": "webpack",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57935,
+      "font": "Fontisto",
+      "name": "wheelchair",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57936,
+      "font": "Fontisto",
+      "name": "wifi",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57937,
+      "font": "Fontisto",
+      "name": "wifi-logo",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1083,
+      "codepoint": 57939,
+      "font": "Fontisto",
+      "name": "wind",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 791,
+      "codepoint": 57948,
+      "font": "Fontisto",
+      "name": "yahoo",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57949,
+      "font": "Fontisto",
+      "name": "yandex",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 541,
+      "codepoint": 57950,
+      "font": "Fontisto",
+      "name": "yandex-international",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57952,
+      "font": "Fontisto",
+      "name": "yelp",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57953,
+      "font": "Fontisto",
+      "name": "yen",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "advance": 1416,
+      "codepoint": 57954,
+      "font": "Fontisto",
+      "name": "youtube-play",
+      "prefix": "fontisto",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57347,
+      "contentWidth": 1131,
+      "font": "Fontisto",
+      "name": "adobe",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57349,
+      "contentWidth": 1200,
+      "font": "Fontisto",
+      "name": "airplay",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57352,
+      "contentWidth": 1452,
+      "font": "Fontisto",
+      "name": "ambulance",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57353,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "american-express",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57354,
+      "contentWidth": 1258,
+      "font": "Fontisto",
+      "name": "american-sign-language-interpreting",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57371,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "apple-pay",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57373,
+      "contentWidth": 1334,
+      "font": "Fontisto",
+      "name": "area-chart",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57393,
+      "contentWidth": 1101,
+      "font": "Fontisto",
+      "name": "atom",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57398,
+      "contentWidth": 1335,
+      "font": "Fontisto",
+      "name": "backward",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57402,
+      "contentWidth": 1334,
+      "font": "Fontisto",
+      "name": "bar-chart",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57410,
+      "contentWidth": 1277,
+      "font": "Fontisto",
+      "name": "behance",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57413,
+      "contentWidth": 1438,
+      "font": "Fontisto",
+      "name": "bicycle",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57415,
+      "contentWidth": 1115,
+      "font": "Fontisto",
+      "name": "bitbucket",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57426,
+      "contentWidth": 1142,
+      "font": "Fontisto",
+      "name": "bower",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57434,
+      "contentWidth": 1154,
+      "font": "Fontisto",
+      "name": "camera",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57440,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "center-align",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57441,
+      "contentWidth": 1364,
+      "font": "Fontisto",
+      "name": "check",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57442,
+      "contentWidth": 1134,
+      "font": "Fontisto",
+      "name": "checkbox-active",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57449,
+      "contentWidth": 1120,
+      "font": "Fontisto",
+      "name": "cloud-down",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57450,
+      "contentWidth": 1120,
+      "font": "Fontisto",
+      "name": "cloud-refresh",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57451,
+      "contentWidth": 1120,
+      "font": "Fontisto",
+      "name": "cloud-up",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57452,
+      "contentWidth": 1307,
+      "font": "Fontisto",
+      "name": "cloudflare",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57453,
+      "contentWidth": 1123,
+      "font": "Fontisto",
+      "name": "cloudy",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57454,
+      "contentWidth": 1467,
+      "font": "Fontisto",
+      "name": "cloudy-gusts",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57457,
+      "contentWidth": 1333,
+      "font": "Fontisto",
+      "name": "code",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57459,
+      "contentWidth": 1234,
+      "font": "Fontisto",
+      "name": "coffeescript",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57460,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "columns",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57461,
+      "contentWidth": 1168,
+      "font": "Fontisto",
+      "name": "comment",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57462,
+      "contentWidth": 1168,
+      "font": "Fontisto",
+      "name": "commenting",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57463,
+      "contentWidth": 1274,
+      "font": "Fontisto",
+      "name": "comments",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57470,
+      "contentWidth": 1502,
+      "font": "Fontisto",
+      "name": "credit-card",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57479,
+      "contentWidth": 1417,
+      "font": "Fontisto",
+      "name": "day-cloudy",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57480,
+      "contentWidth": 1110,
+      "font": "Fontisto",
+      "name": "day-haze",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57488,
+      "contentWidth": 1125,
+      "font": "Fontisto",
+      "name": "desktop",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57491,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "dinners-club",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57495,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "discover",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57496,
+      "contentWidth": 1116,
+      "font": "Fontisto",
+      "name": "dislike",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57501,
+      "contentWidth": 1430,
+      "font": "Fontisto",
+      "name": "docker",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57517,
+      "contentWidth": 1104,
+      "font": "Fontisto",
+      "name": "eraser",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57519,
+      "contentWidth": 1112,
+      "font": "Fontisto",
+      "name": "export",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57521,
+      "contentWidth": 1334,
+      "font": "Fontisto",
+      "name": "eye",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57529,
+      "contentWidth": 1200,
+      "font": "Fontisto",
+      "name": "filter",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57532,
+      "contentWidth": 1151,
+      "font": "Fontisto",
+      "name": "first-aid-alt",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57539,
+      "contentWidth": 1102,
+      "font": "Fontisto",
+      "name": "folder",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57542,
+      "contentWidth": 1335,
+      "font": "Fontisto",
+      "name": "forward",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57547,
+      "contentWidth": 1429,
+      "font": "Fontisto",
+      "name": "gg",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57552,
+      "contentWidth": 1143,
+      "font": "Fontisto",
+      "name": "google-drive",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57563,
+      "contentWidth": 1144,
+      "font": "Fontisto",
+      "name": "heart",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57564,
+      "contentWidth": 1166,
+      "font": "Fontisto",
+      "name": "heart-alt",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57573,
+      "contentWidth": 1494,
+      "font": "Fontisto",
+      "name": "holiday-village",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57575,
+      "contentWidth": 1278,
+      "font": "Fontisto",
+      "name": "horizon",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57576,
+      "contentWidth": 1278,
+      "font": "Fontisto",
+      "name": "horizon-alt",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57579,
+      "contentWidth": 1305,
+      "font": "Fontisto",
+      "name": "hotel",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57580,
+      "contentWidth": 1178,
+      "font": "Fontisto",
+      "name": "hotel-alt",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57592,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "indent",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57602,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "iyzigo",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57604,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "jcb",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57610,
+      "contentWidth": 1465,
+      "font": "Fontisto",
+      "name": "jsfiddle",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57612,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "justify",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57614,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "keyboard",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57616,
+      "contentWidth": 1274,
+      "font": "Fontisto",
+      "name": "krw",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57619,
+      "contentWidth": 1141,
+      "font": "Fontisto",
+      "name": "laptop",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57620,
+      "contentWidth": 1487,
+      "font": "Fontisto",
+      "name": "laravel",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57622,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "left-align",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57626,
+      "contentWidth": 1162,
+      "font": "Fontisto",
+      "name": "lightnings",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57627,
+      "contentWidth": 1117,
+      "font": "Fontisto",
+      "name": "like",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57629,
+      "contentWidth": 1334,
+      "font": "Fontisto",
+      "name": "line-chart",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57633,
+      "contentWidth": 1177,
+      "font": "Fontisto",
+      "name": "list-1",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57634,
+      "contentWidth": 1222,
+      "font": "Fontisto",
+      "name": "list-2",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57635,
+      "contentWidth": 1346,
+      "font": "Fontisto",
+      "name": "livestream",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57642,
+      "contentWidth": 1167,
+      "font": "Fontisto",
+      "name": "map",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57648,
+      "contentWidth": 1309,
+      "font": "Fontisto",
+      "name": "mars-stroke-h",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57650,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "mastercard",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57651,
+      "contentWidth": 1381,
+      "font": "Fontisto",
+      "name": "maxcdn",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57653,
+      "contentWidth": 1209,
+      "font": "Fontisto",
+      "name": "meetup",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57672,
+      "contentWidth": 1153,
+      "font": "Fontisto",
+      "name": "nav-icon",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57673,
+      "contentWidth": 1154,
+      "font": "Fontisto",
+      "name": "nav-icon-a",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57676,
+      "contentWidth": 1153,
+      "font": "Fontisto",
+      "name": "nav-icon-list",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57677,
+      "contentWidth": 1154,
+      "font": "Fontisto",
+      "name": "nav-icon-list-a",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57684,
+      "contentWidth": 1397,
+      "font": "Fontisto",
+      "name": "night-alt-cloudy",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57697,
+      "contentWidth": 1390,
+      "font": "Fontisto",
+      "name": "opencart",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57701,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "outdent",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57712,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "paypal",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57714,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "payu",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57719,
+      "contentWidth": 1145,
+      "font": "Fontisto",
+      "name": "photograph",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57721,
+      "contentWidth": 1334,
+      "font": "Fontisto",
+      "name": "picture",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57726,
+      "contentWidth": 1248,
+      "font": "Fontisto",
+      "name": "pingdom",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57731,
+      "contentWidth": 1154,
+      "font": "Fontisto",
+      "name": "play-list",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57733,
+      "contentWidth": 1300,
+      "font": "Fontisto",
+      "name": "playstation",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57745,
+      "contentWidth": 1173,
+      "font": "Fontisto",
+      "name": "pulse",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57750,
+      "contentWidth": 1314,
+      "font": "Fontisto",
+      "name": "quote-a-left",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57751,
+      "contentWidth": 1314,
+      "font": "Fontisto",
+      "name": "quote-a-right",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57752,
+      "contentWidth": 1400,
+      "font": "Fontisto",
+      "name": "quote-left",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57753,
+      "contentWidth": 1400,
+      "font": "Fontisto",
+      "name": "quote-right",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57759,
+      "contentWidth": 1391,
+      "font": "Fontisto",
+      "name": "rainbow",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57760,
+      "contentWidth": 1363,
+      "font": "Fontisto",
+      "name": "rains",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57761,
+      "contentWidth": 1350,
+      "font": "Fontisto",
+      "name": "random",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57763,
+      "contentWidth": 1124,
+      "font": "Fontisto",
+      "name": "react",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57768,
+      "contentWidth": 1168,
+      "font": "Fontisto",
+      "name": "redis",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57772,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "right-align",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57780,
+      "contentWidth": 1341,
+      "font": "Fontisto",
+      "name": "sass",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57785,
+      "contentWidth": 1394,
+      "font": "Fontisto",
+      "name": "scorp",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57787,
+      "contentWidth": 1132,
+      "font": "Fontisto",
+      "name": "sentry",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57789,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "share-a",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57796,
+      "contentWidth": 1473,
+      "font": "Fontisto",
+      "name": "shopping-barcode",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57797,
+      "contentWidth": 1144,
+      "font": "Fontisto",
+      "name": "shopping-basket",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57798,
+      "contentWidth": 1308,
+      "font": "Fontisto",
+      "name": "shopping-basket-add",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57799,
+      "contentWidth": 1308,
+      "font": "Fontisto",
+      "name": "shopping-basket-remove",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57803,
+      "contentWidth": 1159,
+      "font": "Fontisto",
+      "name": "shopping-store",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57804,
+      "contentWidth": 1233,
+      "font": "Fontisto",
+      "name": "sina-weibo",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57814,
+      "contentWidth": 1113,
+      "font": "Fontisto",
+      "name": "snorkel",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57825,
+      "contentWidth": 1352,
+      "font": "Fontisto",
+      "name": "snows",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57826,
+      "contentWidth": 1301,
+      "font": "Fontisto",
+      "name": "soundcloud",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57837,
+      "contentWidth": 1167,
+      "font": "Fontisto",
+      "name": "steam",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57843,
+      "contentWidth": 1143,
+      "font": "Fontisto",
+      "name": "strikethrough",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57845,
+      "contentWidth": 1311,
+      "font": "Fontisto",
+      "name": "stumbleupon",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57854,
+      "contentWidth": 1346,
+      "font": "Fontisto",
+      "name": "sunglasses-alt",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57856,
+      "contentWidth": 1175,
+      "font": "Fontisto",
+      "name": "surgical-knife",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57858,
+      "contentWidth": 1359,
+      "font": "Fontisto",
+      "name": "svn",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57860,
+      "contentWidth": 1127,
+      "font": "Fontisto",
+      "name": "swift",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57862,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "table-1",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57863,
+      "contentWidth": 1224,
+      "font": "Fontisto",
+      "name": "table-2",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57867,
+      "contentWidth": 1439,
+      "font": "Fontisto",
+      "name": "taxi",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57877,
+      "contentWidth": 1273,
+      "font": "Fontisto",
+      "name": "thermometer",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57895,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "troy",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57899,
+      "contentWidth": 1250,
+      "font": "Fontisto",
+      "name": "tv",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57901,
+      "contentWidth": 1238,
+      "font": "Fontisto",
+      "name": "twitter",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57918,
+      "contentWidth": 1144,
+      "font": "Fontisto",
+      "name": "venus-mars",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57920,
+      "contentWidth": 1167,
+      "font": "Fontisto",
+      "name": "vimeo",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57922,
+      "contentWidth": 1501,
+      "font": "Fontisto",
+      "name": "visa",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57925,
+      "contentWidth": 1276,
+      "font": "Fontisto",
+      "name": "volume-down",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57927,
+      "contentWidth": 1219,
+      "font": "Fontisto",
+      "name": "volume-off",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57928,
+      "contentWidth": 1454,
+      "font": "Fontisto",
+      "name": "volume-up",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57929,
+      "contentWidth": 1167,
+      "font": "Fontisto",
+      "name": "vuejs",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57936,
+      "contentWidth": 1400,
+      "font": "Fontisto",
+      "name": "wifi",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57937,
+      "contentWidth": 1413,
+      "font": "Fontisto",
+      "name": "wifi-logo",
+      "prefix": "fontisto",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57954,
+      "contentWidth": 1424,
+      "font": "Fontisto",
+      "name": "youtube-play",
+      "prefix": "fontisto",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "fontisto",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Fontisto",
+      "glyphCount": 615,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1501,
+        "xMin": -20,
+        "yMax": 1012,
+        "yMin": -16
+      },
+      "hhea": {
+        "advanceWidthMax": 1500,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 16
+      }
+    }
+  ]
+}

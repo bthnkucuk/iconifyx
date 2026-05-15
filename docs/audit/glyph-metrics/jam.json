@@ -1,0 +1,305 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Jam",
+      "glyphName": "table",
+      "prefix": "jam",
+      "sampleIcons": [
+        "table",
+        "table-top-header"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Jam",
+      "headBbox": "-12..1560 / -13..1013",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 13,
+      "prefix": "jam",
+      "reasons": [
+        "head.xMin=-12",
+        "head.xMax=1560",
+        "head.yMin=-13",
+        "head.yMax=1013",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=13"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 857,
+      "codepoint": 57345,
+      "font": "Jam",
+      "name": "accessibility",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57485,
+      "font": "Jam",
+      "name": "browse",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57617,
+      "font": "Jam",
+      "name": "code",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1285,
+      "codepoint": 57618,
+      "font": "Jam",
+      "name": "code-sample",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1428,
+      "codepoint": 57663,
+      "font": "Jam",
+      "name": "differenciation",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 900,
+      "codepoint": 57671,
+      "font": "Jam",
+      "name": "discord",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1428,
+      "codepoint": 57843,
+      "font": "Jam",
+      "name": "intersection",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 57869,
+      "font": "Jam",
+      "name": "ltr",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1050,
+      "codepoint": 57952,
+      "font": "Jam",
+      "name": "orientaton",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57982,
+      "font": "Jam",
+      "name": "picture-edit",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1555,
+      "codepoint": 58021,
+      "font": "Jam",
+      "name": "quote",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1166,
+      "codepoint": 58034,
+      "font": "Jam",
+      "name": "rtl",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1111,
+      "codepoint": 58049,
+      "font": "Jam",
+      "name": "select-all",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 526,
+      "codepoint": 58124,
+      "font": "Jam",
+      "name": "star-half-f",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1428,
+      "codepoint": 58134,
+      "font": "Jam",
+      "name": "subtraction",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 58144,
+      "font": "Jam",
+      "name": "tab",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "advance": 1428,
+      "codepoint": 58212,
+      "font": "Jam",
+      "name": "union",
+      "prefix": "jam",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57485,
+      "contentWidth": 1250,
+      "font": "Jam",
+      "name": "browse",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57617,
+      "contentWidth": 1254,
+      "font": "Jam",
+      "name": "code",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57618,
+      "contentWidth": 1287,
+      "font": "Jam",
+      "name": "code-sample",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57663,
+      "contentWidth": 1429,
+      "font": "Jam",
+      "name": "differenciation",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57843,
+      "contentWidth": 1431,
+      "font": "Jam",
+      "name": "intersection",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57869,
+      "contentWidth": 1175,
+      "font": "Jam",
+      "name": "ltr",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57982,
+      "contentWidth": 1255,
+      "font": "Jam",
+      "name": "picture-edit",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58021,
+      "contentWidth": 1560,
+      "font": "Jam",
+      "name": "quote",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58034,
+      "contentWidth": 1179,
+      "font": "Jam",
+      "name": "rtl",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58049,
+      "contentWidth": 1113,
+      "font": "Jam",
+      "name": "select-all",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58134,
+      "contentWidth": 1454,
+      "font": "Jam",
+      "name": "subtraction",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58144,
+      "contentWidth": 1252,
+      "font": "Jam",
+      "name": "tab",
+      "prefix": "jam",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 58212,
+      "contentWidth": 1454,
+      "font": "Jam",
+      "name": "union",
+      "prefix": "jam",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "jam",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Jam",
+      "glyphCount": 940,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1560,
+        "xMin": -12,
+        "yMax": 1013,
+        "yMin": -13
+      },
+      "hhea": {
+        "advanceWidthMax": 1555,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 13
+      }
+    }
+  ]
+}

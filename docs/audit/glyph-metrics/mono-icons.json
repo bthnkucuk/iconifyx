@@ -1,0 +1,69 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "MonoIcons",
+      "glyphName": "drag",
+      "prefix": "mono-icons",
+      "sampleIcons": [
+        "drag",
+        "reorder"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MonoIcons",
+      "glyphName": "filter-1",
+      "prefix": "mono-icons",
+      "sampleIcons": [
+        "filter-1",
+        "filter-alt"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "MonoIcons",
+      "headBbox": "0..936 / 0..923",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "mono-icons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "mono-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "MonoIcons",
+      "glyphCount": 180,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 923,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

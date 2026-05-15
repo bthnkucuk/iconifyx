@@ -1,0 +1,395 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Mingcute",
+      "glyphName": "tower-2-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "tower-2-fill",
+        "tv-towe-fill",
+        "tv-tower-fill"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Mingcute",
+      "glyphName": "tower-2-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "tower-2-line",
+        "tv-towe-line",
+        "tv-tower-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "arow-to-down-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "arow-to-down-fill",
+        "arrow-to-down-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "arow-to-down-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "arow-to-down-line",
+        "arrow-to-down-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "arow-to-left-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "arow-to-left-fill",
+        "arrow-to-left-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "arow-to-left-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "arow-to-left-line",
+        "arrow-to-left-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "arow-to-right-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "arow-to-right-fill",
+        "arrow-to-right-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "arow-to-right-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "arow-to-right-line",
+        "arrow-to-right-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "arow-to-up-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "arow-to-up-fill",
+        "arrow-to-up-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "arow-to-up-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "arow-to-up-line",
+        "arrow-to-up-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "bank-of-china-tower-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "bank-of-china-tower-fill",
+        "tower-4-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "bank-of-china-tower-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "bank-of-china-tower-line",
+        "tower-4-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "canton-tower-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "canton-tower-fill",
+        "tower-3-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "canton-tower-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "canton-tower-line",
+        "tower-3-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "exchange-baht-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "exchange-baht-fill",
+        "exchange-bitcoin-2-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "exchange-baht-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "exchange-baht-line",
+        "exchange-bitcoin-2-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "file-info-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "file-info-fill",
+        "file-infor-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "file-info-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "file-info-line",
+        "file-infor-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "folder-info-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "folder-info-fill",
+        "folder-infor-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "folder-info-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "folder-info-line",
+        "folder-infor-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "ins-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "ins-fill",
+        "instagram-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "ins-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "ins-line",
+        "instagram-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "kingkey-100-tower-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "kingkey-100-tower-fill",
+        "tower-5-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "kingkey-100-tower-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "kingkey-100-tower-line",
+        "tower-5-line"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "palace-2-fill",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "palace-2-fill",
+        "temple-of-heaven-fill"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Mingcute",
+      "glyphName": "palace-2-line",
+      "prefix": "mingcute",
+      "sampleIcons": [
+        "palace-2-line",
+        "temple-of-heaven-line"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 59208,
+      "icon": "loading-3-fill",
+      "prefix": "mingcute",
+      "primary": {
+        "xMax": 566,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "Mingcute",
+      "score": 380,
+      "secondary": {
+        "xMax": 946,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "MingcuteSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 59209,
+      "icon": "loading-3-line",
+      "prefix": "mingcute",
+      "primary": {
+        "xMax": 543,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "primaryFont": "Mingcute",
+      "score": 374,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "secondaryFont": "MingcuteSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "Mingcute",
+      "headBbox": "-2..1002 / 0..1003",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "mingcute",
+      "reasons": [
+        "head.xMin=-2",
+        "head.xMax=1002",
+        "head.yMax=1003",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "MingcuteSecondary",
+      "headBbox": "0..946 / 0..937",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "mingcute",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "mingcute",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Mingcute",
+      "glyphCount": 3352,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1002,
+        "xMin": -2,
+        "yMax": 1003,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "MingcuteSecondary",
+      "glyphCount": 2,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 946,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

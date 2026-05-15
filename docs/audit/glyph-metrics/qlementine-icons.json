@@ -1,0 +1,728 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "aiff-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "aiff-16",
+        "mac-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "boolean-exclude-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "boolean-exclude-16",
+        "boolean-intersect-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "case-title-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "case-title-16",
+        "match-case-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "fill-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "fill-16",
+        "justify-fill-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "icon-pause-music-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "icon-pause-music-16",
+        "pause-music-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "icon-start-music-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "icon-start-music-16",
+        "start-music-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "icon-stop-music-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "icon-stop-music-16",
+        "stop-music-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "losange-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "losange-16",
+        "square-rotated-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "losange-filled-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "losange-filled-16",
+        "square-rotated-filled-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "modified-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "modified-16",
+        "radio-tick-16"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "sort-time-asc-24",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "sort-time-asc-24",
+        "sort-time-desc-24"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "QlementineIcons",
+      "glyphName": "wav-16",
+      "prefix": "qlementine-icons",
+      "sampleIcons": [
+        "wav-16",
+        "wave-16"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 58160,
+      "icon": "ui-panels-right-bottom-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 1001,
+        "xMin": -1,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 752,
+      "secondary": {
+        "xMax": 250,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57366,
+      "icon": "anchor-bottom-left-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 250,
+        "xMin": 0,
+        "yMax": 252,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 751,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57369,
+      "icon": "anchor-center-left-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 250,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 751,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57372,
+      "icon": "anchor-top-left-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 250,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 751,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57951,
+      "icon": "quality-1-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 189,
+        "xMin": 0,
+        "yMax": 377,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 750,
+      "secondary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57563,
+      "icon": "enlarge-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": -1
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 625,
+      "secondary": {
+        "xMax": 375,
+        "xMin": 0,
+        "yMax": 375,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57472,
+      "icon": "chevron-smooth-left-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 315,
+        "xMin": -1,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 622,
+      "secondary": {
+        "xMax": 936,
+        "xMin": 0,
+        "yMax": 815,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57633,
+      "icon": "gamepad-button-left-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 374,
+        "xMin": 0,
+        "yMax": 688,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 567,
+      "secondary": {
+        "xMax": 941,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57952,
+      "icon": "quality-2-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 439,
+        "xMin": 0,
+        "yMax": 502,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 500,
+      "secondary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58095,
+      "icon": "stereo-left-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 632,
+        "xMin": -6,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 381,
+      "secondary": {
+        "xMax": 1007,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58096,
+      "icon": "stereo-right-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 1007,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 381,
+      "secondary": {
+        "xMax": 632,
+        "xMin": -6,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57367,
+      "icon": "anchor-bottom-middle-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 252,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 376,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57370,
+      "icon": "anchor-center-middle-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 376,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57373,
+      "icon": "anchor-top-middle-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 376,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57634,
+      "icon": "gamepad-button-right-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 999,
+        "xMin": 0,
+        "yMax": 688,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 368,
+      "secondary": {
+        "xMax": 631,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57883,
+      "icon": "pages-first-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 689,
+        "xMin": -1,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 312,
+      "secondary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57884,
+      "icon": "pages-last-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 311,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57473,
+      "icon": "chevron-smooth-right-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 308,
+      "secondary": {
+        "xMax": 692,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57777,
+      "icon": "light-bulb-on-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 1004,
+        "xMin": -3,
+        "yMax": 1004,
+        "yMin": -3
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 257,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57632,
+      "icon": "gamepad-button-bottom-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 690,
+        "xMin": 0,
+        "yMax": 375,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 251,
+      "secondary": {
+        "xMax": 941,
+        "xMin": 0,
+        "yMax": 937,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57635,
+      "icon": "gamepad-button-top-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 690,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 251,
+      "secondary": {
+        "xMax": 941,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57434,
+      "icon": "buffer-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57953,
+      "icon": "quality-3-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 688,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 939,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57428,
+      "icon": "boolean-intersect-16",
+      "prefix": "qlementine-icons",
+      "primary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 939,
+        "yMin": 0
+      },
+      "primaryFont": "QlementineIcons",
+      "score": 248,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "secondaryFont": "QlementineIconsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "QlementineIcons",
+      "headBbox": "-15..1016 / -20..1011",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 20,
+      "prefix": "qlementine-icons",
+      "reasons": [
+        "head.xMin=-15",
+        "head.xMax=1016",
+        "head.yMin=-20",
+        "head.yMax=1011",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=20"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "QlementineIconsSecondary",
+      "headBbox": "-6..1007 / 0..1000",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "qlementine-icons",
+      "reasons": [
+        "head.xMin=-6",
+        "head.xMax=1007",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 941,
+      "codepoint": 57706,
+      "font": "QlementineIcons",
+      "name": "hourglass-16",
+      "prefix": "qlementine-icons",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "qlementine-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "QlementineIcons",
+      "glyphCount": 885,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1016,
+        "xMin": -15,
+        "yMax": 1011,
+        "yMin": -20
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 20
+      }
+    },
+    {
+      "error": null,
+      "font": "QlementineIconsSecondary",
+      "glyphCount": 45,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1007,
+        "xMin": -6,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

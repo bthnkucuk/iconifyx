@@ -1,0 +1,53 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Nonicons",
+      "headBbox": "-13..1005 / -14..1004",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 14,
+      "prefix": "nonicons",
+      "reasons": [
+        "head.xMin=-13",
+        "head.xMax=1005",
+        "head.yMin=-14",
+        "head.yMax=1004",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=14"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "nonicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Nonicons",
+      "glyphCount": 69,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1005,
+        "xMin": -13,
+        "yMax": 1004,
+        "yMin": -14
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 14
+      }
+    }
+  ]
+}

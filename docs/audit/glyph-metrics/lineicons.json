@@ -1,0 +1,1219 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Lineicons",
+      "headBbox": "-4..1007 / 0..989",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "lineicons",
+      "reasons": [
+        "head.xMin=-4",
+        "head.xMax=1007",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1041,
+      "codepoint": 57349,
+      "font": "Lineicons",
+      "name": "agenda",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57355,
+      "font": "Lineicons",
+      "name": "align-text-center",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57356,
+      "font": "Lineicons",
+      "name": "align-text-left",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57357,
+      "font": "Lineicons",
+      "name": "align-text-right",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57421,
+      "font": "Lineicons",
+      "name": "beat",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57429,
+      "font": "Lineicons",
+      "name": "bitcoin",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57439,
+      "font": "Lineicons",
+      "name": "bold",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57441,
+      "font": "Lineicons",
+      "name": "bolt-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57442,
+      "font": "Lineicons",
+      "name": "bolt-3",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57454,
+      "font": "Lineicons",
+      "name": "box-archive-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57455,
+      "font": "Lineicons",
+      "name": "box-closed",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57456,
+      "font": "Lineicons",
+      "name": "box-gift-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57458,
+      "font": "Lineicons",
+      "name": "bricks",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57462,
+      "font": "Lineicons",
+      "name": "briefcase-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57463,
+      "font": "Lineicons",
+      "name": "briefcase-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57465,
+      "font": "Lineicons",
+      "name": "briefcase-plus-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57467,
+      "font": "Lineicons",
+      "name": "brush-1-rotated",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57468,
+      "font": "Lineicons",
+      "name": "brush-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57473,
+      "font": "Lineicons",
+      "name": "bug-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57476,
+      "font": "Lineicons",
+      "name": "bulb-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57477,
+      "font": "Lineicons",
+      "name": "bulb-4",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57484,
+      "font": "Lineicons",
+      "name": "busket-ball",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57495,
+      "font": "Lineicons",
+      "name": "camera-movie-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57502,
+      "font": "Lineicons",
+      "name": "capsule-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57525,
+      "font": "Lineicons",
+      "name": "chevron-down",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57526,
+      "font": "Lineicons",
+      "name": "chevron-down-circle",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57527,
+      "font": "Lineicons",
+      "name": "chevron-left",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57528,
+      "font": "Lineicons",
+      "name": "chevron-left-circle",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57530,
+      "font": "Lineicons",
+      "name": "chevron-right-circle",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57531,
+      "font": "Lineicons",
+      "name": "chevron-up",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57532,
+      "font": "Lineicons",
+      "name": "chevron-up-circle",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57538,
+      "font": "Lineicons",
+      "name": "claude",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57540,
+      "font": "Lineicons",
+      "name": "clipboard",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57559,
+      "font": "Lineicons",
+      "name": "code-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57561,
+      "font": "Lineicons",
+      "name": "code-s",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57569,
+      "font": "Lineicons",
+      "name": "colour-palette-3",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57587,
+      "font": "Lineicons",
+      "name": "crane-4",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57589,
+      "font": "Lineicons",
+      "name": "credit-card-multiple",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57592,
+      "font": "Lineicons",
+      "name": "crop-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57601,
+      "font": "Lineicons",
+      "name": "dashboard-square-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57627,
+      "font": "Lineicons",
+      "name": "dollar-circle",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57629,
+      "font": "Lineicons",
+      "name": "double-quotes-end-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57631,
+      "font": "Lineicons",
+      "name": "download-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57632,
+      "font": "Lineicons",
+      "name": "download-circle-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1015,
+      "codepoint": 57660,
+      "font": "Lineicons",
+      "name": "ethereum",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57666,
+      "font": "Lineicons",
+      "name": "expand-arrow-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57667,
+      "font": "Lineicons",
+      "name": "expand-square-4",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57669,
+      "font": "Lineicons",
+      "name": "eye",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57670,
+      "font": "Lineicons",
+      "name": "facebook",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57702,
+      "font": "Lineicons",
+      "name": "flower-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57715,
+      "font": "Lineicons",
+      "name": "gallery",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57720,
+      "font": "Lineicons",
+      "name": "gear-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57721,
+      "font": "Lineicons",
+      "name": "gears-3",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57747,
+      "font": "Lineicons",
+      "name": "hammer-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57748,
+      "font": "Lineicons",
+      "name": "hammer-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57769,
+      "font": "Lineicons",
+      "name": "helmet-safety-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57771,
+      "font": "Lineicons",
+      "name": "hierarchy-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57774,
+      "font": "Lineicons",
+      "name": "highlighter-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57775,
+      "font": "Lineicons",
+      "name": "highlighter-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57787,
+      "font": "Lineicons",
+      "name": "indent",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57793,
+      "font": "Lineicons",
+      "name": "injection-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57804,
+      "font": "Lineicons",
+      "name": "island-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57827,
+      "font": "Lineicons",
+      "name": "layers-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57829,
+      "font": "Lineicons",
+      "name": "layout-26",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57830,
+      "font": "Lineicons",
+      "name": "layout-9",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57832,
+      "font": "Lineicons",
+      "name": "leaf-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57833,
+      "font": "Lineicons",
+      "name": "leaf-6",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57840,
+      "font": "Lineicons",
+      "name": "line-dashed",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57841,
+      "font": "Lineicons",
+      "name": "line-dotted",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57843,
+      "font": "Lineicons",
+      "name": "line-height",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57862,
+      "font": "Lineicons",
+      "name": "magnet",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57867,
+      "font": "Lineicons",
+      "name": "map-marker-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57875,
+      "font": "Lineicons",
+      "name": "megaphone-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57877,
+      "font": "Lineicons",
+      "name": "menu-cheesburger",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57878,
+      "font": "Lineicons",
+      "name": "menu-hamburger-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57879,
+      "font": "Lineicons",
+      "name": "menu-meatballs-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57880,
+      "font": "Lineicons",
+      "name": "menu-meatballs-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1015,
+      "codepoint": 57886,
+      "font": "Lineicons",
+      "name": "meta-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1015,
+      "codepoint": 57887,
+      "font": "Lineicons",
+      "name": "meta-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57892,
+      "font": "Lineicons",
+      "name": "microscope",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57908,
+      "font": "Lineicons",
+      "name": "mountains-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57913,
+      "font": "Lineicons",
+      "name": "mushroom-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57914,
+      "font": "Lineicons",
+      "name": "mushroom-5",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57915,
+      "font": "Lineicons",
+      "name": "music",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57921,
+      "font": "Lineicons",
+      "name": "next-step-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 57936,
+      "font": "Lineicons",
+      "name": "open-ai",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57940,
+      "font": "Lineicons",
+      "name": "outdent",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57944,
+      "font": "Lineicons",
+      "name": "page-break-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57945,
+      "font": "Lineicons",
+      "name": "pagination",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57946,
+      "font": "Lineicons",
+      "name": "paint-bucket",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57949,
+      "font": "Lineicons",
+      "name": "paint-roller-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57952,
+      "font": "Lineicons",
+      "name": "paperclip-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57956,
+      "font": "Lineicons",
+      "name": "pause",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57967,
+      "font": "Lineicons",
+      "name": "photos",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57971,
+      "font": "Lineicons",
+      "name": "pilcrow",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57978,
+      "font": "Lineicons",
+      "name": "placeholder-dollar",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57981,
+      "font": "Lineicons",
+      "name": "play",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 57987,
+      "font": "Lineicons",
+      "name": "plug-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58003,
+      "font": "Lineicons",
+      "name": "previous-step-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58023,
+      "font": "Lineicons",
+      "name": "refresh-circle-1-clockwise",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58024,
+      "font": "Lineicons",
+      "name": "refresh-dollar-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58025,
+      "font": "Lineicons",
+      "name": "refresh-user-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58038,
+      "font": "Lineicons",
+      "name": "rss-right",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58040,
+      "font": "Lineicons",
+      "name": "ruler-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58042,
+      "font": "Lineicons",
+      "name": "ruler-pen",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58059,
+      "font": "Lineicons",
+      "name": "search-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58060,
+      "font": "Lineicons",
+      "name": "search-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58062,
+      "font": "Lineicons",
+      "name": "search-minus",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58063,
+      "font": "Lineicons",
+      "name": "search-plus",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58064,
+      "font": "Lineicons",
+      "name": "search-text",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58066,
+      "font": "Lineicons",
+      "name": "select-cursor-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58068,
+      "font": "Lineicons",
+      "name": "seo-monitor",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58079,
+      "font": "Lineicons",
+      "name": "shield-dollar",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58088,
+      "font": "Lineicons",
+      "name": "shovel",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58089,
+      "font": "Lineicons",
+      "name": "shuffle",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58100,
+      "font": "Lineicons",
+      "name": "slice-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58101,
+      "font": "Lineicons",
+      "name": "sliders-horizontal-square-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58107,
+      "font": "Lineicons",
+      "name": "sort-alphabetical",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58110,
+      "font": "Lineicons",
+      "name": "sort-high-to-low",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58115,
+      "font": "Lineicons",
+      "name": "spellcheck",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58121,
+      "font": "Lineicons",
+      "name": "sports",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58129,
+      "font": "Lineicons",
+      "name": "stamp",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 960,
+      "codepoint": 58131,
+      "font": "Lineicons",
+      "name": "star-fat",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58132,
+      "font": "Lineicons",
+      "name": "star-fat-half-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58140,
+      "font": "Lineicons",
+      "name": "stethoscope-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58146,
+      "font": "Lineicons",
+      "name": "strikethrough-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58178,
+      "font": "Lineicons",
+      "name": "text-format",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58179,
+      "font": "Lineicons",
+      "name": "text-format-remove",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58180,
+      "font": "Lineicons",
+      "name": "text-paragraph",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58206,
+      "font": "Lineicons",
+      "name": "tree-2",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58214,
+      "font": "Lineicons",
+      "name": "trowel-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58227,
+      "font": "Lineicons",
+      "name": "underline",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58234,
+      "font": "Lineicons",
+      "name": "upload-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58235,
+      "font": "Lineicons",
+      "name": "upload-circle-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58237,
+      "font": "Lineicons",
+      "name": "user-4",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58238,
+      "font": "Lineicons",
+      "name": "user-multiple-4",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58242,
+      "font": "Lineicons",
+      "name": "vector-nodes-6",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58243,
+      "font": "Lineicons",
+      "name": "vector-nodes-7",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58253,
+      "font": "Lineicons",
+      "name": "volume-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58254,
+      "font": "Lineicons",
+      "name": "volume-high",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58255,
+      "font": "Lineicons",
+      "name": "volume-low",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58257,
+      "font": "Lineicons",
+      "name": "volume-mute",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58258,
+      "font": "Lineicons",
+      "name": "volume-off",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58262,
+      "font": "Lineicons",
+      "name": "wallet-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58272,
+      "font": "Lineicons",
+      "name": "weight-machine-1",
+      "prefix": "lineicons",
+      "reason": "advance"
+    },
+    {
+      "advance": 1041,
+      "codepoint": 58296,
+      "font": "Lineicons",
+      "name": "yen",
+      "prefix": "lineicons",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "lineicons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Lineicons",
+      "glyphCount": 962,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1007,
+        "xMin": -4,
+        "yMax": 989,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1041,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

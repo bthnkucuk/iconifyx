@@ -1,0 +1,278 @@
+{
+  "dedupCollisions": [],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Brandico",
+      "headBbox": "-14..1232 / -27..1011",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 27,
+      "prefix": "brandico",
+      "reasons": [
+        "head.xMin=-14",
+        "head.xMax=1232",
+        "head.yMin=-27",
+        "head.yMax=1011",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=27"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 990,
+      "codepoint": 57346,
+      "font": "Brandico",
+      "name": "blogger",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 704,
+      "codepoint": 57348,
+      "font": "Brandico",
+      "name": "box",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 988,
+      "codepoint": 57350,
+      "font": "Brandico",
+      "name": "codepen",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 57351,
+      "font": "Brandico",
+      "name": "deviantart",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57352,
+      "font": "Brandico",
+      "name": "diigo",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 486,
+      "codepoint": 57354,
+      "font": "Brandico",
+      "name": "facebook",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 957,
+      "codepoint": 57356,
+      "font": "Brandico",
+      "name": "friendfeed",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 1227,
+      "codepoint": 57358,
+      "font": "Brandico",
+      "name": "github",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 924,
+      "codepoint": 57359,
+      "font": "Brandico",
+      "name": "github-text",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 577,
+      "codepoint": 57361,
+      "font": "Brandico",
+      "name": "houzz",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 981,
+      "codepoint": 57362,
+      "font": "Brandico",
+      "name": "icq",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 667,
+      "codepoint": 57365,
+      "font": "Brandico",
+      "name": "jabber",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 994,
+      "codepoint": 57366,
+      "font": "Brandico",
+      "name": "lastfm",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 1046,
+      "codepoint": 57368,
+      "font": "Brandico",
+      "name": "linkedin",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 579,
+      "codepoint": 57371,
+      "font": "Brandico",
+      "name": "odnoklassniki",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 927,
+      "codepoint": 57373,
+      "font": "Brandico",
+      "name": "picasa",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57374,
+      "font": "Brandico",
+      "name": "skype",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 998,
+      "codepoint": 57375,
+      "font": "Brandico",
+      "name": "tudou",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 616,
+      "codepoint": 57376,
+      "font": "Brandico",
+      "name": "tumblr",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 748,
+      "codepoint": 57378,
+      "font": "Brandico",
+      "name": "twitter",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 1231,
+      "codepoint": 57379,
+      "font": "Brandico",
+      "name": "twitter-bird",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 1158,
+      "codepoint": 57380,
+      "font": "Brandico",
+      "name": "vimeo",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 986,
+      "codepoint": 57383,
+      "font": "Brandico",
+      "name": "win8",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 995,
+      "codepoint": 57384,
+      "font": "Brandico",
+      "name": "wordpress",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "advance": 580,
+      "codepoint": 57385,
+      "font": "Brandico",
+      "name": "yandex",
+      "prefix": "brandico",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57358,
+      "contentWidth": 1229,
+      "font": "Brandico",
+      "name": "github",
+      "prefix": "brandico",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57379,
+      "contentWidth": 1233,
+      "font": "Brandico",
+      "name": "twitter-bird",
+      "prefix": "brandico",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57380,
+      "contentWidth": 1170,
+      "font": "Brandico",
+      "name": "vimeo",
+      "prefix": "brandico",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "brandico",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Brandico",
+      "glyphCount": 44,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1232,
+        "xMin": -14,
+        "yMax": 1011,
+        "yMin": -27
+      },
+      "hhea": {
+        "advanceWidthMax": 1231,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 27
+      }
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 8,
+      "font": "DuoIconsSecondary",
+      "glyphName": "add-circle",
+      "prefix": "duo-icons",
+      "sampleIcons": [
+        "add-circle",
+        "appstore",
+        "chart-pie",
+        "check-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "DuoIconsSecondary",
+      "glyphName": "clapperboard",
+      "prefix": "duo-icons",
+      "sampleIcons": [
+        "clapperboard",
+        "id-card"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57429,
+      "icon": "toggle",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 419,
+        "xMin": 0,
+        "yMax": 586,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 539,
+      "secondary": {
+        "xMax": 958,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57357,
+      "icon": "baby-carriage",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 436,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 481,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57374,
+      "icon": "building",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 459,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 458,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57418,
+      "icon": "moon-stars",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 454,
+        "xMin": 0,
+        "yMax": 885,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 422,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 870,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57348,
+      "icon": "align-bottom",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 417,
+      "secondary": {
+        "xMax": 459,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57351,
+      "icon": "app",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 458,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 417,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57352,
+      "icon": "app-dots",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 482,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 417,
+      "secondary": {
+        "xMax": 899,
+        "xMin": 0,
+        "yMax": 896,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57399,
+      "icon": "dashboard",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 459,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 417,
+      "secondary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57347,
+      "icon": "alert-triangle",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 669,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 381,
+      "secondary": {
+        "xMax": 923,
+        "xMin": 0,
+        "yMax": 900,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57346,
+      "icon": "alert-octagon",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 752,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 375,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57408,
+      "icon": "info",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 553,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 363,
+      "secondary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 922,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57380,
+      "icon": "campground",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 622,
+        "xMin": 0,
+        "yMax": 300,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 337,
+      "secondary": {
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57401,
+      "icon": "disk",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 585,
+        "xMin": 0,
+        "yMax": 761,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 332,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57359,
+      "icon": "battery",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 586,
+        "xMin": 0,
+        "yMax": 754,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 331,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57390,
+      "icon": "cloud-lightning",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 479,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 292,
+      "secondary": {
+        "xMax": 918,
+        "xMin": 0,
+        "yMax": 921,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57421,
+      "icon": "settings",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 631,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 285,
+      "secondary": {
+        "xMax": 916,
+        "xMin": 0,
+        "yMax": 900,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57405,
+      "icon": "folder-upload",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 639,
+        "xMin": 0,
+        "yMax": 617,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 278,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57345,
+      "icon": "airplay",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 642,
+        "xMin": 0,
+        "yMax": 307,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 275,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57409,
+      "icon": "lamp",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 755,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 262,
+      "secondary": {
+        "xMax": 846,
+        "xMin": 0,
+        "yMax": 923,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57368,
+      "icon": "bread",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 620,
+        "xMin": 0,
+        "yMax": 785,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 257,
+      "secondary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 886,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57391,
+      "icon": "cloud-snow",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 666,
+        "xMin": 0,
+        "yMax": 459,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 253,
+      "secondary": {
+        "xMax": 919,
+        "xMin": 0,
+        "yMax": 921,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57400,
+      "icon": "discount",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 669,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 252,
+      "secondary": {
+        "xMax": 919,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57360,
+      "icon": "bell",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 624,
+        "xMin": 0,
+        "yMax": 209,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 251,
+      "secondary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 922,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57369,
+      "icon": "bridge",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 375,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57386,
+      "icon": "chip",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57415,
+      "icon": "message-2",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57424,
+      "icon": "smartphone",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 334,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 250,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57422,
+      "icon": "shopping-bag",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 667,
+        "xMin": 0,
+        "yMax": 809,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 247,
+      "secondary": {
+        "xMax": 914,
+        "xMin": 0,
+        "yMax": 895,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57393,
+      "icon": "compass",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 680,
+        "xMin": 0,
+        "yMax": 680,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 237,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57353,
+      "icon": "apple",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 616,
+        "xMin": 0,
+        "yMax": 922,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 235,
+      "secondary": {
+        "xMax": 851,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57354,
+      "icon": "approved",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 702,
+        "xMin": 0,
+        "yMax": 637,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 235,
+      "secondary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 942,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57398,
+      "icon": "currency-euro",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 686,
+        "xMin": 0,
+        "yMax": 727,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 231,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57420,
+      "icon": "rocket",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 673,
+        "xMin": 0,
+        "yMax": 674,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 215,
+      "secondary": {
+        "xMax": 888,
+        "xMin": 0,
+        "yMax": 887,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57428,
+      "icon": "target",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 210,
+      "secondary": {
+        "xMax": 919,
+        "xMin": 0,
+        "yMax": 919,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57344,
+      "icon": "add-circle",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 710,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 208,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 918,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57358,
+      "icon": "bank",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 755,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 208,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 914,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57414,
+      "icon": "message",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 208,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57423,
+      "icon": "slideshow",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 710,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 208,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57403,
+      "icon": "fire",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 627,
+        "xMin": 0,
+        "yMax": 462,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 207,
+      "secondary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57378,
+      "icon": "camera",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 711,
+        "xMin": 0,
+        "yMax": 687,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 206,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57373,
+      "icon": "bug",
+      "prefix": "duo-icons",
+      "primary": {
+        "xMax": 717,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "DuoIcons",
+      "score": 200,
+      "secondary": {
+        "xMax": 917,
+        "xMin": 0,
+        "yMax": 754,
+        "yMin": 0
+      },
+      "secondaryFont": "DuoIconsSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "DuoIcons",
+      "headBbox": "0..959 / 0..959",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "duo-icons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "DuoIconsSecondary",
+      "headBbox": "0..959 / 0..960",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "duo-icons",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "duo-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "DuoIcons",
+      "glyphCount": 91,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 959,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "DuoIconsSecondary",
+      "glyphCount": 91,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 959,
+        "xMin": 0,
+        "yMax": 960,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

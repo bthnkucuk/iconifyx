@@ -1,0 +1,174 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "airbrake",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "airbrake",
+        "airbrakedotio"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "amazonaws",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "amazonaws",
+        "amazonwebservices"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "chromecast",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "chromecast",
+        "googlecast"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "d3",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "d3",
+        "d3dotjs"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "deutschetelekom",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "deutschetelekom",
+        "tmobile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "empirekred",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "empirekred",
+        "kred"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "heroui",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "heroui",
+        "nextui"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "nuxt",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "nuxt",
+        "nuxtdotjs"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "qq",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "qq",
+        "tencentqq"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "renovate",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "renovate",
+        "renovatebot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "rstudio",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "rstudio",
+        "rstudioide"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "SimpleIcons",
+      "glyphName": "windows",
+      "prefix": "simple-icons",
+      "sampleIcons": [
+        "windows",
+        "windows11"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "SimpleIcons",
+      "headBbox": "-20..1021 / -63..1050",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 63,
+      "prefix": "simple-icons",
+      "reasons": [
+        "head.xMin=-20",
+        "head.xMax=1021",
+        "head.yMin=-63",
+        "head.yMax=1050",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=63"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "simple-icons",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "SimpleIcons",
+      "glyphCount": 3576,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1021,
+        "xMin": -20,
+        "yMax": 1050,
+        "yMin": -63
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 63
+      }
+    }
+  ]
+}

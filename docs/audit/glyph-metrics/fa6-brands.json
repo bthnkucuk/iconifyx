@@ -1,0 +1,4181 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "behance-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "behance-square",
+        "square-behance"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "dribbble-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "dribbble-square",
+        "square-dribbble"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "facebook-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "facebook-square",
+        "square-facebook"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "git-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "git-square",
+        "square-git"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "github-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "github-square",
+        "square-github"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "google-plus-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "google-plus-square",
+        "square-google-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "hacker-news-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "hacker-news-square",
+        "square-hacker-news"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "instagram-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "instagram-square",
+        "square-instagram"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "js-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "js-square",
+        "square-js"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "lastfm-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "lastfm-square",
+        "square-lastfm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "odnoklassniki-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "odnoklassniki-square",
+        "square-odnoklassniki"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "pied-piper-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "pied-piper-square",
+        "square-pied-piper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "pinterest-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "pinterest-square",
+        "square-pinterest"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "reddit-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "reddit-square",
+        "square-reddit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "snapchat-square",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "snapchat-square",
+        "square-snapchat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "square-steam",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "square-steam",
+        "steam-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "square-tumblr",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "square-tumblr",
+        "tumblr-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "square-twitter",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "square-twitter",
+        "twitter-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "square-viadeo",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "square-viadeo",
+        "viadeo-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "square-vimeo",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "square-vimeo",
+        "vimeo-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "square-whatsapp",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "square-whatsapp",
+        "whatsapp-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "square-xing",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "square-xing",
+        "xing-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa6Brands",
+      "glyphName": "square-youtube",
+      "prefix": "fa6-brands",
+      "sampleIcons": [
+        "square-youtube",
+        "youtube-square"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Fa6Brands",
+      "headBbox": "-17..1262 / -13..1016",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 13,
+      "prefix": "fa6-brands",
+      "reasons": [
+        "head.xMin=-17",
+        "head.xMax=1262",
+        "head.yMin=-13",
+        "head.yMax=1016",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=13"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1250,
+      "codepoint": 57344,
+      "font": "Fa6Brands",
+      "name": "42-group",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57345,
+      "font": "Fa6Brands",
+      "name": "500px",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57346,
+      "font": "Fa6Brands",
+      "name": "accessible-icon",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57347,
+      "font": "Fa6Brands",
+      "name": "accusoft",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57348,
+      "font": "Fa6Brands",
+      "name": "adn",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57351,
+      "font": "Fa6Brands",
+      "name": "airbnb",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57353,
+      "font": "Fa6Brands",
+      "name": "alipay",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57354,
+      "font": "Fa6Brands",
+      "name": "amazon",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57355,
+      "font": "Fa6Brands",
+      "name": "amazon-pay",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57356,
+      "font": "Fa6Brands",
+      "name": "amilia",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57357,
+      "font": "Fa6Brands",
+      "name": "android",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57358,
+      "font": "Fa6Brands",
+      "name": "angellist",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57359,
+      "font": "Fa6Brands",
+      "name": "angrycreative",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57360,
+      "font": "Fa6Brands",
+      "name": "angular",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57362,
+      "font": "Fa6Brands",
+      "name": "app-store-ios",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57363,
+      "font": "Fa6Brands",
+      "name": "apper",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57364,
+      "font": "Fa6Brands",
+      "name": "apple",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57365,
+      "font": "Fa6Brands",
+      "name": "apple-pay",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57367,
+      "font": "Fa6Brands",
+      "name": "asymmetrik",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57369,
+      "font": "Fa6Brands",
+      "name": "audible",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57370,
+      "font": "Fa6Brands",
+      "name": "autoprefixer",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57372,
+      "font": "Fa6Brands",
+      "name": "aviato",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57373,
+      "font": "Fa6Brands",
+      "name": "aws",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57376,
+      "font": "Fa6Brands",
+      "name": "behance",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57377,
+      "font": "Fa6Brands",
+      "name": "behance-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57379,
+      "font": "Fa6Brands",
+      "name": "bimobject",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57382,
+      "font": "Fa6Brands",
+      "name": "bity",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57383,
+      "font": "Fa6Brands",
+      "name": "black-tie",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57385,
+      "font": "Fa6Brands",
+      "name": "blogger",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57386,
+      "font": "Fa6Brands",
+      "name": "blogger-b",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57388,
+      "font": "Fa6Brands",
+      "name": "bluetooth",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57389,
+      "font": "Fa6Brands",
+      "name": "bluetooth-b",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57390,
+      "font": "Fa6Brands",
+      "name": "bootstrap",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57391,
+      "font": "Fa6Brands",
+      "name": "bots",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57392,
+      "font": "Fa6Brands",
+      "name": "brave",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57393,
+      "font": "Fa6Brands",
+      "name": "brave-reverse",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57394,
+      "font": "Fa6Brands",
+      "name": "btc",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57395,
+      "font": "Fa6Brands",
+      "name": "buffer",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57396,
+      "font": "Fa6Brands",
+      "name": "buromobelexperte",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57397,
+      "font": "Fa6Brands",
+      "name": "buy-n-large",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57398,
+      "font": "Fa6Brands",
+      "name": "buysellads",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57400,
+      "font": "Fa6Brands",
+      "name": "cc-amazon-pay",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57401,
+      "font": "Fa6Brands",
+      "name": "cc-amex",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57402,
+      "font": "Fa6Brands",
+      "name": "cc-apple-pay",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57403,
+      "font": "Fa6Brands",
+      "name": "cc-diners-club",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57404,
+      "font": "Fa6Brands",
+      "name": "cc-discover",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57405,
+      "font": "Fa6Brands",
+      "name": "cc-jcb",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57406,
+      "font": "Fa6Brands",
+      "name": "cc-mastercard",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57407,
+      "font": "Fa6Brands",
+      "name": "cc-paypal",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57408,
+      "font": "Fa6Brands",
+      "name": "cc-stripe",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57409,
+      "font": "Fa6Brands",
+      "name": "cc-visa",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57411,
+      "font": "Fa6Brands",
+      "name": "centos",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57414,
+      "font": "Fa6Brands",
+      "name": "cloudflare",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57415,
+      "font": "Fa6Brands",
+      "name": "cloudscale",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1203,
+      "codepoint": 57417,
+      "font": "Fa6Brands",
+      "name": "cloudversify",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57418,
+      "font": "Fa6Brands",
+      "name": "cmplid",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 921,
+      "codepoint": 57420,
+      "font": "Fa6Brands",
+      "name": "codiepie",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57422,
+      "font": "Fa6Brands",
+      "name": "connectdevelop",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57425,
+      "font": "Fa6Brands",
+      "name": "cpanel",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57426,
+      "font": "Fa6Brands",
+      "name": "creative-commons",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57427,
+      "font": "Fa6Brands",
+      "name": "creative-commons-by",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57428,
+      "font": "Fa6Brands",
+      "name": "creative-commons-nc",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57429,
+      "font": "Fa6Brands",
+      "name": "creative-commons-nc-eu",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57430,
+      "font": "Fa6Brands",
+      "name": "creative-commons-nc-jp",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57431,
+      "font": "Fa6Brands",
+      "name": "creative-commons-nd",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57432,
+      "font": "Fa6Brands",
+      "name": "creative-commons-pd",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57433,
+      "font": "Fa6Brands",
+      "name": "creative-commons-pd-alt",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57434,
+      "font": "Fa6Brands",
+      "name": "creative-commons-remix",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57435,
+      "font": "Fa6Brands",
+      "name": "creative-commons-sa",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57436,
+      "font": "Fa6Brands",
+      "name": "creative-commons-sampling",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57437,
+      "font": "Fa6Brands",
+      "name": "creative-commons-sampling-plus",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57438,
+      "font": "Fa6Brands",
+      "name": "creative-commons-share",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57439,
+      "font": "Fa6Brands",
+      "name": "creative-commons-zero",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57440,
+      "font": "Fa6Brands",
+      "name": "critical-role",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57441,
+      "font": "Fa6Brands",
+      "name": "css",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57443,
+      "font": "Fa6Brands",
+      "name": "css3-alt",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 859,
+      "codepoint": 57444,
+      "font": "Fa6Brands",
+      "name": "cuttlefish",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57445,
+      "font": "Fa6Brands",
+      "name": "d-and-d",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57446,
+      "font": "Fa6Brands",
+      "name": "d-and-d-beyond",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57447,
+      "font": "Fa6Brands",
+      "name": "dailymotion",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57449,
+      "font": "Fa6Brands",
+      "name": "dashcube",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57450,
+      "font": "Fa6Brands",
+      "name": "debian",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57451,
+      "font": "Fa6Brands",
+      "name": "deezer",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57452,
+      "font": "Fa6Brands",
+      "name": "delicious",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57454,
+      "font": "Fa6Brands",
+      "name": "deskpro",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57455,
+      "font": "Fa6Brands",
+      "name": "dev",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57456,
+      "font": "Fa6Brands",
+      "name": "deviantart",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57457,
+      "font": "Fa6Brands",
+      "name": "dhl",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57461,
+      "font": "Fa6Brands",
+      "name": "discord",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57462,
+      "font": "Fa6Brands",
+      "name": "discourse",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57463,
+      "font": "Fa6Brands",
+      "name": "dochub",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57464,
+      "font": "Fa6Brands",
+      "name": "docker",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57465,
+      "font": "Fa6Brands",
+      "name": "draft2digital",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57467,
+      "font": "Fa6Brands",
+      "name": "dribbble-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1031,
+      "codepoint": 57468,
+      "font": "Fa6Brands",
+      "name": "dropbox",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57469,
+      "font": "Fa6Brands",
+      "name": "drupal",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 812,
+      "codepoint": 57470,
+      "font": "Fa6Brands",
+      "name": "dyalog",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57471,
+      "font": "Fa6Brands",
+      "name": "earlybirds",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57472,
+      "font": "Fa6Brands",
+      "name": "ebay",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57476,
+      "font": "Fa6Brands",
+      "name": "ello",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57477,
+      "font": "Fa6Brands",
+      "name": "ember",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57478,
+      "font": "Fa6Brands",
+      "name": "empire",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57479,
+      "font": "Fa6Brands",
+      "name": "envira",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57480,
+      "font": "Fa6Brands",
+      "name": "erlang",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57481,
+      "font": "Fa6Brands",
+      "name": "ethereum",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57482,
+      "font": "Fa6Brands",
+      "name": "etsy",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57483,
+      "font": "Fa6Brands",
+      "name": "evernote",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57484,
+      "font": "Fa6Brands",
+      "name": "expeditedssl",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57486,
+      "font": "Fa6Brands",
+      "name": "facebook-f",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57488,
+      "font": "Fa6Brands",
+      "name": "facebook-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57490,
+      "font": "Fa6Brands",
+      "name": "fedex",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57491,
+      "font": "Fa6Brands",
+      "name": "fedora",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57492,
+      "font": "Fa6Brands",
+      "name": "figma",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57496,
+      "font": "Fa6Brands",
+      "name": "first-order",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57497,
+      "font": "Fa6Brands",
+      "name": "first-order-alt",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57498,
+      "font": "Fa6Brands",
+      "name": "firstdraft",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57499,
+      "font": "Fa6Brands",
+      "name": "flickr",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57500,
+      "font": "Fa6Brands",
+      "name": "flipboard",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57501,
+      "font": "Fa6Brands",
+      "name": "flutter",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57502,
+      "font": "Fa6Brands",
+      "name": "fly",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57504,
+      "font": "Fa6Brands",
+      "name": "fonticons",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57505,
+      "font": "Fa6Brands",
+      "name": "fonticons-fi",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57508,
+      "font": "Fa6Brands",
+      "name": "forumbee",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 718,
+      "codepoint": 57509,
+      "font": "Fa6Brands",
+      "name": "foursquare",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57510,
+      "font": "Fa6Brands",
+      "name": "free-code-camp",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57511,
+      "font": "Fa6Brands",
+      "name": "freebsd",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57512,
+      "font": "Fa6Brands",
+      "name": "fulcrum",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57513,
+      "font": "Fa6Brands",
+      "name": "galactic-republic",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57515,
+      "font": "Fa6Brands",
+      "name": "get-pocket",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57519,
+      "font": "Fa6Brands",
+      "name": "git-alt",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57520,
+      "font": "Fa6Brands",
+      "name": "git-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57521,
+      "font": "Fa6Brands",
+      "name": "github",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57522,
+      "font": "Fa6Brands",
+      "name": "github-alt",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57523,
+      "font": "Fa6Brands",
+      "name": "github-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1156,
+      "codepoint": 57524,
+      "font": "Fa6Brands",
+      "name": "gitkraken",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57526,
+      "font": "Fa6Brands",
+      "name": "gitter",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57527,
+      "font": "Fa6Brands",
+      "name": "glide",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57528,
+      "font": "Fa6Brands",
+      "name": "glide-g",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 781,
+      "codepoint": 57529,
+      "font": "Fa6Brands",
+      "name": "gofore",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57530,
+      "font": "Fa6Brands",
+      "name": "golang",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57531,
+      "font": "Fa6Brands",
+      "name": "goodreads",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57532,
+      "font": "Fa6Brands",
+      "name": "goodreads-g",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 953,
+      "codepoint": 57533,
+      "font": "Fa6Brands",
+      "name": "google",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57535,
+      "font": "Fa6Brands",
+      "name": "google-pay",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57538,
+      "font": "Fa6Brands",
+      "name": "google-plus-g",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57539,
+      "font": "Fa6Brands",
+      "name": "google-plus-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57541,
+      "font": "Fa6Brands",
+      "name": "google-wallet",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57542,
+      "font": "Fa6Brands",
+      "name": "gratipay",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57544,
+      "font": "Fa6Brands",
+      "name": "gripfire",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57545,
+      "font": "Fa6Brands",
+      "name": "grunt",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57546,
+      "font": "Fa6Brands",
+      "name": "guilded",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57547,
+      "font": "Fa6Brands",
+      "name": "gulp",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57548,
+      "font": "Fa6Brands",
+      "name": "hacker-news",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57549,
+      "font": "Fa6Brands",
+      "name": "hacker-news-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57552,
+      "font": "Fa6Brands",
+      "name": "hips",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57555,
+      "font": "Fa6Brands",
+      "name": "hooli",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57558,
+      "font": "Fa6Brands",
+      "name": "houzz",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57559,
+      "font": "Fa6Brands",
+      "name": "html5",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57561,
+      "font": "Fa6Brands",
+      "name": "ideal",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57562,
+      "font": "Fa6Brands",
+      "name": "imdb",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57563,
+      "font": "Fa6Brands",
+      "name": "instagram",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57564,
+      "font": "Fa6Brands",
+      "name": "instagram-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57566,
+      "font": "Fa6Brands",
+      "name": "intercom",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57568,
+      "font": "Fa6Brands",
+      "name": "invision",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57569,
+      "font": "Fa6Brands",
+      "name": "ioxhost",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57571,
+      "font": "Fa6Brands",
+      "name": "itunes",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57572,
+      "font": "Fa6Brands",
+      "name": "itunes-note",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57573,
+      "font": "Fa6Brands",
+      "name": "java",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57574,
+      "font": "Fa6Brands",
+      "name": "jedi-order",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57576,
+      "font": "Fa6Brands",
+      "name": "jira",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57577,
+      "font": "Fa6Brands",
+      "name": "joget",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57578,
+      "font": "Fa6Brands",
+      "name": "joomla",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57579,
+      "font": "Fa6Brands",
+      "name": "js",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57580,
+      "font": "Fa6Brands",
+      "name": "js-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57581,
+      "font": "Fa6Brands",
+      "name": "jsfiddle",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57582,
+      "font": "Fa6Brands",
+      "name": "jxl",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57583,
+      "font": "Fa6Brands",
+      "name": "kaggle",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57584,
+      "font": "Fa6Brands",
+      "name": "keybase",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57586,
+      "font": "Fa6Brands",
+      "name": "kickstarter",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57587,
+      "font": "Fa6Brands",
+      "name": "kickstarter-k",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 871,
+      "codepoint": 57588,
+      "font": "Fa6Brands",
+      "name": "korvue",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57591,
+      "font": "Fa6Brands",
+      "name": "lastfm-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57592,
+      "font": "Fa6Brands",
+      "name": "leanpub",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57593,
+      "font": "Fa6Brands",
+      "name": "less",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57594,
+      "font": "Fa6Brands",
+      "name": "letterboxd",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57596,
+      "font": "Fa6Brands",
+      "name": "linkedin",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57597,
+      "font": "Fa6Brands",
+      "name": "linkedin-in",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57598,
+      "font": "Fa6Brands",
+      "name": "linode",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57599,
+      "font": "Fa6Brands",
+      "name": "linux",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57601,
+      "font": "Fa6Brands",
+      "name": "magento",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57602,
+      "font": "Fa6Brands",
+      "name": "mailchimp",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57603,
+      "font": "Fa6Brands",
+      "name": "mandalorian",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57604,
+      "font": "Fa6Brands",
+      "name": "markdown",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57605,
+      "font": "Fa6Brands",
+      "name": "mastodon",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57607,
+      "font": "Fa6Brands",
+      "name": "mdb",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57608,
+      "font": "Fa6Brands",
+      "name": "medapps",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57609,
+      "font": "Fa6Brands",
+      "name": "medium",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1062,
+      "codepoint": 57610,
+      "font": "Fa6Brands",
+      "name": "medrt",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57612,
+      "font": "Fa6Brands",
+      "name": "megaport",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57613,
+      "font": "Fa6Brands",
+      "name": "mendeley",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57614,
+      "font": "Fa6Brands",
+      "name": "meta",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57615,
+      "font": "Fa6Brands",
+      "name": "microblog",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57616,
+      "font": "Fa6Brands",
+      "name": "microsoft",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57618,
+      "font": "Fa6Brands",
+      "name": "mix",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57619,
+      "font": "Fa6Brands",
+      "name": "mixcloud",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57621,
+      "font": "Fa6Brands",
+      "name": "mizuni",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57622,
+      "font": "Fa6Brands",
+      "name": "modx",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57623,
+      "font": "Fa6Brands",
+      "name": "monero",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57624,
+      "font": "Fa6Brands",
+      "name": "napster",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57627,
+      "font": "Fa6Brands",
+      "name": "nfc-symbol",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57628,
+      "font": "Fa6Brands",
+      "name": "nimblr",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57629,
+      "font": "Fa6Brands",
+      "name": "node",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57630,
+      "font": "Fa6Brands",
+      "name": "node-js",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57631,
+      "font": "Fa6Brands",
+      "name": "npm",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57632,
+      "font": "Fa6Brands",
+      "name": "ns8",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 781,
+      "codepoint": 57633,
+      "font": "Fa6Brands",
+      "name": "nutritionix",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57635,
+      "font": "Fa6Brands",
+      "name": "odnoklassniki",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57636,
+      "font": "Fa6Brands",
+      "name": "odnoklassniki-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57638,
+      "font": "Fa6Brands",
+      "name": "old-republic",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57639,
+      "font": "Fa6Brands",
+      "name": "opencart",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57640,
+      "font": "Fa6Brands",
+      "name": "openid",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57641,
+      "font": "Fa6Brands",
+      "name": "opensuse",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57642,
+      "font": "Fa6Brands",
+      "name": "opera",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57643,
+      "font": "Fa6Brands",
+      "name": "optin-monster",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57646,
+      "font": "Fa6Brands",
+      "name": "padlet",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57647,
+      "font": "Fa6Brands",
+      "name": "page4",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57648,
+      "font": "Fa6Brands",
+      "name": "pagelines",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57649,
+      "font": "Fa6Brands",
+      "name": "palfed",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57651,
+      "font": "Fa6Brands",
+      "name": "paypal",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57652,
+      "font": "Fa6Brands",
+      "name": "perbyte",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57653,
+      "font": "Fa6Brands",
+      "name": "periscope",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57654,
+      "font": "Fa6Brands",
+      "name": "phabricator",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57655,
+      "font": "Fa6Brands",
+      "name": "phoenix-framework",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57657,
+      "font": "Fa6Brands",
+      "name": "php",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 937,
+      "codepoint": 57658,
+      "font": "Fa6Brands",
+      "name": "pied-piper",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57659,
+      "font": "Fa6Brands",
+      "name": "pied-piper-alt",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57660,
+      "font": "Fa6Brands",
+      "name": "pied-piper-hat",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57661,
+      "font": "Fa6Brands",
+      "name": "pied-piper-pp",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57662,
+      "font": "Fa6Brands",
+      "name": "pied-piper-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57663,
+      "font": "Fa6Brands",
+      "name": "pinterest",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57664,
+      "font": "Fa6Brands",
+      "name": "pinterest-p",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57665,
+      "font": "Fa6Brands",
+      "name": "pinterest-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57667,
+      "font": "Fa6Brands",
+      "name": "pixiv",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57668,
+      "font": "Fa6Brands",
+      "name": "playstation",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 843,
+      "codepoint": 57670,
+      "font": "Fa6Brands",
+      "name": "pushed",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57671,
+      "font": "Fa6Brands",
+      "name": "python",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57672,
+      "font": "Fa6Brands",
+      "name": "qq",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57674,
+      "font": "Fa6Brands",
+      "name": "quora",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1134,
+      "codepoint": 57675,
+      "font": "Fa6Brands",
+      "name": "r-project",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 794,
+      "codepoint": 57676,
+      "font": "Fa6Brands",
+      "name": "raspberry-pi",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57679,
+      "font": "Fa6Brands",
+      "name": "reacteurope",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57680,
+      "font": "Fa6Brands",
+      "name": "readme",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57682,
+      "font": "Fa6Brands",
+      "name": "red-river",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57685,
+      "font": "Fa6Brands",
+      "name": "reddit-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57688,
+      "font": "Fa6Brands",
+      "name": "replyd",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57689,
+      "font": "Fa6Brands",
+      "name": "researchgate",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57690,
+      "font": "Fa6Brands",
+      "name": "resolving",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57691,
+      "font": "Fa6Brands",
+      "name": "rev",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57692,
+      "font": "Fa6Brands",
+      "name": "rocketchat",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57693,
+      "font": "Fa6Brands",
+      "name": "rockrms",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57696,
+      "font": "Fa6Brands",
+      "name": "salesforce",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57697,
+      "font": "Fa6Brands",
+      "name": "sass",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57698,
+      "font": "Fa6Brands",
+      "name": "schlix",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57700,
+      "font": "Fa6Brands",
+      "name": "scribd",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 898,
+      "codepoint": 57701,
+      "font": "Fa6Brands",
+      "name": "searchengin",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57702,
+      "font": "Fa6Brands",
+      "name": "sellcast",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57703,
+      "font": "Fa6Brands",
+      "name": "sellsy",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57704,
+      "font": "Fa6Brands",
+      "name": "servicestack",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57705,
+      "font": "Fa6Brands",
+      "name": "shirtsinbulk",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57707,
+      "font": "Fa6Brands",
+      "name": "shopify",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57711,
+      "font": "Fa6Brands",
+      "name": "sistrix",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57712,
+      "font": "Fa6Brands",
+      "name": "sith",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57713,
+      "font": "Fa6Brands",
+      "name": "sitrox",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57715,
+      "font": "Fa6Brands",
+      "name": "skyatlas",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57716,
+      "font": "Fa6Brands",
+      "name": "skype",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57717,
+      "font": "Fa6Brands",
+      "name": "slack",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57720,
+      "font": "Fa6Brands",
+      "name": "snapchat-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57721,
+      "font": "Fa6Brands",
+      "name": "soundcloud",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57722,
+      "font": "Fa6Brands",
+      "name": "sourcetree",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57724,
+      "font": "Fa6Brands",
+      "name": "speakap",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57726,
+      "font": "Fa6Brands",
+      "name": "spotify",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57727,
+      "font": "Fa6Brands",
+      "name": "behance-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57728,
+      "font": "Fa6Brands",
+      "name": "square-bluesky",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57729,
+      "font": "Fa6Brands",
+      "name": "dribbble-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57730,
+      "font": "Fa6Brands",
+      "name": "facebook-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57731,
+      "font": "Fa6Brands",
+      "name": "square-font-awesome",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57732,
+      "font": "Fa6Brands",
+      "name": "square-font-awesome-stroke",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57733,
+      "font": "Fa6Brands",
+      "name": "git-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57734,
+      "font": "Fa6Brands",
+      "name": "github-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57735,
+      "font": "Fa6Brands",
+      "name": "square-gitlab",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57736,
+      "font": "Fa6Brands",
+      "name": "google-plus-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57737,
+      "font": "Fa6Brands",
+      "name": "hacker-news-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57738,
+      "font": "Fa6Brands",
+      "name": "instagram-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57739,
+      "font": "Fa6Brands",
+      "name": "js-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57740,
+      "font": "Fa6Brands",
+      "name": "lastfm-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57741,
+      "font": "Fa6Brands",
+      "name": "square-letterboxd",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57742,
+      "font": "Fa6Brands",
+      "name": "odnoklassniki-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57743,
+      "font": "Fa6Brands",
+      "name": "pied-piper-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57744,
+      "font": "Fa6Brands",
+      "name": "pinterest-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57745,
+      "font": "Fa6Brands",
+      "name": "reddit-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57746,
+      "font": "Fa6Brands",
+      "name": "snapchat-square",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57747,
+      "font": "Fa6Brands",
+      "name": "square-steam",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57748,
+      "font": "Fa6Brands",
+      "name": "square-threads",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57749,
+      "font": "Fa6Brands",
+      "name": "square-tumblr",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57750,
+      "font": "Fa6Brands",
+      "name": "square-twitter",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57751,
+      "font": "Fa6Brands",
+      "name": "square-upwork",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57752,
+      "font": "Fa6Brands",
+      "name": "square-viadeo",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57753,
+      "font": "Fa6Brands",
+      "name": "square-vimeo",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57754,
+      "font": "Fa6Brands",
+      "name": "square-web-awesome",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57755,
+      "font": "Fa6Brands",
+      "name": "square-web-awesome-stroke",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57756,
+      "font": "Fa6Brands",
+      "name": "square-whatsapp",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57757,
+      "font": "Fa6Brands",
+      "name": "square-x-twitter",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57758,
+      "font": "Fa6Brands",
+      "name": "square-xing",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57759,
+      "font": "Fa6Brands",
+      "name": "square-youtube",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57761,
+      "font": "Fa6Brands",
+      "name": "stack-exchange",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57762,
+      "font": "Fa6Brands",
+      "name": "stack-overflow",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57763,
+      "font": "Fa6Brands",
+      "name": "stackpath",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 859,
+      "codepoint": 57764,
+      "font": "Fa6Brands",
+      "name": "staylinked",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57765,
+      "font": "Fa6Brands",
+      "name": "steam",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57766,
+      "font": "Fa6Brands",
+      "name": "square-steam",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57767,
+      "font": "Fa6Brands",
+      "name": "steam-symbol",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57768,
+      "font": "Fa6Brands",
+      "name": "sticker-mule",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57769,
+      "font": "Fa6Brands",
+      "name": "strava",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57770,
+      "font": "Fa6Brands",
+      "name": "stripe",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57771,
+      "font": "Fa6Brands",
+      "name": "stripe-s",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57772,
+      "font": "Fa6Brands",
+      "name": "stubber",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57775,
+      "font": "Fa6Brands",
+      "name": "stumbleupon-circle",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57776,
+      "font": "Fa6Brands",
+      "name": "superpowers",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57777,
+      "font": "Fa6Brands",
+      "name": "supple",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57778,
+      "font": "Fa6Brands",
+      "name": "suse",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57779,
+      "font": "Fa6Brands",
+      "name": "swift",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57781,
+      "font": "Fa6Brands",
+      "name": "teamspeak",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57782,
+      "font": "Fa6Brands",
+      "name": "telegram",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57783,
+      "font": "Fa6Brands",
+      "name": "tencent-weibo",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57785,
+      "font": "Fa6Brands",
+      "name": "themeco",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57787,
+      "font": "Fa6Brands",
+      "name": "think-peaks",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57788,
+      "font": "Fa6Brands",
+      "name": "threads",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57789,
+      "font": "Fa6Brands",
+      "name": "tiktok",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57790,
+      "font": "Fa6Brands",
+      "name": "trade-federation",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57791,
+      "font": "Fa6Brands",
+      "name": "trello",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57792,
+      "font": "Fa6Brands",
+      "name": "tumblr",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57793,
+      "font": "Fa6Brands",
+      "name": "square-tumblr",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57796,
+      "font": "Fa6Brands",
+      "name": "square-twitter",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57797,
+      "font": "Fa6Brands",
+      "name": "typo3",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57798,
+      "font": "Fa6Brands",
+      "name": "uber",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57799,
+      "font": "Fa6Brands",
+      "name": "ubuntu",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57800,
+      "font": "Fa6Brands",
+      "name": "uikit",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 996,
+      "codepoint": 57801,
+      "font": "Fa6Brands",
+      "name": "umbraco",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57802,
+      "font": "Fa6Brands",
+      "name": "uncharted",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57803,
+      "font": "Fa6Brands",
+      "name": "uniregistry",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57804,
+      "font": "Fa6Brands",
+      "name": "unity",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57805,
+      "font": "Fa6Brands",
+      "name": "unsplash",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57806,
+      "font": "Fa6Brands",
+      "name": "untappd",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57807,
+      "font": "Fa6Brands",
+      "name": "ups",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1251,
+      "codepoint": 57808,
+      "font": "Fa6Brands",
+      "name": "upwork",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57809,
+      "font": "Fa6Brands",
+      "name": "usb",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57810,
+      "font": "Fa6Brands",
+      "name": "usps",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 941,
+      "codepoint": 57811,
+      "font": "Fa6Brands",
+      "name": "ussunnah",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57812,
+      "font": "Fa6Brands",
+      "name": "vaadin",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57813,
+      "font": "Fa6Brands",
+      "name": "viacoin",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57814,
+      "font": "Fa6Brands",
+      "name": "viadeo",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57815,
+      "font": "Fa6Brands",
+      "name": "square-viadeo",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57817,
+      "font": "Fa6Brands",
+      "name": "vimeo",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57818,
+      "font": "Fa6Brands",
+      "name": "square-vimeo",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57819,
+      "font": "Fa6Brands",
+      "name": "vimeo-v",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57820,
+      "font": "Fa6Brands",
+      "name": "vine",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57821,
+      "font": "Fa6Brands",
+      "name": "vk",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57822,
+      "font": "Fa6Brands",
+      "name": "vnv",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57823,
+      "font": "Fa6Brands",
+      "name": "vuejs",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57826,
+      "font": "Fa6Brands",
+      "name": "web-awesome",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57827,
+      "font": "Fa6Brands",
+      "name": "webflow",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57830,
+      "font": "Fa6Brands",
+      "name": "weixin",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57831,
+      "font": "Fa6Brands",
+      "name": "whatsapp",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57832,
+      "font": "Fa6Brands",
+      "name": "square-whatsapp",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57833,
+      "font": "Fa6Brands",
+      "name": "whmcs",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57834,
+      "font": "Fa6Brands",
+      "name": "wikipedia-w",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57835,
+      "font": "Fa6Brands",
+      "name": "windows",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57837,
+      "font": "Fa6Brands",
+      "name": "wix",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57838,
+      "font": "Fa6Brands",
+      "name": "wizards-of-the-coast",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57839,
+      "font": "Fa6Brands",
+      "name": "wodu",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57845,
+      "font": "Fa6Brands",
+      "name": "wpforms",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57846,
+      "font": "Fa6Brands",
+      "name": "wpressr",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57849,
+      "font": "Fa6Brands",
+      "name": "xing",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57850,
+      "font": "Fa6Brands",
+      "name": "square-xing",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57851,
+      "font": "Fa6Brands",
+      "name": "y-combinator",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 500,
+      "codepoint": 57854,
+      "font": "Fa6Brands",
+      "name": "yandex",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 625,
+      "codepoint": 57855,
+      "font": "Fa6Brands",
+      "name": "yandex-international",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 968,
+      "codepoint": 57856,
+      "font": "Fa6Brands",
+      "name": "yarn",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 750,
+      "codepoint": 57857,
+      "font": "Fa6Brands",
+      "name": "yelp",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57858,
+      "font": "Fa6Brands",
+      "name": "yoast",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1125,
+      "codepoint": 57859,
+      "font": "Fa6Brands",
+      "name": "youtube",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 875,
+      "codepoint": 57860,
+      "font": "Fa6Brands",
+      "name": "square-youtube",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "advance": 1250,
+      "codepoint": 57861,
+      "font": "Fa6Brands",
+      "name": "zhihu",
+      "prefix": "fa6-brands",
+      "reason": "advance"
+    },
+    {
+      "codepoint": 57344,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "42-group",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57347,
+      "contentWidth": 1265,
+      "font": "Fa6Brands",
+      "name": "accusoft",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57355,
+      "contentWidth": 1222,
+      "font": "Fa6Brands",
+      "name": "amazon-pay",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57357,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "android",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57359,
+      "contentWidth": 1253,
+      "font": "Fa6Brands",
+      "name": "angrycreative",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57363,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "apper",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57365,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "apple-pay",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57367,
+      "contentWidth": 1126,
+      "font": "Fa6Brands",
+      "name": "asymmetrik",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57369,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "audible",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57370,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "autoprefixer",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57372,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "aviato",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57373,
+      "contentWidth": 1255,
+      "font": "Fa6Brands",
+      "name": "aws",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57376,
+      "contentWidth": 1126,
+      "font": "Fa6Brands",
+      "name": "behance",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57390,
+      "contentWidth": 1112,
+      "font": "Fa6Brands",
+      "name": "bootstrap",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57391,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "bots",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57397,
+      "contentWidth": 1110,
+      "font": "Fa6Brands",
+      "name": "buy-n-large",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57400,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-amazon-pay",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57401,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-amex",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57402,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-apple-pay",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57403,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-diners-club",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57404,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-discover",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57405,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-jcb",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57406,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-mastercard",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57407,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-paypal",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57408,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-stripe",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57409,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "cc-visa",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57414,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "cloudflare",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57417,
+      "contentWidth": 1211,
+      "font": "Fa6Brands",
+      "name": "cloudversify",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57418,
+      "contentWidth": 1254,
+      "font": "Fa6Brands",
+      "name": "cmplid",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57425,
+      "contentWidth": 1256,
+      "font": "Fa6Brands",
+      "name": "cpanel",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57446,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "d-and-d-beyond",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57451,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "deezer",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57457,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "dhl",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57461,
+      "contentWidth": 1212,
+      "font": "Fa6Brands",
+      "name": "discord",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57464,
+      "contentWidth": 1259,
+      "font": "Fa6Brands",
+      "name": "docker",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57472,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "ebay",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57477,
+      "contentWidth": 1252,
+      "font": "Fa6Brands",
+      "name": "ember",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57480,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "erlang",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57490,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "fedex",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57510,
+      "contentWidth": 1120,
+      "font": "Fa6Brands",
+      "name": "free-code-camp",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57524,
+      "contentWidth": 1141,
+      "font": "Fa6Brands",
+      "name": "gitkraken",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57530,
+      "contentWidth": 1258,
+      "font": "Fa6Brands",
+      "name": "golang",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57535,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "google-pay",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57538,
+      "contentWidth": 1225,
+      "font": "Fa6Brands",
+      "name": "google-plus-g",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57552,
+      "contentWidth": 1257,
+      "font": "Fa6Brands",
+      "name": "hips",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57555,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "hooli",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57569,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "ioxhost",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57581,
+      "contentWidth": 1127,
+      "font": "Fa6Brands",
+      "name": "jsfiddle",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57592,
+      "contentWidth": 1112,
+      "font": "Fa6Brands",
+      "name": "leanpub",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57593,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "less",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57594,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "letterboxd",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57604,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "markdown",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57607,
+      "contentWidth": 1112,
+      "font": "Fa6Brands",
+      "name": "mdb",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57609,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "medium",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57613,
+      "contentWidth": 1258,
+      "font": "Fa6Brands",
+      "name": "mendeley",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57614,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "meta",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57619,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "mixcloud",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57629,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "node",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57631,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "npm",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57632,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "ns8",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57639,
+      "contentWidth": 1262,
+      "font": "Fa6Brands",
+      "name": "opencart",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57641,
+      "contentWidth": 1243,
+      "font": "Fa6Brands",
+      "name": "opensuse",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57643,
+      "contentWidth": 1130,
+      "font": "Fa6Brands",
+      "name": "optin-monster",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57646,
+      "contentWidth": 1255,
+      "font": "Fa6Brands",
+      "name": "padlet",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57649,
+      "contentWidth": 1110,
+      "font": "Fa6Brands",
+      "name": "palfed",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57655,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "phoenix-framework",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57657,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "php",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57659,
+      "contentWidth": 1112,
+      "font": "Fa6Brands",
+      "name": "pied-piper-alt",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57660,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "pied-piper-hat",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57668,
+      "contentWidth": 1128,
+      "font": "Fa6Brands",
+      "name": "playstation",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57675,
+      "contentWidth": 1135,
+      "font": "Fa6Brands",
+      "name": "r-project",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57679,
+      "contentWidth": 1127,
+      "font": "Fa6Brands",
+      "name": "reacteurope",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57680,
+      "contentWidth": 1125,
+      "font": "Fa6Brands",
+      "name": "readme",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57692,
+      "contentWidth": 1122,
+      "font": "Fa6Brands",
+      "name": "rocketchat",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57696,
+      "contentWidth": 1256,
+      "font": "Fa6Brands",
+      "name": "salesforce",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57697,
+      "contentWidth": 1255,
+      "font": "Fa6Brands",
+      "name": "sass",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57703,
+      "contentWidth": 1238,
+      "font": "Fa6Brands",
+      "name": "sellsy",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57715,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "skyatlas",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57721,
+      "contentWidth": 1252,
+      "font": "Fa6Brands",
+      "name": "soundcloud",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57768,
+      "contentWidth": 1128,
+      "font": "Fa6Brands",
+      "name": "sticker-mule",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57770,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "stripe",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57777,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "supple",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57778,
+      "contentWidth": 1254,
+      "font": "Fa6Brands",
+      "name": "suse",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57806,
+      "contentWidth": 1226,
+      "font": "Fa6Brands",
+      "name": "untappd",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57808,
+      "contentWidth": 1252,
+      "font": "Fa6Brands",
+      "name": "upwork",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57809,
+      "contentWidth": 1253,
+      "font": "Fa6Brands",
+      "name": "usb",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57822,
+      "contentWidth": 1254,
+      "font": "Fa6Brands",
+      "name": "vnv",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57826,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "web-awesome",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57827,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "webflow",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57834,
+      "contentWidth": 1251,
+      "font": "Fa6Brands",
+      "name": "wikipedia-w",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57837,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "wix",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57838,
+      "contentWidth": 1252,
+      "font": "Fa6Brands",
+      "name": "wizards-of-the-coast",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57839,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "wodu",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    },
+    {
+      "codepoint": 57861,
+      "contentWidth": 1250,
+      "font": "Fa6Brands",
+      "name": "zhihu",
+      "prefix": "fa6-brands",
+      "reason": "wide"
+    }
+  ],
+  "prefix": "fa6-brands",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Fa6Brands",
+      "glyphCount": 518,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1262,
+        "xMin": -17,
+        "yMax": 1016,
+        "yMin": -13
+      },
+      "hhea": {
+        "advanceWidthMax": 1251,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 13
+      }
+    }
+  ]
+}

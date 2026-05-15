@@ -1,0 +1,411 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "11ty",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "11ty",
+        "eleventy"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "42-group",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "42-group",
+        "innosoft"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "behance-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "behance-square",
+        "square-behance"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "bgg",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "bgg",
+        "board-game-geek"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "dribbble-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "dribbble-square",
+        "square-dribbble"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "facebook-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "facebook-square",
+        "square-facebook"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "font-awesome",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "font-awesome",
+        "font-awesome-flag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "font-awesome-alt",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "font-awesome-alt",
+        "square-font-awesome-stroke"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "git-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "git-square",
+        "square-git"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "github-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "github-square",
+        "square-github"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "gitlab-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "gitlab-square",
+        "square-gitlab"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "google-plus-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "google-plus-square",
+        "square-google-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "hacker-news-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "hacker-news-square",
+        "square-hacker-news"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "instagram-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "instagram-square",
+        "square-instagram"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "js-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "js-square",
+        "square-js"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "kickstarter",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "kickstarter",
+        "square-kickstarter"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "lastfm-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "lastfm-square",
+        "square-lastfm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "medium",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "medium",
+        "medium-m"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "odnoklassniki-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "odnoklassniki-square",
+        "square-odnoklassniki"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "pied-piper-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "pied-piper-square",
+        "square-pied-piper"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "pinterest-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "pinterest-square",
+        "square-pinterest"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "reddit-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "reddit-square",
+        "square-reddit"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "rendact",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "rendact",
+        "wpressr"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "slack",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "slack",
+        "slack-hash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "snapchat",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "snapchat",
+        "snapchat-ghost"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "snapchat-square",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "snapchat-square",
+        "square-snapchat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "square-steam",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "square-steam",
+        "steam-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "square-tumblr",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "square-tumblr",
+        "tumblr-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "square-twitter",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "square-twitter",
+        "twitter-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "square-viadeo",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "square-viadeo",
+        "viadeo-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "square-vimeo",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "square-vimeo",
+        "vimeo-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "square-whatsapp",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "square-whatsapp",
+        "whatsapp-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "square-xing",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "square-xing",
+        "xing-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "square-youtube",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "square-youtube",
+        "youtube-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "telegram",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "telegram",
+        "telegram-plane"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Fa7Brands",
+      "glyphName": "wirsindhandwerk",
+      "prefix": "fa7-brands",
+      "sampleIcons": [
+        "wirsindhandwerk",
+        "wsh"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Fa7Brands",
+      "headBbox": "-7..1011 / 0..961",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "fa7-brands",
+      "reasons": [
+        "head.xMin=-7",
+        "head.xMax=1011",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "fa7-brands",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Fa7Brands",
+      "glyphCount": 586,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1011,
+        "xMin": -7,
+        "yMax": 961,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

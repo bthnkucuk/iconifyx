@@ -1,0 +1,179 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 2,
+      "font": "IconParkSolid",
+      "glyphName": "balance",
+      "prefix": "icon-park-solid",
+      "sampleIcons": [
+        "balance",
+        "balance-one"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkSolid",
+      "glyphName": "emotion-happy",
+      "prefix": "icon-park-solid",
+      "sampleIcons": [
+        "emotion-happy",
+        "slightly-smiling-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkSolid",
+      "glyphName": "emotion-unhappy",
+      "prefix": "icon-park-solid",
+      "sampleIcons": [
+        "emotion-unhappy",
+        "worried-face"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkSolid",
+      "glyphName": "material",
+      "prefix": "icon-park-solid",
+      "sampleIcons": [
+        "material",
+        "material-two"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkSolid",
+      "glyphName": "projector",
+      "prefix": "icon-park-solid",
+      "sampleIcons": [
+        "projector",
+        "projector-three"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "IconParkSolid",
+      "glyphName": "shopping-cart",
+      "prefix": "icon-park-solid",
+      "sampleIcons": [
+        "shopping-cart",
+        "shopping-cart-add"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "IconParkSolid",
+      "headBbox": "-3..1006 / -8..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 8,
+      "prefix": "icon-park-solid",
+      "reasons": [
+        "head.xMin=-3",
+        "head.xMax=1006",
+        "head.yMin=-8",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=8"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 1020,
+      "codepoint": 57567,
+      "font": "IconParkSolid",
+      "name": "bottom-bar-one",
+      "prefix": "icon-park-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57802,
+      "font": "IconParkSolid",
+      "name": "cup",
+      "prefix": "icon-park-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57813,
+      "font": "IconParkSolid",
+      "name": "dashboard-one",
+      "prefix": "icon-park-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57881,
+      "font": "IconParkSolid",
+      "name": "disk-one",
+      "prefix": "icon-park-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 57904,
+      "font": "IconParkSolid",
+      "name": "dome-light",
+      "prefix": "icon-park-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 58367,
+      "font": "IconParkSolid",
+      "name": "kettle",
+      "prefix": "icon-park-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 59025,
+      "font": "IconParkSolid",
+      "name": "storage-card-one",
+      "prefix": "icon-park-solid",
+      "reason": "advance"
+    },
+    {
+      "advance": 1020,
+      "codepoint": 59252,
+      "font": "IconParkSolid",
+      "name": "washing-machine",
+      "prefix": "icon-park-solid",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "icon-park-solid",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "IconParkSolid",
+      "glyphCount": 1970,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1006,
+        "xMin": -3,
+        "yMax": 1006,
+        "yMin": -8
+      },
+      "hhea": {
+        "advanceWidthMax": 1020,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 4,
+      "font": "StreamlineUltimateColor",
+      "glyphName": "smiley-disapointed",
+      "prefix": "streamline-ultimate-color",
+      "sampleIcons": [
+        "smiley-disapointed",
+        "smiley-sad-1",
+        "smiley-smile-1",
+        "smiley-unhappy-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineUltimateColor",
+      "glyphName": "focus-auto-1",
+      "prefix": "streamline-ultimate-color",
+      "sampleIcons": [
+        "focus-auto-1",
+        "focus-m"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineUltimateColor",
+      "glyphName": "smiley-cheerful",
+      "prefix": "streamline-ultimate-color",
+      "sampleIcons": [
+        "smiley-cheerful",
+        "smiley-wrong"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "StreamlineUltimateColor",
+      "glyphName": "smiley-happy",
+      "prefix": "streamline-ultimate-color",
+      "sampleIcons": [
+        "smiley-happy",
+        "smiley-prank"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "StreamlineUltimateColor",
+      "headBbox": "0..1000 / 0..991",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "streamline-ultimate-color",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "StreamlineUltimateColorSecondary",
+      "headBbox": "0..986 / 0..989",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "streamline-ultimate-color",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "streamline-ultimate-color",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "StreamlineUltimateColor",
+      "glyphCount": 587,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 991,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "StreamlineUltimateColorSecondary",
+      "glyphCount": 2,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 986,
+        "xMin": 0,
+        "yMax": 989,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

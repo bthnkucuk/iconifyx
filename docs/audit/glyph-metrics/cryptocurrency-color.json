@@ -1,0 +1,3560 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 375,
+      "font": "CryptocurrencyColor",
+      "glyphName": "aave",
+      "prefix": "cryptocurrency-color",
+      "sampleIcons": [
+        "aave",
+        "abt",
+        "act",
+        "actn"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CryptocurrencyColorSecondary",
+      "glyphName": "gas",
+      "prefix": "cryptocurrency-color",
+      "sampleIcons": [
+        "gas",
+        "neo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CryptocurrencyColorSecondary",
+      "glyphName": "pax",
+      "prefix": "cryptocurrency-color",
+      "sampleIcons": [
+        "pax",
+        "paxg"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "CryptocurrencyColorSecondary",
+      "glyphName": "sbd",
+      "prefix": "cryptocurrency-color",
+      "sampleIcons": [
+        "sbd",
+        "steem"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "shifted",
+      "codepoint": 57624,
+      "icon": "ngc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 360,
+      "secondary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57668,
+      "icon": "ppt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 360,
+      "secondary": {
+        "xMax": 640,
+        "xMin": 0,
+        "yMax": 842,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57714,
+      "icon": "slr",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 344,
+      "secondary": {
+        "xMax": 656,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57693,
+      "icon": "rise",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 340,
+      "secondary": {
+        "xMax": 660,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57461,
+      "icon": "dat",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 331,
+      "secondary": {
+        "xMax": 669,
+        "xMin": 0,
+        "yMax": 826,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57621,
+      "icon": "neos",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 328,
+      "secondary": {
+        "xMax": 672,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57768,
+      "icon": "utk",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 328,
+      "secondary": {
+        "xMax": 672,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57818,
+      "icon": "zec",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 328,
+      "secondary": {
+        "xMax": 672,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57454,
+      "icon": "cs",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 327,
+      "secondary": {
+        "xMax": 673,
+        "xMin": 0,
+        "yMax": 845,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57534,
+      "icon": "gnt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 321,
+      "secondary": {
+        "xMax": 679,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57788,
+      "icon": "wtc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1011,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 316,
+      "secondary": {
+        "xMax": 695,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57561,
+      "icon": "ignis",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 313,
+      "secondary": {
+        "xMax": 687,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57580,
+      "icon": "lend",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 313,
+      "secondary": {
+        "xMax": 687,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57658,
+      "icon": "pivx",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 312,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 734,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57728,
+      "icon": "start",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 312,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57772,
+      "icon": "vib",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 312,
+      "secondary": {
+        "xMax": 688,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57507,
+      "icon": "eur",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 311,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57633,
+      "icon": "nuls",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 311,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57747,
+      "icon": "theta",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 311,
+      "secondary": {
+        "xMax": 689,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57377,
+      "icon": "atm",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 302,
+      "secondary": {
+        "xMax": 698,
+        "xMin": 0,
+        "yMax": 860,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57595,
+      "icon": "mda",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 297,
+      "secondary": {
+        "xMax": 703,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57697,
+      "icon": "rvn",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 296,
+      "secondary": {
+        "xMax": 704,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57765,
+      "icon": "usd",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 296,
+      "secondary": {
+        "xMax": 704,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57696,
+      "icon": "rub",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 294,
+      "secondary": {
+        "xMax": 706,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57397,
+      "icon": "bdl",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 290,
+      "secondary": {
+        "xMax": 710,
+        "xMin": 0,
+        "yMax": 836,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57556,
+      "icon": "husd",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 290,
+      "secondary": {
+        "xMax": 710,
+        "xMin": 0,
+        "yMax": 790,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57406,
+      "icon": "bnt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 286,
+      "secondary": {
+        "xMax": 714,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57435,
+      "icon": "chips",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 283,
+      "secondary": {
+        "xMax": 717,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57731,
+      "icon": "storm",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 283,
+      "secondary": {
+        "xMax": 717,
+        "xMin": 0,
+        "yMax": 811,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57347,
+      "icon": "aave",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57353,
+      "icon": "adx",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57409,
+      "icon": "bos",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57418,
+      "icon": "btcp",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57423,
+      "icon": "bts",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 842,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57432,
+      "icon": "cenz",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 783,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57473,
+      "icon": "dock",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57475,
+      "icon": "dot",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 799,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57525,
+      "icon": "gbp",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57542,
+      "icon": "gup",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57588,
+      "icon": "ltc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57686,
+      "icon": "rdn",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57704,
+      "icon": "sand",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57749,
+      "icon": "tkn",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57800,
+      "icon": "xmg",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 281,
+      "secondary": {
+        "xMax": 719,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57415,
+      "icon": "btc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 272,
+      "secondary": {
+        "xMax": 728,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57360,
+      "icon": "algo",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 270,
+      "secondary": {
+        "xMax": 730,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57443,
+      "icon": "cnd",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 266,
+      "secondary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57516,
+      "icon": "fldc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 266,
+      "secondary": {
+        "xMax": 734,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57555,
+      "icon": "huc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 265,
+      "secondary": {
+        "xMax": 735,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57558,
+      "icon": "icn",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 265,
+      "secondary": {
+        "xMax": 735,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57557,
+      "icon": "hush",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 264,
+      "secondary": {
+        "xMax": 736,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57680,
+      "icon": "r",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 264,
+      "secondary": {
+        "xMax": 736,
+        "xMin": 0,
+        "yMax": 781,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57810,
+      "icon": "xtz",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 262,
+      "secondary": {
+        "xMax": 738,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57448,
+      "icon": "comp",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 258,
+      "secondary": {
+        "xMax": 742,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57411,
+      "icon": "bq",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57492,
+      "icon": "emc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57501,
+      "icon": "equa",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57523,
+      "icon": "game",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57597,
+      "icon": "med",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57611,
+      "icon": "mtl",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57664,
+      "icon": "pot",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57719,
+      "icon": "snt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 756,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57806,
+      "icon": "xpm",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57471,
+      "icon": "dlt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 801,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57474,
+      "icon": "doge",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57511,
+      "icon": "fair",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 814,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57528,
+      "icon": "generic",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57587,
+      "icon": "lsk",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57592,
+      "icon": "max",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57690,
+      "icon": "req",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 765,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57771,
+      "icon": "via",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 781,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57368,
+      "icon": "appc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 248,
+      "secondary": {
+        "xMax": 752,
+        "xMin": 0,
+        "yMax": 798,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57392,
+      "icon": "bch",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 246,
+      "secondary": {
+        "xMax": 754,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57426,
+      "icon": "burst",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 246,
+      "secondary": {
+        "xMax": 754,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57682,
+      "icon": "rap",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 243,
+      "secondary": {
+        "xMax": 757,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57514,
+      "icon": "fil",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 242,
+      "secondary": {
+        "xMax": 758,
+        "xMin": 0,
+        "yMax": 823,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57666,
+      "icon": "ppc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 241,
+      "secondary": {
+        "xMax": 759,
+        "xMin": 0,
+        "yMax": 766,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57681,
+      "icon": "rads",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 238,
+      "secondary": {
+        "xMax": 762,
+        "xMin": 0,
+        "yMax": 761,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57577,
+      "icon": "krb",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 235,
+      "secondary": {
+        "xMax": 765,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57363,
+      "icon": "ampl",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 234,
+      "secondary": {
+        "xMax": 766,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57402,
+      "icon": "blk",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 234,
+      "secondary": {
+        "xMax": 766,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57437,
+      "icon": "chz",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 234,
+      "secondary": {
+        "xMax": 766,
+        "xMin": 0,
+        "yMax": 775,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57572,
+      "icon": "jpy",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 234,
+      "secondary": {
+        "xMax": 766,
+        "xMin": 0,
+        "yMax": 765,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57573,
+      "icon": "kcs",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 234,
+      "secondary": {
+        "xMax": 766,
+        "xMin": 0,
+        "yMax": 784,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57374,
+      "icon": "ary",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 233,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57381,
+      "icon": "auto",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 233,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57567,
+      "icon": "iost",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 233,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57582,
+      "icon": "link",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 233,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57707,
+      "icon": "sc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 233,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 765,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57735,
+      "icon": "stx",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 233,
+      "secondary": {
+        "xMax": 767,
+        "xMin": 0,
+        "yMax": 766,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57394,
+      "icon": "bcn",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1006,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 231,
+      "secondary": {
+        "xMax": 769,
+        "xMin": 0,
+        "yMax": 767,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57606,
+      "icon": "moac",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 231,
+      "secondary": {
+        "xMax": 769,
+        "xMin": 0,
+        "yMax": 781,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57736,
+      "icon": "sub",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 231,
+      "secondary": {
+        "xMax": 769,
+        "xMin": 0,
+        "yMax": 836,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57390,
+      "icon": "bcc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 230,
+      "secondary": {
+        "xMax": 770,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57646,
+      "icon": "oxt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 226,
+      "secondary": {
+        "xMax": 774,
+        "xMin": 0,
+        "yMax": 769,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57379,
+      "icon": "audr",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 223,
+      "secondary": {
+        "xMax": 777,
+        "xMin": 0,
+        "yMax": 846,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57465,
+      "icon": "dcr",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 222,
+      "secondary": {
+        "xMax": 778,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57733,
+      "icon": "stq",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 221,
+      "secondary": {
+        "xMax": 779,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57393,
+      "icon": "bcio",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 220,
+      "secondary": {
+        "xMax": 780,
+        "xMin": 0,
+        "yMax": 845,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57770,
+      "icon": "vet",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 220,
+      "secondary": {
+        "xMax": 780,
+        "xMin": 0,
+        "yMax": 735,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57372,
+      "icon": "arn",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 781,
+        "xMin": 0,
+        "yMax": 798,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57412,
+      "icon": "brd",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 781,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57427,
+      "icon": "bze",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 781,
+        "xMin": 0,
+        "yMax": 820,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57586,
+      "icon": "lrc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 781,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57629,
+      "icon": "nmc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 781,
+        "xMin": 0,
+        "yMax": 734,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57672,
+      "icon": "pura",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 781,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57715,
+      "icon": "sls",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 781,
+        "xMin": 0,
+        "yMax": 726,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57737,
+      "icon": "sumo",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 219,
+      "secondary": {
+        "xMax": 781,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57358,
+      "icon": "agrs",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57382,
+      "icon": "avax",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 789,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57401,
+      "icon": "blcn",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57445,
+      "icon": "cny",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57451,
+      "icon": "crpt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57466,
+      "icon": "deez",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57478,
+      "icon": "dta",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57482,
+      "icon": "eca",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 829,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57483,
+      "icon": "edg",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57524,
+      "icon": "gas",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57554,
+      "icon": "html",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 797,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57571,
+      "icon": "jnt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57589,
+      "icon": "lun",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57593,
+      "icon": "mcap",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 784,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57603,
+      "icon": "mln",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57618,
+      "icon": "ndz",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57620,
+      "icon": "neo",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57640,
+      "icon": "one",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 787,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57642,
+      "icon": "ont",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57678,
+      "icon": "qsp",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 780,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57689,
+      "icon": "repv2",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 820,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57722,
+      "icon": "sol",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57775,
+      "icon": "vrc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57780,
+      "icon": "wan",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 828,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57814,
+      "icon": "xzc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 218,
+      "secondary": {
+        "xMax": 782,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57395,
+      "icon": "bco",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 217,
+      "secondary": {
+        "xMax": 783,
+        "xMin": 0,
+        "yMax": 815,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57495,
+      "icon": "enj",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 217,
+      "secondary": {
+        "xMax": 783,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57498,
+      "icon": "eop",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 217,
+      "secondary": {
+        "xMax": 783,
+        "xMin": 0,
+        "yMax": 869,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57756,
+      "icon": "trig",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 217,
+      "secondary": {
+        "xMax": 783,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57400,
+      "icon": "bix",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 216,
+      "secondary": {
+        "xMax": 784,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57541,
+      "icon": "gto",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 216,
+      "secondary": {
+        "xMax": 784,
+        "xMin": 0,
+        "yMax": 787,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57549,
+      "icon": "hodl",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 215,
+      "secondary": {
+        "xMax": 785,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57643,
+      "icon": "oot",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 215,
+      "secondary": {
+        "xMax": 785,
+        "xMin": 0,
+        "yMax": 784,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57388,
+      "icon": "bay",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 214,
+      "secondary": {
+        "xMax": 786,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57399,
+      "icon": "bela",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 212,
+      "secondary": {
+        "xMax": 788,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57485,
+      "icon": "edoge",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 204,
+      "secondary": {
+        "xMax": 796,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57651,
+      "icon": "pasl",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 204,
+      "secondary": {
+        "xMax": 796,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57687,
+      "icon": "ren",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 204,
+      "secondary": {
+        "xMax": 796,
+        "xMin": 0,
+        "yMax": 835,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57348,
+      "icon": "abt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57364,
+      "icon": "ankr",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57430,
+      "icon": "cdn",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57469,
+      "icon": "dgb",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57494,
+      "icon": "eng",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57520,
+      "icon": "ftc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57536,
+      "icon": "grc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57570,
+      "icon": "itc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57594,
+      "icon": "mco",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57619,
+      "icon": "nebl",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 813,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57630,
+      "icon": "nmr",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 844,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57720,
+      "icon": "snx",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 203,
+      "secondary": {
+        "xMax": 797,
+        "xMin": 0,
+        "yMax": 719,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57468,
+      "icon": "dew",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 202,
+      "secondary": {
+        "xMax": 798,
+        "xMin": 0,
+        "yMax": 782,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57776,
+      "icon": "vrsc",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 202,
+      "secondary": {
+        "xMax": 798,
+        "xMin": 0,
+        "yMax": 789,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57605,
+      "icon": "mnz",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 200,
+      "secondary": {
+        "xMax": 800,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57626,
+      "icon": "nkn",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 200,
+      "secondary": {
+        "xMax": 800,
+        "xMin": 0,
+        "yMax": 822,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57767,
+      "icon": "usdt",
+      "prefix": "cryptocurrency-color",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "CryptocurrencyColor",
+      "score": 200,
+      "secondary": {
+        "xMax": 800,
+        "xMin": 0,
+        "yMax": 755,
+        "yMin": 0
+      },
+      "secondaryFont": "CryptocurrencyColorSecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "CryptocurrencyColor",
+      "headBbox": "-15..1022 / -9..1006",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 9,
+      "prefix": "cryptocurrency-color",
+      "reasons": [
+        "head.xMin=-15",
+        "head.xMax=1022",
+        "head.yMin=-9",
+        "head.yMax=1006",
+        "OS/2.winAsc=1090",
+        "OS/2.winDesc=9"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "CryptocurrencyColorSecondary",
+      "headBbox": "-17..1000 / 0..1001",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "cryptocurrency-color",
+      "reasons": [
+        "head.xMin=-17",
+        "head.yMax=1001",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "cryptocurrency-color",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "CryptocurrencyColor",
+      "glyphCount": 481,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1022,
+        "xMin": -15,
+        "yMax": 1006,
+        "yMin": -9
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 9
+      }
+    },
+    {
+      "error": null,
+      "font": "CryptocurrencyColorSecondary",
+      "glyphCount": 379,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": -17,
+        "yMax": 1001,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

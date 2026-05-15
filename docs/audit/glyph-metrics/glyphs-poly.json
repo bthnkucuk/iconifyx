@@ -1,0 +1,2317 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 26,
+      "font": "GlyphsPoly",
+      "glyphName": "angry",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "angry",
+        "dizzy",
+        "frown",
+        "frown-open"
+      ]
+    },
+    {
+      "codepointCount": 12,
+      "font": "GlyphsPoly",
+      "glyphName": "globe",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "globe",
+        "globe-africa",
+        "globe-americas",
+        "globe-asia"
+      ]
+    },
+    {
+      "codepointCount": 7,
+      "font": "GlyphsPoly",
+      "glyphName": "circle-half-1",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "circle-half-1",
+        "circle-half-2",
+        "ellipsis-circle",
+        "pause-circle"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "GlyphsPoly",
+      "glyphName": "die",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "die",
+        "die-1",
+        "die-2",
+        "die-3"
+      ]
+    },
+    {
+      "codepointCount": 6,
+      "font": "GlyphsPoly",
+      "glyphName": "tachometer",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "tachometer",
+        "tachometer-1",
+        "tachometer-2",
+        "tachometer-3"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "GlyphsPoly",
+      "glyphName": "arrow-circle",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "arrow-circle",
+        "arrow-solid-circle",
+        "caret-circle",
+        "chevron-circle"
+      ]
+    },
+    {
+      "codepointCount": 5,
+      "font": "GlyphsPoly",
+      "glyphName": "battery",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "battery",
+        "battery-1",
+        "battery-2",
+        "battery-3"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "GlyphsPoly",
+      "glyphName": "battery-0",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "battery-0",
+        "battery-25",
+        "battery-50",
+        "battery-75"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "GlyphsPoly",
+      "glyphName": "h-1",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "h-1",
+        "h-2",
+        "h-3",
+        "h-4"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "GlyphsPoly",
+      "glyphName": "heart",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "heart",
+        "heart-1",
+        "heart-half-1",
+        "heart-sparkles"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "GlyphsPoly",
+      "glyphName": "signal-100",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "signal-100",
+        "signal-25",
+        "signal-50",
+        "signal-75"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "GlyphsPoly",
+      "glyphName": "tachometer-6",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "tachometer-6",
+        "tachometer-7",
+        "tachometer-8",
+        "tachometer-9"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "GlyphsPoly",
+      "glyphName": "align-center",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "align-center",
+        "align-justify",
+        "align-side"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "GlyphsPoly",
+      "glyphName": "box-layout-2",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "box-layout-2",
+        "box-layout-3",
+        "box-layout-4"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "GlyphsPoly",
+      "glyphName": "file-add",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "file-add",
+        "file-remove",
+        "file-remove-1"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "GlyphsPoly",
+      "glyphName": "hand-holding-dollar",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "hand-holding-dollar",
+        "hand-holding-heart",
+        "hand-holding-water"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "GlyphsPoly",
+      "glyphName": "square",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "square",
+        "square-half-1",
+        "square-half-2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "GlyphsPoly",
+      "glyphName": "volume-1",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "volume-1",
+        "volume-2",
+        "volume-3"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "GlyphsPoly",
+      "glyphName": "wifi",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "wifi",
+        "wifi-1",
+        "wifi-2"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "GlyphsPoly",
+      "glyphName": "wifi-25",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "wifi-25",
+        "wifi-50",
+        "wifi-75"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "adjust",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "adjust",
+        "adjust-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "arrow-solid-square",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "arrow-solid-square",
+        "caret-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "b",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "b",
+        "bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "badge",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "badge",
+        "check-badge"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "bed",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "bed",
+        "bed-empty"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "clock",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "clock",
+        "clock-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "compass",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "compass",
+        "hospital-sign"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "directions-sign",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "directions-sign",
+        "map-signs"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "hourglass-1",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "hourglass-1",
+        "hourglass-50"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "hourglass-100",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "hourglass-100",
+        "hourglass-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "house-fire",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "house-fire",
+        "house-water"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "layout-1",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "layout-1",
+        "layout-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "temperature-cold",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "temperature-cold",
+        "temperature-hot"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPoly",
+      "glyphName": "ticket",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "ticket",
+        "ticket-1"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPolySecondary",
+      "glyphName": "directions-sign",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "directions-sign",
+        "map-signs"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "GlyphsPolySecondary",
+      "glyphName": "female",
+      "prefix": "glyphs-poly",
+      "sampleIcons": [
+        "female",
+        "male"
+      ]
+    }
+  ],
+  "duotoneMismatches": [
+    {
+      "cause": "secondary-empty",
+      "codepoint": 58017,
+      "icon": "timer-fast",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 913,
+        "xMin": 0,
+        "yMax": 860,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": -1,
+      "secondary": {
+        "xMax": 0,
+        "xMin": 0,
+        "yMax": 0,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58054,
+      "icon": "volume-3",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 427,
+        "xMin": 0,
+        "yMax": 787,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 526,
+      "secondary": {
+        "xMax": 953,
+        "xMin": 0,
+        "yMax": 879,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57660,
+      "icon": "grid-list",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 525,
+      "secondary": {
+        "xMax": 351,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57926,
+      "icon": "signal-25",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 850,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 525,
+      "secondary": {
+        "xMax": 325,
+        "xMin": 0,
+        "yMax": 325,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57808,
+      "icon": "night",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 465,
+        "xMin": 0,
+        "yMax": 760,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 460,
+      "secondary": {
+        "xMax": 925,
+        "xMin": 0,
+        "yMax": 571,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57678,
+      "icon": "h-4",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 774,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 437,
+      "secondary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 770,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57537,
+      "icon": "columns-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 414,
+        "xMin": 0,
+        "yMax": 825,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 411,
+      "secondary": {
+        "xMax": 825,
+        "xMin": 0,
+        "yMax": 826,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57843,
+      "icon": "pill",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 700,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 406,
+      "secondary": {
+        "xMax": 906,
+        "xMin": 0,
+        "yMax": 701,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57676,
+      "icon": "h-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 774,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 402,
+      "secondary": {
+        "xMax": 902,
+        "xMin": 0,
+        "yMax": 775,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57449,
+      "icon": "book-open",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 400,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57677,
+      "icon": "h-3",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 774,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 400,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 775,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57905,
+      "icon": "seek-skip",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 508,
+        "xMin": 0,
+        "yMax": 801,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 400,
+      "secondary": {
+        "xMax": 908,
+        "xMin": 0,
+        "yMax": 802,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57576,
+      "icon": "directions-sign-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 942,
+        "xMin": 0,
+        "yMax": 810,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 392,
+      "secondary": {
+        "xMax": 550,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58062,
+      "icon": "wifi",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 525,
+        "xMin": 0,
+        "yMax": 275,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 379,
+      "secondary": {
+        "xMax": 904,
+        "xMin": 0,
+        "yMax": 810,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57391,
+      "icon": "arrows-compress-quad",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 898,
+        "xMin": 0,
+        "yMax": 695,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 377,
+      "secondary": {
+        "xMax": 521,
+        "xMin": 0,
+        "yMax": 910,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57526,
+      "icon": "cloudy",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 599,
+        "xMin": 0,
+        "yMax": 822,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 376,
+      "secondary": {
+        "xMax": 975,
+        "xMin": 0,
+        "yMax": 682,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57632,
+      "icon": "font",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 488,
+        "xMin": 0,
+        "yMax": 777,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 375,
+      "secondary": {
+        "xMax": 863,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57575,
+      "icon": "directions-sign",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 525,
+        "xMin": 0,
+        "yMax": 929,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 366,
+      "secondary": {
+        "xMax": 891,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57784,
+      "icon": "map-signs",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 525,
+        "xMin": 0,
+        "yMax": 929,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 366,
+      "secondary": {
+        "xMax": 891,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58021,
+      "icon": "toggle-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 920,
+        "xMin": 0,
+        "yMax": 701,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 364,
+      "secondary": {
+        "xMax": 556,
+        "xMin": 0,
+        "yMax": 722,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57822,
+      "icon": "palm-tree",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 937,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 354,
+      "secondary": {
+        "xMax": 583,
+        "xMin": 0,
+        "yMax": 655,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58022,
+      "icon": "toggle-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 676,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 351,
+      "secondary": {
+        "xMax": 525,
+        "xMin": 0,
+        "yMax": 725,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57517,
+      "icon": "circle-half-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 850,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 350,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57518,
+      "icon": "circle-half-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 850,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 350,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 849,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57929,
+      "icon": "signal-50",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 850,
+        "xMin": 0,
+        "yMax": 817,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 350,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 500,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57348,
+      "icon": "adjust-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 848,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 346,
+      "secondary": {
+        "xMax": 502,
+        "xMin": 0,
+        "yMax": 717,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57973,
+      "icon": "star-half-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 844,
+        "xMin": 0,
+        "yMax": 859,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 343,
+      "secondary": {
+        "xMax": 501,
+        "xMin": 0,
+        "yMax": 859,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58053,
+      "icon": "volume-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 427,
+        "xMin": 0,
+        "yMax": 787,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 342,
+      "secondary": {
+        "xMax": 769,
+        "xMin": 0,
+        "yMax": 779,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57389,
+      "icon": "arrow-u-turn",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 779,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 338,
+      "secondary": {
+        "xMax": 537,
+        "xMin": 0,
+        "yMax": 859,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57908,
+      "icon": "send",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 835,
+        "xMin": 0,
+        "yMax": 836,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 338,
+      "secondary": {
+        "xMax": 497,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57400,
+      "icon": "axe",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 432,
+        "xMin": 0,
+        "yMax": 950,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 336,
+      "secondary": {
+        "xMax": 768,
+        "xMin": 0,
+        "yMax": 941,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57702,
+      "icon": "heart-half-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 835,
+        "xMin": 0,
+        "yMax": 794,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 335,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57703,
+      "icon": "heart-half-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 835,
+        "xMin": 0,
+        "yMax": 795,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 335,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58042,
+      "icon": "users-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 904,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 329,
+      "secondary": {
+        "xMax": 575,
+        "xMin": 0,
+        "yMax": 762,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58020,
+      "icon": "toggle",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 726,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 328,
+      "secondary": {
+        "xMax": 547,
+        "xMin": 0,
+        "yMax": 701,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57675,
+      "icon": "h-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 774,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 325,
+      "secondary": {
+        "xMax": 825,
+        "xMin": 0,
+        "yMax": 775,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57347,
+      "icon": "adjust",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 848,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 322,
+      "secondary": {
+        "xMax": 526,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57534,
+      "icon": "cogs",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 651,
+        "xMin": 0,
+        "yMax": 680,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 316,
+      "secondary": {
+        "xMax": 967,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57528,
+      "icon": "cloudy-partly",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 600,
+        "xMin": 0,
+        "yMax": 877,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 305,
+      "secondary": {
+        "xMax": 905,
+        "xMin": 0,
+        "yMax": 650,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57457,
+      "icon": "border-center",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 826,
+        "xMin": 0,
+        "yMax": 829,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 301,
+      "secondary": {
+        "xMax": 525,
+        "xMin": 0,
+        "yMax": 829,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57965,
+      "icon": "square-half-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 800,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 300,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57594,
+      "icon": "ellipsis-circle",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 850,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 299,
+      "secondary": {
+        "xMax": 551,
+        "xMin": 0,
+        "yMax": 734,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57966,
+      "icon": "square-half-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 800,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 299,
+      "secondary": {
+        "xMax": 501,
+        "xMin": 0,
+        "yMax": 801,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57595,
+      "icon": "ellipsis-square",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 850,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 298,
+      "secondary": {
+        "xMax": 552,
+        "xMin": 0,
+        "yMax": 734,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58027,
+      "icon": "tree",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 605,
+        "xMin": 0,
+        "yMax": 337,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 295,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57388,
+      "icon": "arrow-turn",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 851,
+        "xMin": 0,
+        "yMax": 664,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 289,
+      "secondary": {
+        "xMax": 562,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57684,
+      "icon": "hand-holding-dollar",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 888,
+        "xMin": 0,
+        "yMax": 402,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 276,
+      "secondary": {
+        "xMax": 612,
+        "xMin": 0,
+        "yMax": 862,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57687,
+      "icon": "hand-holding-water",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 888,
+        "xMin": 0,
+        "yMax": 402,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 274,
+      "secondary": {
+        "xMax": 614,
+        "xMin": 0,
+        "yMax": 809,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58065,
+      "icon": "wifi-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 525,
+        "xMin": 0,
+        "yMax": 275,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 273,
+      "secondary": {
+        "xMax": 798,
+        "xMin": 0,
+        "yMax": 642,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57704,
+      "icon": "heart-hands",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 854,
+        "xMin": 0,
+        "yMax": 791,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 266,
+      "secondary": {
+        "xMax": 588,
+        "xMin": 0,
+        "yMax": 791,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57867,
+      "icon": "rain",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 901,
+        "xMin": 0,
+        "yMax": 900,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 265,
+      "secondary": {
+        "xMax": 636,
+        "xMin": 0,
+        "yMax": 527,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57849,
+      "icon": "plane-side",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 671,
+        "xMin": 0,
+        "yMax": 701,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 262,
+      "secondary": {
+        "xMax": 933,
+        "xMin": 0,
+        "yMax": 537,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57774,
+      "icon": "lock-open-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 651,
+        "xMin": 0,
+        "yMax": 522,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 256,
+      "secondary": {
+        "xMax": 907,
+        "xMin": 0,
+        "yMax": 859,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57914,
+      "icon": "shield-exclamation",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 801,
+        "xMin": 0,
+        "yMax": 852,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 252,
+      "secondary": {
+        "xMax": 549,
+        "xMin": 0,
+        "yMax": 737,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57936,
+      "icon": "sleet",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 901,
+        "xMin": 0,
+        "yMax": 900,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 251,
+      "secondary": {
+        "xMax": 650,
+        "xMin": 0,
+        "yMax": 549,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57452,
+      "icon": "bookmark",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 250,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57766,
+      "icon": "lightning",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 901,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 250,
+      "secondary": {
+        "xMax": 651,
+        "xMin": 0,
+        "yMax": 594,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57780,
+      "icon": "map",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 875,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 250,
+      "secondary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58035,
+      "icon": "u-turn-sign",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 889,
+        "xMin": 0,
+        "yMax": 891,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 250,
+      "secondary": {
+        "xMax": 639,
+        "xMin": 0,
+        "yMax": 700,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58040,
+      "icon": "user-comment",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 650,
+        "xMin": 0,
+        "yMax": 757,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 250,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 900,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58066,
+      "icon": "wifi-25",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 877,
+        "xMin": 0,
+        "yMax": 802,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 250,
+      "secondary": {
+        "xMax": 627,
+        "xMin": 0,
+        "yMax": 400,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57870,
+      "icon": "record",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 850,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 243,
+      "secondary": {
+        "xMax": 607,
+        "xMin": 0,
+        "yMax": 603,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58049,
+      "icon": "virus",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 869,
+        "xMin": 0,
+        "yMax": 821,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 243,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 620,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57396,
+      "icon": "arrows-round",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 848,
+        "xMin": 0,
+        "yMax": 847,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 227,
+      "secondary": {
+        "xMax": 621,
+        "xMin": 0,
+        "yMax": 962,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57480,
+      "icon": "camcorder",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 675,
+        "xMin": 0,
+        "yMax": 650,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 225,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 825,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57771,
+      "icon": "location-arrow",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 725,
+        "xMin": 0,
+        "yMax": 820,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 225,
+      "secondary": {
+        "xMax": 500,
+        "xMin": 0,
+        "yMax": 819,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58046,
+      "icon": "video",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 675,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 225,
+      "secondary": {
+        "xMax": 900,
+        "xMin": 0,
+        "yMax": 683,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57977,
+      "icon": "stop-hand",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 851,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 222,
+      "secondary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 679,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57707,
+      "icon": "heartbreak",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 837,
+        "xMin": 0,
+        "yMax": 795,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 221,
+      "secondary": {
+        "xMax": 616,
+        "xMin": 0,
+        "yMax": 779,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57876,
+      "icon": "replay",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 859,
+        "xMin": 0,
+        "yMax": 854,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 220,
+      "secondary": {
+        "xMax": 639,
+        "xMin": 0,
+        "yMax": 634,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58028,
+      "icon": "tree-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 606,
+        "xMin": 0,
+        "yMax": 300,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 220,
+      "secondary": {
+        "xMax": 826,
+        "xMin": 0,
+        "yMax": 900,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57570,
+      "icon": "die-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 775,
+        "xMin": 0,
+        "yMax": 775,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 219,
+      "secondary": {
+        "xMax": 556,
+        "xMin": 0,
+        "yMax": 554,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57901,
+      "icon": "search",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 881,
+        "xMin": 0,
+        "yMax": 402,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 218,
+      "secondary": {
+        "xMax": 663,
+        "xMin": 0,
+        "yMax": 814,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57985,
+      "icon": "sun-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 836,
+        "xMin": 0,
+        "yMax": 850,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 218,
+      "secondary": {
+        "xMax": 618,
+        "xMin": 0,
+        "yMax": 619,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 58041,
+      "icon": "users",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 931,
+        "xMin": 0,
+        "yMax": 643,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 217,
+      "secondary": {
+        "xMax": 714,
+        "xMin": 0,
+        "yMax": 760,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57871,
+      "icon": "rectangle",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 876,
+        "xMin": 0,
+        "yMax": 787,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 214,
+      "secondary": {
+        "xMax": 662,
+        "xMin": 0,
+        "yMax": 619,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57494,
+      "icon": "caret-square",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 825,
+        "xMin": 0,
+        "yMax": 825,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 211,
+      "secondary": {
+        "xMax": 614,
+        "xMin": 0,
+        "yMax": 576,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57801,
+      "icon": "mouse-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 211,
+      "secondary": {
+        "xMax": 539,
+        "xMin": 0,
+        "yMax": 752,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57984,
+      "icon": "sun",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 849,
+        "xMin": 0,
+        "yMax": 849,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 211,
+      "secondary": {
+        "xMax": 638,
+        "xMin": 0,
+        "yMax": 641,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57679,
+      "icon": "hammer",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 568,
+        "xMin": 0,
+        "yMax": 725,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 208,
+      "secondary": {
+        "xMax": 776,
+        "xMin": 0,
+        "yMax": 975,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57378,
+      "icon": "arrow-round",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 832,
+        "xMin": 0,
+        "yMax": 848,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 203,
+      "secondary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 960,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57783,
+      "icon": "map-marker-2",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 806,
+        "xMin": 0,
+        "yMax": 846,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 203,
+      "secondary": {
+        "xMax": 603,
+        "xMin": 0,
+        "yMax": 665,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57471,
+      "icon": "briefcase-1",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 625,
+        "xMin": 0,
+        "yMax": 800,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 200,
+      "secondary": {
+        "xMax": 825,
+        "xMin": 0,
+        "yMax": 675,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    },
+    {
+      "cause": "shifted",
+      "codepoint": 57602,
+      "icon": "exclude",
+      "prefix": "glyphs-poly",
+      "primary": {
+        "xMax": 812,
+        "xMin": 0,
+        "yMax": 612,
+        "yMin": 0
+      },
+      "primaryFont": "GlyphsPoly",
+      "score": 200,
+      "secondary": {
+        "xMax": 612,
+        "xMin": 0,
+        "yMax": 812,
+        "yMin": 0
+      },
+      "secondaryFont": "GlyphsPolySecondary"
+    }
+  ],
+  "nonCanonical": [
+    {
+      "font": "GlyphsPoly",
+      "headBbox": "0..1000 / 0..953",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "glyphs-poly",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    },
+    {
+      "font": "GlyphsPolySecondary",
+      "headBbox": "0..1000 / 0..976",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "glyphs-poly",
+      "reasons": [
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [
+    {
+      "advance": 963,
+      "codepoint": 57384,
+      "font": "GlyphsPoly",
+      "name": "arrow-solid-curve-double",
+      "prefix": "glyphs-poly",
+      "reason": "advance"
+    },
+    {
+      "advance": 1025,
+      "codepoint": 57490,
+      "font": "GlyphsPoly",
+      "name": "car-tilt",
+      "prefix": "glyphs-poly",
+      "reason": "advance"
+    },
+    {
+      "advance": 1050,
+      "codepoint": 57534,
+      "font": "GlyphsPoly",
+      "name": "cogs",
+      "prefix": "glyphs-poly",
+      "reason": "advance"
+    },
+    {
+      "advance": 1012,
+      "codepoint": 57859,
+      "font": "GlyphsPoly",
+      "name": "puzzle-piece",
+      "prefix": "glyphs-poly",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57872,
+      "font": "GlyphsPoly",
+      "name": "recycle",
+      "prefix": "glyphs-poly",
+      "reason": "advance"
+    },
+    {
+      "advance": 963,
+      "codepoint": 57384,
+      "font": "GlyphsPolySecondary",
+      "name": "arrow-solid-curve-double",
+      "prefix": "glyphs-poly",
+      "reason": "advance"
+    },
+    {
+      "advance": 1050,
+      "codepoint": 57534,
+      "font": "GlyphsPolySecondary",
+      "name": "cogs",
+      "prefix": "glyphs-poly",
+      "reason": "advance"
+    },
+    {
+      "advance": 1012,
+      "codepoint": 57859,
+      "font": "GlyphsPolySecondary",
+      "name": "puzzle-piece",
+      "prefix": "glyphs-poly",
+      "reason": "advance"
+    },
+    {
+      "advance": 999,
+      "codepoint": 57872,
+      "font": "GlyphsPolySecondary",
+      "name": "recycle",
+      "prefix": "glyphs-poly",
+      "reason": "advance"
+    }
+  ],
+  "prefix": "glyphs-poly",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "GlyphsPoly",
+      "glyphCount": 733,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 953,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1050,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "GlyphsPolySecondary",
+      "glyphCount": 294,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 976,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1050,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

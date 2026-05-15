@@ -1,0 +1,423 @@
+{
+  "dedupCollisions": [
+    {
+      "codepointCount": 3,
+      "font": "Cil",
+      "glyphName": "baby-carriage",
+      "prefix": "cil",
+      "sampleIcons": [
+        "baby-carriage",
+        "child-friendly",
+        "pushchair"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Cil",
+      "glyphName": "eco",
+      "prefix": "cil",
+      "sampleIcons": [
+        "eco",
+        "leaf",
+        "plant"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Cil",
+      "glyphName": "magnifying-glass",
+      "prefix": "cil",
+      "sampleIcons": [
+        "magnifying-glass",
+        "search",
+        "zoom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "animal",
+      "prefix": "cil",
+      "sampleIcons": [
+        "animal",
+        "paw"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "applications",
+      "prefix": "cil",
+      "sampleIcons": [
+        "applications",
+        "apps"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "applications-settings",
+      "prefix": "cil",
+      "sampleIcons": [
+        "applications-settings",
+        "apps-settings"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "baby",
+      "prefix": "cil",
+      "sampleIcons": [
+        "baby",
+        "child"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "backspace",
+      "prefix": "cil",
+      "sampleIcons": [
+        "backspace",
+        "delete"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "bath",
+      "prefix": "cil",
+      "sampleIcons": [
+        "bath",
+        "bathroom"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "battery-0",
+      "prefix": "cil",
+      "sampleIcons": [
+        "battery-0",
+        "battery-empty"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "battery-5",
+      "prefix": "cil",
+      "sampleIcons": [
+        "battery-5",
+        "battery-full"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "burn",
+      "prefix": "cil",
+      "sampleIcons": [
+        "burn",
+        "fire"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "camera-control",
+      "prefix": "cil",
+      "sampleIcons": [
+        "camera-control",
+        "control"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "cash",
+      "prefix": "cil",
+      "sampleIcons": [
+        "cash",
+        "money"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "cc",
+      "prefix": "cil",
+      "sampleIcons": [
+        "cc",
+        "closed-captioning"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "cog",
+      "prefix": "cil",
+      "sampleIcons": [
+        "cog",
+        "settings"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "couch",
+      "prefix": "cil",
+      "sampleIcons": [
+        "couch",
+        "sofa"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "diamond",
+      "prefix": "cil",
+      "sampleIcons": [
+        "diamond",
+        "gem"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "disabled",
+      "prefix": "cil",
+      "sampleIcons": [
+        "disabled",
+        "wheelchair"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "education",
+      "prefix": "cil",
+      "sampleIcons": [
+        "education",
+        "school"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "factory",
+      "prefix": "cil",
+      "sampleIcons": [
+        "factory",
+        "industry"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "factory-slash",
+      "prefix": "cil",
+      "sampleIcons": [
+        "factory-slash",
+        "industry-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "football",
+      "prefix": "cil",
+      "sampleIcons": [
+        "football",
+        "soccer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "frown",
+      "prefix": "cil",
+      "sampleIcons": [
+        "frown",
+        "sad"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "gauge",
+      "prefix": "cil",
+      "sampleIcons": [
+        "gauge",
+        "speedometer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "group",
+      "prefix": "cil",
+      "sampleIcons": [
+        "group",
+        "people"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "hamburger-menu",
+      "prefix": "cil",
+      "sampleIcons": [
+        "hamburger-menu",
+        "menu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "happy",
+      "prefix": "cil",
+      "sampleIcons": [
+        "happy",
+        "smile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "institution",
+      "prefix": "cil",
+      "sampleIcons": [
+        "institution",
+        "library-building"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "mic",
+      "prefix": "cil",
+      "sampleIcons": [
+        "mic",
+        "microphone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "paper-plane",
+      "prefix": "cil",
+      "sampleIcons": [
+        "paper-plane",
+        "send"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "smoke",
+      "prefix": "cil",
+      "sampleIcons": [
+        "smoke",
+        "smoking-room"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "smoke-free",
+      "prefix": "cil",
+      "sampleIcons": [
+        "smoke-free",
+        "smoke-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "speak",
+      "prefix": "cil",
+      "sampleIcons": [
+        "speak",
+        "voice"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "strikethrough",
+      "prefix": "cil",
+      "sampleIcons": [
+        "strikethrough",
+        "text-strike"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "user-follow",
+      "prefix": "cil",
+      "sampleIcons": [
+        "user-follow",
+        "user-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Cil",
+      "glyphName": "user-unfollow",
+      "prefix": "cil",
+      "sampleIcons": [
+        "user-unfollow",
+        "user-x"
+      ]
+    }
+  ],
+  "duotoneMismatches": [],
+  "nonCanonical": [
+    {
+      "font": "Cil",
+      "headBbox": "0..1016 / 0..991",
+      "hheaAsc": 1000,
+      "hheaDesc": 0,
+      "os2TypoAsc": 1000,
+      "os2TypoDesc": 0,
+      "os2WinAsc": 1090,
+      "os2WinDesc": 0,
+      "prefix": "cil",
+      "reasons": [
+        "head.xMax=1016",
+        "OS/2.winAsc=1090"
+      ],
+      "unitsPerEm": 1000
+    }
+  ],
+  "outliers": [],
+  "prefix": "cil",
+  "ttfs": [
+    {
+      "error": null,
+      "font": "Cil",
+      "glyphCount": 562,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1016,
+        "xMin": 0,
+        "yMax": 991,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1090,
+        "usWinDescent": 0
+      }
+    }
+  ]
+}

@@ -6,7 +6,8 @@
   "scripts": {
     "generate": "bun run src/index.ts",
     "test": "bun test",
-    "merge-test": "bun run src/merge_test.ts"
+    "merge-test": "bun run src/merge_test.ts",
+    "audit": "bun run audit.ts"
   },
   "dependencies": {
     "@iconify/json": "^2.2.300",
