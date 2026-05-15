@@ -335,7 +335,9 @@ class _LoadedBody extends StatelessWidget {
             return SliverPersistentHeader(
               pinned: true,
               delegate: _PinnedTitleDelegate(
-                height: wide ? 66 : 116,
+                // Match the app top bar (58px) on wide. Narrow stacks the
+                // filter under the title so it needs a bit more room.
+                height: wide ? 58 : 96,
                 background: scaffoldBg,
                 child: Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 28),
@@ -936,48 +938,63 @@ class _TitleBar extends StatelessWidget {
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final titleRow = Row(
       mainAxisSize: MainAxisSize.min,
       crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         Flexible(
-          child: Text(title,
-              style: Theme.of(context).textTheme.headlineMedium,
-              overflow: TextOverflow.ellipsis),
+          child: Text(
+            title,
+            style: Theme.of(context)
+                .textTheme
+                .headlineMedium
+                ?.copyWith(fontSize: 20, height: 1.1, letterSpacing: -0.4),
+            overflow: TextOverflow.ellipsis,
+          ),
         ),
-        const SizedBox(width: 12),
+        const SizedBox(width: 10),
         Container(
-          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+          padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 2),
           decoration: BoxDecoration(
             color: isDark ? AppTheme.paper2Dark : AppTheme.paper2,
             borderRadius: BorderRadius.circular(6),
           ),
-          child: Text(countText, style: AppTheme.mono(size: 11, color: muted)),
+          child: Text(countText, style: AppTheme.mono(size: 10, color: muted)),
         ),
       ],
     );
     final filterField = SizedBox(
       width: useRowLayout ? 240 : double.infinity,
+      height: 36,
       child: TextField(
         controller: controller,
         onChanged: onChanged,
+        textAlignVertical: TextAlignVertical.center,
+        style: TextStyle(fontSize: 13, color: ink),
         decoration: InputDecoration(
           hintText: 'Filter icons…',
-          prefixIcon: Icon(Icons.search, size: 16, color: muted),
+          isDense: true,
+          hintStyle: TextStyle(fontSize: 13, color: muted),
+          prefixIcon: Icon(Icons.search, size: 14, color: muted),
           prefixIconConstraints:
-              const BoxConstraints(minWidth: 32, minHeight: 32),
+              const BoxConstraints(minWidth: 28, minHeight: 28),
+          contentPadding:
+              const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
         ),
       ),
     );
     if (useRowLayout) {
       return Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        crossAxisAlignment: CrossAxisAlignment.center,
         children: [titleRow, filterField],
       );
     }
     return Column(
+      mainAxisAlignment: MainAxisAlignment.center,
       crossAxisAlignment: CrossAxisAlignment.start,
-      children: [titleRow, const SizedBox(height: 10), filterField],
+      children: [titleRow, const SizedBox(height: 8), filterField],
     );
   }
 }
@@ -1007,7 +1024,9 @@ class _PinnedTitleDelegate extends SliverPersistentHeaderDelegate {
     return Material(
       color: background,
       child: Padding(
-        padding: const EdgeInsets.only(bottom: 18),
+        // Slim bottom breathing room — the row itself now matches the top
+        // bar so we don't need 18px of dead space underneath.
+        padding: const EdgeInsets.only(bottom: 8),
         child: child,
       ),
     );

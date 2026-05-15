@@ -25,7 +25,16 @@ class AppShellLayout extends AppRoute with RouteLayout<AppRoute> {
     return LayoutBuilder(
       builder: (context, constraints) {
         final isDesktop = constraints.maxWidth >= desktopBreakpoint;
-        return CallbackShortcuts(
+        // Hand-rolled `CallbackShortcuts` replacement. The plain `/`
+        // activator must NOT fire when the user is typing in a text field
+        // — otherwise the slash gets eaten by the shortcut callback before
+        // the TextField sees it, AND the bare-character matcher in
+        // Flutter's shortcut tree can swallow seemingly-unrelated keys
+        // (notably space) when the surrounding key-event chain is wired
+        // through ancestor `Focus` widgets. Filtering here unconditionally
+        // skips bindings while an `EditableText` holds primary focus,
+        // which is exactly the safety net the bug ticket asked for.
+        return _ShellShortcuts(
           bindings: {
             const SingleActivator(LogicalKeyboardKey.keyK, meta: true): () =>
                 appCoordinator.push(SearchRoute()),
@@ -34,19 +43,73 @@ class AppShellLayout extends AppRoute with RouteLayout<AppRoute> {
             const SingleActivator(LogicalKeyboardKey.slash): () =>
                 appCoordinator.push(SearchRoute()),
           },
-          child: Focus(
-            autofocus: true,
-            child: Scaffold(
-              body: Column(
-                children: [
-                  AppTopBar(showMenuButton: !isDesktop),
-                  Expanded(child: buildPath(coordinator)),
-                ],
-              ),
+          child: Scaffold(
+            body: Column(
+              children: [
+                AppTopBar(showMenuButton: !isDesktop),
+                Expanded(child: buildPath(coordinator)),
+              ],
             ),
           ),
         );
       },
+    );
+  }
+}
+
+/// Drop-in replacement for [CallbackShortcuts] that ignores key events
+/// while an [EditableText] holds primary focus.
+///
+/// Two motivations:
+///
+/// 1. The shell-level `LogicalKeyboardKey.slash` activator has no modifier.
+///    If we let it fire while a TextField is focused, every `/` keystroke
+///    pushes a new SearchRoute on top of the user's typing.
+/// 2. On Flutter web (3.44+) we observed plain-character shortcuts in the
+///    ancestor focus chain swallowing the `space` key inside text inputs
+///    (the search palette and the pack-detail filter). Even when no
+///    binding actually matches `space`, the way `CallbackShortcuts`
+///    inserts a non-traversable `Focus(onKeyEvent: …)` above the editor
+///    can interfere with how the engine routes the space character to
+///    the underlying editing surface. Bailing out of the shortcut path
+///    entirely whenever the focused widget is an [EditableText] keeps the
+///    palette / filter behaviour the same as a normal `TextField`.
+///
+/// Modifier-bearing shortcuts (`Cmd+K`, `Ctrl+K`) intentionally stay
+/// active inside text fields — they're the user's escape hatch out of an
+/// input.
+class _ShellShortcuts extends StatelessWidget {
+  const _ShellShortcuts({required this.bindings, required this.child});
+
+  final Map<ShortcutActivator, VoidCallback> bindings;
+  final Widget child;
+
+  bool _isTextFieldFocused() {
+    final node = FocusManager.instance.primaryFocus;
+    final widget = node?.context?.widget;
+    return widget is EditableText;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Focus(
+      canRequestFocus: false,
+      skipTraversal: true,
+      onKeyEvent: (node, event) {
+        if (_isTextFieldFocused()) {
+          // Defer entirely to the focused editor.
+          return KeyEventResult.ignored;
+        }
+        KeyEventResult result = KeyEventResult.ignored;
+        for (final activator in bindings.keys) {
+          if (activator.accepts(event, HardwareKeyboard.instance)) {
+            bindings[activator]!.call();
+            result = KeyEventResult.handled;
+          }
+        }
+        return result;
+      },
+      child: child,
     );
   }
 }

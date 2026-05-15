@@ -230,7 +230,10 @@ runs its centering math inside `Expanded`'s width.
 Both pack list and pack detail pin their title + filter input via
 `SliverPersistentHeader(pinned: true, delegate: _PinnedTitleDelegate(...))`.
 Delegate has fixed `minExtent == maxExtent` based on the page-wide flag:
-`66` for Row form (wide), `116` for Column form (narrow).
+`58` for Row form (wide — matches `AppTopBar` height exactly), `96` for
+Column form (narrow). The filter `TextField` is `height: 36` with `isDense:
+true` and 13-px text so both forms read as a compact chrome row rather
+than a second hero band.
 
 `_TitleBar` takes a `useRowLayout: bool` parameter (parent-controlled) so
 its layout matches the delegate's reserved extent — its internal
