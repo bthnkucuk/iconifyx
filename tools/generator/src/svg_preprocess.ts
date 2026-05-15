@@ -126,7 +126,19 @@ export function isLikelyStrokeSet(icons: readonly ResolvedIcon[]): boolean {
  */
 export function iconNeedsRasterTrace(body: string): boolean {
   const hasStroke = /stroke=/.test(body);
-  const hasFillNone = /fill=["']?none["']?/.test(body) || !/fill=/.test(body);
+  // "No effective fill" canonically means any of:
+  //   • fill="none" / fill=none
+  //   • fill="transparent" — SVG keyword for alpha=0, semantically the same
+  //     as `none` for our purposes (bpmn:call-activity uses this pattern)
+  //   • fill-opacity="0"
+  //   • no fill attribute at all (inherits default fill=black, but if the
+  //     parent has fill=none this is the typical stroke-only case)
+  // svgicons2svgfont treats any of these as "filled with currentColor",
+  // collapsing strokes to zero-width, which produces solid blobs.
+  const hasFillNone =
+    /fill=["']?(?:none|transparent)["']?/.test(body) ||
+    /fill-opacity\s*=\s*["']?0(?:\.0*)?["']?/.test(body) ||
+    !/fill=/.test(body);
   if (hasStroke && hasFillNone) return true;
   if (/fill-rule\s*=\s*["']?evenodd["']?/.test(body)) return true;
   return false;
@@ -415,6 +427,20 @@ const OPACITY_LT_ONE_RE =
   /\b(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["'](?:0?\.\d+|0)["']/;
 
 /**
+ * Replace (or append) an attribute on an element's attribute string.
+ * Used during duotone split when we need to force `fill="none"` /
+ * `stroke="none"` regardless of whether the element already declares
+ * that attribute (otherwise we'd emit `fill="currentColor" fill="none"`
+ * — XML duplicate-attribute behaviour is implementation-defined and we
+ * don't want to bet on parser order).
+ */
+function forceAttr(attrs: string, name: string, value: string): string {
+  const re = new RegExp(`\\s${name}\\s*=\\s*["'][^"']*["']`, 'g');
+  const stripped = attrs.replace(re, '');
+  return `${stripped} ${name}="${value}"`;
+}
+
+/**
  * Returns true if `body` contains at least one element with `opacity`,
  * `fill-opacity`, or `stroke-opacity` less than 1 — i.e. it visually
  * layers a darker primary over a translucent secondary. This is the
@@ -462,6 +488,13 @@ export function splitDuotoneBody(
   const primaryEls: string[] = [];
   const secondaryEls: string[] = [];
 
+  // Does the outer `<g>` wrapper paint via stroke / fill? Used to decide
+  // whether a per-element fill-opacity also strips the element's stroke
+  // (no — stroke comes from the parent and is at full strength) vs. its
+  // fill (yes — that's the faint half).
+  const groupHasStroke = /\bstroke\s*=\s*["'](?!none\b)[^"']+["']/.test(groupAttrs);
+  const groupHasFill = /\bfill\s*=\s*["'](?!none\b)[^"']+["']/.test(groupAttrs);
+
   let m: RegExpExecArray | null;
   let lastIndex = 0;
   let consumedAll = true;
@@ -484,18 +517,52 @@ export function splitDuotoneBody(
     const opacityMatch = attrs!.match(
       /\s(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["']([^"']+)["']/
     );
-    if (opacityMatch && parseFloat(opacityMatch[1]!) < 1) {
-      // Strip ALL opacity-style attributes from the secondary element so
-      // the resulting glyph renders solid in the Secondary TTF; the
-      // runtime widget controls translucency at display time via
-      // `IconifyIcon.duotone(secondaryOpacity:)`.
-      const stripped = attrs!.replace(
-        /\s(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["'][^"']+["']/g,
-        ''
-      );
-      secondaryEls.push(`<${tag}${stripped}/>`);
-    } else {
+    if (!opacityMatch || parseFloat(opacityMatch[1]!) >= 1) {
       primaryEls.push(`<${tag}${attrs}/>`);
+      continue;
+    }
+    // The element has a per-attribute fade. Decide whether to send the
+    // WHOLE element to secondary (Phosphor / ic / Solar case — element has
+    // bare `opacity=...` so both fill and stroke fade together), or to
+    // CLONE it across layers (lets-icons `*-duotone-line` case —
+    // `fill-opacity=.25` on a circle that ALSO carries a full-opacity
+    // stroke inherited from `<g stroke="currentColor">`).
+    const opacityKind = opacityMatch[0].includes('fill-opacity')
+      ? 'fill'
+      : opacityMatch[0].includes('stroke-opacity')
+      ? 'stroke'
+      : 'all';
+    // Effective fill / stroke for this element (own attrs override parent).
+    const ownFillNone = /\bfill\s*=\s*["'](?:none|transparent)["']/.test(attrs!);
+    const ownStrokeNone = /\bstroke\s*=\s*["']none["']/.test(attrs!);
+    const ownFillVisible = /\bfill\s*=\s*["'](?!none|transparent)[^"']+["']/.test(attrs!);
+    const ownStrokeVisible = /\bstroke\s*=\s*["'](?!none)[^"']+["']/.test(attrs!);
+    const hasFill = !ownFillNone && (ownFillVisible || groupHasFill);
+    const hasStroke = !ownStrokeNone && (ownStrokeVisible || groupHasStroke);
+    // Strip ALL opacity-style attributes from the secondary copy so the
+    // resulting glyph renders solid in the Secondary TTF; the runtime
+    // widget controls translucency at display time via
+    // `IconifyIcon.duotone(secondaryOpacity:)`.
+    const stripped = attrs!.replace(
+      /\s(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["'][^"']+["']/g,
+      ''
+    );
+    if (opacityKind === 'fill' && hasStroke && hasFill) {
+      // Faint fill on top of a strong stroke → ring goes to primary,
+      // faded fill to secondary. lets-icons:alarmclock-duotone-line
+      // (silver-ish ring + faint dial) shipped without a visible ring
+      // before this split because the whole circle landed in secondary
+      // and rasterize-trace collapsed stroke+fill into a solid disc.
+      primaryEls.push(`<${tag}${forceAttr(stripped, 'fill', 'none')}/>`);
+      secondaryEls.push(`<${tag}${forceAttr(stripped, 'stroke', 'none')}/>`);
+    } else if (opacityKind === 'stroke' && hasStroke && hasFill) {
+      // Symmetric case — fill stays strong, stroke is the faint hint.
+      primaryEls.push(`<${tag}${forceAttr(stripped, 'stroke', 'none')}/>`);
+      secondaryEls.push(`<${tag}${forceAttr(stripped, 'fill', 'none')}/>`);
+    } else {
+      // Bare `opacity=...` (fades both halves) OR the element only paints
+      // via one attribute — the original whole-element split is correct.
+      secondaryEls.push(`<${tag}${stripped}/>`);
     }
   }
   // Trailing non-whitespace also disqualifies.

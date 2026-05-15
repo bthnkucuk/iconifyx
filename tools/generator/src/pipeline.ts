@@ -55,6 +55,7 @@ import {
 import { writeCoverageReport } from './coverage_report.ts';
 import { writeStrokeAudit } from './stroke_audit.ts';
 import type { AuditEntry } from './stroke_audit.ts';
+import { verifyFontsAgainstManifests } from './font_verify.ts';
 import {
   setPackageDir,
   setPackageFontsDir,
@@ -291,6 +292,9 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
     });
   }
   await writeStrokeAudit(auditEntries);
+
+  log.step('Verifying fonts against manifests');
+  await verifyFontsAgainstManifests(allManifests);
 
   log.success('All artifacts written.');
 }

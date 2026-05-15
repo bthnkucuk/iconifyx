@@ -27,7 +27,7 @@
     {
       "family": "GlyphsSecondary",
       "nextCodepoint": 60796,
-      "iconCount": 1151
+      "iconCount": 1605
     }
   ],
   "icons": {
@@ -49,7 +49,8 @@
     "a-outline": {
       "codepoint": 57347,
       "fontFamily": "Glyphs",
-      "identifier": "aOutline"
+      "identifier": "aOutline",
+      "duotone": true
     },
     "accessible": {
       "codepoint": 57348,
@@ -70,7 +71,8 @@
     "accessible-outline": {
       "codepoint": 57351,
       "fontFamily": "Glyphs",
-      "identifier": "accessibleOutline"
+      "identifier": "accessibleOutline",
+      "duotone": true
     },
     "activity": {
       "codepoint": 57352,
@@ -95,7 +97,8 @@
     "activity-1-outline": {
       "codepoint": 57356,
       "fontFamily": "Glyphs",
-      "identifier": "activity1Outline"
+      "identifier": "activity1Outline",
+      "duotone": true
     },
     "activity-bold": {
       "codepoint": 57357,
@@ -110,7 +113,8 @@
     "activity-outline": {
       "codepoint": 57359,
       "fontFamily": "Glyphs",
-      "identifier": "activityOutline"
+      "identifier": "activityOutline",
+      "duotone": true
     },
     "adjust": {
       "codepoint": 57360,
@@ -153,7 +157,8 @@
     "adjust-outline": {
       "codepoint": 57367,
       "fontFamily": "Glyphs",
-      "identifier": "adjustOutline"
+      "identifier": "adjustOutline",
+      "duotone": true
     },
     "alarm-clock": {
       "codepoint": 57368,
@@ -349,7 +354,8 @@
     "align-items-center-outline": {
       "codepoint": 57403,
       "fontFamily": "Glyphs",
-      "identifier": "alignItemsCenterOutline"
+      "identifier": "alignItemsCenterOutline",
+      "duotone": true
     },
     "align-items-side": {
       "codepoint": 57404,
@@ -455,7 +461,8 @@
     "ambulance-outline": {
       "codepoint": 57423,
       "fontFamily": "Glyphs",
-      "identifier": "ambulanceOutline"
+      "identifier": "ambulanceOutline",
+      "duotone": true
     },
     "ampersand": {
       "codepoint": 57424,
@@ -480,7 +487,8 @@
     "ampersand-1-outline": {
       "codepoint": 57428,
       "fontFamily": "Glyphs",
-      "identifier": "ampersand1Outline"
+      "identifier": "ampersand1Outline",
+      "duotone": true
     },
     "ampersand-2": {
       "codepoint": 57429,
@@ -500,7 +508,8 @@
     "ampersand-2-outline": {
       "codepoint": 57432,
       "fontFamily": "Glyphs",
-      "identifier": "ampersand2Outline"
+      "identifier": "ampersand2Outline",
+      "duotone": true
     },
     "ampersand-bold": {
       "codepoint": 57433,
@@ -515,7 +524,8 @@
     "ampersand-outline": {
       "codepoint": 57435,
       "fontFamily": "Glyphs",
-      "identifier": "ampersandOutline"
+      "identifier": "ampersandOutline",
+      "duotone": true
     },
     "analytics": {
       "codepoint": 57436,
@@ -558,7 +568,8 @@
     "anchor-outline": {
       "codepoint": 57443,
       "fontFamily": "Glyphs",
-      "identifier": "anchorOutline"
+      "identifier": "anchorOutline",
+      "duotone": true
     },
     "angle": {
       "codepoint": 57444,
@@ -599,7 +610,8 @@
     "angle-outline": {
       "codepoint": 57451,
       "fontFamily": "Glyphs",
-      "identifier": "angleOutline"
+      "identifier": "angleOutline",
+      "duotone": true
     },
     "angry": {
       "codepoint": 57452,
@@ -642,7 +654,8 @@
     "aperture-outline": {
       "codepoint": 57459,
       "fontFamily": "Glyphs",
-      "identifier": "apertureOutline"
+      "identifier": "apertureOutline",
+      "duotone": true
     },
     "apple": {
       "codepoint": 57460,
@@ -766,7 +779,8 @@
     "arrow-level-outline": {
       "codepoint": 57482,
       "fontFamily": "Glyphs",
-      "identifier": "arrowLevelOutline"
+      "identifier": "arrowLevelOutline",
+      "duotone": true
     },
     "arrow-line-end": {
       "codepoint": 57483,
@@ -786,7 +800,8 @@
     "arrow-line-end-outline": {
       "codepoint": 57486,
       "fontFamily": "Glyphs",
-      "identifier": "arrowLineEndOutline"
+      "identifier": "arrowLineEndOutline",
+      "duotone": true
     },
     "arrow-line-start": {
       "codepoint": 57487,
@@ -806,7 +821,8 @@
     "arrow-line-start-outline": {
       "codepoint": 57490,
       "fontFamily": "Glyphs",
-      "identifier": "arrowLineStartOutline"
+      "identifier": "arrowLineStartOutline",
+      "duotone": true
     },
     "arrow-long": {
       "codepoint": 57491,
@@ -827,12 +843,14 @@
     "arrow-long-outline": {
       "codepoint": 57494,
       "fontFamily": "Glyphs",
-      "identifier": "arrowLongOutline"
+      "identifier": "arrowLongOutline",
+      "duotone": true
     },
     "arrow-outline": {
       "codepoint": 57495,
       "fontFamily": "Glyphs",
-      "identifier": "arrowOutline"
+      "identifier": "arrowOutline",
+      "duotone": true
     },
     "arrow-round": {
       "codepoint": 57496,
@@ -853,7 +871,8 @@
     "arrow-round-outline": {
       "codepoint": 57499,
       "fontFamily": "Glyphs",
-      "identifier": "arrowRoundOutline"
+      "identifier": "arrowRoundOutline",
+      "duotone": true
     },
     "arrow-solid": {
       "codepoint": 57500,
@@ -966,17 +985,20 @@
     "arrow-solid-curve-duo": {
       "codepoint": 57520,
       "fontFamily": "Glyphs",
-      "identifier": "arrowSolidCurveDuo"
+      "identifier": "arrowSolidCurveDuo",
+      "duotone": true
     },
     "arrow-solid-curve-outline": {
       "codepoint": 57521,
       "fontFamily": "Glyphs",
-      "identifier": "arrowSolidCurveOutline"
+      "identifier": "arrowSolidCurveOutline",
+      "duotone": true
     },
     "arrow-solid-duo": {
       "codepoint": 57522,
       "fontFamily": "Glyphs",
-      "identifier": "arrowSolidDuo"
+      "identifier": "arrowSolidDuo",
+      "duotone": true
     },
     "arrow-solid-line-end": {
       "codepoint": 57523,
@@ -1025,7 +1047,8 @@
     "arrow-solid-outline": {
       "codepoint": 57531,
       "fontFamily": "Glyphs",
-      "identifier": "arrowSolidOutline"
+      "identifier": "arrowSolidOutline",
+      "duotone": true
     },
     "arrow-solid-square": {
       "codepoint": 57532,
@@ -1090,7 +1113,8 @@
     "arrow-turn-outline": {
       "codepoint": 57543,
       "fontFamily": "Glyphs",
-      "identifier": "arrowTurnOutline"
+      "identifier": "arrowTurnOutline",
+      "duotone": true
     },
     "arrow-u-turn": {
       "codepoint": 57544,
@@ -1111,7 +1135,8 @@
     "arrow-u-turn-outline": {
       "codepoint": 57547,
       "fontFamily": "Glyphs",
-      "identifier": "arrowUTurnOutline"
+      "identifier": "arrowUTurnOutline",
+      "duotone": true
     },
     "arrows-compress-duo": {
       "codepoint": 57548,
@@ -1286,7 +1311,8 @@
     "arrows-route-outline": {
       "codepoint": 57579,
       "fontFamily": "Glyphs",
-      "identifier": "arrowsRouteOutline"
+      "identifier": "arrowsRouteOutline",
+      "duotone": true
     },
     "arrows-split": {
       "codepoint": 57580,
@@ -1307,7 +1333,8 @@
     "arrows-split-outline": {
       "codepoint": 57583,
       "fontFamily": "Glyphs",
-      "identifier": "arrowsSplitOutline"
+      "identifier": "arrowsSplitOutline",
+      "duotone": true
     },
     "asterisk": {
       "codepoint": 57584,
@@ -1327,7 +1354,8 @@
     "asterisk-outline": {
       "codepoint": 57587,
       "fontFamily": "Glyphs",
-      "identifier": "asteriskOutline"
+      "identifier": "asteriskOutline",
+      "duotone": true
     },
     "at": {
       "codepoint": 57588,
@@ -1347,7 +1375,8 @@
     "at-outline": {
       "codepoint": 57591,
       "fontFamily": "Glyphs",
-      "identifier": "atOutline"
+      "identifier": "atOutline",
+      "duotone": true
     },
     "axe": {
       "codepoint": 57592,
@@ -1368,7 +1397,8 @@
     "axe-outline": {
       "codepoint": 57595,
       "fontFamily": "Glyphs",
-      "identifier": "axeOutline"
+      "identifier": "axeOutline",
+      "duotone": true
     },
     "b": {
       "codepoint": 57596,
@@ -1388,7 +1418,8 @@
     "b-outline": {
       "codepoint": 57599,
       "fontFamily": "Glyphs",
-      "identifier": "bOutline"
+      "identifier": "bOutline",
+      "duotone": true
     },
     "baby": {
       "codepoint": 57600,
@@ -1409,7 +1440,8 @@
     "baby-outline": {
       "codepoint": 57603,
       "fontFamily": "Glyphs",
-      "identifier": "babyOutline"
+      "identifier": "babyOutline",
+      "duotone": true
     },
     "badge": {
       "codepoint": 57604,
@@ -1424,12 +1456,14 @@
     "badge-duo": {
       "codepoint": 57606,
       "fontFamily": "Glyphs",
-      "identifier": "badgeDuo"
+      "identifier": "badgeDuo",
+      "duotone": true
     },
     "badge-outline": {
       "codepoint": 57607,
       "fontFamily": "Glyphs",
-      "identifier": "badgeOutline"
+      "identifier": "badgeOutline",
+      "duotone": true
     },
     "bandage": {
       "codepoint": 57608,
@@ -1455,7 +1489,8 @@
     "bandage-1-outline": {
       "codepoint": 57612,
       "fontFamily": "Glyphs",
-      "identifier": "bandage1Outline"
+      "identifier": "bandage1Outline",
+      "duotone": true
     },
     "bandage-bold": {
       "codepoint": 57613,
@@ -1670,7 +1705,8 @@
     "baseball-bat-outline": {
       "codepoint": 57652,
       "fontFamily": "Glyphs",
-      "identifier": "baseballBatOutline"
+      "identifier": "baseballBatOutline",
+      "duotone": true
     },
     "baseball-bold": {
       "codepoint": 57653,
@@ -1730,7 +1766,8 @@
     "basketball-outline": {
       "codepoint": 57663,
       "fontFamily": "Glyphs",
-      "identifier": "basketballOutline"
+      "identifier": "basketballOutline",
+      "duotone": true
     },
     "battery": {
       "codepoint": 57664,
@@ -1959,7 +1996,8 @@
     "battery-bolt-outline": {
       "codepoint": 57705,
       "fontFamily": "Glyphs",
-      "identifier": "batteryBoltOutline"
+      "identifier": "batteryBoltOutline",
+      "duotone": true
     },
     "battery-car": {
       "codepoint": 57706,
@@ -1980,7 +2018,8 @@
     "battery-car-outline": {
       "codepoint": 57709,
       "fontFamily": "Glyphs",
-      "identifier": "batteryCarOutline"
+      "identifier": "batteryCarOutline",
+      "duotone": true
     },
     "battery-charge": {
       "codepoint": 57710,
@@ -2013,7 +2052,8 @@
     "battery-outline": {
       "codepoint": 57715,
       "fontFamily": "Glyphs",
-      "identifier": "batteryOutline"
+      "identifier": "batteryOutline",
+      "duotone": true
     },
     "battery-warn": {
       "codepoint": 57716,
@@ -2094,7 +2134,8 @@
     "bed-empty-outline": {
       "codepoint": 57730,
       "fontFamily": "Glyphs",
-      "identifier": "bedEmptyOutline"
+      "identifier": "bedEmptyOutline",
+      "duotone": true
     },
     "bed-outline": {
       "codepoint": 57731,
@@ -2165,7 +2206,8 @@
     "bell-outline": {
       "codepoint": 57743,
       "fontFamily": "Glyphs",
-      "identifier": "bellOutline"
+      "identifier": "bellOutline",
+      "duotone": true
     },
     "bell-remove": {
       "codepoint": 57744,
@@ -2230,7 +2272,8 @@
     "bell-slash-outline": {
       "codepoint": 57755,
       "fontFamily": "Glyphs",
-      "identifier": "bellSlashOutline"
+      "identifier": "bellSlashOutline",
+      "duotone": true
     },
     "bells": {
       "codepoint": 57756,
@@ -2251,7 +2294,8 @@
     "bells-outline": {
       "codepoint": 57759,
       "fontFamily": "Glyphs",
-      "identifier": "bellsOutline"
+      "identifier": "bellsOutline",
+      "duotone": true
     },
     "bench": {
       "codepoint": 57760,
@@ -2271,7 +2315,8 @@
     "bench-outline": {
       "codepoint": 57763,
       "fontFamily": "Glyphs",
-      "identifier": "benchOutline"
+      "identifier": "benchOutline",
+      "duotone": true
     },
     "bezier-curve": {
       "codepoint": 57764,
@@ -2292,7 +2337,8 @@
     "bezier-curve-outline": {
       "codepoint": 57767,
       "fontFamily": "Glyphs",
-      "identifier": "bezierCurveOutline"
+      "identifier": "bezierCurveOutline",
+      "duotone": true
     },
     "bezier-diamond": {
       "codepoint": 57768,
@@ -2313,7 +2359,8 @@
     "bezier-diamond-outline": {
       "codepoint": 57771,
       "fontFamily": "Glyphs",
-      "identifier": "bezierDiamondOutline"
+      "identifier": "bezierDiamondOutline",
+      "duotone": true
     },
     "bezier-hexagon": {
       "codepoint": 57772,
@@ -2334,7 +2381,8 @@
     "bezier-hexagon-outline": {
       "codepoint": 57775,
       "fontFamily": "Glyphs",
-      "identifier": "bezierHexagonOutline"
+      "identifier": "bezierHexagonOutline",
+      "duotone": true
     },
     "bezier-pentagon": {
       "codepoint": 57776,
@@ -2355,7 +2403,8 @@
     "bezier-pentagon-outline": {
       "codepoint": 57779,
       "fontFamily": "Glyphs",
-      "identifier": "bezierPentagonOutline"
+      "identifier": "bezierPentagonOutline",
+      "duotone": true
     },
     "bezier-square": {
       "codepoint": 57780,
@@ -2376,7 +2425,8 @@
     "bezier-square-outline": {
       "codepoint": 57783,
       "fontFamily": "Glyphs",
-      "identifier": "bezierSquareOutline"
+      "identifier": "bezierSquareOutline",
+      "duotone": true
     },
     "bezier-triangle": {
       "codepoint": 57784,
@@ -2397,7 +2447,8 @@
     "bezier-triangle-outline": {
       "codepoint": 57787,
       "fontFamily": "Glyphs",
-      "identifier": "bezierTriangleOutline"
+      "identifier": "bezierTriangleOutline",
+      "duotone": true
     },
     "bike": {
       "codepoint": 57788,
@@ -2418,7 +2469,8 @@
     "bike-outline": {
       "codepoint": 57791,
       "fontFamily": "Glyphs",
-      "identifier": "bikeOutline"
+      "identifier": "bikeOutline",
+      "duotone": true
     },
     "binoculars": {
       "codepoint": 57792,
@@ -2482,7 +2534,8 @@
     "bold-outline": {
       "codepoint": 57803,
       "fontFamily": "Glyphs",
-      "identifier": "boldOutline"
+      "identifier": "boldOutline",
+      "duotone": true
     },
     "bolt": {
       "codepoint": 57804,
@@ -2502,12 +2555,14 @@
     "bolt-1-duo": {
       "codepoint": 57807,
       "fontFamily": "Glyphs",
-      "identifier": "bolt1Duo"
+      "identifier": "bolt1Duo",
+      "duotone": true
     },
     "bolt-1-outline": {
       "codepoint": 57808,
       "fontFamily": "Glyphs",
-      "identifier": "bolt1Outline"
+      "identifier": "bolt1Outline",
+      "duotone": true
     },
     "bolt-bold": {
       "codepoint": 57809,
@@ -2517,12 +2572,14 @@
     "bolt-duo": {
       "codepoint": 57810,
       "fontFamily": "Glyphs",
-      "identifier": "boltDuo"
+      "identifier": "boltDuo",
+      "duotone": true
     },
     "bolt-outline": {
       "codepoint": 57811,
       "fontFamily": "Glyphs",
-      "identifier": "boltOutline"
+      "identifier": "boltOutline",
+      "duotone": true
     },
     "book": {
       "codepoint": 57812,
@@ -2581,12 +2638,14 @@
     "book-open-outline": {
       "codepoint": 57822,
       "fontFamily": "Glyphs",
-      "identifier": "bookOpenOutline"
+      "identifier": "bookOpenOutline",
+      "duotone": true
     },
     "book-outline": {
       "codepoint": 57823,
       "fontFamily": "Glyphs",
-      "identifier": "bookOutline"
+      "identifier": "bookOutline",
+      "duotone": true
     },
     "book-side": {
       "codepoint": 57824,
@@ -2607,7 +2666,8 @@
     "book-side-outline": {
       "codepoint": 57827,
       "fontFamily": "Glyphs",
-      "identifier": "bookSideOutline"
+      "identifier": "bookSideOutline",
+      "duotone": true
     },
     "book-spine": {
       "codepoint": 57828,
@@ -2628,7 +2688,8 @@
     "book-spine-outline": {
       "codepoint": 57831,
       "fontFamily": "Glyphs",
-      "identifier": "bookSpineOutline"
+      "identifier": "bookSpineOutline",
+      "duotone": true
     },
     "bookmark": {
       "codepoint": 57832,
@@ -2643,12 +2704,14 @@
     "bookmark-duo": {
       "codepoint": 57834,
       "fontFamily": "Glyphs",
-      "identifier": "bookmarkDuo"
+      "identifier": "bookmarkDuo",
+      "duotone": true
     },
     "bookmark-outline": {
       "codepoint": 57835,
       "fontFamily": "Glyphs",
-      "identifier": "bookmarkOutline"
+      "identifier": "bookmarkOutline",
+      "duotone": true
     },
     "bookmarks": {
       "codepoint": 57836,
@@ -2691,7 +2754,8 @@
     "books-outline": {
       "codepoint": 57843,
       "fontFamily": "Glyphs",
-      "identifier": "booksOutline"
+      "identifier": "booksOutline",
+      "duotone": true
     },
     "border": {
       "codepoint": 57844,
@@ -2716,7 +2780,8 @@
     "border-all-outline": {
       "codepoint": 57848,
       "fontFamily": "Glyphs",
-      "identifier": "borderAllOutline"
+      "identifier": "borderAllOutline",
+      "duotone": true
     },
     "border-bold": {
       "codepoint": 57849,
@@ -2767,7 +2832,8 @@
     "border-inner-outline": {
       "codepoint": 57858,
       "fontFamily": "Glyphs",
-      "identifier": "borderInnerOutline"
+      "identifier": "borderInnerOutline",
+      "duotone": true
     },
     "border-none": {
       "codepoint": 57859,
@@ -2834,7 +2900,8 @@
     "border-style-outline": {
       "codepoint": 57871,
       "fontFamily": "Glyphs",
-      "identifier": "borderStyleOutline"
+      "identifier": "borderStyleOutline",
+      "duotone": true
     },
     "box": {
       "codepoint": 57872,
@@ -2860,7 +2927,8 @@
     "box-1-outline": {
       "codepoint": 57876,
       "fontFamily": "Glyphs",
-      "identifier": "box1Outline"
+      "identifier": "box1Outline",
+      "duotone": true
     },
     "box-bold": {
       "codepoint": 57877,
@@ -2886,7 +2954,8 @@
     "box-close-outline": {
       "codepoint": 57881,
       "fontFamily": "Glyphs",
-      "identifier": "boxCloseOutline"
+      "identifier": "boxCloseOutline",
+      "duotone": true
     },
     "box-duo": {
       "codepoint": 57882,
@@ -3001,12 +3070,14 @@
     "box-open-outline": {
       "codepoint": 57902,
       "fontFamily": "Glyphs",
-      "identifier": "boxOpenOutline"
+      "identifier": "boxOpenOutline",
+      "duotone": true
     },
     "box-outline": {
       "codepoint": 57903,
       "fontFamily": "Glyphs",
-      "identifier": "boxOutline"
+      "identifier": "boxOutline",
+      "duotone": true
     },
     "boxing-glove": {
       "codepoint": 57904,
@@ -3027,7 +3098,8 @@
     "boxing-glove-outline": {
       "codepoint": 57907,
       "fontFamily": "Glyphs",
-      "identifier": "boxingGloveOutline"
+      "identifier": "boxingGloveOutline",
+      "duotone": true
     },
     "brain": {
       "codepoint": 57908,
@@ -3075,7 +3147,8 @@
     "briefcase-1-outline": {
       "codepoint": 57916,
       "fontFamily": "Glyphs",
-      "identifier": "briefcase1Outline"
+      "identifier": "briefcase1Outline",
+      "duotone": true
     },
     "briefcase-bold": {
       "codepoint": 57917,
@@ -3113,7 +3186,8 @@
     "briefcase-outline": {
       "codepoint": 57923,
       "fontFamily": "Glyphs",
-      "identifier": "briefcaseOutline"
+      "identifier": "briefcaseOutline",
+      "duotone": true
     },
     "building": {
       "codepoint": 57924,
@@ -3331,7 +3405,8 @@
     "c-outline": {
       "codepoint": 57963,
       "fontFamily": "Glyphs",
-      "identifier": "cOutline"
+      "identifier": "cOutline",
+      "duotone": true
     },
     "calculator": {
       "codepoint": 57964,
@@ -3374,7 +3449,8 @@
     "calendar-outline": {
       "codepoint": 57971,
       "fontFamily": "Glyphs",
-      "identifier": "calendarOutline"
+      "identifier": "calendarOutline",
+      "duotone": true
     },
     "camcorder": {
       "codepoint": 57972,
@@ -3439,7 +3515,8 @@
     "camp-outline": {
       "codepoint": 57983,
       "fontFamily": "Glyphs",
-      "identifier": "campOutline"
+      "identifier": "campOutline",
+      "duotone": true
     },
     "campfire": {
       "codepoint": 57984,
@@ -3482,7 +3559,8 @@
     "cannabis-outline": {
       "codepoint": 57991,
       "fontFamily": "Glyphs",
-      "identifier": "cannabisOutline"
+      "identifier": "cannabisOutline",
+      "duotone": true
     },
     "canoe": {
       "codepoint": 57992,
@@ -3508,7 +3586,8 @@
     "canoe-1-outline": {
       "codepoint": 57996,
       "fontFamily": "Glyphs",
-      "identifier": "canoe1Outline"
+      "identifier": "canoe1Outline",
+      "duotone": true
     },
     "canoe-2": {
       "codepoint": 57997,
@@ -3529,7 +3608,8 @@
     "canoe-2-outline": {
       "codepoint": 58000,
       "fontFamily": "Glyphs",
-      "identifier": "canoe2Outline"
+      "identifier": "canoe2Outline",
+      "duotone": true
     },
     "canoe-bold": {
       "codepoint": 58001,
@@ -3545,7 +3625,8 @@
     "canoe-outline": {
       "codepoint": 58003,
       "fontFamily": "Glyphs",
-      "identifier": "canoeOutline"
+      "identifier": "canoeOutline",
+      "duotone": true
     },
     "car": {
       "codepoint": 58004,
@@ -3632,7 +3713,8 @@
     "car-side-outline": {
       "codepoint": 58019,
       "fontFamily": "Glyphs",
-      "identifier": "carSideOutline"
+      "identifier": "carSideOutline",
+      "duotone": true
     },
     "car-tilt": {
       "codepoint": 58020,
@@ -3713,12 +3795,14 @@
     "caret-duo": {
       "codepoint": 58034,
       "fontFamily": "Glyphs",
-      "identifier": "caretDuo"
+      "identifier": "caretDuo",
+      "duotone": true
     },
     "caret-outline": {
       "codepoint": 58035,
       "fontFamily": "Glyphs",
-      "identifier": "caretOutline"
+      "identifier": "caretOutline",
+      "duotone": true
     },
     "caret-square": {
       "codepoint": 58036,
@@ -3821,12 +3905,14 @@
     "certificate-duo": {
       "codepoint": 58054,
       "fontFamily": "Glyphs",
-      "identifier": "certificateDuo"
+      "identifier": "certificateDuo",
+      "duotone": true
     },
     "certificate-outline": {
       "codepoint": 58055,
       "fontFamily": "Glyphs",
-      "identifier": "certificateOutline"
+      "identifier": "certificateOutline",
+      "duotone": true
     },
     "certificate-scroll": {
       "codepoint": 58056,
@@ -3847,7 +3933,8 @@
     "certificate-scroll-outline": {
       "codepoint": 58059,
       "fontFamily": "Glyphs",
-      "identifier": "certificateScrollOutline"
+      "identifier": "certificateScrollOutline",
+      "duotone": true
     },
     "chart-bar": {
       "codepoint": 58060,
@@ -3873,7 +3960,8 @@
     "chart-bar-1-outline": {
       "codepoint": 58064,
       "fontFamily": "Glyphs",
-      "identifier": "chartBar1Outline"
+      "identifier": "chartBar1Outline",
+      "duotone": true
     },
     "chart-bar-bold": {
       "codepoint": 58065,
@@ -3889,7 +3977,8 @@
     "chart-bar-outline": {
       "codepoint": 58067,
       "fontFamily": "Glyphs",
-      "identifier": "chartBarOutline"
+      "identifier": "chartBarOutline",
+      "duotone": true
     },
     "chart-donut": {
       "codepoint": 58068,
@@ -3937,7 +4026,8 @@
     "chart-line-1-outline": {
       "codepoint": 58076,
       "fontFamily": "Glyphs",
-      "identifier": "chartLine1Outline"
+      "identifier": "chartLine1Outline",
+      "duotone": true
     },
     "chart-line-bold": {
       "codepoint": 58077,
@@ -3953,7 +4043,8 @@
     "chart-line-outline": {
       "codepoint": 58079,
       "fontFamily": "Glyphs",
-      "identifier": "chartLineOutline"
+      "identifier": "chartLineOutline",
+      "duotone": true
     },
     "chart-pie": {
       "codepoint": 58080,
@@ -4082,7 +4173,8 @@
     "check-outline": {
       "codepoint": 58103,
       "fontFamily": "Glyphs",
-      "identifier": "checkOutline"
+      "identifier": "checkOutline",
+      "duotone": true
     },
     "check-square": {
       "codepoint": 58104,
@@ -4166,7 +4258,8 @@
     "chevron-outline": {
       "codepoint": 58119,
       "fontFamily": "Glyphs",
-      "identifier": "chevronOutline"
+      "identifier": "chevronOutline",
+      "duotone": true
     },
     "chevron-square": {
       "codepoint": 58120,
@@ -4209,7 +4302,8 @@
     "child-outline": {
       "codepoint": 58127,
       "fontFamily": "Glyphs",
-      "identifier": "childOutline"
+      "identifier": "childOutline",
+      "duotone": true
     },
     "circle": {
       "codepoint": 58128,
@@ -4224,7 +4318,8 @@
     "circle-duo": {
       "codepoint": 58130,
       "fontFamily": "Glyphs",
-      "identifier": "circleDuo"
+      "identifier": "circleDuo",
+      "duotone": true
     },
     "circle-half": {
       "codepoint": 58131,
@@ -4272,7 +4367,8 @@
     "circle-half-2-outline": {
       "codepoint": 58139,
       "fontFamily": "Glyphs",
-      "identifier": "circleHalf2Outline"
+      "identifier": "circleHalf2Outline",
+      "duotone": true
     },
     "circle-half-bold": {
       "codepoint": 58140,
@@ -4282,17 +4378,20 @@
     "circle-half-duo": {
       "codepoint": 58141,
       "fontFamily": "Glyphs",
-      "identifier": "circleHalfDuo"
+      "identifier": "circleHalfDuo",
+      "duotone": true
     },
     "circle-half-outline": {
       "codepoint": 58142,
       "fontFamily": "Glyphs",
-      "identifier": "circleHalfOutline"
+      "identifier": "circleHalfOutline",
+      "duotone": true
     },
     "circle-outline": {
       "codepoint": 58143,
       "fontFamily": "Glyphs",
-      "identifier": "circleOutline"
+      "identifier": "circleOutline",
+      "duotone": true
     },
     "cli": {
       "codepoint": 58144,
@@ -4312,7 +4411,8 @@
     "cli-outline": {
       "codepoint": 58147,
       "fontFamily": "Glyphs",
-      "identifier": "cliOutline"
+      "identifier": "cliOutline",
+      "duotone": true
     },
     "clipboard": {
       "codepoint": 58148,
@@ -4333,7 +4433,8 @@
     "clipboard-outline": {
       "codepoint": 58151,
       "fontFamily": "Glyphs",
-      "identifier": "clipboardOutline"
+      "identifier": "clipboardOutline",
+      "duotone": true
     },
     "clock": {
       "codepoint": 58152,
@@ -4419,7 +4520,8 @@
     "cloud-1-duo": {
       "codepoint": 58167,
       "fontFamily": "Glyphs",
-      "identifier": "cloud1Duo"
+      "identifier": "cloud1Duo",
+      "duotone": true
     },
     "cloud-1-outline": {
       "codepoint": 58168,
@@ -4435,12 +4537,14 @@
     "cloud-duo": {
       "codepoint": 58170,
       "fontFamily": "Glyphs",
-      "identifier": "cloudDuo"
+      "identifier": "cloudDuo",
+      "duotone": true
     },
     "cloud-outline": {
       "codepoint": 58171,
       "fontFamily": "Glyphs",
-      "identifier": "cloudOutline"
+      "identifier": "cloudOutline",
+      "duotone": true
     },
     "cloudy": {
       "codepoint": 58172,
@@ -4521,7 +4625,8 @@
     "club-duo": {
       "codepoint": 58186,
       "fontFamily": "Glyphs",
-      "identifier": "clubDuo"
+      "identifier": "clubDuo",
+      "duotone": true
     },
     "club-outline": {
       "codepoint": 58187,
@@ -4552,7 +4657,8 @@
     "code-1-outline": {
       "codepoint": 58192,
       "fontFamily": "Glyphs",
-      "identifier": "code1Outline"
+      "identifier": "code1Outline",
+      "duotone": true
     },
     "code-bold": {
       "codepoint": 58193,
@@ -4567,7 +4673,8 @@
     "code-outline": {
       "codepoint": 58195,
       "fontFamily": "Glyphs",
-      "identifier": "codeOutline"
+      "identifier": "codeOutline",
+      "duotone": true
     },
     "cog": {
       "codepoint": 58196,
@@ -4587,7 +4694,8 @@
     "cog-1-duo": {
       "codepoint": 58199,
       "fontFamily": "Glyphs",
-      "identifier": "cog1Duo"
+      "identifier": "cog1Duo",
+      "duotone": true
     },
     "cog-1-outline": {
       "codepoint": 58200,
@@ -4603,7 +4711,8 @@
     "cog-duo": {
       "codepoint": 58202,
       "fontFamily": "Glyphs",
-      "identifier": "cogDuo"
+      "identifier": "cogDuo",
+      "duotone": true
     },
     "cog-outline": {
       "codepoint": 58203,
@@ -4668,12 +4777,14 @@
     "cogwheel-duo": {
       "codepoint": 58214,
       "fontFamily": "Glyphs",
-      "identifier": "cogwheelDuo"
+      "identifier": "cogwheelDuo",
+      "duotone": true
     },
     "cogwheel-outline": {
       "codepoint": 58215,
       "fontFamily": "Glyphs",
-      "identifier": "cogwheelOutline"
+      "identifier": "cogwheelOutline",
+      "duotone": true
     },
     "coin": {
       "codepoint": 58216,
@@ -4781,12 +4892,14 @@
     "comment-1-duo": {
       "codepoint": 58235,
       "fontFamily": "Glyphs",
-      "identifier": "comment1Duo"
+      "identifier": "comment1Duo",
+      "duotone": true
     },
     "comment-1-outline": {
       "codepoint": 58236,
       "fontFamily": "Glyphs",
-      "identifier": "comment1Outline"
+      "identifier": "comment1Outline",
+      "duotone": true
     },
     "comment-2": {
       "codepoint": 58237,
@@ -4801,12 +4914,14 @@
     "comment-2-duo": {
       "codepoint": 58239,
       "fontFamily": "Glyphs",
-      "identifier": "comment2Duo"
+      "identifier": "comment2Duo",
+      "duotone": true
     },
     "comment-2-outline": {
       "codepoint": 58240,
       "fontFamily": "Glyphs",
-      "identifier": "comment2Outline"
+      "identifier": "comment2Outline",
+      "duotone": true
     },
     "comment-3": {
       "codepoint": 58241,
@@ -4821,12 +4936,14 @@
     "comment-3-duo": {
       "codepoint": 58243,
       "fontFamily": "Glyphs",
-      "identifier": "comment3Duo"
+      "identifier": "comment3Duo",
+      "duotone": true
     },
     "comment-3-outline": {
       "codepoint": 58244,
       "fontFamily": "Glyphs",
-      "identifier": "comment3Outline"
+      "identifier": "comment3Outline",
+      "duotone": true
     },
     "comment-add": {
       "codepoint": 58245,
@@ -4880,7 +4997,8 @@
     "comment-duo": {
       "codepoint": 58254,
       "fontFamily": "Glyphs",
-      "identifier": "commentDuo"
+      "identifier": "commentDuo",
+      "duotone": true
     },
     "comment-exclamation": {
       "codepoint": 58255,
@@ -4929,7 +5047,8 @@
     "comment-outline": {
       "codepoint": 58263,
       "fontFamily": "Glyphs",
-      "identifier": "commentOutline"
+      "identifier": "commentOutline",
+      "duotone": true
     },
     "comment-question": {
       "codepoint": 58264,
@@ -4961,7 +5080,8 @@
     "comment-remove-bold": {
       "codepoint": 58269,
       "fontFamily": "Glyphs",
-      "identifier": "commentRemoveBold"
+      "identifier": "commentRemoveBold",
+      "duotone": true
     },
     "comment-remove-duo": {
       "codepoint": 58270,
@@ -5065,7 +5185,8 @@
     "copy-2-outline": {
       "codepoint": 58288,
       "fontFamily": "Glyphs",
-      "identifier": "copy2Outline"
+      "identifier": "copy2Outline",
+      "duotone": true
     },
     "copy-bold": {
       "codepoint": 58289,
@@ -5152,7 +5273,8 @@
     "crop-1-outline": {
       "codepoint": 58304,
       "fontFamily": "Glyphs",
-      "identifier": "crop1Outline"
+      "identifier": "crop1Outline",
+      "duotone": true
     },
     "crop-bold": {
       "codepoint": 58305,
@@ -5168,7 +5290,8 @@
     "crop-outline": {
       "codepoint": 58307,
       "fontFamily": "Glyphs",
-      "identifier": "cropOutline"
+      "identifier": "cropOutline",
+      "duotone": true
     },
     "cross": {
       "codepoint": 58308,
@@ -5193,12 +5316,14 @@
     "cross-christian-duo": {
       "codepoint": 58312,
       "fontFamily": "Glyphs",
-      "identifier": "crossChristianDuo"
+      "identifier": "crossChristianDuo",
+      "duotone": true
     },
     "cross-christian-outline": {
       "codepoint": 58313,
       "fontFamily": "Glyphs",
-      "identifier": "crossChristianOutline"
+      "identifier": "crossChristianOutline",
+      "duotone": true
     },
     "cross-duo": {
       "codepoint": 58314,
@@ -5209,7 +5334,8 @@
     "cross-outline": {
       "codepoint": 58315,
       "fontFamily": "Glyphs",
-      "identifier": "crossOutline"
+      "identifier": "crossOutline",
+      "duotone": true
     },
     "crosshairs": {
       "codepoint": 58316,
@@ -5235,7 +5361,8 @@
     "crosshairs-1-outline": {
       "codepoint": 58320,
       "fontFamily": "Glyphs",
-      "identifier": "crosshairs1Outline"
+      "identifier": "crosshairs1Outline",
+      "duotone": true
     },
     "crosshairs-bold": {
       "codepoint": 58321,
@@ -5301,7 +5428,8 @@
     "crown-2-outline": {
       "codepoint": 58332,
       "fontFamily": "Glyphs",
-      "identifier": "crown2Outline"
+      "identifier": "crown2Outline",
+      "duotone": true
     },
     "crown-3": {
       "codepoint": 58333,
@@ -5322,7 +5450,8 @@
     "crown-3-outline": {
       "codepoint": 58336,
       "fontFamily": "Glyphs",
-      "identifier": "crown3Outline"
+      "identifier": "crown3Outline",
+      "duotone": true
     },
     "crown-bold": {
       "codepoint": 58337,
@@ -5338,7 +5467,8 @@
     "crown-outline": {
       "codepoint": 58339,
       "fontFamily": "Glyphs",
-      "identifier": "crownOutline"
+      "identifier": "crownOutline",
+      "duotone": true
     },
     "cursor": {
       "codepoint": 58340,
@@ -5358,7 +5488,8 @@
     "cursor-outline": {
       "codepoint": 58343,
       "fontFamily": "Glyphs",
-      "identifier": "cursorOutline"
+      "identifier": "cursorOutline",
+      "duotone": true
     },
     "d": {
       "codepoint": 58344,
@@ -5378,7 +5509,8 @@
     "d-outline": {
       "codepoint": 58347,
       "fontFamily": "Glyphs",
-      "identifier": "dOutline"
+      "identifier": "dOutline",
+      "duotone": true
     },
     "d-pad": {
       "codepoint": 58348,
@@ -5464,12 +5596,14 @@
     "diamond-1-duo": {
       "codepoint": 58363,
       "fontFamily": "Glyphs",
-      "identifier": "diamond1Duo"
+      "identifier": "diamond1Duo",
+      "duotone": true
     },
     "diamond-1-outline": {
       "codepoint": 58364,
       "fontFamily": "Glyphs",
-      "identifier": "diamond1Outline"
+      "identifier": "diamond1Outline",
+      "duotone": true
     },
     "diamond-bold": {
       "codepoint": 58365,
@@ -5479,7 +5613,8 @@
     "diamond-duo": {
       "codepoint": 58366,
       "fontFamily": "Glyphs",
-      "identifier": "diamondDuo"
+      "identifier": "diamondDuo",
+      "duotone": true
     },
     "diamond-outline": {
       "codepoint": 58367,
@@ -5681,7 +5816,8 @@
     "directions-sign-outline": {
       "codepoint": 58403,
       "fontFamily": "Glyphs",
-      "identifier": "directionsSignOutline"
+      "identifier": "directionsSignOutline",
+      "duotone": true
     },
     "disc": {
       "codepoint": 58404,
@@ -5917,7 +6053,8 @@
     "dollar-sign-outline": {
       "codepoint": 58447,
       "fontFamily": "Glyphs",
-      "identifier": "dollarSignOutline"
+      "identifier": "dollarSignOutline",
+      "duotone": true
     },
     "door": {
       "codepoint": 58448,
@@ -5998,12 +6135,14 @@
     "droplet-duo": {
       "codepoint": 58462,
       "fontFamily": "Glyphs",
-      "identifier": "dropletDuo"
+      "identifier": "dropletDuo",
+      "duotone": true
     },
     "droplet-outline": {
       "codepoint": 58463,
       "fontFamily": "Glyphs",
-      "identifier": "dropletOutline"
+      "identifier": "dropletOutline",
+      "duotone": true
     },
     "dslr": {
       "codepoint": 58464,
@@ -6045,7 +6184,8 @@
     "e-outline": {
       "codepoint": 58471,
       "fontFamily": "Glyphs",
-      "identifier": "eOutline"
+      "identifier": "eOutline",
+      "duotone": true
     },
     "ear": {
       "codepoint": 58472,
@@ -6130,7 +6270,8 @@
     "eight-outline": {
       "codepoint": 58487,
       "fontFamily": "Glyphs",
-      "identifier": "eightOutline"
+      "identifier": "eightOutline",
+      "duotone": true
     },
     "eject": {
       "codepoint": 58488,
@@ -6343,12 +6484,14 @@
     "envelope-open-outline": {
       "codepoint": 58526,
       "fontFamily": "Glyphs",
-      "identifier": "envelopeOpenOutline"
+      "identifier": "envelopeOpenOutline",
+      "duotone": true
     },
     "envelope-outline": {
       "codepoint": 58527,
       "fontFamily": "Glyphs",
-      "identifier": "envelopeOutline"
+      "identifier": "envelopeOutline",
+      "duotone": true
     },
     "equals": {
       "codepoint": 58528,
@@ -6455,7 +6598,8 @@
     "exclude-outline": {
       "codepoint": 58547,
       "fontFamily": "Glyphs",
-      "identifier": "excludeOutline"
+      "identifier": "excludeOutline",
+      "duotone": true
     },
     "exposure": {
       "codepoint": 58548,
@@ -6524,7 +6668,8 @@
     "eye-1-slash-outline": {
       "codepoint": 58560,
       "fontFamily": "Glyphs",
-      "identifier": "eye1SlashOutline"
+      "identifier": "eye1SlashOutline",
+      "duotone": true
     },
     "eye-bold": {
       "codepoint": 58561,
@@ -6556,7 +6701,8 @@
     "eye-lashes-outline": {
       "codepoint": 58566,
       "fontFamily": "Glyphs",
-      "identifier": "eyeLashesOutline"
+      "identifier": "eyeLashesOutline",
+      "duotone": true
     },
     "eye-outline": {
       "codepoint": 58567,
@@ -6582,7 +6728,8 @@
     "eye-slash-outline": {
       "codepoint": 58571,
       "fontFamily": "Glyphs",
-      "identifier": "eyeSlashOutline"
+      "identifier": "eyeSlashOutline",
+      "duotone": true
     },
     "f": {
       "codepoint": 58572,
@@ -6602,7 +6749,8 @@
     "f-outline": {
       "codepoint": 58575,
       "fontFamily": "Glyphs",
-      "identifier": "fOutline"
+      "identifier": "fOutline",
+      "duotone": true
     },
     "fahrenheit": {
       "codepoint": 58576,
@@ -6803,7 +6951,8 @@
     "film-1-outline": {
       "codepoint": 58612,
       "fontFamily": "Glyphs",
-      "identifier": "film1Outline"
+      "identifier": "film1Outline",
+      "duotone": true
     },
     "film-bold": {
       "codepoint": 58613,
@@ -6819,7 +6968,8 @@
     "film-outline": {
       "codepoint": 58615,
       "fontFamily": "Glyphs",
-      "identifier": "filmOutline"
+      "identifier": "filmOutline",
+      "duotone": true
     },
     "filter": {
       "codepoint": 58616,
@@ -6834,12 +6984,14 @@
     "filter-duo": {
       "codepoint": 58618,
       "fontFamily": "Glyphs",
-      "identifier": "filterDuo"
+      "identifier": "filterDuo",
+      "duotone": true
     },
     "filter-outline": {
       "codepoint": 58619,
       "fontFamily": "Glyphs",
-      "identifier": "filterOutline"
+      "identifier": "filterOutline",
+      "duotone": true
     },
     "fire": {
       "codepoint": 58620,
@@ -6859,12 +7011,14 @@
     "fire-1-duo": {
       "codepoint": 58623,
       "fontFamily": "Glyphs",
-      "identifier": "fire1Duo"
+      "identifier": "fire1Duo",
+      "duotone": true
     },
     "fire-1-outline": {
       "codepoint": 58624,
       "fontFamily": "Glyphs",
-      "identifier": "fire1Outline"
+      "identifier": "fire1Outline",
+      "duotone": true
     },
     "fire-bold": {
       "codepoint": 58625,
@@ -6874,7 +7028,8 @@
     "fire-duo": {
       "codepoint": 58626,
       "fontFamily": "Glyphs",
-      "identifier": "fireDuo"
+      "identifier": "fireDuo",
+      "duotone": true
     },
     "fire-outline": {
       "codepoint": 58627,
@@ -6922,7 +7077,8 @@
     "five-outline": {
       "codepoint": 58635,
       "fontFamily": "Glyphs",
-      "identifier": "fiveOutline"
+      "identifier": "fiveOutline",
+      "duotone": true
     },
     "flag": {
       "codepoint": 58636,
@@ -6948,7 +7104,8 @@
     "flag-1-outline": {
       "codepoint": 58640,
       "fontFamily": "Glyphs",
-      "identifier": "flag1Outline"
+      "identifier": "flag1Outline",
+      "duotone": true
     },
     "flag-bold": {
       "codepoint": 58641,
@@ -7110,7 +7267,8 @@
     "folder-duo": {
       "codepoint": 58670,
       "fontFamily": "Glyphs",
-      "identifier": "folderDuo"
+      "identifier": "folderDuo",
+      "duotone": true
     },
     "folder-open": {
       "codepoint": 58671,
@@ -7136,7 +7294,8 @@
     "folder-open-1-outline": {
       "codepoint": 58675,
       "fontFamily": "Glyphs",
-      "identifier": "folderOpen1Outline"
+      "identifier": "folderOpen1Outline",
+      "duotone": true
     },
     "folder-open-bold": {
       "codepoint": 58676,
@@ -7152,7 +7311,8 @@
     "folder-open-outline": {
       "codepoint": 58678,
       "fontFamily": "Glyphs",
-      "identifier": "folderOpenOutline"
+      "identifier": "folderOpenOutline",
+      "duotone": true
     },
     "folder-outline": {
       "codepoint": 58679,
@@ -7221,7 +7381,8 @@
     "four-outline": {
       "codepoint": 58691,
       "fontFamily": "Glyphs",
-      "identifier": "fourOutline"
+      "identifier": "fourOutline",
+      "duotone": true
     },
     "frown": {
       "codepoint": 58692,
@@ -7285,7 +7446,8 @@
     "g-outline": {
       "codepoint": 58703,
       "fontFamily": "Glyphs",
-      "identifier": "gOutline"
+      "identifier": "gOutline",
+      "duotone": true
     },
     "gamepad": {
       "codepoint": 58704,
@@ -7377,7 +7539,8 @@
     "gift-2-outline": {
       "codepoint": 58720,
       "fontFamily": "Glyphs",
-      "identifier": "gift2Outline"
+      "identifier": "gift2Outline",
+      "duotone": true
     },
     "gift-bold": {
       "codepoint": 58721,
@@ -7415,7 +7578,8 @@
     "gift-outline": {
       "codepoint": 58727,
       "fontFamily": "Glyphs",
-      "identifier": "giftOutline"
+      "identifier": "giftOutline",
+      "duotone": true
     },
     "gifts": {
       "codepoint": 58728,
@@ -7458,7 +7622,8 @@
     "glasses-outline": {
       "codepoint": 58735,
       "fontFamily": "Glyphs",
-      "identifier": "glassesOutline"
+      "identifier": "glassesOutline",
+      "duotone": true
     },
     "globe": {
       "codepoint": 58736,
@@ -7484,7 +7649,8 @@
     "globe-africa-outline": {
       "codepoint": 58740,
       "fontFamily": "Glyphs",
-      "identifier": "globeAfricaOutline"
+      "identifier": "globeAfricaOutline",
+      "duotone": true
     },
     "globe-americas": {
       "codepoint": 58741,
@@ -7505,7 +7671,8 @@
     "globe-americas-outline": {
       "codepoint": 58744,
       "fontFamily": "Glyphs",
-      "identifier": "globeAmericasOutline"
+      "identifier": "globeAmericasOutline",
+      "duotone": true
     },
     "globe-asia": {
       "codepoint": 58745,
@@ -7526,7 +7693,8 @@
     "globe-asia-outline": {
       "codepoint": 58748,
       "fontFamily": "Glyphs",
-      "identifier": "globeAsiaOutline"
+      "identifier": "globeAsiaOutline",
+      "duotone": true
     },
     "globe-bold": {
       "codepoint": 58749,
@@ -7558,7 +7726,8 @@
     "globe-earth-outline": {
       "codepoint": 58754,
       "fontFamily": "Glyphs",
-      "identifier": "globeEarthOutline"
+      "identifier": "globeEarthOutline",
+      "duotone": true
     },
     "globe-east": {
       "codepoint": 58755,
@@ -7579,7 +7748,8 @@
     "globe-east-outline": {
       "codepoint": 58758,
       "fontFamily": "Glyphs",
-      "identifier": "globeEastOutline"
+      "identifier": "globeEastOutline",
+      "duotone": true
     },
     "globe-europe": {
       "codepoint": 58759,
@@ -7644,7 +7814,8 @@
     "globe-north-america-outline": {
       "codepoint": 58770,
       "fontFamily": "Glyphs",
-      "identifier": "globeNorthAmericaOutline"
+      "identifier": "globeNorthAmericaOutline",
+      "duotone": true
     },
     "globe-oceania": {
       "codepoint": 58771,
@@ -7671,7 +7842,8 @@
     "globe-outline": {
       "codepoint": 58775,
       "fontFamily": "Glyphs",
-      "identifier": "globeOutline"
+      "identifier": "globeOutline",
+      "duotone": true
     },
     "globe-south-america": {
       "codepoint": 58776,
@@ -7692,7 +7864,8 @@
     "globe-south-america-outline": {
       "codepoint": 58779,
       "fontFamily": "Glyphs",
-      "identifier": "globeSouthAmericaOutline"
+      "identifier": "globeSouthAmericaOutline",
+      "duotone": true
     },
     "globe-stand": {
       "codepoint": 58780,
@@ -7718,7 +7891,8 @@
     "globe-stand-1-outline": {
       "codepoint": 58784,
       "fontFamily": "Glyphs",
-      "identifier": "globeStand1Outline"
+      "identifier": "globeStand1Outline",
+      "duotone": true
     },
     "globe-stand-bold": {
       "codepoint": 58785,
@@ -7750,7 +7924,8 @@
     "globe-stand-east-outline": {
       "codepoint": 58790,
       "fontFamily": "Glyphs",
-      "identifier": "globeStandEastOutline"
+      "identifier": "globeStandEastOutline",
+      "duotone": true
     },
     "globe-stand-middle": {
       "codepoint": 58791,
@@ -7771,12 +7946,14 @@
     "globe-stand-middle-outline": {
       "codepoint": 58794,
       "fontFamily": "Glyphs",
-      "identifier": "globeStandMiddleOutline"
+      "identifier": "globeStandMiddleOutline",
+      "duotone": true
     },
     "globe-stand-outline": {
       "codepoint": 58795,
       "fontFamily": "Glyphs",
-      "identifier": "globeStandOutline"
+      "identifier": "globeStandOutline",
+      "duotone": true
     },
     "globe-stand-west": {
       "codepoint": 58796,
@@ -7797,7 +7974,8 @@
     "globe-stand-west-outline": {
       "codepoint": 58799,
       "fontFamily": "Glyphs",
-      "identifier": "globeStandWestOutline"
+      "identifier": "globeStandWestOutline",
+      "duotone": true
     },
     "globe-west": {
       "codepoint": 58800,
@@ -7818,7 +7996,8 @@
     "globe-west-outline": {
       "codepoint": 58803,
       "fontFamily": "Glyphs",
-      "identifier": "globeWestOutline"
+      "identifier": "globeWestOutline",
+      "duotone": true
     },
     "graduation-cap": {
       "codepoint": 58804,
@@ -7839,7 +8018,8 @@
     "graduation-cap-outline": {
       "codepoint": 58807,
       "fontFamily": "Glyphs",
-      "identifier": "graduationCapOutline"
+      "identifier": "graduationCapOutline",
+      "duotone": true
     },
     "grid": {
       "codepoint": 58808,
@@ -7920,7 +8100,8 @@
     "grid-lg-outline": {
       "codepoint": 58822,
       "fontFamily": "Glyphs",
-      "identifier": "gridLgOutline"
+      "identifier": "gridLgOutline",
+      "duotone": true
     },
     "grid-list": {
       "codepoint": 58823,
@@ -7941,7 +8122,8 @@
     "grid-list-outline": {
       "codepoint": 58826,
       "fontFamily": "Glyphs",
-      "identifier": "gridListOutline"
+      "identifier": "gridListOutline",
+      "duotone": true
     },
     "grid-outline": {
       "codepoint": 58827,
@@ -7990,7 +8172,8 @@
     "grid-sm-outline": {
       "codepoint": 58835,
       "fontFamily": "Glyphs",
-      "identifier": "gridSmOutline"
+      "identifier": "gridSmOutline",
+      "duotone": true
     },
     "grin": {
       "codepoint": 58836,
@@ -8279,7 +8462,8 @@
     "h-1-outline": {
       "codepoint": 58888,
       "fontFamily": "Glyphs",
-      "identifier": "h1Outline"
+      "identifier": "h1Outline",
+      "duotone": true
     },
     "h-2": {
       "codepoint": 58889,
@@ -8299,7 +8483,8 @@
     "h-2-outline": {
       "codepoint": 58892,
       "fontFamily": "Glyphs",
-      "identifier": "h2Outline"
+      "identifier": "h2Outline",
+      "duotone": true
     },
     "h-3": {
       "codepoint": 58893,
@@ -8319,7 +8504,8 @@
     "h-3-outline": {
       "codepoint": 58896,
       "fontFamily": "Glyphs",
-      "identifier": "h3Outline"
+      "identifier": "h3Outline",
+      "duotone": true
     },
     "h-4": {
       "codepoint": 58897,
@@ -8355,7 +8541,8 @@
     "h-outline": {
       "codepoint": 58903,
       "fontFamily": "Glyphs",
-      "identifier": "hOutline"
+      "identifier": "hOutline",
+      "duotone": true
     },
     "hammer": {
       "codepoint": 58904,
@@ -8376,7 +8563,8 @@
     "hammer-outline": {
       "codepoint": 58907,
       "fontFamily": "Glyphs",
-      "identifier": "hammerOutline"
+      "identifier": "hammerOutline",
+      "duotone": true
     },
     "hand": {
       "codepoint": 58908,
@@ -8401,17 +8589,20 @@
     "hand-call-duo": {
       "codepoint": 58912,
       "fontFamily": "Glyphs",
-      "identifier": "handCallDuo"
+      "identifier": "handCallDuo",
+      "duotone": true
     },
     "hand-call-outline": {
       "codepoint": 58913,
       "fontFamily": "Glyphs",
-      "identifier": "handCallOutline"
+      "identifier": "handCallOutline",
+      "duotone": true
     },
     "hand-duo": {
       "codepoint": 58914,
       "fontFamily": "Glyphs",
-      "identifier": "handDuo"
+      "identifier": "handDuo",
+      "duotone": true
     },
     "hand-fist": {
       "codepoint": 58915,
@@ -8426,12 +8617,14 @@
     "hand-fist-duo": {
       "codepoint": 58917,
       "fontFamily": "Glyphs",
-      "identifier": "handFistDuo"
+      "identifier": "handFistDuo",
+      "duotone": true
     },
     "hand-fist-outline": {
       "codepoint": 58918,
       "fontFamily": "Glyphs",
-      "identifier": "handFistOutline"
+      "identifier": "handFistOutline",
+      "duotone": true
     },
     "hand-holding": {
       "codepoint": 58919,
@@ -8468,7 +8661,8 @@
     "hand-holding-duo": {
       "codepoint": 58925,
       "fontFamily": "Glyphs",
-      "identifier": "handHoldingDuo"
+      "identifier": "handHoldingDuo",
+      "duotone": true
     },
     "hand-holding-heart": {
       "codepoint": 58926,
@@ -8489,12 +8683,14 @@
     "hand-holding-heart-outline": {
       "codepoint": 58929,
       "fontFamily": "Glyphs",
-      "identifier": "handHoldingHeartOutline"
+      "identifier": "handHoldingHeartOutline",
+      "duotone": true
     },
     "hand-holding-outline": {
       "codepoint": 58930,
       "fontFamily": "Glyphs",
-      "identifier": "handHoldingOutline"
+      "identifier": "handHoldingOutline",
+      "duotone": true
     },
     "hand-holding-seedling": {
       "codepoint": 58931,
@@ -8553,12 +8749,14 @@
     "hand-horns-duo": {
       "codepoint": 58941,
       "fontFamily": "Glyphs",
-      "identifier": "handHornsDuo"
+      "identifier": "handHornsDuo",
+      "duotone": true
     },
     "hand-horns-outline": {
       "codepoint": 58942,
       "fontFamily": "Glyphs",
-      "identifier": "handHornsOutline"
+      "identifier": "handHornsOutline",
+      "duotone": true
     },
     "hand-index": {
       "codepoint": 58943,
@@ -8573,12 +8771,14 @@
     "hand-index-duo": {
       "codepoint": 58945,
       "fontFamily": "Glyphs",
-      "identifier": "handIndexDuo"
+      "identifier": "handIndexDuo",
+      "duotone": true
     },
     "hand-index-outline": {
       "codepoint": 58946,
       "fontFamily": "Glyphs",
-      "identifier": "handIndexOutline"
+      "identifier": "handIndexOutline",
+      "duotone": true
     },
     "hand-middle": {
       "codepoint": 58947,
@@ -8593,17 +8793,20 @@
     "hand-middle-duo": {
       "codepoint": 58949,
       "fontFamily": "Glyphs",
-      "identifier": "handMiddleDuo"
+      "identifier": "handMiddleDuo",
+      "duotone": true
     },
     "hand-middle-outline": {
       "codepoint": 58950,
       "fontFamily": "Glyphs",
-      "identifier": "handMiddleOutline"
+      "identifier": "handMiddleOutline",
+      "duotone": true
     },
     "hand-outline": {
       "codepoint": 58951,
       "fontFamily": "Glyphs",
-      "identifier": "handOutline"
+      "identifier": "handOutline",
+      "duotone": true
     },
     "hand-peace": {
       "codepoint": 58952,
@@ -8618,12 +8821,14 @@
     "hand-peace-duo": {
       "codepoint": 58954,
       "fontFamily": "Glyphs",
-      "identifier": "handPeaceDuo"
+      "identifier": "handPeaceDuo",
+      "duotone": true
     },
     "hand-peace-outline": {
       "codepoint": 58955,
       "fontFamily": "Glyphs",
-      "identifier": "handPeaceOutline"
+      "identifier": "handPeaceOutline",
+      "duotone": true
     },
     "hand-spread": {
       "codepoint": 58956,
@@ -8638,12 +8843,14 @@
     "hand-spread-duo": {
       "codepoint": 58958,
       "fontFamily": "Glyphs",
-      "identifier": "handSpreadDuo"
+      "identifier": "handSpreadDuo",
+      "duotone": true
     },
     "hand-spread-outline": {
       "codepoint": 58959,
       "fontFamily": "Glyphs",
-      "identifier": "handSpreadOutline"
+      "identifier": "handSpreadOutline",
+      "duotone": true
     },
     "handshake": {
       "codepoint": 58960,
@@ -8664,7 +8871,8 @@
     "handshake-outline": {
       "codepoint": 58963,
       "fontFamily": "Glyphs",
-      "identifier": "handshakeOutline"
+      "identifier": "handshakeOutline",
+      "duotone": true
     },
     "hard-drive": {
       "codepoint": 58964,
@@ -8706,7 +8914,8 @@
     "hash-outline": {
       "codepoint": 58971,
       "fontFamily": "Glyphs",
-      "identifier": "hashOutline"
+      "identifier": "hashOutline",
+      "duotone": true
     },
     "head-side": {
       "codepoint": 58972,
@@ -8770,7 +8979,8 @@
     "heading-outline": {
       "codepoint": 58983,
       "fontFamily": "Glyphs",
-      "identifier": "headingOutline"
+      "identifier": "headingOutline",
+      "duotone": true
     },
     "headphones": {
       "codepoint": 58984,
@@ -8791,7 +9001,8 @@
     "headphones-outline": {
       "codepoint": 58987,
       "fontFamily": "Glyphs",
-      "identifier": "headphonesOutline"
+      "identifier": "headphonesOutline",
+      "duotone": true
     },
     "heart": {
       "codepoint": 58988,
@@ -8817,7 +9028,8 @@
     "heart-1-outline": {
       "codepoint": 58992,
       "fontFamily": "Glyphs",
-      "identifier": "heart1Outline"
+      "identifier": "heart1Outline",
+      "duotone": true
     },
     "heart-bold": {
       "codepoint": 58993,
@@ -8827,7 +9039,8 @@
     "heart-duo": {
       "codepoint": 58994,
       "fontFamily": "Glyphs",
-      "identifier": "heartDuo"
+      "identifier": "heartDuo",
+      "duotone": true
     },
     "heart-half": {
       "codepoint": 58995,
@@ -8853,7 +9066,8 @@
     "heart-half-1-outline": {
       "codepoint": 58999,
       "fontFamily": "Glyphs",
-      "identifier": "heartHalf1Outline"
+      "identifier": "heartHalf1Outline",
+      "duotone": true
     },
     "heart-half-2": {
       "codepoint": 59000,
@@ -8874,7 +9088,8 @@
     "heart-half-2-outline": {
       "codepoint": 59003,
       "fontFamily": "Glyphs",
-      "identifier": "heartHalf2Outline"
+      "identifier": "heartHalf2Outline",
+      "duotone": true
     },
     "heart-half-bold": {
       "codepoint": 59004,
@@ -8884,12 +9099,14 @@
     "heart-half-duo": {
       "codepoint": 59005,
       "fontFamily": "Glyphs",
-      "identifier": "heartHalfDuo"
+      "identifier": "heartHalfDuo",
+      "duotone": true
     },
     "heart-half-outline": {
       "codepoint": 59006,
       "fontFamily": "Glyphs",
-      "identifier": "heartHalfOutline"
+      "identifier": "heartHalfOutline",
+      "duotone": true
     },
     "heart-hands": {
       "codepoint": 59007,
@@ -8910,7 +9127,8 @@
     "heart-hands-outline": {
       "codepoint": 59010,
       "fontFamily": "Glyphs",
-      "identifier": "heartHandsOutline"
+      "identifier": "heartHandsOutline",
+      "duotone": true
     },
     "heart-outline": {
       "codepoint": 59011,
@@ -8959,7 +9177,8 @@
     "heartbeat-outline": {
       "codepoint": 59019,
       "fontFamily": "Glyphs",
-      "identifier": "heartbeatOutline"
+      "identifier": "heartbeatOutline",
+      "duotone": true
     },
     "heartbreak": {
       "codepoint": 59020,
@@ -9018,12 +9237,14 @@
     "hexagon-duo": {
       "codepoint": 59030,
       "fontFamily": "Glyphs",
-      "identifier": "hexagonDuo"
+      "identifier": "hexagonDuo",
+      "duotone": true
     },
     "hexagon-outline": {
       "codepoint": 59031,
       "fontFamily": "Glyphs",
-      "identifier": "hexagonOutline"
+      "identifier": "hexagonOutline",
+      "duotone": true
     },
     "highlighter": {
       "codepoint": 59032,
@@ -9264,7 +9485,8 @@
     "hourglass-outline": {
       "codepoint": 59075,
       "fontFamily": "Glyphs",
-      "identifier": "hourglassOutline"
+      "identifier": "hourglassOutline",
+      "duotone": true
     },
     "house": {
       "codepoint": 59076,
@@ -9323,7 +9545,8 @@
     "house-fire-outline": {
       "codepoint": 59086,
       "fontFamily": "Glyphs",
-      "identifier": "houseFireOutline"
+      "identifier": "houseFireOutline",
+      "duotone": true
     },
     "house-flood": {
       "codepoint": 59087,
@@ -9388,7 +9611,8 @@
     "hurricane-duo": {
       "codepoint": 59098,
       "fontFamily": "Glyphs",
-      "identifier": "hurricaneDuo"
+      "identifier": "hurricaneDuo",
+      "duotone": true
     },
     "hurricane-outline": {
       "codepoint": 59099,
@@ -9414,7 +9638,8 @@
     "i-outline": {
       "codepoint": 59103,
       "fontFamily": "Glyphs",
-      "identifier": "iOutline"
+      "identifier": "iOutline",
+      "duotone": true
     },
     "icons": {
       "codepoint": 59104,
@@ -9572,7 +9797,8 @@
     "inbox-1-outline": {
       "codepoint": 59132,
       "fontFamily": "Glyphs",
-      "identifier": "inbox1Outline"
+      "identifier": "inbox1Outline",
+      "duotone": true
     },
     "inbox-bold": {
       "codepoint": 59133,
@@ -9588,7 +9814,8 @@
     "inbox-outline": {
       "codepoint": 59135,
       "fontFamily": "Glyphs",
-      "identifier": "inboxOutline"
+      "identifier": "inboxOutline",
+      "duotone": true
     },
     "industry": {
       "codepoint": 59136,
@@ -9653,7 +9880,8 @@
     "intersect-outline": {
       "codepoint": 59147,
       "fontFamily": "Glyphs",
-      "identifier": "intersectOutline"
+      "identifier": "intersectOutline",
+      "duotone": true
     },
     "italic": {
       "codepoint": 59148,
@@ -9673,7 +9901,8 @@
     "italic-outline": {
       "codepoint": 59151,
       "fontFamily": "Glyphs",
-      "identifier": "italicOutline"
+      "identifier": "italicOutline",
+      "duotone": true
     },
     "j": {
       "codepoint": 59152,
@@ -9693,7 +9922,8 @@
     "j-outline": {
       "codepoint": 59155,
       "fontFamily": "Glyphs",
-      "identifier": "jOutline"
+      "identifier": "jOutline",
+      "duotone": true
     },
     "jack": {
       "codepoint": 59156,
@@ -9757,7 +9987,8 @@
     "k-outline": {
       "codepoint": 59167,
       "fontFamily": "Glyphs",
-      "identifier": "kOutline"
+      "identifier": "kOutline",
+      "duotone": true
     },
     "kayak": {
       "codepoint": 59168,
@@ -9778,7 +10009,8 @@
     "kayak-outline": {
       "codepoint": 59171,
       "fontFamily": "Glyphs",
-      "identifier": "kayakOutline"
+      "identifier": "kayakOutline",
+      "duotone": true
     },
     "key": {
       "codepoint": 59172,
@@ -9793,7 +10025,8 @@
     "key-duo": {
       "codepoint": 59174,
       "fontFamily": "Glyphs",
-      "identifier": "keyDuo"
+      "identifier": "keyDuo",
+      "duotone": true
     },
     "key-outline": {
       "codepoint": 59175,
@@ -9842,7 +10075,8 @@
     "keycap-outline": {
       "codepoint": 59183,
       "fontFamily": "Glyphs",
-      "identifier": "keycapOutline"
+      "identifier": "keycapOutline",
+      "duotone": true
     },
     "kick-scooter": {
       "codepoint": 59184,
@@ -9863,7 +10097,8 @@
     "kick-scooter-outline": {
       "codepoint": 59187,
       "fontFamily": "Glyphs",
-      "identifier": "kickScooterOutline"
+      "identifier": "kickScooterOutline",
+      "duotone": true
     },
     "king": {
       "codepoint": 59188,
@@ -9971,7 +10206,8 @@
     "l-outline": {
       "codepoint": 59207,
       "fontFamily": "Glyphs",
-      "identifier": "lOutline"
+      "identifier": "lOutline",
+      "duotone": true
     },
     "landmark": {
       "codepoint": 59208,
@@ -9997,7 +10233,8 @@
     "landmark-1-outline": {
       "codepoint": 59212,
       "fontFamily": "Glyphs",
-      "identifier": "landmark1Outline"
+      "identifier": "landmark1Outline",
+      "duotone": true
     },
     "landmark-bold": {
       "codepoint": 59213,
@@ -10013,7 +10250,8 @@
     "landmark-outline": {
       "codepoint": 59215,
       "fontFamily": "Glyphs",
-      "identifier": "landmarkOutline"
+      "identifier": "landmarkOutline",
+      "duotone": true
     },
     "laptop": {
       "codepoint": 59216,
@@ -10100,7 +10338,8 @@
     "laptop-outline": {
       "codepoint": 59231,
       "fontFamily": "Glyphs",
-      "identifier": "laptopOutline"
+      "identifier": "laptopOutline",
+      "duotone": true
     },
     "laugh": {
       "codepoint": 59232,
@@ -10253,7 +10492,8 @@
     "layer-foward-outline": {
       "codepoint": 59259,
       "fontFamily": "Glyphs",
-      "identifier": "layerFowardOutline"
+      "identifier": "layerFowardOutline",
+      "duotone": true
     },
     "layer-front": {
       "codepoint": 59260,
@@ -10274,7 +10514,8 @@
     "layer-front-outline": {
       "codepoint": 59263,
       "fontFamily": "Glyphs",
-      "identifier": "layerFrontOutline"
+      "identifier": "layerFrontOutline",
+      "duotone": true
     },
     "layer-group": {
       "codepoint": 59264,
@@ -10295,7 +10536,8 @@
     "layer-group-outline": {
       "codepoint": 59267,
       "fontFamily": "Glyphs",
-      "identifier": "layerGroupOutline"
+      "identifier": "layerGroupOutline",
+      "duotone": true
     },
     "layer-minus": {
       "codepoint": 59268,
@@ -10409,7 +10651,8 @@
     "leaf-1-outline": {
       "codepoint": 59288,
       "fontFamily": "Glyphs",
-      "identifier": "leaf1Outline"
+      "identifier": "leaf1Outline",
+      "duotone": true
     },
     "leaf-bold": {
       "codepoint": 59289,
@@ -10425,7 +10668,8 @@
     "leaf-outline": {
       "codepoint": 59291,
       "fontFamily": "Glyphs",
-      "identifier": "leafOutline"
+      "identifier": "leafOutline",
+      "duotone": true
     },
     "life-ring": {
       "codepoint": 59292,
@@ -10446,7 +10690,8 @@
     "life-ring-outline": {
       "codepoint": 59295,
       "fontFamily": "Glyphs",
-      "identifier": "lifeRingOutline"
+      "identifier": "lifeRingOutline",
+      "duotone": true
     },
     "light-switch": {
       "codepoint": 59296,
@@ -10511,7 +10756,8 @@
     "lightbulb-2-outline": {
       "codepoint": 59307,
       "fontFamily": "Glyphs",
-      "identifier": "lightbulb2Outline"
+      "identifier": "lightbulb2Outline",
+      "duotone": true
     },
     "lightning": {
       "codepoint": 59308,
@@ -10537,7 +10783,8 @@
     "lightning-1-outline": {
       "codepoint": 59312,
       "fontFamily": "Glyphs",
-      "identifier": "lightning1Outline"
+      "identifier": "lightning1Outline",
+      "duotone": true
     },
     "lightning-bold": {
       "codepoint": 59313,
@@ -10574,7 +10821,8 @@
     "line-outline": {
       "codepoint": 59319,
       "fontFamily": "Glyphs",
-      "identifier": "lineOutline"
+      "identifier": "lineOutline",
+      "duotone": true
     },
     "link": {
       "codepoint": 59320,
@@ -10631,7 +10879,8 @@
     "lips-duo": {
       "codepoint": 59330,
       "fontFamily": "Glyphs",
-      "identifier": "lipsDuo"
+      "identifier": "lipsDuo",
+      "duotone": true
     },
     "lips-outline": {
       "codepoint": 59331,
@@ -10652,12 +10901,14 @@
     "location-arrow-duo": {
       "codepoint": 59334,
       "fontFamily": "Glyphs",
-      "identifier": "locationArrowDuo"
+      "identifier": "locationArrowDuo",
+      "duotone": true
     },
     "location-arrow-outline": {
       "codepoint": 59335,
       "fontFamily": "Glyphs",
-      "identifier": "locationArrowOutline"
+      "identifier": "locationArrowOutline",
+      "duotone": true
     },
     "lock": {
       "codepoint": 59336,
@@ -10744,7 +10995,8 @@
     "loveseat-outline": {
       "codepoint": 59351,
       "fontFamily": "Glyphs",
-      "identifier": "loveseatOutline"
+      "identifier": "loveseatOutline",
+      "duotone": true
     },
     "m": {
       "codepoint": 59352,
@@ -10764,7 +11016,8 @@
     "m-outline": {
       "codepoint": 59355,
       "fontFamily": "Glyphs",
-      "identifier": "mOutline"
+      "identifier": "mOutline",
+      "duotone": true
     },
     "magnet": {
       "codepoint": 59356,
@@ -10785,7 +11038,8 @@
     "magnet-outline": {
       "codepoint": 59359,
       "fontFamily": "Glyphs",
-      "identifier": "magnetOutline"
+      "identifier": "magnetOutline",
+      "duotone": true
     },
     "mailbox": {
       "codepoint": 59360,
@@ -10849,7 +11103,8 @@
     "mallet-outline": {
       "codepoint": 59371,
       "fontFamily": "Glyphs",
-      "identifier": "malletOutline"
+      "identifier": "malletOutline",
+      "duotone": true
     },
     "map": {
       "codepoint": 59372,
@@ -10924,7 +11179,8 @@
     "map-marker-duo": {
       "codepoint": 59385,
       "fontFamily": "Glyphs",
-      "identifier": "mapMarkerDuo"
+      "identifier": "mapMarkerDuo",
+      "duotone": true
     },
     "map-marker-line": {
       "codepoint": 59386,
@@ -10951,12 +11207,14 @@
     "map-marker-outline": {
       "codepoint": 59390,
       "fontFamily": "Glyphs",
-      "identifier": "mapMarkerOutline"
+      "identifier": "mapMarkerOutline",
+      "duotone": true
     },
     "map-outline": {
       "codepoint": 59391,
       "fontFamily": "Glyphs",
-      "identifier": "mapOutline"
+      "identifier": "mapOutline",
+      "duotone": true
     },
     "map-signs": {
       "codepoint": 59392,
@@ -10977,7 +11235,8 @@
     "map-signs-outline": {
       "codepoint": 59395,
       "fontFamily": "Glyphs",
-      "identifier": "mapSignsOutline"
+      "identifier": "mapSignsOutline",
+      "duotone": true
     },
     "maple-leaf": {
       "codepoint": 59396,
@@ -10998,7 +11257,8 @@
     "maple-leaf-outline": {
       "codepoint": 59399,
       "fontFamily": "Glyphs",
-      "identifier": "mapleLeafOutline"
+      "identifier": "mapleLeafOutline",
+      "duotone": true
     },
     "math": {
       "codepoint": 59400,
@@ -11111,7 +11371,8 @@
     "microphone-2-outline": {
       "codepoint": 59420,
       "fontFamily": "Glyphs",
-      "identifier": "microphone2Outline"
+      "identifier": "microphone2Outline",
+      "duotone": true
     },
     "microphone-bold": {
       "codepoint": 59421,
@@ -11149,7 +11410,8 @@
     "microphone-slash-outline": {
       "codepoint": 59427,
       "fontFamily": "Glyphs",
-      "identifier": "microphoneSlashOutline"
+      "identifier": "microphoneSlashOutline",
+      "duotone": true
     },
     "microscope": {
       "codepoint": 59428,
@@ -11170,7 +11432,8 @@
     "microscope-outline": {
       "codepoint": 59431,
       "fontFamily": "Glyphs",
-      "identifier": "microscopeOutline"
+      "identifier": "microscopeOutline",
+      "duotone": true
     },
     "minus": {
       "codepoint": 59432,
@@ -11190,7 +11453,8 @@
     "minus-outline": {
       "codepoint": 59435,
       "fontFamily": "Glyphs",
-      "identifier": "minusOutline"
+      "identifier": "minusOutline",
+      "duotone": true
     },
     "mobile": {
       "codepoint": 59436,
@@ -11216,7 +11480,8 @@
     "mobile-1-outline": {
       "codepoint": 59440,
       "fontFamily": "Glyphs",
-      "identifier": "mobile1Outline"
+      "identifier": "mobile1Outline",
+      "duotone": true
     },
     "mobile-bold": {
       "codepoint": 59441,
@@ -11319,7 +11584,8 @@
     "monitor-outline": {
       "codepoint": 59459,
       "fontFamily": "Glyphs",
-      "identifier": "monitorOutline"
+      "identifier": "monitorOutline",
+      "duotone": true
     },
     "moon": {
       "codepoint": 59460,
@@ -11334,7 +11600,8 @@
     "moon-duo": {
       "codepoint": 59462,
       "fontFamily": "Glyphs",
-      "identifier": "moonDuo"
+      "identifier": "moonDuo",
+      "duotone": true
     },
     "moon-outline": {
       "codepoint": 59463,
@@ -11388,7 +11655,8 @@
     "mouse-2-outline": {
       "codepoint": 59472,
       "fontFamily": "Glyphs",
-      "identifier": "mouse2Outline"
+      "identifier": "mouse2Outline",
+      "duotone": true
     },
     "mouse-bold": {
       "codepoint": 59473,
@@ -11420,12 +11688,14 @@
     "mouse-pointer-duo": {
       "codepoint": 59478,
       "fontFamily": "Glyphs",
-      "identifier": "mousePointerDuo"
+      "identifier": "mousePointerDuo",
+      "duotone": true
     },
     "mouse-pointer-outline": {
       "codepoint": 59479,
       "fontFamily": "Glyphs",
-      "identifier": "mousePointerOutline"
+      "identifier": "mousePointerOutline",
+      "duotone": true
     },
     "mushroom": {
       "codepoint": 59480,
@@ -11506,12 +11776,14 @@
     "music-note-outline": {
       "codepoint": 59494,
       "fontFamily": "Glyphs",
-      "identifier": "musicNoteOutline"
+      "identifier": "musicNoteOutline",
+      "duotone": true
     },
     "music-outline": {
       "codepoint": 59495,
       "fontFamily": "Glyphs",
-      "identifier": "musicOutline"
+      "identifier": "musicOutline",
+      "duotone": true
     },
     "n": {
       "codepoint": 59496,
@@ -11531,7 +11803,8 @@
     "n-outline": {
       "codepoint": 59499,
       "fontFamily": "Glyphs",
-      "identifier": "nOutline"
+      "identifier": "nOutline",
+      "duotone": true
     },
     "night": {
       "codepoint": 59500,
@@ -11552,7 +11825,8 @@
     "night-outline": {
       "codepoint": 59503,
       "fontFamily": "Glyphs",
-      "identifier": "nightOutline"
+      "identifier": "nightOutline",
+      "duotone": true
     },
     "nine": {
       "codepoint": 59504,
@@ -11572,7 +11846,8 @@
     "nine-outline": {
       "codepoint": 59507,
       "fontFamily": "Glyphs",
-      "identifier": "nineOutline"
+      "identifier": "nineOutline",
+      "duotone": true
     },
     "note": {
       "codepoint": 59508,
@@ -11703,7 +11978,8 @@
     "note-sticky-outline": {
       "codepoint": 59531,
       "fontFamily": "Glyphs",
-      "identifier": "noteStickyOutline"
+      "identifier": "noteStickyOutline",
+      "duotone": true
     },
     "o": {
       "codepoint": 59532,
@@ -11723,7 +11999,8 @@
     "o-outline": {
       "codepoint": 59535,
       "fontFamily": "Glyphs",
-      "identifier": "oOutline"
+      "identifier": "oOutline",
+      "duotone": true
     },
     "object-group": {
       "codepoint": 59536,
@@ -11788,7 +12065,8 @@
     "object-ungroup-outline": {
       "codepoint": 59547,
       "fontFamily": "Glyphs",
-      "identifier": "objectUngroupOutline"
+      "identifier": "objectUngroupOutline",
+      "duotone": true
     },
     "octagon": {
       "codepoint": 59548,
@@ -11803,12 +12081,14 @@
     "octagon-duo": {
       "codepoint": 59550,
       "fontFamily": "Glyphs",
-      "identifier": "octagonDuo"
+      "identifier": "octagonDuo",
+      "duotone": true
     },
     "octagon-outline": {
       "codepoint": 59551,
       "fontFamily": "Glyphs",
-      "identifier": "octagonOutline"
+      "identifier": "octagonOutline",
+      "duotone": true
     },
     "one": {
       "codepoint": 59552,
@@ -11828,7 +12108,8 @@
     "one-outline": {
       "codepoint": 59555,
       "fontFamily": "Glyphs",
-      "identifier": "oneOutline"
+      "identifier": "oneOutline",
+      "duotone": true
     },
     "p": {
       "codepoint": 59556,
@@ -11848,7 +12129,8 @@
     "p-outline": {
       "codepoint": 59559,
       "fontFamily": "Glyphs",
-      "identifier": "pOutline"
+      "identifier": "pOutline",
+      "duotone": true
     },
     "page-break": {
       "codepoint": 59560,
@@ -11891,7 +12173,8 @@
     "paint-brush-outline": {
       "codepoint": 59567,
       "fontFamily": "Glyphs",
-      "identifier": "paintBrushOutline"
+      "identifier": "paintBrushOutline",
+      "duotone": true
     },
     "palette": {
       "codepoint": 59568,
@@ -11934,7 +12217,8 @@
     "palm-tree-outline": {
       "codepoint": 59575,
       "fontFamily": "Glyphs",
-      "identifier": "palmTreeOutline"
+      "identifier": "palmTreeOutline",
+      "duotone": true
     },
     "paperclip": {
       "codepoint": 59576,
@@ -11954,7 +12238,8 @@
     "paperclip-outline": {
       "codepoint": 59579,
       "fontFamily": "Glyphs",
-      "identifier": "paperclipOutline"
+      "identifier": "paperclipOutline",
+      "duotone": true
     },
     "paste": {
       "codepoint": 59580,
@@ -11975,7 +12260,8 @@
     "paste-outline": {
       "codepoint": 59583,
       "fontFamily": "Glyphs",
-      "identifier": "pasteOutline"
+      "identifier": "pasteOutline",
+      "duotone": true
     },
     "path": {
       "codepoint": 59584,
@@ -12001,7 +12287,8 @@
     "path-1-outline": {
       "codepoint": 59588,
       "fontFamily": "Glyphs",
-      "identifier": "path1Outline"
+      "identifier": "path1Outline",
+      "duotone": true
     },
     "path-bold": {
       "codepoint": 59589,
@@ -12017,7 +12304,8 @@
     "path-outline": {
       "codepoint": 59591,
       "fontFamily": "Glyphs",
-      "identifier": "pathOutline"
+      "identifier": "pathOutline",
+      "duotone": true
     },
     "pause": {
       "codepoint": 59592,
@@ -12082,7 +12370,8 @@
     "peace-outline": {
       "codepoint": 59603,
       "fontFamily": "Glyphs",
-      "identifier": "peaceOutline"
+      "identifier": "peaceOutline",
+      "duotone": true
     },
     "pen": {
       "codepoint": 59604,
@@ -12108,7 +12397,8 @@
     "pen-1-outline": {
       "codepoint": 59608,
       "fontFamily": "Glyphs",
-      "identifier": "pen1Outline"
+      "identifier": "pen1Outline",
+      "duotone": true
     },
     "pen-bold": {
       "codepoint": 59609,
@@ -12140,7 +12430,8 @@
     "pen-fountain-outline": {
       "codepoint": 59614,
       "fontFamily": "Glyphs",
-      "identifier": "penFountainOutline"
+      "identifier": "penFountainOutline",
+      "duotone": true
     },
     "pen-nib": {
       "codepoint": 59615,
@@ -12161,12 +12452,14 @@
     "pen-nib-outline": {
       "codepoint": 59618,
       "fontFamily": "Glyphs",
-      "identifier": "penNibOutline"
+      "identifier": "penNibOutline",
+      "duotone": true
     },
     "pen-outline": {
       "codepoint": 59619,
       "fontFamily": "Glyphs",
-      "identifier": "penOutline"
+      "identifier": "penOutline",
+      "duotone": true
     },
     "pencil": {
       "codepoint": 59620,
@@ -12209,7 +12502,8 @@
     "pencil-outline": {
       "codepoint": 59627,
       "fontFamily": "Glyphs",
-      "identifier": "pencilOutline"
+      "identifier": "pencilOutline",
+      "duotone": true
     },
     "pencil-paintbrush": {
       "codepoint": 59628,
@@ -12230,7 +12524,8 @@
     "pencil-paintbrush-outline": {
       "codepoint": 59631,
       "fontFamily": "Glyphs",
-      "identifier": "pencilPaintbrushOutline"
+      "identifier": "pencilPaintbrushOutline",
+      "duotone": true
     },
     "pennant": {
       "codepoint": 59632,
@@ -12256,7 +12551,8 @@
     "pennant-1-outline": {
       "codepoint": 59636,
       "fontFamily": "Glyphs",
-      "identifier": "pennant1Outline"
+      "identifier": "pennant1Outline",
+      "duotone": true
     },
     "pennant-bold": {
       "codepoint": 59637,
@@ -12272,7 +12568,8 @@
     "pennant-outline": {
       "codepoint": 59639,
       "fontFamily": "Glyphs",
-      "identifier": "pennantOutline"
+      "identifier": "pennantOutline",
+      "duotone": true
     },
     "percent": {
       "codepoint": 59640,
@@ -12314,7 +12611,8 @@
     "person-outline": {
       "codepoint": 59647,
       "fontFamily": "Glyphs",
-      "identifier": "personOutline"
+      "identifier": "personOutline",
+      "duotone": true
     },
     "person-private": {
       "codepoint": 59648,
@@ -12335,7 +12633,8 @@
     "person-private-outline": {
       "codepoint": 59651,
       "fontFamily": "Glyphs",
-      "identifier": "personPrivateOutline"
+      "identifier": "personPrivateOutline",
+      "duotone": true
     },
     "pharmacy": {
       "codepoint": 59652,
@@ -12378,7 +12677,8 @@
     "pharmacy-outline": {
       "codepoint": 59659,
       "fontFamily": "Glyphs",
-      "identifier": "pharmacyOutline"
+      "identifier": "pharmacyOutline",
+      "duotone": true
     },
     "phone": {
       "codepoint": 59660,
@@ -12404,7 +12704,8 @@
     "phone-add-outline": {
       "codepoint": 59664,
       "fontFamily": "Glyphs",
-      "identifier": "phoneAddOutline"
+      "identifier": "phoneAddOutline",
+      "duotone": true
     },
     "phone-bold": {
       "codepoint": 59665,
@@ -12414,12 +12715,14 @@
     "phone-duo": {
       "codepoint": 59666,
       "fontFamily": "Glyphs",
-      "identifier": "phoneDuo"
+      "identifier": "phoneDuo",
+      "duotone": true
     },
     "phone-outline": {
       "codepoint": 59667,
       "fontFamily": "Glyphs",
-      "identifier": "phoneOutline"
+      "identifier": "phoneOutline",
+      "duotone": true
     },
     "phone-remove": {
       "codepoint": 59668,
@@ -12440,7 +12743,8 @@
     "phone-remove-outline": {
       "codepoint": 59671,
       "fontFamily": "Glyphs",
-      "identifier": "phoneRemoveOutline"
+      "identifier": "phoneRemoveOutline",
+      "duotone": true
     },
     "pickup-truck": {
       "codepoint": 59672,
@@ -12482,7 +12786,8 @@
     "picnic-table-outline": {
       "codepoint": 59679,
       "fontFamily": "Glyphs",
-      "identifier": "picnicTableOutline"
+      "identifier": "picnicTableOutline",
+      "duotone": true
     },
     "pill": {
       "codepoint": 59680,
@@ -12503,7 +12808,8 @@
     "pill-outline": {
       "codepoint": 59683,
       "fontFamily": "Glyphs",
-      "identifier": "pillOutline"
+      "identifier": "pillOutline",
+      "duotone": true
     },
     "pills": {
       "codepoint": 59684,
@@ -12551,7 +12857,8 @@
     "pin-1-outline": {
       "codepoint": 59692,
       "fontFamily": "Glyphs",
-      "identifier": "pin1Outline"
+      "identifier": "pin1Outline",
+      "duotone": true
     },
     "pin-bold": {
       "codepoint": 59693,
@@ -12567,7 +12874,8 @@
     "pin-outline": {
       "codepoint": 59695,
       "fontFamily": "Glyphs",
-      "identifier": "pinOutline"
+      "identifier": "pinOutline",
+      "duotone": true
     },
     "plane": {
       "codepoint": 59696,
@@ -12626,12 +12934,14 @@
     "plane-duo": {
       "codepoint": 59706,
       "fontFamily": "Glyphs",
-      "identifier": "planeDuo"
+      "identifier": "planeDuo",
+      "duotone": true
     },
     "plane-outline": {
       "codepoint": 59707,
       "fontFamily": "Glyphs",
-      "identifier": "planeOutline"
+      "identifier": "planeOutline",
+      "duotone": true
     },
     "plane-side": {
       "codepoint": 59708,
@@ -12646,12 +12956,14 @@
     "plane-side-duo": {
       "codepoint": 59710,
       "fontFamily": "Glyphs",
-      "identifier": "planeSideDuo"
+      "identifier": "planeSideDuo",
+      "duotone": true
     },
     "plane-side-outline": {
       "codepoint": 59711,
       "fontFamily": "Glyphs",
-      "identifier": "planeSideOutline"
+      "identifier": "planeSideOutline",
+      "duotone": true
     },
     "planet-moon": {
       "codepoint": 59712,
@@ -12710,12 +13022,14 @@
     "play-duo": {
       "codepoint": 59722,
       "fontFamily": "Glyphs",
-      "identifier": "playDuo"
+      "identifier": "playDuo",
+      "duotone": true
     },
     "play-outline": {
       "codepoint": 59723,
       "fontFamily": "Glyphs",
-      "identifier": "playOutline"
+      "identifier": "playOutline",
+      "duotone": true
     },
     "playback-speed": {
       "codepoint": 59724,
@@ -12780,7 +13094,8 @@
     "plug-outline": {
       "codepoint": 59735,
       "fontFamily": "Glyphs",
-      "identifier": "plugOutline"
+      "identifier": "plugOutline",
+      "duotone": true
     },
     "plus": {
       "codepoint": 59736,
@@ -12800,7 +13115,8 @@
     "plus-outline": {
       "codepoint": 59739,
       "fontFamily": "Glyphs",
-      "identifier": "plusOutline"
+      "identifier": "plusOutline",
+      "duotone": true
     },
     "polaroid": {
       "codepoint": 59740,
@@ -12821,7 +13137,8 @@
     "polaroid-outline": {
       "codepoint": 59743,
       "fontFamily": "Glyphs",
-      "identifier": "polaroidOutline"
+      "identifier": "polaroidOutline",
+      "duotone": true
     },
     "power": {
       "codepoint": 59744,
@@ -12864,7 +13181,8 @@
     "printer-outline": {
       "codepoint": 59751,
       "fontFamily": "Glyphs",
-      "identifier": "printerOutline"
+      "identifier": "printerOutline",
+      "duotone": true
     },
     "puzzle": {
       "codepoint": 59752,
@@ -12901,12 +13219,14 @@
     "puzzle-piece-duo": {
       "codepoint": 59758,
       "fontFamily": "Glyphs",
-      "identifier": "puzzlePieceDuo"
+      "identifier": "puzzlePieceDuo",
+      "duotone": true
     },
     "puzzle-piece-outline": {
       "codepoint": 59759,
       "fontFamily": "Glyphs",
-      "identifier": "puzzlePieceOutline"
+      "identifier": "puzzlePieceOutline",
+      "duotone": true
     },
     "q": {
       "codepoint": 59760,
@@ -12926,7 +13246,8 @@
     "q-outline": {
       "codepoint": 59763,
       "fontFamily": "Glyphs",
-      "identifier": "qOutline"
+      "identifier": "qOutline",
+      "duotone": true
     },
     "qr": {
       "codepoint": 59764,
@@ -13050,12 +13371,14 @@
     "quote-single-duo": {
       "codepoint": 59786,
       "fontFamily": "Glyphs",
-      "identifier": "quoteSingleDuo"
+      "identifier": "quoteSingleDuo",
+      "duotone": true
     },
     "quote-single-outline": {
       "codepoint": 59787,
       "fontFamily": "Glyphs",
-      "identifier": "quoteSingleOutline"
+      "identifier": "quoteSingleOutline",
+      "duotone": true
     },
     "r": {
       "codepoint": 59788,
@@ -13075,7 +13398,8 @@
     "r-outline": {
       "codepoint": 59791,
       "fontFamily": "Glyphs",
-      "identifier": "rOutline"
+      "identifier": "rOutline",
+      "duotone": true
     },
     "race-car": {
       "codepoint": 59792,
@@ -13140,7 +13464,8 @@
     "rain-outline": {
       "codepoint": 59803,
       "fontFamily": "Glyphs",
-      "identifier": "rainOutline"
+      "identifier": "rainOutline",
+      "duotone": true
     },
     "receipt": {
       "codepoint": 59804,
@@ -13199,12 +13524,14 @@
     "rectangle-duo": {
       "codepoint": 59814,
       "fontFamily": "Glyphs",
-      "identifier": "rectangleDuo"
+      "identifier": "rectangleDuo",
+      "duotone": true
     },
     "rectangle-outline": {
       "codepoint": 59815,
       "fontFamily": "Glyphs",
-      "identifier": "rectangleOutline"
+      "identifier": "rectangleOutline",
+      "duotone": true
     },
     "recycle": {
       "codepoint": 59816,
@@ -13401,7 +13728,8 @@
     "robot-outline": {
       "codepoint": 59851,
       "fontFamily": "Glyphs",
-      "identifier": "robotOutline"
+      "identifier": "robotOutline",
+      "duotone": true
     },
     "rocket": {
       "codepoint": 59852,
@@ -13466,7 +13794,8 @@
     "route-outline": {
       "codepoint": 59863,
       "fontFamily": "Glyphs",
-      "identifier": "routeOutline"
+      "identifier": "routeOutline",
+      "duotone": true
     },
     "ruler": {
       "codepoint": 59864,
@@ -13497,7 +13826,8 @@
     "ruler-combined-outline": {
       "codepoint": 59869,
       "fontFamily": "Glyphs",
-      "identifier": "rulerCombinedOutline"
+      "identifier": "rulerCombinedOutline",
+      "duotone": true
     },
     "ruler-duo": {
       "codepoint": 59870,
@@ -13508,7 +13838,8 @@
     "ruler-outline": {
       "codepoint": 59871,
       "fontFamily": "Glyphs",
-      "identifier": "rulerOutline"
+      "identifier": "rulerOutline",
+      "duotone": true
     },
     "ruler-trinangle": {
       "codepoint": 59872,
@@ -13551,7 +13882,8 @@
     "running-outline": {
       "codepoint": 59879,
       "fontFamily": "Glyphs",
-      "identifier": "runningOutline"
+      "identifier": "runningOutline",
+      "duotone": true
     },
     "rv": {
       "codepoint": 59880,
@@ -13593,7 +13925,8 @@
     "s-outline": {
       "codepoint": 59887,
       "fontFamily": "Glyphs",
-      "identifier": "sOutline"
+      "identifier": "sOutline",
+      "duotone": true
     },
     "sad-cry": {
       "codepoint": 59888,
@@ -13724,7 +14057,8 @@
     "save-outline": {
       "codepoint": 59911,
       "fontFamily": "Glyphs",
-      "identifier": "saveOutline"
+      "identifier": "saveOutline",
+      "duotone": true
     },
     "school-bus": {
       "codepoint": 59912,
@@ -13805,12 +14139,14 @@
     "scissors-open-outline": {
       "codepoint": 59926,
       "fontFamily": "Glyphs",
-      "identifier": "scissorsOpenOutline"
+      "identifier": "scissorsOpenOutline",
+      "duotone": true
     },
     "scissors-outline": {
       "codepoint": 59927,
       "fontFamily": "Glyphs",
-      "identifier": "scissorsOutline"
+      "identifier": "scissorsOutline",
+      "duotone": true
     },
     "scooter": {
       "codepoint": 59928,
@@ -13831,7 +14167,8 @@
     "scooter-outline": {
       "codepoint": 59931,
       "fontFamily": "Glyphs",
-      "identifier": "scooterOutline"
+      "identifier": "scooterOutline",
+      "duotone": true
     },
     "scooter-side": {
       "codepoint": 59932,
@@ -13874,7 +14211,8 @@
     "screwdriver-outline": {
       "codepoint": 59939,
       "fontFamily": "Glyphs",
-      "identifier": "screwdriverOutline"
+      "identifier": "screwdriverOutline",
+      "duotone": true
     },
     "scroll": {
       "codepoint": 59940,
@@ -13917,7 +14255,8 @@
     "scroll-outline": {
       "codepoint": 59947,
       "fontFamily": "Glyphs",
-      "identifier": "scrollOutline"
+      "identifier": "scrollOutline",
+      "duotone": true
     },
     "sd-card": {
       "codepoint": 59948,
@@ -13987,7 +14326,8 @@
     "search-1-outline": {
       "codepoint": 59960,
       "fontFamily": "Glyphs",
-      "identifier": "search1Outline"
+      "identifier": "search1Outline",
+      "duotone": true
     },
     "search-1-tint": {
       "codepoint": 59961,
@@ -14069,7 +14409,8 @@
     "seedling-outline": {
       "codepoint": 59975,
       "fontFamily": "Glyphs",
-      "identifier": "seedlingOutline"
+      "identifier": "seedlingOutline",
+      "duotone": true
     },
     "seek-skip": {
       "codepoint": 59976,
@@ -14095,7 +14436,8 @@
     "seek-skip-1-outline": {
       "codepoint": 59980,
       "fontFamily": "Glyphs",
-      "identifier": "seekSkip1Outline"
+      "identifier": "seekSkip1Outline",
+      "duotone": true
     },
     "seek-skip-bold": {
       "codepoint": 59981,
@@ -14111,7 +14453,8 @@
     "seek-skip-outline": {
       "codepoint": 59983,
       "fontFamily": "Glyphs",
-      "identifier": "seekSkipOutline"
+      "identifier": "seekSkipOutline",
+      "duotone": true
     },
     "seek-step": {
       "codepoint": 59984,
@@ -14132,7 +14475,8 @@
     "seek-step-outline": {
       "codepoint": 59987,
       "fontFamily": "Glyphs",
-      "identifier": "seekStepOutline"
+      "identifier": "seekStepOutline",
+      "duotone": true
     },
     "send": {
       "codepoint": 59988,
@@ -14147,7 +14491,8 @@
     "send-duo": {
       "codepoint": 59990,
       "fontFamily": "Glyphs",
-      "identifier": "sendDuo"
+      "identifier": "sendDuo",
+      "duotone": true
     },
     "send-outline": {
       "codepoint": 59991,
@@ -14173,7 +14518,8 @@
     "seven-outline": {
       "codepoint": 59995,
       "fontFamily": "Glyphs",
-      "identifier": "sevenOutline"
+      "identifier": "sevenOutline",
+      "duotone": true
     },
     "shapes": {
       "codepoint": 59996,
@@ -14216,7 +14562,8 @@
     "share-outline": {
       "codepoint": 60003,
       "fontFamily": "Glyphs",
-      "identifier": "shareOutline"
+      "identifier": "shareOutline",
+      "duotone": true
     },
     "shield": {
       "codepoint": 60004,
@@ -14236,12 +14583,14 @@
     "shield-1-duo": {
       "codepoint": 60007,
       "fontFamily": "Glyphs",
-      "identifier": "shield1Duo"
+      "identifier": "shield1Duo",
+      "duotone": true
     },
     "shield-1-outline": {
       "codepoint": 60008,
       "fontFamily": "Glyphs",
-      "identifier": "shield1Outline"
+      "identifier": "shield1Outline",
+      "duotone": true
     },
     "shield-2": {
       "codepoint": 60009,
@@ -14256,12 +14605,14 @@
     "shield-2-duo": {
       "codepoint": 60011,
       "fontFamily": "Glyphs",
-      "identifier": "shield2Duo"
+      "identifier": "shield2Duo",
+      "duotone": true
     },
     "shield-2-outline": {
       "codepoint": 60012,
       "fontFamily": "Glyphs",
-      "identifier": "shield2Outline"
+      "identifier": "shield2Outline",
+      "duotone": true
     },
     "shield-bold": {
       "codepoint": 60013,
@@ -14271,7 +14622,8 @@
     "shield-duo": {
       "codepoint": 60014,
       "fontFamily": "Glyphs",
-      "identifier": "shieldDuo"
+      "identifier": "shieldDuo",
+      "duotone": true
     },
     "shield-exclamation": {
       "codepoint": 60015,
@@ -14298,7 +14650,8 @@
     "shield-outline": {
       "codepoint": 60019,
       "fontFamily": "Glyphs",
-      "identifier": "shieldOutline"
+      "identifier": "shieldOutline",
+      "duotone": true
     },
     "ship": {
       "codepoint": 60020,
@@ -14319,7 +14672,8 @@
     "ship-outline": {
       "codepoint": 60023,
       "fontFamily": "Glyphs",
-      "identifier": "shipOutline"
+      "identifier": "shipOutline",
+      "duotone": true
     },
     "ship-water": {
       "codepoint": 60024,
@@ -14362,7 +14716,8 @@
     "shoe-print-outline": {
       "codepoint": 60031,
       "fontFamily": "Glyphs",
-      "identifier": "shoePrintOutline"
+      "identifier": "shoePrintOutline",
+      "duotone": true
     },
     "shopping-bag": {
       "codepoint": 60032,
@@ -14383,7 +14738,8 @@
     "shopping-bag-outline": {
       "codepoint": 60035,
       "fontFamily": "Glyphs",
-      "identifier": "shoppingBagOutline"
+      "identifier": "shoppingBagOutline",
+      "duotone": true
     },
     "shopping-bags": {
       "codepoint": 60036,
@@ -14448,7 +14804,8 @@
     "shopping-cart-outline": {
       "codepoint": 60047,
       "fontFamily": "Glyphs",
-      "identifier": "shoppingCartOutline"
+      "identifier": "shoppingCartOutline",
+      "duotone": true
     },
     "shovel": {
       "codepoint": 60048,
@@ -14469,7 +14826,8 @@
     "shovel-outline": {
       "codepoint": 60051,
       "fontFamily": "Glyphs",
-      "identifier": "shovelOutline"
+      "identifier": "shovelOutline",
+      "duotone": true
     },
     "shovel-snow": {
       "codepoint": 60052,
@@ -14511,12 +14869,14 @@
     "signal-1-duo": {
       "codepoint": 60059,
       "fontFamily": "Glyphs",
-      "identifier": "signal1Duo"
+      "identifier": "signal1Duo",
+      "duotone": true
     },
     "signal-1-outline": {
       "codepoint": 60060,
       "fontFamily": "Glyphs",
-      "identifier": "signal1Outline"
+      "identifier": "signal1Outline",
+      "duotone": true
     },
     "signal-100": {
       "codepoint": 60061,
@@ -14537,7 +14897,8 @@
     "signal-100-outline": {
       "codepoint": 60064,
       "fontFamily": "Glyphs",
-      "identifier": "signal100Outline"
+      "identifier": "signal100Outline",
+      "duotone": true
     },
     "signal-2": {
       "codepoint": 60065,
@@ -14794,7 +15155,8 @@
     "six-outline": {
       "codepoint": 60111,
       "fontFamily": "Glyphs",
-      "identifier": "sixOutline"
+      "identifier": "sixOutline",
+      "duotone": true
     },
     "skull": {
       "codepoint": 60112,
@@ -14859,7 +15221,8 @@
     "sleet-outline": {
       "codepoint": 60123,
       "fontFamily": "Glyphs",
-      "identifier": "sleetOutline"
+      "identifier": "sleetOutline",
+      "duotone": true
     },
     "sleetlet": {
       "codepoint": 60124,
@@ -14874,12 +15237,14 @@
     "sleetlet-duo": {
       "codepoint": 60126,
       "fontFamily": "Glyphs",
-      "identifier": "sleetletDuo"
+      "identifier": "sleetletDuo",
+      "duotone": true
     },
     "sleetlet-outline": {
       "codepoint": 60127,
       "fontFamily": "Glyphs",
-      "identifier": "sleetletOutline"
+      "identifier": "sleetletOutline",
+      "duotone": true
     },
     "sliders": {
       "codepoint": 60128,
@@ -14987,7 +15352,8 @@
     "snooze-outline": {
       "codepoint": 60147,
       "fontFamily": "Glyphs",
-      "identifier": "snoozeOutline"
+      "identifier": "snoozeOutline",
+      "duotone": true
     },
     "snow": {
       "codepoint": 60148,
@@ -15030,7 +15396,8 @@
     "snowflake-outline": {
       "codepoint": 60155,
       "fontFamily": "Glyphs",
-      "identifier": "snowflakeOutline"
+      "identifier": "snowflakeOutline",
+      "duotone": true
     },
     "sofa": {
       "codepoint": 60156,
@@ -15051,7 +15418,8 @@
     "sofa-outline": {
       "codepoint": 60159,
       "fontFamily": "Glyphs",
-      "identifier": "sofaOutline"
+      "identifier": "sofaOutline",
+      "duotone": true
     },
     "sort": {
       "codepoint": 60160,
@@ -15071,12 +15439,14 @@
     "sort-1-duo": {
       "codepoint": 60163,
       "fontFamily": "Glyphs",
-      "identifier": "sort1Duo"
+      "identifier": "sort1Duo",
+      "duotone": true
     },
     "sort-1-outline": {
       "codepoint": 60164,
       "fontFamily": "Glyphs",
-      "identifier": "sort1Outline"
+      "identifier": "sort1Outline",
+      "duotone": true
     },
     "sort-alpha-down": {
       "codepoint": 60165,
@@ -15290,7 +15660,8 @@
     "spa-outline": {
       "codepoint": 60203,
       "fontFamily": "Glyphs",
-      "identifier": "spaOutline"
+      "identifier": "spaOutline",
+      "duotone": true
     },
     "spade": {
       "codepoint": 60204,
@@ -15305,12 +15676,14 @@
     "spade-duo": {
       "codepoint": 60206,
       "fontFamily": "Glyphs",
-      "identifier": "spadeDuo"
+      "identifier": "spadeDuo",
+      "duotone": true
     },
     "spade-outline": {
       "codepoint": 60207,
       "fontFamily": "Glyphs",
-      "identifier": "spadeOutline"
+      "identifier": "spadeOutline",
+      "duotone": true
     },
     "sparkle": {
       "codepoint": 60208,
@@ -15325,12 +15698,14 @@
     "sparkle-duo": {
       "codepoint": 60210,
       "fontFamily": "Glyphs",
-      "identifier": "sparkleDuo"
+      "identifier": "sparkleDuo",
+      "duotone": true
     },
     "sparkle-outline": {
       "codepoint": 60211,
       "fontFamily": "Glyphs",
-      "identifier": "sparkleOutline"
+      "identifier": "sparkleOutline",
+      "duotone": true
     },
     "sparkles": {
       "codepoint": 60212,
@@ -15499,7 +15874,8 @@
     "square-duo": {
       "codepoint": 60242,
       "fontFamily": "Glyphs",
-      "identifier": "squareDuo"
+      "identifier": "squareDuo",
+      "duotone": true
     },
     "square-half": {
       "codepoint": 60243,
@@ -15525,7 +15901,8 @@
     "square-half-1-outline": {
       "codepoint": 60247,
       "fontFamily": "Glyphs",
-      "identifier": "squareHalf1Outline"
+      "identifier": "squareHalf1Outline",
+      "duotone": true
     },
     "square-half-2": {
       "codepoint": 60248,
@@ -15546,7 +15923,8 @@
     "square-half-2-outline": {
       "codepoint": 60251,
       "fontFamily": "Glyphs",
-      "identifier": "squareHalf2Outline"
+      "identifier": "squareHalf2Outline",
+      "duotone": true
     },
     "square-half-bold": {
       "codepoint": 60252,
@@ -15556,17 +15934,20 @@
     "square-half-duo": {
       "codepoint": 60253,
       "fontFamily": "Glyphs",
-      "identifier": "squareHalfDuo"
+      "identifier": "squareHalfDuo",
+      "duotone": true
     },
     "square-half-outline": {
       "codepoint": 60254,
       "fontFamily": "Glyphs",
-      "identifier": "squareHalfOutline"
+      "identifier": "squareHalfOutline",
+      "duotone": true
     },
     "square-outline": {
       "codepoint": 60255,
       "fontFamily": "Glyphs",
-      "identifier": "squareOutline"
+      "identifier": "squareOutline",
+      "duotone": true
     },
     "squircle": {
       "codepoint": 60256,
@@ -15581,12 +15962,14 @@
     "squircle-duo": {
       "codepoint": 60258,
       "fontFamily": "Glyphs",
-      "identifier": "squircleDuo"
+      "identifier": "squircleDuo",
+      "duotone": true
     },
     "squircle-outline": {
       "codepoint": 60259,
       "fontFamily": "Glyphs",
-      "identifier": "squircleOutline"
+      "identifier": "squircleOutline",
+      "duotone": true
     },
     "stamp": {
       "codepoint": 60260,
@@ -15607,7 +15990,8 @@
     "stamp-outline": {
       "codepoint": 60263,
       "fontFamily": "Glyphs",
-      "identifier": "stampOutline"
+      "identifier": "stampOutline",
+      "duotone": true
     },
     "star": {
       "codepoint": 60264,
@@ -15644,7 +16028,8 @@
     "star-duo": {
       "codepoint": 60270,
       "fontFamily": "Glyphs",
-      "identifier": "starDuo"
+      "identifier": "starDuo",
+      "duotone": true
     },
     "star-half": {
       "codepoint": 60271,
@@ -15670,7 +16055,8 @@
     "star-half-1-outline": {
       "codepoint": 60275,
       "fontFamily": "Glyphs",
-      "identifier": "starHalf1Outline"
+      "identifier": "starHalf1Outline",
+      "duotone": true
     },
     "star-half-2": {
       "codepoint": 60276,
@@ -15702,12 +16088,14 @@
     "star-half-duo": {
       "codepoint": 60281,
       "fontFamily": "Glyphs",
-      "identifier": "starHalfDuo"
+      "identifier": "starHalfDuo",
+      "duotone": true
     },
     "star-half-outline": {
       "codepoint": 60282,
       "fontFamily": "Glyphs",
-      "identifier": "starHalfOutline"
+      "identifier": "starHalfOutline",
+      "duotone": true
     },
     "star-of-david": {
       "codepoint": 60283,
@@ -15728,12 +16116,14 @@
     "star-of-david-outline": {
       "codepoint": 60286,
       "fontFamily": "Glyphs",
-      "identifier": "starOfDavidOutline"
+      "identifier": "starOfDavidOutline",
+      "duotone": true
     },
     "star-outline": {
       "codepoint": 60287,
       "fontFamily": "Glyphs",
-      "identifier": "starOutline"
+      "identifier": "starOutline",
+      "duotone": true
     },
     "stop": {
       "codepoint": 60288,
@@ -15770,7 +16160,8 @@
     "stop-duo": {
       "codepoint": 60294,
       "fontFamily": "Glyphs",
-      "identifier": "stopDuo"
+      "identifier": "stopDuo",
+      "duotone": true
     },
     "stop-hand": {
       "codepoint": 60295,
@@ -15797,7 +16188,8 @@
     "stop-outline": {
       "codepoint": 60299,
       "fontFamily": "Glyphs",
-      "identifier": "stopOutline"
+      "identifier": "stopOutline",
+      "duotone": true
     },
     "stop-sign": {
       "codepoint": 60300,
@@ -15850,7 +16242,8 @@
     "store-break-outline": {
       "codepoint": 60309,
       "fontFamily": "Glyphs",
-      "identifier": "storeBreakOutline"
+      "identifier": "storeBreakOutline",
+      "duotone": true
     },
     "store-duo": {
       "codepoint": 60310,
@@ -15861,7 +16254,8 @@
     "store-outline": {
       "codepoint": 60311,
       "fontFamily": "Glyphs",
-      "identifier": "storeOutline"
+      "identifier": "storeOutline",
+      "duotone": true
     },
     "stream": {
       "codepoint": 60312,
@@ -15931,7 +16325,8 @@
     "street-light-2-outline": {
       "codepoint": 60324,
       "fontFamily": "Glyphs",
-      "identifier": "streetLight2Outline"
+      "identifier": "streetLight2Outline",
+      "duotone": true
     },
     "street-light-bold": {
       "codepoint": 60325,
@@ -15947,7 +16342,8 @@
     "street-light-outline": {
       "codepoint": 60327,
       "fontFamily": "Glyphs",
-      "identifier": "streetLightOutline"
+      "identifier": "streetLightOutline",
+      "duotone": true
     },
     "street-view": {
       "codepoint": 60328,
@@ -15968,7 +16364,8 @@
     "street-view-outline": {
       "codepoint": 60331,
       "fontFamily": "Glyphs",
-      "identifier": "streetViewOutline"
+      "identifier": "streetViewOutline",
+      "duotone": true
     },
     "strikethrough": {
       "codepoint": 60332,
@@ -15988,7 +16385,8 @@
     "strikethrough-outline": {
       "codepoint": 60335,
       "fontFamily": "Glyphs",
-      "identifier": "strikethroughOutline"
+      "identifier": "strikethroughOutline",
+      "duotone": true
     },
     "subtract": {
       "codepoint": 60336,
@@ -16009,7 +16407,8 @@
     "subtract-outline": {
       "codepoint": 60339,
       "fontFamily": "Glyphs",
-      "identifier": "subtractOutline"
+      "identifier": "subtractOutline",
+      "duotone": true
     },
     "subway": {
       "codepoint": 60340,
@@ -16227,7 +16626,8 @@
     "t-outline": {
       "codepoint": 60379,
       "fontFamily": "Glyphs",
-      "identifier": "tOutline"
+      "identifier": "tOutline",
+      "duotone": true
     },
     "tablet": {
       "codepoint": 60380,
@@ -16248,7 +16648,8 @@
     "tablet-outline": {
       "codepoint": 60383,
       "fontFamily": "Glyphs",
-      "identifier": "tabletOutline"
+      "identifier": "tabletOutline",
+      "duotone": true
     },
     "tachometer": {
       "codepoint": 60384,
@@ -16643,7 +17044,8 @@
     "tennis-ball-outline": {
       "codepoint": 60455,
       "fontFamily": "Glyphs",
-      "identifier": "tennisBallOutline"
+      "identifier": "tennisBallOutline",
+      "duotone": true
     },
     "tent": {
       "codepoint": 60456,
@@ -16664,7 +17066,8 @@
     "tent-outline": {
       "codepoint": 60459,
       "fontFamily": "Glyphs",
-      "identifier": "tentOutline"
+      "identifier": "tentOutline",
+      "duotone": true
     },
     "text": {
       "codepoint": 60460,
@@ -16684,7 +17087,8 @@
     "text-outline": {
       "codepoint": 60463,
       "fontFamily": "Glyphs",
-      "identifier": "textOutline"
+      "identifier": "textOutline",
+      "duotone": true
     },
     "three": {
       "codepoint": 60464,
@@ -16704,7 +17108,8 @@
     "three-outline": {
       "codepoint": 60467,
       "fontFamily": "Glyphs",
-      "identifier": "threeOutline"
+      "identifier": "threeOutline",
+      "duotone": true
     },
     "ticket": {
       "codepoint": 60468,
@@ -16741,12 +17146,14 @@
     "ticket-duo": {
       "codepoint": 60474,
       "fontFamily": "Glyphs",
-      "identifier": "ticketDuo"
+      "identifier": "ticketDuo",
+      "duotone": true
     },
     "ticket-outline": {
       "codepoint": 60475,
       "fontFamily": "Glyphs",
-      "identifier": "ticketOutline"
+      "identifier": "ticketOutline",
+      "duotone": true
     },
     "tilde": {
       "codepoint": 60476,
@@ -16766,7 +17173,8 @@
     "tilde-outline": {
       "codepoint": 60479,
       "fontFamily": "Glyphs",
-      "identifier": "tildeOutline"
+      "identifier": "tildeOutline",
+      "duotone": true
     },
     "timer": {
       "codepoint": 60480,
@@ -16874,7 +17282,8 @@
     "times-outline": {
       "codepoint": 60499,
       "fontFamily": "Glyphs",
-      "identifier": "timesOutline"
+      "identifier": "timesOutline",
+      "duotone": true
     },
     "tired": {
       "codepoint": 60500,
@@ -16922,7 +17331,8 @@
     "toggle-1-outline": {
       "codepoint": 60508,
       "fontFamily": "Glyphs",
-      "identifier": "toggle1Outline"
+      "identifier": "toggle1Outline",
+      "duotone": true
     },
     "toggle-2": {
       "codepoint": 60509,
@@ -16943,7 +17353,8 @@
     "toggle-2-outline": {
       "codepoint": 60512,
       "fontFamily": "Glyphs",
-      "identifier": "toggle2Outline"
+      "identifier": "toggle2Outline",
+      "duotone": true
     },
     "toggle-bold": {
       "codepoint": 60513,
@@ -16981,7 +17392,8 @@
     "toolbox-outline": {
       "codepoint": 60519,
       "fontFamily": "Glyphs",
-      "identifier": "toolboxOutline"
+      "identifier": "toolboxOutline",
+      "duotone": true
     },
     "tools": {
       "codepoint": 60520,
@@ -17002,7 +17414,8 @@
     "tools-outline": {
       "codepoint": 60523,
       "fontFamily": "Glyphs",
-      "identifier": "toolsOutline"
+      "identifier": "toolsOutline",
+      "duotone": true
     },
     "tornado": {
       "codepoint": 60524,
@@ -17089,7 +17502,8 @@
     "trash-outline": {
       "codepoint": 60539,
       "fontFamily": "Glyphs",
-      "identifier": "trashOutline"
+      "identifier": "trashOutline",
+      "duotone": true
     },
     "tree": {
       "codepoint": 60540,
@@ -17115,7 +17529,8 @@
     "tree-1-outline": {
       "codepoint": 60544,
       "fontFamily": "Glyphs",
-      "identifier": "tree1Outline"
+      "identifier": "tree1Outline",
+      "duotone": true
     },
     "tree-2": {
       "codepoint": 60545,
@@ -17136,7 +17551,8 @@
     "tree-2-outline": {
       "codepoint": 60548,
       "fontFamily": "Glyphs",
-      "identifier": "tree2Outline"
+      "identifier": "tree2Outline",
+      "duotone": true
     },
     "tree-3": {
       "codepoint": 60549,
@@ -17157,7 +17573,8 @@
     "tree-3-outline": {
       "codepoint": 60552,
       "fontFamily": "Glyphs",
-      "identifier": "tree3Outline"
+      "identifier": "tree3Outline",
+      "duotone": true
     },
     "tree-4": {
       "codepoint": 60553,
@@ -17178,7 +17595,8 @@
     "tree-4-outline": {
       "codepoint": 60556,
       "fontFamily": "Glyphs",
-      "identifier": "tree4Outline"
+      "identifier": "tree4Outline",
+      "duotone": true
     },
     "tree-5": {
       "codepoint": 60557,
@@ -17198,7 +17616,8 @@
     "tree-5-outline": {
       "codepoint": 60560,
       "fontFamily": "Glyphs",
-      "identifier": "tree5Outline"
+      "identifier": "tree5Outline",
+      "duotone": true
     },
     "tree-bold": {
       "codepoint": 60561,
@@ -17214,7 +17633,8 @@
     "tree-outline": {
       "codepoint": 60563,
       "fontFamily": "Glyphs",
-      "identifier": "treeOutline"
+      "identifier": "treeOutline",
+      "duotone": true
     },
     "triangle": {
       "codepoint": 60564,
@@ -17229,12 +17649,14 @@
     "triangle-duo": {
       "codepoint": 60566,
       "fontFamily": "Glyphs",
-      "identifier": "triangleDuo"
+      "identifier": "triangleDuo",
+      "duotone": true
     },
     "triangle-outline": {
       "codepoint": 60567,
       "fontFamily": "Glyphs",
-      "identifier": "triangleOutline"
+      "identifier": "triangleOutline",
+      "duotone": true
     },
     "trophy": {
       "codepoint": 60568,
@@ -17255,7 +17677,8 @@
     "trophy-outline": {
       "codepoint": 60571,
       "fontFamily": "Glyphs",
-      "identifier": "trophyOutline"
+      "identifier": "trophyOutline",
+      "duotone": true
     },
     "truck": {
       "codepoint": 60572,
@@ -17276,7 +17699,8 @@
     "truck-outline": {
       "codepoint": 60575,
       "fontFamily": "Glyphs",
-      "identifier": "truckOutline"
+      "identifier": "truckOutline",
+      "duotone": true
     },
     "turn-sign": {
       "codepoint": 60576,
@@ -17340,7 +17764,8 @@
     "two-outline": {
       "codepoint": 60587,
       "fontFamily": "Glyphs",
-      "identifier": "twoOutline"
+      "identifier": "twoOutline",
+      "duotone": true
     },
     "u": {
       "codepoint": 60588,
@@ -17360,7 +17785,8 @@
     "u-outline": {
       "codepoint": 60591,
       "fontFamily": "Glyphs",
-      "identifier": "uOutline"
+      "identifier": "uOutline",
+      "duotone": true
     },
     "u-turn-sign": {
       "codepoint": 60592,
@@ -17402,7 +17828,8 @@
     "underline-outline": {
       "codepoint": 60599,
       "fontFamily": "Glyphs",
-      "identifier": "underlineOutline"
+      "identifier": "underlineOutline",
+      "duotone": true
     },
     "union": {
       "codepoint": 60600,
@@ -17417,12 +17844,14 @@
     "union-duo": {
       "codepoint": 60602,
       "fontFamily": "Glyphs",
-      "identifier": "unionDuo"
+      "identifier": "unionDuo",
+      "duotone": true
     },
     "union-outline": {
       "codepoint": 60603,
       "fontFamily": "Glyphs",
-      "identifier": "unionOutline"
+      "identifier": "unionOutline",
+      "duotone": true
     },
     "unlink": {
       "codepoint": 60604,
@@ -17496,7 +17925,8 @@
     "user-comment-outline": {
       "codepoint": 60617,
       "fontFamily": "Glyphs",
-      "identifier": "userCommentOutline"
+      "identifier": "userCommentOutline",
+      "duotone": true
     },
     "user-duo": {
       "codepoint": 60618,
@@ -17572,7 +18002,8 @@
     "v-outline": {
       "codepoint": 60631,
       "fontFamily": "Glyphs",
-      "identifier": "vOutline"
+      "identifier": "vOutline",
+      "duotone": true
     },
     "van": {
       "codepoint": 60632,
@@ -17593,7 +18024,8 @@
     "van-outline": {
       "codepoint": 60635,
       "fontFamily": "Glyphs",
-      "identifier": "vanOutline"
+      "identifier": "vanOutline",
+      "duotone": true
     },
     "venn": {
       "codepoint": 60636,
@@ -17614,7 +18046,8 @@
     "venn-outline": {
       "codepoint": 60639,
       "fontFamily": "Glyphs",
-      "identifier": "vennOutline"
+      "identifier": "vennOutline",
+      "duotone": true
     },
     "video": {
       "codepoint": 60640,
@@ -17635,7 +18068,8 @@
     "video-outline": {
       "codepoint": 60643,
       "fontFamily": "Glyphs",
-      "identifier": "videoOutline"
+      "identifier": "videoOutline",
+      "duotone": true
     },
     "view-collapse": {
       "codepoint": 60644,
@@ -17720,7 +18154,8 @@
     "volleyball-outline": {
       "codepoint": 60659,
       "fontFamily": "Glyphs",
-      "identifier": "volleyballOutline"
+      "identifier": "volleyballOutline",
+      "duotone": true
     },
     "volume": {
       "codepoint": 60660,
@@ -17801,7 +18236,8 @@
     "volume-duo": {
       "codepoint": 60674,
       "fontFamily": "Glyphs",
-      "identifier": "volumeDuo"
+      "identifier": "volumeDuo",
+      "duotone": true
     },
     "volume-mute": {
       "codepoint": 60675,
@@ -17828,7 +18264,8 @@
     "volume-outline": {
       "codepoint": 60679,
       "fontFamily": "Glyphs",
-      "identifier": "volumeOutline"
+      "identifier": "volumeOutline",
+      "duotone": true
     },
     "w": {
       "codepoint": 60680,
@@ -17848,7 +18285,8 @@
     "w-outline": {
       "codepoint": 60683,
       "fontFamily": "Glyphs",
-      "identifier": "wOutline"
+      "identifier": "wOutline",
+      "duotone": true
     },
     "walking": {
       "codepoint": 60684,
@@ -17869,7 +18307,8 @@
     "walking-outline": {
       "codepoint": 60687,
       "fontFamily": "Glyphs",
-      "identifier": "walkingOutline"
+      "identifier": "walkingOutline",
+      "duotone": true
     },
     "wallet": {
       "codepoint": 60688,
@@ -17917,7 +18356,8 @@
     "watch-1-outline": {
       "codepoint": 60696,
       "fontFamily": "Glyphs",
-      "identifier": "watch1Outline"
+      "identifier": "watch1Outline",
+      "duotone": true
     },
     "watch-2": {
       "codepoint": 60697,
@@ -17938,7 +18378,8 @@
     "watch-2-outline": {
       "codepoint": 60700,
       "fontFamily": "Glyphs",
-      "identifier": "watch2Outline"
+      "identifier": "watch2Outline",
+      "duotone": true
     },
     "watch-bold": {
       "codepoint": 60701,
@@ -18066,7 +18507,8 @@
     "wifi-100-outline": {
       "codepoint": 60724,
       "fontFamily": "Glyphs",
-      "identifier": "wifi100Outline"
+      "identifier": "wifi100Outline",
+      "duotone": true
     },
     "wifi-2": {
       "codepoint": 60725,
@@ -18109,7 +18551,8 @@
     "wifi-25-outline": {
       "codepoint": 60732,
       "fontFamily": "Glyphs",
-      "identifier": "wifi25Outline"
+      "identifier": "wifi25Outline",
+      "duotone": true
     },
     "wifi-50": {
       "codepoint": 60733,
@@ -18130,7 +18573,8 @@
     "wifi-50-outline": {
       "codepoint": 60736,
       "fontFamily": "Glyphs",
-      "identifier": "wifi50Outline"
+      "identifier": "wifi50Outline",
+      "duotone": true
     },
     "wifi-75": {
       "codepoint": 60737,
@@ -18151,7 +18595,8 @@
     "wifi-75-outline": {
       "codepoint": 60740,
       "fontFamily": "Glyphs",
-      "identifier": "wifi75Outline"
+      "identifier": "wifi75Outline",
+      "duotone": true
     },
     "wifi-bold": {
       "codepoint": 60741,
@@ -18232,7 +18677,8 @@
     "windsock-outline": {
       "codepoint": 60755,
       "fontFamily": "Glyphs",
-      "identifier": "windsockOutline"
+      "identifier": "windsockOutline",
+      "duotone": true
     },
     "wink": {
       "codepoint": 60756,
@@ -18269,12 +18715,14 @@
     "wrench-duo": {
       "codepoint": 60762,
       "fontFamily": "Glyphs",
-      "identifier": "wrenchDuo"
+      "identifier": "wrenchDuo",
+      "duotone": true
     },
     "wrench-outline": {
       "codepoint": 60763,
       "fontFamily": "Glyphs",
-      "identifier": "wrenchOutline"
+      "identifier": "wrenchOutline",
+      "duotone": true
     },
     "x": {
       "codepoint": 60764,
@@ -18294,7 +18742,8 @@
     "x-outline": {
       "codepoint": 60767,
       "fontFamily": "Glyphs",
-      "identifier": "xOutline"
+      "identifier": "xOutline",
+      "duotone": true
     },
     "y": {
       "codepoint": 60768,
@@ -18314,7 +18763,8 @@
     "y-outline": {
       "codepoint": 60771,
       "fontFamily": "Glyphs",
-      "identifier": "yOutline"
+      "identifier": "yOutline",
+      "duotone": true
     },
     "yield-sign": {
       "codepoint": 60772,
@@ -18329,12 +18779,14 @@
     "yield-sign-duo": {
       "codepoint": 60774,
       "fontFamily": "Glyphs",
-      "identifier": "yieldSignDuo"
+      "identifier": "yieldSignDuo",
+      "duotone": true
     },
     "yield-sign-outline": {
       "codepoint": 60775,
       "fontFamily": "Glyphs",
-      "identifier": "yieldSignOutline"
+      "identifier": "yieldSignOutline",
+      "duotone": true
     },
     "ying-yang": {
       "codepoint": 60776,
@@ -18376,7 +18828,8 @@
     "z-outline": {
       "codepoint": 60783,
       "fontFamily": "Glyphs",
-      "identifier": "zOutline"
+      "identifier": "zOutline",
+      "duotone": true
     },
     "zero": {
       "codepoint": 60784,
@@ -18396,7 +18849,8 @@
     "zero-outline": {
       "codepoint": 60787,
       "fontFamily": "Glyphs",
-      "identifier": "zeroOutline"
+      "identifier": "zeroOutline",
+      "duotone": true
     },
     "zoom-in": {
       "codepoint": 60788,

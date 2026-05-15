@@ -4,9 +4,9 @@ Generated 2026-05-15 from `@iconify/json` v2.2.472. Source counts are Iconify's 
 
 - **Sets built:** 225 / 225
 - **Sets fully missing:** 0
-- **Sets partially missing (≥5% gap):** 27
+- **Sets partially missing (≥5% gap):** 26
 - **Source icons:** 301,637
-- **Built icons:** 306,298
+- **Built icons:** 306,299
 
 Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light`/`-bold` suffixes) are excluded from the built count so source-vs-built comparisons stay meaningful — those are local clones, not upstream icons.
 
@@ -44,7 +44,6 @@ _None._
 | OpenMoji | `openmoji` | 4,475 | 4,049 | 426 | 9.5% |
 | Flag Icons | `flag` | 542 | 491 | 51 | 9.4% |
 | Academicons | `academicons` | 158 | 149 | 9 | 5.7% |
-| BPMN | `bpmn` | 112 | 106 | 6 | 5.4% |
 
 ## All sets
 
@@ -76,7 +75,7 @@ _None._
 | OpenMoji | `openmoji` | 4,475 | 4,049 | +426 | ⚠ partial |
 | Flag Icons | `flag` | 542 | 491 | +51 | ⚠ partial |
 | Academicons | `academicons` | 158 | 149 | +9 | ⚠ partial |
-| BPMN | `bpmn` | 112 | 106 | +6 | ⚠ partial |
+| BPMN | `bpmn` | 112 | 107 | +5 | ✓ |
 | EOS Icons | `eos-icons` | 253 | 242 | +11 | ✓ |
 | Meteocons | `meteocons` | 447 | 432 | +15 | ✓ |
 | Röntgen | `roentgen` | 551 | 533 | +18 | ✓ |

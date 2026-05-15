@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Camunda Services GmbH
 /// License: Open Font License — https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE
-/// Icons: 106
+/// Icons: 107
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -139,6 +139,11 @@ class BpmnIcons {
   /// `event-subprocess-expanded`
   static const IconifyIconData eventSubprocessExpanded = IconifyIconData.solo(
     IconData(0xe017, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
+  );
+
+  /// `gateway`
+  static const IconifyIconData gateway = IconifyIconData.solo(
+    IconData(0xe06a, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
   );
 
   /// `gateway-complex`

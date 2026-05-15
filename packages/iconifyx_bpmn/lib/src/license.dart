@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Open Font License',
   licenseSpdx: 'OFL-1.1',
   licenseUrl: 'https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE',
-  iconCount: 106,
+  iconCount: 107,
 );

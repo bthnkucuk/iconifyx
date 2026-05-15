@@ -5,7 +5,7 @@ Generated 2026-05-15. For each set we sample the first 25 icons and measure two 
 - **Sets receiving raster pre-pass:** 111 / 225
 - **Of those, auto-detected:** 85
 - **Sets with ≥20% raster signal that were NOT processed:** 6
-- **Sets containing duo-tone icons:** 68 (17,567 icons across them)
+- **Sets containing duo-tone icons:** 68 (18,031 icons across them)
 - **Sets with ≥20% paint-order risk (multi-fill bodies that would render as monochrome blobs):** 12
 - **Icons proactively dropped this run for paint-order risk:** 17,158
 
@@ -41,9 +41,9 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Set | Prefix | Duotone icons | Spot-check |
 |---|---|---:|---|
 | Solar | `solar` | 2,412 | `4k-bold-duotone`, `4k-line-duotone`, `accessibility-bold-duotone` |
+| Glyphs | `glyphs` | 1,605 | `a-outline`, `accessible-duo`, `accessible-outline` |
 | Phosphor | `ph` | 1,528 | `acorn-duotone`, `address-book-duotone`, `address-book-tabs-duotone` |
 | Google Material Icons | `ic` | 1,500 | `baseline-battery-20`, `baseline-battery-30`, `baseline-battery-50` |
-| Glyphs | `glyphs` | 1,151 | `accessible-duo`, `adjust-1-duo`, `adjust-1-outline` |
 | Freehand color icons | `streamline-freehand-color` | 971 | `accessories-remote-shutter`, `accessories-retro-film-1`, `accounting-abacus` |
 | Streamline color | `streamline-color` | 810 | `add-bell-notification-flat`, `add-circle-flat`, `add-layer-2-flat` |
 | Pepicons Print | `pepicons-print` | 703 | `airplane`, `airplane-circle`, `airplane-circle-filled` |
@@ -58,8 +58,8 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Streamline Emojis | `streamline-emojis` | 364 | `2`, `airplane`, `alien` |
 | VSCode Icons | `vscode-icons` | 329 | `default-root-folder`, `default-root-folder-opened`, `file-type-access2` |
 | Sargam Icons | `si` | 323 | `actions-duotone`, `add-alarm-duotone`, `add-circle-duotone` |
+| Lets Icons | `lets-icons` | 300 | `3d-box-duotone`, `add-duotone`, `add-ring-duotone` |
 | Glyphs Poly | `glyphs-poly` | 294 | `adjust`, `adjust-1`, `analytics` |
-| Lets Icons | `lets-icons` | 290 | `3d-box-duotone`, `add-duotone`, `add-ring-duotone` |
 | Emoji One (Colored) | `emojione` | 271 | `a-button`, `ab-button`, `antenna-bars` |
 | Catppuccin Icons | `catppuccin` | 264 | `angular`, `angular-component`, `angular-directive` |
 | Noto Emoji (v1) | `noto-v1` | 246 | `ab-button`, `ab-button-blood-type`, `american-football` |
@@ -113,7 +113,7 @@ Open these sets in the example app and verify the primary / secondary layers of 
 
 Sets where the pack-level sample was below the stroke/evenodd threshold but individual icons still needed rasterize-trace. Without per-icon detection, `oui:check-in-circle-empty` shipped as a solid disc and `oui:chat-left` as a filled speech bubble (the `oui` pack sample showed only 16% evenodd, below the 20% pack threshold).
 
-- **Icons rasterize-traced via per-icon path this run:** 4,607
+- **Icons rasterize-traced via per-icon path this run:** 4,612
 
 | Set | Prefix | Icons traced | Stroke % | Evenodd % | Spot-check |
 |---|---|---:|---:|---:|---|
@@ -139,7 +139,7 @@ Sets where the pack-level sample was below the stroke/evenodd threshold but indi
 | SVG Logos | `logos` | 50 | 0% | 0% | `appveyor`, `argo`, `autocode` |
 | Material Icon Theme | `material-icon-theme` | 35 | 8% | 8% | `advpl`, `apiblueprint`, `appveyor` |
 | Twitter Emoji | `twemoji` | 35 | 0% | 0% | `detective`, `detective-dark-skin-tone`, `detective-light-skin-tone` |
-| BPMN | `bpmn` | 27 | 28% | 0% | `business-rule`, `business-rule-task`, `data-input` |
+| BPMN | `bpmn` | 32 | 28% | 0% | `business-rule`, `business-rule-task`, `call-activity` |
 | Entypo+ | `entypo` | 19 | 0% | 0% | `blackboard`, `clapperboard`, `creative-commons-attribution` |
 | Emoji One (Monotone) | `emojione-monotone` | 16 | 0% | 4% | `alien-monster`, `articulated-lorry`, `cherries` |
 | UnJS Logos | `unjs` | 13 | 24% | 0% | `automd`, `bundle-runner`, `confbox` |
@@ -189,7 +189,7 @@ Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a consumer `<p
 | Pepicons Pencil | `pepicons-pencil` | 255 | 20% | `airplane-circle-filled`, `alarm-circle-filled`, `angle-down-circle-filled` |
 | Lets Icons | `lets-icons` | 85 | 6% | `add-duotone-line`, `add-ring-duotone-line`, `add-round-duotone-line` |
 | Solar | `solar` | 29 | 0% | `accumulator-bold`, `camera-minimalistic-bold-duotone`, `card-bold` |
-| Circle Flags | `circle-flags` | 23 | 460% | `it-21`, `it-23`, `it-25` |
+| Circle Flags | `circle-flags` | 23 | 100% | `it-21`, `it-23`, `it-25` |
 | VSCode Icons | `vscode-icons` | 11 | 2% | `file-type-azurepipelines`, `file-type-compass`, `file-type-gemini` |
 | Devicon | `devicon` | 10 | 1% | `argocd`, `jekyll`, `lovable` |
 | Google Cloud Icons | `gcp` | 3 | 1% | `cloud-healthcare-api`, `pubsub`, `security-health-advisor` |
@@ -206,7 +206,7 @@ Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a consumer `<p
 | IonIcons | `ion` | 48% | 0% | 0% | 559 | — | — | none |
 | Famicons | `famicons` | 48% | 0% | 0% | 528 | — | — | none |
 | Garden SVG Icons | `garden` | 28% | 0% | 0% | 348 | — | — | none |
-| BPMN | `bpmn` | 28% | 0% | 0% | 27 | — | — | none |
+| BPMN | `bpmn` | 28% | 0% | 0% | 32 | — | — | none |
 | UnJS Logos | `unjs` | 24% | 0% | 76% | 13 | — | — | none |
 | Noto Emoji (v1) | `noto-v1` | 24% | 0% | 56% | 276 | 246 | — | none |
 | VSCode Icons | `vscode-icons` | 8% | 12% | 24% | 189 | 329 | — | none |
@@ -239,7 +239,7 @@ Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a consumer `<p
 | Humbleicons | `humbleicons` | 100% | 0% | 0% | — | — | ✓ | explicit |
 | WeUI Icon | `weui` | 0% | 100% | 0% | — | — | ✓ | auto |
 | Huge Icons | `hugeicons` | 100% | 0% | 0% | — | 3 | ✓ | explicit |
-| Lets Icons | `lets-icons` | 84% | 16% | 0% | — | 290 | ✓ | auto |
+| Lets Icons | `lets-icons` | 84% | 16% | 0% | — | 300 | ✓ | auto |
 | Plump free icons | `streamline-plump` | 36% | 64% | 0% | — | — | ✓ | auto |
 | Sharp free icons | `streamline-sharp` | 36% | 64% | 0% | — | — | ✓ | auto |
 | IconPark Outline | `icon-park-outline` | 100% | 0% | 0% | — | — | ✓ | auto |
@@ -272,6 +272,7 @@ Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a consumer `<p
 | IconPark Solid | `icon-park-solid` | 96% | 0% | 0% | — | — | ✓ | auto |
 | IconPark TwoTone | `icon-park-twotone` | 96% | 0% | 0% | — | — | ✓ | auto |
 | Quill Icons | `quill` | 92% | 8% | 0% | — | — | ✓ | auto |
+| Glyphs | `glyphs` | 88% | 24% | 0% | — | 1,605 | ✓ | auto |
 | Siemens Industrial Experience Icons | `ix` | 0% | 96% | 0% | — | — | ✓ | auto |
 | Ultimate color icons | `streamline-ultimate-color` | 96% | 4% | 0% | — | 2 | ✓ | auto |
 | Stickies color icons | `streamline-stickies-color` | 96% | 0% | 0% | — | 5 | ✓ | auto |
@@ -290,7 +291,6 @@ Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a consumer `<p
 | Sargam Icons | `si` | 68% | 20% | 0% | — | 323 | ✓ | auto |
 | Feather Icon | `fe` | 0% | 88% | 0% | — | — | ✓ | auto |
 | Gravity UI Icons | `gravity-ui` | 0% | 88% | 0% | — | — | ✓ | auto |
-| Glyphs | `glyphs` | 68% | 24% | 0% | — | 1,151 | ✓ | auto |
 | Tabler Icons | `tabler` | 84% | 0% | 0% | — | 4 | ✓ | explicit |
 | Flowbite Icons | `flowbite` | 68% | 16% | 0% | — | — | ✓ | auto |
 | coolicons | `ci` | 84% | 0% | 0% | — | — | ✓ | auto |

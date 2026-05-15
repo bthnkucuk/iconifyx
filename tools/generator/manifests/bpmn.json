@@ -16,13 +16,13 @@
       "spdx": "OFL-1.1",
       "url": "https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE"
     },
-    "total": 106
+    "total": 107
   },
   "fonts": [
     {
       "family": "Bpmn",
-      "nextCodepoint": 57450,
-      "iconCount": 106
+      "nextCodepoint": 57451,
+      "iconCount": 107
     }
   ],
   "icons": {
@@ -150,6 +150,11 @@
       "codepoint": 57367,
       "fontFamily": "Bpmn",
       "identifier": "eventSubprocessExpanded"
+    },
+    "gateway": {
+      "codepoint": 57450,
+      "fontFamily": "Bpmn",
+      "identifier": "gateway"
     },
     "gateway-complex": {
       "codepoint": 57368,
