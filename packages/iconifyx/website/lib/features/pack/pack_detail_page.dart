@@ -47,6 +47,11 @@ class _PackDetailPageState extends State<PackDetailPage> {
   late final TextEditingController _filterController;
   double _iconSize = 28;
   Color? _iconColor;
+  // Override for `IconifyIcon.secondaryColor`. `null` lets the per-page
+  // default ride (cell card colour as knockout). Useful for debugging
+  // paint-order duotones (logos, crypto-color) where the foreground
+  // letterform reads against a different surface than the card.
+  Color? _iconSecondaryColor;
 
   @override
   void initState() {
@@ -75,6 +80,8 @@ class _PackDetailPageState extends State<PackDetailPage> {
 
   void setIconSize(double s) => setState(() => _iconSize = s);
   void setIconColor(Color? c) => setState(() => _iconColor = c);
+  void setIconSecondaryColor(Color? c) =>
+      setState(() => _iconSecondaryColor = c);
 
   void _setStyle(String? style) {
     final qs = Map<String, String>.from(widget.route.queries);
@@ -255,7 +262,7 @@ class _LoadedBody extends StatelessWidget {
           muted: muted,
           iconColor: iconColor,
           iconRenderSize: iconRenderSize,
-          surfaceForKnockout: cardColor,
+          surfaceForKnockout: page._iconSecondaryColor ?? cardColor,
         );
 
         final sidebar = route.selectorBuilder<String?>(
@@ -269,6 +276,8 @@ class _LoadedBody extends StatelessWidget {
             onSize: page.setIconSize,
             color: page._iconColor,
             onColor: page.setIconColor,
+            secondaryColor: page._iconSecondaryColor,
+            onSecondaryColor: page.setIconSecondaryColor,
           ),
         );
 
@@ -580,6 +589,8 @@ class _Sidebar extends StatelessWidget {
     required this.onSize,
     required this.color,
     required this.onColor,
+    required this.secondaryColor,
+    required this.onSecondaryColor,
   });
 
   final PackSummary summary;
@@ -590,6 +601,8 @@ class _Sidebar extends StatelessWidget {
   final ValueChanged<double> onSize;
   final Color? color;
   final ValueChanged<Color?> onColor;
+  final Color? secondaryColor;
+  final ValueChanged<Color?> onSecondaryColor;
 
   @override
   Widget build(BuildContext context) {
@@ -637,6 +650,38 @@ class _Sidebar extends StatelessWidget {
                   selected: (color == null && c == null) ||
                       (color != null && color == c),
                   onTap: () => onColor(c),
+                ),
+            ],
+          ),
+        ),
+        const SizedBox(height: 14),
+        // Paint-order duotones (logos, crypto-color, fluent-emoji-flat,
+        // …) use the secondary colour as the foreground letterform's
+        // "knockout" against the primary background tile. Default
+        // matches the cell card colour; override here when debugging.
+        _SidebarLabel('SECONDARY COLOR'),
+        const SizedBox(height: 6),
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 8),
+          child: Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            children: [
+              for (final c in const [
+                null,
+                Color(0xFFFFFFFF),
+                Color(0xFFF1ECE3),
+                Color(0xFF111114),
+                Color(0xFFFFC23D),
+                Color(0xFF18C29C),
+                Color(0xFF2563EB),
+                Color(0xFFE53935),
+              ])
+                _Swatch(
+                  color: c ?? AppTheme.card,
+                  selected: (secondaryColor == null && c == null) ||
+                      (secondaryColor != null && secondaryColor == c),
+                  onTap: () => onSecondaryColor(c),
                 ),
             ],
           ),
