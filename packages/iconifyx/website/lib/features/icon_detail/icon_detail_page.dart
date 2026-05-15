@@ -223,6 +223,8 @@ class _PreviewCardState extends State<_PreviewCard> {
   // swap layers = off — matches the rest of the website's defaults.
   Color? _primaryColor;
   Color? _secondaryColor;
+  double _primaryOpacity = 1.0;
+  double _secondaryOpacity = 1.0;
   bool _swapLayers = false;
 
   @override
@@ -234,8 +236,11 @@ class _PreviewCardState extends State<_PreviewCard> {
     final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    final effectivePrimary = _primaryColor ?? ink;
-    final effectiveSecondary = _secondaryColor ?? const Color(0xFF000000);
+    final effectivePrimary =
+        (_primaryColor ?? ink).withValues(alpha: _primaryOpacity);
+    final effectiveSecondary =
+        (_secondaryColor ?? const Color(0xFF000000))
+            .withValues(alpha: _secondaryOpacity);
     return Container(
       padding: const EdgeInsets.all(48),
       decoration: BoxDecoration(
@@ -276,6 +281,10 @@ class _PreviewCardState extends State<_PreviewCard> {
               onPrimaryColor: (c) => setState(() => _primaryColor = c),
               secondaryColor: _secondaryColor,
               onSecondaryColor: (c) => setState(() => _secondaryColor = c),
+              primaryOpacity: _primaryOpacity,
+              onPrimaryOpacity: (v) => setState(() => _primaryOpacity = v),
+              secondaryOpacity: _secondaryOpacity,
+              onSecondaryOpacity: (v) => setState(() => _secondaryOpacity = v),
               swapLayers: _swapLayers,
               onSwapLayers: (v) => setState(() => _swapLayers = v),
               ink: ink,
@@ -508,6 +517,10 @@ class _PerIconControls extends StatelessWidget {
     required this.onPrimaryColor,
     required this.secondaryColor,
     required this.onSecondaryColor,
+    required this.primaryOpacity,
+    required this.onPrimaryOpacity,
+    required this.secondaryOpacity,
+    required this.onSecondaryOpacity,
     required this.swapLayers,
     required this.onSwapLayers,
     required this.ink,
@@ -518,6 +531,10 @@ class _PerIconControls extends StatelessWidget {
   final ValueChanged<Color?> onPrimaryColor;
   final Color? secondaryColor;
   final ValueChanged<Color?> onSecondaryColor;
+  final double primaryOpacity;
+  final ValueChanged<double> onPrimaryOpacity;
+  final double secondaryOpacity;
+  final ValueChanged<double> onSecondaryOpacity;
   final bool swapLayers;
   final ValueChanged<bool> onSwapLayers;
   final Color ink;
@@ -563,6 +580,29 @@ class _PerIconControls extends StatelessWidget {
               ),
           ],
         );
+    Widget opacityRow(double value, ValueChanged<double> onChanged) => Row(
+          children: [
+            SizedBox(
+              width: 200,
+              child: Slider(
+                value: value,
+                min: 0.0,
+                max: 1.0,
+                divisions: 20,
+                onChanged: onChanged,
+                activeColor: AppTheme.coral,
+              ),
+            ),
+            const SizedBox(width: 8),
+            SizedBox(
+              width: 40,
+              child: Text(
+                '${(value * 100).toStringAsFixed(0)}%',
+                style: AppTheme.mono(size: 11, color: muted),
+              ),
+            ),
+          ],
+        );
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
       decoration: BoxDecoration(
@@ -574,9 +614,15 @@ class _PerIconControls extends StatelessWidget {
         children: [
           label('PRIMARY COLOR'),
           row(_primarySwatches, primaryColor, onPrimaryColor),
+          const SizedBox(height: 6),
+          label('PRIMARY OPACITY'),
+          opacityRow(primaryOpacity, onPrimaryOpacity),
           const SizedBox(height: 10),
           label('SECONDARY COLOR'),
           row(_secondarySwatches, secondaryColor, onSecondaryColor),
+          const SizedBox(height: 6),
+          label('SECONDARY OPACITY'),
+          opacityRow(secondaryOpacity, onSecondaryOpacity),
           const SizedBox(height: 10),
           label('SWAP LAYERS'),
           Row(
