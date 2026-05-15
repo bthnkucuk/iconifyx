@@ -362,6 +362,252 @@ export function bodyUsesMaskPattern(body: string): boolean {
 }
 
 /**
+ * Flatten SMIL animation elements into their END state and strip the
+ * animation tags. Line-md (and a handful of icon-park icons) ship reveal-
+ * style animations by setting the parent path's `stroke-dashoffset` to
+ * the FULL dasharray length and animating it down to 0:
+ *
+ *   <path stroke-dasharray="28" stroke-dashoffset="28" d="...">
+ *     <animate attributeName="stroke-dashoffset" values="28;0" dur="0.4s"/>
+ *   </path>
+ *
+ * Our validator already rejects `<animate>`, but by the time the validator
+ * runs the body has been through stroke-fill — Potrace traces whatever
+ * resvg renders, and resvg renders SMIL animations at t=0 (the START
+ * state), so the parent path with `dashoffset=28` ships as a fully-offset
+ * stroke = invisible. line-md `account` shipped with just the body
+ * silhouette and no head circle for this reason; same for ~500 sibling
+ * line-md icons.
+ *
+ * This pass walks each `<animate>` / `<animateTransform>` / `<set>` child,
+ * extracts the END animated value (`to=...`, or the last entry of
+ * `values=A;B;…`), applies it to the parent element as a regular static
+ * attribute, then removes the animation tag. The resulting body has no
+ * animation elements (so the validator passes) and renders at the
+ * animation's final state in resvg.
+ *
+ * `additive="sum"` semantics (transform-additive animations) aren't
+ * supported here — those bodies fall through to validator rejection,
+ * which is correct: a non-flattened animation would render wrong.
+ */
+export function flattenAnimations(body: string): string {
+  // Cheap fast-path; most bodies don't animate.
+  if (body.indexOf('<animate') === -1 && body.indexOf('<set') === -1) {
+    return body;
+  }
+  // Innermost-first match: a `<tag>` whose inner content contains ONLY
+  // animation elements + whitespace (no nested regular elements). That
+  // guarantees we apply the animation's end value to the IMMEDIATE
+  // parent — the path/circle/rect/etc. carrying the dashoffset — not to
+  // an outer `<g>` wrapper. After one pass the inner becomes empty, the
+  // tag no longer contains animations, and the next iteration moves up
+  // a level (if the OUTER `<g>` also carries animations directly).
+  const PARENT_TAG_RE =
+    /<(path|circle|ellipse|rect|line|polyline|polygon|g)\b([^>]*?)>((?:\s|<(?:animate(?:Transform|Motion)?|set)\b[^/>]*\/?>(?:[^<]*<\/(?:animate(?:Transform|Motion)?|set)>)?)*?)<\/\1>/g;
+  const ANIM_RE =
+    /<(animate(?:Transform|Motion)?|set)\b([^/>]*?)\/?>(?:[^<]*<\/\1>)?/g;
+
+  let out = body;
+  let safety = 0;
+  while (/<(?:animate(?:Transform|Motion)?|set)\b/.test(out) && safety < 64) {
+    let changed = false;
+    out = out.replace(PARENT_TAG_RE, (full, tag, attrs, inner) => {
+      // The regex matches any inner that's whitespace + animate elements,
+      // including EMPTY inner. We only want to process tags that actually
+      // carry an animation child — otherwise we'd loop forever rewriting
+      // already-cleaned tags. Bail out if no animate / set element is
+      // present in inner.
+      if (!/<(?:animate(?:Transform|Motion)?|set)\b/.test(inner)) {
+        return full;
+      }
+      changed = true;
+      let parentAttrs: string = attrs;
+      let m: RegExpExecArray | null;
+      ANIM_RE.lastIndex = 0;
+      while ((m = ANIM_RE.exec(inner)) !== null) {
+        const animAttrs = m[2]!;
+        const nameMatch = animAttrs.match(
+          /\battributeName\s*=\s*["']([^"']+)["']/
+        );
+        if (!nameMatch) continue;
+        const attrName = nameMatch[1]!;
+        let endValue: string | null = null;
+        const toMatch = animAttrs.match(/\bto\s*=\s*["']([^"']+)["']/);
+        if (toMatch) endValue = toMatch[1]!;
+        if (endValue === null) {
+          const valuesMatch = animAttrs.match(
+            /\bvalues\s*=\s*["']([^"']+)["']/
+          );
+          if (valuesMatch) {
+            const parts = valuesMatch[1]!.split(';');
+            endValue = parts[parts.length - 1]!.trim();
+          }
+        }
+        if (endValue === null) continue;
+        const escName = attrName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const replaceRe = new RegExp(`\\s${escName}\\s*=\\s*["'][^"']*["']`);
+        if (replaceRe.test(parentAttrs)) {
+          parentAttrs = parentAttrs.replace(
+            replaceRe,
+            ` ${attrName}="${endValue}"`
+          );
+        } else {
+          parentAttrs = `${parentAttrs} ${attrName}="${endValue}"`;
+        }
+      }
+      return `<${tag}${parentAttrs}></${tag}>`;
+    });
+    if (!changed) break;
+    safety += 1;
+  }
+  return out;
+}
+
+/**
+ * Try to split an inverse-mask body into primary + secondary virtual
+ * bodies based on per-element opacity / luminance inside the mask.
+ *
+ * Detects the lets-icons `*-duotone-line` family pattern:
+ *
+ *   <defs><mask id="X">
+ *     <g fill="none" stroke-width="1.2">
+ *       <circle stroke="silver" stroke-opacity=".25"/>  <!-- faint hint -->
+ *       <path   stroke="#fff" d="..."/>                  <!-- bold fg   -->
+ *     </g>
+ *   </mask></defs>
+ *   <path fill="currentColor" d="M0 0hWvHH0z" mask="url(#X)"/>
+ *
+ * The mask carrier rect is a viewBox-sized stamp; the actual icon is
+ * painted by the elements INSIDE the mask. We classify each element by
+ * effective luminance vs white background — `stroke-opacity<1` OR a
+ * light-grey colour keyword/hex (`silver`, `#aaa`–`#eee`) marks the
+ * element as faint, otherwise it's opaque. If we end up with at least
+ * one element in each bucket, return:
+ *   - `primary`   = opaque elements only, normalised to `currentColor`
+ *   - `secondary` = faint elements only, normalised to `currentColor`
+ *                   with `*-opacity` attributes stripped
+ *
+ * Both bodies preserve the mask's `<g>` wrapper attrs (stroke-width,
+ * fill="none" etc.) so the geometry traces correctly downstream.
+ *
+ * Returns null if the pattern doesn't match or only one luminance
+ * bucket is populated (the body is single-tone — caller should fall
+ * back to the normal flattening path).
+ */
+export function trySplitMaskInternalBody(
+  body: string
+): { primary: string; secondary: string } | null {
+  if (!bodyUsesMaskPattern(body)) return null;
+  // Extract the <mask>...</mask> block content.
+  const maskMatch = body.match(
+    /<defs[^>]*>[\s\S]*?<mask\s+id=["']([^"']+)["'][^>]*>([\s\S]*?)<\/mask>[\s\S]*?<\/defs>/
+  );
+  if (!maskMatch) return null;
+  const maskInner = maskMatch[2]!;
+  // Confirm the carrier path references this mask. We don't actually use
+  // the carrier — it's just a viewBox-sized rect.
+  if (!new RegExp(`mask=["']url\\(#${maskMatch[1]!.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\)["']`).test(body)) {
+    return null;
+  }
+  // Optional outer <g attrs>...</g> wrapper inside the mask.
+  let groupAttrs = '';
+  let inner = maskInner;
+  const groupMatch = maskInner.match(/^\s*<g\b([^>]*)>([\s\S]*?)<\/g>\s*$/);
+  if (groupMatch) {
+    groupAttrs = groupMatch[1]!;
+    inner = groupMatch[2]!;
+  }
+  // Self-closing elements inside the mask. Anything with children (nested
+  // <g>, <path>...</path>, etc.) falls through to the existing whole-mask
+  // rasterize path — too risky to mis-classify.
+  const ELEMENT_RE =
+    /<(path|circle|ellipse|rect|line|polyline|polygon)\b([^/>]*?)\/>/g;
+  const opaqueEls: string[] = [];
+  const faintEls: string[] = [];
+  let m: RegExpExecArray | null;
+  let lastIndex = 0;
+  let consumedAll = true;
+  while ((m = ELEMENT_RE.exec(inner)) !== null) {
+    const gap = inner.slice(lastIndex, m.index);
+    if (gap.trim().length > 0) {
+      consumedAll = false;
+      break;
+    }
+    lastIndex = ELEMENT_RE.lastIndex;
+    const [, tag, attrs] = m;
+    const a = attrs!;
+    const hasFaintOpacity =
+      /\s(?:stroke-opacity|fill-opacity|opacity)\s*=\s*["'](?:0?\.\d+|0)["']/.test(a);
+    const strokeMatch = a.match(/\sstroke\s*=\s*["']([^"']+)["']/);
+    const fillMatch = a.match(/\sfill\s*=\s*["']([^"']+)["']/);
+    // "Faint colour" classification — light-grey colours that fade against
+    // the canonical white-background trace canvas, but EXCLUDING pure
+    // white (#fff / "white") because inside a mask "#fff" semantically
+    // means "fully visible" — it's the BOLD foreground signal.
+    const isLightColor = (raw: string | undefined): boolean => {
+      if (!raw) return false;
+      const v = raw.toLowerCase();
+      if (v === 'white' || v === '#fff' || v === '#ffffff') return false;
+      if (v === 'silver' || v === 'lightgray' || v === 'lightgrey' || v === 'gainsboro') {
+        return true;
+      }
+      // 3-digit hex (#abc, #ddd, …) — light if all channels ≥ 0xa AND
+      // the value isn't pure white (already excluded above).
+      const m3 = v.match(/^#([0-9a-f])([0-9a-f])([0-9a-f])$/);
+      if (m3) {
+        const r = parseInt(m3[1]!, 16);
+        const g = parseInt(m3[2]!, 16);
+        const b = parseInt(m3[3]!, 16);
+        return r >= 0xa && g >= 0xa && b >= 0xa;
+      }
+      // 6-digit hex — light if all channels ≥ 0xa0, again excluding
+      // pure white via the equality guard above.
+      const m6 = v.match(/^#([0-9a-f]{2})([0-9a-f]{2})([0-9a-f]{2})$/);
+      if (m6) {
+        const r = parseInt(m6[1]!, 16);
+        const g = parseInt(m6[2]!, 16);
+        const b = parseInt(m6[3]!, 16);
+        return r >= 0xa0 && g >= 0xa0 && b >= 0xa0;
+      }
+      return false;
+    };
+    const lightStroke = isLightColor(strokeMatch?.[1]);
+    const lightFill = isLightColor(fillMatch?.[1]);
+    const isFaint = hasFaintOpacity || lightStroke || lightFill;
+    // Strip per-element colours + opacities — both layers render through
+    // `currentColor` at consumer side. Preserve geometry + stroke-width.
+    const normalised = a
+      .replace(/\s(?:stroke|fill)\s*=\s*["'][^"']*["']/g, '')
+      .replace(
+        /\s(?:stroke-opacity|fill-opacity|opacity)\s*=\s*["'][^"']*["']/g,
+        ''
+      );
+    const out = `<${tag}${normalised}/>`;
+    if (isFaint) faintEls.push(out);
+    else opaqueEls.push(out);
+  }
+  if (inner.slice(lastIndex).trim().length > 0) consumedAll = false;
+  if (!consumedAll) return null;
+  if (faintEls.length === 0 || opaqueEls.length === 0) return null;
+
+  // Strip any per-mask `fill`/`stroke`/`stroke-opacity` from the group
+  // attrs — let `currentColor` (set by the consumer at render time) flow
+  // through. Preserve `stroke-width`, `stroke-linecap`, etc.
+  const cleanedGroupAttrs = groupAttrs
+    .replace(/\s(?:stroke|fill)\s*=\s*["'][^"']*["']/g, '')
+    .replace(
+      /\s(?:stroke-opacity|fill-opacity|opacity)\s*=\s*["'][^"']*["']/g,
+      ''
+    );
+  const wrap = (els: string[]): string =>
+    `<g${cleanedGroupAttrs} stroke="currentColor" fill="none">${els.join('')}</g>`;
+  return {
+    primary: wrap(opaqueEls),
+    secondary: wrap(faintEls),
+  };
+}
+
+/**
  * Sample-based per-set paint-order signal. Mirrors `rasterFillSignal`
  * but for the multi-fill failure mode. Surfaced in the audit report so
  * we can spot packs that ship a lot of multicolor logos.

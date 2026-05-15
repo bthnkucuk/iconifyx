@@ -2,9 +2,9 @@
 
 Generated 2026-05-15. For every `(font, codepoint)` pair declared in a pack's manifest, we open the emitted TTF with `fontkit` and verify the codepoint maps to a glyph with a non-empty outline. Anything that fails one of those checks ships as a blank box in the consumer app.
 
-- **Codepoints expected across all fonts:** 357,487
+- **Codepoints expected across all fonts:** 357,567
 - **Codepoints missing from emitted TTF:** 0
-- **Codepoints present but with empty outline:** 584
+- **Codepoints present but with empty outline:** 572
 - **TTFs that failed to open:** 0
 
 ## Fonts with drift
@@ -17,7 +17,6 @@ Generated 2026-05-15. For every `(font, codepoint)` pair declared in a pack's ma
 | `cryptocurrency-color` | `CryptocurrencyColor` | 481 | 0 | 35 | `0xbtc`, `2give` | — |
 | `vscode-icons` | `VscodeIcons` | 701 | 0 | 27 | `file-type-agda`, `file-type-codeowners` | — |
 | `skill-icons` | `SkillIcons` | 400 | 0 | 18 | `aiscript-light`, `cloudflare-light` | — |
-| `line-md` | `LineMd` | 1,279 | 0 | 16 | `chat-bubble-off-filled`, `chat-bubble-off-twotone` | — |
 | `noto-v1` | `NotoV1` | 647 | 0 | 14 | `atom-symbol`, `birthday-cake` | — |
 | `fluent-emoji` | `FluentEmoji` | 2,777 | 0 | 10 | `backhand-index-pointing-right`, `backhand-index-pointing-right-dark` | — |
 | `glyphs-poly` | `GlyphsPoly` | 733 | 0 | 10 | `building-2`, `ear` | — |
@@ -29,6 +28,7 @@ Generated 2026-05-15. For every `(font, codepoint)` pair declared in a pack's ma
 | `flag` | `Flag` | 491 | 0 | 6 | `fm-1x1`, `fm-4x3` | — |
 | `logos` | `Logos` | 937 | 0 | 5 | `appveyor`, `brandfolder-icon` | — |
 | `skill-icons` | `SkillIconsSecondary` | 131 | 0 | 4 | `cassandra-dark`, `verilog` | — |
+| `line-md` | `LineMd` | 1,279 | 0 | 4 | `calendar-out`, `loading-alt-loop` | — |
 | `streamline-cyber-color` | `StreamlineCyberColor` | 500 | 0 | 3 | `cannabis-leaf`, `hammer-3` | — |
 | `material-icon-theme` | `MaterialIconTheme` | 778 | 0 | 3 | `apiblueprint`, `wakatime` | — |
 | `vscode-icons` | `VscodeIconsSecondary` | 329 | 0 | 3 | `file-type-knip`, `file-type-light-prettier` | — |

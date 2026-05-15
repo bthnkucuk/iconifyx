@@ -29,6 +29,8 @@ import {
   isPaintOrderRiskBody,
   iconNeedsRasterTrace,
   bodyUsesMaskPattern,
+  flattenAnimations,
+  trySplitMaskInternalBody,
 } from './svg_preprocess.ts';
 import { secondaryFontFamily } from './manifest.ts';
 import {
@@ -338,6 +340,31 @@ async function processOneSet(
     );
   }
 
+  // Animation flatten. line-md (and a handful of icon-park icons) ship
+  // reveal-style SMIL animations on the path's `stroke-dashoffset`. Our
+  // validator already rejects `<animate>` children, but the validator
+  // runs AFTER stroke-fill, so by then the body has been traced — and
+  // resvg renders the animation at t=0 (the START state, with offset
+  // equal to the dasharray length → invisible stroke). Result: ~500
+  // line-md icons shipped with their reveal-target paths missing
+  // (account, beer, login, …). Pre-rasterize, walk each animation
+  // element, apply its END value (last entry of `values=A;B;C` or `to=`)
+  // to the parent attribute, and strip the animate tag.
+  let animateFlattened = 0;
+  for (const r of allResolved) {
+    if (r.body.indexOf('<animate') === -1 && r.body.indexOf('<set') === -1) {
+      continue;
+    }
+    const before = r.body;
+    r.body = flattenAnimations(r.body);
+    if (r.body !== before) animateFlattened += 1;
+  }
+  if (animateFlattened > 0) {
+    log.info(
+      `  "${prefix}": flattened ${animateFlattened} animation${animateFlattened === 1 ? '' : 's'} (end state)`
+    );
+  }
+
   // Duotone detection / split. Must happen BEFORE stroke-fill, otherwise
   // oslllo-svg-fixer's rasterize+trace collapses the two layers into a
   // single silhouette and the duotone signal is lost (Solar's bold-duotone
@@ -378,6 +405,32 @@ async function processOneSet(
   if (twoColorSplitCount > 0) {
     log.info(
       `  "${prefix}": split ${twoColorSplitCount} two-color icon${twoColorSplitCount === 1 ? '' : 's'} into duotone primary/secondary`
+    );
+  }
+
+  // Third duotone path: bodies built around an inverse-mask pattern
+  // (`<defs><mask>...<path stroke="silver".../><path stroke="#fff".../>...
+  // </mask></defs><path mask="url(#X)"/>`) — lets-icons `*-duotone-line`
+  // family. Classify the mask's child elements by luminance: faint colours
+  // (silver, light grey, stroke-opacity<1) go to secondary; bold `#fff`
+  // and opaque colours go to primary. Both layers re-emit as flat bodies
+  // with `currentColor`, so downstream stroke-fill traces them properly.
+  // Without this split lets-icons `add-round-duotone-line` shipped with
+  // only the foreground (the outer faint ring vanished in the trace
+  // because silver-25% is below Potrace's threshold against white).
+  let maskInternalSplitCount = 0;
+  for (const r of allResolved) {
+    if (duotoneNames.has(r.name)) continue;
+    const split = trySplitMaskInternalBody(r.body);
+    if (split === null) continue;
+    r.body = split.primary;
+    secondaryByName.set(r.name, { ...r, body: split.secondary });
+    duotoneNames.add(r.name);
+    maskInternalSplitCount += 1;
+  }
+  if (maskInternalSplitCount > 0) {
+    log.info(
+      `  "${prefix}": split ${maskInternalSplitCount} mask-internal icon${maskInternalSplitCount === 1 ? '' : 's'} into duotone primary/secondary`
     );
   }
 
