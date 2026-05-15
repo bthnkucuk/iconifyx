@@ -1,5 +1,3 @@
-import 'dart:ui' as ui;
-
 import 'package:flutter/widgets.dart';
 
 import 'icon_data.dart';
@@ -19,19 +17,26 @@ import 'icon_data.dart';
 ///
 /// - **Solo** — single layer in [color] (defaults to ambient `IconTheme`).
 /// - **Hint-layer duotone** — secondary BEHIND primary at 40% opacity,
-///   same colour as primary.
+///   same colour as primary. Matches FontAwesome-style duotones.
 /// - **Paint-order duotone** — primary BEHIND (the background tile),
 ///   secondary ON TOP at full opacity. Caller should pass a contrasting
 ///   [secondaryColor] (e.g. the page background); without one the
 ///   foreground falls back to white.
 /// - **Mask-internal duotone** — same render as hint-layer.
 ///
-/// All defaults can be overridden via [secondaryColor] / [secondaryOpacity].
+/// Implementation note: each layer renders through a [Text] widget so
+/// Flutter's standard text pipeline handles async font loading (via the
+/// `RenderParagraph` font-listener mechanism). The wrapping [FittedBox]
+/// scales the glyph's actual ink box to fit the requested `size × size`,
+/// which uniformly handles wide-aspect glyphs (the wordmarks shipped in
+/// the Iconify `logos` pack would otherwise overflow the cell). Layer
+/// composition is via [Stack] with kind-aware z-order.
+///
 /// `iconifyx_core` depends ONLY on `flutter/widgets`; no Material context
-/// is required (callers from Material apps can hand any Material colour
-/// down through the [secondaryColor] parameter).
+/// is required. Material apps can hand any colour they like down through
+/// [secondaryColor].
 class IconifyIcon extends StatelessWidget {
-  /// Fallback when a paint-order duotone is rendered without an explicit
+  /// Fallback when a paint-order duotone renders without an explicit
   /// [secondaryColor]. Chosen so light foreground letterforms (most
   /// `logos:*`, crypto-color, emoji packs) read against a dark primary
   /// tile. Consumers with a known theme should override.
@@ -84,23 +89,54 @@ class IconifyIcon extends StatelessWidget {
     final iconTheme = IconTheme.of(context);
     final effectiveSize = size ?? iconTheme.size ?? 24.0;
     final effectiveColor = color ?? iconTheme.color ?? const Color(0xFF000000);
-    final effectiveDir =
-        textDirection ?? Directionality.maybeOf(context) ?? TextDirection.ltr;
 
     final IconData? secondary = icon.secondary;
     final bool paintOrder = icon.isPaintOrderDuotone;
     Color? effectiveSecondary;
     if (secondary != null) {
-      // Knockout default for paint-order: white at full opacity (caller
-      // should override with theme.surface where available). Hint /
-      // mask-internal: primary colour at 40% opacity.
       final Color secBase = secondaryColor ??
           (paintOrder ? paintOrderSecondaryFallback : effectiveColor);
       final double secAlpha = secondaryOpacity ?? (paintOrder ? 1.0 : 0.4);
       effectiveSecondary = secBase.withValues(alpha: secAlpha);
     }
 
-    final glyphSize = Size.square(effectiveSize);
+    Widget layer(IconData data, Color tint) => FittedBox(
+          fit: BoxFit.contain,
+          alignment: Alignment.center,
+          child: Text(
+            String.fromCharCode(data.codePoint),
+            style: TextStyle(
+              inherit: false,
+              color: tint,
+              fontSize: effectiveSize,
+              fontFamily: data.fontFamily,
+              package: data.fontPackage,
+              height: 1.0,
+              leadingDistribution: TextLeadingDistribution.even,
+              shadows: shadows,
+            ),
+            textAlign: TextAlign.center,
+            textDirection: textDirection,
+          ),
+        );
+
+    Widget body;
+    if (secondary == null) {
+      body = layer(icon.primary, effectiveColor);
+    } else {
+      final primaryLayer = layer(icon.primary, effectiveColor);
+      final secondaryLayer = layer(secondary, effectiveSecondary!);
+      body = Stack(
+        fit: StackFit.expand,
+        children: paintOrder
+            // Paint-order: primary = bg (back), secondary = fg (front).
+            // Stack children paint in list order — first is bottom.
+            ? [primaryLayer, secondaryLayer]
+            // Hint-layer / mask-internal: secondary = faded backdrop
+            // (back), primary = solid on top.
+            : [secondaryLayer, primaryLayer],
+      );
+    }
 
     return Semantics(
       label: semanticLabel,
@@ -108,132 +144,8 @@ class IconifyIcon extends StatelessWidget {
       child: SizedBox(
         width: effectiveSize,
         height: effectiveSize,
-        child: CustomPaint(
-          size: glyphSize,
-          painter: _IconifyPainter(
-            primary: icon.primary,
-            secondary: secondary,
-            primaryColor: effectiveColor,
-            secondaryColor: effectiveSecondary,
-            // Paint-order: primary BEHIND, secondary ON TOP.
-            secondaryOnTop: paintOrder,
-            size: effectiveSize,
-            textDirection: effectiveDir,
-            shadows: shadows,
-          ),
-        ),
+        child: body,
       ),
     );
   }
-}
-
-/// Paints solo + every duotone flavour in a single render layer (no Stack,
-/// no nested widgets). Layer order is controlled by [secondaryOnTop] so
-/// paint-order duotones render their foreground letterform on top while
-/// hint-layer duotones keep the faint backdrop behind the solid primary.
-class _IconifyPainter extends CustomPainter {
-  final IconData primary;
-  final IconData? secondary;
-  final Color primaryColor;
-  final Color? secondaryColor;
-  final bool secondaryOnTop;
-  final double size;
-  final TextDirection textDirection;
-  final List<Shadow>? shadows;
-
-  _IconifyPainter({
-    required this.primary,
-    required this.secondary,
-    required this.primaryColor,
-    required this.secondaryColor,
-    required this.secondaryOnTop,
-    required this.size,
-    required this.textDirection,
-    this.shadows,
-  });
-
-  @override
-  void paint(Canvas canvas, Size canvasSize) {
-    final hasSecondary = secondary != null && secondaryColor != null;
-    // Paint each layer into its own saveLayer. Two reasons:
-    //   1. Primary + secondary share a codepoint (Logos.ttf and
-    //      LogosSecondary.ttf both ship e004 = adobe-after-effects). On
-    //      CanvasKit, painting two same-codepoint glyphs from different
-    //      fonts onto the same canvas can hit glyph-atlas cache aliasing
-    //      where the second draw silently reuses the first's atlas slot
-    //      → secondary appears identical to (or covered by) primary.
-    //      Isolating each into its own offscreen layer forces a fresh
-    //      glyph allocation.
-    //   2. Z-order becomes unambiguous regardless of any outer canvas
-    //      blend-mode state. The layer composites onto the parent canvas
-    //      via srcOver at restore() time.
-    if (hasSecondary && secondaryOnTop) {
-      // Paint-order: primary BEHIND, secondary ON TOP.
-      _paintLayer(canvas, canvasSize, primary, primaryColor);
-      _paintLayer(canvas, canvasSize, secondary!, secondaryColor!);
-    } else {
-      // Hint-layer / mask-internal / solo: secondary BEHIND (if any),
-      // primary ON TOP.
-      if (hasSecondary) {
-        _paintLayer(canvas, canvasSize, secondary!, secondaryColor!);
-      }
-      _paintLayer(canvas, canvasSize, primary, primaryColor);
-    }
-  }
-
-  void _paintLayer(
-    Canvas canvas,
-    Size canvasSize,
-    IconData glyph,
-    Color glyphColor,
-  ) {
-    // Record each glyph paint into its own `ui.Picture` and draw the
-    // recorded picture onto the parent canvas. Same effect as a saveLayer
-    // — isolates each glyph's rendering — but bypasses the saveLayer/
-    // restore composite path. This is what fixes paint-order duotones
-    // (logos / cryptocurrency-color / fluent-emoji-flat): direct back-
-    // to-back `TextPainter.paint` calls on CanvasKit can leave the
-    // second draw's glyph atlas aliased to the first's, especially when
-    // both fonts ship the same codepoint (paired `<Family>` +
-    // `<Family>Secondary` fonts). Replaying the secondary glyph from a
-    // fresh `Picture` forces an independent atlas resolution.
-    final recorder = ui.PictureRecorder();
-    final pictureCanvas = Canvas(recorder, Offset.zero & canvasSize);
-    _paintGlyph(pictureCanvas, glyph, glyphColor);
-    final picture = recorder.endRecording();
-    canvas.drawPicture(picture);
-    picture.dispose();
-  }
-
-  void _paintGlyph(Canvas canvas, IconData glyph, Color glyphColor) {
-    final tp = TextPainter(
-      text: TextSpan(
-        text: String.fromCharCode(glyph.codePoint),
-        style: TextStyle(
-          inherit: false,
-          color: glyphColor,
-          fontSize: size,
-          fontFamily: glyph.fontFamily,
-          package: glyph.fontPackage,
-          height: 1.0,
-          leadingDistribution: TextLeadingDistribution.even,
-          shadows: shadows,
-        ),
-      ),
-      textDirection: textDirection,
-    );
-    tp.layout();
-    tp.paint(canvas, Offset.zero);
-  }
-
-  @override
-  bool shouldRepaint(_IconifyPainter old) =>
-      old.primary != primary ||
-      old.secondary != secondary ||
-      old.primaryColor != primaryColor ||
-      old.secondaryColor != secondaryColor ||
-      old.secondaryOnTop != secondaryOnTop ||
-      old.size != size ||
-      old.textDirection != textDirection ||
-      old.shadows != shadows;
 }
