@@ -558,62 +558,68 @@ class _IconCell extends StatelessWidget {
     // api.iconify.design was removed — paint-order duotones now render
     // correctly via `IconifyIcon`'s native composition (palette.surface
     // ForKnockout knocks out the foreground letterform). See §23 #1.
-    return HoverBuilder(
-      onTap: () => appCoordinator.push(
-        IconDetailRoute(prefix: record.prefix, name: record.name),
-      ),
-      builder: (ctx, hovered) {
-        final accent = hovered ? AppTheme.coral : palette.iconColor;
-        return Container(
-          decoration: BoxDecoration(
-            color: hovered ? palette.coralSoft : palette.card,
-            borderRadius: BorderRadius.circular(10),
-            border: Border.all(color: hovered ? AppTheme.coral : palette.rule),
-          ),
-          padding: const EdgeInsets.fromLTRB(6, 6, 6, 6),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Expanded(
-                child: Center(
-                  // Scoped rebuild: only the icon Center body re-runs when
-                  // scrolling stops; the surrounding HoverBuilder, Container,
-                  // and label below stay put. Cheap enough that the parent
-                  // no longer needs to setState the whole _LoadedBody.
-                  child: ValueListenableBuilder<int>(
-                    valueListenable: palette.scrollEndTick,
-                    builder: (cellCtx, _, __) {
-                      final deferred = Scrollable
-                          .recommendDeferredLoadingForContext(cellCtx);
-                      if (deferred) return const SizedBox.shrink();
-                      return IconifyThumb(
-                        record.toIconifyData(),
-                        size: palette.iconRenderSize,
-                        color: accent,
-                        secondaryColor: palette.surfaceForKnockout,
-                        swapLayers: palette.swapLayers,
-                      );
-                    },
+    // Isolate each cell into its own render layer so hover repaints don't
+    // invalidate the entire SliverGrid's layer (15k icons -> noticeable
+    // jank without the boundary). See §23 #4.
+    return RepaintBoundary(
+      child: HoverBuilder(
+        onTap: () => appCoordinator.push(
+          IconDetailRoute(prefix: record.prefix, name: record.name),
+        ),
+        builder: (ctx, hovered) {
+          final accent = hovered ? AppTheme.coral : palette.iconColor;
+          return Container(
+            decoration: BoxDecoration(
+              color: hovered ? palette.coralSoft : palette.card,
+              borderRadius: BorderRadius.circular(10),
+              border:
+                  Border.all(color: hovered ? AppTheme.coral : palette.rule),
+            ),
+            padding: const EdgeInsets.fromLTRB(6, 6, 6, 6),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Expanded(
+                  child: Center(
+                    // Scoped rebuild: only the icon Center body re-runs when
+                    // scrolling stops; the surrounding HoverBuilder, Container,
+                    // and label below stay put. Cheap enough that the parent
+                    // no longer needs to setState the whole _LoadedBody.
+                    child: ValueListenableBuilder<int>(
+                      valueListenable: palette.scrollEndTick,
+                      builder: (cellCtx, _, __) {
+                        final deferred = Scrollable
+                            .recommendDeferredLoadingForContext(cellCtx);
+                        if (deferred) return const SizedBox.shrink();
+                        return IconifyThumb(
+                          record.toIconifyData(),
+                          size: palette.iconRenderSize,
+                          color: accent,
+                          secondaryColor: palette.surfaceForKnockout,
+                          swapLayers: palette.swapLayers,
+                        );
+                      },
+                    ),
                   ),
                 ),
-              ),
-              const SizedBox(height: 4),
-              Text(
-                record.name,
-                maxLines: 1,
-                overflow: TextOverflow.ellipsis,
-                textAlign: TextAlign.center,
-                style: TextStyle(
-                  fontSize: 10,
-                  height: 1.1,
-                  color: hovered ? AppTheme.coral : palette.muted,
-                  fontWeight: FontWeight.w500,
+                const SizedBox(height: 4),
+                Text(
+                  record.name,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                    fontSize: 10,
+                    height: 1.1,
+                    color: hovered ? AppTheme.coral : palette.muted,
+                    fontWeight: FontWeight.w500,
+                  ),
                 ),
-              ),
-            ],
-          ),
-        );
-      },
+              ],
+            ),
+          );
+        },
+      ),
     );
   }
 }
