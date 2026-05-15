@@ -11,7 +11,6 @@ import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/iconify_svg_url.dart';
-import '../../shared/paint_order_packs.dart';
 import '../../shared/widgets/collapsible_section.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/iconify_thumb.dart';
@@ -255,7 +254,6 @@ class _LoadedBody extends StatelessWidget {
           muted: muted,
           iconColor: iconColor,
           iconRenderSize: iconRenderSize,
-          isPaintOrderPack: isPaintOrderDuotonePack(page.widget.route.prefix),
         );
 
         final sidebar = route.selectorBuilder<String?>(
@@ -406,7 +404,6 @@ class _CellPalette {
     required this.muted,
     required this.iconColor,
     required this.iconRenderSize,
-    required this.isPaintOrderPack,
   });
   final Color card;
   final Color rule;
@@ -414,12 +411,6 @@ class _CellPalette {
   final Color muted;
   final Color iconColor;
   final double iconRenderSize;
-  /// True when this page's pack is in [paintOrderDuotonePacks]. The cell
-  /// uses this to render duotone icons with `secondaryOpacity = 1.0` and
-  /// the surface (card) colour as `secondaryColor`, so paint-order
-  /// duotones (logos, crypto-color, fluent-emoji-flat, …) show their
-  /// foreground letterforms instead of half-disappearing at 40% opacity.
-  final bool isPaintOrderPack;
 }
 
 class _GridContent extends StatelessWidget {
@@ -522,19 +513,6 @@ class _IconCell extends StatelessWidget {
                                 iconData,
                                 size: palette.iconRenderSize,
                                 color: accent,
-                                paintOrder: palette.isPaintOrderPack,
-                                // Paint-order duotones (logos, crypto-color,
-                                // fluent-emoji-flat, …) ship a meaningful
-                                // foreground letterform as their secondary
-                                // layer; render at full opacity with the
-                                // card colour as the "knockout" so the
-                                // foreground shape is visible against the
-                                // currentColor-filled background tile.
-                                secondaryOpacity:
-                                    palette.isPaintOrderPack ? 1.0 : 0.4,
-                                secondaryColor: palette.isPaintOrderPack
-                                    ? palette.card
-                                    : null,
                               ),
                       ),
                     ),

@@ -32,9 +32,31 @@ export interface ManifestIconEntry {
    * Set to true for icons that ship a secondary (translucent) layer in
    * addition to the primary one. The secondary glyph lives at the same
    * codepoint in the matching `<fontFamily>Secondary` font; Dart codegen
-   * emits two const fields (`<identifier>Primary` / `<identifier>Secondary`).
+   * emits the appropriate constructor on `IconifyIconData` based on
+   * [duotoneKind].
    */
   duotone?: boolean;
+  /**
+   * Which kind of duotone this is (only set when `duotone === true`).
+   * Drives Dart codegen's constructor choice (`IconifyIconData.duo` vs
+   * `.duoPaintOrder` vs `.duoMaskInternal`) which in turn flips the
+   * runtime rendering composition in `IconifyIcon`:
+   *
+   * - `'hint'` — Phosphor / Solar / ic / Iconamoon family. Secondary is a
+   *   translucent backdrop; renders behind primary at 40% opacity.
+   * - `'paintOrder'` — logos / crypto-color / fluent-emoji-flat / twemoji
+   *   / noto / vscode-icons / gcp / token-branded. Secondary IS the
+   *   foreground letterform; renders ON TOP of primary at full opacity
+   *   in the ambient surface colour (knockout against the bg tile).
+   * - `'maskInternal'` — lets-icons `*-duotone-line` family. Visually
+   *   identical to `'hint'` but the field is preserved separately for
+   *   audit purposes (origin: inside a `<defs><mask>` block, not a flat
+   *   opacity attribute).
+   *
+   * Omitted means `'hint'` (back-compat default). Solo icons should not
+   * carry this field at all.
+   */
+  duotoneKind?: 'hint' | 'paintOrder' | 'maskInternal';
 }
 
 export interface ManifestFontEntry {

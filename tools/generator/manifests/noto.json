@@ -53,7 +53,8 @@
       "codepoint": 57346,
       "fontFamily": "Noto",
       "identifier": "alien",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "american-football": {
       "codepoint": 57347,
@@ -126,7 +127,8 @@
       "codepoint": 57354,
       "fontFamily": "Noto",
       "identifier": "bone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bookmark-tabs": {
       "codepoint": 57541,
@@ -203,7 +205,8 @@
       "codepoint": 57523,
       "fontFamily": "Noto",
       "identifier": "bustsInSilhouette",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "butter": {
       "codepoint": 57358,
@@ -306,7 +309,8 @@
       "codepoint": 57524,
       "fontFamily": "Noto",
       "identifier": "chopsticks",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "clamp": {
       "codepoint": 57559,
@@ -323,7 +327,8 @@
       "codepoint": 57366,
       "fontFamily": "Noto",
       "identifier": "cloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-with-rain": {
       "codepoint": 57367,
@@ -343,7 +348,8 @@
       "codepoint": 57525,
       "fontFamily": "Noto",
       "identifier": "clubSuit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "clutch-bag": {
       "codepoint": 57369,
@@ -398,7 +404,8 @@
       "codepoint": 57526,
       "fontFamily": "Noto",
       "identifier": "crescentMoon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crossed-flags": {
       "codepoint": 57373,
@@ -504,7 +511,8 @@
       "codepoint": 57378,
       "fontFamily": "Noto",
       "identifier": "diamondSuit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "disappointed-but-relieved-face": {
       "codepoint": 57578,
@@ -522,13 +530,15 @@
       "codepoint": 57527,
       "fontFamily": "Noto",
       "identifier": "dropOfBlood",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "droplet": {
       "codepoint": 57380,
       "fontFamily": "Noto",
       "identifier": "droplet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "drum": {
       "codepoint": 57579,
@@ -896,7 +906,8 @@
       "codepoint": 57528,
       "fontFamily": "Noto",
       "identifier": "fingerprint",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fire-extinguisher": {
       "codepoint": 57605,
@@ -976,13 +987,15 @@
       "codepoint": 57529,
       "fontFamily": "Noto",
       "identifier": "fullMoon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gloves": {
       "codepoint": 57530,
       "fontFamily": "Noto",
       "identifier": "gloves",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "goal-net": {
       "codepoint": 57423,
@@ -1057,7 +1070,8 @@
       "codepoint": 57424,
       "fontFamily": "Noto",
       "identifier": "heartSuit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heavy-check-mark": {
       "codepoint": 57425,
@@ -1159,7 +1173,8 @@
       "codepoint": 57531,
       "fontFamily": "Noto",
       "identifier": "leaflessTree",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-speech-bubble": {
       "codepoint": 57435,
@@ -1600,7 +1615,8 @@
       "codepoint": 57532,
       "fontFamily": "Noto",
       "identifier": "newMoon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "newspaper": {
       "codepoint": 57679,
@@ -1830,7 +1846,8 @@
       "codepoint": 57485,
       "fontFamily": "Noto",
       "identifier": "rightAngerBubble",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "roller-skate": {
       "codepoint": 57702,
@@ -1876,7 +1893,8 @@
       "codepoint": 57488,
       "fontFamily": "Noto",
       "identifier": "seedling",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shamrock": {
       "codepoint": 57489,
@@ -1964,7 +1982,8 @@
       "codepoint": 57533,
       "fontFamily": "Noto",
       "identifier": "spadeSuit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sparkle": {
       "codepoint": 57492,
@@ -1986,7 +2005,8 @@
       "codepoint": 57534,
       "fontFamily": "Noto",
       "identifier": "speakingHead",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spider-web": {
       "codepoint": 57493,
@@ -2071,7 +2091,8 @@
       "codepoint": 57535,
       "fontFamily": "Noto",
       "identifier": "sweatDroplets",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "swim-brief": {
       "codepoint": 57498,
@@ -2232,7 +2253,8 @@
       "codepoint": 57508,
       "fontFamily": "Noto",
       "identifier": "whiteFlower",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "white-heart": {
       "codepoint": 57509,

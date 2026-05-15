@@ -36,18 +36,36 @@ icons/
 
 ```dart
 extension type const IconifyIconData(
-  (IconData primary, IconData? secondary) _layers
+  (IconData primary, IconData? secondary, int kindCode) _layers
 ) {
-  const IconifyIconData.solo(IconData icon) : this((icon, null));
-  const IconifyIconData.duo(IconData primary, IconData secondary)
-      : this((primary, secondary));
+  static const int kindSolo = 0;
+  static const int kindHint = 1;         // Phosphor/Solar/ic opacity-fade
+  static const int kindPaintOrder = 2;   // logos/crypto-color/twemoji 2-fill
+  static const int kindMaskInternal = 3; // lets-icons *-duotone-line
+
+  const IconifyIconData.solo(IconData icon)            : this((icon, null, kindSolo));
+  const IconifyIconData.duo(IconData p, IconData s)    : this((p, s, kindHint));
+  const IconifyIconData.duoPaintOrder(IconData p, IconData s)
+      : this((p, s, kindPaintOrder));
+  const IconifyIconData.duoMaskInternal(IconData p, IconData s)
+      : this((p, s, kindMaskInternal));
+
   IconData get primary => _layers.$1;
   IconData? get secondary => _layers.$2;
+  int get kind => _layers.$3;
   bool get isDuotone => _layers.$2 != null;
+  bool get isPaintOrderDuotone => kind == kindPaintOrder;
 }
 ```
 
-A single shape covers both regular icons (secondary = null) and duo-tone icons (both layers present). Named constructors `.solo` / `.duo` pick the form. This is **load-bearing** for tree-shaking. Dart 3.3+ extension types erase to their representation at compile time; the kernel sees a const Record whose fields are `const IconData(...)`, and Flutter's `const_finder` (driven by `--tree-shake-icons`) traverses records and detects every inner IconData reference.
+A single shape covers solo icons (secondary = null) AND every duo-tone flavour. Named constructors pick the form; `IconifyIcon` reads `kind` at render time and composes the layers accordingly (hint-layer = secondary backdrop at 40%, paint-order = secondary FOREGROUND on top at full opacity in surface colour, mask-internal = same as hint).
+
+Two important rules for the kind field:
+
+- **Field name MUST be public** (`kindCode`, not `_kind`). Dart record field names can't start with underscore; the compiler rejects `(IconData primary, IconData? secondary, int _kind)` with "Record field names can't be private". Access via the extension type getter `kind` keeps it idiomatic for callers.
+- **Adding the int doesn't break tree-shake.** The const_finder walks record fields looking for const IconData references; an inert `int` sitting beside the IconData fields doesn't affect detection. Verified by the same `two_icon_test/` bundle that tracks the rest of the tree-shake invariants.
+
+Dart 3.3+ extension types erase to their representation at compile time; the kernel sees a const Record whose fields are `const IconData(...)`, and Flutter's `const_finder` (driven by `--tree-shake-icons`) traverses records and detects every inner IconData reference.
 
 If anyone ever changes this to `final class IconifyIconData { final IconData primary; final IconData? secondary; … }`, tree-shaking will silently break — Flutter Issue [#63920](https://github.com/flutter/flutter/issues/63920) confirms the const_finder does **not** look inside wrapper class constructors. `font_awesome_flutter` ships with broken tree-shake for exactly this reason.
 
@@ -80,15 +98,22 @@ The `fontPackage` value is the **per-set package name** (`iconifyx_mdi`, not `ic
 ### 2a. Render via `IconifyIcon`, never `Icon(.data)`.
 
 ```dart
-IconifyIcon(MdiIcons.home, size: 24, color: Colors.indigo)       // regular
-IconifyIcon(PhIcons.acornDuotone, size: 24)                       // duotone (auto)
-IconifyIcon.duotone(                                              // duotone (custom)
+IconifyIcon(MdiIcons.home, size: 24, color: Colors.indigo)
+IconifyIcon(PhIcons.acornDuotone, size: 24)                          // hint-layer duotone
+IconifyIcon(LogosIcons.adobeAfterEffects, size: 24)                  // paint-order duotone
+IconifyIcon(LetsIconsIcons.alarmclockDuotoneLine, size: 24)          // mask-internal duotone
+IconifyIcon(                                                          // explicit override
   PhIcons.acornDuotone,
   color: Colors.blue,
   secondaryColor: Colors.red,
   secondaryOpacity: 0.5,
 )
 ```
+
+The single constructor handles every flavour — the widget inspects
+`icon.kind` and picks the right composition (hint backdrop at 40%,
+paint-order foreground on top at 100% in `ColorScheme.surface`,
+mask-internal same as hint). Callers don't need to think about it.
 
 `IconifyIcon` in `iconifyx_core` is a polymorphic widget. The default constructor auto-detects duotone via `icon.isDuotone`; `.duotone` lets the caller customise the secondary layer. Outer shape mirrors `Icon` (`Semantics` + `SizedBox`). Duotone is rendered in a single render layer via `CustomPaint` + two `TextPainter` calls — no `Stack`. TextStyle uses `package:`, not `fontPackage:` (the latter is IconData's field; copying the name verbatim into TextStyle is a confusing compile error).
 

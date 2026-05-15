@@ -4,14 +4,14 @@ Generated 2026-05-15. For every `(font, codepoint)` pair declared in a pack's ma
 
 - **Codepoints expected across all fonts:** 357,604
 - **Codepoints missing from emitted TTF:** 0
-- **Codepoints present but with empty outline:** 604
+- **Codepoints present but with empty outline:** 569
 - **TTFs that failed to open:** 0
 
 ## Fonts with drift
 
 | Prefix | Font | Expected | Missing | Empty | Sample missing/empty | Error |
 |---|---|---:|---:|---:|---|---|
-| `meteocons` | `Meteocons` | 440 | 0 | 193 | `clear-day`, `clear-day-fill` | — |
+| `meteocons` | `Meteocons` | 440 | 0 | 158 | `clear-day`, `clear-day-fill` | — |
 | `devicon` | `Devicon` | 1,045 | 0 | 115 | `anaconda`, `anaconda-wordmark` | — |
 | `token-branded` | `TokenBranded` | 1,664 | 0 | 98 | `10set`, `aag` | — |
 | `cryptocurrency-color` | `CryptocurrencyColor` | 481 | 0 | 35 | `0xbtc`, `2give` | — |

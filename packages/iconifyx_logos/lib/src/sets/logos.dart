@@ -16,8 +16,8 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 class LogosIcons {
   const LogosIcons._();
 
-  /// `100tb` (duo-tone)
-  static const IconifyIconData n100tb = IconifyIconData.duo(
+  /// `100tb` (paint-order duotone)
+  static const IconifyIconData n100tb = IconifyIconData.duoPaintOrder(
     IconData(0xe33b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe33b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -27,8 +27,8 @@ class LogosIcons {
     IconData(0xe000, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `6px` (duo-tone)
-  static const IconifyIconData n6px = IconifyIconData.duo(
+  /// `6px` (paint-order duotone)
+  static const IconifyIconData n6px = IconifyIconData.duoPaintOrder(
     IconData(0xe001, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe001, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -43,20 +43,20 @@ class LogosIcons {
     IconData(0xe003, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-after-effects` (duo-tone)
-  static const IconifyIconData adobeAfterEffects = IconifyIconData.duo(
+  /// `adobe-after-effects` (paint-order duotone)
+  static const IconifyIconData adobeAfterEffects = IconifyIconData.duoPaintOrder(
     IconData(0xe004, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe004, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-animate` (duo-tone)
-  static const IconifyIconData adobeAnimate = IconifyIconData.duo(
+  /// `adobe-animate` (paint-order duotone)
+  static const IconifyIconData adobeAnimate = IconifyIconData.duoPaintOrder(
     IconData(0xe005, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe005, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-dreamweaver` (duo-tone)
-  static const IconifyIconData adobeDreamweaver = IconifyIconData.duo(
+  /// `adobe-dreamweaver` (paint-order duotone)
+  static const IconifyIconData adobeDreamweaver = IconifyIconData.duoPaintOrder(
     IconData(0xe33e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe33e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -66,44 +66,44 @@ class LogosIcons {
     IconData(0xe006, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-illustrator` (duo-tone)
-  static const IconifyIconData adobeIllustrator = IconifyIconData.duo(
+  /// `adobe-illustrator` (paint-order duotone)
+  static const IconifyIconData adobeIllustrator = IconifyIconData.duoPaintOrder(
     IconData(0xe007, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe007, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-incopy` (duo-tone)
-  static const IconifyIconData adobeIncopy = IconifyIconData.duo(
+  /// `adobe-incopy` (paint-order duotone)
+  static const IconifyIconData adobeIncopy = IconifyIconData.duoPaintOrder(
     IconData(0xe33f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe33f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-indesign` (duo-tone)
-  static const IconifyIconData adobeIndesign = IconifyIconData.duo(
+  /// `adobe-indesign` (paint-order duotone)
+  static const IconifyIconData adobeIndesign = IconifyIconData.duoPaintOrder(
     IconData(0xe340, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe340, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-lightroom` (duo-tone)
-  static const IconifyIconData adobeLightroom = IconifyIconData.duo(
+  /// `adobe-lightroom` (paint-order duotone)
+  static const IconifyIconData adobeLightroom = IconifyIconData.duoPaintOrder(
     IconData(0xe341, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe341, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-photoshop` (duo-tone)
-  static const IconifyIconData adobePhotoshop = IconifyIconData.duo(
+  /// `adobe-photoshop` (paint-order duotone)
+  static const IconifyIconData adobePhotoshop = IconifyIconData.duoPaintOrder(
     IconData(0xe342, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe342, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-premiere` (duo-tone)
-  static const IconifyIconData adobePremiere = IconifyIconData.duo(
+  /// `adobe-premiere` (paint-order duotone)
+  static const IconifyIconData adobePremiere = IconifyIconData.duoPaintOrder(
     IconData(0xe008, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe008, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adobe-xd` (duo-tone)
-  static const IconifyIconData adobeXd = IconifyIconData.duo(
+  /// `adobe-xd` (paint-order duotone)
+  static const IconifyIconData adobeXd = IconifyIconData.duoPaintOrder(
     IconData(0xe343, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe343, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -118,8 +118,8 @@ class LogosIcons {
     IconData(0xe00a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `adroll` (duo-tone)
-  static const IconifyIconData adroll = IconifyIconData.duo(
+  /// `adroll` (paint-order duotone)
+  static const IconifyIconData adroll = IconifyIconData.duoPaintOrder(
     IconData(0xe00b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe00b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -150,32 +150,32 @@ class LogosIcons {
     IconData(0xe010, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `akamai` (duo-tone)
-  static const IconifyIconData akamai = IconifyIconData.duo(
+  /// `akamai` (paint-order duotone)
+  static const IconifyIconData akamai = IconifyIconData.duoPaintOrder(
     IconData(0xe62c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe62c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `akka` (duo-tone)
-  static const IconifyIconData akka = IconifyIconData.duo(
+  /// `akka` (paint-order duotone)
+  static const IconifyIconData akka = IconifyIconData.duoPaintOrder(
     IconData(0xe62d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe62d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `algolia` (duo-tone)
-  static const IconifyIconData algolia = IconifyIconData.duo(
+  /// `algolia` (paint-order duotone)
+  static const IconifyIconData algolia = IconifyIconData.duoPaintOrder(
     IconData(0xe62e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe62e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `alpinejs` (duo-tone)
-  static const IconifyIconData alpinejs = IconifyIconData.duo(
+  /// `alpinejs` (paint-order duotone)
+  static const IconifyIconData alpinejs = IconifyIconData.duoPaintOrder(
     IconData(0xe62f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe62f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `alpinejs-icon` (duo-tone)
-  static const IconifyIconData alpinejsIcon = IconifyIconData.duo(
+  /// `alpinejs-icon` (paint-order duotone)
+  static const IconifyIconData alpinejsIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe34a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe34a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -190,26 +190,26 @@ class LogosIcons {
     IconData(0xe013, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `amex` (duo-tone)
-  static const IconifyIconData amex = IconifyIconData.duo(
+  /// `amex` (paint-order duotone)
+  static const IconifyIconData amex = IconifyIconData.duoPaintOrder(
     IconData(0xe014, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe014, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `amex-digital` (duo-tone)
-  static const IconifyIconData amexDigital = IconifyIconData.duo(
+  /// `amex-digital` (paint-order duotone)
+  static const IconifyIconData amexDigital = IconifyIconData.duoPaintOrder(
     IconData(0xe015, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe015, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `android` (duo-tone)
-  static const IconifyIconData android = IconifyIconData.duo(
+  /// `android` (paint-order duotone)
+  static const IconifyIconData android = IconifyIconData.duoPaintOrder(
     IconData(0xe34d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe34d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `android-vertical` (duo-tone)
-  static const IconifyIconData androidVertical = IconifyIconData.duo(
+  /// `android-vertical` (paint-order duotone)
+  static const IconifyIconData androidVertical = IconifyIconData.duoPaintOrder(
     IconData(0xe630, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe630, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -219,26 +219,26 @@ class LogosIcons {
     IconData(0xe017, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `ansible` (duo-tone)
-  static const IconifyIconData ansible = IconifyIconData.duo(
+  /// `ansible` (paint-order duotone)
+  static const IconifyIconData ansible = IconifyIconData.duoPaintOrder(
     IconData(0xe631, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe631, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `apache-cloudstack` (duo-tone)
-  static const IconifyIconData apacheCloudstack = IconifyIconData.duo(
+  /// `apache-cloudstack` (paint-order duotone)
+  static const IconifyIconData apacheCloudstack = IconifyIconData.duoPaintOrder(
     IconData(0xe018, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe018, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `apache-superset` (duo-tone)
-  static const IconifyIconData apacheSuperset = IconifyIconData.duo(
+  /// `apache-superset` (paint-order duotone)
+  static const IconifyIconData apacheSuperset = IconifyIconData.duoPaintOrder(
     IconData(0xe632, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe632, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `apache-superset-icon` (duo-tone)
-  static const IconifyIconData apacheSupersetIcon = IconifyIconData.duo(
+  /// `apache-superset-icon` (paint-order duotone)
+  static const IconifyIconData apacheSupersetIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe633, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe633, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -248,8 +248,8 @@ class LogosIcons {
     IconData(0xe019, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `apigee` (duo-tone)
-  static const IconifyIconData apigee = IconifyIconData.duo(
+  /// `apigee` (paint-order duotone)
+  static const IconifyIconData apigee = IconifyIconData.duoPaintOrder(
     IconData(0xe359, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe359, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -269,14 +269,14 @@ class LogosIcons {
     IconData(0xe01c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `appcelerator` (duo-tone)
-  static const IconifyIconData appcelerator = IconifyIconData.duo(
+  /// `appcelerator` (paint-order duotone)
+  static const IconifyIconData appcelerator = IconifyIconData.duoPaintOrder(
     IconData(0xe01d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe01d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `appcircle` (duo-tone)
-  static const IconifyIconData appcircle = IconifyIconData.duo(
+  /// `appcircle` (paint-order duotone)
+  static const IconifyIconData appcircle = IconifyIconData.duoPaintOrder(
     IconData(0xe01e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe01e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -331,8 +331,8 @@ class LogosIcons {
     IconData(0xe028, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `apptentive` (duo-tone)
-  static const IconifyIconData apptentive = IconifyIconData.duo(
+  /// `apptentive` (paint-order duotone)
+  static const IconifyIconData apptentive = IconifyIconData.duoPaintOrder(
     IconData(0xe35e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe35e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -367,14 +367,14 @@ class LogosIcons {
     IconData(0xe02d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `armory-icon` (duo-tone)
-  static const IconifyIconData armoryIcon = IconifyIconData.duo(
+  /// `armory-icon` (paint-order duotone)
+  static const IconifyIconData armoryIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe362, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe362, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `asana` (duo-tone)
-  static const IconifyIconData asana = IconifyIconData.duo(
+  /// `asana` (paint-order duotone)
+  static const IconifyIconData asana = IconifyIconData.duoPaintOrder(
     IconData(0xe02e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe02e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -384,8 +384,8 @@ class LogosIcons {
     IconData(0xe02f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `asciidoctor` (duo-tone)
-  static const IconifyIconData asciidoctor = IconifyIconData.duo(
+  /// `asciidoctor` (paint-order duotone)
+  static const IconifyIconData asciidoctor = IconifyIconData.duoPaintOrder(
     IconData(0xe634, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe634, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -395,8 +395,8 @@ class LogosIcons {
     IconData(0xe030, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `atom-icon` (duo-tone)
-  static const IconifyIconData atomIcon = IconifyIconData.duo(
+  /// `atom-icon` (paint-order duotone)
+  static const IconifyIconData atomIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe031, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe031, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -411,8 +411,8 @@ class LogosIcons {
     IconData(0xe033, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `aurora` (duo-tone)
-  static const IconifyIconData aurora = IconifyIconData.duo(
+  /// `aurora` (paint-order duotone)
+  static const IconifyIconData aurora = IconifyIconData.duoPaintOrder(
     IconData(0xe034, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe034, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -432,20 +432,20 @@ class LogosIcons {
     IconData(0xe6a2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `autoit` (duo-tone)
-  static const IconifyIconData autoit = IconifyIconData.duo(
+  /// `autoit` (paint-order duotone)
+  static const IconifyIconData autoit = IconifyIconData.duoPaintOrder(
     IconData(0xe037, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe037, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `awesome` (duo-tone)
-  static const IconifyIconData awesome = IconifyIconData.duo(
+  /// `awesome` (paint-order duotone)
+  static const IconifyIconData awesome = IconifyIconData.duoPaintOrder(
     IconData(0xe635, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe635, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `aws` (duo-tone)
-  static const IconifyIconData aws = IconifyIconData.duo(
+  /// `aws` (paint-order duotone)
+  static const IconifyIconData aws = IconifyIconData.duoPaintOrder(
     IconData(0xe038, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe038, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -465,14 +465,14 @@ class LogosIcons {
     IconData(0xe03b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `backbone` (duo-tone)
-  static const IconifyIconData backbone = IconifyIconData.duo(
+  /// `backbone` (paint-order duotone)
+  static const IconifyIconData backbone = IconifyIconData.duoPaintOrder(
     IconData(0xe03c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe03c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `backbone-icon` (duo-tone)
-  static const IconifyIconData backboneIcon = IconifyIconData.duo(
+  /// `backbone-icon` (paint-order duotone)
+  static const IconifyIconData backboneIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe03d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe03d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -497,8 +497,8 @@ class LogosIcons {
     IconData(0xe041, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `batch` (duo-tone)
-  static const IconifyIconData batch = IconifyIconData.duo(
+  /// `batch` (paint-order duotone)
+  static const IconifyIconData batch = IconifyIconData.duoPaintOrder(
     IconData(0xe045, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe045, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -508,20 +508,20 @@ class LogosIcons {
     IconData(0xe046, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `bem-2` (duo-tone)
-  static const IconifyIconData bem2 = IconifyIconData.duo(
+  /// `bem-2` (paint-order duotone)
+  static const IconifyIconData bem2 = IconifyIconData.duoPaintOrder(
     IconData(0xe636, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe636, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `bigpanda` (duo-tone)
-  static const IconifyIconData bigpanda = IconifyIconData.duo(
+  /// `bigpanda` (paint-order duotone)
+  static const IconifyIconData bigpanda = IconifyIconData.duoPaintOrder(
     IconData(0xe3af, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3af, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `biomejs` (duo-tone)
-  static const IconifyIconData biomejs = IconifyIconData.duo(
+  /// `biomejs` (paint-order duotone)
+  static const IconifyIconData biomejs = IconifyIconData.duoPaintOrder(
     IconData(0xe3b1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3b1, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -536,8 +536,8 @@ class LogosIcons {
     IconData(0xe6a3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `bitbar` (duo-tone)
-  static const IconifyIconData bitbar = IconifyIconData.duo(
+  /// `bitbar` (paint-order duotone)
+  static const IconifyIconData bitbar = IconifyIconData.duoPaintOrder(
     IconData(0xe637, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe637, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -552,8 +552,8 @@ class LogosIcons {
     IconData(0xe049, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `blogger` (duo-tone)
-  static const IconifyIconData blogger = IconifyIconData.duo(
+  /// `blogger` (paint-order duotone)
+  static const IconifyIconData blogger = IconifyIconData.duoPaintOrder(
     IconData(0xe04a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe04a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -593,26 +593,26 @@ class LogosIcons {
     IconData(0xe052, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `brainjs` (duo-tone)
-  static const IconifyIconData brainjs = IconifyIconData.duo(
+  /// `brainjs` (paint-order duotone)
+  static const IconifyIconData brainjs = IconifyIconData.duoPaintOrder(
     IconData(0xe053, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe053, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `branch` (duo-tone)
-  static const IconifyIconData branch = IconifyIconData.duo(
+  /// `branch` (paint-order duotone)
+  static const IconifyIconData branch = IconifyIconData.duoPaintOrder(
     IconData(0xe638, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe638, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `branch-icon` (duo-tone)
-  static const IconifyIconData branchIcon = IconifyIconData.duo(
+  /// `branch-icon` (paint-order duotone)
+  static const IconifyIconData branchIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe639, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe639, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `brandfolder` (duo-tone)
-  static const IconifyIconData brandfolder = IconifyIconData.duo(
+  /// `brandfolder` (paint-order duotone)
+  static const IconifyIconData brandfolder = IconifyIconData.duoPaintOrder(
     IconData(0xe63a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe63a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -622,14 +622,14 @@ class LogosIcons {
     IconData(0xe054, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `broadcom-icon` (duo-tone)
-  static const IconifyIconData broadcomIcon = IconifyIconData.duo(
+  /// `broadcom-icon` (paint-order duotone)
+  static const IconifyIconData broadcomIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe056, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe056, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `brotli` (duo-tone)
-  static const IconifyIconData brotli = IconifyIconData.duo(
+  /// `brotli` (paint-order duotone)
+  static const IconifyIconData brotli = IconifyIconData.duoPaintOrder(
     IconData(0xe057, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe057, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -639,8 +639,8 @@ class LogosIcons {
     IconData(0xe058, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `browserify-icon` (duo-tone)
-  static const IconifyIconData browserifyIcon = IconifyIconData.duo(
+  /// `browserify-icon` (paint-order duotone)
+  static const IconifyIconData browserifyIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe63b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe63b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -650,14 +650,14 @@ class LogosIcons {
     IconData(0xe05a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `bubble` (duo-tone)
-  static const IconifyIconData bubble = IconifyIconData.duo(
+  /// `bubble` (paint-order duotone)
+  static const IconifyIconData bubble = IconifyIconData.duoPaintOrder(
     IconData(0xe63c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe63c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `bubble-icon` (duo-tone)
-  static const IconifyIconData bubbleIcon = IconifyIconData.duo(
+  /// `bubble-icon` (paint-order duotone)
+  static const IconifyIconData bubbleIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe63d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe63d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -667,20 +667,20 @@ class LogosIcons {
     IconData(0xe05b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `bugherd` (duo-tone)
-  static const IconifyIconData bugherd = IconifyIconData.duo(
+  /// `bugherd` (paint-order duotone)
+  static const IconifyIconData bugherd = IconifyIconData.duoPaintOrder(
     IconData(0xe05c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe05c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `bugsee` (duo-tone)
-  static const IconifyIconData bugsee = IconifyIconData.duo(
+  /// `bugsee` (paint-order duotone)
+  static const IconifyIconData bugsee = IconifyIconData.duoPaintOrder(
     IconData(0xe63e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe63e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `bugsnag` (duo-tone)
-  static const IconifyIconData bugsnag = IconifyIconData.duo(
+  /// `bugsnag` (paint-order duotone)
+  static const IconifyIconData bugsnag = IconifyIconData.duoPaintOrder(
     IconData(0xe3c0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3c0, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -690,8 +690,8 @@ class LogosIcons {
     IconData(0xe05e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `buildkite-icon` (duo-tone)
-  static const IconifyIconData buildkiteIcon = IconifyIconData.duo(
+  /// `buildkite-icon` (paint-order duotone)
+  static const IconifyIconData buildkiteIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe062, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe062, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -701,14 +701,14 @@ class LogosIcons {
     IconData(0xe063, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `cachet` (duo-tone)
-  static const IconifyIconData cachet = IconifyIconData.duo(
+  /// `cachet` (paint-order duotone)
+  static const IconifyIconData cachet = IconifyIconData.duoPaintOrder(
     IconData(0xe3c7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3c7, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `caffe2` (duo-tone)
-  static const IconifyIconData caffe2 = IconifyIconData.duo(
+  /// `caffe2` (paint-order duotone)
+  static const IconifyIconData caffe2 = IconifyIconData.duoPaintOrder(
     IconData(0xe3c8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3c8, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -723,8 +723,8 @@ class LogosIcons {
     IconData(0xe065, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `campaignmonitor` (duo-tone)
-  static const IconifyIconData campaignmonitor = IconifyIconData.duo(
+  /// `campaignmonitor` (paint-order duotone)
+  static const IconifyIconData campaignmonitor = IconifyIconData.duoPaintOrder(
     IconData(0xe3c9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3c9, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -756,8 +756,8 @@ class LogosIcons {
     IconData(0xe06b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `celluloid` (duo-tone)
-  static const IconifyIconData celluloid = IconifyIconData.duo(
+  /// `celluloid` (paint-order duotone)
+  static const IconifyIconData celluloid = IconifyIconData.duoPaintOrder(
     IconData(0xe06c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe06c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -777,8 +777,8 @@ class LogosIcons {
     IconData(0xe072, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `chef` (duo-tone)
-  static const IconifyIconData chef = IconifyIconData.duo(
+  /// `chef` (paint-order duotone)
+  static const IconifyIconData chef = IconifyIconData.duoPaintOrder(
     IconData(0xe63f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe63f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -788,8 +788,8 @@ class LogosIcons {
     IconData(0xe073, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `chromatic-icon` (duo-tone)
-  static const IconifyIconData chromaticIcon = IconifyIconData.duo(
+  /// `chromatic-icon` (paint-order duotone)
+  static const IconifyIconData chromaticIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe075, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe075, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -804,8 +804,8 @@ class LogosIcons {
     IconData(0xe077, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `cljs` (duo-tone)
-  static const IconifyIconData cljs = IconifyIconData.duo(
+  /// `cljs` (paint-order duotone)
+  static const IconifyIconData cljs = IconifyIconData.duoPaintOrder(
     IconData(0xe078, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe078, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -820,14 +820,14 @@ class LogosIcons {
     IconData(0xe07a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `cloudflare-icon` (duo-tone)
-  static const IconifyIconData cloudflareIcon = IconifyIconData.duo(
+  /// `cloudflare-icon` (paint-order duotone)
+  static const IconifyIconData cloudflareIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe3d8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3d8, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `cobalt` (duo-tone)
-  static const IconifyIconData cobalt = IconifyIconData.duo(
+  /// `cobalt` (paint-order duotone)
+  static const IconifyIconData cobalt = IconifyIconData.duoPaintOrder(
     IconData(0xe07b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe07b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -837,8 +837,8 @@ class LogosIcons {
     IconData(0xe07c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `cocoapods` (duo-tone)
-  static const IconifyIconData cocoapods = IconifyIconData.duo(
+  /// `cocoapods` (paint-order duotone)
+  static const IconifyIconData cocoapods = IconifyIconData.duoPaintOrder(
     IconData(0xe07d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe07d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -888,14 +888,14 @@ class LogosIcons {
     IconData(0xe086, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `codefund` (duo-tone)
-  static const IconifyIconData codefund = IconifyIconData.duo(
+  /// `codefund` (paint-order duotone)
+  static const IconifyIconData codefund = IconifyIconData.duoPaintOrder(
     IconData(0xe3dd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3dd, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `codefund-icon` (duo-tone)
-  static const IconifyIconData codefundIcon = IconifyIconData.duo(
+  /// `codefund-icon` (paint-order duotone)
+  static const IconifyIconData codefundIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe3de, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3de, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -910,20 +910,20 @@ class LogosIcons {
     IconData(0xe088, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `codepush` (duo-tone)
-  static const IconifyIconData codepush = IconifyIconData.duo(
+  /// `codepush` (paint-order duotone)
+  static const IconifyIconData codepush = IconifyIconData.duoPaintOrder(
     IconData(0xe089, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe089, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `codersrank` (duo-tone)
-  static const IconifyIconData codersrank = IconifyIconData.duo(
+  /// `codersrank` (paint-order duotone)
+  static const IconifyIconData codersrank = IconifyIconData.duoPaintOrder(
     IconData(0xe640, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe640, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `codersrank-icon` (duo-tone)
-  static const IconifyIconData codersrankIcon = IconifyIconData.duo(
+  /// `codersrank-icon` (paint-order duotone)
+  static const IconifyIconData codersrankIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe641, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe641, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -969,26 +969,26 @@ class LogosIcons {
     IconData(0xe092, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `concretecms-icon` (duo-tone)
-  static const IconifyIconData concretecmsIcon = IconifyIconData.duo(
+  /// `concretecms-icon` (paint-order duotone)
+  static const IconifyIconData concretecmsIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe642, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe642, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `conda` (duo-tone)
-  static const IconifyIconData conda = IconifyIconData.duo(
+  /// `conda` (paint-order duotone)
+  static const IconifyIconData conda = IconifyIconData.duoPaintOrder(
     IconData(0xe093, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe093, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `containership` (duo-tone)
-  static const IconifyIconData containership = IconifyIconData.duo(
+  /// `containership` (paint-order duotone)
+  static const IconifyIconData containership = IconifyIconData.duoPaintOrder(
     IconData(0xe094, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe094, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `convox` (duo-tone)
-  static const IconifyIconData convox = IconifyIconData.duo(
+  /// `convox` (paint-order duotone)
+  static const IconifyIconData convox = IconifyIconData.duoPaintOrder(
     IconData(0xe643, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe643, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1023,8 +1023,8 @@ class LogosIcons {
     IconData(0xe09b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `coveralls` (duo-tone)
-  static const IconifyIconData coveralls = IconifyIconData.duo(
+  /// `coveralls` (paint-order duotone)
+  static const IconifyIconData coveralls = IconifyIconData.duoPaintOrder(
     IconData(0xe09c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe09c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1044,8 +1044,8 @@ class LogosIcons {
     IconData(0xe09f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `cross-browser-testing` (duo-tone)
-  static const IconifyIconData crossBrowserTesting = IconifyIconData.duo(
+  /// `cross-browser-testing` (paint-order duotone)
+  static const IconifyIconData crossBrowserTesting = IconifyIconData.duoPaintOrder(
     IconData(0xe644, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe644, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1060,8 +1060,8 @@ class LogosIcons {
     IconData(0xe0a1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `css` (duo-tone)
-  static const IconifyIconData css = IconifyIconData.duo(
+  /// `css` (paint-order duotone)
+  static const IconifyIconData css = IconifyIconData.duoPaintOrder(
     IconData(0xe0a2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0a2, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1071,32 +1071,32 @@ class LogosIcons {
     IconData(0xe0a3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `cucumber` (duo-tone)
-  static const IconifyIconData cucumber = IconifyIconData.duo(
+  /// `cucumber` (paint-order duotone)
+  static const IconifyIconData cucumber = IconifyIconData.duoPaintOrder(
     IconData(0xe3f4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3f4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `curl` (duo-tone)
-  static const IconifyIconData curl = IconifyIconData.duo(
+  /// `curl` (paint-order duotone)
+  static const IconifyIconData curl = IconifyIconData.duoPaintOrder(
     IconData(0xe3f5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3f5, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `dailydev` (duo-tone)
-  static const IconifyIconData dailydev = IconifyIconData.duo(
+  /// `dailydev` (paint-order duotone)
+  static const IconifyIconData dailydev = IconifyIconData.duoPaintOrder(
     IconData(0xe3fc, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3fc, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `dailydev-icon` (duo-tone)
-  static const IconifyIconData dailydevIcon = IconifyIconData.duo(
+  /// `dailydev-icon` (paint-order duotone)
+  static const IconifyIconData dailydevIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe3fd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe3fd, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `danfo` (duo-tone)
-  static const IconifyIconData danfo = IconifyIconData.duo(
+  /// `danfo` (paint-order duotone)
+  static const IconifyIconData danfo = IconifyIconData.duoPaintOrder(
     IconData(0xe0a4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0a4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1123,8 +1123,8 @@ class LogosIcons {
     IconData(0xe0a9, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `dbt` (duo-tone)
-  static const IconifyIconData dbt = IconifyIconData.duo(
+  /// `dbt` (paint-order duotone)
+  static const IconifyIconData dbt = IconifyIconData.duoPaintOrder(
     IconData(0xe0aa, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0aa, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1154,14 +1154,14 @@ class LogosIcons {
     IconData(0xe0b0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `dependabot` (duo-tone)
-  static const IconifyIconData dependabot = IconifyIconData.duo(
+  /// `dependabot` (paint-order duotone)
+  static const IconifyIconData dependabot = IconifyIconData.duoPaintOrder(
     IconData(0xe0b1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0b1, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `deppbot` (duo-tone)
-  static const IconifyIconData deppbot = IconifyIconData.duo(
+  /// `deppbot` (paint-order duotone)
+  static const IconifyIconData deppbot = IconifyIconData.duoPaintOrder(
     IconData(0xe0b5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0b5, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1186,8 +1186,8 @@ class LogosIcons {
     IconData(0xe0b9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `deviantart` (duo-tone)
-  static const IconifyIconData deviantart = IconifyIconData.duo(
+  /// `deviantart` (paint-order duotone)
+  static const IconifyIconData deviantart = IconifyIconData.duoPaintOrder(
     IconData(0xe0ba, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0ba, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1212,8 +1212,8 @@ class LogosIcons {
     IconData(0xe40f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `django-icon` (duo-tone)
-  static const IconifyIconData djangoIcon = IconifyIconData.duo(
+  /// `django-icon` (paint-order duotone)
+  static const IconifyIconData djangoIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe411, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe411, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1223,14 +1223,14 @@ class LogosIcons {
     IconData(0xe0c1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `doctrine` (duo-tone)
-  static const IconifyIconData doctrine = IconifyIconData.duo(
+  /// `doctrine` (paint-order duotone)
+  static const IconifyIconData doctrine = IconifyIconData.duoPaintOrder(
     IconData(0xe645, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe645, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `dojo-toolkit` (duo-tone)
-  static const IconifyIconData dojoToolkit = IconifyIconData.duo(
+  /// `dojo-toolkit` (paint-order duotone)
+  static const IconifyIconData dojoToolkit = IconifyIconData.duoPaintOrder(
     IconData(0xe646, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe646, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1240,20 +1240,20 @@ class LogosIcons {
     IconData(0xe0c3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `dotnet` (duo-tone)
-  static const IconifyIconData dotnet = IconifyIconData.duo(
+  /// `dotnet` (paint-order duotone)
+  static const IconifyIconData dotnet = IconifyIconData.duoPaintOrder(
     IconData(0xe0c4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0c4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `dreamfactory` (duo-tone)
-  static const IconifyIconData dreamfactory = IconifyIconData.duo(
+  /// `dreamfactory` (paint-order duotone)
+  static const IconifyIconData dreamfactory = IconifyIconData.duoPaintOrder(
     IconData(0xe0c5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0c5, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `dreamhost` (duo-tone)
-  static const IconifyIconData dreamhost = IconifyIconData.duo(
+  /// `dreamhost` (paint-order duotone)
+  static const IconifyIconData dreamhost = IconifyIconData.duoPaintOrder(
     IconData(0xe647, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe647, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1263,8 +1263,8 @@ class LogosIcons {
     IconData(0xe0c6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `dribbble-icon` (duo-tone)
-  static const IconifyIconData dribbbleIcon = IconifyIconData.duo(
+  /// `dribbble-icon` (paint-order duotone)
+  static const IconifyIconData dribbbleIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe415, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe415, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1279,8 +1279,8 @@ class LogosIcons {
     IconData(0xe0c8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `drone` (duo-tone)
-  static const IconifyIconData drone = IconifyIconData.duo(
+  /// `drone` (paint-order duotone)
+  static const IconifyIconData drone = IconifyIconData.duoPaintOrder(
     IconData(0xe0c9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0c9, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1335,8 +1335,8 @@ class LogosIcons {
     IconData(0xe0d3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `elasticpath` (duo-tone)
-  static const IconifyIconData elasticpath = IconifyIconData.duo(
+  /// `elasticpath` (paint-order duotone)
+  static const IconifyIconData elasticpath = IconifyIconData.duoPaintOrder(
     IconData(0xe0d4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0d4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1366,14 +1366,14 @@ class LogosIcons {
     IconData(0xe0da, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `embedly` (duo-tone)
-  static const IconifyIconData embedly = IconifyIconData.duo(
+  /// `embedly` (paint-order duotone)
+  static const IconifyIconData embedly = IconifyIconData.duoPaintOrder(
     IconData(0xe648, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe648, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `ember` (duo-tone)
-  static const IconifyIconData ember = IconifyIconData.duo(
+  /// `ember` (paint-order duotone)
+  static const IconifyIconData ember = IconifyIconData.duoPaintOrder(
     IconData(0xe0db, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0db, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1388,38 +1388,38 @@ class LogosIcons {
     IconData(0xe0dd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `eraser-icon` (duo-tone)
-  static const IconifyIconData eraserIcon = IconifyIconData.duo(
+  /// `eraser-icon` (paint-order duotone)
+  static const IconifyIconData eraserIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe0e0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0e0, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `es6` (duo-tone)
-  static const IconifyIconData es6 = IconifyIconData.duo(
+  /// `es6` (paint-order duotone)
+  static const IconifyIconData es6 = IconifyIconData.duoPaintOrder(
     IconData(0xe64a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe64a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `esbuild` (duo-tone)
-  static const IconifyIconData esbuild = IconifyIconData.duo(
+  /// `esbuild` (paint-order duotone)
+  static const IconifyIconData esbuild = IconifyIconData.duoPaintOrder(
     IconData(0xe64b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe64b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `esdoc` (duo-tone)
-  static const IconifyIconData esdoc = IconifyIconData.duo(
+  /// `esdoc` (paint-order duotone)
+  static const IconifyIconData esdoc = IconifyIconData.duoPaintOrder(
     IconData(0xe431, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe431, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `eslint` (duo-tone)
-  static const IconifyIconData eslint = IconifyIconData.duo(
+  /// `eslint` (paint-order duotone)
+  static const IconifyIconData eslint = IconifyIconData.duoPaintOrder(
     IconData(0xe64c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe64c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `eslint-old` (duo-tone)
-  static const IconifyIconData eslintOld = IconifyIconData.duo(
+  /// `eslint-old` (paint-order duotone)
+  static const IconifyIconData eslintOld = IconifyIconData.duoPaintOrder(
     IconData(0xe432, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe432, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1429,14 +1429,14 @@ class LogosIcons {
     IconData(0xe0e1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `eta-icon` (duo-tone)
-  static const IconifyIconData etaIcon = IconifyIconData.duo(
+  /// `eta-icon` (paint-order duotone)
+  static const IconifyIconData etaIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe0e2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0e2, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `eta-lang` (duo-tone)
-  static const IconifyIconData etaLang = IconifyIconData.duo(
+  /// `eta-lang` (paint-order duotone)
+  static const IconifyIconData etaLang = IconifyIconData.duoPaintOrder(
     IconData(0xe0e3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0e3, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1446,14 +1446,14 @@ class LogosIcons {
     IconData(0xe0e4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `eventbrite-icon` (duo-tone)
-  static const IconifyIconData eventbriteIcon = IconifyIconData.duo(
+  /// `eventbrite-icon` (paint-order duotone)
+  static const IconifyIconData eventbriteIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe434, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe434, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `evergreen-icon` (duo-tone)
-  static const IconifyIconData evergreenIcon = IconifyIconData.duo(
+  /// `evergreen-icon` (paint-order duotone)
+  static const IconifyIconData evergreenIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe0e5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0e5, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1478,14 +1478,14 @@ class LogosIcons {
     IconData(0xe0e9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `fabric` (duo-tone)
-  static const IconifyIconData fabric = IconifyIconData.duo(
+  /// `fabric` (paint-order duotone)
+  static const IconifyIconData fabric = IconifyIconData.duoPaintOrder(
     IconData(0xe0ea, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0ea, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `facebook` (duo-tone)
-  static const IconifyIconData facebook = IconifyIconData.duo(
+  /// `facebook` (paint-order duotone)
+  static const IconifyIconData facebook = IconifyIconData.duoPaintOrder(
     IconData(0xe64d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe64d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1525,8 +1525,8 @@ class LogosIcons {
     IconData(0xe0f1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `fetch` (duo-tone)
-  static const IconifyIconData fetch = IconifyIconData.duo(
+  /// `fetch` (paint-order duotone)
+  static const IconifyIconData fetch = IconifyIconData.duoPaintOrder(
     IconData(0xe0f2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0f2, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1546,20 +1546,20 @@ class LogosIcons {
     IconData(0xe0f5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `flexible-gs` (duo-tone)
-  static const IconifyIconData flexibleGs = IconifyIconData.duo(
+  /// `flexible-gs` (paint-order duotone)
+  static const IconifyIconData flexibleGs = IconifyIconData.duoPaintOrder(
     IconData(0xe0f6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0f6, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `flickr` (duo-tone)
-  static const IconifyIconData flickr = IconifyIconData.duo(
+  /// `flickr` (paint-order duotone)
+  static const IconifyIconData flickr = IconifyIconData.duoPaintOrder(
     IconData(0xe0f7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0f7, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `flickr-icon` (duo-tone)
-  static const IconifyIconData flickrIcon = IconifyIconData.duo(
+  /// `flickr-icon` (paint-order duotone)
+  static const IconifyIconData flickrIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe0f8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe0f8, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1604,14 +1604,14 @@ class LogosIcons {
     IconData(0xe101, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `font-awesome` (duo-tone)
-  static const IconifyIconData fontAwesome = IconifyIconData.duo(
+  /// `font-awesome` (paint-order duotone)
+  static const IconifyIconData fontAwesome = IconifyIconData.duoPaintOrder(
     IconData(0xe445, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe445, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `forestadmin-icon` (duo-tone)
-  static const IconifyIconData forestadminIcon = IconifyIconData.duo(
+  /// `forestadmin-icon` (paint-order duotone)
+  static const IconifyIconData forestadminIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe103, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe103, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1626,8 +1626,8 @@ class LogosIcons {
     IconData(0xe105, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `fortran` (duo-tone)
-  static const IconifyIconData fortran = IconifyIconData.duo(
+  /// `fortran` (paint-order duotone)
+  static const IconifyIconData fortran = IconifyIconData.duoPaintOrder(
     IconData(0xe106, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe106, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1642,8 +1642,8 @@ class LogosIcons {
     IconData(0xe109, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `framework7` (duo-tone)
-  static const IconifyIconData framework7 = IconifyIconData.duo(
+  /// `framework7` (paint-order duotone)
+  static const IconifyIconData framework7 = IconifyIconData.duoPaintOrder(
     IconData(0xe10a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe10a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1653,14 +1653,14 @@ class LogosIcons {
     IconData(0xe10b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `freedcamp` (duo-tone)
-  static const IconifyIconData freedcamp = IconifyIconData.duo(
+  /// `freedcamp` (paint-order duotone)
+  static const IconifyIconData freedcamp = IconifyIconData.duoPaintOrder(
     IconData(0xe449, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe449, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `fsharp` (duo-tone)
-  static const IconifyIconData fsharp = IconifyIconData.duo(
+  /// `fsharp` (paint-order duotone)
+  static const IconifyIconData fsharp = IconifyIconData.duoPaintOrder(
     IconData(0xe10d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe10d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1686,8 +1686,8 @@ class LogosIcons {
     IconData(0xe114, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `geetest` (duo-tone)
-  static const IconifyIconData geetest = IconifyIconData.duo(
+  /// `geetest` (paint-order duotone)
+  static const IconifyIconData geetest = IconifyIconData.duoPaintOrder(
     IconData(0xe115, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe115, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1697,8 +1697,8 @@ class LogosIcons {
     IconData(0xe116, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `get-satisfaction` (duo-tone)
-  static const IconifyIconData getSatisfaction = IconifyIconData.duo(
+  /// `get-satisfaction` (paint-order duotone)
+  static const IconifyIconData getSatisfaction = IconifyIconData.duoPaintOrder(
     IconData(0xe64e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe64e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1708,14 +1708,14 @@ class LogosIcons {
     IconData(0xe117, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `ghost` (duo-tone)
-  static const IconifyIconData ghost = IconifyIconData.duo(
+  /// `ghost` (paint-order duotone)
+  static const IconifyIconData ghost = IconifyIconData.duoPaintOrder(
     IconData(0xe44d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe44d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `git` (duo-tone)
-  static const IconifyIconData git = IconifyIconData.duo(
+  /// `git` (paint-order duotone)
+  static const IconifyIconData git = IconifyIconData.duoPaintOrder(
     IconData(0xe64f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe64f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1725,14 +1725,14 @@ class LogosIcons {
     IconData(0xe118, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `gitboard` (duo-tone)
-  static const IconifyIconData gitboard = IconifyIconData.duo(
+  /// `gitboard` (paint-order duotone)
+  static const IconifyIconData gitboard = IconifyIconData.duoPaintOrder(
     IconData(0xe650, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe650, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `github-actions` (duo-tone)
-  static const IconifyIconData githubActions = IconifyIconData.duo(
+  /// `github-actions` (paint-order duotone)
+  static const IconifyIconData githubActions = IconifyIconData.duoPaintOrder(
     IconData(0xe119, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe119, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1742,8 +1742,8 @@ class LogosIcons {
     IconData(0xe11a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `glimmerjs` (duo-tone)
-  static const IconifyIconData glimmerjs = IconifyIconData.duo(
+  /// `glimmerjs` (paint-order duotone)
+  static const IconifyIconData glimmerjs = IconifyIconData.duoPaintOrder(
     IconData(0xe651, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe651, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1799,20 +1799,20 @@ class LogosIcons {
     IconData(0xe121, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `google-analytics` (duo-tone)
-  static const IconifyIconData googleAnalytics = IconifyIconData.duo(
+  /// `google-analytics` (paint-order duotone)
+  static const IconifyIconData googleAnalytics = IconifyIconData.duoPaintOrder(
     IconData(0xe463, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe463, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `google-currents` (duo-tone)
-  static const IconifyIconData googleCurrents = IconifyIconData.duo(
+  /// `google-currents` (paint-order duotone)
+  static const IconifyIconData googleCurrents = IconifyIconData.duoPaintOrder(
     IconData(0xe468, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe468, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `google-data-studio` (duo-tone)
-  static const IconifyIconData googleDataStudio = IconifyIconData.duo(
+  /// `google-data-studio` (paint-order duotone)
+  static const IconifyIconData googleDataStudio = IconifyIconData.duoPaintOrder(
     IconData(0xe469, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe469, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1822,14 +1822,14 @@ class LogosIcons {
     IconData(0xe46f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `google-play-console-icon` (duo-tone)
-  static const IconifyIconData googlePlayConsoleIcon = IconifyIconData.duo(
+  /// `google-play-console-icon` (paint-order duotone)
+  static const IconifyIconData googlePlayConsoleIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe122, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe122, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `gordon` (duo-tone)
-  static const IconifyIconData gordon = IconifyIconData.duo(
+  /// `gordon` (paint-order duotone)
+  static const IconifyIconData gordon = IconifyIconData.duoPaintOrder(
     IconData(0xe124, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe124, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1839,8 +1839,8 @@ class LogosIcons {
     IconData(0xe125, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `grammarly-icon` (duo-tone)
-  static const IconifyIconData grammarlyIcon = IconifyIconData.duo(
+  /// `grammarly-icon` (paint-order duotone)
+  static const IconifyIconData grammarlyIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe127, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe127, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1905,8 +1905,8 @@ class LogosIcons {
     IconData(0xe131, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `gulp` (duo-tone)
-  static const IconifyIconData gulp = IconifyIconData.duo(
+  /// `gulp` (paint-order duotone)
+  static const IconifyIconData gulp = IconifyIconData.duoPaintOrder(
     IconData(0xe132, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe132, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1921,8 +1921,8 @@ class LogosIcons {
     IconData(0xe134, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `gwt` (duo-tone)
-  static const IconifyIconData gwt = IconifyIconData.duo(
+  /// `gwt` (paint-order duotone)
+  static const IconifyIconData gwt = IconifyIconData.duoPaintOrder(
     IconData(0xe652, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe652, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1932,14 +1932,14 @@ class LogosIcons {
     IconData(0xe135, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `haml` (duo-tone)
-  static const IconifyIconData haml = IconifyIconData.duo(
+  /// `haml` (paint-order duotone)
+  static const IconifyIconData haml = IconifyIconData.duoPaintOrder(
     IconData(0xe489, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe489, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `harness` (duo-tone)
-  static const IconifyIconData harness = IconifyIconData.duo(
+  /// `harness` (paint-order duotone)
+  static const IconifyIconData harness = IconifyIconData.duoPaintOrder(
     IconData(0xe48c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe48c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1969,8 +1969,8 @@ class LogosIcons {
     IconData(0xe6a6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `hasura` (duo-tone)
-  static const IconifyIconData hasura = IconifyIconData.duo(
+  /// `hasura` (paint-order duotone)
+  static const IconifyIconData hasura = IconifyIconData.duoPaintOrder(
     IconData(0xe490, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe490, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -1995,8 +1995,8 @@ class LogosIcons {
     IconData(0xe13d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `helpscout` (duo-tone)
-  static const IconifyIconData helpscout = IconifyIconData.duo(
+  /// `helpscout` (paint-order duotone)
+  static const IconifyIconData helpscout = IconifyIconData.duoPaintOrder(
     IconData(0xe13e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe13e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2012,32 +2012,32 @@ class LogosIcons {
     IconData(0xe140, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `heron` (duo-tone)
-  static const IconifyIconData heron = IconifyIconData.duo(
+  /// `heron` (paint-order duotone)
+  static const IconifyIconData heron = IconifyIconData.duoPaintOrder(
     IconData(0xe654, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe654, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `hexo` (duo-tone)
-  static const IconifyIconData hexo = IconifyIconData.duo(
+  /// `hexo` (paint-order duotone)
+  static const IconifyIconData hexo = IconifyIconData.duoPaintOrder(
     IconData(0xe141, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe141, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `hibernate` (duo-tone)
-  static const IconifyIconData hibernate = IconifyIconData.duo(
+  /// `hibernate` (paint-order duotone)
+  static const IconifyIconData hibernate = IconifyIconData.duoPaintOrder(
     IconData(0xe655, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe655, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `hipercard` (duo-tone)
-  static const IconifyIconData hipercard = IconifyIconData.duo(
+  /// `hipercard` (paint-order duotone)
+  static const IconifyIconData hipercard = IconifyIconData.duoPaintOrder(
     IconData(0xe656, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe656, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `hoa` (duo-tone)
-  static const IconifyIconData hoa = IconifyIconData.duo(
+  /// `hoa` (paint-order duotone)
+  static const IconifyIconData hoa = IconifyIconData.duoPaintOrder(
     IconData(0xe142, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe142, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2052,14 +2052,14 @@ class LogosIcons {
     IconData(0xe144, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `hootsuite` (duo-tone)
-  static const IconifyIconData hootsuite = IconifyIconData.duo(
+  /// `hootsuite` (paint-order duotone)
+  static const IconifyIconData hootsuite = IconifyIconData.duoPaintOrder(
     IconData(0xe145, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe145, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `hootsuite-icon` (duo-tone)
-  static const IconifyIconData hootsuiteIcon = IconifyIconData.duo(
+  /// `hootsuite-icon` (paint-order duotone)
+  static const IconifyIconData hootsuiteIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe146, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe146, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2069,8 +2069,8 @@ class LogosIcons {
     IconData(0xe147, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `hotjar` (duo-tone)
-  static const IconifyIconData hotjar = IconifyIconData.duo(
+  /// `hotjar` (paint-order duotone)
+  static const IconifyIconData hotjar = IconifyIconData.duoPaintOrder(
     IconData(0xe657, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe657, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2085,14 +2085,14 @@ class LogosIcons {
     IconData(0xe149, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `htmx` (duo-tone)
-  static const IconifyIconData htmx = IconifyIconData.duo(
+  /// `htmx` (paint-order duotone)
+  static const IconifyIconData htmx = IconifyIconData.duoPaintOrder(
     IconData(0xe49c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe49c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `htmx-icon` (duo-tone)
-  static const IconifyIconData htmxIcon = IconifyIconData.duo(
+  /// `htmx-icon` (paint-order duotone)
+  static const IconifyIconData htmxIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe49d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe49d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2107,8 +2107,8 @@ class LogosIcons {
     IconData(0xe14b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `hubspot` (duo-tone)
-  static const IconifyIconData hubspot = IconifyIconData.duo(
+  /// `hubspot` (paint-order duotone)
+  static const IconifyIconData hubspot = IconifyIconData.duoPaintOrder(
     IconData(0xe658, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe658, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2138,8 +2138,8 @@ class LogosIcons {
     IconData(0xe14f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `imba` (duo-tone)
-  static const IconifyIconData imba = IconifyIconData.duo(
+  /// `imba` (paint-order duotone)
+  static const IconifyIconData imba = IconifyIconData.duoPaintOrder(
     IconData(0xe659, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe659, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2159,8 +2159,8 @@ class LogosIcons {
     IconData(0xe152, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `immutable` (duo-tone)
-  static const IconifyIconData immutable = IconifyIconData.duo(
+  /// `immutable` (paint-order duotone)
+  static const IconifyIconData immutable = IconifyIconData.duoPaintOrder(
     IconData(0xe65a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe65a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2175,20 +2175,20 @@ class LogosIcons {
     IconData(0xe154, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `incident` (duo-tone)
-  static const IconifyIconData incident = IconifyIconData.duo(
+  /// `incident` (paint-order duotone)
+  static const IconifyIconData incident = IconifyIconData.duoPaintOrder(
     IconData(0xe65b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe65b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `infer` (duo-tone)
-  static const IconifyIconData infer = IconifyIconData.duo(
+  /// `infer` (paint-order duotone)
+  static const IconifyIconData infer = IconifyIconData.duoPaintOrder(
     IconData(0xe65c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe65c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `inferno` (duo-tone)
-  static const IconifyIconData inferno = IconifyIconData.duo(
+  /// `inferno` (paint-order duotone)
+  static const IconifyIconData inferno = IconifyIconData.duoPaintOrder(
     IconData(0xe65d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe65d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2228,20 +2228,20 @@ class LogosIcons {
     IconData(0xe15b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `invision` (duo-tone)
-  static const IconifyIconData invision = IconifyIconData.duo(
+  /// `invision` (paint-order duotone)
+  static const IconifyIconData invision = IconifyIconData.duoPaintOrder(
     IconData(0xe15c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe15c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `invision-icon` (duo-tone)
-  static const IconifyIconData invisionIcon = IconifyIconData.duo(
+  /// `invision-icon` (paint-order duotone)
+  static const IconifyIconData invisionIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe15d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe15d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `io` (duo-tone)
-  static const IconifyIconData io = IconifyIconData.duo(
+  /// `io` (paint-order duotone)
+  static const IconifyIconData io = IconifyIconData.duoPaintOrder(
     IconData(0xe65e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe65e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2251,32 +2251,32 @@ class LogosIcons {
     IconData(0xe15e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `iron` (duo-tone)
-  static const IconifyIconData iron = IconifyIconData.duo(
+  /// `iron` (paint-order duotone)
+  static const IconifyIconData iron = IconifyIconData.duoPaintOrder(
     IconData(0xe65f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe65f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `jade` (duo-tone)
-  static const IconifyIconData jade = IconifyIconData.duo(
+  /// `jade` (paint-order duotone)
+  static const IconifyIconData jade = IconifyIconData.duoPaintOrder(
     IconData(0xe15f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe15f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `jamstack` (duo-tone)
-  static const IconifyIconData jamstack = IconifyIconData.duo(
+  /// `jamstack` (paint-order duotone)
+  static const IconifyIconData jamstack = IconifyIconData.duoPaintOrder(
     IconData(0xe160, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe160, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `jamstack-icon` (duo-tone)
-  static const IconifyIconData jamstackIcon = IconifyIconData.duo(
+  /// `jamstack-icon` (paint-order duotone)
+  static const IconifyIconData jamstackIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe161, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe161, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `java` (duo-tone)
-  static const IconifyIconData java = IconifyIconData.duo(
+  /// `java` (paint-order duotone)
+  static const IconifyIconData java = IconifyIconData.duoPaintOrder(
     IconData(0xe660, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe660, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2286,8 +2286,8 @@ class LogosIcons {
     IconData(0xe162, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `jest` (duo-tone)
-  static const IconifyIconData jest = IconifyIconData.duo(
+  /// `jest` (paint-order duotone)
+  static const IconifyIconData jest = IconifyIconData.duoPaintOrder(
     IconData(0xe661, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe661, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2302,8 +2302,8 @@ class LogosIcons {
     IconData(0xe164, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `jhipster-icon` (duo-tone)
-  static const IconifyIconData jhipsterIcon = IconifyIconData.duo(
+  /// `jhipster-icon` (paint-order duotone)
+  static const IconifyIconData jhipsterIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe662, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe662, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2318,14 +2318,14 @@ class LogosIcons {
     IconData(0xe4b2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `jscs` (duo-tone)
-  static const IconifyIconData jscs = IconifyIconData.duo(
+  /// `jscs` (paint-order duotone)
+  static const IconifyIconData jscs = IconifyIconData.duoPaintOrder(
     IconData(0xe4b4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe4b4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `jsdom` (duo-tone)
-  static const IconifyIconData jsdom = IconifyIconData.duo(
+  /// `jsdom` (paint-order duotone)
+  static const IconifyIconData jsdom = IconifyIconData.duoPaintOrder(
     IconData(0xe4b5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe4b5, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2335,8 +2335,8 @@ class LogosIcons {
     IconData(0xe168, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `json-schema` (duo-tone)
-  static const IconifyIconData jsonSchema = IconifyIconData.duo(
+  /// `json-schema` (paint-order duotone)
+  static const IconifyIconData jsonSchema = IconifyIconData.duoPaintOrder(
     IconData(0xe4b7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe4b7, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2346,8 +2346,8 @@ class LogosIcons {
     IconData(0xe16a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `juju` (duo-tone)
-  static const IconifyIconData juju = IconifyIconData.duo(
+  /// `juju` (paint-order duotone)
+  static const IconifyIconData juju = IconifyIconData.duoPaintOrder(
     IconData(0xe663, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe663, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2367,8 +2367,8 @@ class LogosIcons {
     IconData(0xe16f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `karma` (duo-tone)
-  static const IconifyIconData karma = IconifyIconData.duo(
+  /// `karma` (paint-order duotone)
+  static const IconifyIconData karma = IconifyIconData.duoPaintOrder(
     IconData(0xe170, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe170, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2383,14 +2383,14 @@ class LogosIcons {
     IconData(0xe172, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `kde` (duo-tone)
-  static const IconifyIconData kde = IconifyIconData.duo(
+  /// `kde` (paint-order duotone)
+  static const IconifyIconData kde = IconifyIconData.duoPaintOrder(
     IconData(0xe173, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe173, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `keycdn` (duo-tone)
-  static const IconifyIconData keycdn = IconifyIconData.duo(
+  /// `keycdn` (paint-order duotone)
+  static const IconifyIconData keycdn = IconifyIconData.duoPaintOrder(
     IconData(0xe174, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe174, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2407,8 +2407,8 @@ class LogosIcons {
     IconData(0xe176, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `khan-academy-icon` (duo-tone)
-  static const IconifyIconData khanAcademyIcon = IconifyIconData.duo(
+  /// `khan-academy-icon` (paint-order duotone)
+  static const IconifyIconData khanAcademyIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe178, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe178, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2433,8 +2433,8 @@ class LogosIcons {
     IconData(0xe17c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `kitematic` (duo-tone)
-  static const IconifyIconData kitematic = IconifyIconData.duo(
+  /// `kitematic` (paint-order duotone)
+  static const IconifyIconData kitematic = IconifyIconData.duoPaintOrder(
     IconData(0xe664, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe664, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2449,14 +2449,14 @@ class LogosIcons {
     IconData(0xe17d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `krakenjs` (duo-tone)
-  static const IconifyIconData krakenjs = IconifyIconData.duo(
+  /// `krakenjs` (paint-order duotone)
+  static const IconifyIconData krakenjs = IconifyIconData.duoPaintOrder(
     IconData(0xe180, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe180, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `kubernetes` (duo-tone)
-  static const IconifyIconData kubernetes = IconifyIconData.duo(
+  /// `kubernetes` (paint-order duotone)
+  static const IconifyIconData kubernetes = IconifyIconData.duoPaintOrder(
     IconData(0xe181, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe181, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2496,8 +2496,8 @@ class LogosIcons {
     IconData(0xe188, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `leankit-icon` (duo-tone)
-  static const IconifyIconData leankitIcon = IconifyIconData.duo(
+  /// `leankit-icon` (paint-order duotone)
+  static const IconifyIconData leankitIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe189, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe189, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2512,8 +2512,8 @@ class LogosIcons {
     IconData(0xe4ca, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `letsencrypt` (duo-tone)
-  static const IconifyIconData letsencrypt = IconifyIconData.duo(
+  /// `letsencrypt` (paint-order duotone)
+  static const IconifyIconData letsencrypt = IconifyIconData.duoPaintOrder(
     IconData(0xe18b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe18b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2539,14 +2539,14 @@ class LogosIcons {
     IconData(0xe18f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `lightstep` (duo-tone)
-  static const IconifyIconData lightstep = IconifyIconData.duo(
+  /// `lightstep` (paint-order duotone)
+  static const IconifyIconData lightstep = IconifyIconData.duoPaintOrder(
     IconData(0xe190, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe190, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `lightstep-icon` (duo-tone)
-  static const IconifyIconData lightstepIcon = IconifyIconData.duo(
+  /// `lightstep-icon` (paint-order duotone)
+  static const IconifyIconData lightstepIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe191, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe191, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2576,8 +2576,8 @@ class LogosIcons {
     IconData(0xe196, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `lodash` (duo-tone)
-  static const IconifyIconData lodash = IconifyIconData.duo(
+  /// `lodash` (paint-order duotone)
+  static const IconifyIconData lodash = IconifyIconData.duoPaintOrder(
     IconData(0xe4d1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe4d1, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2587,8 +2587,8 @@ class LogosIcons {
     IconData(0xe197, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `logmatic` (duo-tone)
-  static const IconifyIconData logmatic = IconifyIconData.duo(
+  /// `logmatic` (paint-order duotone)
+  static const IconifyIconData logmatic = IconifyIconData.duoPaintOrder(
     IconData(0xe665, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe665, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2598,8 +2598,8 @@ class LogosIcons {
     IconData(0xe198, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `loom` (duo-tone)
-  static const IconifyIconData loom = IconifyIconData.duo(
+  /// `loom` (paint-order duotone)
+  static const IconifyIconData loom = IconifyIconData.duoPaintOrder(
     IconData(0xe199, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe199, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2609,8 +2609,8 @@ class LogosIcons {
     IconData(0xe19a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `loopback` (duo-tone)
-  static const IconifyIconData loopback = IconifyIconData.duo(
+  /// `loopback` (paint-order duotone)
+  static const IconifyIconData loopback = IconifyIconData.duoPaintOrder(
     IconData(0xe19b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe19b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2620,8 +2620,8 @@ class LogosIcons {
     IconData(0xe19c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `losant` (duo-tone)
-  static const IconifyIconData losant = IconifyIconData.duo(
+  /// `losant` (paint-order duotone)
+  static const IconifyIconData losant = IconifyIconData.duoPaintOrder(
     IconData(0xe19d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe19d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2651,20 +2651,20 @@ class LogosIcons {
     IconData(0xe4d8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mageia` (duo-tone)
-  static const IconifyIconData mageia = IconifyIconData.duo(
+  /// `mageia` (paint-order duotone)
+  static const IconifyIconData mageia = IconifyIconData.duoPaintOrder(
     IconData(0xe1a2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1a2, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mailchimp` (duo-tone)
-  static const IconifyIconData mailchimp = IconifyIconData.duo(
+  /// `mailchimp` (paint-order duotone)
+  static const IconifyIconData mailchimp = IconifyIconData.duoPaintOrder(
     IconData(0xe1a3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1a3, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mailgun` (duo-tone)
-  static const IconifyIconData mailgun = IconifyIconData.duo(
+  /// `mailgun` (paint-order duotone)
+  static const IconifyIconData mailgun = IconifyIconData.duoPaintOrder(
     IconData(0xe1a4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1a4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2674,14 +2674,14 @@ class LogosIcons {
     IconData(0xe1a5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mailjet` (duo-tone)
-  static const IconifyIconData mailjet = IconifyIconData.duo(
+  /// `mailjet` (paint-order duotone)
+  static const IconifyIconData mailjet = IconifyIconData.duoPaintOrder(
     IconData(0xe4da, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe4da, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `malinajs` (duo-tone)
-  static const IconifyIconData malinajs = IconifyIconData.duo(
+  /// `malinajs` (paint-order duotone)
+  static const IconifyIconData malinajs = IconifyIconData.duoPaintOrder(
     IconData(0xe1a6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1a6, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2691,20 +2691,20 @@ class LogosIcons {
     IconData(0xe1a7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mantine-icon` (duo-tone)
-  static const IconifyIconData mantineIcon = IconifyIconData.duo(
+  /// `mantine-icon` (paint-order duotone)
+  static const IconifyIconData mantineIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe1a9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1a9, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `maps-me` (duo-tone)
-  static const IconifyIconData mapsMe = IconifyIconData.duo(
+  /// `maps-me` (paint-order duotone)
+  static const IconifyIconData mapsMe = IconifyIconData.duoPaintOrder(
     IconData(0xe1aa, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1aa, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mariadb-icon` (duo-tone)
-  static const IconifyIconData mariadbIcon = IconifyIconData.duo(
+  /// `mariadb-icon` (paint-order duotone)
+  static const IconifyIconData mariadbIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe1ab, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1ab, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2719,14 +2719,14 @@ class LogosIcons {
     IconData(0xe1ad, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mastodon` (duo-tone)
-  static const IconifyIconData mastodon = IconifyIconData.duo(
+  /// `mastodon` (paint-order duotone)
+  static const IconifyIconData mastodon = IconifyIconData.duoPaintOrder(
     IconData(0xe666, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe666, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mastodon-icon` (duo-tone)
-  static const IconifyIconData mastodonIcon = IconifyIconData.duo(
+  /// `mastodon-icon` (paint-order duotone)
+  static const IconifyIconData mastodonIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe667, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe667, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2756,20 +2756,20 @@ class LogosIcons {
     IconData(0xe1b3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mautic` (duo-tone)
-  static const IconifyIconData mautic = IconifyIconData.duo(
+  /// `mautic` (paint-order duotone)
+  static const IconifyIconData mautic = IconifyIconData.duoPaintOrder(
     IconData(0xe668, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe668, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mautic-icon` (duo-tone)
-  static const IconifyIconData mauticIcon = IconifyIconData.duo(
+  /// `mautic-icon` (paint-order duotone)
+  static const IconifyIconData mauticIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe669, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe669, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `maxcdn` (duo-tone)
-  static const IconifyIconData maxcdn = IconifyIconData.duo(
+  /// `maxcdn` (paint-order duotone)
+  static const IconifyIconData maxcdn = IconifyIconData.duoPaintOrder(
     IconData(0xe1b4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1b4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2795,20 +2795,20 @@ class LogosIcons {
     IconData(0xe1b9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mention` (duo-tone)
-  static const IconifyIconData mention = IconifyIconData.duo(
+  /// `mention` (paint-order duotone)
+  static const IconifyIconData mention = IconifyIconData.duoPaintOrder(
     IconData(0xe66a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe66a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mern` (duo-tone)
-  static const IconifyIconData mern = IconifyIconData.duo(
+  /// `mern` (paint-order duotone)
+  static const IconifyIconData mern = IconifyIconData.duoPaintOrder(
     IconData(0xe4ea, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe4ea, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mesos` (duo-tone)
-  static const IconifyIconData mesos = IconifyIconData.duo(
+  /// `mesos` (paint-order duotone)
+  static const IconifyIconData mesos = IconifyIconData.duoPaintOrder(
     IconData(0xe1ba, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1ba, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2819,8 +2819,8 @@ class LogosIcons {
     IconData(0xe1bb, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `meteor` (duo-tone)
-  static const IconifyIconData meteor = IconifyIconData.duo(
+  /// `meteor` (paint-order duotone)
+  static const IconifyIconData meteor = IconifyIconData.duoPaintOrder(
     IconData(0xe4ef, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe4ef, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2845,8 +2845,8 @@ class LogosIcons {
     IconData(0xe1bf, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `microcosm` (duo-tone)
-  static const IconifyIconData microcosm = IconifyIconData.duo(
+  /// `microcosm` (paint-order duotone)
+  static const IconifyIconData microcosm = IconifyIconData.duoPaintOrder(
     IconData(0xe4f0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe4f0, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2917,14 +2917,14 @@ class LogosIcons {
     IconData(0xe1cd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mixmax` (duo-tone)
-  static const IconifyIconData mixmax = IconifyIconData.duo(
+  /// `mixmax` (paint-order duotone)
+  static const IconifyIconData mixmax = IconifyIconData.duoPaintOrder(
     IconData(0xe4fe, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe4fe, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mocha` (duo-tone)
-  static const IconifyIconData mocha = IconifyIconData.duo(
+  /// `mocha` (paint-order duotone)
+  static const IconifyIconData mocha = IconifyIconData.duoPaintOrder(
     IconData(0xe66b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe66b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2944,20 +2944,20 @@ class LogosIcons {
     IconData(0xe1d0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `momentjs` (duo-tone)
-  static const IconifyIconData momentjs = IconifyIconData.duo(
+  /// `momentjs` (paint-order duotone)
+  static const IconifyIconData momentjs = IconifyIconData.duoPaintOrder(
     IconData(0xe66c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe66c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `monero` (duo-tone)
-  static const IconifyIconData monero = IconifyIconData.duo(
+  /// `monero` (paint-order duotone)
+  static const IconifyIconData monero = IconifyIconData.duoPaintOrder(
     IconData(0xe1d3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1d3, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mongodb` (duo-tone)
-  static const IconifyIconData mongodb = IconifyIconData.duo(
+  /// `mongodb` (paint-order duotone)
+  static const IconifyIconData mongodb = IconifyIconData.duoPaintOrder(
     IconData(0xe1d4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1d4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -2977,20 +2977,20 @@ class LogosIcons {
     IconData(0xe1d7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mootools` (duo-tone)
-  static const IconifyIconData mootools = IconifyIconData.duo(
+  /// `mootools` (paint-order duotone)
+  static const IconifyIconData mootools = IconifyIconData.duoPaintOrder(
     IconData(0xe66d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe66d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `morpheus` (duo-tone)
-  static const IconifyIconData morpheus = IconifyIconData.duo(
+  /// `morpheus` (paint-order duotone)
+  static const IconifyIconData morpheus = IconifyIconData.duoPaintOrder(
     IconData(0xe66e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe66e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `morpheus-icon` (duo-tone)
-  static const IconifyIconData morpheusIcon = IconifyIconData.duo(
+  /// `morpheus-icon` (paint-order duotone)
+  static const IconifyIconData morpheusIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe66f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe66f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3010,20 +3010,20 @@ class LogosIcons {
     IconData(0xe1da, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `msw-icon` (duo-tone)
-  static const IconifyIconData mswIcon = IconifyIconData.duo(
+  /// `msw-icon` (paint-order duotone)
+  static const IconifyIconData mswIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe670, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe670, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `multipass` (duo-tone)
-  static const IconifyIconData multipass = IconifyIconData.duo(
+  /// `multipass` (paint-order duotone)
+  static const IconifyIconData multipass = IconifyIconData.duoPaintOrder(
     IconData(0xe671, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe671, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `mysql` (duo-tone)
-  static const IconifyIconData mysql = IconifyIconData.duo(
+  /// `mysql` (paint-order duotone)
+  static const IconifyIconData mysql = IconifyIconData.duoPaintOrder(
     IconData(0xe50b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe50b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3043,8 +3043,8 @@ class LogosIcons {
     IconData(0xe1dd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `nasm` (duo-tone)
-  static const IconifyIconData nasm = IconifyIconData.duo(
+  /// `nasm` (paint-order duotone)
+  static const IconifyIconData nasm = IconifyIconData.duoPaintOrder(
     IconData(0xe1de, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1de, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3059,8 +3059,8 @@ class LogosIcons {
     IconData(0xe1e2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `neonmetrics` (duo-tone)
-  static const IconifyIconData neonmetrics = IconifyIconData.duo(
+  /// `neonmetrics` (paint-order duotone)
+  static const IconifyIconData neonmetrics = IconifyIconData.duoPaintOrder(
     IconData(0xe672, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe672, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3075,14 +3075,14 @@ class LogosIcons {
     IconData(0xe1e4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `netlify` (duo-tone)
-  static const IconifyIconData netlify = IconifyIconData.duo(
+  /// `netlify` (paint-order duotone)
+  static const IconifyIconData netlify = IconifyIconData.duoPaintOrder(
     IconData(0xe513, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe513, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `netlify-icon` (duo-tone)
-  static const IconifyIconData netlifyIcon = IconifyIconData.duo(
+  /// `netlify-icon` (paint-order duotone)
+  static const IconifyIconData netlifyIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe514, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe514, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3097,8 +3097,8 @@ class LogosIcons {
     IconData(0xe1e8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `nginx` (duo-tone)
-  static const IconifyIconData nginx = IconifyIconData.duo(
+  /// `nginx` (paint-order duotone)
+  static const IconifyIconData nginx = IconifyIconData.duoPaintOrder(
     IconData(0xe673, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe673, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3108,8 +3108,8 @@ class LogosIcons {
     IconData(0xe1e9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `nhost` (duo-tone)
-  static const IconifyIconData nhost = IconifyIconData.duo(
+  /// `nhost` (paint-order duotone)
+  static const IconifyIconData nhost = IconifyIconData.duoPaintOrder(
     IconData(0xe674, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe674, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3119,14 +3119,14 @@ class LogosIcons {
     IconData(0xe1ea, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `nocodb` (duo-tone)
-  static const IconifyIconData nocodb = IconifyIconData.duo(
+  /// `nocodb` (paint-order duotone)
+  static const IconifyIconData nocodb = IconifyIconData.duoPaintOrder(
     IconData(0xe518, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe518, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `nodebots` (duo-tone)
-  static const IconifyIconData nodebots = IconifyIconData.duo(
+  /// `nodebots` (paint-order duotone)
+  static const IconifyIconData nodebots = IconifyIconData.duoPaintOrder(
     IconData(0xe1ed, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1ed, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3136,14 +3136,14 @@ class LogosIcons {
     IconData(0xe51a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `nodemon` (duo-tone)
-  static const IconifyIconData nodemon = IconifyIconData.duo(
+  /// `nodemon` (paint-order duotone)
+  static const IconifyIconData nodemon = IconifyIconData.duoPaintOrder(
     IconData(0xe1ef, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1ef, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `nodeos` (duo-tone)
-  static const IconifyIconData nodeos = IconifyIconData.duo(
+  /// `nodeos` (paint-order duotone)
+  static const IconifyIconData nodeos = IconifyIconData.duoPaintOrder(
     IconData(0xe1f0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1f0, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3173,20 +3173,20 @@ class LogosIcons {
     IconData(0xe1f6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `noysi` (duo-tone)
-  static const IconifyIconData noysi = IconifyIconData.duo(
+  /// `noysi` (paint-order duotone)
+  static const IconifyIconData noysi = IconifyIconData.duoPaintOrder(
     IconData(0xe1f7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1f7, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `npm-icon` (duo-tone)
-  static const IconifyIconData npmIcon = IconifyIconData.duo(
+  /// `npm-icon` (paint-order duotone)
+  static const IconifyIconData npmIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe675, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe675, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `numpy` (duo-tone)
-  static const IconifyIconData numpy = IconifyIconData.duo(
+  /// `numpy` (paint-order duotone)
+  static const IconifyIconData numpy = IconifyIconData.duoPaintOrder(
     IconData(0xe1f9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1f9, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3261,8 +3261,8 @@ class LogosIcons {
     IconData(0xe206, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `opencollective` (duo-tone)
-  static const IconifyIconData opencollective = IconifyIconData.duo(
+  /// `opencollective` (paint-order duotone)
+  static const IconifyIconData opencollective = IconifyIconData.duoPaintOrder(
     IconData(0xe207, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe207, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3277,26 +3277,26 @@ class LogosIcons {
     IconData(0xe52b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `opensearch` (duo-tone)
-  static const IconifyIconData opensearch = IconifyIconData.duo(
+  /// `opensearch` (paint-order duotone)
+  static const IconifyIconData opensearch = IconifyIconData.duoPaintOrder(
     IconData(0xe209, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe209, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `opensearch-icon` (duo-tone)
-  static const IconifyIconData opensearchIcon = IconifyIconData.duo(
+  /// `opensearch-icon` (paint-order duotone)
+  static const IconifyIconData opensearchIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe20a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe20a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `opensource` (duo-tone)
-  static const IconifyIconData opensource = IconifyIconData.duo(
+  /// `opensource` (paint-order duotone)
+  static const IconifyIconData opensource = IconifyIconData.duoPaintOrder(
     IconData(0xe20b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe20b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `openstack` (duo-tone)
-  static const IconifyIconData openstack = IconifyIconData.duo(
+  /// `openstack` (paint-order duotone)
+  static const IconifyIconData openstack = IconifyIconData.duoPaintOrder(
     IconData(0xe20c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe20c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3306,14 +3306,14 @@ class LogosIcons {
     IconData(0xe20d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `opentelemetry` (duo-tone)
-  static const IconifyIconData opentelemetry = IconifyIconData.duo(
+  /// `opentelemetry` (paint-order duotone)
+  static const IconifyIconData opentelemetry = IconifyIconData.duoPaintOrder(
     IconData(0xe20e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe20e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `opentelemetry-icon` (duo-tone)
-  static const IconifyIconData opentelemetryIcon = IconifyIconData.duo(
+  /// `opentelemetry-icon` (paint-order duotone)
+  static const IconifyIconData opentelemetryIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe20f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe20f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3323,8 +3323,8 @@ class LogosIcons {
     IconData(0xe210, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `oreilly` (duo-tone)
-  static const IconifyIconData oreilly = IconifyIconData.duo(
+  /// `oreilly` (paint-order duotone)
+  static const IconifyIconData oreilly = IconifyIconData.duoPaintOrder(
     IconData(0xe531, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe531, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3344,8 +3344,8 @@ class LogosIcons {
     IconData(0xe213, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `packer` (duo-tone)
-  static const IconifyIconData packer = IconifyIconData.duo(
+  /// `packer` (paint-order duotone)
+  static const IconifyIconData packer = IconifyIconData.duoPaintOrder(
     IconData(0xe214, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe214, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3375,8 +3375,8 @@ class LogosIcons {
     IconData(0xe21a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `parsehub` (duo-tone)
-  static const IconifyIconData parsehub = IconifyIconData.duo(
+  /// `parsehub` (paint-order duotone)
+  static const IconifyIconData parsehub = IconifyIconData.duoPaintOrder(
     IconData(0xe53b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe53b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3411,8 +3411,8 @@ class LogosIcons {
     IconData(0xe21f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `perplexity` (duo-tone)
-  static const IconifyIconData perplexity = IconifyIconData.duo(
+  /// `perplexity` (paint-order duotone)
+  static const IconifyIconData perplexity = IconifyIconData.duoPaintOrder(
     IconData(0xe676, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe676, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3462,14 +3462,14 @@ class LogosIcons {
     IconData(0xe229, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `pivotal-tracker` (duo-tone)
-  static const IconifyIconData pivotalTracker = IconifyIconData.duo(
+  /// `pivotal-tracker` (paint-order duotone)
+  static const IconifyIconData pivotalTracker = IconifyIconData.duoPaintOrder(
     IconData(0xe549, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe549, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `pixelapse` (duo-tone)
-  static const IconifyIconData pixelapse = IconifyIconData.duo(
+  /// `pixelapse` (paint-order duotone)
+  static const IconifyIconData pixelapse = IconifyIconData.duoPaintOrder(
     IconData(0xe22b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe22b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3484,44 +3484,44 @@ class LogosIcons {
     IconData(0xe22d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `planless` (duo-tone)
-  static const IconifyIconData planless = IconifyIconData.duo(
+  /// `planless` (paint-order duotone)
+  static const IconifyIconData planless = IconifyIconData.duoPaintOrder(
     IconData(0xe54a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe54a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `play` (duo-tone)
-  static const IconifyIconData play = IconifyIconData.duo(
+  /// `play` (paint-order duotone)
+  static const IconifyIconData play = IconifyIconData.duoPaintOrder(
     IconData(0xe54c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe54c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `pnpm` (duo-tone)
-  static const IconifyIconData pnpm = IconifyIconData.duo(
+  /// `pnpm` (paint-order duotone)
+  static const IconifyIconData pnpm = IconifyIconData.duoPaintOrder(
     IconData(0xe551, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe551, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `pocket-base` (duo-tone)
-  static const IconifyIconData pocketBase = IconifyIconData.duo(
+  /// `pocket-base` (paint-order duotone)
+  static const IconifyIconData pocketBase = IconifyIconData.duoPaintOrder(
     IconData(0xe552, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe552, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `postman` (duo-tone)
-  static const IconifyIconData postman = IconifyIconData.duo(
+  /// `postman` (paint-order duotone)
+  static const IconifyIconData postman = IconifyIconData.duoPaintOrder(
     IconData(0xe231, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe231, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `postman-icon` (duo-tone)
-  static const IconifyIconData postmanIcon = IconifyIconData.duo(
+  /// `postman-icon` (paint-order duotone)
+  static const IconifyIconData postmanIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe232, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe232, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `preact` (duo-tone)
-  static const IconifyIconData preact = IconifyIconData.duo(
+  /// `preact` (paint-order duotone)
+  static const IconifyIconData preact = IconifyIconData.duoPaintOrder(
     IconData(0xe234, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe234, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3571,8 +3571,8 @@ class LogosIcons {
     IconData(0xe23f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `promises` (duo-tone)
-  static const IconifyIconData promises = IconifyIconData.duo(
+  /// `promises` (paint-order duotone)
+  static const IconifyIconData promises = IconifyIconData.duoPaintOrder(
     IconData(0xe55b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe55b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3583,8 +3583,8 @@ class LogosIcons {
     IconData(0xe240, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `prospect` (duo-tone)
-  static const IconifyIconData prospect = IconifyIconData.duo(
+  /// `prospect` (paint-order duotone)
+  static const IconifyIconData prospect = IconifyIconData.duoPaintOrder(
     IconData(0xe241, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe241, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3629,8 +3629,8 @@ class LogosIcons {
     IconData(0xe24b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `pwa` (duo-tone)
-  static const IconifyIconData pwa = IconifyIconData.duo(
+  /// `pwa` (paint-order duotone)
+  static const IconifyIconData pwa = IconifyIconData.duoPaintOrder(
     IconData(0xe24c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe24c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3650,20 +3650,20 @@ class LogosIcons {
     IconData(0xe24f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `qlik` (duo-tone)
-  static const IconifyIconData qlik = IconifyIconData.duo(
+  /// `qlik` (paint-order duotone)
+  static const IconifyIconData qlik = IconifyIconData.duoPaintOrder(
     IconData(0xe677, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe677, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `qt` (duo-tone)
-  static const IconifyIconData qt = IconifyIconData.duo(
+  /// `qt` (paint-order duotone)
+  static const IconifyIconData qt = IconifyIconData.duoPaintOrder(
     IconData(0xe251, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe251, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `quay` (duo-tone)
-  static const IconifyIconData quay = IconifyIconData.duo(
+  /// `quay` (paint-order duotone)
+  static const IconifyIconData quay = IconifyIconData.duoPaintOrder(
     IconData(0xe678, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe678, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3673,20 +3673,20 @@ class LogosIcons {
     IconData(0xe252, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `qwen` (duo-tone)
-  static const IconifyIconData qwen = IconifyIconData.duo(
+  /// `qwen` (paint-order duotone)
+  static const IconifyIconData qwen = IconifyIconData.duoPaintOrder(
     IconData(0xe253, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe253, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `qwen-icon` (duo-tone)
-  static const IconifyIconData qwenIcon = IconifyIconData.duo(
+  /// `qwen-icon` (paint-order duotone)
+  static const IconifyIconData qwenIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe254, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe254, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rabbitmq` (duo-tone)
-  static const IconifyIconData rabbitmq = IconifyIconData.duo(
+  /// `rabbitmq` (paint-order duotone)
+  static const IconifyIconData rabbitmq = IconifyIconData.duoPaintOrder(
     IconData(0xe257, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe257, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3701,8 +3701,8 @@ class LogosIcons {
     IconData(0xe259, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rackspace-icon` (duo-tone)
-  static const IconifyIconData rackspaceIcon = IconifyIconData.duo(
+  /// `rackspace-icon` (paint-order duotone)
+  static const IconifyIconData rackspaceIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe25a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe25a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3732,20 +3732,20 @@ class LogosIcons {
     IconData(0xe260, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `reapp` (duo-tone)
-  static const IconifyIconData reapp = IconifyIconData.duo(
+  /// `reapp` (paint-order duotone)
+  static const IconifyIconData reapp = IconifyIconData.duoPaintOrder(
     IconData(0xe56c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe56c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `reasonml-icon` (duo-tone)
-  static const IconifyIconData reasonmlIcon = IconifyIconData.duo(
+  /// `reasonml-icon` (paint-order duotone)
+  static const IconifyIconData reasonmlIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe262, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe262, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `reddit-icon` (duo-tone)
-  static const IconifyIconData redditIcon = IconifyIconData.duo(
+  /// `reddit-icon` (paint-order duotone)
+  static const IconifyIconData redditIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe56f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe56f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3770,20 +3770,20 @@ class LogosIcons {
     IconData(0xe266, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `redux-saga` (duo-tone)
-  static const IconifyIconData reduxSaga = IconifyIconData.duo(
+  /// `redux-saga` (paint-order duotone)
+  static const IconifyIconData reduxSaga = IconifyIconData.duoPaintOrder(
     IconData(0xe267, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe267, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `redwoodjs` (duo-tone)
-  static const IconifyIconData redwoodjs = IconifyIconData.duo(
+  /// `redwoodjs` (paint-order duotone)
+  static const IconifyIconData redwoodjs = IconifyIconData.duoPaintOrder(
     IconData(0xe572, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe572, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `reindex` (duo-tone)
-  static const IconifyIconData reindex = IconifyIconData.duo(
+  /// `reindex` (paint-order duotone)
+  static const IconifyIconData reindex = IconifyIconData.duoPaintOrder(
     IconData(0xe269, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe269, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3818,14 +3818,14 @@ class LogosIcons {
     IconData(0xe271, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `riak` (duo-tone)
-  static const IconifyIconData riak = IconifyIconData.duo(
+  /// `riak` (paint-order duotone)
+  static const IconifyIconData riak = IconifyIconData.duoPaintOrder(
     IconData(0xe575, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe575, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rkt` (duo-tone)
-  static const IconifyIconData rkt = IconifyIconData.duo(
+  /// `rkt` (paint-order duotone)
+  static const IconifyIconData rkt = IconifyIconData.duoPaintOrder(
     IconData(0xe578, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe578, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3840,8 +3840,8 @@ class LogosIcons {
     IconData(0xe274, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rollbar` (duo-tone)
-  static const IconifyIconData rollbar = IconifyIconData.duo(
+  /// `rollbar` (paint-order duotone)
+  static const IconifyIconData rollbar = IconifyIconData.duoPaintOrder(
     IconData(0xe275, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe275, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3851,32 +3851,32 @@ class LogosIcons {
     IconData(0xe276, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rome` (duo-tone)
-  static const IconifyIconData rome = IconifyIconData.duo(
+  /// `rome` (paint-order duotone)
+  static const IconifyIconData rome = IconifyIconData.duoPaintOrder(
     IconData(0xe679, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe679, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rome-icon` (duo-tone)
-  static const IconifyIconData romeIcon = IconifyIconData.duo(
+  /// `rome-icon` (paint-order duotone)
+  static const IconifyIconData romeIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe67a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe67a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rsa` (duo-tone)
-  static const IconifyIconData rsa = IconifyIconData.duo(
+  /// `rsa` (paint-order duotone)
+  static const IconifyIconData rsa = IconifyIconData.duoPaintOrder(
     IconData(0xe67b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe67b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rsmq` (duo-tone)
-  static const IconifyIconData rsmq = IconifyIconData.duo(
+  /// `rsmq` (paint-order duotone)
+  static const IconifyIconData rsmq = IconifyIconData.duoPaintOrder(
     IconData(0xe67c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe67c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rubocop` (duo-tone)
-  static const IconifyIconData rubocop = IconifyIconData.duo(
+  /// `rubocop` (paint-order duotone)
+  static const IconifyIconData rubocop = IconifyIconData.duoPaintOrder(
     IconData(0xe57f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe57f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3886,14 +3886,14 @@ class LogosIcons {
     IconData(0xe277, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `runscope` (duo-tone)
-  static const IconifyIconData runscope = IconifyIconData.duo(
+  /// `runscope` (paint-order duotone)
+  static const IconifyIconData runscope = IconifyIconData.duoPaintOrder(
     IconData(0xe585, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe585, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `rush` (duo-tone)
-  static const IconifyIconData rush = IconifyIconData.duo(
+  /// `rush` (paint-order duotone)
+  static const IconifyIconData rush = IconifyIconData.duoPaintOrder(
     IconData(0xe67d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe67d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3918,8 +3918,8 @@ class LogosIcons {
     IconData(0xe27b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `salesforce` (duo-tone)
-  static const IconifyIconData salesforce = IconifyIconData.duo(
+  /// `salesforce` (paint-order duotone)
+  static const IconifyIconData salesforce = IconifyIconData.duoPaintOrder(
     IconData(0xe27c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe27c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3934,8 +3934,8 @@ class LogosIcons {
     IconData(0xe27e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sass-doc` (duo-tone)
-  static const IconifyIconData sassDoc = IconifyIconData.duo(
+  /// `sass-doc` (paint-order duotone)
+  static const IconifyIconData sassDoc = IconifyIconData.duoPaintOrder(
     IconData(0xe67e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe67e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3945,14 +3945,14 @@ class LogosIcons {
     IconData(0xe27f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `scribd` (duo-tone)
-  static const IconifyIconData scribd = IconifyIconData.duo(
+  /// `scribd` (paint-order duotone)
+  static const IconifyIconData scribd = IconifyIconData.duoPaintOrder(
     IconData(0xe58a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe58a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `section-icon` (duo-tone)
-  static const IconifyIconData sectionIcon = IconifyIconData.duo(
+  /// `section-icon` (paint-order duotone)
+  static const IconifyIconData sectionIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe58e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe58e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3972,14 +3972,14 @@ class LogosIcons {
     IconData(0xe282, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `semantic-ui` (duo-tone)
-  static const IconifyIconData semanticUi = IconifyIconData.duo(
+  /// `semantic-ui` (paint-order duotone)
+  static const IconifyIconData semanticUi = IconifyIconData.duoPaintOrder(
     IconData(0xe283, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe283, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `semaphoreci` (duo-tone)
-  static const IconifyIconData semaphoreci = IconifyIconData.duo(
+  /// `semaphoreci` (paint-order duotone)
+  static const IconifyIconData semaphoreci = IconifyIconData.duoPaintOrder(
     IconData(0xe67f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe67f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -3989,8 +3989,8 @@ class LogosIcons {
     IconData(0xe285, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sensu` (duo-tone)
-  static const IconifyIconData sensu = IconifyIconData.duo(
+  /// `sensu` (paint-order duotone)
+  static const IconifyIconData sensu = IconifyIconData.duoPaintOrder(
     IconData(0xe286, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe286, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4020,8 +4020,8 @@ class LogosIcons {
     IconData(0xe28b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sherlock-icon` (duo-tone)
-  static const IconifyIconData sherlockIcon = IconifyIconData.duo(
+  /// `sherlock-icon` (paint-order duotone)
+  static const IconifyIconData sherlockIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe595, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe595, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4036,8 +4036,8 @@ class LogosIcons {
     IconData(0xe28d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `shortcut` (duo-tone)
-  static const IconifyIconData shortcut = IconifyIconData.duo(
+  /// `shortcut` (paint-order duotone)
+  static const IconifyIconData shortcut = IconifyIconData.duoPaintOrder(
     IconData(0xe599, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe599, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4057,32 +4057,32 @@ class LogosIcons {
     IconData(0xe290, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sitepoint` (duo-tone)
-  static const IconifyIconData sitepoint = IconifyIconData.duo(
+  /// `sitepoint` (paint-order duotone)
+  static const IconifyIconData sitepoint = IconifyIconData.duoPaintOrder(
     IconData(0xe680, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe680, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sk-hynix` (duo-tone)
-  static const IconifyIconData skHynix = IconifyIconData.duo(
+  /// `sk-hynix` (paint-order duotone)
+  static const IconifyIconData skHynix = IconifyIconData.duoPaintOrder(
     IconData(0xe681, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe681, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `skaffolder` (duo-tone)
-  static const IconifyIconData skaffolder = IconifyIconData.duo(
+  /// `skaffolder` (paint-order duotone)
+  static const IconifyIconData skaffolder = IconifyIconData.duoPaintOrder(
     IconData(0xe291, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe291, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sketchapp` (duo-tone)
-  static const IconifyIconData sketchapp = IconifyIconData.duo(
+  /// `sketchapp` (paint-order duotone)
+  static const IconifyIconData sketchapp = IconifyIconData.duoPaintOrder(
     IconData(0xe293, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe293, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `slim` (duo-tone)
-  static const IconifyIconData slim = IconifyIconData.duo(
+  /// `slim` (paint-order duotone)
+  static const IconifyIconData slim = IconifyIconData.duoPaintOrder(
     IconData(0xe682, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe682, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4102,14 +4102,14 @@ class LogosIcons {
     IconData(0xe296, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `socket-io` (duo-tone)
-  static const IconifyIconData socketIo = IconifyIconData.duo(
+  /// `socket-io` (paint-order duotone)
+  static const IconifyIconData socketIo = IconifyIconData.duoPaintOrder(
     IconData(0xe683, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe683, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `solarwinds` (duo-tone)
-  static const IconifyIconData solarwinds = IconifyIconData.duo(
+  /// `solarwinds` (paint-order duotone)
+  static const IconifyIconData solarwinds = IconifyIconData.duoPaintOrder(
     IconData(0xe297, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe297, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4125,20 +4125,20 @@ class LogosIcons {
     IconData(0xe299, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `solr` (duo-tone)
-  static const IconifyIconData solr = IconifyIconData.duo(
+  /// `solr` (paint-order duotone)
+  static const IconifyIconData solr = IconifyIconData.duoPaintOrder(
     IconData(0xe5a8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe5a8, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sonarlint` (duo-tone)
-  static const IconifyIconData sonarlint = IconifyIconData.duo(
+  /// `sonarlint` (paint-order duotone)
+  static const IconifyIconData sonarlint = IconifyIconData.duoPaintOrder(
     IconData(0xe29a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe29a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sonarqube` (duo-tone)
-  static const IconifyIconData sonarqube = IconifyIconData.duo(
+  /// `sonarqube` (paint-order duotone)
+  static const IconifyIconData sonarqube = IconifyIconData.duoPaintOrder(
     IconData(0xe684, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe684, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4153,14 +4153,14 @@ class LogosIcons {
     IconData(0xe29c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sparkcentral` (duo-tone)
-  static const IconifyIconData sparkcentral = IconifyIconData.duo(
+  /// `sparkcentral` (paint-order duotone)
+  static const IconifyIconData sparkcentral = IconifyIconData.duoPaintOrder(
     IconData(0xe685, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe685, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sparkpost` (duo-tone)
-  static const IconifyIconData sparkpost = IconifyIconData.duo(
+  /// `sparkpost` (paint-order duotone)
+  static const IconifyIconData sparkpost = IconifyIconData.duoPaintOrder(
     IconData(0xe686, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe686, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4190,20 +4190,20 @@ class LogosIcons {
     IconData(0xe2a1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `spree` (duo-tone)
-  static const IconifyIconData spree = IconifyIconData.duo(
+  /// `spree` (paint-order duotone)
+  static const IconifyIconData spree = IconifyIconData.duoPaintOrder(
     IconData(0xe2a2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2a2, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `spring` (duo-tone)
-  static const IconifyIconData spring = IconifyIconData.duo(
+  /// `spring` (paint-order duotone)
+  static const IconifyIconData spring = IconifyIconData.duoPaintOrder(
     IconData(0xe2a3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2a3, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `spring-icon` (duo-tone)
-  static const IconifyIconData springIcon = IconifyIconData.duo(
+  /// `spring-icon` (paint-order duotone)
+  static const IconifyIconData springIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe2a4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2a4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4213,20 +4213,20 @@ class LogosIcons {
     IconData(0xe2a5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sst` (duo-tone)
-  static const IconifyIconData sst = IconifyIconData.duo(
+  /// `sst` (paint-order duotone)
+  static const IconifyIconData sst = IconifyIconData.duoPaintOrder(
     IconData(0xe687, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe687, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sst-icon` (duo-tone)
-  static const IconifyIconData sstIcon = IconifyIconData.duo(
+  /// `sst-icon` (paint-order duotone)
+  static const IconifyIconData sstIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe688, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe688, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `stackbit` (duo-tone)
-  static const IconifyIconData stackbit = IconifyIconData.duo(
+  /// `stackbit` (paint-order duotone)
+  static const IconifyIconData stackbit = IconifyIconData.duoPaintOrder(
     IconData(0xe2a6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2a6, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4246,14 +4246,14 @@ class LogosIcons {
     IconData(0xe2a9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `stackoverflow-icon` (duo-tone)
-  static const IconifyIconData stackoverflowIcon = IconifyIconData.duo(
+  /// `stackoverflow-icon` (paint-order duotone)
+  static const IconifyIconData stackoverflowIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe5b2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe5b2, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `stackshare` (duo-tone)
-  static const IconifyIconData stackshare = IconifyIconData.duo(
+  /// `stackshare` (paint-order duotone)
+  static const IconifyIconData stackshare = IconifyIconData.duoPaintOrder(
     IconData(0xe2aa, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2aa, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4268,8 +4268,8 @@ class LogosIcons {
     IconData(0xe2ac, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `steemit` (duo-tone)
-  static const IconifyIconData steemit = IconifyIconData.duo(
+  /// `steemit` (paint-order duotone)
+  static const IconifyIconData steemit = IconifyIconData.duoPaintOrder(
     IconData(0xe689, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe689, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4284,14 +4284,14 @@ class LogosIcons {
     IconData(0xe2ae, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `stetho` (duo-tone)
-  static const IconifyIconData stetho = IconifyIconData.duo(
+  /// `stetho` (paint-order duotone)
+  static const IconifyIconData stetho = IconifyIconData.duoPaintOrder(
     IconData(0xe2af, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2af, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `stickermule` (duo-tone)
-  static const IconifyIconData stickermule = IconifyIconData.duo(
+  /// `stickermule` (paint-order duotone)
+  static const IconifyIconData stickermule = IconifyIconData.duoPaintOrder(
     IconData(0xe68a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe68a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4301,8 +4301,8 @@ class LogosIcons {
     IconData(0xe2b0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `stoplight` (duo-tone)
-  static const IconifyIconData stoplight = IconifyIconData.duo(
+  /// `stoplight` (paint-order duotone)
+  static const IconifyIconData stoplight = IconifyIconData.duoPaintOrder(
     IconData(0xe5b9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe5b9, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4322,8 +4322,8 @@ class LogosIcons {
     IconData(0xe2b3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `storyblok` (duo-tone)
-  static const IconifyIconData storyblok = IconifyIconData.duo(
+  /// `storyblok` (paint-order duotone)
+  static const IconifyIconData storyblok = IconifyIconData.duoPaintOrder(
     IconData(0xe2b4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2b4, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4338,14 +4338,14 @@ class LogosIcons {
     IconData(0xe2b7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `strongloop` (duo-tone)
-  static const IconifyIconData strongloop = IconifyIconData.duo(
+  /// `strongloop` (paint-order duotone)
+  static const IconifyIconData strongloop = IconifyIconData.duoPaintOrder(
     IconData(0xe68b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe68b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `styleci` (duo-tone)
-  static const IconifyIconData styleci = IconifyIconData.duo(
+  /// `styleci` (paint-order duotone)
+  static const IconifyIconData styleci = IconifyIconData.duoPaintOrder(
     IconData(0xe68c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe68c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4370,8 +4370,8 @@ class LogosIcons {
     IconData(0xe2bb, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `supersonic` (duo-tone)
-  static const IconifyIconData supersonic = IconifyIconData.duo(
+  /// `supersonic` (paint-order duotone)
+  static const IconifyIconData supersonic = IconifyIconData.duoPaintOrder(
     IconData(0xe68d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe68d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4386,8 +4386,8 @@ class LogosIcons {
     IconData(0xe2bd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `suse` (duo-tone)
-  static const IconifyIconData suse = IconifyIconData.duo(
+  /// `suse` (paint-order duotone)
+  static const IconifyIconData suse = IconifyIconData.duoPaintOrder(
     IconData(0xe2be, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2be, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4397,8 +4397,8 @@ class LogosIcons {
     IconData(0xe2bf, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `svelte-icon` (duo-tone)
-  static const IconifyIconData svelteIcon = IconifyIconData.duo(
+  /// `svelte-icon` (paint-order duotone)
+  static const IconifyIconData svelteIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe2c1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2c1, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4413,14 +4413,14 @@ class LogosIcons {
     IconData(0xe2c4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `swagger` (duo-tone)
-  static const IconifyIconData swagger = IconifyIconData.duo(
+  /// `swagger` (paint-order duotone)
+  static const IconifyIconData swagger = IconifyIconData.duoPaintOrder(
     IconData(0xe5cb, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe5cb, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `swiftype` (duo-tone)
-  static const IconifyIconData swiftype = IconifyIconData.duo(
+  /// `swiftype` (paint-order duotone)
+  static const IconifyIconData swiftype = IconifyIconData.duoPaintOrder(
     IconData(0xe68e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe68e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4430,14 +4430,14 @@ class LogosIcons {
     IconData(0xe2c5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `symfony` (duo-tone)
-  static const IconifyIconData symfony = IconifyIconData.duo(
+  /// `symfony` (paint-order duotone)
+  static const IconifyIconData symfony = IconifyIconData.duoPaintOrder(
     IconData(0xe2c6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2c6, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `sysdig` (duo-tone)
-  static const IconifyIconData sysdig = IconifyIconData.duo(
+  /// `sysdig` (paint-order duotone)
+  static const IconifyIconData sysdig = IconifyIconData.duoPaintOrder(
     IconData(0xe68f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe68f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4452,20 +4452,20 @@ class LogosIcons {
     IconData(0xe2c8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `taskade-icon` (duo-tone)
-  static const IconifyIconData taskadeIcon = IconifyIconData.duo(
+  /// `taskade-icon` (paint-order duotone)
+  static const IconifyIconData taskadeIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe2ca, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2ca, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `tauri` (duo-tone)
-  static const IconifyIconData tauri = IconifyIconData.duo(
+  /// `tauri` (paint-order duotone)
+  static const IconifyIconData tauri = IconifyIconData.duoPaintOrder(
     IconData(0xe2cb, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2cb, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `tealium` (duo-tone)
-  static const IconifyIconData tealium = IconifyIconData.duo(
+  /// `tealium` (paint-order duotone)
+  static const IconifyIconData tealium = IconifyIconData.duoPaintOrder(
     IconData(0xe2cc, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2cc, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4475,8 +4475,8 @@ class LogosIcons {
     IconData(0xe2cd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `teamwork` (duo-tone)
-  static const IconifyIconData teamwork = IconifyIconData.duo(
+  /// `teamwork` (paint-order duotone)
+  static const IconifyIconData teamwork = IconifyIconData.duoPaintOrder(
     IconData(0xe2ce, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2ce, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4486,14 +4486,14 @@ class LogosIcons {
     IconData(0xe2d1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `terraform-icon` (duo-tone)
-  static const IconifyIconData terraformIcon = IconifyIconData.duo(
+  /// `terraform-icon` (paint-order duotone)
+  static const IconifyIconData terraformIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe690, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe690, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `testcafe` (duo-tone)
-  static const IconifyIconData testcafe = IconifyIconData.duo(
+  /// `testcafe` (paint-order duotone)
+  static const IconifyIconData testcafe = IconifyIconData.duoPaintOrder(
     IconData(0xe691, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe691, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4528,20 +4528,20 @@ class LogosIcons {
     IconData(0xe2dc, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `todoist` (duo-tone)
-  static const IconifyIconData todoist = IconifyIconData.duo(
+  /// `todoist` (paint-order duotone)
+  static const IconifyIconData todoist = IconifyIconData.duoPaintOrder(
     IconData(0xe692, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe692, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `todoist-icon` (duo-tone)
-  static const IconifyIconData todoistIcon = IconifyIconData.duo(
+  /// `todoist-icon` (paint-order duotone)
+  static const IconifyIconData todoistIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe693, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe693, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `todomvc` (duo-tone)
-  static const IconifyIconData todomvc = IconifyIconData.duo(
+  /// `todomvc` (paint-order duotone)
+  static const IconifyIconData todomvc = IconifyIconData.duoPaintOrder(
     IconData(0xe694, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe694, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4556,8 +4556,8 @@ class LogosIcons {
     IconData(0xe2df, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `treehouse` (duo-tone)
-  static const IconifyIconData treehouse = IconifyIconData.duo(
+  /// `treehouse` (paint-order duotone)
+  static const IconifyIconData treehouse = IconifyIconData.duoPaintOrder(
     IconData(0xe2e0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2e0, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4612,20 +4612,20 @@ class LogosIcons {
     IconData(0xe2eb, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `typescript` (duo-tone)
-  static const IconifyIconData typescript = IconifyIconData.duo(
+  /// `typescript` (paint-order duotone)
+  static const IconifyIconData typescript = IconifyIconData.duoPaintOrder(
     IconData(0xe695, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe695, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `typescript-icon` (duo-tone)
-  static const IconifyIconData typescriptIcon = IconifyIconData.duo(
+  /// `typescript-icon` (paint-order duotone)
+  static const IconifyIconData typescriptIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe696, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe696, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `typescript-icon-round` (duo-tone)
-  static const IconifyIconData typescriptIconRound = IconifyIconData.duo(
+  /// `typescript-icon-round` (paint-order duotone)
+  static const IconifyIconData typescriptIconRound = IconifyIconData.duoPaintOrder(
     IconData(0xe697, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe697, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4640,14 +4640,14 @@ class LogosIcons {
     IconData(0xe2ed, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `ubuntu` (duo-tone)
-  static const IconifyIconData ubuntu = IconifyIconData.duo(
+  /// `ubuntu` (paint-order duotone)
+  static const IconifyIconData ubuntu = IconifyIconData.duoPaintOrder(
     IconData(0xe698, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe698, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `udacity` (duo-tone)
-  static const IconifyIconData udacity = IconifyIconData.duo(
+  /// `udacity` (paint-order duotone)
+  static const IconifyIconData udacity = IconifyIconData.duoPaintOrder(
     IconData(0xe2ee, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2ee, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4667,8 +4667,8 @@ class LogosIcons {
     IconData(0xe2f1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `unito` (duo-tone)
-  static const IconifyIconData unito = IconifyIconData.duo(
+  /// `unito` (paint-order duotone)
+  static const IconifyIconData unito = IconifyIconData.duoPaintOrder(
     IconData(0xe2f2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2f2, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4683,8 +4683,8 @@ class LogosIcons {
     IconData(0xe2f4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `unjs` (duo-tone)
-  static const IconifyIconData unjs = IconifyIconData.duo(
+  /// `unjs` (paint-order duotone)
+  static const IconifyIconData unjs = IconifyIconData.duoPaintOrder(
     IconData(0xe5ee, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe5ee, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4720,8 +4720,8 @@ class LogosIcons {
     IconData(0xe2fa, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `uservoice` (duo-tone)
-  static const IconifyIconData uservoice = IconifyIconData.duo(
+  /// `uservoice` (paint-order duotone)
+  static const IconifyIconData uservoice = IconifyIconData.duoPaintOrder(
     IconData(0xe699, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe699, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4731,8 +4731,8 @@ class LogosIcons {
     IconData(0xe2fb, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `vagrant-icon` (duo-tone)
-  static const IconifyIconData vagrantIcon = IconifyIconData.duo(
+  /// `vagrant-icon` (paint-order duotone)
+  static const IconifyIconData vagrantIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe2fd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe2fd, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4757,8 +4757,8 @@ class LogosIcons {
     IconData(0xe301, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `victorops` (duo-tone)
-  static const IconifyIconData victorops = IconifyIconData.duo(
+  /// `victorops` (paint-order duotone)
+  static const IconifyIconData victorops = IconifyIconData.duoPaintOrder(
     IconData(0xe302, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe302, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4784,20 +4784,20 @@ class LogosIcons {
     IconData(0xe306, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `vue` (duo-tone)
-  static const IconifyIconData vue = IconifyIconData.duo(
+  /// `vue` (paint-order duotone)
+  static const IconifyIconData vue = IconifyIconData.duoPaintOrder(
     IconData(0xe600, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe600, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `vueuse` (duo-tone)
-  static const IconifyIconData vueuse = IconifyIconData.duo(
+  /// `vueuse` (paint-order duotone)
+  static const IconifyIconData vueuse = IconifyIconData.duoPaintOrder(
     IconData(0xe69a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe69a, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `w3c` (duo-tone)
-  static const IconifyIconData w3c = IconifyIconData.duo(
+  /// `w3c` (paint-order duotone)
+  static const IconifyIconData w3c = IconifyIconData.duoPaintOrder(
     IconData(0xe308, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe308, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4827,8 +4827,8 @@ class LogosIcons {
     IconData(0xe30e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `web-fundamentals` (duo-tone)
-  static const IconifyIconData webFundamentals = IconifyIconData.duo(
+  /// `web-fundamentals` (paint-order duotone)
+  static const IconifyIconData webFundamentals = IconifyIconData.duoPaintOrder(
     IconData(0xe69b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe69b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4848,8 +4848,8 @@ class LogosIcons {
     IconData(0xe313, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `whalar` (duo-tone)
-  static const IconifyIconData whalar = IconifyIconData.duo(
+  /// `whalar` (paint-order duotone)
+  static const IconifyIconData whalar = IconifyIconData.duoPaintOrder(
     IconData(0xe69c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe69c, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4864,14 +4864,14 @@ class LogosIcons {
     IconData(0xe315, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `whatwg` (duo-tone)
-  static const IconifyIconData whatwg = IconifyIconData.duo(
+  /// `whatwg` (paint-order duotone)
+  static const IconifyIconData whatwg = IconifyIconData.duoPaintOrder(
     IconData(0xe316, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe316, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `wicket-icon` (duo-tone)
-  static const IconifyIconData wicketIcon = IconifyIconData.duo(
+  /// `wicket-icon` (paint-order duotone)
+  static const IconifyIconData wicketIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe69d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe69d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4906,8 +4906,8 @@ class LogosIcons {
     IconData(0xe31d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `wordpress` (duo-tone)
-  static const IconifyIconData wordpress = IconifyIconData.duo(
+  /// `wordpress` (paint-order duotone)
+  static const IconifyIconData wordpress = IconifyIconData.duoPaintOrder(
     IconData(0xe617, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe617, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4917,14 +4917,14 @@ class LogosIcons {
     IconData(0xe31e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `workboard` (duo-tone)
-  static const IconifyIconData workboard = IconifyIconData.duo(
+  /// `workboard` (paint-order duotone)
+  static const IconifyIconData workboard = IconifyIconData.duoPaintOrder(
     IconData(0xe31f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe31f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `workos` (duo-tone)
-  static const IconifyIconData workos = IconifyIconData.duo(
+  /// `workos` (paint-order duotone)
+  static const IconifyIconData workos = IconifyIconData.duoPaintOrder(
     IconData(0xe69e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe69e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4944,14 +4944,14 @@ class LogosIcons {
     IconData(0xe322, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `xampp` (duo-tone)
-  static const IconifyIconData xampp = IconifyIconData.duo(
+  /// `xampp` (paint-order duotone)
+  static const IconifyIconData xampp = IconifyIconData.duoPaintOrder(
     IconData(0xe324, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe324, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `xero` (duo-tone)
-  static const IconifyIconData xero = IconifyIconData.duo(
+  /// `xero` (paint-order duotone)
+  static const IconifyIconData xero = IconifyIconData.duoPaintOrder(
     IconData(0xe327, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe327, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -4987,26 +4987,26 @@ class LogosIcons {
     IconData(0xe32d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `yarn` (duo-tone)
-  static const IconifyIconData yarn = IconifyIconData.duo(
+  /// `yarn` (paint-order duotone)
+  static const IconifyIconData yarn = IconifyIconData.duoPaintOrder(
     IconData(0xe32e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe32e, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `ycombinator` (duo-tone)
-  static const IconifyIconData ycombinator = IconifyIconData.duo(
+  /// `ycombinator` (paint-order duotone)
+  static const IconifyIconData ycombinator = IconifyIconData.duoPaintOrder(
     IconData(0xe32f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe32f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `youtube-icon` (duo-tone)
-  static const IconifyIconData youtubeIcon = IconifyIconData.duo(
+  /// `youtube-icon` (paint-order duotone)
+  static const IconifyIconData youtubeIcon = IconifyIconData.duoPaintOrder(
     IconData(0xe330, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe330, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `yugabyte` (duo-tone)
-  static const IconifyIconData yugabyte = IconifyIconData.duo(
+  /// `yugabyte` (paint-order duotone)
+  static const IconifyIconData yugabyte = IconifyIconData.duoPaintOrder(
     IconData(0xe69f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe69f, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -5016,14 +5016,14 @@ class LogosIcons {
     IconData(0xe331, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `zabbix` (duo-tone)
-  static const IconifyIconData zabbix = IconifyIconData.duo(
+  /// `zabbix` (paint-order duotone)
+  static const IconifyIconData zabbix = IconifyIconData.duoPaintOrder(
     IconData(0xe6a0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe6a0, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `zapier` (duo-tone)
-  static const IconifyIconData zapier = IconifyIconData.duo(
+  /// `zapier` (paint-order duotone)
+  static const IconifyIconData zapier = IconifyIconData.duoPaintOrder(
     IconData(0xe6a1, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe6a1, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
@@ -5043,8 +5043,8 @@ class LogosIcons {
     IconData(0xe334, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `zig` (duo-tone)
-  static const IconifyIconData zig = IconifyIconData.duo(
+  /// `zig` (paint-order duotone)
+  static const IconifyIconData zig = IconifyIconData.duoPaintOrder(
     IconData(0xe627, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe627, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );

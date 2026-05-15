@@ -145,13 +145,15 @@
       "codepoint": 57366,
       "fontFamily": "Flag",
       "identifier": "at1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "at-4x3": {
       "codepoint": 57367,
       "fontFamily": "Flag",
       "identifier": "at4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "au-1x1": {
       "codepoint": 57368,
@@ -217,13 +219,15 @@
       "codepoint": 57380,
       "fontFamily": "Flag",
       "identifier": "bd1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bd-4x3": {
       "codepoint": 57381,
       "fontFamily": "Flag",
       "identifier": "bd4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "be-1x1": {
       "codepoint": 57382,
@@ -259,13 +263,15 @@
       "codepoint": 57388,
       "fontFamily": "Flag",
       "identifier": "bh1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bh-4x3": {
       "codepoint": 57389,
       "fontFamily": "Flag",
       "identifier": "bh4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bi-1x1": {
       "codepoint": 57390,
@@ -371,13 +377,15 @@
       "codepoint": 57410,
       "fontFamily": "Flag",
       "identifier": "ca1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ca-4x3": {
       "codepoint": 57411,
       "fontFamily": "Flag",
       "identifier": "ca4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cc-1x1": {
       "codepoint": 57412,
@@ -613,13 +621,15 @@
       "codepoint": 57820,
       "fontFamily": "Flag",
       "identifier": "dk1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dk-4x3": {
       "codepoint": 57821,
       "fontFamily": "Flag",
       "identifier": "dk4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dm-1x1": {
       "codepoint": 57458,
@@ -787,13 +797,15 @@
       "codepoint": 57490,
       "fontFamily": "Flag",
       "identifier": "fi1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fi-4x3": {
       "codepoint": 57491,
       "fontFamily": "Flag",
       "identifier": "fi4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fj-1x1": {
       "codepoint": 57492,
@@ -859,13 +871,15 @@
       "codepoint": 57504,
       "fontFamily": "Flag",
       "identifier": "gbEng1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gb-eng-4x3": {
       "codepoint": 57505,
       "fontFamily": "Flag",
       "identifier": "gbEng4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gb-nir-1x1": {
       "codepoint": 57506,
@@ -911,13 +925,15 @@
       "codepoint": 57514,
       "fontFamily": "Flag",
       "identifier": "ge1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ge-4x3": {
       "codepoint": 57515,
       "fontFamily": "Flag",
       "identifier": "ge4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gf-1x1": {
       "codepoint": 57516,
@@ -963,13 +979,15 @@
       "codepoint": 57524,
       "fontFamily": "Flag",
       "identifier": "gl1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gl-4x3": {
       "codepoint": 57525,
       "fontFamily": "Flag",
       "identifier": "gl4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gm-1x1": {
       "codepoint": 57526,
@@ -1090,13 +1108,15 @@
       "codepoint": 57822,
       "fontFamily": "Flag",
       "identifier": "id1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "id-4x3": {
       "codepoint": 57823,
       "fontFamily": "Flag",
       "identifier": "id4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ie-1x1": {
       "codepoint": 57549,
@@ -1242,13 +1262,15 @@
       "codepoint": 57577,
       "fontFamily": "Flag",
       "identifier": "kg1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kg-4x3": {
       "codepoint": 57578,
       "fontFamily": "Flag",
       "identifier": "kg4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kh-1x1": {
       "codepoint": 57579,
@@ -1429,13 +1451,15 @@
       "codepoint": 57614,
       "fontFamily": "Flag",
       "identifier": "lv1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lv-4x3": {
       "codepoint": 57824,
       "fontFamily": "Flag",
       "identifier": "lv4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ly-1x1": {
       "codepoint": 57615,
@@ -1461,13 +1485,15 @@
       "codepoint": 57825,
       "fontFamily": "Flag",
       "identifier": "mc1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mc-4x3": {
       "codepoint": 57826,
       "fontFamily": "Flag",
       "identifier": "mc4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "md-1x1": {
       "codepoint": 57619,
@@ -1523,13 +1549,15 @@
       "codepoint": 57827,
       "fontFamily": "Flag",
       "identifier": "mk1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mk-4x3": {
       "codepoint": 57828,
       "fontFamily": "Flag",
       "identifier": "mk4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ml-1x1": {
       "codepoint": 57629,
@@ -1685,19 +1713,22 @@
       "codepoint": 57659,
       "fontFamily": "Flag",
       "identifier": "nf4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ng-1x1": {
       "codepoint": 57660,
       "fontFamily": "Flag",
       "identifier": "ng1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ng-4x3": {
       "codepoint": 57661,
       "fontFamily": "Flag",
       "identifier": "ng4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ni-1x1": {
       "codepoint": 57662,
@@ -1798,13 +1829,15 @@
       "codepoint": 57829,
       "fontFamily": "Flag",
       "identifier": "pe1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pe-4x3": {
       "codepoint": 57830,
       "fontFamily": "Flag",
       "identifier": "pe4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pf-1x1": {
       "codepoint": 57681,
@@ -1850,13 +1883,15 @@
       "codepoint": 57689,
       "fontFamily": "Flag",
       "identifier": "pl1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pl-4x3": {
       "codepoint": 57690,
       "fontFamily": "Flag",
       "identifier": "pl4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pm-1x1": {
       "codepoint": 57691,
@@ -1922,13 +1957,15 @@
       "codepoint": 57703,
       "fontFamily": "Flag",
       "identifier": "qa1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qa-4x3": {
       "codepoint": 57704,
       "fontFamily": "Flag",
       "identifier": "qa4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "re-1x1": {
       "codepoint": 57705,
@@ -2014,13 +2051,15 @@
       "codepoint": 57831,
       "fontFamily": "Flag",
       "identifier": "se1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "se-4x3": {
       "codepoint": 57832,
       "fontFamily": "Flag",
       "identifier": "se4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sg-1x1": {
       "codepoint": 57721,
@@ -2246,25 +2285,29 @@
       "codepoint": 57833,
       "fontFamily": "Flag",
       "identifier": "tn1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tn-4x3": {
       "codepoint": 57834,
       "fontFamily": "Flag",
       "identifier": "tn4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tr-1x1": {
       "codepoint": 57765,
       "fontFamily": "Flag",
       "identifier": "tr1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tr-4x3": {
       "codepoint": 57766,
       "fontFamily": "Flag",
       "identifier": "tr4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tt-1x1": {
       "codepoint": 57767,
@@ -2310,13 +2353,15 @@
       "codepoint": 57775,
       "fontFamily": "Flag",
       "identifier": "ua1x1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ua-4x3": {
       "codepoint": 57776,
       "fontFamily": "Flag",
       "identifier": "ua4x3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ug-1x1": {
       "codepoint": 57777,

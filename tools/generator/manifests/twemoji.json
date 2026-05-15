@@ -42,103 +42,120 @@
       "codepoint": 57819,
       "fontFamily": "Twemoji",
       "identifier": "aButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "a-button-blood-type": {
       "codepoint": 57820,
       "fontFamily": "Twemoji",
       "identifier": "aButtonBloodType",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ab-button": {
       "codepoint": 57821,
       "fontFamily": "Twemoji",
       "identifier": "abButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ab-button-blood-type": {
       "codepoint": 57822,
       "fontFamily": "Twemoji",
       "identifier": "abButtonBloodType",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "admission-tickets": {
       "codepoint": 57823,
       "fontFamily": "Twemoji",
       "identifier": "admissionTickets",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alien": {
       "codepoint": 57824,
       "fontFamily": "Twemoji",
       "identifier": "alien",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "american-football": {
       "codepoint": 57825,
       "fontFamily": "Twemoji",
       "identifier": "americanFootball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "amphora": {
       "codepoint": 57826,
       "fontFamily": "Twemoji",
       "identifier": "amphora",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "angry-face": {
       "codepoint": 57827,
       "fontFamily": "Twemoji",
       "identifier": "angryFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "angry-face-with-horns": {
       "codepoint": 57828,
       "fontFamily": "Twemoji",
       "identifier": "angryFaceWithHorns",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "anguished-face": {
       "codepoint": 57829,
       "fontFamily": "Twemoji",
       "identifier": "anguishedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "antenna-bars": {
       "codepoint": 57345,
       "fontFamily": "Twemoji",
       "identifier": "antennaBars",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "anticlockwise-arrows-button": {
       "codepoint": 57346,
       "fontFamily": "Twemoji",
       "identifier": "anticlockwiseArrowsButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "aquarius": {
       "codepoint": 57830,
       "fontFamily": "Twemoji",
       "identifier": "aquarius",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "aries": {
       "codepoint": 57831,
       "fontFamily": "Twemoji",
       "identifier": "aries",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "b-button": {
       "codepoint": 57832,
       "fontFamily": "Twemoji",
       "identifier": "bButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "b-button-blood-type": {
       "codepoint": 57833,
       "fontFamily": "Twemoji",
       "identifier": "bButtonBloodType",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "baby-bottle": {
       "codepoint": 57347,
@@ -151,7 +168,8 @@
       "codepoint": 57834,
       "fontFamily": "Twemoji",
       "identifier": "babySymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-down": {
       "codepoint": 57348,
@@ -237,13 +255,15 @@
       "codepoint": 57835,
       "fontFamily": "Twemoji",
       "identifier": "baggageClaim",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "balance-scale": {
       "codepoint": 57836,
       "fontFamily": "Twemoji",
       "identifier": "balanceScale",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bald": {
       "codepoint": 57364,
@@ -254,37 +274,43 @@
       "codepoint": 57837,
       "fontFamily": "Twemoji",
       "identifier": "balletShoes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "balloon": {
       "codepoint": 57365,
       "fontFamily": "Twemoji",
       "identifier": "balloon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ballot-box-with-check": {
       "codepoint": 57838,
       "fontFamily": "Twemoji",
       "identifier": "ballotBoxWithCheck",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "basketball": {
       "codepoint": 57839,
       "fontFamily": "Twemoji",
       "identifier": "basketball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bathtub": {
       "codepoint": 57366,
       "fontFamily": "Twemoji",
       "identifier": "bathtub",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "beating-heart": {
       "codepoint": 57840,
       "fontFamily": "Twemoji",
       "identifier": "beatingHeart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bell": {
       "codepoint": 57367,
@@ -295,25 +321,29 @@
       "codepoint": 57841,
       "fontFamily": "Twemoji",
       "identifier": "bellWithSlash",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bikini": {
       "codepoint": 57842,
       "fontFamily": "Twemoji",
       "identifier": "bikini",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "biohazard": {
       "codepoint": 57843,
       "fontFamily": "Twemoji",
       "identifier": "biohazard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "black-square-button": {
       "codepoint": 57844,
       "fontFamily": "Twemoji",
       "identifier": "blackSquareButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blue-circle": {
       "codepoint": 57368,
@@ -339,85 +369,99 @@
       "codepoint": 57845,
       "fontFamily": "Twemoji",
       "identifier": "bustsInSilhouette",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand": {
       "codepoint": 57846,
       "fontFamily": "Twemoji",
       "identifier": "callMeHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-dark-skin-tone": {
       "codepoint": 57847,
       "fontFamily": "Twemoji",
       "identifier": "callMeHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-light-skin-tone": {
       "codepoint": 57372,
       "fontFamily": "Twemoji",
       "identifier": "callMeHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-dark-skin-tone": {
       "codepoint": 57848,
       "fontFamily": "Twemoji",
       "identifier": "callMeHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-light-skin-tone": {
       "codepoint": 57373,
       "fontFamily": "Twemoji",
       "identifier": "callMeHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-skin-tone": {
       "codepoint": 57374,
       "fontFamily": "Twemoji",
       "identifier": "callMeHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camel": {
       "codepoint": 57849,
       "fontFamily": "Twemoji",
       "identifier": "camel",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cancer": {
       "codepoint": 57850,
       "fontFamily": "Twemoji",
       "identifier": "cancer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "capricorn": {
       "codepoint": 57851,
       "fontFamily": "Twemoji",
       "identifier": "capricorn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chart-increasing-with-yen": {
       "codepoint": 57852,
       "fontFamily": "Twemoji",
       "identifier": "chartIncreasingWithYen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "check-box-with-check": {
       "codepoint": 57853,
       "fontFamily": "Twemoji",
       "identifier": "checkBoxWithCheck",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "check-mark-button": {
       "codepoint": 57854,
       "fontFamily": "Twemoji",
       "identifier": "checkMarkButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chess-pawn": {
       "codepoint": 57855,
       "fontFamily": "Twemoji",
       "identifier": "chessPawn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "children-crossing": {
       "codepoint": 57375,
@@ -428,55 +472,64 @@
       "codepoint": 57856,
       "fontFamily": "Twemoji",
       "identifier": "chopsticks",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cinema": {
       "codepoint": 57376,
       "fontFamily": "Twemoji",
       "identifier": "cinema",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "circled-m": {
       "codepoint": 57377,
       "fontFamily": "Twemoji",
       "identifier": "circledM",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cl-button": {
       "codepoint": 57857,
       "fontFamily": "Twemoji",
       "identifier": "clButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "clockwise-vertical-arrows": {
       "codepoint": 57378,
       "fontFamily": "Twemoji",
       "identifier": "clockwiseVerticalArrows",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud": {
       "codepoint": 57858,
       "fontFamily": "Twemoji",
       "identifier": "cloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-with-lightning": {
       "codepoint": 57859,
       "fontFamily": "Twemoji",
       "identifier": "cloudWithLightning",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-with-rain": {
       "codepoint": 57860,
       "fontFamily": "Twemoji",
       "identifier": "cloudWithRain",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-with-snow": {
       "codepoint": 57861,
       "fontFamily": "Twemoji",
       "identifier": "cloudWithSnow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "collision": {
       "codepoint": 57379,
@@ -496,25 +549,29 @@
       "codepoint": 57862,
       "fontFamily": "Twemoji",
       "identifier": "computerMouse",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "confounded-face": {
       "codepoint": 57863,
       "fontFamily": "Twemoji",
       "identifier": "confoundedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "confused-face": {
       "codepoint": 57864,
       "fontFamily": "Twemoji",
       "identifier": "confusedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cookie": {
       "codepoint": 57381,
       "fontFamily": "Twemoji",
       "identifier": "cookie",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cool-button": {
       "codepoint": 57382,
@@ -527,25 +584,29 @@
       "codepoint": 57383,
       "fontFamily": "Twemoji",
       "identifier": "counterclockwiseArrowsButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cow": {
       "codepoint": 57865,
       "fontFamily": "Twemoji",
       "identifier": "cow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crescent-moon": {
       "codepoint": 57866,
       "fontFamily": "Twemoji",
       "identifier": "crescentMoon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cross-mark-button": {
       "codepoint": 57867,
       "fontFamily": "Twemoji",
       "identifier": "crossMarkButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crossed-fingers-light-skin-tone": {
       "codepoint": 57384,
@@ -572,25 +633,29 @@
       "codepoint": 57868,
       "fontFamily": "Twemoji",
       "identifier": "cucumber",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "curly-haired": {
       "codepoint": 57387,
       "fontFamily": "Twemoji",
       "identifier": "curlyHaired",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "currency-exchange": {
       "codepoint": 57869,
       "fontFamily": "Twemoji",
       "identifier": "currencyExchange",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "customs": {
       "codepoint": 57870,
       "fontFamily": "Twemoji",
       "identifier": "customs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cyclone": {
       "codepoint": 57388,
@@ -618,61 +683,71 @@
       "codepoint": 57871,
       "fontFamily": "Twemoji",
       "identifier": "disappointedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dizzy": {
       "codepoint": 57872,
       "fontFamily": "Twemoji",
       "identifier": "dizzy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dizzy-face": {
       "codepoint": 57873,
       "fontFamily": "Twemoji",
       "identifier": "dizzyFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dotted-six-pointed-star": {
       "codepoint": 57874,
       "fontFamily": "Twemoji",
       "identifier": "dottedSixPointedStar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "double-curly-loop": {
       "codepoint": 57875,
       "fontFamily": "Twemoji",
       "identifier": "doubleCurlyLoop",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "down-arrow": {
       "codepoint": 57392,
       "fontFamily": "Twemoji",
       "identifier": "downArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "down-button": {
       "codepoint": 57393,
       "fontFamily": "Twemoji",
       "identifier": "downButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "down-left-arrow": {
       "codepoint": 57394,
       "fontFamily": "Twemoji",
       "identifier": "downLeftArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "down-right-arrow": {
       "codepoint": 57395,
       "fontFamily": "Twemoji",
       "identifier": "downRightArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "downwards-button": {
       "codepoint": 57396,
       "fontFamily": "Twemoji",
       "identifier": "downwardsButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dress": {
       "codepoint": 57397,
@@ -695,361 +770,421 @@
       "codepoint": 57876,
       "fontFamily": "Twemoji",
       "identifier": "ear",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-dark-skin-tone": {
       "codepoint": 57877,
       "fontFamily": "Twemoji",
       "identifier": "earDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-light-skin-tone": {
       "codepoint": 57400,
       "fontFamily": "Twemoji",
       "identifier": "earLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-medium-dark-skin-tone": {
       "codepoint": 57878,
       "fontFamily": "Twemoji",
       "identifier": "earMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-medium-light-skin-tone": {
       "codepoint": 57401,
       "fontFamily": "Twemoji",
       "identifier": "earMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-medium-skin-tone": {
       "codepoint": 57402,
       "fontFamily": "Twemoji",
       "identifier": "earMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "egg": {
       "codepoint": 57403,
       "fontFamily": "Twemoji",
       "identifier": "egg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eggplant": {
       "codepoint": 57879,
       "fontFamily": "Twemoji",
       "identifier": "eggplant",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eight-spoked-asterisk": {
       "codepoint": 57880,
       "fontFamily": "Twemoji",
       "identifier": "eightSpokedAsterisk",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eject-button": {
       "codepoint": 57404,
       "fontFamily": "Twemoji",
       "identifier": "ejectButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "electric-plug": {
       "codepoint": 57881,
       "fontFamily": "Twemoji",
       "identifier": "electricPlug",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "elevator": {
       "codepoint": 57882,
       "fontFamily": "Twemoji",
       "identifier": "elevator",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "england": {
       "codepoint": 57883,
       "fontFamily": "Twemoji",
       "identifier": "england",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "enraged-face": {
       "codepoint": 57884,
       "fontFamily": "Twemoji",
       "identifier": "enragedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "expressionless-face": {
       "codepoint": 57885,
       "fontFamily": "Twemoji",
       "identifier": "expressionlessFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eye-in-speech-bubble": {
       "codepoint": 57886,
       "fontFamily": "Twemoji",
       "identifier": "eyeInSpeechBubble",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "face-with-crossed-out-eyes": {
       "codepoint": 57887,
       "fontFamily": "Twemoji",
       "identifier": "faceWithCrossedOutEyes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "face-with-diagonal-mouth": {
       "codepoint": 57888,
       "fontFamily": "Twemoji",
       "identifier": "faceWithDiagonalMouth",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "face-with-open-mouth": {
       "codepoint": 57889,
       "fontFamily": "Twemoji",
       "identifier": "faceWithOpenMouth",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "face-with-raised-eyebrow": {
       "codepoint": 57890,
       "fontFamily": "Twemoji",
       "identifier": "faceWithRaisedEyebrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "face-with-spiral-eyes": {
       "codepoint": 57891,
       "fontFamily": "Twemoji",
       "identifier": "faceWithSpiralEyes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "face-without-mouth": {
       "codepoint": 57892,
       "fontFamily": "Twemoji",
       "identifier": "faceWithoutMouth",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fallen-leaf": {
       "codepoint": 57893,
       "fontFamily": "Twemoji",
       "identifier": "fallenLeaf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family": {
       "codepoint": 57405,
       "fontFamily": "Twemoji",
       "identifier": "family",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-adult-adult-child": {
       "codepoint": 57406,
       "fontFamily": "Twemoji",
       "identifier": "familyAdultAdultChild",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-adult-adult-child-child": {
       "codepoint": 57407,
       "fontFamily": "Twemoji",
       "identifier": "familyAdultAdultChildChild",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-adult-child": {
       "codepoint": 57408,
       "fontFamily": "Twemoji",
       "identifier": "familyAdultChild",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-adult-child-child": {
       "codepoint": 57409,
       "fontFamily": "Twemoji",
       "identifier": "familyAdultChildChild",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-boy": {
       "codepoint": 57410,
       "fontFamily": "Twemoji",
       "identifier": "familyManBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-boy-boy": {
       "codepoint": 57411,
       "fontFamily": "Twemoji",
       "identifier": "familyManBoyBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-girl": {
       "codepoint": 57412,
       "fontFamily": "Twemoji",
       "identifier": "familyManGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-girl-boy": {
       "codepoint": 57413,
       "fontFamily": "Twemoji",
       "identifier": "familyManGirlBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-girl-girl": {
       "codepoint": 57414,
       "fontFamily": "Twemoji",
       "identifier": "familyManGirlGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-man-boy": {
       "codepoint": 57415,
       "fontFamily": "Twemoji",
       "identifier": "familyManManBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-man-boy-boy": {
       "codepoint": 57416,
       "fontFamily": "Twemoji",
       "identifier": "familyManManBoyBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-man-girl": {
       "codepoint": 57417,
       "fontFamily": "Twemoji",
       "identifier": "familyManManGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-man-girl-boy": {
       "codepoint": 57418,
       "fontFamily": "Twemoji",
       "identifier": "familyManManGirlBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-man-girl-girl": {
       "codepoint": 57419,
       "fontFamily": "Twemoji",
       "identifier": "familyManManGirlGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-woman-boy": {
       "codepoint": 57420,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-woman-boy-boy": {
       "codepoint": 57421,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanBoyBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-woman-girl": {
       "codepoint": 57422,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-woman-girl-boy": {
       "codepoint": 57423,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanGirlBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-man-woman-girl-girl": {
       "codepoint": 57424,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanGirlGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-boy": {
       "codepoint": 57425,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-boy-boy": {
       "codepoint": 57426,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanBoyBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-girl": {
       "codepoint": 57427,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-girl-boy": {
       "codepoint": 57428,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanGirlBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-girl-girl": {
       "codepoint": 57429,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanGirlGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-woman-boy": {
       "codepoint": 57430,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-woman-boy-boy": {
       "codepoint": 57431,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanBoyBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-woman-girl": {
       "codepoint": 57432,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-woman-girl-boy": {
       "codepoint": 57433,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanGirlBoy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "family-woman-woman-girl-girl": {
       "codepoint": 57434,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanGirlGirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fast-down-button": {
       "codepoint": 57435,
       "fontFamily": "Twemoji",
       "identifier": "fastDownButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fast-forward-button": {
       "codepoint": 57436,
       "fontFamily": "Twemoji",
       "identifier": "fastForwardButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fast-reverse-button": {
       "codepoint": 57437,
       "fontFamily": "Twemoji",
       "identifier": "fastReverseButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fast-up-button": {
       "codepoint": 57438,
       "fontFamily": "Twemoji",
       "identifier": "fastUpButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "female-sign": {
       "codepoint": 57894,
       "fontFamily": "Twemoji",
       "identifier": "femaleSign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-folder": {
       "codepoint": 57895,
       "fontFamily": "Twemoji",
       "identifier": "fileFolder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "film-projector": {
       "codepoint": 57896,
       "fontFamily": "Twemoji",
       "identifier": "filmProjector",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fingerprint": {
       "codepoint": 57439,
@@ -1060,25 +1195,29 @@
       "codepoint": 57897,
       "fontFamily": "Twemoji",
       "identifier": "fire",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fish-cake-with-swirl": {
       "codepoint": 57898,
       "fontFamily": "Twemoji",
       "identifier": "fishCakeWithSwirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-antarctica": {
       "codepoint": 57899,
       "fontFamily": "Twemoji",
       "identifier": "flagAntarctica",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-austria": {
       "codepoint": 57900,
       "fontFamily": "Twemoji",
       "identifier": "flagAustria",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-azerbaijan": {
       "codepoint": 57440,
@@ -1091,19 +1230,22 @@
       "codepoint": 57901,
       "fontFamily": "Twemoji",
       "identifier": "flagBahrain",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-bangladesh": {
       "codepoint": 57441,
       "fontFamily": "Twemoji",
       "identifier": "flagBangladesh",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-canada": {
       "codepoint": 57442,
       "fontFamily": "Twemoji",
       "identifier": "flagCanada",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-caribbean-netherlands": {
       "codepoint": 57443,
@@ -1116,7 +1258,8 @@
       "codepoint": 57902,
       "fontFamily": "Twemoji",
       "identifier": "flagChina",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-cuba": {
       "codepoint": 57444,
@@ -1141,37 +1284,43 @@
       "codepoint": 57446,
       "fontFamily": "Twemoji",
       "identifier": "flagDenmark",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-england": {
       "codepoint": 57903,
       "fontFamily": "Twemoji",
       "identifier": "flagEngland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-european-union": {
       "codepoint": 57447,
       "fontFamily": "Twemoji",
       "identifier": "flagEuropeanUnion",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-albania": {
       "codepoint": 57904,
       "fontFamily": "Twemoji",
       "identifier": "flagForAlbania",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-antarctica": {
       "codepoint": 57905,
       "fontFamily": "Twemoji",
       "identifier": "flagForAntarctica",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-austria": {
       "codepoint": 57906,
       "fontFamily": "Twemoji",
       "identifier": "flagForAustria",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-azerbaijan": {
       "codepoint": 57448,
@@ -1184,19 +1333,22 @@
       "codepoint": 57907,
       "fontFamily": "Twemoji",
       "identifier": "flagForBahrain",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-bangladesh": {
       "codepoint": 57449,
       "fontFamily": "Twemoji",
       "identifier": "flagForBangladesh",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-canada": {
       "codepoint": 57450,
       "fontFamily": "Twemoji",
       "identifier": "flagForCanada",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-caribbean-netherlands": {
       "codepoint": 57451,
@@ -1209,7 +1361,8 @@
       "codepoint": 57908,
       "fontFamily": "Twemoji",
       "identifier": "flagForChina",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-cuba": {
       "codepoint": 57452,
@@ -1234,37 +1387,43 @@
       "codepoint": 57454,
       "fontFamily": "Twemoji",
       "identifier": "flagForDenmark",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-england": {
       "codepoint": 57909,
       "fontFamily": "Twemoji",
       "identifier": "flagForEngland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-european-union": {
       "codepoint": 57455,
       "fontFamily": "Twemoji",
       "identifier": "flagForEuropeanUnion",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-albania": {
       "codepoint": 57910,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagAlbania",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-antarctica": {
       "codepoint": 57911,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagAntarctica",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-austria": {
       "codepoint": 57912,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagAustria",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-azerbaijan": {
       "codepoint": 57456,
@@ -1277,19 +1436,22 @@
       "codepoint": 57913,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagBahrain",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-bangladesh": {
       "codepoint": 57457,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagBangladesh",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-canada": {
       "codepoint": 57458,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagCanada",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-caribbean-netherlands": {
       "codepoint": 57459,
@@ -1302,7 +1464,8 @@
       "codepoint": 57914,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagChina",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-cuba": {
       "codepoint": 57460,
@@ -1327,19 +1490,22 @@
       "codepoint": 57462,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagDenmark",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-european-union": {
       "codepoint": 57463,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagEuropeanUnion",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-georgia": {
       "codepoint": 57915,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagGeorgia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-gibraltar": {
       "codepoint": 57464,
@@ -1352,19 +1518,22 @@
       "codepoint": 57465,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagGreece",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-greenland": {
       "codepoint": 57466,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagGreenland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-indonesia": {
       "codepoint": 57467,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagIndonesia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-isle-of-man": {
       "codepoint": 57468,
@@ -1384,7 +1553,8 @@
       "codepoint": 57470,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagJapan",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-kazakhstan": {
       "codepoint": 57471,
@@ -1397,7 +1567,8 @@
       "codepoint": 57472,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagLatvia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-lebanon": {
       "codepoint": 57473,
@@ -1417,19 +1588,22 @@
       "codepoint": 57475,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagMicronesia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-monaco": {
       "codepoint": 57916,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagMonaco",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-morocco": {
       "codepoint": 57917,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagMorocco",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-nauru": {
       "codepoint": 57476,
@@ -1442,13 +1616,15 @@
       "codepoint": 57477,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagNigeria",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-norfolk-island": {
       "codepoint": 57918,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagNorfolkIsland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-north-korea": {
       "codepoint": 57478,
@@ -1461,7 +1637,8 @@
       "codepoint": 57919,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagNorthMacedonia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-oman": {
       "codepoint": 57479,
@@ -1474,19 +1651,22 @@
       "codepoint": 57480,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagPalau",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-peru": {
       "codepoint": 57920,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagPeru",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-poland": {
       "codepoint": 57481,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagPoland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-puerto-rico": {
       "codepoint": 57482,
@@ -1499,7 +1679,8 @@
       "codepoint": 57483,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagQatar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-reunion": {
       "codepoint": 57484,
@@ -1533,7 +1714,8 @@
       "codepoint": 57921,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagSomalia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-st-lucia": {
       "codepoint": 57488,
@@ -1546,13 +1728,15 @@
       "codepoint": 57489,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagSweden",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-switzerland": {
       "codepoint": 57490,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagSwitzerland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-taiwan": {
       "codepoint": 57491,
@@ -1572,25 +1756,29 @@
       "codepoint": 57922,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagTonga",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-tunisia": {
       "codepoint": 57923,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagTunisia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-turkey": {
       "codepoint": 57924,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagTurkey",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-ukraine": {
       "codepoint": 57925,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagUkraine",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-united-nations": {
       "codepoint": 57493,
@@ -1610,13 +1798,15 @@
       "codepoint": 57926,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagVietnam",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-georgia": {
       "codepoint": 57927,
       "fontFamily": "Twemoji",
       "identifier": "flagForGeorgia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-gibraltar": {
       "codepoint": 57495,
@@ -1629,19 +1819,22 @@
       "codepoint": 57496,
       "fontFamily": "Twemoji",
       "identifier": "flagForGreece",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-greenland": {
       "codepoint": 57497,
       "fontFamily": "Twemoji",
       "identifier": "flagForGreenland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-indonesia": {
       "codepoint": 57498,
       "fontFamily": "Twemoji",
       "identifier": "flagForIndonesia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-isle-of-man": {
       "codepoint": 57499,
@@ -1661,7 +1854,8 @@
       "codepoint": 57501,
       "fontFamily": "Twemoji",
       "identifier": "flagForJapan",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-kazakhstan": {
       "codepoint": 57502,
@@ -1674,7 +1868,8 @@
       "codepoint": 57503,
       "fontFamily": "Twemoji",
       "identifier": "flagForLatvia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-lebanon": {
       "codepoint": 57504,
@@ -1687,7 +1882,8 @@
       "codepoint": 57928,
       "fontFamily": "Twemoji",
       "identifier": "flagForMacedonia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-malta": {
       "codepoint": 57505,
@@ -1700,19 +1896,22 @@
       "codepoint": 57506,
       "fontFamily": "Twemoji",
       "identifier": "flagForMicronesia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-monaco": {
       "codepoint": 57929,
       "fontFamily": "Twemoji",
       "identifier": "flagForMonaco",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-morocco": {
       "codepoint": 57930,
       "fontFamily": "Twemoji",
       "identifier": "flagForMorocco",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-nauru": {
       "codepoint": 57507,
@@ -1725,13 +1924,15 @@
       "codepoint": 57508,
       "fontFamily": "Twemoji",
       "identifier": "flagForNigeria",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-norfolk-island": {
       "codepoint": 57931,
       "fontFamily": "Twemoji",
       "identifier": "flagForNorfolkIsland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-north-korea": {
       "codepoint": 57509,
@@ -1751,19 +1952,22 @@
       "codepoint": 57511,
       "fontFamily": "Twemoji",
       "identifier": "flagForPalau",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-peru": {
       "codepoint": 57932,
       "fontFamily": "Twemoji",
       "identifier": "flagForPeru",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-poland": {
       "codepoint": 57512,
       "fontFamily": "Twemoji",
       "identifier": "flagForPoland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-puerto-rico": {
       "codepoint": 57513,
@@ -1776,7 +1980,8 @@
       "codepoint": 57514,
       "fontFamily": "Twemoji",
       "identifier": "flagForQatar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-reunion": {
       "codepoint": 57515,
@@ -1796,7 +2001,8 @@
       "codepoint": 57517,
       "fontFamily": "Twemoji",
       "identifier": "flagForScotland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-sierra-leone": {
       "codepoint": 57518,
@@ -1816,7 +2022,8 @@
       "codepoint": 57933,
       "fontFamily": "Twemoji",
       "identifier": "flagForSomalia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-st-lucia": {
       "codepoint": 57520,
@@ -1829,13 +2036,15 @@
       "codepoint": 57521,
       "fontFamily": "Twemoji",
       "identifier": "flagForSweden",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-switzerland": {
       "codepoint": 57522,
       "fontFamily": "Twemoji",
       "identifier": "flagForSwitzerland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-taiwan": {
       "codepoint": 57523,
@@ -1855,31 +2064,36 @@
       "codepoint": 57934,
       "fontFamily": "Twemoji",
       "identifier": "flagForTonga",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-triangular-flag": {
       "codepoint": 57935,
       "fontFamily": "Twemoji",
       "identifier": "flagForTriangularFlag",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-tunisia": {
       "codepoint": 57936,
       "fontFamily": "Twemoji",
       "identifier": "flagForTunisia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-turkey": {
       "codepoint": 57937,
       "fontFamily": "Twemoji",
       "identifier": "flagForTurkey",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-ukraine": {
       "codepoint": 57938,
       "fontFamily": "Twemoji",
       "identifier": "flagForUkraine",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-united-nations": {
       "codepoint": 57525,
@@ -1899,13 +2113,15 @@
       "codepoint": 57939,
       "fontFamily": "Twemoji",
       "identifier": "flagForVietnam",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-georgia": {
       "codepoint": 57940,
       "fontFamily": "Twemoji",
       "identifier": "flagGeorgia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-gibraltar": {
       "codepoint": 57527,
@@ -1918,19 +2134,22 @@
       "codepoint": 57528,
       "fontFamily": "Twemoji",
       "identifier": "flagGreece",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-greenland": {
       "codepoint": 57529,
       "fontFamily": "Twemoji",
       "identifier": "flagGreenland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-indonesia": {
       "codepoint": 57530,
       "fontFamily": "Twemoji",
       "identifier": "flagIndonesia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-isle-of-man": {
       "codepoint": 57531,
@@ -1950,7 +2169,8 @@
       "codepoint": 57533,
       "fontFamily": "Twemoji",
       "identifier": "flagJapan",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-kazakhstan": {
       "codepoint": 57534,
@@ -1963,7 +2183,8 @@
       "codepoint": 57535,
       "fontFamily": "Twemoji",
       "identifier": "flagLatvia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-lebanon": {
       "codepoint": 57536,
@@ -1983,19 +2204,22 @@
       "codepoint": 57538,
       "fontFamily": "Twemoji",
       "identifier": "flagMicronesia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-monaco": {
       "codepoint": 57941,
       "fontFamily": "Twemoji",
       "identifier": "flagMonaco",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-morocco": {
       "codepoint": 57942,
       "fontFamily": "Twemoji",
       "identifier": "flagMorocco",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-nauru": {
       "codepoint": 57539,
@@ -2008,13 +2232,15 @@
       "codepoint": 57540,
       "fontFamily": "Twemoji",
       "identifier": "flagNigeria",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-norfolk-island": {
       "codepoint": 57943,
       "fontFamily": "Twemoji",
       "identifier": "flagNorfolkIsland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-north-korea": {
       "codepoint": 57541,
@@ -2027,7 +2253,8 @@
       "codepoint": 57944,
       "fontFamily": "Twemoji",
       "identifier": "flagNorthMacedonia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-oman": {
       "codepoint": 57542,
@@ -2040,19 +2267,22 @@
       "codepoint": 57543,
       "fontFamily": "Twemoji",
       "identifier": "flagPalau",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-peru": {
       "codepoint": 57945,
       "fontFamily": "Twemoji",
       "identifier": "flagPeru",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-poland": {
       "codepoint": 57544,
       "fontFamily": "Twemoji",
       "identifier": "flagPoland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-puerto-rico": {
       "codepoint": 57545,
@@ -2065,7 +2295,8 @@
       "codepoint": 57546,
       "fontFamily": "Twemoji",
       "identifier": "flagQatar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-reunion": {
       "codepoint": 57547,
@@ -2090,7 +2321,8 @@
       "codepoint": 57549,
       "fontFamily": "Twemoji",
       "identifier": "flagScotland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-sierra-leone": {
       "codepoint": 57550,
@@ -2110,7 +2342,8 @@
       "codepoint": 57946,
       "fontFamily": "Twemoji",
       "identifier": "flagSomalia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-st-lucia": {
       "codepoint": 57552,
@@ -2123,13 +2356,15 @@
       "codepoint": 57553,
       "fontFamily": "Twemoji",
       "identifier": "flagSweden",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-switzerland": {
       "codepoint": 57554,
       "fontFamily": "Twemoji",
       "identifier": "flagSwitzerland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-taiwan": {
       "codepoint": 57555,
@@ -2149,31 +2384,36 @@
       "codepoint": 57947,
       "fontFamily": "Twemoji",
       "identifier": "flagTonga",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-tunisia": {
       "codepoint": 57948,
       "fontFamily": "Twemoji",
       "identifier": "flagTunisia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-turkey": {
       "codepoint": 57949,
       "fontFamily": "Twemoji",
       "identifier": "flagTurkey",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-turkiye": {
       "codepoint": 57950,
       "fontFamily": "Twemoji",
       "identifier": "flagTurkiye",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-ukraine": {
       "codepoint": 57951,
       "fontFamily": "Twemoji",
       "identifier": "flagUkraine",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-united-nations": {
       "codepoint": 57557,
@@ -2193,79 +2433,92 @@
       "codepoint": 57952,
       "fontFamily": "Twemoji",
       "identifier": "flagVietnam",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps": {
       "codepoint": 57953,
       "fontFamily": "Twemoji",
       "identifier": "flexedBiceps",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-dark-skin-tone": {
       "codepoint": 57954,
       "fontFamily": "Twemoji",
       "identifier": "flexedBicepsDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-light-skin-tone": {
       "codepoint": 57559,
       "fontFamily": "Twemoji",
       "identifier": "flexedBicepsLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-dark-skin-tone": {
       "codepoint": 57955,
       "fontFamily": "Twemoji",
       "identifier": "flexedBicepsMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-light-skin-tone": {
       "codepoint": 57560,
       "fontFamily": "Twemoji",
       "identifier": "flexedBicepsMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-skin-tone": {
       "codepoint": 57561,
       "fontFamily": "Twemoji",
       "identifier": "flexedBicepsMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "foot": {
       "codepoint": 57956,
       "fontFamily": "Twemoji",
       "identifier": "foot",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "foot-dark-skin-tone": {
       "codepoint": 57957,
       "fontFamily": "Twemoji",
       "identifier": "footDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "foot-light-skin-tone": {
       "codepoint": 57562,
       "fontFamily": "Twemoji",
       "identifier": "footLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "foot-medium-dark-skin-tone": {
       "codepoint": 57958,
       "fontFamily": "Twemoji",
       "identifier": "footMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "foot-medium-light-skin-tone": {
       "codepoint": 57563,
       "fontFamily": "Twemoji",
       "identifier": "footMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "foot-medium-skin-tone": {
       "codepoint": 57564,
       "fontFamily": "Twemoji",
       "identifier": "footMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fork-and-knife": {
       "codepoint": 57565,
@@ -2276,49 +2529,57 @@
       "codepoint": 57566,
       "fontFamily": "Twemoji",
       "identifier": "freeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "frowning-face": {
       "codepoint": 57959,
       "fontFamily": "Twemoji",
       "identifier": "frowningFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "frowning-face-with-open-mouth": {
       "codepoint": 57960,
       "fontFamily": "Twemoji",
       "identifier": "frowningFaceWithOpenMouth",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "garlic": {
       "codepoint": 57961,
       "fontFamily": "Twemoji",
       "identifier": "garlic",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "glasses": {
       "codepoint": 57962,
       "fontFamily": "Twemoji",
       "identifier": "glasses",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-showing-americas": {
       "codepoint": 57963,
       "fontFamily": "Twemoji",
       "identifier": "globeShowingAmericas",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-showing-asia-australia": {
       "codepoint": 57964,
       "fontFamily": "Twemoji",
       "identifier": "globeShowingAsiaAustralia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-showing-europe-africa": {
       "codepoint": 57965,
       "fontFamily": "Twemoji",
       "identifier": "globeShowingEuropeAfrica",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-with-meridians": {
       "codepoint": 57567,
@@ -2329,7 +2590,8 @@
       "codepoint": 57966,
       "fontFamily": "Twemoji",
       "identifier": "glowingStar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "green-circle": {
       "codepoint": 57568,
@@ -2355,7 +2617,8 @@
       "codepoint": 57967,
       "fontFamily": "Twemoji",
       "identifier": "hammer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hamsa": {
       "codepoint": 57572,
@@ -2368,73 +2631,85 @@
       "codepoint": 57968,
       "fontFamily": "Twemoji",
       "identifier": "handWithFingersSplayed",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-dark-skin-tone": {
       "codepoint": 57969,
       "fontFamily": "Twemoji",
       "identifier": "handWithFingersSplayedDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-light-skin-tone": {
       "codepoint": 57573,
       "fontFamily": "Twemoji",
       "identifier": "handWithFingersSplayedLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-medium-dark-skin-tone": {
       "codepoint": 57970,
       "fontFamily": "Twemoji",
       "identifier": "handWithFingersSplayedMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-medium-light-skin-tone": {
       "codepoint": 57574,
       "fontFamily": "Twemoji",
       "identifier": "handWithFingersSplayedMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-medium-skin-tone": {
       "codepoint": 57575,
       "fontFamily": "Twemoji",
       "identifier": "handWithFingersSplayedMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed": {
       "codepoint": 57971,
       "fontFamily": "Twemoji",
       "identifier": "handWithIndexFingerAndThumbCrossed",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-dark-skin-tone": {
       "codepoint": 57972,
       "fontFamily": "Twemoji",
       "identifier": "handWithIndexFingerAndThumbCrossedDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-light-skin-tone": {
       "codepoint": 57576,
       "fontFamily": "Twemoji",
       "identifier": "handWithIndexFingerAndThumbCrossedLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-medium-dark-skin-tone": {
       "codepoint": 57973,
       "fontFamily": "Twemoji",
       "identifier": "handWithIndexFingerAndThumbCrossedMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-medium-light-skin-tone": {
       "codepoint": 57577,
       "fontFamily": "Twemoji",
       "identifier": "handWithIndexFingerAndThumbCrossedMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-medium-skin-tone": {
       "codepoint": 57578,
       "fontFamily": "Twemoji",
       "identifier": "handWithIndexFingerAndThumbCrossedMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "handshake-light-skin-tone": {
       "codepoint": 57579,
@@ -2496,49 +2771,57 @@
       "codepoint": 57974,
       "fontFamily": "Twemoji",
       "identifier": "heartDecoration",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-hands": {
       "codepoint": 57587,
       "fontFamily": "Twemoji",
       "identifier": "heartHands",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-hands-dark-skin-tone": {
       "codepoint": 57975,
       "fontFamily": "Twemoji",
       "identifier": "heartHandsDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-hands-light-skin-tone": {
       "codepoint": 57588,
       "fontFamily": "Twemoji",
       "identifier": "heartHandsLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-hands-medium-dark-skin-tone": {
       "codepoint": 57976,
       "fontFamily": "Twemoji",
       "identifier": "heartHandsMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-hands-medium-light-skin-tone": {
       "codepoint": 57977,
       "fontFamily": "Twemoji",
       "identifier": "heartHandsMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-hands-medium-skin-tone": {
       "codepoint": 57589,
       "fontFamily": "Twemoji",
       "identifier": "heartHandsMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "high-heeled-shoe": {
       "codepoint": 57978,
       "fontFamily": "Twemoji",
       "identifier": "highHeeledShoe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "high-voltage": {
       "codepoint": 57590,
@@ -2549,7 +2832,8 @@
       "codepoint": 57979,
       "fontFamily": "Twemoji",
       "identifier": "hotPepper",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hourglass": {
       "codepoint": 57591,
@@ -2588,7 +2872,8 @@
       "codepoint": 57980,
       "fontFamily": "Twemoji",
       "identifier": "hushedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ice": {
       "codepoint": 57596,
@@ -2613,43 +2898,50 @@
       "codepoint": 57981,
       "fontFamily": "Twemoji",
       "identifier": "idButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer": {
       "codepoint": 57982,
       "fontFamily": "Twemoji",
       "identifier": "indexPointingAtTheViewer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-dark-skin-tone": {
       "codepoint": 57983,
       "fontFamily": "Twemoji",
       "identifier": "indexPointingAtTheViewerDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-light-skin-tone": {
       "codepoint": 57599,
       "fontFamily": "Twemoji",
       "identifier": "indexPointingAtTheViewerLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-medium-dark-skin-tone": {
       "codepoint": 57984,
       "fontFamily": "Twemoji",
       "identifier": "indexPointingAtTheViewerMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-medium-light-skin-tone": {
       "codepoint": 57600,
       "fontFamily": "Twemoji",
       "identifier": "indexPointingAtTheViewerMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-medium-skin-tone": {
       "codepoint": 57601,
       "fontFamily": "Twemoji",
       "identifier": "indexPointingAtTheViewerMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "index-pointing-up-light-skin-tone": {
       "codepoint": 57602,
@@ -2676,145 +2968,169 @@
       "codepoint": 57605,
       "fontFamily": "Twemoji",
       "identifier": "infinity",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "information": {
       "codepoint": 57606,
       "fontFamily": "Twemoji",
       "identifier": "information",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "input-latin-letters": {
       "codepoint": 57607,
       "fontFamily": "Twemoji",
       "identifier": "inputLatinLetters",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "input-latin-lowercase": {
       "codepoint": 57608,
       "fontFamily": "Twemoji",
       "identifier": "inputLatinLowercase",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "input-latin-uppercase": {
       "codepoint": 57609,
       "fontFamily": "Twemoji",
       "identifier": "inputLatinUppercase",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "input-numbers": {
       "codepoint": 57610,
       "fontFamily": "Twemoji",
       "identifier": "inputNumbers",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "input-symbols": {
       "codepoint": 57611,
       "fontFamily": "Twemoji",
       "identifier": "inputSymbols",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-acceptable-button": {
       "codepoint": 57985,
       "fontFamily": "Twemoji",
       "identifier": "japaneseAcceptableButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-application-button": {
       "codepoint": 57986,
       "fontFamily": "Twemoji",
       "identifier": "japaneseApplicationButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-congratulations-button": {
       "codepoint": 57987,
       "fontFamily": "Twemoji",
       "identifier": "japaneseCongratulationsButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-discount-button": {
       "codepoint": 57988,
       "fontFamily": "Twemoji",
       "identifier": "japaneseDiscountButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-free-of-charge-button": {
       "codepoint": 57989,
       "fontFamily": "Twemoji",
       "identifier": "japaneseFreeOfChargeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-here-button": {
       "codepoint": 57612,
       "fontFamily": "Twemoji",
       "identifier": "japaneseHereButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-monthly-amount-button": {
       "codepoint": 57990,
       "fontFamily": "Twemoji",
       "identifier": "japaneseMonthlyAmountButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-no-vacancy-button": {
       "codepoint": 57991,
       "fontFamily": "Twemoji",
       "identifier": "japaneseNoVacancyButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-not-free-of-charge-button": {
       "codepoint": 57992,
       "fontFamily": "Twemoji",
       "identifier": "japaneseNotFreeOfChargeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-open-for-business-button": {
       "codepoint": 57993,
       "fontFamily": "Twemoji",
       "identifier": "japaneseOpenForBusinessButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-passing-grade-button": {
       "codepoint": 57994,
       "fontFamily": "Twemoji",
       "identifier": "japanesePassingGradeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-prohibited-button": {
       "codepoint": 57995,
       "fontFamily": "Twemoji",
       "identifier": "japaneseProhibitedButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-reserved-button": {
       "codepoint": 57996,
       "fontFamily": "Twemoji",
       "identifier": "japaneseReservedButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-secret-button": {
       "codepoint": 57997,
       "fontFamily": "Twemoji",
       "identifier": "japaneseSecretButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-service-charge-button": {
       "codepoint": 57998,
       "fontFamily": "Twemoji",
       "identifier": "japaneseServiceChargeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-vacancy-button": {
       "codepoint": 57999,
       "fontFamily": "Twemoji",
       "identifier": "japaneseVacancyButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jeans": {
       "codepoint": 58000,
       "fontFamily": "Twemoji",
       "identifier": "jeans",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jellyfish": {
       "codepoint": 57613,
@@ -2832,115 +3148,134 @@
       "codepoint": 58001,
       "fontFamily": "Twemoji",
       "identifier": "keyboard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-0": {
       "codepoint": 57615,
       "fontFamily": "Twemoji",
       "identifier": "keycap0",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-1": {
       "codepoint": 57616,
       "fontFamily": "Twemoji",
       "identifier": "keycap1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-10": {
       "codepoint": 57617,
       "fontFamily": "Twemoji",
       "identifier": "keycap10",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-2": {
       "codepoint": 57618,
       "fontFamily": "Twemoji",
       "identifier": "keycap2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-3": {
       "codepoint": 57619,
       "fontFamily": "Twemoji",
       "identifier": "keycap3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-4": {
       "codepoint": 57620,
       "fontFamily": "Twemoji",
       "identifier": "keycap4",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-5": {
       "codepoint": 57621,
       "fontFamily": "Twemoji",
       "identifier": "keycap5",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-6": {
       "codepoint": 57622,
       "fontFamily": "Twemoji",
       "identifier": "keycap6",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-7": {
       "codepoint": 57623,
       "fontFamily": "Twemoji",
       "identifier": "keycap7",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-8": {
       "codepoint": 57624,
       "fontFamily": "Twemoji",
       "identifier": "keycap8",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-9": {
       "codepoint": 57625,
       "fontFamily": "Twemoji",
       "identifier": "keycap9",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-asterisk": {
       "codepoint": 57626,
       "fontFamily": "Twemoji",
       "identifier": "keycapAsterisk",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap-pound": {
       "codepoint": 57627,
       "fontFamily": "Twemoji",
       "identifier": "keycapPound",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "khanda": {
       "codepoint": 58002,
       "fontFamily": "Twemoji",
       "identifier": "khanda",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kissing-face": {
       "codepoint": 58003,
       "fontFamily": "Twemoji",
       "identifier": "kissingFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kissing-face-with-smiling-eyes": {
       "codepoint": 58004,
       "fontFamily": "Twemoji",
       "identifier": "kissingFaceWithSmilingEyes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "knocked-out-face": {
       "codepoint": 58005,
       "fontFamily": "Twemoji",
       "identifier": "knockedOutFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "landslide": {
       "codepoint": 58006,
       "fontFamily": "Twemoji",
       "identifier": "landslide",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "laptop": {
       "codepoint": 57628,
@@ -2965,13 +3300,15 @@
       "codepoint": 57631,
       "fontFamily": "Twemoji",
       "identifier": "lastTrackButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "latin-cross": {
       "codepoint": 58007,
       "fontFamily": "Twemoji",
       "identifier": "latinCross",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leafless-tree": {
       "codepoint": 57632,
@@ -2982,61 +3319,71 @@
       "codepoint": 57633,
       "fontFamily": "Twemoji",
       "identifier": "leftArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-arrow-curving-right": {
       "codepoint": 57634,
       "fontFamily": "Twemoji",
       "identifier": "leftArrowCurvingRight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist": {
       "codepoint": 58008,
       "fontFamily": "Twemoji",
       "identifier": "leftFacingFist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-dark-skin-tone": {
       "codepoint": 58009,
       "fontFamily": "Twemoji",
       "identifier": "leftFacingFistDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-light-skin-tone": {
       "codepoint": 57635,
       "fontFamily": "Twemoji",
       "identifier": "leftFacingFistLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-dark-skin-tone": {
       "codepoint": 58010,
       "fontFamily": "Twemoji",
       "identifier": "leftFacingFistMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-light-skin-tone": {
       "codepoint": 57636,
       "fontFamily": "Twemoji",
       "identifier": "leftFacingFistMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-skin-tone": {
       "codepoint": 57637,
       "fontFamily": "Twemoji",
       "identifier": "leftFacingFistMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-luggage": {
       "codepoint": 58011,
       "fontFamily": "Twemoji",
       "identifier": "leftLuggage",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-right-arrow": {
       "codepoint": 57638,
       "fontFamily": "Twemoji",
       "identifier": "leftRightArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-speech-bubble": {
       "codepoint": 57639,
@@ -3047,271 +3394,316 @@
       "codepoint": 58012,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-hand-dark-skin-tone": {
       "codepoint": 58013,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-hand-light-skin-tone": {
       "codepoint": 57640,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-hand-medium-dark-skin-tone": {
       "codepoint": 58014,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-hand-medium-light-skin-tone": {
       "codepoint": 57641,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-hand-medium-skin-tone": {
       "codepoint": 57642,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-pushing-hand": {
       "codepoint": 58015,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-pushing-hand-dark-skin-tone": {
       "codepoint": 58016,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-pushing-hand-light-skin-tone": {
       "codepoint": 57643,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-pushing-hand-medium-light-skin-tone": {
       "codepoint": 57644,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftwards-pushing-hand-medium-skin-tone": {
       "codepoint": 57645,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leg": {
       "codepoint": 58017,
       "fontFamily": "Twemoji",
       "identifier": "leg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leg-dark-skin-tone": {
       "codepoint": 58018,
       "fontFamily": "Twemoji",
       "identifier": "legDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leg-light-skin-tone": {
       "codepoint": 57646,
       "fontFamily": "Twemoji",
       "identifier": "legLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leg-medium-dark-skin-tone": {
       "codepoint": 58019,
       "fontFamily": "Twemoji",
       "identifier": "legMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leg-medium-light-skin-tone": {
       "codepoint": 57647,
       "fontFamily": "Twemoji",
       "identifier": "legMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leg-medium-skin-tone": {
       "codepoint": 57648,
       "fontFamily": "Twemoji",
       "identifier": "legMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leo": {
       "codepoint": 58020,
       "fontFamily": "Twemoji",
       "identifier": "leo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-a": {
       "codepoint": 57649,
       "fontFamily": "Twemoji",
       "identifier": "letterA",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-b": {
       "codepoint": 57650,
       "fontFamily": "Twemoji",
       "identifier": "letterB",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-c": {
       "codepoint": 57651,
       "fontFamily": "Twemoji",
       "identifier": "letterC",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-d": {
       "codepoint": 57652,
       "fontFamily": "Twemoji",
       "identifier": "letterD",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-e": {
       "codepoint": 57653,
       "fontFamily": "Twemoji",
       "identifier": "letterE",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-f": {
       "codepoint": 57654,
       "fontFamily": "Twemoji",
       "identifier": "letterF",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-g": {
       "codepoint": 57655,
       "fontFamily": "Twemoji",
       "identifier": "letterG",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-h": {
       "codepoint": 57656,
       "fontFamily": "Twemoji",
       "identifier": "letterH",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-i": {
       "codepoint": 57657,
       "fontFamily": "Twemoji",
       "identifier": "letterI",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-j": {
       "codepoint": 57658,
       "fontFamily": "Twemoji",
       "identifier": "letterJ",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-k": {
       "codepoint": 57659,
       "fontFamily": "Twemoji",
       "identifier": "letterK",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-l": {
       "codepoint": 57660,
       "fontFamily": "Twemoji",
       "identifier": "letterL",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-m": {
       "codepoint": 57661,
       "fontFamily": "Twemoji",
       "identifier": "letterM",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-n": {
       "codepoint": 57662,
       "fontFamily": "Twemoji",
       "identifier": "letterN",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-o": {
       "codepoint": 57663,
       "fontFamily": "Twemoji",
       "identifier": "letterO",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-p": {
       "codepoint": 57664,
       "fontFamily": "Twemoji",
       "identifier": "letterP",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-q": {
       "codepoint": 57665,
       "fontFamily": "Twemoji",
       "identifier": "letterQ",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-r": {
       "codepoint": 57666,
       "fontFamily": "Twemoji",
       "identifier": "letterR",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-s": {
       "codepoint": 57667,
       "fontFamily": "Twemoji",
       "identifier": "letterS",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-t": {
       "codepoint": 57668,
       "fontFamily": "Twemoji",
       "identifier": "letterT",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-u": {
       "codepoint": 57669,
       "fontFamily": "Twemoji",
       "identifier": "letterU",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-v": {
       "codepoint": 57670,
       "fontFamily": "Twemoji",
       "identifier": "letterV",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-w": {
       "codepoint": 57671,
       "fontFamily": "Twemoji",
       "identifier": "letterW",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-x": {
       "codepoint": 57672,
       "fontFamily": "Twemoji",
       "identifier": "letterX",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-y": {
       "codepoint": 57673,
       "fontFamily": "Twemoji",
       "identifier": "letterY",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "letter-z": {
       "codepoint": 57674,
       "fontFamily": "Twemoji",
       "identifier": "letterZ",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "libra": {
       "codepoint": 58021,
       "fontFamily": "Twemoji",
       "identifier": "libra",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "light-blue-heart": {
       "codepoint": 57675,
@@ -3327,67 +3719,78 @@
       "codepoint": 58022,
       "fontFamily": "Twemoji",
       "identifier": "linkedPaperclips",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "litter-in-bin-sign": {
       "codepoint": 57677,
       "fontFamily": "Twemoji",
       "identifier": "litterInBinSign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "locked": {
       "codepoint": 57678,
       "fontFamily": "Twemoji",
       "identifier": "locked",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "love-you-gesture": {
       "codepoint": 58023,
       "fontFamily": "Twemoji",
       "identifier": "loveYouGesture",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "love-you-gesture-dark-skin-tone": {
       "codepoint": 58024,
       "fontFamily": "Twemoji",
       "identifier": "loveYouGestureDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "love-you-gesture-light-skin-tone": {
       "codepoint": 57679,
       "fontFamily": "Twemoji",
       "identifier": "loveYouGestureLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "love-you-gesture-medium-dark-skin-tone": {
       "codepoint": 58025,
       "fontFamily": "Twemoji",
       "identifier": "loveYouGestureMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "love-you-gesture-medium-light-skin-tone": {
       "codepoint": 57680,
       "fontFamily": "Twemoji",
       "identifier": "loveYouGestureMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "love-you-gesture-medium-skin-tone": {
       "codepoint": 57681,
       "fontFamily": "Twemoji",
       "identifier": "loveYouGestureMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mahjong-red-dragon": {
       "codepoint": 58026,
       "fontFamily": "Twemoji",
       "identifier": "mahjongRedDragon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "male-sign": {
       "codepoint": 58027,
       "fontFamily": "Twemoji",
       "identifier": "maleSign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "map-of-japan": {
       "codepoint": 57682,
@@ -3400,7 +3803,8 @@
       "codepoint": 58028,
       "fontFamily": "Twemoji",
       "identifier": "medicalSymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "medium-light-skin-tone": {
       "codepoint": 57683,
@@ -3416,85 +3820,99 @@
       "codepoint": 58029,
       "fontFamily": "Twemoji",
       "identifier": "meltingFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "menorah": {
       "codepoint": 58030,
       "fontFamily": "Twemoji",
       "identifier": "menorah",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mens-room": {
       "codepoint": 58031,
       "fontFamily": "Twemoji",
       "identifier": "mensRoom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "middle-finger": {
       "codepoint": 58032,
       "fontFamily": "Twemoji",
       "identifier": "middleFinger",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "middle-finger-dark-skin-tone": {
       "codepoint": 58033,
       "fontFamily": "Twemoji",
       "identifier": "middleFingerDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "middle-finger-light-skin-tone": {
       "codepoint": 58034,
       "fontFamily": "Twemoji",
       "identifier": "middleFingerLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "middle-finger-medium-dark-skin-tone": {
       "codepoint": 58035,
       "fontFamily": "Twemoji",
       "identifier": "middleFingerMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "middle-finger-medium-light-skin-tone": {
       "codepoint": 57685,
       "fontFamily": "Twemoji",
       "identifier": "middleFingerMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "middle-finger-medium-skin-tone": {
       "codepoint": 58036,
       "fontFamily": "Twemoji",
       "identifier": "middleFingerMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "moai": {
       "codepoint": 58037,
       "fontFamily": "Twemoji",
       "identifier": "moai",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mobile-phone": {
       "codepoint": 58038,
       "fontFamily": "Twemoji",
       "identifier": "mobilePhone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mobile-phone-off": {
       "codepoint": 58039,
       "fontFamily": "Twemoji",
       "identifier": "mobilePhoneOff",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mobile-phone-with-arrow": {
       "codepoint": 58040,
       "fontFamily": "Twemoji",
       "identifier": "mobilePhoneWithArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "musical-keyboard": {
       "codepoint": 58041,
       "fontFamily": "Twemoji",
       "identifier": "musicalKeyboard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "musical-note": {
       "codepoint": 57686,
@@ -3510,25 +3928,29 @@
       "codepoint": 58042,
       "fontFamily": "Twemoji",
       "identifier": "musicalScore",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "name-badge": {
       "codepoint": 58043,
       "fontFamily": "Twemoji",
       "identifier": "nameBadge",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "neutral-face": {
       "codepoint": 58044,
       "fontFamily": "Twemoji",
       "identifier": "neutralFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "new-button": {
       "codepoint": 57688,
       "fontFamily": "Twemoji",
       "identifier": "newButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "newspaper": {
       "codepoint": 57689,
@@ -3541,283 +3963,330 @@
       "codepoint": 57690,
       "fontFamily": "Twemoji",
       "identifier": "nextTrackButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ng-button": {
       "codepoint": 57691,
       "fontFamily": "Twemoji",
       "identifier": "ngButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "no-entry": {
       "codepoint": 58045,
       "fontFamily": "Twemoji",
       "identifier": "noEntry",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "o-button": {
       "codepoint": 58046,
       "fontFamily": "Twemoji",
       "identifier": "oButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "o-button-blood-type": {
       "codepoint": 58047,
       "fontFamily": "Twemoji",
       "identifier": "oButtonBloodType",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-button": {
       "codepoint": 57692,
       "fontFamily": "Twemoji",
       "identifier": "okButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand": {
       "codepoint": 58048,
       "fontFamily": "Twemoji",
       "identifier": "okHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-dark-skin-tone": {
       "codepoint": 58049,
       "fontFamily": "Twemoji",
       "identifier": "okHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-light-skin-tone": {
       "codepoint": 57693,
       "fontFamily": "Twemoji",
       "identifier": "okHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-dark-skin-tone": {
       "codepoint": 58050,
       "fontFamily": "Twemoji",
       "identifier": "okHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-light-skin-tone": {
       "codepoint": 57694,
       "fontFamily": "Twemoji",
       "identifier": "okHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-skin-tone": {
       "codepoint": 57695,
       "fontFamily": "Twemoji",
       "identifier": "okHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "old-key": {
       "codepoint": 58051,
       "fontFamily": "Twemoji",
       "identifier": "oldKey",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist": {
       "codepoint": 58052,
       "fontFamily": "Twemoji",
       "identifier": "oncomingFist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-dark-skin-tone": {
       "codepoint": 58053,
       "fontFamily": "Twemoji",
       "identifier": "oncomingFistDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-light-skin-tone": {
       "codepoint": 57696,
       "fontFamily": "Twemoji",
       "identifier": "oncomingFistLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-medium-dark-skin-tone": {
       "codepoint": 58054,
       "fontFamily": "Twemoji",
       "identifier": "oncomingFistMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-medium-light-skin-tone": {
       "codepoint": 57697,
       "fontFamily": "Twemoji",
       "identifier": "oncomingFistMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-medium-skin-tone": {
       "codepoint": 57698,
       "fontFamily": "Twemoji",
       "identifier": "oncomingFistMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-file-folder": {
       "codepoint": 58055,
       "fontFamily": "Twemoji",
       "identifier": "openFileFolder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands": {
       "codepoint": 58056,
       "fontFamily": "Twemoji",
       "identifier": "openHands",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-dark-skin-tone": {
       "codepoint": 58057,
       "fontFamily": "Twemoji",
       "identifier": "openHandsDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-light-skin-tone": {
       "codepoint": 57699,
       "fontFamily": "Twemoji",
       "identifier": "openHandsLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-medium-dark-skin-tone": {
       "codepoint": 58058,
       "fontFamily": "Twemoji",
       "identifier": "openHandsMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-medium-light-skin-tone": {
       "codepoint": 57700,
       "fontFamily": "Twemoji",
       "identifier": "openHandsMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-medium-skin-tone": {
       "codepoint": 57701,
       "fontFamily": "Twemoji",
       "identifier": "openHandsMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ophiuchus": {
       "codepoint": 58059,
       "fontFamily": "Twemoji",
       "identifier": "ophiuchus",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "orthodox-cross": {
       "codepoint": 58060,
       "fontFamily": "Twemoji",
       "identifier": "orthodoxCross",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "p-button": {
       "codepoint": 58061,
       "fontFamily": "Twemoji",
       "identifier": "pButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-down-hand": {
       "codepoint": 58062,
       "fontFamily": "Twemoji",
       "identifier": "palmDownHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-down-hand-dark-skin-tone": {
       "codepoint": 58063,
       "fontFamily": "Twemoji",
       "identifier": "palmDownHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-down-hand-light-skin-tone": {
       "codepoint": 57702,
       "fontFamily": "Twemoji",
       "identifier": "palmDownHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-down-hand-medium-dark-skin-tone": {
       "codepoint": 58064,
       "fontFamily": "Twemoji",
       "identifier": "palmDownHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-down-hand-medium-light-skin-tone": {
       "codepoint": 57703,
       "fontFamily": "Twemoji",
       "identifier": "palmDownHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-down-hand-medium-skin-tone": {
       "codepoint": 57704,
       "fontFamily": "Twemoji",
       "identifier": "palmDownHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-up-hand": {
       "codepoint": 58065,
       "fontFamily": "Twemoji",
       "identifier": "palmUpHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-up-hand-dark-skin-tone": {
       "codepoint": 58066,
       "fontFamily": "Twemoji",
       "identifier": "palmUpHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-up-hand-light-skin-tone": {
       "codepoint": 57705,
       "fontFamily": "Twemoji",
       "identifier": "palmUpHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-up-hand-medium-dark-skin-tone": {
       "codepoint": 58067,
       "fontFamily": "Twemoji",
       "identifier": "palmUpHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-up-hand-medium-light-skin-tone": {
       "codepoint": 57706,
       "fontFamily": "Twemoji",
       "identifier": "palmUpHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palm-up-hand-medium-skin-tone": {
       "codepoint": 57707,
       "fontFamily": "Twemoji",
       "identifier": "palmUpHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palms-up-together": {
       "codepoint": 58068,
       "fontFamily": "Twemoji",
       "identifier": "palmsUpTogether",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palms-up-together-dark-skin-tone": {
       "codepoint": 58069,
       "fontFamily": "Twemoji",
       "identifier": "palmsUpTogetherDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palms-up-together-light-skin-tone": {
       "codepoint": 57708,
       "fontFamily": "Twemoji",
       "identifier": "palmsUpTogetherLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palms-up-together-medium-dark-skin-tone": {
       "codepoint": 58070,
       "fontFamily": "Twemoji",
       "identifier": "palmsUpTogetherMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palms-up-together-medium-light-skin-tone": {
       "codepoint": 57709,
       "fontFamily": "Twemoji",
       "identifier": "palmsUpTogetherMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palms-up-together-medium-skin-tone": {
       "codepoint": 57710,
       "fontFamily": "Twemoji",
       "identifier": "palmsUpTogetherMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "paperclip": {
       "codepoint": 57711,
@@ -3828,49 +4297,57 @@
       "codepoint": 58071,
       "fontFamily": "Twemoji",
       "identifier": "passportControl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pause-button": {
       "codepoint": 57712,
       "fontFamily": "Twemoji",
       "identifier": "pauseButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "peace-symbol": {
       "codepoint": 58072,
       "fontFamily": "Twemoji",
       "identifier": "peaceSymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "peanuts": {
       "codepoint": 58073,
       "fontFamily": "Twemoji",
       "identifier": "peanuts",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pear": {
       "codepoint": 58074,
       "fontFamily": "Twemoji",
       "identifier": "pear",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pensive-face": {
       "codepoint": 58075,
       "fontFamily": "Twemoji",
       "identifier": "pensiveFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "people-hugging": {
       "codepoint": 58076,
       "fontFamily": "Twemoji",
       "identifier": "peopleHugging",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "persevering-face": {
       "codepoint": 58077,
       "fontFamily": "Twemoji",
       "identifier": "perseveringFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "person-taking-bath": {
       "codepoint": 57713,
@@ -3890,19 +4367,22 @@
       "codepoint": 58078,
       "fontFamily": "Twemoji",
       "identifier": "pig",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pig-nose": {
       "codepoint": 58079,
       "fontFamily": "Twemoji",
       "identifier": "pigNose",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pill": {
       "codepoint": 57715,
       "fontFamily": "Twemoji",
       "identifier": "pill",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pinched-fingers-light-skin-tone": {
       "codepoint": 57716,
@@ -3922,37 +4402,43 @@
       "codepoint": 58080,
       "fontFamily": "Twemoji",
       "identifier": "pinchingHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pinching-hand-dark-skin-tone": {
       "codepoint": 58081,
       "fontFamily": "Twemoji",
       "identifier": "pinchingHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pinching-hand-light-skin-tone": {
       "codepoint": 57718,
       "fontFamily": "Twemoji",
       "identifier": "pinchingHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pinching-hand-medium-dark-skin-tone": {
       "codepoint": 58082,
       "fontFamily": "Twemoji",
       "identifier": "pinchingHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pinching-hand-medium-light-skin-tone": {
       "codepoint": 57719,
       "fontFamily": "Twemoji",
       "identifier": "pinchingHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pinching-hand-medium-skin-tone": {
       "codepoint": 57720,
       "fontFamily": "Twemoji",
       "identifier": "pinchingHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pink-heart": {
       "codepoint": 57721,
@@ -3963,55 +4449,64 @@
       "codepoint": 58083,
       "fontFamily": "Twemoji",
       "identifier": "pisces",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "place-of-worship": {
       "codepoint": 58084,
       "fontFamily": "Twemoji",
       "identifier": "placeOfWorship",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "play-button": {
       "codepoint": 57722,
       "fontFamily": "Twemoji",
       "identifier": "playButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "play-or-pause-button": {
       "codepoint": 57723,
       "fontFamily": "Twemoji",
       "identifier": "playOrPauseButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pool-8-ball": {
       "codepoint": 58085,
       "fontFamily": "Twemoji",
       "identifier": "pool8Ball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "postal-horn": {
       "codepoint": 58086,
       "fontFamily": "Twemoji",
       "identifier": "postalHorn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "potato": {
       "codepoint": 58087,
       "fontFamily": "Twemoji",
       "identifier": "potato",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "poultry-leg": {
       "codepoint": 58088,
       "fontFamily": "Twemoji",
       "identifier": "poultryLeg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pouting-face": {
       "codepoint": 58089,
       "fontFamily": "Twemoji",
       "identifier": "poutingFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "purple-circle": {
       "codepoint": 57724,
@@ -4037,49 +4532,57 @@
       "codepoint": 58090,
       "fontFamily": "Twemoji",
       "identifier": "radioButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "radioactive": {
       "codepoint": 58091,
       "fontFamily": "Twemoji",
       "identifier": "radioactive",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand": {
       "codepoint": 58092,
       "fontFamily": "Twemoji",
       "identifier": "raisedBackOfHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-dark-skin-tone": {
       "codepoint": 58093,
       "fontFamily": "Twemoji",
       "identifier": "raisedBackOfHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-light-skin-tone": {
       "codepoint": 57728,
       "fontFamily": "Twemoji",
       "identifier": "raisedBackOfHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-medium-dark-skin-tone": {
       "codepoint": 58094,
       "fontFamily": "Twemoji",
       "identifier": "raisedBackOfHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-medium-light-skin-tone": {
       "codepoint": 57729,
       "fontFamily": "Twemoji",
       "identifier": "raisedBackOfHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-medium-skin-tone": {
       "codepoint": 57730,
       "fontFamily": "Twemoji",
       "identifier": "raisedBackOfHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-fist-light-skin-tone": {
       "codepoint": 57731,
@@ -4106,37 +4609,43 @@
       "codepoint": 58095,
       "fontFamily": "Twemoji",
       "identifier": "raisedHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-dark-skin-tone": {
       "codepoint": 58096,
       "fontFamily": "Twemoji",
       "identifier": "raisedHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-light-skin-tone": {
       "codepoint": 57734,
       "fontFamily": "Twemoji",
       "identifier": "raisedHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-dark-skin-tone": {
       "codepoint": 58097,
       "fontFamily": "Twemoji",
       "identifier": "raisedHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-light-skin-tone": {
       "codepoint": 57735,
       "fontFamily": "Twemoji",
       "identifier": "raisedHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-skin-tone": {
       "codepoint": 57736,
       "fontFamily": "Twemoji",
       "identifier": "raisedHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raising-hands-light-skin-tone": {
       "codepoint": 57737,
@@ -4156,25 +4665,29 @@
       "codepoint": 57739,
       "fontFamily": "Twemoji",
       "identifier": "receipt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "record-button": {
       "codepoint": 57740,
       "fontFamily": "Twemoji",
       "identifier": "recordButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "recycling-symbol": {
       "codepoint": 58098,
       "fontFamily": "Twemoji",
       "identifier": "recyclingSymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "red-haired": {
       "codepoint": 57741,
       "fontFamily": "Twemoji",
       "identifier": "redHaired",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "red-triangle-pointed-down": {
       "codepoint": 57742,
@@ -4190,181 +4703,211 @@
       "codepoint": 58099,
       "fontFamily": "Twemoji",
       "identifier": "relievedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "reminder-ribbon": {
       "codepoint": 58100,
       "fontFamily": "Twemoji",
       "identifier": "reminderRibbon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "repeat-button": {
       "codepoint": 57744,
       "fontFamily": "Twemoji",
       "identifier": "repeatButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "repeat-single-button": {
       "codepoint": 57745,
       "fontFamily": "Twemoji",
       "identifier": "repeatSingleButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "restroom": {
       "codepoint": 57746,
       "fontFamily": "Twemoji",
       "identifier": "restroom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "reverse-button": {
       "codepoint": 57747,
       "fontFamily": "Twemoji",
       "identifier": "reverseButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "revolving-hearts": {
       "codepoint": 58101,
       "fontFamily": "Twemoji",
       "identifier": "revolvingHearts",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-anger-bubble": {
       "codepoint": 58102,
       "fontFamily": "Twemoji",
       "identifier": "rightAngerBubble",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-arrow": {
       "codepoint": 57748,
       "fontFamily": "Twemoji",
       "identifier": "rightArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-arrow-curving-down": {
       "codepoint": 57749,
       "fontFamily": "Twemoji",
       "identifier": "rightArrowCurvingDown",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-arrow-curving-left": {
       "codepoint": 57750,
       "fontFamily": "Twemoji",
       "identifier": "rightArrowCurvingLeft",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-arrow-curving-up": {
       "codepoint": 57751,
       "fontFamily": "Twemoji",
       "identifier": "rightArrowCurvingUp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist": {
       "codepoint": 58103,
       "fontFamily": "Twemoji",
       "identifier": "rightFacingFist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-dark-skin-tone": {
       "codepoint": 58104,
       "fontFamily": "Twemoji",
       "identifier": "rightFacingFistDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-light-skin-tone": {
       "codepoint": 57752,
       "fontFamily": "Twemoji",
       "identifier": "rightFacingFistLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-dark-skin-tone": {
       "codepoint": 58105,
       "fontFamily": "Twemoji",
       "identifier": "rightFacingFistMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-light-skin-tone": {
       "codepoint": 57753,
       "fontFamily": "Twemoji",
       "identifier": "rightFacingFistMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-skin-tone": {
       "codepoint": 57754,
       "fontFamily": "Twemoji",
       "identifier": "rightFacingFistMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-hand": {
       "codepoint": 58106,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-hand-dark-skin-tone": {
       "codepoint": 58107,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-hand-light-skin-tone": {
       "codepoint": 57755,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-hand-medium-dark-skin-tone": {
       "codepoint": 58108,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-hand-medium-light-skin-tone": {
       "codepoint": 57756,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-hand-medium-skin-tone": {
       "codepoint": 57757,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-pushing-hand": {
       "codepoint": 58109,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-pushing-hand-dark-skin-tone": {
       "codepoint": 58110,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-pushing-hand-light-skin-tone": {
       "codepoint": 57758,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-pushing-hand-medium-dark-skin-tone": {
       "codepoint": 58111,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-pushing-hand-medium-light-skin-tone": {
       "codepoint": 57759,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightwards-pushing-hand-medium-skin-tone": {
       "codepoint": 57760,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ring": {
       "codepoint": 57761,
@@ -4384,13 +4927,15 @@
       "codepoint": 58112,
       "fontFamily": "Twemoji",
       "identifier": "safetyPin",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sagittarius": {
       "codepoint": 58113,
       "fontFamily": "Twemoji",
       "identifier": "sagittarius",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "satellite": {
       "codepoint": 57763,
@@ -4408,43 +4953,50 @@
       "codepoint": 58114,
       "fontFamily": "Twemoji",
       "identifier": "scarf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "scorpio": {
       "codepoint": 58115,
       "fontFamily": "Twemoji",
       "identifier": "scorpio",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "scorpius": {
       "codepoint": 58116,
       "fontFamily": "Twemoji",
       "identifier": "scorpius",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "scotland": {
       "codepoint": 57765,
       "fontFamily": "Twemoji",
       "identifier": "scotland",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sheaf-of-rice": {
       "codepoint": 58117,
       "fontFamily": "Twemoji",
       "identifier": "sheafOfRice",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shinto-shrine": {
       "codepoint": 58118,
       "fontFamily": "Twemoji",
       "identifier": "shintoShrine",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shuffle-tracks-button": {
       "codepoint": 57766,
       "fontFamily": "Twemoji",
       "identifier": "shuffleTracksButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sign-of-the-horns-light-skin-tone": {
       "codepoint": 57767,
@@ -4471,19 +5023,22 @@
       "codepoint": 58119,
       "fontFamily": "Twemoji",
       "identifier": "skull",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "slightly-frowning-face": {
       "codepoint": 58120,
       "fontFamily": "Twemoji",
       "identifier": "slightlyFrowningFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "slightly-smiling-face": {
       "codepoint": 58121,
       "fontFamily": "Twemoji",
       "identifier": "slightlySmilingFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "small-blue-diamond": {
       "codepoint": 57770,
@@ -4494,7 +5049,8 @@
       "codepoint": 58122,
       "fontFamily": "Twemoji",
       "identifier": "smilingFaceWithHorns",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "smiling-face-with-sunglasses": {
       "codepoint": 58184,
@@ -4505,7 +5061,8 @@
       "codepoint": 58123,
       "fontFamily": "Twemoji",
       "identifier": "smirkingFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "snowflake": {
       "codepoint": 57771,
@@ -4516,61 +5073,71 @@
       "codepoint": 58124,
       "fontFamily": "Twemoji",
       "identifier": "sosButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sparkle": {
       "codepoint": 58125,
       "fontFamily": "Twemoji",
       "identifier": "sparkle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sparkles": {
       "codepoint": 57772,
       "fontFamily": "Twemoji",
       "identifier": "sparkles",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sparkling-heart": {
       "codepoint": 58126,
       "fontFamily": "Twemoji",
       "identifier": "sparklingHeart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speaker-high-volume": {
       "codepoint": 58127,
       "fontFamily": "Twemoji",
       "identifier": "speakerHighVolume",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speaker-low-volume": {
       "codepoint": 58128,
       "fontFamily": "Twemoji",
       "identifier": "speakerLowVolume",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speaker-medium-volume": {
       "codepoint": 58129,
       "fontFamily": "Twemoji",
       "identifier": "speakerMediumVolume",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speaking-head": {
       "codepoint": 58130,
       "fontFamily": "Twemoji",
       "identifier": "speakingHead",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speech-balloon": {
       "codepoint": 58131,
       "fontFamily": "Twemoji",
       "identifier": "speechBalloon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "splatter": {
       "codepoint": 58132,
       "fontFamily": "Twemoji",
       "identifier": "splatter",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spoon": {
       "codepoint": 57773,
@@ -4586,31 +5153,36 @@
       "codepoint": 58133,
       "fontFamily": "Twemoji",
       "identifier": "starOfDavid",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stethoscope": {
       "codepoint": 58134,
       "fontFamily": "Twemoji",
       "identifier": "stethoscope",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stop-button": {
       "codepoint": 57775,
       "fontFamily": "Twemoji",
       "identifier": "stopButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stop-sign": {
       "codepoint": 58135,
       "fontFamily": "Twemoji",
       "identifier": "stopSign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "straight-ruler": {
       "codepoint": 58136,
       "fontFamily": "Twemoji",
       "identifier": "straightRuler",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sun": {
       "codepoint": 57776,
@@ -4621,25 +5193,29 @@
       "codepoint": 58137,
       "fontFamily": "Twemoji",
       "identifier": "sunBehindCloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sun-behind-large-cloud": {
       "codepoint": 58138,
       "fontFamily": "Twemoji",
       "identifier": "sunBehindLargeCloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sun-behind-small-cloud": {
       "codepoint": 58139,
       "fontFamily": "Twemoji",
       "identifier": "sunBehindSmallCloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sun-with-face": {
       "codepoint": 58140,
       "fontFamily": "Twemoji",
       "identifier": "sunWithFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sweat-droplets": {
       "codepoint": 57777,
@@ -4650,13 +5226,15 @@
       "codepoint": 57778,
       "fontFamily": "Twemoji",
       "identifier": "tShirt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "teapot": {
       "codepoint": 58141,
       "fontFamily": "Twemoji",
       "identifier": "teapot",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thought-balloon": {
       "codepoint": 57779,
@@ -4667,97 +5245,113 @@
       "codepoint": 58142,
       "fontFamily": "Twemoji",
       "identifier": "thumbsDown",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-dark-skin-tone": {
       "codepoint": 58143,
       "fontFamily": "Twemoji",
       "identifier": "thumbsDownDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-light-skin-tone": {
       "codepoint": 58144,
       "fontFamily": "Twemoji",
       "identifier": "thumbsDownLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-dark-skin-tone": {
       "codepoint": 58145,
       "fontFamily": "Twemoji",
       "identifier": "thumbsDownMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-light-skin-tone": {
       "codepoint": 57780,
       "fontFamily": "Twemoji",
       "identifier": "thumbsDownMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-skin-tone": {
       "codepoint": 57781,
       "fontFamily": "Twemoji",
       "identifier": "thumbsDownMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up": {
       "codepoint": 58146,
       "fontFamily": "Twemoji",
       "identifier": "thumbsUp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-dark-skin-tone": {
       "codepoint": 58147,
       "fontFamily": "Twemoji",
       "identifier": "thumbsUpDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-light-skin-tone": {
       "codepoint": 58148,
       "fontFamily": "Twemoji",
       "identifier": "thumbsUpLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-dark-skin-tone": {
       "codepoint": 58149,
       "fontFamily": "Twemoji",
       "identifier": "thumbsUpMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-light-skin-tone": {
       "codepoint": 57782,
       "fontFamily": "Twemoji",
       "identifier": "thumbsUpMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-skin-tone": {
       "codepoint": 57783,
       "fontFamily": "Twemoji",
       "identifier": "thumbsUpMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ticket": {
       "codepoint": 57784,
       "fontFamily": "Twemoji",
       "identifier": "ticket",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tiger": {
       "codepoint": 58150,
       "fontFamily": "Twemoji",
       "identifier": "tiger",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tomato": {
       "codepoint": 58151,
       "fontFamily": "Twemoji",
       "identifier": "tomato",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tooth": {
       "codepoint": 58152,
       "fontFamily": "Twemoji",
       "identifier": "tooth",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "transgender-flag": {
       "codepoint": 57785,
@@ -4770,13 +5364,15 @@
       "codepoint": 58153,
       "fontFamily": "Twemoji",
       "identifier": "transgenderSymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "triangular-flag": {
       "codepoint": 58154,
       "fontFamily": "Twemoji",
       "identifier": "triangularFlag",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "triangular-ruler": {
       "codepoint": 57786,
@@ -4792,85 +5388,99 @@
       "codepoint": 57788,
       "fontFamily": "Twemoji",
       "identifier": "trumpet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "two-hump-camel": {
       "codepoint": 58155,
       "fontFamily": "Twemoji",
       "identifier": "twoHumpCamel",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "unamused-face": {
       "codepoint": 58156,
       "fontFamily": "Twemoji",
       "identifier": "unamusedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "unlocked": {
       "codepoint": 57789,
       "fontFamily": "Twemoji",
       "identifier": "unlocked",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "up-arrow": {
       "codepoint": 57790,
       "fontFamily": "Twemoji",
       "identifier": "upArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "up-button": {
       "codepoint": 57791,
       "fontFamily": "Twemoji",
       "identifier": "upButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "up-down-arrow": {
       "codepoint": 57792,
       "fontFamily": "Twemoji",
       "identifier": "upDownArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "up-exclamation-button": {
       "codepoint": 57793,
       "fontFamily": "Twemoji",
       "identifier": "upExclamationButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "up-left-arrow": {
       "codepoint": 57794,
       "fontFamily": "Twemoji",
       "identifier": "upLeftArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "up-right-arrow": {
       "codepoint": 57795,
       "fontFamily": "Twemoji",
       "identifier": "upRightArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "up-text-button": {
       "codepoint": 57796,
       "fontFamily": "Twemoji",
       "identifier": "upTextButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "upside-down-face": {
       "codepoint": 58157,
       "fontFamily": "Twemoji",
       "identifier": "upsideDownFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "upwards-button": {
       "codepoint": 57797,
       "fontFamily": "Twemoji",
       "identifier": "upwardsButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vibration-mode": {
       "codepoint": 58158,
       "fontFamily": "Twemoji",
       "identifier": "vibrationMode",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "victory-hand-light-skin-tone": {
       "codepoint": 57798,
@@ -4897,85 +5507,99 @@
       "codepoint": 58159,
       "fontFamily": "Twemoji",
       "identifier": "videoCamera",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "virgo": {
       "codepoint": 58160,
       "fontFamily": "Twemoji",
       "identifier": "virgo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "volleyball": {
       "codepoint": 58161,
       "fontFamily": "Twemoji",
       "identifier": "volleyball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vs-button": {
       "codepoint": 58162,
       "fontFamily": "Twemoji",
       "identifier": "vsButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vulcan-salute": {
       "codepoint": 58163,
       "fontFamily": "Twemoji",
       "identifier": "vulcanSalute",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vulcan-salute-dark-skin-tone": {
       "codepoint": 58164,
       "fontFamily": "Twemoji",
       "identifier": "vulcanSaluteDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vulcan-salute-light-skin-tone": {
       "codepoint": 57801,
       "fontFamily": "Twemoji",
       "identifier": "vulcanSaluteLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vulcan-salute-medium-dark-skin-tone": {
       "codepoint": 58165,
       "fontFamily": "Twemoji",
       "identifier": "vulcanSaluteMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vulcan-salute-medium-light-skin-tone": {
       "codepoint": 57802,
       "fontFamily": "Twemoji",
       "identifier": "vulcanSaluteMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vulcan-salute-medium-skin-tone": {
       "codepoint": 57803,
       "fontFamily": "Twemoji",
       "identifier": "vulcanSaluteMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "warning": {
       "codepoint": 58166,
       "fontFamily": "Twemoji",
       "identifier": "warning",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wastebasket": {
       "codepoint": 58167,
       "fontFamily": "Twemoji",
       "identifier": "wastebasket",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "water-closet": {
       "codepoint": 58168,
       "fontFamily": "Twemoji",
       "identifier": "waterCloset",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "water-wave": {
       "codepoint": 58169,
       "fontFamily": "Twemoji",
       "identifier": "waterWave",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "waving-hand-light-skin-tone": {
       "codepoint": 57804,
@@ -5009,13 +5633,15 @@
       "codepoint": 58170,
       "fontFamily": "Twemoji",
       "identifier": "wheelOfDharma",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wheelchair-symbol": {
       "codepoint": 58171,
       "fontFamily": "Twemoji",
       "identifier": "wheelchairSymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "white-exclamation-mark": {
       "codepoint": 57808,
@@ -5026,19 +5652,22 @@
       "codepoint": 58172,
       "fontFamily": "Twemoji",
       "identifier": "whiteFlower",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "white-haired": {
       "codepoint": 58173,
       "fontFamily": "Twemoji",
       "identifier": "whiteHaired",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "white-heavy-check-mark": {
       "codepoint": 58174,
       "fontFamily": "Twemoji",
       "identifier": "whiteHeavyCheckMark",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "white-medium-star": {
       "codepoint": 57809,
@@ -5054,7 +5683,8 @@
       "codepoint": 58175,
       "fontFamily": "Twemoji",
       "identifier": "whiteSquareButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wind-face": {
       "codepoint": 57811,
@@ -5067,13 +5697,15 @@
       "codepoint": 57812,
       "fontFamily": "Twemoji",
       "identifier": "wing",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "winking-face": {
       "codepoint": 58176,
       "fontFamily": "Twemoji",
       "identifier": "winkingFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wireless": {
       "codepoint": 57813,
@@ -5096,13 +5728,15 @@
       "codepoint": 58177,
       "fontFamily": "Twemoji",
       "identifier": "womensRoom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "worried-face": {
       "codepoint": 58178,
       "fontFamily": "Twemoji",
       "identifier": "worriedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "writing-hand-light-skin-tone": {
       "codepoint": 57814,
@@ -5137,7 +5771,8 @@
       "codepoint": 58179,
       "fontFamily": "Twemoji",
       "identifier": "yinYang",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     }
   }
 }

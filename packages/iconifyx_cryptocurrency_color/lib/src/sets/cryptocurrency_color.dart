@@ -31,26 +31,26 @@ class CryptocurrencyColorIcons {
     IconData(0xe002, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `aave` (duo-tone)
-  static const IconifyIconData aave = IconifyIconData.duo(
+  /// `aave` (paint-order duotone)
+  static const IconifyIconData aave = IconifyIconData.duoPaintOrder(
     IconData(0xe003, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe003, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `abt` (duo-tone)
-  static const IconifyIconData abt = IconifyIconData.duo(
+  /// `abt` (paint-order duotone)
+  static const IconifyIconData abt = IconifyIconData.duoPaintOrder(
     IconData(0xe004, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe004, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `act` (duo-tone)
-  static const IconifyIconData act = IconifyIconData.duo(
+  /// `act` (paint-order duotone)
+  static const IconifyIconData act = IconifyIconData.duoPaintOrder(
     IconData(0xe005, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe005, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `actn` (duo-tone)
-  static const IconifyIconData actn = IconifyIconData.duo(
+  /// `actn` (paint-order duotone)
+  static const IconifyIconData actn = IconifyIconData.duoPaintOrder(
     IconData(0xe006, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe006, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -60,20 +60,20 @@ class CryptocurrencyColorIcons {
     IconData(0xe007, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `add` (duo-tone)
-  static const IconifyIconData add = IconifyIconData.duo(
+  /// `add` (paint-order duotone)
+  static const IconifyIconData add = IconifyIconData.duoPaintOrder(
     IconData(0xe008, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe008, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `adx` (duo-tone)
-  static const IconifyIconData adx = IconifyIconData.duo(
+  /// `adx` (paint-order duotone)
+  static const IconifyIconData adx = IconifyIconData.duoPaintOrder(
     IconData(0xe009, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe009, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ae` (duo-tone)
-  static const IconifyIconData ae = IconifyIconData.duo(
+  /// `ae` (paint-order duotone)
+  static const IconifyIconData ae = IconifyIconData.duoPaintOrder(
     IconData(0xe00a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe00a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -93,8 +93,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe00d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `agrs` (duo-tone)
-  static const IconifyIconData agrs = IconifyIconData.duo(
+  /// `agrs` (paint-order duotone)
+  static const IconifyIconData agrs = IconifyIconData.duoPaintOrder(
     IconData(0xe00e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe00e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -104,62 +104,62 @@ class CryptocurrencyColorIcons {
     IconData(0xe00f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `algo` (duo-tone)
-  static const IconifyIconData algo = IconifyIconData.duo(
+  /// `algo` (paint-order duotone)
+  static const IconifyIconData algo = IconifyIconData.duoPaintOrder(
     IconData(0xe010, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe010, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `amb` (duo-tone)
-  static const IconifyIconData amb = IconifyIconData.duo(
+  /// `amb` (paint-order duotone)
+  static const IconifyIconData amb = IconifyIconData.duoPaintOrder(
     IconData(0xe011, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe011, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `amp` (duo-tone)
-  static const IconifyIconData amp = IconifyIconData.duo(
+  /// `amp` (paint-order duotone)
+  static const IconifyIconData amp = IconifyIconData.duoPaintOrder(
     IconData(0xe012, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe012, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ampl` (duo-tone)
-  static const IconifyIconData ampl = IconifyIconData.duo(
+  /// `ampl` (paint-order duotone)
+  static const IconifyIconData ampl = IconifyIconData.duoPaintOrder(
     IconData(0xe013, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe013, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ankr` (duo-tone)
-  static const IconifyIconData ankr = IconifyIconData.duo(
+  /// `ankr` (paint-order duotone)
+  static const IconifyIconData ankr = IconifyIconData.duoPaintOrder(
     IconData(0xe014, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe014, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ant` (duo-tone)
-  static const IconifyIconData ant = IconifyIconData.duo(
+  /// `ant` (paint-order duotone)
+  static const IconifyIconData ant = IconifyIconData.duoPaintOrder(
     IconData(0xe015, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe015, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ape` (duo-tone)
-  static const IconifyIconData ape = IconifyIconData.duo(
+  /// `ape` (paint-order duotone)
+  static const IconifyIconData ape = IconifyIconData.duoPaintOrder(
     IconData(0xe016, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe016, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `apex` (duo-tone)
-  static const IconifyIconData apex = IconifyIconData.duo(
+  /// `apex` (paint-order duotone)
+  static const IconifyIconData apex = IconifyIconData.duoPaintOrder(
     IconData(0xe017, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe017, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `appc` (duo-tone)
-  static const IconifyIconData appc = IconifyIconData.duo(
+  /// `appc` (paint-order duotone)
+  static const IconifyIconData appc = IconifyIconData.duoPaintOrder(
     IconData(0xe018, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe018, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ardr` (duo-tone)
-  static const IconifyIconData ardr = IconifyIconData.duo(
+  /// `ardr` (paint-order duotone)
+  static const IconifyIconData ardr = IconifyIconData.duoPaintOrder(
     IconData(0xe019, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe019, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -169,14 +169,14 @@ class CryptocurrencyColorIcons {
     IconData(0xe01a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ark` (duo-tone)
-  static const IconifyIconData ark = IconifyIconData.duo(
+  /// `ark` (paint-order duotone)
+  static const IconifyIconData ark = IconifyIconData.duoPaintOrder(
     IconData(0xe01b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe01b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `arn` (duo-tone)
-  static const IconifyIconData arn = IconifyIconData.duo(
+  /// `arn` (paint-order duotone)
+  static const IconifyIconData arn = IconifyIconData.duoPaintOrder(
     IconData(0xe01c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe01c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -186,14 +186,14 @@ class CryptocurrencyColorIcons {
     IconData(0xe01d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ary` (duo-tone)
-  static const IconifyIconData ary = IconifyIconData.duo(
+  /// `ary` (paint-order duotone)
+  static const IconifyIconData ary = IconifyIconData.duoPaintOrder(
     IconData(0xe01e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe01e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ast` (duo-tone)
-  static const IconifyIconData ast = IconifyIconData.duo(
+  /// `ast` (paint-order duotone)
+  static const IconifyIconData ast = IconifyIconData.duoPaintOrder(
     IconData(0xe01f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe01f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -203,8 +203,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe020, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `atm` (duo-tone)
-  static const IconifyIconData atm = IconifyIconData.duo(
+  /// `atm` (paint-order duotone)
+  static const IconifyIconData atm = IconifyIconData.duoPaintOrder(
     IconData(0xe021, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe021, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -214,26 +214,26 @@ class CryptocurrencyColorIcons {
     IconData(0xe022, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `audr` (duo-tone)
-  static const IconifyIconData audr = IconifyIconData.duo(
+  /// `audr` (paint-order duotone)
+  static const IconifyIconData audr = IconifyIconData.duoPaintOrder(
     IconData(0xe023, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe023, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `aury` (duo-tone)
-  static const IconifyIconData aury = IconifyIconData.duo(
+  /// `aury` (paint-order duotone)
+  static const IconifyIconData aury = IconifyIconData.duoPaintOrder(
     IconData(0xe024, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe024, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `auto` (duo-tone)
-  static const IconifyIconData auto = IconifyIconData.duo(
+  /// `auto` (paint-order duotone)
+  static const IconifyIconData auto = IconifyIconData.duoPaintOrder(
     IconData(0xe025, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe025, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `avax` (duo-tone)
-  static const IconifyIconData avax = IconifyIconData.duo(
+  /// `avax` (paint-order duotone)
+  static const IconifyIconData avax = IconifyIconData.duoPaintOrder(
     IconData(0xe026, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe026, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -243,8 +243,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe027, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bab` (duo-tone)
-  static const IconifyIconData bab = IconifyIconData.duo(
+  /// `bab` (paint-order duotone)
+  static const IconifyIconData bab = IconifyIconData.duoPaintOrder(
     IconData(0xe028, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe028, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -259,98 +259,98 @@ class CryptocurrencyColorIcons {
     IconData(0xe02a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bat` (duo-tone)
-  static const IconifyIconData bat = IconifyIconData.duo(
+  /// `bat` (paint-order duotone)
+  static const IconifyIconData bat = IconifyIconData.duoPaintOrder(
     IconData(0xe02b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe02b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bay` (duo-tone)
-  static const IconifyIconData bay = IconifyIconData.duo(
+  /// `bay` (paint-order duotone)
+  static const IconifyIconData bay = IconifyIconData.duoPaintOrder(
     IconData(0xe02c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe02c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bcbc` (duo-tone)
-  static const IconifyIconData bcbc = IconifyIconData.duo(
+  /// `bcbc` (paint-order duotone)
+  static const IconifyIconData bcbc = IconifyIconData.duoPaintOrder(
     IconData(0xe02d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe02d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bcc` (duo-tone)
-  static const IconifyIconData bcc = IconifyIconData.duo(
+  /// `bcc` (paint-order duotone)
+  static const IconifyIconData bcc = IconifyIconData.duoPaintOrder(
     IconData(0xe02e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe02e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bcd` (duo-tone)
-  static const IconifyIconData bcd = IconifyIconData.duo(
+  /// `bcd` (paint-order duotone)
+  static const IconifyIconData bcd = IconifyIconData.duoPaintOrder(
     IconData(0xe02f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe02f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bch` (duo-tone)
-  static const IconifyIconData bch = IconifyIconData.duo(
+  /// `bch` (paint-order duotone)
+  static const IconifyIconData bch = IconifyIconData.duoPaintOrder(
     IconData(0xe030, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe030, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bcio` (duo-tone)
-  static const IconifyIconData bcio = IconifyIconData.duo(
+  /// `bcio` (paint-order duotone)
+  static const IconifyIconData bcio = IconifyIconData.duoPaintOrder(
     IconData(0xe031, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe031, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bcn` (duo-tone)
-  static const IconifyIconData bcn = IconifyIconData.duo(
+  /// `bcn` (paint-order duotone)
+  static const IconifyIconData bcn = IconifyIconData.duoPaintOrder(
     IconData(0xe032, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe032, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bco` (duo-tone)
-  static const IconifyIconData bco = IconifyIconData.duo(
+  /// `bco` (paint-order duotone)
+  static const IconifyIconData bco = IconifyIconData.duoPaintOrder(
     IconData(0xe033, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe033, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bcpt` (duo-tone)
-  static const IconifyIconData bcpt = IconifyIconData.duo(
+  /// `bcpt` (paint-order duotone)
+  static const IconifyIconData bcpt = IconifyIconData.duoPaintOrder(
     IconData(0xe034, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe034, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bdl` (duo-tone)
-  static const IconifyIconData bdl = IconifyIconData.duo(
+  /// `bdl` (paint-order duotone)
+  static const IconifyIconData bdl = IconifyIconData.duoPaintOrder(
     IconData(0xe035, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe035, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `beam` (duo-tone)
-  static const IconifyIconData beam = IconifyIconData.duo(
+  /// `beam` (paint-order duotone)
+  static const IconifyIconData beam = IconifyIconData.duoPaintOrder(
     IconData(0xe036, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe036, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bela` (duo-tone)
-  static const IconifyIconData bela = IconifyIconData.duo(
+  /// `bela` (paint-order duotone)
+  static const IconifyIconData bela = IconifyIconData.duoPaintOrder(
     IconData(0xe037, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe037, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bix` (duo-tone)
-  static const IconifyIconData bix = IconifyIconData.duo(
+  /// `bix` (paint-order duotone)
+  static const IconifyIconData bix = IconifyIconData.duoPaintOrder(
     IconData(0xe038, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe038, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `blcn` (duo-tone)
-  static const IconifyIconData blcn = IconifyIconData.duo(
+  /// `blcn` (paint-order duotone)
+  static const IconifyIconData blcn = IconifyIconData.duoPaintOrder(
     IconData(0xe039, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe039, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `blk` (duo-tone)
-  static const IconifyIconData blk = IconifyIconData.duo(
+  /// `blk` (paint-order duotone)
+  static const IconifyIconData blk = IconifyIconData.duoPaintOrder(
     IconData(0xe03a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe03a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -360,80 +360,80 @@ class CryptocurrencyColorIcons {
     IconData(0xe03b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `blz` (duo-tone)
-  static const IconifyIconData blz = IconifyIconData.duo(
+  /// `blz` (paint-order duotone)
+  static const IconifyIconData blz = IconifyIconData.duoPaintOrder(
     IconData(0xe03c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe03c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bnb` (duo-tone)
-  static const IconifyIconData bnb = IconifyIconData.duo(
+  /// `bnb` (paint-order duotone)
+  static const IconifyIconData bnb = IconifyIconData.duoPaintOrder(
     IconData(0xe03d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe03d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bnt` (duo-tone)
-  static const IconifyIconData bnt = IconifyIconData.duo(
+  /// `bnt` (paint-order duotone)
+  static const IconifyIconData bnt = IconifyIconData.duoPaintOrder(
     IconData(0xe03e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe03e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bnty` (duo-tone)
-  static const IconifyIconData bnty = IconifyIconData.duo(
+  /// `bnty` (paint-order duotone)
+  static const IconifyIconData bnty = IconifyIconData.duoPaintOrder(
     IconData(0xe03f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe03f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `booty` (duo-tone)
-  static const IconifyIconData booty = IconifyIconData.duo(
+  /// `booty` (paint-order duotone)
+  static const IconifyIconData booty = IconifyIconData.duoPaintOrder(
     IconData(0xe040, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe040, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bos` (duo-tone)
-  static const IconifyIconData bos = IconifyIconData.duo(
+  /// `bos` (paint-order duotone)
+  static const IconifyIconData bos = IconifyIconData.duoPaintOrder(
     IconData(0xe041, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe041, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bpt` (duo-tone)
-  static const IconifyIconData bpt = IconifyIconData.duo(
+  /// `bpt` (paint-order duotone)
+  static const IconifyIconData bpt = IconifyIconData.duoPaintOrder(
     IconData(0xe042, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe042, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bq` (duo-tone)
-  static const IconifyIconData bq = IconifyIconData.duo(
+  /// `bq` (paint-order duotone)
+  static const IconifyIconData bq = IconifyIconData.duoPaintOrder(
     IconData(0xe043, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe043, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `brd` (duo-tone)
-  static const IconifyIconData brd = IconifyIconData.duo(
+  /// `brd` (paint-order duotone)
+  static const IconifyIconData brd = IconifyIconData.duoPaintOrder(
     IconData(0xe044, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe044, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bsd` (duo-tone)
-  static const IconifyIconData bsd = IconifyIconData.duo(
+  /// `bsd` (paint-order duotone)
+  static const IconifyIconData bsd = IconifyIconData.duoPaintOrder(
     IconData(0xe045, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe045, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bsv` (duo-tone)
-  static const IconifyIconData bsv = IconifyIconData.duo(
+  /// `bsv` (paint-order duotone)
+  static const IconifyIconData bsv = IconifyIconData.duoPaintOrder(
     IconData(0xe046, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe046, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `btc` (duo-tone)
-  static const IconifyIconData btc = IconifyIconData.duo(
+  /// `btc` (paint-order duotone)
+  static const IconifyIconData btc = IconifyIconData.duoPaintOrder(
     IconData(0xe047, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe047, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `btcd` (duo-tone)
-  static const IconifyIconData btcd = IconifyIconData.duo(
+  /// `btcd` (paint-order duotone)
+  static const IconifyIconData btcd = IconifyIconData.duoPaintOrder(
     IconData(0xe048, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe048, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -443,14 +443,14 @@ class CryptocurrencyColorIcons {
     IconData(0xe049, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `btcp` (duo-tone)
-  static const IconifyIconData btcp = IconifyIconData.duo(
+  /// `btcp` (paint-order duotone)
+  static const IconifyIconData btcp = IconifyIconData.duoPaintOrder(
     IconData(0xe04a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe04a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `btcz` (duo-tone)
-  static const IconifyIconData btcz = IconifyIconData.duo(
+  /// `btcz` (paint-order duotone)
+  static const IconifyIconData btcz = IconifyIconData.duoPaintOrder(
     IconData(0xe04b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe04b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -460,20 +460,20 @@ class CryptocurrencyColorIcons {
     IconData(0xe04c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `btg` (duo-tone)
-  static const IconifyIconData btg = IconifyIconData.duo(
+  /// `btg` (paint-order duotone)
+  static const IconifyIconData btg = IconifyIconData.duoPaintOrder(
     IconData(0xe04d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe04d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `btm` (duo-tone)
-  static const IconifyIconData btm = IconifyIconData.duo(
+  /// `btm` (paint-order duotone)
+  static const IconifyIconData btm = IconifyIconData.duoPaintOrder(
     IconData(0xe04e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe04e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bts` (duo-tone)
-  static const IconifyIconData bts = IconifyIconData.duo(
+  /// `bts` (paint-order duotone)
+  static const IconifyIconData bts = IconifyIconData.duoPaintOrder(
     IconData(0xe04f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe04f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -483,20 +483,20 @@ class CryptocurrencyColorIcons {
     IconData(0xe050, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `btx` (duo-tone)
-  static const IconifyIconData btx = IconifyIconData.duo(
+  /// `btx` (paint-order duotone)
+  static const IconifyIconData btx = IconifyIconData.duoPaintOrder(
     IconData(0xe051, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe051, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `burst` (duo-tone)
-  static const IconifyIconData burst = IconifyIconData.duo(
+  /// `burst` (paint-order duotone)
+  static const IconifyIconData burst = IconifyIconData.duoPaintOrder(
     IconData(0xe052, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe052, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `bze` (duo-tone)
-  static const IconifyIconData bze = IconifyIconData.duo(
+  /// `bze` (paint-order duotone)
+  static const IconifyIconData bze = IconifyIconData.duoPaintOrder(
     IconData(0xe053, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe053, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -511,20 +511,20 @@ class CryptocurrencyColorIcons {
     IconData(0xe055, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cdn` (duo-tone)
-  static const IconifyIconData cdn = IconifyIconData.duo(
+  /// `cdn` (paint-order duotone)
+  static const IconifyIconData cdn = IconifyIconData.duoPaintOrder(
     IconData(0xe056, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe056, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cdt` (duo-tone)
-  static const IconifyIconData cdt = IconifyIconData.duo(
+  /// `cdt` (paint-order duotone)
+  static const IconifyIconData cdt = IconifyIconData.duoPaintOrder(
     IconData(0xe057, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe057, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cenz` (duo-tone)
-  static const IconifyIconData cenz = IconifyIconData.duo(
+  /// `cenz` (paint-order duotone)
+  static const IconifyIconData cenz = IconifyIconData.duoPaintOrder(
     IconData(0xe058, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe058, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -534,26 +534,26 @@ class CryptocurrencyColorIcons {
     IconData(0xe059, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `chat` (duo-tone)
-  static const IconifyIconData chat = IconifyIconData.duo(
+  /// `chat` (paint-order duotone)
+  static const IconifyIconData chat = IconifyIconData.duoPaintOrder(
     IconData(0xe05a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe05a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `chips` (duo-tone)
-  static const IconifyIconData chips = IconifyIconData.duo(
+  /// `chips` (paint-order duotone)
+  static const IconifyIconData chips = IconifyIconData.duoPaintOrder(
     IconData(0xe05b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe05b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `chsb` (duo-tone)
-  static const IconifyIconData chsb = IconifyIconData.duo(
+  /// `chsb` (paint-order duotone)
+  static const IconifyIconData chsb = IconifyIconData.duoPaintOrder(
     IconData(0xe05c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe05c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `chz` (duo-tone)
-  static const IconifyIconData chz = IconifyIconData.duo(
+  /// `chz` (paint-order duotone)
+  static const IconifyIconData chz = IconifyIconData.duoPaintOrder(
     IconData(0xe05d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe05d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -563,32 +563,32 @@ class CryptocurrencyColorIcons {
     IconData(0xe05e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `clam` (duo-tone)
-  static const IconifyIconData clam = IconifyIconData.duo(
+  /// `clam` (paint-order duotone)
+  static const IconifyIconData clam = IconifyIconData.duoPaintOrder(
     IconData(0xe05f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe05f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cloak` (duo-tone)
-  static const IconifyIconData cloak = IconifyIconData.duo(
+  /// `cloak` (paint-order duotone)
+  static const IconifyIconData cloak = IconifyIconData.duoPaintOrder(
     IconData(0xe060, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe060, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cmm` (duo-tone)
-  static const IconifyIconData cmm = IconifyIconData.duo(
+  /// `cmm` (paint-order duotone)
+  static const IconifyIconData cmm = IconifyIconData.duoPaintOrder(
     IconData(0xe061, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe061, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cmt` (duo-tone)
-  static const IconifyIconData cmt = IconifyIconData.duo(
+  /// `cmt` (paint-order duotone)
+  static const IconifyIconData cmt = IconifyIconData.duoPaintOrder(
     IconData(0xe062, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe062, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cnd` (duo-tone)
-  static const IconifyIconData cnd = IconifyIconData.duo(
+  /// `cnd` (paint-order duotone)
+  static const IconifyIconData cnd = IconifyIconData.duoPaintOrder(
     IconData(0xe063, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe063, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -598,68 +598,68 @@ class CryptocurrencyColorIcons {
     IconData(0xe064, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cny` (duo-tone)
-  static const IconifyIconData cny = IconifyIconData.duo(
+  /// `cny` (paint-order duotone)
+  static const IconifyIconData cny = IconifyIconData.duoPaintOrder(
     IconData(0xe065, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe065, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cob` (duo-tone)
-  static const IconifyIconData cob = IconifyIconData.duo(
+  /// `cob` (paint-order duotone)
+  static const IconifyIconData cob = IconifyIconData.duoPaintOrder(
     IconData(0xe066, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe066, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `colx` (duo-tone)
-  static const IconifyIconData colx = IconifyIconData.duo(
+  /// `colx` (paint-order duotone)
+  static const IconifyIconData colx = IconifyIconData.duoPaintOrder(
     IconData(0xe067, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe067, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `comp` (duo-tone)
-  static const IconifyIconData comp = IconifyIconData.duo(
+  /// `comp` (paint-order duotone)
+  static const IconifyIconData comp = IconifyIconData.duoPaintOrder(
     IconData(0xe068, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe068, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `coqui` (duo-tone)
-  static const IconifyIconData coqui = IconifyIconData.duo(
+  /// `coqui` (paint-order duotone)
+  static const IconifyIconData coqui = IconifyIconData.duoPaintOrder(
     IconData(0xe069, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe069, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cred` (duo-tone)
-  static const IconifyIconData cred = IconifyIconData.duo(
+  /// `cred` (paint-order duotone)
+  static const IconifyIconData cred = IconifyIconData.duoPaintOrder(
     IconData(0xe06a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe06a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `crpt` (duo-tone)
-  static const IconifyIconData crpt = IconifyIconData.duo(
+  /// `crpt` (paint-order duotone)
+  static const IconifyIconData crpt = IconifyIconData.duoPaintOrder(
     IconData(0xe06b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe06b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `crv` (duo-tone)
-  static const IconifyIconData crv = IconifyIconData.duo(
+  /// `crv` (paint-order duotone)
+  static const IconifyIconData crv = IconifyIconData.duoPaintOrder(
     IconData(0xe06c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe06c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `crw` (duo-tone)
-  static const IconifyIconData crw = IconifyIconData.duo(
+  /// `crw` (paint-order duotone)
+  static const IconifyIconData crw = IconifyIconData.duoPaintOrder(
     IconData(0xe06d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe06d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cs` (duo-tone)
-  static const IconifyIconData cs = IconifyIconData.duo(
+  /// `cs` (paint-order duotone)
+  static const IconifyIconData cs = IconifyIconData.duoPaintOrder(
     IconData(0xe06e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe06e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ctr` (duo-tone)
-  static const IconifyIconData ctr = IconifyIconData.duo(
+  /// `ctr` (paint-order duotone)
+  static const IconifyIconData ctr = IconifyIconData.duoPaintOrder(
     IconData(0xe06f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe06f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -669,20 +669,20 @@ class CryptocurrencyColorIcons {
     IconData(0xe070, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `cvc` (duo-tone)
-  static const IconifyIconData cvc = IconifyIconData.duo(
+  /// `cvc` (paint-order duotone)
+  static const IconifyIconData cvc = IconifyIconData.duoPaintOrder(
     IconData(0xe071, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe071, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `d` (duo-tone)
-  static const IconifyIconData d = IconifyIconData.duo(
+  /// `d` (paint-order duotone)
+  static const IconifyIconData d = IconifyIconData.duoPaintOrder(
     IconData(0xe072, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe072, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dai` (duo-tone)
-  static const IconifyIconData dai = IconifyIconData.duo(
+  /// `dai` (paint-order duotone)
+  static const IconifyIconData dai = IconifyIconData.duoPaintOrder(
     IconData(0xe073, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe073, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -692,92 +692,92 @@ class CryptocurrencyColorIcons {
     IconData(0xe074, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dat` (duo-tone)
-  static const IconifyIconData dat = IconifyIconData.duo(
+  /// `dat` (paint-order duotone)
+  static const IconifyIconData dat = IconifyIconData.duoPaintOrder(
     IconData(0xe075, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe075, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `data` (duo-tone)
-  static const IconifyIconData data = IconifyIconData.duo(
+  /// `data` (paint-order duotone)
+  static const IconifyIconData data = IconifyIconData.duoPaintOrder(
     IconData(0xe076, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe076, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dbc` (duo-tone)
-  static const IconifyIconData dbc = IconifyIconData.duo(
+  /// `dbc` (paint-order duotone)
+  static const IconifyIconData dbc = IconifyIconData.duoPaintOrder(
     IconData(0xe077, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe077, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dcn` (duo-tone)
-  static const IconifyIconData dcn = IconifyIconData.duo(
+  /// `dcn` (paint-order duotone)
+  static const IconifyIconData dcn = IconifyIconData.duoPaintOrder(
     IconData(0xe078, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe078, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dcr` (duo-tone)
-  static const IconifyIconData dcr = IconifyIconData.duo(
+  /// `dcr` (paint-order duotone)
+  static const IconifyIconData dcr = IconifyIconData.duoPaintOrder(
     IconData(0xe079, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe079, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `deez` (duo-tone)
-  static const IconifyIconData deez = IconifyIconData.duo(
+  /// `deez` (paint-order duotone)
+  static const IconifyIconData deez = IconifyIconData.duoPaintOrder(
     IconData(0xe07a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe07a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dent` (duo-tone)
-  static const IconifyIconData dent = IconifyIconData.duo(
+  /// `dent` (paint-order duotone)
+  static const IconifyIconData dent = IconifyIconData.duoPaintOrder(
     IconData(0xe07b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe07b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dew` (duo-tone)
-  static const IconifyIconData dew = IconifyIconData.duo(
+  /// `dew` (paint-order duotone)
+  static const IconifyIconData dew = IconifyIconData.duoPaintOrder(
     IconData(0xe07c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe07c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dgb` (duo-tone)
-  static const IconifyIconData dgb = IconifyIconData.duo(
+  /// `dgb` (paint-order duotone)
+  static const IconifyIconData dgb = IconifyIconData.duoPaintOrder(
     IconData(0xe07d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe07d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dgd` (duo-tone)
-  static const IconifyIconData dgd = IconifyIconData.duo(
+  /// `dgd` (paint-order duotone)
+  static const IconifyIconData dgd = IconifyIconData.duoPaintOrder(
     IconData(0xe07e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe07e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dlt` (duo-tone)
-  static const IconifyIconData dlt = IconifyIconData.duo(
+  /// `dlt` (paint-order duotone)
+  static const IconifyIconData dlt = IconifyIconData.duoPaintOrder(
     IconData(0xe07f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe07f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dnt` (duo-tone)
-  static const IconifyIconData dnt = IconifyIconData.duo(
+  /// `dnt` (paint-order duotone)
+  static const IconifyIconData dnt = IconifyIconData.duoPaintOrder(
     IconData(0xe080, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe080, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dock` (duo-tone)
-  static const IconifyIconData dock = IconifyIconData.duo(
+  /// `dock` (paint-order duotone)
+  static const IconifyIconData dock = IconifyIconData.duoPaintOrder(
     IconData(0xe081, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe081, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `doge` (duo-tone)
-  static const IconifyIconData doge = IconifyIconData.duo(
+  /// `doge` (paint-order duotone)
+  static const IconifyIconData doge = IconifyIconData.duoPaintOrder(
     IconData(0xe082, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe082, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dot` (duo-tone)
-  static const IconifyIconData dot = IconifyIconData.duo(
+  /// `dot` (paint-order duotone)
+  static const IconifyIconData dot = IconifyIconData.duoPaintOrder(
     IconData(0xe083, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe083, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -792,8 +792,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe085, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `dta` (duo-tone)
-  static const IconifyIconData dta = IconifyIconData.duo(
+  /// `dta` (paint-order duotone)
+  static const IconifyIconData dta = IconifyIconData.duoPaintOrder(
     IconData(0xe086, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe086, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -808,32 +808,32 @@ class CryptocurrencyColorIcons {
     IconData(0xe088, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ebst` (duo-tone)
-  static const IconifyIconData ebst = IconifyIconData.duo(
+  /// `ebst` (paint-order duotone)
+  static const IconifyIconData ebst = IconifyIconData.duoPaintOrder(
     IconData(0xe089, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe089, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `eca` (duo-tone)
-  static const IconifyIconData eca = IconifyIconData.duo(
+  /// `eca` (paint-order duotone)
+  static const IconifyIconData eca = IconifyIconData.duoPaintOrder(
     IconData(0xe08a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe08a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `edg` (duo-tone)
-  static const IconifyIconData edg = IconifyIconData.duo(
+  /// `edg` (paint-order duotone)
+  static const IconifyIconData edg = IconifyIconData.duoPaintOrder(
     IconData(0xe08b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe08b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `edo` (duo-tone)
-  static const IconifyIconData edo = IconifyIconData.duo(
+  /// `edo` (paint-order duotone)
+  static const IconifyIconData edo = IconifyIconData.duoPaintOrder(
     IconData(0xe08c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe08c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `edoge` (duo-tone)
-  static const IconifyIconData edoge = IconifyIconData.duo(
+  /// `edoge` (paint-order duotone)
+  static const IconifyIconData edoge = IconifyIconData.duoPaintOrder(
     IconData(0xe08d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe08d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -848,8 +848,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe08f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `elf` (duo-tone)
-  static const IconifyIconData elf = IconifyIconData.duo(
+  /// `elf` (paint-order duotone)
+  static const IconifyIconData elf = IconifyIconData.duoPaintOrder(
     IconData(0xe090, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe090, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -859,20 +859,20 @@ class CryptocurrencyColorIcons {
     IconData(0xe091, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ella` (duo-tone)
-  static const IconifyIconData ella = IconifyIconData.duo(
+  /// `ella` (paint-order duotone)
+  static const IconifyIconData ella = IconifyIconData.duoPaintOrder(
     IconData(0xe092, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe092, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `emb` (duo-tone)
-  static const IconifyIconData emb = IconifyIconData.duo(
+  /// `emb` (paint-order duotone)
+  static const IconifyIconData emb = IconifyIconData.duoPaintOrder(
     IconData(0xe093, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe093, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `emc` (duo-tone)
-  static const IconifyIconData emc = IconifyIconData.duo(
+  /// `emc` (paint-order duotone)
+  static const IconifyIconData emc = IconifyIconData.duoPaintOrder(
     IconData(0xe094, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe094, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -882,20 +882,20 @@ class CryptocurrencyColorIcons {
     IconData(0xe095, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `eng` (duo-tone)
-  static const IconifyIconData eng = IconifyIconData.duo(
+  /// `eng` (paint-order duotone)
+  static const IconifyIconData eng = IconifyIconData.duoPaintOrder(
     IconData(0xe096, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe096, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `enj` (duo-tone)
-  static const IconifyIconData enj = IconifyIconData.duo(
+  /// `enj` (paint-order duotone)
+  static const IconifyIconData enj = IconifyIconData.duoPaintOrder(
     IconData(0xe097, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe097, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `entrp` (duo-tone)
-  static const IconifyIconData entrp = IconifyIconData.duo(
+  /// `entrp` (paint-order duotone)
+  static const IconifyIconData entrp = IconifyIconData.duoPaintOrder(
     IconData(0xe098, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe098, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -905,8 +905,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe099, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `eop` (duo-tone)
-  static const IconifyIconData eop = IconifyIconData.duo(
+  /// `eop` (paint-order duotone)
+  static const IconifyIconData eop = IconifyIconData.duoPaintOrder(
     IconData(0xe09a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe09a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -916,14 +916,14 @@ class CryptocurrencyColorIcons {
     IconData(0xe09b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `eqli` (duo-tone)
-  static const IconifyIconData eqli = IconifyIconData.duo(
+  /// `eqli` (paint-order duotone)
+  static const IconifyIconData eqli = IconifyIconData.duoPaintOrder(
     IconData(0xe09c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe09c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `equa` (duo-tone)
-  static const IconifyIconData equa = IconifyIconData.duo(
+  /// `equa` (paint-order duotone)
+  static const IconifyIconData equa = IconifyIconData.duoPaintOrder(
     IconData(0xe09d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe09d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -943,50 +943,50 @@ class CryptocurrencyColorIcons {
     IconData(0xe0a0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `etn` (duo-tone)
-  static const IconifyIconData etn = IconifyIconData.duo(
+  /// `etn` (paint-order duotone)
+  static const IconifyIconData etn = IconifyIconData.duoPaintOrder(
     IconData(0xe0a1, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0a1, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `etp` (duo-tone)
-  static const IconifyIconData etp = IconifyIconData.duo(
+  /// `etp` (paint-order duotone)
+  static const IconifyIconData etp = IconifyIconData.duoPaintOrder(
     IconData(0xe0a2, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0a2, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `eur` (duo-tone)
-  static const IconifyIconData eur = IconifyIconData.duo(
+  /// `eur` (paint-order duotone)
+  static const IconifyIconData eur = IconifyIconData.duoPaintOrder(
     IconData(0xe0a3, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0a3, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `evx` (duo-tone)
-  static const IconifyIconData evx = IconifyIconData.duo(
+  /// `evx` (paint-order duotone)
+  static const IconifyIconData evx = IconifyIconData.duoPaintOrder(
     IconData(0xe0a4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0a4, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `exmo` (duo-tone)
-  static const IconifyIconData exmo = IconifyIconData.duo(
+  /// `exmo` (paint-order duotone)
+  static const IconifyIconData exmo = IconifyIconData.duoPaintOrder(
     IconData(0xe0a5, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0a5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `exp` (duo-tone)
-  static const IconifyIconData exp = IconifyIconData.duo(
+  /// `exp` (paint-order duotone)
+  static const IconifyIconData exp = IconifyIconData.duoPaintOrder(
     IconData(0xe0a6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0a6, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `fair` (duo-tone)
-  static const IconifyIconData fair = IconifyIconData.duo(
+  /// `fair` (paint-order duotone)
+  static const IconifyIconData fair = IconifyIconData.duoPaintOrder(
     IconData(0xe0a7, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0a7, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `fct` (duo-tone)
-  static const IconifyIconData fct = IconifyIconData.duo(
+  /// `fct` (paint-order duotone)
+  static const IconifyIconData fct = IconifyIconData.duoPaintOrder(
     IconData(0xe0a8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0a8, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -996,8 +996,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe0a9, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `fil` (duo-tone)
-  static const IconifyIconData fil = IconifyIconData.duo(
+  /// `fil` (paint-order duotone)
+  static const IconifyIconData fil = IconifyIconData.duoPaintOrder(
     IconData(0xe0aa, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0aa, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1007,14 +1007,14 @@ class CryptocurrencyColorIcons {
     IconData(0xe0ab, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `fldc` (duo-tone)
-  static const IconifyIconData fldc = IconifyIconData.duo(
+  /// `fldc` (paint-order duotone)
+  static const IconifyIconData fldc = IconifyIconData.duoPaintOrder(
     IconData(0xe0ac, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0ac, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `flo` (duo-tone)
-  static const IconifyIconData flo = IconifyIconData.duo(
+  /// `flo` (paint-order duotone)
+  static const IconifyIconData flo = IconifyIconData.duoPaintOrder(
     IconData(0xe0ad, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0ad, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1024,62 +1024,62 @@ class CryptocurrencyColorIcons {
     IconData(0xe0ae, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `fsn` (duo-tone)
-  static const IconifyIconData fsn = IconifyIconData.duo(
+  /// `fsn` (paint-order duotone)
+  static const IconifyIconData fsn = IconifyIconData.duoPaintOrder(
     IconData(0xe0af, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0af, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ftc` (duo-tone)
-  static const IconifyIconData ftc = IconifyIconData.duo(
+  /// `ftc` (paint-order duotone)
+  static const IconifyIconData ftc = IconifyIconData.duoPaintOrder(
     IconData(0xe0b0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0b0, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `fuel` (duo-tone)
-  static const IconifyIconData fuel = IconifyIconData.duo(
+  /// `fuel` (paint-order duotone)
+  static const IconifyIconData fuel = IconifyIconData.duoPaintOrder(
     IconData(0xe0b1, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0b1, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `fun` (duo-tone)
-  static const IconifyIconData fun = IconifyIconData.duo(
+  /// `fun` (paint-order duotone)
+  static const IconifyIconData fun = IconifyIconData.duoPaintOrder(
     IconData(0xe0b2, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0b2, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `game` (duo-tone)
-  static const IconifyIconData game = IconifyIconData.duo(
+  /// `game` (paint-order duotone)
+  static const IconifyIconData game = IconifyIconData.duoPaintOrder(
     IconData(0xe0b3, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0b3, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gas` (duo-tone)
-  static const IconifyIconData gas = IconifyIconData.duo(
+  /// `gas` (paint-order duotone)
+  static const IconifyIconData gas = IconifyIconData.duoPaintOrder(
     IconData(0xe0b4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0b4, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gbp` (duo-tone)
-  static const IconifyIconData gbp = IconifyIconData.duo(
+  /// `gbp` (paint-order duotone)
+  static const IconifyIconData gbp = IconifyIconData.duoPaintOrder(
     IconData(0xe0b5, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0b5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gbx` (duo-tone)
-  static const IconifyIconData gbx = IconifyIconData.duo(
+  /// `gbx` (paint-order duotone)
+  static const IconifyIconData gbx = IconifyIconData.duoPaintOrder(
     IconData(0xe0b6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0b6, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gbyte` (duo-tone)
-  static const IconifyIconData gbyte = IconifyIconData.duo(
+  /// `gbyte` (paint-order duotone)
+  static const IconifyIconData gbyte = IconifyIconData.duoPaintOrder(
     IconData(0xe0b7, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0b7, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `generic` (duo-tone)
-  static const IconifyIconData generic = IconifyIconData.duo(
+  /// `generic` (paint-order duotone)
+  static const IconifyIconData generic = IconifyIconData.duoPaintOrder(
     IconData(0xe0b8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0b8, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1089,8 +1089,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe0b9, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `glxt` (duo-tone)
-  static const IconifyIconData glxt = IconifyIconData.duo(
+  /// `glxt` (paint-order duotone)
+  static const IconifyIconData glxt = IconifyIconData.duoPaintOrder(
     IconData(0xe0ba, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0ba, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1105,38 +1105,38 @@ class CryptocurrencyColorIcons {
     IconData(0xe0bc, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gno` (duo-tone)
-  static const IconifyIconData gno = IconifyIconData.duo(
+  /// `gno` (paint-order duotone)
+  static const IconifyIconData gno = IconifyIconData.duoPaintOrder(
     IconData(0xe0bd, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0bd, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gnt` (duo-tone)
-  static const IconifyIconData gnt = IconifyIconData.duo(
+  /// `gnt` (paint-order duotone)
+  static const IconifyIconData gnt = IconifyIconData.duoPaintOrder(
     IconData(0xe0be, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0be, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gold` (duo-tone)
-  static const IconifyIconData gold = IconifyIconData.duo(
+  /// `gold` (paint-order duotone)
+  static const IconifyIconData gold = IconifyIconData.duoPaintOrder(
     IconData(0xe0bf, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0bf, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `grc` (duo-tone)
-  static const IconifyIconData grc = IconifyIconData.duo(
+  /// `grc` (paint-order duotone)
+  static const IconifyIconData grc = IconifyIconData.duoPaintOrder(
     IconData(0xe0c0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0c0, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `grin` (duo-tone)
-  static const IconifyIconData grin = IconifyIconData.duo(
+  /// `grin` (paint-order duotone)
+  static const IconifyIconData grin = IconifyIconData.duoPaintOrder(
     IconData(0xe0c1, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0c1, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `grs` (duo-tone)
-  static const IconifyIconData grs = IconifyIconData.duo(
+  /// `grs` (paint-order duotone)
+  static const IconifyIconData grs = IconifyIconData.duoPaintOrder(
     IconData(0xe0c2, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0c2, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1146,38 +1146,38 @@ class CryptocurrencyColorIcons {
     IconData(0xe0c3, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gsc` (duo-tone)
-  static const IconifyIconData gsc = IconifyIconData.duo(
+  /// `gsc` (paint-order duotone)
+  static const IconifyIconData gsc = IconifyIconData.duoPaintOrder(
     IconData(0xe0c4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0c4, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gto` (duo-tone)
-  static const IconifyIconData gto = IconifyIconData.duo(
+  /// `gto` (paint-order duotone)
+  static const IconifyIconData gto = IconifyIconData.duoPaintOrder(
     IconData(0xe0c5, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0c5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gup` (duo-tone)
-  static const IconifyIconData gup = IconifyIconData.duo(
+  /// `gup` (paint-order duotone)
+  static const IconifyIconData gup = IconifyIconData.duoPaintOrder(
     IconData(0xe0c6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0c6, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gusd` (duo-tone)
-  static const IconifyIconData gusd = IconifyIconData.duo(
+  /// `gusd` (paint-order duotone)
+  static const IconifyIconData gusd = IconifyIconData.duoPaintOrder(
     IconData(0xe0c7, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0c7, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gvt` (duo-tone)
-  static const IconifyIconData gvt = IconifyIconData.duo(
+  /// `gvt` (paint-order duotone)
+  static const IconifyIconData gvt = IconifyIconData.duoPaintOrder(
     IconData(0xe0c8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0c8, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `gxs` (duo-tone)
-  static const IconifyIconData gxs = IconifyIconData.duo(
+  /// `gxs` (paint-order duotone)
+  static const IconifyIconData gxs = IconifyIconData.duoPaintOrder(
     IconData(0xe0c9, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0c9, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1187,26 +1187,26 @@ class CryptocurrencyColorIcons {
     IconData(0xe0ca, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `hight` (duo-tone)
-  static const IconifyIconData hight = IconifyIconData.duo(
+  /// `hight` (paint-order duotone)
+  static const IconifyIconData hight = IconifyIconData.duoPaintOrder(
     IconData(0xe0cb, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0cb, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `hns` (duo-tone)
-  static const IconifyIconData hns = IconifyIconData.duo(
+  /// `hns` (paint-order duotone)
+  static const IconifyIconData hns = IconifyIconData.duoPaintOrder(
     IconData(0xe0cc, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0cc, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `hodl` (duo-tone)
-  static const IconifyIconData hodl = IconifyIconData.duo(
+  /// `hodl` (paint-order duotone)
+  static const IconifyIconData hodl = IconifyIconData.duoPaintOrder(
     IconData(0xe0cd, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0cd, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `hot` (duo-tone)
-  static const IconifyIconData hot = IconifyIconData.duo(
+  /// `hot` (paint-order duotone)
+  static const IconifyIconData hot = IconifyIconData.duoPaintOrder(
     IconData(0xe0ce, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0ce, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1216,8 +1216,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe0cf, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `hsr` (duo-tone)
-  static const IconifyIconData hsr = IconifyIconData.duo(
+  /// `hsr` (paint-order duotone)
+  static const IconifyIconData hsr = IconifyIconData.duoPaintOrder(
     IconData(0xe0d0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0d0, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1227,32 +1227,32 @@ class CryptocurrencyColorIcons {
     IconData(0xe0d1, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `html` (duo-tone)
-  static const IconifyIconData html = IconifyIconData.duo(
+  /// `html` (paint-order duotone)
+  static const IconifyIconData html = IconifyIconData.duoPaintOrder(
     IconData(0xe0d2, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0d2, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `huc` (duo-tone)
-  static const IconifyIconData huc = IconifyIconData.duo(
+  /// `huc` (paint-order duotone)
+  static const IconifyIconData huc = IconifyIconData.duoPaintOrder(
     IconData(0xe0d3, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0d3, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `husd` (duo-tone)
-  static const IconifyIconData husd = IconifyIconData.duo(
+  /// `husd` (paint-order duotone)
+  static const IconifyIconData husd = IconifyIconData.duoPaintOrder(
     IconData(0xe0d4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0d4, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `hush` (duo-tone)
-  static const IconifyIconData hush = IconifyIconData.duo(
+  /// `hush` (paint-order duotone)
+  static const IconifyIconData hush = IconifyIconData.duoPaintOrder(
     IconData(0xe0d5, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0d5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `icn` (duo-tone)
-  static const IconifyIconData icn = IconifyIconData.duo(
+  /// `icn` (paint-order duotone)
+  static const IconifyIconData icn = IconifyIconData.duoPaintOrder(
     IconData(0xe0d6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0d6, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1262,26 +1262,26 @@ class CryptocurrencyColorIcons {
     IconData(0xe0d7, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `icx` (duo-tone)
-  static const IconifyIconData icx = IconifyIconData.duo(
+  /// `icx` (paint-order duotone)
+  static const IconifyIconData icx = IconifyIconData.duoPaintOrder(
     IconData(0xe0d8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0d8, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ignis` (duo-tone)
-  static const IconifyIconData ignis = IconifyIconData.duo(
+  /// `ignis` (paint-order duotone)
+  static const IconifyIconData ignis = IconifyIconData.duoPaintOrder(
     IconData(0xe0d9, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0d9, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ilk` (duo-tone)
-  static const IconifyIconData ilk = IconifyIconData.duo(
+  /// `ilk` (paint-order duotone)
+  static const IconifyIconData ilk = IconifyIconData.duoPaintOrder(
     IconData(0xe0da, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0da, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ink` (duo-tone)
-  static const IconifyIconData ink = IconifyIconData.duo(
+  /// `ink` (paint-order duotone)
+  static const IconifyIconData ink = IconifyIconData.duoPaintOrder(
     IconData(0xe0db, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0db, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1291,8 +1291,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe0dc, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ion` (duo-tone)
-  static const IconifyIconData ion = IconifyIconData.duo(
+  /// `ion` (paint-order duotone)
+  static const IconifyIconData ion = IconifyIconData.duoPaintOrder(
     IconData(0xe0dd, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0dd, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1302,8 +1302,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe0de, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `iost` (duo-tone)
-  static const IconifyIconData iost = IconifyIconData.duo(
+  /// `iost` (paint-order duotone)
+  static const IconifyIconData iost = IconifyIconData.duoPaintOrder(
     IconData(0xe0df, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0df, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1313,38 +1313,38 @@ class CryptocurrencyColorIcons {
     IconData(0xe0e0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `iq` (duo-tone)
-  static const IconifyIconData iq = IconifyIconData.duo(
+  /// `iq` (paint-order duotone)
+  static const IconifyIconData iq = IconifyIconData.duoPaintOrder(
     IconData(0xe0e1, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0e1, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `itc` (duo-tone)
-  static const IconifyIconData itc = IconifyIconData.duo(
+  /// `itc` (paint-order duotone)
+  static const IconifyIconData itc = IconifyIconData.duoPaintOrder(
     IconData(0xe0e2, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0e2, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `jnt` (duo-tone)
-  static const IconifyIconData jnt = IconifyIconData.duo(
+  /// `jnt` (paint-order duotone)
+  static const IconifyIconData jnt = IconifyIconData.duoPaintOrder(
     IconData(0xe0e3, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0e3, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `jpy` (duo-tone)
-  static const IconifyIconData jpy = IconifyIconData.duo(
+  /// `jpy` (paint-order duotone)
+  static const IconifyIconData jpy = IconifyIconData.duoPaintOrder(
     IconData(0xe0e4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0e4, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `kcs` (duo-tone)
-  static const IconifyIconData kcs = IconifyIconData.duo(
+  /// `kcs` (paint-order duotone)
+  static const IconifyIconData kcs = IconifyIconData.duoPaintOrder(
     IconData(0xe0e5, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0e5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `kin` (duo-tone)
-  static const IconifyIconData kin = IconifyIconData.duo(
+  /// `kin` (paint-order duotone)
+  static const IconifyIconData kin = IconifyIconData.duoPaintOrder(
     IconData(0xe0e6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0e6, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1359,26 +1359,26 @@ class CryptocurrencyColorIcons {
     IconData(0xe0e8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `krb` (duo-tone)
-  static const IconifyIconData krb = IconifyIconData.duo(
+  /// `krb` (paint-order duotone)
+  static const IconifyIconData krb = IconifyIconData.duoPaintOrder(
     IconData(0xe0e9, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0e9, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ksm` (duo-tone)
-  static const IconifyIconData ksm = IconifyIconData.duo(
+  /// `ksm` (paint-order duotone)
+  static const IconifyIconData ksm = IconifyIconData.duoPaintOrder(
     IconData(0xe0ea, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0ea, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `lbc` (duo-tone)
-  static const IconifyIconData lbc = IconifyIconData.duo(
+  /// `lbc` (paint-order duotone)
+  static const IconifyIconData lbc = IconifyIconData.duoPaintOrder(
     IconData(0xe0eb, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0eb, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `lend` (duo-tone)
-  static const IconifyIconData lend = IconifyIconData.duo(
+  /// `lend` (paint-order duotone)
+  static const IconifyIconData lend = IconifyIconData.duoPaintOrder(
     IconData(0xe0ec, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0ec, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1388,14 +1388,14 @@ class CryptocurrencyColorIcons {
     IconData(0xe0ed, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `link` (duo-tone)
-  static const IconifyIconData link = IconifyIconData.duo(
+  /// `link` (paint-order duotone)
+  static const IconifyIconData link = IconifyIconData.duoPaintOrder(
     IconData(0xe0ee, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0ee, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `lkk` (duo-tone)
-  static const IconifyIconData lkk = IconifyIconData.duo(
+  /// `lkk` (paint-order duotone)
+  static const IconifyIconData lkk = IconifyIconData.duoPaintOrder(
     IconData(0xe0ef, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0ef, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1405,32 +1405,32 @@ class CryptocurrencyColorIcons {
     IconData(0xe0f0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `lpt` (duo-tone)
-  static const IconifyIconData lpt = IconifyIconData.duo(
+  /// `lpt` (paint-order duotone)
+  static const IconifyIconData lpt = IconifyIconData.duoPaintOrder(
     IconData(0xe0f1, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0f1, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `lrc` (duo-tone)
-  static const IconifyIconData lrc = IconifyIconData.duo(
+  /// `lrc` (paint-order duotone)
+  static const IconifyIconData lrc = IconifyIconData.duoPaintOrder(
     IconData(0xe0f2, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0f2, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `lsk` (duo-tone)
-  static const IconifyIconData lsk = IconifyIconData.duo(
+  /// `lsk` (paint-order duotone)
+  static const IconifyIconData lsk = IconifyIconData.duoPaintOrder(
     IconData(0xe0f3, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0f3, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ltc` (duo-tone)
-  static const IconifyIconData ltc = IconifyIconData.duo(
+  /// `ltc` (paint-order duotone)
+  static const IconifyIconData ltc = IconifyIconData.duoPaintOrder(
     IconData(0xe0f4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0f4, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `lun` (duo-tone)
-  static const IconifyIconData lun = IconifyIconData.duo(
+  /// `lun` (paint-order duotone)
+  static const IconifyIconData lun = IconifyIconData.duoPaintOrder(
     IconData(0xe0f5, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0f5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1440,44 +1440,44 @@ class CryptocurrencyColorIcons {
     IconData(0xe0f6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `matic` (duo-tone)
-  static const IconifyIconData matic = IconifyIconData.duo(
+  /// `matic` (paint-order duotone)
+  static const IconifyIconData matic = IconifyIconData.duoPaintOrder(
     IconData(0xe0f7, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0f7, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `max` (duo-tone)
-  static const IconifyIconData max = IconifyIconData.duo(
+  /// `max` (paint-order duotone)
+  static const IconifyIconData max = IconifyIconData.duoPaintOrder(
     IconData(0xe0f8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0f8, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mcap` (duo-tone)
-  static const IconifyIconData mcap = IconifyIconData.duo(
+  /// `mcap` (paint-order duotone)
+  static const IconifyIconData mcap = IconifyIconData.duoPaintOrder(
     IconData(0xe0f9, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0f9, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mco` (duo-tone)
-  static const IconifyIconData mco = IconifyIconData.duo(
+  /// `mco` (paint-order duotone)
+  static const IconifyIconData mco = IconifyIconData.duoPaintOrder(
     IconData(0xe0fa, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0fa, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mda` (duo-tone)
-  static const IconifyIconData mda = IconifyIconData.duo(
+  /// `mda` (paint-order duotone)
+  static const IconifyIconData mda = IconifyIconData.duoPaintOrder(
     IconData(0xe0fb, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0fb, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mds` (duo-tone)
-  static const IconifyIconData mds = IconifyIconData.duo(
+  /// `mds` (paint-order duotone)
+  static const IconifyIconData mds = IconifyIconData.duoPaintOrder(
     IconData(0xe0fc, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0fc, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `med` (duo-tone)
-  static const IconifyIconData med = IconifyIconData.duo(
+  /// `med` (paint-order duotone)
+  static const IconifyIconData med = IconifyIconData.duoPaintOrder(
     IconData(0xe0fd, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0fd, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1487,50 +1487,50 @@ class CryptocurrencyColorIcons {
     IconData(0xe0fe, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mft` (duo-tone)
-  static const IconifyIconData mft = IconifyIconData.duo(
+  /// `mft` (paint-order duotone)
+  static const IconifyIconData mft = IconifyIconData.duoPaintOrder(
     IconData(0xe0ff, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe0ff, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `miota` (duo-tone)
-  static const IconifyIconData miota = IconifyIconData.duo(
+  /// `miota` (paint-order duotone)
+  static const IconifyIconData miota = IconifyIconData.duoPaintOrder(
     IconData(0xe100, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe100, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mith` (duo-tone)
-  static const IconifyIconData mith = IconifyIconData.duo(
+  /// `mith` (paint-order duotone)
+  static const IconifyIconData mith = IconifyIconData.duoPaintOrder(
     IconData(0xe101, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe101, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mkr` (duo-tone)
-  static const IconifyIconData mkr = IconifyIconData.duo(
+  /// `mkr` (paint-order duotone)
+  static const IconifyIconData mkr = IconifyIconData.duoPaintOrder(
     IconData(0xe102, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe102, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mln` (duo-tone)
-  static const IconifyIconData mln = IconifyIconData.duo(
+  /// `mln` (paint-order duotone)
+  static const IconifyIconData mln = IconifyIconData.duoPaintOrder(
     IconData(0xe103, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe103, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mnx` (duo-tone)
-  static const IconifyIconData mnx = IconifyIconData.duo(
+  /// `mnx` (paint-order duotone)
+  static const IconifyIconData mnx = IconifyIconData.duoPaintOrder(
     IconData(0xe104, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe104, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mnz` (duo-tone)
-  static const IconifyIconData mnz = IconifyIconData.duo(
+  /// `mnz` (paint-order duotone)
+  static const IconifyIconData mnz = IconifyIconData.duoPaintOrder(
     IconData(0xe105, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe105, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `moac` (duo-tone)
-  static const IconifyIconData moac = IconifyIconData.duo(
+  /// `moac` (paint-order duotone)
+  static const IconifyIconData moac = IconifyIconData.duoPaintOrder(
     IconData(0xe106, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe106, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1540,8 +1540,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe107, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mona` (duo-tone)
-  static const IconifyIconData mona = IconifyIconData.duo(
+  /// `mona` (paint-order duotone)
+  static const IconifyIconData mona = IconifyIconData.duoPaintOrder(
     IconData(0xe108, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe108, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1556,68 +1556,68 @@ class CryptocurrencyColorIcons {
     IconData(0xe10a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mtl` (duo-tone)
-  static const IconifyIconData mtl = IconifyIconData.duo(
+  /// `mtl` (paint-order duotone)
+  static const IconifyIconData mtl = IconifyIconData.duoPaintOrder(
     IconData(0xe10b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe10b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `music` (duo-tone)
-  static const IconifyIconData music = IconifyIconData.duo(
+  /// `music` (paint-order duotone)
+  static const IconifyIconData music = IconifyIconData.duoPaintOrder(
     IconData(0xe10c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe10c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `mzc` (duo-tone)
-  static const IconifyIconData mzc = IconifyIconData.duo(
+  /// `mzc` (paint-order duotone)
+  static const IconifyIconData mzc = IconifyIconData.duoPaintOrder(
     IconData(0xe10d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe10d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nano` (duo-tone)
-  static const IconifyIconData nano = IconifyIconData.duo(
+  /// `nano` (paint-order duotone)
+  static const IconifyIconData nano = IconifyIconData.duoPaintOrder(
     IconData(0xe10e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe10e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nas` (duo-tone)
-  static const IconifyIconData nas = IconifyIconData.duo(
+  /// `nas` (paint-order duotone)
+  static const IconifyIconData nas = IconifyIconData.duoPaintOrder(
     IconData(0xe10f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe10f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nav` (duo-tone)
-  static const IconifyIconData nav = IconifyIconData.duo(
+  /// `nav` (paint-order duotone)
+  static const IconifyIconData nav = IconifyIconData.duoPaintOrder(
     IconData(0xe110, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe110, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ncash` (duo-tone)
-  static const IconifyIconData ncash = IconifyIconData.duo(
+  /// `ncash` (paint-order duotone)
+  static const IconifyIconData ncash = IconifyIconData.duoPaintOrder(
     IconData(0xe111, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe111, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ndz` (duo-tone)
-  static const IconifyIconData ndz = IconifyIconData.duo(
+  /// `ndz` (paint-order duotone)
+  static const IconifyIconData ndz = IconifyIconData.duoPaintOrder(
     IconData(0xe112, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe112, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nebl` (duo-tone)
-  static const IconifyIconData nebl = IconifyIconData.duo(
+  /// `nebl` (paint-order duotone)
+  static const IconifyIconData nebl = IconifyIconData.duoPaintOrder(
     IconData(0xe113, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe113, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `neo` (duo-tone)
-  static const IconifyIconData neo = IconifyIconData.duo(
+  /// `neo` (paint-order duotone)
+  static const IconifyIconData neo = IconifyIconData.duoPaintOrder(
     IconData(0xe114, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe114, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `neos` (duo-tone)
-  static const IconifyIconData neos = IconifyIconData.duo(
+  /// `neos` (paint-order duotone)
+  static const IconifyIconData neos = IconifyIconData.duoPaintOrder(
     IconData(0xe115, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe115, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1632,44 +1632,44 @@ class CryptocurrencyColorIcons {
     IconData(0xe117, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ngc` (duo-tone)
-  static const IconifyIconData ngc = IconifyIconData.duo(
+  /// `ngc` (paint-order duotone)
+  static const IconifyIconData ngc = IconifyIconData.duoPaintOrder(
     IconData(0xe118, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe118, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nio` (duo-tone)
-  static const IconifyIconData nio = IconifyIconData.duo(
+  /// `nio` (paint-order duotone)
+  static const IconifyIconData nio = IconifyIconData.duoPaintOrder(
     IconData(0xe119, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe119, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nkn` (duo-tone)
-  static const IconifyIconData nkn = IconifyIconData.duo(
+  /// `nkn` (paint-order duotone)
+  static const IconifyIconData nkn = IconifyIconData.duoPaintOrder(
     IconData(0xe11a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe11a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nlc2` (duo-tone)
-  static const IconifyIconData nlc2 = IconifyIconData.duo(
+  /// `nlc2` (paint-order duotone)
+  static const IconifyIconData nlc2 = IconifyIconData.duoPaintOrder(
     IconData(0xe11b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe11b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nlg` (duo-tone)
-  static const IconifyIconData nlg = IconifyIconData.duo(
+  /// `nlg` (paint-order duotone)
+  static const IconifyIconData nlg = IconifyIconData.duoPaintOrder(
     IconData(0xe11c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe11c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nmc` (duo-tone)
-  static const IconifyIconData nmc = IconifyIconData.duo(
+  /// `nmc` (paint-order duotone)
+  static const IconifyIconData nmc = IconifyIconData.duoPaintOrder(
     IconData(0xe11d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe11d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nmr` (duo-tone)
-  static const IconifyIconData nmr = IconifyIconData.duo(
+  /// `nmr` (paint-order duotone)
+  static const IconifyIconData nmr = IconifyIconData.duoPaintOrder(
     IconData(0xe11e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe11e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1684,50 +1684,50 @@ class CryptocurrencyColorIcons {
     IconData(0xe120, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nuls` (duo-tone)
-  static const IconifyIconData nuls = IconifyIconData.duo(
+  /// `nuls` (paint-order duotone)
+  static const IconifyIconData nuls = IconifyIconData.duoPaintOrder(
     IconData(0xe121, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe121, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nxs` (duo-tone)
-  static const IconifyIconData nxs = IconifyIconData.duo(
+  /// `nxs` (paint-order duotone)
+  static const IconifyIconData nxs = IconifyIconData.duoPaintOrder(
     IconData(0xe122, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe122, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `nxt` (duo-tone)
-  static const IconifyIconData nxt = IconifyIconData.duo(
+  /// `nxt` (paint-order duotone)
+  static const IconifyIconData nxt = IconifyIconData.duoPaintOrder(
     IconData(0xe123, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe123, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `oax` (duo-tone)
-  static const IconifyIconData oax = IconifyIconData.duo(
+  /// `oax` (paint-order duotone)
+  static const IconifyIconData oax = IconifyIconData.duoPaintOrder(
     IconData(0xe124, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe124, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ok` (duo-tone)
-  static const IconifyIconData ok = IconifyIconData.duo(
+  /// `ok` (paint-order duotone)
+  static const IconifyIconData ok = IconifyIconData.duoPaintOrder(
     IconData(0xe125, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe125, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `omg` (duo-tone)
-  static const IconifyIconData omg = IconifyIconData.duo(
+  /// `omg` (paint-order duotone)
+  static const IconifyIconData omg = IconifyIconData.duoPaintOrder(
     IconData(0xe126, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe126, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `omni` (duo-tone)
-  static const IconifyIconData omni = IconifyIconData.duo(
+  /// `omni` (paint-order duotone)
+  static const IconifyIconData omni = IconifyIconData.duoPaintOrder(
     IconData(0xe127, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe127, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `one` (duo-tone)
-  static const IconifyIconData one = IconifyIconData.duo(
+  /// `one` (paint-order duotone)
+  static const IconifyIconData one = IconifyIconData.duoPaintOrder(
     IconData(0xe128, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe128, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1737,14 +1737,14 @@ class CryptocurrencyColorIcons {
     IconData(0xe129, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ont` (duo-tone)
-  static const IconifyIconData ont = IconifyIconData.duo(
+  /// `ont` (paint-order duotone)
+  static const IconifyIconData ont = IconifyIconData.duoPaintOrder(
     IconData(0xe12a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe12a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `oot` (duo-tone)
-  static const IconifyIconData oot = IconifyIconData.duo(
+  /// `oot` (paint-order duotone)
+  static const IconifyIconData oot = IconifyIconData.duoPaintOrder(
     IconData(0xe12b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe12b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1754,14 +1754,14 @@ class CryptocurrencyColorIcons {
     IconData(0xe12c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ox` (duo-tone)
-  static const IconifyIconData ox = IconifyIconData.duo(
+  /// `ox` (paint-order duotone)
+  static const IconifyIconData ox = IconifyIconData.duoPaintOrder(
     IconData(0xe12d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe12d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `oxt` (duo-tone)
-  static const IconifyIconData oxt = IconifyIconData.duo(
+  /// `oxt` (paint-order duotone)
+  static const IconifyIconData oxt = IconifyIconData.duoPaintOrder(
     IconData(0xe12e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe12e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1771,44 +1771,44 @@ class CryptocurrencyColorIcons {
     IconData(0xe12f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pac` (duo-tone)
-  static const IconifyIconData pac = IconifyIconData.duo(
+  /// `pac` (paint-order duotone)
+  static const IconifyIconData pac = IconifyIconData.duoPaintOrder(
     IconData(0xe130, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe130, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `part` (duo-tone)
-  static const IconifyIconData part_ = IconifyIconData.duo(
+  /// `part` (paint-order duotone)
+  static const IconifyIconData part_ = IconifyIconData.duoPaintOrder(
     IconData(0xe131, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe131, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pasc` (duo-tone)
-  static const IconifyIconData pasc = IconifyIconData.duo(
+  /// `pasc` (paint-order duotone)
+  static const IconifyIconData pasc = IconifyIconData.duoPaintOrder(
     IconData(0xe132, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe132, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pasl` (duo-tone)
-  static const IconifyIconData pasl = IconifyIconData.duo(
+  /// `pasl` (paint-order duotone)
+  static const IconifyIconData pasl = IconifyIconData.duoPaintOrder(
     IconData(0xe133, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe133, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pax` (duo-tone)
-  static const IconifyIconData pax = IconifyIconData.duo(
+  /// `pax` (paint-order duotone)
+  static const IconifyIconData pax = IconifyIconData.duoPaintOrder(
     IconData(0xe134, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe134, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `paxg` (duo-tone)
-  static const IconifyIconData paxg = IconifyIconData.duo(
+  /// `paxg` (paint-order duotone)
+  static const IconifyIconData paxg = IconifyIconData.duoPaintOrder(
     IconData(0xe135, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe135, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pay` (duo-tone)
-  static const IconifyIconData pay = IconifyIconData.duo(
+  /// `pay` (paint-order duotone)
+  static const IconifyIconData pay = IconifyIconData.duoPaintOrder(
     IconData(0xe136, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe136, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1823,74 +1823,74 @@ class CryptocurrencyColorIcons {
     IconData(0xe138, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pirl` (duo-tone)
-  static const IconifyIconData pirl = IconifyIconData.duo(
+  /// `pirl` (paint-order duotone)
+  static const IconifyIconData pirl = IconifyIconData.duoPaintOrder(
     IconData(0xe139, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe139, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pivx` (duo-tone)
-  static const IconifyIconData pivx = IconifyIconData.duo(
+  /// `pivx` (paint-order duotone)
+  static const IconifyIconData pivx = IconifyIconData.duoPaintOrder(
     IconData(0xe13a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe13a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `plr` (duo-tone)
-  static const IconifyIconData plr = IconifyIconData.duo(
+  /// `plr` (paint-order duotone)
+  static const IconifyIconData plr = IconifyIconData.duoPaintOrder(
     IconData(0xe13b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe13b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `poa` (duo-tone)
-  static const IconifyIconData poa = IconifyIconData.duo(
+  /// `poa` (paint-order duotone)
+  static const IconifyIconData poa = IconifyIconData.duoPaintOrder(
     IconData(0xe13c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe13c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `poe` (duo-tone)
-  static const IconifyIconData poe = IconifyIconData.duo(
+  /// `poe` (paint-order duotone)
+  static const IconifyIconData poe = IconifyIconData.duoPaintOrder(
     IconData(0xe13d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe13d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `polis` (duo-tone)
-  static const IconifyIconData polis = IconifyIconData.duo(
+  /// `polis` (paint-order duotone)
+  static const IconifyIconData polis = IconifyIconData.duoPaintOrder(
     IconData(0xe13e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe13e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `poly` (duo-tone)
-  static const IconifyIconData poly = IconifyIconData.duo(
+  /// `poly` (paint-order duotone)
+  static const IconifyIconData poly = IconifyIconData.duoPaintOrder(
     IconData(0xe13f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe13f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pot` (duo-tone)
-  static const IconifyIconData pot = IconifyIconData.duo(
+  /// `pot` (paint-order duotone)
+  static const IconifyIconData pot = IconifyIconData.duoPaintOrder(
     IconData(0xe140, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe140, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `powr` (duo-tone)
-  static const IconifyIconData powr = IconifyIconData.duo(
+  /// `powr` (paint-order duotone)
+  static const IconifyIconData powr = IconifyIconData.duoPaintOrder(
     IconData(0xe141, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe141, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ppc` (duo-tone)
-  static const IconifyIconData ppc = IconifyIconData.duo(
+  /// `ppc` (paint-order duotone)
+  static const IconifyIconData ppc = IconifyIconData.duoPaintOrder(
     IconData(0xe142, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe142, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ppp` (duo-tone)
-  static const IconifyIconData ppp = IconifyIconData.duo(
+  /// `ppp` (paint-order duotone)
+  static const IconifyIconData ppp = IconifyIconData.duoPaintOrder(
     IconData(0xe143, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe143, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ppt` (duo-tone)
-  static const IconifyIconData ppt = IconifyIconData.duo(
+  /// `ppt` (paint-order duotone)
+  static const IconifyIconData ppt = IconifyIconData.duoPaintOrder(
     IconData(0xe144, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe144, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1900,38 +1900,38 @@ class CryptocurrencyColorIcons {
     IconData(0xe145, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `prl` (duo-tone)
-  static const IconifyIconData prl = IconifyIconData.duo(
+  /// `prl` (paint-order duotone)
+  static const IconifyIconData prl = IconifyIconData.duoPaintOrder(
     IconData(0xe146, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe146, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pungo` (duo-tone)
-  static const IconifyIconData pungo = IconifyIconData.duo(
+  /// `pungo` (paint-order duotone)
+  static const IconifyIconData pungo = IconifyIconData.duoPaintOrder(
     IconData(0xe147, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe147, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `pura` (duo-tone)
-  static const IconifyIconData pura = IconifyIconData.duo(
+  /// `pura` (paint-order duotone)
+  static const IconifyIconData pura = IconifyIconData.duoPaintOrder(
     IconData(0xe148, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe148, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `qash` (duo-tone)
-  static const IconifyIconData qash = IconifyIconData.duo(
+  /// `qash` (paint-order duotone)
+  static const IconifyIconData qash = IconifyIconData.duoPaintOrder(
     IconData(0xe149, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe149, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `qiwi` (duo-tone)
-  static const IconifyIconData qiwi = IconifyIconData.duo(
+  /// `qiwi` (paint-order duotone)
+  static const IconifyIconData qiwi = IconifyIconData.duoPaintOrder(
     IconData(0xe14a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe14a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `qlc` (duo-tone)
-  static const IconifyIconData qlc = IconifyIconData.duo(
+  /// `qlc` (paint-order duotone)
+  static const IconifyIconData qlc = IconifyIconData.duoPaintOrder(
     IconData(0xe14b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe14b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1941,38 +1941,38 @@ class CryptocurrencyColorIcons {
     IconData(0xe14c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `qrl` (duo-tone)
-  static const IconifyIconData qrl = IconifyIconData.duo(
+  /// `qrl` (paint-order duotone)
+  static const IconifyIconData qrl = IconifyIconData.duoPaintOrder(
     IconData(0xe14d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe14d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `qsp` (duo-tone)
-  static const IconifyIconData qsp = IconifyIconData.duo(
+  /// `qsp` (paint-order duotone)
+  static const IconifyIconData qsp = IconifyIconData.duoPaintOrder(
     IconData(0xe14e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe14e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `qtum` (duo-tone)
-  static const IconifyIconData qtum = IconifyIconData.duo(
+  /// `qtum` (paint-order duotone)
+  static const IconifyIconData qtum = IconifyIconData.duoPaintOrder(
     IconData(0xe14f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe14f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `r` (duo-tone)
-  static const IconifyIconData r = IconifyIconData.duo(
+  /// `r` (paint-order duotone)
+  static const IconifyIconData r = IconifyIconData.duoPaintOrder(
     IconData(0xe150, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe150, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rads` (duo-tone)
-  static const IconifyIconData rads = IconifyIconData.duo(
+  /// `rads` (paint-order duotone)
+  static const IconifyIconData rads = IconifyIconData.duoPaintOrder(
     IconData(0xe151, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe151, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rap` (duo-tone)
-  static const IconifyIconData rap = IconifyIconData.duo(
+  /// `rap` (paint-order duotone)
+  static const IconifyIconData rap = IconifyIconData.duoPaintOrder(
     IconData(0xe152, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe152, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1982,8 +1982,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe153, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rcn` (duo-tone)
-  static const IconifyIconData rcn = IconifyIconData.duo(
+  /// `rcn` (paint-order duotone)
+  static const IconifyIconData rcn = IconifyIconData.duoPaintOrder(
     IconData(0xe154, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe154, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -1993,74 +1993,74 @@ class CryptocurrencyColorIcons {
     IconData(0xe155, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rdn` (duo-tone)
-  static const IconifyIconData rdn = IconifyIconData.duo(
+  /// `rdn` (paint-order duotone)
+  static const IconifyIconData rdn = IconifyIconData.duoPaintOrder(
     IconData(0xe156, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe156, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ren` (duo-tone)
-  static const IconifyIconData ren = IconifyIconData.duo(
+  /// `ren` (paint-order duotone)
+  static const IconifyIconData ren = IconifyIconData.duoPaintOrder(
     IconData(0xe157, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe157, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rep` (duo-tone)
-  static const IconifyIconData rep = IconifyIconData.duo(
+  /// `rep` (paint-order duotone)
+  static const IconifyIconData rep = IconifyIconData.duoPaintOrder(
     IconData(0xe158, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe158, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `repv2` (duo-tone)
-  static const IconifyIconData repv2 = IconifyIconData.duo(
+  /// `repv2` (paint-order duotone)
+  static const IconifyIconData repv2 = IconifyIconData.duoPaintOrder(
     IconData(0xe159, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe159, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `req` (duo-tone)
-  static const IconifyIconData req = IconifyIconData.duo(
+  /// `req` (paint-order duotone)
+  static const IconifyIconData req = IconifyIconData.duoPaintOrder(
     IconData(0xe15a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe15a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rhoc` (duo-tone)
-  static const IconifyIconData rhoc = IconifyIconData.duo(
+  /// `rhoc` (paint-order duotone)
+  static const IconifyIconData rhoc = IconifyIconData.duoPaintOrder(
     IconData(0xe15b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe15b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ric` (duo-tone)
-  static const IconifyIconData ric = IconifyIconData.duo(
+  /// `ric` (paint-order duotone)
+  static const IconifyIconData ric = IconifyIconData.duoPaintOrder(
     IconData(0xe15c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe15c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rise` (duo-tone)
-  static const IconifyIconData rise = IconifyIconData.duo(
+  /// `rise` (paint-order duotone)
+  static const IconifyIconData rise = IconifyIconData.duoPaintOrder(
     IconData(0xe15d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe15d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rlc` (duo-tone)
-  static const IconifyIconData rlc = IconifyIconData.duo(
+  /// `rlc` (paint-order duotone)
+  static const IconifyIconData rlc = IconifyIconData.duoPaintOrder(
     IconData(0xe15e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe15e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rpx` (duo-tone)
-  static const IconifyIconData rpx = IconifyIconData.duo(
+  /// `rpx` (paint-order duotone)
+  static const IconifyIconData rpx = IconifyIconData.duoPaintOrder(
     IconData(0xe15f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe15f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rub` (duo-tone)
-  static const IconifyIconData rub = IconifyIconData.duo(
+  /// `rub` (paint-order duotone)
+  static const IconifyIconData rub = IconifyIconData.duoPaintOrder(
     IconData(0xe160, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe160, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `rvn` (duo-tone)
-  static const IconifyIconData rvn = IconifyIconData.duo(
+  /// `rvn` (paint-order duotone)
+  static const IconifyIconData rvn = IconifyIconData.duoPaintOrder(
     IconData(0xe161, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe161, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2080,44 +2080,44 @@ class CryptocurrencyColorIcons {
     IconData(0xe164, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sai` (duo-tone)
-  static const IconifyIconData sai = IconifyIconData.duo(
+  /// `sai` (paint-order duotone)
+  static const IconifyIconData sai = IconifyIconData.duoPaintOrder(
     IconData(0xe165, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe165, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `salt` (duo-tone)
-  static const IconifyIconData salt = IconifyIconData.duo(
+  /// `salt` (paint-order duotone)
+  static const IconifyIconData salt = IconifyIconData.duoPaintOrder(
     IconData(0xe166, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe166, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `san` (duo-tone)
-  static const IconifyIconData san = IconifyIconData.duo(
+  /// `san` (paint-order duotone)
+  static const IconifyIconData san = IconifyIconData.duoPaintOrder(
     IconData(0xe167, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe167, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sand` (duo-tone)
-  static const IconifyIconData sand = IconifyIconData.duo(
+  /// `sand` (paint-order duotone)
+  static const IconifyIconData sand = IconifyIconData.duoPaintOrder(
     IconData(0xe168, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe168, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sbd` (duo-tone)
-  static const IconifyIconData sbd = IconifyIconData.duo(
+  /// `sbd` (paint-order duotone)
+  static const IconifyIconData sbd = IconifyIconData.duoPaintOrder(
     IconData(0xe169, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe169, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sberbank` (duo-tone)
-  static const IconifyIconData sberbank = IconifyIconData.duo(
+  /// `sberbank` (paint-order duotone)
+  static const IconifyIconData sberbank = IconifyIconData.duoPaintOrder(
     IconData(0xe16a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe16a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sc` (duo-tone)
-  static const IconifyIconData sc = IconifyIconData.duo(
+  /// `sc` (paint-order duotone)
+  static const IconifyIconData sc = IconifyIconData.duoPaintOrder(
     IconData(0xe16b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe16b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2132,8 +2132,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe16d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sib` (duo-tone)
-  static const IconifyIconData sib = IconifyIconData.duo(
+  /// `sib` (paint-order duotone)
+  static const IconifyIconData sib = IconifyIconData.duoPaintOrder(
     IconData(0xe16e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe16e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2148,50 +2148,50 @@ class CryptocurrencyColorIcons {
     IconData(0xe170, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sky` (duo-tone)
-  static const IconifyIconData sky = IconifyIconData.duo(
+  /// `sky` (paint-order duotone)
+  static const IconifyIconData sky = IconifyIconData.duoPaintOrder(
     IconData(0xe171, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe171, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `slr` (duo-tone)
-  static const IconifyIconData slr = IconifyIconData.duo(
+  /// `slr` (paint-order duotone)
+  static const IconifyIconData slr = IconifyIconData.duoPaintOrder(
     IconData(0xe172, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe172, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sls` (duo-tone)
-  static const IconifyIconData sls = IconifyIconData.duo(
+  /// `sls` (paint-order duotone)
+  static const IconifyIconData sls = IconifyIconData.duoPaintOrder(
     IconData(0xe173, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe173, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `smart` (duo-tone)
-  static const IconifyIconData smart = IconifyIconData.duo(
+  /// `smart` (paint-order duotone)
+  static const IconifyIconData smart = IconifyIconData.duoPaintOrder(
     IconData(0xe174, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe174, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sngls` (duo-tone)
-  static const IconifyIconData sngls = IconifyIconData.duo(
+  /// `sngls` (paint-order duotone)
+  static const IconifyIconData sngls = IconifyIconData.duoPaintOrder(
     IconData(0xe175, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe175, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `snm` (duo-tone)
-  static const IconifyIconData snm = IconifyIconData.duo(
+  /// `snm` (paint-order duotone)
+  static const IconifyIconData snm = IconifyIconData.duoPaintOrder(
     IconData(0xe176, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe176, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `snt` (duo-tone)
-  static const IconifyIconData snt = IconifyIconData.duo(
+  /// `snt` (paint-order duotone)
+  static const IconifyIconData snt = IconifyIconData.duoPaintOrder(
     IconData(0xe177, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe177, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `snx` (duo-tone)
-  static const IconifyIconData snx = IconifyIconData.duo(
+  /// `snx` (paint-order duotone)
+  static const IconifyIconData snx = IconifyIconData.duoPaintOrder(
     IconData(0xe178, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe178, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2201,146 +2201,146 @@ class CryptocurrencyColorIcons {
     IconData(0xe179, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sol` (duo-tone)
-  static const IconifyIconData sol = IconifyIconData.duo(
+  /// `sol` (paint-order duotone)
+  static const IconifyIconData sol = IconifyIconData.duoPaintOrder(
     IconData(0xe17a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe17a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `spacehbit` (duo-tone)
-  static const IconifyIconData spacehbit = IconifyIconData.duo(
+  /// `spacehbit` (paint-order duotone)
+  static const IconifyIconData spacehbit = IconifyIconData.duoPaintOrder(
     IconData(0xe17b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe17b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `spank` (duo-tone)
-  static const IconifyIconData spank = IconifyIconData.duo(
+  /// `spank` (paint-order duotone)
+  static const IconifyIconData spank = IconifyIconData.duoPaintOrder(
     IconData(0xe17c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe17c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sphtx` (duo-tone)
-  static const IconifyIconData sphtx = IconifyIconData.duo(
+  /// `sphtx` (paint-order duotone)
+  static const IconifyIconData sphtx = IconifyIconData.duoPaintOrder(
     IconData(0xe17d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe17d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `srn` (duo-tone)
-  static const IconifyIconData srn = IconifyIconData.duo(
+  /// `srn` (paint-order duotone)
+  static const IconifyIconData srn = IconifyIconData.duoPaintOrder(
     IconData(0xe17e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe17e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `stak` (duo-tone)
-  static const IconifyIconData stak = IconifyIconData.duo(
+  /// `stak` (paint-order duotone)
+  static const IconifyIconData stak = IconifyIconData.duoPaintOrder(
     IconData(0xe17f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe17f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `start` (duo-tone)
-  static const IconifyIconData start = IconifyIconData.duo(
+  /// `start` (paint-order duotone)
+  static const IconifyIconData start = IconifyIconData.duoPaintOrder(
     IconData(0xe180, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe180, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `steem` (duo-tone)
-  static const IconifyIconData steem = IconifyIconData.duo(
+  /// `steem` (paint-order duotone)
+  static const IconifyIconData steem = IconifyIconData.duoPaintOrder(
     IconData(0xe181, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe181, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `storj` (duo-tone)
-  static const IconifyIconData storj = IconifyIconData.duo(
+  /// `storj` (paint-order duotone)
+  static const IconifyIconData storj = IconifyIconData.duoPaintOrder(
     IconData(0xe182, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe182, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `storm` (duo-tone)
-  static const IconifyIconData storm = IconifyIconData.duo(
+  /// `storm` (paint-order duotone)
+  static const IconifyIconData storm = IconifyIconData.duoPaintOrder(
     IconData(0xe183, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe183, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `stox` (duo-tone)
-  static const IconifyIconData stox = IconifyIconData.duo(
+  /// `stox` (paint-order duotone)
+  static const IconifyIconData stox = IconifyIconData.duoPaintOrder(
     IconData(0xe184, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe184, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `stq` (duo-tone)
-  static const IconifyIconData stq = IconifyIconData.duo(
+  /// `stq` (paint-order duotone)
+  static const IconifyIconData stq = IconifyIconData.duoPaintOrder(
     IconData(0xe185, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe185, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `strat` (duo-tone)
-  static const IconifyIconData strat = IconifyIconData.duo(
+  /// `strat` (paint-order duotone)
+  static const IconifyIconData strat = IconifyIconData.duoPaintOrder(
     IconData(0xe186, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe186, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `stx` (duo-tone)
-  static const IconifyIconData stx = IconifyIconData.duo(
+  /// `stx` (paint-order duotone)
+  static const IconifyIconData stx = IconifyIconData.duoPaintOrder(
     IconData(0xe187, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe187, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sub` (duo-tone)
-  static const IconifyIconData sub = IconifyIconData.duo(
+  /// `sub` (paint-order duotone)
+  static const IconifyIconData sub = IconifyIconData.duoPaintOrder(
     IconData(0xe188, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe188, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sumo` (duo-tone)
-  static const IconifyIconData sumo = IconifyIconData.duo(
+  /// `sumo` (paint-order duotone)
+  static const IconifyIconData sumo = IconifyIconData.duoPaintOrder(
     IconData(0xe189, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe189, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sushi` (duo-tone)
-  static const IconifyIconData sushi = IconifyIconData.duo(
+  /// `sushi` (paint-order duotone)
+  static const IconifyIconData sushi = IconifyIconData.duoPaintOrder(
     IconData(0xe18a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe18a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `sys` (duo-tone)
-  static const IconifyIconData sys = IconifyIconData.duo(
+  /// `sys` (paint-order duotone)
+  static const IconifyIconData sys = IconifyIconData.duoPaintOrder(
     IconData(0xe18b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe18b, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `taas` (duo-tone)
-  static const IconifyIconData taas = IconifyIconData.duo(
+  /// `taas` (paint-order duotone)
+  static const IconifyIconData taas = IconifyIconData.duoPaintOrder(
     IconData(0xe18c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe18c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tau` (duo-tone)
-  static const IconifyIconData tau = IconifyIconData.duo(
+  /// `tau` (paint-order duotone)
+  static const IconifyIconData tau = IconifyIconData.duoPaintOrder(
     IconData(0xe18d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe18d, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tbx` (duo-tone)
-  static const IconifyIconData tbx = IconifyIconData.duo(
+  /// `tbx` (paint-order duotone)
+  static const IconifyIconData tbx = IconifyIconData.duoPaintOrder(
     IconData(0xe18e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe18e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tel` (duo-tone)
-  static const IconifyIconData tel = IconifyIconData.duo(
+  /// `tel` (paint-order duotone)
+  static const IconifyIconData tel = IconifyIconData.duoPaintOrder(
     IconData(0xe18f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe18f, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `ten` (duo-tone)
-  static const IconifyIconData ten = IconifyIconData.duo(
+  /// `ten` (paint-order duotone)
+  static const IconifyIconData ten = IconifyIconData.duoPaintOrder(
     IconData(0xe190, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe190, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tern` (duo-tone)
-  static const IconifyIconData tern = IconifyIconData.duo(
+  /// `tern` (paint-order duotone)
+  static const IconifyIconData tern = IconifyIconData.duoPaintOrder(
     IconData(0xe191, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe191, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2350,20 +2350,20 @@ class CryptocurrencyColorIcons {
     IconData(0xe192, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `theta` (duo-tone)
-  static const IconifyIconData theta = IconifyIconData.duo(
+  /// `theta` (paint-order duotone)
+  static const IconifyIconData theta = IconifyIconData.duoPaintOrder(
     IconData(0xe193, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe193, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tix` (duo-tone)
-  static const IconifyIconData tix = IconifyIconData.duo(
+  /// `tix` (paint-order duotone)
+  static const IconifyIconData tix = IconifyIconData.duoPaintOrder(
     IconData(0xe194, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe194, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tkn` (duo-tone)
-  static const IconifyIconData tkn = IconifyIconData.duo(
+  /// `tkn` (paint-order duotone)
+  static const IconifyIconData tkn = IconifyIconData.duoPaintOrder(
     IconData(0xe195, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe195, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2373,26 +2373,26 @@ class CryptocurrencyColorIcons {
     IconData(0xe196, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tnb` (duo-tone)
-  static const IconifyIconData tnb = IconifyIconData.duo(
+  /// `tnb` (paint-order duotone)
+  static const IconifyIconData tnb = IconifyIconData.duoPaintOrder(
     IconData(0xe197, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe197, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tnc` (duo-tone)
-  static const IconifyIconData tnc = IconifyIconData.duo(
+  /// `tnc` (paint-order duotone)
+  static const IconifyIconData tnc = IconifyIconData.duoPaintOrder(
     IconData(0xe198, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe198, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tnt` (duo-tone)
-  static const IconifyIconData tnt = IconifyIconData.duo(
+  /// `tnt` (paint-order duotone)
+  static const IconifyIconData tnt = IconifyIconData.duoPaintOrder(
     IconData(0xe199, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe199, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tomo` (duo-tone)
-  static const IconifyIconData tomo = IconifyIconData.duo(
+  /// `tomo` (paint-order duotone)
+  static const IconifyIconData tomo = IconifyIconData.duoPaintOrder(
     IconData(0xe19a, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe19a, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2402,8 +2402,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe19b, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `trig` (duo-tone)
-  static const IconifyIconData trig = IconifyIconData.duo(
+  /// `trig` (paint-order duotone)
+  static const IconifyIconData trig = IconifyIconData.duoPaintOrder(
     IconData(0xe19c, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe19c, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2413,8 +2413,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe19d, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `trx` (duo-tone)
-  static const IconifyIconData trx = IconifyIconData.duo(
+  /// `trx` (paint-order duotone)
+  static const IconifyIconData trx = IconifyIconData.duoPaintOrder(
     IconData(0xe19e, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe19e, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2424,8 +2424,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe19f, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `tzc` (duo-tone)
-  static const IconifyIconData tzc = IconifyIconData.duo(
+  /// `tzc` (paint-order duotone)
+  static const IconifyIconData tzc = IconifyIconData.duoPaintOrder(
     IconData(0xe1a0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1a0, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2451,8 +2451,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe1a4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `usd` (duo-tone)
-  static const IconifyIconData usd = IconifyIconData.duo(
+  /// `usd` (paint-order duotone)
+  static const IconifyIconData usd = IconifyIconData.duoPaintOrder(
     IconData(0xe1a5, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1a5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2462,68 +2462,68 @@ class CryptocurrencyColorIcons {
     IconData(0xe1a6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `usdt` (duo-tone)
-  static const IconifyIconData usdt = IconifyIconData.duo(
+  /// `usdt` (paint-order duotone)
+  static const IconifyIconData usdt = IconifyIconData.duoPaintOrder(
     IconData(0xe1a7, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1a7, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `utk` (duo-tone)
-  static const IconifyIconData utk = IconifyIconData.duo(
+  /// `utk` (paint-order duotone)
+  static const IconifyIconData utk = IconifyIconData.duoPaintOrder(
     IconData(0xe1a8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1a8, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `veri` (duo-tone)
-  static const IconifyIconData veri = IconifyIconData.duo(
+  /// `veri` (paint-order duotone)
+  static const IconifyIconData veri = IconifyIconData.duoPaintOrder(
     IconData(0xe1a9, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1a9, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `vet` (duo-tone)
-  static const IconifyIconData vet = IconifyIconData.duo(
+  /// `vet` (paint-order duotone)
+  static const IconifyIconData vet = IconifyIconData.duoPaintOrder(
     IconData(0xe1aa, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1aa, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `via` (duo-tone)
-  static const IconifyIconData via = IconifyIconData.duo(
+  /// `via` (paint-order duotone)
+  static const IconifyIconData via = IconifyIconData.duoPaintOrder(
     IconData(0xe1ab, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1ab, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `vib` (duo-tone)
-  static const IconifyIconData vib = IconifyIconData.duo(
+  /// `vib` (paint-order duotone)
+  static const IconifyIconData vib = IconifyIconData.duoPaintOrder(
     IconData(0xe1ac, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1ac, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `vibe` (duo-tone)
-  static const IconifyIconData vibe = IconifyIconData.duo(
+  /// `vibe` (paint-order duotone)
+  static const IconifyIconData vibe = IconifyIconData.duoPaintOrder(
     IconData(0xe1ad, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1ad, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `vivo` (duo-tone)
-  static const IconifyIconData vivo = IconifyIconData.duo(
+  /// `vivo` (paint-order duotone)
+  static const IconifyIconData vivo = IconifyIconData.duoPaintOrder(
     IconData(0xe1ae, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1ae, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `vrc` (duo-tone)
-  static const IconifyIconData vrc = IconifyIconData.duo(
+  /// `vrc` (paint-order duotone)
+  static const IconifyIconData vrc = IconifyIconData.duoPaintOrder(
     IconData(0xe1af, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1af, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `vrsc` (duo-tone)
-  static const IconifyIconData vrsc = IconifyIconData.duo(
+  /// `vrsc` (paint-order duotone)
+  static const IconifyIconData vrsc = IconifyIconData.duoPaintOrder(
     IconData(0xe1b0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1b0, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `vtc` (duo-tone)
-  static const IconifyIconData vtc = IconifyIconData.duo(
+  /// `vtc` (paint-order duotone)
+  static const IconifyIconData vtc = IconifyIconData.duoPaintOrder(
     IconData(0xe1b1, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1b1, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2533,26 +2533,26 @@ class CryptocurrencyColorIcons {
     IconData(0xe1b2, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `wabi` (duo-tone)
-  static const IconifyIconData wabi = IconifyIconData.duo(
+  /// `wabi` (paint-order duotone)
+  static const IconifyIconData wabi = IconifyIconData.duoPaintOrder(
     IconData(0xe1b3, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1b3, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `wan` (duo-tone)
-  static const IconifyIconData wan = IconifyIconData.duo(
+  /// `wan` (paint-order duotone)
+  static const IconifyIconData wan = IconifyIconData.duoPaintOrder(
     IconData(0xe1b4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1b4, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `waves` (duo-tone)
-  static const IconifyIconData waves = IconifyIconData.duo(
+  /// `waves` (paint-order duotone)
+  static const IconifyIconData waves = IconifyIconData.duoPaintOrder(
     IconData(0xe1b5, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1b5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `wax` (duo-tone)
-  static const IconifyIconData wax = IconifyIconData.duo(
+  /// `wax` (paint-order duotone)
+  static const IconifyIconData wax = IconifyIconData.duoPaintOrder(
     IconData(0xe1b6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1b6, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2562,8 +2562,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe1b7, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `wgr` (duo-tone)
-  static const IconifyIconData wgr = IconifyIconData.duo(
+  /// `wgr` (paint-order duotone)
+  static const IconifyIconData wgr = IconifyIconData.duoPaintOrder(
     IconData(0xe1b8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1b8, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2578,8 +2578,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe1ba, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `wpr` (duo-tone)
-  static const IconifyIconData wpr = IconifyIconData.duo(
+  /// `wpr` (paint-order duotone)
+  static const IconifyIconData wpr = IconifyIconData.duoPaintOrder(
     IconData(0xe1bb, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1bb, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2595,68 +2595,68 @@ class CryptocurrencyColorIcons {
     IconData(0xe1bd, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xas` (duo-tone)
-  static const IconifyIconData xas = IconifyIconData.duo(
+  /// `xas` (paint-order duotone)
+  static const IconifyIconData xas = IconifyIconData.duoPaintOrder(
     IconData(0xe1be, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1be, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xbc` (duo-tone)
-  static const IconifyIconData xbc = IconifyIconData.duo(
+  /// `xbc` (paint-order duotone)
+  static const IconifyIconData xbc = IconifyIconData.duoPaintOrder(
     IconData(0xe1bf, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1bf, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xbp` (duo-tone)
-  static const IconifyIconData xbp = IconifyIconData.duo(
+  /// `xbp` (paint-order duotone)
+  static const IconifyIconData xbp = IconifyIconData.duoPaintOrder(
     IconData(0xe1c0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1c0, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xby` (duo-tone)
-  static const IconifyIconData xby = IconifyIconData.duo(
+  /// `xby` (paint-order duotone)
+  static const IconifyIconData xby = IconifyIconData.duoPaintOrder(
     IconData(0xe1c1, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1c1, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xcp` (duo-tone)
-  static const IconifyIconData xcp = IconifyIconData.duo(
+  /// `xcp` (paint-order duotone)
+  static const IconifyIconData xcp = IconifyIconData.duoPaintOrder(
     IconData(0xe1c2, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1c2, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xdn` (duo-tone)
-  static const IconifyIconData xdn = IconifyIconData.duo(
+  /// `xdn` (paint-order duotone)
+  static const IconifyIconData xdn = IconifyIconData.duoPaintOrder(
     IconData(0xe1c3, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1c3, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xem` (duo-tone)
-  static const IconifyIconData xem = IconifyIconData.duo(
+  /// `xem` (paint-order duotone)
+  static const IconifyIconData xem = IconifyIconData.duoPaintOrder(
     IconData(0xe1c4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1c4, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xin` (duo-tone)
-  static const IconifyIconData xin = IconifyIconData.duo(
+  /// `xin` (paint-order duotone)
+  static const IconifyIconData xin = IconifyIconData.duoPaintOrder(
     IconData(0xe1c5, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1c5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xlm` (duo-tone)
-  static const IconifyIconData xlm = IconifyIconData.duo(
+  /// `xlm` (paint-order duotone)
+  static const IconifyIconData xlm = IconifyIconData.duoPaintOrder(
     IconData(0xe1c6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1c6, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xmcc` (duo-tone)
-  static const IconifyIconData xmcc = IconifyIconData.duo(
+  /// `xmcc` (paint-order duotone)
+  static const IconifyIconData xmcc = IconifyIconData.duoPaintOrder(
     IconData(0xe1c7, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1c7, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xmg` (duo-tone)
-  static const IconifyIconData xmg = IconifyIconData.duo(
+  /// `xmg` (paint-order duotone)
+  static const IconifyIconData xmg = IconifyIconData.duoPaintOrder(
     IconData(0xe1c8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1c8, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2666,68 +2666,68 @@ class CryptocurrencyColorIcons {
     IconData(0xe1c9, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xmr` (duo-tone)
-  static const IconifyIconData xmr = IconifyIconData.duo(
+  /// `xmr` (paint-order duotone)
+  static const IconifyIconData xmr = IconifyIconData.duoPaintOrder(
     IconData(0xe1ca, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1ca, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xmy` (duo-tone)
-  static const IconifyIconData xmy = IconifyIconData.duo(
+  /// `xmy` (paint-order duotone)
+  static const IconifyIconData xmy = IconifyIconData.duoPaintOrder(
     IconData(0xe1cb, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1cb, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xp` (duo-tone)
-  static const IconifyIconData xp = IconifyIconData.duo(
+  /// `xp` (paint-order duotone)
+  static const IconifyIconData xp = IconifyIconData.duoPaintOrder(
     IconData(0xe1cc, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1cc, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xpa` (duo-tone)
-  static const IconifyIconData xpa = IconifyIconData.duo(
+  /// `xpa` (paint-order duotone)
+  static const IconifyIconData xpa = IconifyIconData.duoPaintOrder(
     IconData(0xe1cd, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1cd, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xpm` (duo-tone)
-  static const IconifyIconData xpm = IconifyIconData.duo(
+  /// `xpm` (paint-order duotone)
+  static const IconifyIconData xpm = IconifyIconData.duoPaintOrder(
     IconData(0xe1ce, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1ce, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xpr` (duo-tone)
-  static const IconifyIconData xpr = IconifyIconData.duo(
+  /// `xpr` (paint-order duotone)
+  static const IconifyIconData xpr = IconifyIconData.duoPaintOrder(
     IconData(0xe1cf, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1cf, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xrp` (duo-tone)
-  static const IconifyIconData xrp = IconifyIconData.duo(
+  /// `xrp` (paint-order duotone)
+  static const IconifyIconData xrp = IconifyIconData.duoPaintOrder(
     IconData(0xe1d0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1d0, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xsg` (duo-tone)
-  static const IconifyIconData xsg = IconifyIconData.duo(
+  /// `xsg` (paint-order duotone)
+  static const IconifyIconData xsg = IconifyIconData.duoPaintOrder(
     IconData(0xe1d1, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1d1, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xtz` (duo-tone)
-  static const IconifyIconData xtz = IconifyIconData.duo(
+  /// `xtz` (paint-order duotone)
+  static const IconifyIconData xtz = IconifyIconData.duoPaintOrder(
     IconData(0xe1d2, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1d2, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xuc` (duo-tone)
-  static const IconifyIconData xuc = IconifyIconData.duo(
+  /// `xuc` (paint-order duotone)
+  static const IconifyIconData xuc = IconifyIconData.duoPaintOrder(
     IconData(0xe1d3, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1d3, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xvc` (duo-tone)
-  static const IconifyIconData xvc = IconifyIconData.duo(
+  /// `xvc` (paint-order duotone)
+  static const IconifyIconData xvc = IconifyIconData.duoPaintOrder(
     IconData(0xe1d4, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1d4, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2738,8 +2738,8 @@ class CryptocurrencyColorIcons {
     IconData(0xe1d5, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `xzc` (duo-tone)
-  static const IconifyIconData xzc = IconifyIconData.duo(
+  /// `xzc` (paint-order duotone)
+  static const IconifyIconData xzc = IconifyIconData.duoPaintOrder(
     IconData(0xe1d6, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1d6, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2749,26 +2749,26 @@ class CryptocurrencyColorIcons {
     IconData(0xe1d7, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `yoyow` (duo-tone)
-  static const IconifyIconData yoyow = IconifyIconData.duo(
+  /// `yoyow` (paint-order duotone)
+  static const IconifyIconData yoyow = IconifyIconData.duoPaintOrder(
     IconData(0xe1d8, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1d8, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `zcl` (duo-tone)
-  static const IconifyIconData zcl = IconifyIconData.duo(
+  /// `zcl` (paint-order duotone)
+  static const IconifyIconData zcl = IconifyIconData.duoPaintOrder(
     IconData(0xe1d9, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1d9, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `zec` (duo-tone)
-  static const IconifyIconData zec = IconifyIconData.duo(
+  /// `zec` (paint-order duotone)
+  static const IconifyIconData zec = IconifyIconData.duoPaintOrder(
     IconData(0xe1da, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1da, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `zel` (duo-tone)
-  static const IconifyIconData zel = IconifyIconData.duo(
+  /// `zel` (paint-order duotone)
+  static const IconifyIconData zel = IconifyIconData.duoPaintOrder(
     IconData(0xe1db, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1db, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
@@ -2788,14 +2788,14 @@ class CryptocurrencyColorIcons {
     IconData(0xe1de, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `zilla` (duo-tone)
-  static const IconifyIconData zilla = IconifyIconData.duo(
+  /// `zilla` (paint-order duotone)
+  static const IconifyIconData zilla = IconifyIconData.duoPaintOrder(
     IconData(0xe1df, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1df, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );
 
-  /// `zrx` (duo-tone)
-  static const IconifyIconData zrx = IconifyIconData.duo(
+  /// `zrx` (paint-order duotone)
+  static const IconifyIconData zrx = IconifyIconData.duoPaintOrder(
     IconData(0xe1e0, fontFamily: 'CryptocurrencyColor', fontPackage: 'iconifyx_cryptocurrency_color'),
     IconData(0xe1e0, fontFamily: 'CryptocurrencyColorSecondary', fontPackage: 'iconifyx_cryptocurrency_color'),
   );

@@ -11,7 +11,6 @@ import '../../router/coordinator.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/iconify_svg_url.dart';
-import '../../shared/paint_order_packs.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/iconify_thumb.dart';
 import '../../theme/app_theme.dart';
@@ -269,12 +268,6 @@ class _PreviewCard extends StatelessWidget {
                         record.toIconifyData(),
                         size: s.toDouble(),
                         color: ink,
-                        paintOrder: isPaintOrderDuotonePack(record.prefix),
-                        secondaryOpacity:
-                            isPaintOrderDuotonePack(record.prefix) ? 1.0 : 0.4,
-                        secondaryColor: isPaintOrderDuotonePack(record.prefix)
-                            ? paper2
-                            : null,
                       ),
                     ),
                     const SizedBox(height: 6),
@@ -884,16 +877,6 @@ class _SideBySidePreview extends StatelessWidget {
             record.toIconifyData(),
             size: _iconSize,
             color: ink,
-            // Paint-order duotones (logos, crypto-color, fluent-emoji-flat, …)
-            // ship a meaningful foreground letterform as their secondary
-            // layer; render at full opacity with the page paper colour as
-            // the "knockout" so the foreground shape is visible against
-            // the currentColor-filled background tile.
-            paintOrder: isPaintOrderDuotonePack(record.prefix),
-            secondaryOpacity:
-                isPaintOrderDuotonePack(record.prefix) ? 1.0 : 0.4,
-            secondaryColor:
-                isPaintOrderDuotonePack(record.prefix) ? paperBg : null,
           ),
         );
         final source = _PreviewTile(

@@ -35,7 +35,8 @@
       "codepoint": 57880,
       "fontFamily": "Fxemoji",
       "identifier": "n2hearts",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "airplane": {
       "codepoint": 57344,
@@ -48,13 +49,15 @@
       "codepoint": 57881,
       "fontFamily": "Fxemoji",
       "identifier": "alien",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alienmonster": {
       "codepoint": 57882,
       "fontFamily": "Fxemoji",
       "identifier": "alienmonster",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ambulance": {
       "codepoint": 57345,
@@ -74,7 +77,8 @@
       "codepoint": 57347,
       "fontFamily": "Fxemoji",
       "identifier": "americasglobe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "anchor": {
       "codepoint": 57348,
@@ -144,7 +148,8 @@
       "codepoint": 57358,
       "fontFamily": "Fxemoji",
       "identifier": "asiaaustraliaglobe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "astonished": {
       "codepoint": 57359,
@@ -218,19 +223,22 @@
       "codepoint": 57369,
       "fontFamily": "Fxemoji",
       "identifier": "ballotboxboldcheck",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ballotboxwithboldscriptx": {
       "codepoint": 57883,
       "fontFamily": "Fxemoji",
       "identifier": "ballotboxwithboldscriptx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ballottboxwithscriptx": {
       "codepoint": 57370,
       "fontFamily": "Fxemoji",
       "identifier": "ballottboxwithscriptx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ballottscriptx": {
       "codepoint": 57371,
@@ -241,25 +249,29 @@
       "codepoint": 57372,
       "fontFamily": "Fxemoji",
       "identifier": "banknotedollar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "banknoteeuro": {
       "codepoint": 57373,
       "fontFamily": "Fxemoji",
       "identifier": "banknoteeuro",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "banknotepound": {
       "codepoint": 57374,
       "fontFamily": "Fxemoji",
       "identifier": "banknotepound",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "banknoteyen": {
       "codepoint": 57375,
       "fontFamily": "Fxemoji",
       "identifier": "banknoteyen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "barchart": {
       "codepoint": 57376,
@@ -279,7 +291,8 @@
       "codepoint": 57884,
       "fontFamily": "Fxemoji",
       "identifier": "bathtub",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bear": {
       "codepoint": 57378,
@@ -320,7 +333,8 @@
       "codepoint": 57885,
       "fontFamily": "Fxemoji",
       "identifier": "bikini",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "billiards": {
       "codepoint": 57383,
@@ -348,7 +362,8 @@
       "codepoint": 57387,
       "fontFamily": "Fxemoji",
       "identifier": "blackdroplet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blackhardshellfloppy": {
       "codepoint": 57388,
@@ -405,13 +420,15 @@
       "codepoint": 57886,
       "fontFamily": "Fxemoji",
       "identifier": "blacksquarebutton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blackuniversalrecyclingsymbol": {
       "codepoint": 57397,
       "fontFamily": "Fxemoji",
       "identifier": "blackuniversalrecyclingsymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blackuppointingbackhand": {
       "codepoint": 57398,
@@ -460,7 +477,8 @@
       "codepoint": 57887,
       "fontFamily": "Fxemoji",
       "identifier": "bread",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "briefcase": {
       "codepoint": 57405,
@@ -501,7 +519,8 @@
       "codepoint": 57410,
       "fontFamily": "Fxemoji",
       "identifier": "cactus",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "calendar": {
       "codepoint": 57411,
@@ -580,13 +599,15 @@
       "codepoint": 57422,
       "fontFamily": "Fxemoji",
       "identifier": "childrencrossing",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chineseflag": {
       "codepoint": 57423,
       "fontFamily": "Fxemoji",
       "identifier": "chineseflag",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "circledideographaccept": {
       "codepoint": 57424,
@@ -759,7 +780,8 @@
       "codepoint": 57888,
       "fontFamily": "Fxemoji",
       "identifier": "contact2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "controlknob": {
       "codepoint": 57449,
@@ -832,19 +854,22 @@
       "codepoint": 57460,
       "fontFamily": "Fxemoji",
       "identifier": "dash",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "deciduoustree": {
       "codepoint": 57461,
       "fontFamily": "Fxemoji",
       "identifier": "deciduoustree",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "decreasefontsize": {
       "codepoint": 57462,
       "fontFamily": "Fxemoji",
       "identifier": "decreasefontsize",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "deliverytruck": {
       "codepoint": 57463,
@@ -885,7 +910,8 @@
       "codepoint": 57468,
       "fontFamily": "Fxemoji",
       "identifier": "diamondshapewithdotinside",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "disappointed": {
       "codepoint": 57469,
@@ -905,7 +931,8 @@
       "codepoint": 57471,
       "fontFamily": "Fxemoji",
       "identifier": "dizzy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "documenttextpicture": {
       "codepoint": 57472,
@@ -946,7 +973,8 @@
       "codepoint": 57477,
       "fontFamily": "Fxemoji",
       "identifier": "donotlittersymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "doublecurlyloop": {
       "codepoint": 57478,
@@ -964,13 +992,15 @@
       "codepoint": 57480,
       "fontFamily": "Fxemoji",
       "identifier": "doveofpeace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "down": {
       "codepoint": 57481,
       "fontFamily": "Fxemoji",
       "identifier": "down",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "downpointingredtriangle": {
       "codepoint": 57482,
@@ -981,7 +1011,8 @@
       "codepoint": 57483,
       "fontFamily": "Fxemoji",
       "identifier": "dress",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dromedarycamel": {
       "codepoint": 57484,
@@ -994,7 +1025,8 @@
       "codepoint": 57485,
       "fontFamily": "Fxemoji",
       "identifier": "droplet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dvd": {
       "codepoint": 57486,
@@ -1007,7 +1039,8 @@
       "codepoint": 57487,
       "fontFamily": "Fxemoji",
       "identifier": "ear",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "earofmaize": {
       "codepoint": 57488,
@@ -1020,7 +1053,8 @@
       "codepoint": 57489,
       "fontFamily": "Fxemoji",
       "identifier": "earofrice",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eightpointedblackstar": {
       "codepoint": 57490,
@@ -1033,7 +1067,8 @@
       "codepoint": 57491,
       "fontFamily": "Fxemoji",
       "identifier": "electricplug",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "electrictorch": {
       "codepoint": 57492,
@@ -1053,19 +1088,22 @@
       "codepoint": 57889,
       "fontFamily": "Fxemoji",
       "identifier": "emptydocument",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "emptynote": {
       "codepoint": 57494,
       "fontFamily": "Fxemoji",
       "identifier": "emptynote",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "emptynotepad": {
       "codepoint": 57495,
       "fontFamily": "Fxemoji",
       "identifier": "emptynotepad",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "emptynotepage": {
       "codepoint": 57496,
@@ -1076,7 +1114,8 @@
       "codepoint": 57890,
       "fontFamily": "Fxemoji",
       "identifier": "emptypages",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "endwithleftwardsarrow": {
       "codepoint": 57497,
@@ -1108,7 +1147,8 @@
       "codepoint": 57501,
       "fontFamily": "Fxemoji",
       "identifier": "europeafricaglobe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "europeancastle": {
       "codepoint": 57502,
@@ -1121,7 +1161,8 @@
       "codepoint": 57503,
       "fontFamily": "Fxemoji",
       "identifier": "evergreen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "exclaimationquestionmark": {
       "codepoint": 57504,
@@ -1146,7 +1187,8 @@
       "codepoint": 57891,
       "fontFamily": "Fxemoji",
       "identifier": "fallingleaf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fatherchristmas": {
       "codepoint": 57507,
@@ -1173,7 +1215,8 @@
       "codepoint": 57892,
       "fontFamily": "Fxemoji",
       "identifier": "filefolder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fire": {
       "codepoint": 57510,
@@ -1221,19 +1264,22 @@
       "codepoint": 57893,
       "fontFamily": "Fxemoji",
       "identifier": "fishcakeswirl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fistedhand": {
       "codepoint": 57516,
       "fontFamily": "Fxemoji",
       "identifier": "fistedhand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexbicep": {
       "codepoint": 57517,
       "fontFamily": "Fxemoji",
       "identifier": "flexbicep",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flowerplayingcards": {
       "codepoint": 57518,
@@ -1272,13 +1318,15 @@
       "codepoint": 57523,
       "fontFamily": "Fxemoji",
       "identifier": "folder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "forkknife": {
       "codepoint": 57524,
       "fontFamily": "Fxemoji",
       "identifier": "forkknife",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fourleafclover": {
       "codepoint": 57525,
@@ -1373,7 +1421,8 @@
       "codepoint": 57538,
       "fontFamily": "Fxemoji",
       "identifier": "fullmoon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fullmoonwithface": {
       "codepoint": 57539,
@@ -1483,13 +1532,15 @@
       "codepoint": 57554,
       "fontFamily": "Fxemoji",
       "identifier": "hand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hands": {
       "codepoint": 57555,
       "fontFamily": "Fxemoji",
       "identifier": "hands",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "harddisk": {
       "codepoint": 57556,
@@ -1509,7 +1560,8 @@
       "codepoint": 57558,
       "fontFamily": "Fxemoji",
       "identifier": "heartblue",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heartdecoration": {
       "codepoint": 57559,
@@ -1529,7 +1581,8 @@
       "codepoint": 57561,
       "fontFamily": "Fxemoji",
       "identifier": "heartgreen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heartlefttip": {
       "codepoint": 57562,
@@ -1540,7 +1593,8 @@
       "codepoint": 57563,
       "fontFamily": "Fxemoji",
       "identifier": "heartpurple",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heartribbon": {
       "codepoint": 57564,
@@ -1553,7 +1607,8 @@
       "codepoint": 57565,
       "fontFamily": "Fxemoji",
       "identifier": "heartyellow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heavycheckmark": {
       "codepoint": 57566,
@@ -1604,7 +1659,8 @@
       "codepoint": 57894,
       "fontFamily": "Fxemoji",
       "identifier": "heels",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "helicopter": {
       "codepoint": 57575,
@@ -1648,7 +1704,8 @@
       "codepoint": 57895,
       "fontFamily": "Fxemoji",
       "identifier": "hole",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "honeypot": {
       "codepoint": 57581,
@@ -1701,7 +1758,8 @@
       "codepoint": 57588,
       "fontFamily": "Fxemoji",
       "identifier": "increasefontsize",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "index": {
       "codepoint": 57589,
@@ -1742,7 +1800,8 @@
       "codepoint": 57896,
       "fontFamily": "Fxemoji",
       "identifier": "japanflag",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jeans": {
       "codepoint": 57594,
@@ -1795,13 +1854,15 @@
       "codepoint": 57897,
       "fontFamily": "Fxemoji",
       "identifier": "kissmark",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "label": {
       "codepoint": 57601,
       "fontFamily": "Fxemoji",
       "identifier": "label",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ladybeetle": {
       "codepoint": 57602,
@@ -1843,7 +1904,8 @@
       "codepoint": 57608,
       "fontFamily": "Fxemoji",
       "identifier": "left",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leftangerbubble": {
       "codepoint": 57609,
@@ -1904,7 +1966,8 @@
       "codepoint": 57618,
       "fontFamily": "Fxemoji",
       "identifier": "lightningmoodbubble",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "linkedpaperclips": {
       "codepoint": 57619,
@@ -1917,13 +1980,15 @@
       "codepoint": 57898,
       "fontFamily": "Fxemoji",
       "identifier": "linksymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lips": {
       "codepoint": 57620,
       "fontFamily": "Fxemoji",
       "identifier": "lips",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lock": {
       "codepoint": 57621,
@@ -1962,19 +2027,22 @@
       "codepoint": 57899,
       "fontFamily": "Fxemoji",
       "identifier": "lowerleftfountainpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lowerrightwhitecircle": {
       "codepoint": 57626,
       "fontFamily": "Fxemoji",
       "identifier": "lowerrightwhitecircle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mahjong": {
       "codepoint": 57900,
       "fontFamily": "Fxemoji",
       "identifier": "mahjong",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mansshirt": {
       "codepoint": 57627,
@@ -1987,7 +2055,8 @@
       "codepoint": 57901,
       "fontFamily": "Fxemoji",
       "identifier": "mapleleaf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "markschaptersymbol": {
       "codepoint": 57628,
@@ -1998,7 +2067,8 @@
       "codepoint": 57629,
       "fontFamily": "Fxemoji",
       "identifier": "maximize",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "medicalmask": {
       "codepoint": 57630,
@@ -2042,7 +2112,8 @@
       "codepoint": 57902,
       "fontFamily": "Fxemoji",
       "identifier": "microscope",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "minibus": {
       "codepoint": 57636,
@@ -2074,7 +2145,8 @@
       "codepoint": 57640,
       "fontFamily": "Fxemoji",
       "identifier": "moneybag",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "moneywithwings": {
       "codepoint": 57641,
@@ -2134,7 +2206,8 @@
       "codepoint": 57649,
       "fontFamily": "Fxemoji",
       "identifier": "mouth",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "moviecamera": {
       "codepoint": 57650,
@@ -2147,7 +2220,8 @@
       "codepoint": 57651,
       "fontFamily": "Fxemoji",
       "identifier": "moyai",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "multiplemusicalnotes": {
       "codepoint": 57652,
@@ -2165,7 +2239,8 @@
       "codepoint": 57903,
       "fontFamily": "Fxemoji",
       "identifier": "musicalkeyboard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "musicalnote": {
       "codepoint": 57654,
@@ -2176,7 +2251,8 @@
       "codepoint": 57904,
       "fontFamily": "Fxemoji",
       "identifier": "musicalscore",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "musicascend": {
       "codepoint": 57655,
@@ -2199,7 +2275,8 @@
       "codepoint": 57658,
       "fontFamily": "Fxemoji",
       "identifier": "namebadge",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nationalpark": {
       "codepoint": 57659,
@@ -2254,7 +2331,8 @@
       "codepoint": 57905,
       "fontFamily": "Fxemoji",
       "identifier": "newmoon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "newmoonwithface": {
       "codepoint": 57666,
@@ -2267,7 +2345,8 @@
       "codepoint": 57667,
       "fontFamily": "Fxemoji",
       "identifier": "nobicycles",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "noentry": {
       "codepoint": 57668,
@@ -2292,19 +2371,22 @@
       "codepoint": 57671,
       "fontFamily": "Fxemoji",
       "identifier": "nonpotablewatersymbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nooneunder18symbol": {
       "codepoint": 57672,
       "fontFamily": "Fxemoji",
       "identifier": "nooneunder18symbol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nopedestrians": {
       "codepoint": 57673,
       "fontFamily": "Fxemoji",
       "identifier": "nopedestrians",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nose": {
       "codepoint": 57674,
@@ -2350,7 +2432,8 @@
       "codepoint": 57680,
       "fontFamily": "Fxemoji",
       "identifier": "notepage",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "octopus": {
       "codepoint": 57681,
@@ -2363,7 +2446,8 @@
       "codepoint": 57682,
       "fontFamily": "Fxemoji",
       "identifier": "oldkey",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oldpersonalcomputer": {
       "codepoint": 57683,
@@ -2400,13 +2484,15 @@
       "codepoint": 57906,
       "fontFamily": "Fxemoji",
       "identifier": "openfilefolder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "openfolder": {
       "codepoint": 57688,
       "fontFamily": "Fxemoji",
       "identifier": "openfolder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "openlock": {
       "codepoint": 57689,
@@ -2454,7 +2540,8 @@
       "codepoint": 57695,
       "fontFamily": "Fxemoji",
       "identifier": "overlap",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ox": {
       "codepoint": 57696,
@@ -2467,7 +2554,8 @@
       "codepoint": 57907,
       "fontFamily": "Fxemoji",
       "identifier": "page",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pagefacingup": {
       "codepoint": 57697,
@@ -2530,7 +2618,8 @@
       "codepoint": 57908,
       "fontFamily": "Fxemoji",
       "identifier": "phonewithpage",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pig": {
       "codepoint": 57706,
@@ -2599,7 +2688,8 @@
       "codepoint": 57909,
       "fontFamily": "Fxemoji",
       "identifier": "poultryleg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pouting": {
       "codepoint": 57715,
@@ -2638,19 +2728,22 @@
       "codepoint": 57720,
       "fontFamily": "Fxemoji",
       "identifier": "raisedfist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raisedhandpartfingers": {
       "codepoint": 57721,
       "fontFamily": "Fxemoji",
       "identifier": "raisedhandpartfingers",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raisedhandsfingerssplayed": {
       "codepoint": 57722,
       "fontFamily": "Fxemoji",
       "identifier": "raisedhandsfingerssplayed",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ram": {
       "codepoint": 57723,
@@ -2663,7 +2756,8 @@
       "codepoint": 57910,
       "fontFamily": "Fxemoji",
       "identifier": "redheart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "relieved": {
       "codepoint": 57724,
@@ -2676,7 +2770,8 @@
       "codepoint": 57725,
       "fontFamily": "Fxemoji",
       "identifier": "reminder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "reversehandmiddlefinger": {
       "codepoint": 57726,
@@ -2687,7 +2782,8 @@
       "codepoint": 57727,
       "fontFamily": "Fxemoji",
       "identifier": "reverseraisedhandsfingerssplayed",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "reversethumbsdown": {
       "codepoint": 57728,
@@ -2715,7 +2811,8 @@
       "codepoint": 57732,
       "fontFamily": "Fxemoji",
       "identifier": "right",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightangerbubble": {
       "codepoint": 57733,
@@ -2726,7 +2823,8 @@
       "codepoint": 57734,
       "fontFamily": "Fxemoji",
       "identifier": "rightspeaker",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rightspeaker3soundwaves": {
       "codepoint": 57735,
@@ -2840,7 +2938,8 @@
       "codepoint": 57751,
       "fontFamily": "Fxemoji",
       "identifier": "screen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "seedling": {
       "codepoint": 57752,
@@ -2878,31 +2977,36 @@
       "codepoint": 57758,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysdownpointingindex",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sidewaysleftpointingindex": {
       "codepoint": 57759,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysleftpointingindex",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sidewaysrightpointingindex": {
       "codepoint": 57760,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysrightpointingindex",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sidewaysuppointingindex": {
       "codepoint": 57761,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysuppointingindex",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "silhouetteohjapan": {
       "codepoint": 57762,
       "fontFamily": "Fxemoji",
       "identifier": "silhouetteohjapan",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sixpointedstarwithdot": {
       "codepoint": 57763,
@@ -2984,7 +3088,8 @@
       "codepoint": 57911,
       "fontFamily": "Fxemoji",
       "identifier": "soccerball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "softshellfloppy": {
       "codepoint": 57775,
@@ -3009,7 +3114,8 @@
       "codepoint": 57778,
       "fontFamily": "Fxemoji",
       "identifier": "speaker",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speaker3soundwaves": {
       "codepoint": 57779,
@@ -3116,7 +3222,8 @@
       "codepoint": 57794,
       "fontFamily": "Fxemoji",
       "identifier": "star",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "steamingbowl": {
       "codepoint": 57795,
@@ -3136,13 +3243,15 @@
       "codepoint": 57797,
       "fontFamily": "Fxemoji",
       "identifier": "stormcloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "straightruler": {
       "codepoint": 57798,
       "fontFamily": "Fxemoji",
       "identifier": "straightruler",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "studiomic": {
       "codepoint": 57799,
@@ -3155,7 +3264,8 @@
       "codepoint": 57800,
       "fontFamily": "Fxemoji",
       "identifier": "sunbehindcloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sunglasses": {
       "codepoint": 57801,
@@ -3168,13 +3278,15 @@
       "codepoint": 57802,
       "fontFamily": "Fxemoji",
       "identifier": "sunraincloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sunrays": {
       "codepoint": 57803,
       "fontFamily": "Fxemoji",
       "identifier": "sunrays",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sunrise": {
       "codepoint": 57804,
@@ -3268,13 +3380,15 @@
       "codepoint": 57818,
       "fontFamily": "Fxemoji",
       "identifier": "thumbsdown",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbsup": {
       "codepoint": 57819,
       "fontFamily": "Fxemoji",
       "identifier": "thumbsup",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ticket": {
       "codepoint": 57820,
@@ -3294,7 +3408,8 @@
       "codepoint": 57912,
       "fontFamily": "Fxemoji",
       "identifier": "toilet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tomato": {
       "codepoint": 57822,
@@ -3326,7 +3441,8 @@
       "codepoint": 57913,
       "fontFamily": "Fxemoji",
       "identifier": "tornado",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "toykotower": {
       "codepoint": 57826,
@@ -3351,13 +3467,15 @@
       "codepoint": 57829,
       "fontFamily": "Fxemoji",
       "identifier": "triangularflagonpost",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "triangularruler": {
       "codepoint": 57830,
       "fontFamily": "Fxemoji",
       "identifier": "triangularruler",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tridentemblem": {
       "codepoint": 57831,
@@ -3403,7 +3521,8 @@
       "codepoint": 57837,
       "fontFamily": "Fxemoji",
       "identifier": "twospeechbubbles",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "unamused": {
       "codepoint": 57838,
@@ -3416,13 +3535,15 @@
       "codepoint": 57839,
       "fontFamily": "Fxemoji",
       "identifier": "up",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "upperrightwhitecircle": {
       "codepoint": 57840,
       "fontFamily": "Fxemoji",
       "identifier": "upperrightwhitecircle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "uppointingredtriangle": {
       "codepoint": 57841,
@@ -3454,13 +3575,15 @@
       "codepoint": 57845,
       "fontFamily": "Fxemoji",
       "identifier": "warningsign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wastebasket": {
       "codepoint": 57846,
       "fontFamily": "Fxemoji",
       "identifier": "wastebasket",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "watch": {
       "codepoint": 57847,
@@ -3473,7 +3596,8 @@
       "codepoint": 57848,
       "fontFamily": "Fxemoji",
       "identifier": "wave",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "waving": {
       "codepoint": 57849,
@@ -3583,7 +3707,8 @@
       "codepoint": 57914,
       "fontFamily": "Fxemoji",
       "identifier": "whitesquarebutton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "whitestar": {
       "codepoint": 57867,
@@ -3594,13 +3719,15 @@
       "codepoint": 57868,
       "fontFamily": "Fxemoji",
       "identifier": "whitesun",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "whitesunbehindcloud": {
       "codepoint": 57869,
       "fontFamily": "Fxemoji",
       "identifier": "whitesunbehindcloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "whitesunsmallcloud": {
       "codepoint": 57870,

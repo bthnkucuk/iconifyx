@@ -64,7 +64,8 @@
       "codepoint": 57428,
       "fontFamily": "Gcp",
       "identifier": "aiPlatform",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ai-platform-unified": {
       "codepoint": 57347,
@@ -110,7 +111,8 @@
       "codepoint": 57429,
       "fontFamily": "Gcp",
       "identifier": "apigeeApiPlatform",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "apigee-sense": {
       "codepoint": 57470,
@@ -167,7 +169,8 @@
       "codepoint": 57430,
       "fontFamily": "Gcp",
       "identifier": "automlVision",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bare-metal-solutions": {
       "codepoint": 57352,
@@ -233,7 +236,8 @@
       "codepoint": 57357,
       "fontFamily": "Gcp",
       "identifier": "cloudArmor",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-asset-inventory": {
       "codepoint": 57358,
@@ -264,7 +268,8 @@
       "codepoint": 57361,
       "fontFamily": "Gcp",
       "identifier": "cloudComposer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-data-fusion": {
       "codepoint": 57362,
@@ -290,7 +295,8 @@
       "codepoint": 57431,
       "fontFamily": "Gcp",
       "identifier": "cloudDomains",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-ekm": {
       "codepoint": 57490,
@@ -301,13 +307,15 @@
       "codepoint": 57432,
       "fontFamily": "Gcp",
       "identifier": "cloudEndpoints",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-external-ip-addresses": {
       "codepoint": 57433,
       "fontFamily": "Gcp",
       "identifier": "cloudExternalIpAddresses",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-firewall-rules": {
       "codepoint": 57491,
@@ -358,7 +366,8 @@
       "codepoint": 57434,
       "fontFamily": "Gcp",
       "identifier": "cloudInferenceApi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-interconnect": {
       "codepoint": 57496,
@@ -389,13 +398,15 @@
       "codepoint": 57435,
       "fontFamily": "Gcp",
       "identifier": "cloudMonitoring",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-nat": {
       "codepoint": 57436,
       "fontFamily": "Gcp",
       "identifier": "cloudNat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-natural-language-api": {
       "codepoint": 57498,
@@ -421,7 +432,8 @@
       "codepoint": 57371,
       "fontFamily": "Gcp",
       "identifier": "cloudOptimizationAiFleetRoutingApi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-router": {
       "codepoint": 57501,
@@ -432,19 +444,22 @@
       "codepoint": 57437,
       "fontFamily": "Gcp",
       "identifier": "cloudRoutes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-run": {
       "codepoint": 57372,
       "fontFamily": "Gcp",
       "identifier": "cloudRun",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-run-for-anthos": {
       "codepoint": 57373,
       "fontFamily": "Gcp",
       "identifier": "cloudRunForAnthos",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-scheduler": {
       "codepoint": 57502,
@@ -485,7 +500,8 @@
       "codepoint": 57438,
       "fontFamily": "Gcp",
       "identifier": "cloudTestLab",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-tpu": {
       "codepoint": 57379,
@@ -496,7 +512,8 @@
       "codepoint": 57439,
       "fontFamily": "Gcp",
       "identifier": "cloudTranslationApi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-vision-api": {
       "codepoint": 57380,
@@ -507,7 +524,8 @@
       "codepoint": 57440,
       "fontFamily": "Gcp",
       "identifier": "cloudVpn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "compute-engine": {
       "codepoint": 57381,
@@ -518,7 +536,8 @@
       "codepoint": 57441,
       "fontFamily": "Gcp",
       "identifier": "configurationManagement",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "connectivity-test": {
       "codepoint": 57382,
@@ -549,7 +568,8 @@
       "codepoint": 57442,
       "fontFamily": "Gcp",
       "identifier": "dataCatalog",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "data-labeling": {
       "codepoint": 57385,
@@ -575,7 +595,8 @@
       "codepoint": 57443,
       "fontFamily": "Gcp",
       "identifier": "dataStudio",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "data-transfer": {
       "codepoint": 57508,
@@ -606,13 +627,15 @@
       "codepoint": 57444,
       "fontFamily": "Gcp",
       "identifier": "datapol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dataprep": {
       "codepoint": 57445,
       "fontFamily": "Gcp",
       "identifier": "dataprep",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dataproc": {
       "codepoint": 57388,
@@ -628,7 +651,8 @@
       "codepoint": 57446,
       "fontFamily": "Gcp",
       "identifier": "datashare",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "datastore": {
       "codepoint": 57389,
@@ -649,7 +673,8 @@
       "codepoint": 57447,
       "fontFamily": "Gcp",
       "identifier": "developerPortal",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dialogflow-cx": {
       "codepoint": 57392,
@@ -675,7 +700,8 @@
       "codepoint": 57448,
       "fontFamily": "Gcp",
       "identifier": "errorReporting",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eventarc": {
       "codepoint": 57514,
@@ -691,7 +717,8 @@
       "codepoint": 57449,
       "fontFamily": "Gcp",
       "identifier": "financialServicesMarketplace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "firestore": {
       "codepoint": 57516,
@@ -758,7 +785,8 @@
       "codepoint": 57450,
       "fontFamily": "Gcp",
       "identifier": "identityAndAccessManagement",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "identity-aware-proxy": {
       "codepoint": 57522,
@@ -769,13 +797,15 @@
       "codepoint": 57451,
       "fontFamily": "Gcp",
       "identifier": "identityPlatform",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "iot-core": {
       "codepoint": 57452,
       "fontFamily": "Gcp",
       "identifier": "iotCore",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "iot-edge": {
       "codepoint": 57401,
@@ -791,7 +821,8 @@
       "codepoint": 57453,
       "fontFamily": "Gcp",
       "identifier": "keyManagementService",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kuberun": {
       "codepoint": 57523,
@@ -887,7 +918,8 @@
       "codepoint": 57454,
       "fontFamily": "Gcp",
       "identifier": "partnerInterconnect",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "partner-portal": {
       "codepoint": 57409,
@@ -938,7 +970,8 @@
       "codepoint": 57412,
       "fontFamily": "Gcp",
       "identifier": "producerPortal",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "profiler": {
       "codepoint": 57541,
@@ -964,7 +997,8 @@
       "codepoint": 57455,
       "fontFamily": "Gcp",
       "identifier": "quotas",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "real-world-insights": {
       "codepoint": 57416,
@@ -1010,7 +1044,8 @@
       "codepoint": 57456,
       "fontFamily": "Gcp",
       "identifier": "securityCommandCenter",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "security-health-advisor": {
       "codepoint": 57420,
@@ -1021,13 +1056,15 @@
       "codepoint": 57457,
       "fontFamily": "Gcp",
       "identifier": "securityKeyEnforcement",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "service-discovery": {
       "codepoint": 57458,
       "fontFamily": "Gcp",
       "identifier": "serviceDiscovery",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speech-to-text": {
       "codepoint": 57546,
@@ -1063,7 +1100,8 @@
       "codepoint": 57459,
       "fontFamily": "Gcp",
       "identifier": "textToSpeech",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tools-for-powershell": {
       "codepoint": 57550,
@@ -1104,7 +1142,8 @@
       "codepoint": 57460,
       "fontFamily": "Gcp",
       "identifier": "videoIntelligenceApi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "virtual-private-cloud": {
       "codepoint": 57425,
@@ -1130,7 +1169,8 @@
       "codepoint": 57461,
       "fontFamily": "Gcp",
       "identifier": "webSecurityScanner",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "workflows": {
       "codepoint": 57557,

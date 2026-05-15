@@ -46,8 +46,8 @@ class GcpIcons {
     IconData(0xe078, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `ai-platform` (duo-tone)
-  static const IconifyIconData aiPlatform = IconifyIconData.duo(
+  /// `ai-platform` (paint-order duotone)
+  static const IconifyIconData aiPlatform = IconifyIconData.duoPaintOrder(
     IconData(0xe054, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe054, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -92,8 +92,8 @@ class GcpIcons {
     IconData(0xe07d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `apigee-api-platform` (duo-tone)
-  static const IconifyIconData apigeeApiPlatform = IconifyIconData.duo(
+  /// `apigee-api-platform` (paint-order duotone)
+  static const IconifyIconData apigeeApiPlatform = IconifyIconData.duoPaintOrder(
     IconData(0xe055, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe055, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -149,8 +149,8 @@ class GcpIcons {
     IconData(0xe085, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `automl-vision` (duo-tone)
-  static const IconifyIconData automlVision = IconifyIconData.duo(
+  /// `automl-vision` (paint-order duotone)
+  static const IconifyIconData automlVision = IconifyIconData.duoPaintOrder(
     IconData(0xe056, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe056, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -215,8 +215,8 @@ class GcpIcons {
     IconData(0xe08c, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-armor` (duo-tone)
-  static const IconifyIconData cloudArmor = IconifyIconData.duo(
+  /// `cloud-armor` (paint-order duotone)
+  static const IconifyIconData cloudArmor = IconifyIconData.duoPaintOrder(
     IconData(0xe00d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe00d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -246,8 +246,8 @@ class GcpIcons {
     IconData(0xe010, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-composer` (duo-tone)
-  static const IconifyIconData cloudComposer = IconifyIconData.duo(
+  /// `cloud-composer` (paint-order duotone)
+  static const IconifyIconData cloudComposer = IconifyIconData.duoPaintOrder(
     IconData(0xe011, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe011, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -272,8 +272,8 @@ class GcpIcons {
     IconData(0xe091, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-domains` (duo-tone)
-  static const IconifyIconData cloudDomains = IconifyIconData.duo(
+  /// `cloud-domains` (paint-order duotone)
+  static const IconifyIconData cloudDomains = IconifyIconData.duoPaintOrder(
     IconData(0xe057, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe057, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -283,14 +283,14 @@ class GcpIcons {
     IconData(0xe092, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-endpoints` (duo-tone)
-  static const IconifyIconData cloudEndpoints = IconifyIconData.duo(
+  /// `cloud-endpoints` (paint-order duotone)
+  static const IconifyIconData cloudEndpoints = IconifyIconData.duoPaintOrder(
     IconData(0xe058, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe058, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-external-ip-addresses` (duo-tone)
-  static const IconifyIconData cloudExternalIpAddresses = IconifyIconData.duo(
+  /// `cloud-external-ip-addresses` (paint-order duotone)
+  static const IconifyIconData cloudExternalIpAddresses = IconifyIconData.duoPaintOrder(
     IconData(0xe059, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe059, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -340,8 +340,8 @@ class GcpIcons {
     IconData(0xe016, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-inference-api` (duo-tone)
-  static const IconifyIconData cloudInferenceApi = IconifyIconData.duo(
+  /// `cloud-inference-api` (paint-order duotone)
+  static const IconifyIconData cloudInferenceApi = IconifyIconData.duoPaintOrder(
     IconData(0xe05a, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe05a, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -371,14 +371,14 @@ class GcpIcons {
     IconData(0xe019, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-monitoring` (duo-tone)
-  static const IconifyIconData cloudMonitoring = IconifyIconData.duo(
+  /// `cloud-monitoring` (paint-order duotone)
+  static const IconifyIconData cloudMonitoring = IconifyIconData.duoPaintOrder(
     IconData(0xe05b, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe05b, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-nat` (duo-tone)
-  static const IconifyIconData cloudNat = IconifyIconData.duo(
+  /// `cloud-nat` (paint-order duotone)
+  static const IconifyIconData cloudNat = IconifyIconData.duoPaintOrder(
     IconData(0xe05c, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe05c, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -403,8 +403,8 @@ class GcpIcons {
     IconData(0xe09c, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-optimization-ai-fleet-routing-api` (duo-tone)
-  static const IconifyIconData cloudOptimizationAiFleetRoutingApi = IconifyIconData.duo(
+  /// `cloud-optimization-ai-fleet-routing-api` (paint-order duotone)
+  static const IconifyIconData cloudOptimizationAiFleetRoutingApi = IconifyIconData.duoPaintOrder(
     IconData(0xe01b, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe01b, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -414,20 +414,20 @@ class GcpIcons {
     IconData(0xe09d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-routes` (duo-tone)
-  static const IconifyIconData cloudRoutes = IconifyIconData.duo(
+  /// `cloud-routes` (paint-order duotone)
+  static const IconifyIconData cloudRoutes = IconifyIconData.duoPaintOrder(
     IconData(0xe05d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe05d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-run` (duo-tone)
-  static const IconifyIconData cloudRun = IconifyIconData.duo(
+  /// `cloud-run` (paint-order duotone)
+  static const IconifyIconData cloudRun = IconifyIconData.duoPaintOrder(
     IconData(0xe01c, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe01c, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-run-for-anthos` (duo-tone)
-  static const IconifyIconData cloudRunForAnthos = IconifyIconData.duo(
+  /// `cloud-run-for-anthos` (paint-order duotone)
+  static const IconifyIconData cloudRunForAnthos = IconifyIconData.duoPaintOrder(
     IconData(0xe01d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe01d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -467,8 +467,8 @@ class GcpIcons {
     IconData(0xe022, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-test-lab` (duo-tone)
-  static const IconifyIconData cloudTestLab = IconifyIconData.duo(
+  /// `cloud-test-lab` (paint-order duotone)
+  static const IconifyIconData cloudTestLab = IconifyIconData.duoPaintOrder(
     IconData(0xe05e, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe05e, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -478,8 +478,8 @@ class GcpIcons {
     IconData(0xe023, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-translation-api` (duo-tone)
-  static const IconifyIconData cloudTranslationApi = IconifyIconData.duo(
+  /// `cloud-translation-api` (paint-order duotone)
+  static const IconifyIconData cloudTranslationApi = IconifyIconData.duoPaintOrder(
     IconData(0xe05f, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe05f, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -489,8 +489,8 @@ class GcpIcons {
     IconData(0xe024, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `cloud-vpn` (duo-tone)
-  static const IconifyIconData cloudVpn = IconifyIconData.duo(
+  /// `cloud-vpn` (paint-order duotone)
+  static const IconifyIconData cloudVpn = IconifyIconData.duoPaintOrder(
     IconData(0xe060, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe060, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -500,8 +500,8 @@ class GcpIcons {
     IconData(0xe025, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `configuration-management` (duo-tone)
-  static const IconifyIconData configurationManagement = IconifyIconData.duo(
+  /// `configuration-management` (paint-order duotone)
+  static const IconifyIconData configurationManagement = IconifyIconData.duoPaintOrder(
     IconData(0xe061, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe061, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -531,8 +531,8 @@ class GcpIcons {
     IconData(0xe028, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `data-catalog` (duo-tone)
-  static const IconifyIconData dataCatalog = IconifyIconData.duo(
+  /// `data-catalog` (paint-order duotone)
+  static const IconifyIconData dataCatalog = IconifyIconData.duoPaintOrder(
     IconData(0xe062, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe062, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -557,8 +557,8 @@ class GcpIcons {
     IconData(0xe0a3, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `data-studio` (duo-tone)
-  static const IconifyIconData dataStudio = IconifyIconData.duo(
+  /// `data-studio` (paint-order duotone)
+  static const IconifyIconData dataStudio = IconifyIconData.duoPaintOrder(
     IconData(0xe063, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe063, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -588,14 +588,14 @@ class GcpIcons {
     IconData(0xe02b, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `datapol` (duo-tone)
-  static const IconifyIconData datapol = IconifyIconData.duo(
+  /// `datapol` (paint-order duotone)
+  static const IconifyIconData datapol = IconifyIconData.duoPaintOrder(
     IconData(0xe064, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe064, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `dataprep` (duo-tone)
-  static const IconifyIconData dataprep = IconifyIconData.duo(
+  /// `dataprep` (paint-order duotone)
+  static const IconifyIconData dataprep = IconifyIconData.duoPaintOrder(
     IconData(0xe065, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe065, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -610,8 +610,8 @@ class GcpIcons {
     IconData(0xe0a8, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `datashare` (duo-tone)
-  static const IconifyIconData datashare = IconifyIconData.duo(
+  /// `datashare` (paint-order duotone)
+  static const IconifyIconData datashare = IconifyIconData.duoPaintOrder(
     IconData(0xe066, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe066, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -631,8 +631,8 @@ class GcpIcons {
     IconData(0xe02f, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `developer-portal` (duo-tone)
-  static const IconifyIconData developerPortal = IconifyIconData.duo(
+  /// `developer-portal` (paint-order duotone)
+  static const IconifyIconData developerPortal = IconifyIconData.duoPaintOrder(
     IconData(0xe067, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe067, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -657,8 +657,8 @@ class GcpIcons {
     IconData(0xe0a9, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `error-reporting` (duo-tone)
-  static const IconifyIconData errorReporting = IconifyIconData.duo(
+  /// `error-reporting` (paint-order duotone)
+  static const IconifyIconData errorReporting = IconifyIconData.duoPaintOrder(
     IconData(0xe068, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe068, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -673,8 +673,8 @@ class GcpIcons {
     IconData(0xe0ab, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `financial-services-marketplace` (duo-tone)
-  static const IconifyIconData financialServicesMarketplace = IconifyIconData.duo(
+  /// `financial-services-marketplace` (paint-order duotone)
+  static const IconifyIconData financialServicesMarketplace = IconifyIconData.duoPaintOrder(
     IconData(0xe069, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe069, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -740,8 +740,8 @@ class GcpIcons {
     IconData(0xe038, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `identity-and-access-management` (duo-tone)
-  static const IconifyIconData identityAndAccessManagement = IconifyIconData.duo(
+  /// `identity-and-access-management` (paint-order duotone)
+  static const IconifyIconData identityAndAccessManagement = IconifyIconData.duoPaintOrder(
     IconData(0xe06a, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe06a, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -751,14 +751,14 @@ class GcpIcons {
     IconData(0xe0b2, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `identity-platform` (duo-tone)
-  static const IconifyIconData identityPlatform = IconifyIconData.duo(
+  /// `identity-platform` (paint-order duotone)
+  static const IconifyIconData identityPlatform = IconifyIconData.duoPaintOrder(
     IconData(0xe06b, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe06b, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `iot-core` (duo-tone)
-  static const IconifyIconData iotCore = IconifyIconData.duo(
+  /// `iot-core` (paint-order duotone)
+  static const IconifyIconData iotCore = IconifyIconData.duoPaintOrder(
     IconData(0xe06c, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe06c, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -773,8 +773,8 @@ class GcpIcons {
     IconData(0xe03a, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `key-management-service` (duo-tone)
-  static const IconifyIconData keyManagementService = IconifyIconData.duo(
+  /// `key-management-service` (paint-order duotone)
+  static const IconifyIconData keyManagementService = IconifyIconData.duoPaintOrder(
     IconData(0xe06d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe06d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -869,8 +869,8 @@ class GcpIcons {
     IconData(0xe0be, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `partner-interconnect` (duo-tone)
-  static const IconifyIconData partnerInterconnect = IconifyIconData.duo(
+  /// `partner-interconnect` (paint-order duotone)
+  static const IconifyIconData partnerInterconnect = IconifyIconData.duoPaintOrder(
     IconData(0xe06e, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe06e, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -920,8 +920,8 @@ class GcpIcons {
     IconData(0xe0c4, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `producer-portal` (duo-tone)
-  static const IconifyIconData producerPortal = IconifyIconData.duo(
+  /// `producer-portal` (paint-order duotone)
+  static const IconifyIconData producerPortal = IconifyIconData.duoPaintOrder(
     IconData(0xe044, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe044, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -946,8 +946,8 @@ class GcpIcons {
     IconData(0xe047, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `quotas` (duo-tone)
-  static const IconifyIconData quotas = IconifyIconData.duo(
+  /// `quotas` (paint-order duotone)
+  static const IconifyIconData quotas = IconifyIconData.duoPaintOrder(
     IconData(0xe06f, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe06f, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -992,8 +992,8 @@ class GcpIcons {
     IconData(0xe0c9, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `security-command-center` (duo-tone)
-  static const IconifyIconData securityCommandCenter = IconifyIconData.duo(
+  /// `security-command-center` (paint-order duotone)
+  static const IconifyIconData securityCommandCenter = IconifyIconData.duoPaintOrder(
     IconData(0xe070, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe070, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -1003,14 +1003,14 @@ class GcpIcons {
     IconData(0xe04c, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `security-key-enforcement` (duo-tone)
-  static const IconifyIconData securityKeyEnforcement = IconifyIconData.duo(
+  /// `security-key-enforcement` (paint-order duotone)
+  static const IconifyIconData securityKeyEnforcement = IconifyIconData.duoPaintOrder(
     IconData(0xe071, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe071, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `service-discovery` (duo-tone)
-  static const IconifyIconData serviceDiscovery = IconifyIconData.duo(
+  /// `service-discovery` (paint-order duotone)
+  static const IconifyIconData serviceDiscovery = IconifyIconData.duoPaintOrder(
     IconData(0xe072, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe072, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -1045,8 +1045,8 @@ class GcpIcons {
     IconData(0xe0cd, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `text-to-speech` (duo-tone)
-  static const IconifyIconData textToSpeech = IconifyIconData.duo(
+  /// `text-to-speech` (paint-order duotone)
+  static const IconifyIconData textToSpeech = IconifyIconData.duoPaintOrder(
     IconData(0xe073, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe073, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -1086,8 +1086,8 @@ class GcpIcons {
     IconData(0xe0d2, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `video-intelligence-api` (duo-tone)
-  static const IconifyIconData videoIntelligenceApi = IconifyIconData.duo(
+  /// `video-intelligence-api` (paint-order duotone)
+  static const IconifyIconData videoIntelligenceApi = IconifyIconData.duoPaintOrder(
     IconData(0xe074, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe074, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
@@ -1112,8 +1112,8 @@ class GcpIcons {
     IconData(0xe052, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `web-security-scanner` (duo-tone)
-  static const IconifyIconData webSecurityScanner = IconifyIconData.duo(
+  /// `web-security-scanner` (paint-order duotone)
+  static const IconifyIconData webSecurityScanner = IconifyIconData.duoPaintOrder(
     IconData(0xe075, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
     IconData(0xe075, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );

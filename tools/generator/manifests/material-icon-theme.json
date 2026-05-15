@@ -40,25 +40,29 @@
       "codepoint": 57735,
       "fontFamily": "MaterialIconTheme",
       "identifier": "adobeIllustrator",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-illustrator-light": {
       "codepoint": 57736,
       "fontFamily": "MaterialIconTheme",
       "identifier": "adobeIllustratorLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-photoshop": {
       "codepoint": 57737,
       "fontFamily": "MaterialIconTheme",
       "identifier": "adobePhotoshop",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-photoshop-light": {
       "codepoint": 57738,
       "fontFamily": "MaterialIconTheme",
       "identifier": "adobePhotoshopLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adonis": {
       "codepoint": 57345,
@@ -104,7 +108,8 @@
       "codepoint": 57739,
       "fontFamily": "MaterialIconTheme",
       "identifier": "astroConfig",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "autohotkey": {
       "codepoint": 57353,
@@ -150,7 +155,8 @@
       "codepoint": 57740,
       "fontFamily": "MaterialIconTheme",
       "identifier": "blinkLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blitz": {
       "codepoint": 57361,
@@ -166,7 +172,8 @@
       "codepoint": 57741,
       "fontFamily": "MaterialIconTheme",
       "identifier": "browserlistLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bucklescript": {
       "codepoint": 57363,
@@ -177,13 +184,15 @@
       "codepoint": 57742,
       "fontFamily": "MaterialIconTheme",
       "identifier": "buildkite",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cabal": {
       "codepoint": 57364,
       "fontFamily": "MaterialIconTheme",
       "identifier": "cabal",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "caddy": {
       "codepoint": 57365,
@@ -231,7 +240,8 @@
       "codepoint": 57743,
       "fontFamily": "MaterialIconTheme",
       "identifier": "clangd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cline": {
       "codepoint": 57373,
@@ -242,7 +252,8 @@
       "codepoint": 57744,
       "fontFamily": "MaterialIconTheme",
       "identifier": "cloudfoundry",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "code-climate": {
       "codepoint": 57374,
@@ -268,7 +279,8 @@
       "codepoint": 57745,
       "fontFamily": "MaterialIconTheme",
       "identifier": "coldfusion",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "command": {
       "codepoint": 57378,
@@ -329,7 +341,8 @@
       "codepoint": 57746,
       "fontFamily": "MaterialIconTheme",
       "identifier": "dartGenerated",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "database": {
       "codepoint": 57389,
@@ -449,7 +462,8 @@
       "codepoint": 57747,
       "fontFamily": "MaterialIconTheme",
       "identifier": "eslint",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "excalidraw": {
       "codepoint": 57411,
@@ -480,373 +494,435 @@
       "codepoint": 57748,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAdmin",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-admin-open": {
       "codepoint": 57749,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAdminOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-android": {
       "codepoint": 57416,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAndroid",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-android-open": {
       "codepoint": 57417,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAndroidOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-angular": {
       "codepoint": 57750,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAngular",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-angular-open": {
       "codepoint": 57751,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAngularOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-animation": {
       "codepoint": 57752,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAnimation",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-animation-open": {
       "codepoint": 57753,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAnimationOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-api": {
       "codepoint": 57418,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderApi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-api-open": {
       "codepoint": 57419,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderApiOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-apollo": {
       "codepoint": 57754,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderApollo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-apollo-open": {
       "codepoint": 57755,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderApolloOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-app": {
       "codepoint": 57756,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderApp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-app-open": {
       "codepoint": 57757,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAppOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-appwrite": {
       "codepoint": 57758,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAppwrite",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-appwrite-open": {
       "codepoint": 57759,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAppwriteOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-archive": {
       "codepoint": 57420,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderArchive",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-archive-open": {
       "codepoint": 57421,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderArchiveOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-assembly": {
       "codepoint": 57760,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAssembly",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-assembly-open": {
       "codepoint": 57761,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAssemblyOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-astro": {
       "codepoint": 57762,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAstro",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-astro-open": {
       "codepoint": 57763,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAstroOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-atom": {
       "codepoint": 57764,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAtom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-atom-open": {
       "codepoint": 57765,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAtomOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-attachment": {
       "codepoint": 57422,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAttachment",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-attachment-open": {
       "codepoint": 57423,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAttachmentOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-audio": {
       "codepoint": 57766,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAudio",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-audio-open": {
       "codepoint": 57767,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAudioOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-aws": {
       "codepoint": 57768,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAws",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-aws-open": {
       "codepoint": 57769,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAwsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-azure-pipelines": {
       "codepoint": 57770,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAzurePipelines",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-azure-pipelines-open": {
       "codepoint": 57771,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAzurePipelinesOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-backup": {
       "codepoint": 57772,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBackup",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-backup-open": {
       "codepoint": 57773,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBackupOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-base": {
       "codepoint": 57774,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBase",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-base-open": {
       "codepoint": 57775,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBaseOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-batch": {
       "codepoint": 57776,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBatch",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-batch-open": {
       "codepoint": 57777,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBatchOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-benchmark": {
       "codepoint": 57778,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBenchmark",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-benchmark-open": {
       "codepoint": 57779,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBenchmarkOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-bicep": {
       "codepoint": 57424,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBicep",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-bicep-open": {
       "codepoint": 57425,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBicepOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-blender": {
       "codepoint": 57780,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBlender",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-blender-open": {
       "codepoint": 57781,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBlenderOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-bloc": {
       "codepoint": 57426,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBloc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-bloc-open": {
       "codepoint": 57427,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBlocOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cart": {
       "codepoint": 57782,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cart-open": {
       "codepoint": 57783,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCartOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-certificate": {
       "codepoint": 57784,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCertificate",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-certificate-open": {
       "codepoint": 57785,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCertificateOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-changesets": {
       "codepoint": 57786,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderChangesets",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-changesets-open": {
       "codepoint": 57787,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderChangesetsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-ci": {
       "codepoint": 57788,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-ci-open": {
       "codepoint": 57789,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCiOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-circleci": {
       "codepoint": 57790,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCircleci",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-circleci-open": {
       "codepoint": 57791,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCircleciOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-class": {
       "codepoint": 57792,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderClass",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-class-open": {
       "codepoint": 57793,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderClassOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-client": {
       "codepoint": 57794,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderClient",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-client-open": {
       "codepoint": 57795,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderClientOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cline": {
       "codepoint": 57428,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCline",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cline-open": {
       "codepoint": 57429,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderClineOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cloud-functions": {
       "codepoint": 58130,
@@ -862,445 +938,519 @@
       "codepoint": 57430,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCloudflare",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cloudflare-open": {
       "codepoint": 57431,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCloudflareOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cluster": {
       "codepoint": 57432,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCluster",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cluster-open": {
       "codepoint": 57433,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderClusterOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cobol": {
       "codepoint": 57796,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCobol",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cobol-open": {
       "codepoint": 57797,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCobolOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-command": {
       "codepoint": 57798,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCommand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-command-open": {
       "codepoint": 57799,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCommandOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-components": {
       "codepoint": 57434,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderComponents",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-components-open": {
       "codepoint": 57435,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderComponentsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-config": {
       "codepoint": 57436,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConfig",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-config-open": {
       "codepoint": 57437,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConfigOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-connection": {
       "codepoint": 57438,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConnection",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-connection-open": {
       "codepoint": 57439,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConnectionOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-console": {
       "codepoint": 57440,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConsole",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-console-open": {
       "codepoint": 57441,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConsoleOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-constant": {
       "codepoint": 57800,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConstant",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-constant-open": {
       "codepoint": 57801,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConstantOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-container": {
       "codepoint": 57802,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContainer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-container-open": {
       "codepoint": 57803,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContainerOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-content": {
       "codepoint": 57442,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContent",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-content-open": {
       "codepoint": 57443,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContentOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-context": {
       "codepoint": 57804,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContext",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-context-open": {
       "codepoint": 57805,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContextOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-contract": {
       "codepoint": 57806,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContract",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-contract-open": {
       "codepoint": 57807,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContractOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-controller": {
       "codepoint": 57444,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderController",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-controller-open": {
       "codepoint": 57445,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderControllerOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-core": {
       "codepoint": 57808,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCore",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-core-open": {
       "codepoint": 57809,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCoreOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-coverage": {
       "codepoint": 57446,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCoverage",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-coverage-open": {
       "codepoint": 57447,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCoverageOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cue": {
       "codepoint": 57810,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCue",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cue-open": {
       "codepoint": 57811,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCueOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cursor": {
       "codepoint": 57812,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCursor",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cursor-light": {
       "codepoint": 57813,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCursorLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cursor-open": {
       "codepoint": 57814,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCursorOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cursor-open-light": {
       "codepoint": 57815,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCursorOpenLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-custom": {
       "codepoint": 57816,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCustom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-custom-open": {
       "codepoint": 57817,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCustomOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cypress": {
       "codepoint": 57818,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCypress",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-cypress-open": {
       "codepoint": 57819,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCypressOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-dart": {
       "codepoint": 57820,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-dart-open": {
       "codepoint": 57821,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDartOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-database": {
       "codepoint": 57448,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDatabase",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-database-open": {
       "codepoint": 57449,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDatabaseOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-debug": {
       "codepoint": 57822,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDebug",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-debug-open": {
       "codepoint": 57823,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDebugOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-decorators": {
       "codepoint": 57450,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDecorators",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-decorators-open": {
       "codepoint": 57451,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDecoratorsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-delta": {
       "codepoint": 57824,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDelta",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-delta-open": {
       "codepoint": 57825,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDeltaOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-desktop": {
       "codepoint": 57826,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDesktop",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-desktop-open": {
       "codepoint": 57827,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDesktopOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-dist": {
       "codepoint": 57828,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-dist-open": {
       "codepoint": 57829,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDistOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-docker": {
       "codepoint": 57830,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDocker",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-docker-open": {
       "codepoint": 57831,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDockerOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-docs": {
       "codepoint": 57832,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDocs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-docs-open": {
       "codepoint": 57833,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDocsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-download": {
       "codepoint": 57834,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDownload",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-download-open": {
       "codepoint": 57835,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDownloadOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-drizzle": {
       "codepoint": 57836,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDrizzle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-drizzle-open": {
       "codepoint": 57837,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDrizzleOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-dump": {
       "codepoint": 57838,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDump",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-dump-open": {
       "codepoint": 57839,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDumpOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-element": {
       "codepoint": 57452,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderElement",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-element-open": {
       "codepoint": 57453,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderElementOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-enum": {
       "codepoint": 57454,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEnum",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-enum-open": {
       "codepoint": 57455,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEnumOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-environment": {
       "codepoint": 57840,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEnvironment",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-environment-open": {
       "codepoint": 57841,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEnvironmentOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-error": {
       "codepoint": 57842,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderError",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-error-open": {
       "codepoint": 57843,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderErrorOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-eslint": {
       "codepoint": 57456,
@@ -1313,43 +1463,50 @@
       "codepoint": 57457,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEslintOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-event": {
       "codepoint": 57458,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEvent",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-event-open": {
       "codepoint": 57459,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEventOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-examples": {
       "codepoint": 57844,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderExamples",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-examples-open": {
       "codepoint": 57845,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderExamplesOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-expo": {
       "codepoint": 57846,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderExpo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-expo-open": {
       "codepoint": 57847,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderExpoOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-export": {
       "codepoint": 57460,
@@ -1367,73 +1524,85 @@
       "codepoint": 57848,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFastlane",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-fastlane-open": {
       "codepoint": 57849,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFastlaneOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-favicon": {
       "codepoint": 57462,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFavicon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-favicon-open": {
       "codepoint": 57463,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFaviconOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-features": {
       "codepoint": 57850,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFeatures",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-features-open": {
       "codepoint": 57851,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFeaturesOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-filter": {
       "codepoint": 57852,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFilter",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-filter-open": {
       "codepoint": 57853,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFilterOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-firebase": {
       "codepoint": 57854,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFirebase",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-firebase-open": {
       "codepoint": 57855,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFirebaseOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-firestore": {
       "codepoint": 57856,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFirestore",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-firestore-open": {
       "codepoint": 57857,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFirestoreOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-flow": {
       "codepoint": 57858,
@@ -1453,877 +1622,1023 @@
       "codepoint": 57860,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFlutter",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-flutter-open": {
       "codepoint": 57861,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFlutterOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-font": {
       "codepoint": 57862,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFont",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-font-open": {
       "codepoint": 57863,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFontOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-form": {
       "codepoint": 57464,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderForm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-form-open": {
       "codepoint": 57465,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFormOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-functions": {
       "codepoint": 57864,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFunctions",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-functions-open": {
       "codepoint": 57865,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFunctionsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gamemaker": {
       "codepoint": 57466,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGamemaker",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gamemaker-open": {
       "codepoint": 57467,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGamemakerOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gemini-ai": {
       "codepoint": 57468,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGeminiAi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gemini-ai-open": {
       "codepoint": 57469,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGeminiAiOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-generator": {
       "codepoint": 57866,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGenerator",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-generator-open": {
       "codepoint": 57867,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGeneratorOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gh-workflows": {
       "codepoint": 57868,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGhWorkflows",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gh-workflows-open": {
       "codepoint": 57869,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGhWorkflowsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-git": {
       "codepoint": 57870,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-git-open": {
       "codepoint": 57871,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGitOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gitea": {
       "codepoint": 57872,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGitea",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gitea-open": {
       "codepoint": 57873,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGiteaOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-github": {
       "codepoint": 57874,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGithub",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-github-open": {
       "codepoint": 57875,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGithubOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-global": {
       "codepoint": 57470,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGlobal",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-global-open": {
       "codepoint": 57471,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGlobalOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-go": {
       "codepoint": 57472,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-go-open": {
       "codepoint": 57473,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGoOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-godot": {
       "codepoint": 57474,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGodot",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-godot-open": {
       "codepoint": 57475,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGodotOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gradle": {
       "codepoint": 57476,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGradle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gradle-open": {
       "codepoint": 57477,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGradleOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-graphql": {
       "codepoint": 57876,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGraphql",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-graphql-open": {
       "codepoint": 57877,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGraphqlOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-guard": {
       "codepoint": 57878,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGuard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-guard-open": {
       "codepoint": 57879,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGuardOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gulp": {
       "codepoint": 57880,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGulp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-gulp-open": {
       "codepoint": 57881,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGulpOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-helm": {
       "codepoint": 57478,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHelm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-helm-open": {
       "codepoint": 57479,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHelmOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-helper": {
       "codepoint": 57480,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHelper",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-helper-open": {
       "codepoint": 57481,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHelperOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-home": {
       "codepoint": 57882,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHome",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-home-open": {
       "codepoint": 57883,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHomeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-hook": {
       "codepoint": 57884,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHook",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-hook-open": {
       "codepoint": 57885,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHookOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-husky": {
       "codepoint": 57886,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHusky",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-husky-open": {
       "codepoint": 57887,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHuskyOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-i18n": {
       "codepoint": 57482,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderI18n",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-i18n-open": {
       "codepoint": 57483,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderI18nOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-images": {
       "codepoint": 57888,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderImages",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-images-open": {
       "codepoint": 57889,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderImagesOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-import": {
       "codepoint": 57484,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderImport",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-import-open": {
       "codepoint": 57485,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderImportOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-include": {
       "codepoint": 57890,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderInclude",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-include-open": {
       "codepoint": 57891,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderIncludeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-input": {
       "codepoint": 57486,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderInput",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-input-open": {
       "codepoint": 57487,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderInputOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-interface": {
       "codepoint": 57892,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderInterface",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-interface-open": {
       "codepoint": 57893,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderInterfaceOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-ios": {
       "codepoint": 57894,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderIos",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-ios-open": {
       "codepoint": 57895,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderIosOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-java": {
       "codepoint": 57896,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJava",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-java-open": {
       "codepoint": 57897,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJavaOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-javascript": {
       "codepoint": 57488,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJavascript",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-javascript-open": {
       "codepoint": 57489,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJavascriptOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-jinja": {
       "codepoint": 57898,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJinja",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-jinja-light": {
       "codepoint": 57899,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJinjaLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-jinja-open": {
       "codepoint": 57900,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJinjaOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-jinja-open-light": {
       "codepoint": 57901,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJinjaOpenLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-job": {
       "codepoint": 57490,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJob",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-job-open": {
       "codepoint": 57491,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJobOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-json": {
       "codepoint": 57902,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJson",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-json-open": {
       "codepoint": 57903,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJsonOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-keys": {
       "codepoint": 57492,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKeys",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-keys-open": {
       "codepoint": 57493,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKeysOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-kotlin": {
       "codepoint": 57494,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKotlin",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-kotlin-open": {
       "codepoint": 57495,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKotlinOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-kubernetes": {
       "codepoint": 57904,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKubernetes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-kubernetes-open": {
       "codepoint": 57905,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKubernetesOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-kusto": {
       "codepoint": 57906,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKusto",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-kusto-open": {
       "codepoint": 57907,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKustoOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-layout": {
       "codepoint": 57908,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLayout",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-layout-open": {
       "codepoint": 57909,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLayoutOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-less": {
       "codepoint": 57910,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLess",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-less-open": {
       "codepoint": 57911,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLessOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-lib": {
       "codepoint": 57496,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLib",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-lib-open": {
       "codepoint": 57497,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLibOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-license": {
       "codepoint": 57912,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLicense",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-license-open": {
       "codepoint": 57913,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLicenseOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-link": {
       "codepoint": 57914,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLink",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-link-open": {
       "codepoint": 57915,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLinkOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-linux": {
       "codepoint": 57916,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLinux",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-linux-open": {
       "codepoint": 57917,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLinuxOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-liquibase": {
       "codepoint": 57918,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLiquibase",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-liquibase-open": {
       "codepoint": 57919,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLiquibaseOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-log": {
       "codepoint": 57498,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLog",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-log-open": {
       "codepoint": 57499,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLogOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-lottie": {
       "codepoint": 57500,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLottie",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-lottie-open": {
       "codepoint": 57501,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLottieOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-lua": {
       "codepoint": 57920,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLua",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-lua-open": {
       "codepoint": 57921,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLuaOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-luau": {
       "codepoint": 57922,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLuau",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-luau-open": {
       "codepoint": 57923,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLuauOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-macos": {
       "codepoint": 57924,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMacos",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-macos-open": {
       "codepoint": 57925,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMacosOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mail": {
       "codepoint": 57926,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMail",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mail-open": {
       "codepoint": 57927,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMailOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mappings": {
       "codepoint": 57502,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMappings",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mappings-open": {
       "codepoint": 57503,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMappingsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-markdown": {
       "codepoint": 57928,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMarkdown",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-markdown-open": {
       "codepoint": 57929,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMarkdownOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mercurial": {
       "codepoint": 57930,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMercurial",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mercurial-open": {
       "codepoint": 57931,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMercurialOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-messages": {
       "codepoint": 57932,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMessages",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-messages-open": {
       "codepoint": 57933,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMessagesOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-meta": {
       "codepoint": 57934,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMeta",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-meta-open": {
       "codepoint": 57935,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMetaOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-metro": {
       "codepoint": 57936,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMetro",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-metro-open": {
       "codepoint": 57937,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMetroOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-middleware": {
       "codepoint": 57504,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMiddleware",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-middleware-open": {
       "codepoint": 57505,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMiddlewareOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-migrations": {
       "codepoint": 57938,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMigrations",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-migrations-open": {
       "codepoint": 57939,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMigrationsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mjml": {
       "codepoint": 57940,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMjml",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mjml-open": {
       "codepoint": 57941,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMjmlOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mobile": {
       "codepoint": 57942,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMobile",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mobile-open": {
       "codepoint": 57943,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMobileOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mock": {
       "codepoint": 57944,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMock",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mock-open": {
       "codepoint": 57945,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMockOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mojo": {
       "codepoint": 57946,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMojo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-mojo-open": {
       "codepoint": 57947,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMojoOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-molecule": {
       "codepoint": 57948,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMolecule",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-molecule-open": {
       "codepoint": 57949,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMoleculeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-moon": {
       "codepoint": 57950,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMoon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-moon-open": {
       "codepoint": 57951,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMoonOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-netlify": {
       "codepoint": 57506,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNetlify",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-netlify-open": {
       "codepoint": 57507,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNetlifyOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-next": {
       "codepoint": 57952,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNext",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-next-open": {
       "codepoint": 57953,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNextOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-nginx": {
       "codepoint": 57954,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNginx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-nginx-open": {
       "codepoint": 57955,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNginxOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-ngrx-store": {
       "codepoint": 57508,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNgrxStore",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-ngrx-store-open": {
       "codepoint": 57509,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNgrxStoreOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-node": {
       "codepoint": 57510,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNode",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-node-open": {
       "codepoint": 57511,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNodeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-nuxt": {
       "codepoint": 57956,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNuxt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-nuxt-open": {
       "codepoint": 57957,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNuxtOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-obsidian": {
       "codepoint": 58132,
@@ -2339,265 +2654,309 @@
       "codepoint": 57958,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderOrganism",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-organism-open": {
       "codepoint": 57959,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderOrganismOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-other": {
       "codepoint": 57960,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderOther",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-other-open": {
       "codepoint": 57961,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderOtherOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-packages": {
       "codepoint": 57962,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPackages",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-packages-open": {
       "codepoint": 57963,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPackagesOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-pdf": {
       "codepoint": 57964,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPdf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-pdf-open": {
       "codepoint": 57965,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPdfOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-pdm": {
       "codepoint": 57966,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPdm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-pdm-open": {
       "codepoint": 57967,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPdmOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-php": {
       "codepoint": 57968,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPhp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-php-open": {
       "codepoint": 57969,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPhpOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-pipe": {
       "codepoint": 57970,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPipe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-pipe-open": {
       "codepoint": 57971,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPipeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-plastic": {
       "codepoint": 57972,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPlastic",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-plastic-open": {
       "codepoint": 57973,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPlasticOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-plugin": {
       "codepoint": 57974,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPlugin",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-plugin-open": {
       "codepoint": 57975,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPluginOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-policy": {
       "codepoint": 57976,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPolicy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-policy-open": {
       "codepoint": 57977,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPolicyOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-postman": {
       "codepoint": 57978,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPostman",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-postman-open": {
       "codepoint": 57979,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPostmanOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-powershell": {
       "codepoint": 57980,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPowershell",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-powershell-open": {
       "codepoint": 57981,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPowershellOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-prisma": {
       "codepoint": 57512,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPrisma",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-prisma-open": {
       "codepoint": 57513,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPrismaOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-private": {
       "codepoint": 57982,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPrivate",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-private-open": {
       "codepoint": 57983,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPrivateOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-project": {
       "codepoint": 57984,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderProject",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-project-open": {
       "codepoint": 57985,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderProjectOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-prompts": {
       "codepoint": 57514,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPrompts",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-prompts-open": {
       "codepoint": 57515,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPromptsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-proto": {
       "codepoint": 57986,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderProto",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-proto-open": {
       "codepoint": 57987,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderProtoOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-public": {
       "codepoint": 57988,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPublic",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-public-open": {
       "codepoint": 57989,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPublicOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-pytorch": {
       "codepoint": 57990,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPytorch",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-pytorch-open": {
       "codepoint": 57991,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPytorchOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-quasar": {
       "codepoint": 57992,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderQuasar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-quasar-open": {
       "codepoint": 57993,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderQuasarOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-queue": {
       "codepoint": 57994,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderQueue",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-queue-open": {
       "codepoint": 57995,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderQueueOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-r": {
       "codepoint": 57996,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderR",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-r-open": {
       "codepoint": 57997,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderROpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-react-components": {
       "codepoint": 57516,
@@ -2617,193 +2976,225 @@
       "codepoint": 57998,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderReduxReducer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-redux-reducer-open": {
       "codepoint": 57999,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderReduxReducerOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-repository": {
       "codepoint": 58000,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRepository",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-repository-open": {
       "codepoint": 58001,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRepositoryOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-resolver": {
       "codepoint": 58002,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderResolver",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-resolver-open": {
       "codepoint": 58003,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderResolverOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-resource": {
       "codepoint": 57518,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderResource",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-resource-open": {
       "codepoint": 57519,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderResourceOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-review": {
       "codepoint": 58004,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderReview",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-review-open": {
       "codepoint": 58005,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderReviewOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-robot": {
       "codepoint": 58006,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRobot",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-robot-open": {
       "codepoint": 58007,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRobotOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-routes": {
       "codepoint": 58008,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRoutes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-routes-open": {
       "codepoint": 58009,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRoutesOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-rules": {
       "codepoint": 58010,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRules",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-rules-open": {
       "codepoint": 58011,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRulesOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-rust": {
       "codepoint": 58012,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRust",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-rust-open": {
       "codepoint": 58013,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderRustOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-salt": {
       "codepoint": 58014,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSalt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-salt-open": {
       "codepoint": 58015,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSaltOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-sandbox": {
       "codepoint": 58016,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSandbox",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-sandbox-open": {
       "codepoint": 58017,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSandboxOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-sass": {
       "codepoint": 58018,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSass",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-sass-open": {
       "codepoint": 58019,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSassOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-scala": {
       "codepoint": 58020,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderScala",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-scala-open": {
       "codepoint": 58021,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderScalaOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-scons": {
       "codepoint": 58022,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderScons",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-scons-open": {
       "codepoint": 58023,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSconsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-scripts": {
       "codepoint": 58024,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderScripts",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-scripts-open": {
       "codepoint": 58025,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderScriptsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-secure": {
       "codepoint": 58026,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSecure",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-secure-open": {
       "codepoint": 58027,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSecureOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-seeders": {
       "codepoint": 57520,
@@ -2821,583 +3212,680 @@
       "codepoint": 57522,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderServer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-server-open": {
       "codepoint": 57523,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderServerOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-serverless": {
       "codepoint": 58028,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderServerless",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-serverless-open": {
       "codepoint": 58029,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderServerlessOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-shader": {
       "codepoint": 57524,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderShader",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-shader-open": {
       "codepoint": 57525,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderShaderOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-shared": {
       "codepoint": 57526,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderShared",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-shared-open": {
       "codepoint": 57527,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSharedOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-simulations": {
       "codepoint": 57528,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSimulations",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-simulations-open": {
       "codepoint": 57529,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSimulationsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-skills": {
       "codepoint": 57530,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSkills",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-skills-open": {
       "codepoint": 57531,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSkillsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-snapcraft": {
       "codepoint": 57532,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSnapcraft",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-snapcraft-open": {
       "codepoint": 57533,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSnapcraftOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-snippet": {
       "codepoint": 58030,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSnippet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-snippet-open": {
       "codepoint": 58031,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSnippetOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-src": {
       "codepoint": 58032,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSrc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-src-open": {
       "codepoint": 58033,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSrcOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-stack": {
       "codepoint": 58034,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStack",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-stack-open": {
       "codepoint": 58035,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStackOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-stencil": {
       "codepoint": 58036,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStencil",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-stencil-open": {
       "codepoint": 58037,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStencilOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-store": {
       "codepoint": 58038,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStore",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-store-open": {
       "codepoint": 58039,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStoreOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-storybook": {
       "codepoint": 58040,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStorybook",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-storybook-open": {
       "codepoint": 58041,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStorybookOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-stylus": {
       "codepoint": 57534,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStylus",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-stylus-open": {
       "codepoint": 57535,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStylusOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-sublime": {
       "codepoint": 58042,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSublime",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-sublime-open": {
       "codepoint": 58043,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSublimeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-supabase": {
       "codepoint": 58044,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSupabase",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-supabase-open": {
       "codepoint": 58045,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSupabaseOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-svelte": {
       "codepoint": 58046,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSvelte",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-svelte-open": {
       "codepoint": 58047,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSvelteOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-svg": {
       "codepoint": 58048,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSvg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-svg-open": {
       "codepoint": 58049,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSvgOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-syntax": {
       "codepoint": 58050,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSyntax",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-syntax-open": {
       "codepoint": 58051,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSyntaxOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-target": {
       "codepoint": 58052,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTarget",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-target-open": {
       "codepoint": 58053,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTargetOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-taskfile": {
       "codepoint": 57536,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTaskfile",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-taskfile-open": {
       "codepoint": 57537,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTaskfileOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-tasks": {
       "codepoint": 57538,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTasks",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-tasks-open": {
       "codepoint": 57539,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTasksOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-television": {
       "codepoint": 57540,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTelevision",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-television-open": {
       "codepoint": 57541,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTelevisionOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-temp": {
       "codepoint": 57542,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTemp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-temp-open": {
       "codepoint": 57543,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTempOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-template": {
       "codepoint": 58054,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTemplate",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-template-open": {
       "codepoint": 58055,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTemplateOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-terraform": {
       "codepoint": 57544,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTerraform",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-terraform-open": {
       "codepoint": 57545,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTerraformOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-test": {
       "codepoint": 57546,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTest",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-test-open": {
       "codepoint": 57547,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTestOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-theme": {
       "codepoint": 58056,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTheme",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-theme-open": {
       "codepoint": 58057,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderThemeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-toc": {
       "codepoint": 58058,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderToc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-toc-open": {
       "codepoint": 58059,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTocOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-tools": {
       "codepoint": 58060,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTools",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-tools-open": {
       "codepoint": 58061,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderToolsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-trash": {
       "codepoint": 58062,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTrash",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-trash-open": {
       "codepoint": 58063,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTrashOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-trigger": {
       "codepoint": 57548,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTrigger",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-trigger-open": {
       "codepoint": 57549,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTriggerOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-typescript": {
       "codepoint": 58064,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTypescript",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-typescript-open": {
       "codepoint": 58065,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTypescriptOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-ui": {
       "codepoint": 57550,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-ui-open": {
       "codepoint": 57551,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUiOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-unity": {
       "codepoint": 58066,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUnity",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-unity-open": {
       "codepoint": 58067,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUnityOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-update": {
       "codepoint": 58068,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUpdate",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-update-open": {
       "codepoint": 58069,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUpdateOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-upload": {
       "codepoint": 58070,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUpload",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-upload-open": {
       "codepoint": 58071,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUploadOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-utils": {
       "codepoint": 58072,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUtils",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-utils-open": {
       "codepoint": 58073,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUtilsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-vercel": {
       "codepoint": 58074,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVercel",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-vercel-open": {
       "codepoint": 58075,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVercelOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-video": {
       "codepoint": 58076,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVideo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-video-open": {
       "codepoint": 58077,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVideoOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-views": {
       "codepoint": 58078,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderViews",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-views-open": {
       "codepoint": 58079,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderViewsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-vm": {
       "codepoint": 58080,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-vm-open": {
       "codepoint": 58081,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVmOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-vscode": {
       "codepoint": 57552,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVscode",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-vscode-open": {
       "codepoint": 57553,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVscodeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-wakatime": {
       "codepoint": 58082,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderWakatime",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-wakatime-open": {
       "codepoint": 58083,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderWakatimeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-windows": {
       "codepoint": 58084,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderWindows",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-windows-open": {
       "codepoint": 58085,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderWindowsOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-wordpress": {
       "codepoint": 58086,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderWordpress",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-wordpress-open": {
       "codepoint": 58087,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderWordpressOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-yarn": {
       "codepoint": 58088,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderYarn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-yarn-open": {
       "codepoint": 58089,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderYarnOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-zed": {
       "codepoint": 58090,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderZed",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-zed-open": {
       "codepoint": 58091,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderZedOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fsharp": {
       "codepoint": 57554,
       "fontFamily": "MaterialIconTheme",
       "identifier": "fsharp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gamemaker": {
       "codepoint": 57555,
@@ -3408,7 +3896,8 @@
       "codepoint": 57556,
       "fontFamily": "MaterialIconTheme",
       "identifier": "gatsby",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "git": {
       "codepoint": 57557,
@@ -3551,7 +4040,8 @@
       "codepoint": 58092,
       "fontFamily": "MaterialIconTheme",
       "identifier": "jsconfig",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "json": {
       "codepoint": 57584,
@@ -3567,13 +4057,15 @@
       "codepoint": 58093,
       "fontFamily": "MaterialIconTheme",
       "identifier": "jsrLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "karma": {
       "codepoint": 58094,
       "fontFamily": "MaterialIconTheme",
       "identifier": "karma",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "key": {
       "codepoint": 57586,
@@ -3599,7 +4091,8 @@
       "codepoint": 58095,
       "fontFamily": "MaterialIconTheme",
       "identifier": "lefthook",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lib": {
       "codepoint": 57590,
@@ -3640,7 +4133,8 @@
       "codepoint": 57597,
       "fontFamily": "MaterialIconTheme",
       "identifier": "luau",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lynx": {
       "codepoint": 57598,
@@ -3656,19 +4150,22 @@
       "codepoint": 57600,
       "fontFamily": "MaterialIconTheme",
       "identifier": "macaulay2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "markdoc": {
       "codepoint": 58096,
       "fontFamily": "MaterialIconTheme",
       "identifier": "markdoc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "markdoc-config": {
       "codepoint": 58097,
       "fontFamily": "MaterialIconTheme",
       "identifier": "markdocConfig",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "markdown": {
       "codepoint": 57601,
@@ -3717,6 +4214,7 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "mjml",
       "duotone": true,
+      "duotoneKind": "paintOrder",
       "deprecated": true,
       "deprecatedSince": "2026-05-15"
     },
@@ -3744,13 +4242,15 @@
       "codepoint": 57613,
       "fontFamily": "MaterialIconTheme",
       "identifier": "netlify",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "netlify-light": {
       "codepoint": 58099,
       "fontFamily": "MaterialIconTheme",
       "identifier": "netlifyLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "next": {
       "codepoint": 57614,
@@ -3791,7 +4291,8 @@
       "codepoint": 57621,
       "fontFamily": "MaterialIconTheme",
       "identifier": "nix",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nodejs": {
       "codepoint": 57622,
@@ -3887,7 +4388,8 @@
       "codepoint": 58100,
       "fontFamily": "MaterialIconTheme",
       "identifier": "pinejs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pipeline": {
       "codepoint": 57640,
@@ -3898,19 +4400,22 @@
       "codepoint": 58101,
       "fontFamily": "MaterialIconTheme",
       "identifier": "playwright",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pnpm": {
       "codepoint": 58102,
       "fontFamily": "MaterialIconTheme",
       "identifier": "pnpm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pnpm-light": {
       "codepoint": 58103,
       "fontFamily": "MaterialIconTheme",
       "identifier": "pnpmLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "posthtml": {
       "codepoint": 57641,
@@ -3961,7 +4466,8 @@
       "codepoint": 58104,
       "fontFamily": "MaterialIconTheme",
       "identifier": "python",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qsharp": {
       "codepoint": 57648,
@@ -3977,7 +4483,8 @@
       "codepoint": 58105,
       "fontFamily": "MaterialIconTheme",
       "identifier": "racket",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raml": {
       "codepoint": 57650,
@@ -4043,7 +4550,8 @@
       "codepoint": 58106,
       "fontFamily": "MaterialIconTheme",
       "identifier": "rome",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "routing": {
       "codepoint": 57662,
@@ -4059,13 +4567,15 @@
       "codepoint": 58107,
       "fontFamily": "MaterialIconTheme",
       "identifier": "rubocop",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rubocop-light": {
       "codepoint": 58108,
       "fontFamily": "MaterialIconTheme",
       "identifier": "rubocopLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ruff": {
       "codepoint": 57664,
@@ -4086,7 +4596,8 @@
       "codepoint": 58109,
       "fontFamily": "MaterialIconTheme",
       "identifier": "san",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sbt": {
       "codepoint": 57667,
@@ -4097,13 +4608,15 @@
       "codepoint": 58110,
       "fontFamily": "MaterialIconTheme",
       "identifier": "scons",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "scons-light": {
       "codepoint": 58111,
       "fontFamily": "MaterialIconTheme",
       "identifier": "sconsLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "search": {
       "codepoint": 57668,
@@ -4139,7 +4652,8 @@
       "codepoint": 58112,
       "fontFamily": "MaterialIconTheme",
       "identifier": "siyuan",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sketch": {
       "codepoint": 57674,
@@ -4165,7 +4679,8 @@
       "codepoint": 58113,
       "fontFamily": "MaterialIconTheme",
       "identifier": "snapcraft",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "snowpack": {
       "codepoint": 57678,
@@ -4198,7 +4713,8 @@
       "codepoint": 58114,
       "fontFamily": "MaterialIconTheme",
       "identifier": "storybook",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stylelint": {
       "codepoint": 57683,
@@ -4236,25 +4752,29 @@
       "codepoint": 58115,
       "fontFamily": "MaterialIconTheme",
       "identifier": "sway",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "syncpack": {
       "codepoint": 58116,
       "fontFamily": "MaterialIconTheme",
       "identifier": "syncpack",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "systemd": {
       "codepoint": 57689,
       "fontFamily": "MaterialIconTheme",
       "identifier": "systemd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "systemd-light": {
       "codepoint": 58117,
       "fontFamily": "MaterialIconTheme",
       "identifier": "systemdLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "table": {
       "codepoint": 57690,
@@ -4277,13 +4797,15 @@
       "codepoint": 57693,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tauri",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "taze": {
       "codepoint": 58118,
       "fontFamily": "MaterialIconTheme",
       "identifier": "taze",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "teal": {
       "codepoint": 57694,
@@ -4324,7 +4846,8 @@
       "codepoint": 58119,
       "fontFamily": "MaterialIconTheme",
       "identifier": "textlint",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tilt": {
       "codepoint": 57701,
@@ -4340,19 +4863,22 @@
       "codepoint": 58120,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tobimake",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "toml": {
       "codepoint": 58121,
       "fontFamily": "MaterialIconTheme",
       "identifier": "toml",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "toml-light": {
       "codepoint": 58122,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tomlLight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "trigger": {
       "codepoint": 57703,
@@ -4363,7 +4889,8 @@
       "codepoint": 58123,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tsconfig",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tsdoc": {
       "codepoint": 57704,
@@ -4384,7 +4911,8 @@
       "codepoint": 58124,
       "fontFamily": "MaterialIconTheme",
       "identifier": "twine",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "typst": {
       "codepoint": 57707,
@@ -4415,13 +4943,15 @@
       "codepoint": 58125,
       "fontFamily": "MaterialIconTheme",
       "identifier": "vagrant",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "velite": {
       "codepoint": 57712,
       "fontFamily": "MaterialIconTheme",
       "identifier": "velite",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "velocity": {
       "codepoint": 57713,
@@ -4437,7 +4967,8 @@
       "codepoint": 58126,
       "fontFamily": "MaterialIconTheme",
       "identifier": "verdaccio",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "verified": {
       "codepoint": 57715,
@@ -4478,19 +5009,22 @@
       "codepoint": 58127,
       "fontFamily": "MaterialIconTheme",
       "identifier": "vlang",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vue": {
       "codepoint": 58128,
       "fontFamily": "MaterialIconTheme",
       "identifier": "vue",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vuex-store": {
       "codepoint": 58129,
       "fontFamily": "MaterialIconTheme",
       "identifier": "vuexStore",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wakatime": {
       "codepoint": 57722,
@@ -4516,7 +5050,8 @@
       "codepoint": 57726,
       "fontFamily": "MaterialIconTheme",
       "identifier": "watchman",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "webassembly": {
       "codepoint": 57727,
@@ -4537,7 +5072,8 @@
       "codepoint": 57730,
       "fontFamily": "MaterialIconTheme",
       "identifier": "wrangler",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "xaml": {
       "codepoint": 57731,

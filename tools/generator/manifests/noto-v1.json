@@ -35,13 +35,15 @@
       "codepoint": 57807,
       "fontFamily": "NotoV1",
       "identifier": "abButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ab-button-blood-type": {
       "codepoint": 57808,
       "fontFamily": "NotoV1",
       "identifier": "abButtonBloodType",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "admission-tickets": {
       "codepoint": 58100,
@@ -83,7 +85,8 @@
       "codepoint": 57809,
       "fontFamily": "NotoV1",
       "identifier": "americanFootball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "amphora": {
       "codepoint": 57934,
@@ -165,19 +168,22 @@
       "codepoint": 57810,
       "fontFamily": "NotoV1",
       "identifier": "bButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "b-button-blood-type": {
       "codepoint": 57811,
       "fontFamily": "NotoV1",
       "identifier": "bButtonBloodType",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "back-arrow": {
       "codepoint": 57360,
       "fontFamily": "NotoV1",
       "identifier": "backArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "backpack": {
       "codepoint": 57361,
@@ -243,7 +249,8 @@
       "codepoint": 57812,
       "fontFamily": "NotoV1",
       "identifier": "beatingHeart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bicycle": {
       "codepoint": 57937,
@@ -254,7 +261,8 @@
       "codepoint": 57368,
       "fontFamily": "NotoV1",
       "identifier": "bikini",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "biohazard": {
       "codepoint": 57369,
@@ -275,13 +283,15 @@
       "codepoint": 57813,
       "fontFamily": "NotoV1",
       "identifier": "blackSquareButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blossom": {
       "codepoint": 57814,
       "fontFamily": "NotoV1",
       "identifier": "blossom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blowfish": {
       "codepoint": 57372,
@@ -357,43 +367,50 @@
       "codepoint": 57815,
       "fontFamily": "NotoV1",
       "identifier": "cactus",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand": {
       "codepoint": 57382,
       "fontFamily": "NotoV1",
       "identifier": "callMeHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-dark-skin-tone": {
       "codepoint": 57816,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-light-skin-tone": {
       "codepoint": 57817,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-dark-skin-tone": {
       "codepoint": 57818,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-light-skin-tone": {
       "codepoint": 57819,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-skin-tone": {
       "codepoint": 57820,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camera-with-flash": {
       "codepoint": 57383,
@@ -442,13 +459,15 @@
       "codepoint": 57821,
       "fontFamily": "NotoV1",
       "identifier": "catFaceWithWrySmile",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cat-with-wry-smile": {
       "codepoint": 57822,
       "fontFamily": "NotoV1",
       "identifier": "catWithWrySmile",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chart-increasing-with-yen": {
       "codepoint": 57940,
@@ -469,7 +488,8 @@
       "codepoint": 57823,
       "fontFamily": "NotoV1",
       "identifier": "checkMarkButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chequered-flag": {
       "codepoint": 57392,
@@ -482,7 +502,8 @@
       "codepoint": 57824,
       "fontFamily": "NotoV1",
       "identifier": "cherryBlossom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chestnut": {
       "codepoint": 57941,
@@ -531,7 +552,8 @@
       "codepoint": 57825,
       "fontFamily": "NotoV1",
       "identifier": "clButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "clapping-hands": {
       "codepoint": 57399,
@@ -579,7 +601,8 @@
       "codepoint": 57402,
       "fontFamily": "NotoV1",
       "identifier": "cloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-with-lightning": {
       "codepoint": 57403,
@@ -618,7 +641,8 @@
       "codepoint": 57826,
       "fontFamily": "NotoV1",
       "identifier": "clutchBag",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "coffin": {
       "codepoint": 58106,
@@ -629,7 +653,8 @@
       "codepoint": 57408,
       "fontFamily": "NotoV1",
       "identifier": "collision",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "computer-disk": {
       "codepoint": 57409,
@@ -649,7 +674,8 @@
       "codepoint": 57411,
       "fontFamily": "NotoV1",
       "identifier": "confoundedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "confused-face": {
       "codepoint": 57945,
@@ -718,7 +744,8 @@
       "codepoint": 57420,
       "fontFamily": "NotoV1",
       "identifier": "crossMarkButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crossed-fingers": {
       "codepoint": 57421,
@@ -769,7 +796,8 @@
       "codepoint": 57827,
       "fontFamily": "NotoV1",
       "identifier": "diamondWithADot",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "digit-eight": {
       "codepoint": 57428,
@@ -844,7 +872,8 @@
       "codepoint": 57441,
       "fontFamily": "NotoV1",
       "identifier": "disappointedFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dizzy-face": {
       "codepoint": 57442,
@@ -855,7 +884,8 @@
       "codepoint": 57828,
       "fontFamily": "NotoV1",
       "identifier": "dogFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "double-curly-loop": {
       "codepoint": 57443,
@@ -922,43 +952,50 @@
       "codepoint": 57453,
       "fontFamily": "NotoV1",
       "identifier": "ear",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-dark-skin-tone": {
       "codepoint": 57829,
       "fontFamily": "NotoV1",
       "identifier": "earDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-light-skin-tone": {
       "codepoint": 57830,
       "fontFamily": "NotoV1",
       "identifier": "earLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-medium-dark-skin-tone": {
       "codepoint": 57831,
       "fontFamily": "NotoV1",
       "identifier": "earMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-medium-light-skin-tone": {
       "codepoint": 57832,
       "fontFamily": "NotoV1",
       "identifier": "earMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-medium-skin-tone": {
       "codepoint": 57833,
       "fontFamily": "NotoV1",
       "identifier": "earMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "egg": {
       "codepoint": 57454,
       "fontFamily": "NotoV1",
       "identifier": "egg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eight-oclock": {
       "codepoint": 57455,
@@ -988,7 +1025,8 @@
       "codepoint": 57459,
       "fontFamily": "NotoV1",
       "identifier": "endArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "envelope": {
       "codepoint": 57460,
@@ -1014,7 +1052,8 @@
       "codepoint": 57464,
       "fontFamily": "NotoV1",
       "identifier": "expressionlessFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eye": {
       "codepoint": 57465,
@@ -1027,7 +1066,8 @@
       "codepoint": 57466,
       "fontFamily": "NotoV1",
       "identifier": "eyes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "face-with-cold-sweat": {
       "codepoint": 57467,
@@ -1062,13 +1102,15 @@
       "codepoint": 57469,
       "fontFamily": "NotoV1",
       "identifier": "faceWithoutMouth",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fallen-leaf": {
       "codepoint": 57834,
       "fontFamily": "NotoV1",
       "identifier": "fallenLeaf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fast-down-button": {
       "codepoint": 57470,
@@ -1106,13 +1148,15 @@
       "codepoint": 57476,
       "fontFamily": "NotoV1",
       "identifier": "fileFolder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "film-frames": {
       "codepoint": 57835,
       "fontFamily": "NotoV1",
       "identifier": "filmFrames",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "film-projector": {
       "codepoint": 57477,
@@ -1125,7 +1169,8 @@
       "codepoint": 57478,
       "fontFamily": "NotoV1",
       "identifier": "fire",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fire-engine": {
       "codepoint": 57479,
@@ -1138,13 +1183,15 @@
       "codepoint": 57480,
       "fontFamily": "NotoV1",
       "identifier": "firstQuarterMoonFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "first-quarter-moon-with-face": {
       "codepoint": 57481,
       "fontFamily": "NotoV1",
       "identifier": "firstQuarterMoonWithFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "five-oclock": {
       "codepoint": 57482,
@@ -1164,13 +1211,15 @@
       "codepoint": 57484,
       "fontFamily": "NotoV1",
       "identifier": "flagForChina",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-china": {
       "codepoint": 57485,
       "fontFamily": "NotoV1",
       "identifier": "flagForFlagChina",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-flag-spain": {
       "codepoint": 57952,
@@ -1186,7 +1235,8 @@
       "codepoint": 57486,
       "fontFamily": "NotoV1",
       "identifier": "flagForTriangularFlag",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag-for-white-flag": {
       "codepoint": 57487,
@@ -1206,37 +1256,43 @@
       "codepoint": 57489,
       "fontFamily": "NotoV1",
       "identifier": "flexedBiceps",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-dark-skin-tone": {
       "codepoint": 57836,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-light-skin-tone": {
       "codepoint": 57837,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-dark-skin-tone": {
       "codepoint": 57838,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-light-skin-tone": {
       "codepoint": 57839,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-skin-tone": {
       "codepoint": 57840,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "floppy-disk": {
       "codepoint": 57490,
@@ -1254,7 +1310,8 @@
       "codepoint": 57491,
       "fontFamily": "NotoV1",
       "identifier": "fog",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "footprints": {
       "codepoint": 57492,
@@ -1270,7 +1327,8 @@
       "codepoint": 57494,
       "fontFamily": "NotoV1",
       "identifier": "forkAndKnifeWithPlate",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "four-oclock": {
       "codepoint": 57495,
@@ -1293,7 +1351,8 @@
       "codepoint": 57496,
       "fontFamily": "NotoV1",
       "identifier": "freeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fried-shrimp": {
       "codepoint": 57497,
@@ -1379,7 +1438,8 @@
       "codepoint": 57841,
       "fontFamily": "NotoV1",
       "identifier": "gorilla",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "green-book": {
       "codepoint": 57509,
@@ -1399,13 +1459,15 @@
       "codepoint": 57842,
       "fontFamily": "NotoV1",
       "identifier": "grinningCat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "grinning-cat-face": {
       "codepoint": 57843,
       "fontFamily": "NotoV1",
       "identifier": "grinningCatFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "grinning-face-with-big-eyes": {
       "codepoint": 57511,
@@ -1481,19 +1543,22 @@
       "codepoint": 57844,
       "fontFamily": "NotoV1",
       "identifier": "heartDecoration",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-exclamation": {
       "codepoint": 57845,
       "fontFamily": "NotoV1",
       "identifier": "heartExclamation",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-with-ribbon": {
       "codepoint": 57846,
       "fontFamily": "NotoV1",
       "identifier": "heartWithRibbon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heavy-check-mark": {
       "codepoint": 57516,
@@ -1509,7 +1574,8 @@
       "codepoint": 57847,
       "fontFamily": "NotoV1",
       "identifier": "heavyHeartExclamation",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heavy-minus-sign": {
       "codepoint": 57518,
@@ -1532,7 +1598,8 @@
       "codepoint": 57848,
       "fontFamily": "NotoV1",
       "identifier": "herb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hibiscus": {
       "codepoint": 57521,
@@ -1589,7 +1656,8 @@
       "codepoint": 57849,
       "fontFamily": "NotoV1",
       "identifier": "idButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "incoming-envelope": {
       "codepoint": 57958,
@@ -1605,7 +1673,8 @@
       "codepoint": 57529,
       "fontFamily": "NotoV1",
       "identifier": "inputLatinLetters",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "input-latin-lowercase": {
       "codepoint": 57530,
@@ -1639,73 +1708,85 @@
       "codepoint": 57534,
       "fontFamily": "NotoV1",
       "identifier": "japaneseAcceptableButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-application-button": {
       "codepoint": 57850,
       "fontFamily": "NotoV1",
       "identifier": "japaneseApplicationButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-bargain-button": {
       "codepoint": 57535,
       "fontFamily": "NotoV1",
       "identifier": "japaneseBargainButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-congratulations-button": {
       "codepoint": 57851,
       "fontFamily": "NotoV1",
       "identifier": "japaneseCongratulationsButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-discount-button": {
       "codepoint": 57536,
       "fontFamily": "NotoV1",
       "identifier": "japaneseDiscountButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-free-of-charge-button": {
       "codepoint": 57537,
       "fontFamily": "NotoV1",
       "identifier": "japaneseFreeOfChargeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-here-button": {
       "codepoint": 57538,
       "fontFamily": "NotoV1",
       "identifier": "japaneseHereButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-monthly-amount-button": {
       "codepoint": 57539,
       "fontFamily": "NotoV1",
       "identifier": "japaneseMonthlyAmountButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-no-vacancy-button": {
       "codepoint": 57540,
       "fontFamily": "NotoV1",
       "identifier": "japaneseNoVacancyButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-not-free-of-charge-button": {
       "codepoint": 57541,
       "fontFamily": "NotoV1",
       "identifier": "japaneseNotFreeOfChargeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-open-for-business-button": {
       "codepoint": 57852,
       "fontFamily": "NotoV1",
       "identifier": "japaneseOpenForBusinessButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-passing-grade-button": {
       "codepoint": 57542,
       "fontFamily": "NotoV1",
       "identifier": "japanesePassingGradeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-post-office": {
       "codepoint": 57543,
@@ -1718,13 +1799,15 @@
       "codepoint": 57544,
       "fontFamily": "NotoV1",
       "identifier": "japaneseProhibitedButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-reserved-button": {
       "codepoint": 57545,
       "fontFamily": "NotoV1",
       "identifier": "japaneseReservedButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-secret-button": {
       "codepoint": 57546,
@@ -1737,13 +1820,15 @@
       "codepoint": 57547,
       "fontFamily": "NotoV1",
       "identifier": "japaneseServiceChargeButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-vacancy-button": {
       "codepoint": 57548,
       "fontFamily": "NotoV1",
       "identifier": "japaneseVacancyButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jeans": {
       "codepoint": 57549,
@@ -1778,37 +1863,43 @@
       "codepoint": 57853,
       "fontFamily": "NotoV1",
       "identifier": "keycap",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kissing-cat": {
       "codepoint": 57854,
       "fontFamily": "NotoV1",
       "identifier": "kissingCat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kissing-cat-face": {
       "codepoint": 57855,
       "fontFamily": "NotoV1",
       "identifier": "kissingCatFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kissing-cat-face-with-closed-eyes": {
       "codepoint": 57856,
       "fontFamily": "NotoV1",
       "identifier": "kissingCatFaceWithClosedEyes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kissing-face": {
       "codepoint": 57552,
       "fontFamily": "NotoV1",
       "identifier": "kissingFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kissing-face-with-smiling-eyes": {
       "codepoint": 57553,
       "fontFamily": "NotoV1",
       "identifier": "kissingFaceWithSmilingEyes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "label": {
       "codepoint": 57961,
@@ -1824,13 +1915,15 @@
       "codepoint": 57555,
       "fontFamily": "NotoV1",
       "identifier": "lastQuarterMoonFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "last-quarter-moon-with-face": {
       "codepoint": 57556,
       "fontFamily": "NotoV1",
       "identifier": "lastQuarterMoonWithFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "last-track-button": {
       "codepoint": 57557,
@@ -1841,7 +1934,8 @@
       "codepoint": 57857,
       "fontFamily": "NotoV1",
       "identifier": "leafFlutteringInWind",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-arrow": {
       "codepoint": 57558,
@@ -1857,37 +1951,43 @@
       "codepoint": 57560,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-dark-skin-tone": {
       "codepoint": 57858,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-light-skin-tone": {
       "codepoint": 57859,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-dark-skin-tone": {
       "codepoint": 57860,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-light-skin-tone": {
       "codepoint": 57861,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-skin-tone": {
       "codepoint": 57862,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-luggage": {
       "codepoint": 57561,
@@ -2072,7 +2172,8 @@
       "codepoint": 57863,
       "fontFamily": "NotoV1",
       "identifier": "lizard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "locked": {
       "codepoint": 57594,
@@ -2409,7 +2510,8 @@
       "codepoint": 57864,
       "fontFamily": "NotoV1",
       "identifier": "meatOnBone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "medium-light-skin-tone": {
       "codepoint": 57600,
@@ -2440,7 +2542,8 @@
       "codepoint": 57865,
       "fontFamily": "NotoV1",
       "identifier": "microphone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "middle-finger": {
       "codepoint": 57603,
@@ -2526,7 +2629,8 @@
       "codepoint": 57612,
       "fontFamily": "NotoV1",
       "identifier": "mountFuji",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mountain": {
       "codepoint": 57613,
@@ -2560,7 +2664,8 @@
       "codepoint": 57866,
       "fontFamily": "NotoV1",
       "identifier": "movieCamera",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "musical-note": {
       "codepoint": 57617,
@@ -2581,19 +2686,22 @@
       "codepoint": 57619,
       "fontFamily": "NotoV1",
       "identifier": "neutralFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "new-button": {
       "codepoint": 57620,
       "fontFamily": "NotoV1",
       "identifier": "newButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "new-moon": {
       "codepoint": 57621,
       "fontFamily": "NotoV1",
       "identifier": "newMoon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "new-moon-face": {
       "codepoint": 57622,
@@ -2616,13 +2724,15 @@
       "codepoint": 57624,
       "fontFamily": "NotoV1",
       "identifier": "ngButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "night-with-stars": {
       "codepoint": 57625,
       "fontFamily": "NotoV1",
       "identifier": "nightWithStars",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nine-oclock": {
       "codepoint": 57626,
@@ -2635,43 +2745,50 @@
       "codepoint": 57627,
       "fontFamily": "NotoV1",
       "identifier": "noEntry",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nose": {
       "codepoint": 57628,
       "fontFamily": "NotoV1",
       "identifier": "nose",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nose-dark-skin-tone": {
       "codepoint": 57867,
       "fontFamily": "NotoV1",
       "identifier": "noseDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nose-light-skin-tone": {
       "codepoint": 57868,
       "fontFamily": "NotoV1",
       "identifier": "noseLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nose-medium-dark-skin-tone": {
       "codepoint": 57869,
       "fontFamily": "NotoV1",
       "identifier": "noseMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nose-medium-light-skin-tone": {
       "codepoint": 57870,
       "fontFamily": "NotoV1",
       "identifier": "noseMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nose-medium-skin-tone": {
       "codepoint": 57871,
       "fontFamily": "NotoV1",
       "identifier": "noseMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "notebook": {
       "codepoint": 57629,
@@ -2691,19 +2808,22 @@
       "codepoint": 57872,
       "fontFamily": "NotoV1",
       "identifier": "oButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "o-button-blood-type": {
       "codepoint": 57873,
       "fontFamily": "NotoV1",
       "identifier": "oButtonBloodType",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "office-building": {
       "codepoint": 57631,
       "fontFamily": "NotoV1",
       "identifier": "officeBuilding",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ogre": {
       "codepoint": 57632,
@@ -2721,61 +2841,71 @@
       "codepoint": 57634,
       "fontFamily": "NotoV1",
       "identifier": "okButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand": {
       "codepoint": 57635,
       "fontFamily": "NotoV1",
       "identifier": "okHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-dark-skin-tone": {
       "codepoint": 57874,
       "fontFamily": "NotoV1",
       "identifier": "okHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-light-skin-tone": {
       "codepoint": 57875,
       "fontFamily": "NotoV1",
       "identifier": "okHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-dark-skin-tone": {
       "codepoint": 57876,
       "fontFamily": "NotoV1",
       "identifier": "okHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-light-skin-tone": {
       "codepoint": 57877,
       "fontFamily": "NotoV1",
       "identifier": "okHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-skin-tone": {
       "codepoint": 57878,
       "fontFamily": "NotoV1",
       "identifier": "okHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "old-key": {
       "codepoint": 57879,
       "fontFamily": "NotoV1",
       "identifier": "oldKey",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "on-arrow": {
       "codepoint": 57636,
       "fontFamily": "NotoV1",
       "identifier": "onArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "on-exclamation-arrow": {
       "codepoint": 57637,
       "fontFamily": "NotoV1",
       "identifier": "onExclamationArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-automobile": {
       "codepoint": 57638,
@@ -2788,37 +2918,43 @@
       "codepoint": 57639,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-dark-skin-tone": {
       "codepoint": 57880,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-light-skin-tone": {
       "codepoint": 57881,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-medium-dark-skin-tone": {
       "codepoint": 57882,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-medium-light-skin-tone": {
       "codepoint": 57883,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-fist-medium-skin-tone": {
       "codepoint": 57884,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oncoming-police-car": {
       "codepoint": 57640,
@@ -2852,43 +2988,50 @@
       "codepoint": 57644,
       "fontFamily": "NotoV1",
       "identifier": "openFileFolder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands": {
       "codepoint": 57645,
       "fontFamily": "NotoV1",
       "identifier": "openHands",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-dark-skin-tone": {
       "codepoint": 57885,
       "fontFamily": "NotoV1",
       "identifier": "openHandsDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-light-skin-tone": {
       "codepoint": 57886,
       "fontFamily": "NotoV1",
       "identifier": "openHandsLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-medium-dark-skin-tone": {
       "codepoint": 57887,
       "fontFamily": "NotoV1",
       "identifier": "openHandsMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-medium-light-skin-tone": {
       "codepoint": 57888,
       "fontFamily": "NotoV1",
       "identifier": "openHandsMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-hands-medium-skin-tone": {
       "codepoint": 57889,
       "fontFamily": "NotoV1",
       "identifier": "openHandsMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ophiuchus": {
       "codepoint": 57646,
@@ -2918,7 +3061,8 @@
       "codepoint": 57649,
       "fontFamily": "NotoV1",
       "identifier": "pButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "page-facing-up": {
       "codepoint": 58008,
@@ -2941,13 +3085,15 @@
       "codepoint": 57651,
       "fontFamily": "NotoV1",
       "identifier": "panda",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "panda-face": {
       "codepoint": 57652,
       "fontFamily": "NotoV1",
       "identifier": "pandaFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "paperclip": {
       "codepoint": 57653,
@@ -2997,7 +3143,8 @@
       "codepoint": 57659,
       "fontFamily": "NotoV1",
       "identifier": "pensiveFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "person-biking": {
       "codepoint": 58138,
@@ -3155,7 +3302,8 @@
       "codepoint": 57663,
       "fontFamily": "NotoV1",
       "identifier": "pill",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pisces": {
       "codepoint": 57664,
@@ -3193,7 +3341,8 @@
       "codepoint": 57670,
       "fontFamily": "NotoV1",
       "identifier": "postalHorn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "potable-water": {
       "codepoint": 57671,
@@ -3204,7 +3353,8 @@
       "codepoint": 57890,
       "fontFamily": "NotoV1",
       "identifier": "poultryLeg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pound-symbol": {
       "codepoint": 57672,
@@ -3215,13 +3365,15 @@
       "codepoint": 57891,
       "fontFamily": "NotoV1",
       "identifier": "poutingCat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pouting-cat-face": {
       "codepoint": 57892,
       "fontFamily": "NotoV1",
       "identifier": "poutingCatFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "prayer-beads": {
       "codepoint": 58144,
@@ -3262,7 +3414,8 @@
       "codepoint": 57893,
       "fontFamily": "NotoV1",
       "identifier": "prohibited",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "question-mark": {
       "codepoint": 57673,
@@ -3321,73 +3474,85 @@
       "codepoint": 57682,
       "fontFamily": "NotoV1",
       "identifier": "raisedFist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-fist-dark-skin-tone": {
       "codepoint": 57894,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-fist-light-skin-tone": {
       "codepoint": 57895,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-fist-medium-dark-skin-tone": {
       "codepoint": 57896,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-fist-medium-light-skin-tone": {
       "codepoint": 57897,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-fist-medium-skin-tone": {
       "codepoint": 57898,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand": {
       "codepoint": 57683,
       "fontFamily": "NotoV1",
       "identifier": "raisedHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-dark-skin-tone": {
       "codepoint": 57899,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-light-skin-tone": {
       "codepoint": 57900,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-dark-skin-tone": {
       "codepoint": 57901,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-light-skin-tone": {
       "codepoint": 57902,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-skin-tone": {
       "codepoint": 57903,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "raised-hand-with-fingers-splayed": {
       "codepoint": 57684,
@@ -3471,7 +3636,8 @@
       "codepoint": 57692,
       "fontFamily": "NotoV1",
       "identifier": "restroom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "reverse-button": {
       "codepoint": 57693,
@@ -3482,7 +3648,8 @@
       "codepoint": 57694,
       "fontFamily": "NotoV1",
       "identifier": "rightAngerBubble",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-arrow": {
       "codepoint": 57695,
@@ -3508,37 +3675,43 @@
       "codepoint": 57699,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-dark-skin-tone": {
       "codepoint": 57904,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-light-skin-tone": {
       "codepoint": 57905,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-dark-skin-tone": {
       "codepoint": 57906,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-light-skin-tone": {
       "codepoint": 57907,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-skin-tone": {
       "codepoint": 57908,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ring": {
       "codepoint": 58041,
@@ -3577,7 +3750,8 @@
       "codepoint": 57909,
       "fontFamily": "NotoV1",
       "identifier": "rugbyFootball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sad-but-relieved-face": {
       "codepoint": 57704,
@@ -3624,7 +3798,8 @@
       "codepoint": 57910,
       "fontFamily": "NotoV1",
       "identifier": "seedling",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "seven-oclock": {
       "codepoint": 57710,
@@ -3637,7 +3812,8 @@
       "codepoint": 57911,
       "fontFamily": "NotoV1",
       "identifier": "sheafOfRice",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shrimp": {
       "codepoint": 58043,
@@ -3708,7 +3884,8 @@
       "codepoint": 57912,
       "fontFamily": "NotoV1",
       "identifier": "smilingCatFaceWithOpenMouth",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "smiling-face": {
       "codepoint": 57719,
@@ -3759,13 +3936,15 @@
       "codepoint": 57726,
       "fontFamily": "NotoV1",
       "identifier": "snowman",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "snowman-without-snow": {
       "codepoint": 57727,
       "fontFamily": "NotoV1",
       "identifier": "snowmanWithoutSnow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "soccer-ball": {
       "codepoint": 57728,
@@ -3778,7 +3957,8 @@
       "codepoint": 57729,
       "fontFamily": "NotoV1",
       "identifier": "soonArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spade-suit": {
       "codepoint": 57730,
@@ -3789,13 +3969,15 @@
       "codepoint": 57913,
       "fontFamily": "NotoV1",
       "identifier": "sparkles",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sparkling-heart": {
       "codepoint": 57914,
       "fontFamily": "NotoV1",
       "identifier": "sparklingHeart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speaker-high-volume": {
       "codepoint": 57731,
@@ -3808,7 +3990,8 @@
       "codepoint": 57732,
       "fontFamily": "NotoV1",
       "identifier": "speakerLowVolume",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speaker-medium-volume": {
       "codepoint": 57733,
@@ -3821,13 +4004,15 @@
       "codepoint": 57915,
       "fontFamily": "NotoV1",
       "identifier": "speakingHead",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speech-balloon": {
       "codepoint": 57734,
       "fontFamily": "NotoV1",
       "identifier": "speechBalloon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spider": {
       "codepoint": 57735,
@@ -3838,7 +4023,8 @@
       "codepoint": 57736,
       "fontFamily": "NotoV1",
       "identifier": "spiderWeb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spiral-notepad": {
       "codepoint": 58046,
@@ -3877,7 +4063,8 @@
       "codepoint": 57916,
       "fontFamily": "NotoV1",
       "identifier": "star",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "star-of-david": {
       "codepoint": 58050,
@@ -3893,7 +4080,8 @@
       "codepoint": 57740,
       "fontFamily": "NotoV1",
       "identifier": "straightRuler",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sun": {
       "codepoint": 57741,
@@ -3939,7 +4127,8 @@
       "codepoint": 58051,
       "fontFamily": "NotoV1",
       "identifier": "sunglasses",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sweat-droplets": {
       "codepoint": 57747,
@@ -3955,7 +4144,8 @@
       "codepoint": 57749,
       "fontFamily": "NotoV1",
       "identifier": "telephoneReceiver",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "telescope": {
       "codepoint": 57750,
@@ -3983,7 +4173,8 @@
       "codepoint": 57754,
       "fontFamily": "NotoV1",
       "identifier": "thoughtBalloon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "three-oclock": {
       "codepoint": 57755,
@@ -3996,79 +4187,92 @@
       "codepoint": 57756,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDown",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-dark-skin-tone": {
       "codepoint": 57917,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-light-skin-tone": {
       "codepoint": 57918,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-dark-skin-tone": {
       "codepoint": 57919,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-light-skin-tone": {
       "codepoint": 57920,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-skin-tone": {
       "codepoint": 57921,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up": {
       "codepoint": 57757,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-dark-skin-tone": {
       "codepoint": 57922,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-light-skin-tone": {
       "codepoint": 57923,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-dark-skin-tone": {
       "codepoint": 57924,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpMediumDarkSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-light-skin-tone": {
       "codepoint": 57925,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpMediumLightSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-skin-tone": {
       "codepoint": 57926,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpMediumSkinTone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ticket": {
       "codepoint": 57758,
       "fontFamily": "NotoV1",
       "identifier": "ticket",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tiger-face": {
       "codepoint": 57759,
@@ -4088,13 +4292,15 @@
       "codepoint": 57761,
       "fontFamily": "NotoV1",
       "identifier": "tokyoTower",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "top-arrow": {
       "codepoint": 57762,
       "fontFamily": "NotoV1",
       "identifier": "topArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "trackball": {
       "codepoint": 57763,
@@ -4117,7 +4323,8 @@
       "codepoint": 57766,
       "fontFamily": "NotoV1",
       "identifier": "triangularFlag",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "triangular-ruler": {
       "codepoint": 57767,
@@ -4130,7 +4337,8 @@
       "codepoint": 57927,
       "fontFamily": "NotoV1",
       "identifier": "tridentEmblem",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tumbler-glass": {
       "codepoint": 58052,
@@ -4182,7 +4390,8 @@
       "codepoint": 57774,
       "fontFamily": "NotoV1",
       "identifier": "upExclamationButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "up-left-arrow": {
       "codepoint": 57775,
@@ -4198,7 +4407,8 @@
       "codepoint": 57777,
       "fontFamily": "NotoV1",
       "identifier": "upTextButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "video-camera": {
       "codepoint": 57778,
@@ -4216,7 +4426,8 @@
       "codepoint": 57779,
       "fontFamily": "NotoV1",
       "identifier": "videocassette",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "virgo": {
       "codepoint": 57780,
@@ -4234,7 +4445,8 @@
       "codepoint": 57782,
       "fontFamily": "NotoV1",
       "identifier": "vsButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vulcan-salute": {
       "codepoint": 57783,
@@ -4268,7 +4480,8 @@
       "codepoint": 57787,
       "fontFamily": "NotoV1",
       "identifier": "waterCloset",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "water-wave": {
       "codepoint": 57788,
@@ -4316,13 +4529,15 @@
       "codepoint": 57928,
       "fontFamily": "NotoV1",
       "identifier": "wearyCat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "weary-cat-face": {
       "codepoint": 57929,
       "fontFamily": "NotoV1",
       "identifier": "wearyCatFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "weary-face": {
       "codepoint": 57790,
@@ -4362,7 +4577,8 @@
       "codepoint": 57930,
       "fontFamily": "NotoV1",
       "identifier": "whiteHeavyCheckMark",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "white-large-square": {
       "codepoint": 57795,
@@ -4383,7 +4599,8 @@
       "codepoint": 57931,
       "fontFamily": "NotoV1",
       "identifier": "whiteMediumStar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "white-question-mark": {
       "codepoint": 57798,
@@ -4399,7 +4616,8 @@
       "codepoint": 57932,
       "fontFamily": "NotoV1",
       "identifier": "whiteSquareButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wilted-flower": {
       "codepoint": 58149,
@@ -4415,7 +4633,8 @@
       "codepoint": 57801,
       "fontFamily": "NotoV1",
       "identifier": "winkingFace",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "woman-biking": {
       "codepoint": 58150,
@@ -4714,13 +4933,15 @@
       "codepoint": 57933,
       "fontFamily": "NotoV1",
       "identifier": "womansHat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "womens-room": {
       "codepoint": 57802,
       "fontFamily": "NotoV1",
       "identifier": "womensRoom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "world-map": {
       "codepoint": 57803,

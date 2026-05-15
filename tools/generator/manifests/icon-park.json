@@ -620,7 +620,8 @@
       "codepoint": 57461,
       "fontFamily": "IconPark",
       "identifier": "apple",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "apple-one": {
       "codepoint": 57462,
@@ -871,7 +872,8 @@
       "codepoint": 57511,
       "fontFamily": "IconPark",
       "identifier": "avocado",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "avocado-one": {
       "codepoint": 57512,
@@ -902,7 +904,8 @@
       "codepoint": 57517,
       "fontFamily": "IconPark",
       "identifier": "babyFeet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "baby-meal": {
       "codepoint": 57518,
@@ -1123,7 +1126,8 @@
       "codepoint": 57561,
       "fontFamily": "IconPark",
       "identifier": "batteryEmpty",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-failure": {
       "codepoint": 57562,
@@ -1229,7 +1233,8 @@
       "codepoint": 57582,
       "fontFamily": "IconPark",
       "identifier": "bib",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "big-clock": {
       "codepoint": 57583,
@@ -1255,7 +1260,8 @@
       "codepoint": 57587,
       "fontFamily": "IconPark",
       "identifier": "bird",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "birthday-cake": {
       "codepoint": 57588,
@@ -1271,7 +1277,8 @@
       "codepoint": 57590,
       "fontFamily": "IconPark",
       "identifier": "blackEight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blackboard": {
       "codepoint": 57591,
@@ -1797,7 +1804,8 @@
       "codepoint": 57695,
       "fontFamily": "IconPark",
       "identifier": "camera",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camera-five": {
       "codepoint": 57696,
@@ -2073,7 +2081,8 @@
       "codepoint": 57750,
       "fontFamily": "IconPark",
       "identifier": "checkbox",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "checkerboard": {
       "codepoint": 57751,
@@ -2569,7 +2578,8 @@
       "codepoint": 57849,
       "fontFamily": "IconPark",
       "identifier": "collectionFiles",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "collection-records": {
       "codepoint": 57850,
@@ -2700,7 +2710,8 @@
       "codepoint": 57875,
       "fontFamily": "IconPark",
       "identifier": "config",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "confounded-face": {
       "codepoint": 57876,
@@ -2766,7 +2777,8 @@
       "codepoint": 57888,
       "fontFamily": "IconPark",
       "identifier": "contrast",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "contrast-view": {
       "codepoint": 57889,
@@ -2957,7 +2969,8 @@
       "codepoint": 57926,
       "fontFamily": "IconPark",
       "identifier": "crown",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crown-three": {
       "codepoint": 57927,
@@ -2968,7 +2981,8 @@
       "codepoint": 57928,
       "fontFamily": "IconPark",
       "identifier": "crownTwo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cruise": {
       "codepoint": 57929,
@@ -3084,13 +3098,15 @@
       "codepoint": 57951,
       "fontFamily": "IconPark",
       "identifier": "damageMap",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dark-mode": {
       "codepoint": 57952,
       "fontFamily": "IconPark",
       "identifier": "darkMode",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dashboard": {
       "codepoint": 57953,
@@ -3461,7 +3477,8 @@
       "codepoint": 58026,
       "fontFamily": "IconPark",
       "identifier": "direction",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "direction-adjustment": {
       "codepoint": 58027,
@@ -3657,7 +3674,8 @@
       "codepoint": 58065,
       "fontFamily": "IconPark",
       "identifier": "dolphin",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dome": {
       "codepoint": 58066,
@@ -3888,7 +3906,8 @@
       "codepoint": 58111,
       "fontFamily": "IconPark",
       "identifier": "eagle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "earth": {
       "codepoint": 58112,
@@ -4109,7 +4128,8 @@
       "codepoint": 58155,
       "fontFamily": "IconPark",
       "identifier": "endocrine",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "endpoint-displacement": {
       "codepoint": 58156,
@@ -4365,7 +4385,8 @@
       "codepoint": 58206,
       "fontFamily": "IconPark",
       "identifier": "extend",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "external-transmission": {
       "codepoint": 58207,
@@ -4376,7 +4397,8 @@
       "codepoint": 58208,
       "fontFamily": "IconPark",
       "identifier": "eyebrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eyes": {
       "codepoint": 58209,
@@ -4472,7 +4494,8 @@
       "codepoint": 58227,
       "fontFamily": "IconPark",
       "identifier": "facetime",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "faceu": {
       "codepoint": 58228,
@@ -4493,7 +4516,8 @@
       "codepoint": 58231,
       "fontFamily": "IconPark",
       "identifier": "factoryBuilding",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fail-picture": {
       "codepoint": 58232,
@@ -4554,7 +4578,8 @@
       "codepoint": 58243,
       "fontFamily": "IconPark",
       "identifier": "figma",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "figma-component": {
       "codepoint": 58244,
@@ -4905,7 +4930,8 @@
       "codepoint": 58313,
       "fontFamily": "IconPark",
       "identifier": "financing",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "financing-one": {
       "codepoint": 58314,
@@ -4991,7 +5017,8 @@
       "codepoint": 58330,
       "fontFamily": "IconPark",
       "identifier": "fishOne",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fishing": {
       "codepoint": 58331,
@@ -5182,7 +5209,8 @@
       "codepoint": 58368,
       "fontFamily": "IconPark",
       "identifier": "folderFocus",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-focus-one": {
       "codepoint": 58369,
@@ -5233,7 +5261,8 @@
       "codepoint": 58378,
       "fontFamily": "IconPark",
       "identifier": "folderProtection",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-protection-one": {
       "codepoint": 58379,
@@ -5244,7 +5273,8 @@
       "codepoint": 58380,
       "fontFamily": "IconPark",
       "identifier": "folderQuality",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-quality-one": {
       "codepoint": 58381,
@@ -5445,7 +5475,8 @@
       "codepoint": 58420,
       "fontFamily": "IconPark",
       "identifier": "frog",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "frowning-face-whit-open-mouth": {
       "codepoint": 58421,
@@ -5596,7 +5627,8 @@
       "codepoint": 58450,
       "fontFamily": "IconPark",
       "identifier": "gavel",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gemini": {
       "codepoint": 58451,
@@ -5772,7 +5804,8 @@
       "codepoint": 58485,
       "fontFamily": "IconPark",
       "identifier": "google",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "google-ads": {
       "codepoint": 58486,
@@ -5788,7 +5821,8 @@
       "codepoint": 58488,
       "fontFamily": "IconPark",
       "identifier": "gps",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "graphic-design": {
       "codepoint": 58489,
@@ -6034,19 +6068,22 @@
       "codepoint": 58537,
       "fontFamily": "IconPark",
       "identifier": "handleDown",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "handle-left": {
       "codepoint": 58538,
       "fontFamily": "IconPark",
       "identifier": "handleLeft",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "handle-right": {
       "codepoint": 58539,
       "fontFamily": "IconPark",
       "identifier": "handleRight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "handle-round": {
       "codepoint": 58540,
@@ -6067,7 +6104,8 @@
       "codepoint": 58543,
       "fontFamily": "IconPark",
       "identifier": "handleUp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "handle-x": {
       "codepoint": 58544,
@@ -6188,7 +6226,8 @@
       "codepoint": 58567,
       "fontFamily": "IconPark",
       "identifier": "health",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "health-products": {
       "codepoint": 58568,
@@ -6589,7 +6628,8 @@
       "codepoint": 58647,
       "fontFamily": "IconPark",
       "identifier": "inclusiveGateway",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "income": {
       "codepoint": 58648,
@@ -6935,7 +6975,8 @@
       "codepoint": 58716,
       "fontFamily": "IconPark",
       "identifier": "keyhole",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keyline": {
       "codepoint": 58717,
@@ -7446,7 +7487,8 @@
       "codepoint": 58818,
       "fontFamily": "IconPark",
       "identifier": "localTwo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lock": {
       "codepoint": 58819,
@@ -7937,7 +7979,8 @@
       "codepoint": 58916,
       "fontFamily": "IconPark",
       "identifier": "messagesOne",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "micro-sd": {
       "codepoint": 58917,
@@ -8143,13 +8186,15 @@
       "codepoint": 58957,
       "fontFamily": "IconPark",
       "identifier": "moreThree",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "more-two": {
       "codepoint": 58958,
       "fontFamily": "IconPark",
       "identifier": "moreTwo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mosaic": {
       "codepoint": 58959,
@@ -8325,7 +8370,8 @@
       "codepoint": 58993,
       "fontFamily": "IconPark",
       "identifier": "mute",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nail-polish": {
       "codepoint": 58994,
@@ -8411,7 +8457,8 @@
       "codepoint": 59010,
       "fontFamily": "IconPark",
       "identifier": "newDianziqian",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "new-efferent": {
       "codepoint": 59011,
@@ -8762,7 +8809,8 @@
       "codepoint": 59080,
       "fontFamily": "IconPark",
       "identifier": "paintedEggshell",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "painted-screen": {
       "codepoint": 59081,
@@ -9203,7 +9251,8 @@
       "codepoint": 59168,
       "fontFamily": "IconPark",
       "identifier": "phoneTwo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "phone-video-call": {
       "codepoint": 59169,
@@ -9309,7 +9358,8 @@
       "codepoint": 59189,
       "fontFamily": "IconPark",
       "identifier": "pill",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pills": {
       "codepoint": 59190,
@@ -9360,13 +9410,15 @@
       "codepoint": 59199,
       "fontFamily": "IconPark",
       "identifier": "platte",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "play": {
       "codepoint": 59200,
       "fontFamily": "IconPark",
       "identifier": "play",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "play-basketball": {
       "codepoint": 59201,
@@ -9392,7 +9444,8 @@
       "codepoint": 59205,
       "fontFamily": "IconPark",
       "identifier": "playTwo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "play-volleyball": {
       "codepoint": 59206,
@@ -9553,7 +9606,8 @@
       "codepoint": 59237,
       "fontFamily": "IconPark",
       "identifier": "previewOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "printer": {
       "codepoint": 59238,
@@ -9669,7 +9723,8 @@
       "codepoint": 59260,
       "fontFamily": "IconPark",
       "identifier": "qingniaoClue",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qiyehao": {
       "codepoint": 59261,
@@ -9725,7 +9780,8 @@
       "codepoint": 59271,
       "fontFamily": "IconPark",
       "identifier": "radiation",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "radio": {
       "codepoint": 59272,
@@ -9746,7 +9802,8 @@
       "codepoint": 59275,
       "fontFamily": "IconPark",
       "identifier": "radioTwo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "radish": {
       "codepoint": 59276,
@@ -9882,7 +9939,8 @@
       "codepoint": 59302,
       "fontFamily": "IconPark",
       "identifier": "redCross",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "red-envelope": {
       "codepoint": 59303,
@@ -9918,7 +9976,8 @@
       "codepoint": 59309,
       "fontFamily": "IconPark",
       "identifier": "reduceTwo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "reduce-user": {
       "codepoint": 59310,
@@ -10684,7 +10743,8 @@
       "codepoint": 59462,
       "fontFamily": "IconPark",
       "identifier": "server",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "set-off": {
       "codepoint": 59463,
@@ -10695,7 +10755,8 @@
       "codepoint": 59464,
       "fontFamily": "IconPark",
       "identifier": "setting",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "setting-computer": {
       "codepoint": 59465,
@@ -10716,7 +10777,8 @@
       "codepoint": 59468,
       "fontFamily": "IconPark",
       "identifier": "settingOne",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "setting-three": {
       "codepoint": 59469,
@@ -10727,7 +10789,8 @@
       "codepoint": 59470,
       "fontFamily": "IconPark",
       "identifier": "settingTwo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "setting-web": {
       "codepoint": 59471,
@@ -11003,7 +11066,8 @@
       "codepoint": 59525,
       "fontFamily": "IconPark",
       "identifier": "sketch",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "skiing-nordic": {
       "codepoint": 59526,
@@ -11259,7 +11323,8 @@
       "codepoint": 59576,
       "fontFamily": "IconPark",
       "identifier": "speaker",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speaker-one": {
       "codepoint": 59577,
@@ -11365,7 +11430,8 @@
       "codepoint": 59597,
       "fontFamily": "IconPark",
       "identifier": "stamp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stand-up": {
       "codepoint": 59598,
@@ -11526,7 +11592,8 @@
       "codepoint": 59629,
       "fontFamily": "IconPark",
       "identifier": "sunOne",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sunbath": {
       "codepoint": 59630,
@@ -11622,7 +11689,8 @@
       "codepoint": 59648,
       "fontFamily": "IconPark",
       "identifier": "switchButton",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "switch-contrast": {
       "codepoint": 59649,
@@ -11718,7 +11786,8 @@
       "codepoint": 59667,
       "fontFamily": "IconPark",
       "identifier": "tagOne",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tailoring": {
       "codepoint": 59668,
@@ -12419,7 +12488,8 @@
       "codepoint": 59807,
       "fontFamily": "IconPark",
       "identifier": "tumblr",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "turkey": {
       "codepoint": 59808,
@@ -12835,7 +12905,8 @@
       "codepoint": 59890,
       "fontFamily": "IconPark",
       "identifier": "videoOne",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "video-two": {
       "codepoint": 59891,
@@ -12861,7 +12932,8 @@
       "codepoint": 59895,
       "fontFamily": "IconPark",
       "identifier": "viewGridCard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "view-grid-detail": {
       "codepoint": 59896,
@@ -12887,7 +12959,8 @@
       "codepoint": 59900,
       "fontFamily": "IconPark",
       "identifier": "vigo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vip": {
       "codepoint": 59901,
@@ -12978,7 +13051,8 @@
       "codepoint": 59918,
       "fontFamily": "IconPark",
       "identifier": "vrGlasses",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "waistline": {
       "codepoint": 59919,
@@ -13114,7 +13188,8 @@
       "codepoint": 59945,
       "fontFamily": "IconPark",
       "identifier": "webcam",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wechat": {
       "codepoint": 59946,
@@ -13335,13 +13410,15 @@
       "codepoint": 59989,
       "fontFamily": "IconPark",
       "identifier": "xigua",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "xingfuli": {
       "codepoint": 59990,
       "fontFamily": "IconPark",
       "identifier": "xingfuli",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "xingtu": {
       "codepoint": 59991,
@@ -13357,13 +13434,15 @@
       "codepoint": 59993,
       "fontFamily": "IconPark",
       "identifier": "youtobe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "youtube": {
       "codepoint": 59994,
       "fontFamily": "IconPark",
       "identifier": "youtube",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zero-key": {
       "codepoint": 59995,
@@ -13374,7 +13453,8 @@
       "codepoint": 59996,
       "fontFamily": "IconPark",
       "identifier": "zijinyunying",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zip": {
       "codepoint": 59997,

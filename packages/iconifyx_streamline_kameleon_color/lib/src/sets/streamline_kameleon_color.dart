@@ -141,8 +141,8 @@ class StreamlineKameleonColorIcons {
     IconData(0xe02f, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
   );
 
-  /// `heart-key-duo` (duo-tone)
-  static const IconifyIconData heartKeyDuo = IconifyIconData.duo(
+  /// `heart-key-duo` (paint-order duotone)
+  static const IconifyIconData heartKeyDuo = IconifyIconData.duoPaintOrder(
     IconData(0xe014, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
     IconData(0xe014, fontFamily: 'StreamlineKameleonColorSecondary', fontPackage: 'iconifyx_streamline_kameleon_color'),
   );
@@ -207,8 +207,8 @@ class StreamlineKameleonColorIcons {
     IconData(0xe03b, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
   );
 
-  /// `peace-duo` (duo-tone)
-  static const IconifyIconData peaceDuo = IconifyIconData.duo(
+  /// `peace-duo` (paint-order duotone)
+  static const IconifyIconData peaceDuo = IconifyIconData.duoPaintOrder(
     IconData(0xe015, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
     IconData(0xe015, fontFamily: 'StreamlineKameleonColorSecondary', fontPackage: 'iconifyx_streamline_kameleon_color'),
   );
@@ -343,8 +343,8 @@ class StreamlineKameleonColorIcons {
     IconData(0xe055, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
   );
 
-  /// `wrench-duo` (duo-tone)
-  static const IconifyIconData wrenchDuo = IconifyIconData.duo(
+  /// `wrench-duo` (paint-order duotone)
+  static const IconifyIconData wrenchDuo = IconifyIconData.duoPaintOrder(
     IconData(0xe016, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
     IconData(0xe016, fontFamily: 'StreamlineKameleonColorSecondary', fontPackage: 'iconifyx_streamline_kameleon_color'),
   );

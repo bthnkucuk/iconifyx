@@ -1,78 +1,72 @@
+import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
 import 'icon_data.dart';
 
-/// Drop-in replacement for [Icon] that handles both regular and duo-tone
-/// [IconifyIconData] values. The outer structure mirrors Flutter's [Icon]
-/// — [Semantics] wrapping a [SizedBox] of the requested size — so the
-/// widget behaves like an icon in layouts (no extra Stack child semantics
-/// or sizing surprises) regardless of whether the icon is duotone.
-///
-/// For duotone icons the two layers are painted in the same render layer
-/// via a single [CustomPaint] (no [Stack]), so the widget tree is just as
-/// shallow as a regular [Icon].
-///
-/// Pass either constructor variant the icon directly — the default
-/// constructor figures out automatically whether the icon is duotone:
+/// Drop-in replacement for [Icon] that handles every [IconifyIconData]
+/// flavour — solo, hint-layer duotone, paint-order duotone, mask-internal
+/// duotone — with one constructor and sensible defaults. Callers use it
+/// exactly like Flutter's [Icon]:
 ///
 /// ```dart
-/// IconifyIcon(MdiIcons.home, color: Colors.indigo)               // regular
-/// IconifyIcon(PhIcons.acornDuotone, color: Colors.black)         // duotone (auto)
-/// IconifyIcon.duotone(                                            // duotone, custom
-///   PhIcons.acornDuotone,
-///   color: Colors.black,
-///   secondaryColor: Colors.red,
-///   secondaryOpacity: 0.5,
-/// )
+/// IconifyIcon(MdiIcons.home, color: Colors.indigo, size: 24)
+/// IconifyIcon(PhIcons.acornDuotone, color: Colors.black, size: 24)
+/// IconifyIcon(LogosIcons.adobeAfterEffects, size: 24)
 /// ```
+///
+/// The widget inspects [IconifyIconData.kind] to choose the correct
+/// composition:
+///
+/// - **Solo** — single layer in [color] (defaults to ambient `IconTheme`).
+/// - **Hint-layer duotone** — secondary BEHIND primary at 40% opacity,
+///   same colour. Matches FontAwesome-style duotones.
+/// - **Paint-order duotone** — primary BEHIND (the background tile),
+///   secondary ON TOP at full opacity. Default secondary colour is the
+///   ambient `ColorScheme.surface` so the foreground letterform
+///   "knocks out" of the currentColor-filled background tile (Adobe Ae,
+///   logos:figma's foreground letter, cryptocurrency-color's symbol, …).
+/// - **Mask-internal duotone** — same render as hint-layer.
+///
+/// All defaults can be overridden via [secondaryColor] / [secondaryOpacity].
+/// The outer shape mirrors Flutter's [Icon] (`Semantics` + `SizedBox`) so
+/// layout is identical regardless of duotone flavour.
 class IconifyIcon extends StatelessWidget {
-  /// The icon to render. Duo-tone icons are detected via
-  /// [IconifyIconData.isDuotone] and rendered with both layers.
+  /// The icon to render. The widget auto-detects duotone flavour from
+  /// [IconifyIconData.kind].
   final IconifyIconData icon;
 
-  /// Pixel size of the icon. Defaults to the ambient [IconTheme] size.
+  /// Pixel size. Defaults to the ambient [IconTheme] size.
   final double? size;
 
-  /// Colour of the (primary) layer. Defaults to ambient [IconTheme] colour.
+  /// Colour for the primary layer. Defaults to the ambient [IconTheme]
+  /// colour (the user's "icon colour").
   final Color? color;
 
-  /// Override colour for the secondary layer of duo-tone icons. Defaults
-  /// to [color] (and ultimately [IconTheme] colour).
+  /// Override colour for the secondary layer of duo-tone icons. Defaults:
+  ///
+  /// - **Hint / mask-internal**: same as [color], rendered at
+  ///   [secondaryOpacity] (40% by default).
+  /// - **Paint-order**: ambient `ColorScheme.surface` (the page / card
+  ///   background), at full opacity, so the foreground letterform reads
+  ///   as a knockout against the colored background tile.
   final Color? secondaryColor;
 
-  /// Opacity applied to the secondary layer of duo-tone icons. Defaults
-  /// to 0.4, matching FontAwesome's duotone convention.
-  final double secondaryOpacity;
+  /// Opacity applied to the secondary layer when [secondaryColor] is
+  /// `null`. Default depends on kind: 0.4 for hint/mask-internal, 1.0
+  /// for paint-order.
+  final double? secondaryOpacity;
 
   final String? semanticLabel;
   final TextDirection? textDirection;
   final List<Shadow>? shadows;
 
-  /// Render any [IconifyIconData]. Duo-tone icons are rendered with both
-  /// layers automatically; the secondary layer uses [color] at
-  /// [secondaryOpacity]=0.4 unless [IconifyIcon.duotone] is used to
-  /// customise it.
   const IconifyIcon(
     this.icon, {
     super.key,
     this.size,
     this.color,
-    this.semanticLabel,
-    this.textDirection,
-    this.shadows,
-  })  : secondaryColor = null,
-        secondaryOpacity = 0.4;
-
-  /// Render a duo-tone icon with explicit control over the secondary
-  /// layer's colour and opacity. Non-duotone icons fall back to single-
-  /// layer rendering and the secondary controls have no effect.
-  const IconifyIcon.duotone(
-    this.icon, {
-    super.key,
-    this.size,
-    this.color,
     this.secondaryColor,
-    this.secondaryOpacity = 0.4,
+    this.secondaryOpacity,
     this.semanticLabel,
     this.textDirection,
     this.shadows,
@@ -87,10 +81,17 @@ class IconifyIcon extends StatelessWidget {
         textDirection ?? Directionality.maybeOf(context) ?? TextDirection.ltr;
 
     final IconData? secondary = icon.secondary;
+    final bool paintOrder = icon.isPaintOrderDuotone;
     Color? effectiveSecondary;
     if (secondary != null) {
-      final base = secondaryColor ?? effectiveColor;
-      effectiveSecondary = base.withValues(alpha: secondaryOpacity);
+      // Knockout default for paint-order: surface colour at full opacity.
+      // For hint / mask-internal: same colour at 40% opacity.
+      final Color secBase = secondaryColor ??
+          (paintOrder
+              ? Theme.of(context).colorScheme.surface
+              : effectiveColor);
+      final double secAlpha = secondaryOpacity ?? (paintOrder ? 1.0 : 0.4);
+      effectiveSecondary = secBase.withValues(alpha: secAlpha);
     }
 
     final glyphSize = Size.square(effectiveSize);
@@ -108,6 +109,9 @@ class IconifyIcon extends StatelessWidget {
             secondary: secondary,
             primaryColor: effectiveColor,
             secondaryColor: effectiveSecondary,
+            // Paint-order: primary BEHIND, secondary ON TOP.
+            // Otherwise (hint / mask-internal / solo): secondary BEHIND, primary ON TOP.
+            secondaryOnTop: paintOrder,
             size: effectiveSize,
             textDirection: effectiveDir,
             shadows: shadows,
@@ -118,17 +122,19 @@ class IconifyIcon extends StatelessWidget {
   }
 }
 
-/// Paints the icon's primary glyph (and, for duotone, also the secondary
-/// glyph at the same canvas origin) in a single render layer — no Stack,
-/// no nested widgets. Both glyphs come from the same em-square (their
-/// fonts share a font height), so painting them at [Offset.zero]
-/// reproduces the original SVG layering without any per-glyph centring
-/// gymnastics.
+/// Paints solo + every duotone flavour in a single render layer (no Stack,
+/// no nested widgets). Layer order is controlled by [secondaryOnTop] so
+/// paint-order duotones render their foreground letterform on top while
+/// hint-layer duotones keep the faint backdrop behind the solid primary.
+/// Both glyphs share an em-square (the generator pairs primary + secondary
+/// fonts at the same metrics) so painting both at [Offset.zero] reproduces
+/// the original SVG layering.
 class _IconifyPainter extends CustomPainter {
   final IconData primary;
   final IconData? secondary;
   final Color primaryColor;
   final Color? secondaryColor;
+  final bool secondaryOnTop;
   final double size;
   final TextDirection textDirection;
   final List<Shadow>? shadows;
@@ -138,6 +144,7 @@ class _IconifyPainter extends CustomPainter {
     required this.secondary,
     required this.primaryColor,
     required this.secondaryColor,
+    required this.secondaryOnTop,
     required this.size,
     required this.textDirection,
     this.shadows,
@@ -145,10 +152,19 @@ class _IconifyPainter extends CustomPainter {
 
   @override
   void paint(Canvas canvas, Size canvasSize) {
-    if (secondary != null && secondaryColor != null) {
+    final hasSecondary = secondary != null && secondaryColor != null;
+    if (hasSecondary && secondaryOnTop) {
+      // Paint-order: primary BEHIND, secondary ON TOP.
+      _paintGlyph(canvas, primary, primaryColor);
       _paintGlyph(canvas, secondary!, secondaryColor!);
+    } else {
+      // Hint-layer / mask-internal / solo: secondary BEHIND (if present),
+      // primary ON TOP.
+      if (hasSecondary) {
+        _paintGlyph(canvas, secondary!, secondaryColor!);
+      }
+      _paintGlyph(canvas, primary, primaryColor);
     }
-    _paintGlyph(canvas, primary, primaryColor);
   }
 
   void _paintGlyph(Canvas canvas, IconData glyph, Color glyphColor) {
@@ -178,6 +194,7 @@ class _IconifyPainter extends CustomPainter {
       old.secondary != secondary ||
       old.primaryColor != primaryColor ||
       old.secondaryColor != secondaryColor ||
+      old.secondaryOnTop != secondaryOnTop ||
       old.size != size ||
       old.textDirection != textDirection ||
       old.shadows != shadows;

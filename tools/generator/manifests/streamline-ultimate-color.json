@@ -100,7 +100,8 @@
       "codepoint": 57357,
       "fontFamily": "StreamlineUltimateColor",
       "identifier": "amazonWebServicesLogo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ambulance-call": {
       "codepoint": 57358,
@@ -1436,7 +1437,8 @@
       "codepoint": 57624,
       "fontFamily": "StreamlineUltimateColor",
       "identifier": "loading",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "loading-half": {
       "codepoint": 57625,

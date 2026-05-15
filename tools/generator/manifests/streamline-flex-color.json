@@ -40,7 +40,8 @@
       "codepoint": 58188,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "n3dCoordinateAxisFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "3d-rotate-1": {
       "codepoint": 57345,
@@ -51,7 +52,8 @@
       "codepoint": 57346,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "n3dRotate1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "3d-rotate-y-axis": {
       "codepoint": 57347,
@@ -62,7 +64,8 @@
       "codepoint": 58189,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "n3dRotateYAxisFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "add-to-playlist": {
       "codepoint": 57348,
@@ -73,7 +76,8 @@
       "codepoint": 57349,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "addToPlaylistFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ai-chip-robot": {
       "codepoint": 57350,
@@ -84,7 +88,8 @@
       "codepoint": 57351,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "aiChipRobotFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ai-generate-portrait-image-spark": {
       "codepoint": 57352,
@@ -95,7 +100,8 @@
       "codepoint": 57353,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "aiGeneratePortraitImageSparkFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ai-scanner-robot": {
       "codepoint": 57354,
@@ -106,7 +112,8 @@
       "codepoint": 57355,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "aiScannerRobotFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "airplane-disabled": {
       "codepoint": 57356,
@@ -117,7 +124,8 @@
       "codepoint": 57357,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "airplaneDisabledFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "airport-plane": {
       "codepoint": 57358,
@@ -138,7 +146,8 @@
       "codepoint": 58190,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "airshipFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alien": {
       "codepoint": 57361,
@@ -149,7 +158,8 @@
       "codepoint": 57362,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "alienFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "align-back-1": {
       "codepoint": 57363,
@@ -160,7 +170,8 @@
       "codepoint": 58191,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "alignBack1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "align-selection": {
       "codepoint": 57364,
@@ -171,7 +182,8 @@
       "codepoint": 57365,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "alignSelectionFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "align-text-top": {
       "codepoint": 57366,
@@ -182,7 +194,8 @@
       "codepoint": 57367,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "alignTextTopFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "align-top-1": {
       "codepoint": 57368,
@@ -193,7 +206,8 @@
       "codepoint": 58192,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "alignTop1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "allergens-fish": {
       "codepoint": 57369,
@@ -204,7 +218,8 @@
       "codepoint": 57370,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "allergensFishFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "anchor": {
       "codepoint": 57371,
@@ -225,7 +240,8 @@
       "codepoint": 57374,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "appleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "application-add": {
       "codepoint": 57375,
@@ -236,7 +252,8 @@
       "codepoint": 58193,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "applicationAddFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "archive-box": {
       "codepoint": 57376,
@@ -247,7 +264,8 @@
       "codepoint": 57377,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "archiveBoxFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-cursor-2": {
       "codepoint": 57378,
@@ -268,7 +286,8 @@
       "codepoint": 58194,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "arrowCursorClick2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-cursor-move": {
       "codepoint": 57381,
@@ -279,7 +298,8 @@
       "codepoint": 58195,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "arrowCursorMoveFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-expand": {
       "codepoint": 57382,
@@ -310,7 +330,8 @@
       "codepoint": 57387,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "arrowRoadmapFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "artificial-intelligence-brain-chip": {
       "codepoint": 57388,
@@ -321,7 +342,8 @@
       "codepoint": 58196,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "artificialIntelligenceBrainChipFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "artist-song": {
       "codepoint": 57389,
@@ -332,7 +354,8 @@
       "codepoint": 58197,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "artistSongFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "auto-correction-check": {
       "codepoint": 57390,
@@ -363,7 +386,8 @@
       "codepoint": 58198,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bagSuitcase4Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "baggage": {
       "codepoint": 57395,
@@ -374,7 +398,8 @@
       "codepoint": 57396,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "baggageFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ball": {
       "codepoint": 57397,
@@ -385,7 +410,8 @@
       "codepoint": 58199,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "ballFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "balloon": {
       "codepoint": 57398,
@@ -396,7 +422,8 @@
       "codepoint": 58200,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "balloonFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-charging": {
       "codepoint": 57399,
@@ -407,7 +434,8 @@
       "codepoint": 57400,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "batteryChargingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-medium-1": {
       "codepoint": 57401,
@@ -418,7 +446,8 @@
       "codepoint": 57402,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "batteryMedium1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bell": {
       "codepoint": 57403,
@@ -429,7 +458,8 @@
       "codepoint": 57404,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bellFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bell-notification": {
       "codepoint": 57405,
@@ -440,7 +470,8 @@
       "codepoint": 57406,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bellNotificationFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bicycle-bike": {
       "codepoint": 57407,
@@ -451,7 +482,8 @@
       "codepoint": 58201,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bicycleBikeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bill-4": {
       "codepoint": 57408,
@@ -462,7 +494,8 @@
       "codepoint": 58202,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bill4Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "binoculars": {
       "codepoint": 57409,
@@ -473,7 +506,8 @@
       "codepoint": 57410,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "binocularsFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blank-calendar": {
       "codepoint": 57411,
@@ -484,7 +518,8 @@
       "codepoint": 57412,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "blankCalendarFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "block-2": {
       "codepoint": 57413,
@@ -505,7 +540,8 @@
       "codepoint": 58203,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bloodDonateDropFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bluetooth-disabled": {
       "codepoint": 57416,
@@ -516,7 +552,8 @@
       "codepoint": 57417,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bluetoothDisabledFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bluetooth-searching": {
       "codepoint": 57418,
@@ -527,7 +564,8 @@
       "codepoint": 57419,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bluetoothSearchingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "book-reading": {
       "codepoint": 57420,
@@ -538,7 +576,8 @@
       "codepoint": 58204,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bookReadingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bookmark": {
       "codepoint": 57421,
@@ -559,7 +598,8 @@
       "codepoint": 57424,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bowTieFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "brightness-1": {
       "codepoint": 57425,
@@ -570,7 +610,8 @@
       "codepoint": 58205,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "brightness1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "brightness-4": {
       "codepoint": 57426,
@@ -581,7 +622,8 @@
       "codepoint": 57427,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "brightness4Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "broken-link-1": {
       "codepoint": 57428,
@@ -592,7 +634,8 @@
       "codepoint": 57429,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "brokenLink1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "browser-bookmark": {
       "codepoint": 57430,
@@ -603,7 +646,8 @@
       "codepoint": 57431,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "browserBookmarkFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "browser-dashboard": {
       "codepoint": 57432,
@@ -614,7 +658,8 @@
       "codepoint": 57433,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "browserDashboardFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "browser-multiple-window": {
       "codepoint": 57434,
@@ -625,7 +670,8 @@
       "codepoint": 57435,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "browserMultipleWindowFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bug-antivirus-shield": {
       "codepoint": 57436,
@@ -636,7 +682,8 @@
       "codepoint": 57437,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "bugAntivirusShieldFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "building-1": {
       "codepoint": 57438,
@@ -647,7 +694,8 @@
       "codepoint": 57439,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "building1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "button-move-circle": {
       "codepoint": 57440,
@@ -658,7 +706,8 @@
       "codepoint": 57441,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "buttonMoveCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "button-pause-circle": {
       "codepoint": 57442,
@@ -669,7 +718,8 @@
       "codepoint": 57443,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "buttonPauseCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "button-power-1": {
       "codepoint": 57444,
@@ -680,7 +730,8 @@
       "codepoint": 58206,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "buttonPower1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "button-record-1": {
       "codepoint": 57445,
@@ -691,7 +742,8 @@
       "codepoint": 57446,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "buttonRecord1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cake-slice": {
       "codepoint": 57447,
@@ -702,7 +754,8 @@
       "codepoint": 57448,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cakeSliceFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "calculator-1": {
       "codepoint": 57449,
@@ -713,7 +766,8 @@
       "codepoint": 57450,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "calculator1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "calendar-mark": {
       "codepoint": 57451,
@@ -724,7 +778,8 @@
       "codepoint": 57452,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "calendarMarkFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "call-center-support-service": {
       "codepoint": 57453,
@@ -735,7 +790,8 @@
       "codepoint": 58207,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "callCenterSupportServiceFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camera-1": {
       "codepoint": 57454,
@@ -746,7 +802,8 @@
       "codepoint": 57455,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "camera1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camera-setting-gear": {
       "codepoint": 57456,
@@ -757,7 +814,8 @@
       "codepoint": 57457,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cameraSettingGearFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camera-tripod": {
       "codepoint": 57458,
@@ -768,7 +826,8 @@
       "codepoint": 57459,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cameraTripodFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camera-video": {
       "codepoint": 57460,
@@ -779,7 +838,8 @@
       "codepoint": 57461,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cameraVideoFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "campfire": {
       "codepoint": 57462,
@@ -790,7 +850,8 @@
       "codepoint": 58208,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "campfireFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camping-tent": {
       "codepoint": 57463,
@@ -801,7 +862,8 @@
       "codepoint": 57464,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "campingTentFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "car-taxi-1": {
       "codepoint": 57465,
@@ -812,7 +874,8 @@
       "codepoint": 58209,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "carTaxi1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "carrot": {
       "codepoint": 57466,
@@ -823,7 +886,8 @@
       "codepoint": 58210,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "carrotFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cashing-check": {
       "codepoint": 57467,
@@ -834,7 +898,8 @@
       "codepoint": 57468,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cashingCheckFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cat-2": {
       "codepoint": 57469,
@@ -845,7 +910,8 @@
       "codepoint": 57470,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cat2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cellular-network-lte": {
       "codepoint": 57471,
@@ -856,7 +922,8 @@
       "codepoint": 58211,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cellularNetworkLteFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "champagne-party-alcohol": {
       "codepoint": 57472,
@@ -867,7 +934,8 @@
       "codepoint": 58212,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "champagnePartyAlcoholFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "charging": {
       "codepoint": 57473,
@@ -878,7 +946,8 @@
       "codepoint": 57474,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "chargingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chat-bubble-square-phone": {
       "codepoint": 57475,
@@ -889,7 +958,8 @@
       "codepoint": 57476,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "chatBubbleSquarePhoneFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chat-bubble-text-square": {
       "codepoint": 57477,
@@ -900,7 +970,8 @@
       "codepoint": 57478,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "chatBubbleTextSquareFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chat-bubble-typing-oval": {
       "codepoint": 57479,
@@ -911,7 +982,8 @@
       "codepoint": 57480,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "chatBubbleTypingOvalFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "check-square": {
       "codepoint": 57481,
@@ -922,7 +994,8 @@
       "codepoint": 57482,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "checkSquareFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "checkup-medical-report-clipboard": {
       "codepoint": 57483,
@@ -933,7 +1006,8 @@
       "codepoint": 57484,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "checkupMedicalReportClipboardFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chef-toque-hat": {
       "codepoint": 57485,
@@ -944,7 +1018,8 @@
       "codepoint": 57486,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "chefToqueHatFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chess-king": {
       "codepoint": 57487,
@@ -955,7 +1030,8 @@
       "codepoint": 58213,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "chessKingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "city-hall": {
       "codepoint": 57488,
@@ -966,7 +1042,8 @@
       "codepoint": 58214,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cityHallFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "clean-broom-wipe": {
       "codepoint": 57489,
@@ -977,7 +1054,8 @@
       "codepoint": 58215,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cleanBroomWipeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud": {
       "codepoint": 57490,
@@ -993,7 +1071,8 @@
       "codepoint": 57492,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cloudDataTransferFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-download": {
       "codepoint": 57493,
@@ -1004,13 +1083,15 @@
       "codepoint": 57494,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cloudDownloadFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-flat": {
       "codepoint": 57495,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cloudFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-off": {
       "codepoint": 57496,
@@ -1021,7 +1102,8 @@
       "codepoint": 57497,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cloudOffFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-warning": {
       "codepoint": 57498,
@@ -1032,7 +1114,8 @@
       "codepoint": 57499,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cloudWarningFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cocktail": {
       "codepoint": 57500,
@@ -1053,7 +1136,8 @@
       "codepoint": 57503,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "codeAnalysisFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "code-monitor-1": {
       "codepoint": 57504,
@@ -1064,7 +1148,8 @@
       "codepoint": 58216,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "codeMonitor1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cog": {
       "codepoint": 57505,
@@ -1085,7 +1170,8 @@
       "codepoint": 58217,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "coinShareFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "color-picker": {
       "codepoint": 57508,
@@ -1096,7 +1182,8 @@
       "codepoint": 57509,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "colorPickerFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "color-swatches": {
       "codepoint": 57510,
@@ -1107,7 +1194,8 @@
       "codepoint": 58218,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "colorSwatchesFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "compsition-horizontal": {
       "codepoint": 57511,
@@ -1128,7 +1216,8 @@
       "codepoint": 57514,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "computerChip1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "contact-book": {
       "codepoint": 57515,
@@ -1139,7 +1228,8 @@
       "codepoint": 58219,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "contactBookFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "contact-phonebook-2": {
       "codepoint": 57516,
@@ -1150,7 +1240,8 @@
       "codepoint": 58220,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "contactPhonebook2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "controller-stick": {
       "codepoint": 57517,
@@ -1161,7 +1252,8 @@
       "codepoint": 58221,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "controllerStickFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "controller-wireless": {
       "codepoint": 57518,
@@ -1172,7 +1264,8 @@
       "codepoint": 57519,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "controllerWirelessFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "copy-2": {
       "codepoint": 57520,
@@ -1183,7 +1276,8 @@
       "codepoint": 58222,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "copy2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "countdown-timer": {
       "codepoint": 57521,
@@ -1194,7 +1288,8 @@
       "codepoint": 58223,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "countdownTimerFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "credit-card-4": {
       "codepoint": 57522,
@@ -1205,7 +1300,8 @@
       "codepoint": 57523,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "creditCard4Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "credit-card-approved": {
       "codepoint": 57524,
@@ -1216,7 +1312,8 @@
       "codepoint": 57525,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "creditCardApprovedFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "credit-card-disable": {
       "codepoint": 57526,
@@ -1227,7 +1324,8 @@
       "codepoint": 58224,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "creditCardDisableFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "critical-thinking-2": {
       "codepoint": 57527,
@@ -1238,7 +1336,8 @@
       "codepoint": 57528,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "criticalThinking2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crown": {
       "codepoint": 57529,
@@ -1259,7 +1358,8 @@
       "codepoint": 57532,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cubeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cursor-click": {
       "codepoint": 57533,
@@ -1270,7 +1370,8 @@
       "codepoint": 58225,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cursorClickFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "curves-levels-graph": {
       "codepoint": 57534,
@@ -1281,7 +1382,8 @@
       "codepoint": 57535,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "curvesLevelsGraphFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "customer-support-5": {
       "codepoint": 57536,
@@ -1292,7 +1394,8 @@
       "codepoint": 57537,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "customerSupport5Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "customer-support-7": {
       "codepoint": 57538,
@@ -1303,7 +1406,8 @@
       "codepoint": 57539,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "customerSupport7Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cyborg-2": {
       "codepoint": 57540,
@@ -1314,7 +1418,8 @@
       "codepoint": 57541,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "cyborg2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dark-dislay-mode": {
       "codepoint": 57542,
@@ -1325,7 +1430,8 @@
       "codepoint": 57543,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "darkDislayModeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dashboard-3": {
       "codepoint": 57544,
@@ -1336,7 +1442,8 @@
       "codepoint": 57545,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dashboard3Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dashboard-gauge-1": {
       "codepoint": 57546,
@@ -1347,7 +1454,8 @@
       "codepoint": 57547,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dashboardGauge1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "database": {
       "codepoint": 57548,
@@ -1358,7 +1466,8 @@
       "codepoint": 58226,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "databaseFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "decent-work-and-economic-growth": {
       "codepoint": 57549,
@@ -1369,7 +1478,8 @@
       "codepoint": 57550,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "decentWorkAndEconomicGrowthFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "deepfake-technology-1": {
       "codepoint": 57551,
@@ -1380,7 +1490,8 @@
       "codepoint": 57552,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "deepfakeTechnology1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "definition-search-book": {
       "codepoint": 57553,
@@ -1391,7 +1502,8 @@
       "codepoint": 57554,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "definitionSearchBookFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "delete-tag": {
       "codepoint": 57555,
@@ -1402,7 +1514,8 @@
       "codepoint": 57556,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "deleteTagFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "departure-time": {
       "codepoint": 57557,
@@ -1413,7 +1526,8 @@
       "codepoint": 57558,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "departureTimeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "desktop-lock": {
       "codepoint": 57559,
@@ -1424,7 +1538,8 @@
       "codepoint": 58227,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "desktopLockFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "desktop-screensaver-sleep": {
       "codepoint": 57560,
@@ -1435,7 +1550,8 @@
       "codepoint": 58228,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "desktopScreensaverSleepFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dial-pad-finger-2": {
       "codepoint": 57561,
@@ -1446,7 +1562,8 @@
       "codepoint": 58229,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dialPadFinger2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "diamond-1": {
       "codepoint": 57562,
@@ -1457,7 +1574,8 @@
       "codepoint": 58230,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "diamond1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dice-5": {
       "codepoint": 57563,
@@ -1468,7 +1586,8 @@
       "codepoint": 57564,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dice5Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dictionary-language-book": {
       "codepoint": 57565,
@@ -1479,7 +1598,8 @@
       "codepoint": 58231,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dictionaryLanguageBookFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "disable-bell-notification": {
       "codepoint": 57566,
@@ -1490,7 +1610,8 @@
       "codepoint": 57567,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "disableBellNotificationFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "discount-percent-coupon": {
       "codepoint": 57568,
@@ -1501,7 +1622,8 @@
       "codepoint": 57569,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "discountPercentCouponFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "discussion-converstion-reply": {
       "codepoint": 57570,
@@ -1522,7 +1644,8 @@
       "codepoint": 57573,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dislikeCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dna": {
       "codepoint": 57574,
@@ -1533,7 +1656,8 @@
       "codepoint": 58232,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dnaFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dog-1": {
       "codepoint": 57575,
@@ -1544,7 +1668,8 @@
       "codepoint": 57576,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dog1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dollar-increase": {
       "codepoint": 57577,
@@ -1555,7 +1680,8 @@
       "codepoint": 57578,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dollarIncreaseFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "download-arrow": {
       "codepoint": 57579,
@@ -1566,7 +1692,8 @@
       "codepoint": 58233,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "downloadArrowFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "download-box-1": {
       "codepoint": 57580,
@@ -1577,7 +1704,8 @@
       "codepoint": 58234,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "downloadBox1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "download-tray": {
       "codepoint": 57581,
@@ -1588,7 +1716,8 @@
       "codepoint": 57582,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "downloadTrayFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dribble": {
       "codepoint": 57583,
@@ -1599,7 +1728,8 @@
       "codepoint": 57584,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "dribbleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "drone": {
       "codepoint": 57585,
@@ -1610,7 +1740,8 @@
       "codepoint": 57586,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "droneFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ear-speciality": {
       "codepoint": 57587,
@@ -1621,7 +1752,8 @@
       "codepoint": 57588,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "earSpecialityFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "earpods": {
       "codepoint": 57589,
@@ -1642,7 +1774,8 @@
       "codepoint": 57592,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "earth1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eject-square": {
       "codepoint": 57593,
@@ -1653,7 +1786,8 @@
       "codepoint": 57594,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "ejectSquareFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "electric-cord-1": {
       "codepoint": 57595,
@@ -1664,7 +1798,8 @@
       "codepoint": 58235,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "electricCord1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "elevator": {
       "codepoint": 57596,
@@ -1675,7 +1810,8 @@
       "codepoint": 57597,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "elevatorFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "empty-clipboard": {
       "codepoint": 57598,
@@ -1686,7 +1822,8 @@
       "codepoint": 57599,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "emptyClipboardFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "end-point-diamond": {
       "codepoint": 57600,
@@ -1707,7 +1844,8 @@
       "codepoint": 57603,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "erlenmeyerFlaskFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "esports": {
       "codepoint": 57604,
@@ -1718,7 +1856,8 @@
       "codepoint": 57605,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "esportsFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "expand-crop-resize": {
       "codepoint": 57606,
@@ -1729,7 +1868,8 @@
       "codepoint": 58236,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "expandCropResizeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "expand-window-1": {
       "codepoint": 57607,
@@ -1740,7 +1880,8 @@
       "codepoint": 57608,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "expandWindow1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "face-scan-1": {
       "codepoint": 57609,
@@ -1751,7 +1892,8 @@
       "codepoint": 58237,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "faceScan1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "facebook-1": {
       "codepoint": 57610,
@@ -1772,7 +1914,8 @@
       "codepoint": 57613,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "fahrenheitFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "feather-pen": {
       "codepoint": 57614,
@@ -1783,7 +1926,8 @@
       "codepoint": 57615,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "featherPenFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-bookmark": {
       "codepoint": 57616,
@@ -1794,7 +1938,8 @@
       "codepoint": 57617,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "fileBookmarkFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-code-1": {
       "codepoint": 57618,
@@ -1805,7 +1950,8 @@
       "codepoint": 57619,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "fileCode1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "film": {
       "codepoint": 57620,
@@ -1816,7 +1962,8 @@
       "codepoint": 57621,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "filmFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "film-slate": {
       "codepoint": 57622,
@@ -1827,7 +1974,8 @@
       "codepoint": 58238,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "filmSlateFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "filter-2": {
       "codepoint": 57623,
@@ -1848,7 +1996,8 @@
       "codepoint": 58239,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "fingerSnappingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fingerprint-1": {
       "codepoint": 57626,
@@ -1869,7 +2018,8 @@
       "codepoint": 58240,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "fireAlarm2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flash-3": {
       "codepoint": 57629,
@@ -1890,7 +2040,8 @@
       "codepoint": 57632,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "flashOffFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flash-warning": {
       "codepoint": 57633,
@@ -1901,7 +2052,8 @@
       "codepoint": 57634,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "flashWarningFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flip-horizontal-arrow-1": {
       "codepoint": 57635,
@@ -1912,7 +2064,8 @@
       "codepoint": 57636,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "flipHorizontalArrow1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flip-horizontal-circle-2": {
       "codepoint": 57637,
@@ -1923,7 +2076,8 @@
       "codepoint": 57638,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "flipHorizontalCircle2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "floppy-disk": {
       "codepoint": 57639,
@@ -1934,7 +2088,8 @@
       "codepoint": 57640,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "floppyDiskFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flower": {
       "codepoint": 57641,
@@ -1945,7 +2100,8 @@
       "codepoint": 57642,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "flowerFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "focus-frame": {
       "codepoint": 57643,
@@ -1956,7 +2112,8 @@
       "codepoint": 57644,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "focusFrameFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fork-knife": {
       "codepoint": 57645,
@@ -1977,7 +2134,8 @@
       "codepoint": 58241,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "fragileFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fried-egg-breakfast": {
       "codepoint": 57648,
@@ -1988,7 +2146,8 @@
       "codepoint": 57649,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "friedEggBreakfastFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "full-screen-osx": {
       "codepoint": 57650,
@@ -1999,7 +2158,8 @@
       "codepoint": 57651,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "fullScreenOsxFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "galaxy-2": {
       "codepoint": 57652,
@@ -2020,7 +2180,8 @@
       "codepoint": 58242,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "galleryFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gambling": {
       "codepoint": 57655,
@@ -2031,7 +2192,8 @@
       "codepoint": 57656,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "gamblingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gas-station-fuel-petroleum": {
       "codepoint": 57657,
@@ -2042,7 +2204,8 @@
       "codepoint": 57658,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "gasStationFuelPetroleumFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gift-2": {
       "codepoint": 57659,
@@ -2053,7 +2216,8 @@
       "codepoint": 58243,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "gift2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "give-star": {
       "codepoint": 57660,
@@ -2064,7 +2228,8 @@
       "codepoint": 58244,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "giveStarFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "graduation-cap": {
       "codepoint": 57661,
@@ -2075,7 +2240,8 @@
       "codepoint": 57662,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "graduationCapFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "graph-bar-increase-square": {
       "codepoint": 57663,
@@ -2086,7 +2252,8 @@
       "codepoint": 57664,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "graphBarIncreaseSquareFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "graph-dot": {
       "codepoint": 57665,
@@ -2097,7 +2264,8 @@
       "codepoint": 57666,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "graphDotFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "group-meeting-approval": {
       "codepoint": 57667,
@@ -2108,7 +2276,8 @@
       "codepoint": 57668,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "groupMeetingApprovalFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-held-tablet-writing": {
       "codepoint": 57669,
@@ -2119,7 +2288,8 @@
       "codepoint": 57670,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "handHeldTabletWritingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "happy-face": {
       "codepoint": 57671,
@@ -2130,7 +2300,8 @@
       "codepoint": 57672,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "happyFaceFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hard-drive-1": {
       "codepoint": 57673,
@@ -2141,7 +2312,8 @@
       "codepoint": 57674,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "hardDrive1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "health-care-2": {
       "codepoint": 57675,
@@ -2152,7 +2324,8 @@
       "codepoint": 57676,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "healthCare2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart": {
       "codepoint": 57677,
@@ -2168,7 +2341,8 @@
       "codepoint": 57679,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "heartCrossFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-flat": {
       "codepoint": 57680,
@@ -2184,7 +2358,8 @@
       "codepoint": 58245,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "heartRateFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "help-chat-1": {
       "codepoint": 57682,
@@ -2195,7 +2370,8 @@
       "codepoint": 57683,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "helpChat1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hierarchy-1": {
       "codepoint": 57684,
@@ -2216,7 +2392,8 @@
       "codepoint": 58246,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "hierarchy13Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hierarchy-16": {
       "codepoint": 57687,
@@ -2227,7 +2404,8 @@
       "codepoint": 57688,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "hierarchy16Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hierarchy-2": {
       "codepoint": 57689,
@@ -2238,7 +2416,8 @@
       "codepoint": 58247,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "hierarchy2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hierarchy-line-3": {
       "codepoint": 57690,
@@ -2259,7 +2438,8 @@
       "codepoint": 57693,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "highSpeedTrainFrontFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "home-2": {
       "codepoint": 57694,
@@ -2270,7 +2450,8 @@
       "codepoint": 57695,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "home2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "horizontal-slider-2": {
       "codepoint": 57696,
@@ -2281,7 +2462,8 @@
       "codepoint": 57697,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "horizontalSlider2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "horizontal-toggle-button": {
       "codepoint": 57698,
@@ -2292,7 +2474,8 @@
       "codepoint": 57699,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "horizontalToggleButtonFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hospital-sign": {
       "codepoint": 57700,
@@ -2303,7 +2486,8 @@
       "codepoint": 57701,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "hospitalSignFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hourglass": {
       "codepoint": 57702,
@@ -2319,7 +2503,8 @@
       "codepoint": 57704,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "humidityNoneFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ice-cream-2": {
       "codepoint": 57705,
@@ -2330,7 +2515,8 @@
       "codepoint": 58248,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "iceCream2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "image-location": {
       "codepoint": 57706,
@@ -2341,7 +2527,8 @@
       "codepoint": 57707,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "imageLocationFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "inbox": {
       "codepoint": 57708,
@@ -2357,13 +2544,15 @@
       "codepoint": 57710,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "inboxFavoriteFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "inbox-flat": {
       "codepoint": 57711,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "inboxFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "inbox-open": {
       "codepoint": 57712,
@@ -2374,7 +2563,8 @@
       "codepoint": 58249,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "inboxOpenFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "inbox-tray-1": {
       "codepoint": 57713,
@@ -2385,7 +2575,8 @@
       "codepoint": 57714,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "inboxTray1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "incognito-mode": {
       "codepoint": 57715,
@@ -2396,7 +2587,8 @@
       "codepoint": 57716,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "incognitoModeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "incoming-call": {
       "codepoint": 57717,
@@ -2407,7 +2599,8 @@
       "codepoint": 57718,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "incomingCallFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "incorrect-password": {
       "codepoint": 57719,
@@ -2418,7 +2611,8 @@
       "codepoint": 57720,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "incorrectPasswordFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "increase-indent": {
       "codepoint": 57721,
@@ -2429,7 +2623,8 @@
       "codepoint": 57722,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "increaseIndentFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "information-circle": {
       "codepoint": 57723,
@@ -2440,7 +2635,8 @@
       "codepoint": 57724,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "informationCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "input-box": {
       "codepoint": 57725,
@@ -2451,7 +2647,8 @@
       "codepoint": 57726,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "inputBoxFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "insert-center-left-1": {
       "codepoint": 57727,
@@ -2462,7 +2659,8 @@
       "codepoint": 57728,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "insertCenterLeft1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "insurance-hand-1": {
       "codepoint": 57729,
@@ -2473,7 +2671,8 @@
       "codepoint": 58250,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "insuranceHand1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "intersex-symbol": {
       "codepoint": 57730,
@@ -2494,7 +2693,8 @@
       "codepoint": 58251,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "investingAndBankingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "invisible-1": {
       "codepoint": 57733,
@@ -2505,7 +2705,8 @@
       "codepoint": 57734,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "invisible1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ios-ipados": {
       "codepoint": 57735,
@@ -2516,7 +2717,8 @@
       "codepoint": 58252,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "iosIpadosFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "iphone": {
       "codepoint": 57736,
@@ -2527,7 +2729,8 @@
       "codepoint": 57737,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "iphoneFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "iris-scan": {
       "codepoint": 57738,
@@ -2538,7 +2741,8 @@
       "codepoint": 58253,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "irisScanFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "iron": {
       "codepoint": 57739,
@@ -2549,7 +2753,8 @@
       "codepoint": 58254,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "ironFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japanese-alphabet": {
       "codepoint": 57740,
@@ -2570,7 +2775,8 @@
       "codepoint": 57743,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "justiceScale1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "key-frame": {
       "codepoint": 57744,
@@ -2581,7 +2787,8 @@
       "codepoint": 57745,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "keyFrameFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keyboard": {
       "codepoint": 57746,
@@ -2592,7 +2799,8 @@
       "codepoint": 57747,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "keyboardFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keyboard-option-setting-gear": {
       "codepoint": 57748,
@@ -2603,7 +2811,8 @@
       "codepoint": 57749,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "keyboardOptionSettingGearFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "label-folder-tag": {
       "codepoint": 57750,
@@ -2614,7 +2823,8 @@
       "codepoint": 57751,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "labelFolderTagFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "landscape-2": {
       "codepoint": 57752,
@@ -2625,7 +2835,8 @@
       "codepoint": 57753,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "landscape2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "landscape-lock": {
       "codepoint": 57754,
@@ -2636,7 +2847,8 @@
       "codepoint": 57755,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "landscapeLockFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "laptop": {
       "codepoint": 57756,
@@ -2647,7 +2859,8 @@
       "codepoint": 58255,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "laptopFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "layers-1": {
       "codepoint": 57757,
@@ -2658,7 +2871,8 @@
       "codepoint": 57758,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "layers1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "layout-right-sidebar": {
       "codepoint": 57759,
@@ -2669,7 +2883,8 @@
       "codepoint": 57760,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "layoutRightSidebarFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "layout-window-1": {
       "codepoint": 57761,
@@ -2680,7 +2895,8 @@
       "codepoint": 57762,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "layoutWindow1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "left-click": {
       "codepoint": 57763,
@@ -2691,7 +2907,8 @@
       "codepoint": 58256,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "leftClickFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "less-than-sign-circle": {
       "codepoint": 57764,
@@ -2702,7 +2919,8 @@
       "codepoint": 57765,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "lessThanSignCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lightbulb": {
       "codepoint": 57766,
@@ -2713,7 +2931,8 @@
       "codepoint": 57767,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "lightbulbFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "like-1": {
       "codepoint": 57768,
@@ -2724,7 +2943,8 @@
       "codepoint": 57769,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "like1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "link-chain": {
       "codepoint": 57770,
@@ -2745,7 +2965,8 @@
       "codepoint": 57773,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "locationCompass1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "location-compass-2": {
       "codepoint": 57774,
@@ -2756,7 +2977,8 @@
       "codepoint": 57775,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "locationCompass2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "location-heart-pin": {
       "codepoint": 57776,
@@ -2767,7 +2989,8 @@
       "codepoint": 57777,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "locationHeartPinFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "location-pin-3": {
       "codepoint": 57778,
@@ -2778,7 +3001,8 @@
       "codepoint": 58257,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "locationPin3Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "location-pin-medical-hospital-2": {
       "codepoint": 57779,
@@ -2789,7 +3013,8 @@
       "codepoint": 57780,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "locationPinMedicalHospital2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "location-target-2": {
       "codepoint": 57781,
@@ -2810,7 +3035,8 @@
       "codepoint": 58258,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "lockRotationFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "login-1": {
       "codepoint": 57784,
@@ -2821,7 +3047,8 @@
       "codepoint": 57785,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "login1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "logout-1": {
       "codepoint": 57786,
@@ -2832,7 +3059,8 @@
       "codepoint": 57787,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "logout1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "magic-wand-1": {
       "codepoint": 57788,
@@ -2843,7 +3071,8 @@
       "codepoint": 57789,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "magicWand1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "magic-wand-2": {
       "codepoint": 57790,
@@ -2854,7 +3083,8 @@
       "codepoint": 58259,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "magicWand2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "magnifying-glass": {
       "codepoint": 57791,
@@ -2865,7 +3095,8 @@
       "codepoint": 57792,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "magnifyingGlassFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mail-reply-all": {
       "codepoint": 57793,
@@ -2876,7 +3107,8 @@
       "codepoint": 57794,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "mailReplyAllFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mail-send-email-message-circle": {
       "codepoint": 57795,
@@ -2887,7 +3119,8 @@
       "codepoint": 57796,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "mailSendEmailMessageCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mail-send-envelope": {
       "codepoint": 57797,
@@ -2898,7 +3131,8 @@
       "codepoint": 57798,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "mailSendEnvelopeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "map-location": {
       "codepoint": 57799,
@@ -2909,7 +3143,8 @@
       "codepoint": 57800,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "mapLocationFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "maximize-2": {
       "codepoint": 57801,
@@ -2920,7 +3155,8 @@
       "codepoint": 57802,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "maximize2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "megaphone-1": {
       "codepoint": 57803,
@@ -2931,7 +3167,8 @@
       "codepoint": 58260,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "megaphone1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "merge-pdf": {
       "codepoint": 57804,
@@ -2942,7 +3179,8 @@
       "codepoint": 58261,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "mergePdfFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "merge-vertical": {
       "codepoint": 57805,
@@ -2963,7 +3201,8 @@
       "codepoint": 57808,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "microscopeObservationScieneFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "missed-call": {
       "codepoint": 57809,
@@ -2974,7 +3213,8 @@
       "codepoint": 57810,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "missedCallFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "module-puzzle-2": {
       "codepoint": 57811,
@@ -2995,7 +3235,8 @@
       "codepoint": 58262,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "monitorErrorFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "moustache": {
       "codepoint": 57814,
@@ -3016,7 +3257,8 @@
       "codepoint": 58263,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "multipleStarsFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "music-equalizer": {
       "codepoint": 57817,
@@ -3037,7 +3279,8 @@
       "codepoint": 57820,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "musicNoteCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "navigation-arrow-north": {
       "codepoint": 57821,
@@ -3058,7 +3301,8 @@
       "codepoint": 57824,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "networkFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "new-badge-highlight": {
       "codepoint": 57825,
@@ -3079,7 +3323,8 @@
       "codepoint": 57828,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "newFileFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "new-folder": {
       "codepoint": 57829,
@@ -3100,7 +3345,8 @@
       "codepoint": 57832,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "newStickyNoteFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "news-paper": {
       "codepoint": 57833,
@@ -3111,7 +3357,8 @@
       "codepoint": 58264,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "newsPaperFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "non-commercial-dollars": {
       "codepoint": 57834,
@@ -3122,7 +3369,8 @@
       "codepoint": 58265,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "nonCommercialDollarsFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "notepad-text": {
       "codepoint": 57835,
@@ -3133,7 +3381,8 @@
       "codepoint": 57836,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "notepadTextFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "notification-alarm-snooze": {
       "codepoint": 57837,
@@ -3144,7 +3393,8 @@
       "codepoint": 57838,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "notificationAlarmSnoozeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "notification-application-1": {
       "codepoint": 57839,
@@ -3155,7 +3405,8 @@
       "codepoint": 58266,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "notificationApplication1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "number-sign": {
       "codepoint": 57840,
@@ -3166,7 +3417,8 @@
       "codepoint": 58267,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "numberSignFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nurse-assistant-emergency": {
       "codepoint": 57841,
@@ -3177,7 +3429,8 @@
       "codepoint": 57842,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "nurseAssistantEmergencyFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "office-building-1": {
       "codepoint": 57843,
@@ -3188,7 +3441,8 @@
       "codepoint": 57844,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "officeBuilding1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "one-finger-tap": {
       "codepoint": 57845,
@@ -3199,7 +3453,8 @@
       "codepoint": 58268,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "oneFingerTapFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "online-medical-service-monitor": {
       "codepoint": 57846,
@@ -3210,7 +3465,8 @@
       "codepoint": 58269,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "onlineMedicalServiceMonitorFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "open-umbrella": {
       "codepoint": 57847,
@@ -3221,7 +3477,8 @@
       "codepoint": 58270,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "openUmbrellaFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "package-dimension": {
       "codepoint": 57848,
@@ -3232,7 +3489,8 @@
       "codepoint": 57849,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "packageDimensionFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "padlock-square-1": {
       "codepoint": 57850,
@@ -3243,7 +3501,8 @@
       "codepoint": 57851,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "padlockSquare1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "padlock-square-2": {
       "codepoint": 57852,
@@ -3254,7 +3513,8 @@
       "codepoint": 57853,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "padlockSquare2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "page-setting": {
       "codepoint": 57854,
@@ -3265,7 +3525,8 @@
       "codepoint": 58271,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "pageSettingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "paintbrush-2": {
       "codepoint": 57855,
@@ -3276,7 +3537,8 @@
       "codepoint": 58272,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "paintbrush2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "panoramic-screen": {
       "codepoint": 57856,
@@ -3287,7 +3549,8 @@
       "codepoint": 57857,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "panoramicScreenFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "paperclip-1": {
       "codepoint": 57858,
@@ -3308,7 +3571,8 @@
       "codepoint": 57861,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "partyPopperFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "passport-globe": {
       "codepoint": 57862,
@@ -3319,7 +3583,8 @@
       "codepoint": 57863,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "passportGlobeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pathfinder-minus-front-2": {
       "codepoint": 57864,
@@ -3330,7 +3595,8 @@
       "codepoint": 58273,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "pathfinderMinusFront2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pdf-reader-application": {
       "codepoint": 57865,
@@ -3346,7 +3612,8 @@
       "codepoint": 58274,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "pen1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pen-tool": {
       "codepoint": 57867,
@@ -3357,7 +3624,8 @@
       "codepoint": 58275,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "penToolFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pencil-square": {
       "codepoint": 57868,
@@ -3368,7 +3636,8 @@
       "codepoint": 57869,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "pencilSquareFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pet-paw": {
       "codepoint": 57870,
@@ -3399,7 +3668,8 @@
       "codepoint": 57875,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "phoneNotificationFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "phone-qr": {
       "codepoint": 57876,
@@ -3410,7 +3680,8 @@
       "codepoint": 57877,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "phoneQrFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "phone-ringing-1": {
       "codepoint": 57878,
@@ -3421,7 +3692,8 @@
       "codepoint": 57879,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "phoneRinging1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "phone-rotate-mobile": {
       "codepoint": 57880,
@@ -3432,7 +3704,8 @@
       "codepoint": 57881,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "phoneRotateMobileFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "phone-shield": {
       "codepoint": 57882,
@@ -3443,7 +3716,8 @@
       "codepoint": 58276,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "phoneShieldFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "photo-camera": {
       "codepoint": 57883,
@@ -3454,7 +3728,8 @@
       "codepoint": 58277,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "photoCameraFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pictures-folder-memories": {
       "codepoint": 57884,
@@ -3465,7 +3740,8 @@
       "codepoint": 57885,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "picturesFolderMemoriesFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pie-chart": {
       "codepoint": 57886,
@@ -3476,7 +3752,8 @@
       "codepoint": 57887,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "pieChartFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "piggy-bank": {
       "codepoint": 57888,
@@ -3487,7 +3764,8 @@
       "codepoint": 57889,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "piggyBankFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pin-1": {
       "codepoint": 57890,
@@ -3498,7 +3776,8 @@
       "codepoint": 58278,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "pin1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pine-tree": {
       "codepoint": 57891,
@@ -3509,7 +3788,8 @@
       "codepoint": 58279,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "pineTreeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "play-list-4": {
       "codepoint": 57892,
@@ -3520,7 +3800,8 @@
       "codepoint": 57893,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "playList4Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "play-list-6": {
       "codepoint": 57894,
@@ -3531,7 +3812,8 @@
       "codepoint": 57895,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "playList6Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "polaroid-four": {
       "codepoint": 57896,
@@ -3542,7 +3824,8 @@
       "codepoint": 58280,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "polaroidFourFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "politics-speech": {
       "codepoint": 57897,
@@ -3553,7 +3836,8 @@
       "codepoint": 58281,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "politicsSpeechFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "politics-vote-2": {
       "codepoint": 57898,
@@ -3564,7 +3848,8 @@
       "codepoint": 57899,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "politicsVote2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "polygonal-lasso-tool": {
       "codepoint": 57900,
@@ -3585,7 +3870,8 @@
       "codepoint": 58282,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "portraitLockFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "prescription-pills-drugs-healthcare": {
       "codepoint": 57903,
@@ -3606,7 +3892,8 @@
       "codepoint": 58283,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "presentationFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "printer": {
       "codepoint": 57906,
@@ -3617,7 +3904,8 @@
       "codepoint": 57907,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "printerFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "printer-wireless": {
       "codepoint": 57908,
@@ -3628,7 +3916,8 @@
       "codepoint": 58284,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "printerWirelessFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "production-belt-time": {
       "codepoint": 57909,
@@ -3639,7 +3928,8 @@
       "codepoint": 57910,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "productionBeltTimeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "projector": {
       "codepoint": 57911,
@@ -3655,13 +3945,15 @@
       "codepoint": 58285,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "projectorBoardFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "projector-flat": {
       "codepoint": 58286,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "projectorFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qr-code": {
       "codepoint": 57913,
@@ -3672,7 +3964,8 @@
       "codepoint": 58287,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "qrCodeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "receipt": {
       "codepoint": 57914,
@@ -3683,7 +3976,8 @@
       "codepoint": 57915,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "receiptFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "record-player": {
       "codepoint": 57916,
@@ -3694,7 +3988,8 @@
       "codepoint": 57917,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "recordPlayerFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "recording-tape-bubble-circle": {
       "codepoint": 57918,
@@ -3705,7 +4000,8 @@
       "codepoint": 57919,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "recordingTapeBubbleCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rectangle-split-thirds": {
       "codepoint": 57920,
@@ -3716,7 +4012,8 @@
       "codepoint": 57921,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "rectangleSplitThirdsFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "recycle-1": {
       "codepoint": 57922,
@@ -3747,7 +4044,8 @@
       "codepoint": 57927,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "recycleBinFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "recycle-bin-throw-2": {
       "codepoint": 57928,
@@ -3758,7 +4056,8 @@
       "codepoint": 57929,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "recycleBinThrow2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "reduced-inequalities": {
       "codepoint": 57930,
@@ -3769,7 +4068,8 @@
       "codepoint": 57931,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "reducedInequalitiesFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "repeat-single": {
       "codepoint": 57932,
@@ -3780,7 +4080,8 @@
       "codepoint": 58288,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "repeatSingleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "return-square-2": {
       "codepoint": 57933,
@@ -3791,7 +4092,8 @@
       "codepoint": 57934,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "returnSquare2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rocket": {
       "codepoint": 57935,
@@ -3802,7 +4104,8 @@
       "codepoint": 58289,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "rocketFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rotate-left": {
       "codepoint": 57936,
@@ -3823,7 +4126,8 @@
       "codepoint": 57939,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "rotateRightCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "round-anchor-point": {
       "codepoint": 57940,
@@ -3834,7 +4138,8 @@
       "codepoint": 57941,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "roundAnchorPointFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "router-wifi-network": {
       "codepoint": 57942,
@@ -3845,7 +4150,8 @@
       "codepoint": 58290,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "routerWifiNetworkFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "safe-vault": {
       "codepoint": 57943,
@@ -3856,7 +4162,8 @@
       "codepoint": 57944,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "safeVaultFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "salad-vegetable-diet": {
       "codepoint": 57945,
@@ -3867,7 +4174,8 @@
       "codepoint": 57946,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "saladVegetableDietFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "satellite-dish": {
       "codepoint": 57947,
@@ -3878,7 +4186,8 @@
       "codepoint": 58291,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "satelliteDishFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "scanner": {
       "codepoint": 57948,
@@ -3894,13 +4203,15 @@
       "codepoint": 58292,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "scannerBarCodeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "scanner-flat": {
       "codepoint": 57950,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "scannerFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "school": {
       "codepoint": 57951,
@@ -3916,13 +4227,15 @@
       "codepoint": 57953,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "schoolBusSideFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "school-flat": {
       "codepoint": 58293,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "schoolFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "scissors": {
       "codepoint": 57954,
@@ -3943,7 +4256,8 @@
       "codepoint": 57957,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "screenBroadcastFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "screen-curve": {
       "codepoint": 57958,
@@ -3954,7 +4268,8 @@
       "codepoint": 57959,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "screenCurveFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "screenshot": {
       "codepoint": 57960,
@@ -3965,7 +4280,8 @@
       "codepoint": 57961,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "screenshotFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "screwdriver-wrench": {
       "codepoint": 57962,
@@ -3976,7 +4292,8 @@
       "codepoint": 58294,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "screwdriverWrenchFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "script-2": {
       "codepoint": 57963,
@@ -3987,7 +4304,8 @@
       "codepoint": 57964,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "script2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "search-arrow-increase": {
       "codepoint": 57965,
@@ -3998,7 +4316,8 @@
       "codepoint": 58295,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "searchArrowIncreaseFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "search-category": {
       "codepoint": 57966,
@@ -4009,7 +4328,8 @@
       "codepoint": 57967,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "searchCategoryFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "search-history-browser": {
       "codepoint": 57968,
@@ -4020,7 +4340,8 @@
       "codepoint": 58296,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "searchHistoryBrowserFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "security-umbrella": {
       "codepoint": 57969,
@@ -4031,7 +4352,8 @@
       "codepoint": 58297,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "securityUmbrellaFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "serving-dome-hand": {
       "codepoint": 57970,
@@ -4042,7 +4364,8 @@
       "codepoint": 58298,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "servingDomeHandFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "share-link": {
       "codepoint": 57971,
@@ -4053,7 +4376,8 @@
       "codepoint": 58299,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "shareLinkFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shield-1": {
       "codepoint": 57972,
@@ -4084,7 +4408,8 @@
       "codepoint": 57977,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "shieldCrossFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shipping-box-2": {
       "codepoint": 57978,
@@ -4095,7 +4420,8 @@
       "codepoint": 57979,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "shippingBox2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shirt": {
       "codepoint": 57980,
@@ -4116,7 +4442,8 @@
       "codepoint": 57983,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "shoppingBagHandBag2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shopping-basket-2": {
       "codepoint": 57984,
@@ -4127,7 +4454,8 @@
       "codepoint": 57985,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "shoppingBasket2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shopping-basket-add": {
       "codepoint": 57986,
@@ -4138,7 +4466,8 @@
       "codepoint": 57987,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "shoppingBasketAddFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shopping-cart-2": {
       "codepoint": 57988,
@@ -4149,7 +4478,8 @@
       "codepoint": 57989,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "shoppingCart2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "show-layer": {
       "codepoint": 57990,
@@ -4160,7 +4490,8 @@
       "codepoint": 58300,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "showLayerFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shuffle": {
       "codepoint": 57991,
@@ -4171,7 +4502,8 @@
       "codepoint": 58301,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "shuffleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sigma": {
       "codepoint": 57992,
@@ -4202,7 +4534,8 @@
       "codepoint": 57997,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "signage1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signage-pedestrian-no-crossing": {
       "codepoint": 57998,
@@ -4213,7 +4546,8 @@
       "codepoint": 58302,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "signagePedestrianNoCrossingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signal-full": {
       "codepoint": 57999,
@@ -4234,7 +4568,8 @@
       "codepoint": 58002,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "skull2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "small-caps": {
       "codepoint": 58003,
@@ -4245,7 +4580,8 @@
       "codepoint": 58303,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "smallCapsFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "smiley-blessed": {
       "codepoint": 58004,
@@ -4256,7 +4592,8 @@
       "codepoint": 58005,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "smileyBlessedFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "smoking-area": {
       "codepoint": 58006,
@@ -4267,7 +4604,8 @@
       "codepoint": 58304,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "smokingAreaFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "snooze": {
       "codepoint": 58007,
@@ -4278,7 +4616,8 @@
       "codepoint": 58305,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "snoozeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sofa": {
       "codepoint": 58008,
@@ -4289,7 +4628,8 @@
       "codepoint": 58009,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "sofaFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "soft-drink-can": {
       "codepoint": 58010,
@@ -4300,7 +4640,8 @@
       "codepoint": 58011,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "softDrinkCanFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sos-help-emergency-sign": {
       "codepoint": 58012,
@@ -4321,7 +4662,8 @@
       "codepoint": 58015,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "soundRecognitionSearchFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speaker-1": {
       "codepoint": 58016,
@@ -4332,7 +4674,8 @@
       "codepoint": 58017,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "speaker1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spiral-shape": {
       "codepoint": 58018,
@@ -4353,7 +4696,8 @@
       "codepoint": 58021,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "stairs1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "star-badge": {
       "codepoint": 58022,
@@ -4364,7 +4708,8 @@
       "codepoint": 58306,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "starBadgeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "star-circle": {
       "codepoint": 58023,
@@ -4375,7 +4720,8 @@
       "codepoint": 58024,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "starCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "steps-2": {
       "codepoint": 58025,
@@ -4396,7 +4742,8 @@
       "codepoint": 58028,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "stopwatchFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stopwatch-three-quarter": {
       "codepoint": 58029,
@@ -4407,7 +4754,8 @@
       "codepoint": 58030,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "stopwatchThreeQuarterFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "store-1": {
       "codepoint": 58031,
@@ -4418,7 +4766,8 @@
       "codepoint": 58032,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "store1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "story-post": {
       "codepoint": 58033,
@@ -4429,7 +4778,8 @@
       "codepoint": 58307,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "storyPostFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "street-road": {
       "codepoint": 58034,
@@ -4440,7 +4790,8 @@
       "codepoint": 58035,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "streetRoadFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "street-sign": {
       "codepoint": 58036,
@@ -4451,7 +4802,8 @@
       "codepoint": 58037,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "streetSignFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "subscription-cashflow": {
       "codepoint": 58038,
@@ -4462,7 +4814,8 @@
       "codepoint": 58308,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "subscriptionCashflowFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "suitcase-rolling": {
       "codepoint": 58039,
@@ -4473,7 +4826,8 @@
       "codepoint": 58309,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "suitcaseRollingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sun": {
       "codepoint": 58040,
@@ -4484,7 +4838,8 @@
       "codepoint": 58041,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "sunFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "surveillance-camera": {
       "codepoint": 58042,
@@ -4495,7 +4850,8 @@
       "codepoint": 58043,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "surveillanceCameraFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "table": {
       "codepoint": 58044,
@@ -4506,7 +4862,8 @@
       "codepoint": 58045,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tableFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "table-lamp-2": {
       "codepoint": 58046,
@@ -4517,7 +4874,8 @@
       "codepoint": 58310,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tableLamp2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tablet-capsule": {
       "codepoint": 58047,
@@ -4528,7 +4886,8 @@
       "codepoint": 58048,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tabletCapsuleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tag": {
       "codepoint": 58049,
@@ -4544,13 +4903,15 @@
       "codepoint": 58051,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tagAltFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tag-flat": {
       "codepoint": 58052,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tagFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tall-hat": {
       "codepoint": 58053,
@@ -4561,7 +4922,8 @@
       "codepoint": 58054,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tallHatFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tape-cassette-record": {
       "codepoint": 58055,
@@ -4572,7 +4934,8 @@
       "codepoint": 58056,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tapeCassetteRecordFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "target": {
       "codepoint": 58057,
@@ -4588,13 +4951,15 @@
       "codepoint": 58311,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "targetDollarFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "target-flat": {
       "codepoint": 58059,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "targetFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tea-cup": {
       "codepoint": 58060,
@@ -4605,7 +4970,8 @@
       "codepoint": 58312,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "teaCupFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "text-file": {
       "codepoint": 58061,
@@ -4616,7 +4982,8 @@
       "codepoint": 58062,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "textFileFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "text-square": {
       "codepoint": 58063,
@@ -4627,7 +4994,8 @@
       "codepoint": 58064,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "textSquareFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "text-style": {
       "codepoint": 58065,
@@ -4648,7 +5016,8 @@
       "codepoint": 58068,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "textureFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "theater-mask": {
       "codepoint": 58069,
@@ -4659,7 +5028,8 @@
       "codepoint": 58070,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "theaterMaskFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thermometer": {
       "codepoint": 58071,
@@ -4670,7 +5040,8 @@
       "codepoint": 58072,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "thermometerFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "thread-post-tweet": {
       "codepoint": 58073,
@@ -4681,7 +5052,8 @@
       "codepoint": 58074,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "threadPostTweetFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "threat-monitor": {
       "codepoint": 58075,
@@ -4692,7 +5064,8 @@
       "codepoint": 58313,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "threatMonitorFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "threat-phone": {
       "codepoint": 58076,
@@ -4703,7 +5076,8 @@
       "codepoint": 58077,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "threatPhoneFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "threat-usb": {
       "codepoint": 58078,
@@ -4714,7 +5088,8 @@
       "codepoint": 58079,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "threatUsbFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tickets": {
       "codepoint": 58080,
@@ -4735,7 +5110,8 @@
       "codepoint": 58083,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tidalWaveFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tiktok": {
       "codepoint": 58084,
@@ -4746,7 +5122,8 @@
       "codepoint": 58085,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tiktokFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "time-lapse": {
       "codepoint": 58086,
@@ -4757,7 +5134,8 @@
       "codepoint": 58314,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "timeLapseFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "timer-zero": {
       "codepoint": 58087,
@@ -4788,7 +5166,8 @@
       "codepoint": 58315,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "toasterFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "toilet-man": {
       "codepoint": 58092,
@@ -4829,7 +5208,8 @@
       "codepoint": 58099,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "toothFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "track-select-right-tool": {
       "codepoint": 58100,
@@ -4840,7 +5220,8 @@
       "codepoint": 58101,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "trackSelectRightToolFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "transfer-forwarding-call": {
       "codepoint": 58102,
@@ -4851,7 +5232,8 @@
       "codepoint": 58103,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "transferForwardingCallFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "transfer-truck-time": {
       "codepoint": 58104,
@@ -4862,7 +5244,8 @@
       "codepoint": 58105,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "transferTruckTimeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "treasure-chest": {
       "codepoint": 58106,
@@ -4873,7 +5256,8 @@
       "codepoint": 58316,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "treasureChestFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "trending-content": {
       "codepoint": 58107,
@@ -4894,7 +5278,8 @@
       "codepoint": 58110,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "triangleFlagFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "trophy": {
       "codepoint": 58111,
@@ -4905,7 +5290,8 @@
       "codepoint": 58317,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "trophyFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tune-adjust-volume": {
       "codepoint": 58112,
@@ -4916,7 +5302,8 @@
       "codepoint": 58318,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "tuneAdjustVolumeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "typewriter": {
       "codepoint": 58113,
@@ -4927,7 +5314,8 @@
       "codepoint": 58114,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "typewriterFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "upload-box-1": {
       "codepoint": 58115,
@@ -4938,7 +5326,8 @@
       "codepoint": 58319,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "uploadBox1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "usb-port": {
       "codepoint": 58116,
@@ -4959,7 +5348,8 @@
       "codepoint": 58119,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "userCircleSingleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "user-collaborate-group": {
       "codepoint": 58120,
@@ -4970,7 +5360,8 @@
       "codepoint": 58121,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "userCollaborateGroupFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "user-feedback-heart": {
       "codepoint": 58122,
@@ -4981,7 +5372,8 @@
       "codepoint": 58320,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "userFeedbackHeartFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "user-full-body": {
       "codepoint": 58123,
@@ -5002,7 +5394,8 @@
       "codepoint": 58126,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "userIdentifierCardFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "user-king-crown": {
       "codepoint": 58127,
@@ -5013,7 +5406,8 @@
       "codepoint": 58128,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "userKingCrownFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "user-queen-crown": {
       "codepoint": 58129,
@@ -5024,7 +5418,8 @@
       "codepoint": 58321,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "userQueenCrownFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "user-sync-online-in-person": {
       "codepoint": 58130,
@@ -5035,7 +5430,8 @@
       "codepoint": 58322,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "userSyncOnlineInPersonFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "video-close-captioning": {
       "codepoint": 58131,
@@ -5046,7 +5442,8 @@
       "codepoint": 58132,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "videoCloseCaptioningFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "virus-antivirus": {
       "codepoint": 58133,
@@ -5057,7 +5454,8 @@
       "codepoint": 58323,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "virusAntivirusFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "visual-blind-1": {
       "codepoint": 58134,
@@ -5068,7 +5466,8 @@
       "codepoint": 58135,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "visualBlind1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "voice-activation-check-validate": {
       "codepoint": 58136,
@@ -5079,7 +5478,8 @@
       "codepoint": 58137,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "voiceActivationCheckValidateFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "voice-mail": {
       "codepoint": 58138,
@@ -5090,7 +5490,8 @@
       "codepoint": 58139,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "voiceMailFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "voice-scan-2": {
       "codepoint": 58140,
@@ -5101,7 +5502,8 @@
       "codepoint": 58324,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "voiceScan2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "volume-level-high": {
       "codepoint": 58141,
@@ -5112,7 +5514,8 @@
       "codepoint": 58325,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "volumeLevelHighFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "volume-mute": {
       "codepoint": 58142,
@@ -5123,7 +5526,8 @@
       "codepoint": 58326,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "volumeMuteFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vpn-connection": {
       "codepoint": 58143,
@@ -5134,7 +5538,8 @@
       "codepoint": 58144,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "vpnConnectionFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "walker": {
       "codepoint": 58145,
@@ -5145,7 +5550,8 @@
       "codepoint": 58327,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "walkerFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wallet": {
       "codepoint": 58146,
@@ -5156,7 +5562,8 @@
       "codepoint": 58147,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "walletFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "warehouse-1": {
       "codepoint": 58148,
@@ -5167,7 +5574,8 @@
       "codepoint": 58149,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "warehouse1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "warning-diamond": {
       "codepoint": 58150,
@@ -5178,7 +5586,8 @@
       "codepoint": 58151,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "warningDiamondFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "warranty-badge-highlight": {
       "codepoint": 58152,
@@ -5189,7 +5598,8 @@
       "codepoint": 58153,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "warrantyBadgeHighlightFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "watch-2": {
       "codepoint": 58154,
@@ -5200,7 +5610,8 @@
       "codepoint": 58328,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "watch2Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "watch-circle-charging": {
       "codepoint": 58155,
@@ -5211,7 +5622,8 @@
       "codepoint": 58329,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "watchCircleChargingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "watch-circle-heartbeat-monitor-1": {
       "codepoint": 58156,
@@ -5222,7 +5634,8 @@
       "codepoint": 58330,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "watchCircleHeartbeatMonitor1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "watch-square-menu": {
       "codepoint": 58157,
@@ -5233,7 +5646,8 @@
       "codepoint": 58331,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "watchSquareMenuFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "watchtower-castle": {
       "codepoint": 58158,
@@ -5244,7 +5658,8 @@
       "codepoint": 58332,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "watchtowerCastleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wave-signal-circle": {
       "codepoint": 58159,
@@ -5255,7 +5670,8 @@
       "codepoint": 58160,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "waveSignalCircleFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "webcam": {
       "codepoint": 58161,
@@ -5266,7 +5682,8 @@
       "codepoint": 58162,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "webcamFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "webcam-video-off": {
       "codepoint": 58163,
@@ -5277,7 +5694,8 @@
       "codepoint": 58164,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "webcamVideoOffFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wheelchair": {
       "codepoint": 58165,
@@ -5293,13 +5711,15 @@
       "codepoint": 58333,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "wheelchair1Flat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wheelchair-flat": {
       "codepoint": 58167,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "wheelchairFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "white-board": {
       "codepoint": 58168,
@@ -5310,7 +5730,8 @@
       "codepoint": 58334,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "whiteBoardFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wifi-antenna": {
       "codepoint": 58169,
@@ -5321,7 +5742,8 @@
       "codepoint": 58335,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "wifiAntennaFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wifi-secure-connection": {
       "codepoint": 58170,
@@ -5332,7 +5754,8 @@
       "codepoint": 58336,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "wifiSecureConnectionFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "windmill": {
       "codepoint": 58171,
@@ -5343,7 +5766,8 @@
       "codepoint": 58337,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "windmillFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wireless-fast-charging": {
       "codepoint": 58172,
@@ -5354,7 +5778,8 @@
       "codepoint": 58338,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "wirelessFastChargingFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "word-wrap-around-bounding-box": {
       "codepoint": 58173,
@@ -5365,7 +5790,8 @@
       "codepoint": 58174,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "wordWrapAroundBoundingBoxFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "workspace-desk": {
       "codepoint": 58175,
@@ -5376,7 +5802,8 @@
       "codepoint": 58176,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "workspaceDeskFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wrap-arc-upper": {
       "codepoint": 58177,
@@ -5397,7 +5824,8 @@
       "codepoint": 58339,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "wrenchHandFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "youtube": {
       "codepoint": 58180,
@@ -5408,7 +5836,8 @@
       "codepoint": 58181,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "youtubeFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zip-folder": {
       "codepoint": 58182,
@@ -5419,7 +5848,8 @@
       "codepoint": 58183,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "zipFolderFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zoom-in": {
       "codepoint": 58184,
@@ -5430,7 +5860,8 @@
       "codepoint": 58340,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "zoomInFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zoom-out": {
       "codepoint": 58185,
@@ -5441,7 +5872,8 @@
       "codepoint": 58341,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "zoomOutFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zoom-out-gesture": {
       "codepoint": 58186,
@@ -5452,7 +5884,8 @@
       "codepoint": 58187,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "zoomOutGestureFlat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     }
   }
 }

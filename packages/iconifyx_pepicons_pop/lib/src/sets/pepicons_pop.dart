@@ -3161,8 +3161,8 @@ class PepiconsPopIcons {
     IconData(0xe274, fontFamily: 'PepiconsPop', fontPackage: 'iconifyx_pepicons_pop'),
   );
 
-  /// `keyboard-circle-filled` (duo-tone)
-  static const IconifyIconData keyboardCircleFilled = IconifyIconData.duo(
+  /// `keyboard-circle-filled` (mask-internal duotone)
+  static const IconifyIconData keyboardCircleFilled = IconifyIconData.duoMaskInternal(
     IconData(0xe275, fontFamily: 'PepiconsPop', fontPackage: 'iconifyx_pepicons_pop'),
     IconData(0xe275, fontFamily: 'PepiconsPopSecondary', fontPackage: 'iconifyx_pepicons_pop'),
   );

@@ -16,32 +16,32 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 class FluentEmojiFlatIcons {
   const FluentEmojiFlatIcons._();
 
-  /// `a-button-blood-type` (duo-tone)
-  static const IconifyIconData aButtonBloodType = IconifyIconData.duo(
+  /// `a-button-blood-type` (paint-order duotone)
+  static const IconifyIconData aButtonBloodType = IconifyIconData.duoPaintOrder(
     IconData(0xe000, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe000, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ab-button-blood-type` (duo-tone)
-  static const IconifyIconData abButtonBloodType = IconifyIconData.duo(
+  /// `ab-button-blood-type` (paint-order duotone)
+  static const IconifyIconData abButtonBloodType = IconifyIconData.duoPaintOrder(
     IconData(0xe001, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe001, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `adhesive-bandage` (duo-tone)
-  static const IconifyIconData adhesiveBandage = IconifyIconData.duo(
+  /// `adhesive-bandage` (paint-order duotone)
+  static const IconifyIconData adhesiveBandage = IconifyIconData.duoPaintOrder(
     IconData(0xe002, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe002, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `admission-tickets` (duo-tone)
-  static const IconifyIconData admissionTickets = IconifyIconData.duo(
+  /// `admission-tickets` (paint-order duotone)
+  static const IconifyIconData admissionTickets = IconifyIconData.duoPaintOrder(
     IconData(0xe1b2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1b2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `alien-monster` (duo-tone)
-  static const IconifyIconData alienMonster = IconifyIconData.duo(
+  /// `alien-monster` (paint-order duotone)
+  static const IconifyIconData alienMonster = IconifyIconData.duoPaintOrder(
     IconData(0xe1b3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1b3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -51,164 +51,164 @@ class FluentEmojiFlatIcons {
     IconData(0xe005, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ant` (duo-tone)
-  static const IconifyIconData ant = IconifyIconData.duo(
+  /// `ant` (paint-order duotone)
+  static const IconifyIconData ant = IconifyIconData.duoPaintOrder(
     IconData(0xe1b4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1b4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `antenna-bars` (duo-tone)
-  static const IconifyIconData antennaBars = IconifyIconData.duo(
+  /// `antenna-bars` (paint-order duotone)
+  static const IconifyIconData antennaBars = IconifyIconData.duoPaintOrder(
     IconData(0xe006, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe006, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `aquarius` (duo-tone)
-  static const IconifyIconData aquarius = IconifyIconData.duo(
+  /// `aquarius` (paint-order duotone)
+  static const IconifyIconData aquarius = IconifyIconData.duoPaintOrder(
     IconData(0xe007, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe007, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `aries` (duo-tone)
-  static const IconifyIconData aries = IconifyIconData.duo(
+  /// `aries` (paint-order duotone)
+  static const IconifyIconData aries = IconifyIconData.duoPaintOrder(
     IconData(0xe008, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe008, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `atm-sign` (duo-tone)
-  static const IconifyIconData atmSign = IconifyIconData.duo(
+  /// `atm-sign` (paint-order duotone)
+  static const IconifyIconData atmSign = IconifyIconData.duoPaintOrder(
     IconData(0xe00a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe00a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `atom-symbol` (duo-tone)
-  static const IconifyIconData atomSymbol = IconifyIconData.duo(
+  /// `atom-symbol` (paint-order duotone)
+  static const IconifyIconData atomSymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe00b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe00b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `b-button-blood-type` (duo-tone)
-  static const IconifyIconData bButtonBloodType = IconifyIconData.duo(
+  /// `b-button-blood-type` (paint-order duotone)
+  static const IconifyIconData bButtonBloodType = IconifyIconData.duoPaintOrder(
     IconData(0xe00c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe00c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `baby-symbol` (duo-tone)
-  static const IconifyIconData babySymbol = IconifyIconData.duo(
+  /// `baby-symbol` (paint-order duotone)
+  static const IconifyIconData babySymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe00e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe00e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-down` (duo-tone)
-  static const IconifyIconData backhandIndexPointingDown = IconifyIconData.duo(
+  /// `backhand-index-pointing-down` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingDown = IconifyIconData.duoPaintOrder(
     IconData(0xe00f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe00f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-down-dark` (duo-tone)
-  static const IconifyIconData backhandIndexPointingDownDark = IconifyIconData.duo(
+  /// `backhand-index-pointing-down-dark` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingDownDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1b5, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1b5, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-down-light` (duo-tone)
-  static const IconifyIconData backhandIndexPointingDownLight = IconifyIconData.duo(
+  /// `backhand-index-pointing-down-light` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingDownLight = IconifyIconData.duoPaintOrder(
     IconData(0xe010, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe010, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-down-medium` (duo-tone)
-  static const IconifyIconData backhandIndexPointingDownMedium = IconifyIconData.duo(
+  /// `backhand-index-pointing-down-medium` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingDownMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1b6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1b6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-down-medium-dark` (duo-tone)
-  static const IconifyIconData backhandIndexPointingDownMediumDark = IconifyIconData.duo(
+  /// `backhand-index-pointing-down-medium-dark` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingDownMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1b7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1b7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-down-medium-light` (duo-tone)
-  static const IconifyIconData backhandIndexPointingDownMediumLight = IconifyIconData.duo(
+  /// `backhand-index-pointing-down-medium-light` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingDownMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe011, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe011, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-left` (duo-tone)
-  static const IconifyIconData backhandIndexPointingLeft = IconifyIconData.duo(
+  /// `backhand-index-pointing-left` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingLeft = IconifyIconData.duoPaintOrder(
     IconData(0xe012, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe012, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-left-dark` (duo-tone)
-  static const IconifyIconData backhandIndexPointingLeftDark = IconifyIconData.duo(
+  /// `backhand-index-pointing-left-dark` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingLeftDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1b8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1b8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-left-light` (duo-tone)
-  static const IconifyIconData backhandIndexPointingLeftLight = IconifyIconData.duo(
+  /// `backhand-index-pointing-left-light` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingLeftLight = IconifyIconData.duoPaintOrder(
     IconData(0xe013, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe013, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-left-medium` (duo-tone)
-  static const IconifyIconData backhandIndexPointingLeftMedium = IconifyIconData.duo(
+  /// `backhand-index-pointing-left-medium` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingLeftMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1b9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1b9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-left-medium-dark` (duo-tone)
-  static const IconifyIconData backhandIndexPointingLeftMediumDark = IconifyIconData.duo(
+  /// `backhand-index-pointing-left-medium-dark` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingLeftMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1ba, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ba, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-left-medium-light` (duo-tone)
-  static const IconifyIconData backhandIndexPointingLeftMediumLight = IconifyIconData.duo(
+  /// `backhand-index-pointing-left-medium-light` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingLeftMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe014, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe014, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-right` (duo-tone)
-  static const IconifyIconData backhandIndexPointingRight = IconifyIconData.duo(
+  /// `backhand-index-pointing-right` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingRight = IconifyIconData.duoPaintOrder(
     IconData(0xe015, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe015, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-right-dark` (duo-tone)
-  static const IconifyIconData backhandIndexPointingRightDark = IconifyIconData.duo(
+  /// `backhand-index-pointing-right-dark` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingRightDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1bb, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1bb, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-right-light` (duo-tone)
-  static const IconifyIconData backhandIndexPointingRightLight = IconifyIconData.duo(
+  /// `backhand-index-pointing-right-light` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingRightLight = IconifyIconData.duoPaintOrder(
     IconData(0xe016, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe016, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-right-medium` (duo-tone)
-  static const IconifyIconData backhandIndexPointingRightMedium = IconifyIconData.duo(
+  /// `backhand-index-pointing-right-medium` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingRightMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1bc, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1bc, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-right-medium-dark` (duo-tone)
-  static const IconifyIconData backhandIndexPointingRightMediumDark = IconifyIconData.duo(
+  /// `backhand-index-pointing-right-medium-dark` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingRightMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1bd, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1bd, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-right-medium-light` (duo-tone)
-  static const IconifyIconData backhandIndexPointingRightMediumLight = IconifyIconData.duo(
+  /// `backhand-index-pointing-right-medium-light` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingRightMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe017, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe017, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-up` (duo-tone)
-  static const IconifyIconData backhandIndexPointingUp = IconifyIconData.duo(
+  /// `backhand-index-pointing-up` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingUp = IconifyIconData.duoPaintOrder(
     IconData(0xe018, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe018, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -223,26 +223,26 @@ class FluentEmojiFlatIcons {
     IconData(0xe27b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `backhand-index-pointing-up-medium-light` (duo-tone)
-  static const IconifyIconData backhandIndexPointingUpMediumLight = IconifyIconData.duo(
+  /// `backhand-index-pointing-up-medium-light` (paint-order duotone)
+  static const IconifyIconData backhandIndexPointingUpMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe01a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe01a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `bacon` (duo-tone)
-  static const IconifyIconData bacon = IconifyIconData.duo(
+  /// `bacon` (paint-order duotone)
+  static const IconifyIconData bacon = IconifyIconData.duoPaintOrder(
     IconData(0xe01b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe01b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `baggage-claim` (duo-tone)
-  static const IconifyIconData baggageClaim = IconifyIconData.duo(
+  /// `baggage-claim` (paint-order duotone)
+  static const IconifyIconData baggageClaim = IconifyIconData.duoPaintOrder(
     IconData(0xe01c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe01c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `baguette-bread` (duo-tone)
-  static const IconifyIconData baguetteBread = IconifyIconData.duo(
+  /// `baguette-bread` (paint-order duotone)
+  static const IconifyIconData baguetteBread = IconifyIconData.duoPaintOrder(
     IconData(0xe01d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe01d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -252,14 +252,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe27c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `basketball` (duo-tone)
-  static const IconifyIconData basketball = IconifyIconData.duo(
+  /// `basketball` (paint-order duotone)
+  static const IconifyIconData basketball = IconifyIconData.duoPaintOrder(
     IconData(0xe1be, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1be, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `beans` (duo-tone)
-  static const IconifyIconData beans = IconifyIconData.duo(
+  /// `beans` (paint-order duotone)
+  static const IconifyIconData beans = IconifyIconData.duoPaintOrder(
     IconData(0xe1bf, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1bf, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -279,8 +279,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe27e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `bikini` (duo-tone)
-  static const IconifyIconData bikini = IconifyIconData.duo(
+  /// `bikini` (paint-order duotone)
+  static const IconifyIconData bikini = IconifyIconData.duoPaintOrder(
     IconData(0xe023, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe023, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -290,8 +290,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe27f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `biohazard` (duo-tone)
-  static const IconifyIconData biohazard = IconifyIconData.duo(
+  /// `biohazard` (paint-order duotone)
+  static const IconifyIconData biohazard = IconifyIconData.duoPaintOrder(
     IconData(0xe024, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe024, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -301,8 +301,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe025, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `black-flag` (duo-tone)
-  static const IconifyIconData blackFlag = IconifyIconData.duo(
+  /// `black-flag` (paint-order duotone)
+  static const IconifyIconData blackFlag = IconifyIconData.duoPaintOrder(
     IconData(0xe026, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe026, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -327,8 +327,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe02a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `black-square-button` (duo-tone)
-  static const IconifyIconData blackSquareButton = IconifyIconData.duo(
+  /// `black-square-button` (paint-order duotone)
+  static const IconifyIconData blackSquareButton = IconifyIconData.duoPaintOrder(
     IconData(0xe02b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe02b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -353,20 +353,20 @@ class FluentEmojiFlatIcons {
     IconData(0xe281, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `brain` (duo-tone)
-  static const IconifyIconData brain = IconifyIconData.duo(
+  /// `brain` (paint-order duotone)
+  static const IconifyIconData brain = IconifyIconData.duoPaintOrder(
     IconData(0xe031, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe031, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `brick` (duo-tone)
-  static const IconifyIconData brick = IconifyIconData.duo(
+  /// `brick` (paint-order duotone)
+  static const IconifyIconData brick = IconifyIconData.duoPaintOrder(
     IconData(0xe1c0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `briefs` (duo-tone)
-  static const IconifyIconData briefs = IconifyIconData.duo(
+  /// `briefs` (paint-order duotone)
+  static const IconifyIconData briefs = IconifyIconData.duoPaintOrder(
     IconData(0xe032, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe032, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -376,8 +376,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe033, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `broccoli` (duo-tone)
-  static const IconifyIconData broccoli = IconifyIconData.duo(
+  /// `broccoli` (paint-order duotone)
+  static const IconifyIconData broccoli = IconifyIconData.duoPaintOrder(
     IconData(0xe1c1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -392,104 +392,104 @@ class FluentEmojiFlatIcons {
     IconData(0xe034, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `bust-in-silhouette` (duo-tone)
-  static const IconifyIconData bustInSilhouette = IconifyIconData.duo(
+  /// `bust-in-silhouette` (paint-order duotone)
+  static const IconifyIconData bustInSilhouette = IconifyIconData.duoPaintOrder(
     IconData(0xe1c2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `busts-in-silhouette` (duo-tone)
-  static const IconifyIconData bustsInSilhouette = IconifyIconData.duo(
+  /// `busts-in-silhouette` (paint-order duotone)
+  static const IconifyIconData bustsInSilhouette = IconifyIconData.duoPaintOrder(
     IconData(0xe1c3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `call-me-hand` (duo-tone)
-  static const IconifyIconData callMeHand = IconifyIconData.duo(
+  /// `call-me-hand` (paint-order duotone)
+  static const IconifyIconData callMeHand = IconifyIconData.duoPaintOrder(
     IconData(0xe037, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe037, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `call-me-hand-dark` (duo-tone)
-  static const IconifyIconData callMeHandDark = IconifyIconData.duo(
+  /// `call-me-hand-dark` (paint-order duotone)
+  static const IconifyIconData callMeHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1c4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `call-me-hand-light` (duo-tone)
-  static const IconifyIconData callMeHandLight = IconifyIconData.duo(
+  /// `call-me-hand-light` (paint-order duotone)
+  static const IconifyIconData callMeHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe038, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe038, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `call-me-hand-medium` (duo-tone)
-  static const IconifyIconData callMeHandMedium = IconifyIconData.duo(
+  /// `call-me-hand-medium` (paint-order duotone)
+  static const IconifyIconData callMeHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1c5, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c5, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `call-me-hand-medium-dark` (duo-tone)
-  static const IconifyIconData callMeHandMediumDark = IconifyIconData.duo(
+  /// `call-me-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData callMeHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1c6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `call-me-hand-medium-light` (duo-tone)
-  static const IconifyIconData callMeHandMediumLight = IconifyIconData.duo(
+  /// `call-me-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData callMeHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe039, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe039, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cancer` (duo-tone)
-  static const IconifyIconData cancer = IconifyIconData.duo(
+  /// `cancer` (paint-order duotone)
+  static const IconifyIconData cancer = IconifyIconData.duoPaintOrder(
     IconData(0xe03a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe03a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `candy` (duo-tone)
-  static const IconifyIconData candy = IconifyIconData.duo(
+  /// `candy` (paint-order duotone)
+  static const IconifyIconData candy = IconifyIconData.duoPaintOrder(
     IconData(0xe1c7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `capricorn` (duo-tone)
-  static const IconifyIconData capricorn = IconifyIconData.duo(
+  /// `capricorn` (paint-order duotone)
+  static const IconifyIconData capricorn = IconifyIconData.duoPaintOrder(
     IconData(0xe03c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe03c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `carpentry-saw` (duo-tone)
-  static const IconifyIconData carpentrySaw = IconifyIconData.duo(
+  /// `carpentry-saw` (paint-order duotone)
+  static const IconifyIconData carpentrySaw = IconifyIconData.duoPaintOrder(
     IconData(0xe1c8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `chains` (duo-tone)
-  static const IconifyIconData chains = IconifyIconData.duo(
+  /// `chains` (paint-order duotone)
+  static const IconifyIconData chains = IconifyIconData.duoPaintOrder(
     IconData(0xe03d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe03d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `chart-increasing-with-yen` (duo-tone)
-  static const IconifyIconData chartIncreasingWithYen = IconifyIconData.duo(
+  /// `chart-increasing-with-yen` (paint-order duotone)
+  static const IconifyIconData chartIncreasingWithYen = IconifyIconData.duoPaintOrder(
     IconData(0xe03e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe03e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `check-box-with-check` (duo-tone)
-  static const IconifyIconData checkBoxWithCheck = IconifyIconData.duo(
+  /// `check-box-with-check` (paint-order duotone)
+  static const IconifyIconData checkBoxWithCheck = IconifyIconData.duoPaintOrder(
     IconData(0xe1c9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1c9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `check-mark-button` (duo-tone)
-  static const IconifyIconData checkMarkButton = IconifyIconData.duo(
+  /// `check-mark-button` (paint-order duotone)
+  static const IconifyIconData checkMarkButton = IconifyIconData.duoPaintOrder(
     IconData(0xe03f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe03f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cheese-wedge` (duo-tone)
-  static const IconifyIconData cheeseWedge = IconifyIconData.duo(
+  /// `cheese-wedge` (paint-order duotone)
+  static const IconifyIconData cheeseWedge = IconifyIconData.duoPaintOrder(
     IconData(0xe040, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe040, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -499,50 +499,50 @@ class FluentEmojiFlatIcons {
     IconData(0xe041, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cherries` (duo-tone)
-  static const IconifyIconData cherries = IconifyIconData.duo(
+  /// `cherries` (paint-order duotone)
+  static const IconifyIconData cherries = IconifyIconData.duoPaintOrder(
     IconData(0xe1ca, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ca, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cherry-blossom` (duo-tone)
-  static const IconifyIconData cherryBlossom = IconifyIconData.duo(
+  /// `cherry-blossom` (paint-order duotone)
+  static const IconifyIconData cherryBlossom = IconifyIconData.duoPaintOrder(
     IconData(0xe042, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe042, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `chestnut` (duo-tone)
-  static const IconifyIconData chestnut = IconifyIconData.duo(
+  /// `chestnut` (paint-order duotone)
+  static const IconifyIconData chestnut = IconifyIconData.duoPaintOrder(
     IconData(0xe1cb, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1cb, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `children-crossing` (duo-tone)
-  static const IconifyIconData childrenCrossing = IconifyIconData.duo(
+  /// `children-crossing` (paint-order duotone)
+  static const IconifyIconData childrenCrossing = IconifyIconData.duoPaintOrder(
     IconData(0xe043, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe043, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `chopsticks` (duo-tone)
-  static const IconifyIconData chopsticks = IconifyIconData.duo(
+  /// `chopsticks` (paint-order duotone)
+  static const IconifyIconData chopsticks = IconifyIconData.duoPaintOrder(
     IconData(0xe1cc, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1cc, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cinema` (duo-tone)
-  static const IconifyIconData cinema = IconifyIconData.duo(
+  /// `cinema` (paint-order duotone)
+  static const IconifyIconData cinema = IconifyIconData.duoPaintOrder(
     IconData(0xe044, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe044, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `circled-m` (duo-tone)
-  static const IconifyIconData circledM = IconifyIconData.duo(
+  /// `circled-m` (paint-order duotone)
+  static const IconifyIconData circledM = IconifyIconData.duoPaintOrder(
     IconData(0xe1cd, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1cd, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cl-button` (duo-tone)
-  static const IconifyIconData clButton = IconifyIconData.duo(
+  /// `cl-button` (paint-order duotone)
+  static const IconifyIconData clButton = IconifyIconData.duoPaintOrder(
     IconData(0xe045, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe045, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -552,8 +552,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe283, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `clockwise-vertical-arrows` (duo-tone)
-  static const IconifyIconData clockwiseVerticalArrows = IconifyIconData.duo(
+  /// `clockwise-vertical-arrows` (paint-order duotone)
+  static const IconifyIconData clockwiseVerticalArrows = IconifyIconData.duoPaintOrder(
     IconData(0xe047, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe047, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -563,20 +563,20 @@ class FluentEmojiFlatIcons {
     IconData(0xe284, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cloud` (duo-tone)
-  static const IconifyIconData cloud = IconifyIconData.duo(
+  /// `cloud` (paint-order duotone)
+  static const IconifyIconData cloud = IconifyIconData.duoPaintOrder(
     IconData(0xe048, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe048, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cloud-with-lightning` (duo-tone)
-  static const IconifyIconData cloudWithLightning = IconifyIconData.duo(
+  /// `cloud-with-lightning` (paint-order duotone)
+  static const IconifyIconData cloudWithLightning = IconifyIconData.duoPaintOrder(
     IconData(0xe1ce, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ce, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cockroach` (duo-tone)
-  static const IconifyIconData cockroach = IconifyIconData.duo(
+  /// `cockroach` (paint-order duotone)
+  static const IconifyIconData cockroach = IconifyIconData.duoPaintOrder(
     IconData(0xe1cf, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1cf, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -587,26 +587,26 @@ class FluentEmojiFlatIcons {
     IconData(0xe04c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `collision` (duo-tone)
-  static const IconifyIconData collision = IconifyIconData.duo(
+  /// `collision` (paint-order duotone)
+  static const IconifyIconData collision = IconifyIconData.duoPaintOrder(
     IconData(0xe1d0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `comet` (duo-tone)
-  static const IconifyIconData comet = IconifyIconData.duo(
+  /// `comet` (paint-order duotone)
+  static const IconifyIconData comet = IconifyIconData.duoPaintOrder(
     IconData(0xe1d1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `computer-mouse` (duo-tone)
-  static const IconifyIconData computerMouse = IconifyIconData.duo(
+  /// `computer-mouse` (paint-order duotone)
+  static const IconifyIconData computerMouse = IconifyIconData.duoPaintOrder(
     IconData(0xe1d2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `confounded-face` (duo-tone)
-  static const IconifyIconData confoundedFace = IconifyIconData.duo(
+  /// `confounded-face` (paint-order duotone)
+  static const IconifyIconData confoundedFace = IconifyIconData.duoPaintOrder(
     IconData(0xe1d3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -616,26 +616,26 @@ class FluentEmojiFlatIcons {
     IconData(0xe285, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cookie` (duo-tone)
-  static const IconifyIconData cookie = IconifyIconData.duo(
+  /// `cookie` (paint-order duotone)
+  static const IconifyIconData cookie = IconifyIconData.duoPaintOrder(
     IconData(0xe1d4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cool-button` (duo-tone)
-  static const IconifyIconData coolButton = IconifyIconData.duo(
+  /// `cool-button` (paint-order duotone)
+  static const IconifyIconData coolButton = IconifyIconData.duoPaintOrder(
     IconData(0xe04d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe04d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `counterclockwise-arrows-button` (duo-tone)
-  static const IconifyIconData counterclockwiseArrowsButton = IconifyIconData.duo(
+  /// `counterclockwise-arrows-button` (paint-order duotone)
+  static const IconifyIconData counterclockwiseArrowsButton = IconifyIconData.duoPaintOrder(
     IconData(0xe04e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe04e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `crescent-moon` (duo-tone)
-  static const IconifyIconData crescentMoon = IconifyIconData.duo(
+  /// `crescent-moon` (paint-order duotone)
+  static const IconifyIconData crescentMoon = IconifyIconData.duoPaintOrder(
     IconData(0xe04f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe04f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -645,44 +645,44 @@ class FluentEmojiFlatIcons {
     IconData(0xe050, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cross-mark-button` (duo-tone)
-  static const IconifyIconData crossMarkButton = IconifyIconData.duo(
+  /// `cross-mark-button` (paint-order duotone)
+  static const IconifyIconData crossMarkButton = IconifyIconData.duoPaintOrder(
     IconData(0xe051, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe051, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `crossed-fingers` (duo-tone)
-  static const IconifyIconData crossedFingers = IconifyIconData.duo(
+  /// `crossed-fingers` (paint-order duotone)
+  static const IconifyIconData crossedFingers = IconifyIconData.duoPaintOrder(
     IconData(0xe052, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe052, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `crossed-fingers-dark` (duo-tone)
-  static const IconifyIconData crossedFingersDark = IconifyIconData.duo(
+  /// `crossed-fingers-dark` (paint-order duotone)
+  static const IconifyIconData crossedFingersDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1d5, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d5, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `crossed-fingers-light` (duo-tone)
-  static const IconifyIconData crossedFingersLight = IconifyIconData.duo(
+  /// `crossed-fingers-light` (paint-order duotone)
+  static const IconifyIconData crossedFingersLight = IconifyIconData.duoPaintOrder(
     IconData(0xe053, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe053, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `crossed-fingers-medium` (duo-tone)
-  static const IconifyIconData crossedFingersMedium = IconifyIconData.duo(
+  /// `crossed-fingers-medium` (paint-order duotone)
+  static const IconifyIconData crossedFingersMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1d6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `crossed-fingers-medium-dark` (duo-tone)
-  static const IconifyIconData crossedFingersMediumDark = IconifyIconData.duo(
+  /// `crossed-fingers-medium-dark` (paint-order duotone)
+  static const IconifyIconData crossedFingersMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1d7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `crossed-fingers-medium-light` (duo-tone)
-  static const IconifyIconData crossedFingersMediumLight = IconifyIconData.duo(
+  /// `crossed-fingers-medium-light` (paint-order duotone)
+  static const IconifyIconData crossedFingersMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe054, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe054, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -692,20 +692,20 @@ class FluentEmojiFlatIcons {
     IconData(0xe286, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `cucumber` (duo-tone)
-  static const IconifyIconData cucumber = IconifyIconData.duo(
+  /// `cucumber` (paint-order duotone)
+  static const IconifyIconData cucumber = IconifyIconData.duoPaintOrder(
     IconData(0xe1d8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `currency-exchange` (duo-tone)
-  static const IconifyIconData currencyExchange = IconifyIconData.duo(
+  /// `currency-exchange` (paint-order duotone)
+  static const IconifyIconData currencyExchange = IconifyIconData.duoPaintOrder(
     IconData(0xe1d9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1d9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `customs` (duo-tone)
-  static const IconifyIconData customs = IconifyIconData.duo(
+  /// `customs` (paint-order duotone)
+  static const IconifyIconData customs = IconifyIconData.duoPaintOrder(
     IconData(0xe055, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe055, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -715,14 +715,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe287, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `deciduous-tree` (duo-tone)
-  static const IconifyIconData deciduousTree = IconifyIconData.duo(
+  /// `deciduous-tree` (paint-order duotone)
+  static const IconifyIconData deciduousTree = IconifyIconData.duoPaintOrder(
     IconData(0xe1da, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1da, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `diamond-with-a-dot` (duo-tone)
-  static const IconifyIconData diamondWithADot = IconifyIconData.duo(
+  /// `diamond-with-a-dot` (paint-order duotone)
+  static const IconifyIconData diamondWithADot = IconifyIconData.duoPaintOrder(
     IconData(0xe056, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe056, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -732,14 +732,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe057, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `disappointed-face` (duo-tone)
-  static const IconifyIconData disappointedFace = IconifyIconData.duo(
+  /// `disappointed-face` (paint-order duotone)
+  static const IconifyIconData disappointedFace = IconifyIconData.duoPaintOrder(
     IconData(0xe1db, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1db, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `dizzy` (duo-tone)
-  static const IconifyIconData dizzy = IconifyIconData.duo(
+  /// `dizzy` (paint-order duotone)
+  static const IconifyIconData dizzy = IconifyIconData.duoPaintOrder(
     IconData(0xe058, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe058, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -749,38 +749,38 @@ class FluentEmojiFlatIcons {
     IconData(0xe288, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `dotted-six-pointed-star` (duo-tone)
-  static const IconifyIconData dottedSixPointedStar = IconifyIconData.duo(
+  /// `dotted-six-pointed-star` (paint-order duotone)
+  static const IconifyIconData dottedSixPointedStar = IconifyIconData.duoPaintOrder(
     IconData(0xe05a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe05a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `down-arrow` (duo-tone)
-  static const IconifyIconData downArrow = IconifyIconData.duo(
+  /// `down-arrow` (paint-order duotone)
+  static const IconifyIconData downArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe05b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe05b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `down-left-arrow` (duo-tone)
-  static const IconifyIconData downLeftArrow = IconifyIconData.duo(
+  /// `down-left-arrow` (paint-order duotone)
+  static const IconifyIconData downLeftArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe05c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe05c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `down-right-arrow` (duo-tone)
-  static const IconifyIconData downRightArrow = IconifyIconData.duo(
+  /// `down-right-arrow` (paint-order duotone)
+  static const IconifyIconData downRightArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe05d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe05d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `downwards-button` (duo-tone)
-  static const IconifyIconData downwardsButton = IconifyIconData.duo(
+  /// `downwards-button` (paint-order duotone)
+  static const IconifyIconData downwardsButton = IconifyIconData.duoPaintOrder(
     IconData(0xe05e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe05e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `dress` (duo-tone)
-  static const IconifyIconData dress = IconifyIconData.duo(
+  /// `dress` (paint-order duotone)
+  static const IconifyIconData dress = IconifyIconData.duoPaintOrder(
     IconData(0xe1dc, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1dc, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -790,38 +790,38 @@ class FluentEmojiFlatIcons {
     IconData(0xe05f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ear` (duo-tone)
-  static const IconifyIconData ear = IconifyIconData.duo(
+  /// `ear` (paint-order duotone)
+  static const IconifyIconData ear = IconifyIconData.duoPaintOrder(
     IconData(0xe1dd, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1dd, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ear-dark` (duo-tone)
-  static const IconifyIconData earDark = IconifyIconData.duo(
+  /// `ear-dark` (paint-order duotone)
+  static const IconifyIconData earDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1de, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1de, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ear-light` (duo-tone)
-  static const IconifyIconData earLight = IconifyIconData.duo(
+  /// `ear-light` (paint-order duotone)
+  static const IconifyIconData earLight = IconifyIconData.duoPaintOrder(
     IconData(0xe1df, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1df, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ear-medium` (duo-tone)
-  static const IconifyIconData earMedium = IconifyIconData.duo(
+  /// `ear-medium` (paint-order duotone)
+  static const IconifyIconData earMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1e0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ear-medium-dark` (duo-tone)
-  static const IconifyIconData earMediumDark = IconifyIconData.duo(
+  /// `ear-medium-dark` (paint-order duotone)
+  static const IconifyIconData earMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1e1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ear-medium-light` (duo-tone)
-  static const IconifyIconData earMediumLight = IconifyIconData.duo(
+  /// `ear-medium-light` (paint-order duotone)
+  static const IconifyIconData earMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe1e2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -831,20 +831,20 @@ class FluentEmojiFlatIcons {
     IconData(0xe065, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `eight-pointed-star` (duo-tone)
-  static const IconifyIconData eightPointedStar = IconifyIconData.duo(
+  /// `eight-pointed-star` (paint-order duotone)
+  static const IconifyIconData eightPointedStar = IconifyIconData.duoPaintOrder(
     IconData(0xe067, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe067, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `eight-spoked-asterisk` (duo-tone)
-  static const IconifyIconData eightSpokedAsterisk = IconifyIconData.duo(
+  /// `eight-spoked-asterisk` (paint-order duotone)
+  static const IconifyIconData eightSpokedAsterisk = IconifyIconData.duoPaintOrder(
     IconData(0xe068, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe068, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `eject-button` (duo-tone)
-  static const IconifyIconData ejectButton = IconifyIconData.duo(
+  /// `eject-button` (paint-order duotone)
+  static const IconifyIconData ejectButton = IconifyIconData.duoPaintOrder(
     IconData(0xe069, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe069, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -859,122 +859,122 @@ class FluentEmojiFlatIcons {
     IconData(0xe289, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `evergreen-tree` (duo-tone)
-  static const IconifyIconData evergreenTree = IconifyIconData.duo(
+  /// `evergreen-tree` (paint-order duotone)
+  static const IconifyIconData evergreenTree = IconifyIconData.duoPaintOrder(
     IconData(0xe1e3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `expressionless-face` (duo-tone)
-  static const IconifyIconData expressionlessFace = IconifyIconData.duo(
+  /// `expressionless-face` (paint-order duotone)
+  static const IconifyIconData expressionlessFace = IconifyIconData.duoPaintOrder(
     IconData(0xe1e4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `eye-in-speech-bubble` (duo-tone)
-  static const IconifyIconData eyeInSpeechBubble = IconifyIconData.duo(
+  /// `eye-in-speech-bubble` (paint-order duotone)
+  static const IconifyIconData eyeInSpeechBubble = IconifyIconData.duoPaintOrder(
     IconData(0xe1e5, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e5, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `face-with-spiral-eyes` (duo-tone)
-  static const IconifyIconData faceWithSpiralEyes = IconifyIconData.duo(
+  /// `face-with-spiral-eyes` (paint-order duotone)
+  static const IconifyIconData faceWithSpiralEyes = IconifyIconData.duoPaintOrder(
     IconData(0xe1e6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `fast-down-button` (duo-tone)
-  static const IconifyIconData fastDownButton = IconifyIconData.duo(
+  /// `fast-down-button` (paint-order duotone)
+  static const IconifyIconData fastDownButton = IconifyIconData.duoPaintOrder(
     IconData(0xe06b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe06b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `fast-forward-button` (duo-tone)
-  static const IconifyIconData fastForwardButton = IconifyIconData.duo(
+  /// `fast-forward-button` (paint-order duotone)
+  static const IconifyIconData fastForwardButton = IconifyIconData.duoPaintOrder(
     IconData(0xe06c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe06c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `fast-reverse-button` (duo-tone)
-  static const IconifyIconData fastReverseButton = IconifyIconData.duo(
+  /// `fast-reverse-button` (paint-order duotone)
+  static const IconifyIconData fastReverseButton = IconifyIconData.duoPaintOrder(
     IconData(0xe06d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe06d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `fast-up-button` (duo-tone)
-  static const IconifyIconData fastUpButton = IconifyIconData.duo(
+  /// `fast-up-button` (paint-order duotone)
+  static const IconifyIconData fastUpButton = IconifyIconData.duoPaintOrder(
     IconData(0xe06e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe06e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `female-sign` (duo-tone)
-  static const IconifyIconData femaleSign = IconifyIconData.duo(
+  /// `female-sign` (paint-order duotone)
+  static const IconifyIconData femaleSign = IconifyIconData.duoPaintOrder(
     IconData(0xe06f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe06f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `file-folder` (duo-tone)
-  static const IconifyIconData fileFolder = IconifyIconData.duo(
+  /// `file-folder` (paint-order duotone)
+  static const IconifyIconData fileFolder = IconifyIconData.duoPaintOrder(
     IconData(0xe070, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe070, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `film-frames` (duo-tone)
-  static const IconifyIconData filmFrames = IconifyIconData.duo(
+  /// `film-frames` (paint-order duotone)
+  static const IconifyIconData filmFrames = IconifyIconData.duoPaintOrder(
     IconData(0xe1e7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `fire` (duo-tone)
-  static const IconifyIconData fire = IconifyIconData.duo(
+  /// `fire` (paint-order duotone)
+  static const IconifyIconData fire = IconifyIconData.duoPaintOrder(
     IconData(0xe1e8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `flat-shoe` (duo-tone)
-  static const IconifyIconData flatShoe = IconifyIconData.duo(
+  /// `flat-shoe` (paint-order duotone)
+  static const IconifyIconData flatShoe = IconifyIconData.duoPaintOrder(
     IconData(0xe072, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe072, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `flatbread` (duo-tone)
-  static const IconifyIconData flatbread = IconifyIconData.duo(
+  /// `flatbread` (paint-order duotone)
+  static const IconifyIconData flatbread = IconifyIconData.duoPaintOrder(
     IconData(0xe1e9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1e9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `flexed-biceps` (duo-tone)
-  static const IconifyIconData flexedBiceps = IconifyIconData.duo(
+  /// `flexed-biceps` (paint-order duotone)
+  static const IconifyIconData flexedBiceps = IconifyIconData.duoPaintOrder(
     IconData(0xe073, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe073, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `flexed-biceps-dark` (duo-tone)
-  static const IconifyIconData flexedBicepsDark = IconifyIconData.duo(
+  /// `flexed-biceps-dark` (paint-order duotone)
+  static const IconifyIconData flexedBicepsDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1ea, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ea, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `flexed-biceps-light` (duo-tone)
-  static const IconifyIconData flexedBicepsLight = IconifyIconData.duo(
+  /// `flexed-biceps-light` (paint-order duotone)
+  static const IconifyIconData flexedBicepsLight = IconifyIconData.duoPaintOrder(
     IconData(0xe074, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe074, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `flexed-biceps-medium` (duo-tone)
-  static const IconifyIconData flexedBicepsMedium = IconifyIconData.duo(
+  /// `flexed-biceps-medium` (paint-order duotone)
+  static const IconifyIconData flexedBicepsMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1eb, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1eb, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `flexed-biceps-medium-dark` (duo-tone)
-  static const IconifyIconData flexedBicepsMediumDark = IconifyIconData.duo(
+  /// `flexed-biceps-medium-dark` (paint-order duotone)
+  static const IconifyIconData flexedBicepsMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1ec, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ec, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `flexed-biceps-medium-light` (duo-tone)
-  static const IconifyIconData flexedBicepsMediumLight = IconifyIconData.duo(
+  /// `flexed-biceps-medium-light` (paint-order duotone)
+  static const IconifyIconData flexedBicepsMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe075, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe075, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1014,56 +1014,56 @@ class FluentEmojiFlatIcons {
     IconData(0xe07a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `fountain` (duo-tone)
-  static const IconifyIconData fountain = IconifyIconData.duo(
+  /// `fountain` (paint-order duotone)
+  static const IconifyIconData fountain = IconifyIconData.duoPaintOrder(
     IconData(0xe07b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe07b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `four-leaf-clover` (duo-tone)
-  static const IconifyIconData fourLeafClover = IconifyIconData.duo(
+  /// `four-leaf-clover` (paint-order duotone)
+  static const IconifyIconData fourLeafClover = IconifyIconData.duoPaintOrder(
     IconData(0xe1ed, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ed, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `free-button` (duo-tone)
-  static const IconifyIconData freeButton = IconifyIconData.duo(
+  /// `free-button` (paint-order duotone)
+  static const IconifyIconData freeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe07c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe07c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `full-moon` (duo-tone)
-  static const IconifyIconData fullMoon = IconifyIconData.duo(
+  /// `full-moon` (paint-order duotone)
+  static const IconifyIconData fullMoon = IconifyIconData.duoPaintOrder(
     IconData(0xe07d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe07d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `garlic` (duo-tone)
-  static const IconifyIconData garlic = IconifyIconData.duo(
+  /// `garlic` (paint-order duotone)
+  static const IconifyIconData garlic = IconifyIconData.duoPaintOrder(
     IconData(0xe07e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe07e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `gemini` (duo-tone)
-  static const IconifyIconData gemini = IconifyIconData.duo(
+  /// `gemini` (paint-order duotone)
+  static const IconifyIconData gemini = IconifyIconData.duoPaintOrder(
     IconData(0xe080, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe080, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `globe-showing-americas` (duo-tone)
-  static const IconifyIconData globeShowingAmericas = IconifyIconData.duo(
+  /// `globe-showing-americas` (paint-order duotone)
+  static const IconifyIconData globeShowingAmericas = IconifyIconData.duoPaintOrder(
     IconData(0xe082, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe082, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `globe-showing-asia-australia` (duo-tone)
-  static const IconifyIconData globeShowingAsiaAustralia = IconifyIconData.duo(
+  /// `globe-showing-asia-australia` (paint-order duotone)
+  static const IconifyIconData globeShowingAsiaAustralia = IconifyIconData.duoPaintOrder(
     IconData(0xe083, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe083, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `globe-showing-europe-africa` (duo-tone)
-  static const IconifyIconData globeShowingEuropeAfrica = IconifyIconData.duo(
+  /// `globe-showing-europe-africa` (paint-order duotone)
+  static const IconifyIconData globeShowingEuropeAfrica = IconifyIconData.duoPaintOrder(
     IconData(0xe084, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe084, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1078,14 +1078,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe086, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `goal-net` (duo-tone)
-  static const IconifyIconData goalNet = IconifyIconData.duo(
+  /// `goal-net` (paint-order duotone)
+  static const IconifyIconData goalNet = IconifyIconData.duoPaintOrder(
     IconData(0xe1ee, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ee, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `green-apple` (duo-tone)
-  static const IconifyIconData greenApple = IconifyIconData.duo(
+  /// `green-apple` (paint-order duotone)
+  static const IconifyIconData greenApple = IconifyIconData.duoPaintOrder(
     IconData(0xe087, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe087, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1100,8 +1100,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe089, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hair-pick` (duo-tone)
-  static const IconifyIconData hairPick = IconifyIconData.duo(
+  /// `hair-pick` (paint-order duotone)
+  static const IconifyIconData hairPick = IconifyIconData.duoPaintOrder(
     IconData(0xe1ef, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ef, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1111,80 +1111,80 @@ class FluentEmojiFlatIcons {
     IconData(0xe28f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-fingers-splayed` (duo-tone)
-  static const IconifyIconData handWithFingersSplayed = IconifyIconData.duo(
+  /// `hand-with-fingers-splayed` (paint-order duotone)
+  static const IconifyIconData handWithFingersSplayed = IconifyIconData.duoPaintOrder(
     IconData(0xe08b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe08b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-fingers-splayed-dark` (duo-tone)
-  static const IconifyIconData handWithFingersSplayedDark = IconifyIconData.duo(
+  /// `hand-with-fingers-splayed-dark` (paint-order duotone)
+  static const IconifyIconData handWithFingersSplayedDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1f0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-fingers-splayed-light` (duo-tone)
-  static const IconifyIconData handWithFingersSplayedLight = IconifyIconData.duo(
+  /// `hand-with-fingers-splayed-light` (paint-order duotone)
+  static const IconifyIconData handWithFingersSplayedLight = IconifyIconData.duoPaintOrder(
     IconData(0xe08c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe08c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-fingers-splayed-medium` (duo-tone)
-  static const IconifyIconData handWithFingersSplayedMedium = IconifyIconData.duo(
+  /// `hand-with-fingers-splayed-medium` (paint-order duotone)
+  static const IconifyIconData handWithFingersSplayedMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1f1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-fingers-splayed-medium-dark` (duo-tone)
-  static const IconifyIconData handWithFingersSplayedMediumDark = IconifyIconData.duo(
+  /// `hand-with-fingers-splayed-medium-dark` (paint-order duotone)
+  static const IconifyIconData handWithFingersSplayedMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1f2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-fingers-splayed-medium-light` (duo-tone)
-  static const IconifyIconData handWithFingersSplayedMediumLight = IconifyIconData.duo(
+  /// `hand-with-fingers-splayed-medium-light` (paint-order duotone)
+  static const IconifyIconData handWithFingersSplayedMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe08d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe08d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-index-finger-and-thumb-crossed` (duo-tone)
-  static const IconifyIconData handWithIndexFingerAndThumbCrossed = IconifyIconData.duo(
+  /// `hand-with-index-finger-and-thumb-crossed` (paint-order duotone)
+  static const IconifyIconData handWithIndexFingerAndThumbCrossed = IconifyIconData.duoPaintOrder(
     IconData(0xe08e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe08e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-index-finger-and-thumb-crossed-dark` (duo-tone)
-  static const IconifyIconData handWithIndexFingerAndThumbCrossedDark = IconifyIconData.duo(
+  /// `hand-with-index-finger-and-thumb-crossed-dark` (paint-order duotone)
+  static const IconifyIconData handWithIndexFingerAndThumbCrossedDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1f3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-index-finger-and-thumb-crossed-light` (duo-tone)
-  static const IconifyIconData handWithIndexFingerAndThumbCrossedLight = IconifyIconData.duo(
+  /// `hand-with-index-finger-and-thumb-crossed-light` (paint-order duotone)
+  static const IconifyIconData handWithIndexFingerAndThumbCrossedLight = IconifyIconData.duoPaintOrder(
     IconData(0xe08f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe08f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-index-finger-and-thumb-crossed-medium` (duo-tone)
-  static const IconifyIconData handWithIndexFingerAndThumbCrossedMedium = IconifyIconData.duo(
+  /// `hand-with-index-finger-and-thumb-crossed-medium` (paint-order duotone)
+  static const IconifyIconData handWithIndexFingerAndThumbCrossedMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1f4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-index-finger-and-thumb-crossed-medium-dark` (duo-tone)
-  static const IconifyIconData handWithIndexFingerAndThumbCrossedMediumDark = IconifyIconData.duo(
+  /// `hand-with-index-finger-and-thumb-crossed-medium-dark` (paint-order duotone)
+  static const IconifyIconData handWithIndexFingerAndThumbCrossedMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1f5, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f5, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hand-with-index-finger-and-thumb-crossed-medium-light` (duo-tone)
-  static const IconifyIconData handWithIndexFingerAndThumbCrossedMediumLight = IconifyIconData.duo(
+  /// `hand-with-index-finger-and-thumb-crossed-medium-light` (paint-order duotone)
+  static const IconifyIconData handWithIndexFingerAndThumbCrossedMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe090, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe090, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `handbag` (duo-tone)
-  static const IconifyIconData handbag = IconifyIconData.duo(
+  /// `handbag` (paint-order duotone)
+  static const IconifyIconData handbag = IconifyIconData.duoPaintOrder(
     IconData(0xe1f6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1199,14 +1199,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe291, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `headphone` (duo-tone)
-  static const IconifyIconData headphone = IconifyIconData.duo(
+  /// `headphone` (paint-order duotone)
+  static const IconifyIconData headphone = IconifyIconData.duoPaintOrder(
     IconData(0xe1f7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `heart-decoration` (duo-tone)
-  static const IconifyIconData heartDecoration = IconifyIconData.duo(
+  /// `heart-decoration` (paint-order duotone)
+  static const IconifyIconData heartDecoration = IconifyIconData.duoPaintOrder(
     IconData(0xe092, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe092, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1236,8 +1236,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe096, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `heart-on-fire` (duo-tone)
-  static const IconifyIconData heartOnFire = IconifyIconData.duo(
+  /// `heart-on-fire` (paint-order duotone)
+  static const IconifyIconData heartOnFire = IconifyIconData.duoPaintOrder(
     IconData(0xe097, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe097, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1247,20 +1247,20 @@ class FluentEmojiFlatIcons {
     IconData(0xe098, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `herb` (duo-tone)
-  static const IconifyIconData herb = IconifyIconData.duo(
+  /// `herb` (paint-order duotone)
+  static const IconifyIconData herb = IconifyIconData.duoPaintOrder(
     IconData(0xe1f8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hiking-boot` (duo-tone)
-  static const IconifyIconData hikingBoot = IconifyIconData.duo(
+  /// `hiking-boot` (paint-order duotone)
+  static const IconifyIconData hikingBoot = IconifyIconData.duoPaintOrder(
     IconData(0xe1f9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1f9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hole` (duo-tone)
-  static const IconifyIconData hole = IconifyIconData.duo(
+  /// `hole` (paint-order duotone)
+  static const IconifyIconData hole = IconifyIconData.duoPaintOrder(
     IconData(0xe1fa, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1fa, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1275,8 +1275,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe09a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `hot-pepper` (duo-tone)
-  static const IconifyIconData hotPepper = IconifyIconData.duo(
+  /// `hot-pepper` (paint-order duotone)
+  static const IconifyIconData hotPepper = IconifyIconData.duoPaintOrder(
     IconData(0xe1fb, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1fb, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1286,80 +1286,80 @@ class FluentEmojiFlatIcons {
     IconData(0xe293, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `id-button` (duo-tone)
-  static const IconifyIconData idButton = IconifyIconData.duo(
+  /// `id-button` (paint-order duotone)
+  static const IconifyIconData idButton = IconifyIconData.duoPaintOrder(
     IconData(0xe09e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe09e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-at-the-viewer` (duo-tone)
-  static const IconifyIconData indexPointingAtTheViewer = IconifyIconData.duo(
+  /// `index-pointing-at-the-viewer` (paint-order duotone)
+  static const IconifyIconData indexPointingAtTheViewer = IconifyIconData.duoPaintOrder(
     IconData(0xe09f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe09f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-at-the-viewer-dark` (duo-tone)
-  static const IconifyIconData indexPointingAtTheViewerDark = IconifyIconData.duo(
+  /// `index-pointing-at-the-viewer-dark` (paint-order duotone)
+  static const IconifyIconData indexPointingAtTheViewerDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1fc, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1fc, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-at-the-viewer-light` (duo-tone)
-  static const IconifyIconData indexPointingAtTheViewerLight = IconifyIconData.duo(
+  /// `index-pointing-at-the-viewer-light` (paint-order duotone)
+  static const IconifyIconData indexPointingAtTheViewerLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0a0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0a0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-at-the-viewer-medium` (duo-tone)
-  static const IconifyIconData indexPointingAtTheViewerMedium = IconifyIconData.duo(
+  /// `index-pointing-at-the-viewer-medium` (paint-order duotone)
+  static const IconifyIconData indexPointingAtTheViewerMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe1fd, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1fd, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-at-the-viewer-medium-dark` (duo-tone)
-  static const IconifyIconData indexPointingAtTheViewerMediumDark = IconifyIconData.duo(
+  /// `index-pointing-at-the-viewer-medium-dark` (paint-order duotone)
+  static const IconifyIconData indexPointingAtTheViewerMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1fe, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1fe, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-at-the-viewer-medium-light` (duo-tone)
-  static const IconifyIconData indexPointingAtTheViewerMediumLight = IconifyIconData.duo(
+  /// `index-pointing-at-the-viewer-medium-light` (paint-order duotone)
+  static const IconifyIconData indexPointingAtTheViewerMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0a1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0a1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-up` (duo-tone)
-  static const IconifyIconData indexPointingUp = IconifyIconData.duo(
+  /// `index-pointing-up` (paint-order duotone)
+  static const IconifyIconData indexPointingUp = IconifyIconData.duoPaintOrder(
     IconData(0xe0a2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0a2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-up-dark` (duo-tone)
-  static const IconifyIconData indexPointingUpDark = IconifyIconData.duo(
+  /// `index-pointing-up-dark` (paint-order duotone)
+  static const IconifyIconData indexPointingUpDark = IconifyIconData.duoPaintOrder(
     IconData(0xe1ff, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ff, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-up-light` (duo-tone)
-  static const IconifyIconData indexPointingUpLight = IconifyIconData.duo(
+  /// `index-pointing-up-light` (paint-order duotone)
+  static const IconifyIconData indexPointingUpLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0a3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0a3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-up-medium` (duo-tone)
-  static const IconifyIconData indexPointingUpMedium = IconifyIconData.duo(
+  /// `index-pointing-up-medium` (paint-order duotone)
+  static const IconifyIconData indexPointingUpMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe200, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe200, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-up-medium-dark` (duo-tone)
-  static const IconifyIconData indexPointingUpMediumDark = IconifyIconData.duo(
+  /// `index-pointing-up-medium-dark` (paint-order duotone)
+  static const IconifyIconData indexPointingUpMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe201, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe201, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `index-pointing-up-medium-light` (duo-tone)
-  static const IconifyIconData indexPointingUpMediumLight = IconifyIconData.duo(
+  /// `index-pointing-up-medium-light` (paint-order duotone)
+  static const IconifyIconData indexPointingUpMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0a4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0a4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1369,116 +1369,116 @@ class FluentEmojiFlatIcons {
     IconData(0xe0a5, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `information` (duo-tone)
-  static const IconifyIconData information = IconifyIconData.duo(
+  /// `information` (paint-order duotone)
+  static const IconifyIconData information = IconifyIconData.duoPaintOrder(
     IconData(0xe0a6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0a6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `input-latin-letters` (duo-tone)
-  static const IconifyIconData inputLatinLetters = IconifyIconData.duo(
+  /// `input-latin-letters` (paint-order duotone)
+  static const IconifyIconData inputLatinLetters = IconifyIconData.duoPaintOrder(
     IconData(0xe0a7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0a7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `input-latin-lowercase` (duo-tone)
-  static const IconifyIconData inputLatinLowercase = IconifyIconData.duo(
+  /// `input-latin-lowercase` (paint-order duotone)
+  static const IconifyIconData inputLatinLowercase = IconifyIconData.duoPaintOrder(
     IconData(0xe0a8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0a8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `input-latin-uppercase` (duo-tone)
-  static const IconifyIconData inputLatinUppercase = IconifyIconData.duo(
+  /// `input-latin-uppercase` (paint-order duotone)
+  static const IconifyIconData inputLatinUppercase = IconifyIconData.duoPaintOrder(
     IconData(0xe0a9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0a9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `input-numbers` (duo-tone)
-  static const IconifyIconData inputNumbers = IconifyIconData.duo(
+  /// `input-numbers` (paint-order duotone)
+  static const IconifyIconData inputNumbers = IconifyIconData.duoPaintOrder(
     IconData(0xe0aa, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0aa, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `input-symbols` (duo-tone)
-  static const IconifyIconData inputSymbols = IconifyIconData.duo(
+  /// `input-symbols` (paint-order duotone)
+  static const IconifyIconData inputSymbols = IconifyIconData.duoPaintOrder(
     IconData(0xe0ab, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0ab, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-acceptable-button` (duo-tone)
-  static const IconifyIconData japaneseAcceptableButton = IconifyIconData.duo(
+  /// `japanese-acceptable-button` (paint-order duotone)
+  static const IconifyIconData japaneseAcceptableButton = IconifyIconData.duoPaintOrder(
     IconData(0xe202, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe202, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-application-button` (duo-tone)
-  static const IconifyIconData japaneseApplicationButton = IconifyIconData.duo(
+  /// `japanese-application-button` (paint-order duotone)
+  static const IconifyIconData japaneseApplicationButton = IconifyIconData.duoPaintOrder(
     IconData(0xe203, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe203, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-bargain-button` (duo-tone)
-  static const IconifyIconData japaneseBargainButton = IconifyIconData.duo(
+  /// `japanese-bargain-button` (paint-order duotone)
+  static const IconifyIconData japaneseBargainButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0ac, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0ac, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-congratulations-button` (duo-tone)
-  static const IconifyIconData japaneseCongratulationsButton = IconifyIconData.duo(
+  /// `japanese-congratulations-button` (paint-order duotone)
+  static const IconifyIconData japaneseCongratulationsButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0ad, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0ad, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-discount-button` (duo-tone)
-  static const IconifyIconData japaneseDiscountButton = IconifyIconData.duo(
+  /// `japanese-discount-button` (paint-order duotone)
+  static const IconifyIconData japaneseDiscountButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0ae, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0ae, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-free-of-charge-button` (duo-tone)
-  static const IconifyIconData japaneseFreeOfChargeButton = IconifyIconData.duo(
+  /// `japanese-free-of-charge-button` (paint-order duotone)
+  static const IconifyIconData japaneseFreeOfChargeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe204, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe204, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-hear-button` (duo-tone)
-  static const IconifyIconData japaneseHearButton = IconifyIconData.duo(
+  /// `japanese-hear-button` (paint-order duotone)
+  static const IconifyIconData japaneseHearButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0af, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0af, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-here-button` (duo-tone)
-  static const IconifyIconData japaneseHereButton = IconifyIconData.duo(
+  /// `japanese-here-button` (paint-order duotone)
+  static const IconifyIconData japaneseHereButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0b0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0b0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-monthly-amount-button` (duo-tone)
-  static const IconifyIconData japaneseMonthlyAmountButton = IconifyIconData.duo(
+  /// `japanese-monthly-amount-button` (paint-order duotone)
+  static const IconifyIconData japaneseMonthlyAmountButton = IconifyIconData.duoPaintOrder(
     IconData(0xe205, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe205, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-no-vacancy-button` (duo-tone)
-  static const IconifyIconData japaneseNoVacancyButton = IconifyIconData.duo(
+  /// `japanese-no-vacancy-button` (paint-order duotone)
+  static const IconifyIconData japaneseNoVacancyButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0b1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0b1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-not-free-of-charge-button` (duo-tone)
-  static const IconifyIconData japaneseNotFreeOfChargeButton = IconifyIconData.duo(
+  /// `japanese-not-free-of-charge-button` (paint-order duotone)
+  static const IconifyIconData japaneseNotFreeOfChargeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe206, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe206, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-open-for-business-button` (duo-tone)
-  static const IconifyIconData japaneseOpenForBusinessButton = IconifyIconData.duo(
+  /// `japanese-open-for-business-button` (paint-order duotone)
+  static const IconifyIconData japaneseOpenForBusinessButton = IconifyIconData.duoPaintOrder(
     IconData(0xe207, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe207, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-passing-grade-button` (duo-tone)
-  static const IconifyIconData japanesePassingGradeButton = IconifyIconData.duo(
+  /// `japanese-passing-grade-button` (paint-order duotone)
+  static const IconifyIconData japanesePassingGradeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0b2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0b2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1488,44 +1488,44 @@ class FluentEmojiFlatIcons {
     IconData(0xe294, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-prohibited-button` (duo-tone)
-  static const IconifyIconData japaneseProhibitedButton = IconifyIconData.duo(
+  /// `japanese-prohibited-button` (paint-order duotone)
+  static const IconifyIconData japaneseProhibitedButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0b3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0b3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-reserved-button` (duo-tone)
-  static const IconifyIconData japaneseReservedButton = IconifyIconData.duo(
+  /// `japanese-reserved-button` (paint-order duotone)
+  static const IconifyIconData japaneseReservedButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0b4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0b4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-secret-button` (duo-tone)
-  static const IconifyIconData japaneseSecretButton = IconifyIconData.duo(
+  /// `japanese-secret-button` (paint-order duotone)
+  static const IconifyIconData japaneseSecretButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0b5, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0b5, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-service-charge-button` (duo-tone)
-  static const IconifyIconData japaneseServiceChargeButton = IconifyIconData.duo(
+  /// `japanese-service-charge-button` (paint-order duotone)
+  static const IconifyIconData japaneseServiceChargeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0b6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0b6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-symbol-for-beginner` (duo-tone)
-  static const IconifyIconData japaneseSymbolForBeginner = IconifyIconData.duo(
+  /// `japanese-symbol-for-beginner` (paint-order duotone)
+  static const IconifyIconData japaneseSymbolForBeginner = IconifyIconData.duoPaintOrder(
     IconData(0xe208, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe208, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `japanese-vacancy-button` (duo-tone)
-  static const IconifyIconData japaneseVacancyButton = IconifyIconData.duo(
+  /// `japanese-vacancy-button` (paint-order duotone)
+  static const IconifyIconData japaneseVacancyButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0b7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0b7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `jeans` (duo-tone)
-  static const IconifyIconData jeans = IconifyIconData.duo(
+  /// `jeans` (paint-order duotone)
+  static const IconifyIconData jeans = IconifyIconData.duoPaintOrder(
     IconData(0xe0b9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0b9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1540,98 +1540,98 @@ class FluentEmojiFlatIcons {
     IconData(0xe296, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keyboard` (duo-tone)
-  static const IconifyIconData keyboard = IconifyIconData.duo(
+  /// `keyboard` (paint-order duotone)
+  static const IconifyIconData keyboard = IconifyIconData.duoPaintOrder(
     IconData(0xe209, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe209, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-0` (duo-tone)
-  static const IconifyIconData keycap0 = IconifyIconData.duo(
+  /// `keycap-0` (paint-order duotone)
+  static const IconifyIconData keycap0 = IconifyIconData.duoPaintOrder(
     IconData(0xe0ba, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0ba, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-1` (duo-tone)
-  static const IconifyIconData keycap1 = IconifyIconData.duo(
+  /// `keycap-1` (paint-order duotone)
+  static const IconifyIconData keycap1 = IconifyIconData.duoPaintOrder(
     IconData(0xe0bb, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0bb, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-10` (duo-tone)
-  static const IconifyIconData keycap10 = IconifyIconData.duo(
+  /// `keycap-10` (paint-order duotone)
+  static const IconifyIconData keycap10 = IconifyIconData.duoPaintOrder(
     IconData(0xe0bc, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0bc, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-2` (duo-tone)
-  static const IconifyIconData keycap2 = IconifyIconData.duo(
+  /// `keycap-2` (paint-order duotone)
+  static const IconifyIconData keycap2 = IconifyIconData.duoPaintOrder(
     IconData(0xe0bd, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0bd, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-3` (duo-tone)
-  static const IconifyIconData keycap3 = IconifyIconData.duo(
+  /// `keycap-3` (paint-order duotone)
+  static const IconifyIconData keycap3 = IconifyIconData.duoPaintOrder(
     IconData(0xe0be, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0be, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-4` (duo-tone)
-  static const IconifyIconData keycap4 = IconifyIconData.duo(
+  /// `keycap-4` (paint-order duotone)
+  static const IconifyIconData keycap4 = IconifyIconData.duoPaintOrder(
     IconData(0xe0bf, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0bf, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-5` (duo-tone)
-  static const IconifyIconData keycap5 = IconifyIconData.duo(
+  /// `keycap-5` (paint-order duotone)
+  static const IconifyIconData keycap5 = IconifyIconData.duoPaintOrder(
     IconData(0xe0c0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0c0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-6` (duo-tone)
-  static const IconifyIconData keycap6 = IconifyIconData.duo(
+  /// `keycap-6` (paint-order duotone)
+  static const IconifyIconData keycap6 = IconifyIconData.duoPaintOrder(
     IconData(0xe0c1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0c1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-7` (duo-tone)
-  static const IconifyIconData keycap7 = IconifyIconData.duo(
+  /// `keycap-7` (paint-order duotone)
+  static const IconifyIconData keycap7 = IconifyIconData.duoPaintOrder(
     IconData(0xe0c2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0c2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-8` (duo-tone)
-  static const IconifyIconData keycap8 = IconifyIconData.duo(
+  /// `keycap-8` (paint-order duotone)
+  static const IconifyIconData keycap8 = IconifyIconData.duoPaintOrder(
     IconData(0xe0c3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0c3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-9` (duo-tone)
-  static const IconifyIconData keycap9 = IconifyIconData.duo(
+  /// `keycap-9` (paint-order duotone)
+  static const IconifyIconData keycap9 = IconifyIconData.duoPaintOrder(
     IconData(0xe0c4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0c4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-asterisk` (duo-tone)
-  static const IconifyIconData keycapAsterisk = IconifyIconData.duo(
+  /// `keycap-asterisk` (paint-order duotone)
+  static const IconifyIconData keycapAsterisk = IconifyIconData.duoPaintOrder(
     IconData(0xe0c5, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0c5, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `keycap-hashtag` (duo-tone)
-  static const IconifyIconData keycapHashtag = IconifyIconData.duo(
+  /// `keycap-hashtag` (paint-order duotone)
+  static const IconifyIconData keycapHashtag = IconifyIconData.duoPaintOrder(
     IconData(0xe0c6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0c6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `khanda` (duo-tone)
-  static const IconifyIconData khanda = IconifyIconData.duo(
+  /// `khanda` (paint-order duotone)
+  static const IconifyIconData khanda = IconifyIconData.duoPaintOrder(
     IconData(0xe0c7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0c7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `kick-scooter` (duo-tone)
-  static const IconifyIconData kickScooter = IconifyIconData.duo(
+  /// `kick-scooter` (paint-order duotone)
+  static const IconifyIconData kickScooter = IconifyIconData.duoPaintOrder(
     IconData(0xe0c8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0c8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1641,14 +1641,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe0c9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `kissing-face-with-smiling-eyes` (duo-tone)
-  static const IconifyIconData kissingFaceWithSmilingEyes = IconifyIconData.duo(
+  /// `kissing-face-with-smiling-eyes` (paint-order duotone)
+  static const IconifyIconData kissingFaceWithSmilingEyes = IconifyIconData.duoPaintOrder(
     IconData(0xe20a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe20a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `knot` (duo-tone)
-  static const IconifyIconData knot = IconifyIconData.duo(
+  /// `knot` (paint-order duotone)
+  static const IconifyIconData knot = IconifyIconData.duoPaintOrder(
     IconData(0xe20b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe20b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1663,14 +1663,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe297, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ladder` (duo-tone)
-  static const IconifyIconData ladder = IconifyIconData.duo(
+  /// `ladder` (paint-order duotone)
+  static const IconifyIconData ladder = IconifyIconData.duoPaintOrder(
     IconData(0xe20c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe20c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `lady-beetle` (duo-tone)
-  static const IconifyIconData ladyBeetle = IconifyIconData.duo(
+  /// `lady-beetle` (paint-order duotone)
+  static const IconifyIconData ladyBeetle = IconifyIconData.duoPaintOrder(
     IconData(0xe20d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe20d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1685,194 +1685,194 @@ class FluentEmojiFlatIcons {
     IconData(0xe0cb, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `last-track-button` (duo-tone)
-  static const IconifyIconData lastTrackButton = IconifyIconData.duo(
+  /// `last-track-button` (paint-order duotone)
+  static const IconifyIconData lastTrackButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0cc, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0cc, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `latin-cross` (duo-tone)
-  static const IconifyIconData latinCross = IconifyIconData.duo(
+  /// `latin-cross` (paint-order duotone)
+  static const IconifyIconData latinCross = IconifyIconData.duoPaintOrder(
     IconData(0xe0cd, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0cd, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-arrow` (duo-tone)
-  static const IconifyIconData leftArrow = IconifyIconData.duo(
+  /// `left-arrow` (paint-order duotone)
+  static const IconifyIconData leftArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe0cf, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0cf, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-arrow-curving-right` (duo-tone)
-  static const IconifyIconData leftArrowCurvingRight = IconifyIconData.duo(
+  /// `left-arrow-curving-right` (paint-order duotone)
+  static const IconifyIconData leftArrowCurvingRight = IconifyIconData.duoPaintOrder(
     IconData(0xe0d0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-facing-fist` (duo-tone)
-  static const IconifyIconData leftFacingFist = IconifyIconData.duo(
+  /// `left-facing-fist` (paint-order duotone)
+  static const IconifyIconData leftFacingFist = IconifyIconData.duoPaintOrder(
     IconData(0xe0d1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-facing-fist-dark` (duo-tone)
-  static const IconifyIconData leftFacingFistDark = IconifyIconData.duo(
+  /// `left-facing-fist-dark` (paint-order duotone)
+  static const IconifyIconData leftFacingFistDark = IconifyIconData.duoPaintOrder(
     IconData(0xe20e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe20e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-facing-fist-light` (duo-tone)
-  static const IconifyIconData leftFacingFistLight = IconifyIconData.duo(
+  /// `left-facing-fist-light` (paint-order duotone)
+  static const IconifyIconData leftFacingFistLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0d2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-facing-fist-medium` (duo-tone)
-  static const IconifyIconData leftFacingFistMedium = IconifyIconData.duo(
+  /// `left-facing-fist-medium` (paint-order duotone)
+  static const IconifyIconData leftFacingFistMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe20f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe20f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-facing-fist-medium-dark` (duo-tone)
-  static const IconifyIconData leftFacingFistMediumDark = IconifyIconData.duo(
+  /// `left-facing-fist-medium-dark` (paint-order duotone)
+  static const IconifyIconData leftFacingFistMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe210, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe210, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-facing-fist-medium-light` (duo-tone)
-  static const IconifyIconData leftFacingFistMediumLight = IconifyIconData.duo(
+  /// `left-facing-fist-medium-light` (paint-order duotone)
+  static const IconifyIconData leftFacingFistMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0d3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-luggage` (duo-tone)
-  static const IconifyIconData leftLuggage = IconifyIconData.duo(
+  /// `left-luggage` (paint-order duotone)
+  static const IconifyIconData leftLuggage = IconifyIconData.duoPaintOrder(
     IconData(0xe0d4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-right-arrow` (duo-tone)
-  static const IconifyIconData leftRightArrow = IconifyIconData.duo(
+  /// `left-right-arrow` (paint-order duotone)
+  static const IconifyIconData leftRightArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe0d5, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d5, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `left-speech-bubble` (duo-tone)
-  static const IconifyIconData leftSpeechBubble = IconifyIconData.duo(
+  /// `left-speech-bubble` (paint-order duotone)
+  static const IconifyIconData leftSpeechBubble = IconifyIconData.duoPaintOrder(
     IconData(0xe0d6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leftwards-hand` (duo-tone)
-  static const IconifyIconData leftwardsHand = IconifyIconData.duo(
+  /// `leftwards-hand` (paint-order duotone)
+  static const IconifyIconData leftwardsHand = IconifyIconData.duoPaintOrder(
     IconData(0xe0d7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leftwards-hand-dark` (duo-tone)
-  static const IconifyIconData leftwardsHandDark = IconifyIconData.duo(
+  /// `leftwards-hand-dark` (paint-order duotone)
+  static const IconifyIconData leftwardsHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe211, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe211, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leftwards-hand-light` (duo-tone)
-  static const IconifyIconData leftwardsHandLight = IconifyIconData.duo(
+  /// `leftwards-hand-light` (paint-order duotone)
+  static const IconifyIconData leftwardsHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0d8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leftwards-hand-medium` (duo-tone)
-  static const IconifyIconData leftwardsHandMedium = IconifyIconData.duo(
+  /// `leftwards-hand-medium` (paint-order duotone)
+  static const IconifyIconData leftwardsHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe212, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe212, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leftwards-hand-medium-dark` (duo-tone)
-  static const IconifyIconData leftwardsHandMediumDark = IconifyIconData.duo(
+  /// `leftwards-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData leftwardsHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe213, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe213, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leftwards-hand-medium-light` (duo-tone)
-  static const IconifyIconData leftwardsHandMediumLight = IconifyIconData.duo(
+  /// `leftwards-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData leftwardsHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0d9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0d9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leg` (duo-tone)
-  static const IconifyIconData leg = IconifyIconData.duo(
+  /// `leg` (paint-order duotone)
+  static const IconifyIconData leg = IconifyIconData.duoPaintOrder(
     IconData(0xe0da, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0da, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leg-dark` (duo-tone)
-  static const IconifyIconData legDark = IconifyIconData.duo(
+  /// `leg-dark` (paint-order duotone)
+  static const IconifyIconData legDark = IconifyIconData.duoPaintOrder(
     IconData(0xe214, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe214, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leg-light` (duo-tone)
-  static const IconifyIconData legLight = IconifyIconData.duo(
+  /// `leg-light` (paint-order duotone)
+  static const IconifyIconData legLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0db, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0db, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leg-medium` (duo-tone)
-  static const IconifyIconData legMedium = IconifyIconData.duo(
+  /// `leg-medium` (paint-order duotone)
+  static const IconifyIconData legMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe215, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe215, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leg-medium-dark` (duo-tone)
-  static const IconifyIconData legMediumDark = IconifyIconData.duo(
+  /// `leg-medium-dark` (paint-order duotone)
+  static const IconifyIconData legMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe216, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe216, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leg-medium-light` (duo-tone)
-  static const IconifyIconData legMediumLight = IconifyIconData.duo(
+  /// `leg-medium-light` (paint-order duotone)
+  static const IconifyIconData legMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0dc, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0dc, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `lemon` (duo-tone)
-  static const IconifyIconData lemon = IconifyIconData.duo(
+  /// `lemon` (paint-order duotone)
+  static const IconifyIconData lemon = IconifyIconData.duoPaintOrder(
     IconData(0xe0dd, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0dd, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `leo` (duo-tone)
-  static const IconifyIconData leo = IconifyIconData.duo(
+  /// `leo` (paint-order duotone)
+  static const IconifyIconData leo = IconifyIconData.duoPaintOrder(
     IconData(0xe0de, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0de, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `libra` (duo-tone)
-  static const IconifyIconData libra = IconifyIconData.duo(
+  /// `libra` (paint-order duotone)
+  static const IconifyIconData libra = IconifyIconData.duoPaintOrder(
     IconData(0xe0df, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0df, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `link` (duo-tone)
-  static const IconifyIconData link = IconifyIconData.duo(
+  /// `link` (paint-order duotone)
+  static const IconifyIconData link = IconifyIconData.duoPaintOrder(
     IconData(0xe0e1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0e1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `linked-paperclips` (duo-tone)
-  static const IconifyIconData linkedPaperclips = IconifyIconData.duo(
+  /// `linked-paperclips` (paint-order duotone)
+  static const IconifyIconData linkedPaperclips = IconifyIconData.duoPaintOrder(
     IconData(0xe0e2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0e2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `litter-in-bin-sign` (duo-tone)
-  static const IconifyIconData litterInBinSign = IconifyIconData.duo(
+  /// `litter-in-bin-sign` (paint-order duotone)
+  static const IconifyIconData litterInBinSign = IconifyIconData.duoPaintOrder(
     IconData(0xe0e3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0e3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `lizard` (duo-tone)
-  static const IconifyIconData lizard = IconifyIconData.duo(
+  /// `lizard` (paint-order duotone)
+  static const IconifyIconData lizard = IconifyIconData.duoPaintOrder(
     IconData(0xe0e4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0e4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -1882,50 +1882,50 @@ class FluentEmojiFlatIcons {
     IconData(0xe299, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `love-you-gesture` (duo-tone)
-  static const IconifyIconData loveYouGesture = IconifyIconData.duo(
+  /// `love-you-gesture` (paint-order duotone)
+  static const IconifyIconData loveYouGesture = IconifyIconData.duoPaintOrder(
     IconData(0xe0e7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0e7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `love-you-gesture-dark` (duo-tone)
-  static const IconifyIconData loveYouGestureDark = IconifyIconData.duo(
+  /// `love-you-gesture-dark` (paint-order duotone)
+  static const IconifyIconData loveYouGestureDark = IconifyIconData.duoPaintOrder(
     IconData(0xe217, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe217, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `love-you-gesture-light` (duo-tone)
-  static const IconifyIconData loveYouGestureLight = IconifyIconData.duo(
+  /// `love-you-gesture-light` (paint-order duotone)
+  static const IconifyIconData loveYouGestureLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0e8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0e8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `love-you-gesture-medium` (duo-tone)
-  static const IconifyIconData loveYouGestureMedium = IconifyIconData.duo(
+  /// `love-you-gesture-medium` (paint-order duotone)
+  static const IconifyIconData loveYouGestureMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe218, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe218, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `love-you-gesture-medium-dark` (duo-tone)
-  static const IconifyIconData loveYouGestureMediumDark = IconifyIconData.duo(
+  /// `love-you-gesture-medium-dark` (paint-order duotone)
+  static const IconifyIconData loveYouGestureMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe219, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe219, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `love-you-gesture-medium-light` (duo-tone)
-  static const IconifyIconData loveYouGestureMediumLight = IconifyIconData.duo(
+  /// `love-you-gesture-medium-light` (paint-order duotone)
+  static const IconifyIconData loveYouGestureMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0e9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0e9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `magnet` (duo-tone)
-  static const IconifyIconData magnet = IconifyIconData.duo(
+  /// `magnet` (paint-order duotone)
+  static const IconifyIconData magnet = IconifyIconData.duoPaintOrder(
     IconData(0xe21a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe21a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `male-sign` (duo-tone)
-  static const IconifyIconData maleSign = IconifyIconData.duo(
+  /// `male-sign` (paint-order duotone)
+  static const IconifyIconData maleSign = IconifyIconData.duoPaintOrder(
     IconData(0xe0eb, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0eb, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2055,14 +2055,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe2b2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `mango` (duo-tone)
-  static const IconifyIconData mango = IconifyIconData.duo(
+  /// `mango` (paint-order duotone)
+  static const IconifyIconData mango = IconifyIconData.duoPaintOrder(
     IconData(0xe0ec, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0ec, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `mans-shoe` (duo-tone)
-  static const IconifyIconData mansShoe = IconifyIconData.duo(
+  /// `mans-shoe` (paint-order duotone)
+  static const IconifyIconData mansShoe = IconifyIconData.duoPaintOrder(
     IconData(0xe21b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe21b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2072,80 +2072,80 @@ class FluentEmojiFlatIcons {
     IconData(0xe0ed, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `maple-leaf` (duo-tone)
-  static const IconifyIconData mapleLeaf = IconifyIconData.duo(
+  /// `maple-leaf` (paint-order duotone)
+  static const IconifyIconData mapleLeaf = IconifyIconData.duoPaintOrder(
     IconData(0xe21c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe21c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `medical-symbol` (duo-tone)
-  static const IconifyIconData medicalSymbol = IconifyIconData.duo(
+  /// `medical-symbol` (paint-order duotone)
+  static const IconifyIconData medicalSymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe0ee, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0ee, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `megaphone` (duo-tone)
-  static const IconifyIconData megaphone = IconifyIconData.duo(
+  /// `megaphone` (paint-order duotone)
+  static const IconifyIconData megaphone = IconifyIconData.duoPaintOrder(
     IconData(0xe0ef, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0ef, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `menorah` (duo-tone)
-  static const IconifyIconData menorah = IconifyIconData.duo(
+  /// `menorah` (paint-order duotone)
+  static const IconifyIconData menorah = IconifyIconData.duoPaintOrder(
     IconData(0xe0f0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0f0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `mens-room` (duo-tone)
-  static const IconifyIconData mensRoom = IconifyIconData.duo(
+  /// `mens-room` (paint-order duotone)
+  static const IconifyIconData mensRoom = IconifyIconData.duoPaintOrder(
     IconData(0xe0f1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0f1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `middle-finger` (duo-tone)
-  static const IconifyIconData middleFinger = IconifyIconData.duo(
+  /// `middle-finger` (paint-order duotone)
+  static const IconifyIconData middleFinger = IconifyIconData.duoPaintOrder(
     IconData(0xe0f2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0f2, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `middle-finger-dark` (duo-tone)
-  static const IconifyIconData middleFingerDark = IconifyIconData.duo(
+  /// `middle-finger-dark` (paint-order duotone)
+  static const IconifyIconData middleFingerDark = IconifyIconData.duoPaintOrder(
     IconData(0xe21d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe21d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `middle-finger-light` (duo-tone)
-  static const IconifyIconData middleFingerLight = IconifyIconData.duo(
+  /// `middle-finger-light` (paint-order duotone)
+  static const IconifyIconData middleFingerLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0f3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0f3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `middle-finger-medium` (duo-tone)
-  static const IconifyIconData middleFingerMedium = IconifyIconData.duo(
+  /// `middle-finger-medium` (paint-order duotone)
+  static const IconifyIconData middleFingerMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe21e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe21e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `middle-finger-medium-dark` (duo-tone)
-  static const IconifyIconData middleFingerMediumDark = IconifyIconData.duo(
+  /// `middle-finger-medium-dark` (paint-order duotone)
+  static const IconifyIconData middleFingerMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe21f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe21f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `middle-finger-medium-light` (duo-tone)
-  static const IconifyIconData middleFingerMediumLight = IconifyIconData.duo(
+  /// `middle-finger-medium-light` (paint-order duotone)
+  static const IconifyIconData middleFingerMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0f4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0f4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `mobile-phone-off` (duo-tone)
-  static const IconifyIconData mobilePhoneOff = IconifyIconData.duo(
+  /// `mobile-phone-off` (paint-order duotone)
+  static const IconifyIconData mobilePhoneOff = IconifyIconData.duoPaintOrder(
     IconData(0xe0f6, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0f6, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `money-bag` (duo-tone)
-  static const IconifyIconData moneyBag = IconifyIconData.duo(
+  /// `money-bag` (paint-order duotone)
+  static const IconifyIconData moneyBag = IconifyIconData.duoPaintOrder(
     IconData(0xe220, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe220, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2155,8 +2155,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe2b3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `name-badge` (duo-tone)
-  static const IconifyIconData nameBadge = IconifyIconData.duo(
+  /// `name-badge` (paint-order duotone)
+  static const IconifyIconData nameBadge = IconifyIconData.duoPaintOrder(
     IconData(0xe0f8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0f8, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2166,128 +2166,128 @@ class FluentEmojiFlatIcons {
     IconData(0xe2b4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `new-button` (duo-tone)
-  static const IconifyIconData newButton = IconifyIconData.duo(
+  /// `new-button` (paint-order duotone)
+  static const IconifyIconData newButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0f9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0f9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `new-moon` (duo-tone)
-  static const IconifyIconData newMoon = IconifyIconData.duo(
+  /// `new-moon` (paint-order duotone)
+  static const IconifyIconData newMoon = IconifyIconData.duoPaintOrder(
     IconData(0xe221, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe221, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `next-track-button` (duo-tone)
-  static const IconifyIconData nextTrackButton = IconifyIconData.duo(
+  /// `next-track-button` (paint-order duotone)
+  static const IconifyIconData nextTrackButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0fa, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0fa, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ng-button` (duo-tone)
-  static const IconifyIconData ngButton = IconifyIconData.duo(
+  /// `ng-button` (paint-order duotone)
+  static const IconifyIconData ngButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0fb, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0fb, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `no-entry` (duo-tone)
-  static const IconifyIconData noEntry = IconifyIconData.duo(
+  /// `no-entry` (paint-order duotone)
+  static const IconifyIconData noEntry = IconifyIconData.duoPaintOrder(
     IconData(0xe222, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe222, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `nose` (duo-tone)
-  static const IconifyIconData nose = IconifyIconData.duo(
+  /// `nose` (paint-order duotone)
+  static const IconifyIconData nose = IconifyIconData.duoPaintOrder(
     IconData(0xe223, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe223, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `nose-dark` (duo-tone)
-  static const IconifyIconData noseDark = IconifyIconData.duo(
+  /// `nose-dark` (paint-order duotone)
+  static const IconifyIconData noseDark = IconifyIconData.duoPaintOrder(
     IconData(0xe224, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe224, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `nose-light` (duo-tone)
-  static const IconifyIconData noseLight = IconifyIconData.duo(
+  /// `nose-light` (paint-order duotone)
+  static const IconifyIconData noseLight = IconifyIconData.duoPaintOrder(
     IconData(0xe225, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe225, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `nose-medium` (duo-tone)
-  static const IconifyIconData noseMedium = IconifyIconData.duo(
+  /// `nose-medium` (paint-order duotone)
+  static const IconifyIconData noseMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe226, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe226, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `nose-medium-dark` (duo-tone)
-  static const IconifyIconData noseMediumDark = IconifyIconData.duo(
+  /// `nose-medium-dark` (paint-order duotone)
+  static const IconifyIconData noseMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe227, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe227, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `nose-medium-light` (duo-tone)
-  static const IconifyIconData noseMediumLight = IconifyIconData.duo(
+  /// `nose-medium-light` (paint-order duotone)
+  static const IconifyIconData noseMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe228, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe228, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `o-button-blood-type` (duo-tone)
-  static const IconifyIconData oButtonBloodType = IconifyIconData.duo(
+  /// `o-button-blood-type` (paint-order duotone)
+  static const IconifyIconData oButtonBloodType = IconifyIconData.duoPaintOrder(
     IconData(0xe0fc, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0fc, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ok-button` (duo-tone)
-  static const IconifyIconData okButton = IconifyIconData.duo(
+  /// `ok-button` (paint-order duotone)
+  static const IconifyIconData okButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0fe, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0fe, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ok-hand` (duo-tone)
-  static const IconifyIconData okHand = IconifyIconData.duo(
+  /// `ok-hand` (paint-order duotone)
+  static const IconifyIconData okHand = IconifyIconData.duoPaintOrder(
     IconData(0xe0ff, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe0ff, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ok-hand-dark` (duo-tone)
-  static const IconifyIconData okHandDark = IconifyIconData.duo(
+  /// `ok-hand-dark` (paint-order duotone)
+  static const IconifyIconData okHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe229, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe229, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ok-hand-light` (duo-tone)
-  static const IconifyIconData okHandLight = IconifyIconData.duo(
+  /// `ok-hand-light` (paint-order duotone)
+  static const IconifyIconData okHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe100, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe100, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ok-hand-medium` (duo-tone)
-  static const IconifyIconData okHandMedium = IconifyIconData.duo(
+  /// `ok-hand-medium` (paint-order duotone)
+  static const IconifyIconData okHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe22a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe22a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ok-hand-medium-dark` (duo-tone)
-  static const IconifyIconData okHandMediumDark = IconifyIconData.duo(
+  /// `ok-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData okHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe22b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe22b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ok-hand-medium-light` (duo-tone)
-  static const IconifyIconData okHandMediumLight = IconifyIconData.duo(
+  /// `ok-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData okHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe101, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe101, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `om` (duo-tone)
-  static const IconifyIconData om = IconifyIconData.duo(
+  /// `om` (paint-order duotone)
+  static const IconifyIconData om = IconifyIconData.duoPaintOrder(
     IconData(0xe103, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe103, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `one-piece-swimsuit` (duo-tone)
-  static const IconifyIconData onePieceSwimsuit = IconifyIconData.duo(
+  /// `one-piece-swimsuit` (paint-order duotone)
+  static const IconifyIconData onePieceSwimsuit = IconifyIconData.duoPaintOrder(
     IconData(0xe104, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe104, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2297,176 +2297,176 @@ class FluentEmojiFlatIcons {
     IconData(0xe105, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `open-file-folder` (duo-tone)
-  static const IconifyIconData openFileFolder = IconifyIconData.duo(
+  /// `open-file-folder` (paint-order duotone)
+  static const IconifyIconData openFileFolder = IconifyIconData.duoPaintOrder(
     IconData(0xe106, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe106, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `open-hands` (duo-tone)
-  static const IconifyIconData openHands = IconifyIconData.duo(
+  /// `open-hands` (paint-order duotone)
+  static const IconifyIconData openHands = IconifyIconData.duoPaintOrder(
     IconData(0xe107, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe107, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `open-hands-dark` (duo-tone)
-  static const IconifyIconData openHandsDark = IconifyIconData.duo(
+  /// `open-hands-dark` (paint-order duotone)
+  static const IconifyIconData openHandsDark = IconifyIconData.duoPaintOrder(
     IconData(0xe22c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe22c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `open-hands-light` (duo-tone)
-  static const IconifyIconData openHandsLight = IconifyIconData.duo(
+  /// `open-hands-light` (paint-order duotone)
+  static const IconifyIconData openHandsLight = IconifyIconData.duoPaintOrder(
     IconData(0xe108, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe108, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `open-hands-medium` (duo-tone)
-  static const IconifyIconData openHandsMedium = IconifyIconData.duo(
+  /// `open-hands-medium` (paint-order duotone)
+  static const IconifyIconData openHandsMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe22d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe22d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `open-hands-medium-dark` (duo-tone)
-  static const IconifyIconData openHandsMediumDark = IconifyIconData.duo(
+  /// `open-hands-medium-dark` (paint-order duotone)
+  static const IconifyIconData openHandsMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe22e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe22e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `open-hands-medium-light` (duo-tone)
-  static const IconifyIconData openHandsMediumLight = IconifyIconData.duo(
+  /// `open-hands-medium-light` (paint-order duotone)
+  static const IconifyIconData openHandsMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe109, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe109, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ophiuchus` (duo-tone)
-  static const IconifyIconData ophiuchus = IconifyIconData.duo(
+  /// `ophiuchus` (paint-order duotone)
+  static const IconifyIconData ophiuchus = IconifyIconData.duoPaintOrder(
     IconData(0xe10a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe10a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `optical-disk` (duo-tone)
-  static const IconifyIconData opticalDisk = IconifyIconData.duo(
+  /// `optical-disk` (paint-order duotone)
+  static const IconifyIconData opticalDisk = IconifyIconData.duoPaintOrder(
     IconData(0xe10b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe10b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `orthodox-cross` (duo-tone)
-  static const IconifyIconData orthodoxCross = IconifyIconData.duo(
+  /// `orthodox-cross` (paint-order duotone)
+  static const IconifyIconData orthodoxCross = IconifyIconData.duoPaintOrder(
     IconData(0xe10c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe10c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `p-button` (duo-tone)
-  static const IconifyIconData pButton = IconifyIconData.duo(
+  /// `p-button` (paint-order duotone)
+  static const IconifyIconData pButton = IconifyIconData.duoPaintOrder(
     IconData(0xe10d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe10d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-down-hand` (duo-tone)
-  static const IconifyIconData palmDownHand = IconifyIconData.duo(
+  /// `palm-down-hand` (paint-order duotone)
+  static const IconifyIconData palmDownHand = IconifyIconData.duoPaintOrder(
     IconData(0xe10f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe10f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-down-hand-dark` (duo-tone)
-  static const IconifyIconData palmDownHandDark = IconifyIconData.duo(
+  /// `palm-down-hand-dark` (paint-order duotone)
+  static const IconifyIconData palmDownHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe22f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe22f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-down-hand-light` (duo-tone)
-  static const IconifyIconData palmDownHandLight = IconifyIconData.duo(
+  /// `palm-down-hand-light` (paint-order duotone)
+  static const IconifyIconData palmDownHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe110, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe110, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-down-hand-medium` (duo-tone)
-  static const IconifyIconData palmDownHandMedium = IconifyIconData.duo(
+  /// `palm-down-hand-medium` (paint-order duotone)
+  static const IconifyIconData palmDownHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe230, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe230, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-down-hand-medium-dark` (duo-tone)
-  static const IconifyIconData palmDownHandMediumDark = IconifyIconData.duo(
+  /// `palm-down-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData palmDownHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe231, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe231, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-down-hand-medium-light` (duo-tone)
-  static const IconifyIconData palmDownHandMediumLight = IconifyIconData.duo(
+  /// `palm-down-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData palmDownHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe111, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe111, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-up-hand` (duo-tone)
-  static const IconifyIconData palmUpHand = IconifyIconData.duo(
+  /// `palm-up-hand` (paint-order duotone)
+  static const IconifyIconData palmUpHand = IconifyIconData.duoPaintOrder(
     IconData(0xe112, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe112, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-up-hand-dark` (duo-tone)
-  static const IconifyIconData palmUpHandDark = IconifyIconData.duo(
+  /// `palm-up-hand-dark` (paint-order duotone)
+  static const IconifyIconData palmUpHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe232, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe232, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-up-hand-light` (duo-tone)
-  static const IconifyIconData palmUpHandLight = IconifyIconData.duo(
+  /// `palm-up-hand-light` (paint-order duotone)
+  static const IconifyIconData palmUpHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe113, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe113, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-up-hand-medium` (duo-tone)
-  static const IconifyIconData palmUpHandMedium = IconifyIconData.duo(
+  /// `palm-up-hand-medium` (paint-order duotone)
+  static const IconifyIconData palmUpHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe233, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe233, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-up-hand-medium-dark` (duo-tone)
-  static const IconifyIconData palmUpHandMediumDark = IconifyIconData.duo(
+  /// `palm-up-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData palmUpHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe234, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe234, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palm-up-hand-medium-light` (duo-tone)
-  static const IconifyIconData palmUpHandMediumLight = IconifyIconData.duo(
+  /// `palm-up-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData palmUpHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe114, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe114, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palms-up-together` (duo-tone)
-  static const IconifyIconData palmsUpTogether = IconifyIconData.duo(
+  /// `palms-up-together` (paint-order duotone)
+  static const IconifyIconData palmsUpTogether = IconifyIconData.duoPaintOrder(
     IconData(0xe115, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe115, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palms-up-together-dark` (duo-tone)
-  static const IconifyIconData palmsUpTogetherDark = IconifyIconData.duo(
+  /// `palms-up-together-dark` (paint-order duotone)
+  static const IconifyIconData palmsUpTogetherDark = IconifyIconData.duoPaintOrder(
     IconData(0xe235, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe235, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palms-up-together-light` (duo-tone)
-  static const IconifyIconData palmsUpTogetherLight = IconifyIconData.duo(
+  /// `palms-up-together-light` (paint-order duotone)
+  static const IconifyIconData palmsUpTogetherLight = IconifyIconData.duoPaintOrder(
     IconData(0xe116, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe116, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palms-up-together-medium` (duo-tone)
-  static const IconifyIconData palmsUpTogetherMedium = IconifyIconData.duo(
+  /// `palms-up-together-medium` (paint-order duotone)
+  static const IconifyIconData palmsUpTogetherMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe236, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe236, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palms-up-together-medium-dark` (duo-tone)
-  static const IconifyIconData palmsUpTogetherMediumDark = IconifyIconData.duo(
+  /// `palms-up-together-medium-dark` (paint-order duotone)
+  static const IconifyIconData palmsUpTogetherMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe237, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe237, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `palms-up-together-medium-light` (duo-tone)
-  static const IconifyIconData palmsUpTogetherMediumLight = IconifyIconData.duo(
+  /// `palms-up-together-medium-light` (paint-order duotone)
+  static const IconifyIconData palmsUpTogetherMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe117, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe117, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2476,50 +2476,50 @@ class FluentEmojiFlatIcons {
     IconData(0xe119, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `passport-control` (duo-tone)
-  static const IconifyIconData passportControl = IconifyIconData.duo(
+  /// `passport-control` (paint-order duotone)
+  static const IconifyIconData passportControl = IconifyIconData.duoPaintOrder(
     IconData(0xe11a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe11a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pause-button` (duo-tone)
-  static const IconifyIconData pauseButton = IconifyIconData.duo(
+  /// `pause-button` (paint-order duotone)
+  static const IconifyIconData pauseButton = IconifyIconData.duoPaintOrder(
     IconData(0xe11b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe11b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `peace-symbol` (duo-tone)
-  static const IconifyIconData peaceSymbol = IconifyIconData.duo(
+  /// `peace-symbol` (paint-order duotone)
+  static const IconifyIconData peaceSymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe11c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe11c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `peanuts` (duo-tone)
-  static const IconifyIconData peanuts = IconifyIconData.duo(
+  /// `peanuts` (paint-order duotone)
+  static const IconifyIconData peanuts = IconifyIconData.duoPaintOrder(
     IconData(0xe238, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe238, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pear` (duo-tone)
-  static const IconifyIconData pear = IconifyIconData.duo(
+  /// `pear` (paint-order duotone)
+  static const IconifyIconData pear = IconifyIconData.duoPaintOrder(
     IconData(0xe11d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe11d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pensive-face` (duo-tone)
-  static const IconifyIconData pensiveFace = IconifyIconData.duo(
+  /// `pensive-face` (paint-order duotone)
+  static const IconifyIconData pensiveFace = IconifyIconData.duoPaintOrder(
     IconData(0xe239, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe239, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `performing-arts` (duo-tone)
-  static const IconifyIconData performingArts = IconifyIconData.duo(
+  /// `performing-arts` (paint-order duotone)
+  static const IconifyIconData performingArts = IconifyIconData.duoPaintOrder(
     IconData(0xe11e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe11e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `persevering-face` (duo-tone)
-  static const IconifyIconData perseveringFace = IconifyIconData.duo(
+  /// `persevering-face` (paint-order duotone)
+  static const IconifyIconData perseveringFace = IconifyIconData.duoPaintOrder(
     IconData(0xe23a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe23a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2579,14 +2579,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe2bf, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pick` (duo-tone)
-  static const IconifyIconData pick = IconifyIconData.duo(
+  /// `pick` (paint-order duotone)
+  static const IconifyIconData pick = IconifyIconData.duoPaintOrder(
     IconData(0xe23b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe23b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pig-nose` (duo-tone)
-  static const IconifyIconData pigNose = IconifyIconData.duo(
+  /// `pig-nose` (paint-order duotone)
+  static const IconifyIconData pigNose = IconifyIconData.duoPaintOrder(
     IconData(0xe23c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe23c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2596,110 +2596,110 @@ class FluentEmojiFlatIcons {
     IconData(0xe2c0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinched-fingers` (duo-tone)
-  static const IconifyIconData pinchedFingers = IconifyIconData.duo(
+  /// `pinched-fingers` (paint-order duotone)
+  static const IconifyIconData pinchedFingers = IconifyIconData.duoPaintOrder(
     IconData(0xe120, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe120, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinched-fingers-dark` (duo-tone)
-  static const IconifyIconData pinchedFingersDark = IconifyIconData.duo(
+  /// `pinched-fingers-dark` (paint-order duotone)
+  static const IconifyIconData pinchedFingersDark = IconifyIconData.duoPaintOrder(
     IconData(0xe23d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe23d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinched-fingers-light` (duo-tone)
-  static const IconifyIconData pinchedFingersLight = IconifyIconData.duo(
+  /// `pinched-fingers-light` (paint-order duotone)
+  static const IconifyIconData pinchedFingersLight = IconifyIconData.duoPaintOrder(
     IconData(0xe121, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe121, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinched-fingers-medium` (duo-tone)
-  static const IconifyIconData pinchedFingersMedium = IconifyIconData.duo(
+  /// `pinched-fingers-medium` (paint-order duotone)
+  static const IconifyIconData pinchedFingersMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe23e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe23e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinched-fingers-medium-dark` (duo-tone)
-  static const IconifyIconData pinchedFingersMediumDark = IconifyIconData.duo(
+  /// `pinched-fingers-medium-dark` (paint-order duotone)
+  static const IconifyIconData pinchedFingersMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe23f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe23f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinched-fingers-medium-light` (duo-tone)
-  static const IconifyIconData pinchedFingersMediumLight = IconifyIconData.duo(
+  /// `pinched-fingers-medium-light` (paint-order duotone)
+  static const IconifyIconData pinchedFingersMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe122, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe122, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinching-hand` (duo-tone)
-  static const IconifyIconData pinchingHand = IconifyIconData.duo(
+  /// `pinching-hand` (paint-order duotone)
+  static const IconifyIconData pinchingHand = IconifyIconData.duoPaintOrder(
     IconData(0xe240, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe240, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinching-hand-dark` (duo-tone)
-  static const IconifyIconData pinchingHandDark = IconifyIconData.duo(
+  /// `pinching-hand-dark` (paint-order duotone)
+  static const IconifyIconData pinchingHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe241, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe241, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinching-hand-light` (duo-tone)
-  static const IconifyIconData pinchingHandLight = IconifyIconData.duo(
+  /// `pinching-hand-light` (paint-order duotone)
+  static const IconifyIconData pinchingHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe242, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe242, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinching-hand-medium` (duo-tone)
-  static const IconifyIconData pinchingHandMedium = IconifyIconData.duo(
+  /// `pinching-hand-medium` (paint-order duotone)
+  static const IconifyIconData pinchingHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe243, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe243, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinching-hand-medium-dark` (duo-tone)
-  static const IconifyIconData pinchingHandMediumDark = IconifyIconData.duo(
+  /// `pinching-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData pinchingHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe244, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe244, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pinching-hand-medium-light` (duo-tone)
-  static const IconifyIconData pinchingHandMediumLight = IconifyIconData.duo(
+  /// `pinching-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData pinchingHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe245, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe245, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pirate-flag` (duo-tone)
-  static const IconifyIconData pirateFlag = IconifyIconData.duo(
+  /// `pirate-flag` (paint-order duotone)
+  static const IconifyIconData pirateFlag = IconifyIconData.duoPaintOrder(
     IconData(0xe246, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe246, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `pisces` (duo-tone)
-  static const IconifyIconData pisces = IconifyIconData.duo(
+  /// `pisces` (paint-order duotone)
+  static const IconifyIconData pisces = IconifyIconData.duoPaintOrder(
     IconData(0xe124, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe124, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `place-of-worship` (duo-tone)
-  static const IconifyIconData placeOfWorship = IconifyIconData.duo(
+  /// `place-of-worship` (paint-order duotone)
+  static const IconifyIconData placeOfWorship = IconifyIconData.duoPaintOrder(
     IconData(0xe125, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe125, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `play-button` (duo-tone)
-  static const IconifyIconData playButton = IconifyIconData.duo(
+  /// `play-button` (paint-order duotone)
+  static const IconifyIconData playButton = IconifyIconData.duoPaintOrder(
     IconData(0xe126, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe126, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `play-or-pause-button` (duo-tone)
-  static const IconifyIconData playOrPauseButton = IconifyIconData.duo(
+  /// `play-or-pause-button` (paint-order duotone)
+  static const IconifyIconData playOrPauseButton = IconifyIconData.duoPaintOrder(
     IconData(0xe127, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe127, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `plunger` (duo-tone)
-  static const IconifyIconData plunger = IconifyIconData.duo(
+  /// `plunger` (paint-order duotone)
+  static const IconifyIconData plunger = IconifyIconData.duoPaintOrder(
     IconData(0xe247, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe247, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2709,14 +2709,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe2c1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `potable-water` (duo-tone)
-  static const IconifyIconData potableWater = IconifyIconData.duo(
+  /// `potable-water` (paint-order duotone)
+  static const IconifyIconData potableWater = IconifyIconData.duoPaintOrder(
     IconData(0xe128, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe128, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `potato` (duo-tone)
-  static const IconifyIconData potato = IconifyIconData.duo(
+  /// `potato` (paint-order duotone)
+  static const IconifyIconData potato = IconifyIconData.duoPaintOrder(
     IconData(0xe248, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe248, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2751,8 +2751,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe2c7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `prohibited` (duo-tone)
-  static const IconifyIconData prohibited = IconifyIconData.duo(
+  /// `prohibited` (paint-order duotone)
+  static const IconifyIconData prohibited = IconifyIconData.duoPaintOrder(
     IconData(0xe249, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe249, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2762,8 +2762,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe12a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `puzzle-piece` (duo-tone)
-  static const IconifyIconData puzzlePiece = IconifyIconData.duo(
+  /// `puzzle-piece` (paint-order duotone)
+  static const IconifyIconData puzzlePiece = IconifyIconData.duoPaintOrder(
     IconData(0xe12c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe12c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2773,86 +2773,86 @@ class FluentEmojiFlatIcons {
     IconData(0xe2c8, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `radio-button` (duo-tone)
-  static const IconifyIconData radioButton = IconifyIconData.duo(
+  /// `radio-button` (paint-order duotone)
+  static const IconifyIconData radioButton = IconifyIconData.duoPaintOrder(
     IconData(0xe24a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe24a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `radioactive` (duo-tone)
-  static const IconifyIconData radioactive = IconifyIconData.duo(
+  /// `radioactive` (paint-order duotone)
+  static const IconifyIconData radioactive = IconifyIconData.duoPaintOrder(
     IconData(0xe12d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe12d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-back-of-hand` (duo-tone)
-  static const IconifyIconData raisedBackOfHand = IconifyIconData.duo(
+  /// `raised-back-of-hand` (paint-order duotone)
+  static const IconifyIconData raisedBackOfHand = IconifyIconData.duoPaintOrder(
     IconData(0xe12e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe12e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-back-of-hand-dark` (duo-tone)
-  static const IconifyIconData raisedBackOfHandDark = IconifyIconData.duo(
+  /// `raised-back-of-hand-dark` (paint-order duotone)
+  static const IconifyIconData raisedBackOfHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe24b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe24b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-back-of-hand-light` (duo-tone)
-  static const IconifyIconData raisedBackOfHandLight = IconifyIconData.duo(
+  /// `raised-back-of-hand-light` (paint-order duotone)
+  static const IconifyIconData raisedBackOfHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe12f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe12f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-back-of-hand-medium` (duo-tone)
-  static const IconifyIconData raisedBackOfHandMedium = IconifyIconData.duo(
+  /// `raised-back-of-hand-medium` (paint-order duotone)
+  static const IconifyIconData raisedBackOfHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe24c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe24c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-back-of-hand-medium-dark` (duo-tone)
-  static const IconifyIconData raisedBackOfHandMediumDark = IconifyIconData.duo(
+  /// `raised-back-of-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData raisedBackOfHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe24d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe24d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-back-of-hand-medium-light` (duo-tone)
-  static const IconifyIconData raisedBackOfHandMediumLight = IconifyIconData.duo(
+  /// `raised-back-of-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData raisedBackOfHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe130, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe130, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-fist` (duo-tone)
-  static const IconifyIconData raisedFist = IconifyIconData.duo(
+  /// `raised-fist` (paint-order duotone)
+  static const IconifyIconData raisedFist = IconifyIconData.duoPaintOrder(
     IconData(0xe131, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe131, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-fist-dark` (duo-tone)
-  static const IconifyIconData raisedFistDark = IconifyIconData.duo(
+  /// `raised-fist-dark` (paint-order duotone)
+  static const IconifyIconData raisedFistDark = IconifyIconData.duoPaintOrder(
     IconData(0xe24e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe24e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-fist-light` (duo-tone)
-  static const IconifyIconData raisedFistLight = IconifyIconData.duo(
+  /// `raised-fist-light` (paint-order duotone)
+  static const IconifyIconData raisedFistLight = IconifyIconData.duoPaintOrder(
     IconData(0xe132, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe132, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-fist-medium` (duo-tone)
-  static const IconifyIconData raisedFistMedium = IconifyIconData.duo(
+  /// `raised-fist-medium` (paint-order duotone)
+  static const IconifyIconData raisedFistMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe24f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe24f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-fist-medium-dark` (duo-tone)
-  static const IconifyIconData raisedFistMediumDark = IconifyIconData.duo(
+  /// `raised-fist-medium-dark` (paint-order duotone)
+  static const IconifyIconData raisedFistMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe250, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe250, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-fist-medium-light` (duo-tone)
-  static const IconifyIconData raisedFistMediumLight = IconifyIconData.duo(
+  /// `raised-fist-medium-light` (paint-order duotone)
+  static const IconifyIconData raisedFistMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe133, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe133, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2862,86 +2862,86 @@ class FluentEmojiFlatIcons {
     IconData(0xe134, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-hand-dark` (duo-tone)
-  static const IconifyIconData raisedHandDark = IconifyIconData.duo(
+  /// `raised-hand-dark` (paint-order duotone)
+  static const IconifyIconData raisedHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe251, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe251, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-hand-light` (duo-tone)
-  static const IconifyIconData raisedHandLight = IconifyIconData.duo(
+  /// `raised-hand-light` (paint-order duotone)
+  static const IconifyIconData raisedHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe135, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe135, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-hand-medium` (duo-tone)
-  static const IconifyIconData raisedHandMedium = IconifyIconData.duo(
+  /// `raised-hand-medium` (paint-order duotone)
+  static const IconifyIconData raisedHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe252, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe252, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-hand-medium-dark` (duo-tone)
-  static const IconifyIconData raisedHandMediumDark = IconifyIconData.duo(
+  /// `raised-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData raisedHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe253, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe253, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `raised-hand-medium-light` (duo-tone)
-  static const IconifyIconData raisedHandMediumLight = IconifyIconData.duo(
+  /// `raised-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData raisedHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe136, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe136, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `receipt` (duo-tone)
-  static const IconifyIconData receipt = IconifyIconData.duo(
+  /// `receipt` (paint-order duotone)
+  static const IconifyIconData receipt = IconifyIconData.duoPaintOrder(
     IconData(0xe137, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe137, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `record-button` (duo-tone)
-  static const IconifyIconData recordButton = IconifyIconData.duo(
+  /// `record-button` (paint-order duotone)
+  static const IconifyIconData recordButton = IconifyIconData.duoPaintOrder(
     IconData(0xe138, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe138, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `recycling-symbol` (duo-tone)
-  static const IconifyIconData recyclingSymbol = IconifyIconData.duo(
+  /// `recycling-symbol` (paint-order duotone)
+  static const IconifyIconData recyclingSymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe254, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe254, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `red-apple` (duo-tone)
-  static const IconifyIconData redApple = IconifyIconData.duo(
+  /// `red-apple` (paint-order duotone)
+  static const IconifyIconData redApple = IconifyIconData.duoPaintOrder(
     IconData(0xe255, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe255, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `relieved-face` (duo-tone)
-  static const IconifyIconData relievedFace = IconifyIconData.duo(
+  /// `relieved-face` (paint-order duotone)
+  static const IconifyIconData relievedFace = IconifyIconData.duoPaintOrder(
     IconData(0xe256, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe256, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `repeat-button` (duo-tone)
-  static const IconifyIconData repeatButton = IconifyIconData.duo(
+  /// `repeat-button` (paint-order duotone)
+  static const IconifyIconData repeatButton = IconifyIconData.duoPaintOrder(
     IconData(0xe13a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe13a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `repeat-single-button` (duo-tone)
-  static const IconifyIconData repeatSingleButton = IconifyIconData.duo(
+  /// `repeat-single-button` (paint-order duotone)
+  static const IconifyIconData repeatSingleButton = IconifyIconData.duoPaintOrder(
     IconData(0xe13b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe13b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `restroom` (duo-tone)
-  static const IconifyIconData restroom = IconifyIconData.duo(
+  /// `restroom` (paint-order duotone)
+  static const IconifyIconData restroom = IconifyIconData.duoPaintOrder(
     IconData(0xe13c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe13c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `reverse-button` (duo-tone)
-  static const IconifyIconData reverseButton = IconifyIconData.duo(
+  /// `reverse-button` (paint-order duotone)
+  static const IconifyIconData reverseButton = IconifyIconData.duoPaintOrder(
     IconData(0xe13d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe13d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -2951,146 +2951,146 @@ class FluentEmojiFlatIcons {
     IconData(0xe13e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ribbon` (duo-tone)
-  static const IconifyIconData ribbon = IconifyIconData.duo(
+  /// `ribbon` (paint-order duotone)
+  static const IconifyIconData ribbon = IconifyIconData.duoPaintOrder(
     IconData(0xe257, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe257, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-anger-bubble` (duo-tone)
-  static const IconifyIconData rightAngerBubble = IconifyIconData.duo(
+  /// `right-anger-bubble` (paint-order duotone)
+  static const IconifyIconData rightAngerBubble = IconifyIconData.duoPaintOrder(
     IconData(0xe13f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe13f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-arrow` (duo-tone)
-  static const IconifyIconData rightArrow = IconifyIconData.duo(
+  /// `right-arrow` (paint-order duotone)
+  static const IconifyIconData rightArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe140, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe140, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-arrow-curving-down` (duo-tone)
-  static const IconifyIconData rightArrowCurvingDown = IconifyIconData.duo(
+  /// `right-arrow-curving-down` (paint-order duotone)
+  static const IconifyIconData rightArrowCurvingDown = IconifyIconData.duoPaintOrder(
     IconData(0xe141, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe141, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-arrow-curving-left` (duo-tone)
-  static const IconifyIconData rightArrowCurvingLeft = IconifyIconData.duo(
+  /// `right-arrow-curving-left` (paint-order duotone)
+  static const IconifyIconData rightArrowCurvingLeft = IconifyIconData.duoPaintOrder(
     IconData(0xe142, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe142, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-arrow-curving-up` (duo-tone)
-  static const IconifyIconData rightArrowCurvingUp = IconifyIconData.duo(
+  /// `right-arrow-curving-up` (paint-order duotone)
+  static const IconifyIconData rightArrowCurvingUp = IconifyIconData.duoPaintOrder(
     IconData(0xe143, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe143, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-facing-fist` (duo-tone)
-  static const IconifyIconData rightFacingFist = IconifyIconData.duo(
+  /// `right-facing-fist` (paint-order duotone)
+  static const IconifyIconData rightFacingFist = IconifyIconData.duoPaintOrder(
     IconData(0xe144, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe144, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-facing-fist-dark` (duo-tone)
-  static const IconifyIconData rightFacingFistDark = IconifyIconData.duo(
+  /// `right-facing-fist-dark` (paint-order duotone)
+  static const IconifyIconData rightFacingFistDark = IconifyIconData.duoPaintOrder(
     IconData(0xe258, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe258, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-facing-fist-light` (duo-tone)
-  static const IconifyIconData rightFacingFistLight = IconifyIconData.duo(
+  /// `right-facing-fist-light` (paint-order duotone)
+  static const IconifyIconData rightFacingFistLight = IconifyIconData.duoPaintOrder(
     IconData(0xe145, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe145, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-facing-fist-medium` (duo-tone)
-  static const IconifyIconData rightFacingFistMedium = IconifyIconData.duo(
+  /// `right-facing-fist-medium` (paint-order duotone)
+  static const IconifyIconData rightFacingFistMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe259, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe259, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-facing-fist-medium-dark` (duo-tone)
-  static const IconifyIconData rightFacingFistMediumDark = IconifyIconData.duo(
+  /// `right-facing-fist-medium-dark` (paint-order duotone)
+  static const IconifyIconData rightFacingFistMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe25a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe25a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `right-facing-fist-medium-light` (duo-tone)
-  static const IconifyIconData rightFacingFistMediumLight = IconifyIconData.duo(
+  /// `right-facing-fist-medium-light` (paint-order duotone)
+  static const IconifyIconData rightFacingFistMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe146, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe146, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `rightwards-hand` (duo-tone)
-  static const IconifyIconData rightwardsHand = IconifyIconData.duo(
+  /// `rightwards-hand` (paint-order duotone)
+  static const IconifyIconData rightwardsHand = IconifyIconData.duoPaintOrder(
     IconData(0xe147, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe147, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `rightwards-hand-dark` (duo-tone)
-  static const IconifyIconData rightwardsHandDark = IconifyIconData.duo(
+  /// `rightwards-hand-dark` (paint-order duotone)
+  static const IconifyIconData rightwardsHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe25b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe25b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `rightwards-hand-light` (duo-tone)
-  static const IconifyIconData rightwardsHandLight = IconifyIconData.duo(
+  /// `rightwards-hand-light` (paint-order duotone)
+  static const IconifyIconData rightwardsHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe148, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe148, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `rightwards-hand-medium` (duo-tone)
-  static const IconifyIconData rightwardsHandMedium = IconifyIconData.duo(
+  /// `rightwards-hand-medium` (paint-order duotone)
+  static const IconifyIconData rightwardsHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe25c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe25c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `rightwards-hand-medium-dark` (duo-tone)
-  static const IconifyIconData rightwardsHandMediumDark = IconifyIconData.duo(
+  /// `rightwards-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData rightwardsHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe25d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe25d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `rightwards-hand-medium-light` (duo-tone)
-  static const IconifyIconData rightwardsHandMediumLight = IconifyIconData.duo(
+  /// `rightwards-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData rightwardsHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe149, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe149, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `rugby-football` (duo-tone)
-  static const IconifyIconData rugbyFootball = IconifyIconData.duo(
+  /// `rugby-football` (paint-order duotone)
+  static const IconifyIconData rugbyFootball = IconifyIconData.duoPaintOrder(
     IconData(0xe25e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe25e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `running-shirt` (duo-tone)
-  static const IconifyIconData runningShirt = IconifyIconData.duo(
+  /// `running-shirt` (paint-order duotone)
+  static const IconifyIconData runningShirt = IconifyIconData.duoPaintOrder(
     IconData(0xe25f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe25f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sagittarius` (duo-tone)
-  static const IconifyIconData sagittarius = IconifyIconData.duo(
+  /// `sagittarius` (paint-order duotone)
+  static const IconifyIconData sagittarius = IconifyIconData.duoPaintOrder(
     IconData(0xe14f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe14f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `scorpio` (duo-tone)
-  static const IconifyIconData scorpio = IconifyIconData.duo(
+  /// `scorpio` (paint-order duotone)
+  static const IconifyIconData scorpio = IconifyIconData.duoPaintOrder(
     IconData(0xe152, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe152, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `seedling` (duo-tone)
-  static const IconifyIconData seedling = IconifyIconData.duo(
+  /// `seedling` (paint-order duotone)
+  static const IconifyIconData seedling = IconifyIconData.duoPaintOrder(
     IconData(0xe260, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe260, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sewing-needle` (duo-tone)
-  static const IconifyIconData sewingNeedle = IconifyIconData.duo(
+  /// `sewing-needle` (paint-order duotone)
+  static const IconifyIconData sewingNeedle = IconifyIconData.duoPaintOrder(
     IconData(0xe261, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe261, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3101,50 +3101,50 @@ class FluentEmojiFlatIcons {
     IconData(0xe2c9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sheaf-of-rice` (duo-tone)
-  static const IconifyIconData sheafOfRice = IconifyIconData.duo(
+  /// `sheaf-of-rice` (paint-order duotone)
+  static const IconifyIconData sheafOfRice = IconifyIconData.duoPaintOrder(
     IconData(0xe262, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe262, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `shuffle-tracks-button` (duo-tone)
-  static const IconifyIconData shuffleTracksButton = IconifyIconData.duo(
+  /// `shuffle-tracks-button` (paint-order duotone)
+  static const IconifyIconData shuffleTracksButton = IconifyIconData.duoPaintOrder(
     IconData(0xe158, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe158, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sign-of-the-horns` (duo-tone)
-  static const IconifyIconData signOfTheHorns = IconifyIconData.duo(
+  /// `sign-of-the-horns` (paint-order duotone)
+  static const IconifyIconData signOfTheHorns = IconifyIconData.duoPaintOrder(
     IconData(0xe159, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe159, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sign-of-the-horns-dark` (duo-tone)
-  static const IconifyIconData signOfTheHornsDark = IconifyIconData.duo(
+  /// `sign-of-the-horns-dark` (paint-order duotone)
+  static const IconifyIconData signOfTheHornsDark = IconifyIconData.duoPaintOrder(
     IconData(0xe263, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe263, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sign-of-the-horns-light` (duo-tone)
-  static const IconifyIconData signOfTheHornsLight = IconifyIconData.duo(
+  /// `sign-of-the-horns-light` (paint-order duotone)
+  static const IconifyIconData signOfTheHornsLight = IconifyIconData.duoPaintOrder(
     IconData(0xe15a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe15a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sign-of-the-horns-medium` (duo-tone)
-  static const IconifyIconData signOfTheHornsMedium = IconifyIconData.duo(
+  /// `sign-of-the-horns-medium` (paint-order duotone)
+  static const IconifyIconData signOfTheHornsMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe264, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe264, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sign-of-the-horns-medium-dark` (duo-tone)
-  static const IconifyIconData signOfTheHornsMediumDark = IconifyIconData.duo(
+  /// `sign-of-the-horns-medium-dark` (paint-order duotone)
+  static const IconifyIconData signOfTheHornsMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe265, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe265, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sign-of-the-horns-medium-light` (duo-tone)
-  static const IconifyIconData signOfTheHornsMediumLight = IconifyIconData.duo(
+  /// `sign-of-the-horns-medium-light` (paint-order duotone)
+  static const IconifyIconData signOfTheHornsMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe15b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe15b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3179,14 +3179,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe161, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sos-button` (duo-tone)
-  static const IconifyIconData sosButton = IconifyIconData.duo(
+  /// `sos-button` (paint-order duotone)
+  static const IconifyIconData sosButton = IconifyIconData.duoPaintOrder(
     IconData(0xe162, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe162, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sparkle` (duo-tone)
-  static const IconifyIconData sparkle = IconifyIconData.duo(
+  /// `sparkle` (paint-order duotone)
+  static const IconifyIconData sparkle = IconifyIconData.duoPaintOrder(
     IconData(0xe163, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe163, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3196,26 +3196,26 @@ class FluentEmojiFlatIcons {
     IconData(0xe164, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sparkling-heart` (duo-tone)
-  static const IconifyIconData sparklingHeart = IconifyIconData.duo(
+  /// `sparkling-heart` (paint-order duotone)
+  static const IconifyIconData sparklingHeart = IconifyIconData.duoPaintOrder(
     IconData(0xe165, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe165, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `speaker-low-volume` (duo-tone)
-  static const IconifyIconData speakerLowVolume = IconifyIconData.duo(
+  /// `speaker-low-volume` (paint-order duotone)
+  static const IconifyIconData speakerLowVolume = IconifyIconData.duoPaintOrder(
     IconData(0xe167, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe167, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `speech-balloon` (duo-tone)
-  static const IconifyIconData speechBalloon = IconifyIconData.duo(
+  /// `speech-balloon` (paint-order duotone)
+  static const IconifyIconData speechBalloon = IconifyIconData.duoPaintOrder(
     IconData(0xe169, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe169, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `spoon` (duo-tone)
-  static const IconifyIconData spoon = IconifyIconData.duo(
+  /// `spoon` (paint-order duotone)
+  static const IconifyIconData spoon = IconifyIconData.duoPaintOrder(
     IconData(0xe266, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe266, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3225,32 +3225,32 @@ class FluentEmojiFlatIcons {
     IconData(0xe16c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `star-of-david` (duo-tone)
-  static const IconifyIconData starOfDavid = IconifyIconData.duo(
+  /// `star-of-david` (paint-order duotone)
+  static const IconifyIconData starOfDavid = IconifyIconData.duoPaintOrder(
     IconData(0xe16d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe16d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `stop-button` (duo-tone)
-  static const IconifyIconData stopButton = IconifyIconData.duo(
+  /// `stop-button` (paint-order duotone)
+  static const IconifyIconData stopButton = IconifyIconData.duoPaintOrder(
     IconData(0xe16f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe16f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `stop-sign` (duo-tone)
-  static const IconifyIconData stopSign = IconifyIconData.duo(
+  /// `stop-sign` (paint-order duotone)
+  static const IconifyIconData stopSign = IconifyIconData.duoPaintOrder(
     IconData(0xe267, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe267, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `straight-ruler` (duo-tone)
-  static const IconifyIconData straightRuler = IconifyIconData.duo(
+  /// `straight-ruler` (paint-order duotone)
+  static const IconifyIconData straightRuler = IconifyIconData.duoPaintOrder(
     IconData(0xe170, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe170, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `sun` (duo-tone)
-  static const IconifyIconData sun = IconifyIconData.duo(
+  /// `sun` (paint-order duotone)
+  static const IconifyIconData sun = IconifyIconData.duoPaintOrder(
     IconData(0xe268, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe268, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3260,20 +3260,20 @@ class FluentEmojiFlatIcons {
     IconData(0xe171, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `tangerine` (duo-tone)
-  static const IconifyIconData tangerine = IconifyIconData.duo(
+  /// `tangerine` (paint-order duotone)
+  static const IconifyIconData tangerine = IconifyIconData.duoPaintOrder(
     IconData(0xe269, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe269, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `taurus` (duo-tone)
-  static const IconifyIconData taurus = IconifyIconData.duo(
+  /// `taurus` (paint-order duotone)
+  static const IconifyIconData taurus = IconifyIconData.duoPaintOrder(
     IconData(0xe172, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe172, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `telephone-receiver` (duo-tone)
-  static const IconifyIconData telephoneReceiver = IconifyIconData.duo(
+  /// `telephone-receiver` (paint-order duotone)
+  static const IconifyIconData telephoneReceiver = IconifyIconData.duoPaintOrder(
     IconData(0xe26a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe26a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3283,80 +3283,80 @@ class FluentEmojiFlatIcons {
     IconData(0xe173, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-down` (duo-tone)
-  static const IconifyIconData thumbsDown = IconifyIconData.duo(
+  /// `thumbs-down` (paint-order duotone)
+  static const IconifyIconData thumbsDown = IconifyIconData.duoPaintOrder(
     IconData(0xe175, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe175, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-down-dark` (duo-tone)
-  static const IconifyIconData thumbsDownDark = IconifyIconData.duo(
+  /// `thumbs-down-dark` (paint-order duotone)
+  static const IconifyIconData thumbsDownDark = IconifyIconData.duoPaintOrder(
     IconData(0xe26b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe26b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-down-light` (duo-tone)
-  static const IconifyIconData thumbsDownLight = IconifyIconData.duo(
+  /// `thumbs-down-light` (paint-order duotone)
+  static const IconifyIconData thumbsDownLight = IconifyIconData.duoPaintOrder(
     IconData(0xe176, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe176, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-down-medium` (duo-tone)
-  static const IconifyIconData thumbsDownMedium = IconifyIconData.duo(
+  /// `thumbs-down-medium` (paint-order duotone)
+  static const IconifyIconData thumbsDownMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe26c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe26c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-down-medium-dark` (duo-tone)
-  static const IconifyIconData thumbsDownMediumDark = IconifyIconData.duo(
+  /// `thumbs-down-medium-dark` (paint-order duotone)
+  static const IconifyIconData thumbsDownMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe26d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe26d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-down-medium-light` (duo-tone)
-  static const IconifyIconData thumbsDownMediumLight = IconifyIconData.duo(
+  /// `thumbs-down-medium-light` (paint-order duotone)
+  static const IconifyIconData thumbsDownMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe177, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe177, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-up` (duo-tone)
-  static const IconifyIconData thumbsUp = IconifyIconData.duo(
+  /// `thumbs-up` (paint-order duotone)
+  static const IconifyIconData thumbsUp = IconifyIconData.duoPaintOrder(
     IconData(0xe178, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe178, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-up-dark` (duo-tone)
-  static const IconifyIconData thumbsUpDark = IconifyIconData.duo(
+  /// `thumbs-up-dark` (paint-order duotone)
+  static const IconifyIconData thumbsUpDark = IconifyIconData.duoPaintOrder(
     IconData(0xe26e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe26e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-up-light` (duo-tone)
-  static const IconifyIconData thumbsUpLight = IconifyIconData.duo(
+  /// `thumbs-up-light` (paint-order duotone)
+  static const IconifyIconData thumbsUpLight = IconifyIconData.duoPaintOrder(
     IconData(0xe179, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe179, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-up-medium` (duo-tone)
-  static const IconifyIconData thumbsUpMedium = IconifyIconData.duo(
+  /// `thumbs-up-medium` (paint-order duotone)
+  static const IconifyIconData thumbsUpMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe26f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe26f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-up-medium-dark` (duo-tone)
-  static const IconifyIconData thumbsUpMediumDark = IconifyIconData.duo(
+  /// `thumbs-up-medium-dark` (paint-order duotone)
+  static const IconifyIconData thumbsUpMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe270, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe270, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `thumbs-up-medium-light` (duo-tone)
-  static const IconifyIconData thumbsUpMediumLight = IconifyIconData.duo(
+  /// `thumbs-up-medium-light` (paint-order duotone)
+  static const IconifyIconData thumbsUpMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe17a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe17a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `ticket` (duo-tone)
-  static const IconifyIconData ticket = IconifyIconData.duo(
+  /// `ticket` (paint-order duotone)
+  static const IconifyIconData ticket = IconifyIconData.duoPaintOrder(
     IconData(0xe271, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe271, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3366,20 +3366,20 @@ class FluentEmojiFlatIcons {
     IconData(0xe2cc, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `toilet` (duo-tone)
-  static const IconifyIconData toilet = IconifyIconData.duo(
+  /// `toilet` (paint-order duotone)
+  static const IconifyIconData toilet = IconifyIconData.duoPaintOrder(
     IconData(0xe17b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe17b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `tongue` (duo-tone)
-  static const IconifyIconData tongue = IconifyIconData.duo(
+  /// `tongue` (paint-order duotone)
+  static const IconifyIconData tongue = IconifyIconData.duoPaintOrder(
     IconData(0xe272, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe272, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `tornado` (duo-tone)
-  static const IconifyIconData tornado = IconifyIconData.duo(
+  /// `tornado` (paint-order duotone)
+  static const IconifyIconData tornado = IconifyIconData.duoPaintOrder(
     IconData(0xe17d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe17d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3389,26 +3389,26 @@ class FluentEmojiFlatIcons {
     IconData(0xe17e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `transgender-symbol` (duo-tone)
-  static const IconifyIconData transgenderSymbol = IconifyIconData.duo(
+  /// `transgender-symbol` (paint-order duotone)
+  static const IconifyIconData transgenderSymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe17f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe17f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `triangular-flag` (duo-tone)
-  static const IconifyIconData triangularFlag = IconifyIconData.duo(
+  /// `triangular-flag` (paint-order duotone)
+  static const IconifyIconData triangularFlag = IconifyIconData.duoPaintOrder(
     IconData(0xe273, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe273, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `triangular-ruler` (duo-tone)
-  static const IconifyIconData triangularRuler = IconifyIconData.duo(
+  /// `triangular-ruler` (paint-order duotone)
+  static const IconifyIconData triangularRuler = IconifyIconData.duoPaintOrder(
     IconData(0xe180, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe180, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `trident-emblem` (duo-tone)
-  static const IconifyIconData tridentEmblem = IconifyIconData.duo(
+  /// `trident-emblem` (paint-order duotone)
+  static const IconifyIconData tridentEmblem = IconifyIconData.duoPaintOrder(
     IconData(0xe181, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe181, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3418,164 +3418,164 @@ class FluentEmojiFlatIcons {
     IconData(0xe183, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `up-arrow` (duo-tone)
-  static const IconifyIconData upArrow = IconifyIconData.duo(
+  /// `up-arrow` (paint-order duotone)
+  static const IconifyIconData upArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe184, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe184, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `up-button` (duo-tone)
-  static const IconifyIconData upButton = IconifyIconData.duo(
+  /// `up-button` (paint-order duotone)
+  static const IconifyIconData upButton = IconifyIconData.duoPaintOrder(
     IconData(0xe185, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe185, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `up-down-arrow` (duo-tone)
-  static const IconifyIconData upDownArrow = IconifyIconData.duo(
+  /// `up-down-arrow` (paint-order duotone)
+  static const IconifyIconData upDownArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe186, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe186, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `up-left-arrow` (duo-tone)
-  static const IconifyIconData upLeftArrow = IconifyIconData.duo(
+  /// `up-left-arrow` (paint-order duotone)
+  static const IconifyIconData upLeftArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe187, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe187, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `up-right-arrow` (duo-tone)
-  static const IconifyIconData upRightArrow = IconifyIconData.duo(
+  /// `up-right-arrow` (paint-order duotone)
+  static const IconifyIconData upRightArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe188, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe188, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `upwards-button` (duo-tone)
-  static const IconifyIconData upwardsButton = IconifyIconData.duo(
+  /// `upwards-button` (paint-order duotone)
+  static const IconifyIconData upwardsButton = IconifyIconData.duoPaintOrder(
     IconData(0xe189, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe189, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `vibration-mode` (duo-tone)
-  static const IconifyIconData vibrationMode = IconifyIconData.duo(
+  /// `vibration-mode` (paint-order duotone)
+  static const IconifyIconData vibrationMode = IconifyIconData.duoPaintOrder(
     IconData(0xe18a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe18a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `victory-hand` (duo-tone)
-  static const IconifyIconData victoryHand = IconifyIconData.duo(
+  /// `victory-hand` (paint-order duotone)
+  static const IconifyIconData victoryHand = IconifyIconData.duoPaintOrder(
     IconData(0xe18b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe18b, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `victory-hand-dark` (duo-tone)
-  static const IconifyIconData victoryHandDark = IconifyIconData.duo(
+  /// `victory-hand-dark` (paint-order duotone)
+  static const IconifyIconData victoryHandDark = IconifyIconData.duoPaintOrder(
     IconData(0xe274, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe274, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `victory-hand-light` (duo-tone)
-  static const IconifyIconData victoryHandLight = IconifyIconData.duo(
+  /// `victory-hand-light` (paint-order duotone)
+  static const IconifyIconData victoryHandLight = IconifyIconData.duoPaintOrder(
     IconData(0xe18c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe18c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `victory-hand-medium` (duo-tone)
-  static const IconifyIconData victoryHandMedium = IconifyIconData.duo(
+  /// `victory-hand-medium` (paint-order duotone)
+  static const IconifyIconData victoryHandMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe275, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe275, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `victory-hand-medium-dark` (duo-tone)
-  static const IconifyIconData victoryHandMediumDark = IconifyIconData.duo(
+  /// `victory-hand-medium-dark` (paint-order duotone)
+  static const IconifyIconData victoryHandMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe276, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe276, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `victory-hand-medium-light` (duo-tone)
-  static const IconifyIconData victoryHandMediumLight = IconifyIconData.duo(
+  /// `victory-hand-medium-light` (paint-order duotone)
+  static const IconifyIconData victoryHandMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe18d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe18d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `virgo` (duo-tone)
-  static const IconifyIconData virgo = IconifyIconData.duo(
+  /// `virgo` (paint-order duotone)
+  static const IconifyIconData virgo = IconifyIconData.duoPaintOrder(
     IconData(0xe18e, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe18e, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `vs-button` (duo-tone)
-  static const IconifyIconData vsButton = IconifyIconData.duo(
+  /// `vs-button` (paint-order duotone)
+  static const IconifyIconData vsButton = IconifyIconData.duoPaintOrder(
     IconData(0xe277, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe277, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `vulcan-salute` (duo-tone)
-  static const IconifyIconData vulcanSalute = IconifyIconData.duo(
+  /// `vulcan-salute` (paint-order duotone)
+  static const IconifyIconData vulcanSalute = IconifyIconData.duoPaintOrder(
     IconData(0xe190, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe190, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `vulcan-salute-dark` (duo-tone)
-  static const IconifyIconData vulcanSaluteDark = IconifyIconData.duo(
+  /// `vulcan-salute-dark` (paint-order duotone)
+  static const IconifyIconData vulcanSaluteDark = IconifyIconData.duoPaintOrder(
     IconData(0xe278, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe278, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `vulcan-salute-light` (duo-tone)
-  static const IconifyIconData vulcanSaluteLight = IconifyIconData.duo(
+  /// `vulcan-salute-light` (paint-order duotone)
+  static const IconifyIconData vulcanSaluteLight = IconifyIconData.duoPaintOrder(
     IconData(0xe191, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe191, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `vulcan-salute-medium` (duo-tone)
-  static const IconifyIconData vulcanSaluteMedium = IconifyIconData.duo(
+  /// `vulcan-salute-medium` (paint-order duotone)
+  static const IconifyIconData vulcanSaluteMedium = IconifyIconData.duoPaintOrder(
     IconData(0xe279, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe279, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `vulcan-salute-medium-dark` (duo-tone)
-  static const IconifyIconData vulcanSaluteMediumDark = IconifyIconData.duo(
+  /// `vulcan-salute-medium-dark` (paint-order duotone)
+  static const IconifyIconData vulcanSaluteMediumDark = IconifyIconData.duoPaintOrder(
     IconData(0xe27a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe27a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `vulcan-salute-medium-light` (duo-tone)
-  static const IconifyIconData vulcanSaluteMediumLight = IconifyIconData.duo(
+  /// `vulcan-salute-medium-light` (paint-order duotone)
+  static const IconifyIconData vulcanSaluteMediumLight = IconifyIconData.duoPaintOrder(
     IconData(0xe192, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe192, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `warning` (duo-tone)
-  static const IconifyIconData warning = IconifyIconData.duo(
+  /// `warning` (paint-order duotone)
+  static const IconifyIconData warning = IconifyIconData.duoPaintOrder(
     IconData(0xe193, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe193, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `wastebasket` (duo-tone)
-  static const IconifyIconData wastebasket = IconifyIconData.duo(
+  /// `wastebasket` (paint-order duotone)
+  static const IconifyIconData wastebasket = IconifyIconData.duoPaintOrder(
     IconData(0xe194, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe194, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `water-closet` (duo-tone)
-  static const IconifyIconData waterCloset = IconifyIconData.duo(
+  /// `water-closet` (paint-order duotone)
+  static const IconifyIconData waterCloset = IconifyIconData.duoPaintOrder(
     IconData(0xe195, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe195, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `wheel-of-dharma` (duo-tone)
-  static const IconifyIconData wheelOfDharma = IconifyIconData.duo(
+  /// `wheel-of-dharma` (paint-order duotone)
+  static const IconifyIconData wheelOfDharma = IconifyIconData.duoPaintOrder(
     IconData(0xe198, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe198, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `wheelchair-symbol` (duo-tone)
-  static const IconifyIconData wheelchairSymbol = IconifyIconData.duo(
+  /// `wheelchair-symbol` (paint-order duotone)
+  static const IconifyIconData wheelchairSymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe199, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe199, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `white-circle` (duo-tone)
-  static const IconifyIconData whiteCircle = IconifyIconData.duo(
+  /// `white-circle` (paint-order duotone)
+  static const IconifyIconData whiteCircle = IconifyIconData.duoPaintOrder(
     IconData(0xe19a, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe19a, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3585,32 +3585,32 @@ class FluentEmojiFlatIcons {
     IconData(0xe19b, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `white-flag` (duo-tone)
-  static const IconifyIconData whiteFlag = IconifyIconData.duo(
+  /// `white-flag` (paint-order duotone)
+  static const IconifyIconData whiteFlag = IconifyIconData.duoPaintOrder(
     IconData(0xe19c, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe19c, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `white-flower` (duo-tone)
-  static const IconifyIconData whiteFlower = IconifyIconData.duo(
+  /// `white-flower` (paint-order duotone)
+  static const IconifyIconData whiteFlower = IconifyIconData.duoPaintOrder(
     IconData(0xe19d, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe19d, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `white-large-square` (duo-tone)
-  static const IconifyIconData whiteLargeSquare = IconifyIconData.duo(
+  /// `white-large-square` (paint-order duotone)
+  static const IconifyIconData whiteLargeSquare = IconifyIconData.duoPaintOrder(
     IconData(0xe19f, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe19f, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `white-medium-small-square` (duo-tone)
-  static const IconifyIconData whiteMediumSmallSquare = IconifyIconData.duo(
+  /// `white-medium-small-square` (paint-order duotone)
+  static const IconifyIconData whiteMediumSmallSquare = IconifyIconData.duoPaintOrder(
     IconData(0xe1a0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1a0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `white-medium-square` (duo-tone)
-  static const IconifyIconData whiteMediumSquare = IconifyIconData.duo(
+  /// `white-medium-square` (paint-order duotone)
+  static const IconifyIconData whiteMediumSquare = IconifyIconData.duoPaintOrder(
     IconData(0xe1a1, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1a1, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3620,14 +3620,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe1a2, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `white-small-square` (duo-tone)
-  static const IconifyIconData whiteSmallSquare = IconifyIconData.duo(
+  /// `white-small-square` (paint-order duotone)
+  static const IconifyIconData whiteSmallSquare = IconifyIconData.duoPaintOrder(
     IconData(0xe1a3, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1a3, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `white-square-button` (duo-tone)
-  static const IconifyIconData whiteSquareButton = IconifyIconData.duo(
+  /// `white-square-button` (paint-order duotone)
+  static const IconifyIconData whiteSquareButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1a4, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1a4, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3637,8 +3637,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe2cd, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `wireless` (duo-tone)
-  static const IconifyIconData wireless = IconifyIconData.duo(
+  /// `wireless` (paint-order duotone)
+  static const IconifyIconData wireless = IconifyIconData.duoPaintOrder(
     IconData(0xe1a7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1a7, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3693,14 +3693,14 @@ class FluentEmojiFlatIcons {
     IconData(0xe2d7, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `womans-boot` (duo-tone)
-  static const IconifyIconData womansBoot = IconifyIconData.duo(
+  /// `womans-boot` (paint-order duotone)
+  static const IconifyIconData womansBoot = IconifyIconData.duoPaintOrder(
     IconData(0xe1a9, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1a9, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `womens-room` (duo-tone)
-  static const IconifyIconData womensRoom = IconifyIconData.duo(
+  /// `womens-room` (paint-order duotone)
+  static const IconifyIconData womensRoom = IconifyIconData.duoPaintOrder(
     IconData(0xe1ab, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1ab, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
@@ -3730,8 +3730,8 @@ class FluentEmojiFlatIcons {
     IconData(0xe1af, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );
 
-  /// `yin-yang` (duo-tone)
-  static const IconifyIconData yinYang = IconifyIconData.duo(
+  /// `yin-yang` (paint-order duotone)
+  static const IconifyIconData yinYang = IconifyIconData.duoPaintOrder(
     IconData(0xe1b0, fontFamily: 'FluentEmojiFlat', fontPackage: 'iconifyx_fluent_emoji_flat'),
     IconData(0xe1b0, fontFamily: 'FluentEmojiFlatSecondary', fontPackage: 'iconifyx_fluent_emoji_flat'),
   );

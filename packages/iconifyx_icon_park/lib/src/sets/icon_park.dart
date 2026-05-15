@@ -601,8 +601,8 @@ class IconParkIcons {
     IconData(0xe074, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `apple` (duo-tone)
-  static const IconifyIconData apple = IconifyIconData.duo(
+  /// `apple` (paint-order duotone)
+  static const IconifyIconData apple = IconifyIconData.duoPaintOrder(
     IconData(0xe075, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe075, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -852,8 +852,8 @@ class IconParkIcons {
     IconData(0xe0a6, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `avocado` (duo-tone)
-  static const IconifyIconData avocado = IconifyIconData.duo(
+  /// `avocado` (paint-order duotone)
+  static const IconifyIconData avocado = IconifyIconData.duoPaintOrder(
     IconData(0xe0a7, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe0a7, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -883,8 +883,8 @@ class IconParkIcons {
     IconData(0xe0ac, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `baby-feet` (duo-tone)
-  static const IconifyIconData babyFeet = IconifyIconData.duo(
+  /// `baby-feet` (paint-order duotone)
+  static const IconifyIconData babyFeet = IconifyIconData.duoPaintOrder(
     IconData(0xe0ad, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe0ad, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -1104,8 +1104,8 @@ class IconParkIcons {
     IconData(0xe0d8, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `battery-empty` (duo-tone)
-  static const IconifyIconData batteryEmpty = IconifyIconData.duo(
+  /// `battery-empty` (paint-order duotone)
+  static const IconifyIconData batteryEmpty = IconifyIconData.duoPaintOrder(
     IconData(0xe0d9, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe0d9, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -1210,8 +1210,8 @@ class IconParkIcons {
     IconData(0xe0ed, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `bib` (duo-tone)
-  static const IconifyIconData bib = IconifyIconData.duo(
+  /// `bib` (paint-order duotone)
+  static const IconifyIconData bib = IconifyIconData.duoPaintOrder(
     IconData(0xe0ee, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe0ee, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -1236,8 +1236,8 @@ class IconParkIcons {
     IconData(0xe0f2, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `bird` (duo-tone)
-  static const IconifyIconData bird = IconifyIconData.duo(
+  /// `bird` (paint-order duotone)
+  static const IconifyIconData bird = IconifyIconData.duoPaintOrder(
     IconData(0xe0f3, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe0f3, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -1252,8 +1252,8 @@ class IconParkIcons {
     IconData(0xe0f5, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `black-eight` (duo-tone)
-  static const IconifyIconData blackEight = IconifyIconData.duo(
+  /// `black-eight` (paint-order duotone)
+  static const IconifyIconData blackEight = IconifyIconData.duoPaintOrder(
     IconData(0xe0f6, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe0f6, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -1778,8 +1778,8 @@ class IconParkIcons {
     IconData(0xe15e, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `camera` (duo-tone)
-  static const IconifyIconData camera = IconifyIconData.duo(
+  /// `camera` (paint-order duotone)
+  static const IconifyIconData camera = IconifyIconData.duoPaintOrder(
     IconData(0xe15f, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe15f, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -2054,8 +2054,8 @@ class IconParkIcons {
     IconData(0xe195, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `checkbox` (duo-tone)
-  static const IconifyIconData checkbox = IconifyIconData.duo(
+  /// `checkbox` (paint-order duotone)
+  static const IconifyIconData checkbox = IconifyIconData.duoPaintOrder(
     IconData(0xe196, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe196, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -2550,8 +2550,8 @@ class IconParkIcons {
     IconData(0xe1f8, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `collection-files` (duo-tone)
-  static const IconifyIconData collectionFiles = IconifyIconData.duo(
+  /// `collection-files` (paint-order duotone)
+  static const IconifyIconData collectionFiles = IconifyIconData.duoPaintOrder(
     IconData(0xe1f9, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe1f9, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -2681,8 +2681,8 @@ class IconParkIcons {
     IconData(0xe212, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `config` (duo-tone)
-  static const IconifyIconData config = IconifyIconData.duo(
+  /// `config` (paint-order duotone)
+  static const IconifyIconData config = IconifyIconData.duoPaintOrder(
     IconData(0xe213, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe213, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -2747,8 +2747,8 @@ class IconParkIcons {
     IconData(0xe21f, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `contrast` (duo-tone)
-  static const IconifyIconData contrast = IconifyIconData.duo(
+  /// `contrast` (paint-order duotone)
+  static const IconifyIconData contrast = IconifyIconData.duoPaintOrder(
     IconData(0xe220, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe220, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -2938,8 +2938,8 @@ class IconParkIcons {
     IconData(0xe245, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `crown` (duo-tone)
-  static const IconifyIconData crown = IconifyIconData.duo(
+  /// `crown` (paint-order duotone)
+  static const IconifyIconData crown = IconifyIconData.duoPaintOrder(
     IconData(0xe246, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe246, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -2949,8 +2949,8 @@ class IconParkIcons {
     IconData(0xe247, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `crown-two` (duo-tone)
-  static const IconifyIconData crownTwo = IconifyIconData.duo(
+  /// `crown-two` (paint-order duotone)
+  static const IconifyIconData crownTwo = IconifyIconData.duoPaintOrder(
     IconData(0xe248, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe248, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -3065,14 +3065,14 @@ class IconParkIcons {
     IconData(0xe25e, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `damage-map` (duo-tone)
-  static const IconifyIconData damageMap = IconifyIconData.duo(
+  /// `damage-map` (paint-order duotone)
+  static const IconifyIconData damageMap = IconifyIconData.duoPaintOrder(
     IconData(0xe25f, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe25f, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `dark-mode` (duo-tone)
-  static const IconifyIconData darkMode = IconifyIconData.duo(
+  /// `dark-mode` (paint-order duotone)
+  static const IconifyIconData darkMode = IconifyIconData.duoPaintOrder(
     IconData(0xe260, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe260, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -3442,8 +3442,8 @@ class IconParkIcons {
     IconData(0xe2a9, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `direction` (duo-tone)
-  static const IconifyIconData direction = IconifyIconData.duo(
+  /// `direction` (paint-order duotone)
+  static const IconifyIconData direction = IconifyIconData.duoPaintOrder(
     IconData(0xe2aa, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe2aa, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -3638,8 +3638,8 @@ class IconParkIcons {
     IconData(0xe2d0, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `dolphin` (duo-tone)
-  static const IconifyIconData dolphin = IconifyIconData.duo(
+  /// `dolphin` (paint-order duotone)
+  static const IconifyIconData dolphin = IconifyIconData.duoPaintOrder(
     IconData(0xe2d1, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe2d1, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -3869,8 +3869,8 @@ class IconParkIcons {
     IconData(0xe2fe, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `eagle` (duo-tone)
-  static const IconifyIconData eagle = IconifyIconData.duo(
+  /// `eagle` (paint-order duotone)
+  static const IconifyIconData eagle = IconifyIconData.duoPaintOrder(
     IconData(0xe2ff, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe2ff, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -4090,8 +4090,8 @@ class IconParkIcons {
     IconData(0xe32a, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `endocrine` (duo-tone)
-  static const IconifyIconData endocrine = IconifyIconData.duo(
+  /// `endocrine` (paint-order duotone)
+  static const IconifyIconData endocrine = IconifyIconData.duoPaintOrder(
     IconData(0xe32b, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe32b, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -4346,8 +4346,8 @@ class IconParkIcons {
     IconData(0xe35d, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `extend` (duo-tone)
-  static const IconifyIconData extend = IconifyIconData.duo(
+  /// `extend` (paint-order duotone)
+  static const IconifyIconData extend = IconifyIconData.duoPaintOrder(
     IconData(0xe35e, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe35e, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -4357,8 +4357,8 @@ class IconParkIcons {
     IconData(0xe35f, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `eyebrow` (duo-tone)
-  static const IconifyIconData eyebrow = IconifyIconData.duo(
+  /// `eyebrow` (paint-order duotone)
+  static const IconifyIconData eyebrow = IconifyIconData.duoPaintOrder(
     IconData(0xe360, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe360, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -4453,8 +4453,8 @@ class IconParkIcons {
     IconData(0xe372, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `facetime` (duo-tone)
-  static const IconifyIconData facetime = IconifyIconData.duo(
+  /// `facetime` (paint-order duotone)
+  static const IconifyIconData facetime = IconifyIconData.duoPaintOrder(
     IconData(0xe373, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe373, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -4474,8 +4474,8 @@ class IconParkIcons {
     IconData(0xe376, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `factory-building` (duo-tone)
-  static const IconifyIconData factoryBuilding = IconifyIconData.duo(
+  /// `factory-building` (paint-order duotone)
+  static const IconifyIconData factoryBuilding = IconifyIconData.duoPaintOrder(
     IconData(0xe377, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe377, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -4535,8 +4535,8 @@ class IconParkIcons {
     IconData(0xe382, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `figma` (duo-tone)
-  static const IconifyIconData figma = IconifyIconData.duo(
+  /// `figma` (paint-order duotone)
+  static const IconifyIconData figma = IconifyIconData.duoPaintOrder(
     IconData(0xe383, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe383, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -4886,8 +4886,8 @@ class IconParkIcons {
     IconData(0xe3c8, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `financing` (duo-tone)
-  static const IconifyIconData financing = IconifyIconData.duo(
+  /// `financing` (paint-order duotone)
+  static const IconifyIconData financing = IconifyIconData.duoPaintOrder(
     IconData(0xe3c9, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe3c9, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -4972,8 +4972,8 @@ class IconParkIcons {
     IconData(0xe3d9, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `fish-one` (duo-tone)
-  static const IconifyIconData fishOne = IconifyIconData.duo(
+  /// `fish-one` (paint-order duotone)
+  static const IconifyIconData fishOne = IconifyIconData.duoPaintOrder(
     IconData(0xe3da, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe3da, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -5163,8 +5163,8 @@ class IconParkIcons {
     IconData(0xe3ff, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `folder-focus` (duo-tone)
-  static const IconifyIconData folderFocus = IconifyIconData.duo(
+  /// `folder-focus` (paint-order duotone)
+  static const IconifyIconData folderFocus = IconifyIconData.duoPaintOrder(
     IconData(0xe400, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe400, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -5214,8 +5214,8 @@ class IconParkIcons {
     IconData(0xe409, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `folder-protection` (duo-tone)
-  static const IconifyIconData folderProtection = IconifyIconData.duo(
+  /// `folder-protection` (paint-order duotone)
+  static const IconifyIconData folderProtection = IconifyIconData.duoPaintOrder(
     IconData(0xe40a, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe40a, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -5225,8 +5225,8 @@ class IconParkIcons {
     IconData(0xe40b, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `folder-quality` (duo-tone)
-  static const IconifyIconData folderQuality = IconifyIconData.duo(
+  /// `folder-quality` (paint-order duotone)
+  static const IconifyIconData folderQuality = IconifyIconData.duoPaintOrder(
     IconData(0xe40c, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe40c, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -5426,8 +5426,8 @@ class IconParkIcons {
     IconData(0xe433, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `frog` (duo-tone)
-  static const IconifyIconData frog = IconifyIconData.duo(
+  /// `frog` (paint-order duotone)
+  static const IconifyIconData frog = IconifyIconData.duoPaintOrder(
     IconData(0xe434, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe434, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -5577,8 +5577,8 @@ class IconParkIcons {
     IconData(0xe451, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `gavel` (duo-tone)
-  static const IconifyIconData gavel = IconifyIconData.duo(
+  /// `gavel` (paint-order duotone)
+  static const IconifyIconData gavel = IconifyIconData.duoPaintOrder(
     IconData(0xe452, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe452, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -5753,8 +5753,8 @@ class IconParkIcons {
     IconData(0xe474, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `google` (duo-tone)
-  static const IconifyIconData google = IconifyIconData.duo(
+  /// `google` (paint-order duotone)
+  static const IconifyIconData google = IconifyIconData.duoPaintOrder(
     IconData(0xe475, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe475, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -5769,8 +5769,8 @@ class IconParkIcons {
     IconData(0xe477, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `gps` (duo-tone)
-  static const IconifyIconData gps = IconifyIconData.duo(
+  /// `gps` (paint-order duotone)
+  static const IconifyIconData gps = IconifyIconData.duoPaintOrder(
     IconData(0xe478, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe478, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -6015,20 +6015,20 @@ class IconParkIcons {
     IconData(0xe4a8, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `handle-down` (duo-tone)
-  static const IconifyIconData handleDown = IconifyIconData.duo(
+  /// `handle-down` (paint-order duotone)
+  static const IconifyIconData handleDown = IconifyIconData.duoPaintOrder(
     IconData(0xe4a9, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe4a9, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `handle-left` (duo-tone)
-  static const IconifyIconData handleLeft = IconifyIconData.duo(
+  /// `handle-left` (paint-order duotone)
+  static const IconifyIconData handleLeft = IconifyIconData.duoPaintOrder(
     IconData(0xe4aa, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe4aa, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `handle-right` (duo-tone)
-  static const IconifyIconData handleRight = IconifyIconData.duo(
+  /// `handle-right` (paint-order duotone)
+  static const IconifyIconData handleRight = IconifyIconData.duoPaintOrder(
     IconData(0xe4ab, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe4ab, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -6048,8 +6048,8 @@ class IconParkIcons {
     IconData(0xe4ae, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `handle-up` (duo-tone)
-  static const IconifyIconData handleUp = IconifyIconData.duo(
+  /// `handle-up` (paint-order duotone)
+  static const IconifyIconData handleUp = IconifyIconData.duoPaintOrder(
     IconData(0xe4af, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe4af, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -6169,8 +6169,8 @@ class IconParkIcons {
     IconData(0xe4c6, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `health` (duo-tone)
-  static const IconifyIconData health = IconifyIconData.duo(
+  /// `health` (paint-order duotone)
+  static const IconifyIconData health = IconifyIconData.duoPaintOrder(
     IconData(0xe4c7, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe4c7, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -6570,8 +6570,8 @@ class IconParkIcons {
     IconData(0xe516, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `inclusive-gateway` (duo-tone)
-  static const IconifyIconData inclusiveGateway = IconifyIconData.duo(
+  /// `inclusive-gateway` (paint-order duotone)
+  static const IconifyIconData inclusiveGateway = IconifyIconData.duoPaintOrder(
     IconData(0xe517, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe517, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -6916,8 +6916,8 @@ class IconParkIcons {
     IconData(0xe55b, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `keyhole` (duo-tone)
-  static const IconifyIconData keyhole = IconifyIconData.duo(
+  /// `keyhole` (paint-order duotone)
+  static const IconifyIconData keyhole = IconifyIconData.duoPaintOrder(
     IconData(0xe55c, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe55c, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -7427,8 +7427,8 @@ class IconParkIcons {
     IconData(0xe5c1, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `local-two` (duo-tone)
-  static const IconifyIconData localTwo = IconifyIconData.duo(
+  /// `local-two` (paint-order duotone)
+  static const IconifyIconData localTwo = IconifyIconData.duoPaintOrder(
     IconData(0xe5c2, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe5c2, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -7918,8 +7918,8 @@ class IconParkIcons {
     IconData(0xe623, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `messages-one` (duo-tone)
-  static const IconifyIconData messagesOne = IconifyIconData.duo(
+  /// `messages-one` (paint-order duotone)
+  static const IconifyIconData messagesOne = IconifyIconData.duoPaintOrder(
     IconData(0xe624, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe624, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -8124,14 +8124,14 @@ class IconParkIcons {
     IconData(0xe64c, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `more-three` (duo-tone)
-  static const IconifyIconData moreThree = IconifyIconData.duo(
+  /// `more-three` (paint-order duotone)
+  static const IconifyIconData moreThree = IconifyIconData.duoPaintOrder(
     IconData(0xe64d, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe64d, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `more-two` (duo-tone)
-  static const IconifyIconData moreTwo = IconifyIconData.duo(
+  /// `more-two` (paint-order duotone)
+  static const IconifyIconData moreTwo = IconifyIconData.duoPaintOrder(
     IconData(0xe64e, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe64e, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -8306,8 +8306,8 @@ class IconParkIcons {
     IconData(0xe670, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `mute` (duo-tone)
-  static const IconifyIconData mute = IconifyIconData.duo(
+  /// `mute` (paint-order duotone)
+  static const IconifyIconData mute = IconifyIconData.duoPaintOrder(
     IconData(0xe671, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe671, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -8392,8 +8392,8 @@ class IconParkIcons {
     IconData(0xe681, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `new-dianziqian` (duo-tone)
-  static const IconifyIconData newDianziqian = IconifyIconData.duo(
+  /// `new-dianziqian` (paint-order duotone)
+  static const IconifyIconData newDianziqian = IconifyIconData.duoPaintOrder(
     IconData(0xe682, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe682, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -8743,8 +8743,8 @@ class IconParkIcons {
     IconData(0xe6c7, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `painted-eggshell` (duo-tone)
-  static const IconifyIconData paintedEggshell = IconifyIconData.duo(
+  /// `painted-eggshell` (paint-order duotone)
+  static const IconifyIconData paintedEggshell = IconifyIconData.duoPaintOrder(
     IconData(0xe6c8, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe6c8, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9184,8 +9184,8 @@ class IconParkIcons {
     IconData(0xe71f, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `phone-two` (duo-tone)
-  static const IconifyIconData phoneTwo = IconifyIconData.duo(
+  /// `phone-two` (paint-order duotone)
+  static const IconifyIconData phoneTwo = IconifyIconData.duoPaintOrder(
     IconData(0xe720, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe720, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9290,8 +9290,8 @@ class IconParkIcons {
     IconData(0xe734, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `pill` (duo-tone)
-  static const IconifyIconData pill = IconifyIconData.duo(
+  /// `pill` (paint-order duotone)
+  static const IconifyIconData pill = IconifyIconData.duoPaintOrder(
     IconData(0xe735, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe735, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9341,14 +9341,14 @@ class IconParkIcons {
     IconData(0xe73e, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `platte` (duo-tone)
-  static const IconifyIconData platte = IconifyIconData.duo(
+  /// `platte` (paint-order duotone)
+  static const IconifyIconData platte = IconifyIconData.duoPaintOrder(
     IconData(0xe73f, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe73f, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `play` (duo-tone)
-  static const IconifyIconData play = IconifyIconData.duo(
+  /// `play` (paint-order duotone)
+  static const IconifyIconData play = IconifyIconData.duoPaintOrder(
     IconData(0xe740, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe740, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9373,8 +9373,8 @@ class IconParkIcons {
     IconData(0xe744, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `play-two` (duo-tone)
-  static const IconifyIconData playTwo = IconifyIconData.duo(
+  /// `play-two` (paint-order duotone)
+  static const IconifyIconData playTwo = IconifyIconData.duoPaintOrder(
     IconData(0xe745, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe745, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9534,8 +9534,8 @@ class IconParkIcons {
     IconData(0xe764, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `preview-open` (duo-tone)
-  static const IconifyIconData previewOpen = IconifyIconData.duo(
+  /// `preview-open` (paint-order duotone)
+  static const IconifyIconData previewOpen = IconifyIconData.duoPaintOrder(
     IconData(0xe765, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe765, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9650,8 +9650,8 @@ class IconParkIcons {
     IconData(0xe77b, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `qingniao-clue` (duo-tone)
-  static const IconifyIconData qingniaoClue = IconifyIconData.duo(
+  /// `qingniao-clue` (paint-order duotone)
+  static const IconifyIconData qingniaoClue = IconifyIconData.duoPaintOrder(
     IconData(0xe77c, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe77c, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9706,8 +9706,8 @@ class IconParkIcons {
     IconData(0xe786, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `radiation` (duo-tone)
-  static const IconifyIconData radiation = IconifyIconData.duo(
+  /// `radiation` (paint-order duotone)
+  static const IconifyIconData radiation = IconifyIconData.duoPaintOrder(
     IconData(0xe787, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe787, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9727,8 +9727,8 @@ class IconParkIcons {
     IconData(0xe78a, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `radio-two` (duo-tone)
-  static const IconifyIconData radioTwo = IconifyIconData.duo(
+  /// `radio-two` (paint-order duotone)
+  static const IconifyIconData radioTwo = IconifyIconData.duoPaintOrder(
     IconData(0xe78b, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe78b, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9863,8 +9863,8 @@ class IconParkIcons {
     IconData(0xe7a5, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `red-cross` (duo-tone)
-  static const IconifyIconData redCross = IconifyIconData.duo(
+  /// `red-cross` (paint-order duotone)
+  static const IconifyIconData redCross = IconifyIconData.duoPaintOrder(
     IconData(0xe7a6, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe7a6, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -9899,8 +9899,8 @@ class IconParkIcons {
     IconData(0xe7ac, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `reduce-two` (duo-tone)
-  static const IconifyIconData reduceTwo = IconifyIconData.duo(
+  /// `reduce-two` (paint-order duotone)
+  static const IconifyIconData reduceTwo = IconifyIconData.duoPaintOrder(
     IconData(0xe7ad, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe7ad, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -10665,8 +10665,8 @@ class IconParkIcons {
     IconData(0xe845, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `server` (duo-tone)
-  static const IconifyIconData server = IconifyIconData.duo(
+  /// `server` (paint-order duotone)
+  static const IconifyIconData server = IconifyIconData.duoPaintOrder(
     IconData(0xe846, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe846, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -10676,8 +10676,8 @@ class IconParkIcons {
     IconData(0xe847, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `setting` (duo-tone)
-  static const IconifyIconData setting = IconifyIconData.duo(
+  /// `setting` (paint-order duotone)
+  static const IconifyIconData setting = IconifyIconData.duoPaintOrder(
     IconData(0xe848, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe848, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -10697,8 +10697,8 @@ class IconParkIcons {
     IconData(0xe84b, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `setting-one` (duo-tone)
-  static const IconifyIconData settingOne = IconifyIconData.duo(
+  /// `setting-one` (paint-order duotone)
+  static const IconifyIconData settingOne = IconifyIconData.duoPaintOrder(
     IconData(0xe84c, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe84c, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -10708,8 +10708,8 @@ class IconParkIcons {
     IconData(0xe84d, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `setting-two` (duo-tone)
-  static const IconifyIconData settingTwo = IconifyIconData.duo(
+  /// `setting-two` (paint-order duotone)
+  static const IconifyIconData settingTwo = IconifyIconData.duoPaintOrder(
     IconData(0xe84e, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe84e, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -10984,8 +10984,8 @@ class IconParkIcons {
     IconData(0xe884, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `sketch` (duo-tone)
-  static const IconifyIconData sketch = IconifyIconData.duo(
+  /// `sketch` (paint-order duotone)
+  static const IconifyIconData sketch = IconifyIconData.duoPaintOrder(
     IconData(0xe885, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe885, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -11240,8 +11240,8 @@ class IconParkIcons {
     IconData(0xe8b7, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `speaker` (duo-tone)
-  static const IconifyIconData speaker = IconifyIconData.duo(
+  /// `speaker` (paint-order duotone)
+  static const IconifyIconData speaker = IconifyIconData.duoPaintOrder(
     IconData(0xe8b8, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe8b8, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -11346,8 +11346,8 @@ class IconParkIcons {
     IconData(0xe8cc, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `stamp` (duo-tone)
-  static const IconifyIconData stamp = IconifyIconData.duo(
+  /// `stamp` (paint-order duotone)
+  static const IconifyIconData stamp = IconifyIconData.duoPaintOrder(
     IconData(0xe8cd, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe8cd, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -11507,8 +11507,8 @@ class IconParkIcons {
     IconData(0xe8ec, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `sun-one` (duo-tone)
-  static const IconifyIconData sunOne = IconifyIconData.duo(
+  /// `sun-one` (paint-order duotone)
+  static const IconifyIconData sunOne = IconifyIconData.duoPaintOrder(
     IconData(0xe8ed, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe8ed, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -11603,8 +11603,8 @@ class IconParkIcons {
     IconData(0xe8ff, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `switch-button` (duo-tone)
-  static const IconifyIconData switchButton = IconifyIconData.duo(
+  /// `switch-button` (paint-order duotone)
+  static const IconifyIconData switchButton = IconifyIconData.duoPaintOrder(
     IconData(0xe900, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe900, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -11699,8 +11699,8 @@ class IconParkIcons {
     IconData(0xe912, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `tag-one` (duo-tone)
-  static const IconifyIconData tagOne = IconifyIconData.duo(
+  /// `tag-one` (paint-order duotone)
+  static const IconifyIconData tagOne = IconifyIconData.duoPaintOrder(
     IconData(0xe913, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe913, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -12400,8 +12400,8 @@ class IconParkIcons {
     IconData(0xe99e, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `tumblr` (duo-tone)
-  static const IconifyIconData tumblr = IconifyIconData.duo(
+  /// `tumblr` (paint-order duotone)
+  static const IconifyIconData tumblr = IconifyIconData.duoPaintOrder(
     IconData(0xe99f, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe99f, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -12816,8 +12816,8 @@ class IconParkIcons {
     IconData(0xe9f1, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `video-one` (duo-tone)
-  static const IconifyIconData videoOne = IconifyIconData.duo(
+  /// `video-one` (paint-order duotone)
+  static const IconifyIconData videoOne = IconifyIconData.duoPaintOrder(
     IconData(0xe9f2, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe9f2, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -12842,8 +12842,8 @@ class IconParkIcons {
     IconData(0xe9f6, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `view-grid-card` (duo-tone)
-  static const IconifyIconData viewGridCard = IconifyIconData.duo(
+  /// `view-grid-card` (paint-order duotone)
+  static const IconifyIconData viewGridCard = IconifyIconData.duoPaintOrder(
     IconData(0xe9f7, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe9f7, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -12868,8 +12868,8 @@ class IconParkIcons {
     IconData(0xe9fb, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `vigo` (duo-tone)
-  static const IconifyIconData vigo = IconifyIconData.duo(
+  /// `vigo` (paint-order duotone)
+  static const IconifyIconData vigo = IconifyIconData.duoPaintOrder(
     IconData(0xe9fc, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xe9fc, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -12959,8 +12959,8 @@ class IconParkIcons {
     IconData(0xea0d, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `vr-glasses` (duo-tone)
-  static const IconifyIconData vrGlasses = IconifyIconData.duo(
+  /// `vr-glasses` (paint-order duotone)
+  static const IconifyIconData vrGlasses = IconifyIconData.duoPaintOrder(
     IconData(0xea0e, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xea0e, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -13095,8 +13095,8 @@ class IconParkIcons {
     IconData(0xea28, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `webcam` (duo-tone)
-  static const IconifyIconData webcam = IconifyIconData.duo(
+  /// `webcam` (paint-order duotone)
+  static const IconifyIconData webcam = IconifyIconData.duoPaintOrder(
     IconData(0xea29, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xea29, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -13316,14 +13316,14 @@ class IconParkIcons {
     IconData(0xea54, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `xigua` (duo-tone)
-  static const IconifyIconData xigua = IconifyIconData.duo(
+  /// `xigua` (paint-order duotone)
+  static const IconifyIconData xigua = IconifyIconData.duoPaintOrder(
     IconData(0xea55, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xea55, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `xingfuli` (duo-tone)
-  static const IconifyIconData xingfuli = IconifyIconData.duo(
+  /// `xingfuli` (paint-order duotone)
+  static const IconifyIconData xingfuli = IconifyIconData.duoPaintOrder(
     IconData(0xea56, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xea56, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -13338,14 +13338,14 @@ class IconParkIcons {
     IconData(0xea58, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `youtobe` (duo-tone)
-  static const IconifyIconData youtobe = IconifyIconData.duo(
+  /// `youtobe` (paint-order duotone)
+  static const IconifyIconData youtobe = IconifyIconData.duoPaintOrder(
     IconData(0xea59, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xea59, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `youtube` (duo-tone)
-  static const IconifyIconData youtube = IconifyIconData.duo(
+  /// `youtube` (paint-order duotone)
+  static const IconifyIconData youtube = IconifyIconData.duoPaintOrder(
     IconData(0xea5a, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xea5a, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );
@@ -13355,8 +13355,8 @@ class IconParkIcons {
     IconData(0xea5b, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `zijinyunying` (duo-tone)
-  static const IconifyIconData zijinyunying = IconifyIconData.duo(
+  /// `zijinyunying` (paint-order duotone)
+  static const IconifyIconData zijinyunying = IconifyIconData.duoPaintOrder(
     IconData(0xea5c, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
     IconData(0xea5c, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'),
   );

@@ -16,14 +16,14 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 class NotoV1Icons {
   const NotoV1Icons._();
 
-  /// `ab-button` (duo-tone)
-  static const IconifyIconData abButton = IconifyIconData.duo(
+  /// `ab-button` (paint-order duotone)
+  static const IconifyIconData abButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1cf, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1cf, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ab-button-blood-type` (duo-tone)
-  static const IconifyIconData abButtonBloodType = IconifyIconData.duo(
+  /// `ab-button-blood-type` (paint-order duotone)
+  static const IconifyIconData abButtonBloodType = IconifyIconData.duoPaintOrder(
     IconData(0xe1d0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d0, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -43,8 +43,8 @@ class NotoV1Icons {
     IconData(0xe2f5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `american-football` (duo-tone)
-  static const IconifyIconData americanFootball = IconifyIconData.duo(
+  /// `american-football` (paint-order duotone)
+  static const IconifyIconData americanFootball = IconifyIconData.duoPaintOrder(
     IconData(0xe1d1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -104,20 +104,20 @@ class NotoV1Icons {
     IconData(0xe2f6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `b-button` (duo-tone)
-  static const IconifyIconData bButton = IconifyIconData.duo(
+  /// `b-button` (paint-order duotone)
+  static const IconifyIconData bButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1d2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d2, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `b-button-blood-type` (duo-tone)
-  static const IconifyIconData bButtonBloodType = IconifyIconData.duo(
+  /// `b-button-blood-type` (paint-order duotone)
+  static const IconifyIconData bButtonBloodType = IconifyIconData.duoPaintOrder(
     IconData(0xe1d3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d3, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `back-arrow` (duo-tone)
-  static const IconifyIconData backArrow = IconifyIconData.duo(
+  /// `back-arrow` (paint-order duotone)
+  static const IconifyIconData backArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe010, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe010, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -147,8 +147,8 @@ class NotoV1Icons {
     IconData(0xe016, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `beating-heart` (duo-tone)
-  static const IconifyIconData beatingHeart = IconifyIconData.duo(
+  /// `beating-heart` (paint-order duotone)
+  static const IconifyIconData beatingHeart = IconifyIconData.duoPaintOrder(
     IconData(0xe1d4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d4, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -158,8 +158,8 @@ class NotoV1Icons {
     IconData(0xe251, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `bikini` (duo-tone)
-  static const IconifyIconData bikini = IconifyIconData.duo(
+  /// `bikini` (paint-order duotone)
+  static const IconifyIconData bikini = IconifyIconData.duoPaintOrder(
     IconData(0xe018, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe018, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -179,14 +179,14 @@ class NotoV1Icons {
     IconData(0xe01b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `black-square-button` (duo-tone)
-  static const IconifyIconData blackSquareButton = IconifyIconData.duo(
+  /// `black-square-button` (paint-order duotone)
+  static const IconifyIconData blackSquareButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1d5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d5, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `blossom` (duo-tone)
-  static const IconifyIconData blossom = IconifyIconData.duo(
+  /// `blossom` (paint-order duotone)
+  static const IconifyIconData blossom = IconifyIconData.duoPaintOrder(
     IconData(0xe1d6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d6, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -226,44 +226,44 @@ class NotoV1Icons {
     IconData(0xe025, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `cactus` (duo-tone)
-  static const IconifyIconData cactus = IconifyIconData.duo(
+  /// `cactus` (paint-order duotone)
+  static const IconifyIconData cactus = IconifyIconData.duoPaintOrder(
     IconData(0xe1d7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d7, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `call-me-hand` (duo-tone)
-  static const IconifyIconData callMeHand = IconifyIconData.duo(
+  /// `call-me-hand` (paint-order duotone)
+  static const IconifyIconData callMeHand = IconifyIconData.duoPaintOrder(
     IconData(0xe026, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe026, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `call-me-hand-dark-skin-tone` (duo-tone)
-  static const IconifyIconData callMeHandDarkSkinTone = IconifyIconData.duo(
+  /// `call-me-hand-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData callMeHandDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1d8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d8, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `call-me-hand-light-skin-tone` (duo-tone)
-  static const IconifyIconData callMeHandLightSkinTone = IconifyIconData.duo(
+  /// `call-me-hand-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData callMeHandLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1d9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d9, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `call-me-hand-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData callMeHandMediumDarkSkinTone = IconifyIconData.duo(
+  /// `call-me-hand-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData callMeHandMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1da, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1da, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `call-me-hand-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData callMeHandMediumLightSkinTone = IconifyIconData.duo(
+  /// `call-me-hand-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData callMeHandMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1db, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1db, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `call-me-hand-medium-skin-tone` (duo-tone)
-  static const IconifyIconData callMeHandMediumSkinTone = IconifyIconData.duo(
+  /// `call-me-hand-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData callMeHandMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1dc, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1dc, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -283,14 +283,14 @@ class NotoV1Icons {
     IconData(0xe029, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `cat-face-with-wry-smile` (duo-tone)
-  static const IconifyIconData catFaceWithWrySmile = IconifyIconData.duo(
+  /// `cat-face-with-wry-smile` (paint-order duotone)
+  static const IconifyIconData catFaceWithWrySmile = IconifyIconData.duoPaintOrder(
     IconData(0xe1dd, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1dd, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `cat-with-wry-smile` (duo-tone)
-  static const IconifyIconData catWithWrySmile = IconifyIconData.duo(
+  /// `cat-with-wry-smile` (paint-order duotone)
+  static const IconifyIconData catWithWrySmile = IconifyIconData.duoPaintOrder(
     IconData(0xe1de, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1de, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -310,14 +310,14 @@ class NotoV1Icons {
     IconData(0xe02f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `check-mark-button` (duo-tone)
-  static const IconifyIconData checkMarkButton = IconifyIconData.duo(
+  /// `check-mark-button` (paint-order duotone)
+  static const IconifyIconData checkMarkButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1df, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1df, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `cherry-blossom` (duo-tone)
-  static const IconifyIconData cherryBlossom = IconifyIconData.duo(
+  /// `cherry-blossom` (paint-order duotone)
+  static const IconifyIconData cherryBlossom = IconifyIconData.duoPaintOrder(
     IconData(0xe1e0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e0, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -337,8 +337,8 @@ class NotoV1Icons {
     IconData(0xe035, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `cl-button` (duo-tone)
-  static const IconifyIconData clButton = IconifyIconData.duo(
+  /// `cl-button` (paint-order duotone)
+  static const IconifyIconData clButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1e1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -378,8 +378,8 @@ class NotoV1Icons {
     IconData(0xe038, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `cloud` (duo-tone)
-  static const IconifyIconData cloud = IconifyIconData.duo(
+  /// `cloud` (paint-order duotone)
+  static const IconifyIconData cloud = IconifyIconData.duoPaintOrder(
     IconData(0xe03a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe03a, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -389,8 +389,8 @@ class NotoV1Icons {
     IconData(0xe03f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `clutch-bag` (duo-tone)
-  static const IconifyIconData clutchBag = IconifyIconData.duo(
+  /// `clutch-bag` (paint-order duotone)
+  static const IconifyIconData clutchBag = IconifyIconData.duoPaintOrder(
     IconData(0xe1e2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e2, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -400,14 +400,14 @@ class NotoV1Icons {
     IconData(0xe2fa, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `collision` (duo-tone)
-  static const IconifyIconData collision = IconifyIconData.duo(
+  /// `collision` (paint-order duotone)
+  static const IconifyIconData collision = IconifyIconData.duoPaintOrder(
     IconData(0xe040, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe040, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `confounded-face` (duo-tone)
-  static const IconifyIconData confoundedFace = IconifyIconData.duo(
+  /// `confounded-face` (paint-order duotone)
+  static const IconifyIconData confoundedFace = IconifyIconData.duoPaintOrder(
     IconData(0xe043, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe043, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -447,8 +447,8 @@ class NotoV1Icons {
     IconData(0xe04b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `cross-mark-button` (duo-tone)
-  static const IconifyIconData crossMarkButton = IconifyIconData.duo(
+  /// `cross-mark-button` (paint-order duotone)
+  static const IconifyIconData crossMarkButton = IconifyIconData.duoPaintOrder(
     IconData(0xe04c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe04c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -463,8 +463,8 @@ class NotoV1Icons {
     IconData(0xe051, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `diamond-with-a-dot` (duo-tone)
-  static const IconifyIconData diamondWithADot = IconifyIconData.duo(
+  /// `diamond-with-a-dot` (paint-order duotone)
+  static const IconifyIconData diamondWithADot = IconifyIconData.duoPaintOrder(
     IconData(0xe1e3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e3, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -524,8 +524,8 @@ class NotoV1Icons {
     IconData(0xe05e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `disappointed-face` (duo-tone)
-  static const IconifyIconData disappointedFace = IconifyIconData.duo(
+  /// `disappointed-face` (paint-order duotone)
+  static const IconifyIconData disappointedFace = IconifyIconData.duoPaintOrder(
     IconData(0xe061, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe061, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -535,8 +535,8 @@ class NotoV1Icons {
     IconData(0xe062, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `dog-face` (duo-tone)
-  static const IconifyIconData dogFace = IconifyIconData.duo(
+  /// `dog-face` (paint-order duotone)
+  static const IconifyIconData dogFace = IconifyIconData.duoPaintOrder(
     IconData(0xe1e4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e4, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -581,44 +581,44 @@ class NotoV1Icons {
     IconData(0xe25c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ear` (duo-tone)
-  static const IconifyIconData ear = IconifyIconData.duo(
+  /// `ear` (paint-order duotone)
+  static const IconifyIconData ear = IconifyIconData.duoPaintOrder(
     IconData(0xe06d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe06d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ear-dark-skin-tone` (duo-tone)
-  static const IconifyIconData earDarkSkinTone = IconifyIconData.duo(
+  /// `ear-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData earDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1e5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e5, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ear-light-skin-tone` (duo-tone)
-  static const IconifyIconData earLightSkinTone = IconifyIconData.duo(
+  /// `ear-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData earLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1e6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e6, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ear-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData earMediumDarkSkinTone = IconifyIconData.duo(
+  /// `ear-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData earMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1e7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e7, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ear-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData earMediumLightSkinTone = IconifyIconData.duo(
+  /// `ear-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData earMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1e8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e8, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ear-medium-skin-tone` (duo-tone)
-  static const IconifyIconData earMediumSkinTone = IconifyIconData.duo(
+  /// `ear-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData earMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1e9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e9, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `egg` (duo-tone)
-  static const IconifyIconData egg = IconifyIconData.duo(
+  /// `egg` (paint-order duotone)
+  static const IconifyIconData egg = IconifyIconData.duoPaintOrder(
     IconData(0xe06e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe06e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -633,8 +633,8 @@ class NotoV1Icons {
     IconData(0xe071, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `end-arrow` (duo-tone)
-  static const IconifyIconData endArrow = IconifyIconData.duo(
+  /// `end-arrow` (paint-order duotone)
+  static const IconifyIconData endArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe073, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe073, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -659,14 +659,14 @@ class NotoV1Icons {
     IconData(0xe077, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `expressionless-face` (duo-tone)
-  static const IconifyIconData expressionlessFace = IconifyIconData.duo(
+  /// `expressionless-face` (paint-order duotone)
+  static const IconifyIconData expressionlessFace = IconifyIconData.duoPaintOrder(
     IconData(0xe078, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe078, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `eyes` (duo-tone)
-  static const IconifyIconData eyes = IconifyIconData.duo(
+  /// `eyes` (paint-order duotone)
+  static const IconifyIconData eyes = IconifyIconData.duoPaintOrder(
     IconData(0xe07a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe07a, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -686,14 +686,14 @@ class NotoV1Icons {
     IconData(0xe25f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `face-without-mouth` (duo-tone)
-  static const IconifyIconData faceWithoutMouth = IconifyIconData.duo(
+  /// `face-without-mouth` (paint-order duotone)
+  static const IconifyIconData faceWithoutMouth = IconifyIconData.duoPaintOrder(
     IconData(0xe07d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe07d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `fallen-leaf` (duo-tone)
-  static const IconifyIconData fallenLeaf = IconifyIconData.duo(
+  /// `fallen-leaf` (paint-order duotone)
+  static const IconifyIconData fallenLeaf = IconifyIconData.duoPaintOrder(
     IconData(0xe1ea, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1ea, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -723,44 +723,44 @@ class NotoV1Icons {
     IconData(0xe083, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `file-folder` (duo-tone)
-  static const IconifyIconData fileFolder = IconifyIconData.duo(
+  /// `file-folder` (paint-order duotone)
+  static const IconifyIconData fileFolder = IconifyIconData.duoPaintOrder(
     IconData(0xe084, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe084, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `film-frames` (duo-tone)
-  static const IconifyIconData filmFrames = IconifyIconData.duo(
+  /// `film-frames` (paint-order duotone)
+  static const IconifyIconData filmFrames = IconifyIconData.duoPaintOrder(
     IconData(0xe1eb, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1eb, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `fire` (duo-tone)
-  static const IconifyIconData fire = IconifyIconData.duo(
+  /// `fire` (paint-order duotone)
+  static const IconifyIconData fire = IconifyIconData.duoPaintOrder(
     IconData(0xe086, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe086, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `first-quarter-moon-face` (duo-tone)
-  static const IconifyIconData firstQuarterMoonFace = IconifyIconData.duo(
+  /// `first-quarter-moon-face` (paint-order duotone)
+  static const IconifyIconData firstQuarterMoonFace = IconifyIconData.duoPaintOrder(
     IconData(0xe088, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe088, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `first-quarter-moon-with-face` (duo-tone)
-  static const IconifyIconData firstQuarterMoonWithFace = IconifyIconData.duo(
+  /// `first-quarter-moon-with-face` (paint-order duotone)
+  static const IconifyIconData firstQuarterMoonWithFace = IconifyIconData.duoPaintOrder(
     IconData(0xe089, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe089, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `flag-for-china` (duo-tone)
-  static const IconifyIconData flagForChina = IconifyIconData.duo(
+  /// `flag-for-china` (paint-order duotone)
+  static const IconifyIconData flagForChina = IconifyIconData.duoPaintOrder(
     IconData(0xe08c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe08c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `flag-for-flag-china` (duo-tone)
-  static const IconifyIconData flagForFlagChina = IconifyIconData.duo(
+  /// `flag-for-flag-china` (paint-order duotone)
+  static const IconifyIconData flagForFlagChina = IconifyIconData.duoPaintOrder(
     IconData(0xe08d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe08d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -775,44 +775,44 @@ class NotoV1Icons {
     IconData(0xe261, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `flag-for-triangular-flag` (duo-tone)
-  static const IconifyIconData flagForTriangularFlag = IconifyIconData.duo(
+  /// `flag-for-triangular-flag` (paint-order duotone)
+  static const IconifyIconData flagForTriangularFlag = IconifyIconData.duoPaintOrder(
     IconData(0xe08e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe08e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `flexed-biceps` (duo-tone)
-  static const IconifyIconData flexedBiceps = IconifyIconData.duo(
+  /// `flexed-biceps` (paint-order duotone)
+  static const IconifyIconData flexedBiceps = IconifyIconData.duoPaintOrder(
     IconData(0xe091, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe091, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `flexed-biceps-dark-skin-tone` (duo-tone)
-  static const IconifyIconData flexedBicepsDarkSkinTone = IconifyIconData.duo(
+  /// `flexed-biceps-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData flexedBicepsDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1ec, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1ec, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `flexed-biceps-light-skin-tone` (duo-tone)
-  static const IconifyIconData flexedBicepsLightSkinTone = IconifyIconData.duo(
+  /// `flexed-biceps-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData flexedBicepsLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1ed, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1ed, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `flexed-biceps-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData flexedBicepsMediumDarkSkinTone = IconifyIconData.duo(
+  /// `flexed-biceps-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData flexedBicepsMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1ee, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1ee, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `flexed-biceps-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData flexedBicepsMediumLightSkinTone = IconifyIconData.duo(
+  /// `flexed-biceps-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData flexedBicepsMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1ef, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1ef, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `flexed-biceps-medium-skin-tone` (duo-tone)
-  static const IconifyIconData flexedBicepsMediumSkinTone = IconifyIconData.duo(
+  /// `flexed-biceps-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData flexedBicepsMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe1f0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f0, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -822,8 +822,8 @@ class NotoV1Icons {
     IconData(0xe262, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `fog` (duo-tone)
-  static const IconifyIconData fog = IconifyIconData.duo(
+  /// `fog` (paint-order duotone)
+  static const IconifyIconData fog = IconifyIconData.duoPaintOrder(
     IconData(0xe093, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe093, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -838,8 +838,8 @@ class NotoV1Icons {
     IconData(0xe095, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `fork-and-knife-with-plate` (duo-tone)
-  static const IconifyIconData forkAndKnifeWithPlate = IconifyIconData.duo(
+  /// `fork-and-knife-with-plate` (paint-order duotone)
+  static const IconifyIconData forkAndKnifeWithPlate = IconifyIconData.duoPaintOrder(
     IconData(0xe096, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe096, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -854,8 +854,8 @@ class NotoV1Icons {
     IconData(0xe2fc, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `free-button` (duo-tone)
-  static const IconifyIconData freeButton = IconifyIconData.duo(
+  /// `free-button` (paint-order duotone)
+  static const IconifyIconData freeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe098, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe098, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -870,20 +870,20 @@ class NotoV1Icons {
     IconData(0xe0a2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `gorilla` (duo-tone)
-  static const IconifyIconData gorilla = IconifyIconData.duo(
+  /// `gorilla` (paint-order duotone)
+  static const IconifyIconData gorilla = IconifyIconData.duoPaintOrder(
     IconData(0xe1f1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `grinning-cat` (duo-tone)
-  static const IconifyIconData grinningCat = IconifyIconData.duo(
+  /// `grinning-cat` (paint-order duotone)
+  static const IconifyIconData grinningCat = IconifyIconData.duoPaintOrder(
     IconData(0xe1f2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f2, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `grinning-cat-face` (duo-tone)
-  static const IconifyIconData grinningCatFace = IconifyIconData.duo(
+  /// `grinning-cat-face` (paint-order duotone)
+  static const IconifyIconData grinningCatFace = IconifyIconData.duoPaintOrder(
     IconData(0xe1f3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f3, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -923,20 +923,20 @@ class NotoV1Icons {
     IconData(0xe263, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `heart-decoration` (duo-tone)
-  static const IconifyIconData heartDecoration = IconifyIconData.duo(
+  /// `heart-decoration` (paint-order duotone)
+  static const IconifyIconData heartDecoration = IconifyIconData.duoPaintOrder(
     IconData(0xe1f4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f4, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `heart-exclamation` (duo-tone)
-  static const IconifyIconData heartExclamation = IconifyIconData.duo(
+  /// `heart-exclamation` (paint-order duotone)
+  static const IconifyIconData heartExclamation = IconifyIconData.duoPaintOrder(
     IconData(0xe1f5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f5, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `heart-with-ribbon` (duo-tone)
-  static const IconifyIconData heartWithRibbon = IconifyIconData.duo(
+  /// `heart-with-ribbon` (paint-order duotone)
+  static const IconifyIconData heartWithRibbon = IconifyIconData.duoPaintOrder(
     IconData(0xe1f6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f6, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -951,8 +951,8 @@ class NotoV1Icons {
     IconData(0xe0ad, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `heavy-heart-exclamation` (duo-tone)
-  static const IconifyIconData heavyHeartExclamation = IconifyIconData.duo(
+  /// `heavy-heart-exclamation` (paint-order duotone)
+  static const IconifyIconData heavyHeartExclamation = IconifyIconData.duoPaintOrder(
     IconData(0xe1f7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f7, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -967,8 +967,8 @@ class NotoV1Icons {
     IconData(0xe0af, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `herb` (duo-tone)
-  static const IconifyIconData herb = IconifyIconData.duo(
+  /// `herb` (paint-order duotone)
+  static const IconifyIconData herb = IconifyIconData.duoPaintOrder(
     IconData(0xe1f8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f8, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1003,8 +1003,8 @@ class NotoV1Icons {
     IconData(0xe265, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `id-button` (duo-tone)
-  static const IconifyIconData idButton = IconifyIconData.duo(
+  /// `id-button` (paint-order duotone)
+  static const IconifyIconData idButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1f9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f9, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1019,104 +1019,104 @@ class NotoV1Icons {
     IconData(0xe0b8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `input-latin-letters` (duo-tone)
-  static const IconifyIconData inputLatinLetters = IconifyIconData.duo(
+  /// `input-latin-letters` (paint-order duotone)
+  static const IconifyIconData inputLatinLetters = IconifyIconData.duoPaintOrder(
     IconData(0xe0b9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0b9, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-acceptable-button` (duo-tone)
-  static const IconifyIconData japaneseAcceptableButton = IconifyIconData.duo(
+  /// `japanese-acceptable-button` (paint-order duotone)
+  static const IconifyIconData japaneseAcceptableButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0be, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0be, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-application-button` (duo-tone)
-  static const IconifyIconData japaneseApplicationButton = IconifyIconData.duo(
+  /// `japanese-application-button` (paint-order duotone)
+  static const IconifyIconData japaneseApplicationButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1fa, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1fa, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-bargain-button` (duo-tone)
-  static const IconifyIconData japaneseBargainButton = IconifyIconData.duo(
+  /// `japanese-bargain-button` (paint-order duotone)
+  static const IconifyIconData japaneseBargainButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0bf, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0bf, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-congratulations-button` (duo-tone)
-  static const IconifyIconData japaneseCongratulationsButton = IconifyIconData.duo(
+  /// `japanese-congratulations-button` (paint-order duotone)
+  static const IconifyIconData japaneseCongratulationsButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1fb, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1fb, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-discount-button` (duo-tone)
-  static const IconifyIconData japaneseDiscountButton = IconifyIconData.duo(
+  /// `japanese-discount-button` (paint-order duotone)
+  static const IconifyIconData japaneseDiscountButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0c0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0c0, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-free-of-charge-button` (duo-tone)
-  static const IconifyIconData japaneseFreeOfChargeButton = IconifyIconData.duo(
+  /// `japanese-free-of-charge-button` (paint-order duotone)
+  static const IconifyIconData japaneseFreeOfChargeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0c1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0c1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-here-button` (duo-tone)
-  static const IconifyIconData japaneseHereButton = IconifyIconData.duo(
+  /// `japanese-here-button` (paint-order duotone)
+  static const IconifyIconData japaneseHereButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0c2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0c2, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-monthly-amount-button` (duo-tone)
-  static const IconifyIconData japaneseMonthlyAmountButton = IconifyIconData.duo(
+  /// `japanese-monthly-amount-button` (paint-order duotone)
+  static const IconifyIconData japaneseMonthlyAmountButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0c3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0c3, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-no-vacancy-button` (duo-tone)
-  static const IconifyIconData japaneseNoVacancyButton = IconifyIconData.duo(
+  /// `japanese-no-vacancy-button` (paint-order duotone)
+  static const IconifyIconData japaneseNoVacancyButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0c4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0c4, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-not-free-of-charge-button` (duo-tone)
-  static const IconifyIconData japaneseNotFreeOfChargeButton = IconifyIconData.duo(
+  /// `japanese-not-free-of-charge-button` (paint-order duotone)
+  static const IconifyIconData japaneseNotFreeOfChargeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0c5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0c5, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-open-for-business-button` (duo-tone)
-  static const IconifyIconData japaneseOpenForBusinessButton = IconifyIconData.duo(
+  /// `japanese-open-for-business-button` (paint-order duotone)
+  static const IconifyIconData japaneseOpenForBusinessButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1fc, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1fc, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-passing-grade-button` (duo-tone)
-  static const IconifyIconData japanesePassingGradeButton = IconifyIconData.duo(
+  /// `japanese-passing-grade-button` (paint-order duotone)
+  static const IconifyIconData japanesePassingGradeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0c6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0c6, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-prohibited-button` (duo-tone)
-  static const IconifyIconData japaneseProhibitedButton = IconifyIconData.duo(
+  /// `japanese-prohibited-button` (paint-order duotone)
+  static const IconifyIconData japaneseProhibitedButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0c8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0c8, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-reserved-button` (duo-tone)
-  static const IconifyIconData japaneseReservedButton = IconifyIconData.duo(
+  /// `japanese-reserved-button` (paint-order duotone)
+  static const IconifyIconData japaneseReservedButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0c9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0c9, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-service-charge-button` (duo-tone)
-  static const IconifyIconData japaneseServiceChargeButton = IconifyIconData.duo(
+  /// `japanese-service-charge-button` (paint-order duotone)
+  static const IconifyIconData japaneseServiceChargeButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0cb, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0cb, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `japanese-vacancy-button` (duo-tone)
-  static const IconifyIconData japaneseVacancyButton = IconifyIconData.duo(
+  /// `japanese-vacancy-button` (paint-order duotone)
+  static const IconifyIconData japaneseVacancyButton = IconifyIconData.duoPaintOrder(
     IconData(0xe0cc, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0cc, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1136,38 +1136,38 @@ class NotoV1Icons {
     IconData(0xe0cf, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `keycap` (duo-tone)
-  static const IconifyIconData keycap = IconifyIconData.duo(
+  /// `keycap` (paint-order duotone)
+  static const IconifyIconData keycap = IconifyIconData.duoPaintOrder(
     IconData(0xe1fd, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1fd, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `kissing-cat` (duo-tone)
-  static const IconifyIconData kissingCat = IconifyIconData.duo(
+  /// `kissing-cat` (paint-order duotone)
+  static const IconifyIconData kissingCat = IconifyIconData.duoPaintOrder(
     IconData(0xe1fe, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1fe, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `kissing-cat-face` (duo-tone)
-  static const IconifyIconData kissingCatFace = IconifyIconData.duo(
+  /// `kissing-cat-face` (paint-order duotone)
+  static const IconifyIconData kissingCatFace = IconifyIconData.duoPaintOrder(
     IconData(0xe1ff, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1ff, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `kissing-cat-face-with-closed-eyes` (duo-tone)
-  static const IconifyIconData kissingCatFaceWithClosedEyes = IconifyIconData.duo(
+  /// `kissing-cat-face-with-closed-eyes` (paint-order duotone)
+  static const IconifyIconData kissingCatFaceWithClosedEyes = IconifyIconData.duoPaintOrder(
     IconData(0xe200, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe200, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `kissing-face` (duo-tone)
-  static const IconifyIconData kissingFace = IconifyIconData.duo(
+  /// `kissing-face` (paint-order duotone)
+  static const IconifyIconData kissingFace = IconifyIconData.duoPaintOrder(
     IconData(0xe0d0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0d0, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `kissing-face-with-smiling-eyes` (duo-tone)
-  static const IconifyIconData kissingFaceWithSmilingEyes = IconifyIconData.duo(
+  /// `kissing-face-with-smiling-eyes` (paint-order duotone)
+  static const IconifyIconData kissingFaceWithSmilingEyes = IconifyIconData.duoPaintOrder(
     IconData(0xe0d1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0d1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1182,14 +1182,14 @@ class NotoV1Icons {
     IconData(0xe0d2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `last-quarter-moon-face` (duo-tone)
-  static const IconifyIconData lastQuarterMoonFace = IconifyIconData.duo(
+  /// `last-quarter-moon-face` (paint-order duotone)
+  static const IconifyIconData lastQuarterMoonFace = IconifyIconData.duoPaintOrder(
     IconData(0xe0d3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0d3, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `last-quarter-moon-with-face` (duo-tone)
-  static const IconifyIconData lastQuarterMoonWithFace = IconifyIconData.duo(
+  /// `last-quarter-moon-with-face` (paint-order duotone)
+  static const IconifyIconData lastQuarterMoonWithFace = IconifyIconData.duoPaintOrder(
     IconData(0xe0d4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0d4, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1199,8 +1199,8 @@ class NotoV1Icons {
     IconData(0xe0d5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `leaf-fluttering-in-wind` (duo-tone)
-  static const IconifyIconData leafFlutteringInWind = IconifyIconData.duo(
+  /// `leaf-fluttering-in-wind` (paint-order duotone)
+  static const IconifyIconData leafFlutteringInWind = IconifyIconData.duoPaintOrder(
     IconData(0xe201, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe201, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1215,38 +1215,38 @@ class NotoV1Icons {
     IconData(0xe0d7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `left-facing-fist` (duo-tone)
-  static const IconifyIconData leftFacingFist = IconifyIconData.duo(
+  /// `left-facing-fist` (paint-order duotone)
+  static const IconifyIconData leftFacingFist = IconifyIconData.duoPaintOrder(
     IconData(0xe0d8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0d8, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `left-facing-fist-dark-skin-tone` (duo-tone)
-  static const IconifyIconData leftFacingFistDarkSkinTone = IconifyIconData.duo(
+  /// `left-facing-fist-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData leftFacingFistDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe202, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe202, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `left-facing-fist-light-skin-tone` (duo-tone)
-  static const IconifyIconData leftFacingFistLightSkinTone = IconifyIconData.duo(
+  /// `left-facing-fist-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData leftFacingFistLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe203, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe203, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `left-facing-fist-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData leftFacingFistMediumDarkSkinTone = IconifyIconData.duo(
+  /// `left-facing-fist-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData leftFacingFistMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe204, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe204, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `left-facing-fist-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData leftFacingFistMediumLightSkinTone = IconifyIconData.duo(
+  /// `left-facing-fist-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData leftFacingFistMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe205, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe205, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `left-facing-fist-medium-skin-tone` (duo-tone)
-  static const IconifyIconData leftFacingFistMediumSkinTone = IconifyIconData.duo(
+  /// `left-facing-fist-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData leftFacingFistMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe206, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe206, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1416,8 +1416,8 @@ class NotoV1Icons {
     IconData(0xe304, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `lizard` (duo-tone)
-  static const IconifyIconData lizard = IconifyIconData.duo(
+  /// `lizard` (paint-order duotone)
+  static const IconifyIconData lizard = IconifyIconData.duoPaintOrder(
     IconData(0xe207, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe207, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1718,8 +1718,8 @@ class NotoV1Icons {
     IconData(0xe290, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `meat-on-bone` (duo-tone)
-  static const IconifyIconData meatOnBone = IconifyIconData.duo(
+  /// `meat-on-bone` (paint-order duotone)
+  static const IconifyIconData meatOnBone = IconifyIconData.duoPaintOrder(
     IconData(0xe208, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe208, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1749,8 +1749,8 @@ class NotoV1Icons {
     IconData(0xe102, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `microphone` (duo-tone)
-  static const IconifyIconData microphone = IconifyIconData.duo(
+  /// `microphone` (paint-order duotone)
+  static const IconifyIconData microphone = IconifyIconData.duoPaintOrder(
     IconData(0xe209, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe209, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1800,14 +1800,14 @@ class NotoV1Icons {
     IconData(0xe295, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `mount-fuji` (duo-tone)
-  static const IconifyIconData mountFuji = IconifyIconData.duo(
+  /// `mount-fuji` (paint-order duotone)
+  static const IconifyIconData mountFuji = IconifyIconData.duoPaintOrder(
     IconData(0xe10c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe10c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `movie-camera` (duo-tone)
-  static const IconifyIconData movieCamera = IconifyIconData.duo(
+  /// `movie-camera` (paint-order duotone)
+  static const IconifyIconData movieCamera = IconifyIconData.duoPaintOrder(
     IconData(0xe20a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe20a, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1827,20 +1827,20 @@ class NotoV1Icons {
     IconData(0xe296, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `neutral-face` (duo-tone)
-  static const IconifyIconData neutralFace = IconifyIconData.duo(
+  /// `neutral-face` (paint-order duotone)
+  static const IconifyIconData neutralFace = IconifyIconData.duoPaintOrder(
     IconData(0xe113, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe113, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `new-button` (duo-tone)
-  static const IconifyIconData newButton = IconifyIconData.duo(
+  /// `new-button` (paint-order duotone)
+  static const IconifyIconData newButton = IconifyIconData.duoPaintOrder(
     IconData(0xe114, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe114, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `new-moon` (duo-tone)
-  static const IconifyIconData newMoon = IconifyIconData.duo(
+  /// `new-moon` (paint-order duotone)
+  static const IconifyIconData newMoon = IconifyIconData.duoPaintOrder(
     IconData(0xe115, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe115, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1855,74 +1855,74 @@ class NotoV1Icons {
     IconData(0xe117, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ng-button` (duo-tone)
-  static const IconifyIconData ngButton = IconifyIconData.duo(
+  /// `ng-button` (paint-order duotone)
+  static const IconifyIconData ngButton = IconifyIconData.duoPaintOrder(
     IconData(0xe118, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe118, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `night-with-stars` (duo-tone)
-  static const IconifyIconData nightWithStars = IconifyIconData.duo(
+  /// `night-with-stars` (paint-order duotone)
+  static const IconifyIconData nightWithStars = IconifyIconData.duoPaintOrder(
     IconData(0xe119, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe119, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `no-entry` (duo-tone)
-  static const IconifyIconData noEntry = IconifyIconData.duo(
+  /// `no-entry` (paint-order duotone)
+  static const IconifyIconData noEntry = IconifyIconData.duoPaintOrder(
     IconData(0xe11b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe11b, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `nose` (duo-tone)
-  static const IconifyIconData nose = IconifyIconData.duo(
+  /// `nose` (paint-order duotone)
+  static const IconifyIconData nose = IconifyIconData.duoPaintOrder(
     IconData(0xe11c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe11c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `nose-dark-skin-tone` (duo-tone)
-  static const IconifyIconData noseDarkSkinTone = IconifyIconData.duo(
+  /// `nose-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData noseDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe20b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe20b, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `nose-light-skin-tone` (duo-tone)
-  static const IconifyIconData noseLightSkinTone = IconifyIconData.duo(
+  /// `nose-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData noseLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe20c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe20c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `nose-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData noseMediumDarkSkinTone = IconifyIconData.duo(
+  /// `nose-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData noseMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe20d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe20d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `nose-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData noseMediumLightSkinTone = IconifyIconData.duo(
+  /// `nose-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData noseMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe20e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe20e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `nose-medium-skin-tone` (duo-tone)
-  static const IconifyIconData noseMediumSkinTone = IconifyIconData.duo(
+  /// `nose-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData noseMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe20f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe20f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `o-button` (duo-tone)
-  static const IconifyIconData oButton = IconifyIconData.duo(
+  /// `o-button` (paint-order duotone)
+  static const IconifyIconData oButton = IconifyIconData.duoPaintOrder(
     IconData(0xe210, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe210, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `o-button-blood-type` (duo-tone)
-  static const IconifyIconData oButtonBloodType = IconifyIconData.duo(
+  /// `o-button-blood-type` (paint-order duotone)
+  static const IconifyIconData oButtonBloodType = IconifyIconData.duoPaintOrder(
     IconData(0xe211, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe211, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `office-building` (duo-tone)
-  static const IconifyIconData officeBuilding = IconifyIconData.duo(
+  /// `office-building` (paint-order duotone)
+  static const IconifyIconData officeBuilding = IconifyIconData.duoPaintOrder(
     IconData(0xe11f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe11f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -1932,140 +1932,140 @@ class NotoV1Icons {
     IconData(0xe121, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ok-button` (duo-tone)
-  static const IconifyIconData okButton = IconifyIconData.duo(
+  /// `ok-button` (paint-order duotone)
+  static const IconifyIconData okButton = IconifyIconData.duoPaintOrder(
     IconData(0xe122, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe122, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ok-hand` (duo-tone)
-  static const IconifyIconData okHand = IconifyIconData.duo(
+  /// `ok-hand` (paint-order duotone)
+  static const IconifyIconData okHand = IconifyIconData.duoPaintOrder(
     IconData(0xe123, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe123, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ok-hand-dark-skin-tone` (duo-tone)
-  static const IconifyIconData okHandDarkSkinTone = IconifyIconData.duo(
+  /// `ok-hand-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData okHandDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe212, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe212, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ok-hand-light-skin-tone` (duo-tone)
-  static const IconifyIconData okHandLightSkinTone = IconifyIconData.duo(
+  /// `ok-hand-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData okHandLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe213, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe213, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ok-hand-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData okHandMediumDarkSkinTone = IconifyIconData.duo(
+  /// `ok-hand-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData okHandMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe214, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe214, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ok-hand-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData okHandMediumLightSkinTone = IconifyIconData.duo(
+  /// `ok-hand-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData okHandMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe215, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe215, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ok-hand-medium-skin-tone` (duo-tone)
-  static const IconifyIconData okHandMediumSkinTone = IconifyIconData.duo(
+  /// `ok-hand-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData okHandMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe216, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe216, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `old-key` (duo-tone)
-  static const IconifyIconData oldKey = IconifyIconData.duo(
+  /// `old-key` (paint-order duotone)
+  static const IconifyIconData oldKey = IconifyIconData.duoPaintOrder(
     IconData(0xe217, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe217, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `on-arrow` (duo-tone)
-  static const IconifyIconData onArrow = IconifyIconData.duo(
+  /// `on-arrow` (paint-order duotone)
+  static const IconifyIconData onArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe124, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe124, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `on-exclamation-arrow` (duo-tone)
-  static const IconifyIconData onExclamationArrow = IconifyIconData.duo(
+  /// `on-exclamation-arrow` (paint-order duotone)
+  static const IconifyIconData onExclamationArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe125, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe125, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `oncoming-fist` (duo-tone)
-  static const IconifyIconData oncomingFist = IconifyIconData.duo(
+  /// `oncoming-fist` (paint-order duotone)
+  static const IconifyIconData oncomingFist = IconifyIconData.duoPaintOrder(
     IconData(0xe127, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe127, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `oncoming-fist-dark-skin-tone` (duo-tone)
-  static const IconifyIconData oncomingFistDarkSkinTone = IconifyIconData.duo(
+  /// `oncoming-fist-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData oncomingFistDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe218, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe218, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `oncoming-fist-light-skin-tone` (duo-tone)
-  static const IconifyIconData oncomingFistLightSkinTone = IconifyIconData.duo(
+  /// `oncoming-fist-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData oncomingFistLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe219, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe219, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `oncoming-fist-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData oncomingFistMediumDarkSkinTone = IconifyIconData.duo(
+  /// `oncoming-fist-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData oncomingFistMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe21a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe21a, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `oncoming-fist-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData oncomingFistMediumLightSkinTone = IconifyIconData.duo(
+  /// `oncoming-fist-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData oncomingFistMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe21b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe21b, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `oncoming-fist-medium-skin-tone` (duo-tone)
-  static const IconifyIconData oncomingFistMediumSkinTone = IconifyIconData.duo(
+  /// `oncoming-fist-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData oncomingFistMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe21c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe21c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `open-file-folder` (duo-tone)
-  static const IconifyIconData openFileFolder = IconifyIconData.duo(
+  /// `open-file-folder` (paint-order duotone)
+  static const IconifyIconData openFileFolder = IconifyIconData.duoPaintOrder(
     IconData(0xe12c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe12c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `open-hands` (duo-tone)
-  static const IconifyIconData openHands = IconifyIconData.duo(
+  /// `open-hands` (paint-order duotone)
+  static const IconifyIconData openHands = IconifyIconData.duoPaintOrder(
     IconData(0xe12d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe12d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `open-hands-dark-skin-tone` (duo-tone)
-  static const IconifyIconData openHandsDarkSkinTone = IconifyIconData.duo(
+  /// `open-hands-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData openHandsDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe21d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe21d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `open-hands-light-skin-tone` (duo-tone)
-  static const IconifyIconData openHandsLightSkinTone = IconifyIconData.duo(
+  /// `open-hands-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData openHandsLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe21e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe21e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `open-hands-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData openHandsMediumDarkSkinTone = IconifyIconData.duo(
+  /// `open-hands-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData openHandsMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe21f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe21f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `open-hands-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData openHandsMediumLightSkinTone = IconifyIconData.duo(
+  /// `open-hands-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData openHandsMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe220, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe220, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `open-hands-medium-skin-tone` (duo-tone)
-  static const IconifyIconData openHandsMediumSkinTone = IconifyIconData.duo(
+  /// `open-hands-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData openHandsMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe221, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe221, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2080,8 +2080,8 @@ class NotoV1Icons {
     IconData(0xe319, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `p-button` (duo-tone)
-  static const IconifyIconData pButton = IconifyIconData.duo(
+  /// `p-button` (paint-order duotone)
+  static const IconifyIconData pButton = IconifyIconData.duoPaintOrder(
     IconData(0xe131, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe131, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2096,14 +2096,14 @@ class NotoV1Icons {
     IconData(0xe299, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `panda` (duo-tone)
-  static const IconifyIconData panda = IconifyIconData.duo(
+  /// `panda` (paint-order duotone)
+  static const IconifyIconData panda = IconifyIconData.duoPaintOrder(
     IconData(0xe133, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe133, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `panda-face` (duo-tone)
-  static const IconifyIconData pandaFace = IconifyIconData.duo(
+  /// `panda-face` (paint-order duotone)
+  static const IconifyIconData pandaFace = IconifyIconData.duoPaintOrder(
     IconData(0xe134, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe134, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2138,8 +2138,8 @@ class NotoV1Icons {
     IconData(0xe29b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `pensive-face` (duo-tone)
-  static const IconifyIconData pensiveFace = IconifyIconData.duo(
+  /// `pensive-face` (paint-order duotone)
+  static const IconifyIconData pensiveFace = IconifyIconData.duoPaintOrder(
     IconData(0xe13b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe13b, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2275,8 +2275,8 @@ class NotoV1Icons {
     IconData(0xe2ae, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `pill` (duo-tone)
-  static const IconifyIconData pill = IconifyIconData.duo(
+  /// `pill` (paint-order duotone)
+  static const IconifyIconData pill = IconifyIconData.duoPaintOrder(
     IconData(0xe13f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe13f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2306,8 +2306,8 @@ class NotoV1Icons {
     IconData(0xe144, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `postal-horn` (duo-tone)
-  static const IconifyIconData postalHorn = IconifyIconData.duo(
+  /// `postal-horn` (paint-order duotone)
+  static const IconifyIconData postalHorn = IconifyIconData.duoPaintOrder(
     IconData(0xe146, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe146, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2317,8 +2317,8 @@ class NotoV1Icons {
     IconData(0xe147, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `poultry-leg` (duo-tone)
-  static const IconifyIconData poultryLeg = IconifyIconData.duo(
+  /// `poultry-leg` (paint-order duotone)
+  static const IconifyIconData poultryLeg = IconifyIconData.duoPaintOrder(
     IconData(0xe222, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe222, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2328,14 +2328,14 @@ class NotoV1Icons {
     IconData(0xe148, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `pouting-cat` (duo-tone)
-  static const IconifyIconData poutingCat = IconifyIconData.duo(
+  /// `pouting-cat` (paint-order duotone)
+  static const IconifyIconData poutingCat = IconifyIconData.duoPaintOrder(
     IconData(0xe223, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe223, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `pouting-cat-face` (duo-tone)
-  static const IconifyIconData poutingCatFace = IconifyIconData.duo(
+  /// `pouting-cat-face` (paint-order duotone)
+  static const IconifyIconData poutingCatFace = IconifyIconData.duoPaintOrder(
     IconData(0xe224, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe224, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2375,8 +2375,8 @@ class NotoV1Icons {
     IconData(0xe2b2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `prohibited` (duo-tone)
-  static const IconifyIconData prohibited = IconifyIconData.duo(
+  /// `prohibited` (paint-order duotone)
+  static const IconifyIconData prohibited = IconifyIconData.duoPaintOrder(
     IconData(0xe225, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe225, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2420,74 +2420,74 @@ class NotoV1Icons {
     IconData(0xe151, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-fist` (duo-tone)
-  static const IconifyIconData raisedFist = IconifyIconData.duo(
+  /// `raised-fist` (paint-order duotone)
+  static const IconifyIconData raisedFist = IconifyIconData.duoPaintOrder(
     IconData(0xe152, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe152, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-fist-dark-skin-tone` (duo-tone)
-  static const IconifyIconData raisedFistDarkSkinTone = IconifyIconData.duo(
+  /// `raised-fist-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedFistDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe226, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe226, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-fist-light-skin-tone` (duo-tone)
-  static const IconifyIconData raisedFistLightSkinTone = IconifyIconData.duo(
+  /// `raised-fist-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedFistLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe227, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe227, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-fist-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData raisedFistMediumDarkSkinTone = IconifyIconData.duo(
+  /// `raised-fist-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedFistMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe228, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe228, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-fist-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData raisedFistMediumLightSkinTone = IconifyIconData.duo(
+  /// `raised-fist-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedFistMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe229, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe229, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-fist-medium-skin-tone` (duo-tone)
-  static const IconifyIconData raisedFistMediumSkinTone = IconifyIconData.duo(
+  /// `raised-fist-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedFistMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe22a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe22a, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-hand` (duo-tone)
-  static const IconifyIconData raisedHand = IconifyIconData.duo(
+  /// `raised-hand` (paint-order duotone)
+  static const IconifyIconData raisedHand = IconifyIconData.duoPaintOrder(
     IconData(0xe153, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe153, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-hand-dark-skin-tone` (duo-tone)
-  static const IconifyIconData raisedHandDarkSkinTone = IconifyIconData.duo(
+  /// `raised-hand-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedHandDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe22b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe22b, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-hand-light-skin-tone` (duo-tone)
-  static const IconifyIconData raisedHandLightSkinTone = IconifyIconData.duo(
+  /// `raised-hand-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedHandLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe22c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe22c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-hand-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData raisedHandMediumDarkSkinTone = IconifyIconData.duo(
+  /// `raised-hand-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedHandMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe22d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe22d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-hand-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData raisedHandMediumLightSkinTone = IconifyIconData.duo(
+  /// `raised-hand-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedHandMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe22e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe22e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `raised-hand-medium-skin-tone` (duo-tone)
-  static const IconifyIconData raisedHandMediumSkinTone = IconifyIconData.duo(
+  /// `raised-hand-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData raisedHandMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe22f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe22f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2542,8 +2542,8 @@ class NotoV1Icons {
     IconData(0xe15b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `restroom` (duo-tone)
-  static const IconifyIconData restroom = IconifyIconData.duo(
+  /// `restroom` (paint-order duotone)
+  static const IconifyIconData restroom = IconifyIconData.duoPaintOrder(
     IconData(0xe15c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe15c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2553,8 +2553,8 @@ class NotoV1Icons {
     IconData(0xe15d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `right-anger-bubble` (duo-tone)
-  static const IconifyIconData rightAngerBubble = IconifyIconData.duo(
+  /// `right-anger-bubble` (paint-order duotone)
+  static const IconifyIconData rightAngerBubble = IconifyIconData.duoPaintOrder(
     IconData(0xe15e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe15e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2579,38 +2579,38 @@ class NotoV1Icons {
     IconData(0xe162, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `right-facing-fist` (duo-tone)
-  static const IconifyIconData rightFacingFist = IconifyIconData.duo(
+  /// `right-facing-fist` (paint-order duotone)
+  static const IconifyIconData rightFacingFist = IconifyIconData.duoPaintOrder(
     IconData(0xe163, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe163, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `right-facing-fist-dark-skin-tone` (duo-tone)
-  static const IconifyIconData rightFacingFistDarkSkinTone = IconifyIconData.duo(
+  /// `right-facing-fist-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData rightFacingFistDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe230, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe230, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `right-facing-fist-light-skin-tone` (duo-tone)
-  static const IconifyIconData rightFacingFistLightSkinTone = IconifyIconData.duo(
+  /// `right-facing-fist-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData rightFacingFistLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe231, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe231, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `right-facing-fist-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData rightFacingFistMediumDarkSkinTone = IconifyIconData.duo(
+  /// `right-facing-fist-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData rightFacingFistMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe232, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe232, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `right-facing-fist-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData rightFacingFistMediumLightSkinTone = IconifyIconData.duo(
+  /// `right-facing-fist-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData rightFacingFistMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe233, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe233, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `right-facing-fist-medium-skin-tone` (duo-tone)
-  static const IconifyIconData rightFacingFistMediumSkinTone = IconifyIconData.duo(
+  /// `right-facing-fist-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData rightFacingFistMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe234, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe234, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2620,8 +2620,8 @@ class NotoV1Icons {
     IconData(0xe2b9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `rugby-football` (duo-tone)
-  static const IconifyIconData rugbyFootball = IconifyIconData.duo(
+  /// `rugby-football` (paint-order duotone)
+  static const IconifyIconData rugbyFootball = IconifyIconData.duoPaintOrder(
     IconData(0xe235, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe235, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2646,14 +2646,14 @@ class NotoV1Icons {
     IconData(0xe16d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `seedling` (duo-tone)
-  static const IconifyIconData seedling = IconifyIconData.duo(
+  /// `seedling` (paint-order duotone)
+  static const IconifyIconData seedling = IconifyIconData.duoPaintOrder(
     IconData(0xe236, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe236, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `sheaf-of-rice` (duo-tone)
-  static const IconifyIconData sheafOfRice = IconifyIconData.duo(
+  /// `sheaf-of-rice` (paint-order duotone)
+  static const IconifyIconData sheafOfRice = IconifyIconData.duoPaintOrder(
     IconData(0xe237, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe237, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2688,8 +2688,8 @@ class NotoV1Icons {
     IconData(0xe176, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `smiling-cat-face-with-open-mouth` (duo-tone)
-  static const IconifyIconData smilingCatFaceWithOpenMouth = IconifyIconData.duo(
+  /// `smiling-cat-face-with-open-mouth` (paint-order duotone)
+  static const IconifyIconData smilingCatFaceWithOpenMouth = IconifyIconData.duoPaintOrder(
     IconData(0xe238, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe238, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2704,20 +2704,20 @@ class NotoV1Icons {
     IconData(0xe17d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `snowman` (duo-tone)
-  static const IconifyIconData snowman = IconifyIconData.duo(
+  /// `snowman` (paint-order duotone)
+  static const IconifyIconData snowman = IconifyIconData.duoPaintOrder(
     IconData(0xe17e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe17e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `snowman-without-snow` (duo-tone)
-  static const IconifyIconData snowmanWithoutSnow = IconifyIconData.duo(
+  /// `snowman-without-snow` (paint-order duotone)
+  static const IconifyIconData snowmanWithoutSnow = IconifyIconData.duoPaintOrder(
     IconData(0xe17f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe17f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `soon-arrow` (duo-tone)
-  static const IconifyIconData soonArrow = IconifyIconData.duo(
+  /// `soon-arrow` (paint-order duotone)
+  static const IconifyIconData soonArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe181, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe181, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2727,32 +2727,32 @@ class NotoV1Icons {
     IconData(0xe182, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `sparkles` (duo-tone)
-  static const IconifyIconData sparkles = IconifyIconData.duo(
+  /// `sparkles` (paint-order duotone)
+  static const IconifyIconData sparkles = IconifyIconData.duoPaintOrder(
     IconData(0xe239, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe239, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `sparkling-heart` (duo-tone)
-  static const IconifyIconData sparklingHeart = IconifyIconData.duo(
+  /// `sparkling-heart` (paint-order duotone)
+  static const IconifyIconData sparklingHeart = IconifyIconData.duoPaintOrder(
     IconData(0xe23a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe23a, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `speaker-low-volume` (duo-tone)
-  static const IconifyIconData speakerLowVolume = IconifyIconData.duo(
+  /// `speaker-low-volume` (paint-order duotone)
+  static const IconifyIconData speakerLowVolume = IconifyIconData.duoPaintOrder(
     IconData(0xe184, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe184, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `speaking-head` (duo-tone)
-  static const IconifyIconData speakingHead = IconifyIconData.duo(
+  /// `speaking-head` (paint-order duotone)
+  static const IconifyIconData speakingHead = IconifyIconData.duoPaintOrder(
     IconData(0xe23b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe23b, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `speech-balloon` (duo-tone)
-  static const IconifyIconData speechBalloon = IconifyIconData.duo(
+  /// `speech-balloon` (paint-order duotone)
+  static const IconifyIconData speechBalloon = IconifyIconData.duoPaintOrder(
     IconData(0xe186, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe186, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2762,8 +2762,8 @@ class NotoV1Icons {
     IconData(0xe187, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `spider-web` (duo-tone)
-  static const IconifyIconData spiderWeb = IconifyIconData.duo(
+  /// `spider-web` (paint-order duotone)
+  static const IconifyIconData spiderWeb = IconifyIconData.duoPaintOrder(
     IconData(0xe188, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe188, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2794,8 +2794,8 @@ class NotoV1Icons {
     IconData(0xe2c1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `star` (duo-tone)
-  static const IconifyIconData star = IconifyIconData.duo(
+  /// `star` (paint-order duotone)
+  static const IconifyIconData star = IconifyIconData.duoPaintOrder(
     IconData(0xe23c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe23c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2810,8 +2810,8 @@ class NotoV1Icons {
     IconData(0xe18b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `straight-ruler` (duo-tone)
-  static const IconifyIconData straightRuler = IconifyIconData.duo(
+  /// `straight-ruler` (paint-order duotone)
+  static const IconifyIconData straightRuler = IconifyIconData.duoPaintOrder(
     IconData(0xe18c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe18c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2821,8 +2821,8 @@ class NotoV1Icons {
     IconData(0xe18d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `sunglasses` (duo-tone)
-  static const IconifyIconData sunglasses = IconifyIconData.duo(
+  /// `sunglasses` (paint-order duotone)
+  static const IconifyIconData sunglasses = IconifyIconData.duoPaintOrder(
     IconData(0xe2c3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe2c3, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2837,8 +2837,8 @@ class NotoV1Icons {
     IconData(0xe194, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `telephone-receiver` (duo-tone)
-  static const IconifyIconData telephoneReceiver = IconifyIconData.duo(
+  /// `telephone-receiver` (paint-order duotone)
+  static const IconifyIconData telephoneReceiver = IconifyIconData.duoPaintOrder(
     IconData(0xe195, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe195, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2858,98 +2858,98 @@ class NotoV1Icons {
     IconData(0xe199, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thought-balloon` (duo-tone)
-  static const IconifyIconData thoughtBalloon = IconifyIconData.duo(
+  /// `thought-balloon` (paint-order duotone)
+  static const IconifyIconData thoughtBalloon = IconifyIconData.duoPaintOrder(
     IconData(0xe19a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe19a, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-down` (duo-tone)
-  static const IconifyIconData thumbsDown = IconifyIconData.duo(
+  /// `thumbs-down` (paint-order duotone)
+  static const IconifyIconData thumbsDown = IconifyIconData.duoPaintOrder(
     IconData(0xe19c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe19c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-down-dark-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsDownDarkSkinTone = IconifyIconData.duo(
+  /// `thumbs-down-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsDownDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe23d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe23d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-down-light-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsDownLightSkinTone = IconifyIconData.duo(
+  /// `thumbs-down-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsDownLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe23e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe23e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-down-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsDownMediumDarkSkinTone = IconifyIconData.duo(
+  /// `thumbs-down-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsDownMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe23f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe23f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-down-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsDownMediumLightSkinTone = IconifyIconData.duo(
+  /// `thumbs-down-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsDownMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe240, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe240, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-down-medium-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsDownMediumSkinTone = IconifyIconData.duo(
+  /// `thumbs-down-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsDownMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe241, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe241, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-up` (duo-tone)
-  static const IconifyIconData thumbsUp = IconifyIconData.duo(
+  /// `thumbs-up` (paint-order duotone)
+  static const IconifyIconData thumbsUp = IconifyIconData.duoPaintOrder(
     IconData(0xe19d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe19d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-up-dark-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsUpDarkSkinTone = IconifyIconData.duo(
+  /// `thumbs-up-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsUpDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe242, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe242, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-up-light-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsUpLightSkinTone = IconifyIconData.duo(
+  /// `thumbs-up-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsUpLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe243, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe243, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-up-medium-dark-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsUpMediumDarkSkinTone = IconifyIconData.duo(
+  /// `thumbs-up-medium-dark-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsUpMediumDarkSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe244, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe244, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-up-medium-light-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsUpMediumLightSkinTone = IconifyIconData.duo(
+  /// `thumbs-up-medium-light-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsUpMediumLightSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe245, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe245, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `thumbs-up-medium-skin-tone` (duo-tone)
-  static const IconifyIconData thumbsUpMediumSkinTone = IconifyIconData.duo(
+  /// `thumbs-up-medium-skin-tone` (paint-order duotone)
+  static const IconifyIconData thumbsUpMediumSkinTone = IconifyIconData.duoPaintOrder(
     IconData(0xe246, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe246, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `ticket` (duo-tone)
-  static const IconifyIconData ticket = IconifyIconData.duo(
+  /// `ticket` (paint-order duotone)
+  static const IconifyIconData ticket = IconifyIconData.duoPaintOrder(
     IconData(0xe19e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe19e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `tokyo-tower` (duo-tone)
-  static const IconifyIconData tokyoTower = IconifyIconData.duo(
+  /// `tokyo-tower` (paint-order duotone)
+  static const IconifyIconData tokyoTower = IconifyIconData.duoPaintOrder(
     IconData(0xe1a1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1a1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `top-arrow` (duo-tone)
-  static const IconifyIconData topArrow = IconifyIconData.duo(
+  /// `top-arrow` (paint-order duotone)
+  static const IconifyIconData topArrow = IconifyIconData.duoPaintOrder(
     IconData(0xe1a2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1a2, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -2964,14 +2964,14 @@ class NotoV1Icons {
     IconData(0xe1a5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `triangular-flag` (duo-tone)
-  static const IconifyIconData triangularFlag = IconifyIconData.duo(
+  /// `triangular-flag` (paint-order duotone)
+  static const IconifyIconData triangularFlag = IconifyIconData.duoPaintOrder(
     IconData(0xe1a6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1a6, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `trident-emblem` (duo-tone)
-  static const IconifyIconData tridentEmblem = IconifyIconData.duo(
+  /// `trident-emblem` (paint-order duotone)
+  static const IconifyIconData tridentEmblem = IconifyIconData.duoPaintOrder(
     IconData(0xe247, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe247, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3001,8 +3001,8 @@ class NotoV1Icons {
     IconData(0xe1ad, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `up-exclamation-button` (duo-tone)
-  static const IconifyIconData upExclamationButton = IconifyIconData.duo(
+  /// `up-exclamation-button` (paint-order duotone)
+  static const IconifyIconData upExclamationButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1ae, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1ae, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3017,8 +3017,8 @@ class NotoV1Icons {
     IconData(0xe1b0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `up-text-button` (duo-tone)
-  static const IconifyIconData upTextButton = IconifyIconData.duo(
+  /// `up-text-button` (paint-order duotone)
+  static const IconifyIconData upTextButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1b1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1b1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3028,8 +3028,8 @@ class NotoV1Icons {
     IconData(0xe2c6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `videocassette` (duo-tone)
-  static const IconifyIconData videocassette = IconifyIconData.duo(
+  /// `videocassette` (paint-order duotone)
+  static const IconifyIconData videocassette = IconifyIconData.duoPaintOrder(
     IconData(0xe1b3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1b3, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3039,14 +3039,14 @@ class NotoV1Icons {
     IconData(0xe1b4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `vs-button` (duo-tone)
-  static const IconifyIconData vsButton = IconifyIconData.duo(
+  /// `vs-button` (paint-order duotone)
+  static const IconifyIconData vsButton = IconifyIconData.duoPaintOrder(
     IconData(0xe1b6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1b6, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `water-closet` (duo-tone)
-  static const IconifyIconData waterCloset = IconifyIconData.duo(
+  /// `water-closet` (paint-order duotone)
+  static const IconifyIconData waterCloset = IconifyIconData.duoPaintOrder(
     IconData(0xe1bb, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1bb, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3086,14 +3086,14 @@ class NotoV1Icons {
     IconData(0xe1bd, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `weary-cat` (duo-tone)
-  static const IconifyIconData wearyCat = IconifyIconData.duo(
+  /// `weary-cat` (paint-order duotone)
+  static const IconifyIconData wearyCat = IconifyIconData.duoPaintOrder(
     IconData(0xe248, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe248, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `weary-cat-face` (duo-tone)
-  static const IconifyIconData wearyCatFace = IconifyIconData.duo(
+  /// `weary-cat-face` (paint-order duotone)
+  static const IconifyIconData wearyCatFace = IconifyIconData.duoPaintOrder(
     IconData(0xe249, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe249, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3118,8 +3118,8 @@ class NotoV1Icons {
     IconData(0xe2cb, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `white-heavy-check-mark` (duo-tone)
-  static const IconifyIconData whiteHeavyCheckMark = IconifyIconData.duo(
+  /// `white-heavy-check-mark` (paint-order duotone)
+  static const IconifyIconData whiteHeavyCheckMark = IconifyIconData.duoPaintOrder(
     IconData(0xe24a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe24a, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3139,8 +3139,8 @@ class NotoV1Icons {
     IconData(0xe1c5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `white-medium-star` (duo-tone)
-  static const IconifyIconData whiteMediumStar = IconifyIconData.duo(
+  /// `white-medium-star` (paint-order duotone)
+  static const IconifyIconData whiteMediumStar = IconifyIconData.duoPaintOrder(
     IconData(0xe24b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe24b, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3155,8 +3155,8 @@ class NotoV1Icons {
     IconData(0xe1c7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `white-square-button` (duo-tone)
-  static const IconifyIconData whiteSquareButton = IconifyIconData.duo(
+  /// `white-square-button` (paint-order duotone)
+  static const IconifyIconData whiteSquareButton = IconifyIconData.duoPaintOrder(
     IconData(0xe24c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe24c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3171,8 +3171,8 @@ class NotoV1Icons {
     IconData(0xe1c8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `winking-face` (duo-tone)
-  static const IconifyIconData winkingFace = IconifyIconData.duo(
+  /// `winking-face` (paint-order duotone)
+  static const IconifyIconData winkingFace = IconifyIconData.duoPaintOrder(
     IconData(0xe1c9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1c9, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
@@ -3470,14 +3470,14 @@ class NotoV1Icons {
     IconData(0xe2f2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `womans-hat` (duo-tone)
-  static const IconifyIconData womansHat = IconifyIconData.duo(
+  /// `womans-hat` (paint-order duotone)
+  static const IconifyIconData womansHat = IconifyIconData.duoPaintOrder(
     IconData(0xe24d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe24d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `womens-room` (duo-tone)
-  static const IconifyIconData womensRoom = IconifyIconData.duo(
+  /// `womens-room` (paint-order duotone)
+  static const IconifyIconData womensRoom = IconifyIconData.duoPaintOrder(
     IconData(0xe1ca, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1ca, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );

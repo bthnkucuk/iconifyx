@@ -35,7 +35,8 @@
       "codepoint": 58171,
       "fontFamily": "Logos",
       "identifier": "n100tb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "500px": {
       "codepoint": 57344,
@@ -46,7 +47,8 @@
       "codepoint": 57345,
       "fontFamily": "Logos",
       "identifier": "n6px",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "active-campaign": {
       "codepoint": 57346,
@@ -76,19 +78,22 @@
       "codepoint": 57348,
       "fontFamily": "Logos",
       "identifier": "adobeAfterEffects",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-animate": {
       "codepoint": 57349,
       "fontFamily": "Logos",
       "identifier": "adobeAnimate",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-dreamweaver": {
       "codepoint": 58174,
       "fontFamily": "Logos",
       "identifier": "adobeDreamweaver",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-icon": {
       "codepoint": 57350,
@@ -99,43 +104,50 @@
       "codepoint": 57351,
       "fontFamily": "Logos",
       "identifier": "adobeIllustrator",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-incopy": {
       "codepoint": 58175,
       "fontFamily": "Logos",
       "identifier": "adobeIncopy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-indesign": {
       "codepoint": 58176,
       "fontFamily": "Logos",
       "identifier": "adobeIndesign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-lightroom": {
       "codepoint": 58177,
       "fontFamily": "Logos",
       "identifier": "adobeLightroom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-photoshop": {
       "codepoint": 58178,
       "fontFamily": "Logos",
       "identifier": "adobePhotoshop",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-premiere": {
       "codepoint": 57352,
       "fontFamily": "Logos",
       "identifier": "adobePremiere",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adobe-xd": {
       "codepoint": 58179,
       "fontFamily": "Logos",
       "identifier": "adobeXd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adonisjs": {
       "codepoint": 57353,
@@ -151,7 +163,8 @@
       "codepoint": 57355,
       "fontFamily": "Logos",
       "identifier": "adroll",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adyen": {
       "codepoint": 57356,
@@ -218,13 +231,15 @@
       "codepoint": 58924,
       "fontFamily": "Logos",
       "identifier": "akamai",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "akka": {
       "codepoint": 58925,
       "fontFamily": "Logos",
       "identifier": "akka",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alfresco": {
       "codepoint": 58185,
@@ -237,19 +252,22 @@
       "codepoint": 58926,
       "fontFamily": "Logos",
       "identifier": "algolia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alpinejs": {
       "codepoint": 58927,
       "fontFamily": "Logos",
       "identifier": "alpinejs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alpinejs-icon": {
       "codepoint": 58186,
       "fontFamily": "Logos",
       "identifier": "alpinejsIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "amazon-chime": {
       "codepoint": 57361,
@@ -272,13 +290,15 @@
       "codepoint": 57364,
       "fontFamily": "Logos",
       "identifier": "amex",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "amex-digital": {
       "codepoint": 57365,
       "fontFamily": "Logos",
       "identifier": "amexDigital",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "amp": {
       "codepoint": 58187,
@@ -305,7 +325,8 @@
       "codepoint": 58189,
       "fontFamily": "Logos",
       "identifier": "android",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "android-icon": {
       "codepoint": 58190,
@@ -318,7 +339,8 @@
       "codepoint": 58928,
       "fontFamily": "Logos",
       "identifier": "androidVertical",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "angellist": {
       "codepoint": 57367,
@@ -343,7 +365,8 @@
       "codepoint": 58929,
       "fontFamily": "Logos",
       "identifier": "ansible",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ant-design": {
       "codepoint": 58193,
@@ -370,7 +393,8 @@
       "codepoint": 57368,
       "fontFamily": "Logos",
       "identifier": "apacheCloudstack",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "apache-flink": {
       "codepoint": 58196,
@@ -390,13 +414,15 @@
       "codepoint": 58930,
       "fontFamily": "Logos",
       "identifier": "apacheSuperset",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "apache-superset-icon": {
       "codepoint": 58931,
       "fontFamily": "Logos",
       "identifier": "apacheSupersetIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "api-ai": {
       "codepoint": 57369,
@@ -428,7 +454,8 @@
       "codepoint": 58201,
       "fontFamily": "Logos",
       "identifier": "apigee",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "apitools": {
       "codepoint": 57370,
@@ -456,13 +483,15 @@
       "codepoint": 57373,
       "fontFamily": "Logos",
       "identifier": "appcelerator",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "appcircle": {
       "codepoint": 57374,
       "fontFamily": "Logos",
       "identifier": "appcircle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "appcircle-icon": {
       "codepoint": 57375,
@@ -539,7 +568,8 @@
       "codepoint": 58206,
       "fontFamily": "Logos",
       "identifier": "apptentive",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "appveyor": {
       "codepoint": 57385,
@@ -589,13 +619,15 @@
       "codepoint": 58210,
       "fontFamily": "Logos",
       "identifier": "armoryIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "asana": {
       "codepoint": 57390,
       "fontFamily": "Logos",
       "identifier": "asana",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "asana-icon": {
       "codepoint": 57391,
@@ -606,7 +638,8 @@
       "codepoint": 58932,
       "fontFamily": "Logos",
       "identifier": "asciidoctor",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "astro": {
       "codepoint": 58211,
@@ -659,7 +692,8 @@
       "codepoint": 57393,
       "fontFamily": "Logos",
       "identifier": "atomIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "atomic": {
       "codepoint": 58217,
@@ -689,7 +723,8 @@
       "codepoint": 57396,
       "fontFamily": "Logos",
       "identifier": "aurora",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "aurous": {
       "codepoint": 58219,
@@ -717,7 +752,8 @@
       "codepoint": 57399,
       "fontFamily": "Logos",
       "identifier": "autoit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ava": {
       "codepoint": 58220,
@@ -730,13 +766,15 @@
       "codepoint": 58933,
       "fontFamily": "Logos",
       "identifier": "awesome",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "aws": {
       "codepoint": 57400,
       "fontFamily": "Logos",
       "identifier": "aws",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "aws-amplify": {
       "codepoint": 58221,
@@ -1198,13 +1236,15 @@
       "codepoint": 57404,
       "fontFamily": "Logos",
       "identifier": "backbone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "backbone-icon": {
       "codepoint": 57405,
       "fontFamily": "Logos",
       "identifier": "backboneIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "backerkit": {
       "codepoint": 57406,
@@ -1265,7 +1305,8 @@
       "codepoint": 57413,
       "fontFamily": "Logos",
       "identifier": "batch",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "beats": {
       "codepoint": 58286,
@@ -1283,13 +1324,15 @@
       "codepoint": 58934,
       "fontFamily": "Logos",
       "identifier": "bem2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bigpanda": {
       "codepoint": 58287,
       "fontFamily": "Logos",
       "identifier": "bigpanda",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bing": {
       "codepoint": 58288,
@@ -1302,7 +1345,8 @@
       "codepoint": 58289,
       "fontFamily": "Logos",
       "identifier": "biomejs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "biomejs-icon": {
       "codepoint": 57415,
@@ -1318,7 +1362,8 @@
       "codepoint": 58935,
       "fontFamily": "Logos",
       "identifier": "bitbar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bitbucket": {
       "codepoint": 58290,
@@ -1369,7 +1414,8 @@
       "codepoint": 57418,
       "fontFamily": "Logos",
       "identifier": "blogger",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "blossom": {
       "codepoint": 58295,
@@ -1452,25 +1498,29 @@
       "codepoint": 57427,
       "fontFamily": "Logos",
       "identifier": "brainjs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "branch": {
       "codepoint": 58936,
       "fontFamily": "Logos",
       "identifier": "branch",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "branch-icon": {
       "codepoint": 58937,
       "fontFamily": "Logos",
       "identifier": "branchIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "brandfolder": {
       "codepoint": 58938,
       "fontFamily": "Logos",
       "identifier": "brandfolder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "brandfolder-icon": {
       "codepoint": 57428,
@@ -1495,13 +1545,15 @@
       "codepoint": 57430,
       "fontFamily": "Logos",
       "identifier": "broadcomIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "brotli": {
       "codepoint": 57431,
       "fontFamily": "Logos",
       "identifier": "brotli",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "browserify": {
       "codepoint": 57432,
@@ -1512,7 +1564,8 @@
       "codepoint": 58939,
       "fontFamily": "Logos",
       "identifier": "browserifyIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "browserslist": {
       "codepoint": 57433,
@@ -1537,13 +1590,15 @@
       "codepoint": 58940,
       "fontFamily": "Logos",
       "identifier": "bubble",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bubble-icon": {
       "codepoint": 58941,
       "fontFamily": "Logos",
       "identifier": "bubbleIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "buck": {
       "codepoint": 57435,
@@ -1568,7 +1623,8 @@
       "codepoint": 57436,
       "fontFamily": "Logos",
       "identifier": "bugherd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bugherd-icon": {
       "codepoint": 57437,
@@ -1581,13 +1637,15 @@
       "codepoint": 58942,
       "fontFamily": "Logos",
       "identifier": "bugsee",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bugsnag": {
       "codepoint": 58304,
       "fontFamily": "Logos",
       "identifier": "bugsnag",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bugsnag-icon": {
       "codepoint": 57438,
@@ -1619,7 +1677,8 @@
       "codepoint": 57442,
       "fontFamily": "Logos",
       "identifier": "buildkiteIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bulma": {
       "codepoint": 57443,
@@ -1672,13 +1731,15 @@
       "codepoint": 58311,
       "fontFamily": "Logos",
       "identifier": "cachet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "caffe2": {
       "codepoint": 58312,
       "fontFamily": "Logos",
       "identifier": "caffe2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cakephp": {
       "codepoint": 57444,
@@ -1694,7 +1755,8 @@
       "codepoint": 58313,
       "fontFamily": "Logos",
       "identifier": "campaignmonitor",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "campfire": {
       "codepoint": 58314,
@@ -1748,7 +1810,8 @@
       "codepoint": 57452,
       "fontFamily": "Logos",
       "identifier": "celluloid",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "centos": {
       "codepoint": 57453,
@@ -1818,7 +1881,8 @@
       "codepoint": 58943,
       "fontFamily": "Logos",
       "identifier": "chef",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chevereto": {
       "codepoint": 57459,
@@ -1836,7 +1900,8 @@
       "codepoint": 57461,
       "fontFamily": "Logos",
       "identifier": "chromaticIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chrome": {
       "codepoint": 58320,
@@ -1880,7 +1945,8 @@
       "codepoint": 57464,
       "fontFamily": "Logos",
       "identifier": "cljs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "clojure": {
       "codepoint": 58324,
@@ -1924,7 +1990,8 @@
       "codepoint": 58328,
       "fontFamily": "Logos",
       "identifier": "cloudflareIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloudflare-workers-icon": {
       "codepoint": 58329,
@@ -1944,7 +2011,8 @@
       "codepoint": 57467,
       "fontFamily": "Logos",
       "identifier": "cobalt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cockpit": {
       "codepoint": 57468,
@@ -1955,7 +2023,8 @@
       "codepoint": 57469,
       "fontFamily": "Logos",
       "identifier": "cocoapods",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "coda-icon": {
       "codepoint": 57470,
@@ -2020,13 +2089,15 @@
       "codepoint": 58333,
       "fontFamily": "Logos",
       "identifier": "codefund",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "codefund-icon": {
       "codepoint": 58334,
       "fontFamily": "Logos",
       "identifier": "codefundIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "codepen": {
       "codepoint": 57479,
@@ -2049,19 +2120,22 @@
       "codepoint": 57481,
       "fontFamily": "Logos",
       "identifier": "codepush",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "codersrank": {
       "codepoint": 58944,
       "fontFamily": "Logos",
       "identifier": "codersrank",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "codersrank-icon": {
       "codepoint": 58945,
       "fontFamily": "Logos",
       "identifier": "codersrankIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "coderwall": {
       "codepoint": 58336,
@@ -2171,13 +2245,15 @@
       "codepoint": 58946,
       "fontFamily": "Logos",
       "identifier": "concretecmsIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "conda": {
       "codepoint": 57491,
       "fontFamily": "Logos",
       "identifier": "conda",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "confluence": {
       "codepoint": 58344,
@@ -2190,7 +2266,8 @@
       "codepoint": 57492,
       "fontFamily": "Logos",
       "identifier": "containership",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "contentful": {
       "codepoint": 58345,
@@ -2203,7 +2280,8 @@
       "codepoint": 58947,
       "fontFamily": "Logos",
       "identifier": "convox",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "convox-icon": {
       "codepoint": 57493,
@@ -2260,7 +2338,8 @@
       "codepoint": 57500,
       "fontFamily": "Logos",
       "identifier": "coveralls",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "coverity": {
       "codepoint": 58348,
@@ -2309,7 +2388,8 @@
       "codepoint": 58948,
       "fontFamily": "Logos",
       "identifier": "crossBrowserTesting",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crossplane": {
       "codepoint": 58352,
@@ -2339,7 +2419,8 @@
       "codepoint": 57506,
       "fontFamily": "Logos",
       "identifier": "css",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "css-3": {
       "codepoint": 58354,
@@ -2364,13 +2445,15 @@
       "codepoint": 58356,
       "fontFamily": "Logos",
       "identifier": "cucumber",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "curl": {
       "codepoint": 58357,
       "fontFamily": "Logos",
       "identifier": "curl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "customerio": {
       "codepoint": 58358,
@@ -2418,13 +2501,15 @@
       "codepoint": 58364,
       "fontFamily": "Logos",
       "identifier": "dailydev",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dailydev-icon": {
       "codepoint": 58365,
       "fontFamily": "Logos",
       "identifier": "dailydevIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "daisyui": {
       "codepoint": 58366,
@@ -2444,7 +2529,8 @@
       "codepoint": 57508,
       "fontFamily": "Logos",
       "identifier": "danfo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dat": {
       "codepoint": 57509,
@@ -2507,7 +2593,8 @@
       "codepoint": 57514,
       "fontFamily": "Logos",
       "identifier": "dbt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dbt-icon": {
       "codepoint": 57515,
@@ -2573,7 +2660,8 @@
       "codepoint": 57521,
       "fontFamily": "Logos",
       "identifier": "dependabot",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dependencyci": {
       "codepoint": 57522,
@@ -2607,7 +2695,8 @@
       "codepoint": 57525,
       "fontFamily": "Logos",
       "identifier": "deppbot",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "derby": {
       "codepoint": 57526,
@@ -2654,7 +2743,8 @@
       "codepoint": 57530,
       "fontFamily": "Logos",
       "identifier": "deviantart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "deviantart-icon": {
       "codepoint": 57531,
@@ -2729,7 +2819,8 @@
       "codepoint": 58385,
       "fontFamily": "Logos",
       "identifier": "djangoIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dockbit": {
       "codepoint": 58386,
@@ -2747,7 +2838,8 @@
       "codepoint": 58949,
       "fontFamily": "Logos",
       "identifier": "doctrine",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "docusaurus": {
       "codepoint": 57538,
@@ -2774,7 +2866,8 @@
       "codepoint": 58950,
       "fontFamily": "Logos",
       "identifier": "dojoToolkit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dotcloud": {
       "codepoint": 57539,
@@ -2785,19 +2878,22 @@
       "codepoint": 57540,
       "fontFamily": "Logos",
       "identifier": "dotnet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dreamfactory": {
       "codepoint": 57541,
       "fontFamily": "Logos",
       "identifier": "dreamfactory",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dreamhost": {
       "codepoint": 58951,
       "fontFamily": "Logos",
       "identifier": "dreamhost",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dribbble": {
       "codepoint": 57542,
@@ -2808,7 +2904,8 @@
       "codepoint": 58389,
       "fontFamily": "Logos",
       "identifier": "dribbbleIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "drift": {
       "codepoint": 57543,
@@ -2838,7 +2935,8 @@
       "codepoint": 57545,
       "fontFamily": "Logos",
       "identifier": "drone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "drone-icon": {
       "codepoint": 57546,
@@ -2964,7 +3062,8 @@
       "codepoint": 57556,
       "fontFamily": "Logos",
       "identifier": "elasticpath",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "elasticpath-icon": {
       "codepoint": 57557,
@@ -3037,13 +3136,15 @@
       "codepoint": 58952,
       "fontFamily": "Logos",
       "identifier": "embedly",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ember": {
       "codepoint": 57563,
       "fontFamily": "Logos",
       "identifier": "ember",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ember-tomster": {
       "codepoint": 58407,
@@ -3143,7 +3244,8 @@
       "codepoint": 57568,
       "fontFamily": "Logos",
       "identifier": "eraserIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "erlang": {
       "codepoint": 58416,
@@ -3156,31 +3258,36 @@
       "codepoint": 58954,
       "fontFamily": "Logos",
       "identifier": "es6",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "esbuild": {
       "codepoint": 58955,
       "fontFamily": "Logos",
       "identifier": "esbuild",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "esdoc": {
       "codepoint": 58417,
       "fontFamily": "Logos",
       "identifier": "esdoc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eslint": {
       "codepoint": 58956,
       "fontFamily": "Logos",
       "identifier": "eslint",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eslint-old": {
       "codepoint": 58418,
       "fontFamily": "Logos",
       "identifier": "eslintOld",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eta": {
       "codepoint": 57569,
@@ -3191,13 +3298,15 @@
       "codepoint": 57570,
       "fontFamily": "Logos",
       "identifier": "etaIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eta-lang": {
       "codepoint": 57571,
       "fontFamily": "Logos",
       "identifier": "etaLang",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "etcd": {
       "codepoint": 57572,
@@ -3215,7 +3324,8 @@
       "codepoint": 58420,
       "fontFamily": "Logos",
       "identifier": "eventbriteIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eventsentry": {
       "codepoint": 58421,
@@ -3228,7 +3338,8 @@
       "codepoint": 57573,
       "fontFamily": "Logos",
       "identifier": "evergreenIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "expo": {
       "codepoint": 57574,
@@ -3254,13 +3365,15 @@
       "codepoint": 57578,
       "fontFamily": "Logos",
       "identifier": "fabric",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "facebook": {
       "codepoint": 58957,
       "fontFamily": "Logos",
       "identifier": "facebook",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "falcor": {
       "codepoint": 58422,
@@ -3322,7 +3435,8 @@
       "codepoint": 57586,
       "fontFamily": "Logos",
       "identifier": "fetch",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "figma": {
       "codepoint": 58425,
@@ -3378,19 +3492,22 @@
       "codepoint": 57590,
       "fontFamily": "Logos",
       "identifier": "flexibleGs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flickr": {
       "codepoint": 57591,
       "fontFamily": "Logos",
       "identifier": "flickr",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flickr-icon": {
       "codepoint": 57592,
       "fontFamily": "Logos",
       "identifier": "flickrIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flight": {
       "codepoint": 57593,
@@ -3492,7 +3609,8 @@
       "codepoint": 58437,
       "fontFamily": "Logos",
       "identifier": "fontAwesome",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "forest": {
       "codepoint": 58438,
@@ -3512,7 +3630,8 @@
       "codepoint": 57603,
       "fontFamily": "Logos",
       "identifier": "forestadminIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "forever": {
       "codepoint": 57604,
@@ -3528,7 +3647,8 @@
       "codepoint": 57606,
       "fontFamily": "Logos",
       "identifier": "fortran",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "foundationdb": {
       "codepoint": 57607,
@@ -3558,7 +3678,8 @@
       "codepoint": 57610,
       "fontFamily": "Logos",
       "identifier": "framework7",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "framework7-icon": {
       "codepoint": 57611,
@@ -3576,7 +3697,8 @@
       "codepoint": 58441,
       "fontFamily": "Logos",
       "identifier": "freedcamp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "freedomdefined": {
       "codepoint": 58442,
@@ -3603,7 +3725,8 @@
       "codepoint": 57613,
       "fontFamily": "Logos",
       "identifier": "fsharp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fuchsia": {
       "codepoint": 57614,
@@ -3658,7 +3781,8 @@
       "codepoint": 57621,
       "fontFamily": "Logos",
       "identifier": "geetest",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "geetest-icon": {
       "codepoint": 57622,
@@ -3669,7 +3793,8 @@
       "codepoint": 58958,
       "fontFamily": "Logos",
       "identifier": "getSatisfaction",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "getyourguide": {
       "codepoint": 57623,
@@ -3680,7 +3805,8 @@
       "codepoint": 58445,
       "fontFamily": "Logos",
       "identifier": "ghost",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "giantswarm": {
       "codepoint": 58446,
@@ -3700,7 +3826,8 @@
       "codepoint": 58959,
       "fontFamily": "Logos",
       "identifier": "git",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "git-icon": {
       "codepoint": 57624,
@@ -3711,13 +3838,15 @@
       "codepoint": 58960,
       "fontFamily": "Logos",
       "identifier": "gitboard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "github-actions": {
       "codepoint": 57625,
       "fontFamily": "Logos",
       "identifier": "githubActions",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "github-copilot": {
       "codepoint": 57626,
@@ -3770,7 +3899,8 @@
       "codepoint": 58961,
       "fontFamily": "Logos",
       "identifier": "glimmerjs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "glint": {
       "codepoint": 58454,
@@ -3897,7 +4027,8 @@
       "codepoint": 58467,
       "fontFamily": "Logos",
       "identifier": "googleAnalytics",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "google-bard-icon": {
       "codepoint": 58468,
@@ -3931,13 +4062,15 @@
       "codepoint": 58472,
       "fontFamily": "Logos",
       "identifier": "googleCurrents",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "google-data-studio": {
       "codepoint": 58473,
       "fontFamily": "Logos",
       "identifier": "googleDataStudio",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "google-developers": {
       "codepoint": 58474,
@@ -4032,7 +4165,8 @@
       "codepoint": 57634,
       "fontFamily": "Logos",
       "identifier": "googlePlayConsoleIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "google-plus": {
       "codepoint": 58487,
@@ -4059,7 +4193,8 @@
       "codepoint": 57636,
       "fontFamily": "Logos",
       "identifier": "gordon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gradio": {
       "codepoint": 58489,
@@ -4098,7 +4233,8 @@
       "codepoint": 57639,
       "fontFamily": "Logos",
       "identifier": "grammarlyIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "grape": {
       "codepoint": 58492,
@@ -4220,7 +4356,8 @@
       "codepoint": 57650,
       "fontFamily": "Logos",
       "identifier": "gulp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gunicorn": {
       "codepoint": 58501,
@@ -4243,7 +4380,8 @@
       "codepoint": 58962,
       "fontFamily": "Logos",
       "identifier": "gwt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hack": {
       "codepoint": 58502,
@@ -4282,7 +4420,8 @@
       "codepoint": 58505,
       "fontFamily": "Logos",
       "identifier": "haml",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hanami": {
       "codepoint": 58963,
@@ -4309,7 +4448,8 @@
       "codepoint": 58508,
       "fontFamily": "Logos",
       "identifier": "harness",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "harness-icon": {
       "codepoint": 57655,
@@ -4361,7 +4501,8 @@
       "codepoint": 58512,
       "fontFamily": "Logos",
       "identifier": "hasura",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hasura-icon": {
       "codepoint": 57658,
@@ -4415,7 +4556,8 @@
       "codepoint": 57662,
       "fontFamily": "Logos",
       "identifier": "helpscout",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "helpscout-icon": {
       "codepoint": 57663,
@@ -4432,13 +4574,15 @@
       "codepoint": 58964,
       "fontFamily": "Logos",
       "identifier": "heron",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hexo": {
       "codepoint": 57665,
       "fontFamily": "Logos",
       "identifier": "hexo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hhvm": {
       "codepoint": 58517,
@@ -4451,7 +4595,8 @@
       "codepoint": 58965,
       "fontFamily": "Logos",
       "identifier": "hibernate",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hipchat": {
       "codepoint": 58518,
@@ -4464,13 +4609,15 @@
       "codepoint": 58966,
       "fontFamily": "Logos",
       "identifier": "hipercard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hoa": {
       "codepoint": 57666,
       "fontFamily": "Logos",
       "identifier": "hoa",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "homebrew": {
       "codepoint": 58519,
@@ -4493,13 +4640,15 @@
       "codepoint": 57669,
       "fontFamily": "Logos",
       "identifier": "hootsuite",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hootsuite-icon": {
       "codepoint": 57670,
       "fontFamily": "Logos",
       "identifier": "hootsuiteIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "horizon": {
       "codepoint": 58520,
@@ -4524,7 +4673,8 @@
       "codepoint": 58967,
       "fontFamily": "Logos",
       "identifier": "hotjar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hotjar-icon": {
       "codepoint": 57672,
@@ -4554,13 +4704,15 @@
       "codepoint": 58524,
       "fontFamily": "Logos",
       "identifier": "htmx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "htmx-icon": {
       "codepoint": 58525,
       "fontFamily": "Logos",
       "identifier": "htmxIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "httpie": {
       "codepoint": 57674,
@@ -4576,7 +4728,8 @@
       "codepoint": 58968,
       "fontFamily": "Logos",
       "identifier": "hubspot",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hugging-face": {
       "codepoint": 58526,
@@ -4649,7 +4802,8 @@
       "codepoint": 58969,
       "fontFamily": "Logos",
       "identifier": "imba",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "imba-icon": {
       "codepoint": 57680,
@@ -4670,7 +4824,8 @@
       "codepoint": 58970,
       "fontFamily": "Logos",
       "identifier": "immutable",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "importio": {
       "codepoint": 57683,
@@ -4686,19 +4841,22 @@
       "codepoint": 58971,
       "fontFamily": "Logos",
       "identifier": "incident",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "infer": {
       "codepoint": 58972,
       "fontFamily": "Logos",
       "identifier": "infer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "inferno": {
       "codepoint": 58973,
       "fontFamily": "Logos",
       "identifier": "inferno",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "influxdb": {
       "codepoint": 57685,
@@ -4774,19 +4932,22 @@
       "codepoint": 57692,
       "fontFamily": "Logos",
       "identifier": "invision",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "invision-icon": {
       "codepoint": 57693,
       "fontFamily": "Logos",
       "identifier": "invisionIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "io": {
       "codepoint": 58974,
       "fontFamily": "Logos",
       "identifier": "io",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ios": {
       "codepoint": 57694,
@@ -4797,25 +4958,29 @@
       "codepoint": 58975,
       "fontFamily": "Logos",
       "identifier": "iron",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jade": {
       "codepoint": 57695,
       "fontFamily": "Logos",
       "identifier": "jade",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jamstack": {
       "codepoint": 57696,
       "fontFamily": "Logos",
       "identifier": "jamstack",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jamstack-icon": {
       "codepoint": 57697,
       "fontFamily": "Logos",
       "identifier": "jamstackIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jasmine": {
       "codepoint": 58537,
@@ -4828,7 +4993,8 @@
       "codepoint": 58976,
       "fontFamily": "Logos",
       "identifier": "java",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "javascript": {
       "codepoint": 57698,
@@ -4867,7 +5033,8 @@
       "codepoint": 58977,
       "fontFamily": "Logos",
       "identifier": "jest",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jetbrains": {
       "codepoint": 58542,
@@ -4904,7 +5071,8 @@
       "codepoint": 58978,
       "fontFamily": "Logos",
       "identifier": "jhipsterIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "joomla": {
       "codepoint": 58545,
@@ -4948,13 +5116,15 @@
       "codepoint": 58548,
       "fontFamily": "Logos",
       "identifier": "jscs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jsdom": {
       "codepoint": 58549,
       "fontFamily": "Logos",
       "identifier": "jsdom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jsfiddle": {
       "codepoint": 57704,
@@ -4979,7 +5149,8 @@
       "codepoint": 58551,
       "fontFamily": "Logos",
       "identifier": "jsonSchema",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "json-schema-icon": {
       "codepoint": 57706,
@@ -5004,7 +5175,8 @@
       "codepoint": 58979,
       "fontFamily": "Logos",
       "identifier": "juju",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "julia": {
       "codepoint": 58552,
@@ -5046,7 +5218,8 @@
       "codepoint": 57712,
       "fontFamily": "Logos",
       "identifier": "karma",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "katalon": {
       "codepoint": 57713,
@@ -5062,7 +5235,8 @@
       "codepoint": 57715,
       "fontFamily": "Logos",
       "identifier": "kde",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kemal": {
       "codepoint": 58555,
@@ -5075,7 +5249,8 @@
       "codepoint": 57716,
       "fontFamily": "Logos",
       "identifier": "keycdn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycdn-icon": {
       "codepoint": 58556,
@@ -5121,7 +5296,8 @@
       "codepoint": 57720,
       "fontFamily": "Logos",
       "identifier": "khanAcademyIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kickstarter": {
       "codepoint": 57721,
@@ -5161,7 +5337,8 @@
       "codepoint": 58980,
       "fontFamily": "Logos",
       "identifier": "kitematic",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kloudless": {
       "codepoint": 58561,
@@ -5226,7 +5403,8 @@
       "codepoint": 57728,
       "fontFamily": "Logos",
       "identifier": "krakenjs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ktor": {
       "codepoint": 58566,
@@ -5246,7 +5424,8 @@
       "codepoint": 57729,
       "fontFamily": "Logos",
       "identifier": "kubernetes",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kustomer": {
       "codepoint": 57730,
@@ -5301,7 +5480,8 @@
       "codepoint": 57737,
       "fontFamily": "Logos",
       "identifier": "leankitIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lerna": {
       "codepoint": 57738,
@@ -5317,7 +5497,8 @@
       "codepoint": 57739,
       "fontFamily": "Logos",
       "identifier": "letsencrypt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "leveldb": {
       "codepoint": 57740,
@@ -5351,13 +5532,15 @@
       "codepoint": 57744,
       "fontFamily": "Logos",
       "identifier": "lightstep",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lightstep-icon": {
       "codepoint": 57745,
       "fontFamily": "Logos",
       "identifier": "lightstepIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "linkedin": {
       "codepoint": 57746,
@@ -5423,7 +5606,8 @@
       "codepoint": 58577,
       "fontFamily": "Logos",
       "identifier": "lodash",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "loggly": {
       "codepoint": 57751,
@@ -5434,7 +5618,8 @@
       "codepoint": 58981,
       "fontFamily": "Logos",
       "identifier": "logmatic",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "logstash": {
       "codepoint": 58578,
@@ -5466,7 +5651,8 @@
       "codepoint": 57753,
       "fontFamily": "Logos",
       "identifier": "loom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "loom-icon": {
       "codepoint": 57754,
@@ -5477,7 +5663,8 @@
       "codepoint": 57755,
       "fontFamily": "Logos",
       "identifier": "loopback",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "loopback-icon": {
       "codepoint": 57756,
@@ -5488,7 +5675,8 @@
       "codepoint": 57757,
       "fontFamily": "Logos",
       "identifier": "losant",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lotus": {
       "codepoint": 57758,
@@ -5547,19 +5735,22 @@
       "codepoint": 57762,
       "fontFamily": "Logos",
       "identifier": "mageia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mailchimp": {
       "codepoint": 57763,
       "fontFamily": "Logos",
       "identifier": "mailchimp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mailgun": {
       "codepoint": 57764,
       "fontFamily": "Logos",
       "identifier": "mailgun",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mailgun-icon": {
       "codepoint": 57765,
@@ -5570,13 +5761,15 @@
       "codepoint": 58586,
       "fontFamily": "Logos",
       "identifier": "mailjet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "malinajs": {
       "codepoint": 57766,
       "fontFamily": "Logos",
       "identifier": "malinajs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "manjaro": {
       "codepoint": 57767,
@@ -5594,7 +5787,8 @@
       "codepoint": 57769,
       "fontFamily": "Logos",
       "identifier": "mantineIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mantl": {
       "codepoint": 58587,
@@ -5614,13 +5808,15 @@
       "codepoint": 57770,
       "fontFamily": "Logos",
       "identifier": "mapsMe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mariadb-icon": {
       "codepoint": 57771,
       "fontFamily": "Logos",
       "identifier": "mariadbIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "markdown": {
       "codepoint": 57772,
@@ -5657,13 +5853,15 @@
       "codepoint": 58982,
       "fontFamily": "Logos",
       "identifier": "mastodon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mastodon-icon": {
       "codepoint": 58983,
       "fontFamily": "Logos",
       "identifier": "mastodonIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "material-ui": {
       "codepoint": 57775,
@@ -5715,13 +5913,15 @@
       "codepoint": 58984,
       "fontFamily": "Logos",
       "identifier": "mautic",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mautic-icon": {
       "codepoint": 58985,
       "fontFamily": "Logos",
       "identifier": "mauticIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "maven": {
       "codepoint": 58594,
@@ -5734,7 +5934,8 @@
       "codepoint": 57780,
       "fontFamily": "Logos",
       "identifier": "maxcdn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mdn": {
       "codepoint": 57781,
@@ -5817,19 +6018,22 @@
       "codepoint": 58986,
       "fontFamily": "Logos",
       "identifier": "mention",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mern": {
       "codepoint": 58602,
       "fontFamily": "Logos",
       "identifier": "mern",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mesos": {
       "codepoint": 57786,
       "fontFamily": "Logos",
       "identifier": "mesos",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mesosphere": {
       "codepoint": 58603,
@@ -5869,7 +6073,8 @@
       "codepoint": 58607,
       "fontFamily": "Logos",
       "identifier": "meteor",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "meteor-icon": {
       "codepoint": 57788,
@@ -5895,7 +6100,8 @@
       "codepoint": 58608,
       "fontFamily": "Logos",
       "identifier": "microcosm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "micron": {
       "codepoint": 57792,
@@ -6065,7 +6271,8 @@
       "codepoint": 58622,
       "fontFamily": "Logos",
       "identifier": "mixmax",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mixpanel": {
       "codepoint": 58623,
@@ -6085,7 +6292,8 @@
       "codepoint": 58987,
       "fontFamily": "Logos",
       "identifier": "mocha",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mockflow": {
       "codepoint": 58625,
@@ -6148,7 +6356,8 @@
       "codepoint": 58988,
       "fontFamily": "Logos",
       "identifier": "momentjs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "monday": {
       "codepoint": 57809,
@@ -6168,13 +6377,15 @@
       "codepoint": 57811,
       "fontFamily": "Logos",
       "identifier": "monero",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mongodb": {
       "codepoint": 57812,
       "fontFamily": "Logos",
       "identifier": "mongodb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mongodb-icon": {
       "codepoint": 57813,
@@ -6202,19 +6413,22 @@
       "codepoint": 58989,
       "fontFamily": "Logos",
       "identifier": "mootools",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "morpheus": {
       "codepoint": 58990,
       "fontFamily": "Logos",
       "identifier": "morpheus",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "morpheus-icon": {
       "codepoint": 58991,
       "fontFamily": "Logos",
       "identifier": "morpheusIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mozilla": {
       "codepoint": 57816,
@@ -6256,19 +6470,22 @@
       "codepoint": 58992,
       "fontFamily": "Logos",
       "identifier": "mswIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "multipass": {
       "codepoint": 58993,
       "fontFamily": "Logos",
       "identifier": "multipass",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mysql": {
       "codepoint": 58635,
       "fontFamily": "Logos",
       "identifier": "mysql",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mysql-icon": {
       "codepoint": 57819,
@@ -6289,7 +6506,8 @@
       "codepoint": 57822,
       "fontFamily": "Logos",
       "identifier": "nasm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nativescript": {
       "codepoint": 57823,
@@ -6340,7 +6558,8 @@
       "codepoint": 58994,
       "fontFamily": "Logos",
       "identifier": "neonmetrics",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "neovim": {
       "codepoint": 58639,
@@ -6384,13 +6603,15 @@
       "codepoint": 58643,
       "fontFamily": "Logos",
       "identifier": "netlify",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "netlify-icon": {
       "codepoint": 58644,
       "fontFamily": "Logos",
       "identifier": "netlifyIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "netuitive": {
       "codepoint": 57829,
@@ -6441,7 +6662,8 @@
       "codepoint": 58995,
       "fontFamily": "Logos",
       "identifier": "nginx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ngrok": {
       "codepoint": 57833,
@@ -6452,7 +6674,8 @@
       "codepoint": 58996,
       "fontFamily": "Logos",
       "identifier": "nhost",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nhost-icon": {
       "codepoint": 57834,
@@ -6470,7 +6693,8 @@
       "codepoint": 58648,
       "fontFamily": "Logos",
       "identifier": "nocodb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nodal": {
       "codepoint": 57836,
@@ -6490,7 +6714,8 @@
       "codepoint": 57837,
       "fontFamily": "Logos",
       "identifier": "nodebots",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nodejitsu": {
       "codepoint": 57838,
@@ -6515,13 +6740,15 @@
       "codepoint": 57839,
       "fontFamily": "Logos",
       "identifier": "nodemon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nodeos": {
       "codepoint": 57840,
       "fontFamily": "Logos",
       "identifier": "nodeos",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nodewebkit": {
       "codepoint": 57841,
@@ -6559,7 +6786,8 @@
       "codepoint": 57847,
       "fontFamily": "Logos",
       "identifier": "noysi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "npm-2": {
       "codepoint": 58652,
@@ -6572,7 +6800,8 @@
       "codepoint": 58997,
       "fontFamily": "Logos",
       "identifier": "npmIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nuclide": {
       "codepoint": 57848,
@@ -6585,7 +6814,8 @@
       "codepoint": 57849,
       "fontFamily": "Logos",
       "identifier": "numpy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nuodb": {
       "codepoint": 57850,
@@ -6738,7 +6968,8 @@
       "codepoint": 57863,
       "fontFamily": "Logos",
       "identifier": "opencollective",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "opencv": {
       "codepoint": 58665,
@@ -6768,25 +6999,29 @@
       "codepoint": 57865,
       "fontFamily": "Logos",
       "identifier": "opensearch",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "opensearch-icon": {
       "codepoint": 57866,
       "fontFamily": "Logos",
       "identifier": "opensearchIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "opensource": {
       "codepoint": 57867,
       "fontFamily": "Logos",
       "identifier": "opensource",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "openstack": {
       "codepoint": 57868,
       "fontFamily": "Logos",
       "identifier": "openstack",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "openstack-icon": {
       "codepoint": 57869,
@@ -6797,13 +7032,15 @@
       "codepoint": 57870,
       "fontFamily": "Logos",
       "identifier": "opentelemetry",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "opentelemetry-icon": {
       "codepoint": 57871,
       "fontFamily": "Logos",
       "identifier": "opentelemetryIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "opera": {
       "codepoint": 58668,
@@ -6849,7 +7086,8 @@
       "codepoint": 58673,
       "fontFamily": "Logos",
       "identifier": "oreilly",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "origami": {
       "codepoint": 58674,
@@ -6926,7 +7164,8 @@
       "codepoint": 57876,
       "fontFamily": "Logos",
       "identifier": "packer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pagerduty": {
       "codepoint": 57877,
@@ -6971,7 +7210,8 @@
       "codepoint": 58683,
       "fontFamily": "Logos",
       "identifier": "parsehub",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "partytown": {
       "codepoint": 58684,
@@ -7049,7 +7289,8 @@
       "codepoint": 58998,
       "fontFamily": "Logos",
       "identifier": "perplexity",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "phalcon": {
       "codepoint": 58691,
@@ -7149,7 +7390,8 @@
       "codepoint": 58697,
       "fontFamily": "Logos",
       "identifier": "pivotalTracker",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pixate": {
       "codepoint": 57898,
@@ -7162,7 +7404,8 @@
       "codepoint": 57899,
       "fontFamily": "Logos",
       "identifier": "pixelapse",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pkg": {
       "codepoint": 57900,
@@ -7178,7 +7421,8 @@
       "codepoint": 58698,
       "fontFamily": "Logos",
       "identifier": "planless",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "plasmic": {
       "codepoint": 57902,
@@ -7198,7 +7442,8 @@
       "codepoint": 58700,
       "fontFamily": "Logos",
       "identifier": "play",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pluralsight": {
       "codepoint": 58701,
@@ -7232,13 +7477,15 @@
       "codepoint": 58705,
       "fontFamily": "Logos",
       "identifier": "pnpm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pocket-base": {
       "codepoint": 58706,
       "fontFamily": "Logos",
       "identifier": "pocketBase",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "poeditor": {
       "codepoint": 58707,
@@ -7286,13 +7533,15 @@
       "codepoint": 57905,
       "fontFamily": "Logos",
       "identifier": "postman",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "postman-icon": {
       "codepoint": 57906,
       "fontFamily": "Logos",
       "identifier": "postmanIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pouchdb": {
       "codepoint": 57907,
@@ -7305,7 +7554,8 @@
       "codepoint": 57908,
       "fontFamily": "Logos",
       "identifier": "preact",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "precursor": {
       "codepoint": 57909,
@@ -7412,7 +7662,8 @@
       "codepoint": 58715,
       "fontFamily": "Logos",
       "identifier": "promises",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "proofy": {
       "codepoint": 57920,
@@ -7424,7 +7675,8 @@
       "codepoint": 57921,
       "fontFamily": "Logos",
       "identifier": "prospect",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "protoio": {
       "codepoint": 57922,
@@ -7505,7 +7757,8 @@
       "codepoint": 57932,
       "fontFamily": "Logos",
       "identifier": "pwa",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pycharm": {
       "codepoint": 58719,
@@ -7568,19 +7821,22 @@
       "codepoint": 58999,
       "fontFamily": "Logos",
       "identifier": "qlik",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qt": {
       "codepoint": 57937,
       "fontFamily": "Logos",
       "identifier": "qt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "quay": {
       "codepoint": 59000,
       "fontFamily": "Logos",
       "identifier": "quay",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "quora": {
       "codepoint": 57938,
@@ -7591,13 +7847,15 @@
       "codepoint": 57939,
       "fontFamily": "Logos",
       "identifier": "qwen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qwen-icon": {
       "codepoint": 57940,
       "fontFamily": "Logos",
       "identifier": "qwenIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qwik": {
       "codepoint": 57941,
@@ -7624,7 +7882,8 @@
       "codepoint": 57943,
       "fontFamily": "Logos",
       "identifier": "rabbitmq",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rabbitmq-icon": {
       "codepoint": 57944,
@@ -7640,7 +7899,8 @@
       "codepoint": 57946,
       "fontFamily": "Logos",
       "identifier": "rackspaceIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rails": {
       "codepoint": 57947,
@@ -7727,7 +7987,8 @@
       "codepoint": 58732,
       "fontFamily": "Logos",
       "identifier": "reapp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "reasonml": {
       "codepoint": 57953,
@@ -7740,7 +8001,8 @@
       "codepoint": 57954,
       "fontFamily": "Logos",
       "identifier": "reasonmlIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "recaptcha": {
       "codepoint": 58733,
@@ -7760,7 +8022,8 @@
       "codepoint": 58735,
       "fontFamily": "Logos",
       "identifier": "redditIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "redhat": {
       "codepoint": 57955,
@@ -7800,13 +8063,15 @@
       "codepoint": 57959,
       "fontFamily": "Logos",
       "identifier": "reduxSaga",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "redwoodjs": {
       "codepoint": 58738,
       "fontFamily": "Logos",
       "identifier": "redwoodjs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "refactor": {
       "codepoint": 57960,
@@ -7819,7 +8084,8 @@
       "codepoint": 57961,
       "fontFamily": "Logos",
       "identifier": "reindex",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "relay": {
       "codepoint": 57962,
@@ -7883,7 +8149,8 @@
       "codepoint": 58741,
       "fontFamily": "Logos",
       "identifier": "riak",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rider": {
       "codepoint": 58742,
@@ -7910,7 +8177,8 @@
       "codepoint": 58744,
       "fontFamily": "Logos",
       "identifier": "rkt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rocksdb": {
       "codepoint": 58745,
@@ -7933,7 +8201,8 @@
       "codepoint": 57973,
       "fontFamily": "Logos",
       "identifier": "rollbar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rollbar-icon": {
       "codepoint": 57974,
@@ -7979,31 +8248,36 @@
       "codepoint": 59001,
       "fontFamily": "Logos",
       "identifier": "rome",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rome-icon": {
       "codepoint": 59002,
       "fontFamily": "Logos",
       "identifier": "romeIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rsa": {
       "codepoint": 59003,
       "fontFamily": "Logos",
       "identifier": "rsa",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rsmq": {
       "codepoint": 59004,
       "fontFamily": "Logos",
       "identifier": "rsmq",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rubocop": {
       "codepoint": 58751,
       "fontFamily": "Logos",
       "identifier": "rubocop",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ruby": {
       "codepoint": 58752,
@@ -8049,13 +8323,15 @@
       "codepoint": 58757,
       "fontFamily": "Logos",
       "identifier": "runscope",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rush": {
       "codepoint": 59005,
       "fontFamily": "Logos",
       "identifier": "rush",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rush-icon": {
       "codepoint": 57976,
@@ -8088,7 +8364,8 @@
       "codepoint": 57980,
       "fontFamily": "Logos",
       "identifier": "salesforce",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "saltstack": {
       "codepoint": 57981,
@@ -8118,7 +8395,8 @@
       "codepoint": 59006,
       "fontFamily": "Logos",
       "identifier": "sassDoc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "scala": {
       "codepoint": 58761,
@@ -8136,7 +8414,8 @@
       "codepoint": 58762,
       "fontFamily": "Logos",
       "identifier": "scribd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "seaborn": {
       "codepoint": 58763,
@@ -8163,7 +8442,8 @@
       "codepoint": 58766,
       "fontFamily": "Logos",
       "identifier": "sectionIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sectionio": {
       "codepoint": 58767,
@@ -8191,7 +8471,8 @@
       "codepoint": 57987,
       "fontFamily": "Logos",
       "identifier": "semanticUi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "semantic-web": {
       "codepoint": 57988,
@@ -8211,7 +8492,8 @@
       "codepoint": 59007,
       "fontFamily": "Logos",
       "identifier": "semaphoreci",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sencha": {
       "codepoint": 58769,
@@ -8236,7 +8518,8 @@
       "codepoint": 57990,
       "fontFamily": "Logos",
       "identifier": "sensu",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sensu-icon": {
       "codepoint": 57991,
@@ -8281,7 +8564,8 @@
       "codepoint": 58773,
       "fontFamily": "Logos",
       "identifier": "sherlockIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shields": {
       "codepoint": 57996,
@@ -8318,7 +8602,8 @@
       "codepoint": 58777,
       "fontFamily": "Logos",
       "identifier": "shortcut",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sidekiq": {
       "codepoint": 57998,
@@ -8367,19 +8652,22 @@
       "codepoint": 59008,
       "fontFamily": "Logos",
       "identifier": "sitepoint",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sk-hynix": {
       "codepoint": 59009,
       "fontFamily": "Logos",
       "identifier": "skHynix",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "skaffolder": {
       "codepoint": 58001,
       "fontFamily": "Logos",
       "identifier": "skaffolder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sketch": {
       "codepoint": 58002,
@@ -8392,7 +8680,8 @@
       "codepoint": 58003,
       "fontFamily": "Logos",
       "identifier": "sketchapp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "skylight": {
       "codepoint": 58782,
@@ -8426,7 +8715,8 @@
       "codepoint": 59010,
       "fontFamily": "Logos",
       "identifier": "slim",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "smartling": {
       "codepoint": 58004,
@@ -8482,13 +8772,15 @@
       "codepoint": 59011,
       "fontFamily": "Logos",
       "identifier": "socketIo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "solarwinds": {
       "codepoint": 58007,
       "fontFamily": "Logos",
       "identifier": "solarwinds",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "solid": {
       "codepoint": 58008,
@@ -8512,7 +8804,8 @@
       "codepoint": 58792,
       "fontFamily": "Logos",
       "identifier": "solr",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sonarcloud": {
       "codepoint": 58793,
@@ -8525,7 +8818,8 @@
       "codepoint": 58010,
       "fontFamily": "Logos",
       "identifier": "sonarlint",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sonarlint-icon": {
       "codepoint": 58794,
@@ -8538,7 +8832,8 @@
       "codepoint": 59012,
       "fontFamily": "Logos",
       "identifier": "sonarqube",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "soundcloud": {
       "codepoint": 58795,
@@ -8561,13 +8856,15 @@
       "codepoint": 59013,
       "fontFamily": "Logos",
       "identifier": "sparkcentral",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sparkpost": {
       "codepoint": 59014,
       "fontFamily": "Logos",
       "identifier": "sparkpost",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spidermonkey": {
       "codepoint": 58013,
@@ -8605,19 +8902,22 @@
       "codepoint": 58018,
       "fontFamily": "Logos",
       "identifier": "spree",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spring": {
       "codepoint": 58019,
       "fontFamily": "Logos",
       "identifier": "spring",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spring-icon": {
       "codepoint": 58020,
       "fontFamily": "Logos",
       "identifier": "springIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sqldep": {
       "codepoint": 58021,
@@ -8642,13 +8942,15 @@
       "codepoint": 59015,
       "fontFamily": "Logos",
       "identifier": "sst",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sst-icon": {
       "codepoint": 59016,
       "fontFamily": "Logos",
       "identifier": "sstIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stability-ai": {
       "codepoint": 58799,
@@ -8668,7 +8970,8 @@
       "codepoint": 58022,
       "fontFamily": "Logos",
       "identifier": "stackbit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stackbit-icon": {
       "codepoint": 58023,
@@ -8696,13 +8999,15 @@
       "codepoint": 58802,
       "fontFamily": "Logos",
       "identifier": "stackoverflowIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stackshare": {
       "codepoint": 58026,
       "fontFamily": "Logos",
       "identifier": "stackshare",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stacksmith": {
       "codepoint": 58803,
@@ -8746,7 +9051,8 @@
       "codepoint": 59017,
       "fontFamily": "Logos",
       "identifier": "steemit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stenciljs": {
       "codepoint": 58029,
@@ -8762,13 +9068,15 @@
       "codepoint": 58031,
       "fontFamily": "Logos",
       "identifier": "stetho",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stickermule": {
       "codepoint": 59018,
       "fontFamily": "Logos",
       "identifier": "stickermule",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stigg": {
       "codepoint": 58807,
@@ -8793,7 +9101,8 @@
       "codepoint": 58809,
       "fontFamily": "Logos",
       "identifier": "stoplight",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stormpath": {
       "codepoint": 58033,
@@ -8814,7 +9123,8 @@
       "codepoint": 58036,
       "fontFamily": "Logos",
       "identifier": "storyblok",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "storyblok-icon": {
       "codepoint": 58037,
@@ -8858,7 +9168,8 @@
       "codepoint": 59019,
       "fontFamily": "Logos",
       "identifier": "strongloop",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "struts": {
       "codepoint": 58813,
@@ -8871,7 +9182,8 @@
       "codepoint": 59020,
       "fontFamily": "Logos",
       "identifier": "styleci",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stylefmt": {
       "codepoint": 58040,
@@ -8953,7 +9265,8 @@
       "codepoint": 59021,
       "fontFamily": "Logos",
       "identifier": "supersonic",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "supertokens": {
       "codepoint": 58822,
@@ -9004,7 +9317,8 @@
       "codepoint": 58046,
       "fontFamily": "Logos",
       "identifier": "suse",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "susy": {
       "codepoint": 58047,
@@ -9022,7 +9336,8 @@
       "codepoint": 58049,
       "fontFamily": "Logos",
       "identifier": "svelteIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "svelte-kit": {
       "codepoint": 58050,
@@ -9045,7 +9360,8 @@
       "codepoint": 58827,
       "fontFamily": "Logos",
       "identifier": "swagger",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "swc": {
       "codepoint": 58828,
@@ -9065,7 +9381,8 @@
       "codepoint": 59022,
       "fontFamily": "Logos",
       "identifier": "swiftype",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "swr": {
       "codepoint": 58053,
@@ -9076,13 +9393,15 @@
       "codepoint": 58054,
       "fontFamily": "Logos",
       "identifier": "symfony",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sysdig": {
       "codepoint": 59023,
       "fontFamily": "Logos",
       "identifier": "sysdig",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sysdig-icon": {
       "codepoint": 58830,
@@ -9140,7 +9459,8 @@
       "codepoint": 58058,
       "fontFamily": "Logos",
       "identifier": "taskadeIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tastejs": {
       "codepoint": 58835,
@@ -9153,13 +9473,15 @@
       "codepoint": 58059,
       "fontFamily": "Logos",
       "identifier": "tauri",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tealium": {
       "codepoint": 58060,
       "fontFamily": "Logos",
       "identifier": "tealium",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "teamcity": {
       "codepoint": 58836,
@@ -9177,7 +9499,8 @@
       "codepoint": 58062,
       "fontFamily": "Logos",
       "identifier": "teamwork",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "teamwork-icon": {
       "codepoint": 58063,
@@ -9223,7 +9546,8 @@
       "codepoint": 59024,
       "fontFamily": "Logos",
       "identifier": "terraformIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "terser": {
       "codepoint": 58840,
@@ -9236,7 +9560,8 @@
       "codepoint": 59025,
       "fontFamily": "Logos",
       "identifier": "testcafe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "testing-library": {
       "codepoint": 58841,
@@ -9335,19 +9660,22 @@
       "codepoint": 59026,
       "fontFamily": "Logos",
       "identifier": "todoist",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "todoist-icon": {
       "codepoint": 59027,
       "fontFamily": "Logos",
       "identifier": "todoistIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "todomvc": {
       "codepoint": 59028,
       "fontFamily": "Logos",
       "identifier": "todomvc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tomcat": {
       "codepoint": 58077,
@@ -9419,7 +9747,8 @@
       "codepoint": 58080,
       "fontFamily": "Logos",
       "identifier": "treehouse",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "treehouse-icon": {
       "codepoint": 58081,
@@ -9545,19 +9874,22 @@
       "codepoint": 59029,
       "fontFamily": "Logos",
       "identifier": "typescript",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "typescript-icon": {
       "codepoint": 59030,
       "fontFamily": "Logos",
       "identifier": "typescriptIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "typescript-icon-round": {
       "codepoint": 59031,
       "fontFamily": "Logos",
       "identifier": "typescriptIconRound",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "typesense": {
       "codepoint": 58092,
@@ -9573,13 +9905,15 @@
       "codepoint": 59032,
       "fontFamily": "Logos",
       "identifier": "ubuntu",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "udacity": {
       "codepoint": 58094,
       "fontFamily": "Logos",
       "identifier": "udacity",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "udemy": {
       "codepoint": 58095,
@@ -9607,7 +9941,8 @@
       "codepoint": 58098,
       "fontFamily": "Logos",
       "identifier": "unito",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "unito-icon": {
       "codepoint": 58099,
@@ -9623,7 +9958,8 @@
       "codepoint": 58862,
       "fontFamily": "Logos",
       "identifier": "unjs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "unrealengine": {
       "codepoint": 58101,
@@ -9674,7 +10010,8 @@
       "codepoint": 59033,
       "fontFamily": "Logos",
       "identifier": "uservoice",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "uwsgi": {
       "codepoint": 58865,
@@ -9706,7 +10043,8 @@
       "codepoint": 58109,
       "fontFamily": "Logos",
       "identifier": "vagrantIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vault": {
       "codepoint": 58110,
@@ -9746,7 +10084,8 @@
       "codepoint": 58114,
       "fontFamily": "Logos",
       "identifier": "victorops",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vimeo": {
       "codepoint": 58115,
@@ -9850,13 +10189,15 @@
       "codepoint": 58880,
       "fontFamily": "Logos",
       "identifier": "vue",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vueuse": {
       "codepoint": 59034,
       "fontFamily": "Logos",
       "identifier": "vueuse",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vultr-icon": {
       "codepoint": 58119,
@@ -9869,7 +10210,8 @@
       "codepoint": 58120,
       "fontFamily": "Logos",
       "identifier": "w3c",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "waffle": {
       "codepoint": 58121,
@@ -9949,7 +10291,8 @@
       "codepoint": 59035,
       "fontFamily": "Logos",
       "identifier": "webFundamentals",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "webassembly": {
       "codepoint": 58127,
@@ -10061,7 +10404,8 @@
       "codepoint": 59036,
       "fontFamily": "Logos",
       "identifier": "whalar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "whalar-icon": {
       "codepoint": 58132,
@@ -10091,13 +10435,15 @@
       "codepoint": 58134,
       "fontFamily": "Logos",
       "identifier": "whatwg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wicket-icon": {
       "codepoint": 59037,
       "fontFamily": "Logos",
       "identifier": "wicketIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wifi": {
       "codepoint": 58135,
@@ -10161,7 +10507,8 @@
       "codepoint": 58903,
       "fontFamily": "Logos",
       "identifier": "wordpress",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wordpress-icon-alt": {
       "codepoint": 58142,
@@ -10172,13 +10519,15 @@
       "codepoint": 58143,
       "fontFamily": "Logos",
       "identifier": "workboard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "workos": {
       "codepoint": 59038,
       "fontFamily": "Logos",
       "identifier": "workos",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wpengine": {
       "codepoint": 58144,
@@ -10206,7 +10555,8 @@
       "codepoint": 58148,
       "fontFamily": "Logos",
       "identifier": "xampp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "xata": {
       "codepoint": 58149,
@@ -10240,7 +10590,8 @@
       "codepoint": 58151,
       "fontFamily": "Logos",
       "identifier": "xero",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "xplenty": {
       "codepoint": 58906,
@@ -10298,13 +10649,15 @@
       "codepoint": 58158,
       "fontFamily": "Logos",
       "identifier": "yarn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ycombinator": {
       "codepoint": 58159,
       "fontFamily": "Logos",
       "identifier": "ycombinator",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "yii": {
       "codepoint": 58909,
@@ -10331,13 +10684,15 @@
       "codepoint": 58160,
       "fontFamily": "Logos",
       "identifier": "youtubeIcon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "yugabyte": {
       "codepoint": 59039,
       "fontFamily": "Logos",
       "identifier": "yugabyte",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "yugabyte-icon": {
       "codepoint": 58161,
@@ -10348,13 +10703,15 @@
       "codepoint": 59040,
       "fontFamily": "Logos",
       "identifier": "zabbix",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zapier": {
       "codepoint": 59041,
       "fontFamily": "Logos",
       "identifier": "zapier",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zapier-icon": {
       "codepoint": 58162,
@@ -10424,7 +10781,8 @@
       "codepoint": 58919,
       "fontFamily": "Logos",
       "identifier": "zig",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zigbee": {
       "codepoint": 58920,

@@ -81,8 +81,8 @@ class StreamlineUltimateColorIcons {
     IconData(0xe00c, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
-  /// `amazon-web-services-logo` (duo-tone)
-  static const IconifyIconData amazonWebServicesLogo = IconifyIconData.duo(
+  /// `amazon-web-services-logo` (paint-order duotone)
+  static const IconifyIconData amazonWebServicesLogo = IconifyIconData.duoPaintOrder(
     IconData(0xe00d, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
     IconData(0xe00d, fontFamily: 'StreamlineUltimateColorSecondary', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
@@ -1417,8 +1417,8 @@ class StreamlineUltimateColorIcons {
     IconData(0xe117, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
-  /// `loading` (duo-tone)
-  static const IconifyIconData loading = IconifyIconData.duo(
+  /// `loading` (paint-order duotone)
+  static const IconifyIconData loading = IconifyIconData.duoPaintOrder(
     IconData(0xe118, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
     IconData(0xe118, fontFamily: 'StreamlineUltimateColorSecondary', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );

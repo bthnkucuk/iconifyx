@@ -130,7 +130,8 @@
       "codepoint": 57363,
       "fontFamily": "StreamlineStickiesColor",
       "identifier": "bluetoothDuo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "boarding-pass": {
       "codepoint": 57364,
@@ -406,7 +407,8 @@
       "codepoint": 57418,
       "fontFamily": "StreamlineStickiesColor",
       "identifier": "helpDuo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "information-toilet-location-duo": {
       "codepoint": 57419,
@@ -472,7 +474,8 @@
       "codepoint": 57431,
       "fontFamily": "StreamlineStickiesColor",
       "identifier": "loveDuo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mail-duo": {
       "codepoint": 57432,
@@ -618,7 +621,8 @@
       "codepoint": 57460,
       "fontFamily": "StreamlineStickiesColor",
       "identifier": "programmingDuo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qr-code-duo": {
       "codepoint": 57461,
@@ -814,7 +818,8 @@
       "codepoint": 57499,
       "fontFamily": "StreamlineStickiesColor",
       "identifier": "validation1Duo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "view-mail": {
       "codepoint": 57500,

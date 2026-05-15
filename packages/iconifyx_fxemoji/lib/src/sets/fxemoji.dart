@@ -16,26 +16,26 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 class FxemojiIcons {
   const FxemojiIcons._();
 
-  /// `2hearts` (duo-tone)
-  static const IconifyIconData n2hearts = IconifyIconData.duo(
+  /// `2hearts` (paint-order duotone)
+  static const IconifyIconData n2hearts = IconifyIconData.duoPaintOrder(
     IconData(0xe218, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe218, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `alien` (duo-tone)
-  static const IconifyIconData alien = IconifyIconData.duo(
+  /// `alien` (paint-order duotone)
+  static const IconifyIconData alien = IconifyIconData.duoPaintOrder(
     IconData(0xe219, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe219, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `alienmonster` (duo-tone)
-  static const IconifyIconData alienmonster = IconifyIconData.duo(
+  /// `alienmonster` (paint-order duotone)
+  static const IconifyIconData alienmonster = IconifyIconData.duoPaintOrder(
     IconData(0xe21a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe21a, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `americasglobe` (duo-tone)
-  static const IconifyIconData americasglobe = IconifyIconData.duo(
+  /// `americasglobe` (paint-order duotone)
+  static const IconifyIconData americasglobe = IconifyIconData.duoPaintOrder(
     IconData(0xe003, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe003, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -55,8 +55,8 @@ class FxemojiIcons {
     IconData(0xe008, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `asiaaustraliaglobe` (duo-tone)
-  static const IconifyIconData asiaaustraliaglobe = IconifyIconData.duo(
+  /// `asiaaustraliaglobe` (paint-order duotone)
+  static const IconifyIconData asiaaustraliaglobe = IconifyIconData.duoPaintOrder(
     IconData(0xe00e, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe00e, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -66,20 +66,20 @@ class FxemojiIcons {
     IconData(0xe015, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `ballotboxboldcheck` (duo-tone)
-  static const IconifyIconData ballotboxboldcheck = IconifyIconData.duo(
+  /// `ballotboxboldcheck` (paint-order duotone)
+  static const IconifyIconData ballotboxboldcheck = IconifyIconData.duoPaintOrder(
     IconData(0xe019, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe019, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `ballotboxwithboldscriptx` (duo-tone)
-  static const IconifyIconData ballotboxwithboldscriptx = IconifyIconData.duo(
+  /// `ballotboxwithboldscriptx` (paint-order duotone)
+  static const IconifyIconData ballotboxwithboldscriptx = IconifyIconData.duoPaintOrder(
     IconData(0xe21b, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe21b, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `ballottboxwithscriptx` (duo-tone)
-  static const IconifyIconData ballottboxwithscriptx = IconifyIconData.duo(
+  /// `ballottboxwithscriptx` (paint-order duotone)
+  static const IconifyIconData ballottboxwithscriptx = IconifyIconData.duoPaintOrder(
     IconData(0xe01a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe01a, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -89,38 +89,38 @@ class FxemojiIcons {
     IconData(0xe01b, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `banknotedollar` (duo-tone)
-  static const IconifyIconData banknotedollar = IconifyIconData.duo(
+  /// `banknotedollar` (paint-order duotone)
+  static const IconifyIconData banknotedollar = IconifyIconData.duoPaintOrder(
     IconData(0xe01c, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe01c, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `banknoteeuro` (duo-tone)
-  static const IconifyIconData banknoteeuro = IconifyIconData.duo(
+  /// `banknoteeuro` (paint-order duotone)
+  static const IconifyIconData banknoteeuro = IconifyIconData.duoPaintOrder(
     IconData(0xe01d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe01d, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `banknotepound` (duo-tone)
-  static const IconifyIconData banknotepound = IconifyIconData.duo(
+  /// `banknotepound` (paint-order duotone)
+  static const IconifyIconData banknotepound = IconifyIconData.duoPaintOrder(
     IconData(0xe01e, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe01e, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `banknoteyen` (duo-tone)
-  static const IconifyIconData banknoteyen = IconifyIconData.duo(
+  /// `banknoteyen` (paint-order duotone)
+  static const IconifyIconData banknoteyen = IconifyIconData.duoPaintOrder(
     IconData(0xe01f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe01f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `bathtub` (duo-tone)
-  static const IconifyIconData bathtub = IconifyIconData.duo(
+  /// `bathtub` (paint-order duotone)
+  static const IconifyIconData bathtub = IconifyIconData.duoPaintOrder(
     IconData(0xe21c, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe21c, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `bikini` (duo-tone)
-  static const IconifyIconData bikini = IconifyIconData.duo(
+  /// `bikini` (paint-order duotone)
+  static const IconifyIconData bikini = IconifyIconData.duoPaintOrder(
     IconData(0xe21d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe21d, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -140,8 +140,8 @@ class FxemojiIcons {
     IconData(0xe02a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `blackdroplet` (duo-tone)
-  static const IconifyIconData blackdroplet = IconifyIconData.duo(
+  /// `blackdroplet` (paint-order duotone)
+  static const IconifyIconData blackdroplet = IconifyIconData.duoPaintOrder(
     IconData(0xe02b, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe02b, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -176,14 +176,14 @@ class FxemojiIcons {
     IconData(0xe034, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `blacksquarebutton` (duo-tone)
-  static const IconifyIconData blacksquarebutton = IconifyIconData.duo(
+  /// `blacksquarebutton` (paint-order duotone)
+  static const IconifyIconData blacksquarebutton = IconifyIconData.duoPaintOrder(
     IconData(0xe21e, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe21e, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `blackuniversalrecyclingsymbol` (duo-tone)
-  static const IconifyIconData blackuniversalrecyclingsymbol = IconifyIconData.duo(
+  /// `blackuniversalrecyclingsymbol` (paint-order duotone)
+  static const IconifyIconData blackuniversalrecyclingsymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe035, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe035, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -203,14 +203,14 @@ class FxemojiIcons {
     IconData(0xe03a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `bread` (duo-tone)
-  static const IconifyIconData bread = IconifyIconData.duo(
+  /// `bread` (paint-order duotone)
+  static const IconifyIconData bread = IconifyIconData.duoPaintOrder(
     IconData(0xe21f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe21f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `cactus` (duo-tone)
-  static const IconifyIconData cactus = IconifyIconData.duo(
+  /// `cactus` (paint-order duotone)
+  static const IconifyIconData cactus = IconifyIconData.duoPaintOrder(
     IconData(0xe042, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe042, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -225,14 +225,14 @@ class FxemojiIcons {
     IconData(0xe04a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `childrencrossing` (duo-tone)
-  static const IconifyIconData childrencrossing = IconifyIconData.duo(
+  /// `childrencrossing` (paint-order duotone)
+  static const IconifyIconData childrencrossing = IconifyIconData.duoPaintOrder(
     IconData(0xe04e, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe04e, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `chineseflag` (duo-tone)
-  static const IconifyIconData chineseflag = IconifyIconData.duo(
+  /// `chineseflag` (paint-order duotone)
+  static const IconifyIconData chineseflag = IconifyIconData.duoPaintOrder(
     IconData(0xe04f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe04f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -257,8 +257,8 @@ class FxemojiIcons {
     IconData(0xe063, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `contact2` (duo-tone)
-  static const IconifyIconData contact2 = IconifyIconData.duo(
+  /// `contact2` (paint-order duotone)
+  static const IconifyIconData contact2 = IconifyIconData.duoPaintOrder(
     IconData(0xe220, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe220, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -288,38 +288,38 @@ class FxemojiIcons {
     IconData(0xe073, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `dash` (duo-tone)
-  static const IconifyIconData dash = IconifyIconData.duo(
+  /// `dash` (paint-order duotone)
+  static const IconifyIconData dash = IconifyIconData.duoPaintOrder(
     IconData(0xe074, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe074, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `deciduoustree` (duo-tone)
-  static const IconifyIconData deciduoustree = IconifyIconData.duo(
+  /// `deciduoustree` (paint-order duotone)
+  static const IconifyIconData deciduoustree = IconifyIconData.duoPaintOrder(
     IconData(0xe075, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe075, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `decreasefontsize` (duo-tone)
-  static const IconifyIconData decreasefontsize = IconifyIconData.duo(
+  /// `decreasefontsize` (paint-order duotone)
+  static const IconifyIconData decreasefontsize = IconifyIconData.duoPaintOrder(
     IconData(0xe076, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe076, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `diamondshapewithdotinside` (duo-tone)
-  static const IconifyIconData diamondshapewithdotinside = IconifyIconData.duo(
+  /// `diamondshapewithdotinside` (paint-order duotone)
+  static const IconifyIconData diamondshapewithdotinside = IconifyIconData.duoPaintOrder(
     IconData(0xe07c, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe07c, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `dizzy` (duo-tone)
-  static const IconifyIconData dizzy = IconifyIconData.duo(
+  /// `dizzy` (paint-order duotone)
+  static const IconifyIconData dizzy = IconifyIconData.duoPaintOrder(
     IconData(0xe07f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe07f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `donotlittersymbol` (duo-tone)
-  static const IconifyIconData donotlittersymbol = IconifyIconData.duo(
+  /// `donotlittersymbol` (paint-order duotone)
+  static const IconifyIconData donotlittersymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe085, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe085, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -329,14 +329,14 @@ class FxemojiIcons {
     IconData(0xe087, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `doveofpeace` (duo-tone)
-  static const IconifyIconData doveofpeace = IconifyIconData.duo(
+  /// `doveofpeace` (paint-order duotone)
+  static const IconifyIconData doveofpeace = IconifyIconData.duoPaintOrder(
     IconData(0xe088, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe088, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `down` (duo-tone)
-  static const IconifyIconData down = IconifyIconData.duo(
+  /// `down` (paint-order duotone)
+  static const IconifyIconData down = IconifyIconData.duoPaintOrder(
     IconData(0xe089, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe089, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -346,50 +346,50 @@ class FxemojiIcons {
     IconData(0xe08a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `dress` (duo-tone)
-  static const IconifyIconData dress = IconifyIconData.duo(
+  /// `dress` (paint-order duotone)
+  static const IconifyIconData dress = IconifyIconData.duoPaintOrder(
     IconData(0xe08b, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe08b, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `droplet` (duo-tone)
-  static const IconifyIconData droplet = IconifyIconData.duo(
+  /// `droplet` (paint-order duotone)
+  static const IconifyIconData droplet = IconifyIconData.duoPaintOrder(
     IconData(0xe08d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe08d, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `ear` (duo-tone)
-  static const IconifyIconData ear = IconifyIconData.duo(
+  /// `ear` (paint-order duotone)
+  static const IconifyIconData ear = IconifyIconData.duoPaintOrder(
     IconData(0xe08f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe08f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `earofrice` (duo-tone)
-  static const IconifyIconData earofrice = IconifyIconData.duo(
+  /// `earofrice` (paint-order duotone)
+  static const IconifyIconData earofrice = IconifyIconData.duoPaintOrder(
     IconData(0xe091, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe091, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `electricplug` (duo-tone)
-  static const IconifyIconData electricplug = IconifyIconData.duo(
+  /// `electricplug` (paint-order duotone)
+  static const IconifyIconData electricplug = IconifyIconData.duoPaintOrder(
     IconData(0xe093, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe093, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `emptydocument` (duo-tone)
-  static const IconifyIconData emptydocument = IconifyIconData.duo(
+  /// `emptydocument` (paint-order duotone)
+  static const IconifyIconData emptydocument = IconifyIconData.duoPaintOrder(
     IconData(0xe221, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe221, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `emptynote` (duo-tone)
-  static const IconifyIconData emptynote = IconifyIconData.duo(
+  /// `emptynote` (paint-order duotone)
+  static const IconifyIconData emptynote = IconifyIconData.duoPaintOrder(
     IconData(0xe096, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe096, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `emptynotepad` (duo-tone)
-  static const IconifyIconData emptynotepad = IconifyIconData.duo(
+  /// `emptynotepad` (paint-order duotone)
+  static const IconifyIconData emptynotepad = IconifyIconData.duoPaintOrder(
     IconData(0xe097, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe097, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -399,8 +399,8 @@ class FxemojiIcons {
     IconData(0xe098, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `emptypages` (duo-tone)
-  static const IconifyIconData emptypages = IconifyIconData.duo(
+  /// `emptypages` (paint-order duotone)
+  static const IconifyIconData emptypages = IconifyIconData.duoPaintOrder(
     IconData(0xe222, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe222, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -410,14 +410,14 @@ class FxemojiIcons {
     IconData(0xe099, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `europeafricaglobe` (duo-tone)
-  static const IconifyIconData europeafricaglobe = IconifyIconData.duo(
+  /// `europeafricaglobe` (paint-order duotone)
+  static const IconifyIconData europeafricaglobe = IconifyIconData.duoPaintOrder(
     IconData(0xe09d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe09d, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `evergreen` (duo-tone)
-  static const IconifyIconData evergreen = IconifyIconData.duo(
+  /// `evergreen` (paint-order duotone)
+  static const IconifyIconData evergreen = IconifyIconData.duoPaintOrder(
     IconData(0xe09f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe09f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -427,32 +427,32 @@ class FxemojiIcons {
     IconData(0xe0a0, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `fallingleaf` (duo-tone)
-  static const IconifyIconData fallingleaf = IconifyIconData.duo(
+  /// `fallingleaf` (paint-order duotone)
+  static const IconifyIconData fallingleaf = IconifyIconData.duoPaintOrder(
     IconData(0xe223, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe223, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `filefolder` (duo-tone)
-  static const IconifyIconData filefolder = IconifyIconData.duo(
+  /// `filefolder` (paint-order duotone)
+  static const IconifyIconData filefolder = IconifyIconData.duoPaintOrder(
     IconData(0xe224, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe224, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `fishcakeswirl` (duo-tone)
-  static const IconifyIconData fishcakeswirl = IconifyIconData.duo(
+  /// `fishcakeswirl` (paint-order duotone)
+  static const IconifyIconData fishcakeswirl = IconifyIconData.duoPaintOrder(
     IconData(0xe225, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe225, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `fistedhand` (duo-tone)
-  static const IconifyIconData fistedhand = IconifyIconData.duo(
+  /// `fistedhand` (paint-order duotone)
+  static const IconifyIconData fistedhand = IconifyIconData.duoPaintOrder(
     IconData(0xe0ac, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0ac, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `flexbicep` (duo-tone)
-  static const IconifyIconData flexbicep = IconifyIconData.duo(
+  /// `flexbicep` (paint-order duotone)
+  static const IconifyIconData flexbicep = IconifyIconData.duoPaintOrder(
     IconData(0xe0ad, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0ad, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -462,14 +462,14 @@ class FxemojiIcons {
     IconData(0xe0b1, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `folder` (duo-tone)
-  static const IconifyIconData folder = IconifyIconData.duo(
+  /// `folder` (paint-order duotone)
+  static const IconifyIconData folder = IconifyIconData.duoPaintOrder(
     IconData(0xe0b3, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0b3, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `forkknife` (duo-tone)
-  static const IconifyIconData forkknife = IconifyIconData.duo(
+  /// `forkknife` (paint-order duotone)
+  static const IconifyIconData forkknife = IconifyIconData.duoPaintOrder(
     IconData(0xe0b4, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0b4, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -479,8 +479,8 @@ class FxemojiIcons {
     IconData(0xe0b5, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `fullmoon` (duo-tone)
-  static const IconifyIconData fullmoon = IconifyIconData.duo(
+  /// `fullmoon` (paint-order duotone)
+  static const IconifyIconData fullmoon = IconifyIconData.duoPaintOrder(
     IconData(0xe0c2, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0c2, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -491,26 +491,26 @@ class FxemojiIcons {
     IconData(0xe0c7, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `hand` (duo-tone)
-  static const IconifyIconData hand = IconifyIconData.duo(
+  /// `hand` (paint-order duotone)
+  static const IconifyIconData hand = IconifyIconData.duoPaintOrder(
     IconData(0xe0d2, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0d2, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `hands` (duo-tone)
-  static const IconifyIconData hands = IconifyIconData.duo(
+  /// `hands` (paint-order duotone)
+  static const IconifyIconData hands = IconifyIconData.duoPaintOrder(
     IconData(0xe0d3, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0d3, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `heartblue` (duo-tone)
-  static const IconifyIconData heartblue = IconifyIconData.duo(
+  /// `heartblue` (paint-order duotone)
+  static const IconifyIconData heartblue = IconifyIconData.duoPaintOrder(
     IconData(0xe0d6, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0d6, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `heartgreen` (duo-tone)
-  static const IconifyIconData heartgreen = IconifyIconData.duo(
+  /// `heartgreen` (paint-order duotone)
+  static const IconifyIconData heartgreen = IconifyIconData.duoPaintOrder(
     IconData(0xe0d9, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0d9, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -520,14 +520,14 @@ class FxemojiIcons {
     IconData(0xe0da, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `heartpurple` (duo-tone)
-  static const IconifyIconData heartpurple = IconifyIconData.duo(
+  /// `heartpurple` (paint-order duotone)
+  static const IconifyIconData heartpurple = IconifyIconData.duoPaintOrder(
     IconData(0xe0db, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0db, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `heartyellow` (duo-tone)
-  static const IconifyIconData heartyellow = IconifyIconData.duo(
+  /// `heartyellow` (paint-order duotone)
+  static const IconifyIconData heartyellow = IconifyIconData.duoPaintOrder(
     IconData(0xe0dd, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0dd, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -577,8 +577,8 @@ class FxemojiIcons {
     IconData(0xe0e6, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `heels` (duo-tone)
-  static const IconifyIconData heels = IconifyIconData.duo(
+  /// `heels` (paint-order duotone)
+  static const IconifyIconData heels = IconifyIconData.duoPaintOrder(
     IconData(0xe226, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe226, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -593,8 +593,8 @@ class FxemojiIcons {
     IconData(0xe0eb, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `hole` (duo-tone)
-  static const IconifyIconData hole = IconifyIconData.duo(
+  /// `hole` (paint-order duotone)
+  static const IconifyIconData hole = IconifyIconData.duoPaintOrder(
     IconData(0xe227, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe227, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -604,14 +604,14 @@ class FxemojiIcons {
     IconData(0xe0f0, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `increasefontsize` (duo-tone)
-  static const IconifyIconData increasefontsize = IconifyIconData.duo(
+  /// `increasefontsize` (paint-order duotone)
+  static const IconifyIconData increasefontsize = IconifyIconData.duoPaintOrder(
     IconData(0xe0f4, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe0f4, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `japanflag` (duo-tone)
-  static const IconifyIconData japanflag = IconifyIconData.duo(
+  /// `japanflag` (paint-order duotone)
+  static const IconifyIconData japanflag = IconifyIconData.duoPaintOrder(
     IconData(0xe228, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe228, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -621,14 +621,14 @@ class FxemojiIcons {
     IconData(0xe0fb, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `kissmark` (duo-tone)
-  static const IconifyIconData kissmark = IconifyIconData.duo(
+  /// `kissmark` (paint-order duotone)
+  static const IconifyIconData kissmark = IconifyIconData.duoPaintOrder(
     IconData(0xe229, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe229, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `label` (duo-tone)
-  static const IconifyIconData label = IconifyIconData.duo(
+  /// `label` (paint-order duotone)
+  static const IconifyIconData label = IconifyIconData.duoPaintOrder(
     IconData(0xe101, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe101, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -648,8 +648,8 @@ class FxemojiIcons {
     IconData(0xe105, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `left` (duo-tone)
-  static const IconifyIconData left = IconifyIconData.duo(
+  /// `left` (paint-order duotone)
+  static const IconifyIconData left = IconifyIconData.duoPaintOrder(
     IconData(0xe108, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe108, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -674,20 +674,20 @@ class FxemojiIcons {
     IconData(0xe111, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `lightningmoodbubble` (duo-tone)
-  static const IconifyIconData lightningmoodbubble = IconifyIconData.duo(
+  /// `lightningmoodbubble` (paint-order duotone)
+  static const IconifyIconData lightningmoodbubble = IconifyIconData.duoPaintOrder(
     IconData(0xe112, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe112, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `linksymbol` (duo-tone)
-  static const IconifyIconData linksymbol = IconifyIconData.duo(
+  /// `linksymbol` (paint-order duotone)
+  static const IconifyIconData linksymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe22a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe22a, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `lips` (duo-tone)
-  static const IconifyIconData lips = IconifyIconData.duo(
+  /// `lips` (paint-order duotone)
+  static const IconifyIconData lips = IconifyIconData.duoPaintOrder(
     IconData(0xe114, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe114, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -697,26 +697,26 @@ class FxemojiIcons {
     IconData(0xe118, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `lowerleftfountainpen` (duo-tone)
-  static const IconifyIconData lowerleftfountainpen = IconifyIconData.duo(
+  /// `lowerleftfountainpen` (paint-order duotone)
+  static const IconifyIconData lowerleftfountainpen = IconifyIconData.duoPaintOrder(
     IconData(0xe22b, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe22b, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `lowerrightwhitecircle` (duo-tone)
-  static const IconifyIconData lowerrightwhitecircle = IconifyIconData.duo(
+  /// `lowerrightwhitecircle` (paint-order duotone)
+  static const IconifyIconData lowerrightwhitecircle = IconifyIconData.duoPaintOrder(
     IconData(0xe11a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe11a, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `mahjong` (duo-tone)
-  static const IconifyIconData mahjong = IconifyIconData.duo(
+  /// `mahjong` (paint-order duotone)
+  static const IconifyIconData mahjong = IconifyIconData.duoPaintOrder(
     IconData(0xe22c, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe22c, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `mapleleaf` (duo-tone)
-  static const IconifyIconData mapleleaf = IconifyIconData.duo(
+  /// `mapleleaf` (paint-order duotone)
+  static const IconifyIconData mapleleaf = IconifyIconData.duoPaintOrder(
     IconData(0xe22d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe22d, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -726,8 +726,8 @@ class FxemojiIcons {
     IconData(0xe11c, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `maximize` (duo-tone)
-  static const IconifyIconData maximize = IconifyIconData.duo(
+  /// `maximize` (paint-order duotone)
+  static const IconifyIconData maximize = IconifyIconData.duoPaintOrder(
     IconData(0xe11d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe11d, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -742,8 +742,8 @@ class FxemojiIcons {
     IconData(0xe123, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `microscope` (duo-tone)
-  static const IconifyIconData microscope = IconifyIconData.duo(
+  /// `microscope` (paint-order duotone)
+  static const IconifyIconData microscope = IconifyIconData.duoPaintOrder(
     IconData(0xe22e, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe22e, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -753,8 +753,8 @@ class FxemojiIcons {
     IconData(0xe126, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `moneybag` (duo-tone)
-  static const IconifyIconData moneybag = IconifyIconData.duo(
+  /// `moneybag` (paint-order duotone)
+  static const IconifyIconData moneybag = IconifyIconData.duoPaintOrder(
     IconData(0xe128, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe128, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -764,14 +764,14 @@ class FxemojiIcons {
     IconData(0xe12d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `mouth` (duo-tone)
-  static const IconifyIconData mouth = IconifyIconData.duo(
+  /// `mouth` (paint-order duotone)
+  static const IconifyIconData mouth = IconifyIconData.duoPaintOrder(
     IconData(0xe131, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe131, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `moyai` (duo-tone)
-  static const IconifyIconData moyai = IconifyIconData.duo(
+  /// `moyai` (paint-order duotone)
+  static const IconifyIconData moyai = IconifyIconData.duoPaintOrder(
     IconData(0xe133, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe133, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -781,8 +781,8 @@ class FxemojiIcons {
     IconData(0xe134, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `musicalkeyboard` (duo-tone)
-  static const IconifyIconData musicalkeyboard = IconifyIconData.duo(
+  /// `musicalkeyboard` (paint-order duotone)
+  static const IconifyIconData musicalkeyboard = IconifyIconData.duoPaintOrder(
     IconData(0xe22f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe22f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -792,8 +792,8 @@ class FxemojiIcons {
     IconData(0xe136, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `musicalscore` (duo-tone)
-  static const IconifyIconData musicalscore = IconifyIconData.duo(
+  /// `musicalscore` (paint-order duotone)
+  static const IconifyIconData musicalscore = IconifyIconData.duoPaintOrder(
     IconData(0xe230, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe230, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -808,20 +808,20 @@ class FxemojiIcons {
     IconData(0xe138, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `namebadge` (duo-tone)
-  static const IconifyIconData namebadge = IconifyIconData.duo(
+  /// `namebadge` (paint-order duotone)
+  static const IconifyIconData namebadge = IconifyIconData.duoPaintOrder(
     IconData(0xe13a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe13a, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `newmoon` (duo-tone)
-  static const IconifyIconData newmoon = IconifyIconData.duo(
+  /// `newmoon` (paint-order duotone)
+  static const IconifyIconData newmoon = IconifyIconData.duoPaintOrder(
     IconData(0xe231, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe231, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `nobicycles` (duo-tone)
-  static const IconifyIconData nobicycles = IconifyIconData.duo(
+  /// `nobicycles` (paint-order duotone)
+  static const IconifyIconData nobicycles = IconifyIconData.duoPaintOrder(
     IconData(0xe143, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe143, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -831,20 +831,20 @@ class FxemojiIcons {
     IconData(0xe145, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `nonpotablewatersymbol` (duo-tone)
-  static const IconifyIconData nonpotablewatersymbol = IconifyIconData.duo(
+  /// `nonpotablewatersymbol` (paint-order duotone)
+  static const IconifyIconData nonpotablewatersymbol = IconifyIconData.duoPaintOrder(
     IconData(0xe147, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe147, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `nooneunder18symbol` (duo-tone)
-  static const IconifyIconData nooneunder18symbol = IconifyIconData.duo(
+  /// `nooneunder18symbol` (paint-order duotone)
+  static const IconifyIconData nooneunder18symbol = IconifyIconData.duoPaintOrder(
     IconData(0xe148, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe148, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `nopedestrians` (duo-tone)
-  static const IconifyIconData nopedestrians = IconifyIconData.duo(
+  /// `nopedestrians` (paint-order duotone)
+  static const IconifyIconData nopedestrians = IconifyIconData.duoPaintOrder(
     IconData(0xe149, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe149, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -854,14 +854,14 @@ class FxemojiIcons {
     IconData(0xe14c, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `notepage` (duo-tone)
-  static const IconifyIconData notepage = IconifyIconData.duo(
+  /// `notepage` (paint-order duotone)
+  static const IconifyIconData notepage = IconifyIconData.duoPaintOrder(
     IconData(0xe150, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe150, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `oldkey` (duo-tone)
-  static const IconifyIconData oldkey = IconifyIconData.duo(
+  /// `oldkey` (paint-order duotone)
+  static const IconifyIconData oldkey = IconifyIconData.duoPaintOrder(
     IconData(0xe152, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe152, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -876,26 +876,26 @@ class FxemojiIcons {
     IconData(0xe155, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `openfilefolder` (duo-tone)
-  static const IconifyIconData openfilefolder = IconifyIconData.duo(
+  /// `openfilefolder` (paint-order duotone)
+  static const IconifyIconData openfilefolder = IconifyIconData.duoPaintOrder(
     IconData(0xe232, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe232, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `openfolder` (duo-tone)
-  static const IconifyIconData openfolder = IconifyIconData.duo(
+  /// `openfolder` (paint-order duotone)
+  static const IconifyIconData openfolder = IconifyIconData.duoPaintOrder(
     IconData(0xe158, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe158, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `overlap` (duo-tone)
-  static const IconifyIconData overlap = IconifyIconData.duo(
+  /// `overlap` (paint-order duotone)
+  static const IconifyIconData overlap = IconifyIconData.duoPaintOrder(
     IconData(0xe15f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe15f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `page` (duo-tone)
-  static const IconifyIconData page = IconifyIconData.duo(
+  /// `page` (paint-order duotone)
+  static const IconifyIconData page = IconifyIconData.duoPaintOrder(
     IconData(0xe233, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe233, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -915,14 +915,14 @@ class FxemojiIcons {
     IconData(0xe166, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `phonewithpage` (duo-tone)
-  static const IconifyIconData phonewithpage = IconifyIconData.duo(
+  /// `phonewithpage` (paint-order duotone)
+  static const IconifyIconData phonewithpage = IconifyIconData.duoPaintOrder(
     IconData(0xe234, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe234, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `poultryleg` (duo-tone)
-  static const IconifyIconData poultryleg = IconifyIconData.duo(
+  /// `poultryleg` (paint-order duotone)
+  static const IconifyIconData poultryleg = IconifyIconData.duoPaintOrder(
     IconData(0xe235, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe235, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -932,32 +932,32 @@ class FxemojiIcons {
     IconData(0xe177, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `raisedfist` (duo-tone)
-  static const IconifyIconData raisedfist = IconifyIconData.duo(
+  /// `raisedfist` (paint-order duotone)
+  static const IconifyIconData raisedfist = IconifyIconData.duoPaintOrder(
     IconData(0xe178, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe178, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `raisedhandpartfingers` (duo-tone)
-  static const IconifyIconData raisedhandpartfingers = IconifyIconData.duo(
+  /// `raisedhandpartfingers` (paint-order duotone)
+  static const IconifyIconData raisedhandpartfingers = IconifyIconData.duoPaintOrder(
     IconData(0xe179, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe179, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `raisedhandsfingerssplayed` (duo-tone)
-  static const IconifyIconData raisedhandsfingerssplayed = IconifyIconData.duo(
+  /// `raisedhandsfingerssplayed` (paint-order duotone)
+  static const IconifyIconData raisedhandsfingerssplayed = IconifyIconData.duoPaintOrder(
     IconData(0xe17a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe17a, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `redheart` (duo-tone)
-  static const IconifyIconData redheart = IconifyIconData.duo(
+  /// `redheart` (paint-order duotone)
+  static const IconifyIconData redheart = IconifyIconData.duoPaintOrder(
     IconData(0xe236, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe236, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `reminder` (duo-tone)
-  static const IconifyIconData reminder = IconifyIconData.duo(
+  /// `reminder` (paint-order duotone)
+  static const IconifyIconData reminder = IconifyIconData.duoPaintOrder(
     IconData(0xe17d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe17d, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -967,8 +967,8 @@ class FxemojiIcons {
     IconData(0xe17e, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `reverseraisedhandsfingerssplayed` (duo-tone)
-  static const IconifyIconData reverseraisedhandsfingerssplayed = IconifyIconData.duo(
+  /// `reverseraisedhandsfingerssplayed` (paint-order duotone)
+  static const IconifyIconData reverseraisedhandsfingerssplayed = IconifyIconData.duoPaintOrder(
     IconData(0xe17f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe17f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -988,8 +988,8 @@ class FxemojiIcons {
     IconData(0xe182, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `right` (duo-tone)
-  static const IconifyIconData right = IconifyIconData.duo(
+  /// `right` (paint-order duotone)
+  static const IconifyIconData right = IconifyIconData.duoPaintOrder(
     IconData(0xe184, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe184, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -999,8 +999,8 @@ class FxemojiIcons {
     IconData(0xe185, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `rightspeaker` (duo-tone)
-  static const IconifyIconData rightspeaker = IconifyIconData.duo(
+  /// `rightspeaker` (paint-order duotone)
+  static const IconifyIconData rightspeaker = IconifyIconData.duoPaintOrder(
     IconData(0xe186, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe186, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1015,8 +1015,8 @@ class FxemojiIcons {
     IconData(0xe189, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `screen` (duo-tone)
-  static const IconifyIconData screen = IconifyIconData.duo(
+  /// `screen` (paint-order duotone)
+  static const IconifyIconData screen = IconifyIconData.duoPaintOrder(
     IconData(0xe197, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe197, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1046,32 +1046,32 @@ class FxemojiIcons {
     IconData(0xe19d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `sidewaysdownpointingindex` (duo-tone)
-  static const IconifyIconData sidewaysdownpointingindex = IconifyIconData.duo(
+  /// `sidewaysdownpointingindex` (paint-order duotone)
+  static const IconifyIconData sidewaysdownpointingindex = IconifyIconData.duoPaintOrder(
     IconData(0xe19e, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe19e, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `sidewaysleftpointingindex` (duo-tone)
-  static const IconifyIconData sidewaysleftpointingindex = IconifyIconData.duo(
+  /// `sidewaysleftpointingindex` (paint-order duotone)
+  static const IconifyIconData sidewaysleftpointingindex = IconifyIconData.duoPaintOrder(
     IconData(0xe19f, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe19f, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `sidewaysrightpointingindex` (duo-tone)
-  static const IconifyIconData sidewaysrightpointingindex = IconifyIconData.duo(
+  /// `sidewaysrightpointingindex` (paint-order duotone)
+  static const IconifyIconData sidewaysrightpointingindex = IconifyIconData.duoPaintOrder(
     IconData(0xe1a0, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1a0, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `sidewaysuppointingindex` (duo-tone)
-  static const IconifyIconData sidewaysuppointingindex = IconifyIconData.duo(
+  /// `sidewaysuppointingindex` (paint-order duotone)
+  static const IconifyIconData sidewaysuppointingindex = IconifyIconData.duoPaintOrder(
     IconData(0xe1a1, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1a1, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `silhouetteohjapan` (duo-tone)
-  static const IconifyIconData silhouetteohjapan = IconifyIconData.duo(
+  /// `silhouetteohjapan` (paint-order duotone)
+  static const IconifyIconData silhouetteohjapan = IconifyIconData.duoPaintOrder(
     IconData(0xe1a2, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1a2, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1096,8 +1096,8 @@ class FxemojiIcons {
     IconData(0xe1ae, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `soccerball` (duo-tone)
-  static const IconifyIconData soccerball = IconifyIconData.duo(
+  /// `soccerball` (paint-order duotone)
+  static const IconifyIconData soccerball = IconifyIconData.duoPaintOrder(
     IconData(0xe237, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe237, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1107,8 +1107,8 @@ class FxemojiIcons {
     IconData(0xe1b0, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `speaker` (duo-tone)
-  static const IconifyIconData speaker = IconifyIconData.duo(
+  /// `speaker` (paint-order duotone)
+  static const IconifyIconData speaker = IconifyIconData.duoPaintOrder(
     IconData(0xe1b2, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1b2, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1123,38 +1123,38 @@ class FxemojiIcons {
     IconData(0xe1b9, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `star` (duo-tone)
-  static const IconifyIconData star = IconifyIconData.duo(
+  /// `star` (paint-order duotone)
+  static const IconifyIconData star = IconifyIconData.duoPaintOrder(
     IconData(0xe1c2, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1c2, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `stormcloud` (duo-tone)
-  static const IconifyIconData stormcloud = IconifyIconData.duo(
+  /// `stormcloud` (paint-order duotone)
+  static const IconifyIconData stormcloud = IconifyIconData.duoPaintOrder(
     IconData(0xe1c5, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1c5, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `straightruler` (duo-tone)
-  static const IconifyIconData straightruler = IconifyIconData.duo(
+  /// `straightruler` (paint-order duotone)
+  static const IconifyIconData straightruler = IconifyIconData.duoPaintOrder(
     IconData(0xe1c6, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1c6, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `sunbehindcloud` (duo-tone)
-  static const IconifyIconData sunbehindcloud = IconifyIconData.duo(
+  /// `sunbehindcloud` (paint-order duotone)
+  static const IconifyIconData sunbehindcloud = IconifyIconData.duoPaintOrder(
     IconData(0xe1c8, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1c8, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `sunraincloud` (duo-tone)
-  static const IconifyIconData sunraincloud = IconifyIconData.duo(
+  /// `sunraincloud` (paint-order duotone)
+  static const IconifyIconData sunraincloud = IconifyIconData.duoPaintOrder(
     IconData(0xe1ca, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1ca, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `sunrays` (duo-tone)
-  static const IconifyIconData sunrays = IconifyIconData.duo(
+  /// `sunrays` (paint-order duotone)
+  static const IconifyIconData sunrays = IconifyIconData.duoPaintOrder(
     IconData(0xe1cb, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1cb, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1184,20 +1184,20 @@ class FxemojiIcons {
     IconData(0xe1d8, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `thumbsdown` (duo-tone)
-  static const IconifyIconData thumbsdown = IconifyIconData.duo(
+  /// `thumbsdown` (paint-order duotone)
+  static const IconifyIconData thumbsdown = IconifyIconData.duoPaintOrder(
     IconData(0xe1da, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1da, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `thumbsup` (duo-tone)
-  static const IconifyIconData thumbsup = IconifyIconData.duo(
+  /// `thumbsup` (paint-order duotone)
+  static const IconifyIconData thumbsup = IconifyIconData.duoPaintOrder(
     IconData(0xe1db, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1db, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `toilet` (duo-tone)
-  static const IconifyIconData toilet = IconifyIconData.duo(
+  /// `toilet` (paint-order duotone)
+  static const IconifyIconData toilet = IconifyIconData.duoPaintOrder(
     IconData(0xe238, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe238, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1207,8 +1207,8 @@ class FxemojiIcons {
     IconData(0xe1e1, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `tornado` (duo-tone)
-  static const IconifyIconData tornado = IconifyIconData.duo(
+  /// `tornado` (paint-order duotone)
+  static const IconifyIconData tornado = IconifyIconData.duoPaintOrder(
     IconData(0xe239, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe239, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1218,14 +1218,14 @@ class FxemojiIcons {
     IconData(0xe1e4, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `triangularflagonpost` (duo-tone)
-  static const IconifyIconData triangularflagonpost = IconifyIconData.duo(
+  /// `triangularflagonpost` (paint-order duotone)
+  static const IconifyIconData triangularflagonpost = IconifyIconData.duoPaintOrder(
     IconData(0xe1e5, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1e5, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `triangularruler` (duo-tone)
-  static const IconifyIconData triangularruler = IconifyIconData.duo(
+  /// `triangularruler` (paint-order duotone)
+  static const IconifyIconData triangularruler = IconifyIconData.duoPaintOrder(
     IconData(0xe1e6, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1e6, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1235,20 +1235,20 @@ class FxemojiIcons {
     IconData(0xe1e7, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `twospeechbubbles` (duo-tone)
-  static const IconifyIconData twospeechbubbles = IconifyIconData.duo(
+  /// `twospeechbubbles` (paint-order duotone)
+  static const IconifyIconData twospeechbubbles = IconifyIconData.duoPaintOrder(
     IconData(0xe1ed, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1ed, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `up` (duo-tone)
-  static const IconifyIconData up = IconifyIconData.duo(
+  /// `up` (paint-order duotone)
+  static const IconifyIconData up = IconifyIconData.duoPaintOrder(
     IconData(0xe1ef, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1ef, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `upperrightwhitecircle` (duo-tone)
-  static const IconifyIconData upperrightwhitecircle = IconifyIconData.duo(
+  /// `upperrightwhitecircle` (paint-order duotone)
+  static const IconifyIconData upperrightwhitecircle = IconifyIconData.duoPaintOrder(
     IconData(0xe1f0, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1f0, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1258,20 +1258,20 @@ class FxemojiIcons {
     IconData(0xe1f1, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `warningsign` (duo-tone)
-  static const IconifyIconData warningsign = IconifyIconData.duo(
+  /// `warningsign` (paint-order duotone)
+  static const IconifyIconData warningsign = IconifyIconData.duoPaintOrder(
     IconData(0xe1f5, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1f5, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `wastebasket` (duo-tone)
-  static const IconifyIconData wastebasket = IconifyIconData.duo(
+  /// `wastebasket` (paint-order duotone)
+  static const IconifyIconData wastebasket = IconifyIconData.duoPaintOrder(
     IconData(0xe1f6, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1f6, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `wave` (duo-tone)
-  static const IconifyIconData wave = IconifyIconData.duo(
+  /// `wave` (paint-order duotone)
+  static const IconifyIconData wave = IconifyIconData.duoPaintOrder(
     IconData(0xe1f8, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe1f8, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1331,8 +1331,8 @@ class FxemojiIcons {
     IconData(0xe209, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `whitesquarebutton` (duo-tone)
-  static const IconifyIconData whitesquarebutton = IconifyIconData.duo(
+  /// `whitesquarebutton` (paint-order duotone)
+  static const IconifyIconData whitesquarebutton = IconifyIconData.duoPaintOrder(
     IconData(0xe23a, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe23a, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
@@ -1342,14 +1342,14 @@ class FxemojiIcons {
     IconData(0xe20b, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `whitesun` (duo-tone)
-  static const IconifyIconData whitesun = IconifyIconData.duo(
+  /// `whitesun` (paint-order duotone)
+  static const IconifyIconData whitesun = IconifyIconData.duoPaintOrder(
     IconData(0xe20c, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe20c, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );
 
-  /// `whitesunbehindcloud` (duo-tone)
-  static const IconifyIconData whitesunbehindcloud = IconifyIconData.duo(
+  /// `whitesunbehindcloud` (paint-order duotone)
+  static const IconifyIconData whitesunbehindcloud = IconifyIconData.duoPaintOrder(
     IconData(0xe20d, fontFamily: 'Fxemoji', fontPackage: 'iconifyx_fxemoji'),
     IconData(0xe20d, fontFamily: 'FxemojiSecondary', fontPackage: 'iconifyx_fxemoji'),
   );

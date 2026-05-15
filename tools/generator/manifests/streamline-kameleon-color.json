@@ -230,7 +230,8 @@
       "codepoint": 57364,
       "fontFamily": "StreamlineKameleonColor",
       "identifier": "heartKeyDuo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "house-location-duo": {
       "codepoint": 57392,
@@ -310,7 +311,8 @@
       "codepoint": 57365,
       "fontFamily": "StreamlineKameleonColor",
       "identifier": "peaceDuo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pointer": {
       "codepoint": 57356,
@@ -495,7 +497,8 @@
       "codepoint": 57366,
       "fontFamily": "StreamlineKameleonColor",
       "identifier": "wrenchDuo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "yen-coin": {
       "codepoint": 57363,

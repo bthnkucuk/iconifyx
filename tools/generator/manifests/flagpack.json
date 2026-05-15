@@ -60,7 +60,8 @@
       "codepoint": 57529,
       "fontFamily": "Flagpack",
       "identifier": "al",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "am": {
       "codepoint": 57535,
@@ -126,7 +127,8 @@
       "codepoint": 57357,
       "fontFamily": "Flagpack",
       "identifier": "bd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "be": {
       "codepoint": 57358,
@@ -147,7 +149,8 @@
       "codepoint": 57361,
       "fontFamily": "Flagpack",
       "identifier": "bh",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bi": {
       "codepoint": 57362,
@@ -233,7 +236,8 @@
       "codepoint": 57373,
       "fontFamily": "Flagpack",
       "identifier": "ca",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cc": {
       "codepoint": 57374,
@@ -284,7 +288,8 @@
       "codepoint": 57381,
       "fontFamily": "Flagpack",
       "identifier": "cn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "co": {
       "codepoint": 57546,
@@ -430,7 +435,8 @@
       "codepoint": 57399,
       "fontFamily": "Flagpack",
       "identifier": "gb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gb-eng": {
       "codepoint": 57400,
@@ -446,7 +452,8 @@
       "codepoint": 57530,
       "fontFamily": "Flagpack",
       "identifier": "gbSct",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gb-ukm": {
       "codepoint": 57558,
@@ -517,7 +524,8 @@
       "codepoint": 57410,
       "fontFamily": "Flagpack",
       "identifier": "gr",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gs": {
       "codepoint": 57562,
@@ -633,7 +641,8 @@
       "codepoint": 57430,
       "fontFamily": "Flagpack",
       "identifier": "jm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jo": {
       "codepoint": 57431,
@@ -749,7 +758,8 @@
       "codepoint": 57531,
       "fontFamily": "Flagpack",
       "identifier": "lv",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ly": {
       "codepoint": 57449,
@@ -890,13 +900,15 @@
       "codepoint": 57532,
       "fontFamily": "Flagpack",
       "identifier": "nf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ng": {
       "codepoint": 57463,
       "fontFamily": "Flagpack",
       "identifier": "ng",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ni": {
       "codepoint": 57464,
@@ -1012,7 +1024,8 @@
       "codepoint": 57481,
       "fontFamily": "Flagpack",
       "identifier": "qa",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "re": {
       "codepoint": 57587,
@@ -1043,7 +1056,8 @@
       "codepoint": 57533,
       "fontFamily": "Flagpack",
       "identifier": "sa",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sb": {
       "codepoint": 57485,
@@ -1109,7 +1123,8 @@
       "codepoint": 57495,
       "fontFamily": "Flagpack",
       "identifier": "so",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sr": {
       "codepoint": 57591,
@@ -1170,7 +1185,8 @@
       "codepoint": 57534,
       "fontFamily": "Flagpack",
       "identifier": "th",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tj": {
       "codepoint": 57505,

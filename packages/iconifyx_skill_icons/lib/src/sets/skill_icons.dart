@@ -16,14 +16,14 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 class SkillIconsIcons {
   const SkillIconsIcons._();
 
-  /// `ableton-dark` (duo-tone)
-  static const IconifyIconData abletonDark = IconifyIconData.duo(
+  /// `ableton-dark` (paint-order duotone)
+  static const IconifyIconData abletonDark = IconifyIconData.duoPaintOrder(
     IconData(0xe000, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe000, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `ableton-light` (duo-tone)
-  static const IconifyIconData abletonLight = IconifyIconData.duo(
+  /// `ableton-light` (paint-order duotone)
+  static const IconifyIconData abletonLight = IconifyIconData.duoPaintOrder(
     IconData(0xe139, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe139, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -38,26 +38,26 @@ class SkillIconsIcons {
     IconData(0xe002, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `actix-dark` (duo-tone)
-  static const IconifyIconData actixDark = IconifyIconData.duo(
+  /// `actix-dark` (paint-order duotone)
+  static const IconifyIconData actixDark = IconifyIconData.duoPaintOrder(
     IconData(0xe003, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe003, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `actix-light` (duo-tone)
-  static const IconifyIconData actixLight = IconifyIconData.duo(
+  /// `actix-light` (paint-order duotone)
+  static const IconifyIconData actixLight = IconifyIconData.duoPaintOrder(
     IconData(0xe13a, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe13a, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `adonis` (duo-tone)
-  static const IconifyIconData adonis = IconifyIconData.duo(
+  /// `adonis` (paint-order duotone)
+  static const IconifyIconData adonis = IconifyIconData.duoPaintOrder(
     IconData(0xe004, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe004, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `aftereffects` (duo-tone)
-  static const IconifyIconData aftereffects = IconifyIconData.duo(
+  /// `aftereffects` (paint-order duotone)
+  static const IconifyIconData aftereffects = IconifyIconData.duoPaintOrder(
     IconData(0xe005, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe005, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -82,14 +82,14 @@ class SkillIconsIcons {
     IconData(0xe009, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `anaconda-dark` (duo-tone)
-  static const IconifyIconData anacondaDark = IconifyIconData.duo(
+  /// `anaconda-dark` (paint-order duotone)
+  static const IconifyIconData anacondaDark = IconifyIconData.duoPaintOrder(
     IconData(0xe00a, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe00a, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `anaconda-light` (duo-tone)
-  static const IconifyIconData anacondaLight = IconifyIconData.duo(
+  /// `anaconda-light` (paint-order duotone)
+  static const IconifyIconData anacondaLight = IconifyIconData.duoPaintOrder(
     IconData(0xe00b, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe00b, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -134,8 +134,8 @@ class SkillIconsIcons {
     IconData(0xe00e, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `appwrite` (duo-tone)
-  static const IconifyIconData appwrite = IconifyIconData.duo(
+  /// `appwrite` (paint-order duotone)
+  static const IconifyIconData appwrite = IconifyIconData.duoPaintOrder(
     IconData(0xe00f, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe00f, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -150,8 +150,8 @@ class SkillIconsIcons {
     IconData(0xe010, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `arduino` (duo-tone)
-  static const IconifyIconData arduino = IconifyIconData.duo(
+  /// `arduino` (paint-order duotone)
+  static const IconifyIconData arduino = IconifyIconData.duoPaintOrder(
     IconData(0xe011, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe011, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -166,20 +166,20 @@ class SkillIconsIcons {
     IconData(0xe012, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `audition` (duo-tone)
-  static const IconifyIconData audition = IconifyIconData.duo(
+  /// `audition` (paint-order duotone)
+  static const IconifyIconData audition = IconifyIconData.duoPaintOrder(
     IconData(0xe013, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe013, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `autocad-dark` (duo-tone)
-  static const IconifyIconData autocadDark = IconifyIconData.duo(
+  /// `autocad-dark` (paint-order duotone)
+  static const IconifyIconData autocadDark = IconifyIconData.duoPaintOrder(
     IconData(0xe13b, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe13b, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `autocad-light` (duo-tone)
-  static const IconifyIconData autocadLight = IconifyIconData.duo(
+  /// `autocad-light` (paint-order duotone)
+  static const IconifyIconData autocadLight = IconifyIconData.duoPaintOrder(
     IconData(0xe13c, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe13c, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -279,8 +279,8 @@ class SkillIconsIcons {
     IconData(0xe021, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `c` (duo-tone)
-  static const IconifyIconData c = IconifyIconData.duo(
+  /// `c` (paint-order duotone)
+  static const IconifyIconData c = IconifyIconData.duoPaintOrder(
     IconData(0xe022, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe022, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -337,32 +337,32 @@ class SkillIconsIcons {
     IconData(0xe029, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `codepen-dark` (duo-tone)
-  static const IconifyIconData codepenDark = IconifyIconData.duo(
+  /// `codepen-dark` (paint-order duotone)
+  static const IconifyIconData codepenDark = IconifyIconData.duoPaintOrder(
     IconData(0xe02a, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe02a, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `codepen-light` (duo-tone)
-  static const IconifyIconData codepenLight = IconifyIconData.duo(
+  /// `codepen-light` (paint-order duotone)
+  static const IconifyIconData codepenLight = IconifyIconData.duoPaintOrder(
     IconData(0xe02b, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe02b, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `coffeescript-dark` (duo-tone)
-  static const IconifyIconData coffeescriptDark = IconifyIconData.duo(
+  /// `coffeescript-dark` (paint-order duotone)
+  static const IconifyIconData coffeescriptDark = IconifyIconData.duoPaintOrder(
     IconData(0xe02c, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe02c, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `coffeescript-light` (duo-tone)
-  static const IconifyIconData coffeescriptLight = IconifyIconData.duo(
+  /// `coffeescript-light` (paint-order duotone)
+  static const IconifyIconData coffeescriptLight = IconifyIconData.duoPaintOrder(
     IconData(0xe13d, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe13d, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `cpp` (duo-tone)
-  static const IconifyIconData cpp = IconifyIconData.duo(
+  /// `cpp` (paint-order duotone)
+  static const IconifyIconData cpp = IconifyIconData.duoPaintOrder(
     IconData(0xe02d, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe02d, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -372,14 +372,14 @@ class SkillIconsIcons {
     IconData(0xe02e, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `crystal-light` (duo-tone)
-  static const IconifyIconData crystalLight = IconifyIconData.duo(
+  /// `crystal-light` (paint-order duotone)
+  static const IconifyIconData crystalLight = IconifyIconData.duoPaintOrder(
     IconData(0xe02f, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe02f, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `cs` (duo-tone)
-  static const IconifyIconData cs = IconifyIconData.duo(
+  /// `cs` (paint-order duotone)
+  static const IconifyIconData cs = IconifyIconData.duoPaintOrder(
     IconData(0xe030, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe030, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -399,14 +399,14 @@ class SkillIconsIcons {
     IconData(0xe032, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `d3-dark` (duo-tone)
-  static const IconifyIconData d3Dark = IconifyIconData.duo(
+  /// `d3-dark` (paint-order duotone)
+  static const IconifyIconData d3Dark = IconifyIconData.duoPaintOrder(
     IconData(0xe033, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe033, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `d3-light` (duo-tone)
-  static const IconifyIconData d3Light = IconifyIconData.duo(
+  /// `d3-light` (paint-order duotone)
+  static const IconifyIconData d3Light = IconifyIconData.duoPaintOrder(
     IconData(0xe034, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe034, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -431,26 +431,26 @@ class SkillIconsIcons {
     IconData(0xe037, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `deno-dark` (duo-tone)
-  static const IconifyIconData denoDark = IconifyIconData.duo(
+  /// `deno-dark` (paint-order duotone)
+  static const IconifyIconData denoDark = IconifyIconData.duoPaintOrder(
     IconData(0xe038, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe038, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `deno-light` (duo-tone)
-  static const IconifyIconData denoLight = IconifyIconData.duo(
+  /// `deno-light` (paint-order duotone)
+  static const IconifyIconData denoLight = IconifyIconData.duoPaintOrder(
     IconData(0xe039, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe039, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `devto-dark` (duo-tone)
-  static const IconifyIconData devtoDark = IconifyIconData.duo(
+  /// `devto-dark` (paint-order duotone)
+  static const IconifyIconData devtoDark = IconifyIconData.duoPaintOrder(
     IconData(0xe03a, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe03a, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `devto-light` (duo-tone)
-  static const IconifyIconData devtoLight = IconifyIconData.duo(
+  /// `devto-light` (paint-order duotone)
+  static const IconifyIconData devtoLight = IconifyIconData.duoPaintOrder(
     IconData(0xe03b, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe03b, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -475,20 +475,20 @@ class SkillIconsIcons {
     IconData(0xe03e, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `django` (duo-tone)
-  static const IconifyIconData django = IconifyIconData.duo(
+  /// `django` (paint-order duotone)
+  static const IconifyIconData django = IconifyIconData.duoPaintOrder(
     IconData(0xe03f, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe03f, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `docker` (duo-tone)
-  static const IconifyIconData docker = IconifyIconData.duo(
+  /// `docker` (paint-order duotone)
+  static const IconifyIconData docker = IconifyIconData.duoPaintOrder(
     IconData(0xe040, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe040, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `dotnet` (duo-tone)
-  static const IconifyIconData dotnet = IconifyIconData.duo(
+  /// `dotnet` (paint-order duotone)
+  static const IconifyIconData dotnet = IconifyIconData.duoPaintOrder(
     IconData(0xe041, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe041, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -523,8 +523,8 @@ class SkillIconsIcons {
     IconData(0xe15f, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `electron` (duo-tone)
-  static const IconifyIconData electron = IconifyIconData.duo(
+  /// `electron` (paint-order duotone)
+  static const IconifyIconData electron = IconifyIconData.duoPaintOrder(
     IconData(0xe042, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe042, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -570,20 +570,20 @@ class SkillIconsIcons {
     IconData(0xe049, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `expressjs-dark` (duo-tone)
-  static const IconifyIconData expressjsDark = IconifyIconData.duo(
+  /// `expressjs-dark` (paint-order duotone)
+  static const IconifyIconData expressjsDark = IconifyIconData.duoPaintOrder(
     IconData(0xe04a, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe04a, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `expressjs-light` (duo-tone)
-  static const IconifyIconData expressjsLight = IconifyIconData.duo(
+  /// `expressjs-light` (paint-order duotone)
+  static const IconifyIconData expressjsLight = IconifyIconData.duoPaintOrder(
     IconData(0xe04b, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe04b, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `fastapi` (duo-tone)
-  static const IconifyIconData fastapi = IconifyIconData.duo(
+  /// `fastapi` (paint-order duotone)
+  static const IconifyIconData fastapi = IconifyIconData.duoPaintOrder(
     IconData(0xe04c, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe04c, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -610,14 +610,14 @@ class SkillIconsIcons {
     IconData(0xe050, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `flask-dark` (duo-tone)
-  static const IconifyIconData flaskDark = IconifyIconData.duo(
+  /// `flask-dark` (paint-order duotone)
+  static const IconifyIconData flaskDark = IconifyIconData.duoPaintOrder(
     IconData(0xe051, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe051, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `flask-light` (duo-tone)
-  static const IconifyIconData flaskLight = IconifyIconData.duo(
+  /// `flask-light` (paint-order duotone)
+  static const IconifyIconData flaskLight = IconifyIconData.duoPaintOrder(
     IconData(0xe052, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe052, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -637,20 +637,20 @@ class SkillIconsIcons {
     IconData(0xe055, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `fortran` (duo-tone)
-  static const IconifyIconData fortran = IconifyIconData.duo(
+  /// `fortran` (paint-order duotone)
+  static const IconifyIconData fortran = IconifyIconData.duoPaintOrder(
     IconData(0xe056, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe056, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `gamemakerstudio` (duo-tone)
-  static const IconifyIconData gamemakerstudio = IconifyIconData.duo(
+  /// `gamemakerstudio` (paint-order duotone)
+  static const IconifyIconData gamemakerstudio = IconifyIconData.duoPaintOrder(
     IconData(0xe057, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe057, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `gatsby` (duo-tone)
-  static const IconifyIconData gatsby = IconifyIconData.duo(
+  /// `gatsby` (paint-order duotone)
+  static const IconifyIconData gatsby = IconifyIconData.duoPaintOrder(
     IconData(0xe058, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe058, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -680,14 +680,14 @@ class SkillIconsIcons {
     IconData(0xe05b, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `github-dark` (duo-tone)
-  static const IconifyIconData githubDark = IconifyIconData.duo(
+  /// `github-dark` (paint-order duotone)
+  static const IconifyIconData githubDark = IconifyIconData.duoPaintOrder(
     IconData(0xe05c, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe05c, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `github-light` (duo-tone)
-  static const IconifyIconData githubLight = IconifyIconData.duo(
+  /// `github-light` (paint-order duotone)
+  static const IconifyIconData githubLight = IconifyIconData.duoPaintOrder(
     IconData(0xe13e, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe13e, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -732,20 +732,20 @@ class SkillIconsIcons {
     IconData(0xe060, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `golang` (duo-tone)
-  static const IconifyIconData golang = IconifyIconData.duo(
+  /// `golang` (paint-order duotone)
+  static const IconifyIconData golang = IconifyIconData.duoPaintOrder(
     IconData(0xe061, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe061, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `gradle-dark` (duo-tone)
-  static const IconifyIconData gradleDark = IconifyIconData.duo(
+  /// `gradle-dark` (paint-order duotone)
+  static const IconifyIconData gradleDark = IconifyIconData.duoPaintOrder(
     IconData(0xe062, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe062, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `gradle-light` (duo-tone)
-  static const IconifyIconData gradleLight = IconifyIconData.duo(
+  /// `gradle-light` (paint-order duotone)
+  static const IconifyIconData gradleLight = IconifyIconData.duoPaintOrder(
     IconData(0xe13f, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe13f, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -760,14 +760,14 @@ class SkillIconsIcons {
     IconData(0xe064, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `graphql-dark` (duo-tone)
-  static const IconifyIconData graphqlDark = IconifyIconData.duo(
+  /// `graphql-dark` (paint-order duotone)
+  static const IconifyIconData graphqlDark = IconifyIconData.duoPaintOrder(
     IconData(0xe065, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe065, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `graphql-light` (duo-tone)
-  static const IconifyIconData graphqlLight = IconifyIconData.duo(
+  /// `graphql-light` (paint-order duotone)
+  static const IconifyIconData graphqlLight = IconifyIconData.duoPaintOrder(
     IconData(0xe066, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe066, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -782,8 +782,8 @@ class SkillIconsIcons {
     IconData(0xe168, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `gulp` (duo-tone)
-  static const IconifyIconData gulp = IconifyIconData.duo(
+  /// `gulp` (paint-order duotone)
+  static const IconifyIconData gulp = IconifyIconData.duoPaintOrder(
     IconData(0xe067, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe067, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -818,8 +818,8 @@ class SkillIconsIcons {
     IconData(0xe06c, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `heroku` (duo-tone)
-  static const IconifyIconData heroku = IconifyIconData.duo(
+  /// `heroku` (paint-order duotone)
+  static const IconifyIconData heroku = IconifyIconData.duoPaintOrder(
     IconData(0xe06d, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe06d, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -859,8 +859,8 @@ class SkillIconsIcons {
     IconData(0xe071, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `illustrator` (duo-tone)
-  static const IconifyIconData illustrator = IconifyIconData.duo(
+  /// `illustrator` (paint-order duotone)
+  static const IconifyIconData illustrator = IconifyIconData.duoPaintOrder(
     IconData(0xe072, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe072, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -892,8 +892,8 @@ class SkillIconsIcons {
     IconData(0xe077, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `javascript` (duo-tone)
-  static const IconifyIconData javascript = IconifyIconData.duo(
+  /// `javascript` (paint-order duotone)
+  static const IconifyIconData javascript = IconifyIconData.duoPaintOrder(
     IconData(0xe140, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe140, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -908,8 +908,8 @@ class SkillIconsIcons {
     IconData(0xe16e, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `jest` (duo-tone)
-  static const IconifyIconData jest = IconifyIconData.duo(
+  /// `jest` (paint-order duotone)
+  static const IconifyIconData jest = IconifyIconData.duoPaintOrder(
     IconData(0xe078, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe078, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -964,20 +964,20 @@ class SkillIconsIcons {
     IconData(0xe171, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `kubernetes` (duo-tone)
-  static const IconifyIconData kubernetes = IconifyIconData.duo(
+  /// `kubernetes` (paint-order duotone)
+  static const IconifyIconData kubernetes = IconifyIconData.duoPaintOrder(
     IconData(0xe080, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe080, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `laravel-dark` (duo-tone)
-  static const IconifyIconData laravelDark = IconifyIconData.duo(
+  /// `laravel-dark` (paint-order duotone)
+  static const IconifyIconData laravelDark = IconifyIconData.duoPaintOrder(
     IconData(0xe081, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe081, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `laravel-light` (duo-tone)
-  static const IconifyIconData laravelLight = IconifyIconData.duo(
+  /// `laravel-light` (paint-order duotone)
+  static const IconifyIconData laravelLight = IconifyIconData.duoPaintOrder(
     IconData(0xe082, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe082, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1002,8 +1002,8 @@ class SkillIconsIcons {
     IconData(0xe086, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `linkedin` (duo-tone)
-  static const IconifyIconData linkedin = IconifyIconData.duo(
+  /// `linkedin` (paint-order duotone)
+  static const IconifyIconData linkedin = IconifyIconData.duoPaintOrder(
     IconData(0xe087, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe087, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1058,14 +1058,14 @@ class SkillIconsIcons {
     IconData(0xe091, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `materialui-dark` (duo-tone)
-  static const IconifyIconData materialuiDark = IconifyIconData.duo(
+  /// `materialui-dark` (paint-order duotone)
+  static const IconifyIconData materialuiDark = IconifyIconData.duoPaintOrder(
     IconData(0xe092, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe092, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `materialui-light` (duo-tone)
-  static const IconifyIconData materialuiLight = IconifyIconData.duo(
+  /// `materialui-light` (paint-order duotone)
+  static const IconifyIconData materialuiLight = IconifyIconData.duoPaintOrder(
     IconData(0xe093, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe093, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1100,14 +1100,14 @@ class SkillIconsIcons {
     IconData(0xe098, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `misskey-dark` (duo-tone)
-  static const IconifyIconData misskeyDark = IconifyIconData.duo(
+  /// `misskey-dark` (paint-order duotone)
+  static const IconifyIconData misskeyDark = IconifyIconData.duoPaintOrder(
     IconData(0xe099, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe099, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `misskey-light` (duo-tone)
-  static const IconifyIconData misskeyLight = IconifyIconData.duo(
+  /// `misskey-light` (paint-order duotone)
+  static const IconifyIconData misskeyLight = IconifyIconData.duoPaintOrder(
     IconData(0xe09a, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe09a, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1137,14 +1137,14 @@ class SkillIconsIcons {
     IconData(0xe09f, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `nestjs-dark` (duo-tone)
-  static const IconifyIconData nestjsDark = IconifyIconData.duo(
+  /// `nestjs-dark` (paint-order duotone)
+  static const IconifyIconData nestjsDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0a0, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0a0, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `nestjs-light` (duo-tone)
-  static const IconifyIconData nestjsLight = IconifyIconData.duo(
+  /// `nestjs-light` (paint-order duotone)
+  static const IconifyIconData nestjsLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0a1, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0a1, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1159,20 +1159,20 @@ class SkillIconsIcons {
     IconData(0xe0a3, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `nextjs-dark` (duo-tone)
-  static const IconifyIconData nextjsDark = IconifyIconData.duo(
+  /// `nextjs-dark` (paint-order duotone)
+  static const IconifyIconData nextjsDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0a4, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0a4, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `nextjs-light` (duo-tone)
-  static const IconifyIconData nextjsLight = IconifyIconData.duo(
+  /// `nextjs-light` (paint-order duotone)
+  static const IconifyIconData nextjsLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0a5, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0a5, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `nginx` (duo-tone)
-  static const IconifyIconData nginx = IconifyIconData.duo(
+  /// `nginx` (paint-order duotone)
+  static const IconifyIconData nginx = IconifyIconData.duoPaintOrder(
     IconData(0xe0a6, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0a6, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1197,14 +1197,14 @@ class SkillIconsIcons {
     IconData(0xe0aa, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `nodejs-dark` (duo-tone)
-  static const IconifyIconData nodejsDark = IconifyIconData.duo(
+  /// `nodejs-dark` (paint-order duotone)
+  static const IconifyIconData nodejsDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0ab, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0ab, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `nodejs-light` (duo-tone)
-  static const IconifyIconData nodejsLight = IconifyIconData.duo(
+  /// `nodejs-light` (paint-order duotone)
+  static const IconifyIconData nodejsLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0ac, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0ac, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1229,14 +1229,14 @@ class SkillIconsIcons {
     IconData(0xe0ae, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `nuxtjs-dark` (duo-tone)
-  static const IconifyIconData nuxtjsDark = IconifyIconData.duo(
+  /// `nuxtjs-dark` (paint-order duotone)
+  static const IconifyIconData nuxtjsDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0af, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0af, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `nuxtjs-light` (duo-tone)
-  static const IconifyIconData nuxtjsLight = IconifyIconData.duo(
+  /// `nuxtjs-light` (paint-order duotone)
+  static const IconifyIconData nuxtjsLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0b0, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0b0, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1281,44 +1281,44 @@ class SkillIconsIcons {
     IconData(0xe0b7, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `openstack-dark` (duo-tone)
-  static const IconifyIconData openstackDark = IconifyIconData.duo(
+  /// `openstack-dark` (paint-order duotone)
+  static const IconifyIconData openstackDark = IconifyIconData.duoPaintOrder(
     IconData(0xe141, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe141, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `openstack-light` (duo-tone)
-  static const IconifyIconData openstackLight = IconifyIconData.duo(
+  /// `openstack-light` (paint-order duotone)
+  static const IconifyIconData openstackLight = IconifyIconData.duoPaintOrder(
     IconData(0xe142, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe142, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `p5js` (duo-tone)
-  static const IconifyIconData p5js = IconifyIconData.duo(
+  /// `p5js` (paint-order duotone)
+  static const IconifyIconData p5js = IconifyIconData.duoPaintOrder(
     IconData(0xe0b8, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0b8, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `perl` (duo-tone)
-  static const IconifyIconData perl = IconifyIconData.duo(
+  /// `perl` (paint-order duotone)
+  static const IconifyIconData perl = IconifyIconData.duoPaintOrder(
     IconData(0xe0b9, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0b9, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `photoshop` (duo-tone)
-  static const IconifyIconData photoshop = IconifyIconData.duo(
+  /// `photoshop` (paint-order duotone)
+  static const IconifyIconData photoshop = IconifyIconData.duoPaintOrder(
     IconData(0xe0ba, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0ba, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `php-dark` (duo-tone)
-  static const IconifyIconData phpDark = IconifyIconData.duo(
+  /// `php-dark` (paint-order duotone)
+  static const IconifyIconData phpDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0bb, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0bb, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `php-light` (duo-tone)
-  static const IconifyIconData phpLight = IconifyIconData.duo(
+  /// `php-light` (paint-order duotone)
+  static const IconifyIconData phpLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0bc, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0bc, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1363,14 +1363,14 @@ class SkillIconsIcons {
     IconData(0xe0c1, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `planetscale-dark` (duo-tone)
-  static const IconifyIconData planetscaleDark = IconifyIconData.duo(
+  /// `planetscale-dark` (paint-order duotone)
+  static const IconifyIconData planetscaleDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0c2, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0c2, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `planetscale-light` (duo-tone)
-  static const IconifyIconData planetscaleLight = IconifyIconData.duo(
+  /// `planetscale-light` (paint-order duotone)
+  static const IconifyIconData planetscaleLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0c3, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0c3, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1395,8 +1395,8 @@ class SkillIconsIcons {
     IconData(0xe0c5, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `postman` (duo-tone)
-  static const IconifyIconData postman = IconifyIconData.duo(
+  /// `postman` (paint-order duotone)
+  static const IconifyIconData postman = IconifyIconData.duoPaintOrder(
     IconData(0xe0c6, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0c6, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1411,14 +1411,14 @@ class SkillIconsIcons {
     IconData(0xe0c8, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `premiere` (duo-tone)
-  static const IconifyIconData premiere = IconifyIconData.duo(
+  /// `premiere` (paint-order duotone)
+  static const IconifyIconData premiere = IconifyIconData.duoPaintOrder(
     IconData(0xe0c9, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0c9, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `prisma` (duo-tone)
-  static const IconifyIconData prisma = IconifyIconData.duo(
+  /// `prisma` (paint-order duotone)
+  static const IconifyIconData prisma = IconifyIconData.duoPaintOrder(
     IconData(0xe0ca, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0ca, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1433,8 +1433,8 @@ class SkillIconsIcons {
     IconData(0xe0cc, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `prometheus` (duo-tone)
-  static const IconifyIconData prometheus = IconifyIconData.duo(
+  /// `prometheus` (paint-order duotone)
+  static const IconifyIconData prometheus = IconifyIconData.duoPaintOrder(
     IconData(0xe0cd, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0cd, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1471,26 +1471,26 @@ class SkillIconsIcons {
     IconData(0xe0d2, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `pytorch-dark` (duo-tone)
-  static const IconifyIconData pytorchDark = IconifyIconData.duo(
+  /// `pytorch-dark` (paint-order duotone)
+  static const IconifyIconData pytorchDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0d3, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0d3, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `pytorch-light` (duo-tone)
-  static const IconifyIconData pytorchLight = IconifyIconData.duo(
+  /// `pytorch-light` (paint-order duotone)
+  static const IconifyIconData pytorchLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0d4, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0d4, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `qt-dark` (duo-tone)
-  static const IconifyIconData qtDark = IconifyIconData.duo(
+  /// `qt-dark` (paint-order duotone)
+  static const IconifyIconData qtDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0d5, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0d5, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `qt-light` (duo-tone)
-  static const IconifyIconData qtLight = IconifyIconData.duo(
+  /// `qt-light` (paint-order duotone)
+  static const IconifyIconData qtLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0d6, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0d6, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1505,20 +1505,20 @@ class SkillIconsIcons {
     IconData(0xe0d8, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `rabbitmq-dark` (duo-tone)
-  static const IconifyIconData rabbitmqDark = IconifyIconData.duo(
+  /// `rabbitmq-dark` (paint-order duotone)
+  static const IconifyIconData rabbitmqDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0d9, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0d9, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `rabbitmq-light` (duo-tone)
-  static const IconifyIconData rabbitmqLight = IconifyIconData.duo(
+  /// `rabbitmq-light` (paint-order duotone)
+  static const IconifyIconData rabbitmqLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0da, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0da, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `rails` (duo-tone)
-  static const IconifyIconData rails = IconifyIconData.duo(
+  /// `rails` (paint-order duotone)
+  static const IconifyIconData rails = IconifyIconData.duoPaintOrder(
     IconData(0xe0db, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0db, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1573,20 +1573,20 @@ class SkillIconsIcons {
     IconData(0xe180, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `redux` (duo-tone)
-  static const IconifyIconData redux = IconifyIconData.duo(
+  /// `redux` (paint-order duotone)
+  static const IconifyIconData redux = IconifyIconData.duoPaintOrder(
     IconData(0xe0e1, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0e1, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `regex-dark` (duo-tone)
-  static const IconifyIconData regexDark = IconifyIconData.duo(
+  /// `regex-dark` (paint-order duotone)
+  static const IconifyIconData regexDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0e2, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0e2, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `regex-light` (duo-tone)
-  static const IconifyIconData regexLight = IconifyIconData.duo(
+  /// `regex-light` (paint-order duotone)
+  static const IconifyIconData regexLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0e3, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0e3, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1601,14 +1601,14 @@ class SkillIconsIcons {
     IconData(0xe0e5, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `replit-dark` (duo-tone)
-  static const IconifyIconData replitDark = IconifyIconData.duo(
+  /// `replit-dark` (paint-order duotone)
+  static const IconifyIconData replitDark = IconifyIconData.duoPaintOrder(
     IconData(0xe143, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe143, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `replit-light` (duo-tone)
-  static const IconifyIconData replitLight = IconifyIconData.duo(
+  /// `replit-light` (paint-order duotone)
+  static const IconifyIconData replitLight = IconifyIconData.duoPaintOrder(
     IconData(0xe144, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe144, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1643,14 +1643,14 @@ class SkillIconsIcons {
     IconData(0xe0ea, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `ros-dark` (duo-tone)
-  static const IconifyIconData rosDark = IconifyIconData.duo(
+  /// `ros-dark` (paint-order duotone)
+  static const IconifyIconData rosDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0eb, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0eb, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `ros-light` (duo-tone)
-  static const IconifyIconData rosLight = IconifyIconData.duo(
+  /// `ros-light` (paint-order duotone)
+  static const IconifyIconData rosLight = IconifyIconData.duoPaintOrder(
     IconData(0xe145, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe145, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1660,8 +1660,8 @@ class SkillIconsIcons {
     IconData(0xe0ec, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `rust` (duo-tone)
-  static const IconifyIconData rust = IconifyIconData.duo(
+  /// `rust` (paint-order duotone)
+  static const IconifyIconData rust = IconifyIconData.duoPaintOrder(
     IconData(0xe0ed, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0ed, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1696,8 +1696,8 @@ class SkillIconsIcons {
     IconData(0xe0f1, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `sentry` (duo-tone)
-  static const IconifyIconData sentry = IconifyIconData.duo(
+  /// `sentry` (paint-order duotone)
+  static const IconifyIconData sentry = IconifyIconData.duoPaintOrder(
     IconData(0xe0f2, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0f2, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1712,14 +1712,14 @@ class SkillIconsIcons {
     IconData(0xe0f4, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `sketchup-dark` (duo-tone)
-  static const IconifyIconData sketchupDark = IconifyIconData.duo(
+  /// `sketchup-dark` (paint-order duotone)
+  static const IconifyIconData sketchupDark = IconifyIconData.duoPaintOrder(
     IconData(0xe146, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe146, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `sketchup-light` (duo-tone)
-  static const IconifyIconData sketchupLight = IconifyIconData.duo(
+  /// `sketchup-light` (paint-order duotone)
+  static const IconifyIconData sketchupLight = IconifyIconData.duoPaintOrder(
     IconData(0xe147, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe147, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1750,14 +1750,14 @@ class SkillIconsIcons {
     IconData(0xe0f9, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `spring-dark` (duo-tone)
-  static const IconifyIconData springDark = IconifyIconData.duo(
+  /// `spring-dark` (paint-order duotone)
+  static const IconifyIconData springDark = IconifyIconData.duoPaintOrder(
     IconData(0xe0fa, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0fa, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `spring-light` (duo-tone)
-  static const IconifyIconData springLight = IconifyIconData.duo(
+  /// `spring-light` (paint-order duotone)
+  static const IconifyIconData springLight = IconifyIconData.duoPaintOrder(
     IconData(0xe0fb, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe0fb, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1819,20 +1819,20 @@ class SkillIconsIcons {
     IconData(0xe105, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `swift` (duo-tone)
-  static const IconifyIconData swift = IconifyIconData.duo(
+  /// `swift` (paint-order duotone)
+  static const IconifyIconData swift = IconifyIconData.duoPaintOrder(
     IconData(0xe106, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe106, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `symfony-dark` (duo-tone)
-  static const IconifyIconData symfonyDark = IconifyIconData.duo(
+  /// `symfony-dark` (paint-order duotone)
+  static const IconifyIconData symfonyDark = IconifyIconData.duoPaintOrder(
     IconData(0xe107, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe107, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `symfony-light` (duo-tone)
-  static const IconifyIconData symfonyLight = IconifyIconData.duo(
+  /// `symfony-light` (paint-order duotone)
+  static const IconifyIconData symfonyLight = IconifyIconData.duoPaintOrder(
     IconData(0xe108, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe108, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1857,14 +1857,14 @@ class SkillIconsIcons {
     IconData(0xe10c, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `tensorflow-dark` (duo-tone)
-  static const IconifyIconData tensorflowDark = IconifyIconData.duo(
+  /// `tensorflow-dark` (paint-order duotone)
+  static const IconifyIconData tensorflowDark = IconifyIconData.duoPaintOrder(
     IconData(0xe10d, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe10d, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `tensorflow-light` (duo-tone)
-  static const IconifyIconData tensorflowLight = IconifyIconData.duo(
+  /// `tensorflow-light` (paint-order duotone)
+  static const IconifyIconData tensorflowLight = IconifyIconData.duoPaintOrder(
     IconData(0xe10e, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe10e, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1889,14 +1889,14 @@ class SkillIconsIcons {
     IconData(0xe112, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `twitter` (duo-tone)
-  static const IconifyIconData twitter = IconifyIconData.duo(
+  /// `twitter` (paint-order duotone)
+  static const IconifyIconData twitter = IconifyIconData.duoPaintOrder(
     IconData(0xe113, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe113, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `typescript` (duo-tone)
-  static const IconifyIconData typescript = IconifyIconData.duo(
+  /// `typescript` (paint-order duotone)
+  static const IconifyIconData typescript = IconifyIconData.duoPaintOrder(
     IconData(0xe114, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe114, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1921,8 +1921,8 @@ class SkillIconsIcons {
     IconData(0xe117, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `unrealengine` (duo-tone)
-  static const IconifyIconData unrealengine = IconifyIconData.duo(
+  /// `unrealengine` (paint-order duotone)
+  static const IconifyIconData unrealengine = IconifyIconData.duoPaintOrder(
     IconData(0xe118, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe118, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -1942,14 +1942,14 @@ class SkillIconsIcons {
     IconData(0xe11b, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `vercel-dark` (duo-tone)
-  static const IconifyIconData vercelDark = IconifyIconData.duo(
+  /// `vercel-dark` (paint-order duotone)
+  static const IconifyIconData vercelDark = IconifyIconData.duoPaintOrder(
     IconData(0xe11c, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe11c, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `vercel-light` (duo-tone)
-  static const IconifyIconData vercelLight = IconifyIconData.duo(
+  /// `vercel-light` (paint-order duotone)
+  static const IconifyIconData vercelLight = IconifyIconData.duoPaintOrder(
     IconData(0xe11d, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe11d, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -2047,8 +2047,8 @@ class SkillIconsIcons {
     IconData(0xe129, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `webflow` (duo-tone)
-  static const IconifyIconData webflow = IconifyIconData.duo(
+  /// `webflow` (paint-order duotone)
+  static const IconifyIconData webflow = IconifyIconData.duoPaintOrder(
     IconData(0xe12a, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe12a, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -2093,8 +2093,8 @@ class SkillIconsIcons {
     IconData(0xe130, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `wordpress` (duo-tone)
-  static const IconifyIconData wordpress = IconifyIconData.duo(
+  /// `wordpress` (paint-order duotone)
+  static const IconifyIconData wordpress = IconifyIconData.duoPaintOrder(
     IconData(0xe131, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe131, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -2109,8 +2109,8 @@ class SkillIconsIcons {
     IconData(0xe133, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `xd` (duo-tone)
-  static const IconifyIconData xd = IconifyIconData.duo(
+  /// `xd` (paint-order duotone)
+  static const IconifyIconData xd = IconifyIconData.duoPaintOrder(
     IconData(0xe134, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe134, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
@@ -2135,14 +2135,14 @@ class SkillIconsIcons {
     IconData(0xe136, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `zig-dark` (duo-tone)
-  static const IconifyIconData zigDark = IconifyIconData.duo(
+  /// `zig-dark` (paint-order duotone)
+  static const IconifyIconData zigDark = IconifyIconData.duoPaintOrder(
     IconData(0xe137, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe137, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );
 
-  /// `zig-light` (duo-tone)
-  static const IconifyIconData zigLight = IconifyIconData.duo(
+  /// `zig-light` (paint-order duotone)
+  static const IconifyIconData zigLight = IconifyIconData.duoPaintOrder(
     IconData(0xe138, fontFamily: 'SkillIcons', fontPackage: 'iconifyx_skill_icons'),
     IconData(0xe138, fontFamily: 'SkillIconsSecondary', fontPackage: 'iconifyx_skill_icons'),
   );

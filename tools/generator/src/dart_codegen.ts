@@ -72,14 +72,30 @@ export function emitSetDart(input: DartCodegenInput): string {
     if (entry.deprecated) continue;
 
     if (entry.duotone) {
-      // Single const per duotone icon: IconifyIconData.duo bundles both
-      // layers (primary in the regular font, secondary at the same
-      // codepoint in <Family>Secondary). Render with IconifyIcon — it
-      // auto-detects isDuotone and paints both layers in a single
-      // render layer.
+      // Single const per duotone icon: bundles both layers (primary in
+      // the regular font, secondary at the same codepoint in
+      // <Family>Secondary). Constructor choice is driven by
+      // `duotoneKind` — `duo` for hint-layer (Phosphor / Solar / ic),
+      // `duoPaintOrder` for two-fill paint-order (logos / crypto-color /
+      // fluent-emoji-flat), `duoMaskInternal` for lets-icons mask-
+      // internal. `IconifyIcon` reads `IconifyIconData.kind` at render
+      // time and composes the layers accordingly.
       const secFamily = secondaryFontFamily(entry.fontFamily);
-      lines.push(`  /// \`${escapeDoc(name)}\` (duo-tone)`);
-      lines.push(`  static const IconifyIconData ${entry.identifier} = IconifyIconData.duo(`);
+      const kind = entry.duotoneKind ?? 'hint';
+      const constructor =
+        kind === 'paintOrder'
+          ? 'duoPaintOrder'
+          : kind === 'maskInternal'
+            ? 'duoMaskInternal'
+            : 'duo';
+      const kindNote =
+        kind === 'paintOrder'
+          ? ' (paint-order duotone)'
+          : kind === 'maskInternal'
+            ? ' (mask-internal duotone)'
+            : ' (duo-tone)';
+      lines.push(`  /// \`${escapeDoc(name)}\`${kindNote}`);
+      lines.push(`  static const IconifyIconData ${entry.identifier} = IconifyIconData.${constructor}(`);
       lines.push(`    IconData(${formatCodepoint(entry.codepoint)}, fontFamily: '${entry.fontFamily}', fontPackage: '${fontPackage}'),`);
       lines.push(`    IconData(${formatCodepoint(entry.codepoint)}, fontFamily: '${secFamily}', fontPackage: '${fontPackage}'),`);
       lines.push(`  );`);

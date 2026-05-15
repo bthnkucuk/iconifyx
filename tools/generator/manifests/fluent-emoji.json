@@ -11080,7 +11080,8 @@
       "codepoint": 60120,
       "fontFamily": "FluentEmoji",
       "identifier": "tongue",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "toolbox": {
       "codepoint": 59553,

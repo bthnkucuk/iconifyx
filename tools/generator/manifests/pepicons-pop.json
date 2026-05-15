@@ -3180,7 +3180,8 @@
       "codepoint": 57973,
       "fontFamily": "PepiconsPop",
       "identifier": "keyboardCircleFilled",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "maskInternal"
     },
     "keyboard-circle-off": {
       "codepoint": 57974,

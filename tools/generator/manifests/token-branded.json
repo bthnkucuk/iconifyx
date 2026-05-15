@@ -35,7 +35,8 @@
       "codepoint": 57344,
       "fontFamily": "TokenBranded",
       "identifier": "n0x0",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "0xgas": {
       "codepoint": 57345,
@@ -182,7 +183,8 @@
       "codepoint": 57373,
       "fontFamily": "TokenBranded",
       "identifier": "aevo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "agix": {
       "codepoint": 57374,
@@ -193,7 +195,8 @@
       "codepoint": 57375,
       "fontFamily": "TokenBranded",
       "identifier": "agla",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "agld": {
       "codepoint": 57376,
@@ -214,7 +217,8 @@
       "codepoint": 58939,
       "fontFamily": "TokenBranded",
       "identifier": "ai",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "aimbot": {
       "codepoint": 57379,
@@ -255,7 +259,8 @@
       "codepoint": 58940,
       "fontFamily": "TokenBranded",
       "identifier": "akt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alcx": {
       "codepoint": 57386,
@@ -301,13 +306,15 @@
       "codepoint": 57394,
       "fontFamily": "TokenBranded",
       "identifier": "alpaca",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alph": {
       "codepoint": 58941,
       "fontFamily": "TokenBranded",
       "identifier": "alph",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alpha": {
       "codepoint": 57395,
@@ -473,7 +480,8 @@
       "codepoint": 57427,
       "fontFamily": "TokenBranded",
       "identifier": "asd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "asia": {
       "codepoint": 57428,
@@ -484,7 +492,8 @@
       "codepoint": 57429,
       "fontFamily": "TokenBranded",
       "identifier": "asm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ast": {
       "codepoint": 57430,
@@ -520,7 +529,8 @@
       "codepoint": 57436,
       "fontFamily": "TokenBranded",
       "identifier": "atlas",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "atomic": {
       "codepoint": 57437,
@@ -531,7 +541,8 @@
       "codepoint": 57438,
       "fontFamily": "TokenBranded",
       "identifier": "atpay",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "atr": {
       "codepoint": 57439,
@@ -672,13 +683,15 @@
       "codepoint": 57466,
       "fontFamily": "TokenBranded",
       "identifier": "bax",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bbank": {
       "codepoint": 58942,
       "fontFamily": "TokenBranded",
       "identifier": "bbank",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bbl": {
       "codepoint": 57467,
@@ -694,7 +707,8 @@
       "codepoint": 57469,
       "fontFamily": "TokenBranded",
       "identifier": "bcd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bcdt": {
       "codepoint": 57470,
@@ -715,7 +729,8 @@
       "codepoint": 57473,
       "fontFamily": "TokenBranded",
       "identifier": "bct",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bcube": {
       "codepoint": 57474,
@@ -756,13 +771,15 @@
       "codepoint": 57481,
       "fontFamily": "TokenBranded",
       "identifier": "bel",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bepro": {
       "codepoint": 57482,
       "fontFamily": "TokenBranded",
       "identifier": "bepro",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "berry": {
       "codepoint": 57483,
@@ -798,7 +815,8 @@
       "codepoint": 58943,
       "fontFamily": "TokenBranded",
       "identifier": "bico",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bigsb": {
       "codepoint": 57489,
@@ -899,7 +917,8 @@
       "codepoint": 58944,
       "fontFamily": "TokenBranded",
       "identifier": "blxm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bmex": {
       "codepoint": 57508,
@@ -910,7 +929,8 @@
       "codepoint": 57509,
       "fontFamily": "TokenBranded",
       "identifier": "bmx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bnb": {
       "codepoint": 57510,
@@ -976,7 +996,8 @@
       "codepoint": 57522,
       "fontFamily": "TokenBranded",
       "identifier": "botanix",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "botto": {
       "codepoint": 57523,
@@ -1017,7 +1038,8 @@
       "codepoint": 57530,
       "fontFamily": "TokenBranded",
       "identifier": "bridge",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "brise": {
       "codepoint": 57531,
@@ -1033,7 +1055,8 @@
       "codepoint": 57533,
       "fontFamily": "TokenBranded",
       "identifier": "brock",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "brush": {
       "codepoint": 57534,
@@ -1049,7 +1072,8 @@
       "codepoint": 57536,
       "fontFamily": "TokenBranded",
       "identifier": "bscpad",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bscs": {
       "codepoint": 57537,
@@ -1060,13 +1084,15 @@
       "codepoint": 57538,
       "fontFamily": "TokenBranded",
       "identifier": "bsgg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bst": {
       "codepoint": 58945,
       "fontFamily": "TokenBranded",
       "identifier": "bst",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bsw": {
       "codepoint": 57539,
@@ -1142,7 +1168,8 @@
       "codepoint": 58946,
       "fontFamily": "TokenBranded",
       "identifier": "bump",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "busd": {
       "codepoint": 57553,
@@ -1168,13 +1195,15 @@
       "codepoint": 58947,
       "fontFamily": "TokenBranded",
       "identifier": "bybit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bzr": {
       "codepoint": 57557,
       "fontFamily": "TokenBranded",
       "identifier": "bzr",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bzrx": {
       "codepoint": 57558,
@@ -1220,13 +1249,15 @@
       "codepoint": 57566,
       "fontFamily": "TokenBranded",
       "identifier": "carbon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "card": {
       "codepoint": 57567,
       "fontFamily": "TokenBranded",
       "identifier": "card",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cast": {
       "codepoint": 57568,
@@ -1258,7 +1289,8 @@
       "codepoint": 57573,
       "fontFamily": "TokenBranded",
       "identifier": "cbx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cby": {
       "codepoint": 57574,
@@ -1319,7 +1351,8 @@
       "codepoint": 57585,
       "fontFamily": "TokenBranded",
       "identifier": "cetus",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ceur": {
       "codepoint": 57586,
@@ -1390,7 +1423,8 @@
       "codepoint": 57599,
       "fontFamily": "TokenBranded",
       "identifier": "cho",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "chr": {
       "codepoint": 57600,
@@ -1406,7 +1440,8 @@
       "codepoint": 57602,
       "fontFamily": "TokenBranded",
       "identifier": "chz",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cirus": {
       "codepoint": 57603,
@@ -1472,7 +1507,8 @@
       "codepoint": 57615,
       "fontFamily": "TokenBranded",
       "identifier": "cnd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cnfi": {
       "codepoint": 57616,
@@ -1488,19 +1524,22 @@
       "codepoint": 57618,
       "fontFamily": "TokenBranded",
       "identifier": "cnht",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "coinbase": {
       "codepoint": 57619,
       "fontFamily": "TokenBranded",
       "identifier": "coinbase",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "coinex-smart-chain": {
       "codepoint": 57620,
       "fontFamily": "TokenBranded",
       "identifier": "coinexSmartChain",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "col": {
       "codepoint": 57621,
@@ -1516,13 +1555,15 @@
       "codepoint": 57623,
       "fontFamily": "TokenBranded",
       "identifier": "conflux",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "conv": {
       "codepoint": 58948,
       "fontFamily": "TokenBranded",
       "identifier": "conv",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cope": {
       "codepoint": 57624,
@@ -1543,7 +1584,8 @@
       "codepoint": 58949,
       "fontFamily": "TokenBranded",
       "identifier": "corn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cos": {
       "codepoint": 57627,
@@ -1639,7 +1681,8 @@
       "codepoint": 57645,
       "fontFamily": "TokenBranded",
       "identifier": "cru",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crv": {
       "codepoint": 57646,
@@ -1655,7 +1698,8 @@
       "codepoint": 57648,
       "fontFamily": "TokenBranded",
       "identifier": "cryptoCom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "csix": {
       "codepoint": 57649,
@@ -1721,7 +1765,8 @@
       "codepoint": 58950,
       "fontFamily": "TokenBranded",
       "identifier": "cuminu",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cummies": {
       "codepoint": 57661,
@@ -1742,7 +1787,8 @@
       "codepoint": 58951,
       "fontFamily": "TokenBranded",
       "identifier": "cvp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cvr": {
       "codepoint": 57664,
@@ -1763,7 +1809,8 @@
       "codepoint": 57667,
       "fontFamily": "TokenBranded",
       "identifier": "cws",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cxo": {
       "codepoint": 57668,
@@ -1904,7 +1951,8 @@
       "codepoint": 57695,
       "fontFamily": "TokenBranded",
       "identifier": "dext",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dextf": {
       "codepoint": 57696,
@@ -1915,7 +1963,8 @@
       "codepoint": 58952,
       "fontFamily": "TokenBranded",
       "identifier": "df",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dfi": {
       "codepoint": 57697,
@@ -1941,7 +1990,8 @@
       "codepoint": 58953,
       "fontFamily": "TokenBranded",
       "identifier": "dgnx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dgx": {
       "codepoint": 57701,
@@ -2047,7 +2097,8 @@
       "codepoint": 58954,
       "fontFamily": "TokenBranded",
       "identifier": "dose",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dpet": {
       "codepoint": 57721,
@@ -2058,7 +2109,8 @@
       "codepoint": 58955,
       "fontFamily": "TokenBranded",
       "identifier": "dps",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dpx": {
       "codepoint": 57722,
@@ -2094,7 +2146,8 @@
       "codepoint": 57728,
       "fontFamily": "TokenBranded",
       "identifier": "dua",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dusk": {
       "codepoint": 57729,
@@ -2120,7 +2173,8 @@
       "codepoint": 58956,
       "fontFamily": "TokenBranded",
       "identifier": "dvpn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dweb": {
       "codepoint": 57733,
@@ -2151,7 +2205,8 @@
       "codepoint": 57738,
       "fontFamily": "TokenBranded",
       "identifier": "dyp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dzoo": {
       "codepoint": 57739,
@@ -2357,7 +2412,8 @@
       "codepoint": 57779,
       "fontFamily": "TokenBranded",
       "identifier": "es",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "eth": {
       "codepoint": 57780,
@@ -2403,7 +2459,8 @@
       "codepoint": 57788,
       "fontFamily": "TokenBranded",
       "identifier": "etn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "etp": {
       "codepoint": 57789,
@@ -2424,7 +2481,8 @@
       "codepoint": 57792,
       "fontFamily": "TokenBranded",
       "identifier": "eurc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "euroe": {
       "codepoint": 57793,
@@ -2470,7 +2528,8 @@
       "codepoint": 58957,
       "fontFamily": "TokenBranded",
       "identifier": "exd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "exodus": {
       "codepoint": 57801,
@@ -2526,7 +2585,8 @@
       "codepoint": 57811,
       "fontFamily": "TokenBranded",
       "identifier": "fdusd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fear": {
       "codepoint": 57812,
@@ -2662,7 +2722,8 @@
       "codepoint": 58958,
       "fontFamily": "TokenBranded",
       "identifier": "forex",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "forth": {
       "codepoint": 57838,
@@ -2753,7 +2814,8 @@
       "codepoint": 57855,
       "fontFamily": "TokenBranded",
       "identifier": "fx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fxs": {
       "codepoint": 57856,
@@ -2834,7 +2896,8 @@
       "codepoint": 58959,
       "fontFamily": "TokenBranded",
       "identifier": "gateIo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gbex": {
       "codepoint": 57871,
@@ -2900,7 +2963,8 @@
       "codepoint": 57883,
       "fontFamily": "TokenBranded",
       "identifier": "ghny",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gho": {
       "codepoint": 57884,
@@ -2926,7 +2990,8 @@
       "codepoint": 57888,
       "fontFamily": "TokenBranded",
       "identifier": "glmr",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "glow": {
       "codepoint": 57889,
@@ -2972,7 +3037,8 @@
       "codepoint": 57897,
       "fontFamily": "TokenBranded",
       "identifier": "go",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gods": {
       "codepoint": 57898,
@@ -3008,7 +3074,8 @@
       "codepoint": 57904,
       "fontFamily": "TokenBranded",
       "identifier": "goz",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "gpcx": {
       "codepoint": 57905,
@@ -3054,7 +3121,8 @@
       "codepoint": 57913,
       "fontFamily": "TokenBranded",
       "identifier": "grnd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "grt": {
       "codepoint": 57914,
@@ -3085,7 +3153,8 @@
       "codepoint": 58960,
       "fontFamily": "TokenBranded",
       "identifier": "gtc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "guild": {
       "codepoint": 57919,
@@ -3142,7 +3211,8 @@
       "codepoint": 57929,
       "fontFamily": "TokenBranded",
       "identifier": "hair",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "haka": {
       "codepoint": 57930,
@@ -3188,13 +3258,15 @@
       "codepoint": 57938,
       "fontFamily": "TokenBranded",
       "identifier": "hedera",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hedera-hashgraph": {
       "codepoint": 57939,
       "fontFamily": "TokenBranded",
       "identifier": "hederaHashgraph",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hegic": {
       "codepoint": 57940,
@@ -3230,7 +3302,8 @@
       "codepoint": 57946,
       "fontFamily": "TokenBranded",
       "identifier": "hez",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hft": {
       "codepoint": 57947,
@@ -3251,7 +3324,8 @@
       "codepoint": 57950,
       "fontFamily": "TokenBranded",
       "identifier": "hid",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hilo": {
       "codepoint": 57951,
@@ -3317,19 +3391,22 @@
       "codepoint": 57963,
       "fontFamily": "TokenBranded",
       "identifier": "hpo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hst": {
       "codepoint": 58961,
       "fontFamily": "TokenBranded",
       "identifier": "hst",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ht": {
       "codepoint": 57964,
       "fontFamily": "TokenBranded",
       "identifier": "ht",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "htm": {
       "codepoint": 57965,
@@ -3375,7 +3452,8 @@
       "codepoint": 57973,
       "fontFamily": "TokenBranded",
       "identifier": "hvh",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hxd": {
       "codepoint": 57974,
@@ -3386,13 +3464,15 @@
       "codepoint": 57975,
       "fontFamily": "TokenBranded",
       "identifier": "hxro",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hydra": {
       "codepoint": 58962,
       "fontFamily": "TokenBranded",
       "identifier": "hydra",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hyper-evm": {
       "codepoint": 57976,
@@ -3403,7 +3483,8 @@
       "codepoint": 57977,
       "fontFamily": "TokenBranded",
       "identifier": "hzn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ibat": {
       "codepoint": 57978,
@@ -3434,7 +3515,8 @@
       "codepoint": 58963,
       "fontFamily": "TokenBranded",
       "identifier": "idea",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "idex": {
       "codepoint": 57983,
@@ -3445,7 +3527,8 @@
       "codepoint": 57984,
       "fontFamily": "TokenBranded",
       "identifier": "idia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "idle": {
       "codepoint": 57985,
@@ -3531,7 +3614,8 @@
       "codepoint": 58001,
       "fontFamily": "TokenBranded",
       "identifier": "insur",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "int": {
       "codepoint": 58002,
@@ -3547,13 +3631,15 @@
       "codepoint": 58964,
       "fontFamily": "TokenBranded",
       "identifier": "inv",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ion": {
       "codepoint": 58004,
       "fontFamily": "TokenBranded",
       "identifier": "ion",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ionx": {
       "codepoint": 58005,
@@ -3589,7 +3675,8 @@
       "codepoint": 58965,
       "fontFamily": "TokenBranded",
       "identifier": "iq",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "iris": {
       "codepoint": 58011,
@@ -3625,7 +3712,8 @@
       "codepoint": 58966,
       "fontFamily": "TokenBranded",
       "identifier": "ixt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "japan-open-chain": {
       "codepoint": 58017,
@@ -3681,13 +3769,15 @@
       "codepoint": 58967,
       "fontFamily": "TokenBranded",
       "identifier": "jungle4eos",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "juno": {
       "codepoint": 58968,
       "fontFamily": "TokenBranded",
       "identifier": "juno",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "jup": {
       "codepoint": 58027,
@@ -3698,7 +3788,8 @@
       "codepoint": 58028,
       "fontFamily": "TokenBranded",
       "identifier": "juris",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "k21": {
       "codepoint": 58029,
@@ -3719,13 +3810,15 @@
       "codepoint": 58032,
       "fontFamily": "TokenBranded",
       "identifier": "kakarot",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kan": {
       "codepoint": 58033,
       "fontFamily": "TokenBranded",
       "identifier": "kan",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kap": {
       "codepoint": 58034,
@@ -3971,7 +4064,8 @@
       "codepoint": 58082,
       "fontFamily": "TokenBranded",
       "identifier": "layer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lbr": {
       "codepoint": 58083,
@@ -3987,7 +4081,8 @@
       "codepoint": 58085,
       "fontFamily": "TokenBranded",
       "identifier": "lcr",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lcs": {
       "codepoint": 58086,
@@ -4038,7 +4133,8 @@
       "codepoint": 58095,
       "fontFamily": "TokenBranded",
       "identifier": "libre",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lif3": {
       "codepoint": 58096,
@@ -4089,7 +4185,8 @@
       "codepoint": 58105,
       "fontFamily": "TokenBranded",
       "identifier": "lith",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "litt": {
       "codepoint": 58106,
@@ -4120,7 +4217,8 @@
       "codepoint": 58111,
       "fontFamily": "TokenBranded",
       "identifier": "looks",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "loom": {
       "codepoint": 58112,
@@ -4136,7 +4234,8 @@
       "codepoint": 58969,
       "fontFamily": "TokenBranded",
       "identifier": "lpnt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lpool": {
       "codepoint": 58114,
@@ -4182,7 +4281,8 @@
       "codepoint": 58122,
       "fontFamily": "TokenBranded",
       "identifier": "ltx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lua": {
       "codepoint": 58123,
@@ -4218,7 +4318,8 @@
       "codepoint": 58970,
       "fontFamily": "TokenBranded",
       "identifier": "lunc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lunr": {
       "codepoint": 58129,
@@ -4229,7 +4330,8 @@
       "codepoint": 58971,
       "fontFamily": "TokenBranded",
       "identifier": "lusd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lycan": {
       "codepoint": 58130,
@@ -4240,7 +4342,8 @@
       "codepoint": 58131,
       "fontFamily": "TokenBranded",
       "identifier": "lym",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lyra": {
       "codepoint": 58132,
@@ -4381,7 +4484,8 @@
       "codepoint": 58159,
       "fontFamily": "TokenBranded",
       "identifier": "mdt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mdx": {
       "codepoint": 58160,
@@ -4397,7 +4501,8 @@
       "codepoint": 58162,
       "fontFamily": "TokenBranded",
       "identifier": "med",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "media": {
       "codepoint": 58163,
@@ -4483,13 +4588,15 @@
       "codepoint": 58972,
       "fontFamily": "TokenBranded",
       "identifier": "milkomedaA1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "milkomeda-c1": {
       "codepoint": 58973,
       "fontFamily": "TokenBranded",
       "identifier": "milkomedaC1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mimatic": {
       "codepoint": 58179,
@@ -4530,7 +4637,8 @@
       "codepoint": 58186,
       "fontFamily": "TokenBranded",
       "identifier": "mintme",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "minu": {
       "codepoint": 58187,
@@ -4596,7 +4704,8 @@
       "codepoint": 58974,
       "fontFamily": "TokenBranded",
       "identifier": "mnd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mngo": {
       "codepoint": 58199,
@@ -4617,7 +4726,8 @@
       "codepoint": 58202,
       "fontFamily": "TokenBranded",
       "identifier": "mntl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mnw": {
       "codepoint": 58203,
@@ -4648,7 +4758,8 @@
       "codepoint": 58975,
       "fontFamily": "TokenBranded",
       "identifier": "mod",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mode": {
       "codepoint": 58208,
@@ -4689,19 +4800,22 @@
       "codepoint": 58215,
       "fontFamily": "TokenBranded",
       "identifier": "moonbeam",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "moonrive": {
       "codepoint": 58976,
       "fontFamily": "TokenBranded",
       "identifier": "moonrive",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "moonriver": {
       "codepoint": 58977,
       "fontFamily": "TokenBranded",
       "identifier": "moonriver",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "moov": {
       "codepoint": 58216,
@@ -4712,7 +4826,8 @@
       "codepoint": 58217,
       "fontFamily": "TokenBranded",
       "identifier": "mork",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "move": {
       "codepoint": 58218,
@@ -4728,7 +4843,8 @@
       "codepoint": 58978,
       "fontFamily": "TokenBranded",
       "identifier": "movr",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mpl": {
       "codepoint": 58220,
@@ -4784,7 +4900,8 @@
       "codepoint": 58230,
       "fontFamily": "TokenBranded",
       "identifier": "mtv",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mtvt": {
       "codepoint": 58231,
@@ -4795,7 +4912,8 @@
       "codepoint": 58979,
       "fontFamily": "TokenBranded",
       "identifier": "mudol2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "multiversx": {
       "codepoint": 58232,
@@ -4821,7 +4939,8 @@
       "codepoint": 58980,
       "fontFamily": "TokenBranded",
       "identifier": "mute",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mv": {
       "codepoint": 58236,
@@ -4837,7 +4956,8 @@
       "codepoint": 58238,
       "fontFamily": "TokenBranded",
       "identifier": "mvl",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mvx": {
       "codepoint": 58239,
@@ -4863,7 +4983,8 @@
       "codepoint": 58243,
       "fontFamily": "TokenBranded",
       "identifier": "myEtherWallet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "myria": {
       "codepoint": 58244,
@@ -4929,7 +5050,8 @@
       "codepoint": 58256,
       "fontFamily": "TokenBranded",
       "identifier": "nblu",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nbt": {
       "codepoint": 58257,
@@ -4950,7 +5072,8 @@
       "codepoint": 58981,
       "fontFamily": "TokenBranded",
       "identifier": "nct",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "near": {
       "codepoint": 58260,
@@ -4976,7 +5099,8 @@
       "codepoint": 58264,
       "fontFamily": "TokenBranded",
       "identifier": "neo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "neo-x": {
       "codepoint": 58265,
@@ -5077,7 +5201,8 @@
       "codepoint": 58284,
       "fontFamily": "TokenBranded",
       "identifier": "nmx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nodl": {
       "codepoint": 58285,
@@ -5093,13 +5218,15 @@
       "codepoint": 58287,
       "fontFamily": "TokenBranded",
       "identifier": "nom",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nord": {
       "codepoint": 58288,
       "fontFamily": "TokenBranded",
       "identifier": "nord",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nos": {
       "codepoint": 58289,
@@ -5120,7 +5247,8 @@
       "codepoint": 58292,
       "fontFamily": "TokenBranded",
       "identifier": "nrch",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nrg": {
       "codepoint": 58293,
@@ -5131,7 +5259,8 @@
       "codepoint": 58294,
       "fontFamily": "TokenBranded",
       "identifier": "nsbt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "nsfw": {
       "codepoint": 58295,
@@ -5272,7 +5401,8 @@
       "codepoint": 58322,
       "fontFamily": "TokenBranded",
       "identifier": "olt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "om": {
       "codepoint": 58323,
@@ -5419,7 +5549,8 @@
       "codepoint": 58351,
       "fontFamily": "TokenBranded",
       "identifier": "oxb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "oxen": {
       "codepoint": 58352,
@@ -5445,7 +5576,8 @@
       "codepoint": 58356,
       "fontFamily": "TokenBranded",
       "identifier": "paal",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pac": {
       "codepoint": 58357,
@@ -5526,7 +5658,8 @@
       "codepoint": 58372,
       "fontFamily": "TokenBranded",
       "identifier": "pdex",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pdt": {
       "codepoint": 58373,
@@ -5547,7 +5680,8 @@
       "codepoint": 58376,
       "fontFamily": "TokenBranded",
       "identifier": "pendle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "people": {
       "codepoint": 58377,
@@ -5653,19 +5787,22 @@
       "codepoint": 58982,
       "fontFamily": "TokenBranded",
       "identifier": "pkt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pla": {
       "codepoint": 58397,
       "fontFamily": "TokenBranded",
       "identifier": "pla",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "planets": {
       "codepoint": 58398,
       "fontFamily": "TokenBranded",
       "identifier": "planets",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "plasma": {
       "codepoint": 58399,
@@ -5711,7 +5848,8 @@
       "codepoint": 58407,
       "fontFamily": "TokenBranded",
       "identifier": "ply",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pmon": {
       "codepoint": 58408,
@@ -5722,7 +5860,8 @@
       "codepoint": 58409,
       "fontFamily": "TokenBranded",
       "identifier": "png",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pnk": {
       "codepoint": 58410,
@@ -5753,7 +5892,8 @@
       "codepoint": 58983,
       "fontFamily": "TokenBranded",
       "identifier": "polx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "poly": {
       "codepoint": 58415,
@@ -5794,7 +5934,8 @@
       "codepoint": 58984,
       "fontFamily": "TokenBranded",
       "identifier": "pond",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pooh": {
       "codepoint": 58422,
@@ -5920,7 +6061,8 @@
       "codepoint": 58446,
       "fontFamily": "TokenBranded",
       "identifier": "pstake",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pswap": {
       "codepoint": 58447,
@@ -5946,7 +6088,8 @@
       "codepoint": 58451,
       "fontFamily": "TokenBranded",
       "identifier": "pumlx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pundix": {
       "codepoint": 58452,
@@ -5957,7 +6100,8 @@
       "codepoint": 58985,
       "fontFamily": "TokenBranded",
       "identifier": "purse",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "push": {
       "codepoint": 58453,
@@ -6003,7 +6147,8 @@
       "codepoint": 58461,
       "fontFamily": "TokenBranded",
       "identifier": "qanx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qash": {
       "codepoint": 58462,
@@ -6114,7 +6259,8 @@
       "codepoint": 58483,
       "fontFamily": "TokenBranded",
       "identifier": "rake",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ram": {
       "codepoint": 58484,
@@ -6125,7 +6271,8 @@
       "codepoint": 58485,
       "fontFamily": "TokenBranded",
       "identifier": "ramp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rare": {
       "codepoint": 58486,
@@ -6156,7 +6303,8 @@
       "codepoint": 58986,
       "fontFamily": "TokenBranded",
       "identifier": "rbd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rbif": {
       "codepoint": 58491,
@@ -6202,7 +6350,8 @@
       "codepoint": 58987,
       "fontFamily": "TokenBranded",
       "identifier": "reef",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ref": {
       "codepoint": 58499,
@@ -6213,13 +6362,15 @@
       "codepoint": 58500,
       "fontFamily": "TokenBranded",
       "identifier": "rep",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "req": {
       "codepoint": 58988,
       "fontFamily": "TokenBranded",
       "identifier": "req",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ret": {
       "codepoint": 58501,
@@ -6340,7 +6491,8 @@
       "codepoint": 58524,
       "fontFamily": "TokenBranded",
       "identifier": "rollux",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rome": {
       "codepoint": 58525,
@@ -6366,7 +6518,8 @@
       "codepoint": 58989,
       "fontFamily": "TokenBranded",
       "identifier": "rpg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rpl": {
       "codepoint": 58529,
@@ -6492,7 +6645,8 @@
       "codepoint": 58990,
       "fontFamily": "TokenBranded",
       "identifier": "sbd",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sc": {
       "codepoint": 58553,
@@ -6508,7 +6662,8 @@
       "codepoint": 58555,
       "fontFamily": "TokenBranded",
       "identifier": "scb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sclp": {
       "codepoint": 58556,
@@ -6769,7 +6924,8 @@
       "codepoint": 58991,
       "fontFamily": "TokenBranded",
       "identifier": "sn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "snail": {
       "codepoint": 58607,
@@ -6801,7 +6957,8 @@
       "codepoint": 58612,
       "fontFamily": "TokenBranded",
       "identifier": "socks",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sol": {
       "codepoint": 58613,
@@ -6952,7 +7109,8 @@
       "codepoint": 58642,
       "fontFamily": "TokenBranded",
       "identifier": "ssv",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sswp": {
       "codepoint": 58643,
@@ -6988,7 +7146,8 @@
       "codepoint": 58992,
       "fontFamily": "TokenBranded",
       "identifier": "stbu",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stellar": {
       "codepoint": 58649,
@@ -7004,7 +7163,8 @@
       "codepoint": 58993,
       "fontFamily": "TokenBranded",
       "identifier": "stg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stima": {
       "codepoint": 58651,
@@ -7025,7 +7185,8 @@
       "codepoint": 58654,
       "fontFamily": "TokenBranded",
       "identifier": "stpt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "strax": {
       "codepoint": 58655,
@@ -7086,7 +7247,8 @@
       "codepoint": 58994,
       "fontFamily": "TokenBranded",
       "identifier": "supraMovevm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "susd": {
       "codepoint": 58666,
@@ -7108,7 +7270,8 @@
       "codepoint": 58995,
       "fontFamily": "TokenBranded",
       "identifier": "suter",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "swap": {
       "codepoint": 58669,
@@ -7159,7 +7322,8 @@
       "codepoint": 58996,
       "fontFamily": "TokenBranded",
       "identifier": "sylo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "symbiosis": {
       "codepoint": 58678,
@@ -7230,13 +7394,15 @@
       "codepoint": 58691,
       "fontFamily": "TokenBranded",
       "identifier": "terraClassic",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tetu": {
       "codepoint": 58692,
       "fontFamily": "TokenBranded",
       "identifier": "tetu",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tfuel": {
       "codepoint": 58693,
@@ -7337,13 +7503,15 @@
       "codepoint": 58712,
       "fontFamily": "TokenBranded",
       "identifier": "tko",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tkp": {
       "codepoint": 58713,
       "fontFamily": "TokenBranded",
       "identifier": "tkp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tlm": {
       "codepoint": 58714,
@@ -7454,7 +7622,8 @@
       "codepoint": 58997,
       "fontFamily": "TokenBranded",
       "identifier": "trc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "trcl": {
       "codepoint": 58735,
@@ -7465,7 +7634,8 @@
       "codepoint": 58998,
       "fontFamily": "TokenBranded",
       "identifier": "treasure",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tree": {
       "codepoint": 58736,
@@ -7476,7 +7646,8 @@
       "codepoint": 58999,
       "fontFamily": "TokenBranded",
       "identifier": "treeb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "trezor": {
       "codepoint": 58737,
@@ -7627,7 +7798,8 @@
       "codepoint": 58766,
       "fontFamily": "TokenBranded",
       "identifier": "unfi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "uni": {
       "codepoint": 58767,
@@ -7668,7 +7840,8 @@
       "codepoint": 59000,
       "fontFamily": "TokenBranded",
       "identifier": "upbit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "upp": {
       "codepoint": 58774,
@@ -7689,13 +7862,15 @@
       "codepoint": 59001,
       "fontFamily": "TokenBranded",
       "identifier": "urus",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "usdc": {
       "codepoint": 58777,
       "fontFamily": "TokenBranded",
       "identifier": "usdc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "usdd": {
       "codepoint": 58778,
@@ -7711,7 +7886,8 @@
       "codepoint": 58780,
       "fontFamily": "TokenBranded",
       "identifier": "usdx",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ush": {
       "codepoint": 58781,
@@ -7722,7 +7898,8 @@
       "codepoint": 58782,
       "fontFamily": "TokenBranded",
       "identifier": "usn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "utk": {
       "codepoint": 58783,
@@ -7848,7 +8025,8 @@
       "codepoint": 59002,
       "fontFamily": "TokenBranded",
       "identifier": "vine",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vinu": {
       "codepoint": 58807,
@@ -7874,7 +8052,8 @@
       "codepoint": 58811,
       "fontFamily": "TokenBranded",
       "identifier": "vix",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vlx": {
       "codepoint": 58812,
@@ -7925,7 +8104,8 @@
       "codepoint": 58821,
       "fontFamily": "TokenBranded",
       "identifier": "vtho",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "vv": {
       "codepoint": 58822,
@@ -7971,7 +8151,8 @@
       "codepoint": 59003,
       "fontFamily": "TokenBranded",
       "identifier": "wallet3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wallet-connect": {
       "codepoint": 58830,
@@ -7992,7 +8173,8 @@
       "codepoint": 59004,
       "fontFamily": "TokenBranded",
       "identifier": "wan",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wbeth": {
       "codepoint": 58833,
@@ -8058,7 +8240,8 @@
       "codepoint": 58845,
       "fontFamily": "TokenBranded",
       "identifier": "win",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wing": {
       "codepoint": 58846,
@@ -8069,7 +8252,8 @@
       "codepoint": 58847,
       "fontFamily": "TokenBranded",
       "identifier": "wise",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "witch": {
       "codepoint": 58848,
@@ -8085,7 +8269,8 @@
       "codepoint": 59005,
       "fontFamily": "TokenBranded",
       "identifier": "wlkn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wndr": {
       "codepoint": 58850,
@@ -8096,7 +8281,8 @@
       "codepoint": 58851,
       "fontFamily": "TokenBranded",
       "identifier": "wnk",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wnt": {
       "codepoint": 58852,
@@ -8117,7 +8303,8 @@
       "codepoint": 58855,
       "fontFamily": "TokenBranded",
       "identifier": "wombat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "woof": {
       "codepoint": 58856,
@@ -8133,7 +8320,8 @@
       "codepoint": 58858,
       "fontFamily": "TokenBranded",
       "identifier": "wow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wozx": {
       "codepoint": 58859,
@@ -8175,7 +8363,8 @@
       "codepoint": 58866,
       "fontFamily": "TokenBranded",
       "identifier": "xaut",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "xava": {
       "codepoint": 58867,
@@ -8211,7 +8400,8 @@
       "codepoint": 58873,
       "fontFamily": "TokenBranded",
       "identifier": "xdc",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "xdefi": {
       "codepoint": 58874,
@@ -8318,7 +8508,8 @@
       "codepoint": 58894,
       "fontFamily": "TokenBranded",
       "identifier": "xprt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "xpx": {
       "codepoint": 58895,
@@ -8369,7 +8560,8 @@
       "codepoint": 59006,
       "fontFamily": "TokenBranded",
       "identifier": "xwin",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "xy": {
       "codepoint": 58904,
@@ -8435,7 +8627,8 @@
       "codepoint": 58916,
       "fontFamily": "TokenBranded",
       "identifier": "zat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zbc": {
       "codepoint": 58917,
@@ -8461,13 +8654,15 @@
       "codepoint": 58921,
       "fontFamily": "TokenBranded",
       "identifier": "zero",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zero-network": {
       "codepoint": 59007,
       "fontFamily": "TokenBranded",
       "identifier": "zeroNetwork",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zil": {
       "codepoint": 58922,
@@ -8488,7 +8683,8 @@
       "codepoint": 58925,
       "fontFamily": "TokenBranded",
       "identifier": "zkb",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zkid": {
       "codepoint": 58926,
@@ -8524,7 +8720,8 @@
       "codepoint": 58932,
       "fontFamily": "TokenBranded",
       "identifier": "zoomer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "zora": {
       "codepoint": 58933,

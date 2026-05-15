@@ -41,8 +41,8 @@ class FlagpackIcons {
     IconData(0xe004, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `al` (duo-tone)
-  static const IconifyIconData al = IconifyIconData.duo(
+  /// `al` (paint-order duotone)
+  static const IconifyIconData al = IconifyIconData.duoPaintOrder(
     IconData(0xe0b9, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe0b9, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -107,8 +107,8 @@ class FlagpackIcons {
     IconData(0xe0c2, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `bd` (duo-tone)
-  static const IconifyIconData bd = IconifyIconData.duo(
+  /// `bd` (paint-order duotone)
+  static const IconifyIconData bd = IconifyIconData.duoPaintOrder(
     IconData(0xe00d, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe00d, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -128,8 +128,8 @@ class FlagpackIcons {
     IconData(0xe010, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `bh` (duo-tone)
-  static const IconifyIconData bh = IconifyIconData.duo(
+  /// `bh` (paint-order duotone)
+  static const IconifyIconData bh = IconifyIconData.duoPaintOrder(
     IconData(0xe011, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe011, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -214,8 +214,8 @@ class FlagpackIcons {
     IconData(0xe0c7, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `ca` (duo-tone)
-  static const IconifyIconData ca = IconifyIconData.duo(
+  /// `ca` (paint-order duotone)
+  static const IconifyIconData ca = IconifyIconData.duoPaintOrder(
     IconData(0xe01d, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe01d, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -265,8 +265,8 @@ class FlagpackIcons {
     IconData(0xe024, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `cn` (duo-tone)
-  static const IconifyIconData cn = IconifyIconData.duo(
+  /// `cn` (paint-order duotone)
+  static const IconifyIconData cn = IconifyIconData.duoPaintOrder(
     IconData(0xe025, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe025, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -411,8 +411,8 @@ class FlagpackIcons {
     IconData(0xe036, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `gb` (duo-tone)
-  static const IconifyIconData gb = IconifyIconData.duo(
+  /// `gb` (paint-order duotone)
+  static const IconifyIconData gb = IconifyIconData.duoPaintOrder(
     IconData(0xe037, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe037, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -427,8 +427,8 @@ class FlagpackIcons {
     IconData(0xe0d5, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `gb-sct` (duo-tone)
-  static const IconifyIconData gbSct = IconifyIconData.duo(
+  /// `gb-sct` (paint-order duotone)
+  static const IconifyIconData gbSct = IconifyIconData.duoPaintOrder(
     IconData(0xe0ba, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe0ba, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -498,8 +498,8 @@ class FlagpackIcons {
     IconData(0xe041, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `gr` (duo-tone)
-  static const IconifyIconData gr = IconifyIconData.duo(
+  /// `gr` (paint-order duotone)
+  static const IconifyIconData gr = IconifyIconData.duoPaintOrder(
     IconData(0xe042, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe042, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -614,8 +614,8 @@ class FlagpackIcons {
     IconData(0xe055, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `jm` (duo-tone)
-  static const IconifyIconData jm = IconifyIconData.duo(
+  /// `jm` (paint-order duotone)
+  static const IconifyIconData jm = IconifyIconData.duoPaintOrder(
     IconData(0xe056, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe056, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -730,8 +730,8 @@ class FlagpackIcons {
     IconData(0xe068, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `lv` (duo-tone)
-  static const IconifyIconData lv = IconifyIconData.duo(
+  /// `lv` (paint-order duotone)
+  static const IconifyIconData lv = IconifyIconData.duoPaintOrder(
     IconData(0xe0bb, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe0bb, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -871,14 +871,14 @@ class FlagpackIcons {
     IconData(0xe076, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `nf` (duo-tone)
-  static const IconifyIconData nf = IconifyIconData.duo(
+  /// `nf` (paint-order duotone)
+  static const IconifyIconData nf = IconifyIconData.duoPaintOrder(
     IconData(0xe0bc, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe0bc, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `ng` (duo-tone)
-  static const IconifyIconData ng = IconifyIconData.duo(
+  /// `ng` (paint-order duotone)
+  static const IconifyIconData ng = IconifyIconData.duoPaintOrder(
     IconData(0xe077, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe077, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -993,8 +993,8 @@ class FlagpackIcons {
     IconData(0xe088, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `qa` (duo-tone)
-  static const IconifyIconData qa = IconifyIconData.duo(
+  /// `qa` (paint-order duotone)
+  static const IconifyIconData qa = IconifyIconData.duoPaintOrder(
     IconData(0xe089, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe089, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -1024,8 +1024,8 @@ class FlagpackIcons {
     IconData(0xe08c, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `sa` (duo-tone)
-  static const IconifyIconData sa = IconifyIconData.duo(
+  /// `sa` (paint-order duotone)
+  static const IconifyIconData sa = IconifyIconData.duoPaintOrder(
     IconData(0xe0bd, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe0bd, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -1090,8 +1090,8 @@ class FlagpackIcons {
     IconData(0xe096, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `so` (duo-tone)
-  static const IconifyIconData so = IconifyIconData.duo(
+  /// `so` (paint-order duotone)
+  static const IconifyIconData so = IconifyIconData.duoPaintOrder(
     IconData(0xe097, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe097, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
@@ -1151,8 +1151,8 @@ class FlagpackIcons {
     IconData(0xe0a0, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `th` (duo-tone)
-  static const IconifyIconData th = IconifyIconData.duo(
+  /// `th` (paint-order duotone)
+  static const IconifyIconData th = IconifyIconData.duoPaintOrder(
     IconData(0xe0be, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
     IconData(0xe0be, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );

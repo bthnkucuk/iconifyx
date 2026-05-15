@@ -5385,8 +5385,8 @@ class SolarIcons {
     IconData(0xe3ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `camera-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData cameraMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `camera-minimalistic-bold-duotone` (mask-internal duotone)
+  static const IconifyIconData cameraMinimalisticBoldDuotone = IconifyIconData.duoMaskInternal(
     IconData(0xe3f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
     IconData(0xe3f0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );

@@ -111,8 +111,8 @@ class StreamlineStickiesColorIcons {
     IconData(0xe012, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `bluetooth-duo` (duo-tone)
-  static const IconifyIconData bluetoothDuo = IconifyIconData.duo(
+  /// `bluetooth-duo` (paint-order duotone)
+  static const IconifyIconData bluetoothDuo = IconifyIconData.duoPaintOrder(
     IconData(0xe013, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
     IconData(0xe013, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
@@ -387,8 +387,8 @@ class StreamlineStickiesColorIcons {
     IconData(0xe049, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `help-duo` (duo-tone)
-  static const IconifyIconData helpDuo = IconifyIconData.duo(
+  /// `help-duo` (paint-order duotone)
+  static const IconifyIconData helpDuo = IconifyIconData.duoPaintOrder(
     IconData(0xe04a, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
     IconData(0xe04a, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
@@ -453,8 +453,8 @@ class StreamlineStickiesColorIcons {
     IconData(0xe056, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `love-duo` (duo-tone)
-  static const IconifyIconData loveDuo = IconifyIconData.duo(
+  /// `love-duo` (paint-order duotone)
+  static const IconifyIconData loveDuo = IconifyIconData.duoPaintOrder(
     IconData(0xe057, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
     IconData(0xe057, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
@@ -599,8 +599,8 @@ class StreamlineStickiesColorIcons {
     IconData(0xe073, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `programming-duo` (duo-tone)
-  static const IconifyIconData programmingDuo = IconifyIconData.duo(
+  /// `programming-duo` (paint-order duotone)
+  static const IconifyIconData programmingDuo = IconifyIconData.duoPaintOrder(
     IconData(0xe074, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
     IconData(0xe074, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
@@ -795,8 +795,8 @@ class StreamlineStickiesColorIcons {
     IconData(0xe09a, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `validation-1-duo` (duo-tone)
-  static const IconifyIconData validation1Duo = IconifyIconData.duo(
+  /// `validation-1-duo` (paint-order duotone)
+  static const IconifyIconData validation1Duo = IconifyIconData.duoPaintOrder(
     IconData(0xe09b, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
     IconData(0xe09b, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );

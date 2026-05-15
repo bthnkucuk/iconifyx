@@ -11061,8 +11061,8 @@ class FluentEmojiIcons {
     IconData(0xe8a0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
-  /// `tongue` (duo-tone)
-  static const IconifyIconData tongue = IconifyIconData.duo(
+  /// `tongue` (paint-order duotone)
+  static const IconifyIconData tongue = IconifyIconData.duoPaintOrder(
     IconData(0xead8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
     IconData(0xead8, fontFamily: 'FluentEmojiSecondary', fontPackage: 'iconifyx_fluent_emoji'),
   );

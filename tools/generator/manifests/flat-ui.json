@@ -35,7 +35,8 @@
       "codepoint": 57344,
       "fontFamily": "FlatUi",
       "identifier": "android",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "android1": {
       "codepoint": 57345,
@@ -228,13 +229,15 @@
       "codepoint": 57417,
       "fontFamily": "FlatUi",
       "identifier": "ipad",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "iphone": {
       "codepoint": 57418,
       "fontFamily": "FlatUi",
       "identifier": "iphone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lettersymbol": {
       "codepoint": 57381,
@@ -261,7 +264,8 @@
       "codepoint": 57385,
       "fontFamily": "FlatUi",
       "identifier": "magicmouse",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "map": {
       "codepoint": 57386,
@@ -424,7 +428,8 @@
       "codepoint": 57416,
       "fontFamily": "FlatUi",
       "identifier": "yinyang",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     }
   }
 }

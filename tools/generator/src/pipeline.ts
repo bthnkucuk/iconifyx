@@ -375,6 +375,14 @@ async function processOneSet(
   // secondaryByName for the Secondary font build.
   const secondaryByName = new Map<string, ResolvedIcon>();
   const duotoneNames = new Set<string>();
+  // Track WHICH split path classified each icon, so codegen can emit the
+  // right constructor (`IconifyIconData.duo` vs `.duoPaintOrder` vs
+  // `.duoMaskInternal`) — which in turn drives the runtime widget's
+  // render composition (hint-layer backdrop vs paint-order overlay).
+  const duotoneKindByName = new Map<
+    string,
+    'hint' | 'paintOrder' | 'maskInternal'
+  >();
   for (const r of allResolved) {
     if (!isDuotoneBody(r.body)) continue;
     const { primary, secondary } = splitDuotoneBody(r.body);
@@ -382,6 +390,7 @@ async function processOneSet(
     r.body = primary;
     secondaryByName.set(r.name, { ...r, body: secondary });
     duotoneNames.add(r.name);
+    duotoneKindByName.set(r.name, 'hint');
   }
 
   // Second duotone path: bodies that don't use opacity but DO use two
@@ -400,6 +409,7 @@ async function processOneSet(
     r.body = split.primary;
     secondaryByName.set(r.name, { ...r, body: split.secondary });
     duotoneNames.add(r.name);
+    duotoneKindByName.set(r.name, 'paintOrder');
     twoColorSplitCount += 1;
   }
   if (twoColorSplitCount > 0) {
@@ -426,6 +436,7 @@ async function processOneSet(
     r.body = split.primary;
     secondaryByName.set(r.name, { ...r, body: split.secondary });
     duotoneNames.add(r.name);
+    duotoneKindByName.set(r.name, 'maskInternal');
     maskInternalSplitCount += 1;
   }
   if (maskInternalSplitCount > 0) {
@@ -461,6 +472,10 @@ async function processOneSet(
           r.body = split.primary;
           secondaryByName.set(r.name, { ...r, body: split.secondary });
           duotoneNames.add(r.name);
+          // Colour-mapped 2-stroke split is paint-order semantics —
+          // primary = first colour (typically background), secondary =
+          // second (typically foreground accent).
+          duotoneKindByName.set(r.name, 'paintOrder');
           cmDuo += 1;
           continue;
         }
@@ -673,7 +688,12 @@ async function processOneSet(
   // the same codepoint in the Secondary font as its primary).
   for (const name of duotoneNames) {
     const e = icons[name];
-    if (e && !e.deprecated) e.duotone = true;
+    if (e && !e.deprecated) {
+      e.duotone = true;
+      const kind = duotoneKindByName.get(name);
+      if (kind && kind !== 'hint') e.duotoneKind = kind;
+      else if (e.duotoneKind && kind === 'hint') delete e.duotoneKind;
+    }
   }
   const primaryFamiliesWithDuotone = new Set<string>();
   for (const e of Object.values(icons)) {

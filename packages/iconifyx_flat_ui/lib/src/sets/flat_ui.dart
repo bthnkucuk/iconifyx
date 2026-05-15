@@ -16,8 +16,8 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 class FlatUiIcons {
   const FlatUiIcons._();
 
-  /// `android` (duo-tone)
-  static const IconifyIconData android = IconifyIconData.duo(
+  /// `android` (paint-order duotone)
+  static const IconifyIconData android = IconifyIconData.duoPaintOrder(
     IconData(0xe000, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
     IconData(0xe000, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );
@@ -209,14 +209,14 @@ class FlatUiIcons {
     IconData(0xe024, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
   );
 
-  /// `ipad` (duo-tone)
-  static const IconifyIconData ipad = IconifyIconData.duo(
+  /// `ipad` (paint-order duotone)
+  static const IconifyIconData ipad = IconifyIconData.duoPaintOrder(
     IconData(0xe049, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
     IconData(0xe049, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );
 
-  /// `iphone` (duo-tone)
-  static const IconifyIconData iphone = IconifyIconData.duo(
+  /// `iphone` (paint-order duotone)
+  static const IconifyIconData iphone = IconifyIconData.duoPaintOrder(
     IconData(0xe04a, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
     IconData(0xe04a, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );
@@ -242,8 +242,8 @@ class FlatUiIcons {
     IconData(0xe028, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
   );
 
-  /// `magicmouse` (duo-tone)
-  static const IconifyIconData magicmouse = IconifyIconData.duo(
+  /// `magicmouse` (paint-order duotone)
+  static const IconifyIconData magicmouse = IconifyIconData.duoPaintOrder(
     IconData(0xe029, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
     IconData(0xe029, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );
@@ -405,8 +405,8 @@ class FlatUiIcons {
     IconData(0xe047, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
   );
 
-  /// `yinyang` (duo-tone)
-  static const IconifyIconData yinyang = IconifyIconData.duo(
+  /// `yinyang` (paint-order duotone)
+  static const IconifyIconData yinyang = IconifyIconData.duoPaintOrder(
     IconData(0xe048, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
     IconData(0xe048, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );

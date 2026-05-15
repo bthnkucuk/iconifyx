@@ -50,13 +50,15 @@
       "codepoint": 57347,
       "fontFamily": "GlyphsPoly",
       "identifier": "adjust",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "adjust-1": {
       "codepoint": 57348,
       "fontFamily": "GlyphsPoly",
       "identifier": "adjust1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "alarm-clock": {
       "codepoint": 57349,
@@ -132,7 +134,8 @@
       "codepoint": 58010,
       "fontFamily": "GlyphsPoly",
       "identifier": "analytics",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "anchor": {
       "codepoint": 57363,
@@ -163,7 +166,8 @@
       "codepoint": 58011,
       "fontFamily": "GlyphsPoly",
       "identifier": "apple",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "archive": {
       "codepoint": 57368,
@@ -189,7 +193,8 @@
       "codepoint": 57372,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowLevel",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-line-end": {
       "codepoint": 57373,
@@ -205,19 +210,22 @@
       "codepoint": 57375,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowLong",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-round": {
       "codepoint": 57376,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowRound",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-solid": {
       "codepoint": 57377,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolid",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-solid-bracket-end": {
       "codepoint": 57378,
@@ -238,13 +246,15 @@
       "codepoint": 57381,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidCurve",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-solid-curve-double": {
       "codepoint": 57382,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidCurveDouble",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-solid-line-end": {
       "codepoint": 57383,
@@ -260,73 +270,85 @@
       "codepoint": 58012,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidSquare",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-turn": {
       "codepoint": 57385,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowTurn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrow-u-turn": {
       "codepoint": 57386,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowUTurn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrows-compress-duo": {
       "codepoint": 57387,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsCompressDuo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrows-compress-quad": {
       "codepoint": 57388,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsCompressQuad",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrows-cross": {
       "codepoint": 57389,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsCross",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrows-exchange": {
       "codepoint": 57390,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsExchange",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrows-expand-duo": {
       "codepoint": 57391,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsExpandDuo",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrows-expand-quad": {
       "codepoint": 57392,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsExpandQuad",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrows-round": {
       "codepoint": 57393,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsRound",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrows-route": {
       "codepoint": 57394,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsRoute",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "arrows-split": {
       "codepoint": 57395,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsSplit",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "asterisk": {
       "codepoint": 57396,
@@ -337,7 +359,8 @@
       "codepoint": 58013,
       "fontFamily": "GlyphsPoly",
       "identifier": "axe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "b": {
       "codepoint": 57397,
@@ -353,7 +376,8 @@
       "codepoint": 58014,
       "fontFamily": "GlyphsPoly",
       "identifier": "badge",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bandage": {
       "codepoint": 57399,
@@ -404,7 +428,8 @@
       "codepoint": 57408,
       "fontFamily": "GlyphsPoly",
       "identifier": "baseball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "baseball-1": {
       "codepoint": 57409,
@@ -425,13 +450,15 @@
       "codepoint": 58015,
       "fontFamily": "GlyphsPoly",
       "identifier": "basketball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery": {
       "codepoint": 57412,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-0": {
       "codepoint": 57413,
@@ -442,7 +469,8 @@
       "codepoint": 57414,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-100": {
       "codepoint": 57415,
@@ -453,7 +481,8 @@
       "codepoint": 57416,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-25": {
       "codepoint": 57417,
@@ -464,13 +493,15 @@
       "codepoint": 57418,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-4": {
       "codepoint": 57419,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery4",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-50": {
       "codepoint": 57420,
@@ -486,13 +517,15 @@
       "codepoint": 57422,
       "fontFamily": "GlyphsPoly",
       "identifier": "batteryBolt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-car": {
       "codepoint": 57423,
       "fontFamily": "GlyphsPoly",
       "identifier": "batteryCar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "battery-charge": {
       "codepoint": 57424,
@@ -533,31 +566,36 @@
       "codepoint": 57431,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierDiamond",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bezier-hexagon": {
       "codepoint": 57432,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierHexagon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bezier-pentagon": {
       "codepoint": 57433,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierPentagon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bezier-square": {
       "codepoint": 57434,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierSquare",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bezier-triangle": {
       "codepoint": 57435,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierTriangle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "binoculars": {
       "codepoint": 57436,
@@ -578,19 +616,22 @@
       "codepoint": 57439,
       "fontFamily": "GlyphsPoly",
       "identifier": "bolt",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bolt-1": {
       "codepoint": 57440,
       "fontFamily": "GlyphsPoly",
       "identifier": "bolt1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "book": {
       "codepoint": 58016,
       "fontFamily": "GlyphsPoly",
       "identifier": "book",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "book-atlas": {
       "codepoint": 57441,
@@ -601,7 +642,8 @@
       "codepoint": 58017,
       "fontFamily": "GlyphsPoly",
       "identifier": "bookOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "book-side": {
       "codepoint": 57442,
@@ -617,13 +659,15 @@
       "codepoint": 58018,
       "fontFamily": "GlyphsPoly",
       "identifier": "bookmark",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "bookmarks": {
       "codepoint": 58019,
       "fontFamily": "GlyphsPoly",
       "identifier": "bookmarks",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "books": {
       "codepoint": 57444,
@@ -634,7 +678,8 @@
       "codepoint": 57445,
       "fontFamily": "GlyphsPoly",
       "identifier": "border",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "border-all": {
       "codepoint": 57446,
@@ -645,13 +690,15 @@
       "codepoint": 57447,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderCenter",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "border-inner": {
       "codepoint": 57448,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderInner",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "border-none": {
       "codepoint": 57449,
@@ -662,19 +709,22 @@
       "codepoint": 57450,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderOuter",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "border-style": {
       "codepoint": 57451,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderStyle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "box": {
       "codepoint": 58020,
       "fontFamily": "GlyphsPoly",
       "identifier": "box",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "box-1": {
       "codepoint": 57452,
@@ -690,31 +740,36 @@
       "codepoint": 57454,
       "fontFamily": "GlyphsPoly",
       "identifier": "boxLayout2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "box-layout-3": {
       "codepoint": 57455,
       "fontFamily": "GlyphsPoly",
       "identifier": "boxLayout3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "box-layout-4": {
       "codepoint": 57456,
       "fontFamily": "GlyphsPoly",
       "identifier": "boxLayout4",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "boxing-glove": {
       "codepoint": 58021,
       "fontFamily": "GlyphsPoly",
       "identifier": "boxingGlove",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "brain": {
       "codepoint": 57457,
       "fontFamily": "GlyphsPoly",
       "identifier": "brain",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "briefcase": {
       "codepoint": 57458,
@@ -725,7 +780,8 @@
       "codepoint": 57459,
       "fontFamily": "GlyphsPoly",
       "identifier": "briefcase1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "briefcase-medical": {
       "codepoint": 57460,
@@ -756,7 +812,8 @@
       "codepoint": 58022,
       "fontFamily": "GlyphsPoly",
       "identifier": "burn",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "calculator": {
       "codepoint": 57465,
@@ -772,13 +829,15 @@
       "codepoint": 58023,
       "fontFamily": "GlyphsPoly",
       "identifier": "camcorder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camera": {
       "codepoint": 57467,
       "fontFamily": "GlyphsPoly",
       "identifier": "camera",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "camp": {
       "codepoint": 57468,
@@ -799,7 +858,8 @@
       "codepoint": 58024,
       "fontFamily": "GlyphsPoly",
       "identifier": "canoe2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "car": {
       "codepoint": 57471,
@@ -845,7 +905,8 @@
       "codepoint": 58025,
       "fontFamily": "GlyphsPoly",
       "identifier": "caretSquare",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "celsius": {
       "codepoint": 57479,
@@ -866,7 +927,8 @@
       "codepoint": 58026,
       "fontFamily": "GlyphsPoly",
       "identifier": "certificate",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "certificate-scroll": {
       "codepoint": 57482,
@@ -897,7 +959,8 @@
       "codepoint": 57487,
       "fontFamily": "GlyphsPoly",
       "identifier": "chartPieSlice",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "check": {
       "codepoint": 57488,
@@ -948,13 +1011,15 @@
       "codepoint": 57497,
       "fontFamily": "GlyphsPoly",
       "identifier": "child",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "circle": {
       "codepoint": 57498,
       "fontFamily": "GlyphsPoly",
       "identifier": "circle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "circle-half": {
       "codepoint": 57499,
@@ -965,13 +1030,15 @@
       "codepoint": 57500,
       "fontFamily": "GlyphsPoly",
       "identifier": "circleHalf1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "circle-half-2": {
       "codepoint": 57501,
       "fontFamily": "GlyphsPoly",
       "identifier": "circleHalf2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cli": {
       "codepoint": 57502,
@@ -992,7 +1059,8 @@
       "codepoint": 57505,
       "fontFamily": "GlyphsPoly",
       "identifier": "clock1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "clock-fast": {
       "codepoint": 57506,
@@ -1003,19 +1071,22 @@
       "codepoint": 57507,
       "fontFamily": "GlyphsPoly",
       "identifier": "cloud",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloud-1": {
       "codepoint": 57508,
       "fontFamily": "GlyphsPoly",
       "identifier": "cloud1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloudy": {
       "codepoint": 57509,
       "fontFamily": "GlyphsPoly",
       "identifier": "cloudy",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cloudy-mostly": {
       "codepoint": 57510,
@@ -1026,13 +1097,15 @@
       "codepoint": 57511,
       "fontFamily": "GlyphsPoly",
       "identifier": "cloudyPartly",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "club": {
       "codepoint": 57512,
       "fontFamily": "GlyphsPoly",
       "identifier": "club",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "code": {
       "codepoint": 57513,
@@ -1058,13 +1131,15 @@
       "codepoint": 57517,
       "fontFamily": "GlyphsPoly",
       "identifier": "cogs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cogwheel": {
       "codepoint": 57518,
       "fontFamily": "GlyphsPoly",
       "identifier": "cogwheel",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "columns-1": {
       "codepoint": 57519,
@@ -1075,7 +1150,8 @@
       "codepoint": 57520,
       "fontFamily": "GlyphsPoly",
       "identifier": "columns2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "columns-3": {
       "codepoint": 57521,
@@ -1086,25 +1162,29 @@
       "codepoint": 57522,
       "fontFamily": "GlyphsPoly",
       "identifier": "comment",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "comment-1": {
       "codepoint": 57523,
       "fontFamily": "GlyphsPoly",
       "identifier": "comment1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "comment-2": {
       "codepoint": 58027,
       "fontFamily": "GlyphsPoly",
       "identifier": "comment2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "comment-3": {
       "codepoint": 58028,
       "fontFamily": "GlyphsPoly",
       "identifier": "comment3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "comment-add": {
       "codepoint": 57524,
@@ -1140,7 +1220,8 @@
       "codepoint": 57530,
       "fontFamily": "GlyphsPoly",
       "identifier": "copy1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "copy-2": {
       "codepoint": 57531,
@@ -1171,25 +1252,29 @@
       "codepoint": 58029,
       "fontFamily": "GlyphsPoly",
       "identifier": "cross",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "cross-christian": {
       "codepoint": 57536,
       "fontFamily": "GlyphsPoly",
       "identifier": "crossChristian",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crosshairs": {
       "codepoint": 57537,
       "fontFamily": "GlyphsPoly",
       "identifier": "crosshairs",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crosshairs-1": {
       "codepoint": 57538,
       "fontFamily": "GlyphsPoly",
       "identifier": "crosshairs1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "crown": {
       "codepoint": 57539,
@@ -1230,13 +1315,15 @@
       "codepoint": 58030,
       "fontFamily": "GlyphsPoly",
       "identifier": "diamond",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "diamond-1": {
       "codepoint": 57546,
       "fontFamily": "GlyphsPoly",
       "identifier": "diamond1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dice": {
       "codepoint": 57547,
@@ -1247,49 +1334,57 @@
       "codepoint": 57548,
       "fontFamily": "GlyphsPoly",
       "identifier": "die",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "die-1": {
       "codepoint": 57549,
       "fontFamily": "GlyphsPoly",
       "identifier": "die1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "die-2": {
       "codepoint": 57550,
       "fontFamily": "GlyphsPoly",
       "identifier": "die2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "die-3": {
       "codepoint": 57551,
       "fontFamily": "GlyphsPoly",
       "identifier": "die3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "die-4": {
       "codepoint": 57552,
       "fontFamily": "GlyphsPoly",
       "identifier": "die4",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "die-5": {
       "codepoint": 57553,
       "fontFamily": "GlyphsPoly",
       "identifier": "die5",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "directions-sign": {
       "codepoint": 57554,
       "fontFamily": "GlyphsPoly",
       "identifier": "directionsSign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "directions-sign-1": {
       "codepoint": 58031,
       "fontFamily": "GlyphsPoly",
       "identifier": "directionsSign1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "discount": {
       "codepoint": 57555,
@@ -1320,13 +1415,15 @@
       "codepoint": 57560,
       "fontFamily": "GlyphsPoly",
       "identifier": "dollarBill",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dollar-bill-wave": {
       "codepoint": 57561,
       "fontFamily": "GlyphsPoly",
       "identifier": "dollarBillWave",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dollar-bills": {
       "codepoint": 57562,
@@ -1347,7 +1444,8 @@
       "codepoint": 57565,
       "fontFamily": "GlyphsPoly",
       "identifier": "droplet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "dslr": {
       "codepoint": 57566,
@@ -1368,7 +1466,8 @@
       "codepoint": 57569,
       "fontFamily": "GlyphsPoly",
       "identifier": "eject",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "electric-scooter": {
       "codepoint": 57570,
@@ -1384,19 +1483,22 @@
       "codepoint": 57572,
       "fontFamily": "GlyphsPoly",
       "identifier": "ellipsisCircle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ellipsis-square": {
       "codepoint": 57573,
       "fontFamily": "GlyphsPoly",
       "identifier": "ellipsisSquare",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "envelope": {
       "codepoint": 57574,
       "fontFamily": "GlyphsPoly",
       "identifier": "envelope",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "envelope-front": {
       "codepoint": 57575,
@@ -1407,7 +1509,8 @@
       "codepoint": 57576,
       "fontFamily": "GlyphsPoly",
       "identifier": "envelopeOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "envelope-open-note": {
       "codepoint": 57577,
@@ -1428,7 +1531,8 @@
       "codepoint": 57580,
       "fontFamily": "GlyphsPoly",
       "identifier": "exclude",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "exposure": {
       "codepoint": 57581,
@@ -1474,13 +1578,15 @@
       "codepoint": 57589,
       "fontFamily": "GlyphsPoly",
       "identifier": "female",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file": {
       "codepoint": 57590,
       "fontFamily": "GlyphsPoly",
       "identifier": "file",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-add": {
       "codepoint": 57591,
@@ -1516,19 +1622,22 @@
       "codepoint": 57597,
       "fontFamily": "GlyphsPoly",
       "identifier": "filter",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fire": {
       "codepoint": 58032,
       "fontFamily": "GlyphsPoly",
       "identifier": "fire",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fire-1": {
       "codepoint": 58033,
       "fontFamily": "GlyphsPoly",
       "identifier": "fire1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "flag": {
       "codepoint": 57598,
@@ -1559,25 +1668,29 @@
       "codepoint": 57603,
       "fontFamily": "GlyphsPoly",
       "identifier": "fog",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "fog-1": {
       "codepoint": 57604,
       "fontFamily": "GlyphsPoly",
       "identifier": "fog1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder": {
       "codepoint": 58034,
       "fontFamily": "GlyphsPoly",
       "identifier": "folder",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-open": {
       "codepoint": 57605,
       "fontFamily": "GlyphsPoly",
       "identifier": "folderOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-open-1": {
       "codepoint": 57606,
@@ -1588,13 +1701,15 @@
       "codepoint": 58035,
       "fontFamily": "GlyphsPoly",
       "identifier": "font",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "foot-print": {
       "codepoint": 57607,
       "fontFamily": "GlyphsPoly",
       "identifier": "footPrint",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "frown": {
       "codepoint": 57608,
@@ -1640,79 +1755,92 @@
       "codepoint": 57616,
       "fontFamily": "GlyphsPoly",
       "identifier": "globe",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-africa": {
       "codepoint": 57617,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeAfrica",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-americas": {
       "codepoint": 57618,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeAmericas",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-asia": {
       "codepoint": 57619,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeAsia",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-earth": {
       "codepoint": 57620,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeEarth",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-east": {
       "codepoint": 57621,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeEast",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-europe": {
       "codepoint": 57622,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeEurope",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-middle": {
       "codepoint": 57623,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeMiddle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-north-america": {
       "codepoint": 57624,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeNorthAmerica",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-oceania": {
       "codepoint": 57625,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeOceania",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-south-america": {
       "codepoint": 57626,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeSouthAmerica",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-stand": {
       "codepoint": 58036,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeStand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "globe-west": {
       "codepoint": 57627,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeWest",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "graduation-cap": {
       "codepoint": 57628,
@@ -1723,7 +1851,8 @@
       "codepoint": 57629,
       "fontFamily": "GlyphsPoly",
       "identifier": "grid",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "grid-1": {
       "codepoint": 57630,
@@ -1739,13 +1868,15 @@
       "codepoint": 57632,
       "fontFamily": "GlyphsPoly",
       "identifier": "gridLg",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "grid-list": {
       "codepoint": 57633,
       "fontFamily": "GlyphsPoly",
       "identifier": "gridList",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "grid-remove": {
       "codepoint": 57634,
@@ -1756,7 +1887,8 @@
       "codepoint": 57635,
       "fontFamily": "GlyphsPoly",
       "identifier": "gridSm",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "grin": {
       "codepoint": 57636,
@@ -1822,31 +1954,36 @@
       "codepoint": 57648,
       "fontFamily": "GlyphsPoly",
       "identifier": "h1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "h-2": {
       "codepoint": 57649,
       "fontFamily": "GlyphsPoly",
       "identifier": "h2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "h-3": {
       "codepoint": 57650,
       "fontFamily": "GlyphsPoly",
       "identifier": "h3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "h-4": {
       "codepoint": 57651,
       "fontFamily": "GlyphsPoly",
       "identifier": "h4",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hammer": {
       "codepoint": 57652,
       "fontFamily": "GlyphsPoly",
       "identifier": "hammer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand": {
       "codepoint": 57653,
@@ -1872,13 +2009,15 @@
       "codepoint": 57657,
       "fontFamily": "GlyphsPoly",
       "identifier": "handHoldingDollar",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-holding-heart": {
       "codepoint": 57658,
       "fontFamily": "GlyphsPoly",
       "identifier": "handHoldingHeart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-holding-seedling": {
       "codepoint": 57659,
@@ -1889,7 +2028,8 @@
       "codepoint": 57660,
       "fontFamily": "GlyphsPoly",
       "identifier": "handHoldingWater",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "hand-horns": {
       "codepoint": 57661,
@@ -1945,61 +2085,71 @@
       "codepoint": 57671,
       "fontFamily": "GlyphsPoly",
       "identifier": "headphones",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart": {
       "codepoint": 58037,
       "fontFamily": "GlyphsPoly",
       "identifier": "heart",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-1": {
       "codepoint": 58038,
       "fontFamily": "GlyphsPoly",
       "identifier": "heart1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-half": {
       "codepoint": 58039,
       "fontFamily": "GlyphsPoly",
       "identifier": "heartHalf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-half-1": {
       "codepoint": 57672,
       "fontFamily": "GlyphsPoly",
       "identifier": "heartHalf1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-half-2": {
       "codepoint": 57673,
       "fontFamily": "GlyphsPoly",
       "identifier": "heartHalf2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-hands": {
       "codepoint": 58040,
       "fontFamily": "GlyphsPoly",
       "identifier": "heartHands",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heart-sparkles": {
       "codepoint": 58041,
       "fontFamily": "GlyphsPoly",
       "identifier": "heartSparkles",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heartbeat": {
       "codepoint": 58042,
       "fontFamily": "GlyphsPoly",
       "identifier": "heartbeat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "heartbreak": {
       "codepoint": 58043,
       "fontFamily": "GlyphsPoly",
       "identifier": "heartbreak",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "helicopter": {
       "codepoint": 57674,
@@ -2010,7 +2160,8 @@
       "codepoint": 57675,
       "fontFamily": "GlyphsPoly",
       "identifier": "hexagon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "history": {
       "codepoint": 57676,
@@ -2091,7 +2242,8 @@
       "codepoint": 57691,
       "fontFamily": "GlyphsPoly",
       "identifier": "hurricane",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "icons-1": {
       "codepoint": 57692,
@@ -2112,13 +2264,15 @@
       "codepoint": 57695,
       "fontFamily": "GlyphsPoly",
       "identifier": "inbox",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "inbox-1": {
       "codepoint": 57696,
       "fontFamily": "GlyphsPoly",
       "identifier": "inbox1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "info-circle": {
       "codepoint": 57697,
@@ -2154,13 +2308,15 @@
       "codepoint": 58044,
       "fontFamily": "GlyphsPoly",
       "identifier": "keyboard",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "keycap": {
       "codepoint": 58045,
       "fontFamily": "GlyphsPoly",
       "identifier": "keycap",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "kick-scooter": {
       "codepoint": 57703,
@@ -2201,7 +2357,8 @@
       "codepoint": 57710,
       "fontFamily": "GlyphsPoly",
       "identifier": "laptop",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "laptop-cli": {
       "codepoint": 57711,
@@ -2262,7 +2419,8 @@
       "codepoint": 57722,
       "fontFamily": "GlyphsPoly",
       "identifier": "layerGroup",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "layer-minus": {
       "codepoint": 57723,
@@ -2288,13 +2446,15 @@
       "codepoint": 58046,
       "fontFamily": "GlyphsPoly",
       "identifier": "leaf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "life-ring": {
       "codepoint": 57727,
       "fontFamily": "GlyphsPoly",
       "identifier": "lifeRing",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "light-switch": {
       "codepoint": 57728,
@@ -2305,13 +2465,15 @@
       "codepoint": 57729,
       "fontFamily": "GlyphsPoly",
       "identifier": "lightning",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lightning-1": {
       "codepoint": 57730,
       "fontFamily": "GlyphsPoly",
       "identifier": "lightning1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "line": {
       "codepoint": 57731,
@@ -2327,43 +2489,50 @@
       "codepoint": 57733,
       "fontFamily": "GlyphsPoly",
       "identifier": "link1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "location-arrow": {
       "codepoint": 57734,
       "fontFamily": "GlyphsPoly",
       "identifier": "locationArrow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lock": {
       "codepoint": 57735,
       "fontFamily": "GlyphsPoly",
       "identifier": "lock",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lock-open": {
       "codepoint": 57736,
       "fontFamily": "GlyphsPoly",
       "identifier": "lockOpen",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lock-open-1": {
       "codepoint": 57737,
       "fontFamily": "GlyphsPoly",
       "identifier": "lockOpen1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "loveseat": {
       "codepoint": 57738,
       "fontFamily": "GlyphsPoly",
       "identifier": "loveseat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "magnet": {
       "codepoint": 58047,
       "fontFamily": "GlyphsPoly",
       "identifier": "magnet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mailbox": {
       "codepoint": 57739,
@@ -2374,19 +2543,22 @@
       "codepoint": 57740,
       "fontFamily": "GlyphsPoly",
       "identifier": "male",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mallet": {
       "codepoint": 58048,
       "fontFamily": "GlyphsPoly",
       "identifier": "mallet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "map": {
       "codepoint": 58049,
       "fontFamily": "GlyphsPoly",
       "identifier": "map",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "map-marker": {
       "codepoint": 57741,
@@ -2397,19 +2569,22 @@
       "codepoint": 58050,
       "fontFamily": "GlyphsPoly",
       "identifier": "mapMarker1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "map-marker-2": {
       "codepoint": 58051,
       "fontFamily": "GlyphsPoly",
       "identifier": "mapMarker2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "map-signs": {
       "codepoint": 57742,
       "fontFamily": "GlyphsPoly",
       "identifier": "mapSigns",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "math": {
       "codepoint": 57743,
@@ -2430,7 +2605,8 @@
       "codepoint": 57746,
       "fontFamily": "GlyphsPoly",
       "identifier": "microphone",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "microphone-1": {
       "codepoint": 57747,
@@ -2441,7 +2617,8 @@
       "codepoint": 58052,
       "fontFamily": "GlyphsPoly",
       "identifier": "microphone2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "microphone-slash": {
       "codepoint": 57748,
@@ -2487,7 +2664,8 @@
       "codepoint": 57756,
       "fontFamily": "GlyphsPoly",
       "identifier": "moon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mouse": {
       "codepoint": 57757,
@@ -2498,19 +2676,22 @@
       "codepoint": 57758,
       "fontFamily": "GlyphsPoly",
       "identifier": "mouse1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mouse-2": {
       "codepoint": 57759,
       "fontFamily": "GlyphsPoly",
       "identifier": "mouse2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "mouse-pointer": {
       "codepoint": 57760,
       "fontFamily": "GlyphsPoly",
       "identifier": "mousePointer",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "music": {
       "codepoint": 57761,
@@ -2536,7 +2717,8 @@
       "codepoint": 57765,
       "fontFamily": "GlyphsPoly",
       "identifier": "night",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "note": {
       "codepoint": 57766,
@@ -2567,7 +2749,8 @@
       "codepoint": 57771,
       "fontFamily": "GlyphsPoly",
       "identifier": "noteSticky",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "object-group": {
       "codepoint": 57772,
@@ -2583,13 +2766,15 @@
       "codepoint": 57774,
       "fontFamily": "GlyphsPoly",
       "identifier": "objectUngroup",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "octagon": {
       "codepoint": 58053,
       "fontFamily": "GlyphsPoly",
       "identifier": "octagon",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "page-break": {
       "codepoint": 57775,
@@ -2600,7 +2785,8 @@
       "codepoint": 57776,
       "fontFamily": "GlyphsPoly",
       "identifier": "paintBrush",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "palette": {
       "codepoint": 57777,
@@ -2611,7 +2797,8 @@
       "codepoint": 58054,
       "fontFamily": "GlyphsPoly",
       "identifier": "palmTree",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "paperclip": {
       "codepoint": 57778,
@@ -2632,7 +2819,8 @@
       "codepoint": 57781,
       "fontFamily": "GlyphsPoly",
       "identifier": "path1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pause": {
       "codepoint": 57782,
@@ -2643,7 +2831,8 @@
       "codepoint": 57783,
       "fontFamily": "GlyphsPoly",
       "identifier": "pauseCircle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "peace": {
       "codepoint": 57784,
@@ -2659,7 +2848,8 @@
       "codepoint": 57786,
       "fontFamily": "GlyphsPoly",
       "identifier": "penNib",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pencil": {
       "codepoint": 57787,
@@ -2685,7 +2875,8 @@
       "codepoint": 57791,
       "fontFamily": "GlyphsPoly",
       "identifier": "person",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "person-private": {
       "codepoint": 57792,
@@ -2721,7 +2912,8 @@
       "codepoint": 58055,
       "fontFamily": "GlyphsPoly",
       "identifier": "pill",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "pin": {
       "codepoint": 57798,
@@ -2732,13 +2924,15 @@
       "codepoint": 57799,
       "fontFamily": "GlyphsPoly",
       "identifier": "pin1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "plane": {
       "codepoint": 57800,
       "fontFamily": "GlyphsPoly",
       "identifier": "plane",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "plane-arrival": {
       "codepoint": 57801,
@@ -2754,7 +2948,8 @@
       "codepoint": 57803,
       "fontFamily": "GlyphsPoly",
       "identifier": "planeSide",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "planet-moon": {
       "codepoint": 57804,
@@ -2765,7 +2960,8 @@
       "codepoint": 57805,
       "fontFamily": "GlyphsPoly",
       "identifier": "playCircle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "playback-speed": {
       "codepoint": 57806,
@@ -2796,7 +2992,8 @@
       "codepoint": 57811,
       "fontFamily": "GlyphsPoly",
       "identifier": "power",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "printer": {
       "codepoint": 57812,
@@ -2807,7 +3004,8 @@
       "codepoint": 57813,
       "fontFamily": "GlyphsPoly",
       "identifier": "puzzlePiece",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "qr": {
       "codepoint": 57814,
@@ -2833,13 +3031,15 @@
       "codepoint": 57818,
       "fontFamily": "GlyphsPoly",
       "identifier": "quote",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "quote-single": {
       "codepoint": 57819,
       "fontFamily": "GlyphsPoly",
       "identifier": "quoteSingle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "r": {
       "codepoint": 57820,
@@ -2850,13 +3050,15 @@
       "codepoint": 57821,
       "fontFamily": "GlyphsPoly",
       "identifier": "rain",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rain-1": {
       "codepoint": 57822,
       "fontFamily": "GlyphsPoly",
       "identifier": "rain1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "receipt": {
       "codepoint": 57823,
@@ -2867,19 +3069,22 @@
       "codepoint": 58056,
       "fontFamily": "GlyphsPoly",
       "identifier": "record",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rectangle": {
       "codepoint": 57824,
       "fontFamily": "GlyphsPoly",
       "identifier": "rectangle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "recycle": {
       "codepoint": 57825,
       "fontFamily": "GlyphsPoly",
       "identifier": "recycle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "relax": {
       "codepoint": 57826,
@@ -2890,19 +3095,22 @@
       "codepoint": 57827,
       "fontFamily": "GlyphsPoly",
       "identifier": "repeat",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "repeat-once": {
       "codepoint": 57828,
       "fontFamily": "GlyphsPoly",
       "identifier": "repeatOnce",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "replay": {
       "codepoint": 57829,
       "fontFamily": "GlyphsPoly",
       "identifier": "replay",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "restroom": {
       "codepoint": 57830,
@@ -2948,7 +3156,8 @@
       "codepoint": 57838,
       "fontFamily": "GlyphsPoly",
       "identifier": "running",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "rv": {
       "codepoint": 57839,
@@ -3019,25 +3228,29 @@
       "codepoint": 57852,
       "fontFamily": "GlyphsPoly",
       "identifier": "scroll",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "scroll-old": {
       "codepoint": 57853,
       "fontFamily": "GlyphsPoly",
       "identifier": "scrollOld",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "search": {
       "codepoint": 57854,
       "fontFamily": "GlyphsPoly",
       "identifier": "search",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "search-1": {
       "codepoint": 58057,
       "fontFamily": "GlyphsPoly",
       "identifier": "search1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "search-tint": {
       "codepoint": 57855,
@@ -3053,7 +3266,8 @@
       "codepoint": 57857,
       "fontFamily": "GlyphsPoly",
       "identifier": "seekSkip",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "seek-skip-1": {
       "codepoint": 57858,
@@ -3069,7 +3283,8 @@
       "codepoint": 57860,
       "fontFamily": "GlyphsPoly",
       "identifier": "send",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "seven": {
       "codepoint": 57861,
@@ -3085,25 +3300,29 @@
       "codepoint": 57863,
       "fontFamily": "GlyphsPoly",
       "identifier": "share",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shield": {
       "codepoint": 57864,
       "fontFamily": "GlyphsPoly",
       "identifier": "shield",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shield-1": {
       "codepoint": 58058,
       "fontFamily": "GlyphsPoly",
       "identifier": "shield1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shield-exclamation": {
       "codepoint": 57865,
       "fontFamily": "GlyphsPoly",
       "identifier": "shieldExclamation",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ship-water": {
       "codepoint": 57866,
@@ -3114,7 +3333,8 @@
       "codepoint": 58059,
       "fontFamily": "GlyphsPoly",
       "identifier": "shoePrint",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shopping-bag": {
       "codepoint": 57867,
@@ -3150,49 +3370,57 @@
       "codepoint": 57873,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signal-100": {
       "codepoint": 57874,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal100",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signal-2": {
       "codepoint": 57875,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signal-25": {
       "codepoint": 57876,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal25",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signal-3": {
       "codepoint": 57877,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signal-4": {
       "codepoint": 57878,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal4",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signal-50": {
       "codepoint": 57879,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal50",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signal-75": {
       "codepoint": 57880,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal75",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "signal-rod": {
       "codepoint": 57881,
@@ -3218,13 +3446,15 @@
       "codepoint": 57885,
       "fontFamily": "GlyphsPoly",
       "identifier": "skull1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sleet": {
       "codepoint": 57886,
       "fontFamily": "GlyphsPoly",
       "identifier": "sleet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sleetlet": {
       "codepoint": 57887,
@@ -3235,7 +3465,8 @@
       "codepoint": 57888,
       "fontFamily": "GlyphsPoly",
       "identifier": "sliders",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "smile": {
       "codepoint": 57889,
@@ -3256,25 +3487,29 @@
       "codepoint": 57892,
       "fontFamily": "GlyphsPoly",
       "identifier": "snow",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "snowflake": {
       "codepoint": 57893,
       "fontFamily": "GlyphsPoly",
       "identifier": "snowflake",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sofa": {
       "codepoint": 58060,
       "fontFamily": "GlyphsPoly",
       "identifier": "sofa",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sort-1": {
       "codepoint": 58061,
       "fontFamily": "GlyphsPoly",
       "identifier": "sort1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sort-alpha-down": {
       "codepoint": 57894,
@@ -3300,25 +3535,29 @@
       "codepoint": 57898,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortNumericDown",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sort-numeric-up": {
       "codepoint": 57899,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortNumericUp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sort-size-up": {
       "codepoint": 57900,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortSizeUp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sort-size-up-1": {
       "codepoint": 57901,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortSizeUp1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "spa": {
       "codepoint": 57902,
@@ -3329,7 +3568,8 @@
       "codepoint": 57903,
       "fontFamily": "GlyphsPoly",
       "identifier": "spade",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sparkle": {
       "codepoint": 57904,
@@ -3340,7 +3580,8 @@
       "codepoint": 57905,
       "fontFamily": "GlyphsPoly",
       "identifier": "sparkles",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sparkles-1": {
       "codepoint": 57906,
@@ -3351,7 +3592,8 @@
       "codepoint": 57907,
       "fontFamily": "GlyphsPoly",
       "identifier": "speaker",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "speedometer-3": {
       "codepoint": 57908,
@@ -3372,7 +3614,8 @@
       "codepoint": 57911,
       "fontFamily": "GlyphsPoly",
       "identifier": "square",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "square-half": {
       "codepoint": 57912,
@@ -3383,43 +3626,50 @@
       "codepoint": 57913,
       "fontFamily": "GlyphsPoly",
       "identifier": "squareHalf1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "square-half-2": {
       "codepoint": 57914,
       "fontFamily": "GlyphsPoly",
       "identifier": "squareHalf2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "squircle": {
       "codepoint": 58062,
       "fontFamily": "GlyphsPoly",
       "identifier": "squircle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stamp": {
       "codepoint": 57915,
       "fontFamily": "GlyphsPoly",
       "identifier": "stamp",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "star": {
       "codepoint": 58063,
       "fontFamily": "GlyphsPoly",
       "identifier": "star",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "star-and-crescent": {
       "codepoint": 58064,
       "fontFamily": "GlyphsPoly",
       "identifier": "starAndCrescent",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "star-half": {
       "codepoint": 58065,
       "fontFamily": "GlyphsPoly",
       "identifier": "starHalf",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "star-half-1": {
       "codepoint": 57916,
@@ -3446,19 +3696,22 @@
       "codepoint": 57920,
       "fontFamily": "GlyphsPoly",
       "identifier": "stopCircle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stop-hand": {
       "codepoint": 58066,
       "fontFamily": "GlyphsPoly",
       "identifier": "stopHand",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "stop-sign": {
       "codepoint": 58067,
       "fontFamily": "GlyphsPoly",
       "identifier": "stopSign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "store": {
       "codepoint": 57921,
@@ -3489,19 +3742,22 @@
       "codepoint": 57926,
       "fontFamily": "GlyphsPoly",
       "identifier": "sun",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sun-1": {
       "codepoint": 58068,
       "fontFamily": "GlyphsPoly",
       "identifier": "sun1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sunny-mostly": {
       "codepoint": 57927,
       "fontFamily": "GlyphsPoly",
       "identifier": "sunnyMostly",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "sunrise": {
       "codepoint": 57928,
@@ -3522,7 +3778,8 @@
       "codepoint": 57931,
       "fontFamily": "GlyphsPoly",
       "identifier": "tablet",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tachometer": {
       "codepoint": 57932,
@@ -3598,7 +3855,8 @@
       "codepoint": 57946,
       "fontFamily": "GlyphsPoly",
       "identifier": "temperature",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "temperature-cold": {
       "codepoint": 57947,
@@ -3629,13 +3887,15 @@
       "codepoint": 57952,
       "fontFamily": "GlyphsPoly",
       "identifier": "ticket",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "ticket-1": {
       "codepoint": 57953,
       "fontFamily": "GlyphsPoly",
       "identifier": "ticket1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tilde": {
       "codepoint": 57954,
@@ -3677,19 +3937,22 @@
       "codepoint": 57961,
       "fontFamily": "GlyphsPoly",
       "identifier": "toggle",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "toggle-1": {
       "codepoint": 57962,
       "fontFamily": "GlyphsPoly",
       "identifier": "toggle1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "toggle-2": {
       "codepoint": 57963,
       "fontFamily": "GlyphsPoly",
       "identifier": "toggle2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "toolbox": {
       "codepoint": 57964,
@@ -3700,7 +3963,8 @@
       "codepoint": 57965,
       "fontFamily": "GlyphsPoly",
       "identifier": "tornado",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "trash": {
       "codepoint": 57966,
@@ -3716,13 +3980,15 @@
       "codepoint": 58069,
       "fontFamily": "GlyphsPoly",
       "identifier": "tree",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tree-1": {
       "codepoint": 58070,
       "fontFamily": "GlyphsPoly",
       "identifier": "tree1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tree-2": {
       "codepoint": 57968,
@@ -3749,7 +4015,8 @@
       "codepoint": 57972,
       "fontFamily": "GlyphsPoly",
       "identifier": "turnSign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "tv-retro": {
       "codepoint": 57973,
@@ -3760,7 +4027,8 @@
       "codepoint": 57974,
       "fontFamily": "GlyphsPoly",
       "identifier": "uTurnSign",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "union": {
       "codepoint": 57975,
@@ -3776,7 +4044,8 @@
       "codepoint": 57977,
       "fontFamily": "GlyphsPoly",
       "identifier": "user",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "user-circle": {
       "codepoint": 57978,
@@ -3787,19 +4056,22 @@
       "codepoint": 58071,
       "fontFamily": "GlyphsPoly",
       "identifier": "userComment",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "users": {
       "codepoint": 57979,
       "fontFamily": "GlyphsPoly",
       "identifier": "users",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "users-1": {
       "codepoint": 57980,
       "fontFamily": "GlyphsPoly",
       "identifier": "users1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "v": {
       "codepoint": 57981,
@@ -3820,7 +4092,8 @@
       "codepoint": 57984,
       "fontFamily": "GlyphsPoly",
       "identifier": "video",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "view-collapse": {
       "codepoint": 57985,
@@ -3836,13 +4109,15 @@
       "codepoint": 58072,
       "fontFamily": "GlyphsPoly",
       "identifier": "virus",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "volleyball": {
       "codepoint": 57987,
       "fontFamily": "GlyphsPoly",
       "identifier": "volleyball",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "volume": {
       "codepoint": 57988,
@@ -3853,25 +4128,29 @@
       "codepoint": 58073,
       "fontFamily": "GlyphsPoly",
       "identifier": "volume1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "volume-2": {
       "codepoint": 58074,
       "fontFamily": "GlyphsPoly",
       "identifier": "volume2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "volume-3": {
       "codepoint": 58075,
       "fontFamily": "GlyphsPoly",
       "identifier": "volume3",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "walking": {
       "codepoint": 57989,
       "fontFamily": "GlyphsPoly",
       "identifier": "walking",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "watch": {
       "codepoint": 57990,
@@ -3882,13 +4161,15 @@
       "codepoint": 57991,
       "fontFamily": "GlyphsPoly",
       "identifier": "watch1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "watch-2": {
       "codepoint": 57992,
       "fontFamily": "GlyphsPoly",
       "identifier": "watch2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "watch-fitness": {
       "codepoint": 57993,
@@ -3899,25 +4180,29 @@
       "codepoint": 57994,
       "fontFamily": "GlyphsPoly",
       "identifier": "waves",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "waves-1": {
       "codepoint": 57995,
       "fontFamily": "GlyphsPoly",
       "identifier": "waves1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wifi": {
       "codepoint": 57996,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wifi-1": {
       "codepoint": 57997,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi1",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wifi-100": {
       "codepoint": 57998,
@@ -3928,25 +4213,29 @@
       "codepoint": 57999,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi2",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wifi-25": {
       "codepoint": 58000,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi25",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wifi-50": {
       "codepoint": 58001,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi50",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wifi-75": {
       "codepoint": 58002,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi75",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "wind": {
       "codepoint": 58003,
@@ -3972,7 +4261,8 @@
       "codepoint": 58076,
       "fontFamily": "GlyphsPoly",
       "identifier": "wrench",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "yield-sign": {
       "codepoint": 58007,
@@ -3983,7 +4273,8 @@
       "codepoint": 58008,
       "fontFamily": "GlyphsPoly",
       "identifier": "yingYang",
-      "duotone": true
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "z": {
       "codepoint": 58009,

@@ -3126,8 +3126,8 @@ class PepiconsPencilIcons {
     IconData(0xe26d, fontFamily: 'PepiconsPencil', fontPackage: 'iconifyx_pepicons_pencil'),
   );
 
-  /// `keyboard-circle-filled` (duo-tone)
-  static const IconifyIconData keyboardCircleFilled = IconifyIconData.duo(
+  /// `keyboard-circle-filled` (mask-internal duotone)
+  static const IconifyIconData keyboardCircleFilled = IconifyIconData.duoMaskInternal(
     IconData(0xe26e, fontFamily: 'PepiconsPencil', fontPackage: 'iconifyx_pepicons_pencil'),
     IconData(0xe26e, fontFamily: 'PepiconsPencilSecondary', fontPackage: 'iconifyx_pepicons_pencil'),
   );
