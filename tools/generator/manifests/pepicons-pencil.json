@@ -23,6 +23,11 @@
       "family": "PepiconsPencil",
       "nextCodepoint": 58619,
       "iconCount": 1275
+    },
+    {
+      "family": "PepiconsPencilSecondary",
+      "nextCodepoint": 58619,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -3139,7 +3144,8 @@
     "keyboard-circle-filled": {
       "codepoint": 57966,
       "fontFamily": "PepiconsPencil",
-      "identifier": "keyboardCircleFilled"
+      "identifier": "keyboardCircleFilled",
+      "duotone": true
     },
     "keyboard-circle-off": {
       "codepoint": 57967,

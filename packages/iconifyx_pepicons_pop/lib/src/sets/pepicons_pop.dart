@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: CyCraft
 /// License: CC BY 4.0 — https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-/// Icons: 1298
+/// Icons: 1298 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3161,9 +3161,10 @@ class PepiconsPopIcons {
     IconData(0xe274, fontFamily: 'PepiconsPop', fontPackage: 'iconifyx_pepicons_pop'),
   );
 
-  /// `keyboard-circle-filled`
-  static const IconifyIconData keyboardCircleFilled = IconifyIconData.solo(
+  /// `keyboard-circle-filled` (duo-tone)
+  static const IconifyIconData keyboardCircleFilled = IconifyIconData.duo(
     IconData(0xe275, fontFamily: 'PepiconsPop', fontPackage: 'iconifyx_pepicons_pop'),
+    IconData(0xe275, fontFamily: 'PepiconsPopSecondary', fontPackage: 'iconifyx_pepicons_pop'),
   );
 
   /// `keyboard-circle-off`

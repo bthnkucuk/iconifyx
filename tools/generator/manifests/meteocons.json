@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/basmilius/weather-icons/blob/dev/LICENSE"
     },
-    "total": 432
+    "total": 440
   },
   "fonts": [
     {
       "family": "Meteocons",
-      "nextCodepoint": 57776,
-      "iconCount": 432
+      "nextCodepoint": 57784,
+      "iconCount": 440
     }
   ],
   "icons": {
@@ -1201,6 +1201,11 @@
       "fontFamily": "Meteocons",
       "identifier": "pollenFill"
     },
+    "pollen-flower": {
+      "codepoint": 57776,
+      "fontFamily": "Meteocons",
+      "identifier": "pollenFlower"
+    },
     "pollen-flower-fill": {
       "codepoint": 57579,
       "fontFamily": "Meteocons",
@@ -1216,15 +1221,30 @@
       "fontFamily": "Meteocons",
       "identifier": "pollenGrassFill"
     },
+    "pollen-tree": {
+      "codepoint": 57777,
+      "fontFamily": "Meteocons",
+      "identifier": "pollenTree"
+    },
     "pollen-tree-fill": {
       "codepoint": 57582,
       "fontFamily": "Meteocons",
       "identifier": "pollenTreeFill"
     },
+    "pressure-high": {
+      "codepoint": 57778,
+      "fontFamily": "Meteocons",
+      "identifier": "pressureHigh"
+    },
     "pressure-high-alt-fill": {
       "codepoint": 57583,
       "fontFamily": "Meteocons",
       "identifier": "pressureHighAltFill"
+    },
+    "pressure-high-fill": {
+      "codepoint": 57779,
+      "fontFamily": "Meteocons",
+      "identifier": "pressureHighFill"
     },
     "pressure-low": {
       "codepoint": 57584,
@@ -1421,6 +1441,16 @@
       "fontFamily": "Meteocons",
       "identifier": "thermometer"
     },
+    "thermometer-celsius": {
+      "codepoint": 57780,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerCelsius"
+    },
+    "thermometer-celsius-fill": {
+      "codepoint": 57781,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerCelsiusFill"
+    },
     "thermometer-colder": {
       "codepoint": 57623,
       "fontFamily": "Meteocons",
@@ -1430,6 +1460,16 @@
       "codepoint": 57624,
       "fontFamily": "Meteocons",
       "identifier": "thermometerColderFill"
+    },
+    "thermometer-fahrenheit": {
+      "codepoint": 57782,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerFahrenheit"
+    },
+    "thermometer-fahrenheit-fill": {
+      "codepoint": 57783,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerFahrenheitFill"
     },
     "thermometer-fill": {
       "codepoint": 57625,

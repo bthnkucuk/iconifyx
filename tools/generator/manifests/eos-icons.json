@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE"
     },
-    "total": 242
+    "total": 246
   },
   "fonts": [
     {
       "family": "EosIcons",
-      "nextCodepoint": 57586,
-      "iconCount": 242
+      "nextCodepoint": 57591,
+      "iconCount": 246
     }
   ],
   "icons": {
@@ -150,6 +150,18 @@
       "codepoint": 57368,
       "fontFamily": "EosIcons",
       "identifier": "applicationWindowOutlined"
+    },
+    "arrow-rotate": {
+      "codepoint": 57586,
+      "fontFamily": "EosIcons",
+      "identifier": "arrowRotate",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
+    },
+    "atom-electron": {
+      "codepoint": 57587,
+      "fontFamily": "EosIcons",
+      "identifier": "atomElectron"
     },
     "augmented-reality": {
       "codepoint": 57369,
@@ -535,6 +547,11 @@
       "codepoint": 57445,
       "fontFamily": "EosIcons",
       "identifier": "initContainerOutlined"
+    },
+    "installing": {
+      "codepoint": 57588,
+      "fontFamily": "EosIcons",
+      "identifier": "installing"
     },
     "iot": {
       "codepoint": 57446,
@@ -1171,6 +1188,11 @@
       "fontFamily": "EosIcons",
       "identifier": "testTube"
     },
+    "three-dots-loading": {
+      "codepoint": 57589,
+      "fontFamily": "EosIcons",
+      "identifier": "threeDotsLoading"
+    },
     "timeout": {
       "codepoint": 57573,
       "fontFamily": "EosIcons",
@@ -1185,6 +1207,11 @@
       "codepoint": 57575,
       "fontFamily": "EosIcons",
       "identifier": "trustedOrganization"
+    },
+    "typing": {
+      "codepoint": 57590,
+      "fontFamily": "EosIcons",
+      "identifier": "typing"
     },
     "virtual-guest": {
       "codepoint": 57576,

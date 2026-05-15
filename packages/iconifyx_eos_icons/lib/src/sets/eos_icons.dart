@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: SUSE UX/UI team
 /// License: MIT — https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE
-/// Icons: 242
+/// Icons: 246
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -139,6 +139,11 @@ class EosIconsIcons {
   /// `application-window-outlined`
   static const IconifyIconData applicationWindowOutlined = IconifyIconData.solo(
     IconData(0xe018, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
+  );
+
+  /// `atom-electron`
+  static const IconifyIconData atomElectron = IconifyIconData.solo(
+    IconData(0xe0f3, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
   );
 
   /// `augmented-reality`
@@ -524,6 +529,11 @@ class EosIconsIcons {
   /// `init-container-outlined`
   static const IconifyIconData initContainerOutlined = IconifyIconData.solo(
     IconData(0xe065, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
+  );
+
+  /// `installing`
+  static const IconifyIconData installing = IconifyIconData.solo(
+    IconData(0xe0f4, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
   );
 
   /// `iot`
@@ -1161,6 +1171,11 @@ class EosIconsIcons {
     IconData(0xe0e4, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
   );
 
+  /// `three-dots-loading`
+  static const IconifyIconData threeDotsLoading = IconifyIconData.solo(
+    IconData(0xe0f5, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
+  );
+
   /// `timeout`
   static const IconifyIconData timeout = IconifyIconData.solo(
     IconData(0xe0e5, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
@@ -1174,6 +1189,11 @@ class EosIconsIcons {
   /// `trusted-organization`
   static const IconifyIconData trustedOrganization = IconifyIconData.solo(
     IconData(0xe0e7, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
+  );
+
+  /// `typing`
+  static const IconifyIconData typing = IconifyIconData.solo(
+    IconData(0xe0f6, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
   );
 
   /// `virtual-guest`

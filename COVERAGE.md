@@ -6,7 +6,7 @@ Generated 2026-05-15 from `@iconify/json` v2.2.472. Source counts are Iconify's 
 - **Sets fully missing:** 0
 - **Sets partially missing (≥5% gap):** 26
 - **Source icons:** 301,637
-- **Built icons:** 306,299
+- **Built icons:** 306,333
 
 Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light`/`-bold` suffixes) are excluded from the built count so source-vs-built comparisons stay meaningful — those are local clones, not upstream icons.
 
@@ -19,7 +19,6 @@ _None._
 | Set | Prefix | Source | Built | Missing | % |
 |---|---|---:|---:|---:|---:|
 | Circle Flags | `circle-flags` | 634 | 5 | 629 | 99.2% |
-| SVG Spinners | `svg-spinners` | 46 | 1 | 45 | 97.8% |
 | UnJS Logos | `unjs` | 63 | 5 | 58 | 92.1% |
 | Noto Emoji | `noto` | 3,710 | 328 | 3,382 | 91.2% |
 | Kameleon color icons | `streamline-kameleon-color` | 400 | 66 | 334 | 83.5% |
@@ -32,6 +31,7 @@ _None._
 | Flat Color Icons | `flat-color-icons` | 329 | 97 | 232 | 70.5% |
 | Noto Emoji (v1) | `noto-v1` | 2,162 | 647 | 1,515 | 70.1% |
 | VSCode Icons | `vscode-icons` | 1,489 | 701 | 788 | 52.9% |
+| SVG Spinners | `svg-spinners` | 46 | 23 | 23 | 50.0% |
 | SVG Logos | `logos` | 1,861 | 937 | 924 | 49.7% |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | 380 | 48.3% |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | 411 | 41.2% |
@@ -50,7 +50,6 @@ _None._
 | Set | Prefix | Source | Built | Δ | Status |
 |---|---|---:|---:|---:|---|
 | Circle Flags | `circle-flags` | 634 | 5 | +629 | ⚠ partial |
-| SVG Spinners | `svg-spinners` | 46 | 1 | +45 | ⚠ partial |
 | UnJS Logos | `unjs` | 63 | 5 | +58 | ⚠ partial |
 | Noto Emoji | `noto` | 3,710 | 328 | +3382 | ⚠ partial |
 | Kameleon color icons | `streamline-kameleon-color` | 400 | 66 | +334 | ⚠ partial |
@@ -63,6 +62,7 @@ _None._
 | Flat Color Icons | `flat-color-icons` | 329 | 97 | +232 | ⚠ partial |
 | Noto Emoji (v1) | `noto-v1` | 2,162 | 647 | +1515 | ⚠ partial |
 | VSCode Icons | `vscode-icons` | 1,489 | 701 | +788 | ⚠ partial |
+| SVG Spinners | `svg-spinners` | 46 | 23 | +23 | ⚠ partial |
 | SVG Logos | `logos` | 1,861 | 937 | +924 | ⚠ partial |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | +380 | ⚠ partial |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | +411 | ⚠ partial |
@@ -76,15 +76,15 @@ _None._
 | Flag Icons | `flag` | 542 | 491 | +51 | ⚠ partial |
 | Academicons | `academicons` | 158 | 149 | +9 | ⚠ partial |
 | BPMN | `bpmn` | 112 | 107 | +5 | ✓ |
-| EOS Icons | `eos-icons` | 253 | 242 | +11 | ✓ |
-| Meteocons | `meteocons` | 447 | 432 | +15 | ✓ |
 | Röntgen | `roentgen` | 551 | 533 | +18 | ✓ |
+| EOS Icons | `eos-icons` | 253 | 246 | +7 | ✓ |
 | Fluent Emoji High Contrast | `fluent-emoji-high-contrast` | 1,595 | 1,551 | +44 | ✓ |
 | CoreUI Brands | `cib` | 830 | 810 | +20 | ✓ |
 | Brandico | `brandico` | 45 | 44 | +1 | ✓ |
 | Freehand color icons | `streamline-freehand-color` | 1,000 | 978 | +22 | ✓ |
 | Game Icons | `game-icons` | 4,133 | 4,061 | +72 | ✓ |
 | OOUI | `ooui` | 371 | 365 | +6 | ✓ |
+| Meteocons | `meteocons` | 447 | 440 | +7 | ✓ |
 | Map Icons | `map` | 167 | 165 | +2 | ✓ |
 | TopCoat Icons | `topcoat` | 89 | 88 | +1 | ✓ |
 | Foundation | `foundation` | 283 | 280 | +3 | ✓ |

@@ -20,3 +20,6 @@ flutter:
     - family: PepiconsPop
       fonts:
         - asset: assets/fonts/PepiconsPop.ttf
+    - family: PepiconsPopSecondary
+      fonts:
+        - asset: assets/fonts/PepiconsPopSecondary.ttf

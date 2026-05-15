@@ -23,6 +23,11 @@
       "family": "PepiconsPop",
       "nextCodepoint": 58642,
       "iconCount": 1298
+    },
+    {
+      "family": "PepiconsPopSecondary",
+      "nextCodepoint": 58642,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -3174,7 +3179,8 @@
     "keyboard-circle-filled": {
       "codepoint": 57973,
       "fontFamily": "PepiconsPop",
-      "identifier": "keyboardCircleFilled"
+      "identifier": "keyboardCircleFilled",
+      "duotone": true
     },
     "keyboard-circle-off": {
       "codepoint": 57974,

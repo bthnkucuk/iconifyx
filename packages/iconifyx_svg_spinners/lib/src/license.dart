@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE',
-  iconCount: 1,
+  iconCount: 23,
 );

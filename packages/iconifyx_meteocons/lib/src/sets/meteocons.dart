@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Bas Milius
 /// License: MIT — https://github.com/basmilius/weather-icons/blob/dev/LICENSE
-/// Icons: 432
+/// Icons: 440
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1191,6 +1191,11 @@ class MeteoconsIcons {
     IconData(0xe0ea, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
   );
 
+  /// `pollen-flower`
+  static const IconifyIconData pollenFlower = IconifyIconData.solo(
+    IconData(0xe1b0, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
+  );
+
   /// `pollen-flower-fill`
   static const IconifyIconData pollenFlowerFill = IconifyIconData.solo(
     IconData(0xe0eb, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
@@ -1206,14 +1211,29 @@ class MeteoconsIcons {
     IconData(0xe0ed, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
   );
 
+  /// `pollen-tree`
+  static const IconifyIconData pollenTree = IconifyIconData.solo(
+    IconData(0xe1b1, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
+  );
+
   /// `pollen-tree-fill`
   static const IconifyIconData pollenTreeFill = IconifyIconData.solo(
     IconData(0xe0ee, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
   );
 
+  /// `pressure-high`
+  static const IconifyIconData pressureHigh = IconifyIconData.solo(
+    IconData(0xe1b2, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
+  );
+
   /// `pressure-high-alt-fill`
   static const IconifyIconData pressureHighAltFill = IconifyIconData.solo(
     IconData(0xe0ef, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
+  );
+
+  /// `pressure-high-fill`
+  static const IconifyIconData pressureHighFill = IconifyIconData.solo(
+    IconData(0xe1b3, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
   );
 
   /// `pressure-low`
@@ -1411,6 +1431,16 @@ class MeteoconsIcons {
     IconData(0xe116, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
   );
 
+  /// `thermometer-celsius`
+  static const IconifyIconData thermometerCelsius = IconifyIconData.solo(
+    IconData(0xe1b4, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
+  );
+
+  /// `thermometer-celsius-fill`
+  static const IconifyIconData thermometerCelsiusFill = IconifyIconData.solo(
+    IconData(0xe1b5, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
+  );
+
   /// `thermometer-colder`
   static const IconifyIconData thermometerColder = IconifyIconData.solo(
     IconData(0xe117, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
@@ -1419,6 +1449,16 @@ class MeteoconsIcons {
   /// `thermometer-colder-fill`
   static const IconifyIconData thermometerColderFill = IconifyIconData.solo(
     IconData(0xe118, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
+  );
+
+  /// `thermometer-fahrenheit`
+  static const IconifyIconData thermometerFahrenheit = IconifyIconData.solo(
+    IconData(0xe1b6, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
+  );
+
+  /// `thermometer-fahrenheit-fill`
+  static const IconifyIconData thermometerFahrenheitFill = IconifyIconData.solo(
+    IconData(0xe1b7, fontFamily: 'Meteocons', fontPackage: 'iconifyx_meteocons'),
   );
 
   /// `thermometer-fill`
