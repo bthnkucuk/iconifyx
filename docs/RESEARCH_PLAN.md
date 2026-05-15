@@ -697,6 +697,37 @@ stub).
 **Verdict: Adopt selection-tray + bulk-export, restructure icon-detail
 page, square-default grid with compare toggle.**
 
+### Progress note (2026-05-16) — selection-tray FOUNDATION shipped
+
+Data + persistence + minimal UI landed:
+
+- `lib/bootstrap/selection_state.dart` — `IconRef`,
+  `SelectionState`, `SelectionCubit`. Persists the selection set to
+  `localStorage` via `shared_preferences` (same path the theme
+  cubit uses). Set survives page reload.
+- `lib/shared/widgets/selection_tray.dart` — bottom-sheet tray
+  (mounted in `AppShellLayout` as a Stack overlay; only renders
+  when the set is non-empty). Shows count + "Clear". Also exports a
+  reusable `SelectionToggleButton`.
+- `_IconCell` (`pack_detail_page.dart`) — long-press OR right-click
+  toggles selection; coral check badge appears in the top-right via
+  a scoped `BlocSelector` (selecting one icon does NOT rebuild the
+  other 14999 cells).
+- Icon detail sheet (`icon_detail_page.dart`) — "Add to selection"
+  / "In selection" toggle button in the action row.
+
+**Deferred to a follow-up agent** (the actual export UX):
+
+- Cmd/Ctrl+click toggle (currently only long-press / right-click).
+- The three bulk-export actions (`Copy import code`, `Export
+  package` sheet, `Print sheet` route). Tray currently displays an
+  `EXPORT · COMING SOON` placeholder.
+- Optional URL share via `?selected=mdi/home,lucide/heart`.
+- All-packs / search affordances (currently only pack-detail cell +
+  icon-detail sheet have the toggle).
+
+---
+
 ### Selection tray + bulk export (~1 day, biggest user-perceived win)
 
 Most icon-site users assemble a set. Without this, iconifyx feels like
@@ -3096,7 +3127,21 @@ Only NEW dep: `pixelmatch` (~150 LOC, MIT, no transitive deps).
 
 ---
 
-## §27 — Sheet back-button routing bug (root cause + universal fix)
+## §27 — Sheet back-button routing bug (root cause + universal fix) ✅ DONE
+
+✅ Shipped 2026-05-16 — universal fix lives in
+`packages/iconifyx/website/lib/router/url_history.dart`
+(`HistoryAwareRouteInformationProvider`). It intercepts
+`routerReportsNewRouteInformation` and converts the default
+`RouteInformationReportingType.none` to `neglect` (=
+`history.replaceState`) whenever the new URI has the same path as
+the previously-reported URI or is a path-prefix of it (pop-back).
+Strictly-forward navigation keeps the default push. Wired into
+`AppCoordinator.routeInformationProvider` via getter override.
+Also tightened the shell shortcut for ⌘K / `/`: `push(SearchRoute)`
+→ `pushOrMoveToTop(SearchRoute)`.
+
+---
 
 **Verdict: The sheet IS a proper `PopupRoute`; closing DOES pop the
 zenrouter path. The bug lives in how zenrouter (2.0.3) translates

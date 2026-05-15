@@ -5,6 +5,7 @@ import '../router/coordinator.dart';
 import '../theme/app_theme.dart';
 import '../theme/theme_cubit.dart';
 import 'bootstrap_bloc.dart';
+import 'selection_state.dart';
 
 class BootstrapApp extends StatefulWidget {
   const BootstrapApp({super.key});
@@ -14,13 +15,13 @@ class BootstrapApp extends StatefulWidget {
 }
 
 class _BootstrapAppState extends State<BootstrapApp> {
-  late final Future<ThemeCubit> _themeCubitFuture;
+  late final Future<_PrefsBundle> _prefsBundleFuture;
   late final BootstrapBloc _bootstrapBloc;
 
   @override
   void initState() {
     super.initState();
-    _themeCubitFuture = ThemeCubit.create();
+    _prefsBundleFuture = _PrefsBundle.load();
     _bootstrapBloc = BootstrapBloc()..add(const BootstrapStarted());
   }
 
@@ -32,8 +33,8 @@ class _BootstrapAppState extends State<BootstrapApp> {
 
   @override
   Widget build(BuildContext context) {
-    return FutureBuilder<ThemeCubit>(
-      future: _themeCubitFuture,
+    return FutureBuilder<_PrefsBundle>(
+      future: _prefsBundleFuture,
       builder: (context, snapshot) {
         if (!snapshot.hasData) {
           return MaterialApp(
@@ -42,10 +43,12 @@ class _BootstrapAppState extends State<BootstrapApp> {
             home: const _BootScreen(),
           );
         }
+        final bundle = snapshot.data!;
         return MultiBlocProvider(
           providers: [
-            BlocProvider<ThemeCubit>.value(value: snapshot.data!),
+            BlocProvider<ThemeCubit>.value(value: bundle.theme),
             BlocProvider<BootstrapBloc>.value(value: _bootstrapBloc),
+            BlocProvider<SelectionCubit>.value(value: bundle.selection),
           ],
           child: BlocBuilder<ThemeCubit, ThemeMode>(
             builder: (context, mode) => MaterialApp.router(
@@ -59,6 +62,28 @@ class _BootstrapAppState extends State<BootstrapApp> {
           ),
         );
       },
+    );
+  }
+}
+
+/// Bundles together the eagerly-loaded preferences cubits so the app
+/// awaits both in parallel before mounting `MaterialApp.router`. This
+/// guarantees the SelectionCubit's persisted set is available the
+/// moment the first `_IconCell` mounts — no flash of empty selection.
+class _PrefsBundle {
+  const _PrefsBundle({required this.theme, required this.selection});
+
+  final ThemeCubit theme;
+  final SelectionCubit selection;
+
+  static Future<_PrefsBundle> load() async {
+    final results = await Future.wait([
+      ThemeCubit.create(),
+      SelectionCubit.create(),
+    ]);
+    return _PrefsBundle(
+      theme: results[0] as ThemeCubit,
+      selection: results[1] as SelectionCubit,
     );
   }
 }

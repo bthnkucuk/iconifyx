@@ -6,6 +6,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
+import '../../bootstrap/selection_state.dart';
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
@@ -561,65 +562,122 @@ class _IconCell extends StatelessWidget {
     // Isolate each cell into its own render layer so hover repaints don't
     // invalidate the entire SliverGrid's layer (15k icons -> noticeable
     // jank without the boundary). See §23 #4.
+    //
+    // Long-press / right-click toggles selection-tray membership (see §10).
+    // The callback uses `context.read<SelectionCubit>()` so the cell is NOT
+    // subscribed to selection changes — only the inner `_SelectionBadge`
+    // subscribes scopedly via a `BlocSelector` keyed on this cell's ref.
+    // Flipping one icon thus rebuilds exactly one badge, not 15k cells.
+    final iconRef = IconRef(prefix: record.prefix, name: record.name);
+    void toggleSelection() => context.read<SelectionCubit>().toggle(iconRef);
     return RepaintBoundary(
-      child: HoverBuilder(
-        onTap: () => appCoordinator.push(
-          IconDetailRoute(prefix: record.prefix, name: record.name),
-        ),
-        builder: (ctx, hovered) {
-          final accent = hovered ? AppTheme.coral : palette.iconColor;
-          return Container(
-            decoration: BoxDecoration(
-              color: hovered ? palette.coralSoft : palette.card,
-              borderRadius: BorderRadius.circular(10),
-              border:
-                  Border.all(color: hovered ? AppTheme.coral : palette.rule),
-            ),
-            padding: const EdgeInsets.fromLTRB(6, 6, 6, 6),
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
+      child: GestureDetector(
+        behavior: HitTestBehavior.opaque,
+        onLongPress: toggleSelection,
+        onSecondaryTap: toggleSelection,
+        child: HoverBuilder(
+          onTap: () => appCoordinator.push(
+            IconDetailRoute(prefix: record.prefix, name: record.name),
+          ),
+          builder: (ctx, hovered) {
+            final accent = hovered ? AppTheme.coral : palette.iconColor;
+            return Stack(
               children: [
-                Expanded(
-                  child: Center(
-                    // Scoped rebuild: only the icon Center body re-runs when
-                    // scrolling stops; the surrounding HoverBuilder, Container,
-                    // and label below stay put. Cheap enough that the parent
-                    // no longer needs to setState the whole _LoadedBody.
-                    child: ValueListenableBuilder<int>(
-                      valueListenable: palette.scrollEndTick,
-                      builder: (cellCtx, _, __) {
-                        final deferred = Scrollable
-                            .recommendDeferredLoadingForContext(cellCtx);
-                        if (deferred) return const SizedBox.shrink();
-                        return IconifyThumb(
-                          record.toIconifyData(),
-                          size: palette.iconRenderSize,
-                          color: accent,
-                          secondaryColor: palette.surfaceForKnockout,
-                          swapLayers: palette.swapLayers,
-                        );
-                      },
-                    ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: hovered ? palette.coralSoft : palette.card,
+                    borderRadius: BorderRadius.circular(10),
+                    border: Border.all(
+                        color: hovered ? AppTheme.coral : palette.rule),
+                  ),
+                  padding: const EdgeInsets.fromLTRB(6, 6, 6, 6),
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Expanded(
+                        child: Center(
+                          // Scoped rebuild: only the icon Center body re-runs
+                          // when scrolling stops; the surrounding HoverBuilder,
+                          // Container, and label below stay put.
+                          child: ValueListenableBuilder<int>(
+                            valueListenable: palette.scrollEndTick,
+                            builder: (cellCtx, _, __) {
+                              final deferred = Scrollable
+                                  .recommendDeferredLoadingForContext(cellCtx);
+                              if (deferred) return const SizedBox.shrink();
+                              return IconifyThumb(
+                                record.toIconifyData(),
+                                size: palette.iconRenderSize,
+                                color: accent,
+                                secondaryColor: palette.surfaceForKnockout,
+                                swapLayers: palette.swapLayers,
+                              );
+                            },
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 4),
+                      Text(
+                        record.name,
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                        textAlign: TextAlign.center,
+                        style: TextStyle(
+                          fontSize: 10,
+                          height: 1.1,
+                          color: hovered ? AppTheme.coral : palette.muted,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ],
                   ),
                 ),
-                const SizedBox(height: 4),
-                Text(
-                  record.name,
-                  maxLines: 1,
-                  overflow: TextOverflow.ellipsis,
-                  textAlign: TextAlign.center,
-                  style: TextStyle(
-                    fontSize: 10,
-                    height: 1.1,
-                    color: hovered ? AppTheme.coral : palette.muted,
-                    fontWeight: FontWeight.w500,
-                  ),
+                Positioned(
+                  top: 4,
+                  right: 4,
+                  child: _SelectionBadge(iconRef: iconRef),
                 ),
               ],
-            ),
-          );
-        },
+            );
+          },
+        ),
       ),
+    );
+  }
+}
+
+/// Per-cell selection-state subscriber. Only this small badge overlay
+/// rebuilds when this specific icon's membership in the selection set
+/// flips. Listening at the cell level (instead of in `_IconCell.build`)
+/// keeps the icon-grid render path out of `SelectionCubit`'s listener
+/// chain — flipping one icon doesn't churn the 15k other cells.
+class _SelectionBadge extends StatelessWidget {
+  const _SelectionBadge({required this.iconRef});
+
+  final IconRef iconRef;
+
+  @override
+  Widget build(BuildContext context) {
+    return BlocSelector<SelectionCubit, SelectionState, bool>(
+      selector: (state) => state.contains(iconRef),
+      builder: (context, selected) {
+        if (!selected) return const SizedBox.shrink();
+        return Container(
+          width: 14,
+          height: 14,
+          decoration: BoxDecoration(
+            color: AppTheme.coral,
+            borderRadius: BorderRadius.circular(7),
+            border: Border.all(color: Colors.white, width: 1.5),
+          ),
+          alignment: Alignment.center,
+          child: const Icon(
+            Icons.check_rounded,
+            size: 9,
+            color: Colors.white,
+          ),
+        );
+      },
     );
   }
 }

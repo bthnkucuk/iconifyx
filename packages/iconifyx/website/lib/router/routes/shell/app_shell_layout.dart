@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:zenrouter/zenrouter.dart';
 
 import '../../../shared/widgets/app_topbar.dart';
+import '../../../shared/widgets/selection_tray.dart';
 import '../../../shared/widgets/site_footer.dart';
 import '../../coordinator.dart';
 import '../../route.dart';
@@ -43,7 +44,22 @@ class AppShellLayout extends AppRoute with RouteLayout<AppRoute> {
             body: Column(
               children: [
                 AppTopBar(showMenuButton: !isDesktop),
-                Expanded(child: buildPath(coordinator)),
+                Expanded(
+                  child: Stack(
+                    children: [
+                      Positioned.fill(child: buildPath(coordinator)),
+                      // Sticky bottom selection tray — only mounted when the
+                      // SelectionCubit's set is non-empty. See §10 in
+                      // `docs/RESEARCH_PLAN.md` for the full spec.
+                      const Positioned(
+                        left: 0,
+                        right: 0,
+                        bottom: 0,
+                        child: SelectionTray(),
+                      ),
+                    ],
+                  ),
+                ),
               ],
             ),
           ),

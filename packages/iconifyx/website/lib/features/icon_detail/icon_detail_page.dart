@@ -8,12 +8,14 @@ import 'package:url_launcher/url_launcher.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
+import '../../bootstrap/selection_state.dart';
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/iconify_svg_url.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/iconify_thumb.dart';
+import '../../shared/widgets/selection_tray.dart';
 import '../../theme/app_theme.dart';
 
 class IconDetailPage extends StatelessWidget {
@@ -351,6 +353,13 @@ class _PreviewCardState extends State<_PreviewCard> {
                 icon: Icons.numbers_rounded,
                 label: 'Copy const',
                 onTap: () => _copyConst(context, record),
+              ),
+              SelectionToggleButton(
+                iconRef: IconRef(
+                  prefix: record.prefix,
+                  name: record.name,
+                ),
+                showLabel: true,
               ),
               _SecondaryButton(
                 icon: Icons.share_outlined,
