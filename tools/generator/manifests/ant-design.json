@@ -23,6 +23,11 @@
       "family": "AntDesign",
       "nextCodepoint": 59214,
       "iconCount": 1870
+    },
+    {
+      "family": "AntDesignSecondary",
+      "nextCodepoint": 59214,
+      "iconCount": 153
     }
   ],
   "icons": {
@@ -54,7 +59,8 @@
     "account-book-twotone": {
       "codepoint": 57349,
       "fontFamily": "AntDesign",
-      "identifier": "accountBookTwotone"
+      "identifier": "accountBookTwotone",
+      "duotone": true
     },
     "aim": {
       "codepoint": 57350,
@@ -94,7 +100,8 @@
     "alert-twotone": {
       "codepoint": 57357,
       "fontFamily": "AntDesign",
-      "identifier": "alertTwotone"
+      "identifier": "alertTwotone",
+      "duotone": true
     },
     "alibaba": {
       "codepoint": 57358,
@@ -394,7 +401,8 @@
     "api-twotone": {
       "codepoint": 57417,
       "fontFamily": "AntDesign",
-      "identifier": "apiTwotone"
+      "identifier": "apiTwotone",
+      "duotone": true
     },
     "apple": {
       "codepoint": 57418,
@@ -459,7 +467,8 @@
     "appstore-twotone": {
       "codepoint": 57430,
       "fontFamily": "AntDesign",
-      "identifier": "appstoreTwotone"
+      "identifier": "appstoreTwotone",
+      "duotone": true
     },
     "area-chart": {
       "codepoint": 57431,
@@ -589,7 +598,8 @@
     "audio-twotone": {
       "codepoint": 57456,
       "fontFamily": "AntDesign",
-      "identifier": "audioTwotone"
+      "identifier": "audioTwotone",
+      "duotone": true
     },
     "audit": {
       "codepoint": 57457,
@@ -664,7 +674,8 @@
     "bank-twotone": {
       "codepoint": 57471,
       "fontFamily": "AntDesign",
-      "identifier": "bankTwotone"
+      "identifier": "bankTwotone",
+      "duotone": true
     },
     "bar-chart": {
       "codepoint": 57472,
@@ -794,7 +805,8 @@
     "bell-twotone": {
       "codepoint": 57497,
       "fontFamily": "AntDesign",
-      "identifier": "bellTwotone"
+      "identifier": "bellTwotone",
+      "duotone": true
     },
     "bg-colors": {
       "codepoint": 57498,
@@ -879,7 +891,8 @@
     "book-twotone": {
       "codepoint": 57513,
       "fontFamily": "AntDesign",
-      "identifier": "bookTwotone"
+      "identifier": "bookTwotone",
+      "duotone": true
     },
     "border": {
       "codepoint": 57514,
@@ -1054,7 +1067,8 @@
     "box-plot-twotone": {
       "codepoint": 57548,
       "fontFamily": "AntDesign",
-      "identifier": "boxPlotTwotone"
+      "identifier": "boxPlotTwotone",
+      "duotone": true
     },
     "branches": {
       "codepoint": 57549,
@@ -1099,7 +1113,8 @@
     "bug-twotone": {
       "codepoint": 57557,
       "fontFamily": "AntDesign",
-      "identifier": "bugTwotone"
+      "identifier": "bugTwotone",
+      "duotone": true
     },
     "build": {
       "codepoint": 57558,
@@ -1129,7 +1144,8 @@
     "build-twotone": {
       "codepoint": 57563,
       "fontFamily": "AntDesign",
-      "identifier": "buildTwotone"
+      "identifier": "buildTwotone",
+      "duotone": true
     },
     "bulb": {
       "codepoint": 57564,
@@ -1159,7 +1175,8 @@
     "bulb-twotone": {
       "codepoint": 57569,
       "fontFamily": "AntDesign",
-      "identifier": "bulbTwotone"
+      "identifier": "bulbTwotone",
+      "duotone": true
     },
     "calculator": {
       "codepoint": 57570,
@@ -1189,7 +1206,8 @@
     "calculator-twotone": {
       "codepoint": 57575,
       "fontFamily": "AntDesign",
-      "identifier": "calculatorTwotone"
+      "identifier": "calculatorTwotone",
+      "duotone": true
     },
     "calendar": {
       "codepoint": 57576,
@@ -1219,7 +1237,8 @@
     "calendar-twotone": {
       "codepoint": 57581,
       "fontFamily": "AntDesign",
-      "identifier": "calendarTwotone"
+      "identifier": "calendarTwotone",
+      "duotone": true
     },
     "camera": {
       "codepoint": 57582,
@@ -1249,12 +1268,14 @@
     "camera-twotone": {
       "codepoint": 57587,
       "fontFamily": "AntDesign",
-      "identifier": "cameraTwotone"
+      "identifier": "cameraTwotone",
+      "duotone": true
     },
     "canlendar-twotone": {
       "codepoint": 57588,
       "fontFamily": "AntDesign",
-      "identifier": "canlendarTwotone"
+      "identifier": "canlendarTwotone",
+      "duotone": true
     },
     "car": {
       "codepoint": 57589,
@@ -1284,7 +1305,8 @@
     "car-twotone": {
       "codepoint": 57594,
       "fontFamily": "AntDesign",
-      "identifier": "carTwotone"
+      "identifier": "carTwotone",
+      "duotone": true
     },
     "caret-down": {
       "codepoint": 57595,
@@ -1414,7 +1436,8 @@
     "carry-out-twotone": {
       "codepoint": 57620,
       "fontFamily": "AntDesign",
-      "identifier": "carryOutTwotone"
+      "identifier": "carryOutTwotone",
+      "duotone": true
     },
     "check": {
       "codepoint": 57621,
@@ -1449,7 +1472,8 @@
     "check-circle-twotone": {
       "codepoint": 57627,
       "fontFamily": "AntDesign",
-      "identifier": "checkCircleTwotone"
+      "identifier": "checkCircleTwotone",
+      "duotone": true
     },
     "check-outline": {
       "codepoint": 57628,
@@ -1489,7 +1513,8 @@
     "check-square-twotone": {
       "codepoint": 57635,
       "fontFamily": "AntDesign",
-      "identifier": "checkSquareTwotone"
+      "identifier": "checkSquareTwotone",
+      "duotone": true
     },
     "chrome": {
       "codepoint": 57636,
@@ -1544,7 +1569,8 @@
     "ci-circle-twotone": {
       "codepoint": 57646,
       "fontFamily": "AntDesign",
-      "identifier": "ciCircleTwotone"
+      "identifier": "ciCircleTwotone",
+      "duotone": true
     },
     "ci-outline": {
       "codepoint": 57647,
@@ -1559,7 +1585,8 @@
     "ci-twotone": {
       "codepoint": 57649,
       "fontFamily": "AntDesign",
-      "identifier": "ciTwotone"
+      "identifier": "ciTwotone",
+      "duotone": true
     },
     "clear": {
       "codepoint": 57650,
@@ -1599,7 +1626,8 @@
     "clock-circle-twotone": {
       "codepoint": 57657,
       "fontFamily": "AntDesign",
-      "identifier": "clockCircleTwotone"
+      "identifier": "clockCircleTwotone",
+      "duotone": true
     },
     "close": {
       "codepoint": 57658,
@@ -1634,7 +1662,8 @@
     "close-circle-twotone": {
       "codepoint": 57664,
       "fontFamily": "AntDesign",
-      "identifier": "closeCircleTwotone"
+      "identifier": "closeCircleTwotone",
+      "duotone": true
     },
     "close-outline": {
       "codepoint": 57665,
@@ -1674,7 +1703,8 @@
     "close-square-twotone": {
       "codepoint": 57672,
       "fontFamily": "AntDesign",
-      "identifier": "closeSquareTwotone"
+      "identifier": "closeSquareTwotone",
+      "duotone": true
     },
     "cloud": {
       "codepoint": 57673,
@@ -1749,7 +1779,8 @@
     "cloud-twotone": {
       "codepoint": 57687,
       "fontFamily": "AntDesign",
-      "identifier": "cloudTwotone"
+      "identifier": "cloudTwotone",
+      "duotone": true
     },
     "cloud-upload": {
       "codepoint": 57688,
@@ -1854,7 +1885,8 @@
     "code-twotone": {
       "codepoint": 57708,
       "fontFamily": "AntDesign",
-      "identifier": "codeTwotone"
+      "identifier": "codeTwotone",
+      "duotone": true
     },
     "codepen": {
       "codepoint": 57709,
@@ -1999,7 +2031,8 @@
     "compass-twotone": {
       "codepoint": 57737,
       "fontFamily": "AntDesign",
-      "identifier": "compassTwotone"
+      "identifier": "compassTwotone",
+      "duotone": true
     },
     "compress": {
       "codepoint": 57738,
@@ -2049,7 +2082,8 @@
     "contacts-twotone": {
       "codepoint": 57747,
       "fontFamily": "AntDesign",
-      "identifier": "contactsTwotone"
+      "identifier": "contactsTwotone",
+      "duotone": true
     },
     "container": {
       "codepoint": 57748,
@@ -2079,7 +2113,8 @@
     "container-twotone": {
       "codepoint": 57753,
       "fontFamily": "AntDesign",
-      "identifier": "containerTwotone"
+      "identifier": "containerTwotone",
+      "duotone": true
     },
     "control": {
       "codepoint": 57754,
@@ -2109,7 +2144,8 @@
     "control-twotone": {
       "codepoint": 57759,
       "fontFamily": "AntDesign",
-      "identifier": "controlTwotone"
+      "identifier": "controlTwotone",
+      "duotone": true
     },
     "copy": {
       "codepoint": 57760,
@@ -2139,7 +2175,8 @@
     "copy-twotone": {
       "codepoint": 57765,
       "fontFamily": "AntDesign",
-      "identifier": "copyTwotone"
+      "identifier": "copyTwotone",
+      "duotone": true
     },
     "copyright": {
       "codepoint": 57766,
@@ -2169,7 +2206,8 @@
     "copyright-circle-twotone": {
       "codepoint": 57771,
       "fontFamily": "AntDesign",
-      "identifier": "copyrightCircleTwotone"
+      "identifier": "copyrightCircleTwotone",
+      "duotone": true
     },
     "copyright-outline": {
       "codepoint": 57772,
@@ -2184,7 +2222,8 @@
     "copyright-twotone": {
       "codepoint": 57774,
       "fontFamily": "AntDesign",
-      "identifier": "copyrightTwotone"
+      "identifier": "copyrightTwotone",
+      "duotone": true
     },
     "credit-card": {
       "codepoint": 57775,
@@ -2214,7 +2253,8 @@
     "credit-card-twotone": {
       "codepoint": 57780,
       "fontFamily": "AntDesign",
-      "identifier": "creditCardTwotone"
+      "identifier": "creditCardTwotone",
+      "duotone": true
     },
     "crown": {
       "codepoint": 57781,
@@ -2244,7 +2284,8 @@
     "crown-twotone": {
       "codepoint": 57786,
       "fontFamily": "AntDesign",
-      "identifier": "crownTwotone"
+      "identifier": "crownTwotone",
+      "duotone": true
     },
     "customer-service": {
       "codepoint": 57787,
@@ -2274,7 +2315,8 @@
     "customer-service-twotone": {
       "codepoint": 57792,
       "fontFamily": "AntDesign",
-      "identifier": "customerServiceTwotone"
+      "identifier": "customerServiceTwotone",
+      "duotone": true
     },
     "dash": {
       "codepoint": 57793,
@@ -2319,7 +2361,8 @@
     "dashboard-twotone": {
       "codepoint": 57801,
       "fontFamily": "AntDesign",
-      "identifier": "dashboardTwotone"
+      "identifier": "dashboardTwotone",
+      "duotone": true
     },
     "database": {
       "codepoint": 57802,
@@ -2349,7 +2392,8 @@
     "database-twotone": {
       "codepoint": 57807,
       "fontFamily": "AntDesign",
-      "identifier": "databaseTwotone"
+      "identifier": "databaseTwotone",
+      "duotone": true
     },
     "delete": {
       "codepoint": 57808,
@@ -2399,7 +2443,8 @@
     "delete-twotone": {
       "codepoint": 57817,
       "fontFamily": "AntDesign",
-      "identifier": "deleteTwotone"
+      "identifier": "deleteTwotone",
+      "duotone": true
     },
     "delivered-procedure": {
       "codepoint": 57818,
@@ -2469,7 +2514,8 @@
     "diff-twotone": {
       "codepoint": 57831,
       "fontFamily": "AntDesign",
-      "identifier": "diffTwotone"
+      "identifier": "diffTwotone",
+      "duotone": true
     },
     "dingding": {
       "codepoint": 57832,
@@ -2579,7 +2625,8 @@
     "dislike-twotone": {
       "codepoint": 57853,
       "fontFamily": "AntDesign",
-      "identifier": "dislikeTwotone"
+      "identifier": "dislikeTwotone",
+      "duotone": true
     },
     "docker-outlined": {
       "codepoint": 57854,
@@ -2614,7 +2661,8 @@
     "dollar-circle-twotone": {
       "codepoint": 57860,
       "fontFamily": "AntDesign",
-      "identifier": "dollarCircleTwotone"
+      "identifier": "dollarCircleTwotone",
+      "duotone": true
     },
     "dollar-outline": {
       "codepoint": 57861,
@@ -2629,7 +2677,8 @@
     "dollar-twotone": {
       "codepoint": 57863,
       "fontFamily": "AntDesign",
-      "identifier": "dollarTwotone"
+      "identifier": "dollarTwotone",
+      "duotone": true
     },
     "dot-chart": {
       "codepoint": 57864,
@@ -2714,7 +2763,8 @@
     "down-circle-twotone": {
       "codepoint": 57880,
       "fontFamily": "AntDesign",
-      "identifier": "downCircleTwotone"
+      "identifier": "downCircleTwotone",
+      "duotone": true
     },
     "down-outline": {
       "codepoint": 57881,
@@ -2754,7 +2804,8 @@
     "down-square-twotone": {
       "codepoint": 57888,
       "fontFamily": "AntDesign",
-      "identifier": "downSquareTwotone"
+      "identifier": "downSquareTwotone",
+      "duotone": true
     },
     "download": {
       "codepoint": 57889,
@@ -2914,7 +2965,8 @@
     "edit-twotone": {
       "codepoint": 57920,
       "fontFamily": "AntDesign",
-      "identifier": "editTwotone"
+      "identifier": "editTwotone",
+      "duotone": true
     },
     "ellipsis": {
       "codepoint": 57921,
@@ -2974,7 +3026,8 @@
     "environment-twotone": {
       "codepoint": 57932,
       "fontFamily": "AntDesign",
-      "identifier": "environmentTwotone"
+      "identifier": "environmentTwotone",
+      "duotone": true
     },
     "euro": {
       "codepoint": 57933,
@@ -3004,7 +3057,8 @@
     "euro-circle-twotone": {
       "codepoint": 57938,
       "fontFamily": "AntDesign",
-      "identifier": "euroCircleTwotone"
+      "identifier": "euroCircleTwotone",
+      "duotone": true
     },
     "euro-outline": {
       "codepoint": 57939,
@@ -3019,7 +3073,8 @@
     "euro-twotone": {
       "codepoint": 57941,
       "fontFamily": "AntDesign",
-      "identifier": "euroTwotone"
+      "identifier": "euroTwotone",
+      "duotone": true
     },
     "exception": {
       "codepoint": 57942,
@@ -3069,7 +3124,8 @@
     "exclamation-circle-twotone": {
       "codepoint": 57951,
       "fontFamily": "AntDesign",
-      "identifier": "exclamationCircleTwotone"
+      "identifier": "exclamationCircleTwotone",
+      "duotone": true
     },
     "exclamation-outline": {
       "codepoint": 57952,
@@ -3129,7 +3185,8 @@
     "experiment-twotone": {
       "codepoint": 57963,
       "fontFamily": "AntDesign",
-      "identifier": "experimentTwotone"
+      "identifier": "experimentTwotone",
+      "duotone": true
     },
     "export": {
       "codepoint": 57964,
@@ -3189,7 +3246,8 @@
     "eye-invisible-twotone": {
       "codepoint": 57975,
       "fontFamily": "AntDesign",
-      "identifier": "eyeInvisibleTwotone"
+      "identifier": "eyeInvisibleTwotone",
+      "duotone": true
     },
     "eye-outline": {
       "codepoint": 57976,
@@ -3204,7 +3262,8 @@
     "eye-twotone": {
       "codepoint": 57978,
       "fontFamily": "AntDesign",
-      "identifier": "eyeTwotone"
+      "identifier": "eyeTwotone",
+      "duotone": true
     },
     "facebook": {
       "codepoint": 57979,
@@ -3369,7 +3428,8 @@
     "file-add-twotone": {
       "codepoint": 58011,
       "fontFamily": "AntDesign",
-      "identifier": "fileAddTwotone"
+      "identifier": "fileAddTwotone",
+      "duotone": true
     },
     "file-done": {
       "codepoint": 58012,
@@ -3414,7 +3474,8 @@
     "file-excel-twotone": {
       "codepoint": 58020,
       "fontFamily": "AntDesign",
-      "identifier": "fileExcelTwotone"
+      "identifier": "fileExcelTwotone",
+      "duotone": true
     },
     "file-exclamation": {
       "codepoint": 58021,
@@ -3444,7 +3505,8 @@
     "file-exclamation-twotone": {
       "codepoint": 58026,
       "fontFamily": "AntDesign",
-      "identifier": "fileExclamationTwotone"
+      "identifier": "fileExclamationTwotone",
+      "duotone": true
     },
     "file-fill": {
       "codepoint": 58027,
@@ -3494,7 +3556,8 @@
     "file-image-twotone": {
       "codepoint": 58036,
       "fontFamily": "AntDesign",
-      "identifier": "fileImageTwotone"
+      "identifier": "fileImageTwotone",
+      "duotone": true
     },
     "file-jpg": {
       "codepoint": 58037,
@@ -3539,7 +3602,8 @@
     "file-markdown-twotone": {
       "codepoint": 58045,
       "fontFamily": "AntDesign",
-      "identifier": "fileMarkdownTwotone"
+      "identifier": "fileMarkdownTwotone",
+      "duotone": true
     },
     "file-outline": {
       "codepoint": 58046,
@@ -3579,7 +3643,8 @@
     "file-pdf-twotone": {
       "codepoint": 58053,
       "fontFamily": "AntDesign",
-      "identifier": "filePdfTwotone"
+      "identifier": "filePdfTwotone",
+      "duotone": true
     },
     "file-ppt": {
       "codepoint": 58054,
@@ -3609,7 +3674,8 @@
     "file-ppt-twotone": {
       "codepoint": 58059,
       "fontFamily": "AntDesign",
-      "identifier": "filePptTwotone"
+      "identifier": "filePptTwotone",
+      "duotone": true
     },
     "file-protect": {
       "codepoint": 58060,
@@ -3684,12 +3750,14 @@
     "file-text-twotone": {
       "codepoint": 58074,
       "fontFamily": "AntDesign",
-      "identifier": "fileTextTwotone"
+      "identifier": "fileTextTwotone",
+      "duotone": true
     },
     "file-twotone": {
       "codepoint": 58075,
       "fontFamily": "AntDesign",
-      "identifier": "fileTwotone"
+      "identifier": "fileTwotone",
+      "duotone": true
     },
     "file-unknown": {
       "codepoint": 58076,
@@ -3719,7 +3787,8 @@
     "file-unknown-twotone": {
       "codepoint": 58081,
       "fontFamily": "AntDesign",
-      "identifier": "fileUnknownTwotone"
+      "identifier": "fileUnknownTwotone",
+      "duotone": true
     },
     "file-word": {
       "codepoint": 58082,
@@ -3749,7 +3818,8 @@
     "file-word-twotone": {
       "codepoint": 58087,
       "fontFamily": "AntDesign",
-      "identifier": "fileWordTwotone"
+      "identifier": "fileWordTwotone",
+      "duotone": true
     },
     "file-zip": {
       "codepoint": 58088,
@@ -3779,7 +3849,8 @@
     "file-zip-twotone": {
       "codepoint": 58093,
       "fontFamily": "AntDesign",
-      "identifier": "fileZipTwotone"
+      "identifier": "fileZipTwotone",
+      "duotone": true
     },
     "filter": {
       "codepoint": 58094,
@@ -3809,7 +3880,8 @@
     "filter-twotone": {
       "codepoint": 58099,
       "fontFamily": "AntDesign",
-      "identifier": "filterTwotone"
+      "identifier": "filterTwotone",
+      "duotone": true
     },
     "fire": {
       "codepoint": 58100,
@@ -3839,7 +3911,8 @@
     "fire-twotone": {
       "codepoint": 58105,
       "fontFamily": "AntDesign",
-      "identifier": "fireTwotone"
+      "identifier": "fireTwotone",
+      "duotone": true
     },
     "flag": {
       "codepoint": 58106,
@@ -3869,7 +3942,8 @@
     "flag-twotone": {
       "codepoint": 58111,
       "fontFamily": "AntDesign",
-      "identifier": "flagTwotone"
+      "identifier": "flagTwotone",
+      "duotone": true
     },
     "folder": {
       "codepoint": 58112,
@@ -3904,7 +3978,8 @@
     "folder-add-twotone": {
       "codepoint": 58118,
       "fontFamily": "AntDesign",
-      "identifier": "folderAddTwotone"
+      "identifier": "folderAddTwotone",
+      "duotone": true
     },
     "folder-fill": {
       "codepoint": 58119,
@@ -3944,7 +4019,8 @@
     "folder-open-twotone": {
       "codepoint": 58126,
       "fontFamily": "AntDesign",
-      "identifier": "folderOpenTwotone"
+      "identifier": "folderOpenTwotone",
+      "duotone": true
     },
     "folder-outline": {
       "codepoint": 58127,
@@ -3959,7 +4035,8 @@
     "folder-twotone": {
       "codepoint": 58129,
       "fontFamily": "AntDesign",
-      "identifier": "folderTwotone"
+      "identifier": "folderTwotone",
+      "duotone": true
     },
     "folder-view": {
       "codepoint": 58130,
@@ -4099,7 +4176,8 @@
     "frown-twotone": {
       "codepoint": 58157,
       "fontFamily": "AntDesign",
-      "identifier": "frownTwotone"
+      "identifier": "frownTwotone",
+      "duotone": true
     },
     "fullscreen": {
       "codepoint": 58158,
@@ -4179,7 +4257,8 @@
     "fund-twotone": {
       "codepoint": 58173,
       "fontFamily": "AntDesign",
-      "identifier": "fundTwotone"
+      "identifier": "fundTwotone",
+      "duotone": true
     },
     "fund-view": {
       "codepoint": 58174,
@@ -4219,7 +4298,8 @@
     "funnel-plot-twotone": {
       "codepoint": 58181,
       "fontFamily": "AntDesign",
-      "identifier": "funnelPlotTwotone"
+      "identifier": "funnelPlotTwotone",
+      "duotone": true
     },
     "gateway": {
       "codepoint": 58182,
@@ -4274,7 +4354,8 @@
     "gift-twotone": {
       "codepoint": 58192,
       "fontFamily": "AntDesign",
-      "identifier": "giftTwotone"
+      "identifier": "giftTwotone",
+      "duotone": true
     },
     "github": {
       "codepoint": 58193,
@@ -4364,7 +4445,8 @@
     "gold-twotone": {
       "codepoint": 58210,
       "fontFamily": "AntDesign",
-      "identifier": "goldTwotone"
+      "identifier": "goldTwotone",
+      "duotone": true
     },
     "golden": {
       "codepoint": 58211,
@@ -4514,7 +4596,8 @@
     "hdd-twotone": {
       "codepoint": 58240,
       "fontFamily": "AntDesign",
-      "identifier": "hddTwotone"
+      "identifier": "hddTwotone",
+      "duotone": true
     },
     "heart": {
       "codepoint": 58241,
@@ -4544,7 +4627,8 @@
     "heart-twotone": {
       "codepoint": 58246,
       "fontFamily": "AntDesign",
-      "identifier": "heartTwotone"
+      "identifier": "heartTwotone",
+      "duotone": true
     },
     "heat-map": {
       "codepoint": 58247,
@@ -4589,7 +4673,8 @@
     "highlight-twotone": {
       "codepoint": 58255,
       "fontFamily": "AntDesign",
-      "identifier": "highlightTwotone"
+      "identifier": "highlightTwotone",
+      "duotone": true
     },
     "history": {
       "codepoint": 58256,
@@ -4639,7 +4724,8 @@
     "home-twotone": {
       "codepoint": 58265,
       "fontFamily": "AntDesign",
-      "identifier": "homeTwotone"
+      "identifier": "homeTwotone",
+      "duotone": true
     },
     "hourglass": {
       "codepoint": 58266,
@@ -4669,7 +4755,8 @@
     "hourglass-twotone": {
       "codepoint": 58271,
       "fontFamily": "AntDesign",
-      "identifier": "hourglassTwotone"
+      "identifier": "hourglassTwotone",
+      "duotone": true
     },
     "html5": {
       "codepoint": 58272,
@@ -4699,7 +4786,8 @@
     "html5-twotone": {
       "codepoint": 58277,
       "fontFamily": "AntDesign",
-      "identifier": "html5Twotone"
+      "identifier": "html5Twotone",
+      "duotone": true
     },
     "idcard": {
       "codepoint": 58278,
@@ -4729,7 +4817,8 @@
     "idcard-twotone": {
       "codepoint": 58283,
       "fontFamily": "AntDesign",
-      "identifier": "idcardTwotone"
+      "identifier": "idcardTwotone",
+      "duotone": true
     },
     "ie": {
       "codepoint": 58284,
@@ -4839,7 +4928,8 @@
     "info-circle-twotone": {
       "codepoint": 58305,
       "fontFamily": "AntDesign",
-      "identifier": "infoCircleTwotone"
+      "identifier": "infoCircleTwotone",
+      "duotone": true
     },
     "info-outline": {
       "codepoint": 58306,
@@ -4944,7 +5034,8 @@
     "insurance-twotone": {
       "codepoint": 58326,
       "fontFamily": "AntDesign",
-      "identifier": "insuranceTwotone"
+      "identifier": "insuranceTwotone",
+      "duotone": true
     },
     "interaction": {
       "codepoint": 58327,
@@ -4974,7 +5065,8 @@
     "interaction-twotone": {
       "codepoint": 58332,
       "fontFamily": "AntDesign",
-      "identifier": "interactionTwotone"
+      "identifier": "interactionTwotone",
+      "duotone": true
     },
     "interation": {
       "codepoint": 58333,
@@ -4994,7 +5086,8 @@
     "interation-twotone": {
       "codepoint": 58336,
       "fontFamily": "AntDesign",
-      "identifier": "interationTwotone"
+      "identifier": "interationTwotone",
+      "duotone": true
     },
     "issues-close": {
       "codepoint": 58337,
@@ -5099,7 +5192,8 @@
     "layout-twotone": {
       "codepoint": 58357,
       "fontFamily": "AntDesign",
-      "identifier": "layoutTwotone"
+      "identifier": "layoutTwotone",
+      "duotone": true
     },
     "left": {
       "codepoint": 58358,
@@ -5134,7 +5228,8 @@
     "left-circle-twotone": {
       "codepoint": 58364,
       "fontFamily": "AntDesign",
-      "identifier": "leftCircleTwotone"
+      "identifier": "leftCircleTwotone",
+      "duotone": true
     },
     "left-outline": {
       "codepoint": 58365,
@@ -5174,7 +5269,8 @@
     "left-square-twotone": {
       "codepoint": 58372,
       "fontFamily": "AntDesign",
-      "identifier": "leftSquareTwotone"
+      "identifier": "leftSquareTwotone",
+      "duotone": true
     },
     "like": {
       "codepoint": 58373,
@@ -5204,7 +5300,8 @@
     "like-twotone": {
       "codepoint": 58378,
       "fontFamily": "AntDesign",
-      "identifier": "likeTwotone"
+      "identifier": "likeTwotone",
+      "duotone": true
     },
     "line": {
       "codepoint": 58379,
@@ -5354,7 +5451,8 @@
     "lock-twotone": {
       "codepoint": 58408,
       "fontFamily": "AntDesign",
-      "identifier": "lockTwotone"
+      "identifier": "lockTwotone",
+      "duotone": true
     },
     "login": {
       "codepoint": 58409,
@@ -5429,7 +5527,8 @@
     "mail-twotone": {
       "codepoint": 58423,
       "fontFamily": "AntDesign",
-      "identifier": "mailTwotone"
+      "identifier": "mailTwotone",
+      "duotone": true
     },
     "man": {
       "codepoint": 58424,
@@ -5474,7 +5573,8 @@
     "medicine-box-twotone": {
       "codepoint": 58432,
       "fontFamily": "AntDesign",
-      "identifier": "medicineBoxTwotone"
+      "identifier": "medicineBoxTwotone",
+      "duotone": true
     },
     "medium": {
       "codepoint": 58433,
@@ -5564,7 +5664,8 @@
     "meh-twotone": {
       "codepoint": 58450,
       "fontFamily": "AntDesign",
-      "identifier": "mehTwotone"
+      "identifier": "mehTwotone",
+      "duotone": true
     },
     "menu": {
       "codepoint": 58451,
@@ -5659,7 +5760,8 @@
     "message-twotone": {
       "codepoint": 58469,
       "fontFamily": "AntDesign",
-      "identifier": "messageTwotone"
+      "identifier": "messageTwotone",
+      "duotone": true
     },
     "minus": {
       "codepoint": 58470,
@@ -5694,7 +5796,8 @@
     "minus-circle-twotone": {
       "codepoint": 58476,
       "fontFamily": "AntDesign",
-      "identifier": "minusCircleTwotone"
+      "identifier": "minusCircleTwotone",
+      "duotone": true
     },
     "minus-outline": {
       "codepoint": 58477,
@@ -5734,7 +5837,8 @@
     "minus-square-twotone": {
       "codepoint": 58484,
       "fontFamily": "AntDesign",
-      "identifier": "minusSquareTwotone"
+      "identifier": "minusSquareTwotone",
+      "duotone": true
     },
     "mobile": {
       "codepoint": 58485,
@@ -5764,7 +5868,8 @@
     "mobile-twotone": {
       "codepoint": 58490,
       "fontFamily": "AntDesign",
-      "identifier": "mobileTwotone"
+      "identifier": "mobileTwotone",
+      "duotone": true
     },
     "money-collect": {
       "codepoint": 58491,
@@ -5794,7 +5899,8 @@
     "money-collect-twotone": {
       "codepoint": 58496,
       "fontFamily": "AntDesign",
-      "identifier": "moneyCollectTwotone"
+      "identifier": "moneyCollectTwotone",
+      "duotone": true
     },
     "monitor": {
       "codepoint": 58497,
@@ -5909,7 +6015,8 @@
     "notification-twotone": {
       "codepoint": 58519,
       "fontFamily": "AntDesign",
-      "identifier": "notificationTwotone"
+      "identifier": "notificationTwotone",
+      "duotone": true
     },
     "number": {
       "codepoint": 58520,
@@ -6019,7 +6126,8 @@
     "pause-circle-twotone": {
       "codepoint": 58541,
       "fontFamily": "AntDesign",
-      "identifier": "pauseCircleTwotone"
+      "identifier": "pauseCircleTwotone",
+      "duotone": true
     },
     "pause-outline": {
       "codepoint": 58542,
@@ -6099,7 +6207,8 @@
     "phone-twotone": {
       "codepoint": 58557,
       "fontFamily": "AntDesign",
-      "identifier": "phoneTwotone"
+      "identifier": "phoneTwotone",
+      "duotone": true
     },
     "pic-center": {
       "codepoint": 58558,
@@ -6174,7 +6283,8 @@
     "picture-twotone": {
       "codepoint": 58572,
       "fontFamily": "AntDesign",
-      "identifier": "pictureTwotone"
+      "identifier": "pictureTwotone",
+      "duotone": true
     },
     "pie-chart": {
       "codepoint": 58573,
@@ -6204,7 +6314,8 @@
     "pie-chart-twotone": {
       "codepoint": 58578,
       "fontFamily": "AntDesign",
-      "identifier": "pieChartTwotone"
+      "identifier": "pieChartTwotone",
+      "duotone": true
     },
     "pinterest-filled": {
       "codepoint": 58579,
@@ -6244,7 +6355,8 @@
     "play-circle-twotone": {
       "codepoint": 58586,
       "fontFamily": "AntDesign",
-      "identifier": "playCircleTwotone"
+      "identifier": "playCircleTwotone",
+      "duotone": true
     },
     "play-square": {
       "codepoint": 58587,
@@ -6274,7 +6386,8 @@
     "play-square-twotone": {
       "codepoint": 58592,
       "fontFamily": "AntDesign",
-      "identifier": "playSquareTwotone"
+      "identifier": "playSquareTwotone",
+      "duotone": true
     },
     "plus": {
       "codepoint": 58593,
@@ -6309,7 +6422,8 @@
     "plus-circle-twotone": {
       "codepoint": 58599,
       "fontFamily": "AntDesign",
-      "identifier": "plusCircleTwotone"
+      "identifier": "plusCircleTwotone",
+      "duotone": true
     },
     "plus-outline": {
       "codepoint": 58600,
@@ -6349,7 +6463,8 @@
     "plus-square-twotone": {
       "codepoint": 58607,
       "fontFamily": "AntDesign",
-      "identifier": "plusSquareTwotone"
+      "identifier": "plusSquareTwotone",
+      "duotone": true
     },
     "pound": {
       "codepoint": 58608,
@@ -6379,7 +6494,8 @@
     "pound-circle-twotone": {
       "codepoint": 58613,
       "fontFamily": "AntDesign",
-      "identifier": "poundCircleTwotone"
+      "identifier": "poundCircleTwotone",
+      "duotone": true
     },
     "pound-outline": {
       "codepoint": 58614,
@@ -6434,7 +6550,8 @@
     "printer-twotone": {
       "codepoint": 58624,
       "fontFamily": "AntDesign",
-      "identifier": "printerTwotone"
+      "identifier": "printerTwotone",
+      "duotone": true
     },
     "product-filled": {
       "codepoint": 58625,
@@ -6474,7 +6591,8 @@
     "profile-twotone": {
       "codepoint": 58632,
       "fontFamily": "AntDesign",
-      "identifier": "profileTwotone"
+      "identifier": "profileTwotone",
+      "duotone": true
     },
     "project": {
       "codepoint": 58633,
@@ -6504,7 +6622,8 @@
     "project-twotone": {
       "codepoint": 58638,
       "fontFamily": "AntDesign",
-      "identifier": "projectTwotone"
+      "identifier": "projectTwotone",
+      "duotone": true
     },
     "property-safety": {
       "codepoint": 58639,
@@ -6534,7 +6653,8 @@
     "property-safety-twotone": {
       "codepoint": 58644,
       "fontFamily": "AntDesign",
-      "identifier": "propertySafetyTwotone"
+      "identifier": "propertySafetyTwotone",
+      "duotone": true
     },
     "pull-request": {
       "codepoint": 58645,
@@ -6579,7 +6699,8 @@
     "pushpin-twotone": {
       "codepoint": 58653,
       "fontFamily": "AntDesign",
-      "identifier": "pushpinTwotone"
+      "identifier": "pushpinTwotone",
+      "duotone": true
     },
     "python-outlined": {
       "codepoint": 58654,
@@ -6679,7 +6800,8 @@
     "question-circle-twotone": {
       "codepoint": 58673,
       "fontFamily": "AntDesign",
-      "identifier": "questionCircleTwotone"
+      "identifier": "questionCircleTwotone",
+      "duotone": true
     },
     "question-outline": {
       "codepoint": 58674,
@@ -6834,7 +6956,8 @@
     "reconciliation-twotone": {
       "codepoint": 58704,
       "fontFamily": "AntDesign",
-      "identifier": "reconciliationTwotone"
+      "identifier": "reconciliationTwotone",
+      "duotone": true
     },
     "red-envelope": {
       "codepoint": 58705,
@@ -6864,7 +6987,8 @@
     "red-envelope-twotone": {
       "codepoint": 58710,
       "fontFamily": "AntDesign",
-      "identifier": "redEnvelopeTwotone"
+      "identifier": "redEnvelopeTwotone",
+      "duotone": true
     },
     "reddit": {
       "codepoint": 58711,
@@ -6974,7 +7098,8 @@
     "rest-twotone": {
       "codepoint": 58732,
       "fontFamily": "AntDesign",
-      "identifier": "restTwotone"
+      "identifier": "restTwotone",
+      "duotone": true
     },
     "retweet": {
       "codepoint": 58733,
@@ -7024,7 +7149,8 @@
     "right-circle-twotone": {
       "codepoint": 58742,
       "fontFamily": "AntDesign",
-      "identifier": "rightCircleTwotone"
+      "identifier": "rightCircleTwotone",
+      "duotone": true
     },
     "right-outline": {
       "codepoint": 58743,
@@ -7064,7 +7190,8 @@
     "right-square-twotone": {
       "codepoint": 58750,
       "fontFamily": "AntDesign",
-      "identifier": "rightSquareTwotone"
+      "identifier": "rightSquareTwotone",
+      "duotone": true
     },
     "rise": {
       "codepoint": 58751,
@@ -7129,7 +7256,8 @@
     "rocket-twotone": {
       "codepoint": 58763,
       "fontFamily": "AntDesign",
-      "identifier": "rocketTwotone"
+      "identifier": "rocketTwotone",
+      "duotone": true
     },
     "rollback": {
       "codepoint": 58764,
@@ -7204,7 +7332,8 @@
     "safety-certificate-twotone": {
       "codepoint": 58778,
       "fontFamily": "AntDesign",
-      "identifier": "safetyCertificateTwotone"
+      "identifier": "safetyCertificateTwotone",
+      "duotone": true
     },
     "safety-outline": {
       "codepoint": 58779,
@@ -7244,7 +7373,8 @@
     "save-twotone": {
       "codepoint": 58786,
       "fontFamily": "AntDesign",
-      "identifier": "saveTwotone"
+      "identifier": "saveTwotone",
+      "duotone": true
     },
     "scan": {
       "codepoint": 58787,
@@ -7289,7 +7419,8 @@
     "schedule-twotone": {
       "codepoint": 58795,
       "fontFamily": "AntDesign",
-      "identifier": "scheduleTwotone"
+      "identifier": "scheduleTwotone",
+      "duotone": true
     },
     "scissor": {
       "codepoint": 58796,
@@ -7349,7 +7480,8 @@
     "security-scan-twotone": {
       "codepoint": 58807,
       "fontFamily": "AntDesign",
-      "identifier": "securityScanTwotone"
+      "identifier": "securityScanTwotone",
+      "duotone": true
     },
     "select": {
       "codepoint": 58808,
@@ -7404,7 +7536,8 @@
     "setting-twotone": {
       "codepoint": 58818,
       "fontFamily": "AntDesign",
-      "identifier": "settingTwotone"
+      "identifier": "settingTwotone",
+      "duotone": true
     },
     "shake": {
       "codepoint": 58819,
@@ -7464,7 +7597,8 @@
     "shop-twotone": {
       "codepoint": 58830,
       "fontFamily": "AntDesign",
-      "identifier": "shopTwotone"
+      "identifier": "shopTwotone",
+      "duotone": true
     },
     "shopping": {
       "codepoint": 58831,
@@ -7509,7 +7643,8 @@
     "shopping-twotone": {
       "codepoint": 58839,
       "fontFamily": "AntDesign",
-      "identifier": "shoppingTwotone"
+      "identifier": "shoppingTwotone",
+      "duotone": true
     },
     "shrink": {
       "codepoint": 58840,
@@ -7629,7 +7764,8 @@
     "skin-twotone": {
       "codepoint": 58863,
       "fontFamily": "AntDesign",
-      "identifier": "skinTwotone"
+      "identifier": "skinTwotone",
+      "duotone": true
     },
     "skype": {
       "codepoint": 58864,
@@ -7739,7 +7875,8 @@
     "sliders-twotone": {
       "codepoint": 58885,
       "fontFamily": "AntDesign",
-      "identifier": "slidersTwotone"
+      "identifier": "slidersTwotone",
+      "duotone": true
     },
     "small-dash": {
       "codepoint": 58886,
@@ -7784,7 +7921,8 @@
     "smile-twotone": {
       "codepoint": 58894,
       "fontFamily": "AntDesign",
-      "identifier": "smileTwotone"
+      "identifier": "smileTwotone",
+      "duotone": true
     },
     "snippets": {
       "codepoint": 58895,
@@ -7814,7 +7952,8 @@
     "snippets-twotone": {
       "codepoint": 58900,
       "fontFamily": "AntDesign",
-      "identifier": "snippetsTwotone"
+      "identifier": "snippetsTwotone",
+      "duotone": true
     },
     "solution": {
       "codepoint": 58901,
@@ -7889,7 +8028,8 @@
     "sound-twotone": {
       "codepoint": 58915,
       "fontFamily": "AntDesign",
-      "identifier": "soundTwotone"
+      "identifier": "soundTwotone",
+      "duotone": true
     },
     "split-cells": {
       "codepoint": 58916,
@@ -7939,7 +8079,8 @@
     "star-twotone": {
       "codepoint": 58925,
       "fontFamily": "AntDesign",
-      "identifier": "starTwotone"
+      "identifier": "starTwotone",
+      "duotone": true
     },
     "step-backward": {
       "codepoint": 58926,
@@ -8034,7 +8175,8 @@
     "stop-twotone": {
       "codepoint": 58944,
       "fontFamily": "AntDesign",
-      "identifier": "stopTwotone"
+      "identifier": "stopTwotone",
+      "duotone": true
     },
     "strikethrough": {
       "codepoint": 58945,
@@ -8144,7 +8286,8 @@
     "switcher-twotone": {
       "codepoint": 58966,
       "fontFamily": "AntDesign",
-      "identifier": "switcherTwotone"
+      "identifier": "switcherTwotone",
+      "duotone": true
     },
     "sync": {
       "codepoint": 58967,
@@ -8204,7 +8347,8 @@
     "tablet-twotone": {
       "codepoint": 58978,
       "fontFamily": "AntDesign",
-      "identifier": "tabletTwotone"
+      "identifier": "tabletTwotone",
+      "duotone": true
     },
     "tag": {
       "codepoint": 58979,
@@ -8234,7 +8378,8 @@
     "tag-twotone": {
       "codepoint": 58984,
       "fontFamily": "AntDesign",
-      "identifier": "tagTwotone"
+      "identifier": "tagTwotone",
+      "duotone": true
     },
     "tags": {
       "codepoint": 58985,
@@ -8264,7 +8409,8 @@
     "tags-twotone": {
       "codepoint": 58990,
       "fontFamily": "AntDesign",
-      "identifier": "tagsTwotone"
+      "identifier": "tagsTwotone",
+      "duotone": true
     },
     "taobao": {
       "codepoint": 58991,
@@ -8364,7 +8510,8 @@
     "thunderbolt-twotone": {
       "codepoint": 59010,
       "fontFamily": "AntDesign",
-      "identifier": "thunderboltTwotone"
+      "identifier": "thunderboltTwotone",
+      "duotone": true
     },
     "tik-tok-filled": {
       "codepoint": 59011,
@@ -8419,7 +8566,8 @@
     "tool-twotone": {
       "codepoint": 59021,
       "fontFamily": "AntDesign",
-      "identifier": "toolTwotone"
+      "identifier": "toolTwotone",
+      "duotone": true
     },
     "trademark": {
       "codepoint": 59022,
@@ -8449,7 +8597,8 @@
     "trademark-circle-twotone": {
       "codepoint": 59027,
       "fontFamily": "AntDesign",
-      "identifier": "trademarkCircleTwotone"
+      "identifier": "trademarkCircleTwotone",
+      "duotone": true
     },
     "trademark-outline": {
       "codepoint": 59028,
@@ -8514,7 +8663,8 @@
     "trophy-twotone": {
       "codepoint": 59040,
       "fontFamily": "AntDesign",
-      "identifier": "trophyTwotone"
+      "identifier": "trophyTwotone",
+      "duotone": true
     },
     "truck-filled": {
       "codepoint": 59041,
@@ -8644,7 +8794,8 @@
     "unlock-twotone": {
       "codepoint": 59066,
       "fontFamily": "AntDesign",
-      "identifier": "unlockTwotone"
+      "identifier": "unlockTwotone",
+      "duotone": true
     },
     "unordered-list": {
       "codepoint": 59067,
@@ -8694,7 +8845,8 @@
     "up-circle-twotone": {
       "codepoint": 59076,
       "fontFamily": "AntDesign",
-      "identifier": "upCircleTwotone"
+      "identifier": "upCircleTwotone",
+      "duotone": true
     },
     "up-outline": {
       "codepoint": 59077,
@@ -8734,7 +8886,8 @@
     "up-square-twotone": {
       "codepoint": 59084,
       "fontFamily": "AntDesign",
-      "identifier": "upSquareTwotone"
+      "identifier": "upSquareTwotone",
+      "duotone": true
     },
     "upload": {
       "codepoint": 59085,
@@ -8779,7 +8932,8 @@
     "usb-twotone": {
       "codepoint": 59093,
       "fontFamily": "AntDesign",
-      "identifier": "usbTwotone"
+      "identifier": "usbTwotone",
+      "duotone": true
     },
     "user": {
       "codepoint": 59094,
@@ -8989,7 +9143,8 @@
     "video-camera-twotone": {
       "codepoint": 59135,
       "fontFamily": "AntDesign",
-      "identifier": "videoCameraTwotone"
+      "identifier": "videoCameraTwotone",
+      "duotone": true
     },
     "wallet": {
       "codepoint": 59136,
@@ -9019,7 +9174,8 @@
     "wallet-twotone": {
       "codepoint": 59141,
       "fontFamily": "AntDesign",
-      "identifier": "walletTwotone"
+      "identifier": "walletTwotone",
+      "duotone": true
     },
     "warning": {
       "codepoint": 59142,
@@ -9049,7 +9205,8 @@
     "warning-twotone": {
       "codepoint": 59147,
       "fontFamily": "AntDesign",
-      "identifier": "warningTwotone"
+      "identifier": "warningTwotone",
+      "duotone": true
     },
     "wechat": {
       "codepoint": 59148,
@@ -9219,7 +9376,8 @@
     "x-filled": {
       "codepoint": 59181,
       "fontFamily": "AntDesign",
-      "identifier": "xFilled"
+      "identifier": "xFilled",
+      "duotone": true
     },
     "x-outlined": {
       "codepoint": 59182,

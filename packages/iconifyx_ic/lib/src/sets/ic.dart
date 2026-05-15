@@ -1551,9 +1551,10 @@ class IcIcons {
     IconData(0xe132, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-20`
-  static const IconifyIconData baselineBattery20 = IconifyIconData.solo(
+  /// `baseline-battery-20` (duo-tone)
+  static const IconifyIconData baselineBattery20 = IconifyIconData.duo(
     IconData(0xe133, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe133, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-battery-3-bar`
@@ -1561,9 +1562,10 @@ class IcIcons {
     IconData(0xe134, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-30`
-  static const IconifyIconData baselineBattery30 = IconifyIconData.solo(
+  /// `baseline-battery-30` (duo-tone)
+  static const IconifyIconData baselineBattery30 = IconifyIconData.duo(
     IconData(0xe135, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe135, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-battery-4-bar`
@@ -1576,9 +1578,10 @@ class IcIcons {
     IconData(0xe137, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-50`
-  static const IconifyIconData baselineBattery50 = IconifyIconData.solo(
+  /// `baseline-battery-50` (duo-tone)
+  static const IconifyIconData baselineBattery50 = IconifyIconData.duo(
     IconData(0xe138, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe138, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-battery-6-bar`
@@ -1586,19 +1589,22 @@ class IcIcons {
     IconData(0xe139, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-60`
-  static const IconifyIconData baselineBattery60 = IconifyIconData.solo(
+  /// `baseline-battery-60` (duo-tone)
+  static const IconifyIconData baselineBattery60 = IconifyIconData.duo(
     IconData(0xe13a, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe13a, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-80`
-  static const IconifyIconData baselineBattery80 = IconifyIconData.solo(
+  /// `baseline-battery-80` (duo-tone)
+  static const IconifyIconData baselineBattery80 = IconifyIconData.duo(
     IconData(0xe13b, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe13b, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-90`
-  static const IconifyIconData baselineBattery90 = IconifyIconData.solo(
+  /// `baseline-battery-90` (duo-tone)
+  static const IconifyIconData baselineBattery90 = IconifyIconData.duo(
     IconData(0xe13c, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe13c, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-battery-alert`
@@ -1606,34 +1612,40 @@ class IcIcons {
     IconData(0xe13d, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-charging-20`
-  static const IconifyIconData baselineBatteryCharging20 = IconifyIconData.solo(
+  /// `baseline-battery-charging-20` (duo-tone)
+  static const IconifyIconData baselineBatteryCharging20 = IconifyIconData.duo(
     IconData(0xe13e, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe13e, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-charging-30`
-  static const IconifyIconData baselineBatteryCharging30 = IconifyIconData.solo(
+  /// `baseline-battery-charging-30` (duo-tone)
+  static const IconifyIconData baselineBatteryCharging30 = IconifyIconData.duo(
     IconData(0xe13f, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe13f, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-charging-50`
-  static const IconifyIconData baselineBatteryCharging50 = IconifyIconData.solo(
+  /// `baseline-battery-charging-50` (duo-tone)
+  static const IconifyIconData baselineBatteryCharging50 = IconifyIconData.duo(
     IconData(0xe140, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe140, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-charging-60`
-  static const IconifyIconData baselineBatteryCharging60 = IconifyIconData.solo(
+  /// `baseline-battery-charging-60` (duo-tone)
+  static const IconifyIconData baselineBatteryCharging60 = IconifyIconData.duo(
     IconData(0xe141, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe141, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-charging-80`
-  static const IconifyIconData baselineBatteryCharging80 = IconifyIconData.solo(
+  /// `baseline-battery-charging-80` (duo-tone)
+  static const IconifyIconData baselineBatteryCharging80 = IconifyIconData.duo(
     IconData(0xe142, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe142, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-battery-charging-90`
-  static const IconifyIconData baselineBatteryCharging90 = IconifyIconData.solo(
+  /// `baseline-battery-charging-90` (duo-tone)
+  static const IconifyIconData baselineBatteryCharging90 = IconifyIconData.duo(
     IconData(0xe143, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe143, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-battery-charging-full`
@@ -9066,19 +9078,22 @@ class IcIcons {
     IconData(0xe711, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-signal-cellular-1-bar`
-  static const IconifyIconData baselineSignalCellular1Bar = IconifyIconData.solo(
+  /// `baseline-signal-cellular-1-bar` (duo-tone)
+  static const IconifyIconData baselineSignalCellular1Bar = IconifyIconData.duo(
     IconData(0xe712, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe712, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-signal-cellular-2-bar`
-  static const IconifyIconData baselineSignalCellular2Bar = IconifyIconData.solo(
+  /// `baseline-signal-cellular-2-bar` (duo-tone)
+  static const IconifyIconData baselineSignalCellular2Bar = IconifyIconData.duo(
     IconData(0xe713, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe713, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-signal-cellular-3-bar`
-  static const IconifyIconData baselineSignalCellular3Bar = IconifyIconData.solo(
+  /// `baseline-signal-cellular-3-bar` (duo-tone)
+  static const IconifyIconData baselineSignalCellular3Bar = IconifyIconData.duo(
     IconData(0xe714, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe714, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-signal-cellular-4-bar`
@@ -9106,19 +9121,22 @@ class IcIcons {
     IconData(0xe719, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-signal-cellular-connected-no-internet-1-bar`
-  static const IconifyIconData baselineSignalCellularConnectedNoInternet1Bar = IconifyIconData.solo(
+  /// `baseline-signal-cellular-connected-no-internet-1-bar` (duo-tone)
+  static const IconifyIconData baselineSignalCellularConnectedNoInternet1Bar = IconifyIconData.duo(
     IconData(0xe71a, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe71a, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-signal-cellular-connected-no-internet-2-bar`
-  static const IconifyIconData baselineSignalCellularConnectedNoInternet2Bar = IconifyIconData.solo(
+  /// `baseline-signal-cellular-connected-no-internet-2-bar` (duo-tone)
+  static const IconifyIconData baselineSignalCellularConnectedNoInternet2Bar = IconifyIconData.duo(
     IconData(0xe71b, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe71b, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-signal-cellular-connected-no-internet-3-bar`
-  static const IconifyIconData baselineSignalCellularConnectedNoInternet3Bar = IconifyIconData.solo(
+  /// `baseline-signal-cellular-connected-no-internet-3-bar` (duo-tone)
+  static const IconifyIconData baselineSignalCellularConnectedNoInternet3Bar = IconifyIconData.duo(
     IconData(0xe71c, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe71c, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-signal-cellular-connected-no-internet-4-bar`
@@ -9151,9 +9169,10 @@ class IcIcons {
     IconData(0xe722, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-signal-wifi-1-bar`
-  static const IconifyIconData baselineSignalWifi1Bar = IconifyIconData.solo(
+  /// `baseline-signal-wifi-1-bar` (duo-tone)
+  static const IconifyIconData baselineSignalWifi1Bar = IconifyIconData.duo(
     IconData(0xe723, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe723, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-signal-wifi-1-bar-lock` (duo-tone)
@@ -9162,9 +9181,10 @@ class IcIcons {
     IconData(0xe724, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-signal-wifi-2-bar`
-  static const IconifyIconData baselineSignalWifi2Bar = IconifyIconData.solo(
+  /// `baseline-signal-wifi-2-bar` (duo-tone)
+  static const IconifyIconData baselineSignalWifi2Bar = IconifyIconData.duo(
     IconData(0xe725, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe725, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-signal-wifi-2-bar-lock` (duo-tone)
@@ -9173,9 +9193,10 @@ class IcIcons {
     IconData(0xe726, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `baseline-signal-wifi-3-bar`
-  static const IconifyIconData baselineSignalWifi3Bar = IconifyIconData.solo(
+  /// `baseline-signal-wifi-3-bar` (duo-tone)
+  static const IconifyIconData baselineSignalWifi3Bar = IconifyIconData.duo(
     IconData(0xe727, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe727, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `baseline-signal-wifi-3-bar-lock` (duo-tone)
@@ -11339,34 +11360,40 @@ class IcIcons {
     IconData(0xe8d7, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-20`
-  static const IconifyIconData battery20 = IconifyIconData.solo(
+  /// `battery-20` (duo-tone)
+  static const IconifyIconData battery20 = IconifyIconData.duo(
     IconData(0xe8d8, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8d8, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-30`
-  static const IconifyIconData battery30 = IconifyIconData.solo(
+  /// `battery-30` (duo-tone)
+  static const IconifyIconData battery30 = IconifyIconData.duo(
     IconData(0xe8d9, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8d9, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-50`
-  static const IconifyIconData battery50 = IconifyIconData.solo(
+  /// `battery-50` (duo-tone)
+  static const IconifyIconData battery50 = IconifyIconData.duo(
     IconData(0xe8da, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8da, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-60`
-  static const IconifyIconData battery60 = IconifyIconData.solo(
+  /// `battery-60` (duo-tone)
+  static const IconifyIconData battery60 = IconifyIconData.duo(
     IconData(0xe8db, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8db, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-80`
-  static const IconifyIconData battery80 = IconifyIconData.solo(
+  /// `battery-80` (duo-tone)
+  static const IconifyIconData battery80 = IconifyIconData.duo(
     IconData(0xe8dc, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8dc, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-90`
-  static const IconifyIconData battery90 = IconifyIconData.solo(
+  /// `battery-90` (duo-tone)
+  static const IconifyIconData battery90 = IconifyIconData.duo(
     IconData(0xe8dd, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8dd, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `battery-alert`
@@ -11374,34 +11401,40 @@ class IcIcons {
     IconData(0xe8de, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-charging-20`
-  static const IconifyIconData batteryCharging20 = IconifyIconData.solo(
+  /// `battery-charging-20` (duo-tone)
+  static const IconifyIconData batteryCharging20 = IconifyIconData.duo(
     IconData(0xe8df, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8df, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-charging-30`
-  static const IconifyIconData batteryCharging30 = IconifyIconData.solo(
+  /// `battery-charging-30` (duo-tone)
+  static const IconifyIconData batteryCharging30 = IconifyIconData.duo(
     IconData(0xe8e0, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8e0, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-charging-50`
-  static const IconifyIconData batteryCharging50 = IconifyIconData.solo(
+  /// `battery-charging-50` (duo-tone)
+  static const IconifyIconData batteryCharging50 = IconifyIconData.duo(
     IconData(0xe8e1, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8e1, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-charging-60`
-  static const IconifyIconData batteryCharging60 = IconifyIconData.solo(
+  /// `battery-charging-60` (duo-tone)
+  static const IconifyIconData batteryCharging60 = IconifyIconData.duo(
     IconData(0xe8e2, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8e2, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-charging-80`
-  static const IconifyIconData batteryCharging80 = IconifyIconData.solo(
+  /// `battery-charging-80` (duo-tone)
+  static const IconifyIconData batteryCharging80 = IconifyIconData.duo(
     IconData(0xe8e3, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8e3, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `battery-charging-90`
-  static const IconifyIconData batteryCharging90 = IconifyIconData.solo(
+  /// `battery-charging-90` (duo-tone)
+  static const IconifyIconData batteryCharging90 = IconifyIconData.duo(
     IconData(0xe8e4, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xe8e4, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `battery-charging-full`
@@ -15104,9 +15137,10 @@ class IcIcons {
     IconData(0xebc8, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-20`
-  static const IconifyIconData outlineBattery20 = IconifyIconData.solo(
+  /// `outline-battery-20` (duo-tone)
+  static const IconifyIconData outlineBattery20 = IconifyIconData.duo(
     IconData(0xebc9, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebc9, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `outline-battery-3-bar`
@@ -15114,9 +15148,10 @@ class IcIcons {
     IconData(0xebca, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-30`
-  static const IconifyIconData outlineBattery30 = IconifyIconData.solo(
+  /// `outline-battery-30` (duo-tone)
+  static const IconifyIconData outlineBattery30 = IconifyIconData.duo(
     IconData(0xebcb, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebcb, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `outline-battery-4-bar`
@@ -15129,9 +15164,10 @@ class IcIcons {
     IconData(0xebcd, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-50`
-  static const IconifyIconData outlineBattery50 = IconifyIconData.solo(
+  /// `outline-battery-50` (duo-tone)
+  static const IconifyIconData outlineBattery50 = IconifyIconData.duo(
     IconData(0xebce, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebce, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `outline-battery-6-bar`
@@ -15139,19 +15175,22 @@ class IcIcons {
     IconData(0xebcf, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-60`
-  static const IconifyIconData outlineBattery60 = IconifyIconData.solo(
+  /// `outline-battery-60` (duo-tone)
+  static const IconifyIconData outlineBattery60 = IconifyIconData.duo(
     IconData(0xebd0, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebd0, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-80`
-  static const IconifyIconData outlineBattery80 = IconifyIconData.solo(
+  /// `outline-battery-80` (duo-tone)
+  static const IconifyIconData outlineBattery80 = IconifyIconData.duo(
     IconData(0xebd1, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebd1, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-90`
-  static const IconifyIconData outlineBattery90 = IconifyIconData.solo(
+  /// `outline-battery-90` (duo-tone)
+  static const IconifyIconData outlineBattery90 = IconifyIconData.duo(
     IconData(0xebd2, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebd2, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `outline-battery-alert`
@@ -15159,34 +15198,40 @@ class IcIcons {
     IconData(0xebd3, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-charging-20`
-  static const IconifyIconData outlineBatteryCharging20 = IconifyIconData.solo(
+  /// `outline-battery-charging-20` (duo-tone)
+  static const IconifyIconData outlineBatteryCharging20 = IconifyIconData.duo(
     IconData(0xebd4, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebd4, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-charging-30`
-  static const IconifyIconData outlineBatteryCharging30 = IconifyIconData.solo(
+  /// `outline-battery-charging-30` (duo-tone)
+  static const IconifyIconData outlineBatteryCharging30 = IconifyIconData.duo(
     IconData(0xebd5, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebd5, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-charging-50`
-  static const IconifyIconData outlineBatteryCharging50 = IconifyIconData.solo(
+  /// `outline-battery-charging-50` (duo-tone)
+  static const IconifyIconData outlineBatteryCharging50 = IconifyIconData.duo(
     IconData(0xebd6, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebd6, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-charging-60`
-  static const IconifyIconData outlineBatteryCharging60 = IconifyIconData.solo(
+  /// `outline-battery-charging-60` (duo-tone)
+  static const IconifyIconData outlineBatteryCharging60 = IconifyIconData.duo(
     IconData(0xebd7, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebd7, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-charging-80`
-  static const IconifyIconData outlineBatteryCharging80 = IconifyIconData.solo(
+  /// `outline-battery-charging-80` (duo-tone)
+  static const IconifyIconData outlineBatteryCharging80 = IconifyIconData.duo(
     IconData(0xebd8, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebd8, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-battery-charging-90`
-  static const IconifyIconData outlineBatteryCharging90 = IconifyIconData.solo(
+  /// `outline-battery-charging-90` (duo-tone)
+  static const IconifyIconData outlineBatteryCharging90 = IconifyIconData.duo(
     IconData(0xebd9, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xebd9, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `outline-battery-charging-full`
@@ -22619,19 +22664,22 @@ class IcIcons {
     IconData(0xf1a7, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-cellular-1-bar`
-  static const IconifyIconData outlineSignalCellular1Bar = IconifyIconData.solo(
+  /// `outline-signal-cellular-1-bar` (duo-tone)
+  static const IconifyIconData outlineSignalCellular1Bar = IconifyIconData.duo(
     IconData(0xf1a8, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1a8, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-cellular-2-bar`
-  static const IconifyIconData outlineSignalCellular2Bar = IconifyIconData.solo(
+  /// `outline-signal-cellular-2-bar` (duo-tone)
+  static const IconifyIconData outlineSignalCellular2Bar = IconifyIconData.duo(
     IconData(0xf1a9, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1a9, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-cellular-3-bar`
-  static const IconifyIconData outlineSignalCellular3Bar = IconifyIconData.solo(
+  /// `outline-signal-cellular-3-bar` (duo-tone)
+  static const IconifyIconData outlineSignalCellular3Bar = IconifyIconData.duo(
     IconData(0xf1aa, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1aa, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `outline-signal-cellular-4-bar`
@@ -22659,19 +22707,22 @@ class IcIcons {
     IconData(0xf1af, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-cellular-connected-no-internet-1-bar`
-  static const IconifyIconData outlineSignalCellularConnectedNoInternet1Bar = IconifyIconData.solo(
+  /// `outline-signal-cellular-connected-no-internet-1-bar` (duo-tone)
+  static const IconifyIconData outlineSignalCellularConnectedNoInternet1Bar = IconifyIconData.duo(
     IconData(0xf1b0, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1b0, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-cellular-connected-no-internet-2-bar`
-  static const IconifyIconData outlineSignalCellularConnectedNoInternet2Bar = IconifyIconData.solo(
+  /// `outline-signal-cellular-connected-no-internet-2-bar` (duo-tone)
+  static const IconifyIconData outlineSignalCellularConnectedNoInternet2Bar = IconifyIconData.duo(
     IconData(0xf1b1, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1b1, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-cellular-connected-no-internet-3-bar`
-  static const IconifyIconData outlineSignalCellularConnectedNoInternet3Bar = IconifyIconData.solo(
+  /// `outline-signal-cellular-connected-no-internet-3-bar` (duo-tone)
+  static const IconifyIconData outlineSignalCellularConnectedNoInternet3Bar = IconifyIconData.duo(
     IconData(0xf1b2, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1b2, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `outline-signal-cellular-connected-no-internet-4-bar`
@@ -22704,34 +22755,40 @@ class IcIcons {
     IconData(0xf1b8, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-wifi-1-bar`
-  static const IconifyIconData outlineSignalWifi1Bar = IconifyIconData.solo(
+  /// `outline-signal-wifi-1-bar` (duo-tone)
+  static const IconifyIconData outlineSignalWifi1Bar = IconifyIconData.duo(
     IconData(0xf1b9, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1b9, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-wifi-1-bar-lock`
-  static const IconifyIconData outlineSignalWifi1BarLock = IconifyIconData.solo(
+  /// `outline-signal-wifi-1-bar-lock` (duo-tone)
+  static const IconifyIconData outlineSignalWifi1BarLock = IconifyIconData.duo(
     IconData(0xf1ba, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1ba, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-wifi-2-bar`
-  static const IconifyIconData outlineSignalWifi2Bar = IconifyIconData.solo(
+  /// `outline-signal-wifi-2-bar` (duo-tone)
+  static const IconifyIconData outlineSignalWifi2Bar = IconifyIconData.duo(
     IconData(0xf1bb, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1bb, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-wifi-2-bar-lock`
-  static const IconifyIconData outlineSignalWifi2BarLock = IconifyIconData.solo(
+  /// `outline-signal-wifi-2-bar-lock` (duo-tone)
+  static const IconifyIconData outlineSignalWifi2BarLock = IconifyIconData.duo(
     IconData(0xf1bc, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1bc, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-wifi-3-bar`
-  static const IconifyIconData outlineSignalWifi3Bar = IconifyIconData.solo(
+  /// `outline-signal-wifi-3-bar` (duo-tone)
+  static const IconifyIconData outlineSignalWifi3Bar = IconifyIconData.duo(
     IconData(0xf1bd, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1bd, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `outline-signal-wifi-3-bar-lock`
-  static const IconifyIconData outlineSignalWifi3BarLock = IconifyIconData.solo(
+  /// `outline-signal-wifi-3-bar-lock` (duo-tone)
+  static const IconifyIconData outlineSignalWifi3BarLock = IconifyIconData.duo(
     IconData(0xf1be, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf1be, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `outline-signal-wifi-4-bar`
@@ -26684,9 +26741,10 @@ class IcIcons {
     IconData(0xf4d4, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-20`
-  static const IconifyIconData roundBattery20 = IconifyIconData.solo(
+  /// `round-battery-20` (duo-tone)
+  static const IconifyIconData roundBattery20 = IconifyIconData.duo(
     IconData(0xf4d5, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4d5, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `round-battery-3-bar`
@@ -26694,9 +26752,10 @@ class IcIcons {
     IconData(0xf4d6, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-30`
-  static const IconifyIconData roundBattery30 = IconifyIconData.solo(
+  /// `round-battery-30` (duo-tone)
+  static const IconifyIconData roundBattery30 = IconifyIconData.duo(
     IconData(0xf4d7, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4d7, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `round-battery-4-bar`
@@ -26709,9 +26768,10 @@ class IcIcons {
     IconData(0xf4d9, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-50`
-  static const IconifyIconData roundBattery50 = IconifyIconData.solo(
+  /// `round-battery-50` (duo-tone)
+  static const IconifyIconData roundBattery50 = IconifyIconData.duo(
     IconData(0xf4da, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4da, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `round-battery-6-bar`
@@ -26719,19 +26779,22 @@ class IcIcons {
     IconData(0xf4db, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-60`
-  static const IconifyIconData roundBattery60 = IconifyIconData.solo(
+  /// `round-battery-60` (duo-tone)
+  static const IconifyIconData roundBattery60 = IconifyIconData.duo(
     IconData(0xf4dc, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4dc, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-80`
-  static const IconifyIconData roundBattery80 = IconifyIconData.solo(
+  /// `round-battery-80` (duo-tone)
+  static const IconifyIconData roundBattery80 = IconifyIconData.duo(
     IconData(0xf4dd, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4dd, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-90`
-  static const IconifyIconData roundBattery90 = IconifyIconData.solo(
+  /// `round-battery-90` (duo-tone)
+  static const IconifyIconData roundBattery90 = IconifyIconData.duo(
     IconData(0xf4de, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4de, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `round-battery-alert`
@@ -26739,34 +26802,40 @@ class IcIcons {
     IconData(0xf4df, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-charging-20`
-  static const IconifyIconData roundBatteryCharging20 = IconifyIconData.solo(
+  /// `round-battery-charging-20` (duo-tone)
+  static const IconifyIconData roundBatteryCharging20 = IconifyIconData.duo(
     IconData(0xf4e0, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4e0, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-charging-30`
-  static const IconifyIconData roundBatteryCharging30 = IconifyIconData.solo(
+  /// `round-battery-charging-30` (duo-tone)
+  static const IconifyIconData roundBatteryCharging30 = IconifyIconData.duo(
     IconData(0xf4e1, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4e1, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-charging-50`
-  static const IconifyIconData roundBatteryCharging50 = IconifyIconData.solo(
+  /// `round-battery-charging-50` (duo-tone)
+  static const IconifyIconData roundBatteryCharging50 = IconifyIconData.duo(
     IconData(0xf4e2, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4e2, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-charging-60`
-  static const IconifyIconData roundBatteryCharging60 = IconifyIconData.solo(
+  /// `round-battery-charging-60` (duo-tone)
+  static const IconifyIconData roundBatteryCharging60 = IconifyIconData.duo(
     IconData(0xf4e3, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4e3, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-charging-80`
-  static const IconifyIconData roundBatteryCharging80 = IconifyIconData.solo(
+  /// `round-battery-charging-80` (duo-tone)
+  static const IconifyIconData roundBatteryCharging80 = IconifyIconData.duo(
     IconData(0xf4e4, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4e4, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-battery-charging-90`
-  static const IconifyIconData roundBatteryCharging90 = IconifyIconData.solo(
+  /// `round-battery-charging-90` (duo-tone)
+  static const IconifyIconData roundBatteryCharging90 = IconifyIconData.duo(
     IconData(0xf4e5, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
+    IconData(0xf4e5, fontFamily: 'IcSecondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `round-battery-charging-full`
@@ -34199,19 +34268,22 @@ class IcIcons {
     IconData(0xe343, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-cellular-1-bar`
-  static const IconifyIconData roundSignalCellular1Bar = IconifyIconData.solo(
+  /// `round-signal-cellular-1-bar` (duo-tone)
+  static const IconifyIconData roundSignalCellular1Bar = IconifyIconData.duo(
     IconData(0xe344, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe344, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-cellular-2-bar`
-  static const IconifyIconData roundSignalCellular2Bar = IconifyIconData.solo(
+  /// `round-signal-cellular-2-bar` (duo-tone)
+  static const IconifyIconData roundSignalCellular2Bar = IconifyIconData.duo(
     IconData(0xe345, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe345, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-cellular-3-bar`
-  static const IconifyIconData roundSignalCellular3Bar = IconifyIconData.solo(
+  /// `round-signal-cellular-3-bar` (duo-tone)
+  static const IconifyIconData roundSignalCellular3Bar = IconifyIconData.duo(
     IconData(0xe346, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe346, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `round-signal-cellular-4-bar`
@@ -34239,19 +34311,22 @@ class IcIcons {
     IconData(0xe34b, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-cellular-connected-no-internet-1-bar`
-  static const IconifyIconData roundSignalCellularConnectedNoInternet1Bar = IconifyIconData.solo(
+  /// `round-signal-cellular-connected-no-internet-1-bar` (duo-tone)
+  static const IconifyIconData roundSignalCellularConnectedNoInternet1Bar = IconifyIconData.duo(
     IconData(0xe34c, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe34c, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-cellular-connected-no-internet-2-bar`
-  static const IconifyIconData roundSignalCellularConnectedNoInternet2Bar = IconifyIconData.solo(
+  /// `round-signal-cellular-connected-no-internet-2-bar` (duo-tone)
+  static const IconifyIconData roundSignalCellularConnectedNoInternet2Bar = IconifyIconData.duo(
     IconData(0xe34d, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe34d, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-cellular-connected-no-internet-3-bar`
-  static const IconifyIconData roundSignalCellularConnectedNoInternet3Bar = IconifyIconData.solo(
+  /// `round-signal-cellular-connected-no-internet-3-bar` (duo-tone)
+  static const IconifyIconData roundSignalCellularConnectedNoInternet3Bar = IconifyIconData.duo(
     IconData(0xe34e, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe34e, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `round-signal-cellular-connected-no-internet-4-bar`
@@ -34284,34 +34359,40 @@ class IcIcons {
     IconData(0xe354, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-wifi-1-bar`
-  static const IconifyIconData roundSignalWifi1Bar = IconifyIconData.solo(
+  /// `round-signal-wifi-1-bar` (duo-tone)
+  static const IconifyIconData roundSignalWifi1Bar = IconifyIconData.duo(
     IconData(0xe355, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe355, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-wifi-1-bar-lock`
-  static const IconifyIconData roundSignalWifi1BarLock = IconifyIconData.solo(
+  /// `round-signal-wifi-1-bar-lock` (duo-tone)
+  static const IconifyIconData roundSignalWifi1BarLock = IconifyIconData.duo(
     IconData(0xe356, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe356, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-wifi-2-bar`
-  static const IconifyIconData roundSignalWifi2Bar = IconifyIconData.solo(
+  /// `round-signal-wifi-2-bar` (duo-tone)
+  static const IconifyIconData roundSignalWifi2Bar = IconifyIconData.duo(
     IconData(0xe357, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe357, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-wifi-2-bar-lock`
-  static const IconifyIconData roundSignalWifi2BarLock = IconifyIconData.solo(
+  /// `round-signal-wifi-2-bar-lock` (duo-tone)
+  static const IconifyIconData roundSignalWifi2BarLock = IconifyIconData.duo(
     IconData(0xe358, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe358, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-wifi-3-bar`
-  static const IconifyIconData roundSignalWifi3Bar = IconifyIconData.solo(
+  /// `round-signal-wifi-3-bar` (duo-tone)
+  static const IconifyIconData roundSignalWifi3Bar = IconifyIconData.duo(
     IconData(0xe359, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe359, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `round-signal-wifi-3-bar-lock`
-  static const IconifyIconData roundSignalWifi3BarLock = IconifyIconData.solo(
+  /// `round-signal-wifi-3-bar-lock` (duo-tone)
+  static const IconifyIconData roundSignalWifi3BarLock = IconifyIconData.duo(
     IconData(0xe35a, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe35a, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `round-signal-wifi-4-bar`
@@ -37864,9 +37945,10 @@ class IcIcons {
     IconData(0xe620, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-20`
-  static const IconifyIconData sharpBattery20 = IconifyIconData.solo(
+  /// `sharp-battery-20` (duo-tone)
+  static const IconifyIconData sharpBattery20 = IconifyIconData.duo(
     IconData(0xe621, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe621, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `sharp-battery-3-bar`
@@ -37874,9 +37956,10 @@ class IcIcons {
     IconData(0xe622, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-30`
-  static const IconifyIconData sharpBattery30 = IconifyIconData.solo(
+  /// `sharp-battery-30` (duo-tone)
+  static const IconifyIconData sharpBattery30 = IconifyIconData.duo(
     IconData(0xe623, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe623, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `sharp-battery-4-bar`
@@ -37889,9 +37972,10 @@ class IcIcons {
     IconData(0xe625, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-50`
-  static const IconifyIconData sharpBattery50 = IconifyIconData.solo(
+  /// `sharp-battery-50` (duo-tone)
+  static const IconifyIconData sharpBattery50 = IconifyIconData.duo(
     IconData(0xe626, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe626, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `sharp-battery-6-bar`
@@ -37899,19 +37983,22 @@ class IcIcons {
     IconData(0xe627, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-60`
-  static const IconifyIconData sharpBattery60 = IconifyIconData.solo(
+  /// `sharp-battery-60` (duo-tone)
+  static const IconifyIconData sharpBattery60 = IconifyIconData.duo(
     IconData(0xe628, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe628, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-80`
-  static const IconifyIconData sharpBattery80 = IconifyIconData.solo(
+  /// `sharp-battery-80` (duo-tone)
+  static const IconifyIconData sharpBattery80 = IconifyIconData.duo(
     IconData(0xe629, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe629, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-90`
-  static const IconifyIconData sharpBattery90 = IconifyIconData.solo(
+  /// `sharp-battery-90` (duo-tone)
+  static const IconifyIconData sharpBattery90 = IconifyIconData.duo(
     IconData(0xe62a, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe62a, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `sharp-battery-alert`
@@ -37919,34 +38006,40 @@ class IcIcons {
     IconData(0xe62b, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-charging-20`
-  static const IconifyIconData sharpBatteryCharging20 = IconifyIconData.solo(
+  /// `sharp-battery-charging-20` (duo-tone)
+  static const IconifyIconData sharpBatteryCharging20 = IconifyIconData.duo(
     IconData(0xe62c, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe62c, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-charging-30`
-  static const IconifyIconData sharpBatteryCharging30 = IconifyIconData.solo(
+  /// `sharp-battery-charging-30` (duo-tone)
+  static const IconifyIconData sharpBatteryCharging30 = IconifyIconData.duo(
     IconData(0xe62d, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe62d, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-charging-50`
-  static const IconifyIconData sharpBatteryCharging50 = IconifyIconData.solo(
+  /// `sharp-battery-charging-50` (duo-tone)
+  static const IconifyIconData sharpBatteryCharging50 = IconifyIconData.duo(
     IconData(0xe62e, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe62e, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-charging-60`
-  static const IconifyIconData sharpBatteryCharging60 = IconifyIconData.solo(
+  /// `sharp-battery-charging-60` (duo-tone)
+  static const IconifyIconData sharpBatteryCharging60 = IconifyIconData.duo(
     IconData(0xe62f, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe62f, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-charging-80`
-  static const IconifyIconData sharpBatteryCharging80 = IconifyIconData.solo(
+  /// `sharp-battery-charging-80` (duo-tone)
+  static const IconifyIconData sharpBatteryCharging80 = IconifyIconData.duo(
     IconData(0xe630, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe630, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-battery-charging-90`
-  static const IconifyIconData sharpBatteryCharging90 = IconifyIconData.solo(
+  /// `sharp-battery-charging-90` (duo-tone)
+  static const IconifyIconData sharpBatteryCharging90 = IconifyIconData.duo(
     IconData(0xe631, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xe631, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `sharp-battery-charging-full`
@@ -45379,19 +45472,22 @@ class IcIcons {
     IconData(0xebff, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-cellular-1-bar`
-  static const IconifyIconData sharpSignalCellular1Bar = IconifyIconData.solo(
+  /// `sharp-signal-cellular-1-bar` (duo-tone)
+  static const IconifyIconData sharpSignalCellular1Bar = IconifyIconData.duo(
     IconData(0xec00, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec00, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-cellular-2-bar`
-  static const IconifyIconData sharpSignalCellular2Bar = IconifyIconData.solo(
+  /// `sharp-signal-cellular-2-bar` (duo-tone)
+  static const IconifyIconData sharpSignalCellular2Bar = IconifyIconData.duo(
     IconData(0xec01, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec01, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-cellular-3-bar`
-  static const IconifyIconData sharpSignalCellular3Bar = IconifyIconData.solo(
+  /// `sharp-signal-cellular-3-bar` (duo-tone)
+  static const IconifyIconData sharpSignalCellular3Bar = IconifyIconData.duo(
     IconData(0xec02, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec02, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `sharp-signal-cellular-4-bar`
@@ -45419,19 +45515,22 @@ class IcIcons {
     IconData(0xec07, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-cellular-connected-no-internet-1-bar`
-  static const IconifyIconData sharpSignalCellularConnectedNoInternet1Bar = IconifyIconData.solo(
+  /// `sharp-signal-cellular-connected-no-internet-1-bar` (duo-tone)
+  static const IconifyIconData sharpSignalCellularConnectedNoInternet1Bar = IconifyIconData.duo(
     IconData(0xec08, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec08, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-cellular-connected-no-internet-2-bar`
-  static const IconifyIconData sharpSignalCellularConnectedNoInternet2Bar = IconifyIconData.solo(
+  /// `sharp-signal-cellular-connected-no-internet-2-bar` (duo-tone)
+  static const IconifyIconData sharpSignalCellularConnectedNoInternet2Bar = IconifyIconData.duo(
     IconData(0xec09, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec09, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-cellular-connected-no-internet-3-bar`
-  static const IconifyIconData sharpSignalCellularConnectedNoInternet3Bar = IconifyIconData.solo(
+  /// `sharp-signal-cellular-connected-no-internet-3-bar` (duo-tone)
+  static const IconifyIconData sharpSignalCellularConnectedNoInternet3Bar = IconifyIconData.duo(
     IconData(0xec0a, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec0a, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `sharp-signal-cellular-connected-no-internet-4-bar`
@@ -45464,34 +45563,40 @@ class IcIcons {
     IconData(0xec10, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-wifi-1-bar`
-  static const IconifyIconData sharpSignalWifi1Bar = IconifyIconData.solo(
+  /// `sharp-signal-wifi-1-bar` (duo-tone)
+  static const IconifyIconData sharpSignalWifi1Bar = IconifyIconData.duo(
     IconData(0xec11, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec11, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-wifi-1-bar-lock`
-  static const IconifyIconData sharpSignalWifi1BarLock = IconifyIconData.solo(
+  /// `sharp-signal-wifi-1-bar-lock` (duo-tone)
+  static const IconifyIconData sharpSignalWifi1BarLock = IconifyIconData.duo(
     IconData(0xec12, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec12, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-wifi-2-bar`
-  static const IconifyIconData sharpSignalWifi2Bar = IconifyIconData.solo(
+  /// `sharp-signal-wifi-2-bar` (duo-tone)
+  static const IconifyIconData sharpSignalWifi2Bar = IconifyIconData.duo(
     IconData(0xec13, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec13, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-wifi-2-bar-lock`
-  static const IconifyIconData sharpSignalWifi2BarLock = IconifyIconData.solo(
+  /// `sharp-signal-wifi-2-bar-lock` (duo-tone)
+  static const IconifyIconData sharpSignalWifi2BarLock = IconifyIconData.duo(
     IconData(0xec14, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec14, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-wifi-3-bar`
-  static const IconifyIconData sharpSignalWifi3Bar = IconifyIconData.solo(
+  /// `sharp-signal-wifi-3-bar` (duo-tone)
+  static const IconifyIconData sharpSignalWifi3Bar = IconifyIconData.duo(
     IconData(0xec15, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec15, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `sharp-signal-wifi-3-bar-lock`
-  static const IconifyIconData sharpSignalWifi3BarLock = IconifyIconData.solo(
+  /// `sharp-signal-wifi-3-bar-lock` (duo-tone)
+  static const IconifyIconData sharpSignalWifi3BarLock = IconifyIconData.duo(
     IconData(0xec16, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xec16, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `sharp-signal-wifi-4-bar`
@@ -47689,19 +47794,22 @@ class IcIcons {
     IconData(0xedcd, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `signal-cellular-1-bar`
-  static const IconifyIconData signalCellular1Bar = IconifyIconData.solo(
+  /// `signal-cellular-1-bar` (duo-tone)
+  static const IconifyIconData signalCellular1Bar = IconifyIconData.duo(
     IconData(0xedce, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xedce, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `signal-cellular-2-bar`
-  static const IconifyIconData signalCellular2Bar = IconifyIconData.solo(
+  /// `signal-cellular-2-bar` (duo-tone)
+  static const IconifyIconData signalCellular2Bar = IconifyIconData.duo(
     IconData(0xedcf, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xedcf, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `signal-cellular-3-bar`
-  static const IconifyIconData signalCellular3Bar = IconifyIconData.solo(
+  /// `signal-cellular-3-bar` (duo-tone)
+  static const IconifyIconData signalCellular3Bar = IconifyIconData.duo(
     IconData(0xedd0, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xedd0, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `signal-cellular-4-bar`
@@ -47714,19 +47822,22 @@ class IcIcons {
     IconData(0xedd2, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `signal-cellular-connected-no-internet-1-bar`
-  static const IconifyIconData signalCellularConnectedNoInternet1Bar = IconifyIconData.solo(
+  /// `signal-cellular-connected-no-internet-1-bar` (duo-tone)
+  static const IconifyIconData signalCellularConnectedNoInternet1Bar = IconifyIconData.duo(
     IconData(0xedd3, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xedd3, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `signal-cellular-connected-no-internet-2-bar`
-  static const IconifyIconData signalCellularConnectedNoInternet2Bar = IconifyIconData.solo(
+  /// `signal-cellular-connected-no-internet-2-bar` (duo-tone)
+  static const IconifyIconData signalCellularConnectedNoInternet2Bar = IconifyIconData.duo(
     IconData(0xedd4, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xedd4, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `signal-cellular-connected-no-internet-3-bar`
-  static const IconifyIconData signalCellularConnectedNoInternet3Bar = IconifyIconData.solo(
+  /// `signal-cellular-connected-no-internet-3-bar` (duo-tone)
+  static const IconifyIconData signalCellularConnectedNoInternet3Bar = IconifyIconData.duo(
     IconData(0xedd5, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xedd5, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `signal-cellular-connected-no-internet-4-bar`
@@ -47754,9 +47865,10 @@ class IcIcons {
     IconData(0xedda, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `signal-wifi-1-bar`
-  static const IconifyIconData signalWifi1Bar = IconifyIconData.solo(
+  /// `signal-wifi-1-bar` (duo-tone)
+  static const IconifyIconData signalWifi1Bar = IconifyIconData.duo(
     IconData(0xeddb, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xeddb, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `signal-wifi-1-bar-lock` (duo-tone)
@@ -47765,9 +47877,10 @@ class IcIcons {
     IconData(0xeddc, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `signal-wifi-2-bar`
-  static const IconifyIconData signalWifi2Bar = IconifyIconData.solo(
+  /// `signal-wifi-2-bar` (duo-tone)
+  static const IconifyIconData signalWifi2Bar = IconifyIconData.duo(
     IconData(0xeddd, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xeddd, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `signal-wifi-2-bar-lock` (duo-tone)
@@ -47776,9 +47889,10 @@ class IcIcons {
     IconData(0xedde, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `signal-wifi-3-bar`
-  static const IconifyIconData signalWifi3Bar = IconifyIconData.solo(
+  /// `signal-wifi-3-bar` (duo-tone)
+  static const IconifyIconData signalWifi3Bar = IconifyIconData.duo(
     IconData(0xeddf, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xeddf, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `signal-wifi-3-bar-lock` (duo-tone)
@@ -48820,9 +48934,10 @@ class IcIcons {
     IconData(0xeea2, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-add-location-alt`
-  static const IconifyIconData twotoneAddLocationAlt = IconifyIconData.solo(
+  /// `twotone-add-location-alt` (duo-tone)
+  static const IconifyIconData twotoneAddLocationAlt = IconifyIconData.duo(
     IconData(0xeea3, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xeea3, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-add-moderator` (duo-tone)
@@ -49617,9 +49732,10 @@ class IcIcons {
     IconData(0xef32, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-20`
-  static const IconifyIconData twotoneBattery20 = IconifyIconData.solo(
+  /// `twotone-battery-20` (duo-tone)
+  static const IconifyIconData twotoneBattery20 = IconifyIconData.duo(
     IconData(0xef33, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef33, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-battery-3-bar` (duo-tone)
@@ -49628,9 +49744,10 @@ class IcIcons {
     IconData(0xef34, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-30`
-  static const IconifyIconData twotoneBattery30 = IconifyIconData.solo(
+  /// `twotone-battery-30` (duo-tone)
+  static const IconifyIconData twotoneBattery30 = IconifyIconData.duo(
     IconData(0xef35, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef35, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-battery-4-bar` (duo-tone)
@@ -49645,9 +49762,10 @@ class IcIcons {
     IconData(0xef37, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-50`
-  static const IconifyIconData twotoneBattery50 = IconifyIconData.solo(
+  /// `twotone-battery-50` (duo-tone)
+  static const IconifyIconData twotoneBattery50 = IconifyIconData.duo(
     IconData(0xef38, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef38, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-battery-6-bar` (duo-tone)
@@ -49656,19 +49774,22 @@ class IcIcons {
     IconData(0xef39, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-60`
-  static const IconifyIconData twotoneBattery60 = IconifyIconData.solo(
+  /// `twotone-battery-60` (duo-tone)
+  static const IconifyIconData twotoneBattery60 = IconifyIconData.duo(
     IconData(0xef3a, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef3a, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-80`
-  static const IconifyIconData twotoneBattery80 = IconifyIconData.solo(
+  /// `twotone-battery-80` (duo-tone)
+  static const IconifyIconData twotoneBattery80 = IconifyIconData.duo(
     IconData(0xef3b, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef3b, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-90`
-  static const IconifyIconData twotoneBattery90 = IconifyIconData.solo(
+  /// `twotone-battery-90` (duo-tone)
+  static const IconifyIconData twotoneBattery90 = IconifyIconData.duo(
     IconData(0xef3c, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef3c, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-battery-alert`
@@ -49676,34 +49797,40 @@ class IcIcons {
     IconData(0xef3d, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-charging-20`
-  static const IconifyIconData twotoneBatteryCharging20 = IconifyIconData.solo(
+  /// `twotone-battery-charging-20` (duo-tone)
+  static const IconifyIconData twotoneBatteryCharging20 = IconifyIconData.duo(
     IconData(0xef3e, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef3e, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-charging-30`
-  static const IconifyIconData twotoneBatteryCharging30 = IconifyIconData.solo(
+  /// `twotone-battery-charging-30` (duo-tone)
+  static const IconifyIconData twotoneBatteryCharging30 = IconifyIconData.duo(
     IconData(0xef3f, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef3f, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-charging-50`
-  static const IconifyIconData twotoneBatteryCharging50 = IconifyIconData.solo(
+  /// `twotone-battery-charging-50` (duo-tone)
+  static const IconifyIconData twotoneBatteryCharging50 = IconifyIconData.duo(
     IconData(0xef40, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef40, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-charging-60`
-  static const IconifyIconData twotoneBatteryCharging60 = IconifyIconData.solo(
+  /// `twotone-battery-charging-60` (duo-tone)
+  static const IconifyIconData twotoneBatteryCharging60 = IconifyIconData.duo(
     IconData(0xef41, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef41, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-charging-80`
-  static const IconifyIconData twotoneBatteryCharging80 = IconifyIconData.solo(
+  /// `twotone-battery-charging-80` (duo-tone)
+  static const IconifyIconData twotoneBatteryCharging80 = IconifyIconData.duo(
     IconData(0xef42, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef42, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-battery-charging-90`
-  static const IconifyIconData twotoneBatteryCharging90 = IconifyIconData.solo(
+  /// `twotone-battery-charging-90` (duo-tone)
+  static const IconifyIconData twotoneBatteryCharging90 = IconifyIconData.duo(
     IconData(0xef43, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef43, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-battery-charging-full`
@@ -50052,24 +50179,28 @@ class IcIcons {
     IconData(0xef82, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-brightness-auto`
-  static const IconifyIconData twotoneBrightnessAuto = IconifyIconData.solo(
+  /// `twotone-brightness-auto` (duo-tone)
+  static const IconifyIconData twotoneBrightnessAuto = IconifyIconData.duo(
     IconData(0xef83, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef83, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-brightness-high`
-  static const IconifyIconData twotoneBrightnessHigh = IconifyIconData.solo(
+  /// `twotone-brightness-high` (duo-tone)
+  static const IconifyIconData twotoneBrightnessHigh = IconifyIconData.duo(
     IconData(0xef84, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef84, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-brightness-low`
-  static const IconifyIconData twotoneBrightnessLow = IconifyIconData.solo(
+  /// `twotone-brightness-low` (duo-tone)
+  static const IconifyIconData twotoneBrightnessLow = IconifyIconData.duo(
     IconData(0xef85, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef85, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-brightness-medium`
-  static const IconifyIconData twotoneBrightnessMedium = IconifyIconData.solo(
+  /// `twotone-brightness-medium` (duo-tone)
+  static const IconifyIconData twotoneBrightnessMedium = IconifyIconData.duo(
     IconData(0xef86, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xef86, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-broadcast-on-home` (duo-tone)
@@ -54788,9 +54919,10 @@ class IcIcons {
     IconData(0xf2c9, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-lunch-dining`
-  static const IconifyIconData twotoneLunchDining = IconifyIconData.solo(
+  /// `twotone-lunch-dining` (duo-tone)
+  static const IconifyIconData twotoneLunchDining = IconifyIconData.duo(
     IconData(0xf2ca, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf2ca, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-lyrics` (duo-tone)
@@ -54875,9 +55007,10 @@ class IcIcons {
     IconData(0xf2d9, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-maps-ugc`
-  static const IconifyIconData twotoneMapsUgc = IconifyIconData.solo(
+  /// `twotone-maps-ugc` (duo-tone)
+  static const IconifyIconData twotoneMapsUgc = IconifyIconData.duo(
     IconData(0xf2da, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf2da, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-margin` (duo-tone)
@@ -55702,9 +55835,10 @@ class IcIcons {
     IconData(0xf36c, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-not-listed-location`
-  static const IconifyIconData twotoneNotListedLocation = IconifyIconData.solo(
+  /// `twotone-not-listed-location` (duo-tone)
+  static const IconifyIconData twotoneNotListedLocation = IconifyIconData.duo(
     IconData(0xf36d, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf36d, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-not-started` (duo-tone)
@@ -56236,9 +56370,10 @@ class IcIcons {
     IconData(0xf3c9, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-person-pin-circle`
-  static const IconifyIconData twotonePersonPinCircle = IconifyIconData.solo(
+  /// `twotone-person-pin-circle` (duo-tone)
+  static const IconifyIconData twotonePersonPinCircle = IconifyIconData.duo(
     IconData(0xf3ca, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf3ca, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-person-remove` (duo-tone)
@@ -56505,9 +56640,10 @@ class IcIcons {
     IconData(0xf3f8, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-pin-drop`
-  static const IconifyIconData twotonePinDrop = IconifyIconData.solo(
+  /// `twotone-pin-drop` (duo-tone)
+  static const IconifyIconData twotonePinDrop = IconifyIconData.duo(
     IconData(0xf3f9, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf3f9, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-pin-end`
@@ -56542,9 +56678,10 @@ class IcIcons {
     IconData(0xf3ff, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-place`
-  static const IconifyIconData twotonePlace = IconifyIconData.solo(
+  /// `twotone-place` (duo-tone)
+  static const IconifyIconData twotonePlace = IconifyIconData.duo(
     IconData(0xf400, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf400, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-plagiarism` (duo-tone)
@@ -58056,19 +58193,22 @@ class IcIcons {
     IconData(0xf50d, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-cellular-1-bar`
-  static const IconifyIconData twotoneSignalCellular1Bar = IconifyIconData.solo(
+  /// `twotone-signal-cellular-1-bar` (duo-tone)
+  static const IconifyIconData twotoneSignalCellular1Bar = IconifyIconData.duo(
     IconData(0xf50e, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf50e, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-cellular-2-bar`
-  static const IconifyIconData twotoneSignalCellular2Bar = IconifyIconData.solo(
+  /// `twotone-signal-cellular-2-bar` (duo-tone)
+  static const IconifyIconData twotoneSignalCellular2Bar = IconifyIconData.duo(
     IconData(0xf50f, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf50f, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-cellular-3-bar`
-  static const IconifyIconData twotoneSignalCellular3Bar = IconifyIconData.solo(
+  /// `twotone-signal-cellular-3-bar` (duo-tone)
+  static const IconifyIconData twotoneSignalCellular3Bar = IconifyIconData.duo(
     IconData(0xf510, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf510, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-signal-cellular-4-bar`
@@ -58096,19 +58236,22 @@ class IcIcons {
     IconData(0xf515, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-cellular-connected-no-internet-1-bar`
-  static const IconifyIconData twotoneSignalCellularConnectedNoInternet1Bar = IconifyIconData.solo(
+  /// `twotone-signal-cellular-connected-no-internet-1-bar` (duo-tone)
+  static const IconifyIconData twotoneSignalCellularConnectedNoInternet1Bar = IconifyIconData.duo(
     IconData(0xf516, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf516, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-cellular-connected-no-internet-2-bar`
-  static const IconifyIconData twotoneSignalCellularConnectedNoInternet2Bar = IconifyIconData.solo(
+  /// `twotone-signal-cellular-connected-no-internet-2-bar` (duo-tone)
+  static const IconifyIconData twotoneSignalCellularConnectedNoInternet2Bar = IconifyIconData.duo(
     IconData(0xf517, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf517, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-cellular-connected-no-internet-3-bar`
-  static const IconifyIconData twotoneSignalCellularConnectedNoInternet3Bar = IconifyIconData.solo(
+  /// `twotone-signal-cellular-connected-no-internet-3-bar` (duo-tone)
+  static const IconifyIconData twotoneSignalCellularConnectedNoInternet3Bar = IconifyIconData.duo(
     IconData(0xf518, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf518, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-signal-cellular-connected-no-internet-4-bar`
@@ -58142,34 +58285,40 @@ class IcIcons {
     IconData(0xf51e, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-wifi-1-bar`
-  static const IconifyIconData twotoneSignalWifi1Bar = IconifyIconData.solo(
+  /// `twotone-signal-wifi-1-bar` (duo-tone)
+  static const IconifyIconData twotoneSignalWifi1Bar = IconifyIconData.duo(
     IconData(0xf51f, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf51f, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-wifi-1-bar-lock`
-  static const IconifyIconData twotoneSignalWifi1BarLock = IconifyIconData.solo(
+  /// `twotone-signal-wifi-1-bar-lock` (duo-tone)
+  static const IconifyIconData twotoneSignalWifi1BarLock = IconifyIconData.duo(
     IconData(0xf520, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf520, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-wifi-2-bar`
-  static const IconifyIconData twotoneSignalWifi2Bar = IconifyIconData.solo(
+  /// `twotone-signal-wifi-2-bar` (duo-tone)
+  static const IconifyIconData twotoneSignalWifi2Bar = IconifyIconData.duo(
     IconData(0xf521, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf521, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-wifi-2-bar-lock`
-  static const IconifyIconData twotoneSignalWifi2BarLock = IconifyIconData.solo(
+  /// `twotone-signal-wifi-2-bar-lock` (duo-tone)
+  static const IconifyIconData twotoneSignalWifi2BarLock = IconifyIconData.duo(
     IconData(0xf522, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf522, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-wifi-3-bar`
-  static const IconifyIconData twotoneSignalWifi3Bar = IconifyIconData.solo(
+  /// `twotone-signal-wifi-3-bar` (duo-tone)
+  static const IconifyIconData twotoneSignalWifi3Bar = IconifyIconData.duo(
     IconData(0xf523, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf523, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
-  /// `twotone-signal-wifi-3-bar-lock`
-  static const IconifyIconData twotoneSignalWifi3BarLock = IconifyIconData.solo(
+  /// `twotone-signal-wifi-3-bar-lock` (duo-tone)
+  static const IconifyIconData twotoneSignalWifi3BarLock = IconifyIconData.duo(
     IconData(0xf524, fontFamily: 'Ic_2', fontPackage: 'iconifyx_ic'),
+    IconData(0xf524, fontFamily: 'Ic_2Secondary', fontPackage: 'iconifyx_ic'),
   );
 
   /// `twotone-signal-wifi-4-bar`

@@ -380,12 +380,22 @@ export function setStrokeWidth(body: string, newWidth: number): string {
 // The detection is per-icon (not per-set) because sets like `ph` mix regular
 // and duotone variants under different names (e.g. `user` + `user-duotone`).
 
-const OPACITY_LT_ONE_RE = /\bopacity\s*=\s*["'](?:0?\.\d+|0)["']/;
+// Matches `opacity`, `fill-opacity`, or `stroke-opacity` with a value < 1.
+// Google Material Icons (`ic`) ships the "translucent" half of its bodies
+// via `fill-opacity=".3"` (e.g. `baseline-battery-90`) rather than the bare
+// `opacity` attribute Phosphor / Solar use. Both spellings are valid SVG
+// duotone signals and must trigger the same primary/secondary split. The
+// leading word boundary `\b` matches in both cases (the `-` before
+// `opacity` in `fill-opacity` is a non-word char, so `\b` still triggers).
+const OPACITY_LT_ONE_RE =
+  /\b(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["'](?:0?\.\d+|0)["']/;
 
 /**
- * Returns true if `body` contains at least one element with `opacity` less
- * than 1, i.e. the icon visually layers a darker primary over a translucent
- * secondary. This is the Iconify convention for duotone.
+ * Returns true if `body` contains at least one element with `opacity`,
+ * `fill-opacity`, or `stroke-opacity` less than 1 — i.e. it visually
+ * layers a darker primary over a translucent secondary. This is the
+ * Iconify convention for duotone (Phosphor uses `opacity`, IC uses
+ * `fill-opacity`, Solar uses both depending on variant).
  */
 export function isDuotoneBody(body: string): boolean {
   return OPACITY_LT_ONE_RE.test(body);
@@ -443,10 +453,20 @@ export function splitDuotoneBody(
     }
     lastIndex = ELEMENT_RE.lastIndex;
     const [, tag, attrs] = m;
-    const opacityMatch = attrs!.match(/\s+opacity\s*=\s*["']([^"']+)["']/);
+    // Match `opacity`, `fill-opacity`, or `stroke-opacity` (with leading
+    // whitespace). The Iconify `ic` set ships its battery / signal-bars
+    // shadow halves as `fill-opacity=".3"`; without this alternation those
+    // glyphs shipped as single-layer monochrome blobs.
+    const opacityMatch = attrs!.match(
+      /\s(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["']([^"']+)["']/
+    );
     if (opacityMatch && parseFloat(opacityMatch[1]!) < 1) {
+      // Strip ALL opacity-style attributes from the secondary element so
+      // the resulting glyph renders solid in the Secondary TTF; the
+      // runtime widget controls translucency at display time via
+      // `IconifyIcon.duotone(secondaryOpacity:)`.
       const stripped = attrs!.replace(
-        /\s+opacity\s*=\s*["'][^"']+["']/,
+        /\s(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["'][^"']+["']/g,
         ''
       );
       secondaryEls.push(`<${tag}${stripped}/>`);
@@ -471,4 +491,197 @@ export function splitDuotoneBody(
     primary: wrap(primaryEls),
     secondary: wrap(secondaryEls),
   };
+}
+
+// ============================================================================
+// Colour-mapped pack preprocess
+// ============================================================================
+//
+// A few Iconify packs carry meaning through STROKE colour rather than fill:
+// the Catppuccin set, for instance, tints each icon with a Catppuccin
+// palette accent (`#cad3f5`, `#c6a0f6`, `#f5a97f`, …) instead of relying
+// on the consumer's `currentColor`. svgicons2svgfont ignores `stroke` at
+// build time (strokes have zero width in TTF), so the pipeline routes
+// stroke-only packs through `oslllo-svg-fixer`'s rasterize+Potrace pass.
+//
+// That works ONLY when the rasterised pixels contrast against the
+// (transparent → white) background. Catppuccin's light bluish-purple
+// `#cad3f5` is nearly invisible on white, so Potrace traces an EMPTY
+// path and the resulting glyph ships as nothing — `iconifyx_catppuccin`
+// shipped with empty glyphs for ~659 icons.
+//
+// Fix: before stroke-fill, normalise every concrete colour to
+// `currentColor`. The downstream rasteriser then sees an unambiguous
+// black-on-transparent shape, Potrace traces it correctly, and the
+// glyph ships filled. For icons that originally used TWO distinct
+// colours (Catppuccin's "color-coded" two-tone icons — 282 of them),
+// we additionally split into duotone primary/secondary by colour
+// before normalising; both halves go through stroke-fill separately
+// and ship as `IconifyIconData.duo(...)`. Three-or-more-colour icons
+// flatten to a single layer (the meaning was visual hierarchy, not
+// distinct paths).
+
+const PAINT_ATTRS = ['fill', 'stroke'] as const;
+
+/**
+ * Extract every concrete colour used in `body`'s `fill="..."` and
+ * `stroke="..."` attributes (excluding `none`, `transparent`,
+ * `currentColor`, and `url(#...)` paint-server references). Both
+ * inline-style and attribute forms are recognised.
+ */
+export function extractConcreteColors(body: string): Set<string> {
+  const colors = new Set<string>();
+  for (const attr of PAINT_ATTRS) {
+    const re = new RegExp(`\\b${attr}\\s*=\\s*["']([^"']+)["']`, 'g');
+    let m: RegExpExecArray | null;
+    while ((m = re.exec(body)) !== null) {
+      const raw = m[1]!.trim().toLowerCase();
+      if (
+        raw === 'none' ||
+        raw === 'transparent' ||
+        raw === 'currentcolor' ||
+        raw.startsWith('url(')
+      ) {
+        continue;
+      }
+      colors.add(raw);
+    }
+  }
+  return colors;
+}
+
+/**
+ * Replace every concrete `fill="..."` / `stroke="..."` with
+ * `currentColor`. Preserves `none`, `transparent`, `currentColor`, and
+ * `url(#...)` references untouched (those are structural, not paint
+ * intent). Used by the colour-mapped pack preprocess so the rasteriser
+ * sees high-contrast geometry regardless of the source palette.
+ */
+export function normalizeColorsToCurrentColor(body: string): string {
+  let out = body;
+  for (const attr of PAINT_ATTRS) {
+    out = out.replace(
+      new RegExp(`(\\b${attr}\\s*=\\s*["'])([^"']+)(["'])`, 'g'),
+      (_full, lead, value, tail) => {
+        const v = (value as string).trim().toLowerCase();
+        if (
+          v === 'none' ||
+          v === 'transparent' ||
+          v === 'currentcolor' ||
+          v.startsWith('url(')
+        ) {
+          return `${lead}${value}${tail}`;
+        }
+        return `${lead}currentColor${tail}`;
+      }
+    );
+  }
+  return out;
+}
+
+/**
+ * Group `body`'s top-level self-closing children by their paint colour
+ * (fill OR stroke, whichever has a concrete value on the element or its
+ * single `<g>` wrapper). Returns `null` if the body cannot be cleanly
+ * parsed into self-closing elements, OR if it does not have **exactly
+ * two** distinct concrete colours.
+ *
+ * Used by the colour-mapped preprocess for two-tone Catppuccin icons
+ * like `angular` (red + light-purple). The first colour encountered in
+ * source order becomes the primary layer; the second becomes the
+ * secondary. Both layers have their paint attributes normalised to
+ * `currentColor`.
+ */
+export function trySplitTwoStrokeColorBody(
+  body: string
+): { primary: string; secondary: string } | null {
+  const colors = extractConcreteColors(body);
+  if (colors.size !== 2) return null;
+
+  // Optional single outer <g attrs>…</g> wrap.
+  const groupMatch = body.match(/^\s*<g\b([^>]*)>([\s\S]*?)<\/g>\s*$/);
+  let groupAttrs = '';
+  let inner = body;
+  if (groupMatch) {
+    groupAttrs = groupMatch[1]!;
+    inner = groupMatch[2]!;
+  }
+  // Inherited paint on the wrapper, if any.
+  const inheritedFill = groupAttrs
+    .match(/\bfill\s*=\s*["']([^"']+)["']/)?.[1]
+    ?.toLowerCase();
+  const inheritedStroke = groupAttrs
+    .match(/\bstroke\s*=\s*["']([^"']+)["']/)?.[1]
+    ?.toLowerCase();
+  // Strip concrete paint values from the wrapper — children carry their
+  // own normalised paint after this transform.
+  const groupAttrsClean = normalizeColorsToCurrentColor(groupAttrs);
+
+  const ELEMENT_RE =
+    /<(path|circle|ellipse|rect|line|polyline|polygon)\b([^>]*?)\/>/g;
+  const primaryEls: string[] = [];
+  const secondaryEls: string[] = [];
+  let firstColor: string | null = null;
+
+  let m: RegExpExecArray | null;
+  let lastIndex = 0;
+  let consumedAll = true;
+  while ((m = ELEMENT_RE.exec(inner)) !== null) {
+    const gap = inner.slice(lastIndex, m.index);
+    if (gap.trim().length > 0) {
+      consumedAll = false;
+      break;
+    }
+    lastIndex = ELEMENT_RE.lastIndex;
+    const [, tag, attrs] = m;
+    const elFill = attrs!.match(/\bfill\s*=\s*["']([^"']+)["']/)?.[1];
+    const elStroke = attrs!.match(/\bstroke\s*=\s*["']([^"']+)["']/)?.[1];
+    const paint = (
+      pickConcrete(elStroke) ??
+      pickConcrete(elFill) ??
+      (inheritedStroke ? pickConcrete(inheritedStroke) : undefined) ??
+      (inheritedFill ? pickConcrete(inheritedFill) : undefined)
+    );
+    if (paint === undefined) {
+      // Element has no resolvable concrete colour — can't bucket.
+      consumedAll = false;
+      break;
+    }
+    if (firstColor === null) firstColor = paint;
+    const normalisedAttrs = normalizeColorsToCurrentColor(attrs!);
+    const el = `<${tag}${normalisedAttrs}/>`;
+    if (paint === firstColor) primaryEls.push(el);
+    else secondaryEls.push(el);
+  }
+  if (inner.slice(lastIndex).trim().length > 0) consumedAll = false;
+  if (
+    !consumedAll ||
+    primaryEls.length === 0 ||
+    secondaryEls.length === 0
+  ) {
+    return null;
+  }
+
+  const wrap = (els: string[]): string => {
+    if (els.length === 0) return '';
+    if (groupAttrsClean.trim().length > 0) {
+      return `<g${groupAttrsClean}>${els.join('')}</g>`;
+    }
+    return els.join('');
+  };
+  return { primary: wrap(primaryEls), secondary: wrap(secondaryEls) };
+}
+
+function pickConcrete(raw: string | undefined): string | undefined {
+  if (raw === undefined) return undefined;
+  const v = raw.trim().toLowerCase();
+  if (
+    v === 'none' ||
+    v === 'transparent' ||
+    v === 'currentcolor' ||
+    v.startsWith('url(')
+  ) {
+    return undefined;
+  }
+  return v;
 }

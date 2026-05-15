@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: The Bootstrap Authors
 /// License: MIT — https://github.com/twbs/icons/blob/main/LICENSE.md
-/// Icons: 2082
+/// Icons: 2082 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -7091,9 +7091,10 @@ class BiIcons {
     IconData(0xe584, fontFamily: 'Bi', fontPackage: 'iconifyx_bi'),
   );
 
-  /// `opencollective`
-  static const IconifyIconData opencollective = IconifyIconData.solo(
+  /// `opencollective` (duo-tone)
+  static const IconifyIconData opencollective = IconifyIconData.duo(
     IconData(0xe585, fontFamily: 'Bi', fontPackage: 'iconifyx_bi'),
+    IconData(0xe585, fontFamily: 'BiSecondary', fontPackage: 'iconifyx_bi'),
   );
 
   /// `optical-audio`

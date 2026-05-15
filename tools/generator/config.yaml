@@ -88,6 +88,18 @@ multiWeightStrokeSets:
     light: 1.5
     bold: 2.5
 
+# Iconify packs that encode meaning through concrete colours rather than
+# relying on the consumer's `currentColor`. Before stroke-fill, the
+# pipeline normalises every concrete `fill=…` / `stroke=…` to
+# `currentColor` so rasterize+Potrace sees a high-contrast silhouette.
+# Two-tone bodies additionally split into duotone primary/secondary;
+# three-or-more-tone bodies flatten to a single layer. Catppuccin is
+# the canonical case — without this pass its 659 icons shipped as
+# empty glyphs because Potrace traced its light-on-light palette as
+# blank.
+colorMappedSets:
+  - catppuccin
+
 # Pretty names for Iconify category strings (example app drawer headers).
 displayCategoryAliases:
   "UI 24px": "UI · 24px Grid"

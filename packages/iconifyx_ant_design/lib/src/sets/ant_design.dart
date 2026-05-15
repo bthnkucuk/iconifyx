@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: HeskeyBaozi
 /// License: MIT — https://github.com/ant-design/ant-design-icons/blob/master/LICENSE
-/// Icons: 1870
+/// Icons: 1870 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -41,9 +41,10 @@ class AntDesignIcons {
     IconData(0xe004, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `account-book-twotone`
-  static const IconifyIconData accountBookTwotone = IconifyIconData.solo(
+  /// `account-book-twotone` (duo-tone)
+  static const IconifyIconData accountBookTwotone = IconifyIconData.duo(
     IconData(0xe005, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe005, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `aim`
@@ -81,9 +82,10 @@ class AntDesignIcons {
     IconData(0xe00c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `alert-twotone`
-  static const IconifyIconData alertTwotone = IconifyIconData.solo(
+  /// `alert-twotone` (duo-tone)
+  static const IconifyIconData alertTwotone = IconifyIconData.duo(
     IconData(0xe00d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe00d, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `alibaba`
@@ -381,9 +383,10 @@ class AntDesignIcons {
     IconData(0xe048, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `api-twotone`
-  static const IconifyIconData apiTwotone = IconifyIconData.solo(
+  /// `api-twotone` (duo-tone)
+  static const IconifyIconData apiTwotone = IconifyIconData.duo(
     IconData(0xe049, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe049, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `apple`
@@ -446,9 +449,10 @@ class AntDesignIcons {
     IconData(0xe055, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `appstore-twotone`
-  static const IconifyIconData appstoreTwotone = IconifyIconData.solo(
+  /// `appstore-twotone` (duo-tone)
+  static const IconifyIconData appstoreTwotone = IconifyIconData.duo(
     IconData(0xe056, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe056, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `area-chart`
@@ -576,9 +580,10 @@ class AntDesignIcons {
     IconData(0xe06f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `audio-twotone`
-  static const IconifyIconData audioTwotone = IconifyIconData.solo(
+  /// `audio-twotone` (duo-tone)
+  static const IconifyIconData audioTwotone = IconifyIconData.duo(
     IconData(0xe070, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe070, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `audit`
@@ -651,9 +656,10 @@ class AntDesignIcons {
     IconData(0xe07e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `bank-twotone`
-  static const IconifyIconData bankTwotone = IconifyIconData.solo(
+  /// `bank-twotone` (duo-tone)
+  static const IconifyIconData bankTwotone = IconifyIconData.duo(
     IconData(0xe07f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe07f, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `bar-chart`
@@ -781,9 +787,10 @@ class AntDesignIcons {
     IconData(0xe098, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `bell-twotone`
-  static const IconifyIconData bellTwotone = IconifyIconData.solo(
+  /// `bell-twotone` (duo-tone)
+  static const IconifyIconData bellTwotone = IconifyIconData.duo(
     IconData(0xe099, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe099, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `bg-colors`
@@ -866,9 +873,10 @@ class AntDesignIcons {
     IconData(0xe0a8, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `book-twotone`
-  static const IconifyIconData bookTwotone = IconifyIconData.solo(
+  /// `book-twotone` (duo-tone)
+  static const IconifyIconData bookTwotone = IconifyIconData.duo(
     IconData(0xe0a9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0a9, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `border`
@@ -1041,9 +1049,10 @@ class AntDesignIcons {
     IconData(0xe0cb, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `box-plot-twotone`
-  static const IconifyIconData boxPlotTwotone = IconifyIconData.solo(
+  /// `box-plot-twotone` (duo-tone)
+  static const IconifyIconData boxPlotTwotone = IconifyIconData.duo(
     IconData(0xe0cc, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0cc, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `branches`
@@ -1086,9 +1095,10 @@ class AntDesignIcons {
     IconData(0xe0d4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `bug-twotone`
-  static const IconifyIconData bugTwotone = IconifyIconData.solo(
+  /// `bug-twotone` (duo-tone)
+  static const IconifyIconData bugTwotone = IconifyIconData.duo(
     IconData(0xe0d5, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0d5, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `build`
@@ -1116,9 +1126,10 @@ class AntDesignIcons {
     IconData(0xe0da, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `build-twotone`
-  static const IconifyIconData buildTwotone = IconifyIconData.solo(
+  /// `build-twotone` (duo-tone)
+  static const IconifyIconData buildTwotone = IconifyIconData.duo(
     IconData(0xe0db, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0db, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `bulb`
@@ -1146,9 +1157,10 @@ class AntDesignIcons {
     IconData(0xe0e0, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `bulb-twotone`
-  static const IconifyIconData bulbTwotone = IconifyIconData.solo(
+  /// `bulb-twotone` (duo-tone)
+  static const IconifyIconData bulbTwotone = IconifyIconData.duo(
     IconData(0xe0e1, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0e1, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `calculator`
@@ -1176,9 +1188,10 @@ class AntDesignIcons {
     IconData(0xe0e6, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `calculator-twotone`
-  static const IconifyIconData calculatorTwotone = IconifyIconData.solo(
+  /// `calculator-twotone` (duo-tone)
+  static const IconifyIconData calculatorTwotone = IconifyIconData.duo(
     IconData(0xe0e7, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0e7, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `calendar`
@@ -1206,9 +1219,10 @@ class AntDesignIcons {
     IconData(0xe0ec, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `calendar-twotone`
-  static const IconifyIconData calendarTwotone = IconifyIconData.solo(
+  /// `calendar-twotone` (duo-tone)
+  static const IconifyIconData calendarTwotone = IconifyIconData.duo(
     IconData(0xe0ed, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0ed, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `camera`
@@ -1236,14 +1250,16 @@ class AntDesignIcons {
     IconData(0xe0f2, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `camera-twotone`
-  static const IconifyIconData cameraTwotone = IconifyIconData.solo(
+  /// `camera-twotone` (duo-tone)
+  static const IconifyIconData cameraTwotone = IconifyIconData.duo(
     IconData(0xe0f3, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0f3, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `canlendar-twotone`
-  static const IconifyIconData canlendarTwotone = IconifyIconData.solo(
+  /// `canlendar-twotone` (duo-tone)
+  static const IconifyIconData canlendarTwotone = IconifyIconData.duo(
     IconData(0xe0f4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0f4, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `car`
@@ -1271,9 +1287,10 @@ class AntDesignIcons {
     IconData(0xe0f9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `car-twotone`
-  static const IconifyIconData carTwotone = IconifyIconData.solo(
+  /// `car-twotone` (duo-tone)
+  static const IconifyIconData carTwotone = IconifyIconData.duo(
     IconData(0xe0fa, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe0fa, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `caret-down`
@@ -1401,9 +1418,10 @@ class AntDesignIcons {
     IconData(0xe113, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `carry-out-twotone`
-  static const IconifyIconData carryOutTwotone = IconifyIconData.solo(
+  /// `carry-out-twotone` (duo-tone)
+  static const IconifyIconData carryOutTwotone = IconifyIconData.duo(
     IconData(0xe114, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe114, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `check`
@@ -1436,9 +1454,10 @@ class AntDesignIcons {
     IconData(0xe11a, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `check-circle-twotone`
-  static const IconifyIconData checkCircleTwotone = IconifyIconData.solo(
+  /// `check-circle-twotone` (duo-tone)
+  static const IconifyIconData checkCircleTwotone = IconifyIconData.duo(
     IconData(0xe11b, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe11b, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `check-outline`
@@ -1476,9 +1495,10 @@ class AntDesignIcons {
     IconData(0xe122, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `check-square-twotone`
-  static const IconifyIconData checkSquareTwotone = IconifyIconData.solo(
+  /// `check-square-twotone` (duo-tone)
+  static const IconifyIconData checkSquareTwotone = IconifyIconData.duo(
     IconData(0xe123, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe123, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `chrome`
@@ -1531,9 +1551,10 @@ class AntDesignIcons {
     IconData(0xe12d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `ci-circle-twotone`
-  static const IconifyIconData ciCircleTwotone = IconifyIconData.solo(
+  /// `ci-circle-twotone` (duo-tone)
+  static const IconifyIconData ciCircleTwotone = IconifyIconData.duo(
     IconData(0xe12e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe12e, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `ci-outline`
@@ -1546,9 +1567,10 @@ class AntDesignIcons {
     IconData(0xe130, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `ci-twotone`
-  static const IconifyIconData ciTwotone = IconifyIconData.solo(
+  /// `ci-twotone` (duo-tone)
+  static const IconifyIconData ciTwotone = IconifyIconData.duo(
     IconData(0xe131, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe131, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `clear`
@@ -1586,9 +1608,10 @@ class AntDesignIcons {
     IconData(0xe138, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `clock-circle-twotone`
-  static const IconifyIconData clockCircleTwotone = IconifyIconData.solo(
+  /// `clock-circle-twotone` (duo-tone)
+  static const IconifyIconData clockCircleTwotone = IconifyIconData.duo(
     IconData(0xe139, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe139, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `close`
@@ -1621,9 +1644,10 @@ class AntDesignIcons {
     IconData(0xe13f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `close-circle-twotone`
-  static const IconifyIconData closeCircleTwotone = IconifyIconData.solo(
+  /// `close-circle-twotone` (duo-tone)
+  static const IconifyIconData closeCircleTwotone = IconifyIconData.duo(
     IconData(0xe140, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe140, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `close-outline`
@@ -1661,9 +1685,10 @@ class AntDesignIcons {
     IconData(0xe147, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `close-square-twotone`
-  static const IconifyIconData closeSquareTwotone = IconifyIconData.solo(
+  /// `close-square-twotone` (duo-tone)
+  static const IconifyIconData closeSquareTwotone = IconifyIconData.duo(
     IconData(0xe148, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe148, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `cloud`
@@ -1736,9 +1761,10 @@ class AntDesignIcons {
     IconData(0xe156, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `cloud-twotone`
-  static const IconifyIconData cloudTwotone = IconifyIconData.solo(
+  /// `cloud-twotone` (duo-tone)
+  static const IconifyIconData cloudTwotone = IconifyIconData.duo(
     IconData(0xe157, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe157, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `cloud-upload`
@@ -1841,9 +1867,10 @@ class AntDesignIcons {
     IconData(0xe16b, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `code-twotone`
-  static const IconifyIconData codeTwotone = IconifyIconData.solo(
+  /// `code-twotone` (duo-tone)
+  static const IconifyIconData codeTwotone = IconifyIconData.duo(
     IconData(0xe16c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe16c, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `codepen`
@@ -1986,9 +2013,10 @@ class AntDesignIcons {
     IconData(0xe188, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `compass-twotone`
-  static const IconifyIconData compassTwotone = IconifyIconData.solo(
+  /// `compass-twotone` (duo-tone)
+  static const IconifyIconData compassTwotone = IconifyIconData.duo(
     IconData(0xe189, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe189, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `compress`
@@ -2036,9 +2064,10 @@ class AntDesignIcons {
     IconData(0xe192, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `contacts-twotone`
-  static const IconifyIconData contactsTwotone = IconifyIconData.solo(
+  /// `contacts-twotone` (duo-tone)
+  static const IconifyIconData contactsTwotone = IconifyIconData.duo(
     IconData(0xe193, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe193, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `container`
@@ -2066,9 +2095,10 @@ class AntDesignIcons {
     IconData(0xe198, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `container-twotone`
-  static const IconifyIconData containerTwotone = IconifyIconData.solo(
+  /// `container-twotone` (duo-tone)
+  static const IconifyIconData containerTwotone = IconifyIconData.duo(
     IconData(0xe199, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe199, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `control`
@@ -2096,9 +2126,10 @@ class AntDesignIcons {
     IconData(0xe19e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `control-twotone`
-  static const IconifyIconData controlTwotone = IconifyIconData.solo(
+  /// `control-twotone` (duo-tone)
+  static const IconifyIconData controlTwotone = IconifyIconData.duo(
     IconData(0xe19f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe19f, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `copy`
@@ -2126,9 +2157,10 @@ class AntDesignIcons {
     IconData(0xe1a4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `copy-twotone`
-  static const IconifyIconData copyTwotone = IconifyIconData.solo(
+  /// `copy-twotone` (duo-tone)
+  static const IconifyIconData copyTwotone = IconifyIconData.duo(
     IconData(0xe1a5, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1a5, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `copyright`
@@ -2156,9 +2188,10 @@ class AntDesignIcons {
     IconData(0xe1aa, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `copyright-circle-twotone`
-  static const IconifyIconData copyrightCircleTwotone = IconifyIconData.solo(
+  /// `copyright-circle-twotone` (duo-tone)
+  static const IconifyIconData copyrightCircleTwotone = IconifyIconData.duo(
     IconData(0xe1ab, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1ab, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `copyright-outline`
@@ -2171,9 +2204,10 @@ class AntDesignIcons {
     IconData(0xe1ad, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `copyright-twotone`
-  static const IconifyIconData copyrightTwotone = IconifyIconData.solo(
+  /// `copyright-twotone` (duo-tone)
+  static const IconifyIconData copyrightTwotone = IconifyIconData.duo(
     IconData(0xe1ae, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1ae, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `credit-card`
@@ -2201,9 +2235,10 @@ class AntDesignIcons {
     IconData(0xe1b3, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `credit-card-twotone`
-  static const IconifyIconData creditCardTwotone = IconifyIconData.solo(
+  /// `credit-card-twotone` (duo-tone)
+  static const IconifyIconData creditCardTwotone = IconifyIconData.duo(
     IconData(0xe1b4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1b4, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `crown`
@@ -2231,9 +2266,10 @@ class AntDesignIcons {
     IconData(0xe1b9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `crown-twotone`
-  static const IconifyIconData crownTwotone = IconifyIconData.solo(
+  /// `crown-twotone` (duo-tone)
+  static const IconifyIconData crownTwotone = IconifyIconData.duo(
     IconData(0xe1ba, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1ba, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `customer-service`
@@ -2261,9 +2297,10 @@ class AntDesignIcons {
     IconData(0xe1bf, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `customer-service-twotone`
-  static const IconifyIconData customerServiceTwotone = IconifyIconData.solo(
+  /// `customer-service-twotone` (duo-tone)
+  static const IconifyIconData customerServiceTwotone = IconifyIconData.duo(
     IconData(0xe1c0, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1c0, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `dash`
@@ -2306,9 +2343,10 @@ class AntDesignIcons {
     IconData(0xe1c8, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `dashboard-twotone`
-  static const IconifyIconData dashboardTwotone = IconifyIconData.solo(
+  /// `dashboard-twotone` (duo-tone)
+  static const IconifyIconData dashboardTwotone = IconifyIconData.duo(
     IconData(0xe1c9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1c9, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `database`
@@ -2336,9 +2374,10 @@ class AntDesignIcons {
     IconData(0xe1ce, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `database-twotone`
-  static const IconifyIconData databaseTwotone = IconifyIconData.solo(
+  /// `database-twotone` (duo-tone)
+  static const IconifyIconData databaseTwotone = IconifyIconData.duo(
     IconData(0xe1cf, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1cf, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `delete`
@@ -2386,9 +2425,10 @@ class AntDesignIcons {
     IconData(0xe1d8, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `delete-twotone`
-  static const IconifyIconData deleteTwotone = IconifyIconData.solo(
+  /// `delete-twotone` (duo-tone)
+  static const IconifyIconData deleteTwotone = IconifyIconData.duo(
     IconData(0xe1d9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1d9, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `delivered-procedure`
@@ -2456,9 +2496,10 @@ class AntDesignIcons {
     IconData(0xe1e6, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `diff-twotone`
-  static const IconifyIconData diffTwotone = IconifyIconData.solo(
+  /// `diff-twotone` (duo-tone)
+  static const IconifyIconData diffTwotone = IconifyIconData.duo(
     IconData(0xe1e7, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1e7, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `dingding`
@@ -2566,9 +2607,10 @@ class AntDesignIcons {
     IconData(0xe1fc, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `dislike-twotone`
-  static const IconifyIconData dislikeTwotone = IconifyIconData.solo(
+  /// `dislike-twotone` (duo-tone)
+  static const IconifyIconData dislikeTwotone = IconifyIconData.duo(
     IconData(0xe1fd, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe1fd, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `docker-outlined`
@@ -2601,9 +2643,10 @@ class AntDesignIcons {
     IconData(0xe203, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `dollar-circle-twotone`
-  static const IconifyIconData dollarCircleTwotone = IconifyIconData.solo(
+  /// `dollar-circle-twotone` (duo-tone)
+  static const IconifyIconData dollarCircleTwotone = IconifyIconData.duo(
     IconData(0xe204, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe204, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `dollar-outline`
@@ -2616,9 +2659,10 @@ class AntDesignIcons {
     IconData(0xe206, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `dollar-twotone`
-  static const IconifyIconData dollarTwotone = IconifyIconData.solo(
+  /// `dollar-twotone` (duo-tone)
+  static const IconifyIconData dollarTwotone = IconifyIconData.duo(
     IconData(0xe207, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe207, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `dot-chart`
@@ -2701,9 +2745,10 @@ class AntDesignIcons {
     IconData(0xe217, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `down-circle-twotone`
-  static const IconifyIconData downCircleTwotone = IconifyIconData.solo(
+  /// `down-circle-twotone` (duo-tone)
+  static const IconifyIconData downCircleTwotone = IconifyIconData.duo(
     IconData(0xe218, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe218, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `down-outline`
@@ -2741,9 +2786,10 @@ class AntDesignIcons {
     IconData(0xe21f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `down-square-twotone`
-  static const IconifyIconData downSquareTwotone = IconifyIconData.solo(
+  /// `down-square-twotone` (duo-tone)
+  static const IconifyIconData downSquareTwotone = IconifyIconData.duo(
     IconData(0xe220, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe220, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `download`
@@ -2901,9 +2947,10 @@ class AntDesignIcons {
     IconData(0xe23f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `edit-twotone`
-  static const IconifyIconData editTwotone = IconifyIconData.solo(
+  /// `edit-twotone` (duo-tone)
+  static const IconifyIconData editTwotone = IconifyIconData.duo(
     IconData(0xe240, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe240, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `ellipsis`
@@ -2961,9 +3008,10 @@ class AntDesignIcons {
     IconData(0xe24b, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `environment-twotone`
-  static const IconifyIconData environmentTwotone = IconifyIconData.solo(
+  /// `environment-twotone` (duo-tone)
+  static const IconifyIconData environmentTwotone = IconifyIconData.duo(
     IconData(0xe24c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe24c, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `euro`
@@ -2991,9 +3039,10 @@ class AntDesignIcons {
     IconData(0xe251, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `euro-circle-twotone`
-  static const IconifyIconData euroCircleTwotone = IconifyIconData.solo(
+  /// `euro-circle-twotone` (duo-tone)
+  static const IconifyIconData euroCircleTwotone = IconifyIconData.duo(
     IconData(0xe252, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe252, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `euro-outline`
@@ -3006,9 +3055,10 @@ class AntDesignIcons {
     IconData(0xe254, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `euro-twotone`
-  static const IconifyIconData euroTwotone = IconifyIconData.solo(
+  /// `euro-twotone` (duo-tone)
+  static const IconifyIconData euroTwotone = IconifyIconData.duo(
     IconData(0xe255, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe255, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `exception`
@@ -3056,9 +3106,10 @@ class AntDesignIcons {
     IconData(0xe25e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `exclamation-circle-twotone`
-  static const IconifyIconData exclamationCircleTwotone = IconifyIconData.solo(
+  /// `exclamation-circle-twotone` (duo-tone)
+  static const IconifyIconData exclamationCircleTwotone = IconifyIconData.duo(
     IconData(0xe25f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe25f, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `exclamation-outline`
@@ -3116,9 +3167,10 @@ class AntDesignIcons {
     IconData(0xe26a, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `experiment-twotone`
-  static const IconifyIconData experimentTwotone = IconifyIconData.solo(
+  /// `experiment-twotone` (duo-tone)
+  static const IconifyIconData experimentTwotone = IconifyIconData.duo(
     IconData(0xe26b, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe26b, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `export`
@@ -3176,9 +3228,10 @@ class AntDesignIcons {
     IconData(0xe276, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `eye-invisible-twotone`
-  static const IconifyIconData eyeInvisibleTwotone = IconifyIconData.solo(
+  /// `eye-invisible-twotone` (duo-tone)
+  static const IconifyIconData eyeInvisibleTwotone = IconifyIconData.duo(
     IconData(0xe277, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe277, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `eye-outline`
@@ -3191,9 +3244,10 @@ class AntDesignIcons {
     IconData(0xe279, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `eye-twotone`
-  static const IconifyIconData eyeTwotone = IconifyIconData.solo(
+  /// `eye-twotone` (duo-tone)
+  static const IconifyIconData eyeTwotone = IconifyIconData.duo(
     IconData(0xe27a, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe27a, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `facebook`
@@ -3356,9 +3410,10 @@ class AntDesignIcons {
     IconData(0xe29a, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-add-twotone`
-  static const IconifyIconData fileAddTwotone = IconifyIconData.solo(
+  /// `file-add-twotone` (duo-tone)
+  static const IconifyIconData fileAddTwotone = IconifyIconData.duo(
     IconData(0xe29b, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe29b, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-done`
@@ -3401,9 +3456,10 @@ class AntDesignIcons {
     IconData(0xe2a3, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-excel-twotone`
-  static const IconifyIconData fileExcelTwotone = IconifyIconData.solo(
+  /// `file-excel-twotone` (duo-tone)
+  static const IconifyIconData fileExcelTwotone = IconifyIconData.duo(
     IconData(0xe2a4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2a4, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-exclamation`
@@ -3431,9 +3487,10 @@ class AntDesignIcons {
     IconData(0xe2a9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-exclamation-twotone`
-  static const IconifyIconData fileExclamationTwotone = IconifyIconData.solo(
+  /// `file-exclamation-twotone` (duo-tone)
+  static const IconifyIconData fileExclamationTwotone = IconifyIconData.duo(
     IconData(0xe2aa, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2aa, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-fill`
@@ -3481,9 +3538,10 @@ class AntDesignIcons {
     IconData(0xe2b3, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-image-twotone`
-  static const IconifyIconData fileImageTwotone = IconifyIconData.solo(
+  /// `file-image-twotone` (duo-tone)
+  static const IconifyIconData fileImageTwotone = IconifyIconData.duo(
     IconData(0xe2b4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2b4, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-jpg`
@@ -3526,9 +3584,10 @@ class AntDesignIcons {
     IconData(0xe2bc, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-markdown-twotone`
-  static const IconifyIconData fileMarkdownTwotone = IconifyIconData.solo(
+  /// `file-markdown-twotone` (duo-tone)
+  static const IconifyIconData fileMarkdownTwotone = IconifyIconData.duo(
     IconData(0xe2bd, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2bd, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-outline`
@@ -3566,9 +3625,10 @@ class AntDesignIcons {
     IconData(0xe2c4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-pdf-twotone`
-  static const IconifyIconData filePdfTwotone = IconifyIconData.solo(
+  /// `file-pdf-twotone` (duo-tone)
+  static const IconifyIconData filePdfTwotone = IconifyIconData.duo(
     IconData(0xe2c5, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2c5, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-ppt`
@@ -3596,9 +3656,10 @@ class AntDesignIcons {
     IconData(0xe2ca, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-ppt-twotone`
-  static const IconifyIconData filePptTwotone = IconifyIconData.solo(
+  /// `file-ppt-twotone` (duo-tone)
+  static const IconifyIconData filePptTwotone = IconifyIconData.duo(
     IconData(0xe2cb, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2cb, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-protect`
@@ -3671,14 +3732,16 @@ class AntDesignIcons {
     IconData(0xe2d9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-text-twotone`
-  static const IconifyIconData fileTextTwotone = IconifyIconData.solo(
+  /// `file-text-twotone` (duo-tone)
+  static const IconifyIconData fileTextTwotone = IconifyIconData.duo(
     IconData(0xe2da, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2da, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-twotone`
-  static const IconifyIconData fileTwotone = IconifyIconData.solo(
+  /// `file-twotone` (duo-tone)
+  static const IconifyIconData fileTwotone = IconifyIconData.duo(
     IconData(0xe2db, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2db, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-unknown`
@@ -3706,9 +3769,10 @@ class AntDesignIcons {
     IconData(0xe2e0, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-unknown-twotone`
-  static const IconifyIconData fileUnknownTwotone = IconifyIconData.solo(
+  /// `file-unknown-twotone` (duo-tone)
+  static const IconifyIconData fileUnknownTwotone = IconifyIconData.duo(
     IconData(0xe2e1, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2e1, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-word`
@@ -3736,9 +3800,10 @@ class AntDesignIcons {
     IconData(0xe2e6, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-word-twotone`
-  static const IconifyIconData fileWordTwotone = IconifyIconData.solo(
+  /// `file-word-twotone` (duo-tone)
+  static const IconifyIconData fileWordTwotone = IconifyIconData.duo(
     IconData(0xe2e7, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2e7, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `file-zip`
@@ -3766,9 +3831,10 @@ class AntDesignIcons {
     IconData(0xe2ec, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `file-zip-twotone`
-  static const IconifyIconData fileZipTwotone = IconifyIconData.solo(
+  /// `file-zip-twotone` (duo-tone)
+  static const IconifyIconData fileZipTwotone = IconifyIconData.duo(
     IconData(0xe2ed, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2ed, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `filter`
@@ -3796,9 +3862,10 @@ class AntDesignIcons {
     IconData(0xe2f2, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `filter-twotone`
-  static const IconifyIconData filterTwotone = IconifyIconData.solo(
+  /// `filter-twotone` (duo-tone)
+  static const IconifyIconData filterTwotone = IconifyIconData.duo(
     IconData(0xe2f3, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2f3, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `fire`
@@ -3826,9 +3893,10 @@ class AntDesignIcons {
     IconData(0xe2f8, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `fire-twotone`
-  static const IconifyIconData fireTwotone = IconifyIconData.solo(
+  /// `fire-twotone` (duo-tone)
+  static const IconifyIconData fireTwotone = IconifyIconData.duo(
     IconData(0xe2f9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2f9, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `flag`
@@ -3856,9 +3924,10 @@ class AntDesignIcons {
     IconData(0xe2fe, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `flag-twotone`
-  static const IconifyIconData flagTwotone = IconifyIconData.solo(
+  /// `flag-twotone` (duo-tone)
+  static const IconifyIconData flagTwotone = IconifyIconData.duo(
     IconData(0xe2ff, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe2ff, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `folder`
@@ -3891,9 +3960,10 @@ class AntDesignIcons {
     IconData(0xe305, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `folder-add-twotone`
-  static const IconifyIconData folderAddTwotone = IconifyIconData.solo(
+  /// `folder-add-twotone` (duo-tone)
+  static const IconifyIconData folderAddTwotone = IconifyIconData.duo(
     IconData(0xe306, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe306, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `folder-fill`
@@ -3931,9 +4001,10 @@ class AntDesignIcons {
     IconData(0xe30d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `folder-open-twotone`
-  static const IconifyIconData folderOpenTwotone = IconifyIconData.solo(
+  /// `folder-open-twotone` (duo-tone)
+  static const IconifyIconData folderOpenTwotone = IconifyIconData.duo(
     IconData(0xe30e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe30e, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `folder-outline`
@@ -3946,9 +4017,10 @@ class AntDesignIcons {
     IconData(0xe310, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `folder-twotone`
-  static const IconifyIconData folderTwotone = IconifyIconData.solo(
+  /// `folder-twotone` (duo-tone)
+  static const IconifyIconData folderTwotone = IconifyIconData.duo(
     IconData(0xe311, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe311, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `folder-view`
@@ -4086,9 +4158,10 @@ class AntDesignIcons {
     IconData(0xe32c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `frown-twotone`
-  static const IconifyIconData frownTwotone = IconifyIconData.solo(
+  /// `frown-twotone` (duo-tone)
+  static const IconifyIconData frownTwotone = IconifyIconData.duo(
     IconData(0xe32d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe32d, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `fullscreen`
@@ -4166,9 +4239,10 @@ class AntDesignIcons {
     IconData(0xe33c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `fund-twotone`
-  static const IconifyIconData fundTwotone = IconifyIconData.solo(
+  /// `fund-twotone` (duo-tone)
+  static const IconifyIconData fundTwotone = IconifyIconData.duo(
     IconData(0xe33d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe33d, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `fund-view`
@@ -4206,9 +4280,10 @@ class AntDesignIcons {
     IconData(0xe344, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `funnel-plot-twotone`
-  static const IconifyIconData funnelPlotTwotone = IconifyIconData.solo(
+  /// `funnel-plot-twotone` (duo-tone)
+  static const IconifyIconData funnelPlotTwotone = IconifyIconData.duo(
     IconData(0xe345, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe345, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `gateway`
@@ -4261,9 +4336,10 @@ class AntDesignIcons {
     IconData(0xe34f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `gift-twotone`
-  static const IconifyIconData giftTwotone = IconifyIconData.solo(
+  /// `gift-twotone` (duo-tone)
+  static const IconifyIconData giftTwotone = IconifyIconData.duo(
     IconData(0xe350, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe350, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `github`
@@ -4351,9 +4427,10 @@ class AntDesignIcons {
     IconData(0xe361, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `gold-twotone`
-  static const IconifyIconData goldTwotone = IconifyIconData.solo(
+  /// `gold-twotone` (duo-tone)
+  static const IconifyIconData goldTwotone = IconifyIconData.duo(
     IconData(0xe362, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe362, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `golden`
@@ -4501,9 +4578,10 @@ class AntDesignIcons {
     IconData(0xe37f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `hdd-twotone`
-  static const IconifyIconData hddTwotone = IconifyIconData.solo(
+  /// `hdd-twotone` (duo-tone)
+  static const IconifyIconData hddTwotone = IconifyIconData.duo(
     IconData(0xe380, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe380, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `heart`
@@ -4531,9 +4609,10 @@ class AntDesignIcons {
     IconData(0xe385, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `heart-twotone`
-  static const IconifyIconData heartTwotone = IconifyIconData.solo(
+  /// `heart-twotone` (duo-tone)
+  static const IconifyIconData heartTwotone = IconifyIconData.duo(
     IconData(0xe386, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe386, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `heat-map`
@@ -4576,9 +4655,10 @@ class AntDesignIcons {
     IconData(0xe38e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `highlight-twotone`
-  static const IconifyIconData highlightTwotone = IconifyIconData.solo(
+  /// `highlight-twotone` (duo-tone)
+  static const IconifyIconData highlightTwotone = IconifyIconData.duo(
     IconData(0xe38f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe38f, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `history`
@@ -4626,9 +4706,10 @@ class AntDesignIcons {
     IconData(0xe398, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `home-twotone`
-  static const IconifyIconData homeTwotone = IconifyIconData.solo(
+  /// `home-twotone` (duo-tone)
+  static const IconifyIconData homeTwotone = IconifyIconData.duo(
     IconData(0xe399, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe399, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `hourglass`
@@ -4656,9 +4737,10 @@ class AntDesignIcons {
     IconData(0xe39e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `hourglass-twotone`
-  static const IconifyIconData hourglassTwotone = IconifyIconData.solo(
+  /// `hourglass-twotone` (duo-tone)
+  static const IconifyIconData hourglassTwotone = IconifyIconData.duo(
     IconData(0xe39f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe39f, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `html5`
@@ -4686,9 +4768,10 @@ class AntDesignIcons {
     IconData(0xe3a4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `html5-twotone`
-  static const IconifyIconData html5Twotone = IconifyIconData.solo(
+  /// `html5-twotone` (duo-tone)
+  static const IconifyIconData html5Twotone = IconifyIconData.duo(
     IconData(0xe3a5, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe3a5, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `idcard`
@@ -4716,9 +4799,10 @@ class AntDesignIcons {
     IconData(0xe3aa, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `idcard-twotone`
-  static const IconifyIconData idcardTwotone = IconifyIconData.solo(
+  /// `idcard-twotone` (duo-tone)
+  static const IconifyIconData idcardTwotone = IconifyIconData.duo(
     IconData(0xe3ab, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe3ab, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `ie`
@@ -4826,9 +4910,10 @@ class AntDesignIcons {
     IconData(0xe3c0, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `info-circle-twotone`
-  static const IconifyIconData infoCircleTwotone = IconifyIconData.solo(
+  /// `info-circle-twotone` (duo-tone)
+  static const IconifyIconData infoCircleTwotone = IconifyIconData.duo(
     IconData(0xe3c1, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe3c1, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `info-outline`
@@ -4931,9 +5016,10 @@ class AntDesignIcons {
     IconData(0xe3d5, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `insurance-twotone`
-  static const IconifyIconData insuranceTwotone = IconifyIconData.solo(
+  /// `insurance-twotone` (duo-tone)
+  static const IconifyIconData insuranceTwotone = IconifyIconData.duo(
     IconData(0xe3d6, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe3d6, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `interaction`
@@ -4961,9 +5047,10 @@ class AntDesignIcons {
     IconData(0xe3db, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `interaction-twotone`
-  static const IconifyIconData interactionTwotone = IconifyIconData.solo(
+  /// `interaction-twotone` (duo-tone)
+  static const IconifyIconData interactionTwotone = IconifyIconData.duo(
     IconData(0xe3dc, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe3dc, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `interation`
@@ -4981,9 +5068,10 @@ class AntDesignIcons {
     IconData(0xe3df, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `interation-twotone`
-  static const IconifyIconData interationTwotone = IconifyIconData.solo(
+  /// `interation-twotone` (duo-tone)
+  static const IconifyIconData interationTwotone = IconifyIconData.duo(
     IconData(0xe3e0, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe3e0, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `issues-close`
@@ -5086,9 +5174,10 @@ class AntDesignIcons {
     IconData(0xe3f4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `layout-twotone`
-  static const IconifyIconData layoutTwotone = IconifyIconData.solo(
+  /// `layout-twotone` (duo-tone)
+  static const IconifyIconData layoutTwotone = IconifyIconData.duo(
     IconData(0xe3f5, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe3f5, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `left`
@@ -5121,9 +5210,10 @@ class AntDesignIcons {
     IconData(0xe3fb, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `left-circle-twotone`
-  static const IconifyIconData leftCircleTwotone = IconifyIconData.solo(
+  /// `left-circle-twotone` (duo-tone)
+  static const IconifyIconData leftCircleTwotone = IconifyIconData.duo(
     IconData(0xe3fc, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe3fc, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `left-outline`
@@ -5161,9 +5251,10 @@ class AntDesignIcons {
     IconData(0xe403, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `left-square-twotone`
-  static const IconifyIconData leftSquareTwotone = IconifyIconData.solo(
+  /// `left-square-twotone` (duo-tone)
+  static const IconifyIconData leftSquareTwotone = IconifyIconData.duo(
     IconData(0xe404, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe404, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `like`
@@ -5191,9 +5282,10 @@ class AntDesignIcons {
     IconData(0xe409, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `like-twotone`
-  static const IconifyIconData likeTwotone = IconifyIconData.solo(
+  /// `like-twotone` (duo-tone)
+  static const IconifyIconData likeTwotone = IconifyIconData.duo(
     IconData(0xe40a, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe40a, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `line`
@@ -5341,9 +5433,10 @@ class AntDesignIcons {
     IconData(0xe427, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `lock-twotone`
-  static const IconifyIconData lockTwotone = IconifyIconData.solo(
+  /// `lock-twotone` (duo-tone)
+  static const IconifyIconData lockTwotone = IconifyIconData.duo(
     IconData(0xe428, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe428, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `login`
@@ -5416,9 +5509,10 @@ class AntDesignIcons {
     IconData(0xe436, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `mail-twotone`
-  static const IconifyIconData mailTwotone = IconifyIconData.solo(
+  /// `mail-twotone` (duo-tone)
+  static const IconifyIconData mailTwotone = IconifyIconData.duo(
     IconData(0xe437, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe437, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `man`
@@ -5461,9 +5555,10 @@ class AntDesignIcons {
     IconData(0xe43f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `medicine-box-twotone`
-  static const IconifyIconData medicineBoxTwotone = IconifyIconData.solo(
+  /// `medicine-box-twotone` (duo-tone)
+  static const IconifyIconData medicineBoxTwotone = IconifyIconData.duo(
     IconData(0xe440, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe440, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `medium`
@@ -5551,9 +5646,10 @@ class AntDesignIcons {
     IconData(0xe451, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `meh-twotone`
-  static const IconifyIconData mehTwotone = IconifyIconData.solo(
+  /// `meh-twotone` (duo-tone)
+  static const IconifyIconData mehTwotone = IconifyIconData.duo(
     IconData(0xe452, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe452, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `menu`
@@ -5646,9 +5742,10 @@ class AntDesignIcons {
     IconData(0xe464, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `message-twotone`
-  static const IconifyIconData messageTwotone = IconifyIconData.solo(
+  /// `message-twotone` (duo-tone)
+  static const IconifyIconData messageTwotone = IconifyIconData.duo(
     IconData(0xe465, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe465, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `minus`
@@ -5681,9 +5778,10 @@ class AntDesignIcons {
     IconData(0xe46b, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `minus-circle-twotone`
-  static const IconifyIconData minusCircleTwotone = IconifyIconData.solo(
+  /// `minus-circle-twotone` (duo-tone)
+  static const IconifyIconData minusCircleTwotone = IconifyIconData.duo(
     IconData(0xe46c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe46c, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `minus-outline`
@@ -5721,9 +5819,10 @@ class AntDesignIcons {
     IconData(0xe473, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `minus-square-twotone`
-  static const IconifyIconData minusSquareTwotone = IconifyIconData.solo(
+  /// `minus-square-twotone` (duo-tone)
+  static const IconifyIconData minusSquareTwotone = IconifyIconData.duo(
     IconData(0xe474, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe474, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `mobile`
@@ -5751,9 +5850,10 @@ class AntDesignIcons {
     IconData(0xe479, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `mobile-twotone`
-  static const IconifyIconData mobileTwotone = IconifyIconData.solo(
+  /// `mobile-twotone` (duo-tone)
+  static const IconifyIconData mobileTwotone = IconifyIconData.duo(
     IconData(0xe47a, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe47a, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `money-collect`
@@ -5781,9 +5881,10 @@ class AntDesignIcons {
     IconData(0xe47f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `money-collect-twotone`
-  static const IconifyIconData moneyCollectTwotone = IconifyIconData.solo(
+  /// `money-collect-twotone` (duo-tone)
+  static const IconifyIconData moneyCollectTwotone = IconifyIconData.duo(
     IconData(0xe480, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe480, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `monitor`
@@ -5896,9 +5997,10 @@ class AntDesignIcons {
     IconData(0xe496, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `notification-twotone`
-  static const IconifyIconData notificationTwotone = IconifyIconData.solo(
+  /// `notification-twotone` (duo-tone)
+  static const IconifyIconData notificationTwotone = IconifyIconData.duo(
     IconData(0xe497, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe497, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `number`
@@ -6006,9 +6108,10 @@ class AntDesignIcons {
     IconData(0xe4ac, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `pause-circle-twotone`
-  static const IconifyIconData pauseCircleTwotone = IconifyIconData.solo(
+  /// `pause-circle-twotone` (duo-tone)
+  static const IconifyIconData pauseCircleTwotone = IconifyIconData.duo(
     IconData(0xe4ad, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe4ad, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `pause-outline`
@@ -6086,9 +6189,10 @@ class AntDesignIcons {
     IconData(0xe4bc, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `phone-twotone`
-  static const IconifyIconData phoneTwotone = IconifyIconData.solo(
+  /// `phone-twotone` (duo-tone)
+  static const IconifyIconData phoneTwotone = IconifyIconData.duo(
     IconData(0xe4bd, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe4bd, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `pic-center`
@@ -6161,9 +6265,10 @@ class AntDesignIcons {
     IconData(0xe4cb, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `picture-twotone`
-  static const IconifyIconData pictureTwotone = IconifyIconData.solo(
+  /// `picture-twotone` (duo-tone)
+  static const IconifyIconData pictureTwotone = IconifyIconData.duo(
     IconData(0xe4cc, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe4cc, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `pie-chart`
@@ -6191,9 +6296,10 @@ class AntDesignIcons {
     IconData(0xe4d1, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `pie-chart-twotone`
-  static const IconifyIconData pieChartTwotone = IconifyIconData.solo(
+  /// `pie-chart-twotone` (duo-tone)
+  static const IconifyIconData pieChartTwotone = IconifyIconData.duo(
     IconData(0xe4d2, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe4d2, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `pinterest-filled`
@@ -6231,9 +6337,10 @@ class AntDesignIcons {
     IconData(0xe4d9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `play-circle-twotone`
-  static const IconifyIconData playCircleTwotone = IconifyIconData.solo(
+  /// `play-circle-twotone` (duo-tone)
+  static const IconifyIconData playCircleTwotone = IconifyIconData.duo(
     IconData(0xe4da, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe4da, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `play-square`
@@ -6261,9 +6368,10 @@ class AntDesignIcons {
     IconData(0xe4df, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `play-square-twotone`
-  static const IconifyIconData playSquareTwotone = IconifyIconData.solo(
+  /// `play-square-twotone` (duo-tone)
+  static const IconifyIconData playSquareTwotone = IconifyIconData.duo(
     IconData(0xe4e0, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe4e0, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `plus`
@@ -6296,9 +6404,10 @@ class AntDesignIcons {
     IconData(0xe4e6, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `plus-circle-twotone`
-  static const IconifyIconData plusCircleTwotone = IconifyIconData.solo(
+  /// `plus-circle-twotone` (duo-tone)
+  static const IconifyIconData plusCircleTwotone = IconifyIconData.duo(
     IconData(0xe4e7, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe4e7, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `plus-outline`
@@ -6336,9 +6445,10 @@ class AntDesignIcons {
     IconData(0xe4ee, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `plus-square-twotone`
-  static const IconifyIconData plusSquareTwotone = IconifyIconData.solo(
+  /// `plus-square-twotone` (duo-tone)
+  static const IconifyIconData plusSquareTwotone = IconifyIconData.duo(
     IconData(0xe4ef, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe4ef, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `pound`
@@ -6366,9 +6476,10 @@ class AntDesignIcons {
     IconData(0xe4f4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `pound-circle-twotone`
-  static const IconifyIconData poundCircleTwotone = IconifyIconData.solo(
+  /// `pound-circle-twotone` (duo-tone)
+  static const IconifyIconData poundCircleTwotone = IconifyIconData.duo(
     IconData(0xe4f5, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe4f5, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `pound-outline`
@@ -6421,9 +6532,10 @@ class AntDesignIcons {
     IconData(0xe4ff, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `printer-twotone`
-  static const IconifyIconData printerTwotone = IconifyIconData.solo(
+  /// `printer-twotone` (duo-tone)
+  static const IconifyIconData printerTwotone = IconifyIconData.duo(
     IconData(0xe500, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe500, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `product-filled`
@@ -6461,9 +6573,10 @@ class AntDesignIcons {
     IconData(0xe507, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `profile-twotone`
-  static const IconifyIconData profileTwotone = IconifyIconData.solo(
+  /// `profile-twotone` (duo-tone)
+  static const IconifyIconData profileTwotone = IconifyIconData.duo(
     IconData(0xe508, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe508, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `project`
@@ -6491,9 +6604,10 @@ class AntDesignIcons {
     IconData(0xe50d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `project-twotone`
-  static const IconifyIconData projectTwotone = IconifyIconData.solo(
+  /// `project-twotone` (duo-tone)
+  static const IconifyIconData projectTwotone = IconifyIconData.duo(
     IconData(0xe50e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe50e, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `property-safety`
@@ -6521,9 +6635,10 @@ class AntDesignIcons {
     IconData(0xe513, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `property-safety-twotone`
-  static const IconifyIconData propertySafetyTwotone = IconifyIconData.solo(
+  /// `property-safety-twotone` (duo-tone)
+  static const IconifyIconData propertySafetyTwotone = IconifyIconData.duo(
     IconData(0xe514, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe514, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `pull-request`
@@ -6566,9 +6681,10 @@ class AntDesignIcons {
     IconData(0xe51c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `pushpin-twotone`
-  static const IconifyIconData pushpinTwotone = IconifyIconData.solo(
+  /// `pushpin-twotone` (duo-tone)
+  static const IconifyIconData pushpinTwotone = IconifyIconData.duo(
     IconData(0xe51d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe51d, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `python-outlined`
@@ -6666,9 +6782,10 @@ class AntDesignIcons {
     IconData(0xe530, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `question-circle-twotone`
-  static const IconifyIconData questionCircleTwotone = IconifyIconData.solo(
+  /// `question-circle-twotone` (duo-tone)
+  static const IconifyIconData questionCircleTwotone = IconifyIconData.duo(
     IconData(0xe531, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe531, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `question-outline`
@@ -6821,9 +6938,10 @@ class AntDesignIcons {
     IconData(0xe54f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `reconciliation-twotone`
-  static const IconifyIconData reconciliationTwotone = IconifyIconData.solo(
+  /// `reconciliation-twotone` (duo-tone)
+  static const IconifyIconData reconciliationTwotone = IconifyIconData.duo(
     IconData(0xe550, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe550, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `red-envelope`
@@ -6851,9 +6969,10 @@ class AntDesignIcons {
     IconData(0xe555, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `red-envelope-twotone`
-  static const IconifyIconData redEnvelopeTwotone = IconifyIconData.solo(
+  /// `red-envelope-twotone` (duo-tone)
+  static const IconifyIconData redEnvelopeTwotone = IconifyIconData.duo(
     IconData(0xe556, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe556, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `reddit`
@@ -6961,9 +7080,10 @@ class AntDesignIcons {
     IconData(0xe56b, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `rest-twotone`
-  static const IconifyIconData restTwotone = IconifyIconData.solo(
+  /// `rest-twotone` (duo-tone)
+  static const IconifyIconData restTwotone = IconifyIconData.duo(
     IconData(0xe56c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe56c, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `retweet`
@@ -7011,9 +7131,10 @@ class AntDesignIcons {
     IconData(0xe575, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `right-circle-twotone`
-  static const IconifyIconData rightCircleTwotone = IconifyIconData.solo(
+  /// `right-circle-twotone` (duo-tone)
+  static const IconifyIconData rightCircleTwotone = IconifyIconData.duo(
     IconData(0xe576, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe576, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `right-outline`
@@ -7051,9 +7172,10 @@ class AntDesignIcons {
     IconData(0xe57d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `right-square-twotone`
-  static const IconifyIconData rightSquareTwotone = IconifyIconData.solo(
+  /// `right-square-twotone` (duo-tone)
+  static const IconifyIconData rightSquareTwotone = IconifyIconData.duo(
     IconData(0xe57e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe57e, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `rise`
@@ -7116,9 +7238,10 @@ class AntDesignIcons {
     IconData(0xe58a, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `rocket-twotone`
-  static const IconifyIconData rocketTwotone = IconifyIconData.solo(
+  /// `rocket-twotone` (duo-tone)
+  static const IconifyIconData rocketTwotone = IconifyIconData.duo(
     IconData(0xe58b, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe58b, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `rollback`
@@ -7191,9 +7314,10 @@ class AntDesignIcons {
     IconData(0xe599, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `safety-certificate-twotone`
-  static const IconifyIconData safetyCertificateTwotone = IconifyIconData.solo(
+  /// `safety-certificate-twotone` (duo-tone)
+  static const IconifyIconData safetyCertificateTwotone = IconifyIconData.duo(
     IconData(0xe59a, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe59a, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `safety-outline`
@@ -7231,9 +7355,10 @@ class AntDesignIcons {
     IconData(0xe5a1, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `save-twotone`
-  static const IconifyIconData saveTwotone = IconifyIconData.solo(
+  /// `save-twotone` (duo-tone)
+  static const IconifyIconData saveTwotone = IconifyIconData.duo(
     IconData(0xe5a2, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe5a2, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `scan`
@@ -7276,9 +7401,10 @@ class AntDesignIcons {
     IconData(0xe5aa, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `schedule-twotone`
-  static const IconifyIconData scheduleTwotone = IconifyIconData.solo(
+  /// `schedule-twotone` (duo-tone)
+  static const IconifyIconData scheduleTwotone = IconifyIconData.duo(
     IconData(0xe5ab, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe5ab, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `scissor`
@@ -7336,9 +7462,10 @@ class AntDesignIcons {
     IconData(0xe5b6, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `security-scan-twotone`
-  static const IconifyIconData securityScanTwotone = IconifyIconData.solo(
+  /// `security-scan-twotone` (duo-tone)
+  static const IconifyIconData securityScanTwotone = IconifyIconData.duo(
     IconData(0xe5b7, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe5b7, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `select`
@@ -7391,9 +7518,10 @@ class AntDesignIcons {
     IconData(0xe5c1, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `setting-twotone`
-  static const IconifyIconData settingTwotone = IconifyIconData.solo(
+  /// `setting-twotone` (duo-tone)
+  static const IconifyIconData settingTwotone = IconifyIconData.duo(
     IconData(0xe5c2, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe5c2, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `shake`
@@ -7451,9 +7579,10 @@ class AntDesignIcons {
     IconData(0xe5cd, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `shop-twotone`
-  static const IconifyIconData shopTwotone = IconifyIconData.solo(
+  /// `shop-twotone` (duo-tone)
+  static const IconifyIconData shopTwotone = IconifyIconData.duo(
     IconData(0xe5ce, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe5ce, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `shopping`
@@ -7496,9 +7625,10 @@ class AntDesignIcons {
     IconData(0xe5d6, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `shopping-twotone`
-  static const IconifyIconData shoppingTwotone = IconifyIconData.solo(
+  /// `shopping-twotone` (duo-tone)
+  static const IconifyIconData shoppingTwotone = IconifyIconData.duo(
     IconData(0xe5d7, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe5d7, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `shrink`
@@ -7616,9 +7746,10 @@ class AntDesignIcons {
     IconData(0xe5ee, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `skin-twotone`
-  static const IconifyIconData skinTwotone = IconifyIconData.solo(
+  /// `skin-twotone` (duo-tone)
+  static const IconifyIconData skinTwotone = IconifyIconData.duo(
     IconData(0xe5ef, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe5ef, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `skype`
@@ -7726,9 +7857,10 @@ class AntDesignIcons {
     IconData(0xe604, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `sliders-twotone`
-  static const IconifyIconData slidersTwotone = IconifyIconData.solo(
+  /// `sliders-twotone` (duo-tone)
+  static const IconifyIconData slidersTwotone = IconifyIconData.duo(
     IconData(0xe605, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe605, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `small-dash`
@@ -7771,9 +7903,10 @@ class AntDesignIcons {
     IconData(0xe60d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `smile-twotone`
-  static const IconifyIconData smileTwotone = IconifyIconData.solo(
+  /// `smile-twotone` (duo-tone)
+  static const IconifyIconData smileTwotone = IconifyIconData.duo(
     IconData(0xe60e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe60e, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `snippets`
@@ -7801,9 +7934,10 @@ class AntDesignIcons {
     IconData(0xe613, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `snippets-twotone`
-  static const IconifyIconData snippetsTwotone = IconifyIconData.solo(
+  /// `snippets-twotone` (duo-tone)
+  static const IconifyIconData snippetsTwotone = IconifyIconData.duo(
     IconData(0xe614, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe614, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `solution`
@@ -7876,9 +8010,10 @@ class AntDesignIcons {
     IconData(0xe622, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `sound-twotone`
-  static const IconifyIconData soundTwotone = IconifyIconData.solo(
+  /// `sound-twotone` (duo-tone)
+  static const IconifyIconData soundTwotone = IconifyIconData.duo(
     IconData(0xe623, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe623, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `split-cells`
@@ -7926,9 +8061,10 @@ class AntDesignIcons {
     IconData(0xe62c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `star-twotone`
-  static const IconifyIconData starTwotone = IconifyIconData.solo(
+  /// `star-twotone` (duo-tone)
+  static const IconifyIconData starTwotone = IconifyIconData.duo(
     IconData(0xe62d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe62d, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `step-backward`
@@ -8021,9 +8157,10 @@ class AntDesignIcons {
     IconData(0xe63f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `stop-twotone`
-  static const IconifyIconData stopTwotone = IconifyIconData.solo(
+  /// `stop-twotone` (duo-tone)
+  static const IconifyIconData stopTwotone = IconifyIconData.duo(
     IconData(0xe640, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe640, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `strikethrough`
@@ -8131,9 +8268,10 @@ class AntDesignIcons {
     IconData(0xe655, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `switcher-twotone`
-  static const IconifyIconData switcherTwotone = IconifyIconData.solo(
+  /// `switcher-twotone` (duo-tone)
+  static const IconifyIconData switcherTwotone = IconifyIconData.duo(
     IconData(0xe656, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe656, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `sync`
@@ -8191,9 +8329,10 @@ class AntDesignIcons {
     IconData(0xe661, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `tablet-twotone`
-  static const IconifyIconData tabletTwotone = IconifyIconData.solo(
+  /// `tablet-twotone` (duo-tone)
+  static const IconifyIconData tabletTwotone = IconifyIconData.duo(
     IconData(0xe662, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe662, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `tag`
@@ -8221,9 +8360,10 @@ class AntDesignIcons {
     IconData(0xe667, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `tag-twotone`
-  static const IconifyIconData tagTwotone = IconifyIconData.solo(
+  /// `tag-twotone` (duo-tone)
+  static const IconifyIconData tagTwotone = IconifyIconData.duo(
     IconData(0xe668, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe668, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `tags`
@@ -8251,9 +8391,10 @@ class AntDesignIcons {
     IconData(0xe66d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `tags-twotone`
-  static const IconifyIconData tagsTwotone = IconifyIconData.solo(
+  /// `tags-twotone` (duo-tone)
+  static const IconifyIconData tagsTwotone = IconifyIconData.duo(
     IconData(0xe66e, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe66e, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `taobao`
@@ -8351,9 +8492,10 @@ class AntDesignIcons {
     IconData(0xe681, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `thunderbolt-twotone`
-  static const IconifyIconData thunderboltTwotone = IconifyIconData.solo(
+  /// `thunderbolt-twotone` (duo-tone)
+  static const IconifyIconData thunderboltTwotone = IconifyIconData.duo(
     IconData(0xe682, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe682, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `tik-tok-filled`
@@ -8406,9 +8548,10 @@ class AntDesignIcons {
     IconData(0xe68c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `tool-twotone`
-  static const IconifyIconData toolTwotone = IconifyIconData.solo(
+  /// `tool-twotone` (duo-tone)
+  static const IconifyIconData toolTwotone = IconifyIconData.duo(
     IconData(0xe68d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe68d, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `trademark`
@@ -8436,9 +8579,10 @@ class AntDesignIcons {
     IconData(0xe692, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `trademark-circle-twotone`
-  static const IconifyIconData trademarkCircleTwotone = IconifyIconData.solo(
+  /// `trademark-circle-twotone` (duo-tone)
+  static const IconifyIconData trademarkCircleTwotone = IconifyIconData.duo(
     IconData(0xe693, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe693, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `trademark-outline`
@@ -8501,9 +8645,10 @@ class AntDesignIcons {
     IconData(0xe69f, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `trophy-twotone`
-  static const IconifyIconData trophyTwotone = IconifyIconData.solo(
+  /// `trophy-twotone` (duo-tone)
+  static const IconifyIconData trophyTwotone = IconifyIconData.duo(
     IconData(0xe6a0, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe6a0, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `truck-filled`
@@ -8631,9 +8776,10 @@ class AntDesignIcons {
     IconData(0xe6b9, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `unlock-twotone`
-  static const IconifyIconData unlockTwotone = IconifyIconData.solo(
+  /// `unlock-twotone` (duo-tone)
+  static const IconifyIconData unlockTwotone = IconifyIconData.duo(
     IconData(0xe6ba, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe6ba, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `unordered-list`
@@ -8681,9 +8827,10 @@ class AntDesignIcons {
     IconData(0xe6c3, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `up-circle-twotone`
-  static const IconifyIconData upCircleTwotone = IconifyIconData.solo(
+  /// `up-circle-twotone` (duo-tone)
+  static const IconifyIconData upCircleTwotone = IconifyIconData.duo(
     IconData(0xe6c4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe6c4, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `up-outline`
@@ -8721,9 +8868,10 @@ class AntDesignIcons {
     IconData(0xe6cb, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `up-square-twotone`
-  static const IconifyIconData upSquareTwotone = IconifyIconData.solo(
+  /// `up-square-twotone` (duo-tone)
+  static const IconifyIconData upSquareTwotone = IconifyIconData.duo(
     IconData(0xe6cc, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe6cc, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `upload`
@@ -8766,9 +8914,10 @@ class AntDesignIcons {
     IconData(0xe6d4, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `usb-twotone`
-  static const IconifyIconData usbTwotone = IconifyIconData.solo(
+  /// `usb-twotone` (duo-tone)
+  static const IconifyIconData usbTwotone = IconifyIconData.duo(
     IconData(0xe6d5, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe6d5, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `user`
@@ -8976,9 +9125,10 @@ class AntDesignIcons {
     IconData(0xe6fe, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `video-camera-twotone`
-  static const IconifyIconData videoCameraTwotone = IconifyIconData.solo(
+  /// `video-camera-twotone` (duo-tone)
+  static const IconifyIconData videoCameraTwotone = IconifyIconData.duo(
     IconData(0xe6ff, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe6ff, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `wallet`
@@ -9006,9 +9156,10 @@ class AntDesignIcons {
     IconData(0xe704, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `wallet-twotone`
-  static const IconifyIconData walletTwotone = IconifyIconData.solo(
+  /// `wallet-twotone` (duo-tone)
+  static const IconifyIconData walletTwotone = IconifyIconData.duo(
     IconData(0xe705, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe705, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `warning`
@@ -9036,9 +9187,10 @@ class AntDesignIcons {
     IconData(0xe70a, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `warning-twotone`
-  static const IconifyIconData warningTwotone = IconifyIconData.solo(
+  /// `warning-twotone` (duo-tone)
+  static const IconifyIconData warningTwotone = IconifyIconData.duo(
     IconData(0xe70b, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe70b, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `wechat`
@@ -9206,9 +9358,10 @@ class AntDesignIcons {
     IconData(0xe72c, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
-  /// `x-filled`
-  static const IconifyIconData xFilled = IconifyIconData.solo(
+  /// `x-filled` (duo-tone)
+  static const IconifyIconData xFilled = IconifyIconData.duo(
     IconData(0xe72d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+    IconData(0xe72d, fontFamily: 'AntDesignSecondary', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `x-outlined`

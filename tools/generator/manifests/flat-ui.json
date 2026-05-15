@@ -27,7 +27,7 @@
     {
       "family": "FlatUiSecondary",
       "nextCodepoint": 57419,
-      "iconCount": 19
+      "iconCount": 20
     }
   ],
   "icons": {
@@ -304,7 +304,8 @@
     "pencils": {
       "codepoint": 57393,
       "fontFamily": "FlatUi",
-      "identifier": "pencils"
+      "identifier": "pencils",
+      "duotone": true
     },
     "picture": {
       "codepoint": 57394,

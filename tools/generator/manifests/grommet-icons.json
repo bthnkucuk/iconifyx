@@ -27,7 +27,7 @@
     {
       "family": "GrommetIconsSecondary",
       "nextCodepoint": 57981,
-      "iconCount": 3
+      "iconCount": 5
     }
   ],
   "icons": {
@@ -1789,7 +1789,8 @@
     "mastercard": {
       "codepoint": 57695,
       "fontFamily": "GrommetIcons",
-      "identifier": "mastercard"
+      "identifier": "mastercard",
+      "duotone": true
     },
     "medium": {
       "codepoint": 57696,
@@ -2519,7 +2520,8 @@
     "star-half": {
       "codepoint": 57841,
       "fontFamily": "GrommetIcons",
-      "identifier": "starHalf"
+      "identifier": "starHalf",
+      "duotone": true
     },
     "star-outline": {
       "codepoint": 57842,

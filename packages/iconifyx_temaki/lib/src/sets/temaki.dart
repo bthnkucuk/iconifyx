@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Bryan Housel
 /// License: CC0 — https://creativecommons.org/publicdomain/zero/1.0/
-/// Icons: 555
+/// Icons: 555 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -771,9 +771,10 @@ class TemakiIcons {
     IconData(0xe096, fontFamily: 'Temaki', fontPackage: 'iconifyx_temaki'),
   );
 
-  /// `crossing-markings-zebra-bicolour`
-  static const IconifyIconData crossingMarkingsZebraBicolour = IconifyIconData.solo(
+  /// `crossing-markings-zebra-bicolour` (duo-tone)
+  static const IconifyIconData crossingMarkingsZebraBicolour = IconifyIconData.duo(
     IconData(0xe097, fontFamily: 'Temaki', fontPackage: 'iconifyx_temaki'),
+    IconData(0xe097, fontFamily: 'TemakiSecondary', fontPackage: 'iconifyx_temaki'),
   );
 
   /// `crossing-markings-zebra-double`

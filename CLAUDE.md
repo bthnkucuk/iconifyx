@@ -155,7 +155,7 @@ Many Iconify sets ship duo-tone variants (Phosphor `*-duotone`, Solar `*-bold-du
 </g>
 ```
 
-Any element with `opacity<1` is the secondary; the rest is primary.
+Any element with `opacity<1` is the secondary; the rest is primary. The opacity attribute can be `opacity`, `fill-opacity`, or `stroke-opacity` — all three forms are recognised. Material's `ic` battery family (`baseline-battery-20`, `baseline-battery-90`, `baseline-battery-charging-20`, …) uses `fill-opacity=".3"` for the empty-cell layer; matching that variant was necessary to ship those icons as duotone rather than a flat single-color glyph.
 
 **Path 2 — two-color paint-order duotone** (`trySplitTwoColorBody`). Bodies with exactly **two distinct concrete fills** (excluding `none`, `currentColor`, `url(#…)`) — e.g. a dark background rect plus a light foreground letterform, as in `logos:adobe-after-effects` or many 2-color Iconify emojis:
 
@@ -166,9 +166,17 @@ Any element with `opacity<1` is the secondary; the rest is primary.
 
 The element painting FIRST in source order is assigned to the primary layer (background); the second color → secondary (foreground). Both layers have their `fill` normalised to `currentColor`. Bodies with 3+ distinct fills, gradients, or non-self-closing children can't be cleanly split and fall through to the paint-order drop (§5e).
 
-For every primary font that contains at least one duotone icon (either path), the generator emits a matching `<Family>Secondary` TTF holding only the secondary layers, at the same codepoints. Dart codegen emits ONE const per duotone icon via `IconifyIconData.duo(primaryIconData, secondaryIconData)` — the consumer-facing identifier stays the bare name (e.g. `PhIcons.acornDuotone`, `LogosIcons.adobeAfterEffects`).
+**Path 3 — colour-mapped pack preprocess** (`config.yaml: colorMappedSets`). Some packs encode meaning through concrete colours (Catppuccin tints every icon with one or two palette accents via `stroke="#cad3f5"` etc.). Iconify ships these as raw hex values rather than `currentColor`, so downstream rasterize-trace sees light-on-light geometry and Potrace returns an empty path — Catppuccin originally shipped with 659 blank glyphs for this reason. For each pack listed in `colorMappedSets`, the pipeline walks every icon body:
 
-**Pipeline ordering matters:** both duotone detection paths run BEFORE stroke-fill. Otherwise `oslllo-svg-fixer` rasterizes the whole body and traces it back as a single silhouette, losing the layering signal. Path 1 (opacity) runs first, then Path 2 (two-color) — Path 2 only considers icons not yet handled by Path 1.
+- **1 distinct concrete colour:** flatten every concrete `fill=` / `stroke=` to `currentColor`. Icon stays single-layer.
+- **Exactly 2 distinct concrete colours:** route through `trySplitTwoStrokeColorBody` (fill+stroke aware variant of Path 2) — first-encountered colour becomes primary, second becomes secondary, both normalised to `currentColor`.
+- **3+ distinct concrete colours:** flatten everything to `currentColor`; icon ships as a single-layer silhouette (losing the multi-colour distinction is preferable to losing the icon entirely).
+
+Last regen: Catppuccin → 296 mono, 264 duotone-split, 100 flattened (660 live, up from 0). Opt-in via config because the colour-flattening only makes sense for packs whose colour choices are decorative rather than load-bearing.
+
+For every primary font that contains at least one duotone icon (any path), the generator emits a matching `<Family>Secondary` TTF holding only the secondary layers, at the same codepoints. Dart codegen emits ONE const per duotone icon via `IconifyIconData.duo(primaryIconData, secondaryIconData)` — the consumer-facing identifier stays the bare name (e.g. `PhIcons.acornDuotone`, `LogosIcons.adobeAfterEffects`).
+
+**Pipeline ordering matters:** all three duotone detection paths run BEFORE stroke-fill, in order: Path 1 (opacity) → Path 2 (two-color fills) → Path 3 (colour-mapped pack preprocess, opt-in). Otherwise `oslllo-svg-fixer` rasterizes the whole body and traces it back as a single silhouette, losing the layering signal. Path 1 (opacity) runs first, then Path 2 (two-color) — Path 2 only considers icons not yet handled by Path 1.
 
 **`centerHorizontally: false`** is mandatory in `font_builder.ts`'s svgicons2svgfont stream options. Iconify SVGs are already designed to fit their viewBox; auto-centring shifts each glyph's content to its own bbox centre, so duotone layers that live in different parts of the viewBox (e.g. `ic/baseline-signal-wifi-1-bar-lock` — lock on the right, wifi bars on the left) end up overlapping in the middle instead of staying in position. Re-enabling centring is a silent visual regression for any positionally-distinct duotone icon.
 
@@ -276,8 +284,9 @@ User prefers `fvm` over `flutter` directly.
    - Load existing manifest (or null for first-time).
    - Resolve aliases → flat icon name list.
    - **Synthesise weight variants** (Lucide / Tabler / Iconoir / … with `-thin`/`-light`/`-bold` suffixes via `setStrokeWidth`).
-   - **Duotone split — opacity path** (`isDuotoneBody` + `splitDuotoneBody`): split bodies with `opacity<1` elements into primary/secondary.
+   - **Duotone split — opacity path** (`isDuotoneBody` + `splitDuotoneBody`): split bodies with `opacity<1`, `fill-opacity<1`, or `stroke-opacity<1` elements into primary/secondary.
    - **Duotone split — two-color path** (`trySplitTwoColorBody`): split bodies with exactly 2 distinct concrete fills into primary/secondary (logos, 2-color emojis).
+   - **Colour-mapped preprocess** (opt-in via `config.colorMappedSets`, currently `catppuccin`): for each icon body, flatten 1-colour bodies to `currentColor`, route 2-colour bodies through the fill+stroke duotone splitter, flatten 3+ colour bodies. Recovers packs that would otherwise trace to blank glyphs.
    - **Stroke-fill via subprocess** (`stroke_fill.ts` → `stroke_fill_worker.ts`):
      - Pack-level: if `combinedRatio≥0.5` or `evenOddRatio≥0.2` (or explicit in config) → trace every icon.
      - Per-icon fallback: otherwise, for each icon with `fill-rule="evenodd"` or stroke-only paint → trace individually.

@@ -23,6 +23,11 @@
       "family": "Openmoji",
       "nextCodepoint": 61393,
       "iconCount": 4049
+    },
+    {
+      "family": "OpenmojiSecondary",
+      "nextCodepoint": 61393,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -16379,7 +16384,8 @@
     "tardis": {
       "codepoint": 60614,
       "fontFamily": "Openmoji",
-      "identifier": "tardis"
+      "identifier": "tardis",
+      "duotone": true
     },
     "taurus": {
       "codepoint": 60615,

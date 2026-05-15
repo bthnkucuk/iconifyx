@@ -20,3 +20,6 @@ flutter:
     - family: LetsIcons
       fonts:
         - asset: assets/fonts/LetsIcons.ttf
+    - family: LetsIconsSecondary
+      fonts:
+        - asset: assets/fonts/LetsIconsSecondary.ttf

@@ -27,7 +27,7 @@
     {
       "family": "VscodeIconsSecondary",
       "nextCodepoint": 58071,
-      "iconCount": 328
+      "iconCount": 329
     }
   ],
   "icons": {
@@ -983,7 +983,8 @@
       "codepoint": 57816,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHistoire",
-      "duotone": true
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "file-type-hjson": {
       "codepoint": 57446,
@@ -1834,8 +1835,7 @@
       "codepoint": 57546,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMonotone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "file-type-motif": {
       "codepoint": 58007,
@@ -2567,7 +2567,8 @@
     "file-type-shellcheck": {
       "codepoint": 57611,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeShellcheck"
+      "identifier": "fileTypeShellcheck",
+      "duotone": true
     },
     "file-type-shuttle": {
       "codepoint": 58047,

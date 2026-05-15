@@ -81,9 +81,10 @@ class CryptocurrencyIcons {
     IconData(0xe00c, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
-  /// `agi`
-  static const IconifyIconData agi = IconifyIconData.solo(
+  /// `agi` (duo-tone)
+  static const IconifyIconData agi = IconifyIconData.duo(
     IconData(0xe00d, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
+    IconData(0xe00d, fontFamily: 'CryptocurrencySecondary', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
   /// `agrs`
@@ -756,9 +757,10 @@ class CryptocurrencyIcons {
     IconData(0xe092, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
-  /// `elix`
-  static const IconifyIconData elix = IconifyIconData.solo(
+  /// `elix` (duo-tone)
+  static const IconifyIconData elix = IconifyIconData.duo(
     IconData(0xe093, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
+    IconData(0xe093, fontFamily: 'CryptocurrencySecondary', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
   /// `ella`
@@ -776,9 +778,10 @@ class CryptocurrencyIcons {
     IconData(0xe096, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
-  /// `emc2`
-  static const IconifyIconData emc2 = IconifyIconData.solo(
+  /// `emc2` (duo-tone)
+  static const IconifyIconData emc2 = IconifyIconData.duo(
     IconData(0xe097, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
+    IconData(0xe097, fontFamily: 'CryptocurrencySecondary', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
   /// `eng`
@@ -1387,9 +1390,10 @@ class CryptocurrencyIcons {
     IconData(0xe10f, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
-  /// `mth`
-  static const IconifyIconData mth = IconifyIconData.solo(
+  /// `mth` (duo-tone)
+  static const IconifyIconData mth = IconifyIconData.duo(
     IconData(0xe110, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
+    IconData(0xe110, fontFamily: 'CryptocurrencySecondary', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
   /// `mtl`
@@ -2149,9 +2153,10 @@ class CryptocurrencyIcons {
     IconData(0xe1a7, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
-  /// `ubq`
-  static const IconifyIconData ubq = IconifyIconData.solo(
+  /// `ubq` (duo-tone)
+  static const IconifyIconData ubq = IconifyIconData.duo(
     IconData(0xe1a8, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
+    IconData(0xe1a8, fontFamily: 'CryptocurrencySecondary', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
   /// `uma`
@@ -2461,9 +2466,10 @@ class CryptocurrencyIcons {
     IconData(0xe1e5, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
-  /// `zil`
-  static const IconifyIconData zil = IconifyIconData.solo(
+  /// `zil` (duo-tone)
+  static const IconifyIconData zil = IconifyIconData.duo(
     IconData(0xe1e6, fontFamily: 'Cryptocurrency', fontPackage: 'iconifyx_cryptocurrency'),
+    IconData(0xe1e6, fontFamily: 'CryptocurrencySecondary', fontPackage: 'iconifyx_cryptocurrency'),
   );
 
   /// `zilla`

@@ -23,6 +23,11 @@
       "family": "Catppuccin",
       "nextCodepoint": 58004,
       "iconCount": 660
+    },
+    {
+      "family": "CatppuccinSecondary",
+      "nextCodepoint": 58004,
+      "iconCount": 264
     }
   ],
   "icons": {
@@ -79,37 +84,44 @@
     "angular": {
       "codepoint": 57354,
       "fontFamily": "Catppuccin",
-      "identifier": "angular"
+      "identifier": "angular",
+      "duotone": true
     },
     "angular-component": {
       "codepoint": 57355,
       "fontFamily": "Catppuccin",
-      "identifier": "angularComponent"
+      "identifier": "angularComponent",
+      "duotone": true
     },
     "angular-directive": {
       "codepoint": 57356,
       "fontFamily": "Catppuccin",
-      "identifier": "angularDirective"
+      "identifier": "angularDirective",
+      "duotone": true
     },
     "angular-guard": {
       "codepoint": 57357,
       "fontFamily": "Catppuccin",
-      "identifier": "angularGuard"
+      "identifier": "angularGuard",
+      "duotone": true
     },
     "angular-pipe": {
       "codepoint": 57358,
       "fontFamily": "Catppuccin",
-      "identifier": "angularPipe"
+      "identifier": "angularPipe",
+      "duotone": true
     },
     "angular-service": {
       "codepoint": 57359,
       "fontFamily": "Catppuccin",
-      "identifier": "angularService"
+      "identifier": "angularService",
+      "duotone": true
     },
     "ansible-lint": {
       "codepoint": 57360,
       "fontFamily": "Catppuccin",
-      "identifier": "ansibleLint"
+      "identifier": "ansibleLint",
+      "duotone": true
     },
     "antlr": {
       "codepoint": 57361,
@@ -119,7 +131,8 @@
     "apache": {
       "codepoint": 57362,
       "fontFamily": "Catppuccin",
-      "identifier": "apache"
+      "identifier": "apache",
+      "duotone": true
     },
     "api-blueprint": {
       "codepoint": 57363,
@@ -154,7 +167,8 @@
     "astro": {
       "codepoint": 57369,
       "fontFamily": "Catppuccin",
-      "identifier": "astro"
+      "identifier": "astro",
+      "duotone": true
     },
     "astro-config": {
       "codepoint": 57370,
@@ -269,7 +283,8 @@
     "caddy": {
       "codepoint": 57392,
       "fontFamily": "Catppuccin",
-      "identifier": "caddy"
+      "identifier": "caddy",
+      "duotone": true
     },
     "capacitor": {
       "codepoint": 57393,
@@ -284,12 +299,14 @@
     "cargo-lock": {
       "codepoint": 57395,
       "fontFamily": "Catppuccin",
-      "identifier": "cargoLock"
+      "identifier": "cargoLock",
+      "duotone": true
     },
     "certificate": {
       "codepoint": 57396,
       "fontFamily": "Catppuccin",
-      "identifier": "certificate"
+      "identifier": "certificate",
+      "duotone": true
     },
     "changelog": {
       "codepoint": 57397,
@@ -339,7 +356,8 @@
     "commitlint": {
       "codepoint": 57406,
       "fontFamily": "Catppuccin",
-      "identifier": "commitlint"
+      "identifier": "commitlint",
+      "duotone": true
     },
     "config": {
       "codepoint": 57407,
@@ -349,7 +367,8 @@
     "contributing": {
       "codepoint": 57408,
       "fontFamily": "Catppuccin",
-      "identifier": "contributing"
+      "identifier": "contributing",
+      "duotone": true
     },
     "cpp": {
       "codepoint": 57409,
@@ -374,7 +393,8 @@
     "cspell": {
       "codepoint": 57413,
       "fontFamily": "Catppuccin",
-      "identifier": "cspell"
+      "identifier": "cspell",
+      "duotone": true
     },
     "css": {
       "codepoint": 57414,
@@ -389,7 +409,8 @@
     "css3": {
       "codepoint": 57416,
       "fontFamily": "Catppuccin",
-      "identifier": "css3"
+      "identifier": "css3",
+      "duotone": true
     },
     "csv": {
       "codepoint": 57417,
@@ -434,7 +455,8 @@
     "darklua": {
       "codepoint": 57425,
       "fontFamily": "Catppuccin",
-      "identifier": "darklua"
+      "identifier": "darklua",
+      "duotone": true
     },
     "dart": {
       "codepoint": 57426,
@@ -459,7 +481,8 @@
     "deno-lock": {
       "codepoint": 57430,
       "fontFamily": "Catppuccin",
-      "identifier": "denoLock"
+      "identifier": "denoLock",
+      "duotone": true
     },
     "dependabot": {
       "codepoint": 57431,
@@ -524,7 +547,8 @@
     "dub-selections": {
       "codepoint": 57443,
       "fontFamily": "Catppuccin",
-      "identifier": "dubSelections"
+      "identifier": "dubSelections",
+      "duotone": true
     },
     "editorconfig": {
       "codepoint": 57444,
@@ -564,7 +588,8 @@
     "envrc": {
       "codepoint": 57451,
       "fontFamily": "Catppuccin",
-      "identifier": "envrc"
+      "identifier": "envrc",
+      "duotone": true
     },
     "erlang": {
       "codepoint": 57452,
@@ -579,7 +604,8 @@
     "eslint": {
       "codepoint": 57454,
       "fontFamily": "Catppuccin",
-      "identifier": "eslint"
+      "identifier": "eslint",
+      "duotone": true
     },
     "eslint-ignore": {
       "codepoint": 57455,
@@ -619,7 +645,8 @@
     "flutter": {
       "codepoint": 57462,
       "fontFamily": "Catppuccin",
-      "identifier": "flutter"
+      "identifier": "flutter",
+      "duotone": true
     },
     "folder": {
       "codepoint": 57463,
@@ -629,42 +656,50 @@
     "folder-admin": {
       "codepoint": 57464,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAdmin"
+      "identifier": "folderAdmin",
+      "duotone": true
     },
     "folder-admin-open": {
       "codepoint": 57465,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAdminOpen"
+      "identifier": "folderAdminOpen",
+      "duotone": true
     },
     "folder-android": {
       "codepoint": 57466,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAndroid"
+      "identifier": "folderAndroid",
+      "duotone": true
     },
     "folder-android-open": {
       "codepoint": 57467,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAndroidOpen"
+      "identifier": "folderAndroidOpen",
+      "duotone": true
     },
     "folder-animation": {
       "codepoint": 57468,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAnimation"
+      "identifier": "folderAnimation",
+      "duotone": true
     },
     "folder-animation-open": {
       "codepoint": 57469,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAnimationOpen"
+      "identifier": "folderAnimationOpen",
+      "duotone": true
     },
     "folder-api": {
       "codepoint": 57470,
       "fontFamily": "Catppuccin",
-      "identifier": "folderApi"
+      "identifier": "folderApi",
+      "duotone": true
     },
     "folder-api-open": {
       "codepoint": 57471,
       "fontFamily": "Catppuccin",
-      "identifier": "folderApiOpen"
+      "identifier": "folderApiOpen",
+      "duotone": true
     },
     "folder-app": {
       "codepoint": 57472,
@@ -679,12 +714,14 @@
     "folder-assets": {
       "codepoint": 57474,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAssets"
+      "identifier": "folderAssets",
+      "duotone": true
     },
     "folder-assets-open": {
       "codepoint": 57475,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAssetsOpen"
+      "identifier": "folderAssetsOpen",
+      "duotone": true
     },
     "folder-audio": {
       "codepoint": 57476,
@@ -699,12 +736,14 @@
     "folder-audit": {
       "codepoint": 57478,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAudit"
+      "identifier": "folderAudit",
+      "duotone": true
     },
     "folder-audit-open": {
       "codepoint": 57479,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAuditOpen"
+      "identifier": "folderAuditOpen",
+      "duotone": true
     },
     "folder-aws": {
       "codepoint": 57480,
@@ -719,32 +758,38 @@
     "folder-azure-devops": {
       "codepoint": 57482,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAzureDevops"
+      "identifier": "folderAzureDevops",
+      "duotone": true
     },
     "folder-azure-devops-open": {
       "codepoint": 57483,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAzureDevopsOpen"
+      "identifier": "folderAzureDevopsOpen",
+      "duotone": true
     },
     "folder-azure-pipelines": {
       "codepoint": 57484,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAzurePipelines"
+      "identifier": "folderAzurePipelines",
+      "duotone": true
     },
     "folder-azure-pipelines-open": {
       "codepoint": 57485,
       "fontFamily": "Catppuccin",
-      "identifier": "folderAzurePipelinesOpen"
+      "identifier": "folderAzurePipelinesOpen",
+      "duotone": true
     },
     "folder-benchmark": {
       "codepoint": 57486,
       "fontFamily": "Catppuccin",
-      "identifier": "folderBenchmark"
+      "identifier": "folderBenchmark",
+      "duotone": true
     },
     "folder-benchmark-open": {
       "codepoint": 57487,
       "fontFamily": "Catppuccin",
-      "identifier": "folderBenchmarkOpen"
+      "identifier": "folderBenchmarkOpen",
+      "duotone": true
     },
     "folder-caddy": {
       "codepoint": 57488,
@@ -759,12 +804,14 @@
     "folder-cargo": {
       "codepoint": 57490,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCargo"
+      "identifier": "folderCargo",
+      "duotone": true
     },
     "folder-cargo-open": {
       "codepoint": 57491,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCargoOpen"
+      "identifier": "folderCargoOpen",
+      "duotone": true
     },
     "folder-circle-ci": {
       "codepoint": 57492,
@@ -779,122 +826,146 @@
     "folder-client": {
       "codepoint": 57494,
       "fontFamily": "Catppuccin",
-      "identifier": "folderClient"
+      "identifier": "folderClient",
+      "duotone": true
     },
     "folder-client-open": {
       "codepoint": 57495,
       "fontFamily": "Catppuccin",
-      "identifier": "folderClientOpen"
+      "identifier": "folderClientOpen",
+      "duotone": true
     },
     "folder-cloud": {
       "codepoint": 57496,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCloud"
+      "identifier": "folderCloud",
+      "duotone": true
     },
     "folder-cloud-open": {
       "codepoint": 57497,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCloudOpen"
+      "identifier": "folderCloudOpen",
+      "duotone": true
     },
     "folder-command": {
       "codepoint": 57498,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCommand"
+      "identifier": "folderCommand",
+      "duotone": true
     },
     "folder-command-open": {
       "codepoint": 57499,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCommandOpen"
+      "identifier": "folderCommandOpen",
+      "duotone": true
     },
     "folder-components": {
       "codepoint": 57500,
       "fontFamily": "Catppuccin",
-      "identifier": "folderComponents"
+      "identifier": "folderComponents",
+      "duotone": true
     },
     "folder-components-open": {
       "codepoint": 57501,
       "fontFamily": "Catppuccin",
-      "identifier": "folderComponentsOpen"
+      "identifier": "folderComponentsOpen",
+      "duotone": true
     },
     "folder-composables": {
       "codepoint": 57502,
       "fontFamily": "Catppuccin",
-      "identifier": "folderComposables"
+      "identifier": "folderComposables",
+      "duotone": true
     },
     "folder-composables-open": {
       "codepoint": 57503,
       "fontFamily": "Catppuccin",
-      "identifier": "folderComposablesOpen"
+      "identifier": "folderComposablesOpen",
+      "duotone": true
     },
     "folder-config": {
       "codepoint": 57504,
       "fontFamily": "Catppuccin",
-      "identifier": "folderConfig"
+      "identifier": "folderConfig",
+      "duotone": true
     },
     "folder-config-open": {
       "codepoint": 57505,
       "fontFamily": "Catppuccin",
-      "identifier": "folderConfigOpen"
+      "identifier": "folderConfigOpen",
+      "duotone": true
     },
     "folder-connection": {
       "codepoint": 57506,
       "fontFamily": "Catppuccin",
-      "identifier": "folderConnection"
+      "identifier": "folderConnection",
+      "duotone": true
     },
     "folder-connection-open": {
       "codepoint": 57507,
       "fontFamily": "Catppuccin",
-      "identifier": "folderConnectionOpen"
+      "identifier": "folderConnectionOpen",
+      "duotone": true
     },
     "folder-constant": {
       "codepoint": 57508,
       "fontFamily": "Catppuccin",
-      "identifier": "folderConstant"
+      "identifier": "folderConstant",
+      "duotone": true
     },
     "folder-constant-open": {
       "codepoint": 57509,
       "fontFamily": "Catppuccin",
-      "identifier": "folderConstantOpen"
+      "identifier": "folderConstantOpen",
+      "duotone": true
     },
     "folder-content": {
       "codepoint": 57510,
       "fontFamily": "Catppuccin",
-      "identifier": "folderContent"
+      "identifier": "folderContent",
+      "duotone": true
     },
     "folder-content-open": {
       "codepoint": 57511,
       "fontFamily": "Catppuccin",
-      "identifier": "folderContentOpen"
+      "identifier": "folderContentOpen",
+      "duotone": true
     },
     "folder-controllers": {
       "codepoint": 57512,
       "fontFamily": "Catppuccin",
-      "identifier": "folderControllers"
+      "identifier": "folderControllers",
+      "duotone": true
     },
     "folder-controllers-open": {
       "codepoint": 57513,
       "fontFamily": "Catppuccin",
-      "identifier": "folderControllersOpen"
+      "identifier": "folderControllersOpen",
+      "duotone": true
     },
     "folder-core": {
       "codepoint": 57514,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCore"
+      "identifier": "folderCore",
+      "duotone": true
     },
     "folder-core-open": {
       "codepoint": 57515,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCoreOpen"
+      "identifier": "folderCoreOpen",
+      "duotone": true
     },
     "folder-coverage": {
       "codepoint": 57516,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCoverage"
+      "identifier": "folderCoverage",
+      "duotone": true
     },
     "folder-coverage-open": {
       "codepoint": 57517,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCoverageOpen"
+      "identifier": "folderCoverageOpen",
+      "duotone": true
     },
     "folder-cursor": {
       "codepoint": 57518,
@@ -909,62 +980,74 @@
     "folder-cypress": {
       "codepoint": 57520,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCypress"
+      "identifier": "folderCypress",
+      "duotone": true
     },
     "folder-cypress-open": {
       "codepoint": 57521,
       "fontFamily": "Catppuccin",
-      "identifier": "folderCypressOpen"
+      "identifier": "folderCypressOpen",
+      "duotone": true
     },
     "folder-database": {
       "codepoint": 57522,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDatabase"
+      "identifier": "folderDatabase",
+      "duotone": true
     },
     "folder-database-open": {
       "codepoint": 57523,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDatabaseOpen"
+      "identifier": "folderDatabaseOpen",
+      "duotone": true
     },
     "folder-debug": {
       "codepoint": 57524,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDebug"
+      "identifier": "folderDebug",
+      "duotone": true
     },
     "folder-debug-open": {
       "codepoint": 57525,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDebugOpen"
+      "identifier": "folderDebugOpen",
+      "duotone": true
     },
     "folder-devcontainer": {
       "codepoint": 57526,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDevcontainer"
+      "identifier": "folderDevcontainer",
+      "duotone": true
     },
     "folder-devcontainer-open": {
       "codepoint": 57527,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDevcontainerOpen"
+      "identifier": "folderDevcontainerOpen",
+      "duotone": true
     },
     "folder-direnv": {
       "codepoint": 57528,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDirenv"
+      "identifier": "folderDirenv",
+      "duotone": true
     },
     "folder-direnv-open": {
       "codepoint": 57529,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDirenvOpen"
+      "identifier": "folderDirenvOpen",
+      "duotone": true
     },
     "folder-dist": {
       "codepoint": 57530,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDist"
+      "identifier": "folderDist",
+      "duotone": true
     },
     "folder-dist-open": {
       "codepoint": 57531,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDistOpen"
+      "identifier": "folderDistOpen",
+      "duotone": true
     },
     "folder-docker": {
       "codepoint": 57532,
@@ -979,42 +1062,50 @@
     "folder-docs": {
       "codepoint": 57534,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDocs"
+      "identifier": "folderDocs",
+      "duotone": true
     },
     "folder-docs-open": {
       "codepoint": 57535,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDocsOpen"
+      "identifier": "folderDocsOpen",
+      "duotone": true
     },
     "folder-download": {
       "codepoint": 57536,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDownload"
+      "identifier": "folderDownload",
+      "duotone": true
     },
     "folder-download-open": {
       "codepoint": 57537,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDownloadOpen"
+      "identifier": "folderDownloadOpen",
+      "duotone": true
     },
     "folder-drizzle-orm": {
       "codepoint": 57538,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDrizzleOrm"
+      "identifier": "folderDrizzleOrm",
+      "duotone": true
     },
     "folder-drizzle-orm-open": {
       "codepoint": 57539,
       "fontFamily": "Catppuccin",
-      "identifier": "folderDrizzleOrmOpen"
+      "identifier": "folderDrizzleOrmOpen",
+      "duotone": true
     },
     "folder-examples": {
       "codepoint": 57540,
       "fontFamily": "Catppuccin",
-      "identifier": "folderExamples"
+      "identifier": "folderExamples",
+      "duotone": true
     },
     "folder-examples-open": {
       "codepoint": 57541,
       "fontFamily": "Catppuccin",
-      "identifier": "folderExamplesOpen"
+      "identifier": "folderExamplesOpen",
+      "duotone": true
     },
     "folder-fastlane": {
       "codepoint": 57542,
@@ -1029,22 +1120,26 @@
     "folder-firebase": {
       "codepoint": 57544,
       "fontFamily": "Catppuccin",
-      "identifier": "folderFirebase"
+      "identifier": "folderFirebase",
+      "duotone": true
     },
     "folder-firebase-open": {
       "codepoint": 57545,
       "fontFamily": "Catppuccin",
-      "identifier": "folderFirebaseOpen"
+      "identifier": "folderFirebaseOpen",
+      "duotone": true
     },
     "folder-fonts": {
       "codepoint": 57546,
       "fontFamily": "Catppuccin",
-      "identifier": "folderFonts"
+      "identifier": "folderFonts",
+      "duotone": true
     },
     "folder-fonts-open": {
       "codepoint": 57547,
       "fontFamily": "Catppuccin",
-      "identifier": "folderFontsOpen"
+      "identifier": "folderFontsOpen",
+      "duotone": true
     },
     "folder-forgejo": {
       "codepoint": 57548,
@@ -1059,52 +1154,62 @@
     "folder-functions": {
       "codepoint": 57550,
       "fontFamily": "Catppuccin",
-      "identifier": "folderFunctions"
+      "identifier": "folderFunctions",
+      "duotone": true
     },
     "folder-functions-open": {
       "codepoint": 57551,
       "fontFamily": "Catppuccin",
-      "identifier": "folderFunctionsOpen"
+      "identifier": "folderFunctionsOpen",
+      "duotone": true
     },
     "folder-fvm": {
       "codepoint": 57552,
       "fontFamily": "Catppuccin",
-      "identifier": "folderFvm"
+      "identifier": "folderFvm",
+      "duotone": true
     },
     "folder-fvm-open": {
       "codepoint": 57553,
       "fontFamily": "Catppuccin",
-      "identifier": "folderFvmOpen"
+      "identifier": "folderFvmOpen",
+      "duotone": true
     },
     "folder-git": {
       "codepoint": 57554,
       "fontFamily": "Catppuccin",
-      "identifier": "folderGit"
+      "identifier": "folderGit",
+      "duotone": true
     },
     "folder-git-open": {
       "codepoint": 57555,
       "fontFamily": "Catppuccin",
-      "identifier": "folderGitOpen"
+      "identifier": "folderGitOpen",
+      "duotone": true
     },
     "folder-github": {
       "codepoint": 57556,
       "fontFamily": "Catppuccin",
-      "identifier": "folderGithub"
+      "identifier": "folderGithub",
+      "duotone": true
     },
     "folder-github-open": {
       "codepoint": 57557,
       "fontFamily": "Catppuccin",
-      "identifier": "folderGithubOpen"
+      "identifier": "folderGithubOpen",
+      "duotone": true
     },
     "folder-gitlab": {
       "codepoint": 57558,
       "fontFamily": "Catppuccin",
-      "identifier": "folderGitlab"
+      "identifier": "folderGitlab",
+      "duotone": true
     },
     "folder-gitlab-open": {
       "codepoint": 57559,
       "fontFamily": "Catppuccin",
-      "identifier": "folderGitlabOpen"
+      "identifier": "folderGitlabOpen",
+      "duotone": true
     },
     "folder-gradle": {
       "codepoint": 57560,
@@ -1119,32 +1224,38 @@
     "folder-graphql": {
       "codepoint": 57562,
       "fontFamily": "Catppuccin",
-      "identifier": "folderGraphql"
+      "identifier": "folderGraphql",
+      "duotone": true
     },
     "folder-graphql-open": {
       "codepoint": 57563,
       "fontFamily": "Catppuccin",
-      "identifier": "folderGraphqlOpen"
+      "identifier": "folderGraphqlOpen",
+      "duotone": true
     },
     "folder-hooks": {
       "codepoint": 57564,
       "fontFamily": "Catppuccin",
-      "identifier": "folderHooks"
+      "identifier": "folderHooks",
+      "duotone": true
     },
     "folder-hooks-open": {
       "codepoint": 57565,
       "fontFamily": "Catppuccin",
-      "identifier": "folderHooksOpen"
+      "identifier": "folderHooksOpen",
+      "duotone": true
     },
     "folder-husky": {
       "codepoint": 57566,
       "fontFamily": "Catppuccin",
-      "identifier": "folderHusky"
+      "identifier": "folderHusky",
+      "duotone": true
     },
     "folder-husky-open": {
       "codepoint": 57567,
       "fontFamily": "Catppuccin",
-      "identifier": "folderHuskyOpen"
+      "identifier": "folderHuskyOpen",
+      "duotone": true
     },
     "folder-images": {
       "codepoint": 57568,
@@ -1159,12 +1270,14 @@
     "folder-include": {
       "codepoint": 57570,
       "fontFamily": "Catppuccin",
-      "identifier": "folderInclude"
+      "identifier": "folderInclude",
+      "duotone": true
     },
     "folder-include-open": {
       "codepoint": 57571,
       "fontFamily": "Catppuccin",
-      "identifier": "folderIncludeOpen"
+      "identifier": "folderIncludeOpen",
+      "duotone": true
     },
     "folder-intellij": {
       "codepoint": 57572,
@@ -1179,12 +1292,14 @@
     "folder-javascript": {
       "codepoint": 57574,
       "fontFamily": "Catppuccin",
-      "identifier": "folderJavascript"
+      "identifier": "folderJavascript",
+      "duotone": true
     },
     "folder-javascript-open": {
       "codepoint": 57575,
       "fontFamily": "Catppuccin",
-      "identifier": "folderJavascriptOpen"
+      "identifier": "folderJavascriptOpen",
+      "duotone": true
     },
     "folder-kubernetes": {
       "codepoint": 57576,
@@ -1199,22 +1314,26 @@
     "folder-layouts": {
       "codepoint": 57578,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLayouts"
+      "identifier": "folderLayouts",
+      "duotone": true
     },
     "folder-layouts-open": {
       "codepoint": 57579,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLayoutsOpen"
+      "identifier": "folderLayoutsOpen",
+      "duotone": true
     },
     "folder-lib": {
       "codepoint": 57580,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLib"
+      "identifier": "folderLib",
+      "duotone": true
     },
     "folder-lib-open": {
       "codepoint": 57581,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLibOpen"
+      "identifier": "folderLibOpen",
+      "duotone": true
     },
     "folder-linux": {
       "codepoint": 57582,
@@ -1229,32 +1348,38 @@
     "folder-locales": {
       "codepoint": 57584,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLocales"
+      "identifier": "folderLocales",
+      "duotone": true
     },
     "folder-locales-open": {
       "codepoint": 57585,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLocalesOpen"
+      "identifier": "folderLocalesOpen",
+      "duotone": true
     },
     "folder-luau": {
       "codepoint": 57586,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLuau"
+      "identifier": "folderLuau",
+      "duotone": true
     },
     "folder-luau-open": {
       "codepoint": 57587,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLuauOpen"
+      "identifier": "folderLuauOpen",
+      "duotone": true
     },
     "folder-lune": {
       "codepoint": 57588,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLune"
+      "identifier": "folderLune",
+      "duotone": true
     },
     "folder-lune-open": {
       "codepoint": 57589,
       "fontFamily": "Catppuccin",
-      "identifier": "folderLuneOpen"
+      "identifier": "folderLuneOpen",
+      "duotone": true
     },
     "folder-macos": {
       "codepoint": 57590,
@@ -1269,32 +1394,38 @@
     "folder-messages": {
       "codepoint": 57592,
       "fontFamily": "Catppuccin",
-      "identifier": "folderMessages"
+      "identifier": "folderMessages",
+      "duotone": true
     },
     "folder-messages-open": {
       "codepoint": 57593,
       "fontFamily": "Catppuccin",
-      "identifier": "folderMessagesOpen"
+      "identifier": "folderMessagesOpen",
+      "duotone": true
     },
     "folder-middleware": {
       "codepoint": 57594,
       "fontFamily": "Catppuccin",
-      "identifier": "folderMiddleware"
+      "identifier": "folderMiddleware",
+      "duotone": true
     },
     "folder-middleware-open": {
       "codepoint": 57595,
       "fontFamily": "Catppuccin",
-      "identifier": "folderMiddlewareOpen"
+      "identifier": "folderMiddlewareOpen",
+      "duotone": true
     },
     "folder-mocks": {
       "codepoint": 57596,
       "fontFamily": "Catppuccin",
-      "identifier": "folderMocks"
+      "identifier": "folderMocks",
+      "duotone": true
     },
     "folder-mocks-open": {
       "codepoint": 57597,
       "fontFamily": "Catppuccin",
-      "identifier": "folderMocksOpen"
+      "identifier": "folderMocksOpen",
+      "duotone": true
     },
     "folder-moonrepo": {
       "codepoint": 57598,
@@ -1309,12 +1440,14 @@
     "folder-next": {
       "codepoint": 57600,
       "fontFamily": "Catppuccin",
-      "identifier": "folderNext"
+      "identifier": "folderNext",
+      "duotone": true
     },
     "folder-next-open": {
       "codepoint": 57601,
       "fontFamily": "Catppuccin",
-      "identifier": "folderNextOpen"
+      "identifier": "folderNextOpen",
+      "duotone": true
     },
     "folder-nix": {
       "codepoint": 57602,
@@ -1329,22 +1462,26 @@
     "folder-node": {
       "codepoint": 57604,
       "fontFamily": "Catppuccin",
-      "identifier": "folderNode"
+      "identifier": "folderNode",
+      "duotone": true
     },
     "folder-node-open": {
       "codepoint": 57605,
       "fontFamily": "Catppuccin",
-      "identifier": "folderNodeOpen"
+      "identifier": "folderNodeOpen",
+      "duotone": true
     },
     "folder-nuxt": {
       "codepoint": 57606,
       "fontFamily": "Catppuccin",
-      "identifier": "folderNuxt"
+      "identifier": "folderNuxt",
+      "duotone": true
     },
     "folder-nuxt-open": {
       "codepoint": 57607,
       "fontFamily": "Catppuccin",
-      "identifier": "folderNuxtOpen"
+      "identifier": "folderNuxtOpen",
+      "duotone": true
     },
     "folder-open": {
       "codepoint": 57608,
@@ -1354,62 +1491,74 @@
     "folder-packages": {
       "codepoint": 57609,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPackages"
+      "identifier": "folderPackages",
+      "duotone": true
     },
     "folder-packages-open": {
       "codepoint": 57610,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPackagesOpen"
+      "identifier": "folderPackagesOpen",
+      "duotone": true
     },
     "folder-pesde": {
       "codepoint": 57611,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPesde"
+      "identifier": "folderPesde",
+      "duotone": true
     },
     "folder-pesde-open": {
       "codepoint": 57612,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPesdeOpen"
+      "identifier": "folderPesdeOpen",
+      "duotone": true
     },
     "folder-plugins": {
       "codepoint": 57613,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPlugins"
+      "identifier": "folderPlugins",
+      "duotone": true
     },
     "folder-plugins-open": {
       "codepoint": 57614,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPluginsOpen"
+      "identifier": "folderPluginsOpen",
+      "duotone": true
     },
     "folder-pre-commit": {
       "codepoint": 57615,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPreCommit"
+      "identifier": "folderPreCommit",
+      "duotone": true
     },
     "folder-pre-commit-open": {
       "codepoint": 57616,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPreCommitOpen"
+      "identifier": "folderPreCommitOpen",
+      "duotone": true
     },
     "folder-prisma": {
       "codepoint": 57617,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPrisma"
+      "identifier": "folderPrisma",
+      "duotone": true
     },
     "folder-prisma-open": {
       "codepoint": 57618,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPrismaOpen"
+      "identifier": "folderPrismaOpen",
+      "duotone": true
     },
     "folder-private": {
       "codepoint": 57619,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPrivate"
+      "identifier": "folderPrivate",
+      "duotone": true
     },
     "folder-private-open": {
       "codepoint": 57620,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPrivateOpen"
+      "identifier": "folderPrivateOpen",
+      "duotone": true
     },
     "folder-proto": {
       "codepoint": 57621,
@@ -1424,42 +1573,50 @@
     "folder-public": {
       "codepoint": 57623,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPublic"
+      "identifier": "folderPublic",
+      "duotone": true
     },
     "folder-public-open": {
       "codepoint": 57624,
       "fontFamily": "Catppuccin",
-      "identifier": "folderPublicOpen"
+      "identifier": "folderPublicOpen",
+      "duotone": true
     },
     "folder-queue": {
       "codepoint": 57625,
       "fontFamily": "Catppuccin",
-      "identifier": "folderQueue"
+      "identifier": "folderQueue",
+      "duotone": true
     },
     "folder-queue-open": {
       "codepoint": 57626,
       "fontFamily": "Catppuccin",
-      "identifier": "folderQueueOpen"
+      "identifier": "folderQueueOpen",
+      "duotone": true
     },
     "folder-redux": {
       "codepoint": 57627,
       "fontFamily": "Catppuccin",
-      "identifier": "folderRedux"
+      "identifier": "folderRedux",
+      "duotone": true
     },
     "folder-redux-open": {
       "codepoint": 57628,
       "fontFamily": "Catppuccin",
-      "identifier": "folderReduxOpen"
+      "identifier": "folderReduxOpen",
+      "duotone": true
     },
     "folder-renovate": {
       "codepoint": 57629,
       "fontFamily": "Catppuccin",
-      "identifier": "folderRenovate"
+      "identifier": "folderRenovate",
+      "duotone": true
     },
     "folder-renovate-open": {
       "codepoint": 57630,
       "fontFamily": "Catppuccin",
-      "identifier": "folderRenovateOpen"
+      "identifier": "folderRenovateOpen",
+      "duotone": true
     },
     "folder-roblox": {
       "codepoint": 57631,
@@ -1474,112 +1631,134 @@
     "folder-routes": {
       "codepoint": 57633,
       "fontFamily": "Catppuccin",
-      "identifier": "folderRoutes"
+      "identifier": "folderRoutes",
+      "duotone": true
     },
     "folder-routes-open": {
       "codepoint": 57634,
       "fontFamily": "Catppuccin",
-      "identifier": "folderRoutesOpen"
+      "identifier": "folderRoutesOpen",
+      "duotone": true
     },
     "folder-sass": {
       "codepoint": 57635,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSass"
+      "identifier": "folderSass",
+      "duotone": true
     },
     "folder-sass-open": {
       "codepoint": 57636,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSassOpen"
+      "identifier": "folderSassOpen",
+      "duotone": true
     },
     "folder-scripts": {
       "codepoint": 57637,
       "fontFamily": "Catppuccin",
-      "identifier": "folderScripts"
+      "identifier": "folderScripts",
+      "duotone": true
     },
     "folder-scripts-open": {
       "codepoint": 57638,
       "fontFamily": "Catppuccin",
-      "identifier": "folderScriptsOpen"
+      "identifier": "folderScriptsOpen",
+      "duotone": true
     },
     "folder-security": {
       "codepoint": 57639,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSecurity"
+      "identifier": "folderSecurity",
+      "duotone": true
     },
     "folder-security-open": {
       "codepoint": 57640,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSecurityOpen"
+      "identifier": "folderSecurityOpen",
+      "duotone": true
     },
     "folder-server": {
       "codepoint": 57641,
       "fontFamily": "Catppuccin",
-      "identifier": "folderServer"
+      "identifier": "folderServer",
+      "duotone": true
     },
     "folder-server-open": {
       "codepoint": 57642,
       "fontFamily": "Catppuccin",
-      "identifier": "folderServerOpen"
+      "identifier": "folderServerOpen",
+      "duotone": true
     },
     "folder-shared": {
       "codepoint": 57643,
       "fontFamily": "Catppuccin",
-      "identifier": "folderShared"
+      "identifier": "folderShared",
+      "duotone": true
     },
     "folder-shared-open": {
       "codepoint": 57644,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSharedOpen"
+      "identifier": "folderSharedOpen",
+      "duotone": true
     },
     "folder-src": {
       "codepoint": 57645,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSrc"
+      "identifier": "folderSrc",
+      "duotone": true
     },
     "folder-src-open": {
       "codepoint": 57646,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSrcOpen"
+      "identifier": "folderSrcOpen",
+      "duotone": true
     },
     "folder-storybook": {
       "codepoint": 57647,
       "fontFamily": "Catppuccin",
-      "identifier": "folderStorybook"
+      "identifier": "folderStorybook",
+      "duotone": true
     },
     "folder-storybook-open": {
       "codepoint": 57648,
       "fontFamily": "Catppuccin",
-      "identifier": "folderStorybookOpen"
+      "identifier": "folderStorybookOpen",
+      "duotone": true
     },
     "folder-styles": {
       "codepoint": 57649,
       "fontFamily": "Catppuccin",
-      "identifier": "folderStyles"
+      "identifier": "folderStyles",
+      "duotone": true
     },
     "folder-styles-open": {
       "codepoint": 57650,
       "fontFamily": "Catppuccin",
-      "identifier": "folderStylesOpen"
+      "identifier": "folderStylesOpen",
+      "duotone": true
     },
     "folder-svg": {
       "codepoint": 57651,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSvg"
+      "identifier": "folderSvg",
+      "duotone": true
     },
     "folder-svg-open": {
       "codepoint": 57652,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSvgOpen"
+      "identifier": "folderSvgOpen",
+      "duotone": true
     },
     "folder-symlink": {
       "codepoint": 57653,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSymlink"
+      "identifier": "folderSymlink",
+      "duotone": true
     },
     "folder-symlink-open": {
       "codepoint": 57654,
       "fontFamily": "Catppuccin",
-      "identifier": "folderSymlinkOpen"
+      "identifier": "folderSymlinkOpen",
+      "duotone": true
     },
     "folder-tauri": {
       "codepoint": 57655,
@@ -1594,32 +1773,38 @@
     "folder-temp": {
       "codepoint": 57657,
       "fontFamily": "Catppuccin",
-      "identifier": "folderTemp"
+      "identifier": "folderTemp",
+      "duotone": true
     },
     "folder-temp-open": {
       "codepoint": 57658,
       "fontFamily": "Catppuccin",
-      "identifier": "folderTempOpen"
+      "identifier": "folderTempOpen",
+      "duotone": true
     },
     "folder-templates": {
       "codepoint": 57659,
       "fontFamily": "Catppuccin",
-      "identifier": "folderTemplates"
+      "identifier": "folderTemplates",
+      "duotone": true
     },
     "folder-templates-open": {
       "codepoint": 57660,
       "fontFamily": "Catppuccin",
-      "identifier": "folderTemplatesOpen"
+      "identifier": "folderTemplatesOpen",
+      "duotone": true
     },
     "folder-tests": {
       "codepoint": 57661,
       "fontFamily": "Catppuccin",
-      "identifier": "folderTests"
+      "identifier": "folderTests",
+      "duotone": true
     },
     "folder-tests-open": {
       "codepoint": 57662,
       "fontFamily": "Catppuccin",
-      "identifier": "folderTestsOpen"
+      "identifier": "folderTestsOpen",
+      "duotone": true
     },
     "folder-themes": {
       "codepoint": 57663,
@@ -1644,102 +1829,122 @@
     "folder-types": {
       "codepoint": 57667,
       "fontFamily": "Catppuccin",
-      "identifier": "folderTypes"
+      "identifier": "folderTypes",
+      "duotone": true
     },
     "folder-types-open": {
       "codepoint": 57668,
       "fontFamily": "Catppuccin",
-      "identifier": "folderTypesOpen"
+      "identifier": "folderTypesOpen",
+      "duotone": true
     },
     "folder-upload": {
       "codepoint": 57669,
       "fontFamily": "Catppuccin",
-      "identifier": "folderUpload"
+      "identifier": "folderUpload",
+      "duotone": true
     },
     "folder-upload-open": {
       "codepoint": 57670,
       "fontFamily": "Catppuccin",
-      "identifier": "folderUploadOpen"
+      "identifier": "folderUploadOpen",
+      "duotone": true
     },
     "folder-utils": {
       "codepoint": 57671,
       "fontFamily": "Catppuccin",
-      "identifier": "folderUtils"
+      "identifier": "folderUtils",
+      "duotone": true
     },
     "folder-utils-open": {
       "codepoint": 57672,
       "fontFamily": "Catppuccin",
-      "identifier": "folderUtilsOpen"
+      "identifier": "folderUtilsOpen",
+      "duotone": true
     },
     "folder-vercel": {
       "codepoint": 57673,
       "fontFamily": "Catppuccin",
-      "identifier": "folderVercel"
+      "identifier": "folderVercel",
+      "duotone": true
     },
     "folder-vercel-open": {
       "codepoint": 57674,
       "fontFamily": "Catppuccin",
-      "identifier": "folderVercelOpen"
+      "identifier": "folderVercelOpen",
+      "duotone": true
     },
     "folder-video": {
       "codepoint": 57675,
       "fontFamily": "Catppuccin",
-      "identifier": "folderVideo"
+      "identifier": "folderVideo",
+      "duotone": true
     },
     "folder-video-open": {
       "codepoint": 57676,
       "fontFamily": "Catppuccin",
-      "identifier": "folderVideoOpen"
+      "identifier": "folderVideoOpen",
+      "duotone": true
     },
     "folder-views": {
       "codepoint": 57677,
       "fontFamily": "Catppuccin",
-      "identifier": "folderViews"
+      "identifier": "folderViews",
+      "duotone": true
     },
     "folder-views-open": {
       "codepoint": 57678,
       "fontFamily": "Catppuccin",
-      "identifier": "folderViewsOpen"
+      "identifier": "folderViewsOpen",
+      "duotone": true
     },
     "folder-vscode": {
       "codepoint": 57679,
       "fontFamily": "Catppuccin",
-      "identifier": "folderVscode"
+      "identifier": "folderVscode",
+      "duotone": true
     },
     "folder-vscode-open": {
       "codepoint": 57680,
       "fontFamily": "Catppuccin",
-      "identifier": "folderVscodeOpen"
+      "identifier": "folderVscodeOpen",
+      "duotone": true
     },
     "folder-windows": {
       "codepoint": 57681,
       "fontFamily": "Catppuccin",
-      "identifier": "folderWindows"
+      "identifier": "folderWindows",
+      "duotone": true
     },
     "folder-windows-open": {
       "codepoint": 57682,
       "fontFamily": "Catppuccin",
-      "identifier": "folderWindowsOpen"
+      "identifier": "folderWindowsOpen",
+      "duotone": true
     },
     "folder-workflows": {
       "codepoint": 57683,
       "fontFamily": "Catppuccin",
-      "identifier": "folderWorkflows"
+      "identifier": "folderWorkflows",
+      "duotone": true
     },
     "folder-workflows-open": {
       "codepoint": 57684,
       "fontFamily": "Catppuccin",
-      "identifier": "folderWorkflowsOpen"
+      "identifier": "folderWorkflowsOpen",
+      "duotone": true
     },
     "folder-wxt": {
       "codepoint": 57685,
       "fontFamily": "Catppuccin",
-      "identifier": "folderWxt"
+      "identifier": "folderWxt",
+      "duotone": true
     },
     "folder-wxt-open": {
       "codepoint": 57686,
       "fontFamily": "Catppuccin",
-      "identifier": "folderWxtOpen"
+      "identifier": "folderWxtOpen",
+      "duotone": true
     },
     "folder-xcode": {
       "codepoint": 57687,
@@ -1784,7 +1989,8 @@
     "forgejo": {
       "codepoint": 57695,
       "fontFamily": "Catppuccin",
-      "identifier": "forgejo"
+      "identifier": "forgejo",
+      "duotone": true
     },
     "fortran": {
       "codepoint": 57696,
@@ -1814,12 +2020,14 @@
     "git": {
       "codepoint": 57701,
       "fontFamily": "Catppuccin",
-      "identifier": "git"
+      "identifier": "git",
+      "duotone": true
     },
     "git-cliff": {
       "codepoint": 57702,
       "fontFamily": "Catppuccin",
-      "identifier": "gitCliff"
+      "identifier": "gitCliff",
+      "duotone": true
     },
     "gitlab": {
       "codepoint": 57703,
@@ -1839,7 +2047,8 @@
     "gleam-config": {
       "codepoint": 57706,
       "fontFamily": "Catppuccin",
-      "identifier": "gleamConfig"
+      "identifier": "gleamConfig",
+      "duotone": true
     },
     "go": {
       "codepoint": 57707,
@@ -1894,7 +2103,8 @@
     "haml": {
       "codepoint": 57717,
       "fontFamily": "Catppuccin",
-      "identifier": "haml"
+      "identifier": "haml",
+      "duotone": true
     },
     "handlebars": {
       "codepoint": 57718,
@@ -1939,7 +2149,8 @@
     "html": {
       "codepoint": 57726,
       "fontFamily": "Catppuccin",
-      "identifier": "html"
+      "identifier": "html",
+      "duotone": true
     },
     "http": {
       "codepoint": 57727,
@@ -1954,7 +2165,8 @@
     "hugo": {
       "codepoint": 57729,
       "fontFamily": "Catppuccin",
-      "identifier": "hugo"
+      "identifier": "hugo",
+      "duotone": true
     },
     "humans": {
       "codepoint": 57730,
@@ -1979,22 +2191,26 @@
     "java": {
       "codepoint": 57734,
       "fontFamily": "Catppuccin",
-      "identifier": "java"
+      "identifier": "java",
+      "duotone": true
     },
     "java-alt-1": {
       "codepoint": 57735,
       "fontFamily": "Catppuccin",
-      "identifier": "javaAlt1"
+      "identifier": "javaAlt1",
+      "duotone": true
     },
     "java-alt-2": {
       "codepoint": 57736,
       "fontFamily": "Catppuccin",
-      "identifier": "javaAlt2"
+      "identifier": "javaAlt2",
+      "duotone": true
     },
     "java-alt-3": {
       "codepoint": 57737,
       "fontFamily": "Catppuccin",
-      "identifier": "javaAlt3"
+      "identifier": "javaAlt3",
+      "duotone": true
     },
     "java-annotation": {
       "codepoint": 57738,
@@ -2039,7 +2255,8 @@
     "java-jar": {
       "codepoint": 57746,
       "fontFamily": "Catppuccin",
-      "identifier": "javaJar"
+      "identifier": "javaJar",
+      "duotone": true
     },
     "java-record": {
       "codepoint": 57747,
@@ -2054,12 +2271,14 @@
     "javascript-config": {
       "codepoint": 57749,
       "fontFamily": "Catppuccin",
-      "identifier": "javascriptConfig"
+      "identifier": "javascriptConfig",
+      "duotone": true
     },
     "javascript-map": {
       "codepoint": 57750,
       "fontFamily": "Catppuccin",
-      "identifier": "javascriptMap"
+      "identifier": "javascriptMap",
+      "duotone": true
     },
     "javascript-react": {
       "codepoint": 57751,
@@ -2109,7 +2328,8 @@
     "jupyter": {
       "codepoint": 57760,
       "fontFamily": "Catppuccin",
-      "identifier": "jupyter"
+      "identifier": "jupyter",
+      "duotone": true
     },
     "just": {
       "codepoint": 57761,
@@ -2149,7 +2369,8 @@
     "latte": {
       "codepoint": 57768,
       "fontFamily": "Catppuccin",
-      "identifier": "latte"
+      "identifier": "latte",
+      "duotone": true
     },
     "lerna": {
       "codepoint": 57769,
@@ -2174,7 +2395,8 @@
     "lint-staged": {
       "codepoint": 57773,
       "fontFamily": "Catppuccin",
-      "identifier": "lintStaged"
+      "identifier": "lintStaged",
+      "duotone": true
     },
     "liquid": {
       "codepoint": 57774,
@@ -2199,7 +2421,8 @@
     "lua": {
       "codepoint": 57778,
       "fontFamily": "Catppuccin",
-      "identifier": "lua"
+      "identifier": "lua",
+      "duotone": true
     },
     "lua-check": {
       "codepoint": 57779,
@@ -2229,7 +2452,8 @@
     "luau": {
       "codepoint": 57784,
       "fontFamily": "Catppuccin",
-      "identifier": "luau"
+      "identifier": "luau",
+      "duotone": true
     },
     "luau-check": {
       "codepoint": 57785,
@@ -2254,7 +2478,8 @@
     "luau-test": {
       "codepoint": 57789,
       "fontFamily": "Catppuccin",
-      "identifier": "luauTest"
+      "identifier": "luauTest",
+      "duotone": true
     },
     "macos": {
       "codepoint": 57790,
@@ -2264,7 +2489,8 @@
     "makefile": {
       "codepoint": 57791,
       "fontFamily": "Catppuccin",
-      "identifier": "makefile"
+      "identifier": "makefile",
+      "duotone": true
     },
     "mantle": {
       "codepoint": 57792,
@@ -2289,12 +2515,14 @@
     "matlab": {
       "codepoint": 57796,
       "fontFamily": "Catppuccin",
-      "identifier": "matlab"
+      "identifier": "matlab",
+      "duotone": true
     },
     "maven": {
       "codepoint": 57797,
       "fontFamily": "Catppuccin",
-      "identifier": "maven"
+      "identifier": "maven",
+      "duotone": true
     },
     "mdbook": {
       "codepoint": 57798,
@@ -2329,7 +2557,8 @@
     "moonrepo": {
       "codepoint": 57804,
       "fontFamily": "Catppuccin",
-      "identifier": "moonrepo"
+      "identifier": "moonrepo",
+      "duotone": true
     },
     "moonwave": {
       "codepoint": 57805,
@@ -2354,7 +2583,8 @@
     "msbuild": {
       "codepoint": 57809,
       "fontFamily": "Catppuccin",
-      "identifier": "msbuild"
+      "identifier": "msbuild",
+      "duotone": true
     },
     "nativescript": {
       "codepoint": 57810,
@@ -2409,7 +2639,8 @@
     "netlify": {
       "codepoint": 57820,
       "fontFamily": "Catppuccin",
-      "identifier": "netlify"
+      "identifier": "netlify",
+      "duotone": true
     },
     "next": {
       "codepoint": 57821,
@@ -2439,7 +2670,8 @@
     "nix": {
       "codepoint": 57826,
       "fontFamily": "Catppuccin",
-      "identifier": "nix"
+      "identifier": "nix",
+      "duotone": true
     },
     "nix-lock": {
       "codepoint": 57827,
@@ -2454,7 +2686,8 @@
     "npm": {
       "codepoint": 57829,
       "fontFamily": "Catppuccin",
-      "identifier": "npm"
+      "identifier": "npm",
+      "duotone": true
     },
     "npm-ignore": {
       "codepoint": 57830,
@@ -2544,7 +2777,8 @@
     "pesde-lock": {
       "codepoint": 57847,
       "fontFamily": "Catppuccin",
-      "identifier": "pesdeLock"
+      "identifier": "pesdeLock",
+      "duotone": true
     },
     "php": {
       "codepoint": 57848,
@@ -2554,7 +2788,8 @@
     "phrase": {
       "codepoint": 57849,
       "fontFamily": "Catppuccin",
-      "identifier": "phrase"
+      "identifier": "phrase",
+      "duotone": true
     },
     "phtml": {
       "codepoint": 57850,
@@ -2564,7 +2799,8 @@
     "pixi": {
       "codepoint": 57851,
       "fontFamily": "Catppuccin",
-      "identifier": "pixi"
+      "identifier": "pixi",
+      "duotone": true
     },
     "pixi-lock": {
       "codepoint": 57852,
@@ -2579,7 +2815,8 @@
     "playwright": {
       "codepoint": 57854,
       "fontFamily": "Catppuccin",
-      "identifier": "playwright"
+      "identifier": "playwright",
+      "duotone": true
     },
     "plop": {
       "codepoint": 57855,
@@ -2589,7 +2826,8 @@
     "pnpm": {
       "codepoint": 57856,
       "fontFamily": "Catppuccin",
-      "identifier": "pnpm"
+      "identifier": "pnpm",
+      "duotone": true
     },
     "pnpm-lock": {
       "codepoint": 57857,
@@ -2674,12 +2912,14 @@
     "python": {
       "codepoint": 57873,
       "fontFamily": "Catppuccin",
-      "identifier": "python"
+      "identifier": "python",
+      "duotone": true
     },
     "python-compiled": {
       "codepoint": 57874,
       "fontFamily": "Catppuccin",
-      "identifier": "pythonCompiled"
+      "identifier": "pythonCompiled",
+      "duotone": true
     },
     "python-config": {
       "codepoint": 57875,
@@ -2689,17 +2929,20 @@
     "qwik": {
       "codepoint": 57876,
       "fontFamily": "Catppuccin",
-      "identifier": "qwik"
+      "identifier": "qwik",
+      "duotone": true
     },
     "r": {
       "codepoint": 57877,
       "fontFamily": "Catppuccin",
-      "identifier": "r"
+      "identifier": "r",
+      "duotone": true
     },
     "racket": {
       "codepoint": 57878,
       "fontFamily": "Catppuccin",
-      "identifier": "racket"
+      "identifier": "racket",
+      "duotone": true
     },
     "razor": {
       "codepoint": 57879,
@@ -2709,7 +2952,8 @@
     "rdata": {
       "codepoint": 57880,
       "fontFamily": "Catppuccin",
-      "identifier": "rdata"
+      "identifier": "rdata",
+      "duotone": true
     },
     "readme": {
       "codepoint": 57881,
@@ -2739,7 +2983,8 @@
     "renovate": {
       "codepoint": 57886,
       "fontFamily": "Catppuccin",
-      "identifier": "renovate"
+      "identifier": "renovate",
+      "duotone": true
     },
     "rescript": {
       "codepoint": 57887,
@@ -2779,7 +3024,8 @@
     "rollup": {
       "codepoint": 57894,
       "fontFamily": "Catppuccin",
-      "identifier": "rollup"
+      "identifier": "rollup",
+      "duotone": true
     },
     "root": {
       "codepoint": 57895,
@@ -2814,7 +3060,8 @@
     "ruby-gem-lock": {
       "codepoint": 57901,
       "fontFamily": "Catppuccin",
-      "identifier": "rubyGemLock"
+      "identifier": "rubyGemLock",
+      "duotone": true
     },
     "ruff": {
       "codepoint": 57902,
@@ -2834,7 +3081,8 @@
     "rust-alt-config": {
       "codepoint": 57905,
       "fontFamily": "Catppuccin",
-      "identifier": "rustAltConfig"
+      "identifier": "rustAltConfig",
+      "duotone": true
     },
     "rust-config": {
       "codepoint": 57906,
@@ -2909,7 +3157,8 @@
     "slidesk": {
       "codepoint": 57920,
       "fontFamily": "Catppuccin",
-      "identifier": "slidesk"
+      "identifier": "slidesk",
+      "duotone": true
     },
     "snowpack": {
       "codepoint": 57921,
@@ -2949,7 +3198,8 @@
     "stata": {
       "codepoint": 57928,
       "fontFamily": "Catppuccin",
-      "identifier": "stata"
+      "identifier": "stata",
+      "duotone": true
     },
     "stencil": {
       "codepoint": 57929,
@@ -2964,17 +3214,20 @@
     "storybook": {
       "codepoint": 57931,
       "fontFamily": "Catppuccin",
-      "identifier": "storybook"
+      "identifier": "storybook",
+      "duotone": true
     },
     "storybook-svelte": {
       "codepoint": 57932,
       "fontFamily": "Catppuccin",
-      "identifier": "storybookSvelte"
+      "identifier": "storybookSvelte",
+      "duotone": true
     },
     "storybook-vue": {
       "codepoint": 57933,
       "fontFamily": "Catppuccin",
-      "identifier": "storybookVue"
+      "identifier": "storybookVue",
+      "duotone": true
     },
     "stylelint": {
       "codepoint": 57934,
@@ -3014,7 +3267,8 @@
     "svelte-config": {
       "codepoint": 57941,
       "fontFamily": "Catppuccin",
-      "identifier": "svelteConfig"
+      "identifier": "svelteConfig",
+      "duotone": true
     },
     "svg": {
       "codepoint": 57942,
@@ -3029,12 +3283,14 @@
     "swiftformat": {
       "codepoint": 57944,
       "fontFamily": "Catppuccin",
-      "identifier": "swiftformat"
+      "identifier": "swiftformat",
+      "duotone": true
     },
     "symlink": {
       "codepoint": 57945,
       "fontFamily": "Catppuccin",
-      "identifier": "symlink"
+      "identifier": "symlink",
+      "duotone": true
     },
     "tailwind": {
       "codepoint": 57946,
@@ -3049,7 +3305,8 @@
     "tauri": {
       "codepoint": 57948,
       "fontFamily": "Catppuccin",
-      "identifier": "tauri"
+      "identifier": "tauri",
+      "duotone": true
     },
     "tauri-ignore": {
       "codepoint": 57949,
@@ -3084,12 +3341,14 @@
     "twig": {
       "codepoint": 57955,
       "fontFamily": "Catppuccin",
-      "identifier": "twig"
+      "identifier": "twig",
+      "duotone": true
     },
     "twine": {
       "codepoint": 57956,
       "fontFamily": "Catppuccin",
-      "identifier": "twine"
+      "identifier": "twine",
+      "duotone": true
     },
     "typescript": {
       "codepoint": 57957,
@@ -3099,12 +3358,14 @@
     "typescript-config": {
       "codepoint": 57958,
       "fontFamily": "Catppuccin",
-      "identifier": "typescriptConfig"
+      "identifier": "typescriptConfig",
+      "duotone": true
     },
     "typescript-def": {
       "codepoint": 57959,
       "fontFamily": "Catppuccin",
-      "identifier": "typescriptDef"
+      "identifier": "typescriptDef",
+      "duotone": true
     },
     "typescript-react": {
       "codepoint": 57960,
@@ -3129,7 +3390,8 @@
     "unocss": {
       "codepoint": 57964,
       "fontFamily": "Catppuccin",
-      "identifier": "unocss"
+      "identifier": "unocss",
+      "duotone": true
     },
     "url": {
       "codepoint": 57965,
@@ -3154,7 +3416,8 @@
     "vanilla-extract": {
       "codepoint": 57969,
       "fontFamily": "Catppuccin",
-      "identifier": "vanillaExtract"
+      "identifier": "vanillaExtract",
+      "duotone": true
     },
     "vapi": {
       "codepoint": 57970,
@@ -3204,17 +3467,20 @@
     "vital": {
       "codepoint": 57979,
       "fontFamily": "Catppuccin",
-      "identifier": "vital"
+      "identifier": "vital",
+      "duotone": true
     },
     "vite": {
       "codepoint": 57980,
       "fontFamily": "Catppuccin",
-      "identifier": "vite"
+      "identifier": "vite",
+      "duotone": true
     },
     "vitest": {
       "codepoint": 57981,
       "fontFamily": "Catppuccin",
-      "identifier": "vitest"
+      "identifier": "vitest",
+      "duotone": true
     },
     "vs-codium": {
       "codepoint": 57982,
@@ -3239,7 +3505,8 @@
     "vue-config": {
       "codepoint": 57986,
       "fontFamily": "Catppuccin",
-      "identifier": "vueConfig"
+      "identifier": "vueConfig",
+      "duotone": true
     },
     "wally": {
       "codepoint": 57987,
@@ -3254,7 +3521,8 @@
     "webpack": {
       "codepoint": 57989,
       "fontFamily": "Catppuccin",
-      "identifier": "webpack"
+      "identifier": "webpack",
+      "duotone": true
     },
     "windi": {
       "codepoint": 57990,
@@ -3279,7 +3547,8 @@
     "xaml": {
       "codepoint": 57994,
       "fontFamily": "Catppuccin",
-      "identifier": "xaml"
+      "identifier": "xaml",
+      "duotone": true
     },
     "xcode": {
       "codepoint": 57995,

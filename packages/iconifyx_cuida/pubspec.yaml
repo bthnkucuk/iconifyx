@@ -20,3 +20,6 @@ flutter:
     - family: Cuida
       fonts:
         - asset: assets/fonts/Cuida.ttf
+    - family: CuidaSecondary
+      fonts:
+        - asset: assets/fonts/CuidaSecondary.ttf

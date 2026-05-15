@@ -26,7 +26,7 @@
     {
       "family": "GcpSecondary",
       "nextCodepoint": 57462,
-      "iconCount": 40
+      "iconCount": 41
     }
   ],
   "icons": {
@@ -445,7 +445,8 @@
     "google-cloud-marketplace": {
       "codepoint": 57399,
       "fontFamily": "Gcp",
-      "identifier": "googleCloudMarketplace"
+      "identifier": "googleCloudMarketplace",
+      "duotone": true
     },
     "home": {
       "codepoint": 57400,

@@ -20,3 +20,6 @@ flutter:
     - family: Temaki
       fonts:
         - asset: assets/fonts/Temaki.ttf
+    - family: TemakiSecondary
+      fonts:
+        - asset: assets/fonts/TemakiSecondary.ttf

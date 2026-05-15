@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Material Extensions
 /// License: MIT — https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE
-/// Icons: 780 (split across 2 fonts)
+/// Icons: 778 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1390,18 +1390,6 @@ class MaterialIconThemeIcons {
   static const IconifyIconData folderFirestoreOpen = IconifyIconData.duo(
     IconData(0xe201, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe201, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-flow` (duo-tone)
-  static const IconifyIconData folderFlow = IconifyIconData.duo(
-    IconData(0xe202, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe202, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-flow-open` (duo-tone)
-  static const IconifyIconData folderFlowOpen = IconifyIconData.duo(
-    IconData(0xe203, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe203, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `folder-flutter` (duo-tone)

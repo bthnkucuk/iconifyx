@@ -23,6 +23,11 @@
       "family": "LetsIcons",
       "nextCodepoint": 58885,
       "iconCount": 1541
+    },
+    {
+      "family": "LetsIconsSecondary",
+      "nextCodepoint": 58885,
+      "iconCount": 290
     }
   ],
   "icons": {
@@ -44,7 +49,8 @@
     "3d-box-duotone": {
       "codepoint": 57347,
       "fontFamily": "LetsIcons",
-      "identifier": "n3dBoxDuotone"
+      "identifier": "n3dBoxDuotone",
+      "duotone": true
     },
     "3d-box-fill": {
       "codepoint": 57348,
@@ -64,7 +70,8 @@
     "add-duotone": {
       "codepoint": 57351,
       "fontFamily": "LetsIcons",
-      "identifier": "addDuotone"
+      "identifier": "addDuotone",
+      "duotone": true
     },
     "add-duotone-line": {
       "codepoint": 57352,
@@ -84,7 +91,8 @@
     "add-ring-duotone": {
       "codepoint": 57355,
       "fontFamily": "LetsIcons",
-      "identifier": "addRingDuotone"
+      "identifier": "addRingDuotone",
+      "duotone": true
     },
     "add-ring-duotone-line": {
       "codepoint": 57356,
@@ -109,7 +117,8 @@
     "add-round-duotone": {
       "codepoint": 57360,
       "fontFamily": "LetsIcons",
-      "identifier": "addRoundDuotone"
+      "identifier": "addRoundDuotone",
+      "duotone": true
     },
     "add-round-duotone-line": {
       "codepoint": 57361,
@@ -134,7 +143,8 @@
     "add-square-duotone": {
       "codepoint": 57365,
       "fontFamily": "LetsIcons",
-      "identifier": "addSquareDuotone"
+      "identifier": "addSquareDuotone",
+      "duotone": true
     },
     "add-square-duotone-line": {
       "codepoint": 57366,
@@ -179,12 +189,14 @@
     "alarmclock-duotone": {
       "codepoint": 57374,
       "fontFamily": "LetsIcons",
-      "identifier": "alarmclockDuotone"
+      "identifier": "alarmclockDuotone",
+      "duotone": true
     },
     "alarmclock-duotone-line": {
       "codepoint": 57375,
       "fontFamily": "LetsIcons",
-      "identifier": "alarmclockDuotoneLine"
+      "identifier": "alarmclockDuotoneLine",
+      "duotone": true
     },
     "alarmclock-fill": {
       "codepoint": 57376,
@@ -234,12 +246,14 @@
     "arhive-alt-big-duotone": {
       "codepoint": 57385,
       "fontFamily": "LetsIcons",
-      "identifier": "arhiveAltBigDuotone"
+      "identifier": "arhiveAltBigDuotone",
+      "duotone": true
     },
     "arhive-alt-big-duotone-line": {
       "codepoint": 57386,
       "fontFamily": "LetsIcons",
-      "identifier": "arhiveAltBigDuotoneLine"
+      "identifier": "arhiveAltBigDuotoneLine",
+      "duotone": true
     },
     "arhive-alt-big-light": {
       "codepoint": 57387,
@@ -279,12 +293,14 @@
     "arhive-alt-small-duotone": {
       "codepoint": 57394,
       "fontFamily": "LetsIcons",
-      "identifier": "arhiveAltSmallDuotone"
+      "identifier": "arhiveAltSmallDuotone",
+      "duotone": true
     },
     "arhive-alt-small-duotone-line": {
       "codepoint": 57395,
       "fontFamily": "LetsIcons",
-      "identifier": "arhiveAltSmallDuotoneLine"
+      "identifier": "arhiveAltSmallDuotoneLine",
+      "duotone": true
     },
     "arhive-alt-small-light": {
       "codepoint": 57396,
@@ -309,12 +325,14 @@
     "arhive-duotone": {
       "codepoint": 57400,
       "fontFamily": "LetsIcons",
-      "identifier": "arhiveDuotone"
+      "identifier": "arhiveDuotone",
+      "duotone": true
     },
     "arhive-duotone-line": {
       "codepoint": 57401,
       "fontFamily": "LetsIcons",
-      "identifier": "arhiveDuotoneLine"
+      "identifier": "arhiveDuotoneLine",
+      "duotone": true
     },
     "arhive-export": {
       "codepoint": 57402,
@@ -334,7 +352,8 @@
     "arhive-fill-duotone": {
       "codepoint": 57405,
       "fontFamily": "LetsIcons",
-      "identifier": "arhiveFillDuotone"
+      "identifier": "arhiveFillDuotone",
+      "duotone": true
     },
     "arhive-import": {
       "codepoint": 57406,
@@ -359,12 +378,14 @@
     "arhive-load-duotone": {
       "codepoint": 57410,
       "fontFamily": "LetsIcons",
-      "identifier": "arhiveLoadDuotone"
+      "identifier": "arhiveLoadDuotone",
+      "duotone": true
     },
     "arhive-load-duotone-line": {
       "codepoint": 57411,
       "fontFamily": "LetsIcons",
-      "identifier": "arhiveLoadDuotoneLine"
+      "identifier": "arhiveLoadDuotoneLine",
+      "duotone": true
     },
     "arhive-load-fill": {
       "codepoint": 57412,
@@ -624,7 +645,8 @@
     "bag-alt-duotone": {
       "codepoint": 57463,
       "fontFamily": "LetsIcons",
-      "identifier": "bagAltDuotone"
+      "identifier": "bagAltDuotone",
+      "duotone": true
     },
     "bag-alt-duotone-line": {
       "codepoint": 57464,
@@ -644,7 +666,8 @@
     "bag-duotone": {
       "codepoint": 57467,
       "fontFamily": "LetsIcons",
-      "identifier": "bagDuotone"
+      "identifier": "bagDuotone",
+      "duotone": true
     },
     "bag-duotone-line": {
       "codepoint": 57468,
@@ -699,7 +722,8 @@
     "basket-alt-duotone": {
       "codepoint": 57478,
       "fontFamily": "LetsIcons",
-      "identifier": "basketAltDuotone"
+      "identifier": "basketAltDuotone",
+      "duotone": true
     },
     "basket-alt-duotone-line": {
       "codepoint": 57479,
@@ -714,12 +738,14 @@
     "basket-duotone": {
       "codepoint": 57481,
       "fontFamily": "LetsIcons",
-      "identifier": "basketDuotone"
+      "identifier": "basketDuotone",
+      "duotone": true
     },
     "basket-duotone-line": {
       "codepoint": 57482,
       "fontFamily": "LetsIcons",
-      "identifier": "basketDuotoneLine"
+      "identifier": "basketDuotoneLine",
+      "duotone": true
     },
     "basket-fill": {
       "codepoint": 57483,
@@ -739,12 +765,14 @@
     "battery-full-duotone": {
       "codepoint": 57486,
       "fontFamily": "LetsIcons",
-      "identifier": "batteryFullDuotone"
+      "identifier": "batteryFullDuotone",
+      "duotone": true
     },
     "battery-full-duotone-line": {
       "codepoint": 57487,
       "fontFamily": "LetsIcons",
-      "identifier": "batteryFullDuotoneLine"
+      "identifier": "batteryFullDuotoneLine",
+      "duotone": true
     },
     "battery-full-fill": {
       "codepoint": 57488,
@@ -764,12 +792,14 @@
     "battery-low-duotone": {
       "codepoint": 57491,
       "fontFamily": "LetsIcons",
-      "identifier": "batteryLowDuotone"
+      "identifier": "batteryLowDuotone",
+      "duotone": true
     },
     "battery-low-duotone-line": {
       "codepoint": 57492,
       "fontFamily": "LetsIcons",
-      "identifier": "batteryLowDuotoneLine"
+      "identifier": "batteryLowDuotoneLine",
+      "duotone": true
     },
     "battery-low-fill": {
       "codepoint": 57493,
@@ -819,7 +849,8 @@
     "bell-pin-duotone-line": {
       "codepoint": 57502,
       "fontFamily": "LetsIcons",
-      "identifier": "bellPinDuotoneLine"
+      "identifier": "bellPinDuotoneLine",
+      "duotone": true
     },
     "bell-pin-fill": {
       "codepoint": 57503,
@@ -844,12 +875,14 @@
     "blank-alt-duotone": {
       "codepoint": 57507,
       "fontFamily": "LetsIcons",
-      "identifier": "blankAltDuotone"
+      "identifier": "blankAltDuotone",
+      "duotone": true
     },
     "blank-alt-duotone-line": {
       "codepoint": 57508,
       "fontFamily": "LetsIcons",
-      "identifier": "blankAltDuotoneLine"
+      "identifier": "blankAltDuotoneLine",
+      "duotone": true
     },
     "blank-alt-fill": {
       "codepoint": 57509,
@@ -864,12 +897,14 @@
     "blank-duotone": {
       "codepoint": 57511,
       "fontFamily": "LetsIcons",
-      "identifier": "blankDuotone"
+      "identifier": "blankDuotone",
+      "duotone": true
     },
     "blank-duotone-line": {
       "codepoint": 57512,
       "fontFamily": "LetsIcons",
-      "identifier": "blankDuotoneLine"
+      "identifier": "blankDuotoneLine",
+      "duotone": true
     },
     "blank-fill": {
       "codepoint": 57513,
@@ -924,12 +959,14 @@
     "book-check-duotone": {
       "codepoint": 57523,
       "fontFamily": "LetsIcons",
-      "identifier": "bookCheckDuotone"
+      "identifier": "bookCheckDuotone",
+      "duotone": true
     },
     "book-check-duotone-line": {
       "codepoint": 57524,
       "fontFamily": "LetsIcons",
-      "identifier": "bookCheckDuotoneLine"
+      "identifier": "bookCheckDuotoneLine",
+      "duotone": true
     },
     "book-check-fill": {
       "codepoint": 57525,
@@ -944,12 +981,14 @@
     "book-duotone": {
       "codepoint": 57527,
       "fontFamily": "LetsIcons",
-      "identifier": "bookDuotone"
+      "identifier": "bookDuotone",
+      "duotone": true
     },
     "book-duotone-line": {
       "codepoint": 57528,
       "fontFamily": "LetsIcons",
-      "identifier": "bookDuotoneLine"
+      "identifier": "bookDuotoneLine",
+      "duotone": true
     },
     "book-fill": {
       "codepoint": 57529,
@@ -974,7 +1013,8 @@
     "book-open-alt-duotone-light": {
       "codepoint": 57533,
       "fontFamily": "LetsIcons",
-      "identifier": "bookOpenAltDuotoneLight"
+      "identifier": "bookOpenAltDuotoneLight",
+      "duotone": true
     },
     "book-open-alt-fill": {
       "codepoint": 57534,
@@ -989,7 +1029,8 @@
     "book-open-duotone": {
       "codepoint": 57536,
       "fontFamily": "LetsIcons",
-      "identifier": "bookOpenDuotone"
+      "identifier": "bookOpenDuotone",
+      "duotone": true
     },
     "book-open-duotone-line": {
       "codepoint": 57537,
@@ -1049,7 +1090,8 @@
     "box-alt-fill-duotone": {
       "codepoint": 57548,
       "fontFamily": "LetsIcons",
-      "identifier": "boxAltFillDuotone"
+      "identifier": "boxAltFillDuotone",
+      "duotone": true
     },
     "box-alt-light": {
       "codepoint": 57549,
@@ -1069,7 +1111,8 @@
     "box-fill-duotone": {
       "codepoint": 57552,
       "fontFamily": "LetsIcons",
-      "identifier": "boxFillDuotone"
+      "identifier": "boxFillDuotone",
+      "duotone": true
     },
     "box-light": {
       "codepoint": 57553,
@@ -1094,7 +1137,8 @@
     "box-open-fill-duotone": {
       "codepoint": 57557,
       "fontFamily": "LetsIcons",
-      "identifier": "boxOpenFillDuotone"
+      "identifier": "boxOpenFillDuotone",
+      "duotone": true
     },
     "box-open-light": {
       "codepoint": 57558,
@@ -1139,7 +1183,8 @@
     "broken-heart-duotone": {
       "codepoint": 57566,
       "fontFamily": "LetsIcons",
-      "identifier": "brokenHeartDuotone"
+      "identifier": "brokenHeartDuotone",
+      "duotone": true
     },
     "broken-heart-fill": {
       "codepoint": 57567,
@@ -1169,7 +1214,8 @@
     "bug-duotone": {
       "codepoint": 57572,
       "fontFamily": "LetsIcons",
-      "identifier": "bugDuotone"
+      "identifier": "bugDuotone",
+      "duotone": true
     },
     "bug-fill": {
       "codepoint": 57573,
@@ -1199,12 +1245,14 @@
     "calendar-add-duotone": {
       "codepoint": 57578,
       "fontFamily": "LetsIcons",
-      "identifier": "calendarAddDuotone"
+      "identifier": "calendarAddDuotone",
+      "duotone": true
     },
     "calendar-add-duotone-line": {
       "codepoint": 57579,
       "fontFamily": "LetsIcons",
-      "identifier": "calendarAddDuotoneLine"
+      "identifier": "calendarAddDuotoneLine",
+      "duotone": true
     },
     "calendar-add-fill": {
       "codepoint": 57580,
@@ -1219,7 +1267,8 @@
     "calendar-duotone": {
       "codepoint": 57582,
       "fontFamily": "LetsIcons",
-      "identifier": "calendarDuotone"
+      "identifier": "calendarDuotone",
+      "duotone": true
     },
     "calendar-duotone-line": {
       "codepoint": 57583,
@@ -1254,12 +1303,14 @@
     "camera-duotone": {
       "codepoint": 57589,
       "fontFamily": "LetsIcons",
-      "identifier": "cameraDuotone"
+      "identifier": "cameraDuotone",
+      "duotone": true
     },
     "camera-duotone-line": {
       "codepoint": 57590,
       "fontFamily": "LetsIcons",
-      "identifier": "cameraDuotoneLine"
+      "identifier": "cameraDuotoneLine",
+      "duotone": true
     },
     "camera-fill": {
       "codepoint": 57591,
@@ -1279,7 +1330,8 @@
     "cancel-duotone": {
       "codepoint": 57594,
       "fontFamily": "LetsIcons",
-      "identifier": "cancelDuotone"
+      "identifier": "cancelDuotone",
+      "duotone": true
     },
     "cancel-duotone-line": {
       "codepoint": 57595,
@@ -1334,12 +1386,14 @@
     "chart-alt-duotone": {
       "codepoint": 57605,
       "fontFamily": "LetsIcons",
-      "identifier": "chartAltDuotone"
+      "identifier": "chartAltDuotone",
+      "duotone": true
     },
     "chart-alt-duotone-line": {
       "codepoint": 57606,
       "fontFamily": "LetsIcons",
-      "identifier": "chartAltDuotoneLine"
+      "identifier": "chartAltDuotoneLine",
+      "duotone": true
     },
     "chart-alt-fill": {
       "codepoint": 57607,
@@ -1354,12 +1408,14 @@
     "chart-duotone": {
       "codepoint": 57609,
       "fontFamily": "LetsIcons",
-      "identifier": "chartDuotone"
+      "identifier": "chartDuotone",
+      "duotone": true
     },
     "chart-duotone-line": {
       "codepoint": 57610,
       "fontFamily": "LetsIcons",
-      "identifier": "chartDuotoneLine"
+      "identifier": "chartDuotoneLine",
+      "duotone": true
     },
     "chart-fill": {
       "codepoint": 57611,
@@ -1399,12 +1455,14 @@
     "chat-alt-2-duotone": {
       "codepoint": 57618,
       "fontFamily": "LetsIcons",
-      "identifier": "chatAlt2Duotone"
+      "identifier": "chatAlt2Duotone",
+      "duotone": true
     },
     "chat-alt-2-duotone-line": {
       "codepoint": 57619,
       "fontFamily": "LetsIcons",
-      "identifier": "chatAlt2DuotoneLine"
+      "identifier": "chatAlt2DuotoneLine",
+      "duotone": true
     },
     "chat-alt-2-fill": {
       "codepoint": 57620,
@@ -1424,12 +1482,14 @@
     "chat-alt-3-duotone": {
       "codepoint": 57623,
       "fontFamily": "LetsIcons",
-      "identifier": "chatAlt3Duotone"
+      "identifier": "chatAlt3Duotone",
+      "duotone": true
     },
     "chat-alt-3-duotone-line": {
       "codepoint": 57624,
       "fontFamily": "LetsIcons",
-      "identifier": "chatAlt3DuotoneLine"
+      "identifier": "chatAlt3DuotoneLine",
+      "duotone": true
     },
     "chat-alt-3-fill": {
       "codepoint": 57625,
@@ -1449,12 +1509,14 @@
     "chat-alt-add-duotone": {
       "codepoint": 57628,
       "fontFamily": "LetsIcons",
-      "identifier": "chatAltAddDuotone"
+      "identifier": "chatAltAddDuotone",
+      "duotone": true
     },
     "chat-alt-add-duotone-line": {
       "codepoint": 57629,
       "fontFamily": "LetsIcons",
-      "identifier": "chatAltAddDuotoneLine"
+      "identifier": "chatAltAddDuotoneLine",
+      "duotone": true
     },
     "chat-alt-add-fill": {
       "codepoint": 57630,
@@ -1469,12 +1531,14 @@
     "chat-alt-duotone": {
       "codepoint": 57632,
       "fontFamily": "LetsIcons",
-      "identifier": "chatAltDuotone"
+      "identifier": "chatAltDuotone",
+      "duotone": true
     },
     "chat-alt-duotone-line": {
       "codepoint": 57633,
       "fontFamily": "LetsIcons",
-      "identifier": "chatAltDuotoneLine"
+      "identifier": "chatAltDuotoneLine",
+      "duotone": true
     },
     "chat-alt-fill": {
       "codepoint": 57634,
@@ -1489,12 +1553,14 @@
     "chat-duotone": {
       "codepoint": 57636,
       "fontFamily": "LetsIcons",
-      "identifier": "chatDuotone"
+      "identifier": "chatDuotone",
+      "duotone": true
     },
     "chat-duotone-line": {
       "codepoint": 57637,
       "fontFamily": "LetsIcons",
-      "identifier": "chatDuotoneLine"
+      "identifier": "chatDuotoneLine",
+      "duotone": true
     },
     "chat-fill": {
       "codepoint": 57638,
@@ -1514,7 +1580,8 @@
     "chat-plus-duotone": {
       "codepoint": 57641,
       "fontFamily": "LetsIcons",
-      "identifier": "chatPlusDuotone"
+      "identifier": "chatPlusDuotone",
+      "duotone": true
     },
     "chat-plus-duotone-line": {
       "codepoint": 57642,
@@ -1539,7 +1606,8 @@
     "chat-search-duotone": {
       "codepoint": 57646,
       "fontFamily": "LetsIcons",
-      "identifier": "chatSearchDuotone"
+      "identifier": "chatSearchDuotone",
+      "duotone": true
     },
     "chat-search-duotone-light": {
       "codepoint": 57647,
@@ -1569,12 +1637,14 @@
     "check-ring-duotone": {
       "codepoint": 57652,
       "fontFamily": "LetsIcons",
-      "identifier": "checkRingDuotone"
+      "identifier": "checkRingDuotone",
+      "duotone": true
     },
     "check-ring-duotone-line": {
       "codepoint": 57653,
       "fontFamily": "LetsIcons",
-      "identifier": "checkRingDuotoneLine"
+      "identifier": "checkRingDuotoneLine",
+      "duotone": true
     },
     "check-ring-light": {
       "codepoint": 57654,
@@ -1589,12 +1659,14 @@
     "check-ring-round-duotone": {
       "codepoint": 57656,
       "fontFamily": "LetsIcons",
-      "identifier": "checkRingRoundDuotone"
+      "identifier": "checkRingRoundDuotone",
+      "duotone": true
     },
     "check-ring-round-duotone-line": {
       "codepoint": 57657,
       "fontFamily": "LetsIcons",
-      "identifier": "checkRingRoundDuotoneLine"
+      "identifier": "checkRingRoundDuotoneLine",
+      "duotone": true
     },
     "check-ring-round-light": {
       "codepoint": 57658,
@@ -1629,12 +1701,14 @@
     "chield-alt-duotone": {
       "codepoint": 57664,
       "fontFamily": "LetsIcons",
-      "identifier": "chieldAltDuotone"
+      "identifier": "chieldAltDuotone",
+      "duotone": true
     },
     "chield-alt-duotone-line": {
       "codepoint": 57665,
       "fontFamily": "LetsIcons",
-      "identifier": "chieldAltDuotoneLine"
+      "identifier": "chieldAltDuotoneLine",
+      "duotone": true
     },
     "chield-alt-fill": {
       "codepoint": 57666,
@@ -1654,7 +1728,8 @@
     "chield-check-duotone": {
       "codepoint": 57669,
       "fontFamily": "LetsIcons",
-      "identifier": "chieldCheckDuotone"
+      "identifier": "chieldCheckDuotone",
+      "duotone": true
     },
     "chield-check-duotone-line": {
       "codepoint": 57670,
@@ -1674,7 +1749,8 @@
     "chield-duotone": {
       "codepoint": 57673,
       "fontFamily": "LetsIcons",
-      "identifier": "chieldDuotone"
+      "identifier": "chieldDuotone",
+      "duotone": true
     },
     "chield-duotone-line": {
       "codepoint": 57674,
@@ -1729,7 +1805,8 @@
     "clock-duotone": {
       "codepoint": 57684,
       "fontFamily": "LetsIcons",
-      "identifier": "clockDuotone"
+      "identifier": "clockDuotone",
+      "duotone": true
     },
     "clock-duotone-line": {
       "codepoint": 57685,
@@ -1754,7 +1831,8 @@
     "close-ring-duotone": {
       "codepoint": 57689,
       "fontFamily": "LetsIcons",
-      "identifier": "closeRingDuotone"
+      "identifier": "closeRingDuotone",
+      "duotone": true
     },
     "close-ring-duotone-line": {
       "codepoint": 57690,
@@ -1779,7 +1857,8 @@
     "close-round-duotone": {
       "codepoint": 57694,
       "fontFamily": "LetsIcons",
-      "identifier": "closeRoundDuotone"
+      "identifier": "closeRoundDuotone",
+      "duotone": true
     },
     "close-round-duotone-line": {
       "codepoint": 57695,
@@ -1804,7 +1883,8 @@
     "close-square-duotone": {
       "codepoint": 57699,
       "fontFamily": "LetsIcons",
-      "identifier": "closeSquareDuotone"
+      "identifier": "closeSquareDuotone",
+      "duotone": true
     },
     "close-square-duotone-line": {
       "codepoint": 57700,
@@ -1834,7 +1914,8 @@
     "cloud-alt-duotone": {
       "codepoint": 57705,
       "fontFamily": "LetsIcons",
-      "identifier": "cloudAltDuotone"
+      "identifier": "cloudAltDuotone",
+      "duotone": true
     },
     "cloud-alt-fill": {
       "codepoint": 57706,
@@ -1849,7 +1930,8 @@
     "cloud-duotone": {
       "codepoint": 57708,
       "fontFamily": "LetsIcons",
-      "identifier": "cloudDuotone"
+      "identifier": "cloudDuotone",
+      "duotone": true
     },
     "cloud-fill": {
       "codepoint": 57709,
@@ -1919,7 +2001,8 @@
     "comment-duotone": {
       "codepoint": 57722,
       "fontFamily": "LetsIcons",
-      "identifier": "commentDuotone"
+      "identifier": "commentDuotone",
+      "duotone": true
     },
     "comment-duotone-line": {
       "codepoint": 57723,
@@ -1944,7 +2027,8 @@
     "compas-mini-duotone": {
       "codepoint": 57727,
       "fontFamily": "LetsIcons",
-      "identifier": "compasMiniDuotone"
+      "identifier": "compasMiniDuotone",
+      "duotone": true
     },
     "compas-mini-duotone-line": {
       "codepoint": 57728,
@@ -1984,12 +2068,14 @@
     "compass-duotone": {
       "codepoint": 57735,
       "fontFamily": "LetsIcons",
-      "identifier": "compassDuotone"
+      "identifier": "compassDuotone",
+      "duotone": true
     },
     "compass-duotone-line": {
       "codepoint": 57736,
       "fontFamily": "LetsIcons",
-      "identifier": "compassDuotoneLine"
+      "identifier": "compassDuotoneLine",
+      "duotone": true
     },
     "compass-fill": {
       "codepoint": 57737,
@@ -2069,12 +2155,14 @@
     "credit-card-duotone": {
       "codepoint": 57752,
       "fontFamily": "LetsIcons",
-      "identifier": "creditCardDuotone"
+      "identifier": "creditCardDuotone",
+      "duotone": true
     },
     "credit-card-duotone-line": {
       "codepoint": 57753,
       "fontFamily": "LetsIcons",
-      "identifier": "creditCardDuotoneLine"
+      "identifier": "creditCardDuotoneLine",
+      "duotone": true
     },
     "credit-card-fill": {
       "codepoint": 57754,
@@ -2094,12 +2182,14 @@
     "critical-duotone": {
       "codepoint": 57757,
       "fontFamily": "LetsIcons",
-      "identifier": "criticalDuotone"
+      "identifier": "criticalDuotone",
+      "duotone": true
     },
     "critical-duotone-line": {
       "codepoint": 57758,
       "fontFamily": "LetsIcons",
-      "identifier": "criticalDuotoneLine"
+      "identifier": "criticalDuotoneLine",
+      "duotone": true
     },
     "critical-fill": {
       "codepoint": 57759,
@@ -2134,7 +2224,8 @@
     "database-duotone": {
       "codepoint": 57765,
       "fontFamily": "LetsIcons",
-      "identifier": "databaseDuotone"
+      "identifier": "databaseDuotone",
+      "duotone": true
     },
     "database-fill": {
       "codepoint": 57766,
@@ -2159,7 +2250,8 @@
     "date-range-duotone": {
       "codepoint": 57770,
       "fontFamily": "LetsIcons",
-      "identifier": "dateRangeDuotone"
+      "identifier": "dateRangeDuotone",
+      "duotone": true
     },
     "date-range-duotone-line": {
       "codepoint": 57771,
@@ -2184,7 +2276,8 @@
     "date-today-duotone": {
       "codepoint": 57775,
       "fontFamily": "LetsIcons",
-      "identifier": "dateTodayDuotone"
+      "identifier": "dateTodayDuotone",
+      "duotone": true
     },
     "date-today-duotone-line": {
       "codepoint": 57776,
@@ -2204,12 +2297,14 @@
     "del-alt-duotone": {
       "codepoint": 57779,
       "fontFamily": "LetsIcons",
-      "identifier": "delAltDuotone"
+      "identifier": "delAltDuotone",
+      "duotone": true
     },
     "del-alt-duotone-line": {
       "codepoint": 57780,
       "fontFamily": "LetsIcons",
-      "identifier": "delAltDuotoneLine"
+      "identifier": "delAltDuotoneLine",
+      "duotone": true
     },
     "del-alt-fill": {
       "codepoint": 57781,
@@ -2229,7 +2324,8 @@
     "dell-duotone": {
       "codepoint": 57784,
       "fontFamily": "LetsIcons",
-      "identifier": "dellDuotone"
+      "identifier": "dellDuotone",
+      "duotone": true
     },
     "dell-duotone-line": {
       "codepoint": 57785,
@@ -2259,12 +2355,14 @@
     "desk-alt-duotone": {
       "codepoint": 57790,
       "fontFamily": "LetsIcons",
-      "identifier": "deskAltDuotone"
+      "identifier": "deskAltDuotone",
+      "duotone": true
     },
     "desk-alt-duotone-line": {
       "codepoint": 57791,
       "fontFamily": "LetsIcons",
-      "identifier": "deskAltDuotoneLine"
+      "identifier": "deskAltDuotoneLine",
+      "duotone": true
     },
     "desk-alt-fill": {
       "codepoint": 57792,
@@ -2279,12 +2377,14 @@
     "desk-duotone": {
       "codepoint": 57794,
       "fontFamily": "LetsIcons",
-      "identifier": "deskDuotone"
+      "identifier": "deskDuotone",
+      "duotone": true
     },
     "desk-duotone-line": {
       "codepoint": 57795,
       "fontFamily": "LetsIcons",
-      "identifier": "deskDuotoneLine"
+      "identifier": "deskDuotoneLine",
+      "duotone": true
     },
     "desk-fill": {
       "codepoint": 57796,
@@ -2319,7 +2419,8 @@
     "dimond-alt-duotone": {
       "codepoint": 57802,
       "fontFamily": "LetsIcons",
-      "identifier": "dimondAltDuotone"
+      "identifier": "dimondAltDuotone",
+      "duotone": true
     },
     "dimond-alt-fill": {
       "codepoint": 57803,
@@ -2364,7 +2465,8 @@
     "direction-alt-2-duotone": {
       "codepoint": 57811,
       "fontFamily": "LetsIcons",
-      "identifier": "directionAlt2Duotone"
+      "identifier": "directionAlt2Duotone",
+      "duotone": true
     },
     "direction-alt-2-duotone-line": {
       "codepoint": 57812,
@@ -2389,7 +2491,8 @@
     "direction-alt-3-duotone": {
       "codepoint": 57816,
       "fontFamily": "LetsIcons",
-      "identifier": "directionAlt3Duotone"
+      "identifier": "directionAlt3Duotone",
+      "duotone": true
     },
     "direction-alt-3-duotone-line": {
       "codepoint": 57817,
@@ -2409,7 +2512,8 @@
     "direction-alt-duotone": {
       "codepoint": 57820,
       "fontFamily": "LetsIcons",
-      "identifier": "directionAltDuotone"
+      "identifier": "directionAltDuotone",
+      "duotone": true
     },
     "direction-alt-duotone-line": {
       "codepoint": 57821,
@@ -2429,7 +2533,8 @@
     "direction-duotone": {
       "codepoint": 57824,
       "fontFamily": "LetsIcons",
-      "identifier": "directionDuotone"
+      "identifier": "directionDuotone",
+      "duotone": true
     },
     "direction-duotone-line": {
       "codepoint": 57825,
@@ -2479,12 +2584,14 @@
     "done-all-round-duotone": {
       "codepoint": 57834,
       "fontFamily": "LetsIcons",
-      "identifier": "doneAllRoundDuotone"
+      "identifier": "doneAllRoundDuotone",
+      "duotone": true
     },
     "done-all-round-duotone-line": {
       "codepoint": 57835,
       "fontFamily": "LetsIcons",
-      "identifier": "doneAllRoundDuotoneLine"
+      "identifier": "doneAllRoundDuotoneLine",
+      "duotone": true
     },
     "done-all-round-light": {
       "codepoint": 57836,
@@ -2494,12 +2601,14 @@
     "done-duotone": {
       "codepoint": 57837,
       "fontFamily": "LetsIcons",
-      "identifier": "doneDuotone"
+      "identifier": "doneDuotone",
+      "duotone": true
     },
     "done-duotone-line": {
       "codepoint": 57838,
       "fontFamily": "LetsIcons",
-      "identifier": "doneDuotoneLine"
+      "identifier": "doneDuotoneLine",
+      "duotone": true
     },
     "done-fill": {
       "codepoint": 57839,
@@ -2519,12 +2628,14 @@
     "done-ring-round-duotone": {
       "codepoint": 57842,
       "fontFamily": "LetsIcons",
-      "identifier": "doneRingRoundDuotone"
+      "identifier": "doneRingRoundDuotone",
+      "duotone": true
     },
     "done-ring-round-duotone-line": {
       "codepoint": 57843,
       "fontFamily": "LetsIcons",
-      "identifier": "doneRingRoundDuotoneLine"
+      "identifier": "doneRingRoundDuotoneLine",
+      "duotone": true
     },
     "done-ring-round-fill": {
       "codepoint": 57844,
@@ -2544,12 +2655,14 @@
     "done-round-duotone": {
       "codepoint": 57847,
       "fontFamily": "LetsIcons",
-      "identifier": "doneRoundDuotone"
+      "identifier": "doneRoundDuotone",
+      "duotone": true
     },
     "done-round-duotone-line": {
       "codepoint": 57848,
       "fontFamily": "LetsIcons",
-      "identifier": "doneRoundDuotoneLine"
+      "identifier": "doneRoundDuotoneLine",
+      "duotone": true
     },
     "done-round-fill": {
       "codepoint": 57849,
@@ -2594,7 +2707,8 @@
     "download-circle-duotone": {
       "codepoint": 57857,
       "fontFamily": "LetsIcons",
-      "identifier": "downloadCircleDuotone"
+      "identifier": "downloadCircleDuotone",
+      "duotone": true
     },
     "download-circle-duotone-line": {
       "codepoint": 57858,
@@ -2614,7 +2728,8 @@
     "download-duotone": {
       "codepoint": 57861,
       "fontFamily": "LetsIcons",
-      "identifier": "downloadDuotone"
+      "identifier": "downloadDuotone",
+      "duotone": true
     },
     "download-duotone-line": {
       "codepoint": 57862,
@@ -2664,7 +2779,8 @@
     "edit-duotone": {
       "codepoint": 57871,
       "fontFamily": "LetsIcons",
-      "identifier": "editDuotone"
+      "identifier": "editDuotone",
+      "duotone": true
     },
     "edit-duotone-line": {
       "codepoint": 57872,
@@ -2809,12 +2925,14 @@
     "export-duotone": {
       "codepoint": 57900,
       "fontFamily": "LetsIcons",
-      "identifier": "exportDuotone"
+      "identifier": "exportDuotone",
+      "duotone": true
     },
     "export-duotone-line": {
       "codepoint": 57901,
       "fontFamily": "LetsIcons",
-      "identifier": "exportDuotoneLine"
+      "identifier": "exportDuotoneLine",
+      "duotone": true
     },
     "export-fill": {
       "codepoint": 57902,
@@ -2839,7 +2957,8 @@
     "eye-duotone": {
       "codepoint": 57906,
       "fontFamily": "LetsIcons",
-      "identifier": "eyeDuotone"
+      "identifier": "eyeDuotone",
+      "duotone": true
     },
     "eye-fill": {
       "codepoint": 57907,
@@ -2889,7 +3008,8 @@
     "favorites-duotone": {
       "codepoint": 57916,
       "fontFamily": "LetsIcons",
-      "identifier": "favoritesDuotone"
+      "identifier": "favoritesDuotone",
+      "duotone": true
     },
     "favorites-duotone-line": {
       "codepoint": 57917,
@@ -2929,12 +3049,14 @@
     "file-dock-duotone": {
       "codepoint": 57924,
       "fontFamily": "LetsIcons",
-      "identifier": "fileDockDuotone"
+      "identifier": "fileDockDuotone",
+      "duotone": true
     },
     "file-dock-duotone-line": {
       "codepoint": 57925,
       "fontFamily": "LetsIcons",
-      "identifier": "fileDockDuotoneLine"
+      "identifier": "fileDockDuotoneLine",
+      "duotone": true
     },
     "file-dock-fill": {
       "codepoint": 57926,
@@ -2959,12 +3081,14 @@
     "file-duotone": {
       "codepoint": 57930,
       "fontFamily": "LetsIcons",
-      "identifier": "fileDuotone"
+      "identifier": "fileDuotone",
+      "duotone": true
     },
     "file-duotone-line": {
       "codepoint": 57931,
       "fontFamily": "LetsIcons",
-      "identifier": "fileDuotoneLine"
+      "identifier": "fileDuotoneLine",
+      "duotone": true
     },
     "file-fill": {
       "codepoint": 57932,
@@ -2989,12 +3113,14 @@
     "filter-alt-duotone": {
       "codepoint": 57936,
       "fontFamily": "LetsIcons",
-      "identifier": "filterAltDuotone"
+      "identifier": "filterAltDuotone",
+      "duotone": true
     },
     "filter-alt-duotone-line": {
       "codepoint": 57937,
       "fontFamily": "LetsIcons",
-      "identifier": "filterAltDuotoneLine"
+      "identifier": "filterAltDuotoneLine",
+      "duotone": true
     },
     "filter-alt-fill": {
       "codepoint": 57938,
@@ -3034,12 +3160,14 @@
     "fire-duotone-fill": {
       "codepoint": 57945,
       "fontFamily": "LetsIcons",
-      "identifier": "fireDuotoneFill"
+      "identifier": "fireDuotoneFill",
+      "duotone": true
     },
     "fire-duotone-line": {
       "codepoint": 57946,
       "fontFamily": "LetsIcons",
-      "identifier": "fireDuotoneLine"
+      "identifier": "fireDuotoneLine",
+      "duotone": true
     },
     "fire-fill": {
       "codepoint": 57947,
@@ -3064,7 +3192,8 @@
     "flag-alt-duotone": {
       "codepoint": 57951,
       "fontFamily": "LetsIcons",
-      "identifier": "flagAltDuotone"
+      "identifier": "flagAltDuotone",
+      "duotone": true
     },
     "flag-alt-fill": {
       "codepoint": 57952,
@@ -3079,7 +3208,8 @@
     "flag-duotone": {
       "codepoint": 57954,
       "fontFamily": "LetsIcons",
-      "identifier": "flagDuotone"
+      "identifier": "flagDuotone",
+      "duotone": true
     },
     "flag-fill": {
       "codepoint": 57955,
@@ -3104,7 +3234,8 @@
     "flag-finish-duotone": {
       "codepoint": 57959,
       "fontFamily": "LetsIcons",
-      "identifier": "flagFinishDuotone"
+      "identifier": "flagFinishDuotone",
+      "duotone": true
     },
     "flag-finish-fill": {
       "codepoint": 57960,
@@ -3174,7 +3305,8 @@
     "folder-add-duotone-fill": {
       "codepoint": 57973,
       "fontFamily": "LetsIcons",
-      "identifier": "folderAddDuotoneFill"
+      "identifier": "folderAddDuotoneFill",
+      "duotone": true
     },
     "folder-add-duotone-line": {
       "codepoint": 57974,
@@ -3199,12 +3331,14 @@
     "folder-alt-duotone": {
       "codepoint": 57978,
       "fontFamily": "LetsIcons",
-      "identifier": "folderAltDuotone"
+      "identifier": "folderAltDuotone",
+      "duotone": true
     },
     "folder-alt-duotone-fill": {
       "codepoint": 57979,
       "fontFamily": "LetsIcons",
-      "identifier": "folderAltDuotoneFill"
+      "identifier": "folderAltDuotoneFill",
+      "duotone": true
     },
     "folder-alt-fill": {
       "codepoint": 57980,
@@ -3224,7 +3358,8 @@
     "folder-check-duotone": {
       "codepoint": 57983,
       "fontFamily": "LetsIcons",
-      "identifier": "folderCheckDuotone"
+      "identifier": "folderCheckDuotone",
+      "duotone": true
     },
     "folder-check-duotone-line": {
       "codepoint": 57984,
@@ -3274,7 +3409,8 @@
     "folder-del-duotone-fill": {
       "codepoint": 57993,
       "fontFamily": "LetsIcons",
-      "identifier": "folderDelDuotoneFill"
+      "identifier": "folderDelDuotoneFill",
+      "duotone": true
     },
     "folder-del-duotone-line": {
       "codepoint": 57994,
@@ -3299,7 +3435,8 @@
     "folder-dublicate-duotone": {
       "codepoint": 57998,
       "fontFamily": "LetsIcons",
-      "identifier": "folderDublicateDuotone"
+      "identifier": "folderDublicateDuotone",
+      "duotone": true
     },
     "folder-dublicate-duotone-line": {
       "codepoint": 57999,
@@ -3319,7 +3456,8 @@
     "folder-duotone-fill": {
       "codepoint": 58002,
       "fontFamily": "LetsIcons",
-      "identifier": "folderDuotoneFill"
+      "identifier": "folderDuotoneFill",
+      "duotone": true
     },
     "folder-duotone-line": {
       "codepoint": 58003,
@@ -3339,7 +3477,8 @@
     "folder-file-alt-duotone-fill": {
       "codepoint": 58006,
       "fontFamily": "LetsIcons",
-      "identifier": "folderFileAltDuotoneFill"
+      "identifier": "folderFileAltDuotoneFill",
+      "duotone": true
     },
     "folder-file-alt-duotone-line": {
       "codepoint": 58007,
@@ -3359,7 +3498,8 @@
     "folder-file-duotone-fill": {
       "codepoint": 58010,
       "fontFamily": "LetsIcons",
-      "identifier": "folderFileDuotoneFill"
+      "identifier": "folderFileDuotoneFill",
+      "duotone": true
     },
     "folder-file-duotone-line": {
       "codepoint": 58011,
@@ -3389,7 +3529,8 @@
     "folder-line-duotone": {
       "codepoint": 58016,
       "fontFamily": "LetsIcons",
-      "identifier": "folderLineDuotone"
+      "identifier": "folderLineDuotone",
+      "duotone": true
     },
     "folder-line-duotone-line": {
       "codepoint": 58017,
@@ -3434,7 +3575,8 @@
     "folder-search-duotone": {
       "codepoint": 58025,
       "fontFamily": "LetsIcons",
-      "identifier": "folderSearchDuotone"
+      "identifier": "folderSearchDuotone",
+      "duotone": true
     },
     "folder-search-duotone-line": {
       "codepoint": 58026,
@@ -3459,7 +3601,8 @@
     "folder-send-duotone": {
       "codepoint": 58030,
       "fontFamily": "LetsIcons",
-      "identifier": "folderSendDuotone"
+      "identifier": "folderSendDuotone",
+      "duotone": true
     },
     "folder-send-duotone-line": {
       "codepoint": 58031,
@@ -3484,7 +3627,8 @@
     "folder-up-duotone": {
       "codepoint": 58035,
       "fontFamily": "LetsIcons",
-      "identifier": "folderUpDuotone"
+      "identifier": "folderUpDuotone",
+      "duotone": true
     },
     "folder-up-duotone-line": {
       "codepoint": 58036,
@@ -3539,12 +3683,14 @@
     "form-duotone": {
       "codepoint": 58046,
       "fontFamily": "LetsIcons",
-      "identifier": "formDuotone"
+      "identifier": "formDuotone",
+      "duotone": true
     },
     "form-duotone-line": {
       "codepoint": 58047,
       "fontFamily": "LetsIcons",
-      "identifier": "formDuotoneLine"
+      "identifier": "formDuotoneLine",
+      "duotone": true
     },
     "form-fill": {
       "codepoint": 58048,
@@ -3634,12 +3780,14 @@
     "gift-light-duotone": {
       "codepoint": 58065,
       "fontFamily": "LetsIcons",
-      "identifier": "giftLightDuotone"
+      "identifier": "giftLightDuotone",
+      "duotone": true
     },
     "gift-light-duotone-line": {
       "codepoint": 58066,
       "fontFamily": "LetsIcons",
-      "identifier": "giftLightDuotoneLine"
+      "identifier": "giftLightDuotoneLine",
+      "duotone": true
     },
     "glasses": {
       "codepoint": 58067,
@@ -3669,12 +3817,14 @@
     "gps-fixed-duotone": {
       "codepoint": 58072,
       "fontFamily": "LetsIcons",
-      "identifier": "gpsFixedDuotone"
+      "identifier": "gpsFixedDuotone",
+      "duotone": true
     },
     "gps-fixed-duotone-line": {
       "codepoint": 58073,
       "fontFamily": "LetsIcons",
-      "identifier": "gpsFixedDuotoneLine"
+      "identifier": "gpsFixedDuotoneLine",
+      "duotone": true
     },
     "gps-fixed-fill": {
       "codepoint": 58074,
@@ -3754,7 +3904,8 @@
     "headphones-fill-duotone": {
       "codepoint": 58089,
       "fontFamily": "LetsIcons",
-      "identifier": "headphonesFillDuotone"
+      "identifier": "headphonesFillDuotone",
+      "duotone": true
     },
     "headphones-fill-light": {
       "codepoint": 58090,
@@ -3774,12 +3925,14 @@
     "hide-eye-duotone": {
       "codepoint": 58093,
       "fontFamily": "LetsIcons",
-      "identifier": "hideEyeDuotone"
+      "identifier": "hideEyeDuotone",
+      "duotone": true
     },
     "hide-eye-duotone-line": {
       "codepoint": 58094,
       "fontFamily": "LetsIcons",
-      "identifier": "hideEyeDuotoneLine"
+      "identifier": "hideEyeDuotoneLine",
+      "duotone": true
     },
     "hide-eye-fill": {
       "codepoint": 58095,
@@ -3799,7 +3952,8 @@
     "home-duotone": {
       "codepoint": 58098,
       "fontFamily": "LetsIcons",
-      "identifier": "homeDuotone"
+      "identifier": "homeDuotone",
+      "duotone": true
     },
     "home-duotone-line": {
       "codepoint": 58099,
@@ -3914,7 +4068,8 @@
     "img-box-duotone": {
       "codepoint": 58121,
       "fontFamily": "LetsIcons",
-      "identifier": "imgBoxDuotone"
+      "identifier": "imgBoxDuotone",
+      "duotone": true
     },
     "img-box-fill": {
       "codepoint": 58122,
@@ -3934,7 +4089,8 @@
     "img-duotone-line": {
       "codepoint": 58125,
       "fontFamily": "LetsIcons",
-      "identifier": "imgDuotoneLine"
+      "identifier": "imgDuotoneLine",
+      "duotone": true
     },
     "img-fill": {
       "codepoint": 58126,
@@ -4004,12 +4160,14 @@
     "img-rol-duotone": {
       "codepoint": 58139,
       "fontFamily": "LetsIcons",
-      "identifier": "imgRolDuotone"
+      "identifier": "imgRolDuotone",
+      "duotone": true
     },
     "img-rol-duotone-line": {
       "codepoint": 58140,
       "fontFamily": "LetsIcons",
-      "identifier": "imgRolDuotoneLine"
+      "identifier": "imgRolDuotoneLine",
+      "duotone": true
     },
     "img-rol-fill": {
       "codepoint": 58141,
@@ -4029,12 +4187,14 @@
     "import-duotone": {
       "codepoint": 58144,
       "fontFamily": "LetsIcons",
-      "identifier": "importDuotone"
+      "identifier": "importDuotone",
+      "duotone": true
     },
     "import-duotone-line": {
       "codepoint": 58145,
       "fontFamily": "LetsIcons",
-      "identifier": "importDuotoneLine"
+      "identifier": "importDuotoneLine",
+      "duotone": true
     },
     "import-fill": {
       "codepoint": 58146,
@@ -4069,7 +4229,8 @@
     "info-alt-duotone": {
       "codepoint": 58152,
       "fontFamily": "LetsIcons",
-      "identifier": "infoAltDuotone"
+      "identifier": "infoAltDuotone",
+      "duotone": true
     },
     "info-alt-duotone-line": {
       "codepoint": 58153,
@@ -4089,12 +4250,14 @@
     "info-duotone": {
       "codepoint": 58156,
       "fontFamily": "LetsIcons",
-      "identifier": "infoDuotone"
+      "identifier": "infoDuotone",
+      "duotone": true
     },
     "info-duotone-line": {
       "codepoint": 58157,
       "fontFamily": "LetsIcons",
-      "identifier": "infoDuotoneLine"
+      "identifier": "infoDuotoneLine",
+      "duotone": true
     },
     "info-fill": {
       "codepoint": 58158,
@@ -4114,12 +4277,14 @@
     "insta-duotone": {
       "codepoint": 58161,
       "fontFamily": "LetsIcons",
-      "identifier": "instaDuotone"
+      "identifier": "instaDuotone",
+      "duotone": true
     },
     "insta-duotone-line": {
       "codepoint": 58162,
       "fontFamily": "LetsIcons",
-      "identifier": "instaDuotoneLine"
+      "identifier": "instaDuotoneLine",
+      "duotone": true
     },
     "insta-fill": {
       "codepoint": 58163,
@@ -4139,7 +4304,8 @@
     "ito-duotone": {
       "codepoint": 58166,
       "fontFamily": "LetsIcons",
-      "identifier": "itoDuotone"
+      "identifier": "itoDuotone",
+      "duotone": true
     },
     "ito-fill": {
       "codepoint": 58167,
@@ -4169,7 +4335,8 @@
     "jump-time-duotone": {
       "codepoint": 58172,
       "fontFamily": "LetsIcons",
-      "identifier": "jumpTimeDuotone"
+      "identifier": "jumpTimeDuotone",
+      "duotone": true
     },
     "jump-time-duotone-line": {
       "codepoint": 58173,
@@ -4194,7 +4361,8 @@
     "key-alt-duotone": {
       "codepoint": 58177,
       "fontFamily": "LetsIcons",
-      "identifier": "keyAltDuotone"
+      "identifier": "keyAltDuotone",
+      "duotone": true
     },
     "key-alt-duotone-line": {
       "codepoint": 58178,
@@ -4214,12 +4382,14 @@
     "key-duotone": {
       "codepoint": 58181,
       "fontFamily": "LetsIcons",
-      "identifier": "keyDuotone"
+      "identifier": "keyDuotone",
+      "duotone": true
     },
     "key-duotone-line": {
       "codepoint": 58182,
       "fontFamily": "LetsIcons",
-      "identifier": "keyDuotoneLine"
+      "identifier": "keyDuotoneLine",
+      "duotone": true
     },
     "key-fill": {
       "codepoint": 58183,
@@ -4249,7 +4419,8 @@
     "lable-duotone": {
       "codepoint": 58188,
       "fontFamily": "LetsIcons",
-      "identifier": "lableDuotone"
+      "identifier": "lableDuotone",
+      "duotone": true
     },
     "lable-fill": {
       "codepoint": 58189,
@@ -4289,7 +4460,8 @@
     "layers-duotone": {
       "codepoint": 58196,
       "fontFamily": "LetsIcons",
-      "identifier": "layersDuotone"
+      "identifier": "layersDuotone",
+      "duotone": true
     },
     "layers-fill": {
       "codepoint": 58197,
@@ -4359,12 +4531,14 @@
     "lightning-ring-duotone": {
       "codepoint": 58210,
       "fontFamily": "LetsIcons",
-      "identifier": "lightningRingDuotone"
+      "identifier": "lightningRingDuotone",
+      "duotone": true
     },
     "lightning-ring-duotone-line": {
       "codepoint": 58211,
       "fontFamily": "LetsIcons",
-      "identifier": "lightningRingDuotoneLine"
+      "identifier": "lightningRingDuotoneLine",
+      "duotone": true
     },
     "lightning-ring-light": {
       "codepoint": 58212,
@@ -4384,7 +4558,8 @@
     "line-duotone": {
       "codepoint": 58215,
       "fontFamily": "LetsIcons",
-      "identifier": "lineDuotone"
+      "identifier": "lineDuotone",
+      "duotone": true
     },
     "line-fill": {
       "codepoint": 58216,
@@ -4474,7 +4649,8 @@
     "load-circle-duotone": {
       "codepoint": 58233,
       "fontFamily": "LetsIcons",
-      "identifier": "loadCircleDuotone"
+      "identifier": "loadCircleDuotone",
+      "duotone": true
     },
     "load-circle-duotone-line": {
       "codepoint": 58234,
@@ -4529,12 +4705,14 @@
     "lock-alt-duotone": {
       "codepoint": 58244,
       "fontFamily": "LetsIcons",
-      "identifier": "lockAltDuotone"
+      "identifier": "lockAltDuotone",
+      "duotone": true
     },
     "lock-alt-duotone-line": {
       "codepoint": 58245,
       "fontFamily": "LetsIcons",
-      "identifier": "lockAltDuotoneLine"
+      "identifier": "lockAltDuotoneLine",
+      "duotone": true
     },
     "lock-alt-fill": {
       "codepoint": 58246,
@@ -4549,12 +4727,14 @@
     "lock-duotone": {
       "codepoint": 58248,
       "fontFamily": "LetsIcons",
-      "identifier": "lockDuotone"
+      "identifier": "lockDuotone",
+      "duotone": true
     },
     "lock-duotone-line": {
       "codepoint": 58249,
       "fontFamily": "LetsIcons",
-      "identifier": "lockDuotoneLine"
+      "identifier": "lockDuotoneLine",
+      "duotone": true
     },
     "lock-fill": {
       "codepoint": 58250,
@@ -4584,7 +4764,8 @@
     "map-duotone": {
       "codepoint": 58255,
       "fontFamily": "LetsIcons",
-      "identifier": "mapDuotone"
+      "identifier": "mapDuotone",
+      "duotone": true
     },
     "map-duotone-line": {
       "codepoint": 58256,
@@ -4644,12 +4825,14 @@
     "message-alt-duotone": {
       "codepoint": 58267,
       "fontFamily": "LetsIcons",
-      "identifier": "messageAltDuotone"
+      "identifier": "messageAltDuotone",
+      "duotone": true
     },
     "message-alt-duotone-line": {
       "codepoint": 58268,
       "fontFamily": "LetsIcons",
-      "identifier": "messageAltDuotoneLine"
+      "identifier": "messageAltDuotoneLine",
+      "duotone": true
     },
     "message-alt-fill": {
       "codepoint": 58269,
@@ -4664,7 +4847,8 @@
     "message-duotone": {
       "codepoint": 58271,
       "fontFamily": "LetsIcons",
-      "identifier": "messageDuotone"
+      "identifier": "messageDuotone",
+      "duotone": true
     },
     "message-duotone-line": {
       "codepoint": 58272,
@@ -4689,12 +4873,14 @@
     "message-open-duotone": {
       "codepoint": 58276,
       "fontFamily": "LetsIcons",
-      "identifier": "messageOpenDuotone"
+      "identifier": "messageOpenDuotone",
+      "duotone": true
     },
     "message-open-duotone-line": {
       "codepoint": 58277,
       "fontFamily": "LetsIcons",
-      "identifier": "messageOpenDuotoneLine"
+      "identifier": "messageOpenDuotoneLine",
+      "duotone": true
     },
     "message-open-fill": {
       "codepoint": 58278,
@@ -4719,7 +4905,8 @@
     "mic-alt-duotone": {
       "codepoint": 58282,
       "fontFamily": "LetsIcons",
-      "identifier": "micAltDuotone"
+      "identifier": "micAltDuotone",
+      "duotone": true
     },
     "mic-alt-fill": {
       "codepoint": 58283,
@@ -4734,7 +4921,8 @@
     "mic-duotone": {
       "codepoint": 58285,
       "fontFamily": "LetsIcons",
-      "identifier": "micDuotone"
+      "identifier": "micDuotone",
+      "duotone": true
     },
     "mic-fill": {
       "codepoint": 58286,
@@ -4774,12 +4962,14 @@
     "money-duotone": {
       "codepoint": 58293,
       "fontFamily": "LetsIcons",
-      "identifier": "moneyDuotone"
+      "identifier": "moneyDuotone",
+      "duotone": true
     },
     "money-duotone-line": {
       "codepoint": 58294,
       "fontFamily": "LetsIcons",
-      "identifier": "moneyDuotoneLine"
+      "identifier": "moneyDuotoneLine",
+      "duotone": true
     },
     "money-fill": {
       "codepoint": 58295,
@@ -4804,7 +4994,8 @@
     "moon-alt-duotone": {
       "codepoint": 58299,
       "fontFamily": "LetsIcons",
-      "identifier": "moonAltDuotone"
+      "identifier": "moonAltDuotone",
+      "duotone": true
     },
     "moon-alt-fill": {
       "codepoint": 58300,
@@ -4819,7 +5010,8 @@
     "moon-duotone": {
       "codepoint": 58302,
       "fontFamily": "LetsIcons",
-      "identifier": "moonDuotone"
+      "identifier": "moonDuotone",
+      "duotone": true
     },
     "moon-fill": {
       "codepoint": 58303,
@@ -4904,7 +5096,8 @@
     "music-duotone": {
       "codepoint": 58319,
       "fontFamily": "LetsIcons",
-      "identifier": "musicDuotone"
+      "identifier": "musicDuotone",
+      "duotone": true
     },
     "music-fill": {
       "codepoint": 58320,
@@ -4924,7 +5117,8 @@
     "navigate-duotone": {
       "codepoint": 58323,
       "fontFamily": "LetsIcons",
-      "identifier": "navigateDuotone"
+      "identifier": "navigateDuotone",
+      "duotone": true
     },
     "navigate-duotone-line": {
       "codepoint": 58324,
@@ -4949,7 +5143,8 @@
     "nesting-duotone": {
       "codepoint": 58328,
       "fontFamily": "LetsIcons",
-      "identifier": "nestingDuotone"
+      "identifier": "nestingDuotone",
+      "duotone": true
     },
     "nesting-fill": {
       "codepoint": 58329,
@@ -4969,12 +5164,14 @@
     "news-duotone": {
       "codepoint": 58332,
       "fontFamily": "LetsIcons",
-      "identifier": "newsDuotone"
+      "identifier": "newsDuotone",
+      "duotone": true
     },
     "news-duotone-line": {
       "codepoint": 58333,
       "fontFamily": "LetsIcons",
-      "identifier": "newsDuotoneLine"
+      "identifier": "newsDuotoneLine",
+      "duotone": true
     },
     "news-fill": {
       "codepoint": 58334,
@@ -5019,12 +5216,14 @@
     "notebook-duotone": {
       "codepoint": 58342,
       "fontFamily": "LetsIcons",
-      "identifier": "notebookDuotone"
+      "identifier": "notebookDuotone",
+      "duotone": true
     },
     "notebook-duotone-line": {
       "codepoint": 58343,
       "fontFamily": "LetsIcons",
-      "identifier": "notebookDuotoneLine"
+      "identifier": "notebookDuotoneLine",
+      "duotone": true
     },
     "notebook-fill": {
       "codepoint": 58344,
@@ -5069,12 +5268,14 @@
     "on-button-duotone": {
       "codepoint": 58352,
       "fontFamily": "LetsIcons",
-      "identifier": "onButtonDuotone"
+      "identifier": "onButtonDuotone",
+      "duotone": true
     },
     "on-button-duotone-line": {
       "codepoint": 58353,
       "fontFamily": "LetsIcons",
-      "identifier": "onButtonDuotoneLine"
+      "identifier": "onButtonDuotoneLine",
+      "duotone": true
     },
     "on-button-fill": {
       "codepoint": 58354,
@@ -5104,12 +5305,14 @@
     "order-duotone": {
       "codepoint": 58359,
       "fontFamily": "LetsIcons",
-      "identifier": "orderDuotone"
+      "identifier": "orderDuotone",
+      "duotone": true
     },
     "order-duotone-line": {
       "codepoint": 58360,
       "fontFamily": "LetsIcons",
-      "identifier": "orderDuotoneLine"
+      "identifier": "orderDuotoneLine",
+      "duotone": true
     },
     "order-fill": {
       "codepoint": 58361,
@@ -5189,12 +5392,14 @@
     "paper-duotone": {
       "codepoint": 58376,
       "fontFamily": "LetsIcons",
-      "identifier": "paperDuotone"
+      "identifier": "paperDuotone",
+      "duotone": true
     },
     "paper-duotone-line": {
       "codepoint": 58377,
       "fontFamily": "LetsIcons",
-      "identifier": "paperDuotoneLine"
+      "identifier": "paperDuotoneLine",
+      "duotone": true
     },
     "paper-fill": {
       "codepoint": 58378,
@@ -5239,7 +5444,8 @@
     "phone-duotone": {
       "codepoint": 58386,
       "fontFamily": "LetsIcons",
-      "identifier": "phoneDuotone"
+      "identifier": "phoneDuotone",
+      "duotone": true
     },
     "phone-duotone-line": {
       "codepoint": 58387,
@@ -5309,7 +5515,8 @@
     "pin-alt-duotone-line": {
       "codepoint": 58400,
       "fontFamily": "LetsIcons",
-      "identifier": "pinAltDuotoneLine"
+      "identifier": "pinAltDuotoneLine",
+      "duotone": true
     },
     "pin-alt-fill": {
       "codepoint": 58401,
@@ -5324,12 +5531,14 @@
     "pin-duotone": {
       "codepoint": 58403,
       "fontFamily": "LetsIcons",
-      "identifier": "pinDuotone"
+      "identifier": "pinDuotone",
+      "duotone": true
     },
     "pin-duotone-line": {
       "codepoint": 58404,
       "fontFamily": "LetsIcons",
-      "identifier": "pinDuotoneLine"
+      "identifier": "pinDuotoneLine",
+      "duotone": true
     },
     "pin-fill": {
       "codepoint": 58405,
@@ -5349,7 +5558,8 @@
     "pined-duotone": {
       "codepoint": 58408,
       "fontFamily": "LetsIcons",
-      "identifier": "pinedDuotone"
+      "identifier": "pinedDuotone",
+      "duotone": true
     },
     "pined-fill": {
       "codepoint": 58409,
@@ -5369,12 +5579,14 @@
     "pipe-duotone": {
       "codepoint": 58412,
       "fontFamily": "LetsIcons",
-      "identifier": "pipeDuotone"
+      "identifier": "pipeDuotone",
+      "duotone": true
     },
     "pipe-duotone-line": {
       "codepoint": 58413,
       "fontFamily": "LetsIcons",
-      "identifier": "pipeDuotoneLine"
+      "identifier": "pipeDuotoneLine",
+      "duotone": true
     },
     "pipe-fill": {
       "codepoint": 58414,
@@ -5459,12 +5671,14 @@
     "print-duotone": {
       "codepoint": 58430,
       "fontFamily": "LetsIcons",
-      "identifier": "printDuotone"
+      "identifier": "printDuotone",
+      "duotone": true
     },
     "print-duotone-line": {
       "codepoint": 58431,
       "fontFamily": "LetsIcons",
-      "identifier": "printDuotoneLine"
+      "identifier": "printDuotoneLine",
+      "duotone": true
     },
     "print-fill": {
       "codepoint": 58432,
@@ -5484,7 +5698,8 @@
     "progress-duotone": {
       "codepoint": 58435,
       "fontFamily": "LetsIcons",
-      "identifier": "progressDuotone"
+      "identifier": "progressDuotone",
+      "duotone": true
     },
     "progress-duotone-line": {
       "codepoint": 58436,
@@ -5524,12 +5739,14 @@
     "question-duotone": {
       "codepoint": 58443,
       "fontFamily": "LetsIcons",
-      "identifier": "questionDuotone"
+      "identifier": "questionDuotone",
+      "duotone": true
     },
     "question-duotone-line": {
       "codepoint": 58444,
       "fontFamily": "LetsIcons",
-      "identifier": "questionDuotoneLine"
+      "identifier": "questionDuotoneLine",
+      "duotone": true
     },
     "question-fill": {
       "codepoint": 58445,
@@ -5549,7 +5766,8 @@
     "rain-duotone": {
       "codepoint": 58448,
       "fontFamily": "LetsIcons",
-      "identifier": "rainDuotone"
+      "identifier": "rainDuotone",
+      "duotone": true
     },
     "rain-fill": {
       "codepoint": 58449,
@@ -5659,7 +5877,8 @@
     "remove-duotone": {
       "codepoint": 58470,
       "fontFamily": "LetsIcons",
-      "identifier": "removeDuotone"
+      "identifier": "removeDuotone",
+      "duotone": true
     },
     "remove-duotone-line": {
       "codepoint": 58471,
@@ -5774,12 +5993,14 @@
     "road-finish-duotone": {
       "codepoint": 58493,
       "fontFamily": "LetsIcons",
-      "identifier": "roadFinishDuotone"
+      "identifier": "roadFinishDuotone",
+      "duotone": true
     },
     "road-finish-duotone-line": {
       "codepoint": 58494,
       "fontFamily": "LetsIcons",
-      "identifier": "roadFinishDuotoneLine"
+      "identifier": "roadFinishDuotoneLine",
+      "duotone": true
     },
     "road-finish-fill": {
       "codepoint": 58495,
@@ -5799,7 +6020,8 @@
     "roda-duotone-line": {
       "codepoint": 58498,
       "fontFamily": "LetsIcons",
-      "identifier": "rodaDuotoneLine"
+      "identifier": "rodaDuotoneLine",
+      "duotone": true
     },
     "rofl": {
       "codepoint": 58499,
@@ -5879,7 +6101,8 @@
     "save-duotone": {
       "codepoint": 58514,
       "fontFamily": "LetsIcons",
-      "identifier": "saveDuotone"
+      "identifier": "saveDuotone",
+      "duotone": true
     },
     "save-fill": {
       "codepoint": 58515,
@@ -5934,12 +6157,14 @@
     "search-alt-duotone": {
       "codepoint": 58525,
       "fontFamily": "LetsIcons",
-      "identifier": "searchAltDuotone"
+      "identifier": "searchAltDuotone",
+      "duotone": true
     },
     "search-alt-duotone-line": {
       "codepoint": 58526,
       "fontFamily": "LetsIcons",
-      "identifier": "searchAltDuotoneLine"
+      "identifier": "searchAltDuotoneLine",
+      "duotone": true
     },
     "search-alt-fill": {
       "codepoint": 58527,
@@ -5954,12 +6179,14 @@
     "search-duotone": {
       "codepoint": 58529,
       "fontFamily": "LetsIcons",
-      "identifier": "searchDuotone"
+      "identifier": "searchDuotone",
+      "duotone": true
     },
     "search-duotone-line": {
       "codepoint": 58530,
       "fontFamily": "LetsIcons",
-      "identifier": "searchDuotoneLine"
+      "identifier": "searchDuotoneLine",
+      "duotone": true
     },
     "search-fill": {
       "codepoint": 58531,
@@ -5999,7 +6226,8 @@
     "send-hor-duotone": {
       "codepoint": 58538,
       "fontFamily": "LetsIcons",
-      "identifier": "sendHorDuotone"
+      "identifier": "sendHorDuotone",
+      "duotone": true
     },
     "send-hor-duotone-line": {
       "codepoint": 58539,
@@ -6039,7 +6267,8 @@
     "server-duotone": {
       "codepoint": 58546,
       "fontFamily": "LetsIcons",
-      "identifier": "serverDuotone"
+      "identifier": "serverDuotone",
+      "duotone": true
     },
     "server-fill": {
       "codepoint": 58547,
@@ -6064,12 +6293,14 @@
     "setting-alt-line-duotone": {
       "codepoint": 58551,
       "fontFamily": "LetsIcons",
-      "identifier": "settingAltLineDuotone"
+      "identifier": "settingAltLineDuotone",
+      "duotone": true
     },
     "setting-alt-line-duotone-line": {
       "codepoint": 58552,
       "fontFamily": "LetsIcons",
-      "identifier": "settingAltLineDuotoneLine"
+      "identifier": "settingAltLineDuotoneLine",
+      "duotone": true
     },
     "setting-alt-line-light": {
       "codepoint": 58553,
@@ -6089,12 +6320,14 @@
     "setting-line-duotone": {
       "codepoint": 58556,
       "fontFamily": "LetsIcons",
-      "identifier": "settingLineDuotone"
+      "identifier": "settingLineDuotone",
+      "duotone": true
     },
     "setting-line-duotone-line": {
       "codepoint": 58557,
       "fontFamily": "LetsIcons",
-      "identifier": "settingLineDuotoneLine"
+      "identifier": "settingLineDuotoneLine",
+      "duotone": true
     },
     "setting-line-light": {
       "codepoint": 58558,
@@ -6114,7 +6347,8 @@
     "shop-duotone": {
       "codepoint": 58561,
       "fontFamily": "LetsIcons",
-      "identifier": "shopDuotone"
+      "identifier": "shopDuotone",
+      "duotone": true
     },
     "shop-duotone-line": {
       "codepoint": 58562,
@@ -6139,7 +6373,8 @@
     "sign-in-circle-duotone": {
       "codepoint": 58566,
       "fontFamily": "LetsIcons",
-      "identifier": "signInCircleDuotone"
+      "identifier": "signInCircleDuotone",
+      "duotone": true
     },
     "sign-in-circle-duotone-line": {
       "codepoint": 58567,
@@ -6159,7 +6394,8 @@
     "sign-in-squre-duotone": {
       "codepoint": 58570,
       "fontFamily": "LetsIcons",
-      "identifier": "signInSqureDuotone"
+      "identifier": "signInSqureDuotone",
+      "duotone": true
     },
     "sign-in-squre-duotone-line": {
       "codepoint": 58571,
@@ -6189,7 +6425,8 @@
     "sign-out-circle-duotone": {
       "codepoint": 58576,
       "fontFamily": "LetsIcons",
-      "identifier": "signOutCircleDuotone"
+      "identifier": "signOutCircleDuotone",
+      "duotone": true
     },
     "sign-out-circle-duotone-line": {
       "codepoint": 58577,
@@ -6209,12 +6446,14 @@
     "sign-out-squre-duotone": {
       "codepoint": 58580,
       "fontFamily": "LetsIcons",
-      "identifier": "signOutSqureDuotone"
+      "identifier": "signOutSqureDuotone",
+      "duotone": true
     },
     "sign-out-squre-duotone-line": {
       "codepoint": 58581,
       "fontFamily": "LetsIcons",
-      "identifier": "signOutSqureDuotoneLine"
+      "identifier": "signOutSqureDuotoneLine",
+      "duotone": true
     },
     "sign-out-squre-fill": {
       "codepoint": 58582,
@@ -6324,7 +6563,8 @@
     "sound-duotone": {
       "codepoint": 58603,
       "fontFamily": "LetsIcons",
-      "identifier": "soundDuotone"
+      "identifier": "soundDuotone",
+      "duotone": true
     },
     "sound-fill": {
       "codepoint": 58604,
@@ -6344,7 +6584,8 @@
     "sound-max-duotone": {
       "codepoint": 58607,
       "fontFamily": "LetsIcons",
-      "identifier": "soundMaxDuotone"
+      "identifier": "soundMaxDuotone",
+      "duotone": true
     },
     "sound-max-fill": {
       "codepoint": 58608,
@@ -6364,7 +6605,8 @@
     "sound-min-duotone": {
       "codepoint": 58611,
       "fontFamily": "LetsIcons",
-      "identifier": "soundMinDuotone"
+      "identifier": "soundMinDuotone",
+      "duotone": true
     },
     "sound-min-fill": {
       "codepoint": 58612,
@@ -6384,7 +6626,8 @@
     "sound-mute-duotone": {
       "codepoint": 58615,
       "fontFamily": "LetsIcons",
-      "identifier": "soundMuteDuotone"
+      "identifier": "soundMuteDuotone",
+      "duotone": true
     },
     "sound-mute-fill": {
       "codepoint": 58616,
@@ -6409,7 +6652,8 @@
     "speed-alt-duotone": {
       "codepoint": 58620,
       "fontFamily": "LetsIcons",
-      "identifier": "speedAltDuotone"
+      "identifier": "speedAltDuotone",
+      "duotone": true
     },
     "speed-alt-duotone-line": {
       "codepoint": 58621,
@@ -6424,7 +6668,8 @@
     "speed-duotone-line": {
       "codepoint": 58623,
       "fontFamily": "LetsIcons",
-      "identifier": "speedDuotoneLine"
+      "identifier": "speedDuotoneLine",
+      "duotone": true
     },
     "speed-fill": {
       "codepoint": 58624,
@@ -6434,7 +6679,8 @@
     "speed-fill-duotone": {
       "codepoint": 58625,
       "fontFamily": "LetsIcons",
-      "identifier": "speedFillDuotone"
+      "identifier": "speedFillDuotone",
+      "duotone": true
     },
     "speed-light": {
       "codepoint": 58626,
@@ -6519,7 +6765,8 @@
     "stop-and-play-duotone": {
       "codepoint": 58642,
       "fontFamily": "LetsIcons",
-      "identifier": "stopAndPlayDuotone"
+      "identifier": "stopAndPlayDuotone",
+      "duotone": true
     },
     "stop-and-play-fill": {
       "codepoint": 58643,
@@ -6589,7 +6836,8 @@
     "subttasks-alt-duotone": {
       "codepoint": 58656,
       "fontFamily": "LetsIcons",
-      "identifier": "subttasksAltDuotone"
+      "identifier": "subttasksAltDuotone",
+      "duotone": true
     },
     "subttasks-alt-fill": {
       "codepoint": 58657,
@@ -6604,7 +6852,8 @@
     "subttasks-duotone": {
       "codepoint": 58659,
       "fontFamily": "LetsIcons",
-      "identifier": "subttasksDuotone"
+      "identifier": "subttasksDuotone",
+      "duotone": true
     },
     "subttasks-fill": {
       "codepoint": 58660,
@@ -6634,7 +6883,8 @@
     "sun-duotone": {
       "codepoint": 58665,
       "fontFamily": "LetsIcons",
-      "identifier": "sunDuotone"
+      "identifier": "sunDuotone",
+      "duotone": true
     },
     "sun-fill": {
       "codepoint": 58666,
@@ -6654,7 +6904,8 @@
     "sunlight-duotone": {
       "codepoint": 58669,
       "fontFamily": "LetsIcons",
-      "identifier": "sunlightDuotone"
+      "identifier": "sunlightDuotone",
+      "duotone": true
     },
     "sunlight-fill": {
       "codepoint": 58670,
@@ -6704,12 +6955,14 @@
     "target-duotone": {
       "codepoint": 58679,
       "fontFamily": "LetsIcons",
-      "identifier": "targetDuotone"
+      "identifier": "targetDuotone",
+      "duotone": true
     },
     "target-duotone-line": {
       "codepoint": 58680,
       "fontFamily": "LetsIcons",
-      "identifier": "targetDuotoneLine"
+      "identifier": "targetDuotoneLine",
+      "duotone": true
     },
     "target-fill": {
       "codepoint": 58681,
@@ -6729,7 +6982,8 @@
     "temperature-duotone": {
       "codepoint": 58684,
       "fontFamily": "LetsIcons",
-      "identifier": "temperatureDuotone"
+      "identifier": "temperatureDuotone",
+      "duotone": true
     },
     "temperature-fill": {
       "codepoint": 58685,
@@ -6779,7 +7033,8 @@
     "ticket-alt-duotone": {
       "codepoint": 58694,
       "fontFamily": "LetsIcons",
-      "identifier": "ticketAltDuotone"
+      "identifier": "ticketAltDuotone",
+      "duotone": true
     },
     "ticket-alt-duotone-line": {
       "codepoint": 58695,
@@ -6799,7 +7054,8 @@
     "ticket-duotone": {
       "codepoint": 58698,
       "fontFamily": "LetsIcons",
-      "identifier": "ticketDuotone"
+      "identifier": "ticketDuotone",
+      "duotone": true
     },
     "ticket-duotone-line": {
       "codepoint": 58699,
@@ -6824,12 +7080,14 @@
     "ticket-use-duotone": {
       "codepoint": 58703,
       "fontFamily": "LetsIcons",
-      "identifier": "ticketUseDuotone"
+      "identifier": "ticketUseDuotone",
+      "duotone": true
     },
     "ticket-use-duotone-line": {
       "codepoint": 58704,
       "fontFamily": "LetsIcons",
-      "identifier": "ticketUseDuotoneLine"
+      "identifier": "ticketUseDuotoneLine",
+      "duotone": true
     },
     "ticket-use-fill": {
       "codepoint": 58705,
@@ -6864,7 +7122,8 @@
     "time-atack-duotone": {
       "codepoint": 58711,
       "fontFamily": "LetsIcons",
-      "identifier": "timeAtackDuotone"
+      "identifier": "timeAtackDuotone",
+      "duotone": true
     },
     "time-atack-duotone-line": {
       "codepoint": 58712,
@@ -6889,12 +7148,14 @@
     "time-duotone": {
       "codepoint": 58716,
       "fontFamily": "LetsIcons",
-      "identifier": "timeDuotone"
+      "identifier": "timeDuotone",
+      "duotone": true
     },
     "time-duotone-line": {
       "codepoint": 58717,
       "fontFamily": "LetsIcons",
-      "identifier": "timeDuotoneLine"
+      "identifier": "timeDuotoneLine",
+      "duotone": true
     },
     "time-fill": {
       "codepoint": 58718,
@@ -6914,7 +7175,8 @@
     "time-progress-duotone": {
       "codepoint": 58721,
       "fontFamily": "LetsIcons",
-      "identifier": "timeProgressDuotone"
+      "identifier": "timeProgressDuotone",
+      "duotone": true
     },
     "time-progress-duotone-line": {
       "codepoint": 58722,
@@ -7044,12 +7306,14 @@
     "trash-duotone": {
       "codepoint": 58747,
       "fontFamily": "LetsIcons",
-      "identifier": "trashDuotone"
+      "identifier": "trashDuotone",
+      "duotone": true
     },
     "trash-duotone-line": {
       "codepoint": 58748,
       "fontFamily": "LetsIcons",
-      "identifier": "trashDuotoneLine"
+      "identifier": "trashDuotoneLine",
+      "duotone": true
     },
     "trash-light": {
       "codepoint": 58749,
@@ -7069,7 +7333,8 @@
     "tree-duotone-line": {
       "codepoint": 58752,
       "fontFamily": "LetsIcons",
-      "identifier": "treeDuotoneLine"
+      "identifier": "treeDuotoneLine",
+      "duotone": true
     },
     "tree-fill": {
       "codepoint": 58753,
@@ -7094,7 +7359,8 @@
     "tumer-duotone": {
       "codepoint": 58757,
       "fontFamily": "LetsIcons",
-      "identifier": "tumerDuotone"
+      "identifier": "tumerDuotone",
+      "duotone": true
     },
     "tumer-duotone-line": {
       "codepoint": 58758,
@@ -7124,12 +7390,14 @@
     "unlock-duotone": {
       "codepoint": 58763,
       "fontFamily": "LetsIcons",
-      "identifier": "unlockDuotone"
+      "identifier": "unlockDuotone",
+      "duotone": true
     },
     "unlock-duotone-line": {
       "codepoint": 58764,
       "fontFamily": "LetsIcons",
-      "identifier": "unlockDuotoneLine"
+      "identifier": "unlockDuotoneLine",
+      "duotone": true
     },
     "unlock-fill": {
       "codepoint": 58765,
@@ -7159,7 +7427,8 @@
     "upload-duotone": {
       "codepoint": 58770,
       "fontFamily": "LetsIcons",
-      "identifier": "uploadDuotone"
+      "identifier": "uploadDuotone",
+      "duotone": true
     },
     "upload-duotone-line": {
       "codepoint": 58771,
@@ -7194,12 +7463,14 @@
     "user-add-alt-duotone": {
       "codepoint": 58777,
       "fontFamily": "LetsIcons",
-      "identifier": "userAddAltDuotone"
+      "identifier": "userAddAltDuotone",
+      "duotone": true
     },
     "user-add-alt-duotone-line": {
       "codepoint": 58778,
       "fontFamily": "LetsIcons",
-      "identifier": "userAddAltDuotoneLine"
+      "identifier": "userAddAltDuotoneLine",
+      "duotone": true
     },
     "user-add-alt-fill": {
       "codepoint": 58779,
@@ -7214,12 +7485,14 @@
     "user-add-duotone": {
       "codepoint": 58781,
       "fontFamily": "LetsIcons",
-      "identifier": "userAddDuotone"
+      "identifier": "userAddDuotone",
+      "duotone": true
     },
     "user-add-duotone-line": {
       "codepoint": 58782,
       "fontFamily": "LetsIcons",
-      "identifier": "userAddDuotoneLine"
+      "identifier": "userAddDuotoneLine",
+      "duotone": true
     },
     "user-add-light": {
       "codepoint": 58783,
@@ -7234,7 +7507,8 @@
     "user-alt-duotone": {
       "codepoint": 58785,
       "fontFamily": "LetsIcons",
-      "identifier": "userAltDuotone"
+      "identifier": "userAltDuotone",
+      "duotone": true
     },
     "user-alt-duotone-line": {
       "codepoint": 58786,
@@ -7259,12 +7533,14 @@
     "user-box-duotone": {
       "codepoint": 58790,
       "fontFamily": "LetsIcons",
-      "identifier": "userBoxDuotone"
+      "identifier": "userBoxDuotone",
+      "duotone": true
     },
     "user-box-duotone-line": {
       "codepoint": 58791,
       "fontFamily": "LetsIcons",
-      "identifier": "userBoxDuotoneLine"
+      "identifier": "userBoxDuotoneLine",
+      "duotone": true
     },
     "user-box-fill": {
       "codepoint": 58792,
@@ -7284,12 +7560,14 @@
     "user-cicrle-duotone": {
       "codepoint": 58795,
       "fontFamily": "LetsIcons",
-      "identifier": "userCicrleDuotone"
+      "identifier": "userCicrleDuotone",
+      "duotone": true
     },
     "user-cicrle-duotone-line": {
       "codepoint": 58796,
       "fontFamily": "LetsIcons",
-      "identifier": "userCicrleDuotoneLine"
+      "identifier": "userCicrleDuotoneLine",
+      "duotone": true
     },
     "user-cicrle-light": {
       "codepoint": 58797,
@@ -7304,12 +7582,14 @@
     "user-duotone": {
       "codepoint": 58799,
       "fontFamily": "LetsIcons",
-      "identifier": "userDuotone"
+      "identifier": "userDuotone",
+      "duotone": true
     },
     "user-duotone-line": {
       "codepoint": 58800,
       "fontFamily": "LetsIcons",
-      "identifier": "userDuotoneLine"
+      "identifier": "userDuotoneLine",
+      "duotone": true
     },
     "user-fill": {
       "codepoint": 58801,
@@ -7334,7 +7614,8 @@
     "user-scan-duotone": {
       "codepoint": 58805,
       "fontFamily": "LetsIcons",
-      "identifier": "userScanDuotone"
+      "identifier": "userScanDuotone",
+      "duotone": true
     },
     "user-scan-duotone-line": {
       "codepoint": 58806,
@@ -7389,7 +7670,8 @@
     "video-duotone": {
       "codepoint": 58816,
       "fontFamily": "LetsIcons",
-      "identifier": "videoDuotone"
+      "identifier": "videoDuotone",
+      "duotone": true
     },
     "video-file": {
       "codepoint": 58817,
@@ -7399,12 +7681,14 @@
     "video-file-duotone": {
       "codepoint": 58818,
       "fontFamily": "LetsIcons",
-      "identifier": "videoFileDuotone"
+      "identifier": "videoFileDuotone",
+      "duotone": true
     },
     "video-file-duotone-line": {
       "codepoint": 58819,
       "fontFamily": "LetsIcons",
-      "identifier": "videoFileDuotoneLine"
+      "identifier": "videoFileDuotoneLine",
+      "duotone": true
     },
     "video-file-fill": {
       "codepoint": 58820,
@@ -7439,7 +7723,8 @@
     "view-alt-duotone": {
       "codepoint": 58826,
       "fontFamily": "LetsIcons",
-      "identifier": "viewAltDuotone"
+      "identifier": "viewAltDuotone",
+      "duotone": true
     },
     "view-alt-duotone-line": {
       "codepoint": 58827,
@@ -7459,7 +7744,8 @@
     "view-duotone": {
       "codepoint": 58830,
       "fontFamily": "LetsIcons",
-      "identifier": "viewDuotone"
+      "identifier": "viewDuotone",
+      "duotone": true
     },
     "view-duotone-line": {
       "codepoint": 58831,
@@ -7534,12 +7820,14 @@
     "wallet-alt-duotone": {
       "codepoint": 58845,
       "fontFamily": "LetsIcons",
-      "identifier": "walletAltDuotone"
+      "identifier": "walletAltDuotone",
+      "duotone": true
     },
     "wallet-alt-duotone-line": {
       "codepoint": 58846,
       "fontFamily": "LetsIcons",
-      "identifier": "walletAltDuotoneLine"
+      "identifier": "walletAltDuotoneLine",
+      "duotone": true
     },
     "wallet-alt-fill": {
       "codepoint": 58847,
@@ -7554,12 +7842,14 @@
     "wallet-duotone": {
       "codepoint": 58849,
       "fontFamily": "LetsIcons",
-      "identifier": "walletDuotone"
+      "identifier": "walletDuotone",
+      "duotone": true
     },
     "wallet-duotone-line": {
       "codepoint": 58850,
       "fontFamily": "LetsIcons",
-      "identifier": "walletDuotoneLine"
+      "identifier": "walletDuotoneLine",
+      "duotone": true
     },
     "wallet-fill": {
       "codepoint": 58851,
@@ -7649,7 +7939,8 @@
     "winter-duotone": {
       "codepoint": 58868,
       "fontFamily": "LetsIcons",
-      "identifier": "winterDuotone"
+      "identifier": "winterDuotone",
+      "duotone": true
     },
     "winter-fill": {
       "codepoint": 58869,
@@ -7684,12 +7975,14 @@
     "world-alt-duotone": {
       "codepoint": 58875,
       "fontFamily": "LetsIcons",
-      "identifier": "worldAltDuotone"
+      "identifier": "worldAltDuotone",
+      "duotone": true
     },
     "world-alt-duotone-line": {
       "codepoint": 58876,
       "fontFamily": "LetsIcons",
-      "identifier": "worldAltDuotoneLine"
+      "identifier": "worldAltDuotoneLine",
+      "duotone": true
     },
     "world-alt-fill": {
       "codepoint": 58877,
@@ -7704,12 +7997,14 @@
     "world-duotone": {
       "codepoint": 58879,
       "fontFamily": "LetsIcons",
-      "identifier": "worldDuotone"
+      "identifier": "worldDuotone",
+      "duotone": true
     },
     "world-duotone-line": {
       "codepoint": 58880,
       "fontFamily": "LetsIcons",
-      "identifier": "worldDuotoneLine"
+      "identifier": "worldDuotoneLine",
+      "duotone": true
     },
     "world-fill": {
       "codepoint": 58881,

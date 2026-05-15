@@ -27,7 +27,7 @@
     {
       "family": "IconamoonSecondary",
       "nextCodepoint": 59162,
-      "iconCount": 234
+      "iconCount": 235
     }
   ],
   "icons": {
@@ -6795,7 +6795,8 @@
     "play-circle-duotone": {
       "codepoint": 58660,
       "fontFamily": "Iconamoon",
-      "identifier": "playCircleDuotone"
+      "identifier": "playCircleDuotone",
+      "duotone": true
     },
     "play-circle-fill": {
       "codepoint": 58661,

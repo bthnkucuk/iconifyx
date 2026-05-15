@@ -901,12 +901,6 @@ class VscodeIconsIcons {
     IconData(0xe065, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
   );
 
-  /// `file-type-histoire` (duo-tone)
-  static const IconifyIconData fileTypeHistoire = IconifyIconData.duo(
-    IconData(0xe1d8, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
-  );
-
   /// `file-type-hjson` (duo-tone)
   static const IconifyIconData fileTypeHjson = IconifyIconData.duo(
     IconData(0xe066, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
@@ -1717,6 +1711,12 @@ class VscodeIconsIcons {
     IconData(0xe0c9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
   );
 
+  /// `file-type-monotone` (duo-tone)
+  static const IconifyIconData fileTypeMonotone = IconifyIconData.duo(
+    IconData(0xe0ca, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0ca, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+  );
+
   /// `file-type-motif`
   static const IconifyIconData fileTypeMotif = IconifyIconData.solo(
     IconData(0xe297, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
@@ -2430,9 +2430,10 @@ class VscodeIconsIcons {
     IconData(0xe10a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
   );
 
-  /// `file-type-shellcheck`
-  static const IconifyIconData fileTypeShellcheck = IconifyIconData.solo(
+  /// `file-type-shellcheck` (duo-tone)
+  static const IconifyIconData fileTypeShellcheck = IconifyIconData.duo(
     IconData(0xe10b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe10b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
   );
 
   /// `file-type-shuttle`

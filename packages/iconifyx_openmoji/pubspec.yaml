@@ -20,3 +20,6 @@ flutter:
     - family: Openmoji
       fonts:
         - asset: assets/fonts/Openmoji.ttf
+    - family: OpenmojiSecondary
+      fonts:
+        - asset: assets/fonts/OpenmojiSecondary.ttf

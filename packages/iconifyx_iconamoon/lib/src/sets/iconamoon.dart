@@ -6777,9 +6777,10 @@ class IconamoonIcons {
     IconData(0xe523, fontFamily: 'Iconamoon', fontPackage: 'iconifyx_iconamoon'),
   );
 
-  /// `play-circle-duotone`
-  static const IconifyIconData playCircleDuotone = IconifyIconData.solo(
+  /// `play-circle-duotone` (duo-tone)
+  static const IconifyIconData playCircleDuotone = IconifyIconData.duo(
     IconData(0xe524, fontFamily: 'Iconamoon', fontPackage: 'iconifyx_iconamoon'),
+    IconData(0xe524, fontFamily: 'IconamoonSecondary', fontPackage: 'iconifyx_iconamoon'),
   );
 
   /// `play-circle-fill`

@@ -20,3 +20,6 @@ flutter:
     - family: Si
       fonts:
         - asset: assets/fonts/Si.ttf
+    - family: SiSecondary
+      fonts:
+        - asset: assets/fonts/SiSecondary.ttf

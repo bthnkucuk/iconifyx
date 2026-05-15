@@ -1771,9 +1771,10 @@ class GrommetIconsIcons {
     IconData(0xe15e, fontFamily: 'GrommetIcons', fontPackage: 'iconifyx_grommet_icons'),
   );
 
-  /// `mastercard`
-  static const IconifyIconData mastercard = IconifyIconData.solo(
+  /// `mastercard` (duo-tone)
+  static const IconifyIconData mastercard = IconifyIconData.duo(
     IconData(0xe15f, fontFamily: 'GrommetIcons', fontPackage: 'iconifyx_grommet_icons'),
+    IconData(0xe15f, fontFamily: 'GrommetIconsSecondary', fontPackage: 'iconifyx_grommet_icons'),
   );
 
   /// `medium`
@@ -2501,9 +2502,10 @@ class GrommetIconsIcons {
     IconData(0xe1f0, fontFamily: 'GrommetIcons', fontPackage: 'iconifyx_grommet_icons'),
   );
 
-  /// `star-half`
-  static const IconifyIconData starHalf = IconifyIconData.solo(
+  /// `star-half` (duo-tone)
+  static const IconifyIconData starHalf = IconifyIconData.duo(
     IconData(0xe1f1, fontFamily: 'GrommetIcons', fontPackage: 'iconifyx_grommet_icons'),
+    IconData(0xe1f1, fontFamily: 'GrommetIconsSecondary', fontPackage: 'iconifyx_grommet_icons'),
   );
 
   /// `star-outline`

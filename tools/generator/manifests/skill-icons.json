@@ -27,7 +27,7 @@
     {
       "family": "SkillIconsSecondary",
       "nextCodepoint": 57672,
-      "iconCount": 120
+      "iconCount": 130
     }
   ],
   "icons": {
@@ -480,12 +480,14 @@
     "fediverse-dark": {
       "codepoint": 57421,
       "fontFamily": "SkillIcons",
-      "identifier": "fediverseDark"
+      "identifier": "fediverseDark",
+      "duotone": true
     },
     "fediverse-light": {
       "codepoint": 57422,
       "fontFamily": "SkillIcons",
-      "identifier": "fediverseLight"
+      "identifier": "fediverseLight",
+      "duotone": true
     },
     "figma-dark": {
       "codepoint": 57423,
@@ -700,12 +702,14 @@
     "ipfs-dark": {
       "codepoint": 57460,
       "fontFamily": "SkillIcons",
-      "identifier": "ipfsDark"
+      "identifier": "ipfsDark",
+      "duotone": true
     },
     "ipfs-light": {
       "codepoint": 57461,
       "fontFamily": "SkillIcons",
-      "identifier": "ipfsLight"
+      "identifier": "ipfsLight",
+      "duotone": true
     },
     "java-dark": {
       "codepoint": 57462,
@@ -1197,12 +1201,14 @@
     "pug-dark": {
       "codepoint": 57550,
       "fontFamily": "SkillIcons",
-      "identifier": "pugDark"
+      "identifier": "pugDark",
+      "duotone": true
     },
     "pug-light": {
       "codepoint": 57551,
       "fontFamily": "SkillIcons",
-      "identifier": "pugLight"
+      "identifier": "pugLight",
+      "duotone": true
     },
     "pycharm-light": {
       "codepoint": 57552,
@@ -1513,12 +1519,14 @@
     "svg-dark": {
       "codepoint": 57604,
       "fontFamily": "SkillIcons",
-      "identifier": "svgDark"
+      "identifier": "svgDark",
+      "duotone": true
     },
     "svg-light": {
       "codepoint": 57605,
       "fontFamily": "SkillIcons",
-      "identifier": "svgLight"
+      "identifier": "svgLight",
+      "duotone": true
     },
     "swift": {
       "codepoint": 57606,
@@ -1679,12 +1687,14 @@
     "vitest-dark": {
       "codepoint": 57635,
       "fontFamily": "SkillIcons",
-      "identifier": "vitestDark"
+      "identifier": "vitestDark",
+      "duotone": true
     },
     "vitest-light": {
       "codepoint": 57636,
       "fontFamily": "SkillIcons",
-      "identifier": "vitestLight"
+      "identifier": "vitestLight",
+      "duotone": true
     },
     "vscodium-light": {
       "codepoint": 57637,

@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC0',
   licenseSpdx: 'CC0-1.0',
   licenseUrl: 'https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt',
-  iconCount: 925,
+  iconCount: 928,
 );

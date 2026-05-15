@@ -23,6 +23,11 @@
       "family": "Temaki",
       "nextCodepoint": 57899,
       "iconCount": 555
+    },
+    {
+      "family": "TemakiSecondary",
+      "nextCodepoint": 57899,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -784,7 +789,8 @@
     "crossing-markings-zebra-bicolour": {
       "codepoint": 57495,
       "fontFamily": "Temaki",
-      "identifier": "crossingMarkingsZebraBicolour"
+      "identifier": "crossingMarkingsZebraBicolour",
+      "duotone": true
     },
     "crossing-markings-zebra-double": {
       "codepoint": 57496,

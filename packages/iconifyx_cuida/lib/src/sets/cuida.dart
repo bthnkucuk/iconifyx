@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Sysvale
 /// License: Apache 2.0 — https://github.com/Sysvale/cuida-icons/blob/main/LICENSE
-/// Icons: 182
+/// Icons: 182 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -716,9 +716,10 @@ class CuidaIcons {
     IconData(0xe08b, fontFamily: 'Cuida', fontPackage: 'iconifyx_cuida'),
   );
 
-  /// `sort-ascending-duotone`
-  static const IconifyIconData sortAscendingDuotone = IconifyIconData.solo(
+  /// `sort-ascending-duotone` (duo-tone)
+  static const IconifyIconData sortAscendingDuotone = IconifyIconData.duo(
     IconData(0xe08c, fontFamily: 'Cuida', fontPackage: 'iconifyx_cuida'),
+    IconData(0xe08c, fontFamily: 'CuidaSecondary', fontPackage: 'iconifyx_cuida'),
   );
 
   /// `sort-descending-duotone`

@@ -27,7 +27,7 @@
     {
       "family": "FlagSecondary",
       "nextCodepoint": 57835,
-      "iconCount": 45
+      "iconCount": 47
     }
   ],
   "icons": {
@@ -744,12 +744,14 @@
     "es-ga-1x1": {
       "codepoint": 57482,
       "fontFamily": "Flag",
-      "identifier": "esGa1x1"
+      "identifier": "esGa1x1",
+      "duotone": true
     },
     "es-ga-4x3": {
       "codepoint": 57483,
       "fontFamily": "Flag",
-      "identifier": "esGa4x3"
+      "identifier": "esGa4x3",
+      "duotone": true
     },
     "es-pv-1x1": {
       "codepoint": 57484,

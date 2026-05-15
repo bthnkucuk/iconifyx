@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Catppuccin
 /// License: MIT — https://github.com/catppuccin/vscode-icons/blob/main/LICENSE
-/// Icons: 660
+/// Icons: 660 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -66,39 +66,46 @@ class CatppuccinIcons {
     IconData(0xe009, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `angular`
-  static const IconifyIconData angular = IconifyIconData.solo(
+  /// `angular` (duo-tone)
+  static const IconifyIconData angular = IconifyIconData.duo(
     IconData(0xe00a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe00a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `angular-component`
-  static const IconifyIconData angularComponent = IconifyIconData.solo(
+  /// `angular-component` (duo-tone)
+  static const IconifyIconData angularComponent = IconifyIconData.duo(
     IconData(0xe00b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe00b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `angular-directive`
-  static const IconifyIconData angularDirective = IconifyIconData.solo(
+  /// `angular-directive` (duo-tone)
+  static const IconifyIconData angularDirective = IconifyIconData.duo(
     IconData(0xe00c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe00c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `angular-guard`
-  static const IconifyIconData angularGuard = IconifyIconData.solo(
+  /// `angular-guard` (duo-tone)
+  static const IconifyIconData angularGuard = IconifyIconData.duo(
     IconData(0xe00d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe00d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `angular-pipe`
-  static const IconifyIconData angularPipe = IconifyIconData.solo(
+  /// `angular-pipe` (duo-tone)
+  static const IconifyIconData angularPipe = IconifyIconData.duo(
     IconData(0xe00e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe00e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `angular-service`
-  static const IconifyIconData angularService = IconifyIconData.solo(
+  /// `angular-service` (duo-tone)
+  static const IconifyIconData angularService = IconifyIconData.duo(
     IconData(0xe00f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe00f, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `ansible-lint`
-  static const IconifyIconData ansibleLint = IconifyIconData.solo(
+  /// `ansible-lint` (duo-tone)
+  static const IconifyIconData ansibleLint = IconifyIconData.duo(
     IconData(0xe010, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe010, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `antlr`
@@ -106,9 +113,10 @@ class CatppuccinIcons {
     IconData(0xe011, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `apache`
-  static const IconifyIconData apache = IconifyIconData.solo(
+  /// `apache` (duo-tone)
+  static const IconifyIconData apache = IconifyIconData.duo(
     IconData(0xe012, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe012, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `api-blueprint`
@@ -141,9 +149,10 @@ class CatppuccinIcons {
     IconData(0xe018, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `astro`
-  static const IconifyIconData astro = IconifyIconData.solo(
+  /// `astro` (duo-tone)
+  static const IconifyIconData astro = IconifyIconData.duo(
     IconData(0xe019, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe019, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `astro-config`
@@ -256,9 +265,10 @@ class CatppuccinIcons {
     IconData(0xe02f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `caddy`
-  static const IconifyIconData caddy = IconifyIconData.solo(
+  /// `caddy` (duo-tone)
+  static const IconifyIconData caddy = IconifyIconData.duo(
     IconData(0xe030, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe030, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `capacitor`
@@ -271,14 +281,16 @@ class CatppuccinIcons {
     IconData(0xe032, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `cargo-lock`
-  static const IconifyIconData cargoLock = IconifyIconData.solo(
+  /// `cargo-lock` (duo-tone)
+  static const IconifyIconData cargoLock = IconifyIconData.duo(
     IconData(0xe033, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe033, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `certificate`
-  static const IconifyIconData certificate = IconifyIconData.solo(
+  /// `certificate` (duo-tone)
+  static const IconifyIconData certificate = IconifyIconData.duo(
     IconData(0xe034, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe034, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `changelog`
@@ -326,9 +338,10 @@ class CatppuccinIcons {
     IconData(0xe03d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `commitlint`
-  static const IconifyIconData commitlint = IconifyIconData.solo(
+  /// `commitlint` (duo-tone)
+  static const IconifyIconData commitlint = IconifyIconData.duo(
     IconData(0xe03e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe03e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `config`
@@ -336,9 +349,10 @@ class CatppuccinIcons {
     IconData(0xe03f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `contributing`
-  static const IconifyIconData contributing = IconifyIconData.solo(
+  /// `contributing` (duo-tone)
+  static const IconifyIconData contributing = IconifyIconData.duo(
     IconData(0xe040, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe040, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `cpp`
@@ -361,9 +375,10 @@ class CatppuccinIcons {
     IconData(0xe044, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `cspell`
-  static const IconifyIconData cspell = IconifyIconData.solo(
+  /// `cspell` (duo-tone)
+  static const IconifyIconData cspell = IconifyIconData.duo(
     IconData(0xe045, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe045, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `css`
@@ -376,9 +391,10 @@ class CatppuccinIcons {
     IconData(0xe047, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `css3`
-  static const IconifyIconData css3 = IconifyIconData.solo(
+  /// `css3` (duo-tone)
+  static const IconifyIconData css3 = IconifyIconData.duo(
     IconData(0xe048, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe048, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `csv`
@@ -421,9 +437,10 @@ class CatppuccinIcons {
     IconData(0xe050, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `darklua`
-  static const IconifyIconData darklua = IconifyIconData.solo(
+  /// `darklua` (duo-tone)
+  static const IconifyIconData darklua = IconifyIconData.duo(
     IconData(0xe051, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe051, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `dart`
@@ -446,9 +463,10 @@ class CatppuccinIcons {
     IconData(0xe055, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `deno-lock`
-  static const IconifyIconData denoLock = IconifyIconData.solo(
+  /// `deno-lock` (duo-tone)
+  static const IconifyIconData denoLock = IconifyIconData.duo(
     IconData(0xe056, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe056, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `dependabot`
@@ -511,9 +529,10 @@ class CatppuccinIcons {
     IconData(0xe062, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `dub-selections`
-  static const IconifyIconData dubSelections = IconifyIconData.solo(
+  /// `dub-selections` (duo-tone)
+  static const IconifyIconData dubSelections = IconifyIconData.duo(
     IconData(0xe063, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe063, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `editorconfig`
@@ -551,9 +570,10 @@ class CatppuccinIcons {
     IconData(0xe06a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `envrc`
-  static const IconifyIconData envrc = IconifyIconData.solo(
+  /// `envrc` (duo-tone)
+  static const IconifyIconData envrc = IconifyIconData.duo(
     IconData(0xe06b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe06b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `erlang`
@@ -566,9 +586,10 @@ class CatppuccinIcons {
     IconData(0xe06d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `eslint`
-  static const IconifyIconData eslint = IconifyIconData.solo(
+  /// `eslint` (duo-tone)
+  static const IconifyIconData eslint = IconifyIconData.duo(
     IconData(0xe06e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe06e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `eslint-ignore`
@@ -606,9 +627,10 @@ class CatppuccinIcons {
     IconData(0xe075, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `flutter`
-  static const IconifyIconData flutter = IconifyIconData.solo(
+  /// `flutter` (duo-tone)
+  static const IconifyIconData flutter = IconifyIconData.duo(
     IconData(0xe076, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe076, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder`
@@ -616,44 +638,52 @@ class CatppuccinIcons {
     IconData(0xe077, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-admin`
-  static const IconifyIconData folderAdmin = IconifyIconData.solo(
+  /// `folder-admin` (duo-tone)
+  static const IconifyIconData folderAdmin = IconifyIconData.duo(
     IconData(0xe078, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe078, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-admin-open`
-  static const IconifyIconData folderAdminOpen = IconifyIconData.solo(
+  /// `folder-admin-open` (duo-tone)
+  static const IconifyIconData folderAdminOpen = IconifyIconData.duo(
     IconData(0xe079, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe079, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-android`
-  static const IconifyIconData folderAndroid = IconifyIconData.solo(
+  /// `folder-android` (duo-tone)
+  static const IconifyIconData folderAndroid = IconifyIconData.duo(
     IconData(0xe07a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe07a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-android-open`
-  static const IconifyIconData folderAndroidOpen = IconifyIconData.solo(
+  /// `folder-android-open` (duo-tone)
+  static const IconifyIconData folderAndroidOpen = IconifyIconData.duo(
     IconData(0xe07b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe07b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-animation`
-  static const IconifyIconData folderAnimation = IconifyIconData.solo(
+  /// `folder-animation` (duo-tone)
+  static const IconifyIconData folderAnimation = IconifyIconData.duo(
     IconData(0xe07c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe07c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-animation-open`
-  static const IconifyIconData folderAnimationOpen = IconifyIconData.solo(
+  /// `folder-animation-open` (duo-tone)
+  static const IconifyIconData folderAnimationOpen = IconifyIconData.duo(
     IconData(0xe07d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe07d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-api`
-  static const IconifyIconData folderApi = IconifyIconData.solo(
+  /// `folder-api` (duo-tone)
+  static const IconifyIconData folderApi = IconifyIconData.duo(
     IconData(0xe07e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe07e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-api-open`
-  static const IconifyIconData folderApiOpen = IconifyIconData.solo(
+  /// `folder-api-open` (duo-tone)
+  static const IconifyIconData folderApiOpen = IconifyIconData.duo(
     IconData(0xe07f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe07f, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-app`
@@ -666,14 +696,16 @@ class CatppuccinIcons {
     IconData(0xe081, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-assets`
-  static const IconifyIconData folderAssets = IconifyIconData.solo(
+  /// `folder-assets` (duo-tone)
+  static const IconifyIconData folderAssets = IconifyIconData.duo(
     IconData(0xe082, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe082, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-assets-open`
-  static const IconifyIconData folderAssetsOpen = IconifyIconData.solo(
+  /// `folder-assets-open` (duo-tone)
+  static const IconifyIconData folderAssetsOpen = IconifyIconData.duo(
     IconData(0xe083, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe083, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-audio`
@@ -686,14 +718,16 @@ class CatppuccinIcons {
     IconData(0xe085, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-audit`
-  static const IconifyIconData folderAudit = IconifyIconData.solo(
+  /// `folder-audit` (duo-tone)
+  static const IconifyIconData folderAudit = IconifyIconData.duo(
     IconData(0xe086, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe086, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-audit-open`
-  static const IconifyIconData folderAuditOpen = IconifyIconData.solo(
+  /// `folder-audit-open` (duo-tone)
+  static const IconifyIconData folderAuditOpen = IconifyIconData.duo(
     IconData(0xe087, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe087, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-aws`
@@ -706,34 +740,40 @@ class CatppuccinIcons {
     IconData(0xe089, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-azure-devops`
-  static const IconifyIconData folderAzureDevops = IconifyIconData.solo(
+  /// `folder-azure-devops` (duo-tone)
+  static const IconifyIconData folderAzureDevops = IconifyIconData.duo(
     IconData(0xe08a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe08a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-azure-devops-open`
-  static const IconifyIconData folderAzureDevopsOpen = IconifyIconData.solo(
+  /// `folder-azure-devops-open` (duo-tone)
+  static const IconifyIconData folderAzureDevopsOpen = IconifyIconData.duo(
     IconData(0xe08b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe08b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-azure-pipelines`
-  static const IconifyIconData folderAzurePipelines = IconifyIconData.solo(
+  /// `folder-azure-pipelines` (duo-tone)
+  static const IconifyIconData folderAzurePipelines = IconifyIconData.duo(
     IconData(0xe08c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe08c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-azure-pipelines-open`
-  static const IconifyIconData folderAzurePipelinesOpen = IconifyIconData.solo(
+  /// `folder-azure-pipelines-open` (duo-tone)
+  static const IconifyIconData folderAzurePipelinesOpen = IconifyIconData.duo(
     IconData(0xe08d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe08d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-benchmark`
-  static const IconifyIconData folderBenchmark = IconifyIconData.solo(
+  /// `folder-benchmark` (duo-tone)
+  static const IconifyIconData folderBenchmark = IconifyIconData.duo(
     IconData(0xe08e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe08e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-benchmark-open`
-  static const IconifyIconData folderBenchmarkOpen = IconifyIconData.solo(
+  /// `folder-benchmark-open` (duo-tone)
+  static const IconifyIconData folderBenchmarkOpen = IconifyIconData.duo(
     IconData(0xe08f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe08f, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-caddy`
@@ -746,14 +786,16 @@ class CatppuccinIcons {
     IconData(0xe091, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-cargo`
-  static const IconifyIconData folderCargo = IconifyIconData.solo(
+  /// `folder-cargo` (duo-tone)
+  static const IconifyIconData folderCargo = IconifyIconData.duo(
     IconData(0xe092, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe092, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-cargo-open`
-  static const IconifyIconData folderCargoOpen = IconifyIconData.solo(
+  /// `folder-cargo-open` (duo-tone)
+  static const IconifyIconData folderCargoOpen = IconifyIconData.duo(
     IconData(0xe093, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe093, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-circle-ci`
@@ -766,124 +808,148 @@ class CatppuccinIcons {
     IconData(0xe095, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-client`
-  static const IconifyIconData folderClient = IconifyIconData.solo(
+  /// `folder-client` (duo-tone)
+  static const IconifyIconData folderClient = IconifyIconData.duo(
     IconData(0xe096, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe096, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-client-open`
-  static const IconifyIconData folderClientOpen = IconifyIconData.solo(
+  /// `folder-client-open` (duo-tone)
+  static const IconifyIconData folderClientOpen = IconifyIconData.duo(
     IconData(0xe097, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe097, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-cloud`
-  static const IconifyIconData folderCloud = IconifyIconData.solo(
+  /// `folder-cloud` (duo-tone)
+  static const IconifyIconData folderCloud = IconifyIconData.duo(
     IconData(0xe098, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe098, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-cloud-open`
-  static const IconifyIconData folderCloudOpen = IconifyIconData.solo(
+  /// `folder-cloud-open` (duo-tone)
+  static const IconifyIconData folderCloudOpen = IconifyIconData.duo(
     IconData(0xe099, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe099, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-command`
-  static const IconifyIconData folderCommand = IconifyIconData.solo(
+  /// `folder-command` (duo-tone)
+  static const IconifyIconData folderCommand = IconifyIconData.duo(
     IconData(0xe09a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe09a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-command-open`
-  static const IconifyIconData folderCommandOpen = IconifyIconData.solo(
+  /// `folder-command-open` (duo-tone)
+  static const IconifyIconData folderCommandOpen = IconifyIconData.duo(
     IconData(0xe09b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe09b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-components`
-  static const IconifyIconData folderComponents = IconifyIconData.solo(
+  /// `folder-components` (duo-tone)
+  static const IconifyIconData folderComponents = IconifyIconData.duo(
     IconData(0xe09c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe09c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-components-open`
-  static const IconifyIconData folderComponentsOpen = IconifyIconData.solo(
+  /// `folder-components-open` (duo-tone)
+  static const IconifyIconData folderComponentsOpen = IconifyIconData.duo(
     IconData(0xe09d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe09d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-composables`
-  static const IconifyIconData folderComposables = IconifyIconData.solo(
+  /// `folder-composables` (duo-tone)
+  static const IconifyIconData folderComposables = IconifyIconData.duo(
     IconData(0xe09e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe09e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-composables-open`
-  static const IconifyIconData folderComposablesOpen = IconifyIconData.solo(
+  /// `folder-composables-open` (duo-tone)
+  static const IconifyIconData folderComposablesOpen = IconifyIconData.duo(
     IconData(0xe09f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe09f, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-config`
-  static const IconifyIconData folderConfig = IconifyIconData.solo(
+  /// `folder-config` (duo-tone)
+  static const IconifyIconData folderConfig = IconifyIconData.duo(
     IconData(0xe0a0, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a0, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-config-open`
-  static const IconifyIconData folderConfigOpen = IconifyIconData.solo(
+  /// `folder-config-open` (duo-tone)
+  static const IconifyIconData folderConfigOpen = IconifyIconData.duo(
     IconData(0xe0a1, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a1, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-connection`
-  static const IconifyIconData folderConnection = IconifyIconData.solo(
+  /// `folder-connection` (duo-tone)
+  static const IconifyIconData folderConnection = IconifyIconData.duo(
     IconData(0xe0a2, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a2, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-connection-open`
-  static const IconifyIconData folderConnectionOpen = IconifyIconData.solo(
+  /// `folder-connection-open` (duo-tone)
+  static const IconifyIconData folderConnectionOpen = IconifyIconData.duo(
     IconData(0xe0a3, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a3, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-constant`
-  static const IconifyIconData folderConstant = IconifyIconData.solo(
+  /// `folder-constant` (duo-tone)
+  static const IconifyIconData folderConstant = IconifyIconData.duo(
     IconData(0xe0a4, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a4, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-constant-open`
-  static const IconifyIconData folderConstantOpen = IconifyIconData.solo(
+  /// `folder-constant-open` (duo-tone)
+  static const IconifyIconData folderConstantOpen = IconifyIconData.duo(
     IconData(0xe0a5, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a5, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-content`
-  static const IconifyIconData folderContent = IconifyIconData.solo(
+  /// `folder-content` (duo-tone)
+  static const IconifyIconData folderContent = IconifyIconData.duo(
     IconData(0xe0a6, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a6, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-content-open`
-  static const IconifyIconData folderContentOpen = IconifyIconData.solo(
+  /// `folder-content-open` (duo-tone)
+  static const IconifyIconData folderContentOpen = IconifyIconData.duo(
     IconData(0xe0a7, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a7, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-controllers`
-  static const IconifyIconData folderControllers = IconifyIconData.solo(
+  /// `folder-controllers` (duo-tone)
+  static const IconifyIconData folderControllers = IconifyIconData.duo(
     IconData(0xe0a8, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a8, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-controllers-open`
-  static const IconifyIconData folderControllersOpen = IconifyIconData.solo(
+  /// `folder-controllers-open` (duo-tone)
+  static const IconifyIconData folderControllersOpen = IconifyIconData.duo(
     IconData(0xe0a9, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0a9, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-core`
-  static const IconifyIconData folderCore = IconifyIconData.solo(
+  /// `folder-core` (duo-tone)
+  static const IconifyIconData folderCore = IconifyIconData.duo(
     IconData(0xe0aa, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0aa, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-core-open`
-  static const IconifyIconData folderCoreOpen = IconifyIconData.solo(
+  /// `folder-core-open` (duo-tone)
+  static const IconifyIconData folderCoreOpen = IconifyIconData.duo(
     IconData(0xe0ab, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0ab, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-coverage`
-  static const IconifyIconData folderCoverage = IconifyIconData.solo(
+  /// `folder-coverage` (duo-tone)
+  static const IconifyIconData folderCoverage = IconifyIconData.duo(
     IconData(0xe0ac, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0ac, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-coverage-open`
-  static const IconifyIconData folderCoverageOpen = IconifyIconData.solo(
+  /// `folder-coverage-open` (duo-tone)
+  static const IconifyIconData folderCoverageOpen = IconifyIconData.duo(
     IconData(0xe0ad, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0ad, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-cursor`
@@ -896,64 +962,76 @@ class CatppuccinIcons {
     IconData(0xe0af, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-cypress`
-  static const IconifyIconData folderCypress = IconifyIconData.solo(
+  /// `folder-cypress` (duo-tone)
+  static const IconifyIconData folderCypress = IconifyIconData.duo(
     IconData(0xe0b0, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b0, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-cypress-open`
-  static const IconifyIconData folderCypressOpen = IconifyIconData.solo(
+  /// `folder-cypress-open` (duo-tone)
+  static const IconifyIconData folderCypressOpen = IconifyIconData.duo(
     IconData(0xe0b1, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b1, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-database`
-  static const IconifyIconData folderDatabase = IconifyIconData.solo(
+  /// `folder-database` (duo-tone)
+  static const IconifyIconData folderDatabase = IconifyIconData.duo(
     IconData(0xe0b2, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b2, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-database-open`
-  static const IconifyIconData folderDatabaseOpen = IconifyIconData.solo(
+  /// `folder-database-open` (duo-tone)
+  static const IconifyIconData folderDatabaseOpen = IconifyIconData.duo(
     IconData(0xe0b3, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b3, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-debug`
-  static const IconifyIconData folderDebug = IconifyIconData.solo(
+  /// `folder-debug` (duo-tone)
+  static const IconifyIconData folderDebug = IconifyIconData.duo(
     IconData(0xe0b4, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b4, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-debug-open`
-  static const IconifyIconData folderDebugOpen = IconifyIconData.solo(
+  /// `folder-debug-open` (duo-tone)
+  static const IconifyIconData folderDebugOpen = IconifyIconData.duo(
     IconData(0xe0b5, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b5, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-devcontainer`
-  static const IconifyIconData folderDevcontainer = IconifyIconData.solo(
+  /// `folder-devcontainer` (duo-tone)
+  static const IconifyIconData folderDevcontainer = IconifyIconData.duo(
     IconData(0xe0b6, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b6, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-devcontainer-open`
-  static const IconifyIconData folderDevcontainerOpen = IconifyIconData.solo(
+  /// `folder-devcontainer-open` (duo-tone)
+  static const IconifyIconData folderDevcontainerOpen = IconifyIconData.duo(
     IconData(0xe0b7, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b7, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-direnv`
-  static const IconifyIconData folderDirenv = IconifyIconData.solo(
+  /// `folder-direnv` (duo-tone)
+  static const IconifyIconData folderDirenv = IconifyIconData.duo(
     IconData(0xe0b8, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b8, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-direnv-open`
-  static const IconifyIconData folderDirenvOpen = IconifyIconData.solo(
+  /// `folder-direnv-open` (duo-tone)
+  static const IconifyIconData folderDirenvOpen = IconifyIconData.duo(
     IconData(0xe0b9, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0b9, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-dist`
-  static const IconifyIconData folderDist = IconifyIconData.solo(
+  /// `folder-dist` (duo-tone)
+  static const IconifyIconData folderDist = IconifyIconData.duo(
     IconData(0xe0ba, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0ba, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-dist-open`
-  static const IconifyIconData folderDistOpen = IconifyIconData.solo(
+  /// `folder-dist-open` (duo-tone)
+  static const IconifyIconData folderDistOpen = IconifyIconData.duo(
     IconData(0xe0bb, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0bb, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-docker`
@@ -966,44 +1044,52 @@ class CatppuccinIcons {
     IconData(0xe0bd, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-docs`
-  static const IconifyIconData folderDocs = IconifyIconData.solo(
+  /// `folder-docs` (duo-tone)
+  static const IconifyIconData folderDocs = IconifyIconData.duo(
     IconData(0xe0be, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0be, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-docs-open`
-  static const IconifyIconData folderDocsOpen = IconifyIconData.solo(
+  /// `folder-docs-open` (duo-tone)
+  static const IconifyIconData folderDocsOpen = IconifyIconData.duo(
     IconData(0xe0bf, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0bf, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-download`
-  static const IconifyIconData folderDownload = IconifyIconData.solo(
+  /// `folder-download` (duo-tone)
+  static const IconifyIconData folderDownload = IconifyIconData.duo(
     IconData(0xe0c0, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0c0, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-download-open`
-  static const IconifyIconData folderDownloadOpen = IconifyIconData.solo(
+  /// `folder-download-open` (duo-tone)
+  static const IconifyIconData folderDownloadOpen = IconifyIconData.duo(
     IconData(0xe0c1, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0c1, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-drizzle-orm`
-  static const IconifyIconData folderDrizzleOrm = IconifyIconData.solo(
+  /// `folder-drizzle-orm` (duo-tone)
+  static const IconifyIconData folderDrizzleOrm = IconifyIconData.duo(
     IconData(0xe0c2, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0c2, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-drizzle-orm-open`
-  static const IconifyIconData folderDrizzleOrmOpen = IconifyIconData.solo(
+  /// `folder-drizzle-orm-open` (duo-tone)
+  static const IconifyIconData folderDrizzleOrmOpen = IconifyIconData.duo(
     IconData(0xe0c3, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0c3, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-examples`
-  static const IconifyIconData folderExamples = IconifyIconData.solo(
+  /// `folder-examples` (duo-tone)
+  static const IconifyIconData folderExamples = IconifyIconData.duo(
     IconData(0xe0c4, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0c4, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-examples-open`
-  static const IconifyIconData folderExamplesOpen = IconifyIconData.solo(
+  /// `folder-examples-open` (duo-tone)
+  static const IconifyIconData folderExamplesOpen = IconifyIconData.duo(
     IconData(0xe0c5, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0c5, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-fastlane`
@@ -1016,24 +1102,28 @@ class CatppuccinIcons {
     IconData(0xe0c7, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-firebase`
-  static const IconifyIconData folderFirebase = IconifyIconData.solo(
+  /// `folder-firebase` (duo-tone)
+  static const IconifyIconData folderFirebase = IconifyIconData.duo(
     IconData(0xe0c8, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0c8, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-firebase-open`
-  static const IconifyIconData folderFirebaseOpen = IconifyIconData.solo(
+  /// `folder-firebase-open` (duo-tone)
+  static const IconifyIconData folderFirebaseOpen = IconifyIconData.duo(
     IconData(0xe0c9, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0c9, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-fonts`
-  static const IconifyIconData folderFonts = IconifyIconData.solo(
+  /// `folder-fonts` (duo-tone)
+  static const IconifyIconData folderFonts = IconifyIconData.duo(
     IconData(0xe0ca, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0ca, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-fonts-open`
-  static const IconifyIconData folderFontsOpen = IconifyIconData.solo(
+  /// `folder-fonts-open` (duo-tone)
+  static const IconifyIconData folderFontsOpen = IconifyIconData.duo(
     IconData(0xe0cb, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0cb, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-forgejo`
@@ -1046,54 +1136,64 @@ class CatppuccinIcons {
     IconData(0xe0cd, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-functions`
-  static const IconifyIconData folderFunctions = IconifyIconData.solo(
+  /// `folder-functions` (duo-tone)
+  static const IconifyIconData folderFunctions = IconifyIconData.duo(
     IconData(0xe0ce, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0ce, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-functions-open`
-  static const IconifyIconData folderFunctionsOpen = IconifyIconData.solo(
+  /// `folder-functions-open` (duo-tone)
+  static const IconifyIconData folderFunctionsOpen = IconifyIconData.duo(
     IconData(0xe0cf, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0cf, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-fvm`
-  static const IconifyIconData folderFvm = IconifyIconData.solo(
+  /// `folder-fvm` (duo-tone)
+  static const IconifyIconData folderFvm = IconifyIconData.duo(
     IconData(0xe0d0, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0d0, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-fvm-open`
-  static const IconifyIconData folderFvmOpen = IconifyIconData.solo(
+  /// `folder-fvm-open` (duo-tone)
+  static const IconifyIconData folderFvmOpen = IconifyIconData.duo(
     IconData(0xe0d1, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0d1, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-git`
-  static const IconifyIconData folderGit = IconifyIconData.solo(
+  /// `folder-git` (duo-tone)
+  static const IconifyIconData folderGit = IconifyIconData.duo(
     IconData(0xe0d2, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0d2, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-git-open`
-  static const IconifyIconData folderGitOpen = IconifyIconData.solo(
+  /// `folder-git-open` (duo-tone)
+  static const IconifyIconData folderGitOpen = IconifyIconData.duo(
     IconData(0xe0d3, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0d3, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-github`
-  static const IconifyIconData folderGithub = IconifyIconData.solo(
+  /// `folder-github` (duo-tone)
+  static const IconifyIconData folderGithub = IconifyIconData.duo(
     IconData(0xe0d4, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0d4, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-github-open`
-  static const IconifyIconData folderGithubOpen = IconifyIconData.solo(
+  /// `folder-github-open` (duo-tone)
+  static const IconifyIconData folderGithubOpen = IconifyIconData.duo(
     IconData(0xe0d5, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0d5, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-gitlab`
-  static const IconifyIconData folderGitlab = IconifyIconData.solo(
+  /// `folder-gitlab` (duo-tone)
+  static const IconifyIconData folderGitlab = IconifyIconData.duo(
     IconData(0xe0d6, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0d6, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-gitlab-open`
-  static const IconifyIconData folderGitlabOpen = IconifyIconData.solo(
+  /// `folder-gitlab-open` (duo-tone)
+  static const IconifyIconData folderGitlabOpen = IconifyIconData.duo(
     IconData(0xe0d7, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0d7, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-gradle`
@@ -1106,34 +1206,40 @@ class CatppuccinIcons {
     IconData(0xe0d9, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-graphql`
-  static const IconifyIconData folderGraphql = IconifyIconData.solo(
+  /// `folder-graphql` (duo-tone)
+  static const IconifyIconData folderGraphql = IconifyIconData.duo(
     IconData(0xe0da, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0da, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-graphql-open`
-  static const IconifyIconData folderGraphqlOpen = IconifyIconData.solo(
+  /// `folder-graphql-open` (duo-tone)
+  static const IconifyIconData folderGraphqlOpen = IconifyIconData.duo(
     IconData(0xe0db, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0db, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-hooks`
-  static const IconifyIconData folderHooks = IconifyIconData.solo(
+  /// `folder-hooks` (duo-tone)
+  static const IconifyIconData folderHooks = IconifyIconData.duo(
     IconData(0xe0dc, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0dc, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-hooks-open`
-  static const IconifyIconData folderHooksOpen = IconifyIconData.solo(
+  /// `folder-hooks-open` (duo-tone)
+  static const IconifyIconData folderHooksOpen = IconifyIconData.duo(
     IconData(0xe0dd, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0dd, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-husky`
-  static const IconifyIconData folderHusky = IconifyIconData.solo(
+  /// `folder-husky` (duo-tone)
+  static const IconifyIconData folderHusky = IconifyIconData.duo(
     IconData(0xe0de, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0de, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-husky-open`
-  static const IconifyIconData folderHuskyOpen = IconifyIconData.solo(
+  /// `folder-husky-open` (duo-tone)
+  static const IconifyIconData folderHuskyOpen = IconifyIconData.duo(
     IconData(0xe0df, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0df, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-images`
@@ -1146,14 +1252,16 @@ class CatppuccinIcons {
     IconData(0xe0e1, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-include`
-  static const IconifyIconData folderInclude = IconifyIconData.solo(
+  /// `folder-include` (duo-tone)
+  static const IconifyIconData folderInclude = IconifyIconData.duo(
     IconData(0xe0e2, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0e2, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-include-open`
-  static const IconifyIconData folderIncludeOpen = IconifyIconData.solo(
+  /// `folder-include-open` (duo-tone)
+  static const IconifyIconData folderIncludeOpen = IconifyIconData.duo(
     IconData(0xe0e3, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0e3, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-intellij`
@@ -1166,14 +1274,16 @@ class CatppuccinIcons {
     IconData(0xe0e5, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-javascript`
-  static const IconifyIconData folderJavascript = IconifyIconData.solo(
+  /// `folder-javascript` (duo-tone)
+  static const IconifyIconData folderJavascript = IconifyIconData.duo(
     IconData(0xe0e6, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0e6, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-javascript-open`
-  static const IconifyIconData folderJavascriptOpen = IconifyIconData.solo(
+  /// `folder-javascript-open` (duo-tone)
+  static const IconifyIconData folderJavascriptOpen = IconifyIconData.duo(
     IconData(0xe0e7, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0e7, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-kubernetes`
@@ -1186,24 +1296,28 @@ class CatppuccinIcons {
     IconData(0xe0e9, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-layouts`
-  static const IconifyIconData folderLayouts = IconifyIconData.solo(
+  /// `folder-layouts` (duo-tone)
+  static const IconifyIconData folderLayouts = IconifyIconData.duo(
     IconData(0xe0ea, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0ea, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-layouts-open`
-  static const IconifyIconData folderLayoutsOpen = IconifyIconData.solo(
+  /// `folder-layouts-open` (duo-tone)
+  static const IconifyIconData folderLayoutsOpen = IconifyIconData.duo(
     IconData(0xe0eb, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0eb, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-lib`
-  static const IconifyIconData folderLib = IconifyIconData.solo(
+  /// `folder-lib` (duo-tone)
+  static const IconifyIconData folderLib = IconifyIconData.duo(
     IconData(0xe0ec, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0ec, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-lib-open`
-  static const IconifyIconData folderLibOpen = IconifyIconData.solo(
+  /// `folder-lib-open` (duo-tone)
+  static const IconifyIconData folderLibOpen = IconifyIconData.duo(
     IconData(0xe0ed, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0ed, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-linux`
@@ -1216,34 +1330,40 @@ class CatppuccinIcons {
     IconData(0xe0ef, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-locales`
-  static const IconifyIconData folderLocales = IconifyIconData.solo(
+  /// `folder-locales` (duo-tone)
+  static const IconifyIconData folderLocales = IconifyIconData.duo(
     IconData(0xe0f0, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0f0, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-locales-open`
-  static const IconifyIconData folderLocalesOpen = IconifyIconData.solo(
+  /// `folder-locales-open` (duo-tone)
+  static const IconifyIconData folderLocalesOpen = IconifyIconData.duo(
     IconData(0xe0f1, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0f1, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-luau`
-  static const IconifyIconData folderLuau = IconifyIconData.solo(
+  /// `folder-luau` (duo-tone)
+  static const IconifyIconData folderLuau = IconifyIconData.duo(
     IconData(0xe0f2, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0f2, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-luau-open`
-  static const IconifyIconData folderLuauOpen = IconifyIconData.solo(
+  /// `folder-luau-open` (duo-tone)
+  static const IconifyIconData folderLuauOpen = IconifyIconData.duo(
     IconData(0xe0f3, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0f3, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-lune`
-  static const IconifyIconData folderLune = IconifyIconData.solo(
+  /// `folder-lune` (duo-tone)
+  static const IconifyIconData folderLune = IconifyIconData.duo(
     IconData(0xe0f4, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0f4, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-lune-open`
-  static const IconifyIconData folderLuneOpen = IconifyIconData.solo(
+  /// `folder-lune-open` (duo-tone)
+  static const IconifyIconData folderLuneOpen = IconifyIconData.duo(
     IconData(0xe0f5, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0f5, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-macos`
@@ -1256,34 +1376,40 @@ class CatppuccinIcons {
     IconData(0xe0f7, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-messages`
-  static const IconifyIconData folderMessages = IconifyIconData.solo(
+  /// `folder-messages` (duo-tone)
+  static const IconifyIconData folderMessages = IconifyIconData.duo(
     IconData(0xe0f8, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0f8, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-messages-open`
-  static const IconifyIconData folderMessagesOpen = IconifyIconData.solo(
+  /// `folder-messages-open` (duo-tone)
+  static const IconifyIconData folderMessagesOpen = IconifyIconData.duo(
     IconData(0xe0f9, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0f9, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-middleware`
-  static const IconifyIconData folderMiddleware = IconifyIconData.solo(
+  /// `folder-middleware` (duo-tone)
+  static const IconifyIconData folderMiddleware = IconifyIconData.duo(
     IconData(0xe0fa, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0fa, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-middleware-open`
-  static const IconifyIconData folderMiddlewareOpen = IconifyIconData.solo(
+  /// `folder-middleware-open` (duo-tone)
+  static const IconifyIconData folderMiddlewareOpen = IconifyIconData.duo(
     IconData(0xe0fb, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0fb, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-mocks`
-  static const IconifyIconData folderMocks = IconifyIconData.solo(
+  /// `folder-mocks` (duo-tone)
+  static const IconifyIconData folderMocks = IconifyIconData.duo(
     IconData(0xe0fc, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0fc, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-mocks-open`
-  static const IconifyIconData folderMocksOpen = IconifyIconData.solo(
+  /// `folder-mocks-open` (duo-tone)
+  static const IconifyIconData folderMocksOpen = IconifyIconData.duo(
     IconData(0xe0fd, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe0fd, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-moonrepo`
@@ -1296,14 +1422,16 @@ class CatppuccinIcons {
     IconData(0xe0ff, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-next`
-  static const IconifyIconData folderNext = IconifyIconData.solo(
+  /// `folder-next` (duo-tone)
+  static const IconifyIconData folderNext = IconifyIconData.duo(
     IconData(0xe100, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe100, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-next-open`
-  static const IconifyIconData folderNextOpen = IconifyIconData.solo(
+  /// `folder-next-open` (duo-tone)
+  static const IconifyIconData folderNextOpen = IconifyIconData.duo(
     IconData(0xe101, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe101, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-nix`
@@ -1316,24 +1444,28 @@ class CatppuccinIcons {
     IconData(0xe103, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-node`
-  static const IconifyIconData folderNode = IconifyIconData.solo(
+  /// `folder-node` (duo-tone)
+  static const IconifyIconData folderNode = IconifyIconData.duo(
     IconData(0xe104, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe104, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-node-open`
-  static const IconifyIconData folderNodeOpen = IconifyIconData.solo(
+  /// `folder-node-open` (duo-tone)
+  static const IconifyIconData folderNodeOpen = IconifyIconData.duo(
     IconData(0xe105, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe105, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-nuxt`
-  static const IconifyIconData folderNuxt = IconifyIconData.solo(
+  /// `folder-nuxt` (duo-tone)
+  static const IconifyIconData folderNuxt = IconifyIconData.duo(
     IconData(0xe106, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe106, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-nuxt-open`
-  static const IconifyIconData folderNuxtOpen = IconifyIconData.solo(
+  /// `folder-nuxt-open` (duo-tone)
+  static const IconifyIconData folderNuxtOpen = IconifyIconData.duo(
     IconData(0xe107, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe107, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-open`
@@ -1341,64 +1473,76 @@ class CatppuccinIcons {
     IconData(0xe108, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-packages`
-  static const IconifyIconData folderPackages = IconifyIconData.solo(
+  /// `folder-packages` (duo-tone)
+  static const IconifyIconData folderPackages = IconifyIconData.duo(
     IconData(0xe109, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe109, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-packages-open`
-  static const IconifyIconData folderPackagesOpen = IconifyIconData.solo(
+  /// `folder-packages-open` (duo-tone)
+  static const IconifyIconData folderPackagesOpen = IconifyIconData.duo(
     IconData(0xe10a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe10a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-pesde`
-  static const IconifyIconData folderPesde = IconifyIconData.solo(
+  /// `folder-pesde` (duo-tone)
+  static const IconifyIconData folderPesde = IconifyIconData.duo(
     IconData(0xe10b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe10b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-pesde-open`
-  static const IconifyIconData folderPesdeOpen = IconifyIconData.solo(
+  /// `folder-pesde-open` (duo-tone)
+  static const IconifyIconData folderPesdeOpen = IconifyIconData.duo(
     IconData(0xe10c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe10c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-plugins`
-  static const IconifyIconData folderPlugins = IconifyIconData.solo(
+  /// `folder-plugins` (duo-tone)
+  static const IconifyIconData folderPlugins = IconifyIconData.duo(
     IconData(0xe10d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe10d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-plugins-open`
-  static const IconifyIconData folderPluginsOpen = IconifyIconData.solo(
+  /// `folder-plugins-open` (duo-tone)
+  static const IconifyIconData folderPluginsOpen = IconifyIconData.duo(
     IconData(0xe10e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe10e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-pre-commit`
-  static const IconifyIconData folderPreCommit = IconifyIconData.solo(
+  /// `folder-pre-commit` (duo-tone)
+  static const IconifyIconData folderPreCommit = IconifyIconData.duo(
     IconData(0xe10f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe10f, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-pre-commit-open`
-  static const IconifyIconData folderPreCommitOpen = IconifyIconData.solo(
+  /// `folder-pre-commit-open` (duo-tone)
+  static const IconifyIconData folderPreCommitOpen = IconifyIconData.duo(
     IconData(0xe110, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe110, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-prisma`
-  static const IconifyIconData folderPrisma = IconifyIconData.solo(
+  /// `folder-prisma` (duo-tone)
+  static const IconifyIconData folderPrisma = IconifyIconData.duo(
     IconData(0xe111, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe111, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-prisma-open`
-  static const IconifyIconData folderPrismaOpen = IconifyIconData.solo(
+  /// `folder-prisma-open` (duo-tone)
+  static const IconifyIconData folderPrismaOpen = IconifyIconData.duo(
     IconData(0xe112, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe112, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-private`
-  static const IconifyIconData folderPrivate = IconifyIconData.solo(
+  /// `folder-private` (duo-tone)
+  static const IconifyIconData folderPrivate = IconifyIconData.duo(
     IconData(0xe113, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe113, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-private-open`
-  static const IconifyIconData folderPrivateOpen = IconifyIconData.solo(
+  /// `folder-private-open` (duo-tone)
+  static const IconifyIconData folderPrivateOpen = IconifyIconData.duo(
     IconData(0xe114, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe114, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-proto`
@@ -1411,44 +1555,52 @@ class CatppuccinIcons {
     IconData(0xe116, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-public`
-  static const IconifyIconData folderPublic = IconifyIconData.solo(
+  /// `folder-public` (duo-tone)
+  static const IconifyIconData folderPublic = IconifyIconData.duo(
     IconData(0xe117, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe117, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-public-open`
-  static const IconifyIconData folderPublicOpen = IconifyIconData.solo(
+  /// `folder-public-open` (duo-tone)
+  static const IconifyIconData folderPublicOpen = IconifyIconData.duo(
     IconData(0xe118, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe118, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-queue`
-  static const IconifyIconData folderQueue = IconifyIconData.solo(
+  /// `folder-queue` (duo-tone)
+  static const IconifyIconData folderQueue = IconifyIconData.duo(
     IconData(0xe119, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe119, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-queue-open`
-  static const IconifyIconData folderQueueOpen = IconifyIconData.solo(
+  /// `folder-queue-open` (duo-tone)
+  static const IconifyIconData folderQueueOpen = IconifyIconData.duo(
     IconData(0xe11a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe11a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-redux`
-  static const IconifyIconData folderRedux = IconifyIconData.solo(
+  /// `folder-redux` (duo-tone)
+  static const IconifyIconData folderRedux = IconifyIconData.duo(
     IconData(0xe11b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe11b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-redux-open`
-  static const IconifyIconData folderReduxOpen = IconifyIconData.solo(
+  /// `folder-redux-open` (duo-tone)
+  static const IconifyIconData folderReduxOpen = IconifyIconData.duo(
     IconData(0xe11c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe11c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-renovate`
-  static const IconifyIconData folderRenovate = IconifyIconData.solo(
+  /// `folder-renovate` (duo-tone)
+  static const IconifyIconData folderRenovate = IconifyIconData.duo(
     IconData(0xe11d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe11d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-renovate-open`
-  static const IconifyIconData folderRenovateOpen = IconifyIconData.solo(
+  /// `folder-renovate-open` (duo-tone)
+  static const IconifyIconData folderRenovateOpen = IconifyIconData.duo(
     IconData(0xe11e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe11e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-roblox`
@@ -1461,114 +1613,136 @@ class CatppuccinIcons {
     IconData(0xe120, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-routes`
-  static const IconifyIconData folderRoutes = IconifyIconData.solo(
+  /// `folder-routes` (duo-tone)
+  static const IconifyIconData folderRoutes = IconifyIconData.duo(
     IconData(0xe121, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe121, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-routes-open`
-  static const IconifyIconData folderRoutesOpen = IconifyIconData.solo(
+  /// `folder-routes-open` (duo-tone)
+  static const IconifyIconData folderRoutesOpen = IconifyIconData.duo(
     IconData(0xe122, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe122, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-sass`
-  static const IconifyIconData folderSass = IconifyIconData.solo(
+  /// `folder-sass` (duo-tone)
+  static const IconifyIconData folderSass = IconifyIconData.duo(
     IconData(0xe123, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe123, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-sass-open`
-  static const IconifyIconData folderSassOpen = IconifyIconData.solo(
+  /// `folder-sass-open` (duo-tone)
+  static const IconifyIconData folderSassOpen = IconifyIconData.duo(
     IconData(0xe124, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe124, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-scripts`
-  static const IconifyIconData folderScripts = IconifyIconData.solo(
+  /// `folder-scripts` (duo-tone)
+  static const IconifyIconData folderScripts = IconifyIconData.duo(
     IconData(0xe125, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe125, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-scripts-open`
-  static const IconifyIconData folderScriptsOpen = IconifyIconData.solo(
+  /// `folder-scripts-open` (duo-tone)
+  static const IconifyIconData folderScriptsOpen = IconifyIconData.duo(
     IconData(0xe126, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe126, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-security`
-  static const IconifyIconData folderSecurity = IconifyIconData.solo(
+  /// `folder-security` (duo-tone)
+  static const IconifyIconData folderSecurity = IconifyIconData.duo(
     IconData(0xe127, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe127, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-security-open`
-  static const IconifyIconData folderSecurityOpen = IconifyIconData.solo(
+  /// `folder-security-open` (duo-tone)
+  static const IconifyIconData folderSecurityOpen = IconifyIconData.duo(
     IconData(0xe128, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe128, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-server`
-  static const IconifyIconData folderServer = IconifyIconData.solo(
+  /// `folder-server` (duo-tone)
+  static const IconifyIconData folderServer = IconifyIconData.duo(
     IconData(0xe129, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe129, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-server-open`
-  static const IconifyIconData folderServerOpen = IconifyIconData.solo(
+  /// `folder-server-open` (duo-tone)
+  static const IconifyIconData folderServerOpen = IconifyIconData.duo(
     IconData(0xe12a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe12a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-shared`
-  static const IconifyIconData folderShared = IconifyIconData.solo(
+  /// `folder-shared` (duo-tone)
+  static const IconifyIconData folderShared = IconifyIconData.duo(
     IconData(0xe12b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe12b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-shared-open`
-  static const IconifyIconData folderSharedOpen = IconifyIconData.solo(
+  /// `folder-shared-open` (duo-tone)
+  static const IconifyIconData folderSharedOpen = IconifyIconData.duo(
     IconData(0xe12c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe12c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-src`
-  static const IconifyIconData folderSrc = IconifyIconData.solo(
+  /// `folder-src` (duo-tone)
+  static const IconifyIconData folderSrc = IconifyIconData.duo(
     IconData(0xe12d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe12d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-src-open`
-  static const IconifyIconData folderSrcOpen = IconifyIconData.solo(
+  /// `folder-src-open` (duo-tone)
+  static const IconifyIconData folderSrcOpen = IconifyIconData.duo(
     IconData(0xe12e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe12e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-storybook`
-  static const IconifyIconData folderStorybook = IconifyIconData.solo(
+  /// `folder-storybook` (duo-tone)
+  static const IconifyIconData folderStorybook = IconifyIconData.duo(
     IconData(0xe12f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe12f, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-storybook-open`
-  static const IconifyIconData folderStorybookOpen = IconifyIconData.solo(
+  /// `folder-storybook-open` (duo-tone)
+  static const IconifyIconData folderStorybookOpen = IconifyIconData.duo(
     IconData(0xe130, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe130, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-styles`
-  static const IconifyIconData folderStyles = IconifyIconData.solo(
+  /// `folder-styles` (duo-tone)
+  static const IconifyIconData folderStyles = IconifyIconData.duo(
     IconData(0xe131, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe131, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-styles-open`
-  static const IconifyIconData folderStylesOpen = IconifyIconData.solo(
+  /// `folder-styles-open` (duo-tone)
+  static const IconifyIconData folderStylesOpen = IconifyIconData.duo(
     IconData(0xe132, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe132, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-svg`
-  static const IconifyIconData folderSvg = IconifyIconData.solo(
+  /// `folder-svg` (duo-tone)
+  static const IconifyIconData folderSvg = IconifyIconData.duo(
     IconData(0xe133, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe133, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-svg-open`
-  static const IconifyIconData folderSvgOpen = IconifyIconData.solo(
+  /// `folder-svg-open` (duo-tone)
+  static const IconifyIconData folderSvgOpen = IconifyIconData.duo(
     IconData(0xe134, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe134, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-symlink`
-  static const IconifyIconData folderSymlink = IconifyIconData.solo(
+  /// `folder-symlink` (duo-tone)
+  static const IconifyIconData folderSymlink = IconifyIconData.duo(
     IconData(0xe135, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe135, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-symlink-open`
-  static const IconifyIconData folderSymlinkOpen = IconifyIconData.solo(
+  /// `folder-symlink-open` (duo-tone)
+  static const IconifyIconData folderSymlinkOpen = IconifyIconData.duo(
     IconData(0xe136, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe136, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-tauri`
@@ -1581,34 +1755,40 @@ class CatppuccinIcons {
     IconData(0xe138, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-temp`
-  static const IconifyIconData folderTemp = IconifyIconData.solo(
+  /// `folder-temp` (duo-tone)
+  static const IconifyIconData folderTemp = IconifyIconData.duo(
     IconData(0xe139, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe139, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-temp-open`
-  static const IconifyIconData folderTempOpen = IconifyIconData.solo(
+  /// `folder-temp-open` (duo-tone)
+  static const IconifyIconData folderTempOpen = IconifyIconData.duo(
     IconData(0xe13a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe13a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-templates`
-  static const IconifyIconData folderTemplates = IconifyIconData.solo(
+  /// `folder-templates` (duo-tone)
+  static const IconifyIconData folderTemplates = IconifyIconData.duo(
     IconData(0xe13b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe13b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-templates-open`
-  static const IconifyIconData folderTemplatesOpen = IconifyIconData.solo(
+  /// `folder-templates-open` (duo-tone)
+  static const IconifyIconData folderTemplatesOpen = IconifyIconData.duo(
     IconData(0xe13c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe13c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-tests`
-  static const IconifyIconData folderTests = IconifyIconData.solo(
+  /// `folder-tests` (duo-tone)
+  static const IconifyIconData folderTests = IconifyIconData.duo(
     IconData(0xe13d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe13d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-tests-open`
-  static const IconifyIconData folderTestsOpen = IconifyIconData.solo(
+  /// `folder-tests-open` (duo-tone)
+  static const IconifyIconData folderTestsOpen = IconifyIconData.duo(
     IconData(0xe13e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe13e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-themes`
@@ -1631,104 +1811,124 @@ class CatppuccinIcons {
     IconData(0xe142, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-types`
-  static const IconifyIconData folderTypes = IconifyIconData.solo(
+  /// `folder-types` (duo-tone)
+  static const IconifyIconData folderTypes = IconifyIconData.duo(
     IconData(0xe143, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe143, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-types-open`
-  static const IconifyIconData folderTypesOpen = IconifyIconData.solo(
+  /// `folder-types-open` (duo-tone)
+  static const IconifyIconData folderTypesOpen = IconifyIconData.duo(
     IconData(0xe144, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe144, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-upload`
-  static const IconifyIconData folderUpload = IconifyIconData.solo(
+  /// `folder-upload` (duo-tone)
+  static const IconifyIconData folderUpload = IconifyIconData.duo(
     IconData(0xe145, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe145, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-upload-open`
-  static const IconifyIconData folderUploadOpen = IconifyIconData.solo(
+  /// `folder-upload-open` (duo-tone)
+  static const IconifyIconData folderUploadOpen = IconifyIconData.duo(
     IconData(0xe146, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe146, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-utils`
-  static const IconifyIconData folderUtils = IconifyIconData.solo(
+  /// `folder-utils` (duo-tone)
+  static const IconifyIconData folderUtils = IconifyIconData.duo(
     IconData(0xe147, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe147, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-utils-open`
-  static const IconifyIconData folderUtilsOpen = IconifyIconData.solo(
+  /// `folder-utils-open` (duo-tone)
+  static const IconifyIconData folderUtilsOpen = IconifyIconData.duo(
     IconData(0xe148, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe148, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-vercel`
-  static const IconifyIconData folderVercel = IconifyIconData.solo(
+  /// `folder-vercel` (duo-tone)
+  static const IconifyIconData folderVercel = IconifyIconData.duo(
     IconData(0xe149, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe149, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-vercel-open`
-  static const IconifyIconData folderVercelOpen = IconifyIconData.solo(
+  /// `folder-vercel-open` (duo-tone)
+  static const IconifyIconData folderVercelOpen = IconifyIconData.duo(
     IconData(0xe14a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe14a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-video`
-  static const IconifyIconData folderVideo = IconifyIconData.solo(
+  /// `folder-video` (duo-tone)
+  static const IconifyIconData folderVideo = IconifyIconData.duo(
     IconData(0xe14b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe14b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-video-open`
-  static const IconifyIconData folderVideoOpen = IconifyIconData.solo(
+  /// `folder-video-open` (duo-tone)
+  static const IconifyIconData folderVideoOpen = IconifyIconData.duo(
     IconData(0xe14c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe14c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-views`
-  static const IconifyIconData folderViews = IconifyIconData.solo(
+  /// `folder-views` (duo-tone)
+  static const IconifyIconData folderViews = IconifyIconData.duo(
     IconData(0xe14d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe14d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-views-open`
-  static const IconifyIconData folderViewsOpen = IconifyIconData.solo(
+  /// `folder-views-open` (duo-tone)
+  static const IconifyIconData folderViewsOpen = IconifyIconData.duo(
     IconData(0xe14e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe14e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-vscode`
-  static const IconifyIconData folderVscode = IconifyIconData.solo(
+  /// `folder-vscode` (duo-tone)
+  static const IconifyIconData folderVscode = IconifyIconData.duo(
     IconData(0xe14f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe14f, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-vscode-open`
-  static const IconifyIconData folderVscodeOpen = IconifyIconData.solo(
+  /// `folder-vscode-open` (duo-tone)
+  static const IconifyIconData folderVscodeOpen = IconifyIconData.duo(
     IconData(0xe150, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe150, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-windows`
-  static const IconifyIconData folderWindows = IconifyIconData.solo(
+  /// `folder-windows` (duo-tone)
+  static const IconifyIconData folderWindows = IconifyIconData.duo(
     IconData(0xe151, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe151, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-windows-open`
-  static const IconifyIconData folderWindowsOpen = IconifyIconData.solo(
+  /// `folder-windows-open` (duo-tone)
+  static const IconifyIconData folderWindowsOpen = IconifyIconData.duo(
     IconData(0xe152, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe152, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-workflows`
-  static const IconifyIconData folderWorkflows = IconifyIconData.solo(
+  /// `folder-workflows` (duo-tone)
+  static const IconifyIconData folderWorkflows = IconifyIconData.duo(
     IconData(0xe153, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe153, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-workflows-open`
-  static const IconifyIconData folderWorkflowsOpen = IconifyIconData.solo(
+  /// `folder-workflows-open` (duo-tone)
+  static const IconifyIconData folderWorkflowsOpen = IconifyIconData.duo(
     IconData(0xe154, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe154, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-wxt`
-  static const IconifyIconData folderWxt = IconifyIconData.solo(
+  /// `folder-wxt` (duo-tone)
+  static const IconifyIconData folderWxt = IconifyIconData.duo(
     IconData(0xe155, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe155, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `folder-wxt-open`
-  static const IconifyIconData folderWxtOpen = IconifyIconData.solo(
+  /// `folder-wxt-open` (duo-tone)
+  static const IconifyIconData folderWxtOpen = IconifyIconData.duo(
     IconData(0xe156, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe156, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `folder-xcode`
@@ -1771,9 +1971,10 @@ class CatppuccinIcons {
     IconData(0xe15e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `forgejo`
-  static const IconifyIconData forgejo = IconifyIconData.solo(
+  /// `forgejo` (duo-tone)
+  static const IconifyIconData forgejo = IconifyIconData.duo(
     IconData(0xe15f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe15f, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `fortran`
@@ -1801,14 +2002,16 @@ class CatppuccinIcons {
     IconData(0xe164, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `git`
-  static const IconifyIconData git = IconifyIconData.solo(
+  /// `git` (duo-tone)
+  static const IconifyIconData git = IconifyIconData.duo(
     IconData(0xe165, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe165, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `git-cliff`
-  static const IconifyIconData gitCliff = IconifyIconData.solo(
+  /// `git-cliff` (duo-tone)
+  static const IconifyIconData gitCliff = IconifyIconData.duo(
     IconData(0xe166, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe166, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `gitlab`
@@ -1826,9 +2029,10 @@ class CatppuccinIcons {
     IconData(0xe169, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `gleam-config`
-  static const IconifyIconData gleamConfig = IconifyIconData.solo(
+  /// `gleam-config` (duo-tone)
+  static const IconifyIconData gleamConfig = IconifyIconData.duo(
     IconData(0xe16a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe16a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `go`
@@ -1881,9 +2085,10 @@ class CatppuccinIcons {
     IconData(0xe174, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `haml`
-  static const IconifyIconData haml = IconifyIconData.solo(
+  /// `haml` (duo-tone)
+  static const IconifyIconData haml = IconifyIconData.duo(
     IconData(0xe175, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe175, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `handlebars`
@@ -1926,9 +2131,10 @@ class CatppuccinIcons {
     IconData(0xe17d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `html`
-  static const IconifyIconData html = IconifyIconData.solo(
+  /// `html` (duo-tone)
+  static const IconifyIconData html = IconifyIconData.duo(
     IconData(0xe17e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe17e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `http`
@@ -1941,9 +2147,10 @@ class CatppuccinIcons {
     IconData(0xe180, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `hugo`
-  static const IconifyIconData hugo = IconifyIconData.solo(
+  /// `hugo` (duo-tone)
+  static const IconifyIconData hugo = IconifyIconData.duo(
     IconData(0xe181, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe181, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `humans`
@@ -1966,24 +2173,28 @@ class CatppuccinIcons {
     IconData(0xe185, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `java`
-  static const IconifyIconData java = IconifyIconData.solo(
+  /// `java` (duo-tone)
+  static const IconifyIconData java = IconifyIconData.duo(
     IconData(0xe186, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe186, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `java-alt-1`
-  static const IconifyIconData javaAlt1 = IconifyIconData.solo(
+  /// `java-alt-1` (duo-tone)
+  static const IconifyIconData javaAlt1 = IconifyIconData.duo(
     IconData(0xe187, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe187, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `java-alt-2`
-  static const IconifyIconData javaAlt2 = IconifyIconData.solo(
+  /// `java-alt-2` (duo-tone)
+  static const IconifyIconData javaAlt2 = IconifyIconData.duo(
     IconData(0xe188, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe188, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `java-alt-3`
-  static const IconifyIconData javaAlt3 = IconifyIconData.solo(
+  /// `java-alt-3` (duo-tone)
+  static const IconifyIconData javaAlt3 = IconifyIconData.duo(
     IconData(0xe189, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe189, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `java-annotation`
@@ -2026,9 +2237,10 @@ class CatppuccinIcons {
     IconData(0xe191, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `java-jar`
-  static const IconifyIconData javaJar = IconifyIconData.solo(
+  /// `java-jar` (duo-tone)
+  static const IconifyIconData javaJar = IconifyIconData.duo(
     IconData(0xe192, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe192, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `java-record`
@@ -2041,14 +2253,16 @@ class CatppuccinIcons {
     IconData(0xe194, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `javascript-config`
-  static const IconifyIconData javascriptConfig = IconifyIconData.solo(
+  /// `javascript-config` (duo-tone)
+  static const IconifyIconData javascriptConfig = IconifyIconData.duo(
     IconData(0xe195, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe195, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `javascript-map`
-  static const IconifyIconData javascriptMap = IconifyIconData.solo(
+  /// `javascript-map` (duo-tone)
+  static const IconifyIconData javascriptMap = IconifyIconData.duo(
     IconData(0xe196, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe196, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `javascript-react`
@@ -2096,9 +2310,10 @@ class CatppuccinIcons {
     IconData(0xe19f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `jupyter`
-  static const IconifyIconData jupyter = IconifyIconData.solo(
+  /// `jupyter` (duo-tone)
+  static const IconifyIconData jupyter = IconifyIconData.duo(
     IconData(0xe1a0, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1a0, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `just`
@@ -2136,9 +2351,10 @@ class CatppuccinIcons {
     IconData(0xe1a7, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `latte`
-  static const IconifyIconData latte = IconifyIconData.solo(
+  /// `latte` (duo-tone)
+  static const IconifyIconData latte = IconifyIconData.duo(
     IconData(0xe1a8, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1a8, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `lerna`
@@ -2161,9 +2377,10 @@ class CatppuccinIcons {
     IconData(0xe1ac, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `lint-staged`
-  static const IconifyIconData lintStaged = IconifyIconData.solo(
+  /// `lint-staged` (duo-tone)
+  static const IconifyIconData lintStaged = IconifyIconData.duo(
     IconData(0xe1ad, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1ad, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `liquid`
@@ -2186,9 +2403,10 @@ class CatppuccinIcons {
     IconData(0xe1b1, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `lua`
-  static const IconifyIconData lua = IconifyIconData.solo(
+  /// `lua` (duo-tone)
+  static const IconifyIconData lua = IconifyIconData.duo(
     IconData(0xe1b2, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1b2, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `lua-check`
@@ -2216,9 +2434,10 @@ class CatppuccinIcons {
     IconData(0xe1b7, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `luau`
-  static const IconifyIconData luau = IconifyIconData.solo(
+  /// `luau` (duo-tone)
+  static const IconifyIconData luau = IconifyIconData.duo(
     IconData(0xe1b8, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1b8, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `luau-check`
@@ -2241,9 +2460,10 @@ class CatppuccinIcons {
     IconData(0xe1bc, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `luau-test`
-  static const IconifyIconData luauTest = IconifyIconData.solo(
+  /// `luau-test` (duo-tone)
+  static const IconifyIconData luauTest = IconifyIconData.duo(
     IconData(0xe1bd, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1bd, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `macos`
@@ -2251,9 +2471,10 @@ class CatppuccinIcons {
     IconData(0xe1be, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `makefile`
-  static const IconifyIconData makefile = IconifyIconData.solo(
+  /// `makefile` (duo-tone)
+  static const IconifyIconData makefile = IconifyIconData.duo(
     IconData(0xe1bf, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1bf, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `mantle`
@@ -2276,14 +2497,16 @@ class CatppuccinIcons {
     IconData(0xe1c3, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `matlab`
-  static const IconifyIconData matlab = IconifyIconData.solo(
+  /// `matlab` (duo-tone)
+  static const IconifyIconData matlab = IconifyIconData.duo(
     IconData(0xe1c4, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1c4, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `maven`
-  static const IconifyIconData maven = IconifyIconData.solo(
+  /// `maven` (duo-tone)
+  static const IconifyIconData maven = IconifyIconData.duo(
     IconData(0xe1c5, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1c5, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `mdbook`
@@ -2316,9 +2539,10 @@ class CatppuccinIcons {
     IconData(0xe1cb, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `moonrepo`
-  static const IconifyIconData moonrepo = IconifyIconData.solo(
+  /// `moonrepo` (duo-tone)
+  static const IconifyIconData moonrepo = IconifyIconData.duo(
     IconData(0xe1cc, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1cc, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `moonwave`
@@ -2341,9 +2565,10 @@ class CatppuccinIcons {
     IconData(0xe1d0, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `msbuild`
-  static const IconifyIconData msbuild = IconifyIconData.solo(
+  /// `msbuild` (duo-tone)
+  static const IconifyIconData msbuild = IconifyIconData.duo(
     IconData(0xe1d1, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1d1, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `nativescript`
@@ -2396,9 +2621,10 @@ class CatppuccinIcons {
     IconData(0xe1db, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `netlify`
-  static const IconifyIconData netlify = IconifyIconData.solo(
+  /// `netlify` (duo-tone)
+  static const IconifyIconData netlify = IconifyIconData.duo(
     IconData(0xe1dc, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1dc, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `next`
@@ -2426,9 +2652,10 @@ class CatppuccinIcons {
     IconData(0xe1e1, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `nix`
-  static const IconifyIconData nix = IconifyIconData.solo(
+  /// `nix` (duo-tone)
+  static const IconifyIconData nix = IconifyIconData.duo(
     IconData(0xe1e2, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1e2, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `nix-lock`
@@ -2441,9 +2668,10 @@ class CatppuccinIcons {
     IconData(0xe1e4, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `npm`
-  static const IconifyIconData npm = IconifyIconData.solo(
+  /// `npm` (duo-tone)
+  static const IconifyIconData npm = IconifyIconData.duo(
     IconData(0xe1e5, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1e5, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `npm-ignore`
@@ -2531,9 +2759,10 @@ class CatppuccinIcons {
     IconData(0xe1f6, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `pesde-lock`
-  static const IconifyIconData pesdeLock = IconifyIconData.solo(
+  /// `pesde-lock` (duo-tone)
+  static const IconifyIconData pesdeLock = IconifyIconData.duo(
     IconData(0xe1f7, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1f7, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `php`
@@ -2541,9 +2770,10 @@ class CatppuccinIcons {
     IconData(0xe1f8, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `phrase`
-  static const IconifyIconData phrase = IconifyIconData.solo(
+  /// `phrase` (duo-tone)
+  static const IconifyIconData phrase = IconifyIconData.duo(
     IconData(0xe1f9, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1f9, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `phtml`
@@ -2551,9 +2781,10 @@ class CatppuccinIcons {
     IconData(0xe1fa, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `pixi`
-  static const IconifyIconData pixi = IconifyIconData.solo(
+  /// `pixi` (duo-tone)
+  static const IconifyIconData pixi = IconifyIconData.duo(
     IconData(0xe1fb, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1fb, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `pixi-lock`
@@ -2566,9 +2797,10 @@ class CatppuccinIcons {
     IconData(0xe1fd, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `playwright`
-  static const IconifyIconData playwright = IconifyIconData.solo(
+  /// `playwright` (duo-tone)
+  static const IconifyIconData playwright = IconifyIconData.duo(
     IconData(0xe1fe, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe1fe, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `plop`
@@ -2576,9 +2808,10 @@ class CatppuccinIcons {
     IconData(0xe1ff, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `pnpm`
-  static const IconifyIconData pnpm = IconifyIconData.solo(
+  /// `pnpm` (duo-tone)
+  static const IconifyIconData pnpm = IconifyIconData.duo(
     IconData(0xe200, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe200, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `pnpm-lock`
@@ -2661,14 +2894,16 @@ class CatppuccinIcons {
     IconData(0xe210, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `python`
-  static const IconifyIconData python = IconifyIconData.solo(
+  /// `python` (duo-tone)
+  static const IconifyIconData python = IconifyIconData.duo(
     IconData(0xe211, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe211, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `python-compiled`
-  static const IconifyIconData pythonCompiled = IconifyIconData.solo(
+  /// `python-compiled` (duo-tone)
+  static const IconifyIconData pythonCompiled = IconifyIconData.duo(
     IconData(0xe212, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe212, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `python-config`
@@ -2676,19 +2911,22 @@ class CatppuccinIcons {
     IconData(0xe213, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `qwik`
-  static const IconifyIconData qwik = IconifyIconData.solo(
+  /// `qwik` (duo-tone)
+  static const IconifyIconData qwik = IconifyIconData.duo(
     IconData(0xe214, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe214, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `r`
-  static const IconifyIconData r = IconifyIconData.solo(
+  /// `r` (duo-tone)
+  static const IconifyIconData r = IconifyIconData.duo(
     IconData(0xe215, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe215, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `racket`
-  static const IconifyIconData racket = IconifyIconData.solo(
+  /// `racket` (duo-tone)
+  static const IconifyIconData racket = IconifyIconData.duo(
     IconData(0xe216, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe216, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `razor`
@@ -2696,9 +2934,10 @@ class CatppuccinIcons {
     IconData(0xe217, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `rdata`
-  static const IconifyIconData rdata = IconifyIconData.solo(
+  /// `rdata` (duo-tone)
+  static const IconifyIconData rdata = IconifyIconData.duo(
     IconData(0xe218, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe218, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `readme`
@@ -2726,9 +2965,10 @@ class CatppuccinIcons {
     IconData(0xe21d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `renovate`
-  static const IconifyIconData renovate = IconifyIconData.solo(
+  /// `renovate` (duo-tone)
+  static const IconifyIconData renovate = IconifyIconData.duo(
     IconData(0xe21e, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe21e, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `rescript`
@@ -2766,9 +3006,10 @@ class CatppuccinIcons {
     IconData(0xe225, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `rollup`
-  static const IconifyIconData rollup = IconifyIconData.solo(
+  /// `rollup` (duo-tone)
+  static const IconifyIconData rollup = IconifyIconData.duo(
     IconData(0xe226, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe226, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `root`
@@ -2801,9 +3042,10 @@ class CatppuccinIcons {
     IconData(0xe22c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `ruby-gem-lock`
-  static const IconifyIconData rubyGemLock = IconifyIconData.solo(
+  /// `ruby-gem-lock` (duo-tone)
+  static const IconifyIconData rubyGemLock = IconifyIconData.duo(
     IconData(0xe22d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe22d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `ruff`
@@ -2821,9 +3063,10 @@ class CatppuccinIcons {
     IconData(0xe230, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `rust-alt-config`
-  static const IconifyIconData rustAltConfig = IconifyIconData.solo(
+  /// `rust-alt-config` (duo-tone)
+  static const IconifyIconData rustAltConfig = IconifyIconData.duo(
     IconData(0xe231, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe231, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `rust-config`
@@ -2896,9 +3139,10 @@ class CatppuccinIcons {
     IconData(0xe23f, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `slidesk`
-  static const IconifyIconData slidesk = IconifyIconData.solo(
+  /// `slidesk` (duo-tone)
+  static const IconifyIconData slidesk = IconifyIconData.duo(
     IconData(0xe240, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe240, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `snowpack`
@@ -2936,9 +3180,10 @@ class CatppuccinIcons {
     IconData(0xe247, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `stata`
-  static const IconifyIconData stata = IconifyIconData.solo(
+  /// `stata` (duo-tone)
+  static const IconifyIconData stata = IconifyIconData.duo(
     IconData(0xe248, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe248, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `stencil`
@@ -2951,19 +3196,22 @@ class CatppuccinIcons {
     IconData(0xe24a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `storybook`
-  static const IconifyIconData storybook = IconifyIconData.solo(
+  /// `storybook` (duo-tone)
+  static const IconifyIconData storybook = IconifyIconData.duo(
     IconData(0xe24b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe24b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `storybook-svelte`
-  static const IconifyIconData storybookSvelte = IconifyIconData.solo(
+  /// `storybook-svelte` (duo-tone)
+  static const IconifyIconData storybookSvelte = IconifyIconData.duo(
     IconData(0xe24c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe24c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `storybook-vue`
-  static const IconifyIconData storybookVue = IconifyIconData.solo(
+  /// `storybook-vue` (duo-tone)
+  static const IconifyIconData storybookVue = IconifyIconData.duo(
     IconData(0xe24d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe24d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `stylelint`
@@ -3001,9 +3249,10 @@ class CatppuccinIcons {
     IconData(0xe254, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `svelte-config`
-  static const IconifyIconData svelteConfig = IconifyIconData.solo(
+  /// `svelte-config` (duo-tone)
+  static const IconifyIconData svelteConfig = IconifyIconData.duo(
     IconData(0xe255, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe255, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `svg`
@@ -3016,14 +3265,16 @@ class CatppuccinIcons {
     IconData(0xe257, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `swiftformat`
-  static const IconifyIconData swiftformat = IconifyIconData.solo(
+  /// `swiftformat` (duo-tone)
+  static const IconifyIconData swiftformat = IconifyIconData.duo(
     IconData(0xe258, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe258, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `symlink`
-  static const IconifyIconData symlink = IconifyIconData.solo(
+  /// `symlink` (duo-tone)
+  static const IconifyIconData symlink = IconifyIconData.duo(
     IconData(0xe259, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe259, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `tailwind`
@@ -3036,9 +3287,10 @@ class CatppuccinIcons {
     IconData(0xe25b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `tauri`
-  static const IconifyIconData tauri = IconifyIconData.solo(
+  /// `tauri` (duo-tone)
+  static const IconifyIconData tauri = IconifyIconData.duo(
     IconData(0xe25c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe25c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `tauri-ignore`
@@ -3071,14 +3323,16 @@ class CatppuccinIcons {
     IconData(0xe262, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `twig`
-  static const IconifyIconData twig = IconifyIconData.solo(
+  /// `twig` (duo-tone)
+  static const IconifyIconData twig = IconifyIconData.duo(
     IconData(0xe263, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe263, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `twine`
-  static const IconifyIconData twine = IconifyIconData.solo(
+  /// `twine` (duo-tone)
+  static const IconifyIconData twine = IconifyIconData.duo(
     IconData(0xe264, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe264, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `typescript`
@@ -3086,14 +3340,16 @@ class CatppuccinIcons {
     IconData(0xe265, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `typescript-config`
-  static const IconifyIconData typescriptConfig = IconifyIconData.solo(
+  /// `typescript-config` (duo-tone)
+  static const IconifyIconData typescriptConfig = IconifyIconData.duo(
     IconData(0xe266, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe266, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `typescript-def`
-  static const IconifyIconData typescriptDef = IconifyIconData.solo(
+  /// `typescript-def` (duo-tone)
+  static const IconifyIconData typescriptDef = IconifyIconData.duo(
     IconData(0xe267, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe267, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `typescript-react`
@@ -3116,9 +3372,10 @@ class CatppuccinIcons {
     IconData(0xe26b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `unocss`
-  static const IconifyIconData unocss = IconifyIconData.solo(
+  /// `unocss` (duo-tone)
+  static const IconifyIconData unocss = IconifyIconData.duo(
     IconData(0xe26c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe26c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `url`
@@ -3141,9 +3398,10 @@ class CatppuccinIcons {
     IconData(0xe270, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `vanilla-extract`
-  static const IconifyIconData vanillaExtract = IconifyIconData.solo(
+  /// `vanilla-extract` (duo-tone)
+  static const IconifyIconData vanillaExtract = IconifyIconData.duo(
     IconData(0xe271, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe271, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `vapi`
@@ -3191,19 +3449,22 @@ class CatppuccinIcons {
     IconData(0xe27a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `vital`
-  static const IconifyIconData vital = IconifyIconData.solo(
+  /// `vital` (duo-tone)
+  static const IconifyIconData vital = IconifyIconData.duo(
     IconData(0xe27b, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe27b, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `vite`
-  static const IconifyIconData vite = IconifyIconData.solo(
+  /// `vite` (duo-tone)
+  static const IconifyIconData vite = IconifyIconData.duo(
     IconData(0xe27c, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe27c, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `vitest`
-  static const IconifyIconData vitest = IconifyIconData.solo(
+  /// `vitest` (duo-tone)
+  static const IconifyIconData vitest = IconifyIconData.duo(
     IconData(0xe27d, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe27d, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `vs-codium`
@@ -3226,9 +3487,10 @@ class CatppuccinIcons {
     IconData(0xe281, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `vue-config`
-  static const IconifyIconData vueConfig = IconifyIconData.solo(
+  /// `vue-config` (duo-tone)
+  static const IconifyIconData vueConfig = IconifyIconData.duo(
     IconData(0xe282, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe282, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `wally`
@@ -3241,9 +3503,10 @@ class CatppuccinIcons {
     IconData(0xe284, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `webpack`
-  static const IconifyIconData webpack = IconifyIconData.solo(
+  /// `webpack` (duo-tone)
+  static const IconifyIconData webpack = IconifyIconData.duo(
     IconData(0xe285, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe285, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `windi`
@@ -3266,9 +3529,10 @@ class CatppuccinIcons {
     IconData(0xe289, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
   );
 
-  /// `xaml`
-  static const IconifyIconData xaml = IconifyIconData.solo(
+  /// `xaml` (duo-tone)
+  static const IconifyIconData xaml = IconifyIconData.duo(
     IconData(0xe28a, fontFamily: 'Catppuccin', fontPackage: 'iconifyx_catppuccin'),
+    IconData(0xe28a, fontFamily: 'CatppuccinSecondary', fontPackage: 'iconifyx_catppuccin'),
   );
 
   /// `xcode`

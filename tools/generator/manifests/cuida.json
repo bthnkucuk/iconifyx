@@ -23,6 +23,11 @@
       "family": "Cuida",
       "nextCodepoint": 57526,
       "iconCount": 182
+    },
+    {
+      "family": "CuidaSecondary",
+      "nextCodepoint": 57526,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -729,7 +734,8 @@
     "sort-ascending-duotone": {
       "codepoint": 57484,
       "fontFamily": "Cuida",
-      "identifier": "sortAscendingDuotone"
+      "identifier": "sortAscendingDuotone",
+      "duotone": true
     },
     "sort-descending-duotone": {
       "codepoint": 57485,

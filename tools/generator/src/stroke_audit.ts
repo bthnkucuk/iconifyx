@@ -37,6 +37,15 @@ export interface AuditEntry {
    * via per-icon path) becomes visible.
    */
   perIconTraced: number;
+  /**
+   * Up to ~3 sample icon names per pack to seed manual visual check.
+   * Computed in pipeline.ts from the manifest after build — we deliberately
+   * pick names that are likely to surface bugs (the icons we'd open first
+   * to verify a duotone or paint-order behaviour).
+   */
+  duotoneSamples: string[];
+  paintOrderSamples: string[];
+  perIconTracedSamples: string[];
 }
 
 /**
@@ -148,15 +157,18 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
   if (paintRiskRows.length === 0) {
     lines.push('_No paint-order risk detected._');
   } else {
-    lines.push('| Set | Prefix | Paint-order % | Dropped | Raster applied |');
-    lines.push('|---|---|---:|---:|:---:|');
+    lines.push('| Set | Prefix | Paint-order % | Dropped | Raster applied | Spot-check |');
+    lines.push('|---|---|---:|---:|:---:|---|');
     for (const r of paintRiskRows) {
       const pct = (r.paintOrder.paintOrderRatio * 100).toFixed(0) + '%';
       const dropped = r.paintOrderDropped > 0
         ? r.paintOrderDropped.toLocaleString('en-US')
         : '—';
+      const samples = r.paintOrderSamples.length > 0
+        ? r.paintOrderSamples.map((n) => `\`${n}\``).join(', ')
+        : '—';
       lines.push(
-        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${pct} | ${dropped} | ${r.applied ? '✓' : '—'} |`
+        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${pct} | ${dropped} | ${r.applied ? '✓' : '—'} | ${samples} |`
       );
     }
   }
@@ -175,17 +187,22 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
       'Open these sets in the example app and verify the primary / ' +
         'secondary layers of a few icons sit in their expected positions ' +
         '(e.g. `ic/baseline-signal-wifi-1-bar-lock` — lock on the right, ' +
-        'wifi bars on the left). Sorted by duotone-icon count.'
+        'wifi bars on the left). The "Spot-check" column lists 2–3 names ' +
+        'per pack — start there, since these are the icons most likely ' +
+        'to surface duotone layering bugs.'
     );
     lines.push('');
-    lines.push('| Set | Prefix | Duotone icons |');
-    lines.push('|---|---|---:|');
+    lines.push('| Set | Prefix | Duotone icons | Spot-check |');
+    lines.push('|---|---|---:|---|');
     const sortedDuo = [...duotoneSets].sort(
       (a, b) => b.duotoneCount - a.duotoneCount
     );
     for (const r of sortedDuo) {
+      const samples = r.duotoneSamples.length > 0
+        ? r.duotoneSamples.map((n) => `\`${n}\``).join(', ')
+        : '—';
       lines.push(
-        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.duotoneCount.toLocaleString('en-US')} |`
+        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.duotoneCount.toLocaleString('en-US')} | ${samples} |`
       );
     }
   }
@@ -216,13 +233,16 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
   if (perIconRows.length === 0) {
     lines.push('_No per-icon traces this run._');
   } else {
-    lines.push('| Set | Prefix | Icons traced | Stroke % | Evenodd % |');
-    lines.push('|---|---|---:|---:|---:|');
+    lines.push('| Set | Prefix | Icons traced | Stroke % | Evenodd % | Spot-check |');
+    lines.push('|---|---|---:|---:|---:|---|');
     for (const r of perIconRows) {
       const pctStroke = (r.sig.strokeRatio * 100).toFixed(0) + '%';
       const pctEven = (r.sig.evenOddRatio * 100).toFixed(0) + '%';
+      const samples = r.perIconTracedSamples.length > 0
+        ? r.perIconTracedSamples.map((n) => `\`${n}\``).join(', ')
+        : '—';
       lines.push(
-        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.perIconTraced.toLocaleString('en-US')} | ${pctStroke} | ${pctEven} |`
+        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.perIconTraced.toLocaleString('en-US')} | ${pctStroke} | ${pctEven} | ${samples} |`
       );
     }
   }

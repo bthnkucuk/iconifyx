@@ -20,3 +20,6 @@ flutter:
     - family: Bi
       fonts:
         - asset: assets/fonts/Bi.ttf
+    - family: BiSecondary
+      fonts:
+        - asset: assets/fonts/BiSecondary.ttf

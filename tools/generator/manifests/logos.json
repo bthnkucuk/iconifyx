@@ -16,18 +16,18 @@
       "spdx": "CC0-1.0",
       "url": "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt"
     },
-    "total": 925
+    "total": 928
   },
   "fonts": [
     {
       "family": "Logos",
       "nextCodepoint": 59042,
-      "iconCount": 925
+      "iconCount": 928
     },
     {
       "family": "LogosSecondary",
       "nextCodepoint": 59042,
-      "iconCount": 372
+      "iconCount": 378
     }
   ],
   "icons": {
@@ -183,7 +183,8 @@
     "airbrake": {
       "codepoint": 57360,
       "fontFamily": "Logos",
-      "identifier": "airbrake"
+      "identifier": "airbrake",
+      "duotone": true
     },
     "airflow": {
       "codepoint": 58181,
@@ -1703,15 +1704,13 @@
       "codepoint": 57446,
       "fontFamily": "Logos",
       "identifier": "capacitorjs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "capacitorjs-icon": {
       "codepoint": 57447,
       "fontFamily": "Logos",
       "identifier": "capacitorjsIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "capistrano": {
       "codepoint": 57448,
@@ -2464,12 +2463,14 @@
     "datasette": {
       "codepoint": 57512,
       "fontFamily": "Logos",
-      "identifier": "datasette"
+      "identifier": "datasette",
+      "duotone": true
     },
     "datasette-icon": {
       "codepoint": 57513,
       "fontFamily": "Logos",
-      "identifier": "datasetteIcon"
+      "identifier": "datasetteIcon",
+      "duotone": true
     },
     "dataspell": {
       "codepoint": 58369,
@@ -3090,7 +3091,8 @@
       "codepoint": 58953,
       "fontFamily": "Logos",
       "identifier": "envoyer",
-      "duotone": true
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "envoyproxy": {
       "codepoint": 58411,
@@ -3796,8 +3798,7 @@
       "codepoint": 58457,
       "fontFamily": "Logos",
       "identifier": "gnuNet",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "gnupg": {
       "codepoint": 57630,
@@ -4272,7 +4273,8 @@
       "codepoint": 58963,
       "fontFamily": "Logos",
       "identifier": "hanami",
-      "duotone": true
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "hapi": {
       "codepoint": 58506,
@@ -5936,8 +5938,7 @@
       "codepoint": 57799,
       "fontFamily": "Logos",
       "identifier": "middleman",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "midjourney": {
       "codepoint": 57800,
@@ -7372,8 +7373,7 @@
       "codepoint": 57920,
       "fontFamily": "Logos",
       "identifier": "proofy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "prospect": {
       "codepoint": 57921,

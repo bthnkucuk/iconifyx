@@ -23,6 +23,11 @@
       "family": "Bi",
       "nextCodepoint": 59426,
       "iconCount": 2082
+    },
+    {
+      "family": "BiSecondary",
+      "nextCodepoint": 59426,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -7104,7 +7109,8 @@
     "opencollective": {
       "codepoint": 58757,
       "fontFamily": "Bi",
-      "identifier": "opencollective"
+      "identifier": "opencollective",
+      "duotone": true
     },
     "optical-audio": {
       "codepoint": 58758,

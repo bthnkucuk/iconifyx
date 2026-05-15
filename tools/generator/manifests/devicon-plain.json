@@ -27,7 +27,7 @@
     {
       "family": "DeviconPlainSecondary",
       "nextCodepoint": 58104,
-      "iconCount": 1
+      "iconCount": 2
     }
   ],
   "icons": {
@@ -1924,7 +1924,8 @@
     "livewire": {
       "codepoint": 57719,
       "fontFamily": "DeviconPlain",
-      "identifier": "livewire"
+      "identifier": "livewire",
+      "duotone": true
     },
     "livewire-wordmark": {
       "codepoint": 57720,

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: OpenMoji
 /// License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-/// Icons: 4049
+/// Icons: 4049 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -16366,9 +16366,10 @@ class OpenmojiIcons {
     IconData(0xecc5, fontFamily: 'Openmoji', fontPackage: 'iconifyx_openmoji'),
   );
 
-  /// `tardis`
-  static const IconifyIconData tardis = IconifyIconData.solo(
+  /// `tardis` (duo-tone)
+  static const IconifyIconData tardis = IconifyIconData.duo(
     IconData(0xecc6, fontFamily: 'Openmoji', fontPackage: 'iconifyx_openmoji'),
+    IconData(0xecc6, fontFamily: 'OpenmojiSecondary', fontPackage: 'iconifyx_openmoji'),
   );
 
   /// `taurus`

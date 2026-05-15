@@ -27,7 +27,7 @@
     {
       "family": "GgSecondary",
       "nextCodepoint": 58049,
-      "iconCount": 11
+      "iconCount": 31
     }
   ],
   "icons": {
@@ -69,32 +69,38 @@
     "align-bottom": {
       "codepoint": 57351,
       "fontFamily": "Gg",
-      "identifier": "alignBottom"
+      "identifier": "alignBottom",
+      "duotone": true
     },
     "align-center": {
       "codepoint": 57352,
       "fontFamily": "Gg",
-      "identifier": "alignCenter"
+      "identifier": "alignCenter",
+      "duotone": true
     },
     "align-left": {
       "codepoint": 57353,
       "fontFamily": "Gg",
-      "identifier": "alignLeft"
+      "identifier": "alignLeft",
+      "duotone": true
     },
     "align-middle": {
       "codepoint": 57354,
       "fontFamily": "Gg",
-      "identifier": "alignMiddle"
+      "identifier": "alignMiddle",
+      "duotone": true
     },
     "align-right": {
       "codepoint": 57355,
       "fontFamily": "Gg",
-      "identifier": "alignRight"
+      "identifier": "alignRight",
+      "duotone": true
     },
     "align-top": {
       "codepoint": 57356,
       "fontFamily": "Gg",
-      "identifier": "alignTop"
+      "identifier": "alignTop",
+      "duotone": true
     },
     "anchor": {
       "codepoint": 57357,
@@ -570,17 +576,20 @@
     "border-bottom": {
       "codepoint": 57451,
       "fontFamily": "Gg",
-      "identifier": "borderBottom"
+      "identifier": "borderBottom",
+      "duotone": true
     },
     "border-left": {
       "codepoint": 57452,
       "fontFamily": "Gg",
-      "identifier": "borderLeft"
+      "identifier": "borderLeft",
+      "duotone": true
     },
     "border-right": {
       "codepoint": 57453,
       "fontFamily": "Gg",
-      "identifier": "borderRight"
+      "identifier": "borderRight",
+      "duotone": true
     },
     "border-style-dashed": {
       "codepoint": 57454,
@@ -600,7 +609,8 @@
     "border-top": {
       "codepoint": 57457,
       "fontFamily": "Gg",
-      "identifier": "borderTop"
+      "identifier": "borderTop",
+      "duotone": true
     },
     "bot": {
       "codepoint": 57458,
@@ -1230,12 +1240,14 @@
     "distribute-horizontal": {
       "codepoint": 57583,
       "fontFamily": "Gg",
-      "identifier": "distributeHorizontal"
+      "identifier": "distributeHorizontal",
+      "duotone": true
     },
     "distribute-vertical": {
       "codepoint": 57584,
       "fontFamily": "Gg",
-      "identifier": "distributeVertical"
+      "identifier": "distributeVertical",
+      "duotone": true
     },
     "dock-bottom": {
       "codepoint": 57585,
@@ -1315,17 +1327,20 @@
     "edit-fade": {
       "codepoint": 57600,
       "fontFamily": "Gg",
-      "identifier": "editFade"
+      "identifier": "editFade",
+      "duotone": true
     },
     "edit-flip-h": {
       "codepoint": 57601,
       "fontFamily": "Gg",
-      "identifier": "editFlipH"
+      "identifier": "editFlipH",
+      "duotone": true
     },
     "edit-flip-v": {
       "codepoint": 57602,
       "fontFamily": "Gg",
-      "identifier": "editFlipV"
+      "identifier": "editFlipV",
+      "duotone": true
     },
     "edit-highlight": {
       "codepoint": 57603,
@@ -1455,7 +1470,8 @@
     "feed": {
       "codepoint": 57628,
       "fontFamily": "Gg",
-      "identifier": "feed"
+      "identifier": "feed",
+      "duotone": true
     },
     "figma": {
       "codepoint": 57629,
@@ -1616,7 +1632,8 @@
     "framer": {
       "codepoint": 57660,
       "fontFamily": "Gg",
-      "identifier": "framer"
+      "identifier": "framer",
+      "duotone": true
     },
     "games": {
       "codepoint": 57661,
@@ -1962,7 +1979,8 @@
     "magnet": {
       "codepoint": 57729,
       "fontFamily": "Gg",
-      "identifier": "magnet"
+      "identifier": "magnet",
+      "duotone": true
     },
     "mail": {
       "codepoint": 57730,
@@ -2272,7 +2290,8 @@
     "open-collective": {
       "codepoint": 57791,
       "fontFamily": "Gg",
-      "identifier": "openCollective"
+      "identifier": "openCollective",
+      "duotone": true
     },
     "options": {
       "codepoint": 57792,
@@ -2765,7 +2784,8 @@
     "reorder": {
       "codepoint": 57889,
       "fontFamily": "Gg",
-      "identifier": "reorder"
+      "identifier": "reorder",
+      "duotone": true
     },
     "repeat": {
       "codepoint": 57890,

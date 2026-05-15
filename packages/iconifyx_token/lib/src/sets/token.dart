@@ -7250,9 +7250,10 @@ class TokenIcons {
     IconData(0xe5a5, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
   );
 
-  /// `snx`
-  static const IconifyIconData snx = IconifyIconData.solo(
+  /// `snx` (duo-tone)
+  static const IconifyIconData snx = IconifyIconData.duo(
     IconData(0xe5a6, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
+    IconData(0xe5a6, fontFamily: 'TokenSecondary', fontPackage: 'iconifyx_token'),
   );
 
   /// `socks`
@@ -7615,9 +7616,10 @@ class TokenIcons {
     IconData(0xe5ee, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
   );
 
-  /// `suku`
-  static const IconifyIconData suku = IconifyIconData.solo(
+  /// `suku` (duo-tone)
+  static const IconifyIconData suku = IconifyIconData.duo(
     IconData(0xe5ef, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
+    IconData(0xe5ef, fontFamily: 'TokenSecondary', fontPackage: 'iconifyx_token'),
   );
 
   /// `super-seed`
@@ -7635,9 +7637,10 @@ class TokenIcons {
     IconData(0xe5f2, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
   );
 
-  /// `susd`
-  static const IconifyIconData susd = IconifyIconData.solo(
+  /// `susd` (duo-tone)
+  static const IconifyIconData susd = IconifyIconData.duo(
     IconData(0xe5f3, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
+    IconData(0xe5f3, fontFamily: 'TokenSecondary', fontPackage: 'iconifyx_token'),
   );
 
   /// `sushi`
@@ -8531,9 +8534,10 @@ class TokenIcons {
     IconData(0xe6a5, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
   );
 
-  /// `vsta`
-  static const IconifyIconData vsta = IconifyIconData.solo(
+  /// `vsta` (duo-tone)
+  static const IconifyIconData vsta = IconifyIconData.duo(
     IconData(0xe6a6, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
+    IconData(0xe6a6, fontFamily: 'TokenSecondary', fontPackage: 'iconifyx_token'),
   );
 
   /// `vsys`
@@ -8816,9 +8820,10 @@ class TokenIcons {
     IconData(0xe6de, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
   );
 
-  /// `x-layer`
-  static const IconifyIconData xLayer = IconifyIconData.solo(
+  /// `x-layer` (duo-tone)
+  static const IconifyIconData xLayer = IconifyIconData.duo(
     IconData(0xe6df, fontFamily: 'Token', fontPackage: 'iconifyx_token'),
+    IconData(0xe6df, fontFamily: 'TokenSecondary', fontPackage: 'iconifyx_token'),
   );
 
   /// `x2y2`

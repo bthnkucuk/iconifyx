@@ -428,9 +428,10 @@ class GcpIcons {
     IconData(0xe036, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
-  /// `google-cloud-marketplace`
-  static const IconifyIconData googleCloudMarketplace = IconifyIconData.solo(
+  /// `google-cloud-marketplace` (duo-tone)
+  static const IconifyIconData googleCloudMarketplace = IconifyIconData.duo(
     IconData(0xe037, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe037, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
 
   /// `home`

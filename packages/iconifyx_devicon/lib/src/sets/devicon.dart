@@ -547,14 +547,16 @@ class DeviconIcons {
     IconData(0xe058, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
   );
 
-  /// `capacitor`
-  static const IconifyIconData capacitor = IconifyIconData.solo(
+  /// `capacitor` (duo-tone)
+  static const IconifyIconData capacitor = IconifyIconData.duo(
     IconData(0xe059, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe059, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
   );
 
-  /// `capacitor-wordmark`
-  static const IconifyIconData capacitorWordmark = IconifyIconData.solo(
+  /// `capacitor-wordmark` (duo-tone)
+  static const IconifyIconData capacitorWordmark = IconifyIconData.duo(
     IconData(0xe05a, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe05a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
   );
 
   /// `carbon`
@@ -3758,9 +3760,10 @@ class DeviconIcons {
     IconData(0xe293, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
   );
 
-  /// `tortoisegit`
-  static const IconifyIconData tortoisegit = IconifyIconData.solo(
+  /// `tortoisegit` (duo-tone)
+  static const IconifyIconData tortoisegit = IconifyIconData.duo(
     IconData(0xe294, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe294, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
   );
 
   /// `towergit`

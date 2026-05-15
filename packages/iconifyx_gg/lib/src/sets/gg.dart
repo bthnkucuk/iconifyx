@@ -51,34 +51,40 @@ class GgIcons {
     IconData(0xe006, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `align-bottom`
-  static const IconifyIconData alignBottom = IconifyIconData.solo(
+  /// `align-bottom` (duo-tone)
+  static const IconifyIconData alignBottom = IconifyIconData.duo(
     IconData(0xe007, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe007, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `align-center`
-  static const IconifyIconData alignCenter = IconifyIconData.solo(
+  /// `align-center` (duo-tone)
+  static const IconifyIconData alignCenter = IconifyIconData.duo(
     IconData(0xe008, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe008, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `align-left`
-  static const IconifyIconData alignLeft = IconifyIconData.solo(
+  /// `align-left` (duo-tone)
+  static const IconifyIconData alignLeft = IconifyIconData.duo(
     IconData(0xe009, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe009, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `align-middle`
-  static const IconifyIconData alignMiddle = IconifyIconData.solo(
+  /// `align-middle` (duo-tone)
+  static const IconifyIconData alignMiddle = IconifyIconData.duo(
     IconData(0xe00a, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe00a, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `align-right`
-  static const IconifyIconData alignRight = IconifyIconData.solo(
+  /// `align-right` (duo-tone)
+  static const IconifyIconData alignRight = IconifyIconData.duo(
     IconData(0xe00b, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe00b, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `align-top`
-  static const IconifyIconData alignTop = IconifyIconData.solo(
+  /// `align-top` (duo-tone)
+  static const IconifyIconData alignTop = IconifyIconData.duo(
     IconData(0xe00c, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe00c, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `anchor`
@@ -552,19 +558,22 @@ class GgIcons {
     IconData(0xe06a, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `border-bottom`
-  static const IconifyIconData borderBottom = IconifyIconData.solo(
+  /// `border-bottom` (duo-tone)
+  static const IconifyIconData borderBottom = IconifyIconData.duo(
     IconData(0xe06b, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe06b, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `border-left`
-  static const IconifyIconData borderLeft = IconifyIconData.solo(
+  /// `border-left` (duo-tone)
+  static const IconifyIconData borderLeft = IconifyIconData.duo(
     IconData(0xe06c, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe06c, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `border-right`
-  static const IconifyIconData borderRight = IconifyIconData.solo(
+  /// `border-right` (duo-tone)
+  static const IconifyIconData borderRight = IconifyIconData.duo(
     IconData(0xe06d, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe06d, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `border-style-dashed`
@@ -582,9 +591,10 @@ class GgIcons {
     IconData(0xe070, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `border-top`
-  static const IconifyIconData borderTop = IconifyIconData.solo(
+  /// `border-top` (duo-tone)
+  static const IconifyIconData borderTop = IconifyIconData.duo(
     IconData(0xe071, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe071, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `bot`
@@ -1212,14 +1222,16 @@ class GgIcons {
     IconData(0xe0ee, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `distribute-horizontal`
-  static const IconifyIconData distributeHorizontal = IconifyIconData.solo(
+  /// `distribute-horizontal` (duo-tone)
+  static const IconifyIconData distributeHorizontal = IconifyIconData.duo(
     IconData(0xe0ef, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe0ef, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `distribute-vertical`
-  static const IconifyIconData distributeVertical = IconifyIconData.solo(
+  /// `distribute-vertical` (duo-tone)
+  static const IconifyIconData distributeVertical = IconifyIconData.duo(
     IconData(0xe0f0, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe0f0, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `dock-bottom`
@@ -1297,19 +1309,22 @@ class GgIcons {
     IconData(0xe0ff, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `edit-fade`
-  static const IconifyIconData editFade = IconifyIconData.solo(
+  /// `edit-fade` (duo-tone)
+  static const IconifyIconData editFade = IconifyIconData.duo(
     IconData(0xe100, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe100, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `edit-flip-h`
-  static const IconifyIconData editFlipH = IconifyIconData.solo(
+  /// `edit-flip-h` (duo-tone)
+  static const IconifyIconData editFlipH = IconifyIconData.duo(
     IconData(0xe101, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe101, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `edit-flip-v`
-  static const IconifyIconData editFlipV = IconifyIconData.solo(
+  /// `edit-flip-v` (duo-tone)
+  static const IconifyIconData editFlipV = IconifyIconData.duo(
     IconData(0xe102, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe102, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `edit-highlight`
@@ -1437,9 +1452,10 @@ class GgIcons {
     IconData(0xe11b, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `feed`
-  static const IconifyIconData feed = IconifyIconData.solo(
+  /// `feed` (duo-tone)
+  static const IconifyIconData feed = IconifyIconData.duo(
     IconData(0xe11c, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe11c, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `figma`
@@ -1598,9 +1614,10 @@ class GgIcons {
     IconData(0xe13b, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `framer`
-  static const IconifyIconData framer = IconifyIconData.solo(
+  /// `framer` (duo-tone)
+  static const IconifyIconData framer = IconifyIconData.duo(
     IconData(0xe13c, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe13c, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `games`
@@ -1944,9 +1961,10 @@ class GgIcons {
     IconData(0xe180, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `magnet`
-  static const IconifyIconData magnet = IconifyIconData.solo(
+  /// `magnet` (duo-tone)
+  static const IconifyIconData magnet = IconifyIconData.duo(
     IconData(0xe181, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe181, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `mail`
@@ -2254,9 +2272,10 @@ class GgIcons {
     IconData(0xe1be, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `open-collective`
-  static const IconifyIconData openCollective = IconifyIconData.solo(
+  /// `open-collective` (duo-tone)
+  static const IconifyIconData openCollective = IconifyIconData.duo(
     IconData(0xe1bf, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe1bf, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `options`
@@ -2747,9 +2766,10 @@ class GgIcons {
     IconData(0xe220, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
   );
 
-  /// `reorder`
-  static const IconifyIconData reorder = IconifyIconData.solo(
+  /// `reorder` (duo-tone)
+  static const IconifyIconData reorder = IconifyIconData.duo(
     IconData(0xe221, fontFamily: 'Gg', fontPackage: 'iconifyx_gg'),
+    IconData(0xe221, fontFamily: 'GgSecondary', fontPackage: 'iconifyx_gg'),
   );
 
   /// `repeat`

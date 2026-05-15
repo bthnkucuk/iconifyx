@@ -1480,24 +1480,28 @@ class QlementineIconsIcons {
     IconData(0xe11f, fontFamily: 'QlementineIcons', fontPackage: 'iconifyx_qlementine_icons'),
   );
 
-  /// `gamepad-button-bottom-16`
-  static const IconifyIconData gamepadButtonBottom16 = IconifyIconData.solo(
+  /// `gamepad-button-bottom-16` (duo-tone)
+  static const IconifyIconData gamepadButtonBottom16 = IconifyIconData.duo(
     IconData(0xe120, fontFamily: 'QlementineIcons', fontPackage: 'iconifyx_qlementine_icons'),
+    IconData(0xe120, fontFamily: 'QlementineIconsSecondary', fontPackage: 'iconifyx_qlementine_icons'),
   );
 
-  /// `gamepad-button-left-16`
-  static const IconifyIconData gamepadButtonLeft16 = IconifyIconData.solo(
+  /// `gamepad-button-left-16` (duo-tone)
+  static const IconifyIconData gamepadButtonLeft16 = IconifyIconData.duo(
     IconData(0xe121, fontFamily: 'QlementineIcons', fontPackage: 'iconifyx_qlementine_icons'),
+    IconData(0xe121, fontFamily: 'QlementineIconsSecondary', fontPackage: 'iconifyx_qlementine_icons'),
   );
 
-  /// `gamepad-button-right-16`
-  static const IconifyIconData gamepadButtonRight16 = IconifyIconData.solo(
+  /// `gamepad-button-right-16` (duo-tone)
+  static const IconifyIconData gamepadButtonRight16 = IconifyIconData.duo(
     IconData(0xe122, fontFamily: 'QlementineIcons', fontPackage: 'iconifyx_qlementine_icons'),
+    IconData(0xe122, fontFamily: 'QlementineIconsSecondary', fontPackage: 'iconifyx_qlementine_icons'),
   );
 
-  /// `gamepad-button-top-16`
-  static const IconifyIconData gamepadButtonTop16 = IconifyIconData.solo(
+  /// `gamepad-button-top-16` (duo-tone)
+  static const IconifyIconData gamepadButtonTop16 = IconifyIconData.duo(
     IconData(0xe123, fontFamily: 'QlementineIcons', fontPackage: 'iconifyx_qlementine_icons'),
+    IconData(0xe123, fontFamily: 'QlementineIconsSecondary', fontPackage: 'iconifyx_qlementine_icons'),
   );
 
   /// `gamepad-buttons-16`

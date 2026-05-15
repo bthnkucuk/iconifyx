@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
     },
-    "total": 780
+    "total": 778
   },
   "fonts": [
     {
       "family": "MaterialIconTheme",
       "nextCodepoint": 58136,
-      "iconCount": 780
+      "iconCount": 778
     },
     {
       "family": "MaterialIconThemeSecondary",
       "nextCodepoint": 58136,
-      "iconCount": 541
+      "iconCount": 539
     }
   ],
   "icons": {
@@ -1439,13 +1439,15 @@
       "codepoint": 57858,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFlow",
-      "duotone": true
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "folder-flow-open": {
       "codepoint": 57859,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFlowOpen",
-      "duotone": true
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "folder-flutter": {
       "codepoint": 57860,

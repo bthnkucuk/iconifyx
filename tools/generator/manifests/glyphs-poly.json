@@ -27,7 +27,7 @@
     {
       "family": "GlyphsPolySecondary",
       "nextCodepoint": 58077,
-      "iconCount": 293
+      "iconCount": 294
     }
   ],
   "icons": {
@@ -3429,7 +3429,8 @@
     "star-half-2": {
       "codepoint": 57917,
       "fontFamily": "GlyphsPoly",
-      "identifier": "starHalf2"
+      "identifier": "starHalf2",
+      "duotone": true
     },
     "star-of-david": {
       "codepoint": 57918,

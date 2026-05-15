@@ -27,7 +27,7 @@
     {
       "family": "QlementineIconsSecondary",
       "nextCodepoint": 58229,
-      "iconCount": 41
+      "iconCount": 45
     }
   ],
   "icons": {
@@ -1498,22 +1498,26 @@
     "gamepad-button-bottom-16": {
       "codepoint": 57632,
       "fontFamily": "QlementineIcons",
-      "identifier": "gamepadButtonBottom16"
+      "identifier": "gamepadButtonBottom16",
+      "duotone": true
     },
     "gamepad-button-left-16": {
       "codepoint": 57633,
       "fontFamily": "QlementineIcons",
-      "identifier": "gamepadButtonLeft16"
+      "identifier": "gamepadButtonLeft16",
+      "duotone": true
     },
     "gamepad-button-right-16": {
       "codepoint": 57634,
       "fontFamily": "QlementineIcons",
-      "identifier": "gamepadButtonRight16"
+      "identifier": "gamepadButtonRight16",
+      "duotone": true
     },
     "gamepad-button-top-16": {
       "codepoint": 57635,
       "fontFamily": "QlementineIcons",
-      "identifier": "gamepadButtonTop16"
+      "identifier": "gamepadButtonTop16",
+      "duotone": true
     },
     "gamepad-buttons-16": {
       "codepoint": 57636,

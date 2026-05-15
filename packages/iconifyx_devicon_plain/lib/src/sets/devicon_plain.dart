@@ -1906,9 +1906,10 @@ class DeviconPlainIcons {
     IconData(0xe176, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
   );
 
-  /// `livewire`
-  static const IconifyIconData livewire = IconifyIconData.solo(
+  /// `livewire` (duo-tone)
+  static const IconifyIconData livewire = IconifyIconData.duo(
     IconData(0xe177, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+    IconData(0xe177, fontFamily: 'DeviconPlainSecondary', fontPackage: 'iconifyx_devicon_plain'),
   );
 
   /// `livewire-wordmark`

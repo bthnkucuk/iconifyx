@@ -286,9 +286,10 @@ class FlatUiIcons {
     IconData(0xe030, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
   );
 
-  /// `pencils`
-  static const IconifyIconData pencils = IconifyIconData.solo(
+  /// `pencils` (duo-tone)
+  static const IconifyIconData pencils = IconifyIconData.duo(
     IconData(0xe031, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe031, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );
 
   /// `picture`

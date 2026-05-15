@@ -20,3 +20,6 @@ flutter:
     - family: AntDesign
       fonts:
         - asset: assets/fonts/AntDesign.ttf
+    - family: AntDesignSecondary
+      fonts:
+        - asset: assets/fonts/AntDesignSecondary.ttf

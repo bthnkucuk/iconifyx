@@ -27,7 +27,7 @@
     {
       "family": "CryptocurrencySecondary",
       "nextCodepoint": 57833,
-      "iconCount": 15
+      "iconCount": 21
     }
   ],
   "icons": {
@@ -99,7 +99,8 @@
     "agi": {
       "codepoint": 57357,
       "fontFamily": "Cryptocurrency",
-      "identifier": "agi"
+      "identifier": "agi",
+      "duotone": true
     },
     "agrs": {
       "codepoint": 57358,
@@ -774,7 +775,8 @@
     "elix": {
       "codepoint": 57491,
       "fontFamily": "Cryptocurrency",
-      "identifier": "elix"
+      "identifier": "elix",
+      "duotone": true
     },
     "ella": {
       "codepoint": 57492,
@@ -794,7 +796,8 @@
     "emc2": {
       "codepoint": 57495,
       "fontFamily": "Cryptocurrency",
-      "identifier": "emc2"
+      "identifier": "emc2",
+      "duotone": true
     },
     "eng": {
       "codepoint": 57496,
@@ -1405,7 +1408,8 @@
     "mth": {
       "codepoint": 57616,
       "fontFamily": "Cryptocurrency",
-      "identifier": "mth"
+      "identifier": "mth",
+      "duotone": true
     },
     "mtl": {
       "codepoint": 57617,
@@ -2167,7 +2171,8 @@
     "ubq": {
       "codepoint": 57768,
       "fontFamily": "Cryptocurrency",
-      "identifier": "ubq"
+      "identifier": "ubq",
+      "duotone": true
     },
     "uma": {
       "codepoint": 57769,
@@ -2479,7 +2484,8 @@
     "zil": {
       "codepoint": 57830,
       "fontFamily": "Cryptocurrency",
-      "identifier": "zil"
+      "identifier": "zil",
+      "duotone": true
     },
     "zilla": {
       "codepoint": 57831,

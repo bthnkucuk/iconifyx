@@ -27,7 +27,7 @@
     {
       "family": "TokenBrandedSecondary",
       "nextCodepoint": 59008,
-      "iconCount": 199
+      "iconCount": 205
     }
   ],
   "icons": {
@@ -145,7 +145,8 @@
     "adoge": {
       "codepoint": 57366,
       "fontFamily": "TokenBranded",
-      "identifier": "adoge"
+      "identifier": "adoge",
+      "duotone": true
     },
     "adp": {
       "codepoint": 57367,
@@ -1250,7 +1251,8 @@
     "cbeth": {
       "codepoint": 57572,
       "fontFamily": "TokenBranded",
-      "identifier": "cbeth"
+      "identifier": "cbeth",
+      "duotone": true
     },
     "cbx": {
       "codepoint": 57573,
@@ -6792,7 +6794,8 @@
     "snx": {
       "codepoint": 58611,
       "fontFamily": "TokenBranded",
-      "identifier": "snx"
+      "identifier": "snx",
+      "duotone": true
     },
     "socks": {
       "codepoint": 58612,
@@ -7088,7 +7091,8 @@
     "susd": {
       "codepoint": 58666,
       "fontFamily": "TokenBranded",
-      "identifier": "susd"
+      "identifier": "susd",
+      "duotone": true
     },
     "sushi": {
       "codepoint": 58667,
@@ -8154,7 +8158,8 @@
     "x-layer": {
       "codepoint": 58863,
       "fontFamily": "TokenBranded",
-      "identifier": "xLayer"
+      "identifier": "xLayer",
+      "duotone": true
     },
     "x2y2": {
       "codepoint": 58864,
@@ -8291,7 +8296,8 @@
     "xno": {
       "codepoint": 58890,
       "fontFamily": "TokenBranded",
-      "identifier": "xno"
+      "identifier": "xno",
+      "duotone": true
     },
     "xor": {
       "codepoint": 58891,

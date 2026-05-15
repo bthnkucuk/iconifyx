@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Gil Barbara
 /// License: CC0 — https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt
-/// Icons: 925 (split across 2 fonts)
+/// Icons: 928 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -144,9 +144,10 @@ class LogosIcons {
     IconData(0xe00f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `airbrake`
-  static const IconifyIconData airbrake = IconifyIconData.solo(
+  /// `airbrake` (duo-tone)
+  static const IconifyIconData airbrake = IconifyIconData.duo(
     IconData(0xe010, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe010, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
   /// `akamai` (duo-tone)
@@ -718,6 +719,18 @@ class LogosIcons {
     IconData(0xe3c9, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
+  /// `capacitorjs` (duo-tone)
+  static const IconifyIconData capacitorjs = IconifyIconData.duo(
+    IconData(0xe066, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe066, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
+  );
+
+  /// `capacitorjs-icon` (duo-tone)
+  static const IconifyIconData capacitorjsIcon = IconifyIconData.duo(
+    IconData(0xe067, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe067, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
+  );
+
   /// `carbide`
   static const IconifyIconData carbide = IconifyIconData.solo(
     IconData(0xe069, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -1088,14 +1101,16 @@ class LogosIcons {
     IconData(0xe0a7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `datasette`
-  static const IconifyIconData datasette = IconifyIconData.solo(
+  /// `datasette` (duo-tone)
+  static const IconifyIconData datasette = IconifyIconData.duo(
     IconData(0xe0a8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe0a8, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `datasette-icon`
-  static const IconifyIconData datasetteIcon = IconifyIconData.solo(
+  /// `datasette-icon` (duo-tone)
+  static const IconifyIconData datasetteIcon = IconifyIconData.duo(
     IconData(0xe0a9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe0a9, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
   /// `dbt` (duo-tone)
@@ -1361,12 +1376,6 @@ class LogosIcons {
   /// `envato`
   static const IconifyIconData envato = IconifyIconData.solo(
     IconData(0xe0dd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-  );
-
-  /// `envoyer` (duo-tone)
-  static const IconifyIconData envoyer = IconifyIconData.duo(
-    IconData(0xe649, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-    IconData(0xe649, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
   /// `eraser-icon` (duo-tone)
@@ -1754,6 +1763,12 @@ class LogosIcons {
     IconData(0xe11d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
+  /// `gnu-net` (duo-tone)
+  static const IconifyIconData gnuNet = IconifyIconData.duo(
+    IconData(0xe459, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe459, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
+  );
+
   /// `gnupg`
   static const IconifyIconData gnupg = IconifyIconData.solo(
     IconData(0xe11e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -1906,12 +1921,6 @@ class LogosIcons {
   static const IconifyIconData haml = IconifyIconData.duo(
     IconData(0xe489, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe489, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
-  );
-
-  /// `hanami` (duo-tone)
-  static const IconifyIconData hanami = IconifyIconData.duo(
-    IconData(0xe653, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-    IconData(0xe653, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
   /// `harness` (duo-tone)
@@ -2837,6 +2846,12 @@ class LogosIcons {
     IconData(0xe1c6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
+  /// `middleman` (duo-tone)
+  static const IconifyIconData middleman = IconifyIconData.duo(
+    IconData(0xe1c7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe1c7, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
+  );
+
   /// `midjourney`
   static const IconifyIconData midjourney = IconifyIconData.solo(
     IconData(0xe1c8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -3515,6 +3530,12 @@ class LogosIcons {
   static const IconifyIconData promises = IconifyIconData.duo(
     IconData(0xe55b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe55b, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
+  );
+
+  /// `proofy` (duo-tone)
+  static const IconifyIconData proofy = IconifyIconData.duo(
+    IconData(0xe240, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe240, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
   /// `prospect` (duo-tone)

@@ -26,6 +26,18 @@ export interface GeneratorConfig {
    * (2.0) is implicit and keeps the original icon name (no suffix).
    */
   multiWeightStrokeSets?: Record<string, Record<string, number>>;
+  /**
+   * Iconify prefixes that encode meaning through concrete colours
+   * (Catppuccin uses one stroke colour per icon from its palette;
+   * some entries are two-tone). Before stroke-fill, the pipeline
+   * normalises every concrete `fill="…"` / `stroke="…"` to
+   * `currentColor` so the rasterizer + Potrace pre-pass sees a
+   * high-contrast silhouette regardless of the source palette.
+   * Bodies with exactly two distinct concrete colours additionally
+   * get split into duotone primary/secondary; three-or-more-colour
+   * bodies flatten to a single layer.
+   */
+  colorMappedSets?: string[];
 }
 
 const CONFIG_PATH = path.resolve(import.meta.dir, '..', 'config.yaml');

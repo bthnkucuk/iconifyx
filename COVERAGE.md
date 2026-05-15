@@ -6,7 +6,7 @@ Generated 2026-05-15 from `@iconify/json` v2.2.472. Source counts are Iconify's 
 - **Sets fully missing:** 0
 - **Sets partially missing (≥5% gap):** 33
 - **Source icons:** 301,637
-- **Built icons:** 304,612
+- **Built icons:** 304,613
 
 Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light`/`-bold` suffixes) are excluded from the built count so source-vs-built comparisons stay meaningful — those are local clones, not upstream icons.
 
@@ -33,11 +33,11 @@ _None._
 | Flat Color Icons | `flat-color-icons` | 329 | 97 | 232 | 70.5% |
 | VSCode Icons | `vscode-icons` | 1,489 | 672 | 817 | 54.9% |
 | IconPark TwoTone | `icon-park-twotone` | 1,944 | 884 | 1,060 | 54.5% |
-| SVG Logos | `logos` | 1,861 | 925 | 936 | 50.3% |
+| SVG Logos | `logos` | 1,861 | 928 | 933 | 50.1% |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | 380 | 48.3% |
 | Google Cloud Icons | `gcp` | 214 | 118 | 96 | 44.9% |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | 411 | 41.2% |
-| Material Icon Theme | `material-icon-theme` | 1,168 | 780 | 388 | 33.2% |
+| Material Icon Theme | `material-icon-theme` | 1,168 | 778 | 390 | 33.4% |
 | Flat UI Icons | `flat-ui` | 100 | 75 | 25 | 25.0% |
 | Flagpack | `flagpack` | 254 | 191 | 63 | 24.8% |
 | Devicon | `devicon` | 1,036 | 808 | 228 | 22.0% |
@@ -71,11 +71,11 @@ _None._
 | Flat Color Icons | `flat-color-icons` | 329 | 97 | +232 | ⚠ partial |
 | VSCode Icons | `vscode-icons` | 1,489 | 672 | +817 | ⚠ partial |
 | IconPark TwoTone | `icon-park-twotone` | 1,944 | 884 | +1060 | ⚠ partial |
-| SVG Logos | `logos` | 1,861 | 925 | +936 | ⚠ partial |
+| SVG Logos | `logos` | 1,861 | 928 | +933 | ⚠ partial |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | +380 | ⚠ partial |
 | Google Cloud Icons | `gcp` | 214 | 118 | +96 | ⚠ partial |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | +411 | ⚠ partial |
-| Material Icon Theme | `material-icon-theme` | 1,168 | 780 | +388 | ⚠ partial |
+| Material Icon Theme | `material-icon-theme` | 1,168 | 778 | +390 | ⚠ partial |
 | Flat UI Icons | `flat-ui` | 100 | 75 | +25 | ⚠ partial |
 | Flagpack | `flagpack` | 254 | 191 | +63 | ⚠ partial |
 | Devicon | `devicon` | 1,036 | 808 | +228 | ⚠ partial |

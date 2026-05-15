@@ -3411,9 +3411,10 @@ class GlyphsPolyIcons {
     IconData(0xe23c, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
   );
 
-  /// `star-half-2`
-  static const IconifyIconData starHalf2 = IconifyIconData.solo(
+  /// `star-half-2` (duo-tone)
+  static const IconifyIconData starHalf2 = IconifyIconData.duo(
     IconData(0xe23d, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
+    IconData(0xe23d, fontFamily: 'GlyphsPolySecondary', fontPackage: 'iconifyx_glyphs_poly'),
   );
 
   /// `star-of-david`

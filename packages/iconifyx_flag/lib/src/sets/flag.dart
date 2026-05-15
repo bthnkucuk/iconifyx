@@ -726,14 +726,16 @@ class FlagIcons {
     IconData(0xe089, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
-  /// `es-ga-1x1`
-  static const IconifyIconData esGa1x1 = IconifyIconData.solo(
+  /// `es-ga-1x1` (duo-tone)
+  static const IconifyIconData esGa1x1 = IconifyIconData.duo(
     IconData(0xe08a, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe08a, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'),
   );
 
-  /// `es-ga-4x3`
-  static const IconifyIconData esGa4x3 = IconifyIconData.solo(
+  /// `es-ga-4x3` (duo-tone)
+  static const IconifyIconData esGa4x3 = IconifyIconData.duo(
     IconData(0xe08b, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe08b, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'),
   );
 
   /// `es-pv-1x1`

@@ -20,3 +20,6 @@ flutter:
     - family: Catppuccin
       fonts:
         - asset: assets/fonts/Catppuccin.ttf
+    - family: CatppuccinSecondary
+      fonts:
+        - asset: assets/fonts/CatppuccinSecondary.ttf

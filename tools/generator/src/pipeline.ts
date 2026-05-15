@@ -20,6 +20,9 @@ import {
   isDuotoneBody,
   splitDuotoneBody,
   trySplitTwoColorBody,
+  trySplitTwoStrokeColorBody,
+  normalizeColorsToCurrentColor,
+  extractConcreteColors,
   setStrokeWidth,
   rasterFillSignal,
   paintOrderSignal,
@@ -106,6 +109,13 @@ interface RasterFillAuditEntry {
    * quietly fixed at icon granularity.
    */
   perIconTraced: number;
+  /**
+   * Up to 3 icon names per pack to seed manual visual checks in the audit
+   * report. Captured during processing so we can list concrete spot-check
+   * targets next to each per-pack stat.
+   */
+  paintOrderDroppedSamples: string[];
+  perIconTracedSamples: string[];
 }
 const rasterFillSignalCache = new Map<string, RasterFillAuditEntry>();
 
@@ -244,9 +254,14 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
   for (const [prefix, info] of Object.entries(collections)) {
     const cached = rasterFillSignalCache.get(prefix);
     const m = allManifests.find((x) => x.prefix === prefix);
-    const live = m
-      ? Object.values(m.icons).filter((i) => !i.deprecated)
+    const liveEntries = m
+      ? Object.entries(m.icons).filter(([, i]) => !i.deprecated)
       : [];
+    const live = liveEntries.map(([, i]) => i);
+    const duotoneSamples = liveEntries
+      .filter(([, i]) => i.duotone)
+      .map(([name]) => name)
+      .slice(0, 3);
     auditEntries.push({
       prefix,
       setName: info.name,
@@ -258,6 +273,9 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
       paintOrder: cached?.paintOrder ?? { paintOrderRatio: 0 },
       paintOrderDropped: cached?.paintOrderDropped ?? 0,
       perIconTraced: cached?.perIconTraced ?? 0,
+      duotoneSamples,
+      paintOrderSamples: cached?.paintOrderDroppedSamples ?? [],
+      perIconTracedSamples: cached?.perIconTracedSamples ?? [],
     });
   }
   await writeStrokeAudit(auditEntries);
@@ -347,6 +365,48 @@ async function processOneSet(
     );
   }
 
+  // Colour-mapped pack preprocess. Some packs (Catppuccin etc.) tint each
+  // icon with one or two palette accents via concrete `stroke="…"` /
+  // `fill="…"` values. Iconify ships these as raw hex colours, NOT
+  // `currentColor`, so the downstream rasterize-trace pass sees light-on-
+  // light geometry and Potrace traces an empty silhouette (Catppuccin
+  // originally shipped with 659 blank glyphs for this reason).
+  //
+  // Before stroke-fill, walk each icon: count distinct concrete colours,
+  // then either split into duotone (exactly 2) or flatten every concrete
+  // fill/stroke to `currentColor` (1 or 3+). Bodies already handled by
+  // the opacity-based or fill-paint-order duotone splits above are skipped.
+  const colorMappedSets = config.colorMappedSets ?? [];
+  const isColorMappedSet = colorMappedSets.includes(prefix);
+  if (isColorMappedSet) {
+    let cmMono = 0;
+    let cmDuo = 0;
+    let cmFlatMulti = 0;
+    for (const r of allResolved) {
+      if (duotoneNames.has(r.name)) continue;
+      const colors = extractConcreteColors(r.body);
+      if (colors.size === 0) continue;
+      if (colors.size === 2) {
+        const split = trySplitTwoStrokeColorBody(r.body);
+        if (split !== null) {
+          r.body = split.primary;
+          secondaryByName.set(r.name, { ...r, body: split.secondary });
+          duotoneNames.add(r.name);
+          cmDuo += 1;
+          continue;
+        }
+      }
+      r.body = normalizeColorsToCurrentColor(r.body);
+      if (colors.size === 1) cmMono += 1;
+      else cmFlatMulti += 1;
+    }
+    if (cmMono + cmDuo + cmFlatMulti > 0) {
+      log.info(
+        `  "${prefix}": colour-mapped preprocess — ${cmMono} mono, ${cmDuo} duotone-split, ${cmFlatMulti} 3+→flattened`
+      );
+    }
+  }
+
   // Stroke / evenodd icon sets need rasterize-then-trace pre-processing
   // before font conversion (svgicons2svgfont collapses strokes to zero
   // width and TTF rendering uses non-zero winding regardless of an
@@ -370,6 +430,7 @@ async function processOneSet(
   // detector missed them — surfaced in the audit so we can see which sets
   // are quietly fixed at icon granularity.
   let perIconTraced = 0;
+  let perIconTracedNames: string[] = [];
   // Icons whose stroke-fill worker panicked the native rasterizer — bisect
   // isolated them and the pipeline drops them from the manifest just like
   // a glyph-validator failure.
@@ -393,6 +454,7 @@ async function processOneSet(
     const perIconNeeded = allResolved.filter((r) => iconNeedsRasterTrace(r.body));
     if (perIconNeeded.length > 0) {
       perIconTraced = perIconNeeded.length;
+      perIconTracedNames = perIconNeeded.map((r) => r.name);
       log.info(
         `  "${prefix}": per-icon raster-trace on ${perIconNeeded.length} icon${perIconNeeded.length === 1 ? '' : 's'} (pack sample under threshold)`
       );
@@ -454,6 +516,8 @@ async function processOneSet(
     paintOrder: paintSig,
     paintOrderDropped,
     perIconTraced,
+    paintOrderDroppedSamples: [...paintOrderDroppedNames].slice(0, 3),
+    perIconTracedSamples: perIconTracedNames.slice(0, 3),
   });
 
   if (paintOrderDropped > 0) {

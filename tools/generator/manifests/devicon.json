@@ -27,7 +27,7 @@
     {
       "family": "DeviconSecondary",
       "nextCodepoint": 58152,
-      "iconCount": 177
+      "iconCount": 180
     }
   ],
   "icons": {
@@ -565,12 +565,14 @@
     "capacitor": {
       "codepoint": 57433,
       "fontFamily": "Devicon",
-      "identifier": "capacitor"
+      "identifier": "capacitor",
+      "duotone": true
     },
     "capacitor-wordmark": {
       "codepoint": 57434,
       "fontFamily": "Devicon",
-      "identifier": "capacitorWordmark"
+      "identifier": "capacitorWordmark",
+      "duotone": true
     },
     "carbon": {
       "codepoint": 57435,
@@ -3776,7 +3778,8 @@
     "tortoisegit": {
       "codepoint": 58004,
       "fontFamily": "Devicon",
-      "identifier": "tortoisegit"
+      "identifier": "tortoisegit",
+      "duotone": true
     },
     "towergit": {
       "codepoint": 58005,
