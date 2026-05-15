@@ -196,8 +196,18 @@ class _IconifyPainter extends CustomPainter {
 
   @override
   void paint(Canvas canvas, Size canvasSize) {
-    // BoxFit.contain emulation. Compute the largest scale that keeps both
-    // glyphs inside canvasSize (preserving aspect), then centre.
+    // Glyphs are shaped at `fontSize == size`, so their em-quad already
+    // matches `canvasSize`. Primary + secondary share the SAME canonical
+    // 1000-em-quad (force-set by the generator's font-merger) so layers
+    // overlay in alignment when painted at the same Offset.zero.
+    //
+    // We still apply a `min(canvasSize / glyphPaintW, 1.0)` clamp-BoxFit
+    // for wide-aspect glyphs like `logos:adobe-after-effects` whose
+    // wordmark spans >1 em horizontally — without it those overflow the
+    // declared icon size box. The clamp's upper bound of 1.0 means
+    // narrow icons never UP-scale (a previous bug from up-scaling icons
+    // by `canvas.scale(canvasSize/maxBboxW)` was the Solar
+    // `add-circle-bold-duotone` left-pinned regression).
     final double maxGlyphW = math.max(
       _primaryTp.width,
       _secondaryTp?.width ?? 0,
@@ -207,9 +217,10 @@ class _IconifyPainter extends CustomPainter {
       _secondaryTp?.height ?? 0,
     );
     if (maxGlyphW <= 0 || maxGlyphH <= 0) return;
-    final double scaleX = canvasSize.width / maxGlyphW;
-    final double scaleY = canvasSize.height / maxGlyphH;
-    final double scale = math.min(scaleX, scaleY);
+    final double scale = math.min(
+      math.min(canvasSize.width / maxGlyphW, canvasSize.height / maxGlyphH),
+      1.0,
+    );
     final double dx = (canvasSize.width - maxGlyphW * scale) / 2;
     final double dy = (canvasSize.height - maxGlyphH * scale) / 2;
 

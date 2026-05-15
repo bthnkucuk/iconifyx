@@ -104,22 +104,24 @@ _No per-icon traces this run._
 
 Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a consumer `<path mask="url(#X)"/>` (Solar bold, icon-park-twotone, icon-park-solid, line-md, pepicons-pop/pencil, lets-icons duotone-line, …). Before the custom stroke-fill worker landed, these icons shipped with their main body invisible because `oslllo-svg-fixer` force-set the first <path>'s fill to black inside the mask. The worker bypasses that step now and the bodies trace correctly via resvg.
 
-- **Icons using the inverse-mask pattern across all packs:** 0
+- **Icons using the inverse-mask pattern across all packs:** 28
 
-_No mask-pattern icons detected._
+| Set | Prefix | Mask icons | % of pack | Spot-check |
+|---|---|---:|---:|---|
+| Solar | `solar` | 28 | 0% | `accumulator-bold`, `card-bold`, `chat-round-dots-bold` |
 
 ## All sets
 
 | Set | Prefix | Stroke % | Evenodd % | Paint-order % | Per-icon | Duotone | Applied | Source |
 |---|---|---:|---:|---:|---:|---:|:---:|---|
-| Tabler Icons | `tabler` | 84% | 0% | 0% | — | 4 | ✓ | explicit |
+| Solar | `solar` | 48% | 40% | 0% | — | 2,413 | ✓ | explicit |
 | Material Symbols | `material-symbols` | 0% | 0% | 0% | — | — | — | none |
 | Material Symbols Light | `material-symbols-light` | 0% | 0% | 0% | — | — | — | none |
 | Google Material Icons | `ic` | 0% | 0% | 0% | — | 1,500 | — | none |
 | Material Design Icons | `mdi` | 0% | 0% | 0% | — | — | — | none |
 | Material Design Light | `mdi-light` | 0% | 0% | 0% | — | — | — | none |
 | Material Line Icons | `line-md` | 0% | 0% | 0% | — | — | — | none |
-| Solar | `solar` | 0% | 0% | 0% | — | 2,413 | — | none |
+| Tabler Icons | `tabler` | 0% | 0% | 0% | — | 4 | — | none |
 | Boxicons | `boxicons` | 0% | 0% | 0% | — | — | — | none |
 | MingCute Icon | `mingcute` | 0% | 0% | 0% | — | 2 | — | none |
 | Remix Icon | `ri` | 0% | 0% | 0% | — | — | — | none |

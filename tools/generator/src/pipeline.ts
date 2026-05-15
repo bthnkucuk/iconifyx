@@ -41,7 +41,11 @@ import {
 } from './manifest.ts';
 import { allocateCodepoints } from './codepoint_allocator.ts';
 import { buildFonts } from './font_builder.ts';
-import { mergeSiblingsInManifest, ensurePythonVenv } from './font_merger.ts';
+import {
+  mergeSiblingsInManifest,
+  canonicalizeTtfs,
+  ensurePythonVenv,
+} from './font_merger.ts';
 import { emitSetDart } from './dart_codegen.ts';
 import {
   emitSetPubspec,
@@ -806,7 +810,14 @@ async function processOneSet(
   // Single-TTF packs and base-only fonts (no `_2` siblings) pass
   // through unchanged.
   const mergeResult = await mergeSiblingsInManifest(manifest, ttfs);
-  const finalTtfs = mergeResult.ttfs;
+
+  // Force canonical 1000-em-quad metrics on EVERY emitted TTF (both
+  // merged primaries AND single-tier packs AND every Secondary). svg2ttf
+  // recomputes head/hhea/OS/2 from glyph extents, leaving every pack
+  // with slightly different metric tables; this canonicalisation step
+  // guarantees primary + secondary glyphs paint in the same reference
+  // frame so duotone composition stays aligned. See §33 / `GLYPH_METRICS_AUDIT.md`.
+  const finalTtfs = await canonicalizeTtfs(mergeResult.ttfs);
 
   const dartSource = emitSetDart({
     manifest,

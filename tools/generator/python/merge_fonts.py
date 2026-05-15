@@ -129,7 +129,13 @@ def merge_fonts(
     if not input_paths:
         raise SystemExit("at least one input TTF required")
 
-    base = TTFont(str(input_paths[0]))
+    # `recalcBBoxes=False` on the constructor tells fontTools to NOT
+    # recompute head.xMin/xMax/yMin/yMax from glyph extents on save.
+    # Without it, the canonical 1000-em-quad we force below gets
+    # overwritten on `base.save(...)` by glyph-actual bounds — which
+    # is what caused the primary/secondary metric-frame mismatch
+    # behind the Solar duotone alignment bug (see §33).
+    base = TTFont(str(input_paths[0]), recalcBBoxes=False)
     base_cmap = collect_codepoints_to_glyph(base)
     base_glyph_order = list(base.getGlyphOrder())
     base_glyph_set = set(base_glyph_order)
@@ -139,7 +145,7 @@ def merge_fonts(
     remap_manifest: dict[str, dict[str, str]] = {}
 
     for sibling_path in input_paths[1:]:
-        sib = TTFont(str(sibling_path))
+        sib = TTFont(str(sibling_path), recalcBBoxes=False)
         sib_cmap = collect_codepoints_to_glyph(sib)
         sib_stem = sibling_path.stem
         per_sibling_remap: dict[str, str] = {}
@@ -206,6 +212,41 @@ def merge_fonts(
     base.setGlyphOrder(base_glyph_order)
     base["maxp"].numGlyphs = len(base_glyph_order)
 
+    # Force standard 1000-unit em-quad metric tables on EVERY merged TTF.
+    # Without this, primary (Solar.ttf) and Secondary (SolarSecondary.ttf)
+    # end up with different head.xMin / head.yMax / OS/2.usWinAscent values
+    # because fontTools recomputes them from the union of imported glyph
+    # extents — and those extents differ pack-by-pack and tier-by-tier.
+    # The mismatch shifts Flutter's TextPainter y-origin between primary
+    # and secondary by a few units (different ascender / descender), and
+    # the resulting glyphs render horizontally and vertically offset from
+    # one another.
+    #
+    # By forcing identical reference frames (0-1000 em-box, ascent=1000,
+    # descent=0, no line gap), primary and secondary glyphs share an
+    # exact (x, y) origin in canvas space — duotone composition stays
+    # in alignment regardless of which icon's bounding box is what.
+    base["head"].xMin = 0
+    base["head"].xMax = 1000
+    base["head"].yMin = 0
+    base["head"].yMax = 1000
+    base["head"].unitsPerEm = 1000
+
+    base["hhea"].ascent = 1000
+    base["hhea"].descent = 0
+    base["hhea"].lineGap = 0
+    base["hhea"].advanceWidthMax = 1000
+    base["hhea"].minLeftSideBearing = 0
+    base["hhea"].minRightSideBearing = 0
+    base["hhea"].xMaxExtent = 1000
+
+    base["OS/2"].usWinAscent = 1000
+    base["OS/2"].usWinDescent = 0
+    base["OS/2"].sTypoAscender = 1000
+    base["OS/2"].sTypoDescender = 0
+    base["OS/2"].sTypoLineGap = 0
+    base["OS/2"].xAvgCharWidth = 1000
+
     # Rebuild cmap: format 12 for both Unicode platforms (0/4 and 3/10),
     # plus format 4 fallbacks for the BMP-only subset (some legacy text
     # paths still consult format 4 first).
@@ -246,6 +287,13 @@ def merge_fonts(
             except Exception:
                 pass
 
+    # Save. The `recalcBBoxes=False` was already set on the constructor
+    # of both base and siblings — fontTools propagates that flag to
+    # `save()`, so head.xMin/xMax/yMin/yMax stays at the canonical
+    # 0..1000 box we forced above. Otherwise svg2ttf's actual glyph
+    # extents would leak back into head and drift the primary/secondary
+    # reference frame (the Solar `add-circle-bold-duotone` alignment
+    # bug — see §33).
     base.save(str(output_path))
     base.close()
     return remap_manifest

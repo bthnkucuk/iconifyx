@@ -1,0 +1,31 @@
+name: iconifyx_render_host
+description: >-
+  Headless render harness — takes (pack, icon, mode, size) and writes a PNG
+  via `flutter test` + `RepaintBoundary.toImage`. The `dependencies` block
+  below is REWRITTEN per invocation by tools/generator/audit/render/render-icon.ts
+  to pull in only `iconifyx_core` + the requested `iconifyx_<prefix>` pack
+  (preserving the §32 per-set tree-shake invariant). Do not hand-edit this
+  file; edit the CLI template at render-icon.ts instead.
+publish_to: 'none'
+version: 0.0.1
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+# RENDER_HOST_DEPS_START
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../../../../../packages/iconifyx_core
+  iconifyx_solar:
+    path: ../../../../../packages/iconifyx_solar
+# RENDER_HOST_DEPS_END
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: false

@@ -3151,7 +3151,7 @@ real value.**
 
 ---
 
-## §28 — Multi-pack tree-shake: EMPIRICAL findings + invariant correction
+## §28 — Multi-pack tree-shake: EMPIRICAL findings + invariant correction ✅ DONE
 
 > ✅ **RESOLVED in §32 (single-TTF-per-pack via cmap format 12).**
 > The 12.1 MB → 2.5 KB delta for the same 3-pack scenario is now
@@ -3338,7 +3338,7 @@ Recommended change to the invariant section:
 
 ---
 
-## §29 — Research-plan gap audit (meta)
+## §29 — Research-plan gap audit (meta) ✅ DONE (documented)
 
 **Verdict: Plan is comprehensive but has TWO STRUCTURAL WEAKNESSES.
 (1) NO MEASUREMENT LAYER — §15 already called this out for §13;
@@ -3483,7 +3483,7 @@ The plan is comprehensive but needs:
 
 ---
 
-## §30 — Implementation roadmap (waves + critical path + first-PR series)
+## §30 — Implementation roadmap (waves + critical path + first-PR series) ✅ DONE (documented)
 
 **Verdict: Ship Wave 1 + Wave 2 in next 3-4 weeks (~50 h, mostly
 trivial PRs). Closes EVERY known correctness bug (§19, §27),
@@ -3731,7 +3731,7 @@ long. Skip §8 Python unless §3-quick + §4 prove insufficient.
 
 ---
 
-## §31 — Tree-shake sibling-TTF tax: zero-config auto-fix research
+## §31 — Tree-shake sibling-TTF tax: zero-config auto-fix research ✅ OBSOLETE
 
 > ✅ **OBSOLETE — superseded by §32.** §32 found a generator-side path
 > (cmap format 12 + Supplementary PUA, empirically verified) that
@@ -3975,14 +3975,36 @@ platforms today without modifying Flutter SDK.**
 
 ---
 
-## §32 — Single-TTF-per-pack via cmap format 12 + supp PUA: **SHIPPED**
+## Implementation status quick reference
 
-> 🚀 **STATUS: SHIPPED in commits f75c572 (Phase A), aa68b3d (Phase B),
-> + Phase C/D/E in the final commit.** Generator now collapses every
-> multi-sibling pack into a single TTF mid-pipeline. Empirically
-> measured: 10 packs × 5 icons = **17.66 KB total bundled fonts**
-> (vs ~30-50 MB before). CI gate at `.github/workflows/treeshake-
-> regression.yml` enforces the invariant.
+| § | Topic | Status |
+|---|---|---|
+| §1-§12 | Initial 12 research streams | 📋 documented, partial impl |
+| §13/§15 | Speed plan + cross-check | 📋 documented (not impl) |
+| §14 | Layer-order survey | 📋 documented (not impl) |
+| §16 | Audit gap analysis | 📋 documented; **A6** ✅ shipped (mid-§32) |
+| §17/§18 | Rust crates + port verdict | 📋 documented (no port) |
+| §19 | Search-bar space-eater bug | 📋 root-cause analysed (fix not committed) |
+| §20-§27 | Various web + tooling research | 📋 documented |
+| §28 | Tree-shake empirical findings | ✅ resolved by §32 |
+| §29 | Gap audit | ✅ documented |
+| §30 | Implementation roadmap | ✅ documented |
+| §31 | Zero-config research | ✅ obsolete (superseded by §32) |
+| §32 | Single-TTF-per-pack | ✅ **SHIPPED** (5 commits) |
+| §33 | Solar/Phosphor alignment bug + audit-litmus | 🚧 OPEN (5 agents running) |
+
+---
+
+## §32 — Single-TTF-per-pack via cmap format 12 + supp PUA: ✅ **SHIPPED**
+
+> 🚀 **STATUS: SHIPPED in commits 79beb0d → fc5f6d4** (5 commits over
+> 2026-05-15→16). Generator now collapses every multi-sibling pack into
+> a single TTF mid-pipeline. Empirically measured: 10 packs × 5 icons =
+> **17.66 KB total bundled fonts** (vs ~30-50 MB before). CI gate at
+> `.github/workflows/treeshake-regression.yml` enforces the invariant.
+> Full pack regen (225 packs, ~30 multi-split collapsed). Secondary-
+> font rebuild bug (§16-A6) discovered + fixed mid-flight (commit
+> fc5f6d4).
 
 **Original verdict (2026-05-16, pre-implementation): VERIFIED. cmap
 format 12 + Supplementary PUA codepoints render correctly across
@@ -4322,3 +4344,114 @@ These were implemented during the investigation that produced this plan:
   as hint-layer at runtime)
 
 Most of the agents' recommendations BUILD on top of these.
+
+---
+
+## §33 — OPEN: Solar/Phosphor duotone alignment bug + audit-infra litmus test
+
+> 🚧 **STATUS: OPEN — 5 parallel agents dispatched 2026-05-16
+> investigating both the fix AND why our audit infrastructure didn't
+> surface this earlier.**
+
+### The user-visible bug
+
+After §32 shipped, the website still showed misaligned duotone icons
+for Solar + Phosphor (and likely IC, Iconamoon — all multi-split
+duotone packs).
+
+User report verbatim (Turkish): *"solar da hâlâ yanlış görünüyor.
+Yuvarlak kare içinde daha solda duruyor. Artı da yuvarlak içinde en
+solda duruyor."*
+
+Concrete case: `SolarIcons.addCircleBoldDuotone`. Upstream body has
+two paths — primary = artı (cross) `9-15` of 24-viewBox, secondary =
+halka (ring) `2-22` of 24-viewBox. After build:
+- `Solar.ttf` glyph at cp 0xE013: advance=1000 lsb=0 xMin=342
+  xMax=658 (artı, content width 316 unit, centred)
+- `SolarSecondary.ttf` glyph at cp 0xE013: advance=1000 lsb=0
+  xMin=79 xMax=917 (halka, content width 838 unit, near-full em)
+
+By math, `IconifyIcon` `_IconifyPainter.paint` with `Offset.zero` for
+both should render both layers centred (artı at 68.4-131.6 px,
+halka at 15.8-183.4 px in a 200-px canvas). Two paint attempts
+(BoxFit-emulation + plain-zero) didn't fix it. **Either Flutter
+TextPainter for icon glyphs has semantics I don't yet understand, OR
+the bug is OUTSIDE `_IconifyPainter.paint` (widget wrapper / cell
+layout / website-side issue).**
+
+### Why this is critical: audit infrastructure litmus test
+
+This is a **SIMPLE visual bug** — anyone opening the website + scrolling
+Solar's pack page sees it within seconds. Yet our current audit stack
+(`COVERAGE.md`, `STROKE_AUDIT.md`, `FONT_AUDIT.md`) reports
+zero anomalies for this icon. The audit infrastructure is **blind** to
+visual misalignment — only checks structural correctness (font has
+glyph, glyph has commands, codepoint reserved).
+
+If our audits CAN'T detect a bug this obvious, the audit
+infrastructure must be upgraded. This bug becomes the canonical
+LITMUS TEST for §4 visual regression / §26 visual-diff Phase 1: any
+new audit tool we ship must flag `solar:add-circle-bold-duotone` as
+high-anomaly without human intervention.
+
+### 5 parallel agents dispatched
+
+| Agent ID | Brief | What it produces |
+|---|---|---|
+| `a8d3f33e` | Visual-diff CLI Phase 1 design + prototype | `tools/generator/audit/visual-diff/` CLI; SVG vs TTF vs Flutter-render PNG comparison; per-pair classifier verdict |
+| `a3b2cc0b` | Glyph-metrics audit | `GLYPH_METRICS_AUDIT.md`; flags duotone pairs with primary/secondary bbox mismatch (the exact diagnostic this bug needs) |
+| `a87ab25b` | Flutter render-to-PNG harness | `bun run render-icon <pack>:<name>` reliable programmatic PNG export — foundation for golden-file regression tests |
+| `a3b0af36` | Focused debugging — Solar add-circle root cause | Empirical PNG dump + layer-by-layer comparison; identifies exactly which paint step misaligns |
+| `adfadae8` | Independent paint algorithm review (second-opinion agent) | Validated TextPainter semantics from Flutter source; correct `paint()` algorithm proposal |
+
+This is a multi-angle attack. The Solar bug fix doesn't need ALL of
+these — but the AUDIT INFRA upgrade does.
+
+### Required outcomes
+
+1. **Bug fixed**: Solar / Phosphor / IC / Iconamoon duotone alignment
+   correct on macOS native release + Flutter web CanvasKit release.
+2. **`solar:add-circle-bold-duotone` shows up as anomaly** in at
+   least one new audit tool BEFORE the fix lands. This proves the
+   audit can detect the class.
+3. **CI gate**: `treeshake-regression.yml` companion workflow that
+   also runs visual-diff against a golden set including this icon.
+   Future regressions blocked by green-gate.
+
+### Cross-references
+
+- §4 visual regression — this is its FIRST real test case
+- §16-A14 suspicious-glyph (visually-anomalous) — should fire on this bug
+- §16-A6 duotone primary/secondary sync — alignment is the **rendering**
+  consequence of A6's bbox mismatch case
+- §26 visual-diff classifier — rules 1-8 should detect this
+- §17 Area 2 #2 Rust raster-and-diff — same problem at speed
+
+### What this tells us about iconifyx audit maturity
+
+Pre-§33: audits surfaced "missing glyph" and "stroke ratio"
+quantitatively but **rendering correctness** was assumed-correct as
+long as svgicons2svgfont + svg2ttf accepted the body. That assumption
+just broke. Going forward:
+
+- Every regen MUST include a visual-diff pass over the corpus.
+- The visual-diff tool's classifier must include a "primary-secondary
+  bbox-mismatch" rule that fires before render — not after user reports.
+- The CI gate must include a golden visual-diff over a curated set
+  of high-risk icons (every duotone style across mdi / solar / ph /
+  ic / iconamoon / lets-icons / cif / cryptocurrency-color).
+
+### When to declare audit infra "adequate"
+
+A future bug equivalent to this one (any pack, any layer, any visual
+mismatch) must be detected by `bun run generate` output BEFORE the
+developer sees it in the website. If a human still has to scroll a
+pack page to find it, infra is INADEQUATE.
+
+§33 closes when:
+1. Solar bug fixed + verified across all multi-split duotone packs
+2. Visual-diff CLI (a8d3f33e output) detects this class in its corpus run
+3. Glyph-metrics audit (a3b2cc0b output) flags this class in `GLYPH_METRICS_AUDIT.md`
+4. CI gate green on the fixed state
+
+Pending agent results.

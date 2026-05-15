@@ -454,6 +454,81 @@ export async function mergeSiblingsInManifest(
 }
 
 /**
+ * Force canonical 1000-em-quad font metrics on a batch of TTF byte
+ * buffers (head/hhea/OS-2 set to the standard reference frame).
+ *
+ * Each TTF gets written to a temp file, processed by the Python
+ * `canonicalize_ttf.py` helper, then re-read into memory. The returned
+ * map preserves the input keys but holds the canonicalised bytes.
+ *
+ * Why this is critical: `svg2ttf` recomputes head/hhea/OS-2 from the
+ * union of glyph extents, so every emitted TTF has subtly different
+ * baseline / em-extent assumptions. Flutter's `TextPainter` reads
+ * those tables for line-height + glyph paint origin — so primary +
+ * secondary duotone TTFs end up in mismatched reference frames and
+ * the layers visibly slide apart at render time.
+ *
+ * After this pass every TTF Flutter sees uses the IDENTICAL 1000-unit
+ * em-quad (ascent=1000, descent=0, x/y bounds 0..1000), guaranteeing
+ * primary + secondary layers in `IconifyIcon`'s `CustomPaint` overlay
+ * pixel-for-pixel co-aligned by construction. See
+ * `GLYPH_METRICS_AUDIT.md` for the pre-fix non-canonical-metric
+ * baseline (294/295 TTFs drifted).
+ */
+export async function canonicalizeTtfs(
+  ttfs: Map<string, Buffer>
+): Promise<Map<string, Buffer>> {
+  if (ttfs.size === 0) return ttfs;
+  if (!existsSync(PYTHON_VENV_BIN)) return ttfs; // skip if venv missing
+
+  const work = await mkdtemp(path.join(tmpdir(), `iconifyx-canon-`));
+  const result = new Map<string, Buffer>();
+  try {
+    // Write all input TTFs first, then run one Python process to
+    // process them all (amortises the ~200ms uv-spawn cost).
+    const paths: string[] = [];
+    for (const [family, buf] of ttfs) {
+      const p = path.join(work, `${family}.ttf`);
+      await writeFile(p, buf);
+      paths.push(p);
+    }
+    const proc = Bun.spawn(
+      [
+        'uv',
+        'run',
+        '--no-project',
+        '--with',
+        'fonttools',
+        path.join(PYTHON_DIR, 'canonicalize_ttf.py'),
+        ...paths,
+      ],
+      {
+        cwd: PYTHON_DIR,
+        stdout: 'pipe',
+        stderr: 'pipe',
+      }
+    );
+    const stderrText = await new Response(proc.stderr).text();
+    const exitCode = await proc.exited;
+    if (exitCode !== 0) {
+      log.warn(
+        `canonicalize_ttf.py exited ${exitCode}: ${stderrText.slice(0, 200)}`
+      );
+      return ttfs; // best effort — return original if canonicalisation failed
+    }
+    // Read back the canonicalised bytes.
+    for (const [family, _buf] of ttfs) {
+      const p = path.join(work, `${family}.ttf`);
+      const bytes = await readFile(p);
+      result.set(family, bytes);
+    }
+  } finally {
+    await rm(work, { recursive: true, force: true });
+  }
+  return result;
+}
+
+/**
  * Ensure the Python venv for the merge tool exists. Called once at
  * generator startup. If missing, runs `uv venv && uv pip install
  * fonttools` to materialise it. Idempotent — exits early if already
