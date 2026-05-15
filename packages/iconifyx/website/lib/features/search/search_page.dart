@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -36,6 +38,13 @@ class _SearchPageState extends State<SearchPage> {
   int _activeIndex = 0;
   final Map<int, GlobalKey> _rowKeys = {};
 
+  /// Coalesces rapid keystrokes into a single filter run. With 165k icons
+  /// in the catalog the linear scan in `_entries` runs 30-80 ms in
+  /// release; debouncing turns a burst of typing into one scan instead
+  /// of one-per-keystroke. See RESEARCH_PLAN.md §23 #3.
+  Timer? _searchDebounce;
+  static const _searchDebounceDuration = Duration(milliseconds: 60);
+
   static const _featuredNames = [
     'home', 'magnify', 'heart-outline', 'account-outline',
     'bell-outline', 'download-outline', 'star-outline', 'cog-outline',
@@ -64,6 +73,7 @@ class _SearchPageState extends State<SearchPage> {
   @override
   void dispose() {
     widget.route.queryNotifier.removeListener(_onRouteQueryChanged);
+    _searchDebounce?.cancel();
     _controller.dispose();
     _inputFocus.dispose();
     _shortcutFocus.dispose();
@@ -85,23 +95,29 @@ class _SearchPageState extends State<SearchPage> {
   }
 
   void _onQuery(String value) {
-    // Write to the route's query notifier — this updates the URL via
-    // [RouteQueryParameters.updateQueries] and triggers _onRouteQueryChanged
-    // (which calls setState above to re-render the results).
-    //
-    // IMPORTANT: store the user's LITERAL text. Trimming here used to wipe
-    // any trailing space the user just typed — the round-trip listener then
-    // overwrote the controller with the trimmed value before the user could
-    // type the next character, eating every space. See RESEARCH_PLAN.md §19.
-    // Trimming/normalisation happens at consumption sites only (`_entries`
-    // does `.trim().toLowerCase()`).
-    final qs = Map<String, String>.from(widget.route.queries);
-    if (value.isEmpty) {
-      qs.remove('q');
-    } else {
-      qs['q'] = value;
-    }
-    widget.route.updateQueries(appCoordinator, queries: qs);
+    // Debounce so a burst of typing produces a single filter scan instead
+    // of one per keystroke. Cancel the previous timer and start a new one;
+    // only the trailing keystroke runs through to the route notifier.
+    _searchDebounce?.cancel();
+    _searchDebounce = Timer(_searchDebounceDuration, () {
+      // Write to the route's query notifier — this updates the URL via
+      // [RouteQueryParameters.updateQueries] and triggers _onRouteQueryChanged
+      // (which calls setState above to re-render the results).
+      //
+      // IMPORTANT: store the user's LITERAL text. Trimming here used to wipe
+      // any trailing space the user just typed — the round-trip listener then
+      // overwrote the controller with the trimmed value before the user could
+      // type the next character, eating every space. See RESEARCH_PLAN.md §19.
+      // Trimming/normalisation happens at consumption sites only (`_entries`
+      // does `.trim().toLowerCase()`).
+      final qs = Map<String, String>.from(widget.route.queries);
+      if (value.isEmpty) {
+        qs.remove('q');
+      } else {
+        qs['q'] = value;
+      }
+      widget.route.updateQueries(appCoordinator, queries: qs);
+    });
   }
 
   void _close() {

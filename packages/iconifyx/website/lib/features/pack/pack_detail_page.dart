@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -67,6 +69,12 @@ class _PackDetailPageState extends State<PackDetailPage> {
   // → `_GridContent` tree and re-ran `_applyFilters(15k)` per fling stop.
   final ValueNotifier<int> _scrollEndTick = ValueNotifier(0);
 
+  /// Coalesces rapid keystrokes into a single filter run. With 15k icons
+  /// per pack the linear scan in `_applyFilters` runs several ms per
+  /// keystroke; debouncing makes typing feel instant. See §23 #3.
+  Timer? _filterDebounce;
+  static const _filterDebounceDuration = Duration(milliseconds: 60);
+
   @override
   void initState() {
     super.initState();
@@ -78,6 +86,7 @@ class _PackDetailPageState extends State<PackDetailPage> {
   @override
   void dispose() {
     widget.route.queryNotifier.removeListener(_onQueriesChanged);
+    _filterDebounce?.cancel();
     _filterController.dispose();
     _scrollEndTick.dispose();
     super.dispose();
@@ -110,17 +119,22 @@ class _PackDetailPageState extends State<PackDetailPage> {
   }
 
   void _setFilter(String text) {
-    // Store the user's LITERAL text in the URL. Trimming here used to wipe
-    // any trailing space the user just typed — the round-trip listener then
-    // overwrote the controller with the trimmed value, eating every space.
-    // See RESEARCH_PLAN.md §19. `_applyFilters` already trims on read.
-    final qs = Map<String, String>.from(widget.route.queries);
-    if (text.isEmpty) {
-      qs.remove('q');
-    } else {
-      qs['q'] = text;
-    }
-    widget.route.updateQueries(appCoordinator, queries: qs);
+    // Debounce keystrokes so a burst of typing produces a single filter
+    // scan instead of one per character (see RESEARCH_PLAN.md §23 #3).
+    _filterDebounce?.cancel();
+    _filterDebounce = Timer(_filterDebounceDuration, () {
+      // Store the user's LITERAL text in the URL. Trimming here used to wipe
+      // any trailing space the user just typed — the round-trip listener then
+      // overwrote the controller with the trimmed value, eating every space.
+      // See RESEARCH_PLAN.md §19. `_applyFilters` already trims on read.
+      final qs = Map<String, String>.from(widget.route.queries);
+      if (text.isEmpty) {
+        qs.remove('q');
+      } else {
+        qs['q'] = text;
+      }
+      widget.route.updateQueries(appCoordinator, queries: qs);
+    });
   }
 
   List<({String label, String? slug})> _availableStyles(

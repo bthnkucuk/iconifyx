@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
@@ -33,6 +35,8 @@ class AllPacksPage extends StatefulWidget {
 
 class _AllPacksPageState extends State<AllPacksPage> {
   late final TextEditingController _filterController;
+  Timer? _filterDebounce;
+  static const _filterDebounceDuration = Duration(milliseconds: 60);
 
   @override
   void initState() {
@@ -45,6 +49,7 @@ class _AllPacksPageState extends State<AllPacksPage> {
   @override
   void dispose() {
     widget.route.queryNotifier.removeListener(_onQueriesChanged);
+    _filterDebounce?.cancel();
     _filterController.dispose();
     super.dispose();
   }
@@ -70,17 +75,22 @@ class _AllPacksPageState extends State<AllPacksPage> {
   }
 
   void _setFilter(String text) {
-    // Store the user's LITERAL text in the URL. Trimming here used to wipe
-    // any trailing space the user just typed — the round-trip listener then
-    // overwrote the controller with the trimmed value, eating every space.
-    // See RESEARCH_PLAN.md §19. The `_visible` consumer already trims.
-    final qs = Map<String, String>.from(widget.route.queries);
-    if (text.isEmpty) {
-      qs.remove('q');
-    } else {
-      qs['q'] = text;
-    }
-    widget.route.updateQueries(appCoordinator, queries: qs);
+    // Debounce keystrokes so a burst of typing produces a single route
+    // update instead of one per character (see RESEARCH_PLAN.md §23 #3).
+    _filterDebounce?.cancel();
+    _filterDebounce = Timer(_filterDebounceDuration, () {
+      // Store the user's LITERAL text in the URL. Trimming here used to wipe
+      // any trailing space the user just typed — the round-trip listener then
+      // overwrote the controller with the trimmed value, eating every space.
+      // See RESEARCH_PLAN.md §19. The `_visible` consumer already trims.
+      final qs = Map<String, String>.from(widget.route.queries);
+      if (text.isEmpty) {
+        qs.remove('q');
+      } else {
+        qs['q'] = text;
+      }
+      widget.route.updateQueries(appCoordinator, queries: qs);
+    });
   }
 
   List<PackSummary> _visible(PackIndex packs, String? slug, String q) {
