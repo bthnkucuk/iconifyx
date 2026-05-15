@@ -50,6 +50,11 @@ function parseArgs(argv: string[]): ParsedArgs {
         out.clean = true;
         break;
       case '--skip-meta':
+      case '--dev-mode':
+        // Alias: inner-dev-loop runs don't need meta/example/website/audit
+        // regeneration (~3-5 s saved per run). Both flags map to the same
+        // gate in pipeline.ts; --dev-mode reads more naturally in
+        // `bun --watch` setups, --skip-meta in CI configuration.
         out.skipMeta = true;
         break;
       case '--concurrency':
@@ -94,7 +99,7 @@ Options:
   --new-only              Skip sets that already have a manifest
   --smoke <p1,p2,...>     Process only a small explicit list (for smoke tests)
   --concurrency <n>       Worker pool size (default: min(cpus, 8))
-  --skip-meta             Don't write meta package + example app data
+  --skip-meta, --dev-mode Don't write meta package + website + audits (dev inner loop)
   --dry-run               Don't write files; print summary
   --clean                 Remove orphan packages/manifests for sets no longer in Iconify
   --no-cache              Bypass the per-font TTF cache (always rebuild)

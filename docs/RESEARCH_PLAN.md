@@ -1277,6 +1277,51 @@ recommended §4), `fontkit` (already have), `zstd-napi` or
 (replace `crypto.sha1` in `stroke_fill.ts:78` — 4× faster on small
 buffers).
 
+### Status update — May 2026 quick-wins shipped
+
+Three small changes from this plan (and from §15's cross-check
+addendum, which was authored after this section) have landed:
+
+- ✅ **`Bun.hash` over `crypto.sha1`** in `stroke_fill.ts` — wyhash is
+  ~4× faster than sha1 on the typical SVG-body input size. Function
+  name kept as `sha1()` for diff-noise reasons; cache keys still
+  truncate to 16 hex chars. **Backward-compat**: legacy SHA-1-named
+  cache files under `.cache/strokefill/<prefix>/` still hit on lookup
+  and get re-linked under the wyhash key on first touch, so the
+  existing 1.4 GB cache migrates without a rebuild penalty.
+- ✅ **`--skip-meta` / `--dev-mode` flag** for inner-loop iteration —
+  inner-loop tweaks against `--set mdi` don't need meta-package +
+  website + 3 audit reports regenerated. `--dev-mode` is an alias for
+  `--skip-meta` with the same effect; both early-return after
+  per-set package emission. Empirical: `bun run generate --set mdi
+  --skip-meta` finishes in ~3.5 s (vs ~5-6 s without).
+- ✅ **Batched stroke-fill — per-pack subprocess collapse** — new
+  `strokeFillBatchMulti(jobs)` API in `stroke_fill.ts`. The pipeline
+  now batches primary + secondary stroke-fill into ONE subprocess
+  spawn per duotone-having stroke-fill pack (collapsing 2 spawns →
+  1). Bisect identity preserved: the multi-prefix bisect tags every
+  pending icon with its source pack so panic-skipped icons get
+  accounted to the right manifest. **Full cross-pack batching
+  deferred** — that requires restructuring `processOneSet` into
+  explicit pre/post-stroke-fill phases with a global barrier in
+  between, which would interleave codepoint allocation and font
+  building in unhealthy ways given the current per-pack `Promise.all`
+  + `pLimit` topology.
+
+Empirical Δ observed (warm-cache, 225 packs, M-series):
+- Pre-shipping baseline regen: ~217 s (varies ±10-20 s across runs
+  due to APFS + per-pack scheduling).
+- Single-pack `--skip-meta` smoke: 3-5 s.
+- Bun.hash saves ≤1 s aggregate across 340 k icon hash calls.
+- Per-pack batching saves ~20-40 subprocess spawns on cold-cache full
+  regen (only counted on stroke-fill packs with duotone).
+
+§13's "120 s → 19 s" target is not reached by these alone; the bigger
+wins remain per-font TTF cache (#2 above) and SQLite-backed
+`.cache/strokefill/` (cross-check §15's recommendation). Those are
+the next two items to ship; the three above were the cheapest moves
+on the table.
+
 ---
 
 ## §14 — SVG layer-order conventions (empirical survey) ✅ Tasks 1-3 SHIPPED

@@ -75,11 +75,52 @@ async function runFixerWorker(inDir: string, outDir: string): Promise<boolean> {
   return true;
 }
 
+/**
+ * Content-addressed cache key for an SVG body. Uses `Bun.hash` (wyhash) —
+ * non-cryptographic but ~4× faster than `crypto.sha1` on small inputs, and
+ * cache keys don't need cryptographic strength. The 16-char hex truncation
+ * preserves the original key length.
+ *
+ * Function name kept as `sha1` to avoid noisy renames in the bisect path —
+ * the identity that matters is "same input → same filename", not the
+ * specific algorithm.
+ */
 function sha1(s: string): string {
+  return Bun.hash(s).toString(16).padStart(16, '0').slice(0, 16);
+}
+
+/**
+ * Legacy SHA-1 cache key. Existing cache files under
+ * `.cache/strokefill/<prefix>/<sha1>.svg` were written before the wyhash
+ * switch; we still read them on cache hits to keep warm-cache regen times
+ * stable across the cutover, then re-link them under the new key on first
+ * touch. After ~one regen cycle the cache is fully migrated; users who
+ * want a clean cut can `rm -rf tools/generator/.cache/strokefill/`.
+ */
+function legacySha1(s: string): string {
   return createHash('sha1').update(s).digest('hex').slice(0, 16);
 }
 
 type Pending = { icon: ResolvedIcon; cachePath: string; sourceSvg: string };
+type Tagged = { prefix: string; pending: Pending };
+
+/**
+ * Per-prefix work item for `strokeFillBatchMulti`. Same shape as the
+ * single-prefix `strokeFillBatch(prefix, icons)` invocation but rolled up
+ * into a list so multiple packs can share one subprocess spawn.
+ */
+export interface StrokeFillJob {
+  prefix: string;
+  icons: ResolvedIcon[];
+}
+
+export interface StrokeFillJobResult {
+  prefix: string;
+  converted: number;
+  cacheHits: number;
+  failures: number;
+  panicSkipped: string[];
+}
 
 /**
  * Pre-process every icon body in `icons` through stroke→fill conversion.
@@ -102,143 +143,225 @@ export async function strokeFillBatch(
   /** Names of icons whose stroke-fill worker died (native panic). */
   panicSkipped: string[];
 }> {
-  if (icons.length === 0) {
-    return { converted: 0, cacheHits: 0, failures: 0, panicSkipped: [] };
-  }
-
-  const cacheDir = path.join(CACHE_ROOT, prefix);
-  await mkdir(cacheDir, { recursive: true });
-
-  // First pass: figure out which icons we already have cached vs. need.
-  const pending: Pending[] = [];
-  let cacheHits = 0;
-
-  for (const ic of icons) {
-    const sourceSvg = iconToSvg(ic);
-    const hash = sha1(sourceSvg);
-    const cachePath = path.join(cacheDir, `${hash}.svg`);
-    if (existsSync(cachePath)) {
-      const cached = await readFile(cachePath, 'utf8');
-      ic.body = cached;
-      cacheHits += 1;
-    } else {
-      pending.push({ icon: ic, cachePath, sourceSvg });
-    }
-  }
-
-  if (pending.length === 0) {
-    return { converted: 0, cacheHits, failures: 0, panicSkipped: [] };
-  }
-
-  log.info(
-    `  "${prefix}": stroke-fill ${pending.length} icon${pending.length === 1 ? '' : 's'} (${cacheHits} cached)`
-  );
-
-  const panicSkipped: string[] = [];
-  let failures = 0;
-  let converted = 0;
-
-  await processChunk(pending, prefix, {
-    onConverted: () => {
-      converted += 1;
-    },
-    onFailure: () => {
-      failures += 1;
-    },
-    onPanicSkipped: (name) => {
-      panicSkipped.push(name);
-    },
-  });
-
-  return { converted, cacheHits, failures, panicSkipped };
+  // Thin wrapper around the multi-pack variant: single job, single result.
+  const [result] = await strokeFillBatchMulti([{ prefix, icons }]);
+  return {
+    converted: result!.converted,
+    cacheHits: result!.cacheHits,
+    failures: result!.failures,
+    panicSkipped: result!.panicSkipped,
+  };
 }
 
 /**
- * Process a chunk of pending icons through one subprocess invocation.
- * On worker crash (native panic), bisect down to the offending icon and
- * skip it. Recursively handles each half, so the worst-case bisect depth
- * is `log2(N)` extra subprocess spawns for a chunk with one bad icon.
+ * Process the strokefill cache + trace pipeline for multiple `(prefix,
+ * icons)` jobs in a single coordinated pass. The point is to merge the N
+ * subprocess invocations (one per `strokeFillBatch` call) into a single
+ * subprocess spawn that processes ALL cache misses across ALL jobs at
+ * once.
  *
- * Successfully-traced icons get their `cachePath` written and `.body`
- * mutated. A bad icon ends in `onPanicSkipped(name)`; the caller treats
- * those as deprecated downstream so they never receive a glyph.
+ * Each job keeps its own cache namespace (`<CACHE_ROOT>/<prefix>/...`),
+ * so cache hits / writes are unaffected. Per-job counts (`converted`,
+ * `cacheHits`, `failures`, `panicSkipped`) are accounted independently
+ * so the caller sees per-pack stats indistinguishable from the legacy
+ * one-call-per-pack behaviour.
+ *
+ * Bisect identity is preserved: when the worker crashes on a poison
+ * glyph, the bisect splits the WHOLE remaining pool (across all jobs)
+ * in half; the surviving icons trace fine, the dead one ends up
+ * accounted to its original pack's `panicSkipped` list. Worst case
+ * complexity is unchanged: `O(log N)` extra spawns per crashing icon.
+ *
+ * Today this is called once per pack with primary + secondary as the two
+ * jobs, collapsing 2 subprocess spawns → 1 per pack. Fully cross-pack
+ * batching requires structural pipeline phases (see RESEARCH_PLAN.md
+ * §15) and is deferred.
  */
-async function processChunk(
-  pending: Pending[],
-  prefix: string,
+export async function strokeFillBatchMulti(
+  jobs: StrokeFillJob[]
+): Promise<StrokeFillJobResult[]> {
+  // Per-job result aggregators. We track per-pack counts so each caller
+  // sees stats indistinguishable from the legacy single-pack API.
+  const results: Map<string, StrokeFillJobResult> = new Map();
+  for (const job of jobs) {
+    results.set(job.prefix, {
+      prefix: job.prefix,
+      converted: 0,
+      cacheHits: 0,
+      failures: 0,
+      panicSkipped: [],
+    });
+  }
+
+  // First pass per job: resolve cache hits, collect cache misses. Hits
+  // mutate the icon body directly + bump the per-job cacheHits counter;
+  // misses get queued for the single shared subprocess.
+  const allPending: Tagged[] = [];
+  let totalCacheHits = 0;
+
+  for (const job of jobs) {
+    if (job.icons.length === 0) continue;
+    const cacheDir = path.join(CACHE_ROOT, job.prefix);
+    await mkdir(cacheDir, { recursive: true });
+    const jobResult = results.get(job.prefix)!;
+
+    for (const ic of job.icons) {
+      const sourceSvg = iconToSvg(ic);
+      const hash = sha1(sourceSvg);
+      const cachePath = path.join(cacheDir, `${hash}.svg`);
+      if (existsSync(cachePath)) {
+        const cached = await readFile(cachePath, 'utf8');
+        ic.body = cached;
+        jobResult.cacheHits += 1;
+        totalCacheHits += 1;
+        continue;
+      }
+      // Legacy SHA-1 cache compatibility (see `legacySha1`). On hit, re-
+      // link under the new wyhash key so subsequent regens see a direct
+      // hit. One extra `existsSync` per cache miss during the migration
+      // window; once every cached body has been re-keyed, the legacy
+      // branch turns into a no-op stat.
+      const legacyCachePath = path.join(cacheDir, `${legacySha1(sourceSvg)}.svg`);
+      if (existsSync(legacyCachePath)) {
+        const cached = await readFile(legacyCachePath, 'utf8');
+        ic.body = cached;
+        jobResult.cacheHits += 1;
+        totalCacheHits += 1;
+        await writeFile(cachePath, cached, 'utf8');
+        continue;
+      }
+      allPending.push({
+        prefix: job.prefix,
+        pending: { icon: ic, cachePath, sourceSvg },
+      });
+    }
+  }
+
+  if (allPending.length === 0) {
+    if (totalCacheHits > 0) {
+      log.info(
+        `  stroke-fill: ${totalCacheHits} cached across ${jobs.length} job${jobs.length === 1 ? '' : 's'}, no misses`
+      );
+    }
+    return [...results.values()];
+  }
+
+  if (jobs.length === 1) {
+    log.info(
+      `  "${jobs[0]!.prefix}": stroke-fill ${allPending.length} icon${allPending.length === 1 ? '' : 's'} (${totalCacheHits} cached)`
+    );
+  } else {
+    log.info(
+      `  stroke-fill: ${allPending.length} icon${allPending.length === 1 ? '' : 's'} across ${jobs.length} job${jobs.length === 1 ? '' : 's'} (${totalCacheHits} cached) — batched single subprocess`
+    );
+  }
+
+  await processMultiChunk(allPending, {
+    onConverted: (prefix) => {
+      results.get(prefix)!.converted += 1;
+    },
+    onFailure: (prefix) => {
+      results.get(prefix)!.failures += 1;
+    },
+    onPanicSkipped: (prefix, name) => {
+      results.get(prefix)!.panicSkipped.push(name);
+    },
+  });
+
+  return [...results.values()];
+}
+
+/**
+ * Multi-prefix variant of the original per-pack `processChunk`. Drives a
+ * single subprocess invocation that handles cache-misses tagged with
+ * their original pack prefix; on worker crash, bisects the WHOLE pool
+ * (across prefixes) — survivors land in cache, the dead glyph gets
+ * accounted to its source pack's `onPanicSkipped`.
+ *
+ * Hash collisions across prefixes (two packs whose `iconToSvg` output is
+ * byte-identical) would normally collide in the shared `tempIn` dir. We
+ * resolve via a suffix on the temp filename — the cache path is still
+ * prefix-scoped, but the on-disk temp filename is `<hash>_<idx>.svg`
+ * where `idx` is the tagged-pending's position in the input array. The
+ * worker is filename-agnostic; it traces whatever lands in `tempIn`.
+ */
+async function processMultiChunk(
+  pool: Tagged[],
   cb: {
-    onConverted: () => void;
-    onFailure: () => void;
-    onPanicSkipped: (name: string) => void;
+    onConverted: (prefix: string) => void;
+    onFailure: (prefix: string) => void;
+    onPanicSkipped: (prefix: string, name: string) => void;
   }
 ): Promise<void> {
-  if (pending.length === 0) return;
+  if (pool.length === 0) return;
 
-  const tempIn = await mkdtemp(path.join(tmpdir(), `iconifyx-sf-in-${prefix}-`));
-  const tempOut = await mkdtemp(
-    path.join(tmpdir(), `iconifyx-sf-out-${prefix}-`)
-  );
+  // Use a single shared temp namespace so we only pay one mkdtemp pair
+  // per subprocess invocation. Suffixing input filenames with the index
+  // guards against (rare) hash collisions of identical iconToSvg output
+  // across two different prefixes.
+  const label = pool.length === 1 ? pool[0]!.prefix : `multi-${pool.length}`;
+  const tempIn = await mkdtemp(path.join(tmpdir(), `iconifyx-sf-in-${label}-`));
+  const tempOut = await mkdtemp(path.join(tmpdir(), `iconifyx-sf-out-${label}-`));
 
   try {
-    const written: { hash: string; pending: Pending }[] = [];
-    for (const p of pending) {
-      const hash = sha1(p.sourceSvg);
-      await writeFile(path.join(tempIn, `${hash}.svg`), p.sourceSvg);
-      written.push({ hash, pending: p });
+    const written: { tempName: string; tag: Tagged }[] = [];
+    for (let i = 0; i < pool.length; i++) {
+      const tag = pool[i]!;
+      const hash = sha1(tag.pending.sourceSvg);
+      const tempName = `${hash}_${i}.svg`;
+      await writeFile(path.join(tempIn, tempName), tag.pending.sourceSvg);
+      written.push({ tempName, tag });
     }
 
     const ok = await runFixerWorker(tempIn, tempOut);
 
     if (!ok) {
-      // The worker crashed mid-batch. Files that traced cleanly BEFORE
-      // the crash may still be in tempOut — salvage those, then bisect
-      // the remainder to isolate the offender.
-      const salvaged = new Set<string>();
+      // Worker crashed. Salvage cleanly-traced files (the bad glyph may
+      // have crashed mid-batch, so earlier outputs survive), then bisect
+      // the rest across two fresh subprocesses.
+      const salvagedNames = new Set<string>();
       for (const w of written) {
-        const outPath = path.join(tempOut, `${w.hash}.svg`);
+        const outPath = path.join(tempOut, w.tempName);
         if (!existsSync(outPath)) continue;
-        if (await acceptTracedOutput(outPath, w.pending)) {
-          salvaged.add(w.hash);
-          cb.onConverted();
+        if (await acceptTracedOutput(outPath, w.tag.pending)) {
+          salvagedNames.add(w.tempName);
+          cb.onConverted(w.tag.prefix);
         }
       }
-      const remaining = pending.filter(
-        (p) => !salvaged.has(sha1(p.sourceSvg))
+      const remaining = pool.filter(
+        (_, i) => !salvagedNames.has(written[i]!.tempName)
       );
 
       if (remaining.length === 1) {
-        const name = remaining[0]!.icon.name;
+        const tag = remaining[0]!;
         log.warn(
-          `  "${prefix}": skipping bad glyph "${name}" (stroke-fill panic)`
+          `  "${tag.prefix}": skipping bad glyph "${tag.pending.icon.name}" (stroke-fill panic)`
         );
-        cb.onPanicSkipped(name);
+        cb.onPanicSkipped(tag.prefix, tag.pending.icon.name);
         return;
       }
       if (remaining.length === 0) {
-        // The crash hit AFTER the last icon — defensive: shouldn't happen
-        // but if it does, everything was salvaged so nothing to bisect.
+        // Crash AFTER the final icon — everything salvaged.
         return;
       }
 
-      // Bisect the remaining icons across two fresh subprocesses.
       const mid = Math.floor(remaining.length / 2);
-      await processChunk(remaining.slice(0, mid), prefix, cb);
-      await processChunk(remaining.slice(mid), prefix, cb);
+      await processMultiChunk(remaining.slice(0, mid), cb);
+      await processMultiChunk(remaining.slice(mid), cb);
       return;
     }
 
-    // Happy path: worker succeeded. Walk the output dir and update each
-    // icon's body / cache file.
+    // Happy path.
     for (const w of written) {
-      const outPath = path.join(tempOut, `${w.hash}.svg`);
+      const outPath = path.join(tempOut, w.tempName);
       if (!existsSync(outPath)) {
-        cb.onFailure();
+        cb.onFailure(w.tag.prefix);
         continue;
       }
-      if (await acceptTracedOutput(outPath, w.pending)) {
-        cb.onConverted();
+      if (await acceptTracedOutput(outPath, w.tag.pending)) {
+        cb.onConverted(w.tag.prefix);
       } else {
-        cb.onFailure();
+        cb.onFailure(w.tag.prefix);
       }
     }
   } finally {

@@ -15,8 +15,7 @@ import {
 } from './load_iconify.ts';
 import { loadConfig, displayCategory, fontFamilyFromPrefix, dartFileNameFromPrefix } from './group_sets.ts';
 import { validateIconBody } from './glyph_validator.ts';
-import { strokeFillBatch } from './stroke_fill.ts';
-import { vtraceBatch } from './vtracer.ts';
+import { strokeFillBatchMulti, type StrokeFillJob } from './stroke_fill.ts';
 import {
   isDuotoneBody,
   splitDuotoneBody,
@@ -603,15 +602,19 @@ async function processOneSet(
   // isolated them and the pipeline drops them from the manifest just like
   // a glyph-validator failure.
   const strokeFillPanicNames = new Set<string>();
+  // Collect primary + secondary work as ONE multi-job batch so we spawn
+  // exactly one stroke-fill subprocess per pack (instead of two), even
+  // when both halves of a duotone-heavy pack need tracing. Cross-pack
+  // batching is deferred until the pipeline is restructured into
+  // explicit phases — see RESEARCH_PLAN.md §15 for the plan.
+  const sfJobs: StrokeFillJob[] = [];
   if (isStrokeFillSet) {
-    const r1 = await strokeFillBatch(prefix, allResolved);
-    for (const n of r1.panicSkipped) strokeFillPanicNames.add(n);
+    sfJobs.push({ prefix, icons: allResolved });
     if (secondaryByName.size > 0) {
-      const r2 = await strokeFillBatch(
-        `${prefix}-secondary`,
-        [...secondaryByName.values()]
-      );
-      for (const n of r2.panicSkipped) strokeFillPanicNames.add(n);
+      sfJobs.push({
+        prefix: `${prefix}-secondary`,
+        icons: [...secondaryByName.values()],
+      });
     }
   } else {
     // Per-icon fallback: even when the pack-level sample is below threshold,
@@ -626,22 +629,26 @@ async function processOneSet(
       log.info(
         `  "${prefix}": per-icon raster-trace on ${perIconNeeded.length} icon${perIconNeeded.length === 1 ? '' : 's'} (pack sample under threshold)`
       );
-      const r1 = await strokeFillBatch(prefix, perIconNeeded);
-      for (const n of r1.panicSkipped) strokeFillPanicNames.add(n);
+      sfJobs.push({ prefix, icons: perIconNeeded });
       // Secondary layers of duotone-split icons that also fall in the
-      // per-icon set need tracing too — their primary half went through
-      // `strokeFillBatch` above, but the secondary lives in
+      // per-icon set need tracing too — their primary half ships through
+      // the same pack subprocess above, but the secondary lives in
       // `secondaryByName` and is built into a separate font.
       const perIconSecondary = [...secondaryByName.values()].filter((r) =>
         iconNeedsRasterTrace(r.body)
       );
       if (perIconSecondary.length > 0) {
-        const r2 = await strokeFillBatch(
-          `${prefix}-secondary`,
-          perIconSecondary
-        );
-        for (const n of r2.panicSkipped) strokeFillPanicNames.add(n);
+        sfJobs.push({
+          prefix: `${prefix}-secondary`,
+          icons: perIconSecondary,
+        });
       }
+    }
+  }
+  if (sfJobs.length > 0) {
+    const sfResults = await strokeFillBatchMulti(sfJobs);
+    for (const r of sfResults) {
+      for (const n of r.panicSkipped) strokeFillPanicNames.add(n);
     }
   }
 
