@@ -1,3 +1,5 @@
+import 'dart:ui' as ui;
+
 import 'package:flutter/widgets.dart';
 
 import 'icon_data.dart';
@@ -185,9 +187,22 @@ class _IconifyPainter extends CustomPainter {
     IconData glyph,
     Color glyphColor,
   ) {
-    canvas.saveLayer(Offset.zero & canvasSize, Paint());
-    _paintGlyph(canvas, glyph, glyphColor);
-    canvas.restore();
+    // Record each glyph paint into its own `ui.Picture` and draw the
+    // recorded picture onto the parent canvas. Same effect as a saveLayer
+    // — isolates each glyph's rendering — but bypasses the saveLayer/
+    // restore composite path. This is what fixes paint-order duotones
+    // (logos / cryptocurrency-color / fluent-emoji-flat): direct back-
+    // to-back `TextPainter.paint` calls on CanvasKit can leave the
+    // second draw's glyph atlas aliased to the first's, especially when
+    // both fonts ship the same codepoint (paired `<Family>` +
+    // `<Family>Secondary` fonts). Replaying the secondary glyph from a
+    // fresh `Picture` forces an independent atlas resolution.
+    final recorder = ui.PictureRecorder();
+    final pictureCanvas = Canvas(recorder, Offset.zero & canvasSize);
+    _paintGlyph(pictureCanvas, glyph, glyphColor);
+    final picture = recorder.endRecording();
+    canvas.drawPicture(picture);
+    picture.dispose();
   }
 
   void _paintGlyph(Canvas canvas, IconData glyph, Color glyphColor) {
