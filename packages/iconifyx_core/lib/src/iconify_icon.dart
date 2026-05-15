@@ -153,15 +153,41 @@ class _IconifyPainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size canvasSize) {
     final hasSecondary = secondary != null && secondaryColor != null;
+    // Paint each layer into its own saveLayer. Two reasons:
+    //   1. Primary + secondary share a codepoint (Logos.ttf and
+    //      LogosSecondary.ttf both ship e004 = adobe-after-effects). On
+    //      CanvasKit, painting two same-codepoint glyphs from different
+    //      fonts onto the same canvas can hit glyph-atlas cache aliasing
+    //      where the second draw silently reuses the first's atlas slot
+    //      → secondary appears identical to (or covered by) primary.
+    //      Isolating each into its own offscreen layer forces a fresh
+    //      glyph allocation.
+    //   2. Z-order becomes unambiguous regardless of any outer canvas
+    //      blend-mode state. The layer composites onto the parent canvas
+    //      via srcOver at restore() time.
     if (hasSecondary && secondaryOnTop) {
-      _paintGlyph(canvas, primary, primaryColor);
-      _paintGlyph(canvas, secondary!, secondaryColor!);
+      // Paint-order: primary BEHIND, secondary ON TOP.
+      _paintLayer(canvas, canvasSize, primary, primaryColor);
+      _paintLayer(canvas, canvasSize, secondary!, secondaryColor!);
     } else {
+      // Hint-layer / mask-internal / solo: secondary BEHIND (if any),
+      // primary ON TOP.
       if (hasSecondary) {
-        _paintGlyph(canvas, secondary!, secondaryColor!);
+        _paintLayer(canvas, canvasSize, secondary!, secondaryColor!);
       }
-      _paintGlyph(canvas, primary, primaryColor);
+      _paintLayer(canvas, canvasSize, primary, primaryColor);
     }
+  }
+
+  void _paintLayer(
+    Canvas canvas,
+    Size canvasSize,
+    IconData glyph,
+    Color glyphColor,
+  ) {
+    canvas.saveLayer(Offset.zero & canvasSize, Paint());
+    _paintGlyph(canvas, glyph, glyphColor);
+    canvas.restore();
   }
 
   void _paintGlyph(Canvas canvas, IconData glyph, Color glyphColor) {
