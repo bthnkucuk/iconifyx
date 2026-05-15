@@ -22,6 +22,7 @@ class IconRecord {
     required this.fontFamily,
     required this.fontPackage,
     required this.duotone,
+    required this.duotoneKindCode,
   });
 
   final String name;
@@ -31,11 +32,22 @@ class IconRecord {
   final String fontPackage;
   final bool duotone;
 
+  /// Encoded `IconifyIconData.kind*` value (`kindSolo` = 0, `kindHint` = 1,
+  /// `kindPaintOrder` = 2, `kindMaskInternal` = 3). Comes from the
+  /// `icons_index.json` tuple's 4th slot; missing in the JSON means solo.
+  /// The bug this field exists to fix: before this was wired, every
+  /// duotone got constructed at runtime via the bare `IconifyIconData.duo`
+  /// call (which defaults to `kindHint`), so paint-order packs (logos,
+  /// crypto-color, fluent-emoji-flat, …) rendered with their foreground
+  /// at 40% opacity BEHIND the primary tile — invisible.
+  final int duotoneKindCode;
+
   /// Reconstruct an [IconifyIconData] for rendering with [IconifyIcon].
-  ///
-  /// Mirrors the constructor calls emitted by `tools/generator/src/dart_codegen.ts`:
-  /// the secondary glyph (when present) shares the codepoint with the primary
-  /// and lives in the same package, font family `<primary>Secondary`.
+  /// Mirrors the constructor calls emitted by `dart_codegen.ts`: the
+  /// secondary glyph (when present) shares the codepoint with the primary
+  /// and lives in `<primary>Secondary` in the same package. The
+  /// [duotoneKindCode] is forwarded so `IconifyIcon` composes the layers
+  /// in the right order with the right secondary defaults.
   IconifyIconData toIconifyData() {
     final primary = IconData(
       codepoint,
@@ -48,7 +60,7 @@ class IconRecord {
       fontFamily: '${fontFamily}Secondary',
       fontPackage: fontPackage,
     );
-    return IconifyIconData.duo(primary, secondary);
+    return IconifyIconData.duo(primary, secondary, kind: duotoneKindCode);
   }
 }
 
@@ -146,13 +158,17 @@ PackSummary _parsePack(Map<String, dynamic> p) {
   final preview = ((p['preview'] as List?) ?? const [])
       .map((row) {
         final m = row as Map<String, dynamic>;
+        // `d` holds the IconifyIconData.kind* code (1=hint, 2=paintOrder,
+        // 3=maskInternal). Absent / 0 = solo. See website_codegen.ts.
+        final kindCode = (m['d'] as int?) ?? 0;
         return IconRecord(
           name: m['n'] as String,
           prefix: prefix,
           codepoint: m['c'] as int,
           fontFamily: m['f'] as String,
           fontPackage: pkg,
-          duotone: m['d'] == 1,
+          duotone: kindCode != 0,
+          duotoneKindCode: kindCode,
         );
       })
       .toList(growable: false);
@@ -211,7 +227,11 @@ class IconCatalog {
         final name = r[0] as String;
         final cp = r[1] as int;
         final fIdx = r[2] as int;
-        final duo = r.length > 3 && r[3] == 1;
+        // Tuple's 4th slot is `IconifyIconData.kind*`: absent → solo,
+        // 1 → hint, 2 → paintOrder, 3 → maskInternal. See
+        // `tools/generator/src/website_codegen.ts:buildIconsIndexJson`.
+        final kindCode = r.length > 3 ? r[3] as int : 0;
+        final duo = kindCode != 0;
         final rec = IconRecord(
           name: name,
           prefix: prefix,
@@ -219,6 +239,7 @@ class IconCatalog {
           fontFamily: fonts[fIdx],
           fontPackage: pkg,
           duotone: duo,
+          duotoneKindCode: kindCode,
         );
         list.add(rec);
         flat.add(rec);

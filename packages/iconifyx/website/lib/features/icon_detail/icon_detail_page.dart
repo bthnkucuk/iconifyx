@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:iconifyx_core/iconifyx_core.dart';
 import 'package:stupid_simple_sheet/stupid_simple_sheet.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -235,6 +236,20 @@ class _PreviewCard extends StatelessWidget {
             ink: ink,
             muted: muted,
           ),
+          // Per-layer debug strip — only meaningful for duotone icons.
+          // Shows primary, secondary, both-via-IconifyIcon. Lets us see
+          // whether the secondary font/glyph renders ALONE (i.e. font is
+          // loaded + Text widget paints it correctly), and how it
+          // combines via IconifyIcon's Stack.
+          if (record.duotone) ...[
+            const SizedBox(height: 16),
+            _DuotoneLayerDebugStrip(
+              record: record,
+              ink: ink,
+              paper: paper,
+              muted: muted,
+            ),
+          ],
           const SizedBox(height: 32),
           // Name + Iconfyx.foo · Category mono sub.
           Text(record.name,
@@ -334,6 +349,106 @@ class _RightColumn extends StatelessWidget {
         _MetaCard(record: record, pack: pack),
         const SizedBox(height: 18),
         _Related(pack: pack, records: related),
+      ],
+    );
+  }
+}
+
+/// Debug strip — renders each duotone layer ALONE so we can see which
+/// part is failing when a paint-order duotone (logos, crypto-color, …)
+/// ships looking wrong. Three tiles:
+///   1. Primary glyph only (plain Text with primary IconData font).
+///   2. Secondary glyph only (plain Text with secondary IconData font).
+///   3. Both via `IconifyIcon` (the composed render the rest of the app uses).
+/// Plus a label showing the icon's [IconifyIconData.kind] code so we can
+/// see at a glance whether the runtime received the right kind.
+class _DuotoneLayerDebugStrip extends StatelessWidget {
+  const _DuotoneLayerDebugStrip({
+    required this.record,
+    required this.ink,
+    required this.paper,
+    required this.muted,
+  });
+
+  final IconRecord record;
+  final Color ink;
+  final Color paper;
+  final Color muted;
+
+  static const _tileSize = 88.0;
+  static const _iconSize = 64.0;
+
+  @override
+  Widget build(BuildContext context) {
+    final data = record.toIconifyData();
+    final primaryIcon = data.primary;
+    final secondaryIcon = data.secondary;
+    final kindLabel = switch (data.kind) {
+      IconifyIconData.kindSolo => 'solo',
+      IconifyIconData.kindHint => 'hint',
+      IconifyIconData.kindPaintOrder => 'paintOrder',
+      IconifyIconData.kindMaskInternal => 'maskInternal',
+      _ => 'unknown',
+    };
+
+    Widget rawGlyph(IconData glyph, Color tint) => SizedBox(
+          width: _iconSize,
+          height: _iconSize,
+          child: FittedBox(
+            fit: BoxFit.contain,
+            child: Text(
+              String.fromCharCode(glyph.codePoint),
+              style: TextStyle(
+                inherit: false,
+                color: tint,
+                fontSize: _iconSize,
+                fontFamily: glyph.fontFamily,
+                package: glyph.fontPackage,
+                height: 1.0,
+                leadingDistribution: TextLeadingDistribution.even,
+              ),
+            ),
+          ),
+        );
+
+    Widget tile(String label, Widget child) => Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Container(
+              width: _tileSize,
+              height: _tileSize,
+              decoration: BoxDecoration(
+                color: paper,
+                borderRadius: BorderRadius.circular(8),
+              ),
+              alignment: Alignment.center,
+              child: child,
+            ),
+            const SizedBox(height: 4),
+            Text(label, style: AppTheme.mono(size: 10, color: muted)),
+          ],
+        );
+
+    return Column(
+      children: [
+        Text(
+          'duotone debug · kind=$kindLabel (${data.kind})',
+          style: AppTheme.mono(size: 11, color: muted),
+        ),
+        const SizedBox(height: 8),
+        Wrap(
+          alignment: WrapAlignment.center,
+          spacing: 12,
+          children: [
+            tile('primary only', rawGlyph(primaryIcon, ink)),
+            if (secondaryIcon != null)
+              tile('secondary only', rawGlyph(secondaryIcon, ink)),
+            tile(
+              'composed',
+              IconifyIcon(data, size: _iconSize, color: ink, secondaryColor: paper),
+            ),
+          ],
+        ),
       ],
     );
   }

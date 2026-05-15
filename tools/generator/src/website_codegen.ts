@@ -38,12 +38,24 @@ export function buildPacksJson(input: WebsiteCodegenInput): string {
       .filter(([, v]) => !v.deprecated)
       .sort(([a], [b]) => a.localeCompare(b));
     const duotoneCount = live.filter(([, v]) => v.duotone).length;
-    const preview = live.slice(0, 12).map(([name, v]) => ({
-      n: name,
-      c: v.codepoint,
-      f: v.fontFamily,
-      ...(v.duotone ? { d: 1 } : {}),
-    }));
+    const preview = live.slice(0, 12).map(([name, v]) => {
+      const kindCode = v.duotone
+        ? v.duotoneKind === 'paintOrder'
+          ? 2
+          : v.duotoneKind === 'maskInternal'
+            ? 3
+            : 1
+        : 0;
+      // `d` field holds the `IconifyIconData.kind*` value (1=hint,
+      // 2=paintOrder, 3=maskInternal). Omit for solo so the JSON stays
+      // small. The website parser treats absent/zero as solo.
+      return {
+        n: name,
+        c: v.codepoint,
+        f: v.fontFamily,
+        ...(kindCode !== 0 ? { d: kindCode } : {}),
+      };
+    });
     return {
       prefix: m.prefix,
       package: m.subPackage,
@@ -90,9 +102,15 @@ export function buildPacksJson(input: WebsiteCodegenInput): string {
  *
  * Schema:
  *   packs: Map<prefix, { fonts: string[], icons: tuple[] }>
- *   tuple: [name, codepoint, fontIdx, duotoneFlag?]
+ *   tuple: [name, codepoint, fontIdx, duotoneKindCode?]
  *     fontIdx is into the pack's `fonts` array
- *     duotoneFlag === 1 when the icon ships a secondary glyph
+ *     duotoneKindCode mirrors `IconifyIconData.kind*`:
+ *       (absent / 0) → solo
+ *       1            → hint-layer duotone (default)
+ *       2            → paint-order duotone (logos, crypto-color, …)
+ *       3            → mask-internal duotone (lets-icons *-duotone-line)
+ *     The website reads this and constructs `IconifyIconData.duo(p, s,
+ *     kind: ...)` so the runtime widget composes layers correctly.
  */
 export function buildIconsIndexJson(input: WebsiteCodegenInput): string {
   const sorted = [...input.entries].sort((a, b) =>
@@ -112,7 +130,15 @@ export function buildIconsIndexJson(input: WebsiteCodegenInput): string {
 
     const icons: unknown[][] = live.map(([name, v]) => {
       const row: unknown[] = [name, v.codepoint, fontIdx.get(v.fontFamily) ?? 0];
-      if (v.duotone) row.push(1);
+      if (v.duotone) {
+        // Map manifest's `duotoneKind` string to the int codes that
+        // mirror `IconifyIconData.kind*`. Omit when "hint" (the default)
+        // so existing tuples stay 1 → hint, no schema churn.
+        const kind = v.duotoneKind;
+        if (kind === 'paintOrder') row.push(2);
+        else if (kind === 'maskInternal') row.push(3);
+        else row.push(1);
+      }
       return row;
     });
 
