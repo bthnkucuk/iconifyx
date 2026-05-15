@@ -1633,6 +1633,350 @@ Outcome:
 
 ---
 
+## §17 — Rust crates for SVG processing + audit tooling
+
+**Verdict: Recommended hybrid — keep TS orchestration; add a focused
+`tools/generator-rust/` crate exposing 3-4 high-value primitives via
+subprocess CLI. Top-5 plan: ~100 h, 120 s → 30-40 s warm, new audit
+capabilities (visual diff, true-render empty detect, panic-safe
+trace, vtracer multi-colour recovery ~10-14 k icons).**
+
+### Area 1 — Rust crates for SVG processing
+
+| Crate | Verdict | Replaces / unlocks | Δ | Cost |
+|---|---|---|---:|---:|
+| **`resvg` + `usvg`** (Linebender, Apache/MIT, v0.47) | **High ROI** | Direct in-process rasterize; eliminates node-canvas/oslllo JS shim + IPC roundtrip | 30-50 s warm | 16-24 h |
+| **`vtracer`** (visioncortex, MIT) | **High ROI** | Multi-colour trace; recovers ~10-14 k currently-dropped paint-order emoji/flag icons (§1) | new capability + ~3 min cache-miss | 8-12 h |
+| **`tiny-skia`** (Linebender, BSD-3) | **High ROI** | CPU rasterize for visual-diff audit; 340 k glyphs @ 64×64 in ~5-8 s vs ~75 s TS | 70+ s | 4-6 h |
+| **`fontations`** (`skrifa` + `read-fonts`, Google) | **High ROI** | `font_verify.ts` replacement + true-render empty-glyph check (catches what fontkit can't) | 3-7 s | 8-12 h |
+| **`harfbuzz_rs`** | **Medium** | Native shaping; ~10× WASM `harfbuzzjs` (§8) | 28 s | 6 h |
+| **`oxipng` / `imagequant`** | **Low** | PNG cache compression; saves disk not time | 0 s | 2 h |
+| **`kurbo`** | **Reject** | Exact path-area; §14 explicitly says shoelace-in-TS is enough | — | — |
+| **`lyon`** | **Reject** | Stroke→fill geometric tessellation; lossy on Iconify's open subpaths | — | — |
+| **`roxmltree` / `svgtypes` / `xmlparser`** | **Reject** | DOM-less XML; splits duotone-detection IP across languages | — | — |
+
+### Binding mechanism trade-off
+
+| Mechanism | Per-call overhead | Setup | Fits our usage |
+|---|---|---|---|
+| **Subprocess CLI** (`Bun.spawn`) | ~500 ms startup once; ~0 per task via line protocol | 1-2 days for `pool.ts`-style harness | **YES — batch, not request/response** |
+| napi-rs | ~10 µs/call; per-arch binaries | 1 week first time | Overkill for batch |
+| Bun FFI | ~1 µs/call | 2 days; ABI-by-hand | Officially `experimental`; not for CI |
+| neon | similar to napi-rs but older | similar | No advantage |
+
+**Verdict: subprocess CLI with persistent JSON-line worker pool.**
+napi-rs ONLY if a single primitive is hot enough to merit per-arch
+releases (none today). Bun FFI is explicitly marked experimental and
+inappropriate for our prod pipeline.
+
+### Area 2 — Rust-implemented audit primitives
+
+| Audit | Verdict | Replaces / unlocks | Δ | Cost |
+|---|---|---|---:|---:|
+| **1. In-process panic-safe stroke-fill** | **High ROI** | Replaces `stroke_fill.ts` + worker subprocess bisect; `catch_unwind` per icon | 10-15 s warm; 50 s cold | 20-30 h |
+| **2. Parallel rasterize-and-pixel-diff** | **High ROI** | Visual regression audit (§4) at 5× JS speed; new capability | 12 s vs 75 s TS | 24-32 h |
+| **5. True-render empty-glyph detection** | **High ROI** | Catches §3's ~570 silent empties fontkit misses; rasterize at 32×32, count non-zero | foundational | 6 h on top of #2 |
+| **3. TTF ↔ SVG cross-verify (skrifa)** | **Medium** | Catches `svg2ttf` path simplification; non-existent in JS | new | 16-20 h |
+| **4. Shoelace duotone audit (kurbo)** | **Medium** | Post-hoc validation of §14's area-leader heuristic | audit-only | 8 h |
+| **6. Flutter render emulator** (harfbuzz_rs) | **Medium** | Shape-then-rasterize emulating TextPainter | new | 12-16 h |
+| **7. Property tests for codepoint allocator** | **Low** | Duplicates allocator semantics across languages | — | — |
+| **8. Parallel TTF byte-determinism check** | **Medium** | Implementable in TS for similar cost; only worth in Rust if crate exists | — | 4 h |
+
+### Top-5 combined plan
+
+1. `tools/generator-rust/iconifyx-trace` CLI — resvg + tiny-skia +
+   panic-safe stroke-fill (~30-40 h)
+2. vtracer subcommand for multi-colour recovery (~12 h)
+3. Visual-diff audit subcommand (~32 h) — combines #2 + #5
+4. skrifa-based font-verify subcommand (~12 h)
+5. Persistent JSON-line worker pool on TS side (~12 h) — without
+   this, per-pack subprocess startup wipes the Rust speed wins
+
+**Total: ~100 h. Wall-clock**: 120 s → ~30-40 s warm regen. **New
+capabilities**: visual diff + true-render empty detect.
+
+### Where NOT to go
+
+- **Don't rewrite `svg2ttf` in Rust.** §3 already weighs `opentype.js`
+  (TS) vs `fontTools` (Python). Equally good engineering, no marginal
+  win over existing plans.
+- **Don't move SVG preprocessing to Rust.** `svg_preprocess.ts`
+  (1 060 lines) embodies the duotone-detection IP. Splitting across
+  languages doubles surface for "colour-bucketing changed but audit
+  didn't" bugs. §7's `htmlparser2` AST migration stays TS.
+- **Don't use Bun FFI.** Experimental per official docs.
+- **Don't bother with neon.** napi-rs supersedes on every axis.
+
+### GitHub Actions toolchain
+
+`dtolnay/rust-toolchain@stable` + `Swatinem/rust-cache@v2` works on
+ubuntu/macos/windows with no special setup; cold-start ~30 s. Per-arch
+binaries can be uploaded as workflow artefacts so downstream
+contributors don't need Rust locally.
+
+### Realistic budget table
+
+| Investment | Wall-clock | New audit |
+|---|---|---|
+| Top-5 plan (~100 h / 2.5 wk) | 120 s → 30-40 s | Visual diff, true-render empty, panic-safe trace, +10-14 k icons via vtracer |
+| Maximalist Rust rewrite (~6 wk) | 120 s → 15-20 s | Same + redundant svg2ttf replacement |
+| TS-only §13/§15 (~20 h) | 120 s → ~55-70 s | Same audit set at TS speed |
+
+**§13/§15 TS-only is the cheapest wall-clock win.** Rust's REAL
+value is in the audit layer — specifically visual diff + true-render
+empty-glyph detection, which are 5-10× faster AND less brittle than
+JS-via-Sharp-via-resvg-via-node-canvas. Speed alone doesn't justify
+Rust; audit capability does.
+
+---
+
+## §18 — Rust port-or-keep verdict (per-module)
+
+**Verdict: NO Rust port of existing TS modules today.** §17 (new Rust
+crate exposing new primitives) is a separate, narrower scope. This
+section addresses "should we rewrite `tools/generator/src/*.ts` in
+Rust?" — answer is no.
+
+The hot loop's CPU work (resvg rasterize, Potrace trace) is **already
+in Rust** via `oslllo-svg-fixer`. The rest of `tools/generator/src/`
+is dominated by IO + JSON + string templating where Bun is within 2×
+of optimised Rust. Do §15 first (~10 h TS, ~40-60 s saved); re-profile
+after; only THEN consider porting the stroke-fill worker.
+
+### Per-module verdict
+
+| Module | LOC | CPU/IO | Port verdict | Δ if ported | Why |
+|---|---:|---|---|---:|---|
+| `index.ts` | 105 | trivial | **No** | 0 | CLI dispatch |
+| `log.ts` | 30 | trivial | **No** | 0 | ANSI formatting |
+| `paths.ts` | 61 | trivial | **No** | 0 | Path helpers |
+| `load_iconify.ts` | 173 | IO + JSON | **No** | <1 s | Bun's `JSON.parse` is SIMD; serde_json adds FFI boundary cost > gain |
+| `identifier.ts` | 94 | µs CPU | **No** | <50 ms | Pure string ops |
+| `codepoint_allocator.ts` | 144 | tiny | **No** | <100 ms | Invariants where bugs are CATASTROPHIC; keep in debuggable lang |
+| `manifest.ts` | 153 | IO + JSON | **No** | <500 ms | Most human-touched state; keep close to on-disk shape |
+| `glyph_validator.ts` | 140 | tiny | **No** | <200 ms | Rust regex semantics differ subtly; risk re-introducing Mynaui `\.\d+` bug |
+| **`svg_preprocess.ts`** | **1 060** | **CPU** | **No (port); Hybrid (§7 AST in TS)** | 1-3× via AST | The ONLY defensible candidate, but §7's `htmlparser2` migration delivers more correctness for less risk |
+| `stroke_fill.ts` | 268 | orch | **No** | ~1-2 s | Just `Bun.hash` swap per §15 |
+| **`stroke_fill_worker.ts`** | **124** | **calls Rust** | **Hybrid candidate** | 5-10 s cold; 0 warm | The ONE module where Rust is rational — but only if you ship vtracer (§1) in the same crate |
+| `font_builder.ts` | 179 | CPU | **No** | 5-10 s | No Rust equivalent has `svgicons2svgfont`'s exact semantics; §3 plans `opentype.js` or fontTools instead |
+| `font_verify.ts` | 183 | CPU + IO | **No** | 1-2 s | skrifa would halve it; 1 s for a new bridge — not worth |
+| `stroke_audit.ts` | 338 | stats | **No** | <500 ms | Pure markdown emit |
+| `coverage_report.ts` | 192 | trivial | **No** | <100 ms | — |
+| `dart_codegen.ts` | 118 | tiny | **No** | <500 ms | String templates |
+| `license_codegen.ts` | 52 | trivial | **No** | 0 | — |
+| `pubspec_codegen.ts` | 129 | trivial | **No** | 0 | — |
+| `website_codegen.ts` | 244 | CPU (JSON build) | **No** | 1-2 s | Per-pack JSON sharding (§11) is the real fix |
+| `group_sets.ts` | 82 | trivial | **No** | 0 | Config loader |
+| `pipeline.ts` | 979 | orch | **No** | 0 | TS/Bun is good at this |
+
+### Counter-argument (why NOT to port)
+
+The polyglot tax is concrete:
+
+1. **Two toolchains per contributor.** Today: `bun install`. With
+   Rust: `rustup` + target compile + cargo cache. Repo audience is
+   Flutter/Dart devs debugging icon issues — pushing them to learn
+   `cargo` to debug an SVG regex is a tax most won't pay.
+2. **Two cache strategies on CI.** Bun lockfile + cargo target +
+   sccache. Cache-key churn doubles; recovery from corruption is
+   slower.
+3. **Cross-language debugging friction.** Pipeline.ts → subprocess →
+   Rust panic backtrace → cargo land. Splits CLAUDE.md's load-bearing
+   invariants across two surfaces.
+4. **§15 is strictly cheaper.** Per-font TTF cache (~4 h, 30-50 s) +
+   SQLite-backed strokefill (~5 h, 5-10 s + fixes `git status` slow on
+   43 087-entry `tabler/` dir) + `Bun.hash` (~30 min, 1 s) +
+   `--skip-meta` (~1 h, 3-5 s/dev run). **~10 h, ~40-60 s saved.**
+   Rust port costs 3× more for one-fourth the speedup.
+5. **CLAUDE.md user prefs are explicit:** "Bun-based pipeline, not
+   pnpm/npm." Stated preference for single-toolchain simplicity.
+
+### Concrete recommendation
+
+1. **Profile first** (30 min): `bun --cpu-profile`, `console.time`
+   markers around 8 pipeline stages in `pipeline.ts:135-302`.
+2. **§15 TS work** (~10 h total):
+   - Per-font TTF cache (`font_builder.ts:34-75`, ~30-50 s)
+   - SQLite-backed strokefill (`stroke_fill.ts:109-128`, ~5-10 s +
+     fs cleanliness on APFS — 43 087 entries in `tabler/` cache)
+   - `Bun.hash` over `crypto.sha1` (`stroke_fill.ts:78`, ~1 s)
+   - `--skip-meta` flag (`index.ts` + `pipeline.ts`, ~3-5 s/dev)
+3. **Re-profile.** If `svg_preprocess.ts` regex is still > 20 % of
+   warm-cache time, do §7's `htmlparser2` AST migration (TS, ~8 h —
+   delivers correctness AND speed).
+4. **Only then** revisit Rust for `stroke_fill_worker.ts` — and only
+   if committing to §1's vtracer recovery (~10-14 k icons), so the
+   `tools/generator-rust/` crate amortises across two features.
+
+### Bottom line
+
+The "let's port to Rust" instinct is reasonable from a hot-take
+perspective; the data says otherwise. **80 % of warm-cache time is
+IO + JSON + template emit. The 20 % that's CPU is already Rust** under
+a JS shim. The TS module with significant CPU (`svg_preprocess.ts`)
+has a TS-side path (`htmlparser2`) that delivers more correctness for
+less risk than a port. **Partial Rust port is NOT rational today.**
+
+### Reconciling §17 and §18
+
+§17 ≠ §18. §17 says **new Rust crate** for **new audit primitives**
+(visual diff, true-render empty detect, panic-safe trace, vtracer
+recovery) is high-ROI. §18 says **rewriting existing TS modules** in
+Rust is low-ROI. Both can be true. The split: TS stays for
+orchestration + preprocessing + codegen + reports; Rust comes in only
+where it unlocks audit capabilities that are impractical in JS or
+where panic-safety justifies the polyglot tax.
+
+---
+
+## §19 — Search-input space-bar bug: real root cause + previous-fix verdict
+
+**Status of previous fix: WRONG SCOPE — diagnosed a non-existent
+framework-level interception. The fix in `app_shell_layout.dart`
+is dead code and the real bug was untouched.**
+
+A focused debugging agent traced the actual symptom end-to-end and
+found the bug is not at the focus / keyboard / shortcut layer at all.
+
+### Real root cause: trim-then-write-back feedback loop
+
+Same pattern is copy-pasted across three pages:
+
+```dart
+TextField(
+  onChanged: (text) {
+    final t = text.trim();         // ← strips trailing space the user just typed
+    route.updateQueries(qs: {'q': t});
+  },
+);
+
+// Elsewhere in the same widget:
+route.queryNotifier.addListener(_onQueriesChanged);
+
+void _onQueriesChanged() {
+  final q = route.query('q') ?? '';
+  if (_filterController.text != q) {
+    _filterController.value = TextEditingValue(
+      text: q,                                            // ← writes trimmed value back
+      selection: TextSelection.collapsed(offset: q.length),
+    );
+  }
+}
+```
+
+Trace for typing `a␣b`:
+1. `a` → controller=`"a"` → trim no-op → query=`"a"` → listener finds
+   controller==query → no-op.
+2. `␣` → controller=`"a "` → onChanged → `t="a"` (trailing space
+   stripped) → query stays `"a"` → listener sees `"a " != "a"` →
+   **overwrites controller with `"a"`, caret at offset 1**.
+3. `b` → user typing into `"a"` → controller becomes `"ab"`. From the
+   user's POV, space was eaten and `b` came right after `a`.
+
+The space the user typed is wiped before they can type the next char.
+
+### File:line citations
+
+| Page | Trim site | Write-back site |
+|---|---|---|
+| Search palette | `lib/features/search/search_page.dart:87-99` (trim at 91) | `lib/features/search/search_page.dart:76-85` |
+| All packs filter | `lib/features/home/all_packs_page.dart:72-87` (trim at 74) | `lib/features/home/all_packs_page.dart:52-60` |
+| Pack detail filter | `lib/features/pack/pack_detail_page.dart:79-114` (trim at 107) | `lib/features/pack/pack_detail_page.dart:79-87` |
+
+### Why the previous `_ShellShortcuts` fix did not work
+
+In vanilla Flutter web with a focused `TextField`, `space` never
+reaches application Focus.onKeyEvent handlers in a way that could
+swallow it:
+
+- `WidgetsApp.Shortcuts(space → ActivateIntent)` ships at the root.
+- `DefaultTextEditingShortcuts` immediately under it maps
+  `space → DoNothingAndStopPropagationTextIntent` (web disabling map).
+- `EditableText` installs `Actions(DoNothingAndStopPropagationTextIntent
+  → DoNothingAction(consumesKey: false))` — returns
+  `KeyEventResult.skipRemainingHandlers`, framework reports
+  `handled: false` to the engine, browser IME inserts the space.
+
+The custom `_ShellShortcuts` `Focus` is not in space's propagation
+path; the framework stops it before that. Moreover the previous fix's
+`_isTextFieldFocused()` check (`app_shell_layout.dart:87-91`) is
+**itself broken**: `FocusManager.instance.primaryFocus.context.widget`
+is the `Focus` widget EditableText builds at
+`editable_text.dart:5804`, not the `EditableText` itself. The
+`is EditableText` check is always false; the early-return never fires.
+
+The fix is dead code that happens to be harmless only because none of
+its activators (`Cmd+K`, `Ctrl+K`, `/`) match `space` anyway.
+
+### Verdict on the agent's analysis: CORRECT
+
+Cross-checks that validate the root cause:
+
+1. **Empirical signal**: typing `mdi line` in `/packs` produces URL
+   `/packs?q=mdiline` — confirms the wipe happens in
+   route→controller direction, not at the keyboard layer.
+2. **Framework reality check**: Flutter web's
+   `DefaultTextEditingShortcuts` for space is verifiable in the
+   Flutter source — agent cited the exact file:line.
+3. **Internal consistency**: agent's trace explains why other
+   keys work but only space is eaten (only space gets stripped by
+   `trim()`; non-trailing-whitespace chars survive).
+4. **Previous-fix sanity**: `is EditableText` check failing is
+   verifiable by reading the Flutter framework's EditableText source.
+
+### Fix recommendation
+
+**Option A (recommended)**: stop trimming inside `onChanged`. Trim only
+at the point of consumption (already done in `_visible` / `_entries` /
+`_applyFilters` via `q.trim().toLowerCase()`). URL keeps user's literal
+text and the round-trip listener no longer wipes the controller. URL
+becomes `?q=a%20b` — correct, matches every browser address bar.
+
+Two-line change per file:
+- `search_page.dart:87-99` — drop `final t = value.trim();`. Store
+  `value` directly.
+- `all_packs_page.dart:72-81` — same: `_setFilter(text)` stores `text`
+  raw.
+- `pack_detail_page.dart:105-114` — same.
+
+**Option B (only if literal spaces in URL are unwanted)**: keep
+`.trim()` in `_setFilter` BUT guard `_onQueriesChanged` so it doesn't
+overwrite controller when only difference is whitespace mid-edit:
+`_filterController.text.trim() != q`. Strictly worse than A; leaves a
+footgun.
+
+Also remove the broken `_isTextFieldFocused()` early-return in
+`app_shell_layout.dart:87-102` — it's dead code with a misleading
+comment block that will trip a future contributor.
+
+### Reproducer
+
+Confirm bug:
+1. `cd packages/iconifyx/website && fvm flutter run -d chrome`
+2. `/packs` → "Filter packs…" field → type `mdi line` → observe
+   `mdiline` (space missing); URL stays `/packs?q=mdiline`
+3. `/pack/mdi` → type `home outline` → observe `homeoutline`
+4. `/search` (press `/` or top-bar search) → type `home outline` →
+   observe `homeoutline`
+
+Verify fix:
+1. Apply the three trim removals.
+2. Each field shows `mdi line` / `home outline` / `home outline`; URL
+   reflects `?q=mdi%20line` etc.
+3. Smoke check: `/` outside a field opens palette; `/` inside a field
+   inserts literal `/`; `Cmd-K` opens palette from both.
+
+### Lesson
+
+The previous fix added complexity to the wrong layer because the
+symptom ("space doesn't work in a TextField") pattern-matched to a
+familiar Flutter footgun (Shortcuts intercepting keys before
+EditableText). The actual bug was in the data-flow contract our own
+code defined. **Before reaching for framework-level fixes, instrument
+the data path first.**
+
+---
+
 ## Cross-cutting recommendations
 
 ### Tools shortlist (consolidated)
