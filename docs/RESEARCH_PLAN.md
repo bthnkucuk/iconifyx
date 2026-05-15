@@ -1184,6 +1184,246 @@ by this agent's findings:
 
 ---
 
+## §15 — Generator speed: cross-check / second opinion
+
+**Verdict on §13: well-reasoned at the architectural level but never
+profiled, over-claims manifest-diff ROI, and under-weights APFS
+many-small-files pain. The 120 s → 19 s target is optimistic by 2-3×.
+Realistic warm-cache local target: 55-70 s; CI with matrix sharding:
+~35 s.**
+
+A second agent was dispatched to challenge §13 recommendation-by-
+recommendation, verify empirical claims against git history, and suggest
+what §13 missed.
+
+### Per-§13-recommendation verdict
+
+#### 13.1 Manifest-diff incremental + per-font TTF cache — REFINE
+
+§13 claim: 60-100 s saved on typical reruns. Empirical reality, from
+`git log` of last 10 manifest-touching commits, packs-changed
+distribution = `{28, 6, 1, 3, 11, 27, 214, 23, 12, 55}`. Median ~20,
+mean ~38. But **2 / 10 commits (20 %) invalidated 100 %+ of packs** —
+those are pipeline-logic changes (`flattenAnimations`, paint-order
+detection), exactly when the developer iterates rapidly. Manifest-diff
+gives **zero** speedup on those reruns.
+
+§13's cache key `sha1(sortedMembers + bodyHashes + svgicons2svgfont/
+svg2ttf versions)` is **insufficient**:
+- Misses `centerHorizontally`, `fontHeight: 1000`, `normalize: true`
+  flags (`font_builder.ts:137-142`). Change `fontHeight` → cache says
+  "hit" → wrong TTF.
+- Misses `iconToSvg` output (different `xmlns:xlink` handling, viewBox
+  normalization). Hash is over raw `body`, but actual stream input is
+  `iconToSvg(ic)`.
+- Misses auto-split boundary cross (`Mdi` → `Mdi_2`). §13 flagged this
+  but supplied no key fix.
+
+**Tighter key**: `sha1(JSON.stringify({fontName, fontHeight, normalize,
+centerHorizontally, svg2ttfOpts, members: sortedMembers.map(m =>
+({name: m.name, cp: m.codepoint, svg: iconToSvg(ic)})), versions}))`.
+Hashing the actual `iconToSvg` output is the only sound key.
+
+**Simpler alternative**: per-font TTF cache alone is ~80 % of the gain.
+Skip the manifest-diff layer entirely. Manifest-diff adds complexity
+(`.last/<prefix>.{json,ttfs.tar,dart}` mirror tree, copy semantics,
+partial-failure recovery) for diminishing returns when pipeline-logic
+changes invalidate it anyway.
+
+**Realistic Δ**: per-font TTF cache 30-50 s warm; manifest-diff adds
+10-20 s on Iconify-only bumps; **0 s on pipeline-edit reruns**.
+
+#### 13.2 Persistent subprocess pool — REJECT in favour of batched calls
+
+§13's bottleneck claim is wrong:
+- `Bun.spawn` startup is ~30-50 ms on M-series, not 500 ms (that's
+  worst-case Node cold start).
+- `runFixerWorker` only runs on **cache MISS** batches. On warm cache
+  (1.4 GB strokefill), most packs hit 100 % — the worker never spawns.
+  See `stroke_fill.ts:129` early return.
+- Persistent worker doesn't help `font_builder.ts` at all — that's
+  in-process svgicons2svgfont.
+
+Real cold-cache: ~150 packs trigger the worker × ~50 ms spawn = ~7.5 s
+total overhead. Actual rasterize+Potrace work is 10-20 s per ~1 000
+icons. Persistent pool saves **~5 s, not ~25 s**.
+
+**Simpler alternative — batch multiple packs into ONE worker call**.
+Pre-collect all cache misses across all packs into a single `tempIn`
+dir, spawn one worker, demultiplex by output filename. Trades
+complexity for ~14 spawn calls → 1. **Δ ~5 s, ~2 h to implement vs ~4 h
+for §13's pool.**
+
+#### 13.3 Tiered raster diff for visual audit — KEEP, change cache format
+
+`.cache/raster64/` would be ~700 MB on top of 1.4 GB strokefill = 2.1 GB
+of many small files on APFS. macOS pain:
+- `getattrlist` / `readdir` performance degrades sharply > 10 k entries
+  per directory.
+- `existsSync` over 300 k+ files in flat layout is O(n) worst-case per
+  call.
+- Spotlight indexes the cache silently (`mdworker` competes for I/O).
+- `git status` walks them all — slow `git status` is a side-effect
+  users notice.
+
+**Reject**: `.cache/raster64/<prefix>/<sha1>.bin` (many-small-files).
+**Adopt instead**: SQLite DB via `bun:sqlite` (zero-deps, in-tree)
+keyed `(sha1, scope) → blob`. Single file, mmap-backed, ~5× faster
+`EXISTS` than `existsSync`, atomic transactions, easy to ship as a CI
+artifact. WAL mode + content-addressed values preserves determinism.
+The 1.4 GB strokefill cache should migrate to this layout too.
+
+Alternative: pack as `.cache/raster64.tar` with a sidecar offset index
+(`tar + mmap`). 1 file, 1 inode, fast lookups, ~50 % compression.
+
+#### 13.x — Minor verdicts
+
+- **`xxhash-wasm` vs `crypto.sha1`**: sha1 on 1 KB inputs is ~3 µs in
+  Bun. `xxhash-wasm` is ~0.5 µs but needs wasm load. Over 340 k icons
+  that's 1 s saved. **Not worth a dep.** `Bun.hash()` (wyhash,
+  in-process, ~4× faster than sha1, zero-overhead) is the right pick.
+  **KEEP** as a trivial change. Not cryptographically stable but fine
+  for cache keys.
+- **Sort `Object.entries` determinism guard**: **REJECT** — verified
+  `manifest.ts:135` writes via sorted `Object.fromEntries`, so JSON
+  parse order is already deterministic. Non-issue.
+- **CI runner upgrade (ubuntu-large)**: keep, but cheap-and-correct.
+- **Concurrency `cpuCount × 1.5`**: dangerous on Bun.
+  `oslllo-svg-fixer` spawns its OWN subprocesses; we're already at
+  ~16 effective processes on an 8-core box. Pushing to 12 workers OOMs
+  CI runners. **REJECT** without measuring RSS first.
+
+### Three things §13 missed
+
+#### M1. **§13 never profiled.**
+
+No `bun --inspect`, no `bun --cpu-profile`, no `console.time`
+instrumentation. The "60-100 s saved" is back-of-napkin.
+
+**Concrete profile plan (30 min)**:
+1. `bun --cpu-profile tools/generator/src/index.ts` → `.cpuprofile`
+   loadable in Chrome DevTools / Speedscope.
+2. Add `console.time / timeEnd` markers around the 8 pipeline stages
+   in `pipeline.ts`. Aggregate per-pack timings.
+3. Run with `--smoke 5` first to isolate per-pack vs amortized cost.
+4. macOS-specific: `instruments -t "Time Profiler" -D out.trace bun
+   run src/index.ts` for syscall-level resolution.
+
+Likely findings (cross-check agent's bet on the actual top-3 warm-cache
+cost):
+- `Object.entries(manifest.icons)` iterating 340 k entries per font ×
+  N fonts in `font_builder.ts:52` (O(n²) on largest packs).
+- `JSON.stringify` of 3.3 MB tabler manifest at write time.
+- `fs.existsSync` over 72 k cache files.
+
+#### M2. **Many-small-files on APFS is the real cache problem.**
+
+§13 acknowledged 1.4 GB cache but kept the same layout. macOS APFS
+quirks:
+- `readdir` on `tabler/` (43 087 entries) is ~120 ms cold, ~25 ms warm.
+- `existsSync(cachePath)` (`stroke_fill.ts:120`) is 5-15 µs per call
+  × 340 k = **1.7-5 s just on stat calls**.
+- Spotlight + git status compete for I/O.
+
+**Fix**: SQLite-backed CAS via `bun:sqlite`, or single tar. Side
+benefit: `.cache/` becomes 1 file — easy to `.gitignore`, easy to
+ship to CI as a single artifact. Currently impossible —
+`actions/cache` chokes on 300 k files.
+
+#### M3. **Distributed CI sharding is under-rated by §13.**
+
+GitHub Actions matrix sharding: 225 packs → 8 matrix shards × ~28
+packs each. Each shard runs ~20 s (8× speedup over serial). Merge
+step uses `actions/download-artifact` and re-emits the meta package.
+**Wall time: ~30 s end-to-end. Cost: 8 × CI minutes per regen.**
+
+Bonus: each shard's `.cache/strokefill/<their-packs>` is small (~150 MB
+max for tabler shard) → fits `actions/cache` easily. No 1.4 GB
+monolith. Limitations: meta package + `iconifyx/example/pubspec.yaml`
++ audit reports need ALL packs, so the merge step still does ~10 s of
+cross-pack work. Net ~30-40 s on CI vs §13's projected 19 s + Ubuntu-
+large upgrade. **Same speedup, fewer moving parts.** Especially
+valuable because it's the ONLY approach that helps on the "100 % of
+packs invalidated" pipeline-edit case.
+
+#### M4 (bonus). **Lazy meta-package emit + `bun --watch` dev loop.**
+
+Today `pubspec_codegen.ts:emitMetaPubspec` +
+`example_codegen.ts:emitExampleIndex` run every regen even when
+iterating on `svg_preprocess.ts` against `--set mdi`. Pointless. Gate
+behind a `--emit-meta` flag (default true on CI, false in dev). Δ ~3-
+5 s per dev iteration.
+
+`bun --watch tools/generator/src/index.ts -- --set mdi --skip-meta
+--dry-run` makes the inner dev loop ~1-2 s for SVG-preprocess tweaks.
+
+### Combined best plan — ordered by ROI
+
+| # | Change | Cost | Wall-time Δ | Risk |
+|---|---|---|---|---|
+| 1 | **Profile first** — `console.time` markers + `--cpu-profile` baseline | 30 min | 0 (informs everything else) | none |
+| 2 | **Per-font TTF cache** keyed on full serialized stream input (incl. `iconToSvg` output, flags, lib versions) | 4 h | -30 to -50 s warm | low |
+| 3 | **SQLite-backed `.cache/strokefill/`** via `bun:sqlite` (also reduces `git status` pain, ships as 1 CI artifact) | 5 h | -5 to -10 s + huge fs-cleanliness win | medium |
+| 4 | **`Bun.hash`** over `crypto.sha1` in stroke_fill + cache keys | 30 min | -1 s | none |
+| 5 | **`--skip-meta` / `--dev-mode` flag** for inner-loop iteration | 1 h | -3 to -5 s per dev run | none |
+| 6 | **Batched stroke-fill worker** (one `tempIn` dir across all packs per regen) | 2 h | -5 s cold-cache | low |
+| 7 | **GitHub Actions matrix sharding** (8 shards, merge step) | 6 h | -50 to -70 s on CI ONLY | medium |
+| 8 | **Tiered visual-diff with SQLite-backed PNG cache** (after #3 lands) | 8 h | enables audit at +12 s instead of +250 s | medium |
+| 9 | Manifest-diff incremental — defer indefinitely; profile first to confirm worth it | — | low | high churn |
+
+**Realistic warm-cache local target**: 120 s → **~55-70 s** (not §13's
+19 s). §13's 19 s implies 90 % of work eliminated, which is only true
+if "iconify bump touches < 20 % of packs AND no pipeline edits AND no
+audit emit". Three big assumptions, two of them empirically wrong on
+recent commit history.
+
+**Realistic CI target**: ~35 s with matrix sharding + #2 + #3 + #4.
+
+### Prioritised top-3 (cross-checked)
+
+1. **PROFILE FIRST.** 30 min with `--cpu-profile` + stage-level
+   `console.time` will redirect the next 20 h of optimization work.
+   §13 skipped this entirely; cross-check agent refuses to recommend
+   anything ROI-ranked above measurement.
+2. **Per-font TTF cache with a complete cache key** — full `iconToSvg`
+   output hash + ALL stream options + lib versions, not just `members
+   + bodyHashes`. Single biggest dependable speedup; ~4 h work; ~30-
+   50 s saved warm.
+3. **Migrate `.cache/strokefill/` to SQLite (`bun:sqlite`).** Fixes
+   the many-small-files APFS pain, makes the cache shippable as a
+   single CI artifact, speeds `existsSync` lookups, eliminates `git
+   status` slowdown. Foundational for #8 (visual-diff cache) and #7
+   (matrix-shard cache restoration).
+
+### Files
+
+- `tools/generator/src/font_builder.ts:52` — `Object.entries` iteration;
+  cache wrap site
+- `tools/generator/src/font_builder.ts:137-142` — stream options that
+  must be in any per-font cache key
+- `tools/generator/src/stroke_fill.ts:78` — `Bun.hash` replacement
+- `tools/generator/src/stroke_fill.ts:118-128` — `existsSync` hot loop,
+  the APFS pain point
+- `tools/generator/src/pipeline.ts` — needs `--skip-meta` flag for dev
+  iteration
+- `tools/generator/manifests/tabler.json` — 3.3 MB / 127 k lines;
+  JSON.stringify cost worth profiling
+
+### Cross-reference with §13
+
+§15 supersedes §13's top-3:
+- §13.1 (manifest-diff) → §15 keeps per-font TTF cache but **rejects
+  manifest-diff complexity** and **tightens the cache key**.
+- §13.2 (persistent subprocess pool) → §15 **rejects** in favour of
+  batched single-call worker invocation.
+- §13.3 (tiered raster diff) → §15 **keeps the audit plan** but
+  **rejects flat-file cache layout** in favour of SQLite.
+
+§13's CI runner upgrade, `Bun.hash`, and `cpuCount × 1.5` worker
+recommendations are addressed individually above (keep, keep, reject).
+
+---
+
 ## Cross-cutting recommendations
 
 ### Tools shortlist (consolidated)
