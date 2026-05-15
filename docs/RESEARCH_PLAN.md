@@ -1611,10 +1611,19 @@ collisions across 166 packs.
   declare it but the file persists. Three-way diff: readdir(assets/
   fonts/), manifest fonts, pubspec font families. Combine with A1.
 
-- **A10 — Determinism self-check** (regen-twice byte-diff). ~3 h.
-  Foundational for the planned cache work (§15) but doesn't catch a
-  present bug. SHA256 every TTF / .dart / manifest, regen cold, diff.
-  Doubles as `ttfSha256` baseline for future cache-key validation.
+- **A10 — Determinism self-check** ✅ **SHIPPED** (regen-twice
+  byte-diff). Foundational for the planned cache work (§15) but
+  doesn't catch a present bug. SHA256 every TTF / .dart / manifest,
+  diff against committed `docs/audit/sha_baseline.json`. Optional
+  `--regen-twice [--smoke a,b,c | --full]` re-runs the generator and
+  diffs the second snapshot against the first — empirically catches
+  any new non-determinism leaking into the pipeline. Doubles as
+  `ttfSha256` baseline for future cache-key validation.
+  Lives in [tools/generator/audit/determinism.ts](../tools/generator/audit/determinism.ts);
+  emits [DETERMINISM_AUDIT.md](../DETERMINISM_AUDIT.md). Snapshot:
+  ~0.6 s for 745 files (295 TTF + 225 Dart + 225 manifest). First
+  regen-twice run on `fontelico` flagged a real TTF non-determinism
+  bug — exactly the class this tool was built to surface.
 
 - **A12 — Stroke-fill panic-list regression tracker** (~2 h).
   Persist panic-skipped name set across regens. New / recovered
@@ -3554,7 +3563,7 @@ APFS `existsSync`/`readdir` cost on 43 k-entry `tabler/`. Ship-gate:
 | §3 | Iterate-until-empty rebuild loop | 3 |
 | §5 | Unified `elementHasNoInk` + alpha promotion | 3-4 |
 | §6 | setStrokeWidth proportional + style/group inheritance | 2-3 |
-| §16-A10 | Determinism self-check + `ttfSha256` baseline | 3 |
+| §16-A10 | Determinism self-check + `ttfSha256` baseline — ✅ shipped (`bun run audit determinism`) | 3 |
 | §21 | GitHub Pages deploy workflow | 2-3 |
 | §16-A6 | Duotone primary/secondary sync audit | 1.5 |
 
@@ -4026,7 +4035,7 @@ platforms today without modifying Flutter SDK.**
 | §1-§12 | Initial 12 research streams | 📋 documented, partial impl |
 | §13/§15 | Speed plan + cross-check | 📋 documented (not impl) |
 | §14 | Layer-order survey | 📋 documented (not impl) |
-| §16 | Audit gap analysis | 📋 documented; **A6** ✅ shipped (mid-§32) |
+| §16 | Audit gap analysis | 📋 documented; **A6** ✅ shipped (mid-§32); **A10** ✅ shipped (`bun run audit determinism`) |
 | §17/§18 | Rust crates + port verdict | 📋 documented (no port) |
 | §19 | Search-bar space-eater bug | 📋 root-cause analysed (fix not committed) |
 | §20-§27 | Various web + tooling research | 📋 documented; **§21** ✅ shipped (deploy workflow) |

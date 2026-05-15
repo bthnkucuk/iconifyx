@@ -42,6 +42,19 @@ const COMMANDS: Record<string, AuditCommand> = {
       await mod.runManifestLintAudit(parseSharedFlags(args));
     },
   },
+  determinism: {
+    description:
+      'Regen-twice byte-diff harness — verifies TTFs / Dart / manifests are byte-identical across runs (§16-A10).',
+    run: async (args) => {
+      const mod = await import('./audit/determinism.ts');
+      // The determinism audit owns a richer flag set than the shared
+      // --prefix sniffer (--regen-twice, --smoke, --full,
+      // --update-baseline, --force, --strict). Forward the raw args
+      // and let its own parser run.
+      const code = await mod.runDeterminismAudit({ rawArgs: args });
+      if (code !== 0) process.exit(code);
+    },
+  },
 };
 
 function parseSharedFlags(args: string[]): { prefixes?: Set<string> } {
