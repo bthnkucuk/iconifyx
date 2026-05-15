@@ -3715,6 +3715,238 @@ long. Skip §8 Python unless §3-quick + §4 prove insufficient.
 
 ---
 
+## §31 — Tree-shake sibling-TTF tax: zero-config auto-fix research
+
+**Verdict: With current Flutter SDK, "consumer runs `flutter build`
+with zero config, 50 icons across 10 packs = 35 KB" is NOT
+achievable on all platforms. The single blocker is one line in
+`packages/flutter_tools/lib/src/build_system/targets/assets.dart`
+that we don't control. Best achievable today: ~80 % reduction via
+popularity-reallocation + Android-only Gradle post-build strip;
+real fix requires Flutter SDK PR (issue #64106, dormant 6 years).**
+
+### The single line that's blocking us
+
+`flutter_tools` source code (verified May 2026, master) —
+`assets.dart` font-copy loop:
+
+```dart
+doCopy = !await iconTreeShaker.subsetFont(input, outputPath, relativePath, quiet);
+if (doCopy) {
+  await (content.file as File).copy(file.path);   // ← THE BLOCKER
+}
+```
+
+`IconTreeShaker.subsetFont` returns `false` when:
+- tree-shake is disabled or input < 12 bytes, OR
+- **the font family is not in `_iconData!`** — i.e. zero referenced
+  codepoints in that TTF (this is OUR case for sibling TTFs)
+
+A `false` return does NOT mean "drop". Caller's fallback is
+**unconditional**: `await content.file.copy(file.path)` — the
+original TTF is copied byte-for-byte into `flutter_assets/`,
+`FontManifest.json` keeps the entry.
+
+**There is NO "drop unreferenced TTF" code path anywhere in
+`flutter_tools`.** The behaviour is deliberate (every pubspec-
+declared asset ships) and predates icon-tree-shake by years.
+
+### Upstream issue landscape
+
+| # | Title | Status | Relevance |
+|---|---|---|---|
+| **#64106** | "Tree shake unused assets" | **Open P3, 6 years dormant**, assigned dcharkes | Canonical bug; maintainer note "hard due to dynamic asset loading" |
+| #157216 | Icon tree shake 3rd-party not working on Windows | Closed by #184249 | Desktop quoting bug; orthogonal |
+| #172449 | Larger APK after removing last Symbol | Closed (dup of #157216) | Same symptom |
+| #154986 | Web tree-shake doesn't work well | Open P2 | Web-only, not multi-TTF |
+| #96514 | Conditional bundling of assets | Closed without implementation | Would fix us if revived |
+| #146264 | `hook/build.dart` DataAssets | Experimental, gated `flutter config --enable-dart-data-assets` | Possible long-term mechanism |
+| #129757 | Build hooks + Code assets | Stable since Flutter 3.38 / Dart 3.10 | Code assets only; font story still gated |
+
+**No upstream issue targets our exact bug.** #64106 is dormant; a
+coherent comment with empirical data (3-pack scenario: 12.1 MB
+instead of 3 KB, ~99 % waste) would be a credible rallying point.
+
+The surgical patch surface: ~30 lines in `assets.dart` — gate the
+unconditional `copy(file.path)` behind a pubspec key
+(`flutter.unreferencedFontHandling: drop`) or CLI flag, and also
+strip the entry from `FontManifest.json`. One PR, scoped, opt-in
+(preserves dynamic-font consumers), reviewable in days.
+
+### Workaround verdict table
+
+| Mechanism | Zero-user-config? | Hit rate | Cost (h) | Risk |
+|---|---|---|---:|---|
+| **A. Popularity-based codepoint reallocator** (top-N → primary TTF) | YES | ~70-80 % typical; **0 % worst case** | 12-20 | ONE long-tail reference reintroduces 5-9 MB sibling tax. Doesn't meet hard requirement. |
+| **B. Single mega-TTF per pack** (raise BMP cap via supp-PUA) | YES | 100 % where feasible | 40-80 | svg2ttf supp-PUA unverified; Flutter glyph renderer fragile at supp-PUA codepoints. Likely infeasible. |
+| **C. Runtime FontLoader.load() with plain assets** | NO (breaks const tree-shake) | N/A | 30 | const_finder needs font declared as font; declaring as plain asset = font-subset never runs. Worse. |
+| **D. Gradle plugin / iOS script_phase / web hook** | Android YES (Flutter auto-apply), iOS partial, **web NO** | 100 % where it runs | 60-120 (3 platforms) | iOS = Podfile edit per Flutter docs; web has no native post-build hook. Fragile across Flutter versions. |
+| **E. Dart `hook/build.dart` DataAssets** | YES if `flutter config --enable-dart-data-assets` flipped | 100 % theoretical | 20-40 prototype | Experimental, may shift; font registration via data-assets incomplete (#146264 still open). |
+| **F. Per-pack package fragmentation** (`iconifyx_mdi_a/_b/_c`) | YES if user knows which slice | 100 % if known; **~0 % otherwise** | 8-12 | Doubles pkg count to ~500; impossible to know upfront which slice an icon is in. UX disaster. |
+| **G. Document + recommend single-TTF packs** | YES | Variable | 1 | Honest, doesn't meet requirement |
+| **H. Upstream Flutter SDK PR** | YES once landed (+1 pubspec line) | 100 % | 40 + months review | Out of our control; Flutter team font-asset triage slow (issue #64106 dormant 6 years) |
+
+### Detail — Option D (native build hooks)
+
+**Android**: Flutter packages CAN ship `android/build.gradle` that
+adds a task to the consumer app's build via Flutter plugin manifest
+auto-apply mechanism (used by `firebase_messaging`, etc.). A
+post-`assembleRelease` task can:
+1. Read `build/intermediates/flutter/release/flutter_assets/
+   FontManifest.json`
+2. Scan AOT kernel for IconData refs
+3. Delete TTFs with zero refs
+4. Rewrite the manifest
+5. Re-zip assets jar pre-signing
+
+**Zero-config on Android. Works today.**
+
+**iOS**: No auto-apply equivalent. CocoaPods script_phases require
+consumer's Podfile to opt in. Closest path: make `iconifyx_core` a
+plugin (not pure Dart) with iOS `script_phase` declared in its
+`.podspec` — Flutter's plugin tooling injects on `flutter pub get`.
+Verified pattern but increases maintenance + iOS pipeline shifted
+twice in 2025.
+
+**Web**: No post-build hook in `flutter build web`. Only path is a
+wrapper Dart CLI (`dart run iconifyx:strip`) — **violates
+zero-config constraint**.
+
+### Detail — Option A's worst-case problem
+
+User's hard requirement: "50 icons across 10 packs = 35 KB".
+Popularity reallocation puts top-N icons in primary TTF. At 95 %
+primary hit:
+- 47.5 icons in primary (~33 KB shaken) ✓
+- 2.5 icons in siblings → each reintroduces FULL sibling TTF
+  (5-9 MB each) → **~25 MB worst case**
+
+For real apps using 5-50 icons, P(at least one cold miss across
+all packs) → 1 as references grow. **Popularity reallocation
+improves the TYPICAL case, not the WORST case.** Does not satisfy
+the user's hard constraint.
+
+### Honest answer
+
+**NO.** With current Flutter SDK (3.41 stable, 3.44 beta, master
+May 2026) and ZERO user-side configuration, iconifyx cannot
+guarantee "50 icons across 10 packs = 35 KB of fonts." Cause is
+in Flutter's `assets.dart` font-copy loop; there is no "drop
+unreferenced TTF" step anywhere in `flutter_tools`.
+
+Closest today, no SDK change: **A + D-Android = ~80 % reduction
+of worst case**. Android consumer-zero-config. iOS partial (plugin
+podspec auto-inject is fragile). Web fails (no post-build hook).
+
+**Only clean, zero-config, all-platforms answer is a Flutter SDK
+PR.**
+
+### Three-phase proposal
+
+#### Short-term (~10 h, this week) — improves typical case, doesn't meet hard requirement
+
+1. **Popularity-based codepoint reallocator** in
+   `tools/generator/src/codepoint_allocator.ts` (~6 h)
+   - Curated `popularIcons` list per pack (Iconify search analytics
+     seed + hand-picked ~500 names: `home/search/menu/user/...`)
+   - Two-pass allocation: popular → primary `<Prefix>.ttf` first,
+     long-tail spills to `_2`/`_3`
+   - Manifest gains `popularitySlot` field
+   - Reduces sibling-tax probability by ~70-80 % for typical apps
+2. **Update `CLAUDE.md` §1 + README** (~1 h) — honest documentation
+   of sibling-TTF tax; recommend single-TTF packs (carbon,
+   heroicons, feather, fa6_solid, octicon, bi) for bundle-strict
+   users
+3. **Bundle-regression CI gate** (~3 h) — `test_apps/
+   three_icon_test/` + GitHub Action asserting canonical 3-pack
+   scenario stays ≤ 12.1 MB + 10 %. Prevents class-wrapping
+   regression + catches Iconify growth introducing new auto-splits.
+
+Files: `tools/generator/data/popular_icons.json` (curated list),
+`codepoint_allocator.ts` updates, `test_apps/three_icon_test/`,
+`.github/workflows/bundle-regression.yml`.
+
+**Caveat**: This is a TYPICAL-case improvement, not a worst-case
+fix. Honest README disclaimer required.
+
+**MAJOR VERSION BUMP REQUIRED** — popularity reallocation moves
+existing codepoints across siblings → breaks CLAUDE.md §3 invariant
+(codepoint stability append-only). Consumers pinned to `^0.1.0`
+keep old codepoints; `^1.0.0` gets new layout. ~3-6 mo migration.
+
+#### Medium-term (1-2 months, ~80-120 h) — meets requirement on Android only
+
+4. **`iconifyx_core` becomes Flutter plugin (not pure Dart pkg) with Gradle post-build task**
+   - `iconifyx_core/android/build.gradle` registers task after
+     `assembleRelease`
+   - Parses AOT kernel for IconData refs
+   - Drops TTFs with zero referenced codepoints
+   - Rewrites `FontManifest.json`
+   - Re-zips assets jar pre-signing
+   - **Zero consumer config on Android** (Flutter plugin auto-apply)
+5. **iOS via plugin `.podspec` `script_phase`** — same strip on
+   `Runner.app/Frameworks/App.framework/flutter_assets/`. Fragile
+   (iOS plugin pipeline shifted twice in 2025); needs version-
+   pinning.
+6. **Web NOT covered** — document that web builds require either
+   popularity-reallocation only OR manual `dart run iconifyx:strip`.
+
+#### Long-term (3-6 months) — meets requirement everywhere
+
+7. **Upstream Flutter SDK PR** opting into "drop unreferenced
+   fonts":
+   ```yaml
+   flutter:
+     unreferenced_font_handling: drop  # default: keep (back-compat)
+   ```
+   ~30 lines in `assets.dart` (gate the `copy` fallback) + manifest
+   filter + tests. Rally behind dormant #64106; attach our 12.1 MB
+   empirical evidence.
+8. **OR in parallel**: experimental migration to `hook/build.dart`
+   DataAssets (#146264). Register fonts dynamically from a build
+   hook running AFTER kernel snapshot, so we know which families
+   are referenced before declaring them. Higher risk (experimental
+   flag), but **the only zero-config web answer** that doesn't
+   require an SDK PR.
+
+### The single biggest blocker
+
+**One line** in `packages/flutter_tools/lib/src/build_system/
+targets/assets.dart` — the unconditional
+`await (content.file as File).copy(file.path)` fallback that runs
+when `iconTreeShaker.subsetFont` returns `false`. **This is
+Flutter's responsibility, not ours.** No generator cleverness
+eliminates it because the asset bundler runs AFTER our package
+emit. The fix is a ~30-line opt-in patch + a pubspec key, gated
+behind issue #64106. Owner: Flutter team (dcharkes assignee).
+
+We unblock by: (a) attaching our empirical 12.1 MB measurement to
+#64106 with a written motivation, (b) submitting the PR ourselves
+— Flutter accepts external font-tooling PRs (cf. #184249).
+
+Until that lands, our **best zero-config delivery is ~80 %
+reduction via popularity reallocation + Android Gradle post-build
+strip**, with honest documentation that web + iOS bundle sizes
+remain governed by the sibling-TTF tax.
+
+The hard "50 icons = 35 KB" requirement is **not achievable on all
+platforms today without modifying Flutter SDK.**
+
+### Sources (verified)
+
+- [icon_tree_shaker.dart (flutter master)](https://raw.githubusercontent.com/flutter/flutter/master/packages/flutter_tools/lib/src/build_system/targets/icon_tree_shaker.dart)
+- [assets.dart (flutter master)](https://raw.githubusercontent.com/flutter/flutter/master/packages/flutter_tools/lib/src/build_system/targets/assets.dart)
+- [Issue #64106 — Tree shake unused assets](https://github.com/flutter/flutter/issues/64106)
+- [Issue #157216 — Icon tree shake 3rd-party not working](https://github.com/flutter/flutter/issues/157216)
+- [Issue #154986 — web tree-shake](https://github.com/flutter/flutter/issues/154986)
+- [Issue #96514 — Conditional asset bundling proposal](https://github.com/flutter/flutter/issues/96514)
+- [Issue #146264 — hook/build.dart DataAssets](https://github.com/flutter/flutter/issues/146264)
+- [PR #184249 — fix tree-shake for desktop](https://github.com/flutter/flutter/pull/184249)
+- [Flutter Gradle plugin apply docs](https://docs.flutter.dev/release/breaking-changes/flutter-gradle-plugin-apply)
+- Local: [docs/TREESHAKE_VERIFICATION.md](TREESHAKE_VERIFICATION.md), §28 above
+
+---
+
 ## Cross-cutting recommendations
 
 ### Tools shortlist (consolidated)
