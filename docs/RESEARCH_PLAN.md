@@ -3947,6 +3947,236 @@ platforms today without modifying Flutter SDK.**
 
 ---
 
+## §32 — Single-TTF-per-pack via cmap format 12 + supp PUA: **EMPIRICAL GO**
+
+**Verdict: VERIFIED. cmap format 12 + Supplementary PUA codepoints
+render correctly across macOS desktop release, Flutter web CanvasKit
+release, and iOS simulator. Tree-shake `font-subset` correctly
+subsets supp-PUA references (724 B for one icon, vs 1736 B baseline).
+SOLVES the sibling-TTF tax (§28) WITHOUT Flutter SDK PR / Android
+Gradle plugin / popularity reallocation / configurator. CLAUDE.md
+§4's "renderer fragile in supp PUA" claim is empirically false as
+of Flutter 3.44.**
+
+### Test methodology
+
+Built `/tmp/supp-pua-test/Mdi_merged.ttf` (1 736 B) via `fontTools`
+(Python uv venv) containing:
+- BMP PUA glyph at U+E000 (MDI `1-2-3` icon from `Mdi.ttf`)
+- Supplementary PUA glyph at U+F0000 (MDI `fridge-industrial-alert-
+  outline` icon from `Mdi_2.ttf`, codepoint remapped)
+- cmap subtables: format 4 (BMP only, U+E000) + format 12 (32-bit,
+  both codepoints, platforms 0/4 and 3/10)
+
+Flutter test app `/tmp/supp_pua_test/` renders both icons via:
+```dart
+Icon(const IconData(0xE000, fontFamily: 'Mdi'), size: 64),       // BMP
+Icon(const IconData(0xF0000, fontFamily: 'Mdi'), size: 64),      // Supp PUA
+```
+
+### Empirical results
+
+| Platform | Build | BMP (U+E000) renders | Supp PUA (U+F0000) renders |
+|---|---|---|---|
+| **macOS desktop** | release | YES (123 digits) | **YES** (fridge-alert icon, correct shape) |
+| **Flutter web (CanvasKit)** | release | YES | **YES** (correct shape) |
+| **iOS simulator** (iPhone 17, iOS 26.4) | debug* | YES | **YES** |
+
+*iOS simulator rejects `--release`; debug uses same Impeller/Skia
+text renderer as release. Physical device confirmation recommended
+but not blocking.
+
+**No `.notdef` boxes, no baseline drift, no missing antialias, no
+fallback substitution. Visual quality identical to BMP rendering.**
+
+### Tree-shake bundle-size validation
+
+All measured against merged TTF (1 736 B unshaken), macOS release
+builds with default `--tree-shake-icons`:
+
+| Scenario | Shaken TTF | cmap codepoints kept | numGlyphs |
+|---|---:|---|---:|
+| No icon reference | 1 736 B (unchanged) | E000, F0000 | 5 |
+| BMP only (`IconData(0xE000)`) | **752 B** | E000 | 2 |
+| Supp PUA only (`IconData(0xF0000)`) | **724 B** | F0000 | 2 |
+| Both | **928 B** | E000, F0000 | 3 |
+
+Web release: same 724 B. Flutter logs:
+*"Font asset Mdi_merged.ttf was tree-shaken, reducing it from 1736
+to 724 bytes (58.3% reduction)"*.
+
+**`font-subset` walks format-12 cmap, drops unreferenced glyph,
+emits properly-formed minimised TTF — including for supp PUA.**
+
+### What this solves
+
+The user's hard requirement from §31 is now achievable:
+
+> "10 packs × 5 icons = ~50 × 700 B ≈ 35 KB, zero user config"
+
+With single-TTF-per-pack via cmap format 12:
+- One reference to MdiIcons.home → `Mdi.ttf` shrunk to ~700 B
+- No sibling tax (there are no siblings anymore — single TTF)
+- Zero Flutter SDK changes needed
+- Zero Gradle plugin / iOS script_phase / web build hook needed
+- Zero user-config — `flutter build` works as-is
+
+§31's three-phase plan is **OBSOLETE**. Replace with single-phase
+generator-side migration.
+
+### Implementation plan (single phase, ~3-4 days)
+
+#### Phase A: fontTools merge subprocess (~1.5 d)
+
+New `tools/generator/src/font_merger.ts`:
+- After existing `svgicons2svgfont + svg2ttf` chain emits
+  `Mdi.ttf + Mdi_2.ttf + Mdi_3.ttf`
+- Spawn Python subprocess via `uv` running fontTools
+- Script: load all sibling TTFs, remap secondary/tertiary
+  codepoints (currently U+E000+ in their own TTF) to supp PUA
+  (U+F0000+), merge all glyphs into one TTF with cmap format 12
+  preserved, emit as single `Mdi.ttf`
+- Delete original sibling files
+
+This is **NOT a full font-builder rewrite** (§3 / §8 / §20). It's
+a post-process step on top of existing svgicons2svgfont output. We
+keep the proven svg-to-glyph emission, only do the merge in
+fontTools. Cheap (~150 LOC Python + ~50 LOC TS bridge).
+
+#### Phase B: codepoint allocator update (~0.5 d)
+
+`codepoint_allocator.ts` two-tier allocation:
+- Existing icons keep their BMP PUA codepoints (preserved per
+  CLAUDE.md §3 stability invariant)
+- New icons added beyond BMP cap (6000) → allocated to supp PUA
+  (U+F0000–U+10FFFF)
+- Manifest schema gains `tier: 'bmp' | 'supp'` field
+- For packs currently using auto-split: existing Mdi.ttf icons
+  stay at U+E000+; ex-Mdi_2.ttf icons remap to U+F0000+, ex-Mdi_3
+  to U+F1800+, etc.
+
+#### Phase C: manifest schema migration (~0.5 d)
+
+- New optional `tier` field (additive)
+- Existing manifests retroactively get `tier: 'bmp'` for all
+  current icons
+- Ex-sibling icons in same pack: codepoint changes — **major
+  version bump required for those packs ONLY**
+- Pubspec for affected packs: `0.1.x` → `1.0.0`; eski codepoint'lere
+  pinned consumers stay on `^0.1.0`, switch to `^1.0.0` for the
+  new layout
+- Generator emits `MIGRATION.md` per affected pack listing renamed
+  codepoints + the icon names
+
+#### Phase D: tree-shake CI regression test (~0.5 d)
+
+Generalise §28's `test_apps/three_icon_test/` with assertions:
+- 3 icons from 3 different packs MUST shrink to < 5 KB total
+- 10 icons from 10 different packs MUST shrink to < 15 KB
+- Fail if any sibling TTF appears in `build/.../assets/`
+
+#### Phase E: docs (~0.5 d)
+
+- Update `CLAUDE.md` §4 — remove the "fragile in supp PUA" claim;
+  document the new single-TTF approach + cmap format 12
+- Update `CLAUDE.md` §1 (tree-shake) — remove the "auto-split
+  sibling-tax" caveat now that auto-split is gone
+- Update `README.md` — headline number changes from "~700 B per
+  icon, but multi-split pack tax applies" to plain "~700 B per
+  icon"
+- Update `docs/RESEARCH_PLAN.md` §28 + §31 with cross-references
+  to §32 as the realised fix
+- Update `docs/TREESHAKE_VERIFICATION.md` with the new measurements
+
+### Affected packs
+
+~30 packs currently use auto-split (icon count > 6 000):
+- mdi (14 k → 1 TTF instead of 3)
+- material-symbols (×6 variants × split = many siblings → ONE TTF
+  per variant)
+- tabler (30 k → 1 TTF instead of 7)
+- lucide (variants × split → 1 TTF)
+- iconoir
+- solar
+- streamline (multiple)
+- ~25 more
+
+Other ~195 packs already single-TTF — untouched.
+
+### Migration impact for downstream consumers
+
+**Consumers on ^0.x**: zero impact. Their bundle still uses old
+multi-TTF packs.
+
+**Consumers upgrading to ^1.0**:
+- BMP-codepoint icons (the first 6 000 of each pack): zero impact,
+  codepoints unchanged
+- Supp-PUA-codepoint icons (ex-sibling icons): identifier-stable
+  (`MdiIcons.foo`) but underlying `IconData(...)` codepoint
+  changes. Since users always reference via the const identifier,
+  this is invisible — UNLESS users wrote raw `IconData(0xE000,
+  fontFamily: 'Mdi_2', ...)` (anti-pattern, but possible). The
+  test app A5 (§16) catches this regression.
+
+### Cross-section updates
+
+- **§3 / §8 / §20** font-builder rewrite: still useful for cu2qu
+  cubic→quadratic (570 silent empties), BUT no longer the priority
+  it was — tree-shake fix is no longer dependent on it. Demote
+  from critical path.
+- **§28**: cross-ref this section as the realised fix; keep §28 as
+  historical record of the bug.
+- **§30 roadmap**: insert §32 implementation into Wave 1
+  (foundations) as a 3-4 day item. Top priority.
+- **§31**: cross-ref §32 as the realised fix. Keep §31 as
+  historical record of the investigation. §31's three-phase plan
+  (popularity + Gradle plugin + SDK PR) is OBSOLETE.
+- **CLAUDE.md §4**: rewrite. The "do not use supplementary PUA"
+  rule is REVOKED.
+
+### Caveats (verify before shipping)
+
+1. **iOS release on physical device** not measurable (simulator
+   rejects --release; debug uses same renderer, but physical-
+   device test would close the loop)
+2. **Android** not tested (out of test scope). Skia rendering
+   path similar to macOS Impeller; expect equivalent behaviour
+   but verify with `flutter build apk --release`
+3. **fontTools-emitted format-12 cmap** has worked in every test;
+   hand-rolled or older font tools that emit only format 4 will
+   silently drop supp-PUA mappings — stay on fontTools, do not
+   regress to svg2ttf for the merge step
+4. **`uv` toolchain dependency** introduced — minor but worth
+   noting per single-toolchain user preference. Mitigation:
+   pin fontTools version in `tools/generator/pyproject.toml`,
+   `uv` venv created at first generator run, cached via
+   `.cache/.venv`
+
+### Verdict
+
+Single biggest reversal of any §-section so far. The "Flutter SDK
+PR" blocker named in §31 has DISSOLVED — Flutter SDK never had a
+bug per se; we mis-diagnosed by relying on CLAUDE.md §4's
+unverified "fragile" claim. Empirical test removes the constraint.
+
+**The user's hard requirement is now achievable in ~3-4 days of
+generator-side work. No Flutter PR, no Gradle plugin, no
+configurator, no user action.**
+
+### Files referenced (verified)
+
+- Test report: `/tmp/supp_pua_test/` (artifacts not committed)
+- Merge script: `/tmp/supp-pua-test/merge_ttf.py`
+- Merged TTF: `/tmp/supp_pua_test/assets/fonts/Mdi_merged.ttf`
+  (1 736 B baseline)
+- Shaken outputs: `shaken_supp_only.ttf` (724 B),
+  `shaken_bmp_only.ttf` (752 B), `shaken_both.ttf` (928 B)
+- Source TTFs (unmodified):
+  `packages/iconifyx_mdi/assets/fonts/Mdi.ttf`,
+  `Mdi_2.ttf`
+
+---
+
 ## Cross-cutting recommendations
 
 ### Tools shortlist (consolidated)
