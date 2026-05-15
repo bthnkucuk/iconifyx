@@ -1,0 +1,91 @@
+name: Deploy website to GitHub Pages
+
+# Builds packages/iconifyx/website (Flutter web, CanvasKit, hash routing) and
+# publishes the output to GitHub Pages. See docs/DEPLOYMENT.md for one-time
+# setup, custom-domain matrix, and rollback procedure. Implementation tracks
+# docs/RESEARCH_PLAN.md §21.
+#
+# Flag notes (Flutter 3.44+):
+#   - `--web-renderer` was removed; canvaskit is the default for `build web`.
+#   - `--pwa-strategy` was removed; the emitted `flutter_service_worker.js`
+#     is harmless because we never register it from `web/index.html`.
+#   - `--no-tree-shake-icons` is REQUIRED: the website rebuilds
+#     `IconifyIconData` from JSON at runtime in `icon_catalog.dart`, which
+#     trips the const-IconData guard. The per-app tree-shake invariant is
+#     enforced separately by `treeshake-regression.yml`.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'packages/iconifyx/website/**'
+      - 'packages/iconifyx_*/**'
+      - '.fvmrc'
+      - '.github/workflows/deploy-web.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: packages/iconifyx/website
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Flutter (via .fvmrc pin)
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version-file: .fvmrc
+          channel: any
+          cache: true
+
+      - name: Pub cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ${{ env.PUB_CACHE }}
+            ~/.pub-cache
+          key: pub-${{ runner.os }}-${{ hashFiles('packages/iconifyx/website/pubspec.lock') }}
+          restore-keys: pub-${{ runner.os }}-
+
+      - run: flutter pub get
+      - run: flutter analyze lib --no-fatal-infos
+
+      - name: Build web (CanvasKit default, hash routing, no source maps)
+        run: |
+          flutter build web \
+            --release \
+            --base-href "/icons/" \
+            --no-source-maps \
+            --no-tree-shake-icons
+
+      - name: Bundle size guard
+        run: |
+          size=$(du -sm build/web | cut -f1)
+          echo "build/web size: ${size} MB"
+          test "$size" -lt 250 || { echo "build/web exceeded 250 MB"; exit 1; }
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: packages/iconifyx/website/build/web
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

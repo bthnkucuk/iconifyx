@@ -1438,9 +1438,15 @@ evenodd / paint-order ratios well. The blind spots are
 **cross-file invariants** that no single per-pass audit owns. 16
 proposals; the top 5 below close the highest-impact gaps.
 
-### A1+A2+A3 — Combined manifest + codegen + identifier lint
+### A1+A2+A3 — Combined manifest + codegen + identifier lint ✅ shipped
 
 **Cost**: ~4 h combined. **ROI**: high.
+
+**Implemented → `bun run audit manifest-lint`**. Lives in
+`tools/generator/audit/manifest_lint.ts` and writes `MANIFEST_LINT.md`
++ `docs/audit/manifest-lint/<prefix>.json`. Wired into the dispatcher
+at `tools/generator/audit.ts`. Runtime: ~15 s warm for the full
+225-pack corpus (target was < 30 s).
 
 Three checks emitted as one `MANIFEST_LINT.md` pass:
 
@@ -1464,7 +1470,11 @@ phantom TTF (Flutter throws `Unable to load font`).
 **A3 — Identifier rename detection.** For every non-deprecated icon
 in the current manifest, assert
 `current.icons[name].identifier === previous.icons[name].identifier`.
-The manifest is supposed to preserve identifiers
+Previous version is read via
+`git show HEAD:tools/generator/manifests/<prefix>.json` — no separate
+snapshot state. Also detects within-pack identifier collisions
+(two distinct icon names sanitising to the same Dart identifier —
+sanitiser bug). The manifest is supposed to preserve identifiers
 (`codepoint_allocator.ts:102-114` copies them verbatim), but there
 is no audit that the contract holds end-to-end. Catches the
 alphabetical-collision-reshuffle bug: `MdiIcons.foo` becoming
@@ -1475,6 +1485,30 @@ locally (manifest preserved) and breaks in a fresh clone.
 secondary font) emits Dart consts referencing a `MdiSecondary` font
 + codepoint that doesn't exist → blank glyph at runtime, invisible
 to `FONT_AUDIT.md` because it only walks `manifest.fonts`.
+
+**First-run empirical findings (2026-05-15 corpus, 225 packs):**
+
+- **A1: 11 violations across 11 packs.** Every hit is the same code,
+  `nextCodepoint-underflow` — the `nextCodepoint` field in
+  `manifest.fonts[*]` is stale at `0xf770` while live codepoints now
+  reach up to `0xf4c36` (tabler). Cause: the §32 post-build merge
+  rewrites icon codepoints into supplementary PUA but doesn't bump
+  the source font entry's `nextCodepoint`. Real audit hit — next
+  allocation would collide with an in-use slot. Packs hit:
+  `arcticons, fluent, ic, iconoir, lucide, material-symbols,
+  material-symbols-light, mdi, ph, solar, tabler` — exactly the
+  packs that went through font-merge.
+- **A2: 319 orphan consts across 11 packs.** Concentrated in
+  `devicon` (multi-colour brand logos that paint-order-drop after
+  codegen), `meteocons`, `logos`, `flagpack`, `gcp`, `codicon`,
+  `token-branded`, `skill-icons`, `glyphs`, `streamline-color`,
+  `vscode-icons`. All findings are `glyph-empty` — the Dart const
+  emits, the TTF cmap slot exists, but the glyph outline is empty
+  (so consumers render a blank box). A2 is the Dart-side mirror of
+  FONT_AUDIT's manifest-side empty-glyph drift.
+- **A3: 0 renames vs. HEAD.** Expected — no recent regen, manifests
+  on disk are byte-identical to HEAD. Positive test (synthetic
+  rename → `identifier-renamed` row) confirmed detection works.
 
 ### A8 — Iconify upstream regression detector
 
@@ -2131,7 +2165,17 @@ and OKLab-3-colour-to-duotone.
 
 ---
 
-## §21 — GitHub Pages deployment plan
+## §21 — GitHub Pages deployment plan ✅ **SHIPPED**
+
+> 🚀 **STATUS: SHIPPED.** Workflow lives at
+> [`.github/workflows/deploy-web.yml`](../.github/workflows/deploy-web.yml);
+> operator guide at [`docs/DEPLOYMENT.md`](DEPLOYMENT.md). Flag-set diverged
+> slightly from the YAML in this section because Flutter 3.44 removed
+> `--web-renderer` and `--pwa-strategy` and the website requires
+> `--no-tree-shake-icons` (see DEPLOYMENT.md "Build flag notes" for the
+> mapping). Local build verified: 163 MB, well under the 250 MB guard.
+> One-time GitHub Pages "Source = GitHub Actions" repo setting remains as
+> a manual user step before the first deploy can succeed.
 
 **Verdict: Ship via single GitHub Actions workflow at
 `.github/workflows/deploy-web.yml` — CanvasKit renderer, hash routing
@@ -3985,7 +4029,7 @@ platforms today without modifying Flutter SDK.**
 | §16 | Audit gap analysis | 📋 documented; **A6** ✅ shipped (mid-§32) |
 | §17/§18 | Rust crates + port verdict | 📋 documented (no port) |
 | §19 | Search-bar space-eater bug | 📋 root-cause analysed (fix not committed) |
-| §20-§27 | Various web + tooling research | 📋 documented |
+| §20-§27 | Various web + tooling research | 📋 documented; **§21** ✅ shipped (deploy workflow) |
 | §28 | Tree-shake empirical findings | ✅ resolved by §32 |
 | §29 | Gap audit | ✅ documented |
 | §30 | Implementation roadmap | ✅ documented |
