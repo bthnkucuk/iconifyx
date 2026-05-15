@@ -1,0 +1,28 @@
+{
+  "a1": [],
+  "a2": [
+    {
+      "code": "glyph-empty",
+      "codepoint": 58321,
+      "constant": "crosshairsBold",
+      "detail": "Dart const 'crosshairsBold' resolves to an empty glyph at 0xe3d1 in 'GlyphsSecondary.ttf'",
+      "family": "GlyphsSecondary",
+      "fontPackage": "iconifyx_glyphs",
+      "prefix": "glyphs",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 58565,
+      "constant": "eyeLashesDuo",
+      "detail": "Dart const 'eyeLashesDuo' resolves to an empty glyph at 0xe4c5 in 'GlyphsSecondary.ttf'",
+      "family": "GlyphsSecondary",
+      "fontPackage": "iconifyx_glyphs",
+      "prefix": "glyphs",
+      "severity": "warn"
+    }
+  ],
+  "a3": [],
+  "a3Skipped": null,
+  "prefix": "glyphs"
+}

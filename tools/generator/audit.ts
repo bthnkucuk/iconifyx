@@ -33,6 +33,15 @@ const COMMANDS: Record<string, AuditCommand> = {
       await mod.runGlyphMetricsAudit(parseSharedFlags(args));
     },
   },
+  'manifest-lint': {
+    description:
+      'Cross-file manifest + Dart codegen + identifier lint (§16-A1/A2/A3) — catches manifest desync, orphan consts and identifier renames across regens.',
+    run: async (args) => {
+      const mod = await import('./audit/manifest_lint.ts');
+      process.argv = [process.argv[0]!, process.argv[1]!, ...args];
+      await mod.runManifestLintAudit(parseSharedFlags(args));
+    },
+  },
 };
 
 function parseSharedFlags(args: string[]): { prefixes?: Set<string> } {

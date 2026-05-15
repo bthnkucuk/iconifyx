@@ -1,0 +1,108 @@
+{
+  "a1": [],
+  "a2": [
+    {
+      "code": "glyph-empty",
+      "codepoint": 57352,
+      "constant": "aq",
+      "detail": "Dart const 'aq' resolves to an empty glyph at 0xe008 in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57389,
+      "constant": "ci",
+      "detail": "Dart const 'ci' resolves to an empty glyph at 0xe02d in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57418,
+      "constant": "fm",
+      "detail": "Dart const 'fm' resolves to an empty glyph at 0xe04a in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57421,
+      "constant": "ga",
+      "detail": "Dart const 'ga' resolves to an empty glyph at 0xe04d in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57447,
+      "constant": "hn",
+      "detail": "Dart const 'hn' resolves to an empty glyph at 0xe067 in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57452,
+      "constant": "ie",
+      "detail": "Dart const 'ie' resolves to an empty glyph at 0xe06c in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57475,
+      "constant": "kz",
+      "detail": "Dart const 'kz' resolves to an empty glyph at 0xe083 in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57535,
+      "constant": "pw",
+      "detail": "Dart const 'pw' resolves to an empty glyph at 0xe0bf in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57542,
+      "constant": "rw",
+      "detail": "Dart const 'rw' resolves to an empty glyph at 0xe0c6 in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57580,
+      "constant": "ua",
+      "detail": "Dart const 'ua' resolves to an empty glyph at 0xe0ec in 'Flagpack.ttf'",
+      "family": "Flagpack",
+      "fontPackage": "iconifyx_flagpack",
+      "prefix": "flagpack",
+      "severity": "warn"
+    }
+  ],
+  "a3": [],
+  "a3Skipped": null,
+  "prefix": "flagpack"
+}

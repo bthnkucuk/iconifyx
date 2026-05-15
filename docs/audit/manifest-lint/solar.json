@@ -1,0 +1,15 @@
+{
+  "a1": [
+    {
+      "code": "nextCodepoint-underflow",
+      "detail": "font 'Solar' nextCodepoint=0xf770 is <= max used codepoint 0xf0581 — next allocation would collide",
+      "key": "Solar",
+      "prefix": "solar",
+      "severity": "error"
+    }
+  ],
+  "a2": [],
+  "a3": [],
+  "a3Skipped": null,
+  "prefix": "solar"
+}

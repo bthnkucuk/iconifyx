@@ -1,0 +1,18 @@
+{
+  "a1": [],
+  "a2": [
+    {
+      "code": "glyph-empty",
+      "codepoint": 60448,
+      "constant": "signal",
+      "detail": "Dart const 'signal' resolves to an empty glyph at 0xec20 in 'Openmoji.ttf'",
+      "family": "Openmoji",
+      "fontPackage": "iconifyx_openmoji",
+      "prefix": "openmoji",
+      "severity": "warn"
+    }
+  ],
+  "a3": [],
+  "a3Skipped": null,
+  "prefix": "openmoji"
+}

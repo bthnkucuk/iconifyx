@@ -1,0 +1,18 @@
+{
+  "a1": [],
+  "a2": [
+    {
+      "code": "glyph-empty",
+      "codepoint": 57374,
+      "constant": "blank",
+      "detail": "Dart const 'blank' resolves to an empty glyph at 0xe01e in 'Codicon.ttf'",
+      "family": "Codicon",
+      "fontPackage": "iconifyx_codicon",
+      "prefix": "codicon",
+      "severity": "warn"
+    }
+  ],
+  "a3": [],
+  "a3Skipped": null,
+  "prefix": "codicon"
+}

@@ -1,0 +1,15 @@
+{
+  "a1": [
+    {
+      "code": "nextCodepoint-underflow",
+      "detail": "font 'Lucide' nextCodepoint=0xf770 is <= max used codepoint 0xf077f — next allocation would collide",
+      "key": "Lucide",
+      "prefix": "lucide",
+      "severity": "error"
+    }
+  ],
+  "a2": [],
+  "a3": [],
+  "a3Skipped": null,
+  "prefix": "lucide"
+}

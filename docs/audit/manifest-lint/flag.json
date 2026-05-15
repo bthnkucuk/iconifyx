@@ -1,0 +1,68 @@
+{
+  "a1": [],
+  "a2": [
+    {
+      "code": "glyph-empty",
+      "codepoint": 57498,
+      "constant": "fm1x1",
+      "detail": "Dart const 'fm1x1' resolves to an empty glyph at 0xe09a in 'Flag.ttf'",
+      "family": "Flag",
+      "fontPackage": "iconifyx_flag",
+      "prefix": "flag",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57499,
+      "constant": "fm4x3",
+      "detail": "Dart const 'fm4x3' resolves to an empty glyph at 0xe09b in 'Flag.ttf'",
+      "family": "Flag",
+      "fontPackage": "iconifyx_flag",
+      "prefix": "flag",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57710,
+      "constant": "pw1x1",
+      "detail": "Dart const 'pw1x1' resolves to an empty glyph at 0xe16e in 'Flag.ttf'",
+      "family": "Flag",
+      "fontPackage": "iconifyx_flag",
+      "prefix": "flag",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57711,
+      "constant": "pw4x3",
+      "detail": "Dart const 'pw4x3' resolves to an empty glyph at 0xe16f in 'Flag.ttf'",
+      "family": "Flag",
+      "fontPackage": "iconifyx_flag",
+      "prefix": "flag",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57750,
+      "constant": "so1x1",
+      "detail": "Dart const 'so1x1' resolves to an empty glyph at 0xe196 in 'Flag.ttf'",
+      "family": "Flag",
+      "fontPackage": "iconifyx_flag",
+      "prefix": "flag",
+      "severity": "warn"
+    },
+    {
+      "code": "glyph-empty",
+      "codepoint": 57751,
+      "constant": "so4x3",
+      "detail": "Dart const 'so4x3' resolves to an empty glyph at 0xe197 in 'Flag.ttf'",
+      "family": "Flag",
+      "fontPackage": "iconifyx_flag",
+      "prefix": "flag",
+      "severity": "warn"
+    }
+  ],
+  "a3": [],
+  "a3Skipped": null,
+  "prefix": "flag"
+}
