@@ -1424,6 +1424,215 @@ recommendations are addressed individually above (keep, keep, reject).
 
 ---
 
+## §16 — Audit gap analysis: new correctness tools
+
+**Verdict: Adopt the top-5 (combined "manifest lint" + upstream
+regression diff + suspicious-glyph perceptual hash + per-pack
+tree-shake + duotone primary/secondary sync). ~18-19 h total work,
+closes whole classes of "build green, ship blank" silent failures
+that the current 3 audits cannot see.**
+
+Existing audits (`COVERAGE.md`, `STROKE_AUDIT.md`, `FONT_AUDIT.md`)
+cover per-codepoint emptiness, upstream coverage gap, and stroke /
+evenodd / paint-order ratios well. The blind spots are
+**cross-file invariants** that no single per-pass audit owns. 16
+proposals; the top 5 below close the highest-impact gaps.
+
+### A1+A2+A3 — Combined manifest + codegen + identifier lint
+
+**Cost**: ~4 h combined. **ROI**: high.
+
+Three checks emitted as one `MANIFEST_LINT.md` pass:
+
+**A1 — Manifest internal-consistency.** Catches cross-field drift no
+audit checks today: (a) live icon referencing a `fontFamily` not in
+`manifest.fonts`, (b) a font with `iconCount > 0` but no live icons,
+(c) `duotone: true` icons but no `<Family>Secondary` font, (d) the
+inverse, (e) two non-deprecated icons sharing `(family, codepoint)`,
+(f) `info.total !== live.count`, (g) `nextCodepoint <= maxUsedCp`,
+(h) deprecated icon's codepoint re-used by a live icon.
+
+**A2 — Dart codegen ↔ TTF reverse reconciliation.** Today
+`FONT_AUDIT.md` walks manifest → TTF. We never walk Dart source →
+TTF. Regex `IconData\(0x([0-9a-f]+), fontFamily: '([^']+)',
+fontPackage: '([^']+)'\)` against each
+`lib/src/sets/<prefix>.dart`; verify the `(fontPackage, family,
+codepoint)` triple maps to a non-empty glyph. Catches orphan consts
+when empty-font pruning happens after codegen and consts reference a
+phantom TTF (Flutter throws `Unable to load font`).
+
+**A3 — Identifier rename detection.** For every non-deprecated icon
+in the current manifest, assert
+`current.icons[name].identifier === previous.icons[name].identifier`.
+The manifest is supposed to preserve identifiers
+(`codepoint_allocator.ts:102-114` copies them verbatim), but there
+is no audit that the contract holds end-to-end. Catches the
+alphabetical-collision-reshuffle bug: `MdiIcons.foo` becoming
+`MdiIcons.foo_2` after an upstream icon rename, which compiles green
+locally (manifest preserved) and breaks in a fresh clone.
+
+**Risk if skipped**: Manifest desync (e.g. duotone flag without
+secondary font) emits Dart consts referencing a `MdiSecondary` font
++ codepoint that doesn't exist → blank glyph at runtime, invisible
+to `FONT_AUDIT.md` because it only walks `manifest.fonts`.
+
+### A8 — Iconify upstream regression detector
+
+**Cost**: ~2 h. **ROI**: high.
+
+Diff `previous.icons[name].deprecated` vs current. Two flavours:
+(i) Iconify upstream removed it — legitimate; (ii) our validator
+started rejecting it — OUR regression. Manifest needs a new
+`deprecatedReason` field (already proposed in §3); buckets new
+deprecations by reason. Cross-reference with `iconifyJsonVersion`
+bump — same version + new deprecations = our regression.
+
+This is the Mynaui-1800-lost case CLAUDE.md §5c calls out by name —
+a regex tightening in `glyph_validator.ts` silently deprecated 1 000+
+icons; only visible by watching the log scroll. Will happen again.
+
+### A14 — Suspicious-glyph perceptual hash ("solid blob" detector)
+
+**Cost**: ~6 h alone; **~0 h incremental** if §4 visual-regression
+lands first. **ROI**: highest absolute when combined with §4.
+
+`FONT_AUDIT.md` catches `path.commands.length === 0`. It does NOT
+catch glyphs that draw a filled rectangle / circle / near-solid
+pixel field — the exact "stroke-fill failed silently, shipped a
+black box" signature. Heuristic:
+
+- rasterize glyph at 64×64 grayscale via `fontkit + resvg`
+- `inkRatio = abovethresh / total`
+- `coverage = glyphBbox / emBbox`
+- flag if `inkRatio > 0.7 && coverage > 0.85` (filled square)
+- also flag if 16×16 dHash Hamming distance < 4 to a curated
+  known-bad set (solid square, solid circle, solid horizontal bar,
+  blank)
+
+This is the bug class that has bitten the project the most:
+Catppuccin's 659 blanks, gravity-ui blobs, streamline-color failures.
+The pipeline has 5 defences against this but no audit ever
+**verifies the result**. Combine with §4 pixelmatch infrastructure;
+solid-blob detector is one extra heuristic on top.
+
+### A5 — Per-pack tree-shake automation
+
+**Cost**: ~5 h. **ROI**: high (per-project priority).
+
+Today tree-shake is verified ONCE manually for a curated 2-pack
+scenario (`test_apps/two_icon_test/`). CLAUDE.md §1 calls tree-shake
+"load-bearing for the entire per-set-package architecture" — if the
+extension-type invariant ever flips (a Flutter / Dart version forces
+a class wrapper), the current single test verifies it for 2 packs
+out of 225.
+
+Don't build 225 Flutter apps. Instead: a `bun:test` that scans
+`lib/src/sets/<prefix>.dart` for one randomly-sampled icon (rotated
+each regen by `Date.now() % manifests.length`), generates a minimal
+`test_apps/_shake_probe/` Flutter project, runs `fvm flutter build
+macos --release --tree-shake-icons`, asserts `find build -name
+"*.ttf" | xargs ls -l` shows only the expected family with size <
+2 KB. ~10 s per regen.
+
+### A6 — Duotone primary/secondary codepoint sync
+
+**Cost**: ~1.5 h. **ROI**: high (cheapest meaningful addition).
+
+For every duotone icon, primary glyph must exist at codepoint X in
+`Family`, AND secondary must exist at codepoint X in
+`FamilySecondary`. Today `FONT_AUDIT.md` checks each font in
+isolation — catches "PhSecondary cp 0xe123 empty" but doesn't
+correlate to "Ph cp 0xe123 is fine, so this is a duotone half-
+failure". Extension to `font_verify.ts`; cross-check each
+`duotone: true` icon's primary AND secondary entries. New "Half-
+broken duotones" section in `FONT_AUDIT.md`.
+
+Risk if skipped: 1 500+ duotone icons across logos / lets-icons /
+catppuccin / cif / cryptocurrency-color etc. — a half-failure looks
+like a Phosphor-bug-not-iconifyx-bug to the consumer.
+
+### Honourable mentions kept out of top 5
+
+- **A4 — Codepoint exhaustion forecast** (30 min). Per-font slot
+  count vs `ICONS_PER_FONT_SOFT_CAP = 6000` + PUA headroom. Surfaces
+  packs about to trigger a new font split → consumer bundle-size
+  surprise (`Mdi.ttf` becoming `Mdi.ttf + Mdi_2.ttf + Mdi_3.ttf`
+  without changelog notice). Trivial; add to `COVERAGE.md`. **ROI**:
+  medium.
+
+- **A7 — Per-pack pubspec ↔ assets reconciliation** (~2 h). Today's
+  empty-font prune happens in `pipeline.ts:786-788`; if a previous
+  regen left a stale `Mdi_4.ttf` orphan, the new pubspec doesn't
+  declare it but the file persists. Three-way diff: readdir(assets/
+  fonts/), manifest fonts, pubspec font families. Combine with A1.
+
+- **A10 — Determinism self-check** (regen-twice byte-diff). ~3 h.
+  Foundational for the planned cache work (§15) but doesn't catch a
+  present bug. SHA256 every TTF / .dart / manifest, regen cold, diff.
+  Doubles as `ttfSha256` baseline for future cache-key validation.
+
+- **A12 — Stroke-fill panic-list regression tracker** (~2 h).
+  Persist panic-skipped name set across regens. New / recovered
+  panics surface in `STROKE_AUDIT.md`. Currently CLAUDE.md §5a-bis
+  hard-codes `noto-v1:hot-beverage` + `noto-v1:lady-beetle`; no
+  signal when upstream resvg fixes them.
+
+- **A15 — Package-size budget regression** (~2 h). Per-pack TTF
+  size + Dart const count snapshotted regen-to-regen. >10 % delta
+  warns. Catches accidental stroke-fill cache loss (fonts triple in
+  size) and glyph-complexity inflation. Compounds with A10.
+
+### Rejected / deferred
+
+- **A9 — Cross-pack meta identifier collisions**: informational only.
+  Different classes; not a compile error.
+- **A11 — Glyph vertical-alignment anomaly detector**: no clear
+  remediation if a pack scores badly.
+- **A13 — License SPDX lint**: low practical value.
+- **A16 — SVG transform-attribute parity**: overlaps §4; rare bug
+  class.
+
+### Combined target
+
+Top-5 implemented in priority order: **~18-19 h** of work.
+
+Outcome:
+- Half-broken duotones surfaced explicitly (was invisible).
+- Solid-blob ship case catchable end-to-end (was invisible).
+- Cross-file manifest / pubspec / codegen / TTF drift bounded (was
+  emergent only via Flutter build-time crashes downstream).
+- Tree-shake invariant verified across all 225 packs (was 2).
+- Iconify upstream regressions surfaced as a markdown diff (was a
+  log line that scrolled past).
+
+### Files
+
+- New `MANIFEST_LINT.md` emitted alongside `COVERAGE.md` (A1+A2+A3)
+- New section in `FONT_AUDIT.md` for half-broken duotones (A6)
+- New `STROKE_AUDIT.md` panic-diff section (A12 — honourable)
+- New `tools/generator/src/manifest_lint.ts` (A1+A2+A3 host)
+- New `tools/generator/src/glyph_shape_audit.ts` (A14, combined with
+  §4 visual-regression harness)
+- Extend `tools/generator/src/font_verify.ts` for A6
+- Extend `tools/generator/src/manifest.ts` to add `deprecatedReason`
+  field (A8)
+- Existing tree-shake reference target:
+  `test_apps/two_icon_test/lib/main.dart` (A5 builds on this pattern)
+
+### Cross-reference with prior sections
+
+- A14 directly extends §4 (pixelmatch visual regression) — same
+  rasterize infrastructure.
+- A10 is a prerequisite for §13's per-font TTF cache and §15's
+  tighter cache-key proposal — both are dangerous to land without a
+  determinism baseline.
+- A8 + A12 together close the "upstream regression" feedback loop
+  that §3 (iterate-until-empty rebuild) implicitly relies on.
+- A5 protects the §1 / §2 of CLAUDE.md tree-shake invariant — the
+  architectural justification for the entire repo layout.
+
+---
+
 ## Cross-cutting recommendations
 
 ### Tools shortlist (consolidated)
