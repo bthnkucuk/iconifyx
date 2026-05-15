@@ -37,11 +37,11 @@ class AppShellLayout extends AppRoute with RouteLayout<AppRoute> {
         return _ShellShortcuts(
           bindings: {
             const SingleActivator(LogicalKeyboardKey.keyK, meta: true): () =>
-                appCoordinator.push(SearchRoute()),
+                appCoordinator.pushOrMoveToTop(SearchRoute()),
             const SingleActivator(LogicalKeyboardKey.keyK, control: true): () =>
-                appCoordinator.push(SearchRoute()),
+                appCoordinator.pushOrMoveToTop(SearchRoute()),
             const SingleActivator(LogicalKeyboardKey.slash): () =>
-                appCoordinator.push(SearchRoute()),
+                appCoordinator.pushOrMoveToTop(SearchRoute()),
           },
           child: Scaffold(
             body: Column(
