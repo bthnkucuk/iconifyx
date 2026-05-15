@@ -431,19 +431,55 @@ export function flattenAnimations(body: string): string {
         );
         if (!nameMatch) continue;
         const attrName = nameMatch[1]!;
-        let endValue: string | null = null;
+        // Collect all candidate values, then pick the one that makes the
+        // icon MORE VISIBLE. line-md uses both reveal (`values="28;0"` —
+        // start hidden, end visible) and HIDE (`values="0;14"` — start
+        // visible, end hidden) animations under the same `*-transition`
+        // shape. Always taking the END value broke transitions like
+        // `confirm-square-to-square-transition` (the check vanished
+        // because dashoffset ended at 14 = full). The right heuristic
+        // is attribute-aware: for stroke-dashoffset (and ANY length
+        // counted off from a dasharray), pick the SMALLEST value — that
+        // shows more stroke. For opacity-style attributes, pick the
+        // LARGEST. For other attrs, default to LAST (start-to-end
+        // morph reveals usually want the final shape).
+        const candidates: string[] = [];
         const toMatch = animAttrs.match(/\bto\s*=\s*["']([^"']+)["']/);
-        if (toMatch) endValue = toMatch[1]!;
-        if (endValue === null) {
-          const valuesMatch = animAttrs.match(
-            /\bvalues\s*=\s*["']([^"']+)["']/
-          );
-          if (valuesMatch) {
-            const parts = valuesMatch[1]!.split(';');
-            endValue = parts[parts.length - 1]!.trim();
+        const fromMatch = animAttrs.match(/\bfrom\s*=\s*["']([^"']+)["']/);
+        const valuesMatch = animAttrs.match(
+          /\bvalues\s*=\s*["']([^"']+)["']/
+        );
+        if (valuesMatch) {
+          for (const p of valuesMatch[1]!.split(';')) {
+            const t = p.trim();
+            if (t.length > 0) candidates.push(t);
           }
+        } else {
+          if (fromMatch) candidates.push(fromMatch[1]!);
+          if (toMatch) candidates.push(toMatch[1]!);
         }
-        if (endValue === null) continue;
+        if (candidates.length === 0) continue;
+        let endValue: string;
+        const numCandidates = candidates
+          .map((c) => ({ raw: c, num: Number(c) }))
+          .filter((c) => Number.isFinite(c.num));
+        const isLengthAttr =
+          attrName === 'stroke-dashoffset' || attrName === 'stroke-dasharray';
+        const isOpacityAttr =
+          attrName === 'opacity' ||
+          attrName === 'fill-opacity' ||
+          attrName === 'stroke-opacity';
+        if (isLengthAttr && numCandidates.length > 0) {
+          // Smallest dashoffset = most stroke visible.
+          numCandidates.sort((a, b) => a.num - b.num);
+          endValue = numCandidates[0]!.raw;
+        } else if (isOpacityAttr && numCandidates.length > 0) {
+          // Largest opacity = most visible.
+          numCandidates.sort((a, b) => b.num - a.num);
+          endValue = numCandidates[0]!.raw;
+        } else {
+          endValue = candidates[candidates.length - 1]!;
+        }
         const escName = attrName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         const replaceRe = new RegExp(`\\s${escName}\\s*=\\s*["'][^"']*["']`);
         if (replaceRe.test(parentAttrs)) {

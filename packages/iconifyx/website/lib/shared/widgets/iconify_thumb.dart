@@ -24,6 +24,7 @@ class IconifyThumb extends StatelessWidget {
     this.color,
     this.secondaryColor,
     this.secondaryOpacity = 0.4,
+    this.paintOrder = false,
   });
 
   final IconifyIconData icon;
@@ -31,6 +32,21 @@ class IconifyThumb extends StatelessWidget {
   final Color? color;
   final Color? secondaryColor;
   final double secondaryOpacity;
+
+  /// Z-order switch for paint-order duotone packs (logos, crypto-color,
+  /// fluent-emoji-flat, …). The generator's `trySplitTwoColorBody` assigns
+  /// the SOURCE-ORDER first paint to `primary` (= background) and the
+  /// second to `secondary` (= foreground letterform). For hint-layer
+  /// duotone (Phosphor / Solar opacity-fade) the secondary is a faded
+  /// BACKDROP and should sit behind the primary — `paintOrder=false`,
+  /// the default. For paint-order packs the secondary is the meaningful
+  /// FOREGROUND and must render ON TOP of the primary tile or it'd be
+  /// completely hidden (the bug: crypto-color icons shipped as just the
+  /// background circle because the foreground letter was drawn first
+  /// and then painted over by the primary). When `paintOrder=true` we
+  /// swap the Stack children so primary is at the bottom and secondary
+  /// on top.
+  final bool paintOrder;
 
   @override
   Widget build(BuildContext context) {
@@ -55,21 +71,29 @@ class IconifyThumb extends StatelessWidget {
           ),
         );
 
+    Widget? renderSecondary;
+    if (secondary != null) {
+      renderSecondary = layer(
+        secondary,
+        (secondaryColor ?? effectiveColor).withValues(alpha: secondaryOpacity),
+      );
+    }
+    final renderPrimary = layer(icon.primary, effectiveColor);
+
     return SizedBox(
       width: size,
       height: size,
       child: secondary == null
-          ? layer(icon.primary, effectiveColor)
+          ? renderPrimary
           : Stack(
               fit: StackFit.expand,
-              children: [
-                layer(
-                  secondary,
-                  (secondaryColor ?? effectiveColor)
-                      .withValues(alpha: secondaryOpacity),
-                ),
-                layer(icon.primary, effectiveColor),
-              ],
+              children: paintOrder
+                  // Paint-order: primary = bg (back), secondary = fg (front).
+                  ? [renderPrimary, renderSecondary!]
+                  // Hint-layer: secondary = faded backdrop (back), primary
+                  // = solid foreground (front). Matches SVG source order
+                  // for Phosphor / Solar opacity-fade duotones.
+                  : [renderSecondary!, renderPrimary],
             ),
     );
   }

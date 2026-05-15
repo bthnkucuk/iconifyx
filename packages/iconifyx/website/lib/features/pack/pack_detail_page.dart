@@ -522,6 +522,7 @@ class _IconCell extends StatelessWidget {
                                 iconData,
                                 size: palette.iconRenderSize,
                                 color: accent,
+                                paintOrder: palette.isPaintOrderPack,
                                 // Paint-order duotones (logos, crypto-color,
                                 // fluent-emoji-flat, …) ship a meaningful
                                 // foreground letterform as their secondary

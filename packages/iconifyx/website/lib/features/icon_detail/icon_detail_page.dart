@@ -269,6 +269,7 @@ class _PreviewCard extends StatelessWidget {
                         record.toIconifyData(),
                         size: s.toDouble(),
                         color: ink,
+                        paintOrder: isPaintOrderDuotonePack(record.prefix),
                         secondaryOpacity:
                             isPaintOrderDuotonePack(record.prefix) ? 1.0 : 0.4,
                         secondaryColor: isPaintOrderDuotonePack(record.prefix)
@@ -888,6 +889,7 @@ class _SideBySidePreview extends StatelessWidget {
             // layer; render at full opacity with the page paper colour as
             // the "knockout" so the foreground shape is visible against
             // the currentColor-filled background tile.
+            paintOrder: isPaintOrderDuotonePack(record.prefix),
             secondaryOpacity:
                 isPaintOrderDuotonePack(record.prefix) ? 1.0 : 0.4,
             secondaryColor:

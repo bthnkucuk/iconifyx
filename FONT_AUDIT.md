@@ -4,7 +4,7 @@ Generated 2026-05-15. For every `(font, codepoint)` pair declared in a pack's ma
 
 - **Codepoints expected across all fonts:** 357,604
 - **Codepoints missing from emitted TTF:** 0
-- **Codepoints present but with empty outline:** 608
+- **Codepoints present but with empty outline:** 604
 - **TTFs that failed to open:** 0
 
 ## Fonts with drift
@@ -28,7 +28,6 @@ Generated 2026-05-15. For every `(font, codepoint)` pair declared in a pack's ma
 | `flag` | `Flag` | 491 | 0 | 6 | `fm-1x1`, `fm-4x3` | — |
 | `logos` | `Logos` | 937 | 0 | 5 | `appveyor`, `brandfolder-icon` | — |
 | `skill-icons` | `SkillIconsSecondary` | 131 | 0 | 4 | `cassandra-dark`, `verilog` | — |
-| `line-md` | `LineMd` | 1,279 | 0 | 4 | `calendar-out`, `loading-alt-loop` | — |
 | `streamline-cyber-color` | `StreamlineCyberColor` | 500 | 0 | 3 | `cannabis-leaf`, `hammer-3` | — |
 | `material-icon-theme` | `MaterialIconTheme` | 778 | 0 | 3 | `apiblueprint`, `wakatime` | — |
 | `vscode-icons` | `VscodeIconsSecondary` | 329 | 0 | 3 | `file-type-knip`, `file-type-light-prettier` | — |
