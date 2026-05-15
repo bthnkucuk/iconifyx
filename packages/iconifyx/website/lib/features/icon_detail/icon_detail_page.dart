@@ -283,11 +283,12 @@ class _PreviewCard extends StatelessWidget {
                         record.toIconifyData(),
                         size: s.toDouble(),
                         color: ink,
-                        // paper2 = swatch tile background. For paint-order
-                        // duotones the foreground letterform "knocks out"
-                        // to this colour, so it reads correctly against
-                        // the currentColor-filled background tile.
-                        secondaryColor: paper2,
+                        // Default secondary = black. The previous paper-
+                        // colour default made the foreground letterform
+                        // bleed into the page background where the glyph
+                        // touched the tile edge — looked like a render
+                        // bug rather than a knockout.
+                        secondaryColor: const Color(0xFF000000),
                       ),
                     ),
                     const SizedBox(height: 6),
@@ -445,7 +446,12 @@ class _DuotoneLayerDebugStrip extends StatelessWidget {
               tile('secondary only', rawGlyph(secondaryIcon, ink)),
             tile(
               'composed',
-              IconifyIcon(data, size: _iconSize, color: ink, secondaryColor: paper),
+              IconifyIcon(
+                data,
+                size: _iconSize,
+                color: ink,
+                secondaryColor: const Color(0xFF000000),
+              ),
             ),
           ],
         ),
@@ -997,10 +1003,10 @@ class _SideBySidePreview extends StatelessWidget {
             record.toIconifyData(),
             size: _iconSize,
             color: ink,
-            // paperBg = tile background. For paint-order duotones the
-            // foreground letterform knocks out to this colour so it's
-            // visible against the currentColor-filled background tile.
-            secondaryColor: paperBg,
+            // Default secondary = black. Paper / surface colours blended
+            // into the page background where the glyph touched the tile
+            // edge — looked like a render bug rather than a knockout.
+            secondaryColor: const Color(0xFF000000),
           ),
         );
         final source = _PreviewTile(

@@ -262,7 +262,16 @@ class _LoadedBody extends StatelessWidget {
           muted: muted,
           iconColor: iconColor,
           iconRenderSize: iconRenderSize,
-          surfaceForKnockout: page._iconSecondaryColor ?? cardColor,
+          // Default secondary = plain black. Using the card surface (white
+          // in light theme) made paint-order foreground letterforms blend
+          // into the page background where the glyph touches the tile
+          // edge — looked like the icon was broken rather than a
+          // knockout. Black is universally legible against any
+          // currentColor-filled primary tile (until the user picks
+          // explicit ink as the primary). Override via the sidebar
+          // "SECONDARY COLOR" swatches.
+          surfaceForKnockout:
+              page._iconSecondaryColor ?? const Color(0xFF000000),
         );
 
         final sidebar = route.selectorBuilder<String?>(
