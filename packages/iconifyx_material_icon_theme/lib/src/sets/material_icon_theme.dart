@@ -22,27 +22,27 @@ class MaterialIconThemeIcons {
   );
 
   /// `adobe-illustrator` (paint-order duotone)
-  static const IconifyIconData adobeIllustrator = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData adobeIllustrator = IconifyIconData.duo(
     IconData(0xe187, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe187, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe187, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `adobe-illustrator-light` (paint-order duotone)
-  static const IconifyIconData adobeIllustratorLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData adobeIllustratorLight = IconifyIconData.duo(
     IconData(0xe188, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe188, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe188, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `adobe-photoshop` (paint-order duotone)
-  static const IconifyIconData adobePhotoshop = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData adobePhotoshop = IconifyIconData.duo(
     IconData(0xe189, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe189, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe189, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `adobe-photoshop-light` (paint-order duotone)
-  static const IconifyIconData adobePhotoshopLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData adobePhotoshopLight = IconifyIconData.duo(
     IconData(0xe18a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe18a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe18a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `adonis`
@@ -86,9 +86,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `astro-config` (paint-order duotone)
-  static const IconifyIconData astroConfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData astroConfig = IconifyIconData.duo(
     IconData(0xe18b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe18b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe18b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `autohotkey`
@@ -132,9 +132,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `blink-light` (paint-order duotone)
-  static const IconifyIconData blinkLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData blinkLight = IconifyIconData.duo(
     IconData(0xe18c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe18c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe18c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `blitz`
@@ -148,9 +148,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `browserlist-light` (paint-order duotone)
-  static const IconifyIconData browserlistLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData browserlistLight = IconifyIconData.duo(
     IconData(0xe18d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe18d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe18d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bucklescript`
@@ -159,15 +159,15 @@ class MaterialIconThemeIcons {
   );
 
   /// `buildkite` (paint-order duotone)
-  static const IconifyIconData buildkite = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData buildkite = IconifyIconData.duo(
     IconData(0xe18e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe18e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe18e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cabal` (paint-order duotone)
-  static const IconifyIconData cabal = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cabal = IconifyIconData.duo(
     IconData(0xe014, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe014, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe014, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `caddy`
@@ -206,9 +206,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `clangd` (paint-order duotone)
-  static const IconifyIconData clangd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData clangd = IconifyIconData.duo(
     IconData(0xe18f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe18f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe18f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cline`
@@ -217,9 +217,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `cloudfoundry` (paint-order duotone)
-  static const IconifyIconData cloudfoundry = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudfoundry = IconifyIconData.duo(
     IconData(0xe190, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe190, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe190, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `code-climate`
@@ -243,9 +243,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `coldfusion` (paint-order duotone)
-  static const IconifyIconData coldfusion = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData coldfusion = IconifyIconData.duo(
     IconData(0xe191, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe191, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe191, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `command`
@@ -304,9 +304,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `dart-generated` (paint-order duotone)
-  static const IconifyIconData dartGenerated = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dartGenerated = IconifyIconData.duo(
     IconData(0xe192, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe192, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe192, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `database`
@@ -410,9 +410,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `eslint` (paint-order duotone)
-  static const IconifyIconData eslint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData eslint = IconifyIconData.duo(
     IconData(0xe193, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe193, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe193, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `excalidraw`
@@ -441,375 +441,375 @@ class MaterialIconThemeIcons {
   );
 
   /// `folder-admin` (paint-order duotone)
-  static const IconifyIconData folderAdmin = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAdmin = IconifyIconData.duo(
     IconData(0xe194, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe194, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe194, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-admin-open` (paint-order duotone)
-  static const IconifyIconData folderAdminOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAdminOpen = IconifyIconData.duo(
     IconData(0xe195, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe195, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe195, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-android` (paint-order duotone)
-  static const IconifyIconData folderAndroid = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAndroid = IconifyIconData.duo(
     IconData(0xe048, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe048, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe048, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-android-open` (paint-order duotone)
-  static const IconifyIconData folderAndroidOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAndroidOpen = IconifyIconData.duo(
     IconData(0xe049, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe049, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe049, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-angular` (paint-order duotone)
-  static const IconifyIconData folderAngular = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAngular = IconifyIconData.duo(
     IconData(0xe196, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe196, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe196, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-angular-open` (paint-order duotone)
-  static const IconifyIconData folderAngularOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAngularOpen = IconifyIconData.duo(
     IconData(0xe197, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe197, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe197, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-animation` (paint-order duotone)
-  static const IconifyIconData folderAnimation = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAnimation = IconifyIconData.duo(
     IconData(0xe198, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe198, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe198, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-animation-open` (paint-order duotone)
-  static const IconifyIconData folderAnimationOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAnimationOpen = IconifyIconData.duo(
     IconData(0xe199, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe199, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe199, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-api` (paint-order duotone)
-  static const IconifyIconData folderApi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderApi = IconifyIconData.duo(
     IconData(0xe04a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe04a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe04a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-api-open` (paint-order duotone)
-  static const IconifyIconData folderApiOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderApiOpen = IconifyIconData.duo(
     IconData(0xe04b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe04b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe04b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-apollo` (paint-order duotone)
-  static const IconifyIconData folderApollo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderApollo = IconifyIconData.duo(
     IconData(0xe19a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe19a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe19a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-apollo-open` (paint-order duotone)
-  static const IconifyIconData folderApolloOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderApolloOpen = IconifyIconData.duo(
     IconData(0xe19b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe19b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe19b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-app` (paint-order duotone)
-  static const IconifyIconData folderApp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderApp = IconifyIconData.duo(
     IconData(0xe19c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe19c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe19c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-app-open` (paint-order duotone)
-  static const IconifyIconData folderAppOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAppOpen = IconifyIconData.duo(
     IconData(0xe19d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe19d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe19d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-appwrite` (paint-order duotone)
-  static const IconifyIconData folderAppwrite = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAppwrite = IconifyIconData.duo(
     IconData(0xe19e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe19e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe19e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-appwrite-open` (paint-order duotone)
-  static const IconifyIconData folderAppwriteOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAppwriteOpen = IconifyIconData.duo(
     IconData(0xe19f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe19f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe19f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-archive` (paint-order duotone)
-  static const IconifyIconData folderArchive = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderArchive = IconifyIconData.duo(
     IconData(0xe04c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe04c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe04c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-archive-open` (paint-order duotone)
-  static const IconifyIconData folderArchiveOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderArchiveOpen = IconifyIconData.duo(
     IconData(0xe04d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe04d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe04d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-assembly` (paint-order duotone)
-  static const IconifyIconData folderAssembly = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAssembly = IconifyIconData.duo(
     IconData(0xe1a0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-assembly-open` (paint-order duotone)
-  static const IconifyIconData folderAssemblyOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAssemblyOpen = IconifyIconData.duo(
     IconData(0xe1a1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-astro` (paint-order duotone)
-  static const IconifyIconData folderAstro = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAstro = IconifyIconData.duo(
     IconData(0xe1a2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-astro-open` (paint-order duotone)
-  static const IconifyIconData folderAstroOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAstroOpen = IconifyIconData.duo(
     IconData(0xe1a3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-atom` (paint-order duotone)
-  static const IconifyIconData folderAtom = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAtom = IconifyIconData.duo(
     IconData(0xe1a4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-atom-open` (paint-order duotone)
-  static const IconifyIconData folderAtomOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAtomOpen = IconifyIconData.duo(
     IconData(0xe1a5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-attachment` (paint-order duotone)
-  static const IconifyIconData folderAttachment = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAttachment = IconifyIconData.duo(
     IconData(0xe04e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe04e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe04e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-attachment-open` (paint-order duotone)
-  static const IconifyIconData folderAttachmentOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAttachmentOpen = IconifyIconData.duo(
     IconData(0xe04f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe04f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe04f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-audio` (paint-order duotone)
-  static const IconifyIconData folderAudio = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAudio = IconifyIconData.duo(
     IconData(0xe1a6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-audio-open` (paint-order duotone)
-  static const IconifyIconData folderAudioOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAudioOpen = IconifyIconData.duo(
     IconData(0xe1a7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-aws` (paint-order duotone)
-  static const IconifyIconData folderAws = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAws = IconifyIconData.duo(
     IconData(0xe1a8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-aws-open` (paint-order duotone)
-  static const IconifyIconData folderAwsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAwsOpen = IconifyIconData.duo(
     IconData(0xe1a9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1a9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1a9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-azure-pipelines` (paint-order duotone)
-  static const IconifyIconData folderAzurePipelines = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAzurePipelines = IconifyIconData.duo(
     IconData(0xe1aa, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1aa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1aa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-azure-pipelines-open` (paint-order duotone)
-  static const IconifyIconData folderAzurePipelinesOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderAzurePipelinesOpen = IconifyIconData.duo(
     IconData(0xe1ab, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ab, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ab, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-backup` (paint-order duotone)
-  static const IconifyIconData folderBackup = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBackup = IconifyIconData.duo(
     IconData(0xe1ac, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ac, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ac, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-backup-open` (paint-order duotone)
-  static const IconifyIconData folderBackupOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBackupOpen = IconifyIconData.duo(
     IconData(0xe1ad, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ad, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ad, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-base` (paint-order duotone)
-  static const IconifyIconData folderBase = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBase = IconifyIconData.duo(
     IconData(0xe1ae, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ae, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ae, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-base-open` (paint-order duotone)
-  static const IconifyIconData folderBaseOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBaseOpen = IconifyIconData.duo(
     IconData(0xe1af, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1af, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1af, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-batch` (paint-order duotone)
-  static const IconifyIconData folderBatch = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBatch = IconifyIconData.duo(
     IconData(0xe1b0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-batch-open` (paint-order duotone)
-  static const IconifyIconData folderBatchOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBatchOpen = IconifyIconData.duo(
     IconData(0xe1b1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-benchmark` (paint-order duotone)
-  static const IconifyIconData folderBenchmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBenchmark = IconifyIconData.duo(
     IconData(0xe1b2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-benchmark-open` (paint-order duotone)
-  static const IconifyIconData folderBenchmarkOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBenchmarkOpen = IconifyIconData.duo(
     IconData(0xe1b3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-bicep` (paint-order duotone)
-  static const IconifyIconData folderBicep = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBicep = IconifyIconData.duo(
     IconData(0xe050, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe050, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe050, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-bicep-open` (paint-order duotone)
-  static const IconifyIconData folderBicepOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBicepOpen = IconifyIconData.duo(
     IconData(0xe051, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe051, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe051, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-blender` (paint-order duotone)
-  static const IconifyIconData folderBlender = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBlender = IconifyIconData.duo(
     IconData(0xe1b4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-blender-open` (paint-order duotone)
-  static const IconifyIconData folderBlenderOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBlenderOpen = IconifyIconData.duo(
     IconData(0xe1b5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-bloc` (paint-order duotone)
-  static const IconifyIconData folderBloc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBloc = IconifyIconData.duo(
     IconData(0xe052, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe052, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe052, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-bloc-open` (paint-order duotone)
-  static const IconifyIconData folderBlocOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderBlocOpen = IconifyIconData.duo(
     IconData(0xe053, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe053, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe053, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cart` (paint-order duotone)
-  static const IconifyIconData folderCart = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCart = IconifyIconData.duo(
     IconData(0xe1b6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cart-open` (paint-order duotone)
-  static const IconifyIconData folderCartOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCartOpen = IconifyIconData.duo(
     IconData(0xe1b7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-certificate` (paint-order duotone)
-  static const IconifyIconData folderCertificate = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCertificate = IconifyIconData.duo(
     IconData(0xe1b8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-certificate-open` (paint-order duotone)
-  static const IconifyIconData folderCertificateOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCertificateOpen = IconifyIconData.duo(
     IconData(0xe1b9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1b9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1b9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-changesets` (paint-order duotone)
-  static const IconifyIconData folderChangesets = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderChangesets = IconifyIconData.duo(
     IconData(0xe1ba, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ba, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ba, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-changesets-open` (paint-order duotone)
-  static const IconifyIconData folderChangesetsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderChangesetsOpen = IconifyIconData.duo(
     IconData(0xe1bb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1bb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1bb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-ci` (paint-order duotone)
-  static const IconifyIconData folderCi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCi = IconifyIconData.duo(
     IconData(0xe1bc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1bc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1bc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-ci-open` (paint-order duotone)
-  static const IconifyIconData folderCiOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCiOpen = IconifyIconData.duo(
     IconData(0xe1bd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1bd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1bd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-circleci` (paint-order duotone)
-  static const IconifyIconData folderCircleci = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCircleci = IconifyIconData.duo(
     IconData(0xe1be, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1be, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1be, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-circleci-open` (paint-order duotone)
-  static const IconifyIconData folderCircleciOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCircleciOpen = IconifyIconData.duo(
     IconData(0xe1bf, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1bf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1bf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-class` (paint-order duotone)
-  static const IconifyIconData folderClass = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderClass = IconifyIconData.duo(
     IconData(0xe1c0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-class-open` (paint-order duotone)
-  static const IconifyIconData folderClassOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderClassOpen = IconifyIconData.duo(
     IconData(0xe1c1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-client` (paint-order duotone)
-  static const IconifyIconData folderClient = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderClient = IconifyIconData.duo(
     IconData(0xe1c2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-client-open` (paint-order duotone)
-  static const IconifyIconData folderClientOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderClientOpen = IconifyIconData.duo(
     IconData(0xe1c3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cline` (paint-order duotone)
-  static const IconifyIconData folderCline = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCline = IconifyIconData.duo(
     IconData(0xe054, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe054, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe054, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cline-open` (paint-order duotone)
-  static const IconifyIconData folderClineOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderClineOpen = IconifyIconData.duo(
     IconData(0xe055, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe055, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe055, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cloud-functions`
@@ -823,489 +823,489 @@ class MaterialIconThemeIcons {
   );
 
   /// `folder-cloudflare` (paint-order duotone)
-  static const IconifyIconData folderCloudflare = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCloudflare = IconifyIconData.duo(
     IconData(0xe056, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe056, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe056, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cloudflare-open` (paint-order duotone)
-  static const IconifyIconData folderCloudflareOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCloudflareOpen = IconifyIconData.duo(
     IconData(0xe057, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe057, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe057, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cluster` (paint-order duotone)
-  static const IconifyIconData folderCluster = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCluster = IconifyIconData.duo(
     IconData(0xe058, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe058, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe058, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cluster-open` (paint-order duotone)
-  static const IconifyIconData folderClusterOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderClusterOpen = IconifyIconData.duo(
     IconData(0xe059, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe059, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe059, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cobol` (paint-order duotone)
-  static const IconifyIconData folderCobol = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCobol = IconifyIconData.duo(
     IconData(0xe1c4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cobol-open` (paint-order duotone)
-  static const IconifyIconData folderCobolOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCobolOpen = IconifyIconData.duo(
     IconData(0xe1c5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-command` (paint-order duotone)
-  static const IconifyIconData folderCommand = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCommand = IconifyIconData.duo(
     IconData(0xe1c6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-command-open` (paint-order duotone)
-  static const IconifyIconData folderCommandOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCommandOpen = IconifyIconData.duo(
     IconData(0xe1c7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-components` (paint-order duotone)
-  static const IconifyIconData folderComponents = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderComponents = IconifyIconData.duo(
     IconData(0xe05a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe05a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe05a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-components-open` (paint-order duotone)
-  static const IconifyIconData folderComponentsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderComponentsOpen = IconifyIconData.duo(
     IconData(0xe05b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe05b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe05b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-config` (paint-order duotone)
-  static const IconifyIconData folderConfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderConfig = IconifyIconData.duo(
     IconData(0xe05c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe05c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe05c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-config-open` (paint-order duotone)
-  static const IconifyIconData folderConfigOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderConfigOpen = IconifyIconData.duo(
     IconData(0xe05d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe05d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe05d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-connection` (paint-order duotone)
-  static const IconifyIconData folderConnection = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderConnection = IconifyIconData.duo(
     IconData(0xe05e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe05e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe05e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-connection-open` (paint-order duotone)
-  static const IconifyIconData folderConnectionOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderConnectionOpen = IconifyIconData.duo(
     IconData(0xe05f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe05f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe05f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-console` (paint-order duotone)
-  static const IconifyIconData folderConsole = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderConsole = IconifyIconData.duo(
     IconData(0xe060, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe060, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe060, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-console-open` (paint-order duotone)
-  static const IconifyIconData folderConsoleOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderConsoleOpen = IconifyIconData.duo(
     IconData(0xe061, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe061, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe061, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-constant` (paint-order duotone)
-  static const IconifyIconData folderConstant = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderConstant = IconifyIconData.duo(
     IconData(0xe1c8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-constant-open` (paint-order duotone)
-  static const IconifyIconData folderConstantOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderConstantOpen = IconifyIconData.duo(
     IconData(0xe1c9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1c9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1c9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-container` (paint-order duotone)
-  static const IconifyIconData folderContainer = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderContainer = IconifyIconData.duo(
     IconData(0xe1ca, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ca, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ca, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-container-open` (paint-order duotone)
-  static const IconifyIconData folderContainerOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderContainerOpen = IconifyIconData.duo(
     IconData(0xe1cb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1cb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1cb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-content` (paint-order duotone)
-  static const IconifyIconData folderContent = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderContent = IconifyIconData.duo(
     IconData(0xe062, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe062, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe062, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-content-open` (paint-order duotone)
-  static const IconifyIconData folderContentOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderContentOpen = IconifyIconData.duo(
     IconData(0xe063, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe063, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe063, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-context` (paint-order duotone)
-  static const IconifyIconData folderContext = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderContext = IconifyIconData.duo(
     IconData(0xe1cc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1cc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1cc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-context-open` (paint-order duotone)
-  static const IconifyIconData folderContextOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderContextOpen = IconifyIconData.duo(
     IconData(0xe1cd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1cd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1cd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-contract` (paint-order duotone)
-  static const IconifyIconData folderContract = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderContract = IconifyIconData.duo(
     IconData(0xe1ce, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ce, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ce, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-contract-open` (paint-order duotone)
-  static const IconifyIconData folderContractOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderContractOpen = IconifyIconData.duo(
     IconData(0xe1cf, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1cf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1cf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-controller` (paint-order duotone)
-  static const IconifyIconData folderController = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderController = IconifyIconData.duo(
     IconData(0xe064, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe064, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe064, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-controller-open` (paint-order duotone)
-  static const IconifyIconData folderControllerOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderControllerOpen = IconifyIconData.duo(
     IconData(0xe065, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe065, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe065, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-core` (paint-order duotone)
-  static const IconifyIconData folderCore = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCore = IconifyIconData.duo(
     IconData(0xe1d0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-core-open` (paint-order duotone)
-  static const IconifyIconData folderCoreOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCoreOpen = IconifyIconData.duo(
     IconData(0xe1d1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-coverage` (paint-order duotone)
-  static const IconifyIconData folderCoverage = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCoverage = IconifyIconData.duo(
     IconData(0xe066, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe066, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe066, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-coverage-open` (paint-order duotone)
-  static const IconifyIconData folderCoverageOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCoverageOpen = IconifyIconData.duo(
     IconData(0xe067, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe067, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe067, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cue` (paint-order duotone)
-  static const IconifyIconData folderCue = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCue = IconifyIconData.duo(
     IconData(0xe1d2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cue-open` (paint-order duotone)
-  static const IconifyIconData folderCueOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCueOpen = IconifyIconData.duo(
     IconData(0xe1d3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cursor` (paint-order duotone)
-  static const IconifyIconData folderCursor = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCursor = IconifyIconData.duo(
     IconData(0xe1d4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cursor-light` (paint-order duotone)
-  static const IconifyIconData folderCursorLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCursorLight = IconifyIconData.duo(
     IconData(0xe1d5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cursor-open` (paint-order duotone)
-  static const IconifyIconData folderCursorOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCursorOpen = IconifyIconData.duo(
     IconData(0xe1d6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cursor-open-light` (paint-order duotone)
-  static const IconifyIconData folderCursorOpenLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCursorOpenLight = IconifyIconData.duo(
     IconData(0xe1d7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-custom` (paint-order duotone)
-  static const IconifyIconData folderCustom = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCustom = IconifyIconData.duo(
     IconData(0xe1d8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-custom-open` (paint-order duotone)
-  static const IconifyIconData folderCustomOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCustomOpen = IconifyIconData.duo(
     IconData(0xe1d9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1d9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1d9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cypress` (paint-order duotone)
-  static const IconifyIconData folderCypress = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCypress = IconifyIconData.duo(
     IconData(0xe1da, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1da, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1da, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-cypress-open` (paint-order duotone)
-  static const IconifyIconData folderCypressOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderCypressOpen = IconifyIconData.duo(
     IconData(0xe1db, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1db, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1db, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-dart` (paint-order duotone)
-  static const IconifyIconData folderDart = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDart = IconifyIconData.duo(
     IconData(0xe1dc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1dc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1dc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-dart-open` (paint-order duotone)
-  static const IconifyIconData folderDartOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDartOpen = IconifyIconData.duo(
     IconData(0xe1dd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1dd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1dd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-database` (paint-order duotone)
-  static const IconifyIconData folderDatabase = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDatabase = IconifyIconData.duo(
     IconData(0xe068, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe068, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe068, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-database-open` (paint-order duotone)
-  static const IconifyIconData folderDatabaseOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDatabaseOpen = IconifyIconData.duo(
     IconData(0xe069, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe069, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe069, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-debug` (paint-order duotone)
-  static const IconifyIconData folderDebug = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDebug = IconifyIconData.duo(
     IconData(0xe1de, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1de, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1de, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-debug-open` (paint-order duotone)
-  static const IconifyIconData folderDebugOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDebugOpen = IconifyIconData.duo(
     IconData(0xe1df, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1df, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1df, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-decorators` (paint-order duotone)
-  static const IconifyIconData folderDecorators = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDecorators = IconifyIconData.duo(
     IconData(0xe06a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe06a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe06a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-decorators-open` (paint-order duotone)
-  static const IconifyIconData folderDecoratorsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDecoratorsOpen = IconifyIconData.duo(
     IconData(0xe06b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe06b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe06b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-delta` (paint-order duotone)
-  static const IconifyIconData folderDelta = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDelta = IconifyIconData.duo(
     IconData(0xe1e0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-delta-open` (paint-order duotone)
-  static const IconifyIconData folderDeltaOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDeltaOpen = IconifyIconData.duo(
     IconData(0xe1e1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-desktop` (paint-order duotone)
-  static const IconifyIconData folderDesktop = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDesktop = IconifyIconData.duo(
     IconData(0xe1e2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-desktop-open` (paint-order duotone)
-  static const IconifyIconData folderDesktopOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDesktopOpen = IconifyIconData.duo(
     IconData(0xe1e3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-dist` (paint-order duotone)
-  static const IconifyIconData folderDist = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDist = IconifyIconData.duo(
     IconData(0xe1e4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-dist-open` (paint-order duotone)
-  static const IconifyIconData folderDistOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDistOpen = IconifyIconData.duo(
     IconData(0xe1e5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-docker` (paint-order duotone)
-  static const IconifyIconData folderDocker = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDocker = IconifyIconData.duo(
     IconData(0xe1e6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-docker-open` (paint-order duotone)
-  static const IconifyIconData folderDockerOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDockerOpen = IconifyIconData.duo(
     IconData(0xe1e7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-docs` (paint-order duotone)
-  static const IconifyIconData folderDocs = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDocs = IconifyIconData.duo(
     IconData(0xe1e8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-docs-open` (paint-order duotone)
-  static const IconifyIconData folderDocsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDocsOpen = IconifyIconData.duo(
     IconData(0xe1e9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1e9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1e9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-download` (paint-order duotone)
-  static const IconifyIconData folderDownload = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDownload = IconifyIconData.duo(
     IconData(0xe1ea, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ea, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ea, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-download-open` (paint-order duotone)
-  static const IconifyIconData folderDownloadOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDownloadOpen = IconifyIconData.duo(
     IconData(0xe1eb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1eb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1eb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-drizzle` (paint-order duotone)
-  static const IconifyIconData folderDrizzle = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDrizzle = IconifyIconData.duo(
     IconData(0xe1ec, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ec, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ec, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-drizzle-open` (paint-order duotone)
-  static const IconifyIconData folderDrizzleOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDrizzleOpen = IconifyIconData.duo(
     IconData(0xe1ed, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ed, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ed, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-dump` (paint-order duotone)
-  static const IconifyIconData folderDump = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDump = IconifyIconData.duo(
     IconData(0xe1ee, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ee, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ee, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-dump-open` (paint-order duotone)
-  static const IconifyIconData folderDumpOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderDumpOpen = IconifyIconData.duo(
     IconData(0xe1ef, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ef, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ef, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-element` (paint-order duotone)
-  static const IconifyIconData folderElement = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderElement = IconifyIconData.duo(
     IconData(0xe06c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe06c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe06c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-element-open` (paint-order duotone)
-  static const IconifyIconData folderElementOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderElementOpen = IconifyIconData.duo(
     IconData(0xe06d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe06d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe06d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-enum` (paint-order duotone)
-  static const IconifyIconData folderEnum = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderEnum = IconifyIconData.duo(
     IconData(0xe06e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe06e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe06e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-enum-open` (paint-order duotone)
-  static const IconifyIconData folderEnumOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderEnumOpen = IconifyIconData.duo(
     IconData(0xe06f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe06f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe06f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-environment` (paint-order duotone)
-  static const IconifyIconData folderEnvironment = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderEnvironment = IconifyIconData.duo(
     IconData(0xe1f0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-environment-open` (paint-order duotone)
-  static const IconifyIconData folderEnvironmentOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderEnvironmentOpen = IconifyIconData.duo(
     IconData(0xe1f1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-error` (paint-order duotone)
-  static const IconifyIconData folderError = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderError = IconifyIconData.duo(
     IconData(0xe1f2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-error-open` (paint-order duotone)
-  static const IconifyIconData folderErrorOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderErrorOpen = IconifyIconData.duo(
     IconData(0xe1f3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-eslint-open` (paint-order duotone)
-  static const IconifyIconData folderEslintOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderEslintOpen = IconifyIconData.duo(
     IconData(0xe071, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe071, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe071, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-event` (paint-order duotone)
-  static const IconifyIconData folderEvent = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderEvent = IconifyIconData.duo(
     IconData(0xe072, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe072, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe072, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-event-open` (paint-order duotone)
-  static const IconifyIconData folderEventOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderEventOpen = IconifyIconData.duo(
     IconData(0xe073, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe073, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe073, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-examples` (paint-order duotone)
-  static const IconifyIconData folderExamples = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderExamples = IconifyIconData.duo(
     IconData(0xe1f4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-examples-open` (paint-order duotone)
-  static const IconifyIconData folderExamplesOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderExamplesOpen = IconifyIconData.duo(
     IconData(0xe1f5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-expo` (paint-order duotone)
-  static const IconifyIconData folderExpo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderExpo = IconifyIconData.duo(
     IconData(0xe1f6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-expo-open` (paint-order duotone)
-  static const IconifyIconData folderExpoOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderExpoOpen = IconifyIconData.duo(
     IconData(0xe1f7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-export` (duo-tone)
@@ -1321,951 +1321,951 @@ class MaterialIconThemeIcons {
   );
 
   /// `folder-fastlane` (paint-order duotone)
-  static const IconifyIconData folderFastlane = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFastlane = IconifyIconData.duo(
     IconData(0xe1f8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-fastlane-open` (paint-order duotone)
-  static const IconifyIconData folderFastlaneOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFastlaneOpen = IconifyIconData.duo(
     IconData(0xe1f9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1f9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1f9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-favicon` (paint-order duotone)
-  static const IconifyIconData folderFavicon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFavicon = IconifyIconData.duo(
     IconData(0xe076, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe076, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe076, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-favicon-open` (paint-order duotone)
-  static const IconifyIconData folderFaviconOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFaviconOpen = IconifyIconData.duo(
     IconData(0xe077, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe077, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe077, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-features` (paint-order duotone)
-  static const IconifyIconData folderFeatures = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFeatures = IconifyIconData.duo(
     IconData(0xe1fa, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1fa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-features-open` (paint-order duotone)
-  static const IconifyIconData folderFeaturesOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFeaturesOpen = IconifyIconData.duo(
     IconData(0xe1fb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1fb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-filter` (paint-order duotone)
-  static const IconifyIconData folderFilter = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFilter = IconifyIconData.duo(
     IconData(0xe1fc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1fc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-filter-open` (paint-order duotone)
-  static const IconifyIconData folderFilterOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFilterOpen = IconifyIconData.duo(
     IconData(0xe1fd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1fd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-firebase` (paint-order duotone)
-  static const IconifyIconData folderFirebase = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFirebase = IconifyIconData.duo(
     IconData(0xe1fe, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fe, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1fe, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-firebase-open` (paint-order duotone)
-  static const IconifyIconData folderFirebaseOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFirebaseOpen = IconifyIconData.duo(
     IconData(0xe1ff, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ff, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe1ff, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-firestore` (paint-order duotone)
-  static const IconifyIconData folderFirestore = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFirestore = IconifyIconData.duo(
     IconData(0xe200, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe200, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe200, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-firestore-open` (paint-order duotone)
-  static const IconifyIconData folderFirestoreOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFirestoreOpen = IconifyIconData.duo(
     IconData(0xe201, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe201, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe201, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-flutter` (paint-order duotone)
-  static const IconifyIconData folderFlutter = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFlutter = IconifyIconData.duo(
     IconData(0xe204, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe204, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe204, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-flutter-open` (paint-order duotone)
-  static const IconifyIconData folderFlutterOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFlutterOpen = IconifyIconData.duo(
     IconData(0xe205, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe205, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe205, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-font` (paint-order duotone)
-  static const IconifyIconData folderFont = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFont = IconifyIconData.duo(
     IconData(0xe206, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe206, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe206, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-font-open` (paint-order duotone)
-  static const IconifyIconData folderFontOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFontOpen = IconifyIconData.duo(
     IconData(0xe207, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe207, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe207, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-form` (paint-order duotone)
-  static const IconifyIconData folderForm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderForm = IconifyIconData.duo(
     IconData(0xe078, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe078, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe078, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-form-open` (paint-order duotone)
-  static const IconifyIconData folderFormOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFormOpen = IconifyIconData.duo(
     IconData(0xe079, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe079, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe079, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-functions` (paint-order duotone)
-  static const IconifyIconData folderFunctions = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFunctions = IconifyIconData.duo(
     IconData(0xe208, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe208, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe208, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-functions-open` (paint-order duotone)
-  static const IconifyIconData folderFunctionsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderFunctionsOpen = IconifyIconData.duo(
     IconData(0xe209, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe209, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe209, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gamemaker` (paint-order duotone)
-  static const IconifyIconData folderGamemaker = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGamemaker = IconifyIconData.duo(
     IconData(0xe07a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe07a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe07a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gamemaker-open` (paint-order duotone)
-  static const IconifyIconData folderGamemakerOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGamemakerOpen = IconifyIconData.duo(
     IconData(0xe07b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe07b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe07b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gemini-ai` (paint-order duotone)
-  static const IconifyIconData folderGeminiAi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGeminiAi = IconifyIconData.duo(
     IconData(0xe07c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe07c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe07c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gemini-ai-open` (paint-order duotone)
-  static const IconifyIconData folderGeminiAiOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGeminiAiOpen = IconifyIconData.duo(
     IconData(0xe07d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe07d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe07d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-generator` (paint-order duotone)
-  static const IconifyIconData folderGenerator = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGenerator = IconifyIconData.duo(
     IconData(0xe20a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe20a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe20a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-generator-open` (paint-order duotone)
-  static const IconifyIconData folderGeneratorOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGeneratorOpen = IconifyIconData.duo(
     IconData(0xe20b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe20b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe20b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gh-workflows` (paint-order duotone)
-  static const IconifyIconData folderGhWorkflows = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGhWorkflows = IconifyIconData.duo(
     IconData(0xe20c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe20c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe20c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gh-workflows-open` (paint-order duotone)
-  static const IconifyIconData folderGhWorkflowsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGhWorkflowsOpen = IconifyIconData.duo(
     IconData(0xe20d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe20d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe20d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-git` (paint-order duotone)
-  static const IconifyIconData folderGit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGit = IconifyIconData.duo(
     IconData(0xe20e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe20e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe20e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-git-open` (paint-order duotone)
-  static const IconifyIconData folderGitOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGitOpen = IconifyIconData.duo(
     IconData(0xe20f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe20f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe20f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gitea` (paint-order duotone)
-  static const IconifyIconData folderGitea = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGitea = IconifyIconData.duo(
     IconData(0xe210, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe210, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe210, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gitea-open` (paint-order duotone)
-  static const IconifyIconData folderGiteaOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGiteaOpen = IconifyIconData.duo(
     IconData(0xe211, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe211, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe211, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-github` (paint-order duotone)
-  static const IconifyIconData folderGithub = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGithub = IconifyIconData.duo(
     IconData(0xe212, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe212, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe212, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-github-open` (paint-order duotone)
-  static const IconifyIconData folderGithubOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGithubOpen = IconifyIconData.duo(
     IconData(0xe213, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe213, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe213, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-global` (paint-order duotone)
-  static const IconifyIconData folderGlobal = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGlobal = IconifyIconData.duo(
     IconData(0xe07e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe07e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe07e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-global-open` (paint-order duotone)
-  static const IconifyIconData folderGlobalOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGlobalOpen = IconifyIconData.duo(
     IconData(0xe07f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe07f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe07f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-go` (paint-order duotone)
-  static const IconifyIconData folderGo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGo = IconifyIconData.duo(
     IconData(0xe080, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe080, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe080, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-go-open` (paint-order duotone)
-  static const IconifyIconData folderGoOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGoOpen = IconifyIconData.duo(
     IconData(0xe081, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe081, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe081, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-godot` (paint-order duotone)
-  static const IconifyIconData folderGodot = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGodot = IconifyIconData.duo(
     IconData(0xe082, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe082, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe082, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-godot-open` (paint-order duotone)
-  static const IconifyIconData folderGodotOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGodotOpen = IconifyIconData.duo(
     IconData(0xe083, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe083, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe083, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gradle` (paint-order duotone)
-  static const IconifyIconData folderGradle = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGradle = IconifyIconData.duo(
     IconData(0xe084, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe084, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe084, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gradle-open` (paint-order duotone)
-  static const IconifyIconData folderGradleOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGradleOpen = IconifyIconData.duo(
     IconData(0xe085, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe085, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe085, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-graphql` (paint-order duotone)
-  static const IconifyIconData folderGraphql = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGraphql = IconifyIconData.duo(
     IconData(0xe214, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe214, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe214, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-graphql-open` (paint-order duotone)
-  static const IconifyIconData folderGraphqlOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGraphqlOpen = IconifyIconData.duo(
     IconData(0xe215, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe215, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe215, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-guard` (paint-order duotone)
-  static const IconifyIconData folderGuard = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGuard = IconifyIconData.duo(
     IconData(0xe216, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe216, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe216, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-guard-open` (paint-order duotone)
-  static const IconifyIconData folderGuardOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGuardOpen = IconifyIconData.duo(
     IconData(0xe217, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe217, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe217, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gulp` (paint-order duotone)
-  static const IconifyIconData folderGulp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGulp = IconifyIconData.duo(
     IconData(0xe218, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe218, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe218, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-gulp-open` (paint-order duotone)
-  static const IconifyIconData folderGulpOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderGulpOpen = IconifyIconData.duo(
     IconData(0xe219, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe219, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe219, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-helm` (paint-order duotone)
-  static const IconifyIconData folderHelm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHelm = IconifyIconData.duo(
     IconData(0xe086, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe086, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe086, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-helm-open` (paint-order duotone)
-  static const IconifyIconData folderHelmOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHelmOpen = IconifyIconData.duo(
     IconData(0xe087, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe087, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe087, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-helper` (paint-order duotone)
-  static const IconifyIconData folderHelper = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHelper = IconifyIconData.duo(
     IconData(0xe088, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe088, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe088, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-helper-open` (paint-order duotone)
-  static const IconifyIconData folderHelperOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHelperOpen = IconifyIconData.duo(
     IconData(0xe089, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe089, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe089, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-home` (paint-order duotone)
-  static const IconifyIconData folderHome = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHome = IconifyIconData.duo(
     IconData(0xe21a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe21a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe21a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-home-open` (paint-order duotone)
-  static const IconifyIconData folderHomeOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHomeOpen = IconifyIconData.duo(
     IconData(0xe21b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe21b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe21b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-hook` (paint-order duotone)
-  static const IconifyIconData folderHook = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHook = IconifyIconData.duo(
     IconData(0xe21c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe21c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe21c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-hook-open` (paint-order duotone)
-  static const IconifyIconData folderHookOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHookOpen = IconifyIconData.duo(
     IconData(0xe21d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe21d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe21d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-husky` (paint-order duotone)
-  static const IconifyIconData folderHusky = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHusky = IconifyIconData.duo(
     IconData(0xe21e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe21e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe21e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-husky-open` (paint-order duotone)
-  static const IconifyIconData folderHuskyOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderHuskyOpen = IconifyIconData.duo(
     IconData(0xe21f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe21f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe21f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-i18n` (paint-order duotone)
-  static const IconifyIconData folderI18n = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderI18n = IconifyIconData.duo(
     IconData(0xe08a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe08a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe08a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-i18n-open` (paint-order duotone)
-  static const IconifyIconData folderI18nOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderI18nOpen = IconifyIconData.duo(
     IconData(0xe08b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe08b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe08b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-images` (paint-order duotone)
-  static const IconifyIconData folderImages = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderImages = IconifyIconData.duo(
     IconData(0xe220, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe220, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe220, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-images-open` (paint-order duotone)
-  static const IconifyIconData folderImagesOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderImagesOpen = IconifyIconData.duo(
     IconData(0xe221, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe221, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe221, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-import` (paint-order duotone)
-  static const IconifyIconData folderImport = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderImport = IconifyIconData.duo(
     IconData(0xe08c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe08c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe08c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-import-open` (paint-order duotone)
-  static const IconifyIconData folderImportOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderImportOpen = IconifyIconData.duo(
     IconData(0xe08d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe08d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe08d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-include` (paint-order duotone)
-  static const IconifyIconData folderInclude = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderInclude = IconifyIconData.duo(
     IconData(0xe222, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe222, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe222, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-include-open` (paint-order duotone)
-  static const IconifyIconData folderIncludeOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderIncludeOpen = IconifyIconData.duo(
     IconData(0xe223, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe223, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe223, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-input` (paint-order duotone)
-  static const IconifyIconData folderInput = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderInput = IconifyIconData.duo(
     IconData(0xe08e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe08e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe08e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-input-open` (paint-order duotone)
-  static const IconifyIconData folderInputOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderInputOpen = IconifyIconData.duo(
     IconData(0xe08f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe08f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe08f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-interface` (paint-order duotone)
-  static const IconifyIconData folderInterface = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderInterface = IconifyIconData.duo(
     IconData(0xe224, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe224, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe224, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-interface-open` (paint-order duotone)
-  static const IconifyIconData folderInterfaceOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderInterfaceOpen = IconifyIconData.duo(
     IconData(0xe225, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe225, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe225, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-ios` (paint-order duotone)
-  static const IconifyIconData folderIos = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderIos = IconifyIconData.duo(
     IconData(0xe226, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe226, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe226, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-ios-open` (paint-order duotone)
-  static const IconifyIconData folderIosOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderIosOpen = IconifyIconData.duo(
     IconData(0xe227, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe227, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe227, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-java` (paint-order duotone)
-  static const IconifyIconData folderJava = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJava = IconifyIconData.duo(
     IconData(0xe228, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe228, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe228, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-java-open` (paint-order duotone)
-  static const IconifyIconData folderJavaOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJavaOpen = IconifyIconData.duo(
     IconData(0xe229, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe229, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe229, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-javascript` (paint-order duotone)
-  static const IconifyIconData folderJavascript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJavascript = IconifyIconData.duo(
     IconData(0xe090, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe090, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe090, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-javascript-open` (paint-order duotone)
-  static const IconifyIconData folderJavascriptOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJavascriptOpen = IconifyIconData.duo(
     IconData(0xe091, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe091, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe091, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-jinja` (paint-order duotone)
-  static const IconifyIconData folderJinja = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJinja = IconifyIconData.duo(
     IconData(0xe22a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe22a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe22a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-jinja-light` (paint-order duotone)
-  static const IconifyIconData folderJinjaLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJinjaLight = IconifyIconData.duo(
     IconData(0xe22b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe22b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe22b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-jinja-open` (paint-order duotone)
-  static const IconifyIconData folderJinjaOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJinjaOpen = IconifyIconData.duo(
     IconData(0xe22c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe22c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe22c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-jinja-open-light` (paint-order duotone)
-  static const IconifyIconData folderJinjaOpenLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJinjaOpenLight = IconifyIconData.duo(
     IconData(0xe22d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe22d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe22d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-job` (paint-order duotone)
-  static const IconifyIconData folderJob = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJob = IconifyIconData.duo(
     IconData(0xe092, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe092, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe092, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-job-open` (paint-order duotone)
-  static const IconifyIconData folderJobOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJobOpen = IconifyIconData.duo(
     IconData(0xe093, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe093, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe093, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-json` (paint-order duotone)
-  static const IconifyIconData folderJson = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJson = IconifyIconData.duo(
     IconData(0xe22e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe22e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe22e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-json-open` (paint-order duotone)
-  static const IconifyIconData folderJsonOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderJsonOpen = IconifyIconData.duo(
     IconData(0xe22f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe22f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe22f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-keys` (paint-order duotone)
-  static const IconifyIconData folderKeys = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderKeys = IconifyIconData.duo(
     IconData(0xe094, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe094, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe094, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-keys-open` (paint-order duotone)
-  static const IconifyIconData folderKeysOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderKeysOpen = IconifyIconData.duo(
     IconData(0xe095, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe095, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe095, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-kotlin` (paint-order duotone)
-  static const IconifyIconData folderKotlin = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderKotlin = IconifyIconData.duo(
     IconData(0xe096, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe096, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe096, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-kotlin-open` (paint-order duotone)
-  static const IconifyIconData folderKotlinOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderKotlinOpen = IconifyIconData.duo(
     IconData(0xe097, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe097, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe097, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-kubernetes` (paint-order duotone)
-  static const IconifyIconData folderKubernetes = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderKubernetes = IconifyIconData.duo(
     IconData(0xe230, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe230, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe230, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-kubernetes-open` (paint-order duotone)
-  static const IconifyIconData folderKubernetesOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderKubernetesOpen = IconifyIconData.duo(
     IconData(0xe231, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe231, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe231, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-kusto` (paint-order duotone)
-  static const IconifyIconData folderKusto = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderKusto = IconifyIconData.duo(
     IconData(0xe232, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe232, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe232, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-kusto-open` (paint-order duotone)
-  static const IconifyIconData folderKustoOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderKustoOpen = IconifyIconData.duo(
     IconData(0xe233, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe233, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe233, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-layout` (paint-order duotone)
-  static const IconifyIconData folderLayout = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLayout = IconifyIconData.duo(
     IconData(0xe234, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe234, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe234, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-layout-open` (paint-order duotone)
-  static const IconifyIconData folderLayoutOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLayoutOpen = IconifyIconData.duo(
     IconData(0xe235, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe235, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe235, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-less` (paint-order duotone)
-  static const IconifyIconData folderLess = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLess = IconifyIconData.duo(
     IconData(0xe236, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe236, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe236, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-less-open` (paint-order duotone)
-  static const IconifyIconData folderLessOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLessOpen = IconifyIconData.duo(
     IconData(0xe237, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe237, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe237, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-lib` (paint-order duotone)
-  static const IconifyIconData folderLib = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLib = IconifyIconData.duo(
     IconData(0xe098, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe098, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe098, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-lib-open` (paint-order duotone)
-  static const IconifyIconData folderLibOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLibOpen = IconifyIconData.duo(
     IconData(0xe099, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe099, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe099, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-license` (paint-order duotone)
-  static const IconifyIconData folderLicense = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLicense = IconifyIconData.duo(
     IconData(0xe238, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe238, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe238, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-license-open` (paint-order duotone)
-  static const IconifyIconData folderLicenseOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLicenseOpen = IconifyIconData.duo(
     IconData(0xe239, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe239, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe239, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-link` (paint-order duotone)
-  static const IconifyIconData folderLink = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLink = IconifyIconData.duo(
     IconData(0xe23a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe23a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe23a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-link-open` (paint-order duotone)
-  static const IconifyIconData folderLinkOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLinkOpen = IconifyIconData.duo(
     IconData(0xe23b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe23b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe23b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-linux` (paint-order duotone)
-  static const IconifyIconData folderLinux = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLinux = IconifyIconData.duo(
     IconData(0xe23c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe23c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe23c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-linux-open` (paint-order duotone)
-  static const IconifyIconData folderLinuxOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLinuxOpen = IconifyIconData.duo(
     IconData(0xe23d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe23d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe23d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-liquibase` (paint-order duotone)
-  static const IconifyIconData folderLiquibase = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLiquibase = IconifyIconData.duo(
     IconData(0xe23e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe23e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe23e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-liquibase-open` (paint-order duotone)
-  static const IconifyIconData folderLiquibaseOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLiquibaseOpen = IconifyIconData.duo(
     IconData(0xe23f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe23f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe23f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-log` (paint-order duotone)
-  static const IconifyIconData folderLog = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLog = IconifyIconData.duo(
     IconData(0xe09a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe09a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe09a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-log-open` (paint-order duotone)
-  static const IconifyIconData folderLogOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLogOpen = IconifyIconData.duo(
     IconData(0xe09b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe09b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe09b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-lottie` (paint-order duotone)
-  static const IconifyIconData folderLottie = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLottie = IconifyIconData.duo(
     IconData(0xe09c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe09c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe09c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-lottie-open` (paint-order duotone)
-  static const IconifyIconData folderLottieOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLottieOpen = IconifyIconData.duo(
     IconData(0xe09d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe09d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe09d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-lua` (paint-order duotone)
-  static const IconifyIconData folderLua = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLua = IconifyIconData.duo(
     IconData(0xe240, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe240, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe240, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-lua-open` (paint-order duotone)
-  static const IconifyIconData folderLuaOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLuaOpen = IconifyIconData.duo(
     IconData(0xe241, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe241, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe241, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-luau` (paint-order duotone)
-  static const IconifyIconData folderLuau = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLuau = IconifyIconData.duo(
     IconData(0xe242, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe242, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe242, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-luau-open` (paint-order duotone)
-  static const IconifyIconData folderLuauOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderLuauOpen = IconifyIconData.duo(
     IconData(0xe243, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe243, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe243, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-macos` (paint-order duotone)
-  static const IconifyIconData folderMacos = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMacos = IconifyIconData.duo(
     IconData(0xe244, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe244, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe244, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-macos-open` (paint-order duotone)
-  static const IconifyIconData folderMacosOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMacosOpen = IconifyIconData.duo(
     IconData(0xe245, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe245, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe245, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mail` (paint-order duotone)
-  static const IconifyIconData folderMail = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMail = IconifyIconData.duo(
     IconData(0xe246, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe246, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe246, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mail-open` (paint-order duotone)
-  static const IconifyIconData folderMailOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMailOpen = IconifyIconData.duo(
     IconData(0xe247, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe247, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe247, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mappings` (paint-order duotone)
-  static const IconifyIconData folderMappings = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMappings = IconifyIconData.duo(
     IconData(0xe09e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe09e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe09e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mappings-open` (paint-order duotone)
-  static const IconifyIconData folderMappingsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMappingsOpen = IconifyIconData.duo(
     IconData(0xe09f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe09f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe09f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-markdown` (paint-order duotone)
-  static const IconifyIconData folderMarkdown = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMarkdown = IconifyIconData.duo(
     IconData(0xe248, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe248, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe248, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-markdown-open` (paint-order duotone)
-  static const IconifyIconData folderMarkdownOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMarkdownOpen = IconifyIconData.duo(
     IconData(0xe249, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe249, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe249, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mercurial` (paint-order duotone)
-  static const IconifyIconData folderMercurial = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMercurial = IconifyIconData.duo(
     IconData(0xe24a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe24a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe24a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mercurial-open` (paint-order duotone)
-  static const IconifyIconData folderMercurialOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMercurialOpen = IconifyIconData.duo(
     IconData(0xe24b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe24b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe24b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-messages` (paint-order duotone)
-  static const IconifyIconData folderMessages = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMessages = IconifyIconData.duo(
     IconData(0xe24c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe24c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe24c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-messages-open` (paint-order duotone)
-  static const IconifyIconData folderMessagesOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMessagesOpen = IconifyIconData.duo(
     IconData(0xe24d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe24d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe24d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-meta` (paint-order duotone)
-  static const IconifyIconData folderMeta = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMeta = IconifyIconData.duo(
     IconData(0xe24e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe24e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe24e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-meta-open` (paint-order duotone)
-  static const IconifyIconData folderMetaOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMetaOpen = IconifyIconData.duo(
     IconData(0xe24f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe24f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe24f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-metro` (paint-order duotone)
-  static const IconifyIconData folderMetro = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMetro = IconifyIconData.duo(
     IconData(0xe250, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe250, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe250, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-metro-open` (paint-order duotone)
-  static const IconifyIconData folderMetroOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMetroOpen = IconifyIconData.duo(
     IconData(0xe251, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe251, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe251, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-middleware` (paint-order duotone)
-  static const IconifyIconData folderMiddleware = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMiddleware = IconifyIconData.duo(
     IconData(0xe0a0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-middleware-open` (paint-order duotone)
-  static const IconifyIconData folderMiddlewareOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMiddlewareOpen = IconifyIconData.duo(
     IconData(0xe0a1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-migrations` (paint-order duotone)
-  static const IconifyIconData folderMigrations = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMigrations = IconifyIconData.duo(
     IconData(0xe252, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe252, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe252, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-migrations-open` (paint-order duotone)
-  static const IconifyIconData folderMigrationsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMigrationsOpen = IconifyIconData.duo(
     IconData(0xe253, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe253, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe253, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mjml` (paint-order duotone)
-  static const IconifyIconData folderMjml = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMjml = IconifyIconData.duo(
     IconData(0xe254, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe254, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe254, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mjml-open` (paint-order duotone)
-  static const IconifyIconData folderMjmlOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMjmlOpen = IconifyIconData.duo(
     IconData(0xe255, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe255, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe255, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mobile` (paint-order duotone)
-  static const IconifyIconData folderMobile = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMobile = IconifyIconData.duo(
     IconData(0xe256, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe256, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe256, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mobile-open` (paint-order duotone)
-  static const IconifyIconData folderMobileOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMobileOpen = IconifyIconData.duo(
     IconData(0xe257, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe257, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe257, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mock` (paint-order duotone)
-  static const IconifyIconData folderMock = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMock = IconifyIconData.duo(
     IconData(0xe258, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe258, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe258, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mock-open` (paint-order duotone)
-  static const IconifyIconData folderMockOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMockOpen = IconifyIconData.duo(
     IconData(0xe259, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe259, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe259, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mojo` (paint-order duotone)
-  static const IconifyIconData folderMojo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMojo = IconifyIconData.duo(
     IconData(0xe25a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe25a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe25a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-mojo-open` (paint-order duotone)
-  static const IconifyIconData folderMojoOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMojoOpen = IconifyIconData.duo(
     IconData(0xe25b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe25b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe25b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-molecule` (paint-order duotone)
-  static const IconifyIconData folderMolecule = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMolecule = IconifyIconData.duo(
     IconData(0xe25c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe25c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe25c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-molecule-open` (paint-order duotone)
-  static const IconifyIconData folderMoleculeOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMoleculeOpen = IconifyIconData.duo(
     IconData(0xe25d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe25d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe25d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-moon` (paint-order duotone)
-  static const IconifyIconData folderMoon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMoon = IconifyIconData.duo(
     IconData(0xe25e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe25e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe25e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-moon-open` (paint-order duotone)
-  static const IconifyIconData folderMoonOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderMoonOpen = IconifyIconData.duo(
     IconData(0xe25f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe25f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe25f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-netlify` (paint-order duotone)
-  static const IconifyIconData folderNetlify = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNetlify = IconifyIconData.duo(
     IconData(0xe0a2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-netlify-open` (paint-order duotone)
-  static const IconifyIconData folderNetlifyOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNetlifyOpen = IconifyIconData.duo(
     IconData(0xe0a3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-next` (paint-order duotone)
-  static const IconifyIconData folderNext = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNext = IconifyIconData.duo(
     IconData(0xe260, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe260, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe260, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-next-open` (paint-order duotone)
-  static const IconifyIconData folderNextOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNextOpen = IconifyIconData.duo(
     IconData(0xe261, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe261, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe261, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-nginx` (paint-order duotone)
-  static const IconifyIconData folderNginx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNginx = IconifyIconData.duo(
     IconData(0xe262, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe262, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe262, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-nginx-open` (paint-order duotone)
-  static const IconifyIconData folderNginxOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNginxOpen = IconifyIconData.duo(
     IconData(0xe263, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe263, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe263, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-ngrx-store` (paint-order duotone)
-  static const IconifyIconData folderNgrxStore = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNgrxStore = IconifyIconData.duo(
     IconData(0xe0a4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-ngrx-store-open` (paint-order duotone)
-  static const IconifyIconData folderNgrxStoreOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNgrxStoreOpen = IconifyIconData.duo(
     IconData(0xe0a5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-node` (paint-order duotone)
-  static const IconifyIconData folderNode = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNode = IconifyIconData.duo(
     IconData(0xe0a6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-node-open` (paint-order duotone)
-  static const IconifyIconData folderNodeOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNodeOpen = IconifyIconData.duo(
     IconData(0xe0a7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-nuxt` (paint-order duotone)
-  static const IconifyIconData folderNuxt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNuxt = IconifyIconData.duo(
     IconData(0xe264, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe264, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe264, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-nuxt-open` (paint-order duotone)
-  static const IconifyIconData folderNuxtOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderNuxtOpen = IconifyIconData.duo(
     IconData(0xe265, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe265, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe265, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-obsidian`
@@ -2279,459 +2279,459 @@ class MaterialIconThemeIcons {
   );
 
   /// `folder-organism` (paint-order duotone)
-  static const IconifyIconData folderOrganism = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderOrganism = IconifyIconData.duo(
     IconData(0xe266, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe266, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe266, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-organism-open` (paint-order duotone)
-  static const IconifyIconData folderOrganismOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderOrganismOpen = IconifyIconData.duo(
     IconData(0xe267, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe267, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe267, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-other` (paint-order duotone)
-  static const IconifyIconData folderOther = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderOther = IconifyIconData.duo(
     IconData(0xe268, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe268, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe268, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-other-open` (paint-order duotone)
-  static const IconifyIconData folderOtherOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderOtherOpen = IconifyIconData.duo(
     IconData(0xe269, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe269, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe269, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-packages` (paint-order duotone)
-  static const IconifyIconData folderPackages = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPackages = IconifyIconData.duo(
     IconData(0xe26a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe26a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe26a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-packages-open` (paint-order duotone)
-  static const IconifyIconData folderPackagesOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPackagesOpen = IconifyIconData.duo(
     IconData(0xe26b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe26b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe26b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-pdf` (paint-order duotone)
-  static const IconifyIconData folderPdf = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPdf = IconifyIconData.duo(
     IconData(0xe26c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe26c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe26c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-pdf-open` (paint-order duotone)
-  static const IconifyIconData folderPdfOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPdfOpen = IconifyIconData.duo(
     IconData(0xe26d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe26d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe26d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-pdm` (paint-order duotone)
-  static const IconifyIconData folderPdm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPdm = IconifyIconData.duo(
     IconData(0xe26e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe26e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe26e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-pdm-open` (paint-order duotone)
-  static const IconifyIconData folderPdmOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPdmOpen = IconifyIconData.duo(
     IconData(0xe26f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe26f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe26f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-php` (paint-order duotone)
-  static const IconifyIconData folderPhp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPhp = IconifyIconData.duo(
     IconData(0xe270, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe270, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe270, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-php-open` (paint-order duotone)
-  static const IconifyIconData folderPhpOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPhpOpen = IconifyIconData.duo(
     IconData(0xe271, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe271, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe271, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-pipe` (paint-order duotone)
-  static const IconifyIconData folderPipe = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPipe = IconifyIconData.duo(
     IconData(0xe272, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe272, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe272, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-pipe-open` (paint-order duotone)
-  static const IconifyIconData folderPipeOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPipeOpen = IconifyIconData.duo(
     IconData(0xe273, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe273, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe273, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-plastic` (paint-order duotone)
-  static const IconifyIconData folderPlastic = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPlastic = IconifyIconData.duo(
     IconData(0xe274, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe274, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe274, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-plastic-open` (paint-order duotone)
-  static const IconifyIconData folderPlasticOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPlasticOpen = IconifyIconData.duo(
     IconData(0xe275, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe275, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe275, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-plugin` (paint-order duotone)
-  static const IconifyIconData folderPlugin = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPlugin = IconifyIconData.duo(
     IconData(0xe276, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe276, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe276, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-plugin-open` (paint-order duotone)
-  static const IconifyIconData folderPluginOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPluginOpen = IconifyIconData.duo(
     IconData(0xe277, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe277, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe277, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-policy` (paint-order duotone)
-  static const IconifyIconData folderPolicy = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPolicy = IconifyIconData.duo(
     IconData(0xe278, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe278, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe278, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-policy-open` (paint-order duotone)
-  static const IconifyIconData folderPolicyOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPolicyOpen = IconifyIconData.duo(
     IconData(0xe279, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe279, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe279, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-postman` (paint-order duotone)
-  static const IconifyIconData folderPostman = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPostman = IconifyIconData.duo(
     IconData(0xe27a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe27a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe27a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-postman-open` (paint-order duotone)
-  static const IconifyIconData folderPostmanOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPostmanOpen = IconifyIconData.duo(
     IconData(0xe27b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe27b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe27b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-powershell` (paint-order duotone)
-  static const IconifyIconData folderPowershell = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPowershell = IconifyIconData.duo(
     IconData(0xe27c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe27c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe27c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-powershell-open` (paint-order duotone)
-  static const IconifyIconData folderPowershellOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPowershellOpen = IconifyIconData.duo(
     IconData(0xe27d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe27d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe27d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-prisma` (paint-order duotone)
-  static const IconifyIconData folderPrisma = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPrisma = IconifyIconData.duo(
     IconData(0xe0a8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-prisma-open` (paint-order duotone)
-  static const IconifyIconData folderPrismaOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPrismaOpen = IconifyIconData.duo(
     IconData(0xe0a9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0a9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0a9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-private` (paint-order duotone)
-  static const IconifyIconData folderPrivate = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPrivate = IconifyIconData.duo(
     IconData(0xe27e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe27e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe27e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-private-open` (paint-order duotone)
-  static const IconifyIconData folderPrivateOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPrivateOpen = IconifyIconData.duo(
     IconData(0xe27f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe27f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe27f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-project` (paint-order duotone)
-  static const IconifyIconData folderProject = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderProject = IconifyIconData.duo(
     IconData(0xe280, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe280, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe280, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-project-open` (paint-order duotone)
-  static const IconifyIconData folderProjectOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderProjectOpen = IconifyIconData.duo(
     IconData(0xe281, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe281, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe281, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-prompts` (paint-order duotone)
-  static const IconifyIconData folderPrompts = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPrompts = IconifyIconData.duo(
     IconData(0xe0aa, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0aa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0aa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-prompts-open` (paint-order duotone)
-  static const IconifyIconData folderPromptsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPromptsOpen = IconifyIconData.duo(
     IconData(0xe0ab, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0ab, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0ab, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-proto` (paint-order duotone)
-  static const IconifyIconData folderProto = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderProto = IconifyIconData.duo(
     IconData(0xe282, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe282, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe282, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-proto-open` (paint-order duotone)
-  static const IconifyIconData folderProtoOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderProtoOpen = IconifyIconData.duo(
     IconData(0xe283, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe283, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe283, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-public` (paint-order duotone)
-  static const IconifyIconData folderPublic = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPublic = IconifyIconData.duo(
     IconData(0xe284, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe284, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe284, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-public-open` (paint-order duotone)
-  static const IconifyIconData folderPublicOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPublicOpen = IconifyIconData.duo(
     IconData(0xe285, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe285, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe285, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-pytorch` (paint-order duotone)
-  static const IconifyIconData folderPytorch = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPytorch = IconifyIconData.duo(
     IconData(0xe286, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe286, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe286, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-pytorch-open` (paint-order duotone)
-  static const IconifyIconData folderPytorchOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderPytorchOpen = IconifyIconData.duo(
     IconData(0xe287, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe287, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe287, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-quasar` (paint-order duotone)
-  static const IconifyIconData folderQuasar = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderQuasar = IconifyIconData.duo(
     IconData(0xe288, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe288, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe288, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-quasar-open` (paint-order duotone)
-  static const IconifyIconData folderQuasarOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderQuasarOpen = IconifyIconData.duo(
     IconData(0xe289, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe289, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe289, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-queue` (paint-order duotone)
-  static const IconifyIconData folderQueue = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderQueue = IconifyIconData.duo(
     IconData(0xe28a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe28a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe28a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-queue-open` (paint-order duotone)
-  static const IconifyIconData folderQueueOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderQueueOpen = IconifyIconData.duo(
     IconData(0xe28b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe28b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe28b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-r` (paint-order duotone)
-  static const IconifyIconData folderR = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderR = IconifyIconData.duo(
     IconData(0xe28c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe28c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe28c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-r-open` (paint-order duotone)
-  static const IconifyIconData folderROpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderROpen = IconifyIconData.duo(
     IconData(0xe28d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe28d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe28d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-redux-reducer` (paint-order duotone)
-  static const IconifyIconData folderReduxReducer = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderReduxReducer = IconifyIconData.duo(
     IconData(0xe28e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe28e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe28e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-redux-reducer-open` (paint-order duotone)
-  static const IconifyIconData folderReduxReducerOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderReduxReducerOpen = IconifyIconData.duo(
     IconData(0xe28f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe28f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe28f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-repository` (paint-order duotone)
-  static const IconifyIconData folderRepository = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRepository = IconifyIconData.duo(
     IconData(0xe290, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe290, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe290, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-repository-open` (paint-order duotone)
-  static const IconifyIconData folderRepositoryOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRepositoryOpen = IconifyIconData.duo(
     IconData(0xe291, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe291, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe291, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-resolver` (paint-order duotone)
-  static const IconifyIconData folderResolver = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderResolver = IconifyIconData.duo(
     IconData(0xe292, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe292, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe292, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-resolver-open` (paint-order duotone)
-  static const IconifyIconData folderResolverOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderResolverOpen = IconifyIconData.duo(
     IconData(0xe293, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe293, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe293, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-resource` (paint-order duotone)
-  static const IconifyIconData folderResource = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderResource = IconifyIconData.duo(
     IconData(0xe0ae, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0ae, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0ae, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-resource-open` (paint-order duotone)
-  static const IconifyIconData folderResourceOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderResourceOpen = IconifyIconData.duo(
     IconData(0xe0af, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0af, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0af, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-review` (paint-order duotone)
-  static const IconifyIconData folderReview = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderReview = IconifyIconData.duo(
     IconData(0xe294, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe294, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe294, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-review-open` (paint-order duotone)
-  static const IconifyIconData folderReviewOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderReviewOpen = IconifyIconData.duo(
     IconData(0xe295, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe295, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe295, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-robot` (paint-order duotone)
-  static const IconifyIconData folderRobot = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRobot = IconifyIconData.duo(
     IconData(0xe296, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe296, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe296, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-robot-open` (paint-order duotone)
-  static const IconifyIconData folderRobotOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRobotOpen = IconifyIconData.duo(
     IconData(0xe297, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe297, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe297, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-routes` (paint-order duotone)
-  static const IconifyIconData folderRoutes = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRoutes = IconifyIconData.duo(
     IconData(0xe298, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe298, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe298, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-routes-open` (paint-order duotone)
-  static const IconifyIconData folderRoutesOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRoutesOpen = IconifyIconData.duo(
     IconData(0xe299, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe299, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe299, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-rules` (paint-order duotone)
-  static const IconifyIconData folderRules = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRules = IconifyIconData.duo(
     IconData(0xe29a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe29a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe29a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-rules-open` (paint-order duotone)
-  static const IconifyIconData folderRulesOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRulesOpen = IconifyIconData.duo(
     IconData(0xe29b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe29b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe29b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-rust` (paint-order duotone)
-  static const IconifyIconData folderRust = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRust = IconifyIconData.duo(
     IconData(0xe29c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe29c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe29c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-rust-open` (paint-order duotone)
-  static const IconifyIconData folderRustOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderRustOpen = IconifyIconData.duo(
     IconData(0xe29d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe29d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe29d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-salt` (paint-order duotone)
-  static const IconifyIconData folderSalt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSalt = IconifyIconData.duo(
     IconData(0xe29e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe29e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe29e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-salt-open` (paint-order duotone)
-  static const IconifyIconData folderSaltOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSaltOpen = IconifyIconData.duo(
     IconData(0xe29f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe29f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe29f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-sandbox` (paint-order duotone)
-  static const IconifyIconData folderSandbox = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSandbox = IconifyIconData.duo(
     IconData(0xe2a0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-sandbox-open` (paint-order duotone)
-  static const IconifyIconData folderSandboxOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSandboxOpen = IconifyIconData.duo(
     IconData(0xe2a1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-sass` (paint-order duotone)
-  static const IconifyIconData folderSass = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSass = IconifyIconData.duo(
     IconData(0xe2a2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-sass-open` (paint-order duotone)
-  static const IconifyIconData folderSassOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSassOpen = IconifyIconData.duo(
     IconData(0xe2a3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-scala` (paint-order duotone)
-  static const IconifyIconData folderScala = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderScala = IconifyIconData.duo(
     IconData(0xe2a4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-scala-open` (paint-order duotone)
-  static const IconifyIconData folderScalaOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderScalaOpen = IconifyIconData.duo(
     IconData(0xe2a5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-scons` (paint-order duotone)
-  static const IconifyIconData folderScons = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderScons = IconifyIconData.duo(
     IconData(0xe2a6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-scons-open` (paint-order duotone)
-  static const IconifyIconData folderSconsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSconsOpen = IconifyIconData.duo(
     IconData(0xe2a7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-scripts` (paint-order duotone)
-  static const IconifyIconData folderScripts = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderScripts = IconifyIconData.duo(
     IconData(0xe2a8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-scripts-open` (paint-order duotone)
-  static const IconifyIconData folderScriptsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderScriptsOpen = IconifyIconData.duo(
     IconData(0xe2a9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2a9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2a9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-secure` (paint-order duotone)
-  static const IconifyIconData folderSecure = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSecure = IconifyIconData.duo(
     IconData(0xe2aa, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2aa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2aa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-secure-open` (paint-order duotone)
-  static const IconifyIconData folderSecureOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSecureOpen = IconifyIconData.duo(
     IconData(0xe2ab, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ab, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ab, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-seeders` (duo-tone)
@@ -2747,585 +2747,585 @@ class MaterialIconThemeIcons {
   );
 
   /// `folder-server` (paint-order duotone)
-  static const IconifyIconData folderServer = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderServer = IconifyIconData.duo(
     IconData(0xe0b2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0b2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0b2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-server-open` (paint-order duotone)
-  static const IconifyIconData folderServerOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderServerOpen = IconifyIconData.duo(
     IconData(0xe0b3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0b3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0b3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-serverless` (paint-order duotone)
-  static const IconifyIconData folderServerless = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderServerless = IconifyIconData.duo(
     IconData(0xe2ac, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ac, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ac, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-serverless-open` (paint-order duotone)
-  static const IconifyIconData folderServerlessOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderServerlessOpen = IconifyIconData.duo(
     IconData(0xe2ad, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ad, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ad, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-shader` (paint-order duotone)
-  static const IconifyIconData folderShader = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderShader = IconifyIconData.duo(
     IconData(0xe0b4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0b4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0b4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-shader-open` (paint-order duotone)
-  static const IconifyIconData folderShaderOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderShaderOpen = IconifyIconData.duo(
     IconData(0xe0b5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0b5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0b5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-shared` (paint-order duotone)
-  static const IconifyIconData folderShared = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderShared = IconifyIconData.duo(
     IconData(0xe0b6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0b6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0b6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-shared-open` (paint-order duotone)
-  static const IconifyIconData folderSharedOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSharedOpen = IconifyIconData.duo(
     IconData(0xe0b7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0b7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0b7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-simulations` (paint-order duotone)
-  static const IconifyIconData folderSimulations = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSimulations = IconifyIconData.duo(
     IconData(0xe0b8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0b8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0b8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-simulations-open` (paint-order duotone)
-  static const IconifyIconData folderSimulationsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSimulationsOpen = IconifyIconData.duo(
     IconData(0xe0b9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0b9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0b9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-skills` (paint-order duotone)
-  static const IconifyIconData folderSkills = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSkills = IconifyIconData.duo(
     IconData(0xe0ba, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0ba, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0ba, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-skills-open` (paint-order duotone)
-  static const IconifyIconData folderSkillsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSkillsOpen = IconifyIconData.duo(
     IconData(0xe0bb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0bb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0bb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-snapcraft` (paint-order duotone)
-  static const IconifyIconData folderSnapcraft = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSnapcraft = IconifyIconData.duo(
     IconData(0xe0bc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0bc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0bc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-snapcraft-open` (paint-order duotone)
-  static const IconifyIconData folderSnapcraftOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSnapcraftOpen = IconifyIconData.duo(
     IconData(0xe0bd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0bd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0bd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-snippet` (paint-order duotone)
-  static const IconifyIconData folderSnippet = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSnippet = IconifyIconData.duo(
     IconData(0xe2ae, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ae, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ae, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-snippet-open` (paint-order duotone)
-  static const IconifyIconData folderSnippetOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSnippetOpen = IconifyIconData.duo(
     IconData(0xe2af, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2af, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2af, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-src` (paint-order duotone)
-  static const IconifyIconData folderSrc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSrc = IconifyIconData.duo(
     IconData(0xe2b0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-src-open` (paint-order duotone)
-  static const IconifyIconData folderSrcOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSrcOpen = IconifyIconData.duo(
     IconData(0xe2b1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-stack` (paint-order duotone)
-  static const IconifyIconData folderStack = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStack = IconifyIconData.duo(
     IconData(0xe2b2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-stack-open` (paint-order duotone)
-  static const IconifyIconData folderStackOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStackOpen = IconifyIconData.duo(
     IconData(0xe2b3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-stencil` (paint-order duotone)
-  static const IconifyIconData folderStencil = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStencil = IconifyIconData.duo(
     IconData(0xe2b4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-stencil-open` (paint-order duotone)
-  static const IconifyIconData folderStencilOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStencilOpen = IconifyIconData.duo(
     IconData(0xe2b5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-store` (paint-order duotone)
-  static const IconifyIconData folderStore = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStore = IconifyIconData.duo(
     IconData(0xe2b6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-store-open` (paint-order duotone)
-  static const IconifyIconData folderStoreOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStoreOpen = IconifyIconData.duo(
     IconData(0xe2b7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-storybook` (paint-order duotone)
-  static const IconifyIconData folderStorybook = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStorybook = IconifyIconData.duo(
     IconData(0xe2b8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-storybook-open` (paint-order duotone)
-  static const IconifyIconData folderStorybookOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStorybookOpen = IconifyIconData.duo(
     IconData(0xe2b9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2b9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2b9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-stylus` (paint-order duotone)
-  static const IconifyIconData folderStylus = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStylus = IconifyIconData.duo(
     IconData(0xe0be, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0be, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0be, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-stylus-open` (paint-order duotone)
-  static const IconifyIconData folderStylusOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderStylusOpen = IconifyIconData.duo(
     IconData(0xe0bf, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0bf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0bf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-sublime` (paint-order duotone)
-  static const IconifyIconData folderSublime = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSublime = IconifyIconData.duo(
     IconData(0xe2ba, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ba, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ba, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-sublime-open` (paint-order duotone)
-  static const IconifyIconData folderSublimeOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSublimeOpen = IconifyIconData.duo(
     IconData(0xe2bb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2bb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2bb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-supabase` (paint-order duotone)
-  static const IconifyIconData folderSupabase = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSupabase = IconifyIconData.duo(
     IconData(0xe2bc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2bc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2bc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-supabase-open` (paint-order duotone)
-  static const IconifyIconData folderSupabaseOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSupabaseOpen = IconifyIconData.duo(
     IconData(0xe2bd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2bd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2bd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-svelte` (paint-order duotone)
-  static const IconifyIconData folderSvelte = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSvelte = IconifyIconData.duo(
     IconData(0xe2be, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2be, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2be, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-svelte-open` (paint-order duotone)
-  static const IconifyIconData folderSvelteOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSvelteOpen = IconifyIconData.duo(
     IconData(0xe2bf, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2bf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2bf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-svg` (paint-order duotone)
-  static const IconifyIconData folderSvg = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSvg = IconifyIconData.duo(
     IconData(0xe2c0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-svg-open` (paint-order duotone)
-  static const IconifyIconData folderSvgOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSvgOpen = IconifyIconData.duo(
     IconData(0xe2c1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-syntax` (paint-order duotone)
-  static const IconifyIconData folderSyntax = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSyntax = IconifyIconData.duo(
     IconData(0xe2c2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-syntax-open` (paint-order duotone)
-  static const IconifyIconData folderSyntaxOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderSyntaxOpen = IconifyIconData.duo(
     IconData(0xe2c3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-target` (paint-order duotone)
-  static const IconifyIconData folderTarget = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTarget = IconifyIconData.duo(
     IconData(0xe2c4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-target-open` (paint-order duotone)
-  static const IconifyIconData folderTargetOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTargetOpen = IconifyIconData.duo(
     IconData(0xe2c5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-taskfile` (paint-order duotone)
-  static const IconifyIconData folderTaskfile = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTaskfile = IconifyIconData.duo(
     IconData(0xe0c0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-taskfile-open` (paint-order duotone)
-  static const IconifyIconData folderTaskfileOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTaskfileOpen = IconifyIconData.duo(
     IconData(0xe0c1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-tasks` (paint-order duotone)
-  static const IconifyIconData folderTasks = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTasks = IconifyIconData.duo(
     IconData(0xe0c2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-tasks-open` (paint-order duotone)
-  static const IconifyIconData folderTasksOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTasksOpen = IconifyIconData.duo(
     IconData(0xe0c3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-television` (paint-order duotone)
-  static const IconifyIconData folderTelevision = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTelevision = IconifyIconData.duo(
     IconData(0xe0c4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-television-open` (paint-order duotone)
-  static const IconifyIconData folderTelevisionOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTelevisionOpen = IconifyIconData.duo(
     IconData(0xe0c5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-temp` (paint-order duotone)
-  static const IconifyIconData folderTemp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTemp = IconifyIconData.duo(
     IconData(0xe0c6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-temp-open` (paint-order duotone)
-  static const IconifyIconData folderTempOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTempOpen = IconifyIconData.duo(
     IconData(0xe0c7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-template` (paint-order duotone)
-  static const IconifyIconData folderTemplate = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTemplate = IconifyIconData.duo(
     IconData(0xe2c6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-template-open` (paint-order duotone)
-  static const IconifyIconData folderTemplateOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTemplateOpen = IconifyIconData.duo(
     IconData(0xe2c7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-terraform` (paint-order duotone)
-  static const IconifyIconData folderTerraform = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTerraform = IconifyIconData.duo(
     IconData(0xe0c8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-terraform-open` (paint-order duotone)
-  static const IconifyIconData folderTerraformOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTerraformOpen = IconifyIconData.duo(
     IconData(0xe0c9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0c9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0c9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-test` (paint-order duotone)
-  static const IconifyIconData folderTest = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTest = IconifyIconData.duo(
     IconData(0xe0ca, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0ca, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0ca, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-test-open` (paint-order duotone)
-  static const IconifyIconData folderTestOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTestOpen = IconifyIconData.duo(
     IconData(0xe0cb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0cb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0cb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-theme` (paint-order duotone)
-  static const IconifyIconData folderTheme = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTheme = IconifyIconData.duo(
     IconData(0xe2c8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-theme-open` (paint-order duotone)
-  static const IconifyIconData folderThemeOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderThemeOpen = IconifyIconData.duo(
     IconData(0xe2c9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2c9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2c9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-toc` (paint-order duotone)
-  static const IconifyIconData folderToc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderToc = IconifyIconData.duo(
     IconData(0xe2ca, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ca, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ca, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-toc-open` (paint-order duotone)
-  static const IconifyIconData folderTocOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTocOpen = IconifyIconData.duo(
     IconData(0xe2cb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2cb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2cb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-tools` (paint-order duotone)
-  static const IconifyIconData folderTools = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTools = IconifyIconData.duo(
     IconData(0xe2cc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2cc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2cc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-tools-open` (paint-order duotone)
-  static const IconifyIconData folderToolsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderToolsOpen = IconifyIconData.duo(
     IconData(0xe2cd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2cd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2cd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-trash` (paint-order duotone)
-  static const IconifyIconData folderTrash = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTrash = IconifyIconData.duo(
     IconData(0xe2ce, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ce, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ce, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-trash-open` (paint-order duotone)
-  static const IconifyIconData folderTrashOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTrashOpen = IconifyIconData.duo(
     IconData(0xe2cf, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2cf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2cf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-trigger` (paint-order duotone)
-  static const IconifyIconData folderTrigger = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTrigger = IconifyIconData.duo(
     IconData(0xe0cc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0cc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0cc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-trigger-open` (paint-order duotone)
-  static const IconifyIconData folderTriggerOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTriggerOpen = IconifyIconData.duo(
     IconData(0xe0cd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0cd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0cd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-typescript` (paint-order duotone)
-  static const IconifyIconData folderTypescript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypescript = IconifyIconData.duo(
     IconData(0xe2d0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-typescript-open` (paint-order duotone)
-  static const IconifyIconData folderTypescriptOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypescriptOpen = IconifyIconData.duo(
     IconData(0xe2d1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-ui` (paint-order duotone)
-  static const IconifyIconData folderUi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUi = IconifyIconData.duo(
     IconData(0xe0ce, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0ce, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0ce, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-ui-open` (paint-order duotone)
-  static const IconifyIconData folderUiOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUiOpen = IconifyIconData.duo(
     IconData(0xe0cf, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0cf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0cf, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-unity` (paint-order duotone)
-  static const IconifyIconData folderUnity = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUnity = IconifyIconData.duo(
     IconData(0xe2d2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-unity-open` (paint-order duotone)
-  static const IconifyIconData folderUnityOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUnityOpen = IconifyIconData.duo(
     IconData(0xe2d3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-update` (paint-order duotone)
-  static const IconifyIconData folderUpdate = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUpdate = IconifyIconData.duo(
     IconData(0xe2d4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-update-open` (paint-order duotone)
-  static const IconifyIconData folderUpdateOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUpdateOpen = IconifyIconData.duo(
     IconData(0xe2d5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-upload` (paint-order duotone)
-  static const IconifyIconData folderUpload = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUpload = IconifyIconData.duo(
     IconData(0xe2d6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-upload-open` (paint-order duotone)
-  static const IconifyIconData folderUploadOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUploadOpen = IconifyIconData.duo(
     IconData(0xe2d7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-utils` (paint-order duotone)
-  static const IconifyIconData folderUtils = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUtils = IconifyIconData.duo(
     IconData(0xe2d8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-utils-open` (paint-order duotone)
-  static const IconifyIconData folderUtilsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderUtilsOpen = IconifyIconData.duo(
     IconData(0xe2d9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2d9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2d9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-vercel` (paint-order duotone)
-  static const IconifyIconData folderVercel = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderVercel = IconifyIconData.duo(
     IconData(0xe2da, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2da, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2da, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-vercel-open` (paint-order duotone)
-  static const IconifyIconData folderVercelOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderVercelOpen = IconifyIconData.duo(
     IconData(0xe2db, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2db, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2db, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-video` (paint-order duotone)
-  static const IconifyIconData folderVideo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderVideo = IconifyIconData.duo(
     IconData(0xe2dc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2dc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2dc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-video-open` (paint-order duotone)
-  static const IconifyIconData folderVideoOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderVideoOpen = IconifyIconData.duo(
     IconData(0xe2dd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2dd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2dd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-views` (paint-order duotone)
-  static const IconifyIconData folderViews = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderViews = IconifyIconData.duo(
     IconData(0xe2de, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2de, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2de, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-views-open` (paint-order duotone)
-  static const IconifyIconData folderViewsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderViewsOpen = IconifyIconData.duo(
     IconData(0xe2df, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2df, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2df, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-vm` (paint-order duotone)
-  static const IconifyIconData folderVm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderVm = IconifyIconData.duo(
     IconData(0xe2e0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-vm-open` (paint-order duotone)
-  static const IconifyIconData folderVmOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderVmOpen = IconifyIconData.duo(
     IconData(0xe2e1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-vscode` (paint-order duotone)
-  static const IconifyIconData folderVscode = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderVscode = IconifyIconData.duo(
     IconData(0xe0d0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0d0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0d0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-vscode-open` (paint-order duotone)
-  static const IconifyIconData folderVscodeOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderVscodeOpen = IconifyIconData.duo(
     IconData(0xe0d1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0d1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0d1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-wakatime` (paint-order duotone)
-  static const IconifyIconData folderWakatime = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderWakatime = IconifyIconData.duo(
     IconData(0xe2e2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-wakatime-open` (paint-order duotone)
-  static const IconifyIconData folderWakatimeOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderWakatimeOpen = IconifyIconData.duo(
     IconData(0xe2e3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-windows` (paint-order duotone)
-  static const IconifyIconData folderWindows = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderWindows = IconifyIconData.duo(
     IconData(0xe2e4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-windows-open` (paint-order duotone)
-  static const IconifyIconData folderWindowsOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderWindowsOpen = IconifyIconData.duo(
     IconData(0xe2e5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-wordpress` (paint-order duotone)
-  static const IconifyIconData folderWordpress = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderWordpress = IconifyIconData.duo(
     IconData(0xe2e6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-wordpress-open` (paint-order duotone)
-  static const IconifyIconData folderWordpressOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderWordpressOpen = IconifyIconData.duo(
     IconData(0xe2e7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-yarn` (paint-order duotone)
-  static const IconifyIconData folderYarn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderYarn = IconifyIconData.duo(
     IconData(0xe2e8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-yarn-open` (paint-order duotone)
-  static const IconifyIconData folderYarnOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderYarnOpen = IconifyIconData.duo(
     IconData(0xe2e9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2e9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2e9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-zed` (paint-order duotone)
-  static const IconifyIconData folderZed = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderZed = IconifyIconData.duo(
     IconData(0xe2ea, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ea, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ea, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-zed-open` (paint-order duotone)
-  static const IconifyIconData folderZedOpen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderZedOpen = IconifyIconData.duo(
     IconData(0xe2eb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2eb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2eb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fsharp` (paint-order duotone)
-  static const IconifyIconData fsharp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fsharp = IconifyIconData.duo(
     IconData(0xe0d2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0d2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0d2, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gamemaker`
@@ -3334,9 +3334,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `gatsby` (paint-order duotone)
-  static const IconifyIconData gatsby = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gatsby = IconifyIconData.duo(
     IconData(0xe0d4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0d4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0d4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `git`
@@ -3470,9 +3470,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `jsconfig` (paint-order duotone)
-  static const IconifyIconData jsconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData jsconfig = IconifyIconData.duo(
     IconData(0xe2ec, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ec, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ec, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `json`
@@ -3486,15 +3486,15 @@ class MaterialIconThemeIcons {
   );
 
   /// `jsr-light` (paint-order duotone)
-  static const IconifyIconData jsrLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData jsrLight = IconifyIconData.duo(
     IconData(0xe2ed, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ed, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ed, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `karma` (paint-order duotone)
-  static const IconifyIconData karma = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData karma = IconifyIconData.duo(
     IconData(0xe2ee, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ee, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ee, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `key`
@@ -3518,9 +3518,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `lefthook` (paint-order duotone)
-  static const IconifyIconData lefthook = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lefthook = IconifyIconData.duo(
     IconData(0xe2ef, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ef, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ef, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lib`
@@ -3559,9 +3559,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `luau` (paint-order duotone)
-  static const IconifyIconData luau = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData luau = IconifyIconData.duo(
     IconData(0xe0fd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0fd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe0fd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lynx`
@@ -3575,21 +3575,21 @@ class MaterialIconThemeIcons {
   );
 
   /// `macaulay2` (paint-order duotone)
-  static const IconifyIconData macaulay2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData macaulay2 = IconifyIconData.duo(
     IconData(0xe100, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe100, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe100, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `markdoc` (paint-order duotone)
-  static const IconifyIconData markdoc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData markdoc = IconifyIconData.duo(
     IconData(0xe2f0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2f0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2f0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `markdoc-config` (paint-order duotone)
-  static const IconifyIconData markdocConfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData markdocConfig = IconifyIconData.duo(
     IconData(0xe2f1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2f1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2f1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `markdown`
@@ -3648,15 +3648,15 @@ class MaterialIconThemeIcons {
   );
 
   /// `netlify` (paint-order duotone)
-  static const IconifyIconData netlify = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData netlify = IconifyIconData.duo(
     IconData(0xe10d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe10d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe10d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `netlify-light` (paint-order duotone)
-  static const IconifyIconData netlifyLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData netlifyLight = IconifyIconData.duo(
     IconData(0xe2f3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2f3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2f3, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `next`
@@ -3695,9 +3695,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `nix` (paint-order duotone)
-  static const IconifyIconData nix = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nix = IconifyIconData.duo(
     IconData(0xe115, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe115, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe115, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nodejs`
@@ -3791,9 +3791,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `pinejs` (paint-order duotone)
-  static const IconifyIconData pinejs = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pinejs = IconifyIconData.duo(
     IconData(0xe2f4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2f4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2f4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pipeline`
@@ -3802,21 +3802,21 @@ class MaterialIconThemeIcons {
   );
 
   /// `playwright` (paint-order duotone)
-  static const IconifyIconData playwright = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData playwright = IconifyIconData.duo(
     IconData(0xe2f5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2f5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2f5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pnpm` (paint-order duotone)
-  static const IconifyIconData pnpm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pnpm = IconifyIconData.duo(
     IconData(0xe2f6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2f6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2f6, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pnpm-light` (paint-order duotone)
-  static const IconifyIconData pnpmLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pnpmLight = IconifyIconData.duo(
     IconData(0xe2f7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2f7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2f7, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `posthtml`
@@ -3865,9 +3865,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `python` (paint-order duotone)
-  static const IconifyIconData python = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData python = IconifyIconData.duo(
     IconData(0xe2f8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2f8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2f8, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `qsharp`
@@ -3881,9 +3881,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `racket` (paint-order duotone)
-  static const IconifyIconData racket = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData racket = IconifyIconData.duo(
     IconData(0xe2f9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2f9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2f9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `raml`
@@ -3947,9 +3947,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `rome` (paint-order duotone)
-  static const IconifyIconData rome = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rome = IconifyIconData.duo(
     IconData(0xe2fa, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2fa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2fa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `routing`
@@ -3963,15 +3963,15 @@ class MaterialIconThemeIcons {
   );
 
   /// `rubocop` (paint-order duotone)
-  static const IconifyIconData rubocop = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rubocop = IconifyIconData.duo(
     IconData(0xe2fb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2fb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2fb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rubocop-light` (paint-order duotone)
-  static const IconifyIconData rubocopLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rubocopLight = IconifyIconData.duo(
     IconData(0xe2fc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2fc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2fc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ruff`
@@ -3990,9 +3990,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `san` (paint-order duotone)
-  static const IconifyIconData san = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData san = IconifyIconData.duo(
     IconData(0xe2fd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2fd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2fd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sbt`
@@ -4001,15 +4001,15 @@ class MaterialIconThemeIcons {
   );
 
   /// `scons` (paint-order duotone)
-  static const IconifyIconData scons = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData scons = IconifyIconData.duo(
     IconData(0xe2fe, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2fe, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2fe, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `scons-light` (paint-order duotone)
-  static const IconifyIconData sconsLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sconsLight = IconifyIconData.duo(
     IconData(0xe2ff, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe2ff, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe2ff, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `search`
@@ -4043,9 +4043,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `siyuan` (paint-order duotone)
-  static const IconifyIconData siyuan = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData siyuan = IconifyIconData.duo(
     IconData(0xe300, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe300, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe300, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sketch`
@@ -4069,9 +4069,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `snapcraft` (paint-order duotone)
-  static const IconifyIconData snapcraft = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData snapcraft = IconifyIconData.duo(
     IconData(0xe301, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe301, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe301, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `snowpack`
@@ -4095,9 +4095,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `storybook` (paint-order duotone)
-  static const IconifyIconData storybook = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData storybook = IconifyIconData.duo(
     IconData(0xe302, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe302, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe302, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `stylus`
@@ -4126,27 +4126,27 @@ class MaterialIconThemeIcons {
   );
 
   /// `sway` (paint-order duotone)
-  static const IconifyIconData sway = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sway = IconifyIconData.duo(
     IconData(0xe303, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe303, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe303, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `syncpack` (paint-order duotone)
-  static const IconifyIconData syncpack = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData syncpack = IconifyIconData.duo(
     IconData(0xe304, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe304, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe304, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `systemd` (paint-order duotone)
-  static const IconifyIconData systemd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData systemd = IconifyIconData.duo(
     IconData(0xe159, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe159, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe159, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `systemd-light` (paint-order duotone)
-  static const IconifyIconData systemdLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData systemdLight = IconifyIconData.duo(
     IconData(0xe305, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe305, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe305, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `table`
@@ -4160,15 +4160,15 @@ class MaterialIconThemeIcons {
   );
 
   /// `tauri` (paint-order duotone)
-  static const IconifyIconData tauri = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tauri = IconifyIconData.duo(
     IconData(0xe15d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe15d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe15d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `taze` (paint-order duotone)
-  static const IconifyIconData taze = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData taze = IconifyIconData.duo(
     IconData(0xe306, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe306, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe306, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `teal`
@@ -4207,9 +4207,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `textlint` (paint-order duotone)
-  static const IconifyIconData textlint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData textlint = IconifyIconData.duo(
     IconData(0xe307, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe307, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe307, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tilt`
@@ -4223,21 +4223,21 @@ class MaterialIconThemeIcons {
   );
 
   /// `tobimake` (paint-order duotone)
-  static const IconifyIconData tobimake = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tobimake = IconifyIconData.duo(
     IconData(0xe308, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe308, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe308, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `toml` (paint-order duotone)
-  static const IconifyIconData toml = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData toml = IconifyIconData.duo(
     IconData(0xe309, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe309, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe309, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `toml-light` (paint-order duotone)
-  static const IconifyIconData tomlLight = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tomlLight = IconifyIconData.duo(
     IconData(0xe30a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe30a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe30a, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `trigger`
@@ -4246,9 +4246,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `tsconfig` (paint-order duotone)
-  static const IconifyIconData tsconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tsconfig = IconifyIconData.duo(
     IconData(0xe30b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe30b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe30b, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tsdoc`
@@ -4267,9 +4267,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `twine` (paint-order duotone)
-  static const IconifyIconData twine = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData twine = IconifyIconData.duo(
     IconData(0xe30c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe30c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe30c, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `typst`
@@ -4298,15 +4298,15 @@ class MaterialIconThemeIcons {
   );
 
   /// `vagrant` (paint-order duotone)
-  static const IconifyIconData vagrant = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vagrant = IconifyIconData.duo(
     IconData(0xe30d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe30d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe30d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `velite` (paint-order duotone)
-  static const IconifyIconData velite = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData velite = IconifyIconData.duo(
     IconData(0xe170, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe170, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe170, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `velocity`
@@ -4320,9 +4320,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `verdaccio` (paint-order duotone)
-  static const IconifyIconData verdaccio = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData verdaccio = IconifyIconData.duo(
     IconData(0xe30e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe30e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe30e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `verified`
@@ -4361,21 +4361,21 @@ class MaterialIconThemeIcons {
   );
 
   /// `vlang` (paint-order duotone)
-  static const IconifyIconData vlang = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vlang = IconifyIconData.duo(
     IconData(0xe30f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe30f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe30f, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `vue` (paint-order duotone)
-  static const IconifyIconData vue = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vue = IconifyIconData.duo(
     IconData(0xe310, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe310, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe310, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `vuex-store` (paint-order duotone)
-  static const IconifyIconData vuexStore = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vuexStore = IconifyIconData.duo(
     IconData(0xe311, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe311, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe311, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wakatime`
@@ -4399,9 +4399,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `watchman` (paint-order duotone)
-  static const IconifyIconData watchman = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData watchman = IconifyIconData.duo(
     IconData(0xe17e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe17e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe17e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `webassembly`
@@ -4420,9 +4420,9 @@ class MaterialIconThemeIcons {
   );
 
   /// `wrangler` (paint-order duotone)
-  static const IconifyIconData wrangler = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wrangler = IconifyIconData.duo(
     IconData(0xe182, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe182, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe182, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `xaml`

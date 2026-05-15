@@ -17,9 +17,9 @@ class TokenBrandedIcons {
   const TokenBrandedIcons._();
 
   /// `0x0` (paint-order duotone)
-  static const IconifyIconData n0x0 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData n0x0 = IconifyIconData.duo(
     IconData(0xe000, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe000, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe000, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `0xgas`
@@ -164,9 +164,9 @@ class TokenBrandedIcons {
   );
 
   /// `aevo` (paint-order duotone)
-  static const IconifyIconData aevo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData aevo = IconifyIconData.duo(
     IconData(0xe01d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe01d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe01d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `agix`
@@ -175,9 +175,9 @@ class TokenBrandedIcons {
   );
 
   /// `agla` (paint-order duotone)
-  static const IconifyIconData agla = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData agla = IconifyIconData.duo(
     IconData(0xe01f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe01f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe01f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `agld`
@@ -196,9 +196,9 @@ class TokenBrandedIcons {
   );
 
   /// `ai` (paint-order duotone)
-  static const IconifyIconData ai = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ai = IconifyIconData.duo(
     IconData(0xe63b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe63b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe63b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `aimbot`
@@ -237,9 +237,9 @@ class TokenBrandedIcons {
   );
 
   /// `akt` (paint-order duotone)
-  static const IconifyIconData akt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData akt = IconifyIconData.duo(
     IconData(0xe63c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe63c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe63c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `alcx`
@@ -283,15 +283,15 @@ class TokenBrandedIcons {
   );
 
   /// `alpaca` (paint-order duotone)
-  static const IconifyIconData alpaca = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alpaca = IconifyIconData.duo(
     IconData(0xe032, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe032, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe032, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `alph` (paint-order duotone)
-  static const IconifyIconData alph = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alph = IconifyIconData.duo(
     IconData(0xe63d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe63d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe63d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `alpha`
@@ -455,9 +455,9 @@ class TokenBrandedIcons {
   );
 
   /// `asd` (paint-order duotone)
-  static const IconifyIconData asd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData asd = IconifyIconData.duo(
     IconData(0xe053, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe053, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe053, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `asia`
@@ -466,9 +466,9 @@ class TokenBrandedIcons {
   );
 
   /// `asm` (paint-order duotone)
-  static const IconifyIconData asm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData asm = IconifyIconData.duo(
     IconData(0xe055, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe055, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe055, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ast`
@@ -502,9 +502,9 @@ class TokenBrandedIcons {
   );
 
   /// `atlas` (paint-order duotone)
-  static const IconifyIconData atlas = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData atlas = IconifyIconData.duo(
     IconData(0xe05c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe05c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe05c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `atomic`
@@ -513,9 +513,9 @@ class TokenBrandedIcons {
   );
 
   /// `atpay` (paint-order duotone)
-  static const IconifyIconData atpay = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData atpay = IconifyIconData.duo(
     IconData(0xe05e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe05e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe05e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `atr`
@@ -654,15 +654,15 @@ class TokenBrandedIcons {
   );
 
   /// `bax` (paint-order duotone)
-  static const IconifyIconData bax = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bax = IconifyIconData.duo(
     IconData(0xe07a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe07a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe07a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bbank` (paint-order duotone)
-  static const IconifyIconData bbank = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bbank = IconifyIconData.duo(
     IconData(0xe63e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe63e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe63e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bbl`
@@ -676,9 +676,9 @@ class TokenBrandedIcons {
   );
 
   /// `bcd` (paint-order duotone)
-  static const IconifyIconData bcd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bcd = IconifyIconData.duo(
     IconData(0xe07d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe07d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe07d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bcdt`
@@ -697,9 +697,9 @@ class TokenBrandedIcons {
   );
 
   /// `bct` (paint-order duotone)
-  static const IconifyIconData bct = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bct = IconifyIconData.duo(
     IconData(0xe081, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe081, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe081, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bcube`
@@ -738,15 +738,15 @@ class TokenBrandedIcons {
   );
 
   /// `bel` (paint-order duotone)
-  static const IconifyIconData bel = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bel = IconifyIconData.duo(
     IconData(0xe089, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe089, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe089, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bepro` (paint-order duotone)
-  static const IconifyIconData bepro = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bepro = IconifyIconData.duo(
     IconData(0xe08a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe08a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe08a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `berry`
@@ -780,9 +780,9 @@ class TokenBrandedIcons {
   );
 
   /// `bico` (paint-order duotone)
-  static const IconifyIconData bico = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bico = IconifyIconData.duo(
     IconData(0xe63f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe63f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe63f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bigsb`
@@ -881,9 +881,9 @@ class TokenBrandedIcons {
   );
 
   /// `blxm` (paint-order duotone)
-  static const IconifyIconData blxm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData blxm = IconifyIconData.duo(
     IconData(0xe640, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe640, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe640, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bmex`
@@ -892,9 +892,9 @@ class TokenBrandedIcons {
   );
 
   /// `bmx` (paint-order duotone)
-  static const IconifyIconData bmx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bmx = IconifyIconData.duo(
     IconData(0xe0a5, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0a5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0a5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bnb`
@@ -958,9 +958,9 @@ class TokenBrandedIcons {
   );
 
   /// `botanix` (paint-order duotone)
-  static const IconifyIconData botanix = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData botanix = IconifyIconData.duo(
     IconData(0xe0b2, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0b2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0b2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `botto`
@@ -999,9 +999,9 @@ class TokenBrandedIcons {
   );
 
   /// `bridge` (paint-order duotone)
-  static const IconifyIconData bridge = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bridge = IconifyIconData.duo(
     IconData(0xe0ba, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0ba, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0ba, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `brise`
@@ -1015,9 +1015,9 @@ class TokenBrandedIcons {
   );
 
   /// `brock` (paint-order duotone)
-  static const IconifyIconData brock = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData brock = IconifyIconData.duo(
     IconData(0xe0bd, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0bd, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0bd, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `brush`
@@ -1031,9 +1031,9 @@ class TokenBrandedIcons {
   );
 
   /// `bscpad` (paint-order duotone)
-  static const IconifyIconData bscpad = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bscpad = IconifyIconData.duo(
     IconData(0xe0c0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0c0, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0c0, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bscs`
@@ -1042,15 +1042,15 @@ class TokenBrandedIcons {
   );
 
   /// `bsgg` (paint-order duotone)
-  static const IconifyIconData bsgg = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bsgg = IconifyIconData.duo(
     IconData(0xe0c2, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0c2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0c2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bst` (paint-order duotone)
-  static const IconifyIconData bst = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bst = IconifyIconData.duo(
     IconData(0xe641, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe641, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe641, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bsw`
@@ -1124,9 +1124,9 @@ class TokenBrandedIcons {
   );
 
   /// `bump` (paint-order duotone)
-  static const IconifyIconData bump = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bump = IconifyIconData.duo(
     IconData(0xe642, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe642, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe642, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `busd`
@@ -1150,15 +1150,15 @@ class TokenBrandedIcons {
   );
 
   /// `bybit` (paint-order duotone)
-  static const IconifyIconData bybit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bybit = IconifyIconData.duo(
     IconData(0xe643, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe643, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe643, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bzr` (paint-order duotone)
-  static const IconifyIconData bzr = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bzr = IconifyIconData.duo(
     IconData(0xe0d5, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0d5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0d5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bzrx`
@@ -1202,15 +1202,15 @@ class TokenBrandedIcons {
   );
 
   /// `carbon` (paint-order duotone)
-  static const IconifyIconData carbon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData carbon = IconifyIconData.duo(
     IconData(0xe0de, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0de, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0de, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `card` (paint-order duotone)
-  static const IconifyIconData card = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData card = IconifyIconData.duo(
     IconData(0xe0df, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0df, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0df, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cast`
@@ -1240,9 +1240,9 @@ class TokenBrandedIcons {
   );
 
   /// `cbx` (paint-order duotone)
-  static const IconifyIconData cbx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cbx = IconifyIconData.duo(
     IconData(0xe0e5, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0e5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0e5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cby`
@@ -1301,9 +1301,9 @@ class TokenBrandedIcons {
   );
 
   /// `cetus` (paint-order duotone)
-  static const IconifyIconData cetus = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cetus = IconifyIconData.duo(
     IconData(0xe0f1, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0f1, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0f1, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ceur`
@@ -1372,9 +1372,9 @@ class TokenBrandedIcons {
   );
 
   /// `cho` (paint-order duotone)
-  static const IconifyIconData cho = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cho = IconifyIconData.duo(
     IconData(0xe0ff, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe0ff, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe0ff, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `chr`
@@ -1388,9 +1388,9 @@ class TokenBrandedIcons {
   );
 
   /// `chz` (paint-order duotone)
-  static const IconifyIconData chz = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData chz = IconifyIconData.duo(
     IconData(0xe102, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe102, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe102, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cirus`
@@ -1454,9 +1454,9 @@ class TokenBrandedIcons {
   );
 
   /// `cnd` (paint-order duotone)
-  static const IconifyIconData cnd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cnd = IconifyIconData.duo(
     IconData(0xe10f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe10f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe10f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cnfi`
@@ -1470,21 +1470,21 @@ class TokenBrandedIcons {
   );
 
   /// `cnht` (paint-order duotone)
-  static const IconifyIconData cnht = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cnht = IconifyIconData.duo(
     IconData(0xe112, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe112, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe112, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `coinbase` (paint-order duotone)
-  static const IconifyIconData coinbase = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData coinbase = IconifyIconData.duo(
     IconData(0xe113, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe113, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe113, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `coinex-smart-chain` (paint-order duotone)
-  static const IconifyIconData coinexSmartChain = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData coinexSmartChain = IconifyIconData.duo(
     IconData(0xe114, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe114, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe114, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `col`
@@ -1498,15 +1498,15 @@ class TokenBrandedIcons {
   );
 
   /// `conflux` (paint-order duotone)
-  static const IconifyIconData conflux = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData conflux = IconifyIconData.duo(
     IconData(0xe117, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe117, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe117, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `conv` (paint-order duotone)
-  static const IconifyIconData conv = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData conv = IconifyIconData.duo(
     IconData(0xe644, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe644, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe644, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cope`
@@ -1525,9 +1525,9 @@ class TokenBrandedIcons {
   );
 
   /// `corn` (paint-order duotone)
-  static const IconifyIconData corn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData corn = IconifyIconData.duo(
     IconData(0xe645, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe645, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe645, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cos`
@@ -1621,9 +1621,9 @@ class TokenBrandedIcons {
   );
 
   /// `cru` (paint-order duotone)
-  static const IconifyIconData cru = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cru = IconifyIconData.duo(
     IconData(0xe12d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe12d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe12d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `crv`
@@ -1637,9 +1637,9 @@ class TokenBrandedIcons {
   );
 
   /// `crypto-com` (paint-order duotone)
-  static const IconifyIconData cryptoCom = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cryptoCom = IconifyIconData.duo(
     IconData(0xe130, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe130, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe130, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `csix`
@@ -1703,9 +1703,9 @@ class TokenBrandedIcons {
   );
 
   /// `cuminu` (paint-order duotone)
-  static const IconifyIconData cuminu = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cuminu = IconifyIconData.duo(
     IconData(0xe646, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe646, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe646, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cummies`
@@ -1724,9 +1724,9 @@ class TokenBrandedIcons {
   );
 
   /// `cvp` (paint-order duotone)
-  static const IconifyIconData cvp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cvp = IconifyIconData.duo(
     IconData(0xe647, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe647, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe647, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cvr`
@@ -1745,9 +1745,9 @@ class TokenBrandedIcons {
   );
 
   /// `cws` (paint-order duotone)
-  static const IconifyIconData cws = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cws = IconifyIconData.duo(
     IconData(0xe143, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe143, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe143, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cxo`
@@ -1886,9 +1886,9 @@ class TokenBrandedIcons {
   );
 
   /// `dext` (paint-order duotone)
-  static const IconifyIconData dext = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dext = IconifyIconData.duo(
     IconData(0xe15f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe15f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe15f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dextf`
@@ -1897,9 +1897,9 @@ class TokenBrandedIcons {
   );
 
   /// `df` (paint-order duotone)
-  static const IconifyIconData df = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData df = IconifyIconData.duo(
     IconData(0xe648, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe648, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe648, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dfi`
@@ -1923,9 +1923,9 @@ class TokenBrandedIcons {
   );
 
   /// `dgnx` (paint-order duotone)
-  static const IconifyIconData dgnx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dgnx = IconifyIconData.duo(
     IconData(0xe649, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe649, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe649, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dgx`
@@ -2029,9 +2029,9 @@ class TokenBrandedIcons {
   );
 
   /// `dose` (paint-order duotone)
-  static const IconifyIconData dose = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dose = IconifyIconData.duo(
     IconData(0xe64a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe64a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe64a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dpet`
@@ -2040,9 +2040,9 @@ class TokenBrandedIcons {
   );
 
   /// `dps` (paint-order duotone)
-  static const IconifyIconData dps = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dps = IconifyIconData.duo(
     IconData(0xe64b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe64b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe64b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dpx`
@@ -2076,9 +2076,9 @@ class TokenBrandedIcons {
   );
 
   /// `dua` (paint-order duotone)
-  static const IconifyIconData dua = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dua = IconifyIconData.duo(
     IconData(0xe180, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe180, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe180, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dusk`
@@ -2102,9 +2102,9 @@ class TokenBrandedIcons {
   );
 
   /// `dvpn` (paint-order duotone)
-  static const IconifyIconData dvpn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dvpn = IconifyIconData.duo(
     IconData(0xe64c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe64c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe64c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dweb`
@@ -2133,9 +2133,9 @@ class TokenBrandedIcons {
   );
 
   /// `dyp` (paint-order duotone)
-  static const IconifyIconData dyp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dyp = IconifyIconData.duo(
     IconData(0xe18a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe18a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe18a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dzoo`
@@ -2339,9 +2339,9 @@ class TokenBrandedIcons {
   );
 
   /// `es` (paint-order duotone)
-  static const IconifyIconData es = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData es = IconifyIconData.duo(
     IconData(0xe1b3, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe1b3, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe1b3, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `eth`
@@ -2385,9 +2385,9 @@ class TokenBrandedIcons {
   );
 
   /// `etn` (paint-order duotone)
-  static const IconifyIconData etn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData etn = IconifyIconData.duo(
     IconData(0xe1bc, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe1bc, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe1bc, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `etp`
@@ -2406,9 +2406,9 @@ class TokenBrandedIcons {
   );
 
   /// `eurc` (paint-order duotone)
-  static const IconifyIconData eurc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData eurc = IconifyIconData.duo(
     IconData(0xe1c0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe1c0, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe1c0, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `euroe`
@@ -2452,9 +2452,9 @@ class TokenBrandedIcons {
   );
 
   /// `exd` (paint-order duotone)
-  static const IconifyIconData exd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData exd = IconifyIconData.duo(
     IconData(0xe64d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe64d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe64d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `exodus`
@@ -2508,9 +2508,9 @@ class TokenBrandedIcons {
   );
 
   /// `fdusd` (paint-order duotone)
-  static const IconifyIconData fdusd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fdusd = IconifyIconData.duo(
     IconData(0xe1d3, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe1d3, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe1d3, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fear`
@@ -2644,9 +2644,9 @@ class TokenBrandedIcons {
   );
 
   /// `forex` (paint-order duotone)
-  static const IconifyIconData forex = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData forex = IconifyIconData.duo(
     IconData(0xe64e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe64e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe64e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `forth`
@@ -2735,9 +2735,9 @@ class TokenBrandedIcons {
   );
 
   /// `fx` (paint-order duotone)
-  static const IconifyIconData fx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fx = IconifyIconData.duo(
     IconData(0xe1ff, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe1ff, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe1ff, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fxs`
@@ -2816,9 +2816,9 @@ class TokenBrandedIcons {
   );
 
   /// `gate-io` (paint-order duotone)
-  static const IconifyIconData gateIo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gateIo = IconifyIconData.duo(
     IconData(0xe64f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe64f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe64f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gbex`
@@ -2882,9 +2882,9 @@ class TokenBrandedIcons {
   );
 
   /// `ghny` (paint-order duotone)
-  static const IconifyIconData ghny = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ghny = IconifyIconData.duo(
     IconData(0xe21b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe21b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe21b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gho`
@@ -2908,9 +2908,9 @@ class TokenBrandedIcons {
   );
 
   /// `glmr` (paint-order duotone)
-  static const IconifyIconData glmr = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData glmr = IconifyIconData.duo(
     IconData(0xe220, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe220, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe220, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `glow`
@@ -2954,9 +2954,9 @@ class TokenBrandedIcons {
   );
 
   /// `go` (paint-order duotone)
-  static const IconifyIconData go = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData go = IconifyIconData.duo(
     IconData(0xe229, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe229, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe229, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gods`
@@ -2990,9 +2990,9 @@ class TokenBrandedIcons {
   );
 
   /// `goz` (paint-order duotone)
-  static const IconifyIconData goz = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData goz = IconifyIconData.duo(
     IconData(0xe230, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe230, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe230, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gpcx`
@@ -3036,9 +3036,9 @@ class TokenBrandedIcons {
   );
 
   /// `grnd` (paint-order duotone)
-  static const IconifyIconData grnd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData grnd = IconifyIconData.duo(
     IconData(0xe239, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe239, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe239, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `grt`
@@ -3067,9 +3067,9 @@ class TokenBrandedIcons {
   );
 
   /// `gtc` (paint-order duotone)
-  static const IconifyIconData gtc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gtc = IconifyIconData.duo(
     IconData(0xe650, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe650, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe650, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `guild`
@@ -3124,9 +3124,9 @@ class TokenBrandedIcons {
   );
 
   /// `hair` (paint-order duotone)
-  static const IconifyIconData hair = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hair = IconifyIconData.duo(
     IconData(0xe249, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe249, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe249, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `haka`
@@ -3170,15 +3170,15 @@ class TokenBrandedIcons {
   );
 
   /// `hedera` (paint-order duotone)
-  static const IconifyIconData hedera = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hedera = IconifyIconData.duo(
     IconData(0xe252, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe252, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe252, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hedera-hashgraph` (paint-order duotone)
-  static const IconifyIconData hederaHashgraph = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hederaHashgraph = IconifyIconData.duo(
     IconData(0xe253, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe253, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe253, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hegic`
@@ -3212,9 +3212,9 @@ class TokenBrandedIcons {
   );
 
   /// `hez` (paint-order duotone)
-  static const IconifyIconData hez = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hez = IconifyIconData.duo(
     IconData(0xe25a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe25a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe25a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hft`
@@ -3233,9 +3233,9 @@ class TokenBrandedIcons {
   );
 
   /// `hid` (paint-order duotone)
-  static const IconifyIconData hid = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hid = IconifyIconData.duo(
     IconData(0xe25e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe25e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe25e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hilo`
@@ -3299,21 +3299,21 @@ class TokenBrandedIcons {
   );
 
   /// `hpo` (paint-order duotone)
-  static const IconifyIconData hpo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hpo = IconifyIconData.duo(
     IconData(0xe26b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe26b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe26b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hst` (paint-order duotone)
-  static const IconifyIconData hst = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hst = IconifyIconData.duo(
     IconData(0xe651, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe651, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe651, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ht` (paint-order duotone)
-  static const IconifyIconData ht = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ht = IconifyIconData.duo(
     IconData(0xe26c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe26c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe26c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `htm`
@@ -3357,9 +3357,9 @@ class TokenBrandedIcons {
   );
 
   /// `hvh` (paint-order duotone)
-  static const IconifyIconData hvh = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hvh = IconifyIconData.duo(
     IconData(0xe275, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe275, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe275, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hxd`
@@ -3368,15 +3368,15 @@ class TokenBrandedIcons {
   );
 
   /// `hxro` (paint-order duotone)
-  static const IconifyIconData hxro = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hxro = IconifyIconData.duo(
     IconData(0xe277, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe277, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe277, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hydra` (paint-order duotone)
-  static const IconifyIconData hydra = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hydra = IconifyIconData.duo(
     IconData(0xe652, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe652, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe652, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hyper-evm`
@@ -3385,9 +3385,9 @@ class TokenBrandedIcons {
   );
 
   /// `hzn` (paint-order duotone)
-  static const IconifyIconData hzn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hzn = IconifyIconData.duo(
     IconData(0xe279, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe279, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe279, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ibat`
@@ -3416,9 +3416,9 @@ class TokenBrandedIcons {
   );
 
   /// `idea` (paint-order duotone)
-  static const IconifyIconData idea = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData idea = IconifyIconData.duo(
     IconData(0xe653, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe653, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe653, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `idex`
@@ -3427,9 +3427,9 @@ class TokenBrandedIcons {
   );
 
   /// `idia` (paint-order duotone)
-  static const IconifyIconData idia = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData idia = IconifyIconData.duo(
     IconData(0xe280, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe280, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe280, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `idle`
@@ -3513,9 +3513,9 @@ class TokenBrandedIcons {
   );
 
   /// `insur` (paint-order duotone)
-  static const IconifyIconData insur = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData insur = IconifyIconData.duo(
     IconData(0xe291, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe291, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe291, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `int`
@@ -3529,15 +3529,15 @@ class TokenBrandedIcons {
   );
 
   /// `inv` (paint-order duotone)
-  static const IconifyIconData inv = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData inv = IconifyIconData.duo(
     IconData(0xe654, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe654, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe654, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ion` (paint-order duotone)
-  static const IconifyIconData ion = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ion = IconifyIconData.duo(
     IconData(0xe294, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe294, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe294, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ionx`
@@ -3571,9 +3571,9 @@ class TokenBrandedIcons {
   );
 
   /// `iq` (paint-order duotone)
-  static const IconifyIconData iq = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData iq = IconifyIconData.duo(
     IconData(0xe655, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe655, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe655, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `iris`
@@ -3607,9 +3607,9 @@ class TokenBrandedIcons {
   );
 
   /// `ixt` (paint-order duotone)
-  static const IconifyIconData ixt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ixt = IconifyIconData.duo(
     IconData(0xe656, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe656, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe656, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `japan-open-chain`
@@ -3663,15 +3663,15 @@ class TokenBrandedIcons {
   );
 
   /// `jungle4eos` (paint-order duotone)
-  static const IconifyIconData jungle4eos = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData jungle4eos = IconifyIconData.duo(
     IconData(0xe657, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe657, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe657, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `juno` (paint-order duotone)
-  static const IconifyIconData juno = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData juno = IconifyIconData.duo(
     IconData(0xe658, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe658, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe658, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `jup`
@@ -3680,9 +3680,9 @@ class TokenBrandedIcons {
   );
 
   /// `juris` (paint-order duotone)
-  static const IconifyIconData juris = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData juris = IconifyIconData.duo(
     IconData(0xe2ac, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe2ac, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe2ac, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `k21`
@@ -3701,15 +3701,15 @@ class TokenBrandedIcons {
   );
 
   /// `kakarot` (paint-order duotone)
-  static const IconifyIconData kakarot = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData kakarot = IconifyIconData.duo(
     IconData(0xe2b0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe2b0, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe2b0, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `kan` (paint-order duotone)
-  static const IconifyIconData kan = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData kan = IconifyIconData.duo(
     IconData(0xe2b1, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe2b1, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe2b1, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `kap`
@@ -3953,9 +3953,9 @@ class TokenBrandedIcons {
   );
 
   /// `layer` (paint-order duotone)
-  static const IconifyIconData layer = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData layer = IconifyIconData.duo(
     IconData(0xe2e2, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe2e2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe2e2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lbr`
@@ -3969,9 +3969,9 @@ class TokenBrandedIcons {
   );
 
   /// `lcr` (paint-order duotone)
-  static const IconifyIconData lcr = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lcr = IconifyIconData.duo(
     IconData(0xe2e5, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe2e5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe2e5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lcs`
@@ -4020,9 +4020,9 @@ class TokenBrandedIcons {
   );
 
   /// `libre` (paint-order duotone)
-  static const IconifyIconData libre = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData libre = IconifyIconData.duo(
     IconData(0xe2ef, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe2ef, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe2ef, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lif3`
@@ -4071,9 +4071,9 @@ class TokenBrandedIcons {
   );
 
   /// `lith` (paint-order duotone)
-  static const IconifyIconData lith = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lith = IconifyIconData.duo(
     IconData(0xe2f9, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe2f9, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe2f9, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `litt`
@@ -4102,9 +4102,9 @@ class TokenBrandedIcons {
   );
 
   /// `looks` (paint-order duotone)
-  static const IconifyIconData looks = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData looks = IconifyIconData.duo(
     IconData(0xe2ff, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe2ff, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe2ff, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `loom`
@@ -4118,9 +4118,9 @@ class TokenBrandedIcons {
   );
 
   /// `lpnt` (paint-order duotone)
-  static const IconifyIconData lpnt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lpnt = IconifyIconData.duo(
     IconData(0xe659, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe659, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe659, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lpool`
@@ -4164,9 +4164,9 @@ class TokenBrandedIcons {
   );
 
   /// `ltx` (paint-order duotone)
-  static const IconifyIconData ltx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ltx = IconifyIconData.duo(
     IconData(0xe30a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe30a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe30a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lua`
@@ -4200,9 +4200,9 @@ class TokenBrandedIcons {
   );
 
   /// `lunc` (paint-order duotone)
-  static const IconifyIconData lunc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lunc = IconifyIconData.duo(
     IconData(0xe65a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe65a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe65a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lunr`
@@ -4211,9 +4211,9 @@ class TokenBrandedIcons {
   );
 
   /// `lusd` (paint-order duotone)
-  static const IconifyIconData lusd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lusd = IconifyIconData.duo(
     IconData(0xe65b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe65b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe65b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lycan`
@@ -4222,9 +4222,9 @@ class TokenBrandedIcons {
   );
 
   /// `lym` (paint-order duotone)
-  static const IconifyIconData lym = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lym = IconifyIconData.duo(
     IconData(0xe313, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe313, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe313, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lyra`
@@ -4363,9 +4363,9 @@ class TokenBrandedIcons {
   );
 
   /// `mdt` (paint-order duotone)
-  static const IconifyIconData mdt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mdt = IconifyIconData.duo(
     IconData(0xe32f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe32f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe32f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mdx`
@@ -4379,9 +4379,9 @@ class TokenBrandedIcons {
   );
 
   /// `med` (paint-order duotone)
-  static const IconifyIconData med = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData med = IconifyIconData.duo(
     IconData(0xe332, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe332, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe332, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `media`
@@ -4465,15 +4465,15 @@ class TokenBrandedIcons {
   );
 
   /// `milkomeda-a1` (paint-order duotone)
-  static const IconifyIconData milkomedaA1 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData milkomedaA1 = IconifyIconData.duo(
     IconData(0xe65c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe65c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe65c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `milkomeda-c1` (paint-order duotone)
-  static const IconifyIconData milkomedaC1 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData milkomedaC1 = IconifyIconData.duo(
     IconData(0xe65d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe65d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe65d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mimatic`
@@ -4512,9 +4512,9 @@ class TokenBrandedIcons {
   );
 
   /// `mintme` (paint-order duotone)
-  static const IconifyIconData mintme = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mintme = IconifyIconData.duo(
     IconData(0xe34a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe34a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe34a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `minu`
@@ -4578,9 +4578,9 @@ class TokenBrandedIcons {
   );
 
   /// `mnd` (paint-order duotone)
-  static const IconifyIconData mnd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mnd = IconifyIconData.duo(
     IconData(0xe65e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe65e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe65e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mngo`
@@ -4599,9 +4599,9 @@ class TokenBrandedIcons {
   );
 
   /// `mntl` (paint-order duotone)
-  static const IconifyIconData mntl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mntl = IconifyIconData.duo(
     IconData(0xe35a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe35a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe35a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mnw`
@@ -4630,9 +4630,9 @@ class TokenBrandedIcons {
   );
 
   /// `mod` (paint-order duotone)
-  static const IconifyIconData mod = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mod = IconifyIconData.duo(
     IconData(0xe65f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe65f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe65f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mode`
@@ -4671,21 +4671,21 @@ class TokenBrandedIcons {
   );
 
   /// `moonbeam` (paint-order duotone)
-  static const IconifyIconData moonbeam = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData moonbeam = IconifyIconData.duo(
     IconData(0xe367, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe367, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe367, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `moonrive` (paint-order duotone)
-  static const IconifyIconData moonrive = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData moonrive = IconifyIconData.duo(
     IconData(0xe660, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe660, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe660, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `moonriver` (paint-order duotone)
-  static const IconifyIconData moonriver = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData moonriver = IconifyIconData.duo(
     IconData(0xe661, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe661, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe661, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `moov`
@@ -4694,9 +4694,9 @@ class TokenBrandedIcons {
   );
 
   /// `mork` (paint-order duotone)
-  static const IconifyIconData mork = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mork = IconifyIconData.duo(
     IconData(0xe369, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe369, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe369, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `move`
@@ -4710,9 +4710,9 @@ class TokenBrandedIcons {
   );
 
   /// `movr` (paint-order duotone)
-  static const IconifyIconData movr = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData movr = IconifyIconData.duo(
     IconData(0xe662, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe662, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe662, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mpl`
@@ -4766,9 +4766,9 @@ class TokenBrandedIcons {
   );
 
   /// `mtv` (paint-order duotone)
-  static const IconifyIconData mtv = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mtv = IconifyIconData.duo(
     IconData(0xe376, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe376, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe376, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mtvt`
@@ -4777,9 +4777,9 @@ class TokenBrandedIcons {
   );
 
   /// `mudol2` (paint-order duotone)
-  static const IconifyIconData mudol2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mudol2 = IconifyIconData.duo(
     IconData(0xe663, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe663, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe663, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `multiversx`
@@ -4803,9 +4803,9 @@ class TokenBrandedIcons {
   );
 
   /// `mute` (paint-order duotone)
-  static const IconifyIconData mute = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mute = IconifyIconData.duo(
     IconData(0xe664, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe664, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe664, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mv`
@@ -4819,9 +4819,9 @@ class TokenBrandedIcons {
   );
 
   /// `mvl` (paint-order duotone)
-  static const IconifyIconData mvl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mvl = IconifyIconData.duo(
     IconData(0xe37e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe37e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe37e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mvx`
@@ -4845,9 +4845,9 @@ class TokenBrandedIcons {
   );
 
   /// `my-ether-wallet` (paint-order duotone)
-  static const IconifyIconData myEtherWallet = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData myEtherWallet = IconifyIconData.duo(
     IconData(0xe383, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe383, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe383, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `myria`
@@ -4911,9 +4911,9 @@ class TokenBrandedIcons {
   );
 
   /// `nblu` (paint-order duotone)
-  static const IconifyIconData nblu = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nblu = IconifyIconData.duo(
     IconData(0xe390, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe390, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe390, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nbt`
@@ -4932,9 +4932,9 @@ class TokenBrandedIcons {
   );
 
   /// `nct` (paint-order duotone)
-  static const IconifyIconData nct = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nct = IconifyIconData.duo(
     IconData(0xe665, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe665, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe665, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `near`
@@ -4958,9 +4958,9 @@ class TokenBrandedIcons {
   );
 
   /// `neo` (paint-order duotone)
-  static const IconifyIconData neo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData neo = IconifyIconData.duo(
     IconData(0xe398, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe398, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe398, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `neo-x`
@@ -5059,9 +5059,9 @@ class TokenBrandedIcons {
   );
 
   /// `nmx` (paint-order duotone)
-  static const IconifyIconData nmx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nmx = IconifyIconData.duo(
     IconData(0xe3ac, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe3ac, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe3ac, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nodl`
@@ -5075,15 +5075,15 @@ class TokenBrandedIcons {
   );
 
   /// `nom` (paint-order duotone)
-  static const IconifyIconData nom = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nom = IconifyIconData.duo(
     IconData(0xe3af, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe3af, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe3af, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nord` (paint-order duotone)
-  static const IconifyIconData nord = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nord = IconifyIconData.duo(
     IconData(0xe3b0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe3b0, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe3b0, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nos`
@@ -5102,9 +5102,9 @@ class TokenBrandedIcons {
   );
 
   /// `nrch` (paint-order duotone)
-  static const IconifyIconData nrch = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nrch = IconifyIconData.duo(
     IconData(0xe3b4, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe3b4, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe3b4, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nrg`
@@ -5113,9 +5113,9 @@ class TokenBrandedIcons {
   );
 
   /// `nsbt` (paint-order duotone)
-  static const IconifyIconData nsbt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nsbt = IconifyIconData.duo(
     IconData(0xe3b6, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe3b6, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe3b6, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nsfw`
@@ -5254,9 +5254,9 @@ class TokenBrandedIcons {
   );
 
   /// `olt` (paint-order duotone)
-  static const IconifyIconData olt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData olt = IconifyIconData.duo(
     IconData(0xe3d2, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe3d2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe3d2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `om`
@@ -5401,9 +5401,9 @@ class TokenBrandedIcons {
   );
 
   /// `oxb` (paint-order duotone)
-  static const IconifyIconData oxb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData oxb = IconifyIconData.duo(
     IconData(0xe3ef, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe3ef, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe3ef, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `oxen`
@@ -5427,9 +5427,9 @@ class TokenBrandedIcons {
   );
 
   /// `paal` (paint-order duotone)
-  static const IconifyIconData paal = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData paal = IconifyIconData.duo(
     IconData(0xe3f4, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe3f4, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe3f4, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pac`
@@ -5508,9 +5508,9 @@ class TokenBrandedIcons {
   );
 
   /// `pdex` (paint-order duotone)
-  static const IconifyIconData pdex = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pdex = IconifyIconData.duo(
     IconData(0xe404, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe404, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe404, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pdt`
@@ -5529,9 +5529,9 @@ class TokenBrandedIcons {
   );
 
   /// `pendle` (paint-order duotone)
-  static const IconifyIconData pendle = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pendle = IconifyIconData.duo(
     IconData(0xe408, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe408, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe408, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `people`
@@ -5635,21 +5635,21 @@ class TokenBrandedIcons {
   );
 
   /// `pkt` (paint-order duotone)
-  static const IconifyIconData pkt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pkt = IconifyIconData.duo(
     IconData(0xe666, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe666, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe666, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pla` (paint-order duotone)
-  static const IconifyIconData pla = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pla = IconifyIconData.duo(
     IconData(0xe41d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe41d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe41d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `planets` (paint-order duotone)
-  static const IconifyIconData planets = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData planets = IconifyIconData.duo(
     IconData(0xe41e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe41e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe41e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `plasma`
@@ -5693,9 +5693,9 @@ class TokenBrandedIcons {
   );
 
   /// `ply` (paint-order duotone)
-  static const IconifyIconData ply = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ply = IconifyIconData.duo(
     IconData(0xe427, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe427, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe427, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pmon`
@@ -5704,9 +5704,9 @@ class TokenBrandedIcons {
   );
 
   /// `png` (paint-order duotone)
-  static const IconifyIconData png = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData png = IconifyIconData.duo(
     IconData(0xe429, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe429, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe429, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pnk`
@@ -5735,9 +5735,9 @@ class TokenBrandedIcons {
   );
 
   /// `polx` (paint-order duotone)
-  static const IconifyIconData polx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData polx = IconifyIconData.duo(
     IconData(0xe667, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe667, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe667, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `poly`
@@ -5776,9 +5776,9 @@ class TokenBrandedIcons {
   );
 
   /// `pond` (paint-order duotone)
-  static const IconifyIconData pond = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pond = IconifyIconData.duo(
     IconData(0xe668, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe668, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe668, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pooh`
@@ -5902,9 +5902,9 @@ class TokenBrandedIcons {
   );
 
   /// `pstake` (paint-order duotone)
-  static const IconifyIconData pstake = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pstake = IconifyIconData.duo(
     IconData(0xe44e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe44e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe44e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pswap`
@@ -5928,9 +5928,9 @@ class TokenBrandedIcons {
   );
 
   /// `pumlx` (paint-order duotone)
-  static const IconifyIconData pumlx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pumlx = IconifyIconData.duo(
     IconData(0xe453, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe453, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe453, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pundix`
@@ -5939,9 +5939,9 @@ class TokenBrandedIcons {
   );
 
   /// `purse` (paint-order duotone)
-  static const IconifyIconData purse = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData purse = IconifyIconData.duo(
     IconData(0xe669, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe669, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe669, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `push`
@@ -5985,9 +5985,9 @@ class TokenBrandedIcons {
   );
 
   /// `qanx` (paint-order duotone)
-  static const IconifyIconData qanx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData qanx = IconifyIconData.duo(
     IconData(0xe45d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe45d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe45d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `qash`
@@ -6096,9 +6096,9 @@ class TokenBrandedIcons {
   );
 
   /// `rake` (paint-order duotone)
-  static const IconifyIconData rake = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rake = IconifyIconData.duo(
     IconData(0xe473, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe473, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe473, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ram`
@@ -6107,9 +6107,9 @@ class TokenBrandedIcons {
   );
 
   /// `ramp` (paint-order duotone)
-  static const IconifyIconData ramp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ramp = IconifyIconData.duo(
     IconData(0xe475, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe475, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe475, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rare`
@@ -6138,9 +6138,9 @@ class TokenBrandedIcons {
   );
 
   /// `rbd` (paint-order duotone)
-  static const IconifyIconData rbd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rbd = IconifyIconData.duo(
     IconData(0xe66a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe66a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe66a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rbif`
@@ -6184,9 +6184,9 @@ class TokenBrandedIcons {
   );
 
   /// `reef` (paint-order duotone)
-  static const IconifyIconData reef = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData reef = IconifyIconData.duo(
     IconData(0xe66b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe66b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe66b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ref`
@@ -6195,15 +6195,15 @@ class TokenBrandedIcons {
   );
 
   /// `rep` (paint-order duotone)
-  static const IconifyIconData rep = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rep = IconifyIconData.duo(
     IconData(0xe484, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe484, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe484, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `req` (paint-order duotone)
-  static const IconifyIconData req = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData req = IconifyIconData.duo(
     IconData(0xe66c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe66c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe66c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ret`
@@ -6322,9 +6322,9 @@ class TokenBrandedIcons {
   );
 
   /// `rollux` (paint-order duotone)
-  static const IconifyIconData rollux = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rollux = IconifyIconData.duo(
     IconData(0xe49c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe49c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe49c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rome`
@@ -6348,9 +6348,9 @@ class TokenBrandedIcons {
   );
 
   /// `rpg` (paint-order duotone)
-  static const IconifyIconData rpg = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rpg = IconifyIconData.duo(
     IconData(0xe66d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe66d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe66d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rpl`
@@ -6474,9 +6474,9 @@ class TokenBrandedIcons {
   );
 
   /// `sbd` (paint-order duotone)
-  static const IconifyIconData sbd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sbd = IconifyIconData.duo(
     IconData(0xe66e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe66e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe66e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sc`
@@ -6490,9 +6490,9 @@ class TokenBrandedIcons {
   );
 
   /// `scb` (paint-order duotone)
-  static const IconifyIconData scb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData scb = IconifyIconData.duo(
     IconData(0xe4bb, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe4bb, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe4bb, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sclp`
@@ -6751,9 +6751,9 @@ class TokenBrandedIcons {
   );
 
   /// `sn` (paint-order duotone)
-  static const IconifyIconData sn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sn = IconifyIconData.duo(
     IconData(0xe66f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe66f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe66f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `snail`
@@ -6783,9 +6783,9 @@ class TokenBrandedIcons {
   );
 
   /// `socks` (paint-order duotone)
-  static const IconifyIconData socks = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData socks = IconifyIconData.duo(
     IconData(0xe4f4, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe4f4, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe4f4, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sol`
@@ -6934,9 +6934,9 @@ class TokenBrandedIcons {
   );
 
   /// `ssv` (paint-order duotone)
-  static const IconifyIconData ssv = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ssv = IconifyIconData.duo(
     IconData(0xe512, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe512, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe512, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sswp`
@@ -6970,9 +6970,9 @@ class TokenBrandedIcons {
   );
 
   /// `stbu` (paint-order duotone)
-  static const IconifyIconData stbu = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData stbu = IconifyIconData.duo(
     IconData(0xe670, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe670, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe670, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `stellar`
@@ -6986,9 +6986,9 @@ class TokenBrandedIcons {
   );
 
   /// `stg` (paint-order duotone)
-  static const IconifyIconData stg = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData stg = IconifyIconData.duo(
     IconData(0xe671, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe671, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe671, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `stima`
@@ -7007,9 +7007,9 @@ class TokenBrandedIcons {
   );
 
   /// `stpt` (paint-order duotone)
-  static const IconifyIconData stpt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData stpt = IconifyIconData.duo(
     IconData(0xe51e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe51e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe51e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `strax`
@@ -7068,9 +7068,9 @@ class TokenBrandedIcons {
   );
 
   /// `supra-movevm` (paint-order duotone)
-  static const IconifyIconData supraMovevm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData supraMovevm = IconifyIconData.duo(
     IconData(0xe672, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe672, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe672, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `susd` (duo-tone)
@@ -7090,9 +7090,9 @@ class TokenBrandedIcons {
   );
 
   /// `suter` (paint-order duotone)
-  static const IconifyIconData suter = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData suter = IconifyIconData.duo(
     IconData(0xe673, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe673, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe673, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `swap`
@@ -7141,9 +7141,9 @@ class TokenBrandedIcons {
   );
 
   /// `sylo` (paint-order duotone)
-  static const IconifyIconData sylo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sylo = IconifyIconData.duo(
     IconData(0xe674, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe674, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe674, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `symbiosis`
@@ -7212,15 +7212,15 @@ class TokenBrandedIcons {
   );
 
   /// `terra-classic` (paint-order duotone)
-  static const IconifyIconData terraClassic = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData terraClassic = IconifyIconData.duo(
     IconData(0xe543, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe543, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe543, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tetu` (paint-order duotone)
-  static const IconifyIconData tetu = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tetu = IconifyIconData.duo(
     IconData(0xe544, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe544, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe544, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tfuel`
@@ -7319,15 +7319,15 @@ class TokenBrandedIcons {
   );
 
   /// `tko` (paint-order duotone)
-  static const IconifyIconData tko = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tko = IconifyIconData.duo(
     IconData(0xe558, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe558, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe558, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tkp` (paint-order duotone)
-  static const IconifyIconData tkp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tkp = IconifyIconData.duo(
     IconData(0xe559, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe559, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe559, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tlm`
@@ -7436,9 +7436,9 @@ class TokenBrandedIcons {
   );
 
   /// `trc` (paint-order duotone)
-  static const IconifyIconData trc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData trc = IconifyIconData.duo(
     IconData(0xe675, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe675, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe675, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `trcl`
@@ -7447,9 +7447,9 @@ class TokenBrandedIcons {
   );
 
   /// `treasure` (paint-order duotone)
-  static const IconifyIconData treasure = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData treasure = IconifyIconData.duo(
     IconData(0xe676, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe676, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe676, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tree`
@@ -7458,9 +7458,9 @@ class TokenBrandedIcons {
   );
 
   /// `treeb` (paint-order duotone)
-  static const IconifyIconData treeb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData treeb = IconifyIconData.duo(
     IconData(0xe677, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe677, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe677, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `trezor`
@@ -7609,9 +7609,9 @@ class TokenBrandedIcons {
   );
 
   /// `unfi` (paint-order duotone)
-  static const IconifyIconData unfi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData unfi = IconifyIconData.duo(
     IconData(0xe58e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe58e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe58e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `uni`
@@ -7650,9 +7650,9 @@ class TokenBrandedIcons {
   );
 
   /// `upbit` (paint-order duotone)
-  static const IconifyIconData upbit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData upbit = IconifyIconData.duo(
     IconData(0xe678, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe678, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe678, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `upp`
@@ -7671,15 +7671,15 @@ class TokenBrandedIcons {
   );
 
   /// `urus` (paint-order duotone)
-  static const IconifyIconData urus = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData urus = IconifyIconData.duo(
     IconData(0xe679, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe679, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe679, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `usdc` (paint-order duotone)
-  static const IconifyIconData usdc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData usdc = IconifyIconData.duo(
     IconData(0xe599, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe599, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe599, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `usdd`
@@ -7693,9 +7693,9 @@ class TokenBrandedIcons {
   );
 
   /// `usdx` (paint-order duotone)
-  static const IconifyIconData usdx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData usdx = IconifyIconData.duo(
     IconData(0xe59c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe59c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe59c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ush`
@@ -7704,9 +7704,9 @@ class TokenBrandedIcons {
   );
 
   /// `usn` (paint-order duotone)
-  static const IconifyIconData usn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData usn = IconifyIconData.duo(
     IconData(0xe59e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe59e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe59e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `utk`
@@ -7830,9 +7830,9 @@ class TokenBrandedIcons {
   );
 
   /// `vine` (paint-order duotone)
-  static const IconifyIconData vine = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vine = IconifyIconData.duo(
     IconData(0xe67a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe67a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe67a, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `vinu`
@@ -7856,9 +7856,9 @@ class TokenBrandedIcons {
   );
 
   /// `vix` (paint-order duotone)
-  static const IconifyIconData vix = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vix = IconifyIconData.duo(
     IconData(0xe5bb, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe5bb, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe5bb, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `vlx`
@@ -7907,9 +7907,9 @@ class TokenBrandedIcons {
   );
 
   /// `vtho` (paint-order duotone)
-  static const IconifyIconData vtho = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vtho = IconifyIconData.duo(
     IconData(0xe5c5, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe5c5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe5c5, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `vv`
@@ -7953,9 +7953,9 @@ class TokenBrandedIcons {
   );
 
   /// `wallet-3` (paint-order duotone)
-  static const IconifyIconData wallet3 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wallet3 = IconifyIconData.duo(
     IconData(0xe67b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe67b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe67b, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wallet-connect`
@@ -7974,9 +7974,9 @@ class TokenBrandedIcons {
   );
 
   /// `wan` (paint-order duotone)
-  static const IconifyIconData wan = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wan = IconifyIconData.duo(
     IconData(0xe67c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe67c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe67c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wbeth`
@@ -8040,9 +8040,9 @@ class TokenBrandedIcons {
   );
 
   /// `win` (paint-order duotone)
-  static const IconifyIconData win = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData win = IconifyIconData.duo(
     IconData(0xe5dd, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe5dd, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe5dd, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wing`
@@ -8051,9 +8051,9 @@ class TokenBrandedIcons {
   );
 
   /// `wise` (paint-order duotone)
-  static const IconifyIconData wise = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wise = IconifyIconData.duo(
     IconData(0xe5df, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe5df, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe5df, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `witch`
@@ -8067,9 +8067,9 @@ class TokenBrandedIcons {
   );
 
   /// `wlkn` (paint-order duotone)
-  static const IconifyIconData wlkn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wlkn = IconifyIconData.duo(
     IconData(0xe67d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe67d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe67d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wndr`
@@ -8078,9 +8078,9 @@ class TokenBrandedIcons {
   );
 
   /// `wnk` (paint-order duotone)
-  static const IconifyIconData wnk = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wnk = IconifyIconData.duo(
     IconData(0xe5e3, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe5e3, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe5e3, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wnt`
@@ -8099,9 +8099,9 @@ class TokenBrandedIcons {
   );
 
   /// `wombat` (paint-order duotone)
-  static const IconifyIconData wombat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wombat = IconifyIconData.duo(
     IconData(0xe5e7, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe5e7, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe5e7, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `woof`
@@ -8115,9 +8115,9 @@ class TokenBrandedIcons {
   );
 
   /// `wow` (paint-order duotone)
-  static const IconifyIconData wow = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wow = IconifyIconData.duo(
     IconData(0xe5ea, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe5ea, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe5ea, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wozx`
@@ -8157,9 +8157,9 @@ class TokenBrandedIcons {
   );
 
   /// `xaut` (paint-order duotone)
-  static const IconifyIconData xaut = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData xaut = IconifyIconData.duo(
     IconData(0xe5f2, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe5f2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe5f2, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `xava`
@@ -8193,9 +8193,9 @@ class TokenBrandedIcons {
   );
 
   /// `xdc` (paint-order duotone)
-  static const IconifyIconData xdc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData xdc = IconifyIconData.duo(
     IconData(0xe5f9, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe5f9, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe5f9, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `xdefi`
@@ -8300,9 +8300,9 @@ class TokenBrandedIcons {
   );
 
   /// `xprt` (paint-order duotone)
-  static const IconifyIconData xprt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData xprt = IconifyIconData.duo(
     IconData(0xe60e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe60e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe60e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `xpx`
@@ -8351,9 +8351,9 @@ class TokenBrandedIcons {
   );
 
   /// `xwin` (paint-order duotone)
-  static const IconifyIconData xwin = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData xwin = IconifyIconData.duo(
     IconData(0xe67e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe67e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe67e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `xy`
@@ -8417,9 +8417,9 @@ class TokenBrandedIcons {
   );
 
   /// `zat` (paint-order duotone)
-  static const IconifyIconData zat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData zat = IconifyIconData.duo(
     IconData(0xe624, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe624, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe624, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `zbc`
@@ -8443,15 +8443,15 @@ class TokenBrandedIcons {
   );
 
   /// `zero` (paint-order duotone)
-  static const IconifyIconData zero = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData zero = IconifyIconData.duo(
     IconData(0xe629, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe629, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe629, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `zero-network` (paint-order duotone)
-  static const IconifyIconData zeroNetwork = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData zeroNetwork = IconifyIconData.duo(
     IconData(0xe67f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe67f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe67f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `zil`
@@ -8470,9 +8470,9 @@ class TokenBrandedIcons {
   );
 
   /// `zkb` (paint-order duotone)
-  static const IconifyIconData zkb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData zkb = IconifyIconData.duo(
     IconData(0xe62d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe62d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe62d, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `zkid`
@@ -8506,9 +8506,9 @@ class TokenBrandedIcons {
   );
 
   /// `zoomer` (paint-order duotone)
-  static const IconifyIconData zoomer = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData zoomer = IconifyIconData.duo(
     IconData(0xe634, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe634, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
+    IconData(0xe634, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `zora`

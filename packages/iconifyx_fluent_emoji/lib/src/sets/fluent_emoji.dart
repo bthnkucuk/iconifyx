@@ -11062,9 +11062,9 @@ class FluentEmojiIcons {
   );
 
   /// `tongue` (paint-order duotone)
-  static const IconifyIconData tongue = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tongue = IconifyIconData.duo(
     IconData(0xead8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-    IconData(0xead8, fontFamily: 'FluentEmojiSecondary', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead8, fontFamily: 'FluentEmojiSecondary', fontPackage: 'iconifyx_fluent_emoji'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `toolbox`

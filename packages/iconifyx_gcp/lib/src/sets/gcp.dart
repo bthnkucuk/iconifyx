@@ -47,9 +47,9 @@ class GcpIcons {
   );
 
   /// `ai-platform` (paint-order duotone)
-  static const IconifyIconData aiPlatform = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData aiPlatform = IconifyIconData.duo(
     IconData(0xe054, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe054, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe054, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ai-platform-unified`
@@ -93,9 +93,9 @@ class GcpIcons {
   );
 
   /// `apigee-api-platform` (paint-order duotone)
-  static const IconifyIconData apigeeApiPlatform = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData apigeeApiPlatform = IconifyIconData.duo(
     IconData(0xe055, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe055, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe055, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `apigee-sense`
@@ -150,9 +150,9 @@ class GcpIcons {
   );
 
   /// `automl-vision` (paint-order duotone)
-  static const IconifyIconData automlVision = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData automlVision = IconifyIconData.duo(
     IconData(0xe056, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe056, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe056, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bare-metal-solutions`
@@ -216,9 +216,9 @@ class GcpIcons {
   );
 
   /// `cloud-armor` (paint-order duotone)
-  static const IconifyIconData cloudArmor = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudArmor = IconifyIconData.duo(
     IconData(0xe00d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe00d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe00d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-asset-inventory`
@@ -247,9 +247,9 @@ class GcpIcons {
   );
 
   /// `cloud-composer` (paint-order duotone)
-  static const IconifyIconData cloudComposer = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudComposer = IconifyIconData.duo(
     IconData(0xe011, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe011, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe011, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-data-fusion`
@@ -273,9 +273,9 @@ class GcpIcons {
   );
 
   /// `cloud-domains` (paint-order duotone)
-  static const IconifyIconData cloudDomains = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudDomains = IconifyIconData.duo(
     IconData(0xe057, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe057, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe057, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-ekm`
@@ -284,15 +284,15 @@ class GcpIcons {
   );
 
   /// `cloud-endpoints` (paint-order duotone)
-  static const IconifyIconData cloudEndpoints = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudEndpoints = IconifyIconData.duo(
     IconData(0xe058, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe058, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe058, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-external-ip-addresses` (paint-order duotone)
-  static const IconifyIconData cloudExternalIpAddresses = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudExternalIpAddresses = IconifyIconData.duo(
     IconData(0xe059, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe059, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe059, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-firewall-rules`
@@ -341,9 +341,9 @@ class GcpIcons {
   );
 
   /// `cloud-inference-api` (paint-order duotone)
-  static const IconifyIconData cloudInferenceApi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudInferenceApi = IconifyIconData.duo(
     IconData(0xe05a, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe05a, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe05a, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-interconnect`
@@ -372,15 +372,15 @@ class GcpIcons {
   );
 
   /// `cloud-monitoring` (paint-order duotone)
-  static const IconifyIconData cloudMonitoring = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudMonitoring = IconifyIconData.duo(
     IconData(0xe05b, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe05b, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe05b, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-nat` (paint-order duotone)
-  static const IconifyIconData cloudNat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudNat = IconifyIconData.duo(
     IconData(0xe05c, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe05c, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe05c, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-natural-language-api`
@@ -404,9 +404,9 @@ class GcpIcons {
   );
 
   /// `cloud-optimization-ai-fleet-routing-api` (paint-order duotone)
-  static const IconifyIconData cloudOptimizationAiFleetRoutingApi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudOptimizationAiFleetRoutingApi = IconifyIconData.duo(
     IconData(0xe01b, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe01b, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe01b, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-router`
@@ -415,21 +415,21 @@ class GcpIcons {
   );
 
   /// `cloud-routes` (paint-order duotone)
-  static const IconifyIconData cloudRoutes = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudRoutes = IconifyIconData.duo(
     IconData(0xe05d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe05d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe05d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-run` (paint-order duotone)
-  static const IconifyIconData cloudRun = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudRun = IconifyIconData.duo(
     IconData(0xe01c, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe01c, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe01c, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-run-for-anthos` (paint-order duotone)
-  static const IconifyIconData cloudRunForAnthos = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudRunForAnthos = IconifyIconData.duo(
     IconData(0xe01d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe01d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe01d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-scheduler`
@@ -468,9 +468,9 @@ class GcpIcons {
   );
 
   /// `cloud-test-lab` (paint-order duotone)
-  static const IconifyIconData cloudTestLab = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudTestLab = IconifyIconData.duo(
     IconData(0xe05e, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe05e, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe05e, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-tpu`
@@ -479,9 +479,9 @@ class GcpIcons {
   );
 
   /// `cloud-translation-api` (paint-order duotone)
-  static const IconifyIconData cloudTranslationApi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudTranslationApi = IconifyIconData.duo(
     IconData(0xe05f, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe05f, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe05f, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-vision-api`
@@ -490,9 +490,9 @@ class GcpIcons {
   );
 
   /// `cloud-vpn` (paint-order duotone)
-  static const IconifyIconData cloudVpn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudVpn = IconifyIconData.duo(
     IconData(0xe060, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe060, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe060, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `compute-engine`
@@ -501,9 +501,9 @@ class GcpIcons {
   );
 
   /// `configuration-management` (paint-order duotone)
-  static const IconifyIconData configurationManagement = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData configurationManagement = IconifyIconData.duo(
     IconData(0xe061, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe061, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe061, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `connectivity-test`
@@ -532,9 +532,9 @@ class GcpIcons {
   );
 
   /// `data-catalog` (paint-order duotone)
-  static const IconifyIconData dataCatalog = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dataCatalog = IconifyIconData.duo(
     IconData(0xe062, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe062, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe062, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `data-labeling`
@@ -558,9 +558,9 @@ class GcpIcons {
   );
 
   /// `data-studio` (paint-order duotone)
-  static const IconifyIconData dataStudio = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dataStudio = IconifyIconData.duo(
     IconData(0xe063, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe063, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe063, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `data-transfer`
@@ -589,15 +589,15 @@ class GcpIcons {
   );
 
   /// `datapol` (paint-order duotone)
-  static const IconifyIconData datapol = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData datapol = IconifyIconData.duo(
     IconData(0xe064, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe064, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe064, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dataprep` (paint-order duotone)
-  static const IconifyIconData dataprep = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dataprep = IconifyIconData.duo(
     IconData(0xe065, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe065, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe065, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dataproc`
@@ -611,9 +611,9 @@ class GcpIcons {
   );
 
   /// `datashare` (paint-order duotone)
-  static const IconifyIconData datashare = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData datashare = IconifyIconData.duo(
     IconData(0xe066, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe066, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe066, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `datastore`
@@ -632,9 +632,9 @@ class GcpIcons {
   );
 
   /// `developer-portal` (paint-order duotone)
-  static const IconifyIconData developerPortal = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData developerPortal = IconifyIconData.duo(
     IconData(0xe067, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe067, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe067, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dialogflow-cx`
@@ -658,9 +658,9 @@ class GcpIcons {
   );
 
   /// `error-reporting` (paint-order duotone)
-  static const IconifyIconData errorReporting = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData errorReporting = IconifyIconData.duo(
     IconData(0xe068, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe068, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe068, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `eventarc`
@@ -674,9 +674,9 @@ class GcpIcons {
   );
 
   /// `financial-services-marketplace` (paint-order duotone)
-  static const IconifyIconData financialServicesMarketplace = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData financialServicesMarketplace = IconifyIconData.duo(
     IconData(0xe069, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe069, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe069, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `firestore`
@@ -741,9 +741,9 @@ class GcpIcons {
   );
 
   /// `identity-and-access-management` (paint-order duotone)
-  static const IconifyIconData identityAndAccessManagement = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData identityAndAccessManagement = IconifyIconData.duo(
     IconData(0xe06a, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe06a, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe06a, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `identity-aware-proxy`
@@ -752,15 +752,15 @@ class GcpIcons {
   );
 
   /// `identity-platform` (paint-order duotone)
-  static const IconifyIconData identityPlatform = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData identityPlatform = IconifyIconData.duo(
     IconData(0xe06b, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe06b, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe06b, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `iot-core` (paint-order duotone)
-  static const IconifyIconData iotCore = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData iotCore = IconifyIconData.duo(
     IconData(0xe06c, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe06c, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe06c, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `iot-edge`
@@ -774,9 +774,9 @@ class GcpIcons {
   );
 
   /// `key-management-service` (paint-order duotone)
-  static const IconifyIconData keyManagementService = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData keyManagementService = IconifyIconData.duo(
     IconData(0xe06d, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe06d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe06d, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `kuberun`
@@ -870,9 +870,9 @@ class GcpIcons {
   );
 
   /// `partner-interconnect` (paint-order duotone)
-  static const IconifyIconData partnerInterconnect = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData partnerInterconnect = IconifyIconData.duo(
     IconData(0xe06e, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe06e, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe06e, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `partner-portal`
@@ -921,9 +921,9 @@ class GcpIcons {
   );
 
   /// `producer-portal` (paint-order duotone)
-  static const IconifyIconData producerPortal = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData producerPortal = IconifyIconData.duo(
     IconData(0xe044, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe044, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe044, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `profiler`
@@ -947,9 +947,9 @@ class GcpIcons {
   );
 
   /// `quotas` (paint-order duotone)
-  static const IconifyIconData quotas = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData quotas = IconifyIconData.duo(
     IconData(0xe06f, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe06f, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe06f, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `real-world-insights`
@@ -993,9 +993,9 @@ class GcpIcons {
   );
 
   /// `security-command-center` (paint-order duotone)
-  static const IconifyIconData securityCommandCenter = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData securityCommandCenter = IconifyIconData.duo(
     IconData(0xe070, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe070, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe070, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `security-health-advisor`
@@ -1004,15 +1004,15 @@ class GcpIcons {
   );
 
   /// `security-key-enforcement` (paint-order duotone)
-  static const IconifyIconData securityKeyEnforcement = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData securityKeyEnforcement = IconifyIconData.duo(
     IconData(0xe071, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe071, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe071, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `service-discovery` (paint-order duotone)
-  static const IconifyIconData serviceDiscovery = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData serviceDiscovery = IconifyIconData.duo(
     IconData(0xe072, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe072, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe072, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `speech-to-text`
@@ -1046,9 +1046,9 @@ class GcpIcons {
   );
 
   /// `text-to-speech` (paint-order duotone)
-  static const IconifyIconData textToSpeech = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData textToSpeech = IconifyIconData.duo(
     IconData(0xe073, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe073, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe073, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tools-for-powershell`
@@ -1087,9 +1087,9 @@ class GcpIcons {
   );
 
   /// `video-intelligence-api` (paint-order duotone)
-  static const IconifyIconData videoIntelligenceApi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData videoIntelligenceApi = IconifyIconData.duo(
     IconData(0xe074, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe074, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe074, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `virtual-private-cloud`
@@ -1113,9 +1113,9 @@ class GcpIcons {
   );
 
   /// `web-security-scanner` (paint-order duotone)
-  static const IconifyIconData webSecurityScanner = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData webSecurityScanner = IconifyIconData.duo(
     IconData(0xe075, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe075, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
+    IconData(0xe075, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `workflows`

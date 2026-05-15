@@ -28,9 +28,9 @@ class NotoIcons {
   );
 
   /// `alien` (paint-order duotone)
-  static const IconifyIconData alien = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alien = IconifyIconData.duo(
     IconData(0xe002, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe002, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe002, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `balloon`
@@ -66,9 +66,9 @@ class NotoIcons {
   );
 
   /// `bone` (paint-order duotone)
-  static const IconifyIconData bone = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bone = IconifyIconData.duo(
     IconData(0xe00a, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe00a, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe00a, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bookmark-tabs`
@@ -129,9 +129,9 @@ class NotoIcons {
   );
 
   /// `busts-in-silhouette` (paint-order duotone)
-  static const IconifyIconData bustsInSilhouette = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bustsInSilhouette = IconifyIconData.duo(
     IconData(0xe0b3, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0b3, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0b3, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `canoe`
@@ -190,9 +190,9 @@ class NotoIcons {
   );
 
   /// `chopsticks` (paint-order duotone)
-  static const IconifyIconData chopsticks = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData chopsticks = IconifyIconData.duo(
     IconData(0xe0b4, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0b4, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0b4, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `clamp`
@@ -207,15 +207,15 @@ class NotoIcons {
   );
 
   /// `cloud` (paint-order duotone)
-  static const IconifyIconData cloud = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloud = IconifyIconData.duo(
     IconData(0xe016, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe016, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe016, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `club-suit` (paint-order duotone)
-  static const IconifyIconData clubSuit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData clubSuit = IconifyIconData.duo(
     IconData(0xe0b5, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0b5, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0b5, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `compass` (duo-tone)
@@ -240,9 +240,9 @@ class NotoIcons {
   );
 
   /// `crescent-moon` (paint-order duotone)
-  static const IconifyIconData crescentMoon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData crescentMoon = IconifyIconData.duo(
     IconData(0xe0b6, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0b6, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0b6, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `crutch`
@@ -318,9 +318,9 @@ class NotoIcons {
   );
 
   /// `diamond-suit` (paint-order duotone)
-  static const IconifyIconData diamondSuit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData diamondSuit = IconifyIconData.duo(
     IconData(0xe022, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe022, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe022, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `disappointed-but-relieved-face`
@@ -329,15 +329,15 @@ class NotoIcons {
   );
 
   /// `drop-of-blood` (paint-order duotone)
-  static const IconifyIconData dropOfBlood = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dropOfBlood = IconifyIconData.duo(
     IconData(0xe0b7, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0b7, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0b7, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `droplet` (paint-order duotone)
-  static const IconifyIconData droplet = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData droplet = IconifyIconData.duo(
     IconData(0xe024, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe024, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe024, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `drum`
@@ -493,9 +493,9 @@ class NotoIcons {
   );
 
   /// `fingerprint` (paint-order duotone)
-  static const IconifyIconData fingerprint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fingerprint = IconifyIconData.duo(
     IconData(0xe0b8, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0b8, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0b8, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fire-extinguisher`
@@ -524,15 +524,15 @@ class NotoIcons {
   );
 
   /// `full-moon` (paint-order duotone)
-  static const IconifyIconData fullMoon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fullMoon = IconifyIconData.duo(
     IconData(0xe0b9, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0b9, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0b9, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gloves` (paint-order duotone)
-  static const IconifyIconData gloves = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gloves = IconifyIconData.duo(
     IconData(0xe0ba, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0ba, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0ba, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `grinning-cat`
@@ -598,9 +598,9 @@ class NotoIcons {
   );
 
   /// `heart-suit` (paint-order duotone)
-  static const IconifyIconData heartSuit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData heartSuit = IconifyIconData.duo(
     IconData(0xe050, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe050, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe050, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `heavy-check-mark` (duo-tone)
@@ -651,9 +651,9 @@ class NotoIcons {
   );
 
   /// `leafless-tree` (paint-order duotone)
-  static const IconifyIconData leaflessTree = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData leaflessTree = IconifyIconData.duo(
     IconData(0xe0bb, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0bb, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0bb, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `left-speech-bubble`
@@ -1064,9 +1064,9 @@ class NotoIcons {
   );
 
   /// `new-moon` (paint-order duotone)
-  static const IconifyIconData newMoon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData newMoon = IconifyIconData.duo(
     IconData(0xe0bc, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0bc, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0bc, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `newspaper`
@@ -1224,9 +1224,9 @@ class NotoIcons {
   );
 
   /// `right-anger-bubble` (paint-order duotone)
-  static const IconifyIconData rightAngerBubble = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rightAngerBubble = IconifyIconData.duo(
     IconData(0xe08d, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe08d, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe08d, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `roller-skate`
@@ -1256,9 +1256,9 @@ class NotoIcons {
   );
 
   /// `seedling` (paint-order duotone)
-  static const IconifyIconData seedling = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData seedling = IconifyIconData.duo(
     IconData(0xe090, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe090, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe090, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `shooting-star`
@@ -1323,9 +1323,9 @@ class NotoIcons {
   );
 
   /// `spade-suit` (paint-order duotone)
-  static const IconifyIconData spadeSuit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData spadeSuit = IconifyIconData.duo(
     IconData(0xe0bd, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0bd, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0bd, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sparkle` (duo-tone)
@@ -1345,9 +1345,9 @@ class NotoIcons {
   );
 
   /// `speaking-head` (paint-order duotone)
-  static const IconifyIconData speakingHead = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData speakingHead = IconifyIconData.duo(
     IconData(0xe0be, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0be, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0be, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `spider-web`
@@ -1402,9 +1402,9 @@ class NotoIcons {
   );
 
   /// `sweat-droplets` (paint-order duotone)
-  static const IconifyIconData sweatDroplets = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sweatDroplets = IconifyIconData.duo(
     IconData(0xe0bf, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0bf, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0bf, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `thought-balloon`
@@ -1514,9 +1514,9 @@ class NotoIcons {
   );
 
   /// `white-flower` (paint-order duotone)
-  static const IconifyIconData whiteFlower = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData whiteFlower = IconifyIconData.duo(
     IconData(0xe0a4, fontFamily: 'Noto', fontPackage: 'iconifyx_noto'),
-    IconData(0xe0a4, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'),
+    IconData(0xe0a4, fontFamily: 'NotoSecondary', fontPackage: 'iconifyx_noto'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `woman-bowing-light-skin-tone`

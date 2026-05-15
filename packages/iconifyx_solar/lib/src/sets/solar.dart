@@ -5386,9 +5386,9 @@ class SolarIcons {
   );
 
   /// `camera-minimalistic-bold-duotone` (mask-internal duotone)
-  static const IconifyIconData cameraMinimalisticBoldDuotone = IconifyIconData.duoMaskInternal(
+  static const IconifyIconData cameraMinimalisticBoldDuotone = IconifyIconData.duo(
     IconData(0xe3f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3f0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xe3f0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `camera-minimalistic-broken`

@@ -3162,9 +3162,9 @@ class PepiconsPopIcons {
   );
 
   /// `keyboard-circle-filled` (mask-internal duotone)
-  static const IconifyIconData keyboardCircleFilled = IconifyIconData.duoMaskInternal(
+  static const IconifyIconData keyboardCircleFilled = IconifyIconData.duo(
     IconData(0xe275, fontFamily: 'PepiconsPop', fontPackage: 'iconifyx_pepicons_pop'),
-    IconData(0xe275, fontFamily: 'PepiconsPopSecondary', fontPackage: 'iconifyx_pepicons_pop'),
+    IconData(0xe275, fontFamily: 'PepiconsPopSecondary', fontPackage: 'iconifyx_pepicons_pop'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `keyboard-circle-off`

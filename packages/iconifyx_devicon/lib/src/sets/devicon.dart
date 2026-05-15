@@ -47,9 +47,9 @@ class DeviconIcons {
   );
 
   /// `aframe` (paint-order duotone)
-  static const IconifyIconData aframe = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData aframe = IconifyIconData.duo(
     IconData(0xe002, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe002, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe002, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `aframe-wordmark`
@@ -58,9 +58,9 @@ class DeviconIcons {
   );
 
   /// `aftereffects` (paint-order duotone)
-  static const IconifyIconData aftereffects = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData aftereffects = IconifyIconData.duo(
     IconData(0xe2e9, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2e9, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2e9, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `aiassistant`
@@ -74,15 +74,15 @@ class DeviconIcons {
   );
 
   /// `akka` (paint-order duotone)
-  static const IconifyIconData akka = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData akka = IconifyIconData.duo(
     IconData(0xe2ea, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2ea, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2ea, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `akka-wordmark` (paint-order duotone)
-  static const IconifyIconData akkaWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData akkaWordmark = IconifyIconData.duo(
     IconData(0xe2eb, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2eb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2eb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `algolia`
@@ -106,27 +106,27 @@ class DeviconIcons {
   );
 
   /// `alpinejs` (paint-order duotone)
-  static const IconifyIconData alpinejs = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alpinejs = IconifyIconData.duo(
     IconData(0xe00a, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe00a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe00a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `alpinejs-wordmark` (paint-order duotone)
-  static const IconifyIconData alpinejsWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alpinejsWordmark = IconifyIconData.duo(
     IconData(0xe2ec, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2ec, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2ec, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `amazonwebservices` (paint-order duotone)
-  static const IconifyIconData amazonwebservices = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData amazonwebservices = IconifyIconData.duo(
     IconData(0xe00b, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe00b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe00b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `amazonwebservices-wordmark` (paint-order duotone)
-  static const IconifyIconData amazonwebservicesWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData amazonwebservicesWordmark = IconifyIconData.duo(
     IconData(0xe00c, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe00c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe00c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `anaconda`
@@ -140,15 +140,15 @@ class DeviconIcons {
   );
 
   /// `android` (paint-order duotone)
-  static const IconifyIconData android = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData android = IconifyIconData.duo(
     IconData(0xe00f, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe00f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe00f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `android-wordmark` (paint-order duotone)
-  static const IconifyIconData androidWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData androidWordmark = IconifyIconData.duo(
     IconData(0xe010, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe010, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe010, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `androidstudio`
@@ -187,15 +187,15 @@ class DeviconIcons {
   );
 
   /// `ansible` (paint-order duotone)
-  static const IconifyIconData ansible = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ansible = IconifyIconData.duo(
     IconData(0xe2ed, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2ed, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2ed, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ansible-wordmark` (paint-order duotone)
-  static const IconifyIconData ansibleWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ansibleWordmark = IconifyIconData.duo(
     IconData(0xe2ee, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2ee, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2ee, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ansys`
@@ -264,9 +264,9 @@ class DeviconIcons {
   );
 
   /// `apachespark-wordmark` (paint-order duotone)
-  static const IconifyIconData apachesparkWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData apachesparkWordmark = IconifyIconData.duo(
     IconData(0xe2ef, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2ef, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2ef, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `apex`
@@ -285,9 +285,9 @@ class DeviconIcons {
   );
 
   /// `apl` (paint-order duotone)
-  static const IconifyIconData apl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData apl = IconifyIconData.duo(
     IconData(0xe025, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe025, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe025, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `apollographql`
@@ -306,9 +306,9 @@ class DeviconIcons {
   );
 
   /// `appcelerator-wordmark` (paint-order duotone)
-  static const IconifyIconData appceleratorWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData appceleratorWordmark = IconifyIconData.duo(
     IconData(0xe029, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe029, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe029, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `apple`
@@ -322,9 +322,9 @@ class DeviconIcons {
   );
 
   /// `appwrite-wordmark` (paint-order duotone)
-  static const IconifyIconData appwriteWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData appwriteWordmark = IconifyIconData.duo(
     IconData(0xe2f0, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f0, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f0, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `archlinux`
@@ -333,9 +333,9 @@ class DeviconIcons {
   );
 
   /// `archlinux-wordmark` (paint-order duotone)
-  static const IconifyIconData archlinuxWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData archlinuxWordmark = IconifyIconData.duo(
     IconData(0xe02d, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe02d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe02d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `arduino`
@@ -439,15 +439,15 @@ class DeviconIcons {
   );
 
   /// `backbonejs` (paint-order duotone)
-  static const IconifyIconData backbonejs = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData backbonejs = IconifyIconData.duo(
     IconData(0xe03e, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe03e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe03e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `backbonejs-wordmark` (paint-order duotone)
-  static const IconifyIconData backbonejsWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData backbonejsWordmark = IconifyIconData.duo(
     IconData(0xe03f, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe03f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe03f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ballerina`
@@ -471,9 +471,9 @@ class DeviconIcons {
   );
 
   /// `bash` (paint-order duotone)
-  static const IconifyIconData bash = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bash = IconifyIconData.duo(
     IconData(0xe2f1, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f1, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f1, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bazel`
@@ -517,9 +517,9 @@ class DeviconIcons {
   );
 
   /// `biome-wordmark` (paint-order duotone)
-  static const IconifyIconData biomeWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData biomeWordmark = IconifyIconData.duo(
     IconData(0xe04a, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe04a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe04a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bitbucket`
@@ -538,9 +538,9 @@ class DeviconIcons {
   );
 
   /// `blender` (paint-order duotone)
-  static const IconifyIconData blender = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData blender = IconifyIconData.duo(
     IconData(0xe2f2, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f2, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f2, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `blender-wordmark`
@@ -594,9 +594,9 @@ class DeviconIcons {
   );
 
   /// `burpsuite` (paint-order duotone)
-  static const IconifyIconData burpsuite = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData burpsuite = IconifyIconData.duo(
     IconData(0xe053, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe053, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe053, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `burpsuite-wordmark`
@@ -610,15 +610,15 @@ class DeviconIcons {
   );
 
   /// `cairo` (paint-order duotone)
-  static const IconifyIconData cairo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cairo = IconifyIconData.duo(
     IconData(0xe2f3, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f3, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f3, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cairo-wordmark` (paint-order duotone)
-  static const IconifyIconData cairoWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cairoWordmark = IconifyIconData.duo(
     IconData(0xe2f4, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cakephp`
@@ -627,9 +627,9 @@ class DeviconIcons {
   );
 
   /// `cakephp-wordmark` (paint-order duotone)
-  static const IconifyIconData cakephpWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cakephpWordmark = IconifyIconData.duo(
     IconData(0xe057, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe057, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe057, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `canva`
@@ -682,9 +682,9 @@ class DeviconIcons {
   );
 
   /// `ceph-wordmark` (paint-order duotone)
-  static const IconifyIconData cephWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cephWordmark = IconifyIconData.duo(
     IconData(0xe060, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe060, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe060, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ceylon`
@@ -760,9 +760,9 @@ class DeviconIcons {
   );
 
   /// `clojurescript` (paint-order duotone)
-  static const IconifyIconData clojurescript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData clojurescript = IconifyIconData.duo(
     IconData(0xe068, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe068, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe068, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloudflare`
@@ -786,9 +786,9 @@ class DeviconIcons {
   );
 
   /// `cloudrun` (paint-order duotone)
-  static const IconifyIconData cloudrun = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudrun = IconifyIconData.duo(
     IconData(0xe06b, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe06b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe06b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cmake`
@@ -922,9 +922,9 @@ class DeviconIcons {
   );
 
   /// `couchdb-wordmark` (paint-order duotone)
-  static const IconifyIconData couchdbWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData couchdbWordmark = IconifyIconData.duo(
     IconData(0xe07f, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe07f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe07f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cpanel`
@@ -958,9 +958,9 @@ class DeviconIcons {
   );
 
   /// `css` (paint-order duotone)
-  static const IconifyIconData css = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData css = IconifyIconData.duo(
     IconData(0xe086, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe086, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe086, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `css3`
@@ -1129,9 +1129,9 @@ class DeviconIcons {
   );
 
   /// `djangorest-wordmark` (paint-order duotone)
-  static const IconifyIconData djangorestWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData djangorestWordmark = IconifyIconData.duo(
     IconData(0xe0a3, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0a3, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0a3, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `docker`
@@ -1145,9 +1145,9 @@ class DeviconIcons {
   );
 
   /// `doctrine` (paint-order duotone)
-  static const IconifyIconData doctrine = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData doctrine = IconifyIconData.duo(
     IconData(0xe0a6, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0a6, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0a6, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `doctrine-wordmark`
@@ -1176,9 +1176,9 @@ class DeviconIcons {
   );
 
   /// `dreamweaver` (paint-order duotone)
-  static const IconifyIconData dreamweaver = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dreamweaver = IconifyIconData.duo(
     IconData(0xe2f5, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f5, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f5, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dropwizard`
@@ -1268,9 +1268,9 @@ class DeviconIcons {
   );
 
   /// `eleventy` (paint-order duotone)
-  static const IconifyIconData eleventy = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData eleventy = IconifyIconData.duo(
     IconData(0xe0b8, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0b8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0b8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `elixir`
@@ -1304,9 +1304,9 @@ class DeviconIcons {
   );
 
   /// `emailjs-wordmark` (paint-order duotone)
-  static const IconifyIconData emailjsWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData emailjsWordmark = IconifyIconData.duo(
     IconData(0xe2f6, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f6, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f6, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `embeddedc`
@@ -1320,9 +1320,9 @@ class DeviconIcons {
   );
 
   /// `ember` (paint-order duotone)
-  static const IconifyIconData ember = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ember = IconifyIconData.duo(
     IconData(0xe2f7, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f7, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f7, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ember-wordmark`
@@ -1331,9 +1331,9 @@ class DeviconIcons {
   );
 
   /// `entityframeworkcore` (paint-order duotone)
-  static const IconifyIconData entityframeworkcore = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData entityframeworkcore = IconifyIconData.duo(
     IconData(0xe0c0, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0c0, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0c0, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `envoy`
@@ -1357,9 +1357,9 @@ class DeviconIcons {
   );
 
   /// `eslint` (paint-order duotone)
-  static const IconifyIconData eslint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData eslint = IconifyIconData.duo(
     IconData(0xe2f8, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `eslint-wordmark`
@@ -1388,9 +1388,9 @@ class DeviconIcons {
   );
 
   /// `facebook` (paint-order duotone)
-  static const IconifyIconData facebook = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData facebook = IconifyIconData.duo(
     IconData(0xe0c7, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0c7, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0c7, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fastapi`
@@ -1434,9 +1434,9 @@ class DeviconIcons {
   );
 
   /// `fiber` (paint-order duotone)
-  static const IconifyIconData fiber = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fiber = IconifyIconData.duo(
     IconData(0xe0cd, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0cd, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0cd, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `figma`
@@ -1487,9 +1487,9 @@ class DeviconIcons {
   );
 
   /// `fish` (paint-order duotone)
-  static const IconifyIconData fish = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fish = IconifyIconData.duo(
     IconData(0xe0d7, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0d7, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0d7, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `flask`
@@ -1518,15 +1518,15 @@ class DeviconIcons {
   );
 
   /// `forgejo` (paint-order duotone)
-  static const IconifyIconData forgejo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData forgejo = IconifyIconData.duo(
     IconData(0xe0dc, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0dc, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0dc, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `forgejo-wordmark` (paint-order duotone)
-  static const IconifyIconData forgejoWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData forgejoWordmark = IconifyIconData.duo(
     IconData(0xe0dd, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0dd, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0dd, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fortran`
@@ -1577,9 +1577,9 @@ class DeviconIcons {
   );
 
   /// `fsharp` (paint-order duotone)
-  static const IconifyIconData fsharp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fsharp = IconifyIconData.duo(
     IconData(0xe0e5, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0e5, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0e5, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fusion`
@@ -1598,9 +1598,9 @@ class DeviconIcons {
   );
 
   /// `gatling-wordmark` (paint-order duotone)
-  static const IconifyIconData gatlingWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gatlingWordmark = IconifyIconData.duo(
     IconData(0xe2f9, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2f9, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2f9, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gatsby`
@@ -1689,9 +1689,9 @@ class DeviconIcons {
   );
 
   /// `gitea-wordmark` (paint-order duotone)
-  static const IconifyIconData giteaWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData giteaWordmark = IconifyIconData.duo(
     IconData(0xe2fa, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2fa, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2fa, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `github`
@@ -1705,9 +1705,9 @@ class DeviconIcons {
   );
 
   /// `githubactions` (paint-order duotone)
-  static const IconifyIconData githubactions = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData githubactions = IconifyIconData.duo(
     IconData(0xe2fb, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2fb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2fb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `githubactions-wordmark`
@@ -1761,9 +1761,9 @@ class DeviconIcons {
   );
 
   /// `gleam` (paint-order duotone)
-  static const IconifyIconData gleam = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gleam = IconifyIconData.duo(
     IconData(0xe0fb, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe0fb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe0fb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `glitch`
@@ -1777,9 +1777,9 @@ class DeviconIcons {
   );
 
   /// `gnuradio-wordmark` (paint-order duotone)
-  static const IconifyIconData gnuradioWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gnuradioWordmark = IconifyIconData.duo(
     IconData(0xe2fc, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2fc, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2fc, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `go`
@@ -1833,9 +1833,9 @@ class DeviconIcons {
   );
 
   /// `googlecolab` (paint-order duotone)
-  static const IconifyIconData googlecolab = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData googlecolab = IconifyIconData.duo(
     IconData(0xe101, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe101, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe101, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gradle`
@@ -1859,9 +1859,9 @@ class DeviconIcons {
   );
 
   /// `grails` (paint-order duotone)
-  static const IconifyIconData grails = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData grails = IconifyIconData.duo(
     IconData(0xe103, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe103, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe103, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `groovy`
@@ -1940,9 +1940,9 @@ class DeviconIcons {
   );
 
   /// `harvester-wordmark` (paint-order duotone)
-  static const IconifyIconData harvesterWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData harvesterWordmark = IconifyIconData.duo(
     IconData(0xe10f, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe10f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe10f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `haskell`
@@ -1982,15 +1982,15 @@ class DeviconIcons {
   );
 
   /// `hibernate` (paint-order duotone)
-  static const IconifyIconData hibernate = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hibernate = IconifyIconData.duo(
     IconData(0xe2fd, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2fd, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2fd, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hibernate-wordmark` (paint-order duotone)
-  static const IconifyIconData hibernateWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hibernateWordmark = IconifyIconData.duo(
     IconData(0xe2fe, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2fe, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2fe, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `homebrew`
@@ -2019,15 +2019,15 @@ class DeviconIcons {
   );
 
   /// `htmx` (paint-order duotone)
-  static const IconifyIconData htmx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData htmx = IconifyIconData.duo(
     IconData(0xe2ff, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2ff, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2ff, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `htmx-wordmark` (paint-order duotone)
-  static const IconifyIconData htmxWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData htmxWordmark = IconifyIconData.duo(
     IconData(0xe118, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe118, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe118, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `huggingface`
@@ -2081,9 +2081,9 @@ class DeviconIcons {
   );
 
   /// `illustrator` (paint-order duotone)
-  static const IconifyIconData illustrator = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData illustrator = IconifyIconData.duo(
     IconData(0xe121, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe121, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe121, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `inertiajs`
@@ -2172,9 +2172,9 @@ class DeviconIcons {
   );
 
   /// `jamstack-wordmark` (paint-order duotone)
-  static const IconifyIconData jamstackWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData jamstackWordmark = IconifyIconData.duo(
     IconData(0xe300, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe300, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe300, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `jasmine`
@@ -2188,21 +2188,21 @@ class DeviconIcons {
   );
 
   /// `java` (paint-order duotone)
-  static const IconifyIconData java = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData java = IconifyIconData.duo(
     IconData(0xe132, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe132, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe132, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `java-wordmark` (paint-order duotone)
-  static const IconifyIconData javaWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData javaWordmark = IconifyIconData.duo(
     IconData(0xe133, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe133, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe133, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `javascript` (paint-order duotone)
-  static const IconifyIconData javascript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData javascript = IconifyIconData.duo(
     IconData(0xe134, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe134, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe134, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `jeet`
@@ -2242,9 +2242,9 @@ class DeviconIcons {
   );
 
   /// `jhipster` (paint-order duotone)
-  static const IconifyIconData jhipster = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData jhipster = IconifyIconData.duo(
     IconData(0xe301, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe301, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe301, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `jhipster-wordmark`
@@ -2278,9 +2278,9 @@ class DeviconIcons {
   );
 
   /// `jquery-wordmark` (paint-order duotone)
-  static const IconifyIconData jqueryWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData jqueryWordmark = IconifyIconData.duo(
     IconData(0xe302, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe302, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe302, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `json`
@@ -2314,15 +2314,15 @@ class DeviconIcons {
   );
 
   /// `junie-wordmark` (paint-order duotone)
-  static const IconifyIconData junieWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData junieWordmark = IconifyIconData.duo(
     IconData(0xe303, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe303, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe303, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `junit` (paint-order duotone)
-  static const IconifyIconData junit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData junit = IconifyIconData.duo(
     IconData(0xe13c, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe13c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe13c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `junit-wordmark`
@@ -2356,9 +2356,9 @@ class DeviconIcons {
   );
 
   /// `k3os-wordmark` (paint-order duotone)
-  static const IconifyIconData k3osWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData k3osWordmark = IconifyIconData.duo(
     IconData(0xe304, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe304, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe304, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `k3s`
@@ -2367,9 +2367,9 @@ class DeviconIcons {
   );
 
   /// `k3s-wordmark` (paint-order duotone)
-  static const IconifyIconData k3sWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData k3sWordmark = IconifyIconData.duo(
     IconData(0xe305, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe305, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe305, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `k6`
@@ -2388,15 +2388,15 @@ class DeviconIcons {
   );
 
   /// `kaldi` (paint-order duotone)
-  static const IconifyIconData kaldi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData kaldi = IconifyIconData.duo(
     IconData(0xe306, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe306, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe306, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `kaldi-wordmark` (paint-order duotone)
-  static const IconifyIconData kaldiWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData kaldiWordmark = IconifyIconData.duo(
     IconData(0xe307, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe307, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe307, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `kalilinux`
@@ -2420,9 +2420,9 @@ class DeviconIcons {
   );
 
   /// `karma` (paint-order duotone)
-  static const IconifyIconData karma = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData karma = IconifyIconData.duo(
     IconData(0xe146, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe146, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe146, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `kdeneon`
@@ -2431,9 +2431,9 @@ class DeviconIcons {
   );
 
   /// `keras` (paint-order duotone)
-  static const IconifyIconData keras = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData keras = IconifyIconData.duo(
     IconData(0xe148, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe148, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe148, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `keras-wordmark`
@@ -2502,9 +2502,9 @@ class DeviconIcons {
   );
 
   /// `kubernetes` (paint-order duotone)
-  static const IconifyIconData kubernetes = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData kubernetes = IconifyIconData.duo(
     IconData(0xe151, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe151, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe151, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `kubernetes-wordmark`
@@ -2573,9 +2573,9 @@ class DeviconIcons {
   );
 
   /// `linkedin` (paint-order duotone)
-  static const IconifyIconData linkedin = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData linkedin = IconifyIconData.duo(
     IconData(0xe15c, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe15c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe15c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `linkedin-wordmark`
@@ -2664,9 +2664,9 @@ class DeviconIcons {
   );
 
   /// `luau` (paint-order duotone)
-  static const IconifyIconData luau = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData luau = IconifyIconData.duo(
     IconData(0xe16e, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe16e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe16e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lumen`
@@ -2680,9 +2680,9 @@ class DeviconIcons {
   );
 
   /// `magento-wordmark` (paint-order duotone)
-  static const IconifyIconData magentoWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData magentoWordmark = IconifyIconData.duo(
     IconData(0xe308, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe308, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe308, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mapbox`
@@ -2706,15 +2706,15 @@ class DeviconIcons {
   );
 
   /// `materializecss` (paint-order duotone)
-  static const IconifyIconData materializecss = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData materializecss = IconifyIconData.duo(
     IconData(0xe171, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe171, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe171, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `materialui` (paint-order duotone)
-  static const IconifyIconData materialui = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData materialui = IconifyIconData.duo(
     IconData(0xe172, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe172, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe172, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `matlab`
@@ -2818,9 +2818,9 @@ class DeviconIcons {
   );
 
   /// `mocha` (paint-order duotone)
-  static const IconifyIconData mocha = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mocha = IconifyIconData.duo(
     IconData(0xe309, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe309, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe309, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `modx`
@@ -2874,9 +2874,9 @@ class DeviconIcons {
   );
 
   /// `monogame-wordmark` (paint-order duotone)
-  static const IconifyIconData monogameWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData monogameWordmark = IconifyIconData.duo(
     IconData(0xe30a, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe30a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe30a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `moodle`
@@ -2910,15 +2910,15 @@ class DeviconIcons {
   );
 
   /// `mysql-wordmark` (paint-order duotone)
-  static const IconifyIconData mysqlWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mysqlWordmark = IconifyIconData.duo(
     IconData(0xe18c, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe18c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe18c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `n8n-wordmark` (paint-order duotone)
-  static const IconifyIconData n8nWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData n8nWordmark = IconifyIconData.duo(
     IconData(0xe18d, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe18d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe18d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nano`
@@ -2932,15 +2932,15 @@ class DeviconIcons {
   );
 
   /// `nasm` (paint-order duotone)
-  static const IconifyIconData nasm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nasm = IconifyIconData.duo(
     IconData(0xe190, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe190, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe190, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nasm-wordmark` (paint-order duotone)
-  static const IconifyIconData nasmWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nasmWordmark = IconifyIconData.duo(
     IconData(0xe191, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe191, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe191, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nats`
@@ -2949,15 +2949,15 @@ class DeviconIcons {
   );
 
   /// `neo4j` (paint-order duotone)
-  static const IconifyIconData neo4j = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData neo4j = IconifyIconData.duo(
     IconData(0xe193, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe193, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe193, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `neo4j-wordmark` (paint-order duotone)
-  static const IconifyIconData neo4jWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData neo4jWordmark = IconifyIconData.duo(
     IconData(0xe194, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe194, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe194, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `neovim`
@@ -2991,33 +2991,33 @@ class DeviconIcons {
   );
 
   /// `netbox` (paint-order duotone)
-  static const IconifyIconData netbox = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData netbox = IconifyIconData.duo(
     IconData(0xe30b, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe30b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe30b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `netbox-wordmark` (paint-order duotone)
-  static const IconifyIconData netboxWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData netboxWordmark = IconifyIconData.duo(
     IconData(0xe30c, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe30c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe30c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `netlify` (paint-order duotone)
-  static const IconifyIconData netlify = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData netlify = IconifyIconData.duo(
     IconData(0xe30d, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe30d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe30d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `netlify-wordmark` (paint-order duotone)
-  static const IconifyIconData netlifyWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData netlifyWordmark = IconifyIconData.duo(
     IconData(0xe199, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe199, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe199, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `networkx` (paint-order duotone)
-  static const IconifyIconData networkx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData networkx = IconifyIconData.duo(
     IconData(0xe19a, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe19a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe19a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `networkx-wordmark`
@@ -3056,21 +3056,21 @@ class DeviconIcons {
   );
 
   /// `nhibernate` (paint-order duotone)
-  static const IconifyIconData nhibernate = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nhibernate = IconifyIconData.duo(
     IconData(0xe30e, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe30e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe30e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nhibernate-wordmark` (paint-order duotone)
-  static const IconifyIconData nhibernateWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nhibernateWordmark = IconifyIconData.duo(
     IconData(0xe30f, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe30f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe30f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nim` (paint-order duotone)
-  static const IconifyIconData nim = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nim = IconifyIconData.duo(
     IconData(0xe1a1, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1a1, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1a1, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nim-wordmark`
@@ -3084,9 +3084,9 @@ class DeviconIcons {
   );
 
   /// `nixos` (paint-order duotone)
-  static const IconifyIconData nixos = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nixos = IconifyIconData.duo(
     IconData(0xe1a4, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1a4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1a4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nixos-wordmark`
@@ -3105,9 +3105,9 @@ class DeviconIcons {
   );
 
   /// `nodemon` (paint-order duotone)
-  static const IconifyIconData nodemon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nodemon = IconifyIconData.duo(
     IconData(0xe1a8, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1a8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1a8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nodered`
@@ -3151,9 +3151,9 @@ class DeviconIcons {
   );
 
   /// `npm` (paint-order duotone)
-  static const IconifyIconData npm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData npm = IconifyIconData.duo(
     IconData(0xe310, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe310, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe310, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `npm-wordmark`
@@ -3177,9 +3177,9 @@ class DeviconIcons {
   );
 
   /// `numpy` (paint-order duotone)
-  static const IconifyIconData numpy = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData numpy = IconifyIconData.duo(
     IconData(0xe1b1, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1b1, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1b1, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `numpy-wordmark`
@@ -3218,9 +3218,9 @@ class DeviconIcons {
   );
 
   /// `ocaml-wordmark` (paint-order duotone)
-  static const IconifyIconData ocamlWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ocamlWordmark = IconifyIconData.duo(
     IconData(0xe311, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe311, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe311, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ohmyzsh`
@@ -3229,15 +3229,15 @@ class DeviconIcons {
   );
 
   /// `okta` (paint-order duotone)
-  static const IconifyIconData okta = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData okta = IconifyIconData.duo(
     IconData(0xe1b8, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1b8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1b8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `okta-wordmark` (paint-order duotone)
-  static const IconifyIconData oktaWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData oktaWordmark = IconifyIconData.duo(
     IconData(0xe1b9, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1b9, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1b9, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ollama`
@@ -3246,9 +3246,9 @@ class DeviconIcons {
   );
 
   /// `openal` (paint-order duotone)
-  static const IconifyIconData openal = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData openal = IconifyIconData.duo(
     IconData(0xe1bb, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1bb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1bb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `openapi`
@@ -3287,9 +3287,9 @@ class DeviconIcons {
   );
 
   /// `openstack-wordmark` (paint-order duotone)
-  static const IconifyIconData openstackWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData openstackWordmark = IconifyIconData.duo(
     IconData(0xe1c2, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1c2, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1c2, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `opensuse`
@@ -3303,15 +3303,15 @@ class DeviconIcons {
   );
 
   /// `opentelemetry` (paint-order duotone)
-  static const IconifyIconData opentelemetry = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData opentelemetry = IconifyIconData.duo(
     IconData(0xe312, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe312, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe312, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `opentelemetry-wordmark` (paint-order duotone)
-  static const IconifyIconData opentelemetryWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData opentelemetryWordmark = IconifyIconData.duo(
     IconData(0xe313, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe313, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe313, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `opera`
@@ -3330,9 +3330,9 @@ class DeviconIcons {
   );
 
   /// `opnsense-wordmark` (paint-order duotone)
-  static const IconifyIconData opnsenseWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData opnsenseWordmark = IconifyIconData.duo(
     IconData(0xe1c8, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1c8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1c8, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `oracle`
@@ -3356,9 +3356,9 @@ class DeviconIcons {
   );
 
   /// `packer` (paint-order duotone)
-  static const IconifyIconData packer = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData packer = IconifyIconData.duo(
     IconData(0xe1cb, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1cb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1cb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `packer-wordmark`
@@ -3397,9 +3397,9 @@ class DeviconIcons {
   );
 
   /// `perl` (paint-order duotone)
-  static const IconifyIconData perl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData perl = IconifyIconData.duo(
     IconData(0xe1d1, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1d1, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1d1, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pfsense`
@@ -3423,9 +3423,9 @@ class DeviconIcons {
   );
 
   /// `phoenix-wordmark` (paint-order duotone)
-  static const IconifyIconData phoenixWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData phoenixWordmark = IconifyIconData.duo(
     IconData(0xe314, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe314, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe314, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `photonengine`
@@ -3434,9 +3434,9 @@ class DeviconIcons {
   );
 
   /// `photoshop` (paint-order duotone)
-  static const IconifyIconData photoshop = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData photoshop = IconifyIconData.duo(
     IconData(0xe315, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe315, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe315, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `php`
@@ -3492,15 +3492,15 @@ class DeviconIcons {
   );
 
   /// `pnpm` (paint-order duotone)
-  static const IconifyIconData pnpm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pnpm = IconifyIconData.duo(
     IconData(0xe1db, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1db, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1db, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pnpm-wordmark` (paint-order duotone)
-  static const IconifyIconData pnpmWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pnpmWordmark = IconifyIconData.duo(
     IconData(0xe1dc, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1dc, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1dc, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `podman`
@@ -3519,9 +3519,9 @@ class DeviconIcons {
   );
 
   /// `polygon` (paint-order duotone)
-  static const IconifyIconData polygon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData polygon = IconifyIconData.duo(
     IconData(0xe1df, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1df, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1df, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `polygon-wordmark`
@@ -3540,9 +3540,9 @@ class DeviconIcons {
   );
 
   /// `positron` (paint-order duotone)
-  static const IconifyIconData positron = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData positron = IconifyIconData.duo(
     IconData(0xe1e2, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1e2, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1e2, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `postcss`
@@ -3551,9 +3551,9 @@ class DeviconIcons {
   );
 
   /// `postcss-wordmark` (paint-order duotone)
-  static const IconifyIconData postcssWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData postcssWordmark = IconifyIconData.duo(
     IconData(0xe1e4, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1e4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1e4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `postgresql`
@@ -3567,9 +3567,9 @@ class DeviconIcons {
   );
 
   /// `postman` (paint-order duotone)
-  static const IconifyIconData postman = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData postman = IconifyIconData.duo(
     IconData(0xe316, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe316, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe316, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `postman-wordmark`
@@ -3583,9 +3583,9 @@ class DeviconIcons {
   );
 
   /// `premierepro` (paint-order duotone)
-  static const IconifyIconData premierepro = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData premierepro = IconifyIconData.duo(
     IconData(0xe1e9, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1e9, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1e9, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `prestashop`
@@ -3629,9 +3629,9 @@ class DeviconIcons {
   );
 
   /// `processwire-wordmark` (paint-order duotone)
-  static const IconifyIconData processwireWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData processwireWordmark = IconifyIconData.duo(
     IconData(0xe317, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe317, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe317, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `prolog`
@@ -3650,9 +3650,9 @@ class DeviconIcons {
   );
 
   /// `prometheus-wordmark` (paint-order duotone)
-  static const IconifyIconData prometheusWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData prometheusWordmark = IconifyIconData.duo(
     IconData(0xe1f0, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1f0, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1f0, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `protractor`
@@ -3741,9 +3741,9 @@ class DeviconIcons {
   );
 
   /// `pyscript-wordmark` (paint-order duotone)
-  static const IconifyIconData pyscriptWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pyscriptWordmark = IconifyIconData.duo(
     IconData(0xe318, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe318, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe318, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pytest`
@@ -3762,9 +3762,9 @@ class DeviconIcons {
   );
 
   /// `python-wordmark` (paint-order duotone)
-  static const IconifyIconData pythonWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pythonWordmark = IconifyIconData.duo(
     IconData(0xe1fa, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe1fa, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe1fa, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pytorch`
@@ -3838,9 +3838,9 @@ class DeviconIcons {
   );
 
   /// `rabbitmq-wordmark` (paint-order duotone)
-  static const IconifyIconData rabbitmqWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rabbitmqWordmark = IconifyIconData.duo(
     IconData(0xe207, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe207, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe207, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `racket`
@@ -3899,9 +3899,9 @@ class DeviconIcons {
   );
 
   /// `reach` (paint-order duotone)
-  static const IconifyIconData reach = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData reach = IconifyIconData.duo(
     IconData(0xe319, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe319, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe319, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `react`
@@ -3935,15 +3935,15 @@ class DeviconIcons {
   );
 
   /// `reactrouter` (paint-order duotone)
-  static const IconifyIconData reactrouter = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData reactrouter = IconifyIconData.duo(
     IconData(0xe31a, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe31a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe31a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `reactrouter-wordmark` (paint-order duotone)
-  static const IconifyIconData reactrouterWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData reactrouterWordmark = IconifyIconData.duo(
     IconData(0xe31b, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe31b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe31b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `readthedocs`
@@ -3997,9 +3997,9 @@ class DeviconIcons {
   );
 
   /// `reflex` (paint-order duotone)
-  static const IconifyIconData reflex = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData reflex = IconifyIconData.duo(
     IconData(0xe31c, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe31c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe31c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `reflex-wordmark`
@@ -4028,9 +4028,9 @@ class DeviconIcons {
   );
 
   /// `replit-wordmark` (paint-order duotone)
-  static const IconifyIconData replitWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData replitWordmark = IconifyIconData.duo(
     IconData(0xe21b, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe21b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe21b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rexx`
@@ -4054,9 +4054,9 @@ class DeviconIcons {
   );
 
   /// `rocksdb` (paint-order duotone)
-  static const IconifyIconData rocksdb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rocksdb = IconifyIconData.duo(
     IconData(0xe220, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe220, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe220, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rockylinux`
@@ -4100,9 +4100,9 @@ class DeviconIcons {
   );
 
   /// `rstudio` (paint-order duotone)
-  static const IconifyIconData rstudio = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rstudio = IconifyIconData.duo(
     IconData(0xe225, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe225, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe225, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ruby`
@@ -4146,9 +4146,9 @@ class DeviconIcons {
   );
 
   /// `salesforce` (paint-order duotone)
-  static const IconifyIconData salesforce = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData salesforce = IconifyIconData.duo(
     IconData(0xe22d, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe22d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe22d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sanity`
@@ -4162,15 +4162,15 @@ class DeviconIcons {
   );
 
   /// `scala` (paint-order duotone)
-  static const IconifyIconData scala = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData scala = IconifyIconData.duo(
     IconData(0xe22f, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe22f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe22f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `scala-wordmark` (paint-order duotone)
-  static const IconifyIconData scalaWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData scalaWordmark = IconifyIconData.duo(
     IconData(0xe230, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe230, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe230, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `scaleway`
@@ -4184,9 +4184,9 @@ class DeviconIcons {
   );
 
   /// `scalingo` (paint-order duotone)
-  static const IconifyIconData scalingo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData scalingo = IconifyIconData.duo(
     IconData(0xe231, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe231, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe231, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `scalingo-wordmark`
@@ -4300,9 +4300,9 @@ class DeviconIcons {
   );
 
   /// `socketio-wordmark` (paint-order duotone)
-  static const IconifyIconData socketioWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData socketioWordmark = IconifyIconData.duo(
     IconData(0xe31d, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe31d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe31d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `solidity`
@@ -4331,9 +4331,9 @@ class DeviconIcons {
   );
 
   /// `sourceengine` (paint-order duotone)
-  static const IconifyIconData sourceengine = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sourceengine = IconifyIconData.duo(
     IconData(0xe24c, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe24c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe24c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sourceengine-wordmark`
@@ -4377,33 +4377,33 @@ class DeviconIcons {
   );
 
   /// `spss` (paint-order duotone)
-  static const IconifyIconData spss = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData spss = IconifyIconData.duo(
     IconData(0xe31e, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe31e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe31e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `spyder` (paint-order duotone)
-  static const IconifyIconData spyder = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData spyder = IconifyIconData.duo(
     IconData(0xe31f, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe31f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe31f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `spyder-wordmark` (paint-order duotone)
-  static const IconifyIconData spyderWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData spyderWordmark = IconifyIconData.duo(
     IconData(0xe250, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe250, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe250, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sqlalchemy` (paint-order duotone)
-  static const IconifyIconData sqlalchemy = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sqlalchemy = IconifyIconData.duo(
     IconData(0xe251, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe251, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe251, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sqlalchemy-wordmark` (paint-order duotone)
-  static const IconifyIconData sqlalchemyWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sqlalchemyWordmark = IconifyIconData.duo(
     IconData(0xe252, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe252, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe252, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sqldeveloper`
@@ -4442,9 +4442,9 @@ class DeviconIcons {
   );
 
   /// `stackoverflow` (paint-order duotone)
-  static const IconifyIconData stackoverflow = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData stackoverflow = IconifyIconData.duo(
     IconData(0xe257, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe257, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe257, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `stackoverflow-wordmark`
@@ -4493,9 +4493,9 @@ class DeviconIcons {
   );
 
   /// `storybook-wordmark` (paint-order duotone)
-  static const IconifyIconData storybookWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData storybookWordmark = IconifyIconData.duo(
     IconData(0xe25e, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe25e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe25e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `streamlit`
@@ -4564,15 +4564,15 @@ class DeviconIcons {
   );
 
   /// `svelte` (paint-order duotone)
-  static const IconifyIconData svelte = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData svelte = IconifyIconData.duo(
     IconData(0xe26a, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe26a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe26a, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `svelte-wordmark` (paint-order duotone)
-  static const IconifyIconData svelteWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData svelteWordmark = IconifyIconData.duo(
     IconData(0xe26b, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe26b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe26b, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `svgo`
@@ -4586,21 +4586,21 @@ class DeviconIcons {
   );
 
   /// `swagger` (paint-order duotone)
-  static const IconifyIconData swagger = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData swagger = IconifyIconData.duo(
     IconData(0xe26e, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe26e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe26e, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `swagger-wordmark` (paint-order duotone)
-  static const IconifyIconData swaggerWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData swaggerWordmark = IconifyIconData.duo(
     IconData(0xe26f, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe26f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe26f, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `swift` (paint-order duotone)
-  static const IconifyIconData swift = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData swift = IconifyIconData.duo(
     IconData(0xe320, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe320, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe320, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `swift-wordmark`
@@ -4629,9 +4629,9 @@ class DeviconIcons {
   );
 
   /// `tailwindcss-wordmark` (paint-order duotone)
-  static const IconifyIconData tailwindcssWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tailwindcssWordmark = IconifyIconData.duo(
     IconData(0xe274, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe274, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe274, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `talos`
@@ -4640,9 +4640,9 @@ class DeviconIcons {
   );
 
   /// `tauri` (paint-order duotone)
-  static const IconifyIconData tauri = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tauri = IconifyIconData.duo(
     IconData(0xe276, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe276, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe276, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tauri-wordmark`
@@ -4676,9 +4676,9 @@ class DeviconIcons {
   );
 
   /// `tensorflow-wordmark` (paint-order duotone)
-  static const IconifyIconData tensorflowWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tensorflowWordmark = IconifyIconData.duo(
     IconData(0xe27d, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe27d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe27d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tenzir`
@@ -4692,9 +4692,9 @@ class DeviconIcons {
   );
 
   /// `terraform` (paint-order duotone)
-  static const IconifyIconData terraform = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData terraform = IconifyIconData.duo(
     IconData(0xe280, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe280, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe280, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `terraform-wordmark`
@@ -4718,9 +4718,9 @@ class DeviconIcons {
   );
 
   /// `testrail-wordmark` (paint-order duotone)
-  static const IconifyIconData testrailWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData testrailWordmark = IconifyIconData.duo(
     IconData(0xe285, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe285, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe285, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tex`
@@ -4734,9 +4734,9 @@ class DeviconIcons {
   );
 
   /// `thealgorithms-wordmark` (paint-order duotone)
-  static const IconifyIconData thealgorithmsWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData thealgorithmsWordmark = IconifyIconData.duo(
     IconData(0xe288, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe288, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe288, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `threedsmax`
@@ -4780,15 +4780,15 @@ class DeviconIcons {
   );
 
   /// `tmux` (paint-order duotone)
-  static const IconifyIconData tmux = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tmux = IconifyIconData.duo(
     IconData(0xe290, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe290, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe290, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tmux-wordmark` (paint-order duotone)
-  static const IconifyIconData tmuxWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tmuxWordmark = IconifyIconData.duo(
     IconData(0xe291, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe291, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe291, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tomcat`
@@ -4860,15 +4860,15 @@ class DeviconIcons {
   );
 
   /// `trpc` (paint-order duotone)
-  static const IconifyIconData trpc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData trpc = IconifyIconData.duo(
     IconData(0xe29c, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe29c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe29c, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `trpc-wordmark` (paint-order duotone)
-  static const IconifyIconData trpcWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData trpcWordmark = IconifyIconData.duo(
     IconData(0xe29d, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe29d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe29d, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `turbo`
@@ -4897,9 +4897,9 @@ class DeviconIcons {
   );
 
   /// `typeorm` (paint-order duotone)
-  static const IconifyIconData typeorm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData typeorm = IconifyIconData.duo(
     IconData(0xe2a0, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2a0, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2a0, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `typeorm-wordmark`
@@ -4918,9 +4918,9 @@ class DeviconIcons {
   );
 
   /// `typescript` (paint-order duotone)
-  static const IconifyIconData typescript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData typescript = IconifyIconData.duo(
     IconData(0xe2a4, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2a4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2a4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `typo3`
@@ -4934,9 +4934,9 @@ class DeviconIcons {
   );
 
   /// `ubuntu` (paint-order duotone)
-  static const IconifyIconData ubuntu = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ubuntu = IconifyIconData.duo(
     IconData(0xe321, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe321, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe321, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ubuntu-wordmark`
@@ -5005,9 +5005,9 @@ class DeviconIcons {
   );
 
   /// `vagrant` (paint-order duotone)
-  static const IconifyIconData vagrant = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vagrant = IconifyIconData.duo(
     IconData(0xe322, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe322, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe322, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `vagrant-wordmark`
@@ -5063,9 +5063,9 @@ class DeviconIcons {
   );
 
   /// `vertx` (paint-order duotone)
-  static const IconifyIconData vertx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vertx = IconifyIconData.duo(
     IconData(0xe323, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe323, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe323, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `vertx-wordmark`
@@ -5186,9 +5186,9 @@ class DeviconIcons {
   );
 
   /// `waku` (paint-order duotone)
-  static const IconifyIconData waku = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData waku = IconifyIconData.duo(
     IconData(0xe324, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe324, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe324, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wasm`
@@ -5197,9 +5197,9 @@ class DeviconIcons {
   );
 
   /// `wasm-wordmark` (paint-order duotone)
-  static const IconifyIconData wasmWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wasmWordmark = IconifyIconData.duo(
     IconData(0xe325, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe325, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe325, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `web3`
@@ -5238,15 +5238,15 @@ class DeviconIcons {
   );
 
   /// `webpack` (paint-order duotone)
-  static const IconifyIconData webpack = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData webpack = IconifyIconData.duo(
     IconData(0xe2ca, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2ca, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2ca, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `webpack-wordmark` (paint-order duotone)
-  static const IconifyIconData webpackWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData webpackWordmark = IconifyIconData.duo(
     IconData(0xe2cb, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2cb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2cb, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `webstorm`
@@ -5300,9 +5300,9 @@ class DeviconIcons {
   );
 
   /// `woocommerce` (paint-order duotone)
-  static const IconifyIconData woocommerce = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData woocommerce = IconifyIconData.duo(
     IconData(0xe2d4, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe2d4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe2d4, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `woocommerce-wordmark`
@@ -5331,9 +5331,9 @@ class DeviconIcons {
   );
 
   /// `xd` (paint-order duotone)
-  static const IconifyIconData xd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData xd = IconifyIconData.duo(
     IconData(0xe326, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe326, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe326, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `xml`
@@ -5382,9 +5382,9 @@ class DeviconIcons {
   );
 
   /// `yugabytedb-wordmark` (paint-order duotone)
-  static const IconifyIconData yugabytedbWordmark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData yugabytedbWordmark = IconifyIconData.duo(
     IconData(0xe327, fontFamily: 'Devicon', fontPackage: 'iconifyx_devicon'),
-    IconData(0xe327, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'),
+    IconData(0xe327, fontFamily: 'DeviconSecondary', fontPackage: 'iconifyx_devicon'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `yunohost`

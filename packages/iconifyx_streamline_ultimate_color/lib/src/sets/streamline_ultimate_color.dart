@@ -82,9 +82,9 @@ class StreamlineUltimateColorIcons {
   );
 
   /// `amazon-web-services-logo` (paint-order duotone)
-  static const IconifyIconData amazonWebServicesLogo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData amazonWebServicesLogo = IconifyIconData.duo(
     IconData(0xe00d, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
-    IconData(0xe00d, fontFamily: 'StreamlineUltimateColorSecondary', fontPackage: 'iconifyx_streamline_ultimate_color'),
+    IconData(0xe00d, fontFamily: 'StreamlineUltimateColorSecondary', fontPackage: 'iconifyx_streamline_ultimate_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ambulance-call`
@@ -1418,9 +1418,9 @@ class StreamlineUltimateColorIcons {
   );
 
   /// `loading` (paint-order duotone)
-  static const IconifyIconData loading = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData loading = IconifyIconData.duo(
     IconData(0xe118, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
-    IconData(0xe118, fontFamily: 'StreamlineUltimateColorSecondary', fontPackage: 'iconifyx_streamline_ultimate_color'),
+    IconData(0xe118, fontFamily: 'StreamlineUltimateColorSecondary', fontPackage: 'iconifyx_streamline_ultimate_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `loading-half`

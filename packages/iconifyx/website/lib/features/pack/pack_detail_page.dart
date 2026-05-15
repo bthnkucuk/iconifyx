@@ -247,13 +247,15 @@ class _LoadedBody extends StatelessWidget {
         final iconRenderSize =
             ((cellWidth - 28) / 2).clamp(16.0, 96.0);
 
+        final cardColor = isDark ? AppTheme.cardDark : AppTheme.card;
         final palette = _CellPalette(
-          card: isDark ? AppTheme.cardDark : AppTheme.card,
+          card: cardColor,
           rule: isDark ? AppTheme.ruleDark : AppTheme.rule,
           coralSoft: isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft,
           muted: muted,
           iconColor: iconColor,
           iconRenderSize: iconRenderSize,
+          surfaceForKnockout: cardColor,
         );
 
         final sidebar = route.selectorBuilder<String?>(
@@ -404,6 +406,7 @@ class _CellPalette {
     required this.muted,
     required this.iconColor,
     required this.iconRenderSize,
+    required this.surfaceForKnockout,
   });
   final Color card;
   final Color rule;
@@ -411,6 +414,13 @@ class _CellPalette {
   final Color muted;
   final Color iconColor;
   final double iconRenderSize;
+  /// The colour passed to `IconifyThumb.secondaryColor` so paint-order
+  /// duotones (logos / crypto-color / fluent-emoji-flat / …) render their
+  /// foreground letterform as a knockout against the primary background
+  /// tile. Resolved once in `_LoadedBody.build` from the cell's own card
+  /// colour — the foreground letter visually "punches out" of the
+  /// currentColor-filled tile and the gap reads as the card surface.
+  final Color surfaceForKnockout;
 }
 
 class _GridContent extends StatelessWidget {
@@ -513,6 +523,7 @@ class _IconCell extends StatelessWidget {
                                 iconData,
                                 size: palette.iconRenderSize,
                                 color: accent,
+                                secondaryColor: palette.surfaceForKnockout,
                               ),
                       ),
                     ),

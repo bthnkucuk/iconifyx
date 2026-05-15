@@ -268,6 +268,11 @@ class _PreviewCard extends StatelessWidget {
                         record.toIconifyData(),
                         size: s.toDouble(),
                         color: ink,
+                        // paper2 = swatch tile background. For paint-order
+                        // duotones the foreground letterform "knocks out"
+                        // to this colour, so it reads correctly against
+                        // the currentColor-filled background tile.
+                        secondaryColor: paper2,
                       ),
                     ),
                     const SizedBox(height: 6),
@@ -877,6 +882,10 @@ class _SideBySidePreview extends StatelessWidget {
             record.toIconifyData(),
             size: _iconSize,
             color: ink,
+            // paperBg = tile background. For paint-order duotones the
+            // foreground letterform knocks out to this colour so it's
+            // visible against the currentColor-filled background tile.
+            secondaryColor: paperBg,
           ),
         );
         final source = _PreviewTile(

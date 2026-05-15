@@ -1,12 +1,11 @@
-import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
 import 'icon_data.dart';
 
-/// Drop-in replacement for [Icon] that handles every [IconifyIconData]
+/// Drop-in replacement for [Icon] that renders any [IconifyIconData]
 /// flavour — solo, hint-layer duotone, paint-order duotone, mask-internal
-/// duotone — with one constructor and sensible defaults. Callers use it
-/// exactly like Flutter's [Icon]:
+/// duotone — with one constructor and sensible defaults. Use it exactly
+/// like Flutter's [Icon]:
 ///
 /// ```dart
 /// IconifyIcon(MdiIcons.home, color: Colors.indigo, size: 24)
@@ -14,24 +13,29 @@ import 'icon_data.dart';
 /// IconifyIcon(LogosIcons.adobeAfterEffects, size: 24)
 /// ```
 ///
-/// The widget inspects [IconifyIconData.kind] to choose the correct
-/// composition:
+/// The widget inspects [IconifyIconData.kind] to choose the composition:
 ///
 /// - **Solo** — single layer in [color] (defaults to ambient `IconTheme`).
 /// - **Hint-layer duotone** — secondary BEHIND primary at 40% opacity,
-///   same colour. Matches FontAwesome-style duotones.
+///   same colour as primary.
 /// - **Paint-order duotone** — primary BEHIND (the background tile),
-///   secondary ON TOP at full opacity. Default secondary colour is the
-///   ambient `ColorScheme.surface` so the foreground letterform
-///   "knocks out" of the currentColor-filled background tile (Adobe Ae,
-///   logos:figma's foreground letter, cryptocurrency-color's symbol, …).
+///   secondary ON TOP at full opacity. Caller should pass a contrasting
+///   [secondaryColor] (e.g. the page background); without one the
+///   foreground falls back to white.
 /// - **Mask-internal duotone** — same render as hint-layer.
 ///
 /// All defaults can be overridden via [secondaryColor] / [secondaryOpacity].
-/// The outer shape mirrors Flutter's [Icon] (`Semantics` + `SizedBox`) so
-/// layout is identical regardless of duotone flavour.
+/// `iconifyx_core` depends ONLY on `flutter/widgets`; no Material context
+/// is required (callers from Material apps can hand any Material colour
+/// down through the [secondaryColor] parameter).
 class IconifyIcon extends StatelessWidget {
-  /// The icon to render. The widget auto-detects duotone flavour from
+  /// Fallback when a paint-order duotone is rendered without an explicit
+  /// [secondaryColor]. Chosen so light foreground letterforms (most
+  /// `logos:*`, crypto-color, emoji packs) read against a dark primary
+  /// tile. Consumers with a known theme should override.
+  static const Color paintOrderSecondaryFallback = Color(0xFFFFFFFF);
+
+  /// The icon to render. Auto-detects duotone flavour from
   /// [IconifyIconData.kind].
   final IconifyIconData icon;
 
@@ -39,21 +43,22 @@ class IconifyIcon extends StatelessWidget {
   final double? size;
 
   /// Colour for the primary layer. Defaults to the ambient [IconTheme]
-  /// colour (the user's "icon colour").
+  /// colour.
   final Color? color;
 
   /// Override colour for the secondary layer of duo-tone icons. Defaults:
   ///
   /// - **Hint / mask-internal**: same as [color], rendered at
   ///   [secondaryOpacity] (40% by default).
-  /// - **Paint-order**: ambient `ColorScheme.surface` (the page / card
-  ///   background), at full opacity, so the foreground letterform reads
-  ///   as a knockout against the colored background tile.
+  /// - **Paint-order**: [paintOrderSecondaryFallback] (white) at full
+  ///   opacity. Callers should pass their surface / page background
+  ///   colour here so the foreground letterform "knocks out" of the
+  ///   colored background tile.
   final Color? secondaryColor;
 
-  /// Opacity applied to the secondary layer when [secondaryColor] is
-  /// `null`. Default depends on kind: 0.4 for hint/mask-internal, 1.0
-  /// for paint-order.
+  /// Opacity for the secondary layer when [secondaryColor] is `null`.
+  /// Default depends on kind: 0.4 for hint / mask-internal, 1.0 for
+  /// paint-order.
   final double? secondaryOpacity;
 
   final String? semanticLabel;
@@ -84,12 +89,11 @@ class IconifyIcon extends StatelessWidget {
     final bool paintOrder = icon.isPaintOrderDuotone;
     Color? effectiveSecondary;
     if (secondary != null) {
-      // Knockout default for paint-order: surface colour at full opacity.
-      // For hint / mask-internal: same colour at 40% opacity.
+      // Knockout default for paint-order: white at full opacity (caller
+      // should override with theme.surface where available). Hint /
+      // mask-internal: primary colour at 40% opacity.
       final Color secBase = secondaryColor ??
-          (paintOrder
-              ? Theme.of(context).colorScheme.surface
-              : effectiveColor);
+          (paintOrder ? paintOrderSecondaryFallback : effectiveColor);
       final double secAlpha = secondaryOpacity ?? (paintOrder ? 1.0 : 0.4);
       effectiveSecondary = secBase.withValues(alpha: secAlpha);
     }
@@ -110,7 +114,6 @@ class IconifyIcon extends StatelessWidget {
             primaryColor: effectiveColor,
             secondaryColor: effectiveSecondary,
             // Paint-order: primary BEHIND, secondary ON TOP.
-            // Otherwise (hint / mask-internal / solo): secondary BEHIND, primary ON TOP.
             secondaryOnTop: paintOrder,
             size: effectiveSize,
             textDirection: effectiveDir,
@@ -126,9 +129,6 @@ class IconifyIcon extends StatelessWidget {
 /// no nested widgets). Layer order is controlled by [secondaryOnTop] so
 /// paint-order duotones render their foreground letterform on top while
 /// hint-layer duotones keep the faint backdrop behind the solid primary.
-/// Both glyphs share an em-square (the generator pairs primary + secondary
-/// fonts at the same metrics) so painting both at [Offset.zero] reproduces
-/// the original SVG layering.
 class _IconifyPainter extends CustomPainter {
   final IconData primary;
   final IconData? secondary;
@@ -154,12 +154,9 @@ class _IconifyPainter extends CustomPainter {
   void paint(Canvas canvas, Size canvasSize) {
     final hasSecondary = secondary != null && secondaryColor != null;
     if (hasSecondary && secondaryOnTop) {
-      // Paint-order: primary BEHIND, secondary ON TOP.
       _paintGlyph(canvas, primary, primaryColor);
       _paintGlyph(canvas, secondary!, secondaryColor!);
     } else {
-      // Hint-layer / mask-internal / solo: secondary BEHIND (if present),
-      // primary ON TOP.
       if (hasSecondary) {
         _paintGlyph(canvas, secondary!, secondaryColor!);
       }

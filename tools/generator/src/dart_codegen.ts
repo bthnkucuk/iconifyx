@@ -74,20 +74,17 @@ export function emitSetDart(input: DartCodegenInput): string {
     if (entry.duotone) {
       // Single const per duotone icon: bundles both layers (primary in
       // the regular font, secondary at the same codepoint in
-      // <Family>Secondary). Constructor choice is driven by
-      // `duotoneKind` — `duo` for hint-layer (Phosphor / Solar / ic),
-      // `duoPaintOrder` for two-fill paint-order (logos / crypto-color /
-      // fluent-emoji-flat), `duoMaskInternal` for lets-icons mask-
-      // internal. `IconifyIcon` reads `IconifyIconData.kind` at render
-      // time and composes the layers accordingly.
+      // <Family>Secondary). Sole constructor `IconifyIconData.duo` takes
+      // an optional `kind:` named arg that drives `IconifyIcon`'s render
+      // composition (hint-layer / paint-order / mask-internal).
       const secFamily = secondaryFontFamily(entry.fontFamily);
       const kind = entry.duotoneKind ?? 'hint';
-      const constructor =
+      const kindArg =
         kind === 'paintOrder'
-          ? 'duoPaintOrder'
+          ? ', kind: IconifyIconData.kindPaintOrder'
           : kind === 'maskInternal'
-            ? 'duoMaskInternal'
-            : 'duo';
+            ? ', kind: IconifyIconData.kindMaskInternal'
+            : '';
       const kindNote =
         kind === 'paintOrder'
           ? ' (paint-order duotone)'
@@ -95,9 +92,9 @@ export function emitSetDart(input: DartCodegenInput): string {
             ? ' (mask-internal duotone)'
             : ' (duo-tone)';
       lines.push(`  /// \`${escapeDoc(name)}\`${kindNote}`);
-      lines.push(`  static const IconifyIconData ${entry.identifier} = IconifyIconData.${constructor}(`);
+      lines.push(`  static const IconifyIconData ${entry.identifier} = IconifyIconData.duo(`);
       lines.push(`    IconData(${formatCodepoint(entry.codepoint)}, fontFamily: '${entry.fontFamily}', fontPackage: '${fontPackage}'),`);
-      lines.push(`    IconData(${formatCodepoint(entry.codepoint)}, fontFamily: '${secFamily}', fontPackage: '${fontPackage}'),`);
+      lines.push(`    IconData(${formatCodepoint(entry.codepoint)}, fontFamily: '${secFamily}', fontPackage: '${fontPackage}')${kindArg},`);
       lines.push(`  );`);
       lines.push('');
       continue;

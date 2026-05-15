@@ -27,27 +27,27 @@ class VscodeIconsIcons {
   );
 
   /// `default-root-folder` (paint-order duotone)
-  static const IconifyIconData defaultRootFolder = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData defaultRootFolder = IconifyIconData.duo(
     IconData(0xe1a2, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1a2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1a2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `default-root-folder-opened` (paint-order duotone)
-  static const IconifyIconData defaultRootFolderOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData defaultRootFolderOpened = IconifyIconData.duo(
     IconData(0xe002, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe002, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe002, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-access2` (paint-order duotone)
-  static const IconifyIconData fileTypeAccess2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAccess2 = IconifyIconData.duo(
     IconData(0xe1a3, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1a3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1a3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-actionscript2` (paint-order duotone)
-  static const IconifyIconData fileTypeActionscript2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeActionscript2 = IconifyIconData.duo(
     IconData(0xe1a4, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1a4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1a4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-advpl`
@@ -71,9 +71,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-ai` (paint-order duotone)
-  static const IconifyIconData fileTypeAi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAi = IconifyIconData.duo(
     IconData(0xe005, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe005, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe005, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-al`
@@ -87,9 +87,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-allcontributors` (paint-order duotone)
-  static const IconifyIconData fileTypeAllcontributors = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAllcontributors = IconifyIconData.duo(
     IconData(0xe1a5, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1a5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1a5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-allure`
@@ -103,21 +103,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-antlr` (paint-order duotone)
-  static const IconifyIconData fileTypeAntlr = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAntlr = IconifyIconData.duo(
     IconData(0xe008, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe008, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe008, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-apib` (paint-order duotone)
-  static const IconifyIconData fileTypeApib = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeApib = IconifyIconData.duo(
     IconData(0xe1a6, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1a6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1a6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-apib2` (paint-order duotone)
-  static const IconifyIconData fileTypeApib2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeApib2 = IconifyIconData.duo(
     IconData(0xe1a7, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1a7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1a7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-apl`
@@ -131,21 +131,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-appsemble` (paint-order duotone)
-  static const IconifyIconData fileTypeAppsemble = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAppsemble = IconifyIconData.duo(
     IconData(0xe1a8, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1a8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1a8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-appveyor` (paint-order duotone)
-  static const IconifyIconData fileTypeAppveyor = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAppveyor = IconifyIconData.duo(
     IconData(0xe00c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe00c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe00c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-asciidoc` (paint-order duotone)
-  static const IconifyIconData fileTypeAsciidoc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAsciidoc = IconifyIconData.duo(
     IconData(0xe1a9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1a9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1a9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-asp`
@@ -154,9 +154,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-assembly-script` (paint-order duotone)
-  static const IconifyIconData fileTypeAssemblyScript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAssemblyScript = IconifyIconData.duo(
     IconData(0xe00f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe00f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe00f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-atom`
@@ -165,9 +165,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-attw` (paint-order duotone)
-  static const IconifyIconData fileTypeAttw = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAttw = IconifyIconData.duo(
     IconData(0xe010, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe010, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe010, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-audio`
@@ -176,9 +176,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-autoit` (paint-order duotone)
-  static const IconifyIconData fileTypeAutoit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeAutoit = IconifyIconData.duo(
     IconData(0xe012, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe012, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe012, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-avro`
@@ -202,9 +202,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-bak` (paint-order duotone)
-  static const IconifyIconData fileTypeBak = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeBak = IconifyIconData.duo(
     IconData(0xe017, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe017, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe017, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-ballerina`
@@ -213,9 +213,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-bats` (paint-order duotone)
-  static const IconifyIconData fileTypeBats = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeBats = IconifyIconData.duo(
     IconData(0xe019, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe019, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe019, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-bicep`
@@ -224,9 +224,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-biml` (paint-order duotone)
-  static const IconifyIconData fileTypeBiml = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeBiml = IconifyIconData.duo(
     IconData(0xe1aa, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1aa, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1aa, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-biome`
@@ -235,15 +235,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-blender` (paint-order duotone)
-  static const IconifyIconData fileTypeBlender = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeBlender = IconifyIconData.duo(
     IconData(0xe1ab, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ab, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ab, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-blitzbasic` (paint-order duotone)
-  static const IconifyIconData fileTypeBlitzbasic = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeBlitzbasic = IconifyIconData.duo(
     IconData(0xe01c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe01c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe01c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-bolt`
@@ -252,9 +252,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-bower2` (paint-order duotone)
-  static const IconifyIconData fileTypeBower2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeBower2 = IconifyIconData.duo(
     IconData(0xe01e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe01e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe01e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-buckbuild`
@@ -263,9 +263,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-buf` (paint-order duotone)
-  static const IconifyIconData fileTypeBuf = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeBuf = IconifyIconData.duo(
     IconData(0xe1ac, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ac, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ac, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-bun`
@@ -289,27 +289,27 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-c3` (paint-order duotone)
-  static const IconifyIconData fileTypeC3 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeC3 = IconifyIconData.duo(
     IconData(0xe1ad, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ad, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ad, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cakephp` (paint-order duotone)
-  static const IconifyIconData fileTypeCakephp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCakephp = IconifyIconData.duo(
     IconData(0xe1ae, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ae, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ae, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cangjie` (paint-order duotone)
-  static const IconifyIconData fileTypeCangjie = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCangjie = IconifyIconData.duo(
     IconData(0xe1af, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1af, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1af, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-capnp` (paint-order duotone)
-  static const IconifyIconData fileTypeCapnp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCapnp = IconifyIconData.duo(
     IconData(0xe1b0, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cargo`
@@ -318,27 +318,27 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-cddl` (paint-order duotone)
-  static const IconifyIconData fileTypeCddl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCddl = IconifyIconData.duo(
     IconData(0xe1b1, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-ceylon` (paint-order duotone)
-  static const IconifyIconData fileTypeCeylon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCeylon = IconifyIconData.duo(
     IconData(0xe1b2, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cf` (paint-order duotone)
-  static const IconifyIconData fileTypeCf = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCf = IconifyIconData.duo(
     IconData(0xe1b3, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-changie` (paint-order duotone)
-  static const IconifyIconData fileTypeChangie = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeChangie = IconifyIconData.duo(
     IconData(0xe1b4, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cheader`
@@ -347,9 +347,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-chef` (paint-order duotone)
-  static const IconifyIconData fileTypeChef = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeChef = IconifyIconData.duo(
     IconData(0xe1b5, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-circleci`
@@ -358,9 +358,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-circom` (paint-order duotone)
-  static const IconifyIconData fileTypeCircom = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCircom = IconifyIconData.duo(
     IconData(0xe1b6, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-clangd`
@@ -374,9 +374,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-clojurescript` (paint-order duotone)
-  static const IconifyIconData fileTypeClojurescript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeClojurescript = IconifyIconData.duo(
     IconData(0xe027, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe027, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe027, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cobol`
@@ -390,9 +390,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-codeclimate` (paint-order duotone)
-  static const IconifyIconData fileTypeCodeclimate = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCodeclimate = IconifyIconData.duo(
     IconData(0xe1b7, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-codekit`
@@ -406,21 +406,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-coffeelint` (paint-order duotone)
-  static const IconifyIconData fileTypeCoffeelint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCoffeelint = IconifyIconData.duo(
     IconData(0xe1b8, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-commitizen` (paint-order duotone)
-  static const IconifyIconData fileTypeCommitizen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCommitizen = IconifyIconData.duo(
     IconData(0xe1b9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1b9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1b9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-commitlint` (paint-order duotone)
-  static const IconifyIconData fileTypeCommitlint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCommitlint = IconifyIconData.duo(
     IconData(0xe02c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe02c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe02c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-conda`
@@ -439,9 +439,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-coveralls` (paint-order duotone)
-  static const IconifyIconData fileTypeCoveralls = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCoveralls = IconifyIconData.duo(
     IconData(0xe1ba, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ba, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ba, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cpp2`
@@ -450,15 +450,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-craco` (paint-order duotone)
-  static const IconifyIconData fileTypeCraco = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCraco = IconifyIconData.duo(
     IconData(0xe1bb, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1bb, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1bb, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-crowdin` (paint-order duotone)
-  static const IconifyIconData fileTypeCrowdin = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCrowdin = IconifyIconData.duo(
     IconData(0xe1bc, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1bc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1bc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-crystal`
@@ -467,21 +467,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-css` (paint-order duotone)
-  static const IconifyIconData fileTypeCss = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCss = IconifyIconData.duo(
     IconData(0xe1bd, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1bd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1bd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cssmap` (paint-order duotone)
-  static const IconifyIconData fileTypeCssmap = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCssmap = IconifyIconData.duo(
     IconData(0xe1be, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1be, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1be, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cucumber` (paint-order duotone)
-  static const IconifyIconData fileTypeCucumber = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeCucumber = IconifyIconData.duo(
     IconData(0xe1bf, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1bf, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1bf, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-cuda`
@@ -495,15 +495,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-dartlang-ignore` (paint-order duotone)
-  static const IconifyIconData fileTypeDartlangIgnore = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDartlangIgnore = IconifyIconData.duo(
     IconData(0xe1c0, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-datadog` (paint-order duotone)
-  static const IconifyIconData fileTypeDatadog = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDatadog = IconifyIconData.duo(
     IconData(0xe1c1, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-db`
@@ -522,15 +522,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-denoify` (paint-order duotone)
-  static const IconifyIconData fileTypeDenoify = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDenoify = IconifyIconData.duo(
     IconData(0xe1c2, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-dependabot` (paint-order duotone)
-  static const IconifyIconData fileTypeDependabot = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDependabot = IconifyIconData.duo(
     IconData(0xe1c3, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-dependencies`
@@ -545,9 +545,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-devcontainer` (paint-order duotone)
-  static const IconifyIconData fileTypeDevcontainer = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDevcontainer = IconifyIconData.duo(
     IconData(0xe1c4, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-dhall`
@@ -556,9 +556,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-diff` (paint-order duotone)
-  static const IconifyIconData fileTypeDiff = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDiff = IconifyIconData.duo(
     IconData(0xe03a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe03a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe03a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-django`
@@ -567,15 +567,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-docker2` (paint-order duotone)
-  static const IconifyIconData fileTypeDocker2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDocker2 = IconifyIconData.duo(
     IconData(0xe1c5, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-dockertest2` (paint-order duotone)
-  static const IconifyIconData fileTypeDockertest2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDockertest2 = IconifyIconData.duo(
     IconData(0xe1c6, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-docpad`
@@ -599,9 +599,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-doxygen` (paint-order duotone)
-  static const IconifyIconData fileTypeDoxygen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDoxygen = IconifyIconData.duo(
     IconData(0xe03f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe03f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe03f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-drawio`
@@ -620,9 +620,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-duckdb` (paint-order duotone)
-  static const IconifyIconData fileTypeDuckdb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeDuckdb = IconifyIconData.duo(
     IconData(0xe042, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe042, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe042, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-dustjs`
@@ -656,33 +656,33 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-ember` (paint-order duotone)
-  static const IconifyIconData fileTypeEmber = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeEmber = IconifyIconData.duo(
     IconData(0xe048, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe048, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe048, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-erlang2` (paint-order duotone)
-  static const IconifyIconData fileTypeErlang2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeErlang2 = IconifyIconData.duo(
     IconData(0xe1c7, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-esbuild` (paint-order duotone)
-  static const IconifyIconData fileTypeEsbuild = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeEsbuild = IconifyIconData.duo(
     IconData(0xe1c8, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-eslint` (paint-order duotone)
-  static const IconifyIconData fileTypeEslint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeEslint = IconifyIconData.duo(
     IconData(0xe1c9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1c9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1c9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-eslint2` (paint-order duotone)
-  static const IconifyIconData fileTypeEslint2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeEslint2 = IconifyIconData.duo(
     IconData(0xe1ca, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ca, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ca, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-esphome`
@@ -691,15 +691,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-excel2` (paint-order duotone)
-  static const IconifyIconData fileTypeExcel2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeExcel2 = IconifyIconData.duo(
     IconData(0xe1cb, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1cb, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1cb, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-expo` (paint-order duotone)
-  static const IconifyIconData fileTypeExpo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeExpo = IconifyIconData.duo(
     IconData(0xe1cc, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1cc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1cc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-firestore`
@@ -728,9 +728,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-fortran` (paint-order duotone)
-  static const IconifyIconData fileTypeFortran = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeFortran = IconifyIconData.duo(
     IconData(0xe1cd, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1cd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1cd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-fossa`
@@ -749,15 +749,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-fsharp` (paint-order duotone)
-  static const IconifyIconData fileTypeFsharp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeFsharp = IconifyIconData.duo(
     IconData(0xe1ce, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ce, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ce, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-fsharp2` (paint-order duotone)
-  static const IconifyIconData fileTypeFsharp2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeFsharp2 = IconifyIconData.duo(
     IconData(0xe1cf, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1cf, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1cf, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-funding`
@@ -766,9 +766,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-galen` (paint-order duotone)
-  static const IconifyIconData fileTypeGalen = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGalen = IconifyIconData.duo(
     IconData(0xe1d0, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1d0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-gamemaker`
@@ -782,15 +782,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-gatsby` (paint-order duotone)
-  static const IconifyIconData fileTypeGatsby = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGatsby = IconifyIconData.duo(
     IconData(0xe1d1, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1d1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-gcode` (paint-order duotone)
-  static const IconifyIconData fileTypeGcode = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGcode = IconifyIconData.duo(
     IconData(0xe054, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe054, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe054, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-geojson`
@@ -799,9 +799,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-git` (paint-order duotone)
-  static const IconifyIconData fileTypeGit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGit = IconifyIconData.duo(
     IconData(0xe056, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe056, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe056, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-git2`
@@ -815,21 +815,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-gleam` (paint-order duotone)
-  static const IconifyIconData fileTypeGleam = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGleam = IconifyIconData.duo(
     IconData(0xe1d2, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1d2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-glimmer` (paint-order duotone)
-  static const IconifyIconData fileTypeGlimmer = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGlimmer = IconifyIconData.duo(
     IconData(0xe1d3, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1d3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-gnu` (paint-order duotone)
-  static const IconifyIconData fileTypeGnu = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGnu = IconifyIconData.duo(
     IconData(0xe1d4, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1d4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-go`
@@ -873,9 +873,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-gpg` (paint-order duotone)
-  static const IconifyIconData fileTypeGpg = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGpg = IconifyIconData.duo(
     IconData(0xe061, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe061, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe061, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-gradle`
@@ -884,9 +884,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-graphql-config` (paint-order duotone)
-  static const IconifyIconData fileTypeGraphqlConfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGraphqlConfig = IconifyIconData.duo(
     IconData(0xe1d5, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1d5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-gridsome`
@@ -900,15 +900,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-groovy` (paint-order duotone)
-  static const IconifyIconData fileTypeGroovy = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeGroovy = IconifyIconData.duo(
     IconData(0xe1d6, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1d6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-haml` (paint-order duotone)
-  static const IconifyIconData fileTypeHaml = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeHaml = IconifyIconData.duo(
     IconData(0xe1d7, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1d7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-hashicorp`
@@ -922,9 +922,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-hjson` (paint-order duotone)
-  static const IconifyIconData fileTypeHjson = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeHjson = IconifyIconData.duo(
     IconData(0xe066, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe066, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe066, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-hlsl`
@@ -933,9 +933,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-homeassistant` (paint-order duotone)
-  static const IconifyIconData fileTypeHomeassistant = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeHomeassistant = IconifyIconData.duo(
     IconData(0xe068, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe068, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe068, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-horusec`
@@ -944,15 +944,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-htmlhint` (paint-order duotone)
-  static const IconifyIconData fileTypeHtmlhint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeHtmlhint = IconifyIconData.duo(
     IconData(0xe1d9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1d9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1d9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-humanstxt` (paint-order duotone)
-  static const IconifyIconData fileTypeHumanstxt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeHumanstxt = IconifyIconData.duo(
     IconData(0xe1da, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1da, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1da, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-husky`
@@ -966,9 +966,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-image` (paint-order duotone)
-  static const IconifyIconData fileTypeImage = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeImage = IconifyIconData.duo(
     IconData(0xe06a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe06a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe06a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-imba`
@@ -977,21 +977,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-inc` (paint-order duotone)
-  static const IconifyIconData fileTypeInc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeInc = IconifyIconData.duo(
     IconData(0xe06c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe06c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe06c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-infopath` (paint-order duotone)
-  static const IconifyIconData fileTypeInfopath = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeInfopath = IconifyIconData.duo(
     IconData(0xe1db, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1db, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1db, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-informix` (paint-order duotone)
-  static const IconifyIconData fileTypeInformix = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeInformix = IconifyIconData.duo(
     IconData(0xe06d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe06d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe06d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-ini`
@@ -1010,33 +1010,33 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-jake` (paint-order duotone)
-  static const IconifyIconData fileTypeJake = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeJake = IconifyIconData.duo(
     IconData(0xe1dc, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1dc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1dc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-janet` (paint-order duotone)
-  static const IconifyIconData fileTypeJanet = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeJanet = IconifyIconData.duo(
     IconData(0xe1dd, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1dd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1dd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-java` (paint-order duotone)
-  static const IconifyIconData fileTypeJava = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeJava = IconifyIconData.duo(
     IconData(0xe1de, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1de, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1de, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-jest` (paint-order duotone)
-  static const IconifyIconData fileTypeJest = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeJest = IconifyIconData.duo(
     IconData(0xe071, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe071, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe071, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-jest-snapshot` (paint-order duotone)
-  static const IconifyIconData fileTypeJestSnapshot = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeJestSnapshot = IconifyIconData.duo(
     IconData(0xe1df, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1df, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1df, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-js`
@@ -1050,15 +1050,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-jsconfig` (paint-order duotone)
-  static const IconifyIconData fileTypeJsconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeJsconfig = IconifyIconData.duo(
     IconData(0xe075, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe075, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe075, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-jshint` (paint-order duotone)
-  static const IconifyIconData fileTypeJshint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeJshint = IconifyIconData.duo(
     IconData(0xe1e0, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-jsmap`
@@ -1077,9 +1077,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-json5` (paint-order duotone)
-  static const IconifyIconData fileTypeJson5 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeJson5 = IconifyIconData.duo(
     IconData(0xe1e1, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-jsonnet`
@@ -1088,9 +1088,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-jsr` (paint-order duotone)
-  static const IconifyIconData fileTypeJsr = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeJsr = IconifyIconData.duo(
     IconData(0xe1e2, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-jss`
@@ -1109,15 +1109,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-karma` (paint-order duotone)
-  static const IconifyIconData fileTypeKarma = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeKarma = IconifyIconData.duo(
     IconData(0xe1e3, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-kitchenci` (paint-order duotone)
-  static const IconifyIconData fileTypeKitchenci = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeKitchenci = IconifyIconData.duo(
     IconData(0xe1e4, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-kite`
@@ -1132,9 +1132,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-language-configuration` (paint-order duotone)
-  static const IconifyIconData fileTypeLanguageConfiguration = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLanguageConfiguration = IconifyIconData.duo(
     IconData(0xe1e5, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-lark`
@@ -1143,15 +1143,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-latino` (paint-order duotone)
-  static const IconifyIconData fileTypeLatino = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLatino = IconifyIconData.duo(
     IconData(0xe1e6, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-layout` (paint-order duotone)
-  static const IconifyIconData fileTypeLayout = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLayout = IconifyIconData.duo(
     IconData(0xe1e7, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-lean`
@@ -1165,9 +1165,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-lex` (paint-order duotone)
-  static const IconifyIconData fileTypeLex = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLex = IconifyIconData.duo(
     IconData(0xe1e8, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-libreoffice-base`
@@ -1256,9 +1256,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-duckdb` (paint-order duotone)
-  static const IconifyIconData fileTypeLightDuckdb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightDuckdb = IconifyIconData.duo(
     IconData(0xe08a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe08a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe08a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-eas-metadata`
@@ -1287,9 +1287,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-fla` (paint-order duotone)
-  static const IconifyIconData fileTypeLightFla = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightFla = IconifyIconData.duo(
     IconData(0xe1e9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1e9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1e9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-font`
@@ -1323,9 +1323,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-jsconfig` (paint-order duotone)
-  static const IconifyIconData fileTypeLightJsconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightJsconfig = IconifyIconData.duo(
     IconData(0xe095, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe095, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe095, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-jsmap`
@@ -1364,9 +1364,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-markuplint` (paint-order duotone)
-  static const IconifyIconData fileTypeLightMarkuplint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightMarkuplint = IconifyIconData.duo(
     IconData(0xe1ea, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ea, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ea, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-mcp`
@@ -1390,9 +1390,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-mypy` (paint-order duotone)
-  static const IconifyIconData fileTypeLightMypy = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightMypy = IconifyIconData.duo(
     IconData(0xe1eb, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1eb, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1eb, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-neo4j`
@@ -1401,21 +1401,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-nim` (paint-order duotone)
-  static const IconifyIconData fileTypeLightNim = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightNim = IconifyIconData.duo(
     IconData(0xe1ec, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ec, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ec, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-objidconfig` (paint-order duotone)
-  static const IconifyIconData fileTypeLightObjidconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightObjidconfig = IconifyIconData.duo(
     IconData(0xe1ed, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ed, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ed, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-openhab` (paint-order duotone)
-  static const IconifyIconData fileTypeLightOpenhab = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightOpenhab = IconifyIconData.duo(
     IconData(0xe1ee, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ee, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ee, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-packship`
@@ -1424,15 +1424,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-pcl` (paint-order duotone)
-  static const IconifyIconData fileTypeLightPcl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightPcl = IconifyIconData.duo(
     IconData(0xe1ef, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ef, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ef, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-pnpm` (paint-order duotone)
-  static const IconifyIconData fileTypeLightPnpm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightPnpm = IconifyIconData.duo(
     IconData(0xe1f0, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-prettier` (duo-tone)
@@ -1452,9 +1452,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-quasar` (paint-order duotone)
-  static const IconifyIconData fileTypeLightQuasar = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightQuasar = IconifyIconData.duo(
     IconData(0xe0a4, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0a4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0a4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-railway`
@@ -1468,9 +1468,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-reactrouter` (paint-order duotone)
-  static const IconifyIconData fileTypeLightReactrouter = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightReactrouter = IconifyIconData.duo(
     IconData(0xe1f1, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-render`
@@ -1484,9 +1484,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-rome` (paint-order duotone)
-  static const IconifyIconData fileTypeLightRome = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightRome = IconifyIconData.duo(
     IconData(0xe1f2, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-rubocop`
@@ -1530,15 +1530,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-systemd` (paint-order duotone)
-  static const IconifyIconData fileTypeLightSystemd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightSystemd = IconifyIconData.duo(
     IconData(0xe1f3, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-testcafe` (paint-order duotone)
-  static const IconifyIconData fileTypeLightTestcafe = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightTestcafe = IconifyIconData.duo(
     IconData(0xe1f4, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-testjs`
@@ -1557,9 +1557,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-tmux` (paint-order duotone)
-  static const IconifyIconData fileTypeLightTmux = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightTmux = IconifyIconData.duo(
     IconData(0xe0b3, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0b3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0b3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-toit`
@@ -1598,15 +1598,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-light-vsixmanifest` (paint-order duotone)
-  static const IconifyIconData fileTypeLightVsixmanifest = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightVsixmanifest = IconifyIconData.duo(
     IconData(0xe1f5, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-xfl` (paint-order duotone)
-  static const IconifyIconData fileTypeLightXfl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLightXfl = IconifyIconData.duo(
     IconData(0xe1f6, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-light-yaml`
@@ -1625,15 +1625,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-luau` (paint-order duotone)
-  static const IconifyIconData fileTypeLuau = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLuau = IconifyIconData.duo(
     IconData(0xe0bc, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0bc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0bc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-lync` (paint-order duotone)
-  static const IconifyIconData fileTypeLync = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeLync = IconifyIconData.duo(
     IconData(0xe0bd, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0bd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0bd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-mailing`
@@ -1642,21 +1642,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-makefile` (paint-order duotone)
-  static const IconifyIconData fileTypeMakefile = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMakefile = IconifyIconData.duo(
     IconData(0xe1f7, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f7, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-manifest` (paint-order duotone)
-  static const IconifyIconData fileTypeManifest = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeManifest = IconifyIconData.duo(
     IconData(0xe1f8, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-mariadb` (paint-order duotone)
-  static const IconifyIconData fileTypeMariadb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMariadb = IconifyIconData.duo(
     IconData(0xe0bf, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0bf, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0bf, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-markdown`
@@ -1665,15 +1665,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-markdownlint` (paint-order duotone)
-  static const IconifyIconData fileTypeMarkdownlint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMarkdownlint = IconifyIconData.duo(
     IconData(0xe1f9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1f9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1f9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-markdownlint-ignore` (paint-order duotone)
-  static const IconifyIconData fileTypeMarkdownlintIgnore = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMarkdownlintIgnore = IconifyIconData.duo(
     IconData(0xe1fa, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1fa, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1fa, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-marko`
@@ -1687,9 +1687,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-markuplint` (paint-order duotone)
-  static const IconifyIconData fileTypeMarkuplint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMarkuplint = IconifyIconData.duo(
     IconData(0xe1fb, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1fb, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1fb, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-maxscript`
@@ -1703,9 +1703,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-mdx` (paint-order duotone)
-  static const IconifyIconData fileTypeMdx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMdx = IconifyIconData.duo(
     IconData(0xe0c1, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0c1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0c1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-mdxlint`
@@ -1714,9 +1714,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-meson` (paint-order duotone)
-  static const IconifyIconData fileTypeMeson = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMeson = IconifyIconData.duo(
     IconData(0xe1fc, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1fc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1fc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-meteor`
@@ -1735,9 +1735,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-mjml` (paint-order duotone)
-  static const IconifyIconData fileTypeMjml = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMjml = IconifyIconData.duo(
     IconData(0xe1fd, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1fd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1fd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-mlang`
@@ -1746,9 +1746,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-mocha` (paint-order duotone)
-  static const IconifyIconData fileTypeMocha = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMocha = IconifyIconData.duo(
     IconData(0xe1fe, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1fe, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1fe, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-modernizr`
@@ -1783,9 +1783,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-mson` (paint-order duotone)
-  static const IconifyIconData fileTypeMson = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMson = IconifyIconData.duo(
     IconData(0xe1ff, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe1ff, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe1ff, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-mustache`
@@ -1809,15 +1809,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-mypy` (paint-order duotone)
-  static const IconifyIconData fileTypeMypy = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMypy = IconifyIconData.duo(
     IconData(0xe0cc, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0cc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0cc, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-mysql` (paint-order duotone)
-  static const IconifyIconData fileTypeMysql = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeMysql = IconifyIconData.duo(
     IconData(0xe200, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe200, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe200, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-nanostaged`
@@ -1826,9 +1826,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-neo4j` (paint-order duotone)
-  static const IconifyIconData fileTypeNeo4j = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNeo4j = IconifyIconData.duo(
     IconData(0xe0ce, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0ce, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0ce, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-nest-adapter-js`
@@ -1952,27 +1952,27 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-nginx` (paint-order duotone)
-  static const IconifyIconData fileTypeNginx = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNginx = IconifyIconData.duo(
     IconData(0xe201, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe201, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe201, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-nim` (paint-order duotone)
-  static const IconifyIconData fileTypeNim = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNim = IconifyIconData.duo(
     IconData(0xe202, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe202, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe202, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-nix` (paint-order duotone)
-  static const IconifyIconData fileTypeNix = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNix = IconifyIconData.duo(
     IconData(0xe203, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe203, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe203, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-noc` (paint-order duotone)
-  static const IconifyIconData fileTypeNoc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNoc = IconifyIconData.duo(
     IconData(0xe0d0, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0d0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0d0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-node`
@@ -1981,21 +1981,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-node2` (paint-order duotone)
-  static const IconifyIconData fileTypeNode2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNode2 = IconifyIconData.duo(
     IconData(0xe0d2, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0d2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0d2, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-nodemon` (paint-order duotone)
-  static const IconifyIconData fileTypeNodemon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNodemon = IconifyIconData.duo(
     IconData(0xe0d3, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0d3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0d3, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-npm` (paint-order duotone)
-  static const IconifyIconData fileTypeNpm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNpm = IconifyIconData.duo(
     IconData(0xe204, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe204, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe204, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-nsri-integrity`
@@ -2004,21 +2004,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-nuget` (paint-order duotone)
-  static const IconifyIconData fileTypeNuget = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNuget = IconifyIconData.duo(
     IconData(0xe205, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe205, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe205, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-numpy` (paint-order duotone)
-  static const IconifyIconData fileTypeNumpy = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNumpy = IconifyIconData.duo(
     IconData(0xe0d4, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0d4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0d4, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-nunjucks` (paint-order duotone)
-  static const IconifyIconData fileTypeNunjucks = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeNunjucks = IconifyIconData.duo(
     IconData(0xe206, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe206, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe206, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-nuxt`
@@ -2042,27 +2042,27 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-objidconfig` (paint-order duotone)
-  static const IconifyIconData fileTypeObjidconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeObjidconfig = IconifyIconData.duo(
     IconData(0xe0d9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0d9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0d9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-ogone` (paint-order duotone)
-  static const IconifyIconData fileTypeOgone = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeOgone = IconifyIconData.duo(
     IconData(0xe207, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe207, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe207, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-onenote` (paint-order duotone)
-  static const IconifyIconData fileTypeOnenote = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeOnenote = IconifyIconData.duo(
     IconData(0xe208, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe208, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe208, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-openhab` (paint-order duotone)
-  static const IconifyIconData fileTypeOpenhab = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeOpenhab = IconifyIconData.duo(
     IconData(0xe0da, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0da, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0da, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-openscad`
@@ -2081,9 +2081,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-ovpn` (paint-order duotone)
-  static const IconifyIconData fileTypeOvpn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeOvpn = IconifyIconData.duo(
     IconData(0xe209, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe209, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe209, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-packship`
@@ -2107,15 +2107,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-pcl` (paint-order duotone)
-  static const IconifyIconData fileTypePcl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePcl = IconifyIconData.duo(
     IconData(0xe0e0, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0e0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0e0, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-pddl` (paint-order duotone)
-  static const IconifyIconData fileTypePddl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePddl = IconifyIconData.duo(
     IconData(0xe0e1, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0e1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0e1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-pddl-happenings`
@@ -2139,33 +2139,33 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-perl` (paint-order duotone)
-  static const IconifyIconData fileTypePerl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePerl = IconifyIconData.duo(
     IconData(0xe0e5, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0e5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0e5, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-perl2` (paint-order duotone)
-  static const IconifyIconData fileTypePerl2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePerl2 = IconifyIconData.duo(
     IconData(0xe0e6, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0e6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0e6, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-photoshop` (paint-order duotone)
-  static const IconifyIconData fileTypePhotoshop = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePhotoshop = IconifyIconData.duo(
     IconData(0xe20a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe20a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe20a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-photoshop2` (paint-order duotone)
-  static const IconifyIconData fileTypePhotoshop2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePhotoshop2 = IconifyIconData.duo(
     IconData(0xe20b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe20b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe20b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-pine` (paint-order duotone)
-  static const IconifyIconData fileTypePine = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePine = IconifyIconData.duo(
     IconData(0xe20c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe20c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe20c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-pipeline`
@@ -2184,9 +2184,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-pnpm` (paint-order duotone)
-  static const IconifyIconData fileTypePnpm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePnpm = IconifyIconData.duo(
     IconData(0xe0e9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0e9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0e9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-polyglot`
@@ -2195,15 +2195,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-postcssconfig` (paint-order duotone)
-  static const IconifyIconData fileTypePostcssconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePostcssconfig = IconifyIconData.duo(
     IconData(0xe20d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe20d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe20d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-powerpoint2` (paint-order duotone)
-  static const IconifyIconData fileTypePowerpoint2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePowerpoint2 = IconifyIconData.duo(
     IconData(0xe20e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe20e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe20e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-powershell`
@@ -2263,15 +2263,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-prismaconfig` (paint-order duotone)
-  static const IconifyIconData fileTypePrismaconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePrismaconfig = IconifyIconData.duo(
     IconData(0xe0ec, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0ec, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0ec, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-publisher` (paint-order duotone)
-  static const IconifyIconData fileTypePublisher = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePublisher = IconifyIconData.duo(
     IconData(0xe20f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe20f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe20f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-puppet`
@@ -2280,15 +2280,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-purescript` (paint-order duotone)
-  static const IconifyIconData fileTypePurescript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePurescript = IconifyIconData.duo(
     IconData(0xe210, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe210, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe210, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-pythowo` (paint-order duotone)
-  static const IconifyIconData fileTypePythowo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypePythowo = IconifyIconData.duo(
     IconData(0xe211, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe211, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe211, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-pytyped`
@@ -2297,9 +2297,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-qlikview` (paint-order duotone)
-  static const IconifyIconData fileTypeQlikview = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeQlikview = IconifyIconData.duo(
     IconData(0xe212, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe212, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe212, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-qml`
@@ -2313,9 +2313,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-quasar` (paint-order duotone)
-  static const IconifyIconData fileTypeQuasar = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeQuasar = IconifyIconData.duo(
     IconData(0xe0f1, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0f1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0f1, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-railway`
@@ -2339,9 +2339,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-reactrouter` (paint-order duotone)
-  static const IconifyIconData fileTypeReactrouter = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeReactrouter = IconifyIconData.duo(
     IconData(0xe213, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe213, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe213, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-reacttemplate`
@@ -2355,15 +2355,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-reason` (paint-order duotone)
-  static const IconifyIconData fileTypeReason = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeReason = IconifyIconData.duo(
     IconData(0xe0f8, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0f8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0f8, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-registry` (paint-order duotone)
-  static const IconifyIconData fileTypeRegistry = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRegistry = IconifyIconData.duo(
     IconData(0xe0f9, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0f9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0f9, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-rego`
@@ -2372,15 +2372,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-rehype` (paint-order duotone)
-  static const IconifyIconData fileTypeRehype = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRehype = IconifyIconData.duo(
     IconData(0xe214, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe214, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe214, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-remark` (paint-order duotone)
-  static const IconifyIconData fileTypeRemark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRemark = IconifyIconData.duo(
     IconData(0xe215, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe215, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe215, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-render`
@@ -2394,21 +2394,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-rest` (paint-order duotone)
-  static const IconifyIconData fileTypeRest = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRest = IconifyIconData.duo(
     IconData(0xe0fd, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe0fd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe0fd, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-retext` (paint-order duotone)
-  static const IconifyIconData fileTypeRetext = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRetext = IconifyIconData.duo(
     IconData(0xe216, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe216, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe216, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-rmd` (paint-order duotone)
-  static const IconifyIconData fileTypeRmd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRmd = IconifyIconData.duo(
     IconData(0xe217, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe217, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe217, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-rnc`
@@ -2422,15 +2422,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-robots` (paint-order duotone)
-  static const IconifyIconData fileTypeRobots = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRobots = IconifyIconData.duo(
     IconData(0xe218, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe218, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe218, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-rome` (paint-order duotone)
-  static const IconifyIconData fileTypeRome = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRome = IconifyIconData.duo(
     IconData(0xe219, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe219, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe219, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-ron`
@@ -2439,15 +2439,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-rproj` (paint-order duotone)
-  static const IconifyIconData fileTypeRproj = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRproj = IconifyIconData.duo(
     IconData(0xe101, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe101, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe101, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-rubocop` (paint-order duotone)
-  static const IconifyIconData fileTypeRubocop = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeRubocop = IconifyIconData.duo(
     IconData(0xe102, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe102, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe102, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-ruff`
@@ -2466,27 +2466,27 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-san` (paint-order duotone)
-  static const IconifyIconData fileTypeSan = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSan = IconifyIconData.duo(
     IconData(0xe21a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe21a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe21a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-sas` (paint-order duotone)
-  static const IconifyIconData fileTypeSas = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSas = IconifyIconData.duo(
     IconData(0xe106, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe106, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe106, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-script` (paint-order duotone)
-  static const IconifyIconData fileTypeScript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeScript = IconifyIconData.duo(
     IconData(0xe21b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe21b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe21b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-scss2` (paint-order duotone)
-  static const IconifyIconData fileTypeScss2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeScss2 = IconifyIconData.duo(
     IconData(0xe107, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe107, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe107, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-search-result`
@@ -2495,9 +2495,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-seedkit` (paint-order duotone)
-  static const IconifyIconData fileTypeSeedkit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSeedkit = IconifyIconData.duo(
     IconData(0xe21c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe21c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe21c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-serverless`
@@ -2537,39 +2537,39 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-slang` (paint-order duotone)
-  static const IconifyIconData fileTypeSlang = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSlang = IconifyIconData.duo(
     IconData(0xe21d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe21d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe21d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-slice` (paint-order duotone)
-  static const IconifyIconData fileTypeSlice = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSlice = IconifyIconData.duo(
     IconData(0xe21e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe21e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe21e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-sln2` (paint-order duotone)
-  static const IconifyIconData fileTypeSln2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSln2 = IconifyIconData.duo(
     IconData(0xe21f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe21f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe21f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-smithery` (paint-order duotone)
-  static const IconifyIconData fileTypeSmithery = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSmithery = IconifyIconData.duo(
     IconData(0xe220, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe220, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe220, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-snapcraft` (paint-order duotone)
-  static const IconifyIconData fileTypeSnapcraft = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSnapcraft = IconifyIconData.duo(
     IconData(0xe221, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe221, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe221, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-snort` (paint-order duotone)
-  static const IconifyIconData fileTypeSnort = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSnort = IconifyIconData.duo(
     IconData(0xe222, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe222, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe222, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-solidity`
@@ -2583,9 +2583,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-sparql` (paint-order duotone)
-  static const IconifyIconData fileTypeSparql = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSparql = IconifyIconData.duo(
     IconData(0xe223, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe223, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe223, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-spin`
@@ -2604,9 +2604,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-stan` (paint-order duotone)
-  static const IconifyIconData fileTypeStan = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeStan = IconifyIconData.duo(
     IconData(0xe224, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe224, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe224, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-stencil`
@@ -2615,15 +2615,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-storyboard` (paint-order duotone)
-  static const IconifyIconData fileTypeStoryboard = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeStoryboard = IconifyIconData.duo(
     IconData(0xe117, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe117, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe117, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-storybook` (paint-order duotone)
-  static const IconifyIconData fileTypeStorybook = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeStorybook = IconifyIconData.duo(
     IconData(0xe225, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe225, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe225, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-stryker`
@@ -2642,27 +2642,27 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-subversion` (paint-order duotone)
-  static const IconifyIconData fileTypeSubversion = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSubversion = IconifyIconData.duo(
     IconData(0xe226, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe226, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe226, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-svelte` (paint-order duotone)
-  static const IconifyIconData fileTypeSvelte = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSvelte = IconifyIconData.duo(
     IconData(0xe11b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe11b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe11b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-swagger` (paint-order duotone)
-  static const IconifyIconData fileTypeSwagger = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSwagger = IconifyIconData.duo(
     IconData(0xe11e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe11e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe11e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-swig` (paint-order duotone)
-  static const IconifyIconData fileTypeSwig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSwig = IconifyIconData.duo(
     IconData(0xe227, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe227, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe227, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-symfony`
@@ -2671,9 +2671,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-systemd` (paint-order duotone)
-  static const IconifyIconData fileTypeSystemd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeSystemd = IconifyIconData.duo(
     IconData(0xe228, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe228, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe228, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-tailwind`
@@ -2682,15 +2682,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-tauri` (paint-order duotone)
-  static const IconifyIconData fileTypeTauri = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTauri = IconifyIconData.duo(
     IconData(0xe122, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe122, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe122, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-teal` (paint-order duotone)
-  static const IconifyIconData fileTypeTeal = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTeal = IconifyIconData.duo(
     IconData(0xe124, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe124, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe124, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-templ`
@@ -2704,9 +2704,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-testcafe` (paint-order duotone)
-  static const IconifyIconData fileTypeTestcafe = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTestcafe = IconifyIconData.duo(
     IconData(0xe229, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe229, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe229, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-testjs`
@@ -2725,9 +2725,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-text` (paint-order duotone)
-  static const IconifyIconData fileTypeText = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeText = IconifyIconData.duo(
     IconData(0xe22a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe22a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe22a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-textile`
@@ -2736,9 +2736,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-tiltfile` (paint-order duotone)
-  static const IconifyIconData fileTypeTiltfile = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTiltfile = IconifyIconData.duo(
     IconData(0xe12b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe12b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe12b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-tm`
@@ -2747,9 +2747,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-tmux` (paint-order duotone)
-  static const IconifyIconData fileTypeTmux = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTmux = IconifyIconData.duo(
     IconData(0xe12d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe12d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe12d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-toit`
@@ -2758,9 +2758,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-toml` (paint-order duotone)
-  static const IconifyIconData fileTypeToml = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeToml = IconifyIconData.duo(
     IconData(0xe12f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe12f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe12f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-toon`
@@ -2779,27 +2779,27 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-tsbuildinfo` (paint-order duotone)
-  static const IconifyIconData fileTypeTsbuildinfo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTsbuildinfo = IconifyIconData.duo(
     IconData(0xe134, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe134, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe134, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-tsconfig` (paint-order duotone)
-  static const IconifyIconData fileTypeTsconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTsconfig = IconifyIconData.duo(
     IconData(0xe135, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe135, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe135, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-tsconfig-official` (paint-order duotone)
-  static const IconifyIconData fileTypeTsconfigOfficial = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTsconfigOfficial = IconifyIconData.duo(
     IconData(0xe22b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe22b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe22b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-tsdoc` (paint-order duotone)
-  static const IconifyIconData fileTypeTsdoc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTsdoc = IconifyIconData.duo(
     IconData(0xe22c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe22c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe22c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-tsdown`
@@ -2808,21 +2808,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-tt` (paint-order duotone)
-  static const IconifyIconData fileTypeTt = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTt = IconifyIconData.duo(
     IconData(0xe136, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe136, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe136, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-ttcn` (paint-order duotone)
-  static const IconifyIconData fileTypeTtcn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTtcn = IconifyIconData.duo(
     IconData(0xe22d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe22d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe22d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-tuc` (paint-order duotone)
-  static const IconifyIconData fileTypeTuc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTuc = IconifyIconData.duo(
     IconData(0xe22e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe22e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe22e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-turbo`
@@ -2836,9 +2836,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-typescript-official` (paint-order duotone)
-  static const IconifyIconData fileTypeTypescriptOfficial = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTypescriptOfficial = IconifyIconData.duo(
     IconData(0xe22f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe22f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe22f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-typescriptdef`
@@ -2847,9 +2847,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-typescriptdef-official` (paint-order duotone)
-  static const IconifyIconData fileTypeTypescriptdefOfficial = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeTypescriptdefOfficial = IconifyIconData.duo(
     IconData(0xe230, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe230, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe230, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-unibeautify`
@@ -2858,9 +2858,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-unison` (paint-order duotone)
-  static const IconifyIconData fileTypeUnison = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeUnison = IconifyIconData.duo(
     IconData(0xe13b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe13b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe13b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-unlicense`
@@ -2874,15 +2874,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-vala` (paint-order duotone)
-  static const IconifyIconData fileTypeVala = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeVala = IconifyIconData.duo(
     IconData(0xe231, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe231, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe231, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-vapi` (paint-order duotone)
-  static const IconifyIconData fileTypeVapi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeVapi = IconifyIconData.duo(
     IconData(0xe232, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe232, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe232, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-vapor` (duo-tone)
@@ -2907,9 +2907,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-vhdl` (paint-order duotone)
-  static const IconifyIconData fileTypeVhdl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeVhdl = IconifyIconData.duo(
     IconData(0xe142, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe142, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe142, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-vim`
@@ -2918,9 +2918,9 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-vlang` (paint-order duotone)
-  static const IconifyIconData fileTypeVlang = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeVlang = IconifyIconData.duo(
     IconData(0xe233, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe233, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe233, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-volt`
@@ -2944,15 +2944,15 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-vsixmanifest` (paint-order duotone)
-  static const IconifyIconData fileTypeVsixmanifest = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeVsixmanifest = IconifyIconData.duo(
     IconData(0xe234, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe234, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe234, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-vue` (paint-order duotone)
-  static const IconifyIconData fileTypeVue = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeVue = IconifyIconData.duo(
     IconData(0xe235, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe235, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe235, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-vyper`
@@ -2966,21 +2966,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-wasm` (paint-order duotone)
-  static const IconifyIconData fileTypeWasm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeWasm = IconifyIconData.duo(
     IconData(0xe236, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe236, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe236, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-watchmanconfig` (paint-order duotone)
-  static const IconifyIconData fileTypeWatchmanconfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeWatchmanconfig = IconifyIconData.duo(
     IconData(0xe237, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe237, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe237, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-wdio` (paint-order duotone)
-  static const IconifyIconData fileTypeWdio = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeWdio = IconifyIconData.duo(
     IconData(0xe238, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe238, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe238, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-webp`
@@ -3004,21 +3004,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-wolfram` (paint-order duotone)
-  static const IconifyIconData fileTypeWolfram = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeWolfram = IconifyIconData.duo(
     IconData(0xe14c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe14c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe14c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-word2` (paint-order duotone)
-  static const IconifyIconData fileTypeWord2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeWord2 = IconifyIconData.duo(
     IconData(0xe239, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe239, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe239, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-wurst` (paint-order duotone)
-  static const IconifyIconData fileTypeWurst = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeWurst = IconifyIconData.duo(
     IconData(0xe14d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe14d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe14d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-wxss`
@@ -3032,21 +3032,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-xib` (paint-order duotone)
-  static const IconifyIconData fileTypeXib = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeXib = IconifyIconData.duo(
     IconData(0xe150, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe150, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe150, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-xliff` (paint-order duotone)
-  static const IconifyIconData fileTypeXliff = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeXliff = IconifyIconData.duo(
     IconData(0xe151, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe151, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe151, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-xquery` (paint-order duotone)
-  static const IconifyIconData fileTypeXquery = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeXquery = IconifyIconData.duo(
     IconData(0xe23a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe23a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe23a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-xsl`
@@ -3060,21 +3060,21 @@ class VscodeIconsIcons {
   );
 
   /// `file-type-yaml-official` (paint-order duotone)
-  static const IconifyIconData fileTypeYamlOfficial = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeYamlOfficial = IconifyIconData.duo(
     IconData(0xe23b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe23b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe23b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-yamllint` (paint-order duotone)
-  static const IconifyIconData fileTypeYamllint = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeYamllint = IconifyIconData.duo(
     IconData(0xe23c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe23c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe23c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-yang` (paint-order duotone)
-  static const IconifyIconData fileTypeYang = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileTypeYang = IconifyIconData.duo(
     IconData(0xe23d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe23d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe23d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-type-zeit`
@@ -3088,39 +3088,39 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-android` (paint-order duotone)
-  static const IconifyIconData folderTypeAndroid = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeAndroid = IconifyIconData.duo(
     IconData(0xe23e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe23e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe23e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-android-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeAndroidOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeAndroidOpened = IconifyIconData.duo(
     IconData(0xe156, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe156, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe156, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-app` (paint-order duotone)
-  static const IconifyIconData folderTypeApp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeApp = IconifyIconData.duo(
     IconData(0xe23f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe23f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe23f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-app-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeAppOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeAppOpened = IconifyIconData.duo(
     IconData(0xe240, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe240, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe240, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-audio` (paint-order duotone)
-  static const IconifyIconData folderTypeAudio = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeAudio = IconifyIconData.duo(
     IconData(0xe241, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe241, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe241, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-audio-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeAudioOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeAudioOpened = IconifyIconData.duo(
     IconData(0xe157, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe157, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe157, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-cargo`
@@ -3134,63 +3134,63 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-certificate` (paint-order duotone)
-  static const IconifyIconData folderTypeCertificate = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeCertificate = IconifyIconData.duo(
     IconData(0xe242, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe242, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe242, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-certificate-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeCertificateOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeCertificateOpened = IconifyIconData.duo(
     IconData(0xe243, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe243, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe243, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-circleci` (paint-order duotone)
-  static const IconifyIconData folderTypeCircleci = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeCircleci = IconifyIconData.duo(
     IconData(0xe15c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe15c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe15c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-circleci-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeCircleciOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeCircleciOpened = IconifyIconData.duo(
     IconData(0xe15d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe15d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe15d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-claude` (paint-order duotone)
-  static const IconifyIconData folderTypeClaude = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeClaude = IconifyIconData.duo(
     IconData(0xe244, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe244, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe244, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-claude-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeClaudeOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeClaudeOpened = IconifyIconData.duo(
     IconData(0xe245, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe245, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe245, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-common-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeCommonOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeCommonOpened = IconifyIconData.duo(
     IconData(0xe15f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe15f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe15f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-config` (paint-order duotone)
-  static const IconifyIconData folderTypeConfig = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeConfig = IconifyIconData.duo(
     IconData(0xe160, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe160, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe160, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-config-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeConfigOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeConfigOpened = IconifyIconData.duo(
     IconData(0xe161, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe161, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe161, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-datadog` (paint-order duotone)
-  static const IconifyIconData folderTypeDatadog = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeDatadog = IconifyIconData.duo(
     IconData(0xe246, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe246, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe246, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-datadog-opened`
@@ -3199,39 +3199,39 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-db` (paint-order duotone)
-  static const IconifyIconData folderTypeDb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeDb = IconifyIconData.duo(
     IconData(0xe247, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe247, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe247, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-db-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeDbOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeDbOpened = IconifyIconData.duo(
     IconData(0xe166, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe166, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe166, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-debian` (paint-order duotone)
-  static const IconifyIconData folderTypeDebian = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeDebian = IconifyIconData.duo(
     IconData(0xe248, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe248, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe248, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-debian-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeDebianOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeDebianOpened = IconifyIconData.duo(
     IconData(0xe249, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe249, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe249, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-electron` (paint-order duotone)
-  static const IconifyIconData folderTypeElectron = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeElectron = IconifyIconData.duo(
     IconData(0xe24a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe24a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe24a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-electron-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeElectronOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeElectronOpened = IconifyIconData.duo(
     IconData(0xe24b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe24b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe24b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-expo-opened`
@@ -3240,15 +3240,15 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-fonts` (paint-order duotone)
-  static const IconifyIconData folderTypeFonts = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeFonts = IconifyIconData.duo(
     IconData(0xe168, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe168, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe168, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-fonts-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeFontsOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeFontsOpened = IconifyIconData.duo(
     IconData(0xe169, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe169, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe169, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-frontcommerce`
@@ -3272,75 +3272,75 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-gradle` (paint-order duotone)
-  static const IconifyIconData folderTypeGradle = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeGradle = IconifyIconData.duo(
     IconData(0xe16a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe16a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe16a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-gradle-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeGradleOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeGradleOpened = IconifyIconData.duo(
     IconData(0xe16b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe16b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe16b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-graphql` (paint-order duotone)
-  static const IconifyIconData folderTypeGraphql = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeGraphql = IconifyIconData.duo(
     IconData(0xe24c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe24c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe24c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-graphql-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeGraphqlOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeGraphqlOpened = IconifyIconData.duo(
     IconData(0xe24d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe24d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe24d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-gulp` (paint-order duotone)
-  static const IconifyIconData folderTypeGulp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeGulp = IconifyIconData.duo(
     IconData(0xe24e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe24e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe24e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-gulp-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeGulpOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeGulpOpened = IconifyIconData.duo(
     IconData(0xe24f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe24f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe24f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-helper` (paint-order duotone)
-  static const IconifyIconData folderTypeHelper = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeHelper = IconifyIconData.duo(
     IconData(0xe250, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe250, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe250, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-helper-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeHelperOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeHelperOpened = IconifyIconData.duo(
     IconData(0xe251, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe251, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe251, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-hook` (paint-order duotone)
-  static const IconifyIconData folderTypeHook = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeHook = IconifyIconData.duo(
     IconData(0xe252, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe252, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe252, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-hook-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeHookOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeHookOpened = IconifyIconData.duo(
     IconData(0xe16c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe16c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe16c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-husky` (paint-order duotone)
-  static const IconifyIconData folderTypeHusky = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeHusky = IconifyIconData.duo(
     IconData(0xe16d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe16d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe16d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-husky-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeHuskyOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeHuskyOpened = IconifyIconData.duo(
     IconData(0xe16e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe16e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe16e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-interfaces`
@@ -3354,63 +3354,63 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-ios` (paint-order duotone)
-  static const IconifyIconData folderTypeIos = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeIos = IconifyIconData.duo(
     IconData(0xe174, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe174, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe174, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-ios-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeIosOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeIosOpened = IconifyIconData.duo(
     IconData(0xe253, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe253, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe253, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-js` (paint-order duotone)
-  static const IconifyIconData folderTypeJs = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeJs = IconifyIconData.duo(
     IconData(0xe254, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe254, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe254, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-js-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeJsOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeJsOpened = IconifyIconData.duo(
     IconData(0xe175, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe175, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe175, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-json` (paint-order duotone)
-  static const IconifyIconData folderTypeJson = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeJson = IconifyIconData.duo(
     IconData(0xe255, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe255, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe255, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-json-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeJsonOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeJsonOpened = IconifyIconData.duo(
     IconData(0xe176, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe176, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe176, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-junie` (paint-order duotone)
-  static const IconifyIconData folderTypeJunie = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeJunie = IconifyIconData.duo(
     IconData(0xe256, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe256, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe256, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-junie-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeJunieOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeJunieOpened = IconifyIconData.duo(
     IconData(0xe257, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe257, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe257, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-electron` (paint-order duotone)
-  static const IconifyIconData folderTypeLightElectron = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeLightElectron = IconifyIconData.duo(
     IconData(0xe258, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe258, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe258, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-electron-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeLightElectronOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeLightElectronOpened = IconifyIconData.duo(
     IconData(0xe259, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe259, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe259, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-expo-opened`
@@ -3429,27 +3429,27 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-light-gradle` (paint-order duotone)
-  static const IconifyIconData folderTypeLightGradle = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeLightGradle = IconifyIconData.duo(
     IconData(0xe25a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe25a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe25a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-gradle-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeLightGradleOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeLightGradleOpened = IconifyIconData.duo(
     IconData(0xe25b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe25b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe25b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-meteor` (paint-order duotone)
-  static const IconifyIconData folderTypeLightMeteor = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeLightMeteor = IconifyIconData.duo(
     IconData(0xe25c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe25c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe25c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-meteor-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeLightMeteorOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeLightMeteorOpened = IconifyIconData.duo(
     IconData(0xe17a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe17a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe17a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-mysql`
@@ -3473,15 +3473,15 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-light-redux` (paint-order duotone)
-  static const IconifyIconData folderTypeLightRedux = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeLightRedux = IconifyIconData.duo(
     IconData(0xe25d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe25d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe25d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-redux-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeLightReduxOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeLightReduxOpened = IconifyIconData.duo(
     IconData(0xe25e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe25e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe25e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-sass`
@@ -3495,9 +3495,9 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-light-zed` (paint-order duotone)
-  static const IconifyIconData folderTypeLightZed = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeLightZed = IconifyIconData.duo(
     IconData(0xe25f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe25f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe25f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-light-zed-opened`
@@ -3526,15 +3526,15 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-meteor` (paint-order duotone)
-  static const IconifyIconData folderTypeMeteor = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeMeteor = IconifyIconData.duo(
     IconData(0xe260, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe260, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe260, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-meteor-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeMeteorOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeMeteorOpened = IconifyIconData.duo(
     IconData(0xe181, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe181, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe181, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-minikube`
@@ -3578,33 +3578,33 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-node` (paint-order duotone)
-  static const IconifyIconData folderTypeNode = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeNode = IconifyIconData.duo(
     IconData(0xe189, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe189, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe189, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-node-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeNodeOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeNodeOpened = IconifyIconData.duo(
     IconData(0xe18a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe18a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe18a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-nuxt-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeNuxtOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeNuxtOpened = IconifyIconData.duo(
     IconData(0xe18c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe18c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe18c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-plugin` (paint-order duotone)
-  static const IconifyIconData folderTypePlugin = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypePlugin = IconifyIconData.duo(
     IconData(0xe18d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe18d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe18d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-plugin-opened` (paint-order duotone)
-  static const IconifyIconData folderTypePluginOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypePluginOpened = IconifyIconData.duo(
     IconData(0xe18e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe18e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe18e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-prisma`
@@ -3618,63 +3618,63 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-private` (paint-order duotone)
-  static const IconifyIconData folderTypePrivate = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypePrivate = IconifyIconData.duo(
     IconData(0xe261, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe261, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe261, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-private-opened` (paint-order duotone)
-  static const IconifyIconData folderTypePrivateOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypePrivateOpened = IconifyIconData.duo(
     IconData(0xe262, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe262, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe262, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-public` (paint-order duotone)
-  static const IconifyIconData folderTypePublic = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypePublic = IconifyIconData.duo(
     IconData(0xe18f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe18f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe18f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-public-opened` (paint-order duotone)
-  static const IconifyIconData folderTypePublicOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypePublicOpened = IconifyIconData.duo(
     IconData(0xe263, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe263, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe263, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-redux` (paint-order duotone)
-  static const IconifyIconData folderTypeRedux = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeRedux = IconifyIconData.duo(
     IconData(0xe264, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe264, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe264, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-redux-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeReduxOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeReduxOpened = IconifyIconData.duo(
     IconData(0xe190, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe190, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe190, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-sass` (paint-order duotone)
-  static const IconifyIconData folderTypeSass = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeSass = IconifyIconData.duo(
     IconData(0xe265, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe265, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe265, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-sass-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeSassOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeSassOpened = IconifyIconData.duo(
     IconData(0xe191, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe191, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe191, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-seedkit` (paint-order duotone)
-  static const IconifyIconData folderTypeSeedkit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeSeedkit = IconifyIconData.duo(
     IconData(0xe266, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe266, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe266, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-seedkit-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeSeedkitOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeSeedkitOpened = IconifyIconData.duo(
     IconData(0xe267, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe267, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe267, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-spin-opened`
@@ -3683,51 +3683,51 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-src` (paint-order duotone)
-  static const IconifyIconData folderTypeSrc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeSrc = IconifyIconData.duo(
     IconData(0xe268, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe268, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe268, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-src-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeSrcOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeSrcOpened = IconifyIconData.duo(
     IconData(0xe269, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe269, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe269, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-temp` (paint-order duotone)
-  static const IconifyIconData folderTypeTemp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTemp = IconifyIconData.duo(
     IconData(0xe26a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe26a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe26a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-temp-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeTempOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTempOpened = IconifyIconData.duo(
     IconData(0xe26b, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe26b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe26b, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-test` (paint-order duotone)
-  static const IconifyIconData folderTypeTest = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTest = IconifyIconData.duo(
     IconData(0xe194, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe194, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe194, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-test-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeTestOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTestOpened = IconifyIconData.duo(
     IconData(0xe26c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe26c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe26c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-tools` (paint-order duotone)
-  static const IconifyIconData folderTypeTools = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTools = IconifyIconData.duo(
     IconData(0xe26d, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe26d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe26d, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-tools-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeToolsOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeToolsOpened = IconifyIconData.duo(
     IconData(0xe26e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe26e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe26e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-turbo`
@@ -3741,33 +3741,33 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-typescript` (paint-order duotone)
-  static const IconifyIconData folderTypeTypescript = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTypescript = IconifyIconData.duo(
     IconData(0xe195, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe195, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe195, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-typings` (paint-order duotone)
-  static const IconifyIconData folderTypeTypings = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTypings = IconifyIconData.duo(
     IconData(0xe196, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe196, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe196, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-typings-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeTypingsOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTypingsOpened = IconifyIconData.duo(
     IconData(0xe26f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe26f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe26f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-typings2` (paint-order duotone)
-  static const IconifyIconData folderTypeTypings2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTypings2 = IconifyIconData.duo(
     IconData(0xe197, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe197, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe197, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-typings2-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeTypings2Opened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeTypings2Opened = IconifyIconData.duo(
     IconData(0xe198, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe198, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe198, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-vercel`
@@ -3781,63 +3781,63 @@ class VscodeIconsIcons {
   );
 
   /// `folder-type-vscode-test2` (paint-order duotone)
-  static const IconifyIconData folderTypeVscodeTest2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeVscodeTest2 = IconifyIconData.duo(
     IconData(0xe19a, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe19a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe19a, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-vscode-test2-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeVscodeTest2Opened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeVscodeTest2Opened = IconifyIconData.duo(
     IconData(0xe270, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe270, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe270, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-vscode2` (paint-order duotone)
-  static const IconifyIconData folderTypeVscode2 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeVscode2 = IconifyIconData.duo(
     IconData(0xe271, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe271, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe271, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-vscode2-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeVscode2Opened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeVscode2Opened = IconifyIconData.duo(
     IconData(0xe19c, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe19c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe19c, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-windows` (paint-order duotone)
-  static const IconifyIconData folderTypeWindows = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeWindows = IconifyIconData.duo(
     IconData(0xe272, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe272, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe272, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-windows-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeWindowsOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeWindowsOpened = IconifyIconData.duo(
     IconData(0xe19e, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe19e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe19e, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-windsurf` (paint-order duotone)
-  static const IconifyIconData folderTypeWindsurf = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeWindsurf = IconifyIconData.duo(
     IconData(0xe273, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe273, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe273, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-windsurf-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeWindsurfOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeWindsurfOpened = IconifyIconData.duo(
     IconData(0xe19f, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe19f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe19f, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-yarn` (paint-order duotone)
-  static const IconifyIconData folderTypeYarn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeYarn = IconifyIconData.duo(
     IconData(0xe274, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe274, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe274, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-yarn-opened` (paint-order duotone)
-  static const IconifyIconData folderTypeYarnOpened = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folderTypeYarnOpened = IconifyIconData.duo(
     IconData(0xe275, fontFamily: 'VscodeIcons', fontPackage: 'iconifyx_vscode_icons'),
-    IconData(0xe275, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'),
+    IconData(0xe275, fontFamily: 'VscodeIconsSecondary', fontPackage: 'iconifyx_vscode_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `folder-type-zed`

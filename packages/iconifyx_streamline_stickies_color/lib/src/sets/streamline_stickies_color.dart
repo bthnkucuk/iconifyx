@@ -112,9 +112,9 @@ class StreamlineStickiesColorIcons {
   );
 
   /// `bluetooth-duo` (paint-order duotone)
-  static const IconifyIconData bluetoothDuo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bluetoothDuo = IconifyIconData.duo(
     IconData(0xe013, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
-    IconData(0xe013, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe013, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `boarding-pass`
@@ -388,9 +388,9 @@ class StreamlineStickiesColorIcons {
   );
 
   /// `help-duo` (paint-order duotone)
-  static const IconifyIconData helpDuo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData helpDuo = IconifyIconData.duo(
     IconData(0xe04a, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
-    IconData(0xe04a, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe04a, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `information-toilet-location-duo`
@@ -454,9 +454,9 @@ class StreamlineStickiesColorIcons {
   );
 
   /// `love-duo` (paint-order duotone)
-  static const IconifyIconData loveDuo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData loveDuo = IconifyIconData.duo(
     IconData(0xe057, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
-    IconData(0xe057, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe057, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mail-duo`
@@ -600,9 +600,9 @@ class StreamlineStickiesColorIcons {
   );
 
   /// `programming-duo` (paint-order duotone)
-  static const IconifyIconData programmingDuo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData programmingDuo = IconifyIconData.duo(
     IconData(0xe074, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
-    IconData(0xe074, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe074, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `qr-code-duo`
@@ -796,9 +796,9 @@ class StreamlineStickiesColorIcons {
   );
 
   /// `validation-1-duo` (paint-order duotone)
-  static const IconifyIconData validation1Duo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData validation1Duo = IconifyIconData.duo(
     IconData(0xe09b, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
-    IconData(0xe09b, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe09b, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `view-mail`

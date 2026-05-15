@@ -17,9 +17,9 @@ class FlatUiIcons {
   const FlatUiIcons._();
 
   /// `android` (paint-order duotone)
-  static const IconifyIconData android = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData android = IconifyIconData.duo(
     IconData(0xe000, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
-    IconData(0xe000, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe000, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `android1`
@@ -210,15 +210,15 @@ class FlatUiIcons {
   );
 
   /// `ipad` (paint-order duotone)
-  static const IconifyIconData ipad = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ipad = IconifyIconData.duo(
     IconData(0xe049, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
-    IconData(0xe049, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe049, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `iphone` (paint-order duotone)
-  static const IconifyIconData iphone = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData iphone = IconifyIconData.duo(
     IconData(0xe04a, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
-    IconData(0xe04a, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe04a, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lettersymbol`
@@ -243,9 +243,9 @@ class FlatUiIcons {
   );
 
   /// `magicmouse` (paint-order duotone)
-  static const IconifyIconData magicmouse = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData magicmouse = IconifyIconData.duo(
     IconData(0xe029, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
-    IconData(0xe029, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe029, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `map` (duo-tone)
@@ -406,9 +406,9 @@ class FlatUiIcons {
   );
 
   /// `yinyang` (paint-order duotone)
-  static const IconifyIconData yinyang = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData yinyang = IconifyIconData.duo(
     IconData(0xe048, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
-    IconData(0xe048, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe048, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'), kind: IconifyIconData.kindPaintOrder,
   );
 
 }

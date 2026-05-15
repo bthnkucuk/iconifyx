@@ -17,33 +17,33 @@ class FlatColorIconsIcons {
   const FlatColorIconsIcons._();
 
   /// `alphabetical-sorting-az` (paint-order duotone)
-  static const IconifyIconData alphabeticalSortingAz = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alphabeticalSortingAz = IconifyIconData.duo(
     IconData(0xe053, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe053, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe053, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `alphabetical-sorting-za` (paint-order duotone)
-  static const IconifyIconData alphabeticalSortingZa = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alphabeticalSortingZa = IconifyIconData.duo(
     IconData(0xe054, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe054, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe054, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `approval` (paint-order duotone)
-  static const IconifyIconData approval = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData approval = IconifyIconData.duo(
     IconData(0xe002, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe002, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe002, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `area-chart` (paint-order duotone)
-  static const IconifyIconData areaChart = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData areaChart = IconifyIconData.duo(
     IconData(0xe004, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe004, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe004, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `automatic` (paint-order duotone)
-  static const IconifyIconData automatic = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData automatic = IconifyIconData.duo(
     IconData(0xe055, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe055, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe055, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `automotive`
@@ -57,33 +57,33 @@ class FlatColorIconsIcons {
   );
 
   /// `bbc` (paint-order duotone)
-  static const IconifyIconData bbc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bbc = IconifyIconData.duo(
     IconData(0xe056, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe056, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe056, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `biohazard` (paint-order duotone)
-  static const IconifyIconData biohazard = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData biohazard = IconifyIconData.duo(
     IconData(0xe057, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe057, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe057, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `biotech` (paint-order duotone)
-  static const IconifyIconData biotech = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData biotech = IconifyIconData.duo(
     IconData(0xe058, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe058, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe058, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `broken-link` (paint-order duotone)
-  static const IconifyIconData brokenLink = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData brokenLink = IconifyIconData.duo(
     IconData(0xe059, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe059, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe059, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cd-logo` (paint-order duotone)
-  static const IconifyIconData cdLogo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cdLogo = IconifyIconData.duo(
     IconData(0xe05a, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe05a, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe05a, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `checkmark`
@@ -92,15 +92,15 @@ class FlatColorIconsIcons {
   );
 
   /// `circuit` (paint-order duotone)
-  static const IconifyIconData circuit = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData circuit = IconifyIconData.duo(
     IconData(0xe008, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe008, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe008, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `clapperboard` (paint-order duotone)
-  static const IconifyIconData clapperboard = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData clapperboard = IconifyIconData.duo(
     IconData(0xe009, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe009, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe009, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `comments`
@@ -109,39 +109,39 @@ class FlatColorIconsIcons {
   );
 
   /// `copyleft` (paint-order duotone)
-  static const IconifyIconData copyleft = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData copyleft = IconifyIconData.duo(
     IconData(0xe00d, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe00d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe00d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `copyright` (paint-order duotone)
-  static const IconifyIconData copyright = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData copyright = IconifyIconData.duo(
     IconData(0xe00e, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe00e, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe00e, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cursor` (paint-order duotone)
-  static const IconifyIconData cursor = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cursor = IconifyIconData.duo(
     IconData(0xe05b, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe05b, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe05b, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `data-protection` (paint-order duotone)
-  static const IconifyIconData dataProtection = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dataProtection = IconifyIconData.duo(
     IconData(0xe05c, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe05c, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe05c, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dislike` (paint-order duotone)
-  static const IconifyIconData dislike = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dislike = IconifyIconData.duo(
     IconData(0xe05d, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe05d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe05d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `display` (paint-order duotone)
-  static const IconifyIconData display = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData display = IconifyIconData.duo(
     IconData(0xe05e, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe05e, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe05e, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `down`
@@ -160,15 +160,15 @@ class FlatColorIconsIcons {
   );
 
   /// `dribbble` (paint-order duotone)
-  static const IconifyIconData dribbble = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dribbble = IconifyIconData.duo(
     IconData(0xe05f, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe05f, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe05f, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dvd-logo` (paint-order duotone)
-  static const IconifyIconData dvdLogo = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dvdLogo = IconifyIconData.duo(
     IconData(0xe060, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe060, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe060, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `electrical-threshold`
@@ -182,9 +182,9 @@ class FlatColorIconsIcons {
   );
 
   /// `electro-devices` (paint-order duotone)
-  static const IconifyIconData electroDevices = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData electroDevices = IconifyIconData.duo(
     IconData(0xe018, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe018, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe018, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `empty-battery`
@@ -198,27 +198,27 @@ class FlatColorIconsIcons {
   );
 
   /// `empty-trash` (paint-order duotone)
-  static const IconifyIconData emptyTrash = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData emptyTrash = IconifyIconData.duo(
     IconData(0xe061, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe061, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe061, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `entering-heaven-alive` (paint-order duotone)
-  static const IconifyIconData enteringHeavenAlive = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData enteringHeavenAlive = IconifyIconData.duo(
     IconData(0xe01b, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe01b, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe01b, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file` (paint-order duotone)
-  static const IconifyIconData file = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData file = IconifyIconData.duo(
     IconData(0xe01c, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe01c, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe01c, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `filled-filter` (paint-order duotone)
-  static const IconifyIconData filledFilter = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData filledFilter = IconifyIconData.duo(
     IconData(0xe062, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe062, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe062, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `film`
@@ -227,15 +227,15 @@ class FlatColorIconsIcons {
   );
 
   /// `flash-auto` (paint-order duotone)
-  static const IconifyIconData flashAuto = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData flashAuto = IconifyIconData.duo(
     IconData(0xe063, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe063, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe063, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `flash-off` (paint-order duotone)
-  static const IconifyIconData flashOff = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData flashOff = IconifyIconData.duo(
     IconData(0xe064, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe064, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe064, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `flash-on`
@@ -244,15 +244,15 @@ class FlatColorIconsIcons {
   );
 
   /// `folder` (paint-order duotone)
-  static const IconifyIconData folder = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData folder = IconifyIconData.duo(
     IconData(0xe020, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe020, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe020, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `frame` (paint-order duotone)
-  static const IconifyIconData frame = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData frame = IconifyIconData.duo(
     IconData(0xe065, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe065, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe065, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `full-battery`
@@ -261,9 +261,9 @@ class FlatColorIconsIcons {
   );
 
   /// `globe` (paint-order duotone)
-  static const IconifyIconData globe = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData globe = IconifyIconData.duo(
     IconData(0xe066, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe066, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe066, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `grid`
@@ -272,21 +272,21 @@ class FlatColorIconsIcons {
   );
 
   /// `headset` (paint-order duotone)
-  static const IconifyIconData headset = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData headset = IconifyIconData.duo(
     IconData(0xe067, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe067, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe067, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `high-priority` (paint-order duotone)
-  static const IconifyIconData highPriority = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData highPriority = IconifyIconData.duo(
     IconData(0xe068, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe068, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe068, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `info` (paint-order duotone)
-  static const IconifyIconData info = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData info = IconifyIconData.duo(
     IconData(0xe069, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe069, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe069, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `left`
@@ -315,9 +315,9 @@ class FlatColorIconsIcons {
   );
 
   /// `light-at-the-end-of-tunnel` (paint-order duotone)
-  static const IconifyIconData lightAtTheEndOfTunnel = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lightAtTheEndOfTunnel = IconifyIconData.duo(
     IconData(0xe02d, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe02d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe02d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `like-placeholder`
@@ -326,9 +326,9 @@ class FlatColorIconsIcons {
   );
 
   /// `link` (paint-order duotone)
-  static const IconifyIconData link = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData link = IconifyIconData.duo(
     IconData(0xe06a, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe06a, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe06a, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `minus`
@@ -337,9 +337,9 @@ class FlatColorIconsIcons {
   );
 
   /// `news` (paint-order duotone)
-  static const IconifyIconData news = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData news = IconifyIconData.duo(
     IconData(0xe06b, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe06b, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe06b, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `no-video`
@@ -353,39 +353,39 @@ class FlatColorIconsIcons {
   );
 
   /// `numerical-sorting-12` (paint-order duotone)
-  static const IconifyIconData numericalSorting12 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData numericalSorting12 = IconifyIconData.duo(
     IconData(0xe06c, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe06c, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe06c, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `numerical-sorting-21` (paint-order duotone)
-  static const IconifyIconData numericalSorting21 = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData numericalSorting21 = IconifyIconData.duo(
     IconData(0xe06d, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe06d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe06d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ok` (paint-order duotone)
-  static const IconifyIconData ok = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ok = IconifyIconData.duo(
     IconData(0xe037, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe037, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe037, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `opened-folder` (paint-order duotone)
-  static const IconifyIconData openedFolder = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData openedFolder = IconifyIconData.duo(
     IconData(0xe038, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe038, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe038, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `package` (paint-order duotone)
-  static const IconifyIconData package = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData package = IconifyIconData.duo(
     IconData(0xe06e, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe06e, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe06e, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `podium-without-speaker` (paint-order duotone)
-  static const IconifyIconData podiumWithoutSpeaker = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData podiumWithoutSpeaker = IconifyIconData.duo(
     IconData(0xe06f, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe06f, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe06f, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `process`
@@ -399,9 +399,9 @@ class FlatColorIconsIcons {
   );
 
   /// `rating` (paint-order duotone)
-  static const IconifyIconData rating = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rating = IconifyIconData.duo(
     IconData(0xe070, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe070, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe070, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `redo`
@@ -410,9 +410,9 @@ class FlatColorIconsIcons {
   );
 
   /// `registered-trademark` (paint-order duotone)
-  static const IconifyIconData registeredTrademark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData registeredTrademark = IconifyIconData.duo(
     IconData(0xe03f, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe03f, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe03f, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `right`
@@ -441,75 +441,75 @@ class FlatColorIconsIcons {
   );
 
   /// `ruler` (paint-order duotone)
-  static const IconifyIconData ruler = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ruler = IconifyIconData.duo(
     IconData(0xe045, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe045, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe045, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `service-mark` (paint-order duotone)
-  static const IconifyIconData serviceMark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData serviceMark = IconifyIconData.duo(
     IconData(0xe048, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe048, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe048, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `services` (paint-order duotone)
-  static const IconifyIconData services = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData services = IconifyIconData.duo(
     IconData(0xe071, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe071, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe071, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `settings` (paint-order duotone)
-  static const IconifyIconData settings = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData settings = IconifyIconData.duo(
     IconData(0xe072, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe072, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe072, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `signature` (paint-order duotone)
-  static const IconifyIconData signature = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData signature = IconifyIconData.duo(
     IconData(0xe073, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe073, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe073, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sim-card-chip` (paint-order duotone)
-  static const IconifyIconData simCardChip = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData simCardChip = IconifyIconData.duo(
     IconData(0xe074, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe074, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe074, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sound-recording-copyright` (paint-order duotone)
-  static const IconifyIconData soundRecordingCopyright = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData soundRecordingCopyright = IconifyIconData.duo(
     IconData(0xe049, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe049, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe049, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `start` (paint-order duotone)
-  static const IconifyIconData start = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData start = IconifyIconData.duo(
     IconData(0xe075, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe075, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe075, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `stumbleupon` (paint-order duotone)
-  static const IconifyIconData stumbleupon = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData stumbleupon = IconifyIconData.duo(
     IconData(0xe04a, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe04a, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe04a, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `synchronize` (paint-order duotone)
-  static const IconifyIconData synchronize = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData synchronize = IconifyIconData.duo(
     IconData(0xe04b, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe04b, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe04b, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `todo-list` (paint-order duotone)
-  static const IconifyIconData todoList = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData todoList = IconifyIconData.duo(
     IconData(0xe04c, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe04c, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe04c, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `trademark` (paint-order duotone)
-  static const IconifyIconData trademark = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData trademark = IconifyIconData.duo(
     IconData(0xe04d, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe04d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe04d, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `undo`
@@ -528,27 +528,27 @@ class FlatColorIconsIcons {
   );
 
   /// `usb` (paint-order duotone)
-  static const IconifyIconData usb = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData usb = IconifyIconData.duo(
     IconData(0xe076, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe076, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe076, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `video-call` (paint-order duotone)
-  static const IconifyIconData videoCall = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData videoCall = IconifyIconData.duo(
     IconData(0xe077, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe077, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe077, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `view-details` (paint-order duotone)
-  static const IconifyIconData viewDetails = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData viewDetails = IconifyIconData.duo(
     IconData(0xe078, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe078, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe078, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `vip` (paint-order duotone)
-  static const IconifyIconData vip = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vip = IconifyIconData.duo(
     IconData(0xe079, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe079, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe079, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `voicemail`
@@ -557,9 +557,9 @@ class FlatColorIconsIcons {
   );
 
   /// `wikipedia` (paint-order duotone)
-  static const IconifyIconData wikipedia = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wikipedia = IconifyIconData.duo(
     IconData(0xe07a, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
-    IconData(0xe07a, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+    IconData(0xe07a, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'), kind: IconifyIconData.kindPaintOrder,
   );
 
 }

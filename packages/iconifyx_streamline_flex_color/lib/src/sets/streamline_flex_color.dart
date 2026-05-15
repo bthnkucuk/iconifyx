@@ -22,9 +22,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `3d-coordinate-axis-flat` (paint-order duotone)
-  static const IconifyIconData n3dCoordinateAxisFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData n3dCoordinateAxisFlat = IconifyIconData.duo(
     IconData(0xe34c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe34c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe34c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `3d-rotate-1`
@@ -33,9 +33,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `3d-rotate-1-flat` (paint-order duotone)
-  static const IconifyIconData n3dRotate1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData n3dRotate1Flat = IconifyIconData.duo(
     IconData(0xe002, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe002, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe002, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `3d-rotate-y-axis`
@@ -44,9 +44,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `3d-rotate-y-axis-flat` (paint-order duotone)
-  static const IconifyIconData n3dRotateYAxisFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData n3dRotateYAxisFlat = IconifyIconData.duo(
     IconData(0xe34d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe34d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe34d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `add-to-playlist`
@@ -55,9 +55,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `add-to-playlist-flat` (paint-order duotone)
-  static const IconifyIconData addToPlaylistFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData addToPlaylistFlat = IconifyIconData.duo(
     IconData(0xe005, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe005, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe005, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ai-chip-robot`
@@ -66,9 +66,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `ai-chip-robot-flat` (paint-order duotone)
-  static const IconifyIconData aiChipRobotFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData aiChipRobotFlat = IconifyIconData.duo(
     IconData(0xe007, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe007, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe007, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ai-generate-portrait-image-spark`
@@ -77,9 +77,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `ai-generate-portrait-image-spark-flat` (paint-order duotone)
-  static const IconifyIconData aiGeneratePortraitImageSparkFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData aiGeneratePortraitImageSparkFlat = IconifyIconData.duo(
     IconData(0xe009, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe009, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe009, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ai-scanner-robot`
@@ -88,9 +88,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `ai-scanner-robot-flat` (paint-order duotone)
-  static const IconifyIconData aiScannerRobotFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData aiScannerRobotFlat = IconifyIconData.duo(
     IconData(0xe00b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe00b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe00b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `airplane-disabled`
@@ -99,9 +99,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `airplane-disabled-flat` (paint-order duotone)
-  static const IconifyIconData airplaneDisabledFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData airplaneDisabledFlat = IconifyIconData.duo(
     IconData(0xe00d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe00d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe00d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `airport-plane`
@@ -120,9 +120,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `airship-flat` (paint-order duotone)
-  static const IconifyIconData airshipFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData airshipFlat = IconifyIconData.duo(
     IconData(0xe34e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe34e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe34e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `alien`
@@ -131,9 +131,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `alien-flat` (paint-order duotone)
-  static const IconifyIconData alienFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alienFlat = IconifyIconData.duo(
     IconData(0xe012, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe012, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe012, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `align-back-1`
@@ -142,9 +142,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `align-back-1-flat` (paint-order duotone)
-  static const IconifyIconData alignBack1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alignBack1Flat = IconifyIconData.duo(
     IconData(0xe34f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe34f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe34f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `align-selection`
@@ -153,9 +153,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `align-selection-flat` (paint-order duotone)
-  static const IconifyIconData alignSelectionFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alignSelectionFlat = IconifyIconData.duo(
     IconData(0xe015, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe015, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe015, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `align-text-top`
@@ -164,9 +164,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `align-text-top-flat` (paint-order duotone)
-  static const IconifyIconData alignTextTopFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alignTextTopFlat = IconifyIconData.duo(
     IconData(0xe017, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe017, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe017, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `align-top-1`
@@ -175,9 +175,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `align-top-1-flat` (paint-order duotone)
-  static const IconifyIconData alignTop1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData alignTop1Flat = IconifyIconData.duo(
     IconData(0xe350, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe350, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe350, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `allergens-fish`
@@ -186,9 +186,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `allergens-fish-flat` (paint-order duotone)
-  static const IconifyIconData allergensFishFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData allergensFishFlat = IconifyIconData.duo(
     IconData(0xe01a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe01a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe01a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `anchor`
@@ -207,9 +207,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `apple-flat` (paint-order duotone)
-  static const IconifyIconData appleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData appleFlat = IconifyIconData.duo(
     IconData(0xe01e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe01e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe01e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `application-add`
@@ -218,9 +218,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `application-add-flat` (paint-order duotone)
-  static const IconifyIconData applicationAddFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData applicationAddFlat = IconifyIconData.duo(
     IconData(0xe351, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe351, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe351, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `archive-box`
@@ -229,9 +229,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `archive-box-flat` (paint-order duotone)
-  static const IconifyIconData archiveBoxFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData archiveBoxFlat = IconifyIconData.duo(
     IconData(0xe021, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe021, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe021, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `arrow-cursor-2`
@@ -250,9 +250,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `arrow-cursor-click-2-flat` (paint-order duotone)
-  static const IconifyIconData arrowCursorClick2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData arrowCursorClick2Flat = IconifyIconData.duo(
     IconData(0xe352, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe352, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe352, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `arrow-cursor-move`
@@ -261,9 +261,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `arrow-cursor-move-flat` (paint-order duotone)
-  static const IconifyIconData arrowCursorMoveFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData arrowCursorMoveFlat = IconifyIconData.duo(
     IconData(0xe353, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe353, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe353, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `arrow-expand`
@@ -292,9 +292,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `arrow-roadmap-flat` (paint-order duotone)
-  static const IconifyIconData arrowRoadmapFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData arrowRoadmapFlat = IconifyIconData.duo(
     IconData(0xe02b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe02b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe02b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `artificial-intelligence-brain-chip`
@@ -303,9 +303,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `artificial-intelligence-brain-chip-flat` (paint-order duotone)
-  static const IconifyIconData artificialIntelligenceBrainChipFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData artificialIntelligenceBrainChipFlat = IconifyIconData.duo(
     IconData(0xe354, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe354, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe354, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `artist-song`
@@ -314,9 +314,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `artist-song-flat` (paint-order duotone)
-  static const IconifyIconData artistSongFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData artistSongFlat = IconifyIconData.duo(
     IconData(0xe355, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe355, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe355, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `auto-correction-check`
@@ -345,9 +345,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `bag-suitcase-4-flat` (paint-order duotone)
-  static const IconifyIconData bagSuitcase4Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bagSuitcase4Flat = IconifyIconData.duo(
     IconData(0xe356, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe356, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe356, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `baggage`
@@ -356,9 +356,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `baggage-flat` (paint-order duotone)
-  static const IconifyIconData baggageFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData baggageFlat = IconifyIconData.duo(
     IconData(0xe034, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe034, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe034, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ball`
@@ -367,9 +367,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `ball-flat` (paint-order duotone)
-  static const IconifyIconData ballFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ballFlat = IconifyIconData.duo(
     IconData(0xe357, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe357, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe357, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `balloon`
@@ -378,9 +378,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `balloon-flat` (paint-order duotone)
-  static const IconifyIconData balloonFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData balloonFlat = IconifyIconData.duo(
     IconData(0xe358, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe358, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe358, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `battery-charging`
@@ -389,9 +389,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `battery-charging-flat` (paint-order duotone)
-  static const IconifyIconData batteryChargingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData batteryChargingFlat = IconifyIconData.duo(
     IconData(0xe038, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe038, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe038, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `battery-medium-1`
@@ -400,9 +400,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `battery-medium-1-flat` (paint-order duotone)
-  static const IconifyIconData batteryMedium1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData batteryMedium1Flat = IconifyIconData.duo(
     IconData(0xe03a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe03a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe03a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bell`
@@ -411,9 +411,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `bell-flat` (paint-order duotone)
-  static const IconifyIconData bellFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bellFlat = IconifyIconData.duo(
     IconData(0xe03c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe03c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe03c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bell-notification`
@@ -422,9 +422,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `bell-notification-flat` (paint-order duotone)
-  static const IconifyIconData bellNotificationFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bellNotificationFlat = IconifyIconData.duo(
     IconData(0xe03e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe03e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe03e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bicycle-bike`
@@ -433,9 +433,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `bicycle-bike-flat` (paint-order duotone)
-  static const IconifyIconData bicycleBikeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bicycleBikeFlat = IconifyIconData.duo(
     IconData(0xe359, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe359, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe359, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bill-4`
@@ -444,9 +444,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `bill-4-flat` (paint-order duotone)
-  static const IconifyIconData bill4Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bill4Flat = IconifyIconData.duo(
     IconData(0xe35a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe35a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe35a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `binoculars`
@@ -455,9 +455,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `binoculars-flat` (paint-order duotone)
-  static const IconifyIconData binocularsFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData binocularsFlat = IconifyIconData.duo(
     IconData(0xe042, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe042, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe042, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `blank-calendar`
@@ -466,9 +466,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `blank-calendar-flat` (paint-order duotone)
-  static const IconifyIconData blankCalendarFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData blankCalendarFlat = IconifyIconData.duo(
     IconData(0xe044, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe044, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe044, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `block-2`
@@ -487,9 +487,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `blood-donate-drop-flat` (paint-order duotone)
-  static const IconifyIconData bloodDonateDropFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bloodDonateDropFlat = IconifyIconData.duo(
     IconData(0xe35b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe35b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe35b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bluetooth-disabled`
@@ -498,9 +498,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `bluetooth-disabled-flat` (paint-order duotone)
-  static const IconifyIconData bluetoothDisabledFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bluetoothDisabledFlat = IconifyIconData.duo(
     IconData(0xe049, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe049, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe049, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bluetooth-searching`
@@ -509,9 +509,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `bluetooth-searching-flat` (paint-order duotone)
-  static const IconifyIconData bluetoothSearchingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bluetoothSearchingFlat = IconifyIconData.duo(
     IconData(0xe04b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe04b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe04b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `book-reading`
@@ -520,9 +520,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `book-reading-flat` (paint-order duotone)
-  static const IconifyIconData bookReadingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bookReadingFlat = IconifyIconData.duo(
     IconData(0xe35c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe35c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe35c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bookmark`
@@ -541,9 +541,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `bow-tie-flat` (paint-order duotone)
-  static const IconifyIconData bowTieFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bowTieFlat = IconifyIconData.duo(
     IconData(0xe050, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe050, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe050, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `brightness-1`
@@ -552,9 +552,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `brightness-1-flat` (paint-order duotone)
-  static const IconifyIconData brightness1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData brightness1Flat = IconifyIconData.duo(
     IconData(0xe35d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe35d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe35d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `brightness-4`
@@ -563,9 +563,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `brightness-4-flat` (paint-order duotone)
-  static const IconifyIconData brightness4Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData brightness4Flat = IconifyIconData.duo(
     IconData(0xe053, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe053, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe053, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `broken-link-1`
@@ -574,9 +574,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `broken-link-1-flat` (paint-order duotone)
-  static const IconifyIconData brokenLink1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData brokenLink1Flat = IconifyIconData.duo(
     IconData(0xe055, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe055, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe055, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `browser-bookmark`
@@ -585,9 +585,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `browser-bookmark-flat` (paint-order duotone)
-  static const IconifyIconData browserBookmarkFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData browserBookmarkFlat = IconifyIconData.duo(
     IconData(0xe057, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe057, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe057, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `browser-dashboard`
@@ -596,9 +596,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `browser-dashboard-flat` (paint-order duotone)
-  static const IconifyIconData browserDashboardFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData browserDashboardFlat = IconifyIconData.duo(
     IconData(0xe059, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe059, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe059, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `browser-multiple-window`
@@ -607,9 +607,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `browser-multiple-window-flat` (paint-order duotone)
-  static const IconifyIconData browserMultipleWindowFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData browserMultipleWindowFlat = IconifyIconData.duo(
     IconData(0xe05b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe05b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe05b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bug-antivirus-shield`
@@ -618,9 +618,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `bug-antivirus-shield-flat` (paint-order duotone)
-  static const IconifyIconData bugAntivirusShieldFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bugAntivirusShieldFlat = IconifyIconData.duo(
     IconData(0xe05d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe05d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe05d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `building-1`
@@ -629,9 +629,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `building-1-flat` (paint-order duotone)
-  static const IconifyIconData building1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData building1Flat = IconifyIconData.duo(
     IconData(0xe05f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe05f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe05f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `button-move-circle`
@@ -640,9 +640,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `button-move-circle-flat` (paint-order duotone)
-  static const IconifyIconData buttonMoveCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData buttonMoveCircleFlat = IconifyIconData.duo(
     IconData(0xe061, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe061, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe061, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `button-pause-circle`
@@ -651,9 +651,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `button-pause-circle-flat` (paint-order duotone)
-  static const IconifyIconData buttonPauseCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData buttonPauseCircleFlat = IconifyIconData.duo(
     IconData(0xe063, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe063, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe063, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `button-power-1`
@@ -662,9 +662,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `button-power-1-flat` (paint-order duotone)
-  static const IconifyIconData buttonPower1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData buttonPower1Flat = IconifyIconData.duo(
     IconData(0xe35e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe35e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe35e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `button-record-1`
@@ -673,9 +673,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `button-record-1-flat` (paint-order duotone)
-  static const IconifyIconData buttonRecord1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData buttonRecord1Flat = IconifyIconData.duo(
     IconData(0xe066, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe066, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe066, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cake-slice`
@@ -684,9 +684,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cake-slice-flat` (paint-order duotone)
-  static const IconifyIconData cakeSliceFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cakeSliceFlat = IconifyIconData.duo(
     IconData(0xe068, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe068, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe068, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `calculator-1`
@@ -695,9 +695,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `calculator-1-flat` (paint-order duotone)
-  static const IconifyIconData calculator1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData calculator1Flat = IconifyIconData.duo(
     IconData(0xe06a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe06a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe06a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `calendar-mark`
@@ -706,9 +706,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `calendar-mark-flat` (paint-order duotone)
-  static const IconifyIconData calendarMarkFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData calendarMarkFlat = IconifyIconData.duo(
     IconData(0xe06c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe06c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe06c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `call-center-support-service`
@@ -717,9 +717,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `call-center-support-service-flat` (paint-order duotone)
-  static const IconifyIconData callCenterSupportServiceFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData callCenterSupportServiceFlat = IconifyIconData.duo(
     IconData(0xe35f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe35f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe35f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `camera-1`
@@ -728,9 +728,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `camera-1-flat` (paint-order duotone)
-  static const IconifyIconData camera1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData camera1Flat = IconifyIconData.duo(
     IconData(0xe06f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe06f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe06f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `camera-setting-gear`
@@ -739,9 +739,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `camera-setting-gear-flat` (paint-order duotone)
-  static const IconifyIconData cameraSettingGearFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cameraSettingGearFlat = IconifyIconData.duo(
     IconData(0xe071, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe071, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe071, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `camera-tripod`
@@ -750,9 +750,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `camera-tripod-flat` (paint-order duotone)
-  static const IconifyIconData cameraTripodFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cameraTripodFlat = IconifyIconData.duo(
     IconData(0xe073, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe073, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe073, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `camera-video`
@@ -761,9 +761,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `camera-video-flat` (paint-order duotone)
-  static const IconifyIconData cameraVideoFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cameraVideoFlat = IconifyIconData.duo(
     IconData(0xe075, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe075, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe075, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `campfire`
@@ -772,9 +772,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `campfire-flat` (paint-order duotone)
-  static const IconifyIconData campfireFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData campfireFlat = IconifyIconData.duo(
     IconData(0xe360, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe360, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe360, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `camping-tent`
@@ -783,9 +783,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `camping-tent-flat` (paint-order duotone)
-  static const IconifyIconData campingTentFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData campingTentFlat = IconifyIconData.duo(
     IconData(0xe078, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe078, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe078, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `car-taxi-1`
@@ -794,9 +794,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `car-taxi-1-flat` (paint-order duotone)
-  static const IconifyIconData carTaxi1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData carTaxi1Flat = IconifyIconData.duo(
     IconData(0xe361, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe361, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe361, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `carrot`
@@ -805,9 +805,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `carrot-flat` (paint-order duotone)
-  static const IconifyIconData carrotFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData carrotFlat = IconifyIconData.duo(
     IconData(0xe362, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe362, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe362, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cashing-check`
@@ -816,9 +816,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cashing-check-flat` (paint-order duotone)
-  static const IconifyIconData cashingCheckFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cashingCheckFlat = IconifyIconData.duo(
     IconData(0xe07c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe07c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe07c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cat-2`
@@ -827,9 +827,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cat-2-flat` (paint-order duotone)
-  static const IconifyIconData cat2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cat2Flat = IconifyIconData.duo(
     IconData(0xe07e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe07e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe07e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cellular-network-lte`
@@ -838,9 +838,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cellular-network-lte-flat` (paint-order duotone)
-  static const IconifyIconData cellularNetworkLteFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cellularNetworkLteFlat = IconifyIconData.duo(
     IconData(0xe363, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe363, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe363, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `champagne-party-alcohol`
@@ -849,9 +849,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `champagne-party-alcohol-flat` (paint-order duotone)
-  static const IconifyIconData champagnePartyAlcoholFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData champagnePartyAlcoholFlat = IconifyIconData.duo(
     IconData(0xe364, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe364, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe364, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `charging`
@@ -860,9 +860,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `charging-flat` (paint-order duotone)
-  static const IconifyIconData chargingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData chargingFlat = IconifyIconData.duo(
     IconData(0xe082, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe082, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe082, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `chat-bubble-square-phone`
@@ -871,9 +871,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `chat-bubble-square-phone-flat` (paint-order duotone)
-  static const IconifyIconData chatBubbleSquarePhoneFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData chatBubbleSquarePhoneFlat = IconifyIconData.duo(
     IconData(0xe084, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe084, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe084, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `chat-bubble-text-square`
@@ -882,9 +882,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `chat-bubble-text-square-flat` (paint-order duotone)
-  static const IconifyIconData chatBubbleTextSquareFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData chatBubbleTextSquareFlat = IconifyIconData.duo(
     IconData(0xe086, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe086, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe086, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `chat-bubble-typing-oval`
@@ -893,9 +893,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `chat-bubble-typing-oval-flat` (paint-order duotone)
-  static const IconifyIconData chatBubbleTypingOvalFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData chatBubbleTypingOvalFlat = IconifyIconData.duo(
     IconData(0xe088, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe088, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe088, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `check-square`
@@ -904,9 +904,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `check-square-flat` (paint-order duotone)
-  static const IconifyIconData checkSquareFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData checkSquareFlat = IconifyIconData.duo(
     IconData(0xe08a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe08a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe08a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `checkup-medical-report-clipboard`
@@ -915,9 +915,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `checkup-medical-report-clipboard-flat` (paint-order duotone)
-  static const IconifyIconData checkupMedicalReportClipboardFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData checkupMedicalReportClipboardFlat = IconifyIconData.duo(
     IconData(0xe08c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe08c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe08c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `chef-toque-hat`
@@ -926,9 +926,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `chef-toque-hat-flat` (paint-order duotone)
-  static const IconifyIconData chefToqueHatFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData chefToqueHatFlat = IconifyIconData.duo(
     IconData(0xe08e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe08e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe08e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `chess-king`
@@ -937,9 +937,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `chess-king-flat` (paint-order duotone)
-  static const IconifyIconData chessKingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData chessKingFlat = IconifyIconData.duo(
     IconData(0xe365, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe365, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe365, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `city-hall`
@@ -948,9 +948,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `city-hall-flat` (paint-order duotone)
-  static const IconifyIconData cityHallFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cityHallFlat = IconifyIconData.duo(
     IconData(0xe366, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe366, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe366, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `clean-broom-wipe`
@@ -959,9 +959,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `clean-broom-wipe-flat` (paint-order duotone)
-  static const IconifyIconData cleanBroomWipeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cleanBroomWipeFlat = IconifyIconData.duo(
     IconData(0xe367, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe367, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe367, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud`
@@ -975,9 +975,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cloud-data-transfer-flat` (paint-order duotone)
-  static const IconifyIconData cloudDataTransferFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudDataTransferFlat = IconifyIconData.duo(
     IconData(0xe094, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe094, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe094, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-download`
@@ -986,15 +986,15 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cloud-download-flat` (paint-order duotone)
-  static const IconifyIconData cloudDownloadFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudDownloadFlat = IconifyIconData.duo(
     IconData(0xe096, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe096, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe096, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-flat` (paint-order duotone)
-  static const IconifyIconData cloudFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudFlat = IconifyIconData.duo(
     IconData(0xe097, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe097, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe097, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-off`
@@ -1003,9 +1003,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cloud-off-flat` (paint-order duotone)
-  static const IconifyIconData cloudOffFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudOffFlat = IconifyIconData.duo(
     IconData(0xe099, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe099, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe099, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cloud-warning`
@@ -1014,9 +1014,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cloud-warning-flat` (paint-order duotone)
-  static const IconifyIconData cloudWarningFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cloudWarningFlat = IconifyIconData.duo(
     IconData(0xe09b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe09b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe09b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cocktail`
@@ -1035,9 +1035,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `code-analysis-flat` (paint-order duotone)
-  static const IconifyIconData codeAnalysisFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData codeAnalysisFlat = IconifyIconData.duo(
     IconData(0xe09f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe09f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe09f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `code-monitor-1`
@@ -1046,9 +1046,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `code-monitor-1-flat` (paint-order duotone)
-  static const IconifyIconData codeMonitor1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData codeMonitor1Flat = IconifyIconData.duo(
     IconData(0xe368, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe368, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe368, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cog`
@@ -1067,9 +1067,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `coin-share-flat` (paint-order duotone)
-  static const IconifyIconData coinShareFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData coinShareFlat = IconifyIconData.duo(
     IconData(0xe369, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe369, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe369, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `color-picker`
@@ -1078,9 +1078,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `color-picker-flat` (paint-order duotone)
-  static const IconifyIconData colorPickerFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData colorPickerFlat = IconifyIconData.duo(
     IconData(0xe0a5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0a5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0a5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `color-swatches`
@@ -1089,9 +1089,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `color-swatches-flat` (paint-order duotone)
-  static const IconifyIconData colorSwatchesFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData colorSwatchesFlat = IconifyIconData.duo(
     IconData(0xe36a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe36a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe36a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `compsition-horizontal`
@@ -1110,9 +1110,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `computer-chip-1-flat` (paint-order duotone)
-  static const IconifyIconData computerChip1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData computerChip1Flat = IconifyIconData.duo(
     IconData(0xe0aa, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0aa, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0aa, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `contact-book`
@@ -1121,9 +1121,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `contact-book-flat` (paint-order duotone)
-  static const IconifyIconData contactBookFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData contactBookFlat = IconifyIconData.duo(
     IconData(0xe36b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe36b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe36b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `contact-phonebook-2`
@@ -1132,9 +1132,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `contact-phonebook-2-flat` (paint-order duotone)
-  static const IconifyIconData contactPhonebook2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData contactPhonebook2Flat = IconifyIconData.duo(
     IconData(0xe36c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe36c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe36c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `controller-stick`
@@ -1143,9 +1143,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `controller-stick-flat` (paint-order duotone)
-  static const IconifyIconData controllerStickFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData controllerStickFlat = IconifyIconData.duo(
     IconData(0xe36d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe36d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe36d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `controller-wireless`
@@ -1154,9 +1154,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `controller-wireless-flat` (paint-order duotone)
-  static const IconifyIconData controllerWirelessFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData controllerWirelessFlat = IconifyIconData.duo(
     IconData(0xe0af, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0af, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0af, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `copy-2`
@@ -1165,9 +1165,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `copy-2-flat` (paint-order duotone)
-  static const IconifyIconData copy2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData copy2Flat = IconifyIconData.duo(
     IconData(0xe36e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe36e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe36e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `countdown-timer`
@@ -1176,9 +1176,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `countdown-timer-flat` (paint-order duotone)
-  static const IconifyIconData countdownTimerFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData countdownTimerFlat = IconifyIconData.duo(
     IconData(0xe36f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe36f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe36f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `credit-card-4`
@@ -1187,9 +1187,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `credit-card-4-flat` (paint-order duotone)
-  static const IconifyIconData creditCard4Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData creditCard4Flat = IconifyIconData.duo(
     IconData(0xe0b3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0b3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0b3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `credit-card-approved`
@@ -1198,9 +1198,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `credit-card-approved-flat` (paint-order duotone)
-  static const IconifyIconData creditCardApprovedFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData creditCardApprovedFlat = IconifyIconData.duo(
     IconData(0xe0b5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0b5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0b5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `credit-card-disable`
@@ -1209,9 +1209,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `credit-card-disable-flat` (paint-order duotone)
-  static const IconifyIconData creditCardDisableFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData creditCardDisableFlat = IconifyIconData.duo(
     IconData(0xe370, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe370, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe370, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `critical-thinking-2`
@@ -1220,9 +1220,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `critical-thinking-2-flat` (paint-order duotone)
-  static const IconifyIconData criticalThinking2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData criticalThinking2Flat = IconifyIconData.duo(
     IconData(0xe0b8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0b8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0b8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `crown`
@@ -1241,9 +1241,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cube-flat` (paint-order duotone)
-  static const IconifyIconData cubeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cubeFlat = IconifyIconData.duo(
     IconData(0xe0bc, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0bc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0bc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cursor-click`
@@ -1252,9 +1252,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cursor-click-flat` (paint-order duotone)
-  static const IconifyIconData cursorClickFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cursorClickFlat = IconifyIconData.duo(
     IconData(0xe371, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe371, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe371, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `curves-levels-graph`
@@ -1263,9 +1263,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `curves-levels-graph-flat` (paint-order duotone)
-  static const IconifyIconData curvesLevelsGraphFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData curvesLevelsGraphFlat = IconifyIconData.duo(
     IconData(0xe0bf, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0bf, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0bf, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `customer-support-5`
@@ -1274,9 +1274,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `customer-support-5-flat` (paint-order duotone)
-  static const IconifyIconData customerSupport5Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData customerSupport5Flat = IconifyIconData.duo(
     IconData(0xe0c1, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0c1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0c1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `customer-support-7`
@@ -1285,9 +1285,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `customer-support-7-flat` (paint-order duotone)
-  static const IconifyIconData customerSupport7Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData customerSupport7Flat = IconifyIconData.duo(
     IconData(0xe0c3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0c3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0c3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cyborg-2`
@@ -1296,9 +1296,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `cyborg-2-flat` (paint-order duotone)
-  static const IconifyIconData cyborg2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cyborg2Flat = IconifyIconData.duo(
     IconData(0xe0c5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0c5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0c5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dark-dislay-mode`
@@ -1307,9 +1307,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dark-dislay-mode-flat` (paint-order duotone)
-  static const IconifyIconData darkDislayModeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData darkDislayModeFlat = IconifyIconData.duo(
     IconData(0xe0c7, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0c7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0c7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dashboard-3`
@@ -1318,9 +1318,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dashboard-3-flat` (paint-order duotone)
-  static const IconifyIconData dashboard3Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dashboard3Flat = IconifyIconData.duo(
     IconData(0xe0c9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0c9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0c9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dashboard-gauge-1`
@@ -1329,9 +1329,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dashboard-gauge-1-flat` (paint-order duotone)
-  static const IconifyIconData dashboardGauge1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dashboardGauge1Flat = IconifyIconData.duo(
     IconData(0xe0cb, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0cb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0cb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `database`
@@ -1340,9 +1340,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `database-flat` (paint-order duotone)
-  static const IconifyIconData databaseFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData databaseFlat = IconifyIconData.duo(
     IconData(0xe372, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe372, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe372, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `decent-work-and-economic-growth`
@@ -1351,9 +1351,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `decent-work-and-economic-growth-flat` (paint-order duotone)
-  static const IconifyIconData decentWorkAndEconomicGrowthFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData decentWorkAndEconomicGrowthFlat = IconifyIconData.duo(
     IconData(0xe0ce, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0ce, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0ce, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `deepfake-technology-1`
@@ -1362,9 +1362,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `deepfake-technology-1-flat` (paint-order duotone)
-  static const IconifyIconData deepfakeTechnology1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData deepfakeTechnology1Flat = IconifyIconData.duo(
     IconData(0xe0d0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0d0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0d0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `definition-search-book`
@@ -1373,9 +1373,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `definition-search-book-flat` (paint-order duotone)
-  static const IconifyIconData definitionSearchBookFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData definitionSearchBookFlat = IconifyIconData.duo(
     IconData(0xe0d2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0d2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0d2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `delete-tag`
@@ -1384,9 +1384,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `delete-tag-flat` (paint-order duotone)
-  static const IconifyIconData deleteTagFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData deleteTagFlat = IconifyIconData.duo(
     IconData(0xe0d4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0d4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0d4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `departure-time`
@@ -1395,9 +1395,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `departure-time-flat` (paint-order duotone)
-  static const IconifyIconData departureTimeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData departureTimeFlat = IconifyIconData.duo(
     IconData(0xe0d6, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0d6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0d6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `desktop-lock`
@@ -1406,9 +1406,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `desktop-lock-flat` (paint-order duotone)
-  static const IconifyIconData desktopLockFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData desktopLockFlat = IconifyIconData.duo(
     IconData(0xe373, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe373, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe373, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `desktop-screensaver-sleep`
@@ -1417,9 +1417,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `desktop-screensaver-sleep-flat` (paint-order duotone)
-  static const IconifyIconData desktopScreensaverSleepFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData desktopScreensaverSleepFlat = IconifyIconData.duo(
     IconData(0xe374, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe374, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe374, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dial-pad-finger-2`
@@ -1428,9 +1428,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dial-pad-finger-2-flat` (paint-order duotone)
-  static const IconifyIconData dialPadFinger2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dialPadFinger2Flat = IconifyIconData.duo(
     IconData(0xe375, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe375, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe375, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `diamond-1`
@@ -1439,9 +1439,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `diamond-1-flat` (paint-order duotone)
-  static const IconifyIconData diamond1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData diamond1Flat = IconifyIconData.duo(
     IconData(0xe376, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe376, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe376, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dice-5`
@@ -1450,9 +1450,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dice-5-flat` (paint-order duotone)
-  static const IconifyIconData dice5Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dice5Flat = IconifyIconData.duo(
     IconData(0xe0dc, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0dc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0dc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dictionary-language-book`
@@ -1461,9 +1461,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dictionary-language-book-flat` (paint-order duotone)
-  static const IconifyIconData dictionaryLanguageBookFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dictionaryLanguageBookFlat = IconifyIconData.duo(
     IconData(0xe377, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe377, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe377, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `disable-bell-notification`
@@ -1472,9 +1472,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `disable-bell-notification-flat` (paint-order duotone)
-  static const IconifyIconData disableBellNotificationFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData disableBellNotificationFlat = IconifyIconData.duo(
     IconData(0xe0df, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0df, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0df, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `discount-percent-coupon`
@@ -1483,9 +1483,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `discount-percent-coupon-flat` (paint-order duotone)
-  static const IconifyIconData discountPercentCouponFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData discountPercentCouponFlat = IconifyIconData.duo(
     IconData(0xe0e1, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0e1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0e1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `discussion-converstion-reply`
@@ -1504,9 +1504,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dislike-circle-flat` (paint-order duotone)
-  static const IconifyIconData dislikeCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dislikeCircleFlat = IconifyIconData.duo(
     IconData(0xe0e5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0e5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0e5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dna`
@@ -1515,9 +1515,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dna-flat` (paint-order duotone)
-  static const IconifyIconData dnaFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dnaFlat = IconifyIconData.duo(
     IconData(0xe378, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe378, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe378, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dog-1`
@@ -1526,9 +1526,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dog-1-flat` (paint-order duotone)
-  static const IconifyIconData dog1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dog1Flat = IconifyIconData.duo(
     IconData(0xe0e8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0e8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0e8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dollar-increase`
@@ -1537,9 +1537,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dollar-increase-flat` (paint-order duotone)
-  static const IconifyIconData dollarIncreaseFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dollarIncreaseFlat = IconifyIconData.duo(
     IconData(0xe0ea, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0ea, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0ea, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `download-arrow`
@@ -1548,9 +1548,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `download-arrow-flat` (paint-order duotone)
-  static const IconifyIconData downloadArrowFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData downloadArrowFlat = IconifyIconData.duo(
     IconData(0xe379, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe379, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe379, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `download-box-1`
@@ -1559,9 +1559,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `download-box-1-flat` (paint-order duotone)
-  static const IconifyIconData downloadBox1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData downloadBox1Flat = IconifyIconData.duo(
     IconData(0xe37a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe37a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe37a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `download-tray`
@@ -1570,9 +1570,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `download-tray-flat` (paint-order duotone)
-  static const IconifyIconData downloadTrayFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData downloadTrayFlat = IconifyIconData.duo(
     IconData(0xe0ee, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0ee, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0ee, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dribble`
@@ -1581,9 +1581,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `dribble-flat` (paint-order duotone)
-  static const IconifyIconData dribbleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dribbleFlat = IconifyIconData.duo(
     IconData(0xe0f0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0f0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0f0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `drone`
@@ -1592,9 +1592,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `drone-flat` (paint-order duotone)
-  static const IconifyIconData droneFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData droneFlat = IconifyIconData.duo(
     IconData(0xe0f2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0f2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0f2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ear-speciality`
@@ -1603,9 +1603,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `ear-speciality-flat` (paint-order duotone)
-  static const IconifyIconData earSpecialityFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData earSpecialityFlat = IconifyIconData.duo(
     IconData(0xe0f4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0f4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0f4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `earpods`
@@ -1624,9 +1624,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `earth-1-flat` (paint-order duotone)
-  static const IconifyIconData earth1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData earth1Flat = IconifyIconData.duo(
     IconData(0xe0f8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0f8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0f8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `eject-square`
@@ -1635,9 +1635,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `eject-square-flat` (paint-order duotone)
-  static const IconifyIconData ejectSquareFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ejectSquareFlat = IconifyIconData.duo(
     IconData(0xe0fa, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0fa, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0fa, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `electric-cord-1`
@@ -1646,9 +1646,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `electric-cord-1-flat` (paint-order duotone)
-  static const IconifyIconData electricCord1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData electricCord1Flat = IconifyIconData.duo(
     IconData(0xe37b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe37b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe37b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `elevator`
@@ -1657,9 +1657,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `elevator-flat` (paint-order duotone)
-  static const IconifyIconData elevatorFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData elevatorFlat = IconifyIconData.duo(
     IconData(0xe0fd, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0fd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0fd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `empty-clipboard`
@@ -1668,9 +1668,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `empty-clipboard-flat` (paint-order duotone)
-  static const IconifyIconData emptyClipboardFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData emptyClipboardFlat = IconifyIconData.duo(
     IconData(0xe0ff, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe0ff, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe0ff, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `end-point-diamond`
@@ -1689,9 +1689,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `erlenmeyer-flask-flat` (paint-order duotone)
-  static const IconifyIconData erlenmeyerFlaskFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData erlenmeyerFlaskFlat = IconifyIconData.duo(
     IconData(0xe103, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe103, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe103, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `esports`
@@ -1700,9 +1700,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `esports-flat` (paint-order duotone)
-  static const IconifyIconData esportsFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData esportsFlat = IconifyIconData.duo(
     IconData(0xe105, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe105, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe105, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `expand-crop-resize`
@@ -1711,9 +1711,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `expand-crop-resize-flat` (paint-order duotone)
-  static const IconifyIconData expandCropResizeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData expandCropResizeFlat = IconifyIconData.duo(
     IconData(0xe37c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe37c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe37c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `expand-window-1`
@@ -1722,9 +1722,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `expand-window-1-flat` (paint-order duotone)
-  static const IconifyIconData expandWindow1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData expandWindow1Flat = IconifyIconData.duo(
     IconData(0xe108, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe108, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe108, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `face-scan-1`
@@ -1733,9 +1733,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `face-scan-1-flat` (paint-order duotone)
-  static const IconifyIconData faceScan1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData faceScan1Flat = IconifyIconData.duo(
     IconData(0xe37d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe37d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe37d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `facebook-1`
@@ -1754,9 +1754,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `fahrenheit-flat` (paint-order duotone)
-  static const IconifyIconData fahrenheitFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fahrenheitFlat = IconifyIconData.duo(
     IconData(0xe10d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe10d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe10d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `feather-pen`
@@ -1765,9 +1765,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `feather-pen-flat` (paint-order duotone)
-  static const IconifyIconData featherPenFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData featherPenFlat = IconifyIconData.duo(
     IconData(0xe10f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe10f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe10f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-bookmark`
@@ -1776,9 +1776,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `file-bookmark-flat` (paint-order duotone)
-  static const IconifyIconData fileBookmarkFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileBookmarkFlat = IconifyIconData.duo(
     IconData(0xe111, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe111, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe111, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `file-code-1`
@@ -1787,9 +1787,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `file-code-1-flat` (paint-order duotone)
-  static const IconifyIconData fileCode1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fileCode1Flat = IconifyIconData.duo(
     IconData(0xe113, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe113, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe113, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `film`
@@ -1798,9 +1798,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `film-flat` (paint-order duotone)
-  static const IconifyIconData filmFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData filmFlat = IconifyIconData.duo(
     IconData(0xe115, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe115, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe115, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `film-slate`
@@ -1809,9 +1809,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `film-slate-flat` (paint-order duotone)
-  static const IconifyIconData filmSlateFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData filmSlateFlat = IconifyIconData.duo(
     IconData(0xe37e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe37e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe37e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `filter-2`
@@ -1830,9 +1830,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `finger-snapping-flat` (paint-order duotone)
-  static const IconifyIconData fingerSnappingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fingerSnappingFlat = IconifyIconData.duo(
     IconData(0xe37f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe37f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe37f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fingerprint-1`
@@ -1851,9 +1851,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `fire-alarm-2-flat` (paint-order duotone)
-  static const IconifyIconData fireAlarm2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fireAlarm2Flat = IconifyIconData.duo(
     IconData(0xe380, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe380, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe380, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `flash-3`
@@ -1872,9 +1872,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `flash-off-flat` (paint-order duotone)
-  static const IconifyIconData flashOffFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData flashOffFlat = IconifyIconData.duo(
     IconData(0xe120, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe120, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe120, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `flash-warning`
@@ -1883,9 +1883,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `flash-warning-flat` (paint-order duotone)
-  static const IconifyIconData flashWarningFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData flashWarningFlat = IconifyIconData.duo(
     IconData(0xe122, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe122, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe122, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `flip-horizontal-arrow-1`
@@ -1894,9 +1894,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `flip-horizontal-arrow-1-flat` (paint-order duotone)
-  static const IconifyIconData flipHorizontalArrow1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData flipHorizontalArrow1Flat = IconifyIconData.duo(
     IconData(0xe124, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe124, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe124, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `flip-horizontal-circle-2`
@@ -1905,9 +1905,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `flip-horizontal-circle-2-flat` (paint-order duotone)
-  static const IconifyIconData flipHorizontalCircle2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData flipHorizontalCircle2Flat = IconifyIconData.duo(
     IconData(0xe126, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe126, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe126, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `floppy-disk`
@@ -1916,9 +1916,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `floppy-disk-flat` (paint-order duotone)
-  static const IconifyIconData floppyDiskFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData floppyDiskFlat = IconifyIconData.duo(
     IconData(0xe128, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe128, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe128, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `flower`
@@ -1927,9 +1927,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `flower-flat` (paint-order duotone)
-  static const IconifyIconData flowerFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData flowerFlat = IconifyIconData.duo(
     IconData(0xe12a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe12a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe12a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `focus-frame`
@@ -1938,9 +1938,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `focus-frame-flat` (paint-order duotone)
-  static const IconifyIconData focusFrameFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData focusFrameFlat = IconifyIconData.duo(
     IconData(0xe12c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe12c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe12c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fork-knife`
@@ -1959,9 +1959,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `fragile-flat` (paint-order duotone)
-  static const IconifyIconData fragileFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fragileFlat = IconifyIconData.duo(
     IconData(0xe381, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe381, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe381, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fried-egg-breakfast`
@@ -1970,9 +1970,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `fried-egg-breakfast-flat` (paint-order duotone)
-  static const IconifyIconData friedEggBreakfastFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData friedEggBreakfastFlat = IconifyIconData.duo(
     IconData(0xe131, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe131, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe131, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `full-screen-osx`
@@ -1981,9 +1981,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `full-screen-osx-flat` (paint-order duotone)
-  static const IconifyIconData fullScreenOsxFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fullScreenOsxFlat = IconifyIconData.duo(
     IconData(0xe133, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe133, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe133, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `galaxy-2`
@@ -2002,9 +2002,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `gallery-flat` (paint-order duotone)
-  static const IconifyIconData galleryFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData galleryFlat = IconifyIconData.duo(
     IconData(0xe382, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe382, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe382, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gambling`
@@ -2013,9 +2013,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `gambling-flat` (paint-order duotone)
-  static const IconifyIconData gamblingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gamblingFlat = IconifyIconData.duo(
     IconData(0xe138, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe138, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe138, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gas-station-fuel-petroleum`
@@ -2024,9 +2024,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `gas-station-fuel-petroleum-flat` (paint-order duotone)
-  static const IconifyIconData gasStationFuelPetroleumFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gasStationFuelPetroleumFlat = IconifyIconData.duo(
     IconData(0xe13a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe13a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe13a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gift-2`
@@ -2035,9 +2035,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `gift-2-flat` (paint-order duotone)
-  static const IconifyIconData gift2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData gift2Flat = IconifyIconData.duo(
     IconData(0xe383, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe383, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe383, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `give-star`
@@ -2046,9 +2046,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `give-star-flat` (paint-order duotone)
-  static const IconifyIconData giveStarFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData giveStarFlat = IconifyIconData.duo(
     IconData(0xe384, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe384, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe384, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `graduation-cap`
@@ -2057,9 +2057,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `graduation-cap-flat` (paint-order duotone)
-  static const IconifyIconData graduationCapFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData graduationCapFlat = IconifyIconData.duo(
     IconData(0xe13e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe13e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe13e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `graph-bar-increase-square`
@@ -2068,9 +2068,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `graph-bar-increase-square-flat` (paint-order duotone)
-  static const IconifyIconData graphBarIncreaseSquareFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData graphBarIncreaseSquareFlat = IconifyIconData.duo(
     IconData(0xe140, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe140, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe140, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `graph-dot`
@@ -2079,9 +2079,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `graph-dot-flat` (paint-order duotone)
-  static const IconifyIconData graphDotFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData graphDotFlat = IconifyIconData.duo(
     IconData(0xe142, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe142, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe142, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `group-meeting-approval`
@@ -2090,9 +2090,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `group-meeting-approval-flat` (paint-order duotone)
-  static const IconifyIconData groupMeetingApprovalFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData groupMeetingApprovalFlat = IconifyIconData.duo(
     IconData(0xe144, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe144, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe144, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hand-held-tablet-writing`
@@ -2101,9 +2101,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `hand-held-tablet-writing-flat` (paint-order duotone)
-  static const IconifyIconData handHeldTabletWritingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData handHeldTabletWritingFlat = IconifyIconData.duo(
     IconData(0xe146, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe146, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe146, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `happy-face`
@@ -2112,9 +2112,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `happy-face-flat` (paint-order duotone)
-  static const IconifyIconData happyFaceFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData happyFaceFlat = IconifyIconData.duo(
     IconData(0xe148, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe148, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe148, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hard-drive-1`
@@ -2123,9 +2123,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `hard-drive-1-flat` (paint-order duotone)
-  static const IconifyIconData hardDrive1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hardDrive1Flat = IconifyIconData.duo(
     IconData(0xe14a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe14a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe14a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `health-care-2`
@@ -2134,9 +2134,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `health-care-2-flat` (paint-order duotone)
-  static const IconifyIconData healthCare2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData healthCare2Flat = IconifyIconData.duo(
     IconData(0xe14c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe14c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe14c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `heart`
@@ -2150,9 +2150,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `heart-cross-flat` (paint-order duotone)
-  static const IconifyIconData heartCrossFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData heartCrossFlat = IconifyIconData.duo(
     IconData(0xe14f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe14f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe14f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `heart-flat`
@@ -2166,9 +2166,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `heart-rate-flat` (paint-order duotone)
-  static const IconifyIconData heartRateFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData heartRateFlat = IconifyIconData.duo(
     IconData(0xe385, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe385, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe385, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `help-chat-1`
@@ -2177,9 +2177,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `help-chat-1-flat` (paint-order duotone)
-  static const IconifyIconData helpChat1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData helpChat1Flat = IconifyIconData.duo(
     IconData(0xe153, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe153, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe153, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hierarchy-1`
@@ -2198,9 +2198,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `hierarchy-13-flat` (paint-order duotone)
-  static const IconifyIconData hierarchy13Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hierarchy13Flat = IconifyIconData.duo(
     IconData(0xe386, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe386, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe386, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hierarchy-16`
@@ -2209,9 +2209,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `hierarchy-16-flat` (paint-order duotone)
-  static const IconifyIconData hierarchy16Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hierarchy16Flat = IconifyIconData.duo(
     IconData(0xe158, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe158, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe158, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hierarchy-2`
@@ -2220,9 +2220,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `hierarchy-2-flat` (paint-order duotone)
-  static const IconifyIconData hierarchy2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hierarchy2Flat = IconifyIconData.duo(
     IconData(0xe387, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe387, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe387, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hierarchy-line-3`
@@ -2241,9 +2241,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `high-speed-train-front-flat` (paint-order duotone)
-  static const IconifyIconData highSpeedTrainFrontFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData highSpeedTrainFrontFlat = IconifyIconData.duo(
     IconData(0xe15d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe15d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe15d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `home-2`
@@ -2252,9 +2252,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `home-2-flat` (paint-order duotone)
-  static const IconifyIconData home2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData home2Flat = IconifyIconData.duo(
     IconData(0xe15f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe15f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe15f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `horizontal-slider-2`
@@ -2263,9 +2263,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `horizontal-slider-2-flat` (paint-order duotone)
-  static const IconifyIconData horizontalSlider2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData horizontalSlider2Flat = IconifyIconData.duo(
     IconData(0xe161, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe161, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe161, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `horizontal-toggle-button`
@@ -2274,9 +2274,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `horizontal-toggle-button-flat` (paint-order duotone)
-  static const IconifyIconData horizontalToggleButtonFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData horizontalToggleButtonFlat = IconifyIconData.duo(
     IconData(0xe163, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe163, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe163, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hospital-sign`
@@ -2285,9 +2285,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `hospital-sign-flat` (paint-order duotone)
-  static const IconifyIconData hospitalSignFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hospitalSignFlat = IconifyIconData.duo(
     IconData(0xe165, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe165, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe165, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hourglass`
@@ -2301,9 +2301,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `humidity-none-flat` (paint-order duotone)
-  static const IconifyIconData humidityNoneFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData humidityNoneFlat = IconifyIconData.duo(
     IconData(0xe168, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe168, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe168, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ice-cream-2`
@@ -2312,9 +2312,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `ice-cream-2-flat` (paint-order duotone)
-  static const IconifyIconData iceCream2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData iceCream2Flat = IconifyIconData.duo(
     IconData(0xe388, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe388, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe388, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `image-location`
@@ -2323,9 +2323,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `image-location-flat` (paint-order duotone)
-  static const IconifyIconData imageLocationFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData imageLocationFlat = IconifyIconData.duo(
     IconData(0xe16b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe16b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe16b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `inbox`
@@ -2339,15 +2339,15 @@ class StreamlineFlexColorIcons {
   );
 
   /// `inbox-favorite-flat` (paint-order duotone)
-  static const IconifyIconData inboxFavoriteFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData inboxFavoriteFlat = IconifyIconData.duo(
     IconData(0xe16e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe16e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe16e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `inbox-flat` (paint-order duotone)
-  static const IconifyIconData inboxFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData inboxFlat = IconifyIconData.duo(
     IconData(0xe16f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe16f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe16f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `inbox-open`
@@ -2356,9 +2356,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `inbox-open-flat` (paint-order duotone)
-  static const IconifyIconData inboxOpenFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData inboxOpenFlat = IconifyIconData.duo(
     IconData(0xe389, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe389, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe389, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `inbox-tray-1`
@@ -2367,9 +2367,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `inbox-tray-1-flat` (paint-order duotone)
-  static const IconifyIconData inboxTray1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData inboxTray1Flat = IconifyIconData.duo(
     IconData(0xe172, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe172, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe172, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `incognito-mode`
@@ -2378,9 +2378,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `incognito-mode-flat` (paint-order duotone)
-  static const IconifyIconData incognitoModeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData incognitoModeFlat = IconifyIconData.duo(
     IconData(0xe174, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe174, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe174, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `incoming-call`
@@ -2389,9 +2389,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `incoming-call-flat` (paint-order duotone)
-  static const IconifyIconData incomingCallFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData incomingCallFlat = IconifyIconData.duo(
     IconData(0xe176, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe176, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe176, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `incorrect-password`
@@ -2400,9 +2400,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `incorrect-password-flat` (paint-order duotone)
-  static const IconifyIconData incorrectPasswordFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData incorrectPasswordFlat = IconifyIconData.duo(
     IconData(0xe178, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe178, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe178, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `increase-indent`
@@ -2411,9 +2411,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `increase-indent-flat` (paint-order duotone)
-  static const IconifyIconData increaseIndentFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData increaseIndentFlat = IconifyIconData.duo(
     IconData(0xe17a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe17a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe17a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `information-circle`
@@ -2422,9 +2422,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `information-circle-flat` (paint-order duotone)
-  static const IconifyIconData informationCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData informationCircleFlat = IconifyIconData.duo(
     IconData(0xe17c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe17c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe17c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `input-box`
@@ -2433,9 +2433,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `input-box-flat` (paint-order duotone)
-  static const IconifyIconData inputBoxFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData inputBoxFlat = IconifyIconData.duo(
     IconData(0xe17e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe17e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe17e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `insert-center-left-1`
@@ -2444,9 +2444,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `insert-center-left-1-flat` (paint-order duotone)
-  static const IconifyIconData insertCenterLeft1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData insertCenterLeft1Flat = IconifyIconData.duo(
     IconData(0xe180, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe180, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe180, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `insurance-hand-1`
@@ -2455,9 +2455,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `insurance-hand-1-flat` (paint-order duotone)
-  static const IconifyIconData insuranceHand1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData insuranceHand1Flat = IconifyIconData.duo(
     IconData(0xe38a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe38a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe38a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `intersex-symbol`
@@ -2476,9 +2476,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `investing-and-banking-flat` (paint-order duotone)
-  static const IconifyIconData investingAndBankingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData investingAndBankingFlat = IconifyIconData.duo(
     IconData(0xe38b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe38b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe38b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `invisible-1`
@@ -2487,9 +2487,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `invisible-1-flat` (paint-order duotone)
-  static const IconifyIconData invisible1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData invisible1Flat = IconifyIconData.duo(
     IconData(0xe186, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe186, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe186, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ios-ipados`
@@ -2498,9 +2498,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `ios-ipados-flat` (paint-order duotone)
-  static const IconifyIconData iosIpadosFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData iosIpadosFlat = IconifyIconData.duo(
     IconData(0xe38c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe38c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe38c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `iphone`
@@ -2509,9 +2509,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `iphone-flat` (paint-order duotone)
-  static const IconifyIconData iphoneFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData iphoneFlat = IconifyIconData.duo(
     IconData(0xe189, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe189, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe189, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `iris-scan`
@@ -2520,9 +2520,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `iris-scan-flat` (paint-order duotone)
-  static const IconifyIconData irisScanFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData irisScanFlat = IconifyIconData.duo(
     IconData(0xe38d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe38d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe38d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `iron`
@@ -2531,9 +2531,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `iron-flat` (paint-order duotone)
-  static const IconifyIconData ironFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ironFlat = IconifyIconData.duo(
     IconData(0xe38e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe38e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe38e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `japanese-alphabet`
@@ -2552,9 +2552,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `justice-scale-1-flat` (paint-order duotone)
-  static const IconifyIconData justiceScale1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData justiceScale1Flat = IconifyIconData.duo(
     IconData(0xe18f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe18f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe18f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `key-frame`
@@ -2563,9 +2563,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `key-frame-flat` (paint-order duotone)
-  static const IconifyIconData keyFrameFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData keyFrameFlat = IconifyIconData.duo(
     IconData(0xe191, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe191, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe191, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `keyboard`
@@ -2574,9 +2574,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `keyboard-flat` (paint-order duotone)
-  static const IconifyIconData keyboardFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData keyboardFlat = IconifyIconData.duo(
     IconData(0xe193, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe193, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe193, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `keyboard-option-setting-gear`
@@ -2585,9 +2585,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `keyboard-option-setting-gear-flat` (paint-order duotone)
-  static const IconifyIconData keyboardOptionSettingGearFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData keyboardOptionSettingGearFlat = IconifyIconData.duo(
     IconData(0xe195, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe195, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe195, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `label-folder-tag`
@@ -2596,9 +2596,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `label-folder-tag-flat` (paint-order duotone)
-  static const IconifyIconData labelFolderTagFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData labelFolderTagFlat = IconifyIconData.duo(
     IconData(0xe197, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe197, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe197, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `landscape-2`
@@ -2607,9 +2607,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `landscape-2-flat` (paint-order duotone)
-  static const IconifyIconData landscape2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData landscape2Flat = IconifyIconData.duo(
     IconData(0xe199, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe199, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe199, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `landscape-lock`
@@ -2618,9 +2618,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `landscape-lock-flat` (paint-order duotone)
-  static const IconifyIconData landscapeLockFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData landscapeLockFlat = IconifyIconData.duo(
     IconData(0xe19b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe19b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe19b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `laptop`
@@ -2629,9 +2629,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `laptop-flat` (paint-order duotone)
-  static const IconifyIconData laptopFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData laptopFlat = IconifyIconData.duo(
     IconData(0xe38f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe38f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe38f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `layers-1`
@@ -2640,9 +2640,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `layers-1-flat` (paint-order duotone)
-  static const IconifyIconData layers1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData layers1Flat = IconifyIconData.duo(
     IconData(0xe19e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe19e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe19e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `layout-right-sidebar`
@@ -2651,9 +2651,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `layout-right-sidebar-flat` (paint-order duotone)
-  static const IconifyIconData layoutRightSidebarFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData layoutRightSidebarFlat = IconifyIconData.duo(
     IconData(0xe1a0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1a0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1a0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `layout-window-1`
@@ -2662,9 +2662,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `layout-window-1-flat` (paint-order duotone)
-  static const IconifyIconData layoutWindow1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData layoutWindow1Flat = IconifyIconData.duo(
     IconData(0xe1a2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1a2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1a2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `left-click`
@@ -2673,9 +2673,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `left-click-flat` (paint-order duotone)
-  static const IconifyIconData leftClickFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData leftClickFlat = IconifyIconData.duo(
     IconData(0xe390, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe390, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe390, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `less-than-sign-circle`
@@ -2684,9 +2684,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `less-than-sign-circle-flat` (paint-order duotone)
-  static const IconifyIconData lessThanSignCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lessThanSignCircleFlat = IconifyIconData.duo(
     IconData(0xe1a5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1a5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1a5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `lightbulb`
@@ -2695,9 +2695,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `lightbulb-flat` (paint-order duotone)
-  static const IconifyIconData lightbulbFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lightbulbFlat = IconifyIconData.duo(
     IconData(0xe1a7, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1a7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1a7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `like-1`
@@ -2706,9 +2706,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `like-1-flat` (paint-order duotone)
-  static const IconifyIconData like1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData like1Flat = IconifyIconData.duo(
     IconData(0xe1a9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1a9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1a9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `link-chain`
@@ -2727,9 +2727,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `location-compass-1-flat` (paint-order duotone)
-  static const IconifyIconData locationCompass1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData locationCompass1Flat = IconifyIconData.duo(
     IconData(0xe1ad, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1ad, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1ad, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `location-compass-2`
@@ -2738,9 +2738,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `location-compass-2-flat` (paint-order duotone)
-  static const IconifyIconData locationCompass2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData locationCompass2Flat = IconifyIconData.duo(
     IconData(0xe1af, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1af, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1af, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `location-heart-pin`
@@ -2749,9 +2749,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `location-heart-pin-flat` (paint-order duotone)
-  static const IconifyIconData locationHeartPinFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData locationHeartPinFlat = IconifyIconData.duo(
     IconData(0xe1b1, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1b1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1b1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `location-pin-3`
@@ -2760,9 +2760,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `location-pin-3-flat` (paint-order duotone)
-  static const IconifyIconData locationPin3Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData locationPin3Flat = IconifyIconData.duo(
     IconData(0xe391, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe391, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe391, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `location-pin-medical-hospital-2`
@@ -2771,9 +2771,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `location-pin-medical-hospital-2-flat` (paint-order duotone)
-  static const IconifyIconData locationPinMedicalHospital2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData locationPinMedicalHospital2Flat = IconifyIconData.duo(
     IconData(0xe1b4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1b4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1b4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `location-target-2`
@@ -2792,9 +2792,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `lock-rotation-flat` (paint-order duotone)
-  static const IconifyIconData lockRotationFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lockRotationFlat = IconifyIconData.duo(
     IconData(0xe392, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe392, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe392, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `login-1`
@@ -2803,9 +2803,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `login-1-flat` (paint-order duotone)
-  static const IconifyIconData login1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData login1Flat = IconifyIconData.duo(
     IconData(0xe1b9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1b9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1b9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `logout-1`
@@ -2814,9 +2814,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `logout-1-flat` (paint-order duotone)
-  static const IconifyIconData logout1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData logout1Flat = IconifyIconData.duo(
     IconData(0xe1bb, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1bb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1bb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `magic-wand-1`
@@ -2825,9 +2825,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `magic-wand-1-flat` (paint-order duotone)
-  static const IconifyIconData magicWand1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData magicWand1Flat = IconifyIconData.duo(
     IconData(0xe1bd, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1bd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1bd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `magic-wand-2`
@@ -2836,9 +2836,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `magic-wand-2-flat` (paint-order duotone)
-  static const IconifyIconData magicWand2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData magicWand2Flat = IconifyIconData.duo(
     IconData(0xe393, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe393, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe393, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `magnifying-glass`
@@ -2847,9 +2847,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `magnifying-glass-flat` (paint-order duotone)
-  static const IconifyIconData magnifyingGlassFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData magnifyingGlassFlat = IconifyIconData.duo(
     IconData(0xe1c0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1c0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1c0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mail-reply-all`
@@ -2858,9 +2858,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `mail-reply-all-flat` (paint-order duotone)
-  static const IconifyIconData mailReplyAllFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mailReplyAllFlat = IconifyIconData.duo(
     IconData(0xe1c2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1c2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1c2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mail-send-email-message-circle`
@@ -2869,9 +2869,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `mail-send-email-message-circle-flat` (paint-order duotone)
-  static const IconifyIconData mailSendEmailMessageCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mailSendEmailMessageCircleFlat = IconifyIconData.duo(
     IconData(0xe1c4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1c4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1c4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mail-send-envelope`
@@ -2880,9 +2880,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `mail-send-envelope-flat` (paint-order duotone)
-  static const IconifyIconData mailSendEnvelopeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mailSendEnvelopeFlat = IconifyIconData.duo(
     IconData(0xe1c6, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1c6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1c6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `map-location`
@@ -2891,9 +2891,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `map-location-flat` (paint-order duotone)
-  static const IconifyIconData mapLocationFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mapLocationFlat = IconifyIconData.duo(
     IconData(0xe1c8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1c8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1c8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `maximize-2`
@@ -2902,9 +2902,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `maximize-2-flat` (paint-order duotone)
-  static const IconifyIconData maximize2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData maximize2Flat = IconifyIconData.duo(
     IconData(0xe1ca, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1ca, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1ca, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `megaphone-1`
@@ -2913,9 +2913,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `megaphone-1-flat` (paint-order duotone)
-  static const IconifyIconData megaphone1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData megaphone1Flat = IconifyIconData.duo(
     IconData(0xe394, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe394, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe394, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `merge-pdf`
@@ -2924,9 +2924,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `merge-pdf-flat` (paint-order duotone)
-  static const IconifyIconData mergePdfFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mergePdfFlat = IconifyIconData.duo(
     IconData(0xe395, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe395, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe395, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `merge-vertical`
@@ -2945,9 +2945,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `microscope-observation-sciene-flat` (paint-order duotone)
-  static const IconifyIconData microscopeObservationScieneFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData microscopeObservationScieneFlat = IconifyIconData.duo(
     IconData(0xe1d0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1d0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1d0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `missed-call`
@@ -2956,9 +2956,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `missed-call-flat` (paint-order duotone)
-  static const IconifyIconData missedCallFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData missedCallFlat = IconifyIconData.duo(
     IconData(0xe1d2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1d2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1d2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `module-puzzle-2`
@@ -2977,9 +2977,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `monitor-error-flat` (paint-order duotone)
-  static const IconifyIconData monitorErrorFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData monitorErrorFlat = IconifyIconData.duo(
     IconData(0xe396, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe396, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe396, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `moustache`
@@ -2998,9 +2998,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `multiple-stars-flat` (paint-order duotone)
-  static const IconifyIconData multipleStarsFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData multipleStarsFlat = IconifyIconData.duo(
     IconData(0xe397, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe397, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe397, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `music-equalizer`
@@ -3019,9 +3019,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `music-note-circle-flat` (paint-order duotone)
-  static const IconifyIconData musicNoteCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData musicNoteCircleFlat = IconifyIconData.duo(
     IconData(0xe1dc, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1dc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1dc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `navigation-arrow-north`
@@ -3040,9 +3040,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `network-flat` (paint-order duotone)
-  static const IconifyIconData networkFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData networkFlat = IconifyIconData.duo(
     IconData(0xe1e0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1e0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1e0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `new-badge-highlight`
@@ -3061,9 +3061,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `new-file-flat` (paint-order duotone)
-  static const IconifyIconData newFileFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData newFileFlat = IconifyIconData.duo(
     IconData(0xe1e4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1e4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1e4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `new-folder`
@@ -3082,9 +3082,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `new-sticky-note-flat` (paint-order duotone)
-  static const IconifyIconData newStickyNoteFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData newStickyNoteFlat = IconifyIconData.duo(
     IconData(0xe1e8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1e8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1e8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `news-paper`
@@ -3093,9 +3093,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `news-paper-flat` (paint-order duotone)
-  static const IconifyIconData newsPaperFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData newsPaperFlat = IconifyIconData.duo(
     IconData(0xe398, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe398, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe398, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `non-commercial-dollars`
@@ -3104,9 +3104,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `non-commercial-dollars-flat` (paint-order duotone)
-  static const IconifyIconData nonCommercialDollarsFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nonCommercialDollarsFlat = IconifyIconData.duo(
     IconData(0xe399, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe399, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe399, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `notepad-text`
@@ -3115,9 +3115,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `notepad-text-flat` (paint-order duotone)
-  static const IconifyIconData notepadTextFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData notepadTextFlat = IconifyIconData.duo(
     IconData(0xe1ec, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1ec, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1ec, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `notification-alarm-snooze`
@@ -3126,9 +3126,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `notification-alarm-snooze-flat` (paint-order duotone)
-  static const IconifyIconData notificationAlarmSnoozeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData notificationAlarmSnoozeFlat = IconifyIconData.duo(
     IconData(0xe1ee, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1ee, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1ee, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `notification-application-1`
@@ -3137,9 +3137,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `notification-application-1-flat` (paint-order duotone)
-  static const IconifyIconData notificationApplication1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData notificationApplication1Flat = IconifyIconData.duo(
     IconData(0xe39a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe39a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe39a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `number-sign`
@@ -3148,9 +3148,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `number-sign-flat` (paint-order duotone)
-  static const IconifyIconData numberSignFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData numberSignFlat = IconifyIconData.duo(
     IconData(0xe39b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe39b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe39b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `nurse-assistant-emergency`
@@ -3159,9 +3159,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `nurse-assistant-emergency-flat` (paint-order duotone)
-  static const IconifyIconData nurseAssistantEmergencyFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData nurseAssistantEmergencyFlat = IconifyIconData.duo(
     IconData(0xe1f2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1f2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1f2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `office-building-1`
@@ -3170,9 +3170,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `office-building-1-flat` (paint-order duotone)
-  static const IconifyIconData officeBuilding1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData officeBuilding1Flat = IconifyIconData.duo(
     IconData(0xe1f4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1f4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1f4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `one-finger-tap`
@@ -3181,9 +3181,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `one-finger-tap-flat` (paint-order duotone)
-  static const IconifyIconData oneFingerTapFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData oneFingerTapFlat = IconifyIconData.duo(
     IconData(0xe39c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe39c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe39c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `online-medical-service-monitor`
@@ -3192,9 +3192,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `online-medical-service-monitor-flat` (paint-order duotone)
-  static const IconifyIconData onlineMedicalServiceMonitorFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData onlineMedicalServiceMonitorFlat = IconifyIconData.duo(
     IconData(0xe39d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe39d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe39d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `open-umbrella`
@@ -3203,9 +3203,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `open-umbrella-flat` (paint-order duotone)
-  static const IconifyIconData openUmbrellaFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData openUmbrellaFlat = IconifyIconData.duo(
     IconData(0xe39e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe39e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe39e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `package-dimension`
@@ -3214,9 +3214,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `package-dimension-flat` (paint-order duotone)
-  static const IconifyIconData packageDimensionFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData packageDimensionFlat = IconifyIconData.duo(
     IconData(0xe1f9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1f9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1f9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `padlock-square-1`
@@ -3225,9 +3225,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `padlock-square-1-flat` (paint-order duotone)
-  static const IconifyIconData padlockSquare1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData padlockSquare1Flat = IconifyIconData.duo(
     IconData(0xe1fb, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1fb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1fb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `padlock-square-2`
@@ -3236,9 +3236,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `padlock-square-2-flat` (paint-order duotone)
-  static const IconifyIconData padlockSquare2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData padlockSquare2Flat = IconifyIconData.duo(
     IconData(0xe1fd, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe1fd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe1fd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `page-setting`
@@ -3247,9 +3247,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `page-setting-flat` (paint-order duotone)
-  static const IconifyIconData pageSettingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pageSettingFlat = IconifyIconData.duo(
     IconData(0xe39f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe39f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe39f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `paintbrush-2`
@@ -3258,9 +3258,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `paintbrush-2-flat` (paint-order duotone)
-  static const IconifyIconData paintbrush2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData paintbrush2Flat = IconifyIconData.duo(
     IconData(0xe3a0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `panoramic-screen`
@@ -3269,9 +3269,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `panoramic-screen-flat` (paint-order duotone)
-  static const IconifyIconData panoramicScreenFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData panoramicScreenFlat = IconifyIconData.duo(
     IconData(0xe201, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe201, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe201, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `paperclip-1`
@@ -3290,9 +3290,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `party-popper-flat` (paint-order duotone)
-  static const IconifyIconData partyPopperFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData partyPopperFlat = IconifyIconData.duo(
     IconData(0xe205, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe205, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe205, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `passport-globe`
@@ -3301,9 +3301,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `passport-globe-flat` (paint-order duotone)
-  static const IconifyIconData passportGlobeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData passportGlobeFlat = IconifyIconData.duo(
     IconData(0xe207, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe207, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe207, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pathfinder-minus-front-2`
@@ -3312,9 +3312,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `pathfinder-minus-front-2-flat` (paint-order duotone)
-  static const IconifyIconData pathfinderMinusFront2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pathfinderMinusFront2Flat = IconifyIconData.duo(
     IconData(0xe3a1, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pdf-reader-application`
@@ -3328,9 +3328,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `pen-1-flat` (paint-order duotone)
-  static const IconifyIconData pen1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pen1Flat = IconifyIconData.duo(
     IconData(0xe3a2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pen-tool`
@@ -3339,9 +3339,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `pen-tool-flat` (paint-order duotone)
-  static const IconifyIconData penToolFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData penToolFlat = IconifyIconData.duo(
     IconData(0xe3a3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pencil-square`
@@ -3350,9 +3350,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `pencil-square-flat` (paint-order duotone)
-  static const IconifyIconData pencilSquareFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pencilSquareFlat = IconifyIconData.duo(
     IconData(0xe20d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe20d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe20d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pet-paw`
@@ -3381,9 +3381,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `phone-notification-flat` (paint-order duotone)
-  static const IconifyIconData phoneNotificationFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData phoneNotificationFlat = IconifyIconData.duo(
     IconData(0xe213, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe213, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe213, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `phone-qr`
@@ -3392,9 +3392,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `phone-qr-flat` (paint-order duotone)
-  static const IconifyIconData phoneQrFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData phoneQrFlat = IconifyIconData.duo(
     IconData(0xe215, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe215, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe215, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `phone-ringing-1`
@@ -3403,9 +3403,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `phone-ringing-1-flat` (paint-order duotone)
-  static const IconifyIconData phoneRinging1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData phoneRinging1Flat = IconifyIconData.duo(
     IconData(0xe217, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe217, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe217, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `phone-rotate-mobile`
@@ -3414,9 +3414,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `phone-rotate-mobile-flat` (paint-order duotone)
-  static const IconifyIconData phoneRotateMobileFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData phoneRotateMobileFlat = IconifyIconData.duo(
     IconData(0xe219, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe219, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe219, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `phone-shield`
@@ -3425,9 +3425,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `phone-shield-flat` (paint-order duotone)
-  static const IconifyIconData phoneShieldFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData phoneShieldFlat = IconifyIconData.duo(
     IconData(0xe3a4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `photo-camera`
@@ -3436,9 +3436,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `photo-camera-flat` (paint-order duotone)
-  static const IconifyIconData photoCameraFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData photoCameraFlat = IconifyIconData.duo(
     IconData(0xe3a5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pictures-folder-memories`
@@ -3447,9 +3447,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `pictures-folder-memories-flat` (paint-order duotone)
-  static const IconifyIconData picturesFolderMemoriesFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData picturesFolderMemoriesFlat = IconifyIconData.duo(
     IconData(0xe21d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe21d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe21d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pie-chart`
@@ -3458,9 +3458,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `pie-chart-flat` (paint-order duotone)
-  static const IconifyIconData pieChartFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pieChartFlat = IconifyIconData.duo(
     IconData(0xe21f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe21f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe21f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `piggy-bank`
@@ -3469,9 +3469,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `piggy-bank-flat` (paint-order duotone)
-  static const IconifyIconData piggyBankFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData piggyBankFlat = IconifyIconData.duo(
     IconData(0xe221, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe221, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe221, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pin-1`
@@ -3480,9 +3480,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `pin-1-flat` (paint-order duotone)
-  static const IconifyIconData pin1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pin1Flat = IconifyIconData.duo(
     IconData(0xe3a6, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pine-tree`
@@ -3491,9 +3491,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `pine-tree-flat` (paint-order duotone)
-  static const IconifyIconData pineTreeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pineTreeFlat = IconifyIconData.duo(
     IconData(0xe3a7, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `play-list-4`
@@ -3502,9 +3502,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `play-list-4-flat` (paint-order duotone)
-  static const IconifyIconData playList4Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData playList4Flat = IconifyIconData.duo(
     IconData(0xe225, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe225, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe225, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `play-list-6`
@@ -3513,9 +3513,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `play-list-6-flat` (paint-order duotone)
-  static const IconifyIconData playList6Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData playList6Flat = IconifyIconData.duo(
     IconData(0xe227, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe227, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe227, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `polaroid-four`
@@ -3524,9 +3524,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `polaroid-four-flat` (paint-order duotone)
-  static const IconifyIconData polaroidFourFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData polaroidFourFlat = IconifyIconData.duo(
     IconData(0xe3a8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `politics-speech`
@@ -3535,9 +3535,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `politics-speech-flat` (paint-order duotone)
-  static const IconifyIconData politicsSpeechFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData politicsSpeechFlat = IconifyIconData.duo(
     IconData(0xe3a9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3a9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3a9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `politics-vote-2`
@@ -3546,9 +3546,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `politics-vote-2-flat` (paint-order duotone)
-  static const IconifyIconData politicsVote2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData politicsVote2Flat = IconifyIconData.duo(
     IconData(0xe22b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe22b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe22b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `polygonal-lasso-tool`
@@ -3567,9 +3567,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `portrait-lock-flat` (paint-order duotone)
-  static const IconifyIconData portraitLockFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData portraitLockFlat = IconifyIconData.duo(
     IconData(0xe3aa, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3aa, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3aa, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `prescription-pills-drugs-healthcare`
@@ -3588,9 +3588,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `presentation-flat` (paint-order duotone)
-  static const IconifyIconData presentationFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData presentationFlat = IconifyIconData.duo(
     IconData(0xe3ab, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3ab, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3ab, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `printer`
@@ -3599,9 +3599,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `printer-flat` (paint-order duotone)
-  static const IconifyIconData printerFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData printerFlat = IconifyIconData.duo(
     IconData(0xe233, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe233, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe233, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `printer-wireless`
@@ -3610,9 +3610,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `printer-wireless-flat` (paint-order duotone)
-  static const IconifyIconData printerWirelessFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData printerWirelessFlat = IconifyIconData.duo(
     IconData(0xe3ac, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3ac, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3ac, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `production-belt-time`
@@ -3621,9 +3621,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `production-belt-time-flat` (paint-order duotone)
-  static const IconifyIconData productionBeltTimeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData productionBeltTimeFlat = IconifyIconData.duo(
     IconData(0xe236, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe236, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe236, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `projector`
@@ -3637,15 +3637,15 @@ class StreamlineFlexColorIcons {
   );
 
   /// `projector-board-flat` (paint-order duotone)
-  static const IconifyIconData projectorBoardFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData projectorBoardFlat = IconifyIconData.duo(
     IconData(0xe3ad, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3ad, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3ad, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `projector-flat` (paint-order duotone)
-  static const IconifyIconData projectorFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData projectorFlat = IconifyIconData.duo(
     IconData(0xe3ae, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3ae, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3ae, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `qr-code`
@@ -3654,9 +3654,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `qr-code-flat` (paint-order duotone)
-  static const IconifyIconData qrCodeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData qrCodeFlat = IconifyIconData.duo(
     IconData(0xe3af, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3af, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3af, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `receipt`
@@ -3665,9 +3665,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `receipt-flat` (paint-order duotone)
-  static const IconifyIconData receiptFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData receiptFlat = IconifyIconData.duo(
     IconData(0xe23b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe23b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe23b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `record-player`
@@ -3676,9 +3676,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `record-player-flat` (paint-order duotone)
-  static const IconifyIconData recordPlayerFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData recordPlayerFlat = IconifyIconData.duo(
     IconData(0xe23d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe23d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe23d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `recording-tape-bubble-circle`
@@ -3687,9 +3687,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `recording-tape-bubble-circle-flat` (paint-order duotone)
-  static const IconifyIconData recordingTapeBubbleCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData recordingTapeBubbleCircleFlat = IconifyIconData.duo(
     IconData(0xe23f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe23f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe23f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rectangle-split-thirds`
@@ -3698,9 +3698,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `rectangle-split-thirds-flat` (paint-order duotone)
-  static const IconifyIconData rectangleSplitThirdsFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rectangleSplitThirdsFlat = IconifyIconData.duo(
     IconData(0xe241, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe241, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe241, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `recycle-1`
@@ -3729,9 +3729,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `recycle-bin-flat` (paint-order duotone)
-  static const IconifyIconData recycleBinFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData recycleBinFlat = IconifyIconData.duo(
     IconData(0xe247, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe247, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe247, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `recycle-bin-throw-2`
@@ -3740,9 +3740,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `recycle-bin-throw-2-flat` (paint-order duotone)
-  static const IconifyIconData recycleBinThrow2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData recycleBinThrow2Flat = IconifyIconData.duo(
     IconData(0xe249, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe249, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe249, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `reduced-inequalities`
@@ -3751,9 +3751,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `reduced-inequalities-flat` (paint-order duotone)
-  static const IconifyIconData reducedInequalitiesFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData reducedInequalitiesFlat = IconifyIconData.duo(
     IconData(0xe24b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe24b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe24b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `repeat-single`
@@ -3762,9 +3762,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `repeat-single-flat` (paint-order duotone)
-  static const IconifyIconData repeatSingleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData repeatSingleFlat = IconifyIconData.duo(
     IconData(0xe3b0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `return-square-2`
@@ -3773,9 +3773,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `return-square-2-flat` (paint-order duotone)
-  static const IconifyIconData returnSquare2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData returnSquare2Flat = IconifyIconData.duo(
     IconData(0xe24e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe24e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe24e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rocket`
@@ -3784,9 +3784,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `rocket-flat` (paint-order duotone)
-  static const IconifyIconData rocketFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rocketFlat = IconifyIconData.duo(
     IconData(0xe3b1, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `rotate-left`
@@ -3805,9 +3805,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `rotate-right-circle-flat` (paint-order duotone)
-  static const IconifyIconData rotateRightCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData rotateRightCircleFlat = IconifyIconData.duo(
     IconData(0xe253, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe253, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe253, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `round-anchor-point`
@@ -3816,9 +3816,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `round-anchor-point-flat` (paint-order duotone)
-  static const IconifyIconData roundAnchorPointFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData roundAnchorPointFlat = IconifyIconData.duo(
     IconData(0xe255, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe255, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe255, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `router-wifi-network`
@@ -3827,9 +3827,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `router-wifi-network-flat` (paint-order duotone)
-  static const IconifyIconData routerWifiNetworkFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData routerWifiNetworkFlat = IconifyIconData.duo(
     IconData(0xe3b2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `safe-vault`
@@ -3838,9 +3838,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `safe-vault-flat` (paint-order duotone)
-  static const IconifyIconData safeVaultFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData safeVaultFlat = IconifyIconData.duo(
     IconData(0xe258, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe258, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe258, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `salad-vegetable-diet`
@@ -3849,9 +3849,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `salad-vegetable-diet-flat` (paint-order duotone)
-  static const IconifyIconData saladVegetableDietFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData saladVegetableDietFlat = IconifyIconData.duo(
     IconData(0xe25a, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe25a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe25a, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `satellite-dish`
@@ -3860,9 +3860,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `satellite-dish-flat` (paint-order duotone)
-  static const IconifyIconData satelliteDishFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData satelliteDishFlat = IconifyIconData.duo(
     IconData(0xe3b3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `scanner`
@@ -3876,15 +3876,15 @@ class StreamlineFlexColorIcons {
   );
 
   /// `scanner-bar-code-flat` (paint-order duotone)
-  static const IconifyIconData scannerBarCodeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData scannerBarCodeFlat = IconifyIconData.duo(
     IconData(0xe3b4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `scanner-flat` (paint-order duotone)
-  static const IconifyIconData scannerFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData scannerFlat = IconifyIconData.duo(
     IconData(0xe25e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe25e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe25e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `school`
@@ -3898,15 +3898,15 @@ class StreamlineFlexColorIcons {
   );
 
   /// `school-bus-side-flat` (paint-order duotone)
-  static const IconifyIconData schoolBusSideFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData schoolBusSideFlat = IconifyIconData.duo(
     IconData(0xe261, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe261, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe261, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `school-flat` (paint-order duotone)
-  static const IconifyIconData schoolFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData schoolFlat = IconifyIconData.duo(
     IconData(0xe3b5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `scissors`
@@ -3925,9 +3925,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `screen-broadcast-flat` (paint-order duotone)
-  static const IconifyIconData screenBroadcastFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData screenBroadcastFlat = IconifyIconData.duo(
     IconData(0xe265, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe265, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe265, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `screen-curve`
@@ -3936,9 +3936,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `screen-curve-flat` (paint-order duotone)
-  static const IconifyIconData screenCurveFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData screenCurveFlat = IconifyIconData.duo(
     IconData(0xe267, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe267, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe267, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `screenshot`
@@ -3947,9 +3947,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `screenshot-flat` (paint-order duotone)
-  static const IconifyIconData screenshotFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData screenshotFlat = IconifyIconData.duo(
     IconData(0xe269, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe269, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe269, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `screwdriver-wrench`
@@ -3958,9 +3958,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `screwdriver-wrench-flat` (paint-order duotone)
-  static const IconifyIconData screwdriverWrenchFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData screwdriverWrenchFlat = IconifyIconData.duo(
     IconData(0xe3b6, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `script-2`
@@ -3969,9 +3969,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `script-2-flat` (paint-order duotone)
-  static const IconifyIconData script2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData script2Flat = IconifyIconData.duo(
     IconData(0xe26c, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe26c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe26c, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `search-arrow-increase`
@@ -3980,9 +3980,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `search-arrow-increase-flat` (paint-order duotone)
-  static const IconifyIconData searchArrowIncreaseFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData searchArrowIncreaseFlat = IconifyIconData.duo(
     IconData(0xe3b7, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `search-category`
@@ -3991,9 +3991,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `search-category-flat` (paint-order duotone)
-  static const IconifyIconData searchCategoryFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData searchCategoryFlat = IconifyIconData.duo(
     IconData(0xe26f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe26f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe26f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `search-history-browser`
@@ -4002,9 +4002,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `search-history-browser-flat` (paint-order duotone)
-  static const IconifyIconData searchHistoryBrowserFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData searchHistoryBrowserFlat = IconifyIconData.duo(
     IconData(0xe3b8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `security-umbrella`
@@ -4013,9 +4013,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `security-umbrella-flat` (paint-order duotone)
-  static const IconifyIconData securityUmbrellaFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData securityUmbrellaFlat = IconifyIconData.duo(
     IconData(0xe3b9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3b9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3b9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `serving-dome-hand`
@@ -4024,9 +4024,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `serving-dome-hand-flat` (paint-order duotone)
-  static const IconifyIconData servingDomeHandFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData servingDomeHandFlat = IconifyIconData.duo(
     IconData(0xe3ba, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3ba, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3ba, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `share-link`
@@ -4035,9 +4035,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `share-link-flat` (paint-order duotone)
-  static const IconifyIconData shareLinkFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData shareLinkFlat = IconifyIconData.duo(
     IconData(0xe3bb, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3bb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3bb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `shield-1`
@@ -4066,9 +4066,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `shield-cross-flat` (paint-order duotone)
-  static const IconifyIconData shieldCrossFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData shieldCrossFlat = IconifyIconData.duo(
     IconData(0xe279, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe279, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe279, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `shipping-box-2`
@@ -4077,9 +4077,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `shipping-box-2-flat` (paint-order duotone)
-  static const IconifyIconData shippingBox2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData shippingBox2Flat = IconifyIconData.duo(
     IconData(0xe27b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe27b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe27b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `shirt`
@@ -4098,9 +4098,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `shopping-bag-hand-bag-2-flat` (paint-order duotone)
-  static const IconifyIconData shoppingBagHandBag2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData shoppingBagHandBag2Flat = IconifyIconData.duo(
     IconData(0xe27f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe27f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe27f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `shopping-basket-2`
@@ -4109,9 +4109,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `shopping-basket-2-flat` (paint-order duotone)
-  static const IconifyIconData shoppingBasket2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData shoppingBasket2Flat = IconifyIconData.duo(
     IconData(0xe281, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe281, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe281, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `shopping-basket-add`
@@ -4120,9 +4120,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `shopping-basket-add-flat` (paint-order duotone)
-  static const IconifyIconData shoppingBasketAddFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData shoppingBasketAddFlat = IconifyIconData.duo(
     IconData(0xe283, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe283, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe283, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `shopping-cart-2`
@@ -4131,9 +4131,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `shopping-cart-2-flat` (paint-order duotone)
-  static const IconifyIconData shoppingCart2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData shoppingCart2Flat = IconifyIconData.duo(
     IconData(0xe285, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe285, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe285, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `show-layer`
@@ -4142,9 +4142,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `show-layer-flat` (paint-order duotone)
-  static const IconifyIconData showLayerFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData showLayerFlat = IconifyIconData.duo(
     IconData(0xe3bc, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3bc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3bc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `shuffle`
@@ -4153,9 +4153,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `shuffle-flat` (paint-order duotone)
-  static const IconifyIconData shuffleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData shuffleFlat = IconifyIconData.duo(
     IconData(0xe3bd, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3bd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3bd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sigma`
@@ -4184,9 +4184,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `signage-1-flat` (paint-order duotone)
-  static const IconifyIconData signage1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData signage1Flat = IconifyIconData.duo(
     IconData(0xe28d, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe28d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe28d, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `signage-pedestrian-no-crossing`
@@ -4195,9 +4195,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `signage-pedestrian-no-crossing-flat` (paint-order duotone)
-  static const IconifyIconData signagePedestrianNoCrossingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData signagePedestrianNoCrossingFlat = IconifyIconData.duo(
     IconData(0xe3be, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3be, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3be, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `signal-full`
@@ -4216,9 +4216,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `skull-2-flat` (paint-order duotone)
-  static const IconifyIconData skull2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData skull2Flat = IconifyIconData.duo(
     IconData(0xe292, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe292, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe292, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `small-caps`
@@ -4227,9 +4227,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `small-caps-flat` (paint-order duotone)
-  static const IconifyIconData smallCapsFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData smallCapsFlat = IconifyIconData.duo(
     IconData(0xe3bf, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3bf, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3bf, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `smiley-blessed`
@@ -4238,9 +4238,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `smiley-blessed-flat` (paint-order duotone)
-  static const IconifyIconData smileyBlessedFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData smileyBlessedFlat = IconifyIconData.duo(
     IconData(0xe295, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe295, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe295, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `smoking-area`
@@ -4249,9 +4249,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `smoking-area-flat` (paint-order duotone)
-  static const IconifyIconData smokingAreaFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData smokingAreaFlat = IconifyIconData.duo(
     IconData(0xe3c0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `snooze`
@@ -4260,9 +4260,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `snooze-flat` (paint-order duotone)
-  static const IconifyIconData snoozeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData snoozeFlat = IconifyIconData.duo(
     IconData(0xe3c1, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sofa`
@@ -4271,9 +4271,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `sofa-flat` (paint-order duotone)
-  static const IconifyIconData sofaFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sofaFlat = IconifyIconData.duo(
     IconData(0xe299, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe299, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe299, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `soft-drink-can`
@@ -4282,9 +4282,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `soft-drink-can-flat` (paint-order duotone)
-  static const IconifyIconData softDrinkCanFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData softDrinkCanFlat = IconifyIconData.duo(
     IconData(0xe29b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe29b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe29b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sos-help-emergency-sign`
@@ -4303,9 +4303,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `sound-recognition-search-flat` (paint-order duotone)
-  static const IconifyIconData soundRecognitionSearchFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData soundRecognitionSearchFlat = IconifyIconData.duo(
     IconData(0xe29f, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe29f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe29f, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `speaker-1`
@@ -4314,9 +4314,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `speaker-1-flat` (paint-order duotone)
-  static const IconifyIconData speaker1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData speaker1Flat = IconifyIconData.duo(
     IconData(0xe2a1, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2a1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2a1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `spiral-shape`
@@ -4335,9 +4335,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `stairs-1-flat` (paint-order duotone)
-  static const IconifyIconData stairs1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData stairs1Flat = IconifyIconData.duo(
     IconData(0xe2a5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2a5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2a5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `star-badge`
@@ -4346,9 +4346,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `star-badge-flat` (paint-order duotone)
-  static const IconifyIconData starBadgeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData starBadgeFlat = IconifyIconData.duo(
     IconData(0xe3c2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `star-circle`
@@ -4357,9 +4357,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `star-circle-flat` (paint-order duotone)
-  static const IconifyIconData starCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData starCircleFlat = IconifyIconData.duo(
     IconData(0xe2a8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2a8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2a8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `steps-2`
@@ -4378,9 +4378,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `stopwatch-flat` (paint-order duotone)
-  static const IconifyIconData stopwatchFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData stopwatchFlat = IconifyIconData.duo(
     IconData(0xe2ac, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2ac, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2ac, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `stopwatch-three-quarter`
@@ -4389,9 +4389,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `stopwatch-three-quarter-flat` (paint-order duotone)
-  static const IconifyIconData stopwatchThreeQuarterFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData stopwatchThreeQuarterFlat = IconifyIconData.duo(
     IconData(0xe2ae, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2ae, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2ae, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `store-1`
@@ -4400,9 +4400,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `store-1-flat` (paint-order duotone)
-  static const IconifyIconData store1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData store1Flat = IconifyIconData.duo(
     IconData(0xe2b0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2b0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2b0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `story-post`
@@ -4411,9 +4411,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `story-post-flat` (paint-order duotone)
-  static const IconifyIconData storyPostFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData storyPostFlat = IconifyIconData.duo(
     IconData(0xe3c3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `street-road`
@@ -4422,9 +4422,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `street-road-flat` (paint-order duotone)
-  static const IconifyIconData streetRoadFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData streetRoadFlat = IconifyIconData.duo(
     IconData(0xe2b3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2b3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2b3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `street-sign`
@@ -4433,9 +4433,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `street-sign-flat` (paint-order duotone)
-  static const IconifyIconData streetSignFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData streetSignFlat = IconifyIconData.duo(
     IconData(0xe2b5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2b5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2b5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `subscription-cashflow`
@@ -4444,9 +4444,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `subscription-cashflow-flat` (paint-order duotone)
-  static const IconifyIconData subscriptionCashflowFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData subscriptionCashflowFlat = IconifyIconData.duo(
     IconData(0xe3c4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `suitcase-rolling`
@@ -4455,9 +4455,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `suitcase-rolling-flat` (paint-order duotone)
-  static const IconifyIconData suitcaseRollingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData suitcaseRollingFlat = IconifyIconData.duo(
     IconData(0xe3c5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sun`
@@ -4466,9 +4466,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `sun-flat` (paint-order duotone)
-  static const IconifyIconData sunFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sunFlat = IconifyIconData.duo(
     IconData(0xe2b9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2b9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2b9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `surveillance-camera`
@@ -4477,9 +4477,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `surveillance-camera-flat` (paint-order duotone)
-  static const IconifyIconData surveillanceCameraFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData surveillanceCameraFlat = IconifyIconData.duo(
     IconData(0xe2bb, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2bb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2bb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `table`
@@ -4488,9 +4488,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `table-flat` (paint-order duotone)
-  static const IconifyIconData tableFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tableFlat = IconifyIconData.duo(
     IconData(0xe2bd, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2bd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2bd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `table-lamp-2`
@@ -4499,9 +4499,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `table-lamp-2-flat` (paint-order duotone)
-  static const IconifyIconData tableLamp2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tableLamp2Flat = IconifyIconData.duo(
     IconData(0xe3c6, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tablet-capsule`
@@ -4510,9 +4510,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `tablet-capsule-flat` (paint-order duotone)
-  static const IconifyIconData tabletCapsuleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tabletCapsuleFlat = IconifyIconData.duo(
     IconData(0xe2c0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2c0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2c0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tag`
@@ -4526,15 +4526,15 @@ class StreamlineFlexColorIcons {
   );
 
   /// `tag-alt-flat` (paint-order duotone)
-  static const IconifyIconData tagAltFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tagAltFlat = IconifyIconData.duo(
     IconData(0xe2c3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2c3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2c3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tag-flat` (paint-order duotone)
-  static const IconifyIconData tagFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tagFlat = IconifyIconData.duo(
     IconData(0xe2c4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2c4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2c4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tall-hat`
@@ -4543,9 +4543,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `tall-hat-flat` (paint-order duotone)
-  static const IconifyIconData tallHatFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tallHatFlat = IconifyIconData.duo(
     IconData(0xe2c6, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2c6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2c6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tape-cassette-record`
@@ -4554,9 +4554,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `tape-cassette-record-flat` (paint-order duotone)
-  static const IconifyIconData tapeCassetteRecordFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tapeCassetteRecordFlat = IconifyIconData.duo(
     IconData(0xe2c8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2c8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2c8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `target`
@@ -4570,15 +4570,15 @@ class StreamlineFlexColorIcons {
   );
 
   /// `target-dollar-flat` (paint-order duotone)
-  static const IconifyIconData targetDollarFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData targetDollarFlat = IconifyIconData.duo(
     IconData(0xe3c7, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `target-flat` (paint-order duotone)
-  static const IconifyIconData targetFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData targetFlat = IconifyIconData.duo(
     IconData(0xe2cb, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2cb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2cb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tea-cup`
@@ -4587,9 +4587,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `tea-cup-flat` (paint-order duotone)
-  static const IconifyIconData teaCupFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData teaCupFlat = IconifyIconData.duo(
     IconData(0xe3c8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `text-file`
@@ -4598,9 +4598,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `text-file-flat` (paint-order duotone)
-  static const IconifyIconData textFileFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData textFileFlat = IconifyIconData.duo(
     IconData(0xe2ce, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2ce, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2ce, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `text-square`
@@ -4609,9 +4609,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `text-square-flat` (paint-order duotone)
-  static const IconifyIconData textSquareFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData textSquareFlat = IconifyIconData.duo(
     IconData(0xe2d0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2d0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2d0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `text-style`
@@ -4630,9 +4630,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `texture-flat` (paint-order duotone)
-  static const IconifyIconData textureFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData textureFlat = IconifyIconData.duo(
     IconData(0xe2d4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2d4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2d4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `theater-mask`
@@ -4641,9 +4641,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `theater-mask-flat` (paint-order duotone)
-  static const IconifyIconData theaterMaskFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData theaterMaskFlat = IconifyIconData.duo(
     IconData(0xe2d6, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2d6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2d6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `thermometer`
@@ -4652,9 +4652,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `thermometer-flat` (paint-order duotone)
-  static const IconifyIconData thermometerFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData thermometerFlat = IconifyIconData.duo(
     IconData(0xe2d8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2d8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2d8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `thread-post-tweet`
@@ -4663,9 +4663,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `thread-post-tweet-flat` (paint-order duotone)
-  static const IconifyIconData threadPostTweetFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData threadPostTweetFlat = IconifyIconData.duo(
     IconData(0xe2da, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2da, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2da, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `threat-monitor`
@@ -4674,9 +4674,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `threat-monitor-flat` (paint-order duotone)
-  static const IconifyIconData threatMonitorFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData threatMonitorFlat = IconifyIconData.duo(
     IconData(0xe3c9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3c9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3c9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `threat-phone`
@@ -4685,9 +4685,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `threat-phone-flat` (paint-order duotone)
-  static const IconifyIconData threatPhoneFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData threatPhoneFlat = IconifyIconData.duo(
     IconData(0xe2dd, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2dd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2dd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `threat-usb`
@@ -4696,9 +4696,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `threat-usb-flat` (paint-order duotone)
-  static const IconifyIconData threatUsbFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData threatUsbFlat = IconifyIconData.duo(
     IconData(0xe2df, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2df, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2df, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tickets`
@@ -4717,9 +4717,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `tidal-wave-flat` (paint-order duotone)
-  static const IconifyIconData tidalWaveFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tidalWaveFlat = IconifyIconData.duo(
     IconData(0xe2e3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2e3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2e3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tiktok`
@@ -4728,9 +4728,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `tiktok-flat` (paint-order duotone)
-  static const IconifyIconData tiktokFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tiktokFlat = IconifyIconData.duo(
     IconData(0xe2e5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2e5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2e5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `time-lapse`
@@ -4739,9 +4739,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `time-lapse-flat` (paint-order duotone)
-  static const IconifyIconData timeLapseFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData timeLapseFlat = IconifyIconData.duo(
     IconData(0xe3ca, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3ca, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3ca, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `timer-zero`
@@ -4770,9 +4770,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `toaster-flat` (paint-order duotone)
-  static const IconifyIconData toasterFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData toasterFlat = IconifyIconData.duo(
     IconData(0xe3cb, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3cb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3cb, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `toilet-man`
@@ -4811,9 +4811,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `tooth-flat` (paint-order duotone)
-  static const IconifyIconData toothFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData toothFlat = IconifyIconData.duo(
     IconData(0xe2f3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2f3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2f3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `track-select-right-tool`
@@ -4822,9 +4822,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `track-select-right-tool-flat` (paint-order duotone)
-  static const IconifyIconData trackSelectRightToolFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData trackSelectRightToolFlat = IconifyIconData.duo(
     IconData(0xe2f5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2f5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2f5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `transfer-forwarding-call`
@@ -4833,9 +4833,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `transfer-forwarding-call-flat` (paint-order duotone)
-  static const IconifyIconData transferForwardingCallFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData transferForwardingCallFlat = IconifyIconData.duo(
     IconData(0xe2f7, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2f7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2f7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `transfer-truck-time`
@@ -4844,9 +4844,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `transfer-truck-time-flat` (paint-order duotone)
-  static const IconifyIconData transferTruckTimeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData transferTruckTimeFlat = IconifyIconData.duo(
     IconData(0xe2f9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2f9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2f9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `treasure-chest`
@@ -4855,9 +4855,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `treasure-chest-flat` (paint-order duotone)
-  static const IconifyIconData treasureChestFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData treasureChestFlat = IconifyIconData.duo(
     IconData(0xe3cc, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3cc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3cc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `trending-content`
@@ -4876,9 +4876,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `triangle-flag-flat` (paint-order duotone)
-  static const IconifyIconData triangleFlagFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData triangleFlagFlat = IconifyIconData.duo(
     IconData(0xe2fe, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe2fe, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe2fe, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `trophy`
@@ -4887,9 +4887,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `trophy-flat` (paint-order duotone)
-  static const IconifyIconData trophyFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData trophyFlat = IconifyIconData.duo(
     IconData(0xe3cd, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3cd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3cd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tune-adjust-volume`
@@ -4898,9 +4898,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `tune-adjust-volume-flat` (paint-order duotone)
-  static const IconifyIconData tuneAdjustVolumeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tuneAdjustVolumeFlat = IconifyIconData.duo(
     IconData(0xe3ce, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3ce, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3ce, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `typewriter`
@@ -4909,9 +4909,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `typewriter-flat` (paint-order duotone)
-  static const IconifyIconData typewriterFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData typewriterFlat = IconifyIconData.duo(
     IconData(0xe302, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe302, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe302, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `upload-box-1`
@@ -4920,9 +4920,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `upload-box-1-flat` (paint-order duotone)
-  static const IconifyIconData uploadBox1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData uploadBox1Flat = IconifyIconData.duo(
     IconData(0xe3cf, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3cf, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3cf, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `usb-port`
@@ -4941,9 +4941,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `user-circle-single-flat` (paint-order duotone)
-  static const IconifyIconData userCircleSingleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData userCircleSingleFlat = IconifyIconData.duo(
     IconData(0xe307, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe307, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe307, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `user-collaborate-group`
@@ -4952,9 +4952,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `user-collaborate-group-flat` (paint-order duotone)
-  static const IconifyIconData userCollaborateGroupFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData userCollaborateGroupFlat = IconifyIconData.duo(
     IconData(0xe309, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe309, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe309, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `user-feedback-heart`
@@ -4963,9 +4963,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `user-feedback-heart-flat` (paint-order duotone)
-  static const IconifyIconData userFeedbackHeartFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData userFeedbackHeartFlat = IconifyIconData.duo(
     IconData(0xe3d0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `user-full-body`
@@ -4984,9 +4984,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `user-identifier-card-flat` (paint-order duotone)
-  static const IconifyIconData userIdentifierCardFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData userIdentifierCardFlat = IconifyIconData.duo(
     IconData(0xe30e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe30e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe30e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `user-king-crown`
@@ -4995,9 +4995,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `user-king-crown-flat` (paint-order duotone)
-  static const IconifyIconData userKingCrownFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData userKingCrownFlat = IconifyIconData.duo(
     IconData(0xe310, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe310, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe310, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `user-queen-crown`
@@ -5006,9 +5006,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `user-queen-crown-flat` (paint-order duotone)
-  static const IconifyIconData userQueenCrownFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData userQueenCrownFlat = IconifyIconData.duo(
     IconData(0xe3d1, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `user-sync-online-in-person`
@@ -5017,9 +5017,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `user-sync-online-in-person-flat` (paint-order duotone)
-  static const IconifyIconData userSyncOnlineInPersonFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData userSyncOnlineInPersonFlat = IconifyIconData.duo(
     IconData(0xe3d2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `video-close-captioning`
@@ -5028,9 +5028,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `video-close-captioning-flat` (paint-order duotone)
-  static const IconifyIconData videoCloseCaptioningFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData videoCloseCaptioningFlat = IconifyIconData.duo(
     IconData(0xe314, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe314, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe314, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `virus-antivirus`
@@ -5039,9 +5039,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `virus-antivirus-flat` (paint-order duotone)
-  static const IconifyIconData virusAntivirusFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData virusAntivirusFlat = IconifyIconData.duo(
     IconData(0xe3d3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `visual-blind-1`
@@ -5050,9 +5050,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `visual-blind-1-flat` (paint-order duotone)
-  static const IconifyIconData visualBlind1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData visualBlind1Flat = IconifyIconData.duo(
     IconData(0xe317, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe317, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe317, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `voice-activation-check-validate`
@@ -5061,9 +5061,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `voice-activation-check-validate-flat` (paint-order duotone)
-  static const IconifyIconData voiceActivationCheckValidateFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData voiceActivationCheckValidateFlat = IconifyIconData.duo(
     IconData(0xe319, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe319, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe319, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `voice-mail`
@@ -5072,9 +5072,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `voice-mail-flat` (paint-order duotone)
-  static const IconifyIconData voiceMailFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData voiceMailFlat = IconifyIconData.duo(
     IconData(0xe31b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe31b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe31b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `voice-scan-2`
@@ -5083,9 +5083,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `voice-scan-2-flat` (paint-order duotone)
-  static const IconifyIconData voiceScan2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData voiceScan2Flat = IconifyIconData.duo(
     IconData(0xe3d4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `volume-level-high`
@@ -5094,9 +5094,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `volume-level-high-flat` (paint-order duotone)
-  static const IconifyIconData volumeLevelHighFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData volumeLevelHighFlat = IconifyIconData.duo(
     IconData(0xe3d5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `volume-mute`
@@ -5105,9 +5105,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `volume-mute-flat` (paint-order duotone)
-  static const IconifyIconData volumeMuteFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData volumeMuteFlat = IconifyIconData.duo(
     IconData(0xe3d6, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d6, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `vpn-connection`
@@ -5116,9 +5116,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `vpn-connection-flat` (paint-order duotone)
-  static const IconifyIconData vpnConnectionFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vpnConnectionFlat = IconifyIconData.duo(
     IconData(0xe320, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe320, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe320, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `walker`
@@ -5127,9 +5127,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `walker-flat` (paint-order duotone)
-  static const IconifyIconData walkerFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData walkerFlat = IconifyIconData.duo(
     IconData(0xe3d7, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d7, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wallet`
@@ -5138,9 +5138,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `wallet-flat` (paint-order duotone)
-  static const IconifyIconData walletFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData walletFlat = IconifyIconData.duo(
     IconData(0xe323, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe323, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe323, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `warehouse-1`
@@ -5149,9 +5149,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `warehouse-1-flat` (paint-order duotone)
-  static const IconifyIconData warehouse1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData warehouse1Flat = IconifyIconData.duo(
     IconData(0xe325, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe325, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe325, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `warning-diamond`
@@ -5160,9 +5160,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `warning-diamond-flat` (paint-order duotone)
-  static const IconifyIconData warningDiamondFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData warningDiamondFlat = IconifyIconData.duo(
     IconData(0xe327, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe327, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe327, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `warranty-badge-highlight`
@@ -5171,9 +5171,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `warranty-badge-highlight-flat` (paint-order duotone)
-  static const IconifyIconData warrantyBadgeHighlightFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData warrantyBadgeHighlightFlat = IconifyIconData.duo(
     IconData(0xe329, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe329, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe329, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `watch-2`
@@ -5182,9 +5182,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `watch-2-flat` (paint-order duotone)
-  static const IconifyIconData watch2Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData watch2Flat = IconifyIconData.duo(
     IconData(0xe3d8, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d8, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `watch-circle-charging`
@@ -5193,9 +5193,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `watch-circle-charging-flat` (paint-order duotone)
-  static const IconifyIconData watchCircleChargingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData watchCircleChargingFlat = IconifyIconData.duo(
     IconData(0xe3d9, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3d9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3d9, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `watch-circle-heartbeat-monitor-1`
@@ -5204,9 +5204,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `watch-circle-heartbeat-monitor-1-flat` (paint-order duotone)
-  static const IconifyIconData watchCircleHeartbeatMonitor1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData watchCircleHeartbeatMonitor1Flat = IconifyIconData.duo(
     IconData(0xe3da, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3da, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3da, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `watch-square-menu`
@@ -5215,9 +5215,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `watch-square-menu-flat` (paint-order duotone)
-  static const IconifyIconData watchSquareMenuFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData watchSquareMenuFlat = IconifyIconData.duo(
     IconData(0xe3db, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3db, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3db, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `watchtower-castle`
@@ -5226,9 +5226,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `watchtower-castle-flat` (paint-order duotone)
-  static const IconifyIconData watchtowerCastleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData watchtowerCastleFlat = IconifyIconData.duo(
     IconData(0xe3dc, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3dc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3dc, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wave-signal-circle`
@@ -5237,9 +5237,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `wave-signal-circle-flat` (paint-order duotone)
-  static const IconifyIconData waveSignalCircleFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData waveSignalCircleFlat = IconifyIconData.duo(
     IconData(0xe330, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe330, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe330, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `webcam`
@@ -5248,9 +5248,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `webcam-flat` (paint-order duotone)
-  static const IconifyIconData webcamFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData webcamFlat = IconifyIconData.duo(
     IconData(0xe332, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe332, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe332, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `webcam-video-off`
@@ -5259,9 +5259,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `webcam-video-off-flat` (paint-order duotone)
-  static const IconifyIconData webcamVideoOffFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData webcamVideoOffFlat = IconifyIconData.duo(
     IconData(0xe334, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe334, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe334, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wheelchair`
@@ -5275,15 +5275,15 @@ class StreamlineFlexColorIcons {
   );
 
   /// `wheelchair-1-flat` (paint-order duotone)
-  static const IconifyIconData wheelchair1Flat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wheelchair1Flat = IconifyIconData.duo(
     IconData(0xe3dd, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3dd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3dd, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wheelchair-flat` (paint-order duotone)
-  static const IconifyIconData wheelchairFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wheelchairFlat = IconifyIconData.duo(
     IconData(0xe337, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe337, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe337, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `white-board`
@@ -5292,9 +5292,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `white-board-flat` (paint-order duotone)
-  static const IconifyIconData whiteBoardFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData whiteBoardFlat = IconifyIconData.duo(
     IconData(0xe3de, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3de, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3de, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wifi-antenna`
@@ -5303,9 +5303,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `wifi-antenna-flat` (paint-order duotone)
-  static const IconifyIconData wifiAntennaFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wifiAntennaFlat = IconifyIconData.duo(
     IconData(0xe3df, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3df, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3df, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wifi-secure-connection`
@@ -5314,9 +5314,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `wifi-secure-connection-flat` (paint-order duotone)
-  static const IconifyIconData wifiSecureConnectionFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wifiSecureConnectionFlat = IconifyIconData.duo(
     IconData(0xe3e0, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3e0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3e0, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `windmill`
@@ -5325,9 +5325,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `windmill-flat` (paint-order duotone)
-  static const IconifyIconData windmillFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData windmillFlat = IconifyIconData.duo(
     IconData(0xe3e1, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3e1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3e1, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wireless-fast-charging`
@@ -5336,9 +5336,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `wireless-fast-charging-flat` (paint-order duotone)
-  static const IconifyIconData wirelessFastChargingFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wirelessFastChargingFlat = IconifyIconData.duo(
     IconData(0xe3e2, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3e2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3e2, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `word-wrap-around-bounding-box`
@@ -5347,9 +5347,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `word-wrap-around-bounding-box-flat` (paint-order duotone)
-  static const IconifyIconData wordWrapAroundBoundingBoxFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wordWrapAroundBoundingBoxFlat = IconifyIconData.duo(
     IconData(0xe33e, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe33e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe33e, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `workspace-desk`
@@ -5358,9 +5358,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `workspace-desk-flat` (paint-order duotone)
-  static const IconifyIconData workspaceDeskFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData workspaceDeskFlat = IconifyIconData.duo(
     IconData(0xe340, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe340, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe340, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `wrap-arc-upper`
@@ -5379,9 +5379,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `wrench-hand-flat` (paint-order duotone)
-  static const IconifyIconData wrenchHandFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData wrenchHandFlat = IconifyIconData.duo(
     IconData(0xe3e3, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3e3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3e3, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `youtube`
@@ -5390,9 +5390,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `youtube-flat` (paint-order duotone)
-  static const IconifyIconData youtubeFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData youtubeFlat = IconifyIconData.duo(
     IconData(0xe345, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe345, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe345, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `zip-folder`
@@ -5401,9 +5401,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `zip-folder-flat` (paint-order duotone)
-  static const IconifyIconData zipFolderFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData zipFolderFlat = IconifyIconData.duo(
     IconData(0xe347, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe347, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe347, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `zoom-in`
@@ -5412,9 +5412,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `zoom-in-flat` (paint-order duotone)
-  static const IconifyIconData zoomInFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData zoomInFlat = IconifyIconData.duo(
     IconData(0xe3e4, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3e4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3e4, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `zoom-out`
@@ -5423,9 +5423,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `zoom-out-flat` (paint-order duotone)
-  static const IconifyIconData zoomOutFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData zoomOutFlat = IconifyIconData.duo(
     IconData(0xe3e5, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe3e5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe3e5, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `zoom-out-gesture`
@@ -5434,9 +5434,9 @@ class StreamlineFlexColorIcons {
   );
 
   /// `zoom-out-gesture-flat` (paint-order duotone)
-  static const IconifyIconData zoomOutGestureFlat = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData zoomOutGestureFlat = IconifyIconData.duo(
     IconData(0xe34b, fontFamily: 'StreamlineFlexColor', fontPackage: 'iconifyx_streamline_flex_color'),
-    IconData(0xe34b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'),
+    IconData(0xe34b, fontFamily: 'StreamlineFlexColorSecondary', fontPackage: 'iconifyx_streamline_flex_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
 }

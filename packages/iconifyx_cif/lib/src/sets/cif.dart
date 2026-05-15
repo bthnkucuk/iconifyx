@@ -37,9 +37,9 @@ class CifIcons {
   );
 
   /// `al` (paint-order duotone)
-  static const IconifyIconData al = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData al = IconifyIconData.duo(
     IconData(0xe095, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe095, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe095, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `am`
@@ -58,9 +58,9 @@ class CifIcons {
   );
 
   /// `at` (paint-order duotone)
-  static const IconifyIconData at = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData at = IconifyIconData.duo(
     IconData(0xe096, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe096, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe096, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `au`
@@ -84,9 +84,9 @@ class CifIcons {
   );
 
   /// `bd` (paint-order duotone)
-  static const IconifyIconData bd = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bd = IconifyIconData.duo(
     IconData(0xe008, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe008, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe008, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `be`
@@ -105,9 +105,9 @@ class CifIcons {
   );
 
   /// `bh` (paint-order duotone)
-  static const IconifyIconData bh = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData bh = IconifyIconData.duo(
     IconData(0xe00b, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe00b, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe00b, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bi`
@@ -161,9 +161,9 @@ class CifIcons {
   );
 
   /// `ca` (paint-order duotone)
-  static const IconifyIconData ca = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ca = IconifyIconData.duo(
     IconData(0xe013, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe013, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe013, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cd`
@@ -182,9 +182,9 @@ class CifIcons {
   );
 
   /// `ch` (paint-order duotone)
-  static const IconifyIconData ch = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ch = IconifyIconData.duo(
     IconData(0xe015, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe015, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe015, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ci`
@@ -208,9 +208,9 @@ class CifIcons {
   );
 
   /// `cn` (paint-order duotone)
-  static const IconifyIconData cn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData cn = IconifyIconData.duo(
     IconData(0xe097, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe097, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe097, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `co`
@@ -254,9 +254,9 @@ class CifIcons {
   );
 
   /// `dk` (paint-order duotone)
-  static const IconifyIconData dk = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData dk = IconifyIconData.duo(
     IconData(0xe01f, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe01f, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe01f, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `dm`
@@ -305,9 +305,9 @@ class CifIcons {
   );
 
   /// `fi` (paint-order duotone)
-  static const IconifyIconData fi = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fi = IconifyIconData.duo(
     IconData(0xe028, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe028, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe028, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fj`
@@ -316,9 +316,9 @@ class CifIcons {
   );
 
   /// `fm` (paint-order duotone)
-  static const IconifyIconData fm = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData fm = IconifyIconData.duo(
     IconData(0xe02a, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe02a, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe02a, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `fr`
@@ -342,9 +342,9 @@ class CifIcons {
   );
 
   /// `ge` (paint-order duotone)
-  static const IconifyIconData ge = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ge = IconifyIconData.duo(
     IconData(0xe02e, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe02e, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe02e, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `gh`
@@ -388,15 +388,15 @@ class CifIcons {
   );
 
   /// `hk` (paint-order duotone)
-  static const IconifyIconData hk = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hk = IconifyIconData.duo(
     IconData(0xe034, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe034, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe034, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hn` (paint-order duotone)
-  static const IconifyIconData hn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData hn = IconifyIconData.duo(
     IconData(0xe035, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe035, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe035, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `hr`
@@ -415,9 +415,9 @@ class CifIcons {
   );
 
   /// `id` (paint-order duotone)
-  static const IconifyIconData id = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData id = IconifyIconData.duo(
     IconData(0xe039, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe039, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe039, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ie`
@@ -466,9 +466,9 @@ class CifIcons {
   );
 
   /// `jp` (paint-order duotone)
-  static const IconifyIconData jp = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData jp = IconifyIconData.duo(
     IconData(0xe041, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe041, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe041, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ke`
@@ -517,9 +517,9 @@ class CifIcons {
   );
 
   /// `kz` (paint-order duotone)
-  static const IconifyIconData kz = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData kz = IconifyIconData.duo(
     IconData(0xe04a, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe04a, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe04a, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `la`
@@ -568,9 +568,9 @@ class CifIcons {
   );
 
   /// `lv` (paint-order duotone)
-  static const IconifyIconData lv = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData lv = IconifyIconData.duo(
     IconData(0xe054, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe054, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe054, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ly`
@@ -579,15 +579,15 @@ class CifIcons {
   );
 
   /// `ma` (paint-order duotone)
-  static const IconifyIconData ma = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ma = IconifyIconData.duo(
     IconData(0xe055, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe055, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe055, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `mc` (paint-order duotone)
-  static const IconifyIconData mc = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mc = IconifyIconData.duo(
     IconData(0xe056, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe056, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe056, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `md`
@@ -611,9 +611,9 @@ class CifIcons {
   );
 
   /// `mk` (paint-order duotone)
-  static const IconifyIconData mk = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData mk = IconifyIconData.duo(
     IconData(0xe098, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe098, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe098, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ml`
@@ -682,9 +682,9 @@ class CifIcons {
   );
 
   /// `ng` (paint-order duotone)
-  static const IconifyIconData ng = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ng = IconifyIconData.duo(
     IconData(0xe099, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe099, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe099, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ni`
@@ -733,9 +733,9 @@ class CifIcons {
   );
 
   /// `pe` (paint-order duotone)
-  static const IconifyIconData pe = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pe = IconifyIconData.duo(
     IconData(0xe09a, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe09a, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe09a, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pg`
@@ -749,15 +749,15 @@ class CifIcons {
   );
 
   /// `pk` (paint-order duotone)
-  static const IconifyIconData pk = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pk = IconifyIconData.duo(
     IconData(0xe06d, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe06d, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe06d, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pl` (paint-order duotone)
-  static const IconifyIconData pl = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pl = IconifyIconData.duo(
     IconData(0xe06e, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe06e, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe06e, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pt`
@@ -766,9 +766,9 @@ class CifIcons {
   );
 
   /// `pw` (paint-order duotone)
-  static const IconifyIconData pw = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData pw = IconifyIconData.duo(
     IconData(0xe070, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe070, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe070, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `py`
@@ -777,9 +777,9 @@ class CifIcons {
   );
 
   /// `qa` (paint-order duotone)
-  static const IconifyIconData qa = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData qa = IconifyIconData.duo(
     IconData(0xe072, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe072, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe072, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ro`
@@ -803,9 +803,9 @@ class CifIcons {
   );
 
   /// `sa` (paint-order duotone)
-  static const IconifyIconData sa = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sa = IconifyIconData.duo(
     IconData(0xe077, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe077, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe077, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sb`
@@ -824,15 +824,15 @@ class CifIcons {
   );
 
   /// `se` (paint-order duotone)
-  static const IconifyIconData se = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData se = IconifyIconData.duo(
     IconData(0xe09b, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe09b, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe09b, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sg` (paint-order duotone)
-  static const IconifyIconData sg = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData sg = IconifyIconData.duo(
     IconData(0xe09c, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe09c, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe09c, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `si`
@@ -861,9 +861,9 @@ class CifIcons {
   );
 
   /// `so` (paint-order duotone)
-  static const IconifyIconData so = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData so = IconifyIconData.duo(
     IconData(0xe09d, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe09d, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe09d, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `sr`
@@ -927,21 +927,21 @@ class CifIcons {
   );
 
   /// `tn` (paint-order duotone)
-  static const IconifyIconData tn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tn = IconifyIconData.duo(
     IconData(0xe09e, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe09e, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe09e, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `to` (paint-order duotone)
-  static const IconifyIconData to = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData to = IconifyIconData.duo(
     IconData(0xe09f, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe09f, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe09f, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tr` (paint-order duotone)
-  static const IconifyIconData tr = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData tr = IconifyIconData.duo(
     IconData(0xe083, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe083, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe083, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `tt`
@@ -965,9 +965,9 @@ class CifIcons {
   );
 
   /// `ua` (paint-order duotone)
-  static const IconifyIconData ua = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData ua = IconifyIconData.duo(
     IconData(0xe087, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe087, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe087, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ug`
@@ -1011,9 +1011,9 @@ class CifIcons {
   );
 
   /// `vn` (paint-order duotone)
-  static const IconifyIconData vn = IconifyIconData.duoPaintOrder(
+  static const IconifyIconData vn = IconifyIconData.duo(
     IconData(0xe090, fontFamily: 'Cif', fontPackage: 'iconifyx_cif'),
-    IconData(0xe090, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'),
+    IconData(0xe090, fontFamily: 'CifSecondary', fontPackage: 'iconifyx_cif'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ws`
