@@ -4375,6 +4375,34 @@ that wasn't obvious upfront: fontTools requires `recalcBBoxes=False`
 on the `TTFont` *constructor* (not on `save()`) for the canonical
 enforcement to survive serialization.
 
+### ✅ Audit-infra litmus test: PASSED
+
+The visual-diff CLI Phase 1 (`a8d3f33e` shipped in commit `14d4c94`)
+empirically verifies the fix AND confirms the audit infrastructure
+can detect this class of bug going forward:
+
+- **Pre-fix stale TTF state** (reproduced via `git checkout` to an
+  earlier commit): primary centroid x=158, secondary centroid x=421
+  → centroid delta **26.3 % of em** → classifier rule
+  `DUOTONE_BBOX_MISMATCH` correctly fires with verdict
+  *"centroid drift 26.3% / 0.0% of em — layers will overlay
+  misaligned"*.
+- **Post-fix HEAD state**: primary centroid (500.0, 499.8), secondary
+  centroid (500.3, 499.9), centroid delta (0.3, 0.0) em-units =
+  **0.0 %** → no classifier rule fires → **clean diff** in the audit
+  report.
+
+This means future regressions in any pack would be flagged
+automatically — no more relying on humans scrolling the website to
+find them. §33's closing criterion #2 (audit detects this class
+before the user does) is **met**.
+
+Visual-diff CLI artifacts: `tools/generator/audit/visual-diff/` +
+output dir `docs/audit/visual-diff/solar__add-circle-bold-duotone/`
+(SVG / primary glyph PNG / secondary glyph PNG / report.json + MD +
+ROOT_CAUSE.md investigation walkthrough). Full Phase 2 spec at
+§33b below.
+
 ### The user-visible bug
 
 After §32 shipped, the website still showed misaligned duotone icons
