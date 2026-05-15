@@ -59,7 +59,7 @@ class MyButton extends StatelessWidget {
 }
 ```
 
-Every icon constant is an `IconifyIconData` — a Dart 3.3 extension type over a `(IconData primary, IconData? secondary)` record. The `IconifyIcon` widget auto-renders both regular and duo-tone icons via a single `CustomPaint` (no `Stack`). At compile time the wrapper disappears and the const `IconData`s survive — tree-shake-friendly. If you must pass a raw `IconData` to a Flutter widget that takes one (e.g. `Icon`), use `.primary`.
+Every icon constant is an `IconifyIconData` — a Dart 3.3 extension type over a `(IconData primary, IconData? secondary, int kindCode)` record. The `IconifyIcon` widget auto-detects the duotone kind from the record and composes layers correctly: hint-layer (Phosphor / Solar / ic), paint-order (logos / cryptocurrency-color / fluent-emoji-flat), or mask-internal (lets-icons `*-duotone-line`). One `CustomPaint`, no `Stack`. At compile time the wrapper disappears and the const `IconData`s survive — tree-shake-friendly. If you must pass a raw `IconData` to a Flutter widget that takes one (e.g. `Icon`), use `.primary`.
 
 ## Available packages
 
@@ -148,29 +148,30 @@ Browse every bundled set in a paginated drawer view. Filter icons by name. Tap a
 
 Even on packs whose pack-level signal sits below the auto-detect threshold (e.g. `oui` at 16% evenodd), the pipeline runs a **per-icon raster-trace fallback**: any individual icon body with `fill-rule="evenodd"` or stroke-only paint gets traced one-by-one so it doesn't ship as a featureless blob. Roughly 4.6k icons across ~30 packs are quietly rescued this way each regen.
 
-**Duo-tone icons** ship as a single const per icon using `IconifyIconData.duo(primary, secondary)`. Two detection paths feed into this:
+**Duo-tone icons** ship as a single const per icon using `IconifyIconData.duo(primary, secondary, kind: ...)`. Three detection paths produce three rendering flavours, all dispatched automatically by `IconifyIcon`:
 
-1. **Opacity-based** (Phosphor `*-duotone`, Solar `*-bold-duotone`, IC family, …) — bodies with one element at `opacity<1`.
-2. **Two-color paint-order** (`logos`, many 2-color emojis) — bodies with exactly two distinct fills get split into background (primary) + foreground (secondary).
+1. **Opacity-based hint-layer** (Phosphor `*-duotone`, Solar `*-bold-duotone`, IC family, Iconamoon, …) — bodies with one element at `opacity<1` / `fill-opacity<1` / `stroke-opacity<1`. Render: secondary BEHIND primary at 40% opacity in primary colour. `kind: IconifyIconData.kindHint` (default).
+2. **Two-color paint-order** (`logos`, `cryptocurrency-color`, `fluent-emoji-flat`, `twemoji`, `noto`, `vscode-icons`, `gcp`, `token-branded`) — bodies with exactly two distinct fills split into background (primary) + foreground (secondary). Render: primary BEHIND, secondary ON TOP at 100% opacity (caller supplies a contrasting `secondaryColor`, fallback white). `kind: kindPaintOrder`.
+3. **Mask-internal** (`lets-icons` `*-duotone-line` family) — bodies built around an inverse-mask pattern with luminance-based child classification. Renders like hint-layer. `kind: kindMaskInternal`.
 
 ```dart
 import 'package:iconifyx_ph/iconifyx_ph.dart';
 import 'package:iconifyx_logos/iconifyx_logos.dart';
-import 'package:iconifyx_core/iconifyx_core.dart';
 
-// Default: secondary at 40% opacity — fits phosphor-style "hint layer".
+// Hint-layer — auto detected, no caller knowledge needed.
 IconifyIcon(PhIcons.acornDuotone, color: Colors.blue);
 
-// Logo-style: two opaque distinct colors.
-IconifyIcon.duotone(
+// Paint-order — pass a knockout colour for the foreground letterform.
+IconifyIcon(
   LogosIcons.adobeAfterEffects,
-  color: Color(0xFF00005B),       // background dark navy
-  secondaryColor: Color(0xFF9999FF), // foreground "Ae" letter
-  secondaryOpacity: 1.0,
-)
+  size: 24,
+  secondaryColor: Theme.of(context).colorScheme.surface,
+);
 ```
 
-Both layers render in a single `CustomPaint` (no `Stack`), and tree-shake works on each layer's `IconData` independently.
+Without `secondaryColor`, paint-order falls back to `IconifyIcon.paintOrderSecondaryFallback` (white) — readable against most dark coloured tiles. Both layers render in a single `CustomPaint` (no `Stack`), and tree-shake works on each layer's `IconData` independently.
+
+**Animation flattening** — for packs that ship reveal-style SMIL animations (line-md, certain icon-park variants), the pipeline extracts each `<animate>` element's most-visible value (smallest `stroke-dashoffset`, largest `opacity`, last `to=`/`values=`) and applies it as a static attribute to the parent element before rasterizing. Result: line-md's 1,279 reveal icons + ~30 transition icons all ship with their content fully drawn.
 
 ## License
 

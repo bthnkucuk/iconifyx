@@ -43,12 +43,12 @@ extension type const IconifyIconData(
   static const int kindPaintOrder = 2;   // logos/crypto-color/twemoji 2-fill
   static const int kindMaskInternal = 3; // lets-icons *-duotone-line
 
-  const IconifyIconData.solo(IconData icon)            : this((icon, null, kindSolo));
-  const IconifyIconData.duo(IconData p, IconData s)    : this((p, s, kindHint));
-  const IconifyIconData.duoPaintOrder(IconData p, IconData s)
-      : this((p, s, kindPaintOrder));
-  const IconifyIconData.duoMaskInternal(IconData p, IconData s)
-      : this((p, s, kindMaskInternal));
+  const IconifyIconData.solo(IconData icon) : this((icon, null, kindSolo));
+  const IconifyIconData.duo(
+    IconData primary,
+    IconData secondary, {
+    int kind = kindHint,
+  }) : this((primary, secondary, kind));
 
   IconData get primary => _layers.$1;
   IconData? get secondary => _layers.$2;
@@ -58,12 +58,13 @@ extension type const IconifyIconData(
 }
 ```
 
-A single shape covers solo icons (secondary = null) AND every duo-tone flavour. Named constructors pick the form; `IconifyIcon` reads `kind` at render time and composes the layers accordingly (hint-layer = secondary backdrop at 40%, paint-order = secondary FOREGROUND on top at full opacity in surface colour, mask-internal = same as hint).
+ONE `.duo` constructor with an optional named `kind:` argument — not three separate `.duoX` constructors. Compile-time codegen calls `IconifyIconData.duo(p, s)` for hint (default), `IconifyIconData.duo(p, s, kind: IconifyIconData.kindPaintOrder)` for two-fill paint-order, and `kind: IconifyIconData.kindMaskInternal` for lets-icons mask-internal. `IconifyIcon` reads `kind` at render time and composes the layers accordingly (hint-layer = secondary backdrop at 40%, paint-order = secondary FOREGROUND on top at full opacity in caller-supplied surface colour, mask-internal = same as hint).
 
-Two important rules for the kind field:
+Three rules for the kind field:
 
 - **Field name MUST be public** (`kindCode`, not `_kind`). Dart record field names can't start with underscore; the compiler rejects `(IconData primary, IconData? secondary, int _kind)` with "Record field names can't be private". Access via the extension type getter `kind` keeps it idiomatic for callers.
 - **Adding the int doesn't break tree-shake.** The const_finder walks record fields looking for const IconData references; an inert `int` sitting beside the IconData fields doesn't affect detection. Verified by the same `two_icon_test/` bundle that tracks the rest of the tree-shake invariants.
+- **Anyone reconstructing `IconifyIconData` at runtime (not from generated const fields) MUST pass `kind:`.** This is non-obvious but load-bearing: the website's `IconRecord.toIconifyData()` in [packages/iconifyx/website/lib/bootstrap/icon_catalog.dart](packages/iconifyx/website/lib/bootstrap/icon_catalog.dart) bypasses the codegen const fields (loading them all would compile-time-blow the website) and rebuilds `IconifyIconData` from a JSON tuple at runtime. If that path drops `kind:`, every paint-order pack ships rendered as hint-layer (secondary at 40% behind primary → foreground letterform invisible). The icons_index.json tuple's 4th slot encodes the `kind*` code so the runtime preserves the right rendering flavour. Mirror this anywhere else you store/parse icon metadata.
 
 Dart 3.3+ extension types erase to their representation at compile time; the kernel sees a const Record whose fields are `const IconData(...)`, and Flutter's `const_finder` (driven by `--tree-shake-icons`) traverses records and detects every inner IconData reference.
 
@@ -83,10 +84,17 @@ class MdiIcons {
     IconData(0xe000, fontFamily: 'Mdi', fontPackage: 'iconifyx_mdi'),
   );
 
-  /// `account-circle` (duo-tone)
+  /// `account-circle` (duo-tone, hint-layer)
   static const IconifyIconData accountCircle = IconifyIconData.duo(
     IconData(0xe123, fontFamily: 'Mdi', fontPackage: 'iconifyx_mdi'),
     IconData(0xe123, fontFamily: 'MdiSecondary', fontPackage: 'iconifyx_mdi'),
+  );
+
+  /// `adobe-after-effects` (paint-order duotone — example from `logos` pack)
+  static const IconifyIconData adobeAfterEffects = IconifyIconData.duo(
+    IconData(0xe004, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe004, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
+    kind: IconifyIconData.kindPaintOrder,
   );
 }
 ```
@@ -112,8 +120,21 @@ IconifyIcon(                                                          // explici
 
 The single constructor handles every flavour — the widget inspects
 `icon.kind` and picks the right composition (hint backdrop at 40%,
-paint-order foreground on top at 100% in `ColorScheme.surface`,
-mask-internal same as hint). Callers don't need to think about it.
+paint-order foreground on top at 100% in `paintOrderSecondaryFallback`
+[white] or caller-supplied surface, mask-internal same as hint).
+Callers don't need to think about it.
+
+`iconifyx_core` depends ONLY on `package:flutter/widgets` — no Material.
+Themed apps pass `Theme.of(context).colorScheme.surface` (or any other
+colour) as `secondaryColor` when they want a theme-aware knockout for
+paint-order duotones. Default is `IconifyIcon.paintOrderSecondaryFallback`
+(white).
+
+Implementation: one `CustomPaint` with two laid-out `TextPainter`
+instances cached on the painter. `paint()` applies a `BoxFit.contain`
+emulating scale + centre transform so wide-aspect glyphs (the
+wordmarks in `logos`) scale down to fit the requested size. One
+render layer, no Stack overhead. See [packages/iconifyx_core/lib/src/iconify_icon.dart](packages/iconifyx_core/lib/src/iconify_icon.dart).
 
 `IconifyIcon` in `iconifyx_core` is a polymorphic widget. The default constructor auto-detects duotone via `icon.isDuotone`; `.duotone` lets the caller customise the secondary layer. Outer shape mirrors `Icon` (`Semantics` + `SizedBox`). Duotone is rendered in a single render layer via `CustomPaint` + two `TextPainter` calls — no `Stack`. TextStyle uses `package:`, not `fontPackage:` (the latter is IconData's field; copying the name verbatim into TextStyle is a confusing compile error).
 
@@ -199,13 +220,31 @@ The element painting FIRST in source order is assigned to the primary layer (bac
 
 Last regen: Catppuccin → 296 mono, 264 duotone-split, 100 flattened (660 live, up from 0). Opt-in via config because the colour-flattening only makes sense for packs whose colour choices are decorative rather than load-bearing.
 
-For every primary font that contains at least one duotone icon (any path), the generator emits a matching `<Family>Secondary` TTF holding only the secondary layers, at the same codepoints. Dart codegen emits ONE const per duotone icon via `IconifyIconData.duo(primaryIconData, secondaryIconData)` — the consumer-facing identifier stays the bare name (e.g. `PhIcons.acornDuotone`, `LogosIcons.adobeAfterEffects`).
+For every primary font that contains at least one duotone icon (any path), the generator emits a matching `<Family>Secondary` TTF holding only the secondary layers, at the same codepoints. Dart codegen emits ONE const per duotone icon — the constructor call has the form `IconifyIconData.duo(primaryIconData, secondaryIconData, kind: IconifyIconData.kindXxx)`. The `kind:` argument is omitted when the kind is the default `kindHint`; emitted as `kindPaintOrder` for two-fill paint-order splits and `kindMaskInternal` for lets-icons mask-internal. The consumer-facing identifier stays the bare name (e.g. `PhIcons.acornDuotone`, `LogosIcons.adobeAfterEffects`).
 
-**Pipeline ordering matters:** all three duotone detection paths run BEFORE stroke-fill, in order: Path 1 (opacity) → Path 2 (two-color fills) → Path 3 (colour-mapped pack preprocess, opt-in). Otherwise `oslllo-svg-fixer` rasterizes the whole body and traces it back as a single silhouette, losing the layering signal. Path 1 (opacity) runs first, then Path 2 (two-color) — Path 2 only considers icons not yet handled by Path 1.
+**Path 4 — mask-internal duotone** (`trySplitMaskInternalBody`). The lets-icons `*-duotone-line` family ships icons built around the inverse-mask pattern (see §5e on `bodyUsesMaskPattern`):
+
+```html
+<defs><mask id="X"><g fill="none" stroke-width="1.2">
+  <circle stroke="silver" stroke-opacity=".25"/>   <!-- faint outer ring -->
+  <path stroke="#fff" d="..."/>                     <!-- bold foreground -->
+</g></mask></defs>
+<path fill="currentColor" mask="url(#X)"/>
+```
+
+The splitter classifies each mask child by effective luminance vs a white background: `stroke-opacity<1` or light-grey-keyword/hex (`silver`, `lightgray`, `#aaa`–`#eee`) → faint → secondary; pure white `#fff` or opaque colours → primary. Both bodies re-emit as flat `<g stroke="currentColor" fill="none">` wrappers (the mask carrier rect is discarded). Visually the result is a hint-layer duotone, but the manifest preserves `duotoneKind: 'maskInternal'` so audit / debugging can distinguish.
+
+**Pipeline ordering matters:** all four duotone detection paths run BEFORE stroke-fill, in order: Path 1 (opacity) → Path 2 (two-color fills) → Path 3 (colour-mapped opt-in) → Path 4 (mask-internal). Otherwise `oslllo-svg-fixer` rasterizes the whole body and traces it back as a single silhouette, losing the layering signal. Each path only considers icons not yet classified by a prior path.
 
 **`centerHorizontally: false`** is mandatory in `font_builder.ts`'s svgicons2svgfont stream options. Iconify SVGs are already designed to fit their viewBox; auto-centring shifts each glyph's content to its own bbox centre, so duotone layers that live in different parts of the viewBox (e.g. `ic/baseline-signal-wifi-1-bar-lock` — lock on the right, wifi bars on the left) end up overlapping in the middle instead of staying in position. Re-enabling centring is a silent visual regression for any positionally-distinct duotone icon.
 
-**Rendering duotone in the consumer app.** `IconifyIcon` auto-detects via `icon.isDuotone` and uses `secondaryOpacity = 0.4` by default — correct for phosphor-style "hint layer" duotones. For paint-order-split icons (logos, 2-color emojis), the secondary IS the meaningful foreground (a letterform, not a hint), so the consumer should pass `secondaryOpacity: 1.0` plus a contrasting `secondaryColor` for full-color rendering. See `IconifyIcon.duotone` constructor.
+**Rendering duotone in the consumer app.** Single `IconifyIcon(icon)` call — the widget reads `icon.kind` and composes correctly:
+
+- Hint (Phosphor / Solar / ic): secondary BEHIND primary at 40% opacity in primary colour.
+- Paint-order (logos / crypto-color / fluent-emoji-flat): primary BEHIND, secondary ON TOP at 100% opacity. Caller passes `secondaryColor` (e.g. surface colour) for theme-aware knockout; fallback is white (`IconifyIcon.paintOrderSecondaryFallback`).
+- Mask-internal (lets-icons `*-duotone-line`): renders identically to hint.
+
+No `.duotone` named constructor exists anymore — there's a single `IconifyIcon(...)` constructor. Overrides go via `secondaryColor:` / `secondaryOpacity:` named args.
 
 ### 5c. Per-glyph error tolerance.
 
@@ -225,11 +264,28 @@ Three layers of failure handling, all automatic:
 
 Glyphs that fail any layer get `deprecated: true` in the manifest. Their codepoints stay reserved (so they auto-recover if upstream fixes the SVG in a future release) but the icon doesn't appear in the Dart class or the TTF.
 
+### 5c-bis. SMIL animation flattening (line-md, icon-park animated).
+
+Some packs ship reveal-style SMIL animations on path attributes:
+
+```html
+<path stroke-dasharray="28" stroke-dashoffset="28" d="...">
+  <animate attributeName="stroke-dashoffset" values="28;0" dur="0.4s"/>
+</path>
+```
+
+Without intervention these would be rejected by the validator (no `<animate>` allowed in TTF), AND the rasterize-trace pass would render them in their initial state (dashoffset=28 = invisible stroke) → trace becomes empty → glyph ships blank.
+
+`flattenAnimations` in `svg_preprocess.ts` runs BEFORE stroke-fill. For every `<animate>` / `<set>` element nested in a parent, it picks the most-visible value (smallest `stroke-dashoffset` for reveal, largest `opacity`-style for fade-in, last `values=` entry / `to=` for path morphs / transforms) and applies it as a static attribute on the parent, then strips the animation tag. Reveal animations (`values="28;0"` — start hidden, end visible) and TRANSITION animations (`values="0;14"` — start visible, end hidden) are both correctly resolved because the heuristic is "pick the visible state", not "pick the end value".
+
+Last regen: 1,277 of 1,279 line-md icons flattened — `account`, `beer`, `login`, `confirm-square-to-square-transition`, `confirm-circle-filled-to-circle-filled-transition`, … all ship rendered.
+
 ### 5d. Audit reports — read before manual review.
 
-Two markdown reports regenerate on every `bun run generate` at repo root. They always run — even if mid-pipeline subprocess panics dropped specific icons, the pipeline still reaches its final write steps thanks to the subprocess isolation in §5a-bis.
+Three markdown reports regenerate on every `bun run generate` at repo root. They always run — even if mid-pipeline subprocess panics dropped specific icons, the pipeline still reaches its final write steps thanks to the subprocess isolation in §5a-bis.
 
 - **`COVERAGE.md`** — per-set Iconify `info.total` upstream count vs. our built (live + non-deprecated, EXCLUDING synthesised weight variants) count. Sorted by % missing. Surfaces sets where the gap warrants investigation. Panic-skipped, paint-order-dropped, and validator-rejected icons all count as missing.
+- **`FONT_AUDIT.md`** — post-build manifest↔TTF reconciliation via `fontkit`. For every declared `(font, codepoint)` pair in a pack's manifest, open the emitted TTF and verify the codepoint maps to a glyph with a non-empty outline. Surfaces silent `svg2ttf` drops (glyph slot exists but path data was discarded mid-build) that would otherwise ship as blank boxes to consumers. Last regen: ~570 empty glyphs across ~37 fonts (meteocons, devicon, token-branded leading offenders). The audit is advisory only — it doesn't mutate manifests — but the numbers should drift downward over time, not up. Added via `tools/generator/src/font_verify.ts`.
 - **`STROKE_AUDIT.md`** — multi-section audit:
   - **Paint-order risk** (§5e) — sets shipping multi-fill bodies that would render as monochrome blobs; per-set drop counts.
   - **Per-icon raster-trace fixes** — packs below the pack-level threshold whose individual icons still needed tracing (oui case, §5a).

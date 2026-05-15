@@ -70,33 +70,38 @@ ternaries. The parent (`_LoadedBody.build`) resolves these once per page
 rebuild into a `_CellPalette` const record and passes it down. For 15k×60fps
 scroll, this matters.
 
-### 5. Render icons via `IconifyThumb`, not `IconifyIcon`
+### 5. Render icons via `IconifyThumb` (thin pass-through to `IconifyIcon`)
 
 [`shared/widgets/iconify_thumb.dart`](lib/shared/widgets/iconify_thumb.dart)
-wraps the glyph in `Text` + `FittedBox(BoxFit.contain)`. This is what keeps
-wide-aspect glyphs (Iconify `logos` pack's Adobe / Google wordmarks) from
-spilling outside their cell. `IconifyIcon` from `iconifyx_core` uses a
-fixed-size `CustomPaint` and overflows for any glyph whose advance width >
-em-square height.
+is now a thin pass-through to `IconifyIcon` from `iconifyx_core`. Both
+fit wide-aspect glyphs (Iconify `logos` pack's Adobe / Google wordmarks)
+into their cell via a `BoxFit.contain` scale — `IconifyIcon` does this
+inside its `CustomPaint` painter, so wrapping doesn't add an extra layer.
+Use `IconifyThumb` from the website's call sites; the wrapper exists
+only because every website call expects a `secondaryColor` it can fill
+in from its `_CellPalette`. Outside the website, prefer `IconifyIcon`
+directly.
 
-API is drop-in: `IconifyThumb(data, size: X, color: Y)`. Use it everywhere
-in the website that previously used `IconifyIcon`. We left `iconifyx_core`
-itself untouched.
+API: `IconifyThumb(data, size: X, color: Y, secondaryColor: Z?)`.
 
-**Duotone rendering nuance.** The pipeline now ships two flavours of
-duotone icons (see top-level CLAUDE.md §5b):
+**Duotone rendering — automatic.** All three duotone flavours (hint-layer
+Phosphor / Solar / ic, paint-order logos / crypto-color / fluent-emoji-
+flat, mask-internal lets-icons `*-duotone-line`) are dispatched by
+`IconifyIcon` based on `IconifyIconData.kind`. The website's
+`IconRecord.toIconifyData()` parses the kind code from the
+`icons_index.json` tuple's 4th slot and forwards it to
+`IconifyIconData.duo(p, s, kind: ...)`. Call sites just pass an optional
+`secondaryColor:` (typically the cell's card / page paper colour) so
+paint-order foreground letterforms "knock out" against the
+currentColor-filled primary tile. Without it, the foreground falls back
+to `IconifyIcon.paintOrderSecondaryFallback` (white).
 
-- **Hint-layer duotone** (Phosphor `*-duotone`, Solar, IC family): secondary
-  is a translucent accent. Default `secondaryOpacity = 0.4` looks right.
-- **Two-color paint-order duotone** (logos, 2-color emojis): secondary is
-  the meaningful FOREGROUND (e.g. the "Ae" letter on Adobe After Effects).
-  At default 40% opacity it half-disappears. For these call sites, pass
-  `secondaryOpacity: 1.0` plus a contrasting `secondaryColor` for the
-  intended "two opaque colors" look.
-
-Today the website uses the default 40% everywhere for simplicity. Pack-
-specific rendering (detect `record.prefix == 'logos'` → pass opaque
-secondary) is a follow-up if visual quality calls for it.
+`_CellPalette.surfaceForKnockout` in `pack_detail_page.dart` is resolved
+once per page rebuild (no `Theme.of` per cell) and threaded into every
+`IconifyThumb(secondaryColor: palette.surfaceForKnockout)` call. The
+sidebar has an explicit `SECONDARY COLOR` swatch row for debugging /
+overriding — feeds the same palette field via `_iconSecondaryColor`
+state.
 
 ### 6. Slider commits on snap, not on drag pixel
 

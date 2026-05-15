@@ -41,17 +41,17 @@ class TwoIconApp extends StatelessWidget {
                 IconifyIcon(PhIcons.heartDuotone, size: 64),
               ]),
               const SizedBox(height: 24),
-              const Text('Duotone with custom colors (.duotone constructor)'),
+              const Text('Duotone with custom colors (named-arg overrides)'),
               const SizedBox(height: 8),
               Wrap(spacing: 16, children: [
-                IconifyIcon.duotone(
+                IconifyIcon(
                   PhIcons.acornDuotone,
                   size: 64,
                   color: Colors.blue,
                   secondaryColor: Colors.red,
                   secondaryOpacity: 0.5,
                 ),
-                IconifyIcon.duotone(
+                IconifyIcon(
                   PhIcons.heartDuotone,
                   size: 64,
                   color: Colors.indigo,

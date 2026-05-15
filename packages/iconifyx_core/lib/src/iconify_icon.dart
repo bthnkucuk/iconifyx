@@ -1,11 +1,11 @@
+import 'dart:math' as math;
+
 import 'package:flutter/widgets.dart';
 
 import 'icon_data.dart';
 
-/// Drop-in replacement for [Icon] that renders any [IconifyIconData]
-/// flavour — solo, hint-layer duotone, paint-order duotone, mask-internal
-/// duotone — with one constructor and sensible defaults. Use it exactly
-/// like Flutter's [Icon]:
+/// Drop-in replacement for [Icon] that renders every [IconifyIconData]
+/// flavour with one constructor:
 ///
 /// ```dart
 /// IconifyIcon(MdiIcons.home, color: Colors.indigo, size: 24)
@@ -13,9 +13,10 @@ import 'icon_data.dart';
 /// IconifyIcon(LogosIcons.adobeAfterEffects, size: 24)
 /// ```
 ///
-/// The widget inspects [IconifyIconData.kind] to choose the composition:
+/// The widget inspects [IconifyIconData.kind] and composes the layers
+/// automatically:
 ///
-/// - **Solo** — single layer in [color] (defaults to ambient `IconTheme`).
+/// - **Solo** — single layer in [color].
 /// - **Hint-layer duotone** — secondary BEHIND primary at 40% opacity,
 ///   same colour as primary. Matches FontAwesome-style duotones.
 /// - **Paint-order duotone** — primary BEHIND (the background tile),
@@ -24,13 +25,15 @@ import 'icon_data.dart';
 ///   foreground falls back to white.
 /// - **Mask-internal duotone** — same render as hint-layer.
 ///
-/// Implementation note: each layer renders through a [Text] widget so
-/// Flutter's standard text pipeline handles async font loading (via the
-/// `RenderParagraph` font-listener mechanism). The wrapping [FittedBox]
-/// scales the glyph's actual ink box to fit the requested `size × size`,
-/// which uniformly handles wide-aspect glyphs (the wordmarks shipped in
-/// the Iconify `logos` pack would otherwise overflow the cell). Layer
-/// composition is via [Stack] with kind-aware z-order.
+/// Implementation: one `CustomPaint` with TextPainter-based glyph
+/// rendering for both layers. Layout happens once per build via
+/// [_IconifyPainter]'s constructor and the same laid-out TextPainters
+/// are reused across paint() ticks. The painter applies a
+/// [BoxFit.contain] emulating scale + centre transform so wide-aspect
+/// glyphs (the wordmarks shipped in Iconify's `logos` pack) scale down
+/// to fit the requested `size × size`. This is roughly 2× cheaper than
+/// the equivalent Stack of FittedBox(Text) — one render object, one
+/// layer, no widget-tree overhead per layer.
 ///
 /// `iconifyx_core` depends ONLY on `flutter/widgets`; no Material context
 /// is required. Material apps can hand any colour they like down through
@@ -89,6 +92,8 @@ class IconifyIcon extends StatelessWidget {
     final iconTheme = IconTheme.of(context);
     final effectiveSize = size ?? iconTheme.size ?? 24.0;
     final effectiveColor = color ?? iconTheme.color ?? const Color(0xFF000000);
+    final effectiveDir =
+        textDirection ?? Directionality.maybeOf(context) ?? TextDirection.ltr;
 
     final IconData? secondary = icon.secondary;
     final bool paintOrder = icon.isPaintOrderDuotone;
@@ -100,52 +105,137 @@ class IconifyIcon extends StatelessWidget {
       effectiveSecondary = secBase.withValues(alpha: secAlpha);
     }
 
-    Widget layer(IconData data, Color tint) => FittedBox(
-          fit: BoxFit.contain,
-          alignment: Alignment.center,
-          child: Text(
-            String.fromCharCode(data.codePoint),
-            style: TextStyle(
-              inherit: false,
-              color: tint,
-              fontSize: effectiveSize,
-              fontFamily: data.fontFamily,
-              package: data.fontPackage,
-              height: 1.0,
-              leadingDistribution: TextLeadingDistribution.even,
-              shadows: shadows,
-            ),
-            textAlign: TextAlign.center,
-            textDirection: textDirection,
-          ),
-        );
-
-    Widget body;
-    if (secondary == null) {
-      body = layer(icon.primary, effectiveColor);
-    } else {
-      final primaryLayer = layer(icon.primary, effectiveColor);
-      final secondaryLayer = layer(secondary, effectiveSecondary!);
-      body = Stack(
-        fit: StackFit.expand,
-        children: paintOrder
-            // Paint-order: primary = bg (back), secondary = fg (front).
-            // Stack children paint in list order — first is bottom.
-            ? [primaryLayer, secondaryLayer]
-            // Hint-layer / mask-internal: secondary = faded backdrop
-            // (back), primary = solid on top.
-            : [secondaryLayer, primaryLayer],
-      );
-    }
-
     return Semantics(
       label: semanticLabel,
       excludeSemantics: semanticLabel == null,
       child: SizedBox(
         width: effectiveSize,
         height: effectiveSize,
-        child: body,
+        child: CustomPaint(
+          size: Size.square(effectiveSize),
+          painter: _IconifyPainter(
+            primary: icon.primary,
+            secondary: secondary,
+            primaryColor: effectiveColor,
+            secondaryColor: effectiveSecondary,
+            // Paint-order: primary BEHIND, secondary ON TOP.
+            // Else (hint / mask-internal / solo): standard z-order
+            // (secondary BEHIND if present, primary ON TOP).
+            secondaryOnTop: paintOrder,
+            size: effectiveSize,
+            textDirection: effectiveDir,
+            shadows: shadows,
+          ),
+        ),
       ),
     );
   }
+}
+
+/// Paints solo + every duotone flavour in a single render layer.
+///
+/// TextPainters are laid out once in the constructor and reused across
+/// paint() ticks — `shouldRepaint` returns true only when an input
+/// differs, at which point a fresh painter (and fresh TextPainters)
+/// replaces this one. Within paint(), a [BoxFit.contain] scale + centre
+/// transform is applied to fit the glyph's intrinsic ink into the
+/// declared canvas size, matching the wide-glyph fitting that
+/// `IconifyThumb`'s old per-layer FittedBox provided.
+class _IconifyPainter extends CustomPainter {
+  final IconData primary;
+  final IconData? secondary;
+  final Color primaryColor;
+  final Color? secondaryColor;
+  final bool secondaryOnTop;
+  final double size;
+  final TextDirection textDirection;
+  final List<Shadow>? shadows;
+
+  late final TextPainter _primaryTp;
+  late final TextPainter? _secondaryTp;
+
+  _IconifyPainter({
+    required this.primary,
+    required this.secondary,
+    required this.primaryColor,
+    required this.secondaryColor,
+    required this.secondaryOnTop,
+    required this.size,
+    required this.textDirection,
+    this.shadows,
+  }) {
+    _primaryTp = _buildPainter(primary, primaryColor);
+    _primaryTp.layout();
+    final s = secondary;
+    final sc = secondaryColor;
+    if (s != null && sc != null) {
+      final tp = _buildPainter(s, sc);
+      tp.layout();
+      _secondaryTp = tp;
+    } else {
+      _secondaryTp = null;
+    }
+  }
+
+  TextPainter _buildPainter(IconData glyph, Color glyphColor) => TextPainter(
+        text: TextSpan(
+          text: String.fromCharCode(glyph.codePoint),
+          style: TextStyle(
+            inherit: false,
+            color: glyphColor,
+            fontSize: size,
+            fontFamily: glyph.fontFamily,
+            package: glyph.fontPackage,
+            height: 1.0,
+            leadingDistribution: TextLeadingDistribution.even,
+            shadows: shadows,
+          ),
+        ),
+        textDirection: textDirection,
+      );
+
+  @override
+  void paint(Canvas canvas, Size canvasSize) {
+    // BoxFit.contain emulation. Compute the largest scale that keeps both
+    // glyphs inside canvasSize (preserving aspect), then centre.
+    final double maxGlyphW = math.max(
+      _primaryTp.width,
+      _secondaryTp?.width ?? 0,
+    );
+    final double maxGlyphH = math.max(
+      _primaryTp.height,
+      _secondaryTp?.height ?? 0,
+    );
+    if (maxGlyphW <= 0 || maxGlyphH <= 0) return;
+    final double scaleX = canvasSize.width / maxGlyphW;
+    final double scaleY = canvasSize.height / maxGlyphH;
+    final double scale = math.min(scaleX, scaleY);
+    final double dx = (canvasSize.width - maxGlyphW * scale) / 2;
+    final double dy = (canvasSize.height - maxGlyphH * scale) / 2;
+
+    canvas.save();
+    canvas.translate(dx, dy);
+    if (scale != 1.0) canvas.scale(scale);
+
+    final sTp = _secondaryTp;
+    if (sTp != null && secondaryOnTop) {
+      _primaryTp.paint(canvas, Offset.zero);
+      sTp.paint(canvas, Offset.zero);
+    } else {
+      if (sTp != null) sTp.paint(canvas, Offset.zero);
+      _primaryTp.paint(canvas, Offset.zero);
+    }
+    canvas.restore();
+  }
+
+  @override
+  bool shouldRepaint(_IconifyPainter old) =>
+      old.primary != primary ||
+      old.secondary != secondary ||
+      old.primaryColor != primaryColor ||
+      old.secondaryColor != secondaryColor ||
+      old.secondaryOnTop != secondaryOnTop ||
+      old.size != size ||
+      old.textDirection != textDirection ||
+      old.shadows != shadows;
 }
