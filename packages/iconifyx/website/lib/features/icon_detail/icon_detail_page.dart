@@ -206,20 +206,36 @@ class _CrumbLink extends StatelessWidget {
   }
 }
 
-class _PreviewCard extends StatelessWidget {
+class _PreviewCard extends StatefulWidget {
   const _PreviewCard({required this.record, required this.pack});
   final IconRecord record;
   final PackSummary pack;
 
+  @override
+  State<_PreviewCard> createState() => _PreviewCardState();
+}
+
+class _PreviewCardState extends State<_PreviewCard> {
   static const _sizes = [16, 20, 24, 32, 48];
+
+  // Per-icon debug controls (independent of the pack-level sidebar in
+  // pack_detail_page). Default primary = theme ink, secondary = black,
+  // swap layers = off — matches the rest of the website's defaults.
+  Color? _primaryColor;
+  Color? _secondaryColor;
+  bool _swapLayers = false;
 
   @override
   Widget build(BuildContext context) {
+    final record = widget.record;
+    final pack = widget.pack;
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final paper = isDark ? AppTheme.paperDark : AppTheme.paper;
     final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    final effectivePrimary = _primaryColor ?? ink;
+    final effectiveSecondary = _secondaryColor ?? const Color(0xFF000000);
     return Container(
       padding: const EdgeInsets.all(48),
       decoration: BoxDecoration(
@@ -233,20 +249,36 @@ class _PreviewCard extends StatelessWidget {
           _SideBySidePreview(
             record: record,
             paperBg: paper,
-            ink: ink,
+            ink: effectivePrimary,
             muted: muted,
+            secondaryColor: effectiveSecondary,
+            swapLayers: _swapLayers,
           ),
           // Per-layer debug strip — only meaningful for duotone icons.
-          // Shows primary, secondary, both-via-IconifyIcon. Lets us see
-          // whether the secondary font/glyph renders ALONE (i.e. font is
-          // loaded + Text widget paints it correctly), and how it
-          // combines via IconifyIcon's Stack.
           if (record.duotone) ...[
             const SizedBox(height: 16),
             _DuotoneLayerDebugStrip(
               record: record,
-              ink: ink,
+              ink: effectivePrimary,
               paper: paper,
+              muted: muted,
+              secondaryColor: effectiveSecondary,
+              swapLayers: _swapLayers,
+            ),
+          ],
+          // Per-icon debug controls — independent of the pack-level
+          // sidebar. Let the user spin primary / secondary colour and
+          // swap layers per icon without affecting the grid.
+          if (record.duotone) ...[
+            const SizedBox(height: 16),
+            _PerIconControls(
+              primaryColor: _primaryColor,
+              onPrimaryColor: (c) => setState(() => _primaryColor = c),
+              secondaryColor: _secondaryColor,
+              onSecondaryColor: (c) => setState(() => _secondaryColor = c),
+              swapLayers: _swapLayers,
+              onSwapLayers: (v) => setState(() => _swapLayers = v),
+              ink: ink,
               muted: muted,
             ),
           ],
@@ -282,13 +314,9 @@ class _PreviewCard extends StatelessWidget {
                       child: IconifyThumb(
                         record.toIconifyData(),
                         size: s.toDouble(),
-                        color: ink,
-                        // Default secondary = black. The previous paper-
-                        // colour default made the foreground letterform
-                        // bleed into the page background where the glyph
-                        // touched the tile edge — looked like a render
-                        // bug rather than a knockout.
-                        secondaryColor: const Color(0xFF000000),
+                        color: effectivePrimary,
+                        secondaryColor: effectiveSecondary,
+                        swapLayers: _swapLayers,
                       ),
                     ),
                     const SizedBox(height: 6),
@@ -369,19 +397,29 @@ class _DuotoneLayerDebugStrip extends StatelessWidget {
     required this.ink,
     required this.paper,
     required this.muted,
+    required this.secondaryColor,
+    required this.swapLayers,
   });
 
   final IconRecord record;
   final Color ink;
   final Color paper;
   final Color muted;
+  final Color secondaryColor;
+  final bool swapLayers;
 
   static const _tileSize = 88.0;
   static const _iconSize = 64.0;
 
   @override
   Widget build(BuildContext context) {
-    final data = record.toIconifyData();
+    final rawData = record.toIconifyData();
+    // Apply swap toggle so the debug strip mirrors what the main preview
+    // shows. Composed tile sees the swapped form via IconifyIcon directly.
+    final data = (swapLayers && rawData.secondary != null)
+        ? IconifyIconData.duo(rawData.secondary!, rawData.primary,
+            kind: rawData.kind)
+        : rawData;
     final primaryIcon = data.primary;
     final secondaryIcon = data.secondary;
     final kindLabel = switch (data.kind) {
@@ -450,12 +488,142 @@ class _DuotoneLayerDebugStrip extends StatelessWidget {
                 data,
                 size: _iconSize,
                 color: ink,
-                secondaryColor: const Color(0xFF000000),
+                secondaryColor: secondaryColor,
               ),
             ),
           ],
         ),
       ],
+    );
+  }
+}
+
+/// Per-icon debug controls — primary / secondary colour swatches + swap
+/// layers toggle. Lives inside [_PreviewCard] for paint-order / duotone
+/// inspection without affecting the rest of the pack grid. Independent
+/// of the pack-detail sidebar.
+class _PerIconControls extends StatelessWidget {
+  const _PerIconControls({
+    required this.primaryColor,
+    required this.onPrimaryColor,
+    required this.secondaryColor,
+    required this.onSecondaryColor,
+    required this.swapLayers,
+    required this.onSwapLayers,
+    required this.ink,
+    required this.muted,
+  });
+
+  final Color? primaryColor;
+  final ValueChanged<Color?> onPrimaryColor;
+  final Color? secondaryColor;
+  final ValueChanged<Color?> onSecondaryColor;
+  final bool swapLayers;
+  final ValueChanged<bool> onSwapLayers;
+  final Color ink;
+  final Color muted;
+
+  static const _primarySwatches = <Color?>[
+    null,
+    Color(0xFF2563EB),
+    Color(0xFF18C29C),
+    Color(0xFFFF6A3D),
+    Color(0xFFFFC23D),
+    Color(0xFF7C5CFF),
+    Color(0xFFE53935),
+    Color(0xFF111114),
+  ];
+  static const _secondarySwatches = <Color?>[
+    null,
+    Color(0xFFFFFFFF),
+    Color(0xFFF1ECE3),
+    Color(0xFF111114),
+    Color(0xFFFFC23D),
+    Color(0xFF18C29C),
+    Color(0xFF2563EB),
+    Color(0xFFE53935),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    Widget label(String text) => Padding(
+          padding: const EdgeInsets.only(bottom: 4),
+          child: Text(text, style: AppTheme.mono(size: 10, color: muted)),
+        );
+    Widget row(List<Color?> options, Color? selected, ValueChanged<Color?> onTap) =>
+        Wrap(
+          spacing: 6,
+          runSpacing: 6,
+          children: [
+            for (final c in options)
+              _Swatch(
+                color: c ?? ink,
+                selected: selected == c,
+                onTap: () => onTap(c),
+              ),
+          ],
+        );
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+      decoration: BoxDecoration(
+        color: Theme.of(context).colorScheme.surfaceContainerHigh,
+        borderRadius: BorderRadius.circular(10),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          label('PRIMARY COLOR'),
+          row(_primarySwatches, primaryColor, onPrimaryColor),
+          const SizedBox(height: 10),
+          label('SECONDARY COLOR'),
+          row(_secondarySwatches, secondaryColor, onSecondaryColor),
+          const SizedBox(height: 10),
+          label('SWAP LAYERS'),
+          Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Switch.adaptive(value: swapLayers, onChanged: onSwapLayers),
+              const SizedBox(width: 8),
+              Text(swapLayers ? 'on' : 'off',
+                  style: AppTheme.mono(size: 11, color: muted)),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+/// A small square colour swatch used by the per-icon controls. Mirrors
+/// the pack-detail sidebar `_Swatch` but lives here so icon_detail
+/// doesn't have to import private types across files.
+class _Swatch extends StatelessWidget {
+  const _Swatch({
+    required this.color,
+    required this.selected,
+    required this.onTap,
+  });
+
+  final Color color;
+  final bool selected;
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        width: 24,
+        height: 24,
+        decoration: BoxDecoration(
+          color: color,
+          borderRadius: BorderRadius.circular(6),
+          border: Border.all(
+            color: selected ? AppTheme.coral : Theme.of(context).dividerColor,
+            width: selected ? 2 : 1,
+          ),
+        ),
+      ),
     );
   }
 }
@@ -977,12 +1145,16 @@ class _SideBySidePreview extends StatelessWidget {
     required this.paperBg,
     required this.ink,
     required this.muted,
+    required this.secondaryColor,
+    required this.swapLayers,
   });
 
   final IconRecord record;
   final Color paperBg;
   final Color ink;
   final Color muted;
+  final Color secondaryColor;
+  final bool swapLayers;
 
   static const double _tileSize = 200;
   static const double _iconSize = 120;
@@ -1003,10 +1175,8 @@ class _SideBySidePreview extends StatelessWidget {
             record.toIconifyData(),
             size: _iconSize,
             color: ink,
-            // Default secondary = black. Paper / surface colours blended
-            // into the page background where the glyph touched the tile
-            // edge — looked like a render bug rather than a knockout.
-            secondaryColor: const Color(0xFF000000),
+            secondaryColor: secondaryColor,
+            swapLayers: swapLayers,
           ),
         );
         final source = _PreviewTile(
