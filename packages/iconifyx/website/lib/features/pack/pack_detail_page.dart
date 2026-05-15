@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -58,6 +59,13 @@ class _PackDetailPageState extends State<PackDetailPage> {
   // identify which icons would render correctly with the inverse
   // split, then we know how to fix the generator.
   bool _swapLayers = false;
+  // Scroll-end tick — bumped on every `ScrollEndNotification`. `_IconCell`
+  // listens to this via `ValueListenableBuilder` so visible placeholder
+  // cells (rendered as `SizedBox.shrink()` during a fling) re-evaluate
+  // `Scrollable.recommendDeferredLoadingForContext` and paint their icon.
+  // Replaces the old `setState({})` which rebuilt the entire `_LoadedBody`
+  // → `_GridContent` tree and re-ran `_applyFilters(15k)` per fling stop.
+  final ValueNotifier<int> _scrollEndTick = ValueNotifier(0);
 
   @override
   void initState() {
@@ -71,6 +79,7 @@ class _PackDetailPageState extends State<PackDetailPage> {
   void dispose() {
     widget.route.queryNotifier.removeListener(_onQueriesChanged);
     _filterController.dispose();
+    _scrollEndTick.dispose();
     super.dispose();
   }
 
@@ -167,17 +176,13 @@ class _PackDetailPageState extends State<PackDetailPage> {
 
   /// When a fling/scroll ends we want cells that rendered as placeholders
   /// (because `Scrollable.recommendDeferredLoadingForContext` was true) to
-  /// finally paint their icon. The simplest trigger is a top-level rebuild
-  /// gated by a ScrollEndNotification listener — the rebuild is cheap (the
-  /// outer LayoutBuilder + `_GridContent` + `_applyFilters` all early-out on
-  /// equal inputs) and gives the currently-mounted cells a fresh build pass
-  /// where `recommendDeferredLoading` is now false → icons paint.
+  /// finally paint their icon. Bump the `_scrollEndTick` notifier — only
+  /// `_IconCell` listens to it, so the rebuild is scoped to the per-cell
+  /// `ValueListenableBuilder` body. No top-level setState, no
+  /// `_LoadedBody.build`, no `_applyFilters(15k)` per fling stop.
   bool _onScrollNotification(ScrollNotification n) {
     if (n is ScrollEndNotification) {
-      // ignore: avoid_print
-      // Causes _LoadedBody → _GridContent → SliverChildBuilderDelegate to
-      // rebuild and re-evaluate the deferred check.
-      setState(() {});
+      _scrollEndTick.value = _scrollEndTick.value + 1;
     }
     return false;
   }
@@ -278,6 +283,7 @@ class _LoadedBody extends StatelessWidget {
           surfaceForKnockout:
               page._iconSecondaryColor ?? const Color(0xFF000000),
           swapLayers: page._swapLayers,
+          scrollEndTick: page._scrollEndTick,
         );
 
         final sidebar = route.selectorBuilder<String?>(
@@ -434,6 +440,7 @@ class _CellPalette {
     required this.iconRenderSize,
     required this.surfaceForKnockout,
     required this.swapLayers,
+    required this.scrollEndTick,
   });
   final Color card;
   final Color rule;
@@ -455,6 +462,11 @@ class _CellPalette {
   /// which reconstructs an `IconifyIconData` with the IconDatas swapped
   /// (kind preserved). Off by default.
   final bool swapLayers;
+  /// Notifier bumped on every `ScrollEndNotification`. `_IconCell` listens
+  /// via `ValueListenableBuilder` so visible placeholder cells re-evaluate
+  /// `Scrollable.recommendDeferredLoadingForContext` and paint their icon
+  /// — without rebuilding the whole grid (`_applyFilters(15k)` skipped).
+  final ValueListenable<int> scrollEndTick;
 }
 
 class _GridContent extends StatelessWidget {
@@ -524,15 +536,14 @@ class _IconCell extends StatelessWidget {
   Widget build(BuildContext context) {
     // During fast scroll the engine reports `recommendDeferredLoading`. Skip
     // the IconifyIcon paint and only render the cell chrome (box + label);
-    // when scroll velocity drops below the threshold and any new cell enters
-    // the viewport, that cell renders the icon normally on the next build.
+    // when scroll velocity drops below the threshold the parent bumps
+    // `palette.scrollEndTick` and the inner `ValueListenableBuilder` re-
+    // evaluates the deferred check, so the icon paints.
     //
     // The previous side-by-side comparison with `SvgPicture.network` against
     // api.iconify.design was removed — paint-order duotones now render
     // correctly via `IconifyIcon`'s native composition (palette.surface
     // ForKnockout knocks out the foreground letterform). See §23 #1.
-    final deferred = Scrollable.recommendDeferredLoadingForContext(context);
-    final iconData = deferred ? null : record.toIconifyData();
     return HoverBuilder(
       onTap: () => appCoordinator.push(
         IconDetailRoute(prefix: record.prefix, name: record.name),
@@ -551,15 +562,25 @@ class _IconCell extends StatelessWidget {
             children: [
               Expanded(
                 child: Center(
-                  child: iconData == null
-                      ? const SizedBox.shrink()
-                      : IconifyThumb(
-                          iconData,
-                          size: palette.iconRenderSize,
-                          color: accent,
-                          secondaryColor: palette.surfaceForKnockout,
-                          swapLayers: palette.swapLayers,
-                        ),
+                  // Scoped rebuild: only the icon Center body re-runs when
+                  // scrolling stops; the surrounding HoverBuilder, Container,
+                  // and label below stay put. Cheap enough that the parent
+                  // no longer needs to setState the whole _LoadedBody.
+                  child: ValueListenableBuilder<int>(
+                    valueListenable: palette.scrollEndTick,
+                    builder: (cellCtx, _, __) {
+                      final deferred = Scrollable
+                          .recommendDeferredLoadingForContext(cellCtx);
+                      if (deferred) return const SizedBox.shrink();
+                      return IconifyThumb(
+                        record.toIconifyData(),
+                        size: palette.iconRenderSize,
+                        color: accent,
+                        secondaryColor: palette.surfaceForKnockout,
+                        swapLayers: palette.swapLayers,
+                      );
+                    },
+                  ),
                 ),
               ),
               const SizedBox(height: 4),
