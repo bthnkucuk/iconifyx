@@ -63,6 +63,7 @@ import { writeCoverageReport } from './coverage_report.ts';
 import { writeStrokeAudit } from './stroke_audit.ts';
 import type { AuditEntry } from './stroke_audit.ts';
 import { verifyFontsAgainstManifests } from './font_verify.ts';
+import { getCacheStats, resetCacheStats } from './ttf_cache.ts';
 import {
   setPackageDir,
   setPackageFontsDir,
@@ -88,6 +89,11 @@ export interface PipelineOptions {
   skipMeta?: boolean;
   /** Run a smoke set: instead of all sets, only this small list. */
   smokeOnly?: string[];
+  /**
+   * When false, bypass the per-font TTF cache (always rebuild every TTF).
+   * Wired via the CLI `--no-cache` flag. Defaults to true.
+   */
+  cacheEnabled?: boolean;
 }
 
 /**
@@ -140,6 +146,12 @@ const rasterFillSignalCache = new Map<string, RasterFillAuditEntry>();
 export async function runPipeline(options: PipelineOptions = {}): Promise<void> {
   const concurrency =
     options.concurrency ?? Math.min(8, navigator.hardwareConcurrency || 4);
+  const cacheEnabled = options.cacheEnabled ?? true;
+
+  resetCacheStats();
+  if (!cacheEnabled) {
+    log.info('TTF cache: DISABLED (--no-cache)');
+  }
 
   log.step('Loading @iconify/json');
   const [collections, iconifyVersion, config] = await Promise.all([
@@ -206,7 +218,8 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
             prefix,
             collections[prefix]!,
             iconifyVersion,
-            config
+            config,
+            cacheEnabled
           );
           results.push(result);
         } catch (err) {
@@ -307,6 +320,16 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
   log.step('Verifying fonts against manifests');
   await verifyFontsAgainstManifests(allManifests);
 
+  const cs = getCacheStats();
+  const total = cs.hits + cs.misses;
+  if (total > 0) {
+    const hitPct = ((cs.hits / total) * 100).toFixed(0);
+    const mb = (cs.bytesReused / (1024 * 1024)).toFixed(1);
+    log.info(
+      `TTF cache: ${cs.hits} hit / ${cs.misses} miss (${hitPct}% hit rate, ${mb} MB reused)`
+    );
+  }
+
   log.success('All artifacts written.');
 }
 
@@ -314,7 +337,8 @@ async function processOneSet(
   prefix: string,
   collectionInfo: IconifyCollection,
   iconifyVersion: string,
-  config: Awaited<ReturnType<typeof loadConfig>>
+  config: Awaited<ReturnType<typeof loadConfig>>,
+  cacheEnabled: boolean
 ): Promise<{
   prefix: string;
   manifest: Manifest;
@@ -761,6 +785,7 @@ async function processOneSet(
     resolvedByName,
     secondaryByName,
     onGlyphDropped: (name) => droppedDuringBuild.add(name),
+    cacheEnabled,
   });
   if (droppedDuringBuild.size > 0) {
     const today = new Date().toISOString().slice(0, 10);

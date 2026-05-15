@@ -6,6 +6,7 @@ import type { Manifest, ManifestFontEntry } from './manifest.ts';
 import type { ResolvedIcon } from './load_iconify.ts';
 import { iconToSvg } from './svg_preprocess.ts';
 import { log } from './log.ts';
+import { withTtfCache } from './ttf_cache.ts';
 
 /**
  * Build one TTF per font entry in the manifest. Each entry contains a list of
@@ -29,12 +30,31 @@ export interface FontBuildInput {
   secondaryByName?: Map<string, ResolvedIcon>;
   /** Called for each glyph dropped during build (post-validation failure). */
   onGlyphDropped?: (iconName: string, reason: string) => void;
+  /**
+   * When false, bypass the per-font TTF cache (always rebuild). Defaults to
+   * true. Wired up via the `--no-cache` CLI flag for testing determinism
+   * after a code change in the build chain.
+   *
+   * Note: on a cache HIT the `onGlyphDropped` callback is NOT invoked for
+   * any glyphs that previously needed dropping. That's correct — those
+   * drops are already encoded in `manifest.icons[name].deprecated`, which
+   * was persisted by the run that originally produced the cached TTF.
+   * The cache only short-circuits the byte-production step; the manifest
+   * still drives what's in the font.
+   */
+  cacheEnabled?: boolean;
 }
 
 export async function buildFonts(
   input: FontBuildInput
 ): Promise<Map<string, Buffer>> {
-  const { manifest, resolvedByName, secondaryByName, onGlyphDropped } = input;
+  const {
+    manifest,
+    resolvedByName,
+    secondaryByName,
+    onGlyphDropped,
+    cacheEnabled = true,
+  } = input;
 
   const fontsByName = new Map<string, Buffer>();
 
@@ -62,11 +82,13 @@ export async function buildFonts(
       ? (secondaryByName ?? new Map<string, ResolvedIcon>())
       : resolvedByName;
 
-    const ttf = await buildOneFontWithRetry(
-      fontEntry,
-      members,
-      bodySource,
-      onGlyphDropped
+    // Wrap the (potentially expensive) build in the per-font TTF cache.
+    // On a cache hit the underlying svgicons2svgfont + svg2ttf chain is
+    // skipped entirely — typical warm regen saves ~30-50 s. See ttf_cache.ts.
+    const ttf = await withTtfCache(
+      { fontEntry, members, resolvedByName: bodySource },
+      () => buildOneFontWithRetry(fontEntry, members, bodySource, onGlyphDropped),
+      { enabled: cacheEnabled }
     );
     if (ttf !== null) fontsByName.set(fontEntry.family, ttf);
   }
