@@ -3140,6 +3140,581 @@ real value.**
 
 ---
 
+## §28 — Multi-pack tree-shake: EMPIRICAL findings + invariant correction
+
+**Verdict: CLAUDE.md §1 invariant claim is OVERSTATED. Tree-shake
+works at the glyph level — the sibling TTF containing a referenced
+codepoint shrinks to ~700-1 000 B. BUT every OTHER sibling TTF in
+the same auto-split pack ships at FULL SIZE because Flutter's
+bundler has no "drop empty TTF" step. Net result for the user's
+exact scenario (3 icons from 3 packs: mdi + lucide + tabler):
+12.1 MB shaken vs 15.8 MB unshaken — only 24 % reduction, NOT 99 %.
+Full empirical report at [docs/TREESHAKE_VERIFICATION.md](TREESHAKE_VERIFICATION.md).**
+
+### The user's exact question — measured answer
+
+> "If I use one icon from each of three packs (`MdiIcons.home` +
+> `LucideIcons.search` + `TablerIcons.user`), does my app bundle
+> grow only by those three glyphs?"
+
+**No.** Measured (Flutter 3.41.9 stable via fvm, macOS release build):
+
+| Scenario | TTFs bundled | Total bytes | vs naive 3 × 700 B |
+|---|---|---:|---|
+| With `--tree-shake-icons` | 12 files | **12 640 740 B (12.1 MB)** | **~4 200×** |
+| Without | 12 files | 16 526 756 B (15.8 MB) | — |
+| Naive expectation (3 glyphs) | 3 files | ~3 KB | 1× |
+
+Tree-shake reduces by **24 %**, not 99 %.
+
+### Why — the auto-split sibling-TTF tax
+
+Flutter's `font-subset` runs against the TTF that **contains** the
+referenced `(fontFamily, codepoint)` pair:
+
+- `MdiIcons.home` → codepoint in `Mdi_2.ttf` → that file shrunk to
+  664 B
+- `LucideIcons.search` → codepoint in `Lucide_2.ttf` → shrunk to 848 B
+- `TablerIcons.user` → codepoint in `Tabler_5.ttf` → shrunk to 960 B
+
+Total of the three SUBSET TTFs: ~2.5 KB — matches the naive
+expectation perfectly.
+
+But each pack auto-splits at the 6 000-icon cap (§4 invariant in
+CLAUDE.md):
+- `mdi`: Mdi.ttf (825 KB) + Mdi_2.ttf + Mdi_3.ttf (307 KB)
+- `lucide`: Lucide.ttf (2.5 MB) + Lucide_2.ttf
+- `tabler`: Tabler.ttf + Tabler_2..Tabler_5.ttf + TablerSecondary.ttf
+  (~9 MB combined)
+
+**Every sibling TTF that doesn't hold the referenced codepoint ships
+at FULL SIZE** because:
+1. `pubspec.yaml` declares every sibling as an asset
+2. Flutter's asset bundler ships every declared asset
+3. `font-subset` only RUNS on TTFs holding a referenced codepoint;
+   non-holders are NOT processed at all (not dropped, not subset)
+
+That's the "tax": every additional sibling in a referenced pack
+adds its full size to the bundle.
+
+### Scenarios verified (all pass)
+
+| # | Scenario | Result |
+|---|---|---|
+| 1 | One icon from one pack | ~700 B shrunk file only |
+| 2 | Two icons from same pack | Same shrunk file, slightly larger |
+| 3 | **THE USER'S CASE: 3 icons from 3 packs** | **12.1 MB total — the sibling tax** |
+| 4 | One duotone icon (PhIcons.acornDuotone) | Both Ph.ttf AND PhSecondary.ttf shaken simultaneously ✓ |
+| 5 | 10 icons from 10 packs | Linear scaling on sibling tax |
+| 6 | Indirect const var (`const icon = MdiIcons.home`) | Shakes correctly ✓ |
+| 7 | const list `[MdiIcons.home, ...]` | Shakes correctly ✓ |
+| 8 | Conditional `useHome ? MdiIcons.home : MdiIcons.search` | Both branches survive shake ✓ |
+| 9 | **Programmatic IconData at runtime** | **Build FAILS-FAST**: "This application cannot tree shake icons fonts" — correct protective behavior ✓ |
+
+### CLAUDE.md §1 invariant — what's true vs what was overstated
+
+**HOLDS (extension-type wrapping is tree-shake-transparent)**:
+- const vars trace through the record correctly
+- const lists trace correctly
+- conditional const refs both survive
+- duotone shakes both Primary + Secondary TTFs
+- runtime-constructed `IconData` triggers `font-subset` fail-fast
+  (correct protective behavior)
+
+**OVERSTATED**:
+> §1 wording: "exactly those two sets' fonts (~2 MB pre-shake)"
+
+In reality, only the SINGLE sibling TTF holding the referenced
+codepoint shrinks; OTHER siblings ship full. For tabler that's
+~9 MB of tax per referenced Tabler icon.
+
+### Pack size implications (single-TTF vs multi-split packs)
+
+For users with strict bundle budgets, **prefer single-TTF packs**:
+
+| Single-TTF (entire pack ≤ 6 000 icons, no auto-split) | Multi-split (auto-split sibling tax) |
+|---|---|
+| `iconifyx_carbon` (~750 B per icon bundled) | `iconifyx_tabler` (~9 MB tax) |
+| `iconifyx_heroicons` | `iconifyx_mdi` (~1.1 MB tax) |
+| `iconifyx_feather` | `iconifyx_material_symbols` (multiple variants × split) |
+| `iconifyx_fa6_solid` | `iconifyx_lucide` (~2.5 MB tax) |
+| `iconifyx_octicon` | `iconifyx_solar` |
+| `iconifyx_bi` | `iconifyx_iconoir` |
+
+### Generator-side fix candidates
+
+1. **Popularity-based codepoint allocator** — pack the top N most-
+   commonly-referenced icons (estimated via Iconify search analytics,
+   or via a static "popular subset" list per pack) into the PRIMARY
+   `<Prefix>.ttf`. Common references then avoid the sibling tax.
+   - Cost: ~12 h. Manifest schema gains a `popularitySlot:
+     number` field. Codepoint allocator becomes 2-pass: popular
+     icons fill the primary font first, rest spill into siblings.
+   - Risk: requires upstream "popular icons" data per pack OR
+     a heuristic (e.g. icons with shortest names, icons matching
+     known core icon names like `home/search/user/menu/...`).
+   - Recovery: ~80 % of common single-icon references would hit the
+     primary TTF only.
+
+2. **Sibling-TTF subset emission** — preprocess at build time:
+   for each pack, emit per-app build a single TTF containing
+   ONLY the referenced codepoints. Requires app-level codegen
+   (currently TTF emission happens at package-publish time).
+   - Cost: high (~5 days). Likely impractical without Flutter
+     pipeline hooks.
+
+3. **Document the trade-off** + recommend single-TTF packs in
+   README for bundle-conscious users (cheapest fix; ships docs only).
+
+### Regression suite proposal (extends §16 A5)
+
+CI workflow (scoped to release builds, not every PR):
+
+```yaml
+- name: Tree-shake bundle size regression
+  run: |
+    cd test_apps/three_icon_test
+    fvm flutter build macos --release --tree-shake-icons
+    actual=$(find build/macos -name "*.ttf" -exec stat -f %z {} \; | awk '{s+=$1} END {print s}')
+    baseline=12640740
+    threshold=$((baseline * 110 / 100))  # +10% allowance
+    test "$actual" -le "$threshold" || { echo "Bundle regressed: $actual > $threshold"; exit 1; }
+```
+
+Catches:
+- Accidental `IconifyIconData` class-wrapping regression (would
+  jump to no-shake 15.8 MB)
+- Upstream Iconify pack growth introducing new auto-splits that
+  bloat known scenarios
+
+### What this DOESN'T change
+
+- Per-set-package layout still correct: apps depending only on
+  `iconifyx_mdi` + `iconifyx_lucide` still ship ONLY those two
+  packs' fonts (not every iconifyx pack). The bundle savings are
+  enormous compared to the alternative (depending on the meta
+  `iconifyx` package would ship 43 MB of fonts).
+- Single-pack scenarios are still excellent: one icon from one
+  pack → that pack's single sibling shaken to ~700 B.
+- Tree-shake invariant for the extension type wrapping HOLDS
+  empirically.
+
+### Update CLAUDE.md §1 to reflect reality
+
+Recommended change to the invariant section:
+
+> Tree-shake reduces each referenced TTF to ~700-1 000 bytes
+> (one per `(fontFamily, codepoint)` reference). Auto-split packs
+> ship one full-size TTF per non-referenced sibling — e.g. using
+> `MdiIcons.home` ships Mdi_2.ttf shrunk to ~700 B AND ships
+> Mdi.ttf + Mdi_3.ttf at full size. For strict bundle budgets,
+> prefer single-TTF packs (carbon / heroicons / feather / fa6-solid
+> / octicon / bi).
+
+### Files
+
+- `/Users/obenkucuk/dev/icons/docs/TREESHAKE_VERIFICATION.md` —
+  full empirical report with all 9 scenario byte counts
+- `CLAUDE.md` §1 — needs the wording update above
+- `tools/generator/src/codepoint_allocator.ts` — popularity-based
+  allocation candidate
+- New: `.github/workflows/treeshake-regression.yml` — CI gate
+
+---
+
+## §29 — Research-plan gap audit (meta)
+
+**Verdict: Plan is comprehensive but has TWO STRUCTURAL WEAKNESSES.
+(1) NO MEASUREMENT LAYER — §15 already called this out for §13;
+the same critique applies to §1, §3, §8, §11, §20, §25. (2) NO
+FORMAL API/LIFECYCLE POLICY — invariants live in CLAUDE.md +
+memory entries but no semver / deprecation / breaking-change
+rules exist. Dispatch 3 next-wave agents to close the biggest
+gaps: Agent A (font-builder choice), Agent B (vtracer prototype),
+Agent C (visual-diff Phase 1).**
+
+### Top-5 abstract points blocking implementation
+
+| # | Section | What's abstract | Unblock | Cost |
+|---|---|---|---|---:|
+| 1 | §1 vtracer params | `colorPrecision=6, filterSpeckle=6, layerDifference=24` claimed without prototype on real iconifyx bodies | Stratified-sample run on 500 paint-order-dropped icons at 3 param triples | 12 h |
+| 2 | §3/§8/§20 font builder | opentype.js vs fontTools — three sections recommend differently; never picks one | A/B both subprocess prototypes on 5 known-empty packs; pick by silent-empty count + bundle bytes | 8 h |
+| 3 | §8 picosvg gate | "Eliminates ~70 % retry pain" with no measurement | Write subprocess script; run against current 569 silent empties; count caught | 6 h |
+| 4 | §9 trigram details | "Memory ~5 MB with Bloom-filter OR pack-bucketing" — two designs presented as one | Prototype both on real `icons_index.json`; record (memory, p95 latency, FP rate) | 8 h |
+| 5 | §20 usvg pre-pass | "Supersedes ~50 % of §7" without verifying byte-identical TTF output | Run usvg on 1 000 icons; diff AST vs §7's parseBody; verify byte-identical TTF | 16 h |
+
+### Top unverified claims (need empirical measurement)
+
+| Section | Claim | Verification | Effort |
+|---|---|---|---:|
+| §1 | "~10-14 k icons" recovery via vtracer | Run on 22 k paint-order-dropped, per-pack counts | 10 h |
+| §3 | "569 silent empties across 37 fonts" | Reproduce against current main; cite commit | 0.5 h |
+| §11 | "p95 ~30 ms in WASM" names.bin scan | Bench on M-series + low-end Android Chrome | 4 h |
+| §13 | "120 s → 19 s warm-cache" | §15 already disputes; profile-first delivers ground truth | 0.5 h |
+| §17 | "30-50 s warm" Rust crate | Measure subprocess vs in-process | 8 h |
+| §20 | "~2-4 k icons" via OKLab k-means | Prototype k-means on 3-colour subset vs vtracer | 8 h |
+| §23 | "After ~20 unique packs → ~10 MB font memory + crash" | `performance.measureUserAgentSpecificMemory()` walk-through | 2 h |
+| §26 | "5-7 min on 8-core via p-limit(8)" | Build Phase 1 + time it | 8 h |
+
+### Top conflicts / supersessions
+
+| Conflict | Resolution |
+|---|---|
+| §3 (opentype.js) vs §8 (fontTools) vs §20 (fontTools w/ cu2qu argument) | **Pick fontTools** — §20's cu2qu cubic→quadratic argument is decisive. Edit §3 to "deferred". |
+| §13 (manifest-diff + persistent pool) vs §15 (rejects both) | **§15 supersedes**. Mark §13 inline as superseded. Promote §15's ROI table. |
+| §7 (htmlparser2 AST migration) vs §20 (usvg as pre-pass) | §20 supersedes ~50 % of §7. Decide order: usvg first; cut §7 scope to splitters only. |
+| §17 vs §18 Rust boundary | §17 new crate is high-ROI; §18 rewrite of existing modules low-ROI. Promote the reconciliation paragraph buried at bottom of §18. |
+| §4 (TS render stack) vs §17/§26 (Rust kernel) | Phase 1 TS, migrate to Rust Phase 3 — explicit in §26 but not §4. Cross-link. |
+| §13.x sort `Object.entries` determinism | §15 verified already sorted — REMOVE from §13. |
+| §22 Rec 3 per-pack versioning vs §21 deploy | §21 single workflow; §22 needs per-pack semver + pub.dev publish strategy. **Two separate workflows OR decide not to publish.** |
+| §23 row 1 `SvgPicture.network` removal vs website CLAUDE.md §5 | Re-verify `pack_detail_page.dart:580`. Either fix code or update CLAUDE.md. |
+
+### Mentioned-but-not-investigated (next-wave candidates)
+
+- **FlexSearch via JS interop** (§9, §23) — backup option, never benchmarked
+- **`performance.measureUserAgentSpecificMemory()` + COOP/COEP** — header impact on jsDelivr/iframe embed unspecified
+- **harfbuzzjs / harfbuzz_rs verification** (§8, §17) — proposed twice; never benched against fontkit
+- **`bun:sqlite` cache migration** (§15) — no schema, no migration plan
+- **Service worker strategy** — `--pwa-strategy none` in §21; interaction with `kUseCdn` jsDelivr unspecified
+- **GitHub Actions matrix sharding** (§15 M3) — half a section; warrants its own dive
+- **Catppuccin colour-mapped opt-in** — load-bearing path with no dedicated investigation
+- **`flutter_svg` for color companion packs** (§25) — tree-shake risk flagged, never investigated
+- **Allowlist YAML format** (§26) — schema unspecified
+- **`zenrouter` 2.0.3 upstream PR** (§27) — mentioned, never planned
+
+### Implicit cross-section dependencies (not called out)
+
+- §16 A14 (suspicious-glyph) also requires §3 `deprecatedReason` + §17 tiny-skia (beyond §4)
+- §13/§15 per-font TTF cache requires §16 A10 byte-determinism baseline
+- §11 CDN sharding requires §16 A1 manifest internal-consistency (otherwise sharded JSON ships broken pointers)
+- §9 lazy FontLoader requires §11 names.bin (search-by-trigram doesn't need fonts, grid render does — lazy load order matters)
+- §27 zenrouter fix is prerequisite for §10 selection tray URL share
+- §22 Rec 3 per-pack versioning requires §16 A3 identifier-rename detection (semver bump semantics need a contract)
+- §17 vtracer + §25 approach 4 are the SAME code path — need ordering
+- §7 AST migration requires §5 no-ink predicate as single source of truth
+- §24 PreToolUse hooks need explicit `.claude/settings.json` scope decision
+- §21 deploy day-1 requires §11 phased rollout `kUseCdn` const
+
+### Missing topics — propose §28-§40
+
+| § | Title | Why critical |
+|---|---|---|
+| ✅ §28 | iOS / mobile bundle size budget | (Renumber: now §28 is tree-shake verify; future iOS section needs a different number) — plan is web/macOS-centric; no iOS verification |
+| §30 | Accessibility — `Semantics` + screen reader + RTL | `IconifyIcon` wraps `Semantics` but no `semanticLabel` propagation plan |
+| §31 | i18n — icon name translations + multi-language search | Iconify has CN/JP aliases for some packs; search is ASCII-only |
+| §32 | Dark-mode colour semantics for paint-order duotones | `paintOrderSecondaryFallback = white` is wrong in dark mode; theme-aware default missing |
+| §33 | Generator security + supply-chain | oslllo-svg-fixer runs untrusted SVG through resvg; vtracer pulls prebuilt binary. SBOM + lock-pinning unaddressed |
+| §34 | Deprecation lifecycle / breaking-change policy | §22 Rec 3 introduces semver but no lifecycle. Need public policy |
+| §35 | Onboarding: contributor docs + first-time setup audit | oslllo-svg-fixer requires darwin/linux prebuilts; Windows contributors silently blocked |
+| §36 | `iconifyx_core` + Flutter `final class IconData` migration | Memory entry notes upcoming Flutter change that breaks extension-type representation. **One Flutter release from failing.** |
+| §37 | Cross-platform render parity (web CanvasKit vs iOS/Android/Windows Skia) | TextPainter font-fallback differs; duotone paint-order not verified on iOS |
+| §38 | Hosting cost projection (jsDelivr limits, Pages 100 GB/mo bandwidth) | §11/§12 push to jsDelivr; no projection at 10 k DAU |
+| §39 | Test infrastructure inventory + coverage target | `bun test` mentioned; no coverage report, no missing-tests audit |
+| §40 | `@iconify/json` upstream tracking + auto-PR | Manual `bun update`; no GitHub Action to auto-PR on upstream bumps |
+| §41 | CanvasKit font registry memory-leak post-mortem | §9/§23 mention the bug; no investigation of Flutter upstream patch |
+
+### Next-wave research agents (3) — priorities
+
+**Agent A — Font-builder decision via measurement**
+1. `bun --cpu-profile` baseline cold + warm regen (§15 M1)
+2. Stand up opentype.js AND fontTools (uv subprocess) prototypes
+3. Build 5 most-empty packs (meteocons, devicon, token-branded,
+   logos, lets-icons) through each
+4. Measure: silent empties remaining, post-shake bundle bytes,
+   regen wall-time, cu2qu correctness on logo wordmarks
+5. Pick exactly one; update §3/§8/§20 inline.
+
+**Resolves**: §1 abstract #2; §2 unverified claims §3+§8; conflicts
+§3↔§8↔§20.
+
+**Agent B — vtracer prototype + per-pack recovery**
+1. Wire `@neplex/vectorizer` into standalone CLI
+2. Stratified sample 500 paint-order-dropped across twemoji / noto /
+   fluent-emoji-flat / circle-flags / logos
+3. At 3 parameter triples each, measure §26-style classifier output
+   on traced vs upstream
+4. Output: parameter table, per-pack recovery counts, §25 per-pack
+   policy decision.
+
+**Resolves**: §1 unverified "10-14 k"; §1 abstract #1, #3; §25
+abstract #13.
+
+**Agent C — Visual-diff Phase 1 + suspicious-glyph baseline**
+1. Build §26 Phase 1 rules 1-8 (minimum viable diff)
+2. Curate §16 A14 known-bad set (20 reference PNGs with dHashes)
+3. Run diff full-corpus; record wall-time, bucket sizes,
+   allowlist seed
+4. Commit `goldens.json` + baseline `VISUAL_DIFF.md`
+
+**Resolves**: §4 abstract; §16 A14 abstract; §26 abstract; **enables
+CI gate for everything else**.
+
+### Bottom line
+
+> **If you fix only one thing first: dispatch Agent A.** It
+> collapses §3 + §8 + §20 into one decision, unblocks Agent B
+> (vtracer pipeline needs to know which font builder targets it),
+> and unblocks Agent C (visual diff baseline depends on what the
+> font builder ships).
+
+The plan is comprehensive but needs:
+1. **A measurement layer** — profile-first should be a process rule,
+   not a §-by-§ note.
+2. **A formal API/lifecycle policy** (§34 above) — semver,
+   deprecation, breaking-change rules. §22 Rec 3 needs §34 to be
+   implementable. §36 (`final class IconData`) is one upstream
+   change from breaking everything; nobody owns it.
+
+---
+
+## §30 — Implementation roadmap (waves + critical path + first-PR series)
+
+**Verdict: Ship Wave 1 + Wave 2 in next 3-4 weeks (~50 h, mostly
+trivial PRs). Closes EVERY known correctness bug (§19, §27),
+569 silent empties (§3), 6 new audit reports (§16, §4, §26),
+GitHub Pages live (§21), tree-shake test covers all 225 packs (A5).
+After: Wave 3 (speed) + Wave 4 (recovery) + Wave 6 (web perf) run in
+parallel. SKIP §17 Rust this quarter. SKIP §8 Python toolchain
+unless §3-quick + §4 prove insufficient.**
+
+### The 8 waves (ordered)
+
+**Wave 0 — Profile first (mandatory, ~4-6 h)**
+Per §15 M1: no perf work above this line. Stage-level `console.time`
+in `pipeline.ts:135-302`, `bun --cpu-profile`, per-pack aggregation,
+APFS `existsSync`/`readdir` cost on 43 k-entry `tabler/`. Ship-gate:
+`docs/PROFILE_BASELINE.md` committed.
+
+**Wave 1 — Quick wins + foundations (~22 h, 8 parallel items)**
+
+| § | Task | h |
+|---|---|---:|
+| §19 | Search-trim fix (3 trim deletions + dead code) | 0.5 |
+| §27 | Routing replace-vs-push override | 4 |
+| §3 | Iterate-until-empty rebuild loop | 3 |
+| §5 | Unified `elementHasNoInk` + alpha promotion | 3-4 |
+| §6 | setStrokeWidth proportional + style/group inheritance | 2-3 |
+| §16-A10 | Determinism self-check + `ttfSha256` baseline | 3 |
+| §21 | GitHub Pages deploy workflow | 2-3 |
+| §16-A6 | Duotone primary/secondary sync audit | 1.5 |
+
+All independent. Run as parallel small PRs.
+
+**Wave 2 — Audit infrastructure (~28 h)**
+Builds the EYES before any large refactor.
+
+| § | Task | h |
+|---|---|---:|
+| §16-A1/A2/A3 | Combined `MANIFEST_LINT.md` | 4 |
+| §16-A5 | Per-pack tree-shake automation (rotated sample) | 5 |
+| §16-A8 | Upstream regression detector + `deprecatedReason` | 2 |
+| §4 | Golden file regression (curated 20-icon list) | 2 |
+| §4 | pixelmatch infra + raster64 cache | 6 |
+| §16-A14 | Suspicious-glyph (blob/blank) on §4 raster | 2 |
+| §26 | Visual-diff Phase 1 (rules 1-8 JSONL+MD) | 6-8 |
+
+Inside-wave dep: §4 raster precedes §16-A14 + §26. Otherwise parallel.
+
+**Wave 3 — Speed + cache (~15 h, gated by Wave 0)**
+
+| § | Task | h |
+|---|---|---:|
+| §15 | `Bun.hash` over `crypto.sha1` | 0.5 |
+| §15 | `--skip-meta` dev-mode flag | 1 |
+| §15 | Batched stroke-fill worker (one tempIn across packs) | 2 |
+| §15 | Per-font TTF cache w/ full `iconToSvg` + flags + lib key | 4-5 |
+| §15 | SQLite-backed `.cache/strokefill/` via `bun:sqlite` | 5 |
+| §15 | raster64 cache in same SQLite DB | 2 |
+
+**MUST land Wave 1 §16-A10 first** — cache only safe with byte-
+determinism baseline. **Defer indefinitely**: §13 manifest-diff
+incremental (cross-pack pipeline edits invalidate everything).
+
+**Wave 4 — Coverage recovery (~2-3 wk)**
+
+| § | Task | h |
+|---|---|---:|
+| §14 | Stroke-aware `extractConcretePaints` + shoelace + white-as-FG | 4 |
+| §2 | Area-based duotone tail (overlaps §14) | 3-4 |
+| §20 | `usvg` subprocess normaliser pre-pass | 1.5 d |
+| §1 | vtracer multi-colour worker (panic-bisect borrowed) | 2 d |
+| §25 | Circle-flag silhouette mask-carrier flatten | 3-4 |
+| §20 | OKLab/RGB k-means k=2 for 3-colour bodies | 1 d |
+
+Deps: §14/§2 follow §5; §1 requires Wave 2 §26 to MEASURE quality;
+§25 piggybacks on §14 + §1. Estimated recovery: 2 080 + 8-12 k + 700
++ 2-4 k = **13-19 k of 22 k drop**.
+
+**Wave 5 — Structural / API (~1-2 wk)**
+Order matters — A3 rename-detection MUST be live before alias-split
+lands.
+
+| § | Task | h |
+|---|---|---:|
+| §22 R3 | Per-pack versioning (hash → bump) | 3 |
+| §22 R5 | `PackInfo` (extend `IconSetLicense`) | 2 |
+| §22 R2 | Per-pack category data layer | 4 |
+| §22 R1 | Alias-map split — **gated on A3** | 6 |
+| §22 R4 | Category-meta packages (`iconifyx_logos`, etc.) | 3 |
+
+**Wave 6 — Web app perf (~1 wk, parallel with Wave 4)**
+Generator-independent. Different reviewer track.
+
+| § | Task | h |
+|---|---|---:|
+| §23 #1 | Remove `SvgPicture.network` from `_IconCell` | 1 |
+| §23 #2 | ScrollEndNotification → ValueNotifier | 2 |
+| §23 #3 | Search debounce 60-80 ms | 1 |
+| §23 #4 | `RepaintBoundary` on `_IconCell` | 0.5 |
+| §23 #5 | Hoist `Theme.of` out of `PackTile`/`_PaletteRow` | 1.5 |
+| §9 | `IconifyIcon` `ui.Picture` LRU cache | 3 |
+| §9 | Lazy `FontLoader` per-pack | 1-2 d |
+| §10 | Icon-detail page restructure | 3 |
+| §10 | Selection tray (gated on §27) | 1 d |
+| §12 | `packs.json` CDN single-file | 3-4 |
+| §11 | Per-pack JSON shards + `names.bin` phased rollout | 4-6 d |
+
+**Wave 7 — Deploy + day-2 perf**
+Day-1 = Wave 1 §21 lands. Day-2 = Wave 6 §11/§12 migrate JSON to
+jsDelivr behind `kUseCdn`. Roll forward one phase at a time.
+
+**Wave 8 — Optional / deferred (this quarter: DON'T)**
+- **§17 Rust crate** — 80 % of warm time is non-CPU; only worth
+  Rust for audit primitives AND only if Wave 3+4 leave a ceiling.
+- **§3 opentype.js / §8 fontTools rewrite** — re-evaluate after
+  Wave 1's iterate-until-empty + Wave 2's visual-diff measure
+  silent empties.
+- **§7 htmlparser2 AST** — §20 usvg pre-pass removes ~50 % of
+  motivation; defer.
+- **§8 Python toolchain** — single-toolchain user pref. Skip
+  unless silent-empty count > 100 post-Wave 1.
+- **§6 paper.js stroke→path geometric** — current rasterize-trace
+  is good enough.
+
+### Critical path (5-7 items)
+
+1. **§19 + §27 (today)** — trivial; ship today; unblocks Wave 6 §10
+2. **§16-A10 determinism baseline** — foundation for every cache /
+   rewrite; without it Wave 3 is unverified
+3. **§4 + §26 visual-diff** — project's missing eye. Every recent
+   bug surfaced only via manual website browsing. Replaces ALL
+   manual-spot-check workflows.
+4. **§16-A1/A2/A3/A5/A6/A8 lint suite** — closes silent-fail classes
+   that COVERAGE/STROKE/FONT miss. ~12 h combined.
+5. **§14 stroke-aware paint extraction** — single highest icons/h
+   ratio: 1 300 streamline icons recovered in ~1 h; ~780 more via
+   shoelace
+6. **§1 vtracer multi-colour** — biggest absolute recovery (10-14 k
+   of 22 k drop). Worth its 2 d cost ONLY after §26 can grade
+   output quality.
+7. **§15 per-font TTF cache + SQLite** — only Wave 3 item that
+   survives §15's own scepticism. ~30-50 s warm regen reduction.
+
+NOTE absences: §17 (Rust — too speculative), §22 (structural — QoL),
+§11 (CDN — perf not correctness).
+
+### Anti-sequence (DON'T do these orderings)
+
+1. **DON'T §17 Rust before §15 TS-only** — §18 explicit: 80 % of
+   warm time is non-CPU. Rust pays back ONLY if shipping vtracer +
+   visual-diff in same crate AND §15 plateau is hit. None true today.
+2. **DON'T §22 R1 alias-split before §16-A3 rename-audit** —
+   collision-reshuffle ships silently green locally, breaks in
+   fresh clones.
+3. **DON'T §25 vtracer integration before §16-A14 / §26 visual-diff**
+   — would trade 22 k drops for 14 k blurry blobs with no way to
+   grade.
+4. **DON'T §15 per-font TTF cache before §16-A10 determinism** —
+   cache-key bug ships byte-corrupted TTFs to consumers.
+5. **DON'T §3 opentype.js rewrite before §4 goldens** — curve-
+   conversion regressions would slip through. Iterate-until-empty
+   quick part is fine; the rewrite is the risky part.
+6. **DON'T §11 CDN sharding before §9 lazy FontLoader** — shards
+   reference codepoints in fonts the website doesn't have loaded.
+7. **DON'T §10 selection tray before §27 routing fix** — selection-
+   state-via-URL compounds history pollution.
+8. **DON'T §13 manifest-diff incremental.** §15 rejects it.
+9. **DON'T introduce Python (§8) on day 1.** Single-toolchain pref.
+10. **DON'T merge per-set Dart packages.** Violates CLAUDE.md §6
+    tree-shake invariant.
+
+### First PR series (next 2 weeks, ~40 h across 12 PRs, ≤ 2 h review each)
+
+| # | Title | Files | Risk | Acceptance | h |
+|--:|---|---|:--:|---|---:|
+| 1 | Fix search-bar space-eater bug | `search_page.dart`, `all_packs_page.dart`, `pack_detail_page.dart`, `app_shell_layout.dart` | low | typing `mdi line` → URL `?q=mdi%20line` | 0.5 |
+| 2 | Routing replace-vs-push override in Coordinator | `lib/router/coordinator.dart`, `app_shell_layout.dart:39-44` | medium | back-button after sheet returns to grid; filter keystrokes = 1 history entry | 4 |
+| 3 | Profile baseline (console.time, no code change) | `pipeline.ts`, new `docs/PROFILE_BASELINE.md` | none | stage-level timings committed | 4 |
+| 4 | Iterate-until-empty font rebuild loop | `pipeline.ts`, `font_verify.ts`, `manifest.ts` (`deprecatedReason`) | low | `FONT_AUDIT.md` empties 570 → ~0; manifest byte-stable | 4 |
+| 5 | Unified `elementHasNoInk` predicate + alpha promotion | `svg_preprocess.ts`, tests | low | 6-8 unit tests; full regen produces identical manifest | 4 |
+| 6 | setStrokeWidth proportional scaling | `svg_preprocess.ts` | low | lucide-thin/bold visually consistent across sizes | 3 |
+| 7 | Determinism self-check + `ttfSha256` | new `determinism_check.ts`, `manifest.ts` | low | regen-twice-byte-diff exits 0; sha256 baselines committed | 4 |
+| 8 | `MANIFEST_LINT.md` (A1+A2+A3) | new `manifest_lint.ts` | low | runs every regen; no regressions on current state | 4 |
+| 9 | A5 per-pack tree-shake automation | new `tools/generator/test/shake_probe.test.ts` | low | rotates 1 pack per regen; green local + CI | 5 |
+| 10 | Duotone primary/secondary sync (A6) | `font_verify.ts` | low | new FONT_AUDIT section; 0 half-broken duotones | 1.5 |
+| 11 | Stroke-aware duotone (§14 item 1) | `svg_preprocess.ts`, tests, regen 3 packs | medium | ~1 300 streamline-color flip blob → two-tone | 4 |
+| 12 | GitHub Pages deploy workflow | `.github/workflows/deploy-web.yml` | low | live at `https://Bthn.github.io/icons/` | 2-3 |
+
+PRs 1+2 ship day 1 (correctness, no generator risk).
+PRs 3-7 are Wave 1 foundations.
+PRs 8-10 are Wave 2 audit infrastructure.
+PRs 11-12 are mixed-wave but standalone.
+
+### Risk concentration check
+
+**Wave 4 pile-up**: §1 + §20 + §25 all touch `svg_preprocess.ts` +
+`pipeline.ts`. **Mitigation**: serialise — §14 + §2 first (TS-only,
+lowest risk), then `usvg` pre-pass alone, then vtracer alone, then
+k-means. Each behind a `config.yaml` flag. `VISUAL_DIFF.md` deltas
+reviewed between each.
+
+**Wave 5 pile-up**: §22 R1 + R2 both rewrite `dart_codegen.ts`.
+**Mitigation**: ship R3 (versioning) + R5 (PackInfo) first (no
+codegen tree changes), then R2 (additive new file), then R1
+(riskiest, needs A3 green).
+
+**Wave 3 pile-up**: per-font TTF cache + SQLite migration touch
+`font_builder.ts` + `stroke_fill.ts` simultaneously. **Mitigation**:
+SQLite migration first (no behaviour change, only storage), verify
+with A10 + goldens, THEN cache wrapping.
+
+**Cross-wave**: don't merge Wave 3 + Wave 4 PRs in same week —
+cache-induced bytes drift + new-pipeline-branch behaviour drift
+would be ambiguous.
+
+### Re-research triggers (stop-and-rethink signals)
+
+- **Wave 0**: `svgicons2svgfont` > 60 % of warm time → skip Wave 3
+  caching, jump to §3 opentype.js rewrite. `JSON.stringify(tabler.
+  json)` > 20 % → bespoke streaming serialiser (not in any plan).
+- **Wave 1**: §3 iterate-until-empty drops only < 200 empties → §3
+  structural rewrite climbs priority. §16-A10 surfaces non-
+  determinism TODAY → block Wave 3 until root-caused.
+- **Wave 2**: §26 visual-diff Phase 1 > 12 min wall-clock → jump to
+  §17 Area 2 #2 Rust kernel (the ONLY defensible Rust use-case).
+- **Wave 3**: Per-font TTF cache hit-rate < 50 % on warm regen →
+  cache key is wrong; reprofile, don't ship.
+- **Wave 4**: §1 vtracer output mostly `filled-blob` (> 40 %) at
+  24 px → drop vtracer for emoji, ship only for circle-flags +
+  2-colour residue. §20 `usvg` pre-pass changes > 2 k manifest
+  entries → suspend, audit.
+- **Wave 5**: A5 tree-shake probe fails post-R1 → revert immediately
+  (tree-shake invariant is non-negotiable per CLAUDE.md §1).
+- **Wave 6**: §11 names.bin search latency > 50 ms p95 → keep
+  bundled `icons_index.json` for search, only shard pack-detail.
+- **Hard veto**: re-research if any wave breaches tree-shake
+  invariant, codepoint stability, OR byte-determinism. **Only
+  three veto conditions.**
+
+### Bottom line
+
+Ship Wave 1 + Wave 2 next 3-4 weeks (~50 h, ≤ 2 h per PR). After:
+parallel Wave 3 / 4 / 6 with three independent reviewer tracks.
+Skip §17 Rust this quarter unless §26 visual-diff takes painfully
+long. Skip §8 Python unless §3-quick + §4 prove insufficient.
+
+---
+
 ## Cross-cutting recommendations
 
 ### Tools shortlist (consolidated)
