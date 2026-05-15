@@ -7,22 +7,64 @@ import '../../theme/app_theme.dart';
 import 'hover_box.dart';
 import 'iconify_thumb.dart';
 
+/// Theme-resolved colour bundle for [PackTile]. Resolved ONCE by the parent
+/// (`_AllPacksGridSliver`, `_FeaturedPacksSection`) so each tile's build
+/// path skips the 6× `Theme.of(context)` ternary cascade. For 206 packs in
+/// the masonry sliver this saves repeated InheritedWidget walks on hover /
+/// scroll. See website/CLAUDE.md §4 and RESEARCH_PLAN.md §23 #5.
+class PackTilePalette {
+  const PackTilePalette({
+    required this.card,
+    required this.rule,
+    required this.paper2,
+    required this.ink2,
+    required this.muted,
+    required this.coralSoft,
+    required this.titleStyle,
+  });
+
+  final Color card;
+  final Color rule;
+  final Color paper2;
+  final Color ink2;
+  final Color muted;
+  final Color coralSoft;
+  final TextStyle? titleStyle;
+
+  /// Resolves a palette from the current `Theme` / `AppTheme`. Cheap, but
+  /// call sites should still hoist this out of any builder that runs more
+  /// than once per parent rebuild.
+  factory PackTilePalette.of(BuildContext context) {
+    final theme = Theme.of(context);
+    final isDark = theme.brightness == Brightness.dark;
+    return PackTilePalette(
+      card: isDark ? AppTheme.cardDark : AppTheme.card,
+      rule: isDark ? AppTheme.ruleDark : AppTheme.rule,
+      paper2: isDark ? AppTheme.paper2Dark : AppTheme.paper2,
+      ink2: isDark ? AppTheme.ink2Dark : AppTheme.ink2,
+      muted: isDark ? AppTheme.mutedDark : AppTheme.muted,
+      coralSoft: isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft,
+      titleStyle: theme.textTheme.titleMedium,
+    );
+  }
+}
+
 /// Card used in the all-packs masonry and the home page's featured-packs row.
 /// Square-ish, 4-icon preview at the top, name + meta + count pill below.
 /// Hover lifts the card 2px and outlines in coral.
 class PackTile extends StatelessWidget {
-  const PackTile({super.key, required this.summary});
+  const PackTile({super.key, required this.summary, this.palette});
   final PackSummary summary;
+
+  /// Pre-resolved theme palette. When `null` the tile resolves it from
+  /// `Theme.of(context)` itself — fine for one-off renders, but high-
+  /// volume call sites (masonry sliver, featured grid) should pass a
+  /// palette they computed once.
+  final PackTilePalette? palette;
 
   @override
   Widget build(BuildContext context) {
-    final isDark = Theme.of(context).brightness == Brightness.dark;
-    final card = isDark ? AppTheme.cardDark : AppTheme.card;
-    final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
-    final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
-    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
-    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
+    final p = palette ?? PackTilePalette.of(context);
 
     final samples = [...summary.preview.take(4)];
     while (samples.length < 4 && summary.preview.isNotEmpty) {
@@ -37,9 +79,9 @@ class PackTile extends StatelessWidget {
         offset: Offset(0, hovered ? -2 / 64 : 0),
         child: Container(
           decoration: BoxDecoration(
-            color: card,
+            color: p.card,
             borderRadius: BorderRadius.circular(16),
-            border: Border.all(color: hovered ? AppTheme.coral : rule),
+            border: Border.all(color: hovered ? AppTheme.coral : p.rule),
             boxShadow: hovered
                 ? const [
                     BoxShadow(
@@ -65,10 +107,10 @@ class PackTile extends StatelessWidget {
                         child: i < samples.length
                             ? _SampleCell(
                                 record: samples[i],
-                                bg: i == 0 ? coralSoft : paper2,
-                                color: i == 0 ? AppTheme.coral : ink2,
+                                bg: i == 0 ? p.coralSoft : p.paper2,
+                                color: i == 0 ? AppTheme.coral : p.ink2,
                               )
-                            : _EmptyCell(bg: paper2),
+                            : _EmptyCell(bg: p.paper2),
                       ),
                     ),
                   ],
@@ -83,13 +125,13 @@ class PackTile extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(summary.name,
-                            style: Theme.of(context).textTheme.titleMedium,
+                            style: p.titleStyle,
                             maxLines: 1,
                             overflow: TextOverflow.ellipsis),
                         const SizedBox(height: 2),
                         Text(
                           '${summary.category} · ${summary.license}',
-                          style: TextStyle(fontSize: 12, color: muted),
+                          style: TextStyle(fontSize: 12, color: p.muted),
                           maxLines: 1,
                           overflow: TextOverflow.ellipsis,
                         ),
@@ -101,11 +143,11 @@ class PackTile extends StatelessWidget {
                     padding:
                         const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
                     decoration: BoxDecoration(
-                      color: paper2,
+                      color: p.paper2,
                       borderRadius: BorderRadius.circular(6),
                     ),
                     child: Text(_fmt(summary.iconCount),
-                        style: AppTheme.mono(size: 11, color: ink2)),
+                        style: AppTheme.mono(size: 11, color: p.ink2)),
                   ),
                 ],
               ),

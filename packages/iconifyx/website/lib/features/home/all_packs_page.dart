@@ -338,6 +338,11 @@ List<Widget> _buildPageSlivers({
 }) {
   final isDark = Theme.of(context).brightness == Brightness.dark;
   final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+  // Pre-resolve the PackTile palette ONCE for the masonry sliver below.
+  // Each tile builder then skips its own 6× Theme.of ternary cascade —
+  // matters because the masonry sliver lazily materialises tiles as the
+  // user scrolls, and hover repaints invalidate the tile's subtree.
+  final tilePalette = PackTilePalette.of(context);
   final breadcrumb = Padding(
     padding: const EdgeInsets.fromLTRB(28, 28, 28, 16),
     child: Row(
@@ -405,7 +410,8 @@ List<Widget> _buildPageSlivers({
           mainAxisSpacing: 14,
           crossAxisSpacing: 14,
           childCount: filtered.length,
-          itemBuilder: (context, i) => PackTile(summary: filtered[i]),
+          itemBuilder: (context, i) =>
+              PackTile(summary: filtered[i], palette: tilePalette),
         ),
       ),
   ];

@@ -104,6 +104,9 @@ class _FeaturedPacksSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     if (featured.isEmpty) return const SizedBox.shrink();
+    // Resolve the PackTile palette ONCE per section build so the up-to-4
+    // tiles below don't each repeat the `Theme.of(context)` lookup.
+    final tilePalette = PackTilePalette.of(context);
     return Padding(
       padding: const EdgeInsets.fromLTRB(28, 0, 28, 36),
       child: Column(
@@ -133,7 +136,10 @@ class _FeaturedPacksSection extends StatelessWidget {
                 runSpacing: gap,
                 children: [
                   for (final p in featured.take(4))
-                    SizedBox(width: cellW, child: PackTile(summary: p)),
+                    SizedBox(
+                      width: cellW,
+                      child: PackTile(summary: p, palette: tilePalette),
+                    ),
                 ],
               );
             },
@@ -206,6 +212,11 @@ class _AllPacksGridSliver extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Resolve the PackTile palette ONCE per sliver build (the masonry sliver
+    // doesn't itself rebuild on scroll — only newly-mounted tiles run their
+    // builder). Each tile reuses the palette instead of doing 6× Theme.of
+    // ternaries on every hover. See website/CLAUDE.md §4.
+    final tilePalette = PackTilePalette.of(context);
     return SliverPadding(
       padding: const EdgeInsets.fromLTRB(28, 0, 28, 40),
       sliver: SliverMasonryGrid.count(
@@ -213,7 +224,8 @@ class _AllPacksGridSliver extends StatelessWidget {
         mainAxisSpacing: 14,
         crossAxisSpacing: 14,
         childCount: packs.length,
-        itemBuilder: (context, i) => PackTile(summary: packs[i]),
+        itemBuilder: (context, i) =>
+            PackTile(summary: packs[i], palette: tilePalette),
       ),
     );
   }

@@ -504,6 +504,11 @@ class _Body extends StatelessWidget {
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
     final isEmpty = query.trim().isEmpty;
 
+    // Resolve the palette row colours ONCE per body rebuild. Each
+    // _PaletteRow reads from this record instead of doing 6× isDark
+    // ternaries on every keystroke / hover. See RESEARCH_PLAN.md §23 #5.
+    final rowPalette = _PaletteRowPalette.of(context);
+
     // Build flat list with section headers AND a popular-icons grid in empty
     // state. Section headers are not navigable; rows are.
     final entriesList = <Widget>[];
@@ -541,6 +546,7 @@ class _Body extends StatelessWidget {
           entry: entries[i],
           active: i == activeIndex,
           onTap: () => onActivate(entries[i]),
+          palette: rowPalette,
         ));
       }
     }
@@ -618,6 +624,39 @@ class _SectionTitle extends StatelessWidget {
   }
 }
 
+// ─── Palette row palette ────────────────────────────────────────────────────
+/// Theme-resolved colour bundle for [_PaletteRow]. Computed ONCE in
+/// `_Body.build` so each visible row's build skips the 6× `isDark`
+/// ternary cascade. See website/CLAUDE.md §4 and RESEARCH_PLAN.md §23 #5.
+class _PaletteRowPalette {
+  const _PaletteRowPalette({
+    required this.card,
+    required this.paper2,
+    required this.muted,
+    required this.ink,
+    required this.ink2,
+    required this.coralSoft,
+  });
+  final Color card;
+  final Color paper2;
+  final Color muted;
+  final Color ink;
+  final Color ink2;
+  final Color coralSoft;
+
+  factory _PaletteRowPalette.of(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    return _PaletteRowPalette(
+      card: isDark ? AppTheme.cardDark : AppTheme.card,
+      paper2: isDark ? AppTheme.paper2Dark : AppTheme.paper2,
+      muted: isDark ? AppTheme.mutedDark : AppTheme.muted,
+      ink: isDark ? AppTheme.inkDark : AppTheme.ink,
+      ink2: isDark ? AppTheme.ink2Dark : AppTheme.ink2,
+      coralSoft: isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft,
+    );
+  }
+}
+
 // ─── Palette row (Mix-powered, no setState on hover) ────────────────────────
 class _PaletteRow extends StatelessWidget {
   const _PaletteRow({
@@ -625,33 +664,28 @@ class _PaletteRow extends StatelessWidget {
     required this.entry,
     required this.active,
     required this.onTap,
+    required this.palette,
   });
   final _Entry entry;
   final bool active;
   final VoidCallback onTap;
+  final _PaletteRowPalette palette;
 
   @override
   Widget build(BuildContext context) {
-    final isDark = Theme.of(context).brightness == Brightness.dark;
-    final card = isDark ? AppTheme.cardDark : AppTheme.card;
-    final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
-    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
-    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
-    final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-
     // Active (keyboard nav) is pre-painted; mouse hover is handled INSIDE the
     // HoverBuilder via an oref signal so it only rebuilds this row's subtree.
     return HoverBuilder(
       onTap: onTap,
       builder: (ctx, hovered) {
         final showCoral = active || hovered;
-        final bg = showCoral ? coralSoft : Colors.transparent;
-        final fg = showCoral ? AppTheme.coral : ink;
-        final subFg =
-            showCoral ? AppTheme.coral.withValues(alpha: 0.8) : muted;
-        final leadingBg = showCoral ? card : paper2;
-        final leadingFg = showCoral ? AppTheme.coral : ink2;
+        final bg = showCoral ? palette.coralSoft : Colors.transparent;
+        final fg = showCoral ? AppTheme.coral : palette.ink;
+        final subFg = showCoral
+            ? AppTheme.coral.withValues(alpha: 0.8)
+            : palette.muted;
+        final leadingBg = showCoral ? palette.card : palette.paper2;
+        final leadingFg = showCoral ? AppTheme.coral : palette.ink2;
         return AnimatedContainer(
           duration: const Duration(milliseconds: 90),
           padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 9),
