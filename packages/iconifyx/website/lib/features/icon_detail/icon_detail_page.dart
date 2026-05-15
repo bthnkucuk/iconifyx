@@ -10,6 +10,7 @@ import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
+import '../../shared/iconify_svg_url.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/iconify_thumb.dart';
 import '../../theme/app_theme.dart';
@@ -810,21 +811,8 @@ Future<void> _shareUrl(BuildContext context, IconRecord r) async {
   }
 }
 
-String _iconifySvgUrl(IconRecord r) =>
-    'https://api.iconify.design/${r.prefix}/${r.name}.svg';
-
-/// Iconify CDN URL with an explicit color so monochrome icons (whose paths
-/// use `currentColor`) render in the requested tint instead of fallback
-/// black. Multi-color icons (`logos`, color emojis) ignore the `color`
-/// query param and keep their own palette.
-String _iconifySvgUrlTinted(IconRecord r, Color tint) {
-  final argb = tint.toARGB32();
-  final hex = (argb & 0xFFFFFF).toRadixString(16).padLeft(6, '0');
-  return 'https://api.iconify.design/${r.prefix}/${r.name}.svg?color=%23$hex';
-}
-
 Future<void> _reportDefect(BuildContext context, IconRecord r) async {
-  final iconifyUrl = _iconifySvgUrl(r);
+  final iconifyUrl = iconifySvgUrl(r);
   final title = 'Icon defect: ${r.prefix}/${r.name}';
   final body = '''
 Pack: ${r.prefix}
@@ -892,7 +880,7 @@ class _SideBySidePreview extends StatelessWidget {
           ink: ink,
           size: _tileSize,
           child: _IconifySourcePreview(
-              url: _iconifySvgUrlTinted(record, ink),
+              url: iconifySvgUrlTinted(record, ink),
               size: _iconSize,
               muted: muted),
         );
@@ -959,7 +947,7 @@ class _PreviewTile extends StatelessWidget {
 
 /// Renders the raw Iconify CDN SVG at the given size. Color resolution is
 /// done server-side via the URL's `?color=` query (see
-/// [_iconifySvgUrlTinted]) so multi-color sets (`logos`, color emojis) keep
+/// [iconifySvgUrlTinted]) so multi-color sets (`logos`, color emojis) keep
 /// their native palette while monochrome icons honour the requested tint.
 class _IconifySourcePreview extends StatelessWidget {
   const _IconifySourcePreview({

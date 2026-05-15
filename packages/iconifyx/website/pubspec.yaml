@@ -479,6 +479,7 @@ dependencies:
   # runtime gstatic.com fetches were crashing CanvasKit on web; we ship
   # Plus Jakarta Sans + JetBrains Mono as static assets instead.
   stupid_simple_sheet: ^0.9.1
+  flutter_svg: ^2.3.0
 
 dev_dependencies:
   flutter_test:
