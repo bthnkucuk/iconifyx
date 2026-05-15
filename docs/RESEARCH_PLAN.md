@@ -4347,11 +4347,33 @@ Most of the agents' recommendations BUILD on top of these.
 
 ---
 
-## §33 — OPEN: Solar/Phosphor duotone alignment bug + audit-infra litmus test
+## §33 — ✅ RESOLVED: Solar/Phosphor duotone alignment bug + audit-infra litmus test
 
-> 🚧 **STATUS: OPEN — 5 parallel agents dispatched 2026-05-16
-> investigating both the fix AND why our audit infrastructure didn't
-> surface this earlier.**
+> ✅ **STATUS: RESOLVED 2026-05-16 (user-verified).** Root cause
+> identified by parallel-agent investigation (a3b2cc0b
+> glyph-metrics audit caught the metric-frame mismatch; adfadae8
+> paint-algo review independently exonerated the widget). Fix
+> shipped: every emitted TTF now passes through
+> `canonicalize_ttf.py` post-process, forcing identical 1000-em-quad
+> metric tables on primary AND secondary fonts. Pre-fix: 1/295 TTF
+> canonical → post-fix: **295/295 canonical**. Companion clamp-BoxFit
+> in `_IconifyPainter.paint` preserves wide-glyph logos wordmark
+> support without re-introducing the previous up-scale regression.
+
+### One-paragraph fix summary
+
+`svg2ttf` recomputes `head` / `hhea` / `OS/2` from the union of actual
+glyph extents on save, leaving every pack and every tier (primary vs
+secondary) at a subtly different metric frame. Flutter's `TextPainter`
+reads those tables for line-height + glyph paint origin, so duotone
+primary + secondary TTFs ended up rendering in mismatched reference
+frames — visible as Solar `add-circle-bold-duotone`'s "halka
+left-shifted, artı pinned to halka's left edge" alignment. Forcing
+identical canonical 1000-em-quad metric tables on every emitted TTF
+aligns the layers by construction. The key implementation detail
+that wasn't obvious upfront: fontTools requires `recalcBBoxes=False`
+on the `TTFont` *constructor* (not on `save()`) for the canonical
+enforcement to survive serialization.
 
 ### The user-visible bug
 
