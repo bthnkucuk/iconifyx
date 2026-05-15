@@ -932,6 +932,113 @@ fallback).
 
 ---
 
+## §13 — Generator + audit speed (regen 120s → 30s)
+
+**Verdict: Adopt manifest-diff incremental + per-font TTF cache +
+persistent subprocess pool + tiered raster diff.**
+
+Current warm-cache regen is ~120 s. The `.cache/strokefill/` is already
+1.4 GB (Tabler 174 MB, Arcticons 168 MB) — so cache HITS dominate,
+meaning the ~120 s is mostly per-glyph I/O + svgicons2svgfont +
+meta/audit emit, NOT trace work. Different bottlenecks than expected.
+
+### Top 3 changes
+
+1. **Manifest-diff incremental mode + per-font TTF cache** (~6-8 h
+   implementation) — biggest ROI by far.
+
+   - `--incremental` flag: hash each pack's raw `@iconify/json` body.
+     If `(packHash, generatorGitSha)` matches the last snapshot, SKIP
+     the pack entirely. Copy results from `manifests/.last/<prefix>.
+     {json,ttfs.tar,dart}`.
+   - Per-font TTF cache keyed by `sha1(sortedMembers + bodyHashes +
+     svgicons2svgfont version + svg2ttf version + flags)`. Currently
+     `font_builder.ts` rebuilds every TTF every run (~5 s). With cache,
+     most fonts byte-identical → 0 ms.
+   - **Δ saved**: ~60 s on a typical iconify bump (touches <20 % of
+     packs); ~100 s on no-source-change reruns.
+
+2. **Persistent subprocess pool** (~4 h)
+
+   Replace per-pack `Bun.spawn` startup (~500 ms × pack) with a
+   persistent worker pool that holds resvg + Potrace + svgicons2svgfont
+   resident. New `tools/generator/src/pool.ts` exposes
+   `class WorkerPool { send(task): Promise<result> }`. Each worker reads
+   JSON-line tasks on stdin / writes results on stdout.
+
+   - **Δ saved**: ~25 s on cold cache, ~5 s warm.
+   - Also unblocks dedicated diff-worker pool (item 3) without
+     competing for build slots.
+
+3. **Raster64 cache + tiered hash-then-pixelmatch visual diff** (~10 h)
+
+   For the visual-regression audit (§4):
+   - First pass: rasterize source SVG to 64×64 grayscale (~6 ms/icon),
+     cache at `.cache/raster64/<prefix>/<sha1>.bin` (4 KB/icon raw,
+     ~700 MB total full cache).
+   - Diff loop: `sha1(raster64)` hash-compare against committed baseline
+     in `.cache/raster64/baseline.tar.zst` (separate
+     `audit-baselines` branch via GH Actions).
+   - Only icons with hash drift run pixelmatch at 128×128 (~1 ms each).
+   - ~95 % short-circuit on typical regen.
+   - **Δ**: visual-diff lands at ~12 s instead of ~250 s. Net new audit
+     capability, not just speedup.
+
+### Other recommendations (lower priority)
+
+- **Per-icon preprocessed-body cache** (~2-3 h):
+  `.cache/preproc/<prefix>/<sha1(rawBody)>.json` stores
+  `{body, duotoneKind?, secondaryBody?, droppedReason?}`. Today every
+  regen re-runs duotone splits + animation flatten + color-map
+  normalize. Δ ~3 s.
+- **CI runner upgrade**: `ubuntu-latest-large` (4-core, ~$0.024/min) +
+  `actions/cache` on `bun.lockb`. Δ ~20 s cold.
+- **Worker concurrency bump on CI**: `cpuCount × 1.5` workers (peak RSS
+  ~800 MB on 7 GB runner). Δ ~10 s.
+- **Determinism guard**: sort `Object.entries(manifest.icons)` keys
+  before iteration in `font_builder.ts:52` (currently relies on
+  undocumented JSON.parse insertion order). Lock down output
+  determinism with `ttfSha256` checked into manifest.
+
+### Final budget projection
+
+With items 1+2+3 landed:
+- Load: 1 s
+- Skip unchanged packs: 5 s
+- Audit emit: 8 s
+- Meta + website codegen: 3 s
+- Font verification: 2 s
+- **Total warm-cache: ~19 s** (down from ~120 s)
+- Plus visual-diff audit on top: ~12 s
+- **Grand total: ~31 s with full audit** (under 60 s target)
+
+### Reject
+
+- `worker_threads`: oslllo-svg2 / Potrace are CJS with side-effects;
+  porting friction without upside vs subprocess pool.
+- Rust orchestrator: 2-4 weeks for ~10 s gain. Defer until JS plateau.
+- GPU rasterize: resvg is CPU-only; Skia native deps add 30 MB.
+- svgicons2svgfont split-and-merge: 2-3 days for ~1.5 s win on largest
+  pack only. Wait for per-font cache instead.
+- Bun bytecode / hot / isolates: experimental, no batch-pipeline win.
+- mise: slower cold than setup-bun for our use.
+
+**Files:** `tools/generator/src/pool.ts` (new),
+`tools/generator/src/cache_keys.ts` (new),
+`tools/generator/src/incremental.ts` (new),
+`tools/generator/src/visual_diff.ts` (new),
+`tools/generator/src/pipeline.ts` (lines 135-302, gating + pool
+replacement), `tools/generator/src/stroke_fill.ts` (lines 57-76 client),
+`tools/generator/src/font_builder.ts` (lines 34-75 cache wrap).
+
+**Tools:** `resvg-js` (already have), `pixelmatch` (already
+recommended §4), `fontkit` (already have), `zstd-napi` or
+`Bun.deflateSync` for baseline compression, `xxhash-wasm` or `Bun.hash`
+(replace `crypto.sha1` in `stroke_fill.ts:78` — 4× faster on small
+buffers).
+
+---
+
 ## Cross-cutting recommendations
 
 ### Tools shortlist (consolidated)
