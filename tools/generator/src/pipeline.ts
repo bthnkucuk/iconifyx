@@ -1493,12 +1493,23 @@ async function processOneSet(
     log.info(`  "${prefix}": seeding initial version ${bump.nextVersion}`);
   }
 
-  const dartSource = emitSetDart({
+  const {
+    setDart: dartSource,
+    aliasesDart,
+    categoriesDart,
+  } = emitSetDart({
     manifest,
     fontPackage: setPackageName(prefix),
   });
 
-  return { prefix, manifest, ttfs: renamedTtfs, dartSource };
+  return {
+    prefix,
+    manifest,
+    ttfs: renamedTtfs,
+    dartSource,
+    aliasesDart,
+    categoriesDart,
+  };
 }
 
 interface WrittenSources {
