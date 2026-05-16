@@ -14,7 +14,10 @@ import 'package:iconifyx_heroicons/iconifyx_heroicons.dart';
 void main() => runApp(MaterialApp(home: Scaffold(body: Center(
   child: Wrap(spacing: 16, children: [
     // 5 icons × 10 packs = 50 icons total
-    for (final i in [MdiIcons.home, MdiIcons.search, MdiIcons.account, MdiIcons.menu, MdiIcons.heart]) IconifyIcon(i, size: 48),
+    // `MdiIcons.search` was an alias of `magnify` in upstream Iconify;
+    // after §22 Rec 1 aliases live in `mdiAliases` and the canonical name
+    // is the const that survives on the class.
+    for (final i in [MdiIcons.home, MdiIcons.magnify, MdiIcons.account, MdiIcons.menu, MdiIcons.heart]) IconifyIcon(i, size: 48),
     for (final i in [LucideIcons.house, LucideIcons.search, LucideIcons.user, LucideIcons.menu, LucideIcons.heart]) IconifyIcon(i, size: 48),
     for (final i in [TablerIcons.home, TablerIcons.search, TablerIcons.user, TablerIcons.menu2, TablerIcons.heart]) IconifyIcon(i, size: 48),
     for (final i in [PhIcons.house, PhIcons.user, PhIcons.gear, PhIcons.heart, PhIcons.bell]) IconifyIcon(i, size: 48),

@@ -217,6 +217,116 @@ describe('allocateCodepoints', () => {
     expect(icons['b-old']!.codepoint).toBe(0xe001); // deprecated, codepoint still reserved
   });
 
+  test('§22 Rec 1: aliases get the canonical\'s codepoint and an aliasOf field', () => {
+    const { fonts, icons } = allocateCodepoints({
+      prefix: 'test',
+      fontFamilyBase: 'Test',
+      iconNames: ['home', '1-2-3', '123'],
+      aliasOf: { '1-2-3': 'home', '123': 'home' },
+      previous: null,
+    });
+
+    // Only `home` consumes font space — the two aliases share its codepoint.
+    expect(fonts).toHaveLength(1);
+    expect(fonts[0]!.iconCount).toBe(1);
+
+    const canonical = icons['home']!;
+    expect(canonical.codepoint).toBe(0xe000);
+    expect(canonical.aliasOf).toBeUndefined();
+
+    expect(icons['1-2-3']!.codepoint).toBe(canonical.codepoint);
+    expect(icons['1-2-3']!.aliasOf).toBe('home');
+    expect(icons['1-2-3']!.fontFamily).toBe(canonical.fontFamily);
+
+    expect(icons['123']!.codepoint).toBe(canonical.codepoint);
+    expect(icons['123']!.aliasOf).toBe('home');
+  });
+
+  test('§22 Rec 1: orphan alias (canonical missing) is dropped silently', () => {
+    const { icons } = allocateCodepoints({
+      prefix: 'test',
+      fontFamilyBase: 'Test',
+      iconNames: ['lonely-alias'],
+      aliasOf: { 'lonely-alias': 'missing-canonical' },
+      previous: null,
+    });
+    // The alias has no canonical to point at, so it's not emitted.
+    expect(icons['lonely-alias']).toBeUndefined();
+  });
+
+  test('§22 Rec 1: previously-canonical alias is re-allocated to canonical\'s codepoint', () => {
+    // Simulate a pre-Rec-1 manifest where the alias had its own codepoint.
+    const prev = freshManifest('test');
+    prev.fonts = [{ family: 'Test', nextCodepoint: 0xe002, iconCount: 2 }];
+    prev.icons = {
+      home: { codepoint: 0xe000, fontFamily: 'Test', identifier: 'home' },
+      'home-alt': { codepoint: 0xe001, fontFamily: 'Test', identifier: 'homeAlt' },
+    };
+
+    const { fonts, icons } = allocateCodepoints({
+      prefix: 'test',
+      fontFamilyBase: 'Test',
+      iconNames: ['home', 'home-alt'],
+      aliasOf: { 'home-alt': 'home' },
+      previous: prev,
+    });
+
+    // Canonical keeps its old codepoint (stability invariant).
+    expect(icons['home']!.codepoint).toBe(0xe000);
+    // Alias is migrated onto the canonical's codepoint.
+    expect(icons['home-alt']!.codepoint).toBe(0xe000);
+    expect(icons['home-alt']!.aliasOf).toBe('home');
+    expect(fonts[0]!.iconCount).toBe(1);
+  });
+
+  test('§22 Rec 1: alias identifier preserved across runs when no collision', () => {
+    const prev = freshManifest('test');
+    prev.fonts = [{ family: 'Test', nextCodepoint: 0xe001, iconCount: 1 }];
+    prev.icons = {
+      home: { codepoint: 0xe000, fontFamily: 'Test', identifier: 'home' },
+      'house-alias': {
+        codepoint: 0xe000,
+        fontFamily: 'Test',
+        identifier: 'houseAlias',
+        aliasOf: 'home',
+      },
+    };
+
+    const { icons } = allocateCodepoints({
+      prefix: 'test',
+      fontFamilyBase: 'Test',
+      iconNames: ['home', 'house-alias'],
+      aliasOf: { 'house-alias': 'home' },
+      previous: prev,
+    });
+    expect(icons['house-alias']!.identifier).toBe('houseAlias');
+  });
+
+  test('§22 Rec 1: aliases do not count toward font cap', () => {
+    // Create 5,999 canonicals + a couple thousand aliases. Aliases must
+    // NOT push the canonical-only count above the soft cap. Result:
+    // single font, no _2 spawn.
+    const canonicals = Array.from({ length: 5999 }, (_, i) =>
+      `icon-${i.toString().padStart(5, '0')}`
+    );
+    const aliases = Array.from({ length: 2000 }, (_, i) =>
+      `alias-${i.toString().padStart(5, '0')}`
+    );
+    const aliasOf: Record<string, string> = {};
+    for (let i = 0; i < aliases.length; i++) {
+      aliasOf[aliases[i]!] = canonicals[i % canonicals.length]!;
+    }
+    const { fonts } = allocateCodepoints({
+      prefix: 'big',
+      fontFamilyBase: 'Big',
+      iconNames: [...canonicals, ...aliases],
+      aliasOf,
+      previous: null,
+    });
+    expect(fonts).toHaveLength(1);
+    expect(fonts[0]!.iconCount).toBe(5999);
+  });
+
   test('formatCodepoint pads correctly', () => {
     expect(formatCodepoint(0xe000)).toBe('0xe000');
     expect(formatCodepoint(0xf8ff)).toBe('0xf8ff');

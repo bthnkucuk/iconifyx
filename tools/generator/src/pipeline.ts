@@ -369,6 +369,8 @@ async function processOneSet(
   manifest: Manifest;
   ttfs: Map<string, Buffer>;
   dartSource: string;
+  aliasesDart: string | null;
+  categoriesDart: string | null;
 }> {
   const set = await loadIconifySet(prefix);
   const allResolved = resolveIcons(set);
@@ -1252,6 +1254,28 @@ async function processOneSet(
   // through unchanged.
   const mergeResult = await mergeSiblingsInManifest(manifest, ttfs);
 
+  // §22 Rec 1: font_merger.ts rebuilds `manifest.fonts[].iconCount` by
+  // walking every `manifest.icons` entry, which now includes alias
+  // entries (they share the canonical's fontFamily + codepoint). That
+  // would inflate iconCount by the alias count; correct it here so
+  // pubspec_codegen + downstream consumers see the true glyph count.
+  // Secondary font counts (post-merge) also need the alias filter.
+  for (const f of manifest.fonts) {
+    const isSecondary = f.family.endsWith('Secondary');
+    const primaryFamily = isSecondary
+      ? f.family.slice(0, -'Secondary'.length)
+      : f.family;
+    let count = 0;
+    for (const e of Object.values(manifest.icons)) {
+      if (e.deprecated) continue;
+      if (e.aliasOf) continue; // share canonical's glyph slot
+      if (e.fontFamily !== primaryFamily) continue;
+      if (isSecondary && !e.duotone) continue;
+      count += 1;
+    }
+    f.iconCount = count;
+  }
+
   // Force canonical 1000-em-quad metrics on EVERY emitted TTF (both
   // merged primaries AND single-tier packs AND every Secondary). svg2ttf
   // recomputes head/hhea/OS/2 from glyph extents, leaving every pack
@@ -1297,6 +1321,40 @@ async function processOneSet(
       totalAliasedDemoted += 1;
     }
   }
+  // §22 Rec 1: reconcile alias / canonical duotone state. The verifier
+  // walks `manifest.icons` (which now includes alias entries) and may
+  // report either side of an alias/canonical pair as cmap-aliased.
+  // Sync the demote: if the canonical was demoted, every alias of it
+  // must follow; conversely, an alias-only demote should propagate to
+  // the canonical (and from there to every other alias of the same
+  // canonical) so the duotone flag stays consistent across the pair.
+  for (const [name, entry] of Object.entries(manifest.icons)) {
+    if (entry.deprecated) continue;
+    if (!entry.aliasOf) continue;
+    const canonical = manifest.icons[entry.aliasOf];
+    if (!canonical || canonical.deprecated) continue;
+    if (canonical.secondaryAliased || entry.secondaryAliased) {
+      canonical.duotone = false;
+      delete canonical.duotoneKind;
+      canonical.secondaryAliased = true;
+      entry.duotone = false;
+      delete entry.duotoneKind;
+      entry.secondaryAliased = true;
+    }
+    void name;
+  }
+  // Second pass: now that canonicals are fully resolved, re-sync any
+  // aliases that share an already-demoted canonical.
+  for (const [, entry] of Object.entries(manifest.icons)) {
+    if (!entry.aliasOf) continue;
+    const canonical = manifest.icons[entry.aliasOf];
+    if (!canonical) continue;
+    if (canonical.secondaryAliased && !entry.secondaryAliased) {
+      entry.duotone = false;
+      delete entry.duotoneKind;
+      entry.secondaryAliased = true;
+    }
+  }
   if (totalAliasedDemoted > 0) {
     // Recompute Secondary font iconCounts now that a chunk of duotones
     // have been demoted to solo. We don't drop Secondary fonts whose
@@ -1312,6 +1370,7 @@ async function processOneSet(
       let dt = 0;
       for (const e of Object.values(manifest.icons)) {
         if (e.deprecated) continue;
+        if (e.aliasOf) continue; // §22 Rec 1: aliases share canonical's glyph slot
         if (!e.duotone) continue;
         if (e.fontFamily !== primaryFamily) continue;
         dt += 1;
@@ -1327,12 +1386,19 @@ async function processOneSet(
     );
   }
 
-  const dartSource = emitSetDart({
+  const { setDart, aliasesDart, categoriesDart } = emitSetDart({
     manifest,
     fontPackage: setPackageName(prefix),
   });
 
-  return { prefix, manifest, ttfs: finalTtfs, dartSource };
+  return {
+    prefix,
+    manifest,
+    ttfs: finalTtfs,
+    dartSource: setDart,
+    aliasesDart,
+    categoriesDart,
+  };
 }
 
 async function writeSetPackage(r: {
@@ -1340,8 +1406,10 @@ async function writeSetPackage(r: {
   manifest: Manifest;
   ttfs: Map<string, Buffer>;
   dartSource: string;
+  aliasesDart: string | null;
+  categoriesDart: string | null;
 }): Promise<void> {
-  const { prefix, manifest, ttfs, dartSource } = r;
+  const { prefix, manifest, ttfs, dartSource, aliasesDart, categoriesDart } = r;
 
   await writeManifest(manifest);
 
@@ -1374,6 +1442,27 @@ async function writeSetPackage(r: {
     dartFileNameFromPrefix(prefix)
   );
   await writeFile(setFile, dartSource, 'utf8');
+
+  // §22 Rec 1: opt-in alias map at `lib/aliases.dart`. Written when the
+  // pack has at least one pure-rename alias; removed otherwise (so a
+  // pack that lost its last alias upstream doesn't leave a stale file
+  // behind).
+  const aliasesPath = path.join(setPackageLibDir(prefix), 'aliases.dart');
+  if (aliasesDart !== null) {
+    await writeFile(aliasesPath, aliasesDart, 'utf8');
+  } else {
+    await rm(aliasesPath).catch(() => {});
+  }
+
+  // §22 Rec 2: opt-in category map at `lib/categories.dart`. Same
+  // contract as `aliases.dart` — only present for packs that ship
+  // upstream `info.categories` data.
+  const categoriesPath = path.join(setPackageLibDir(prefix), 'categories.dart');
+  if (categoriesDart !== null) {
+    await writeFile(categoriesPath, categoriesDart, 'utf8');
+  } else {
+    await rm(categoriesPath).catch(() => {});
+  }
 
   // Package library file (top-level)
   const pkgName = setPackageName(prefix);
