@@ -5,8 +5,16 @@ name: Tree-shake bundle regression
 # asserts the bundled font payload stays below a threshold.
 #
 # Before §32 (sibling-TTF tax): this exact app shipped ~30-50 MB of
-# fonts. After §32: 17.66 KB (measured 2026-05-16 on Flutter 3.44).
-# Threshold below leaves ~2× headroom over the measured baseline.
+# fonts. After §32 + with at least one `.duo` icon referenced per
+# duotone pack (Ph / Solar / Ic): ~30 KB total. Threshold is 50 KB to
+# leave ~1.6× headroom.
+#
+# IMPORTANT — `font-subset` only runs on fonts whose codepoints appear
+# in const IconData expressions. The test app intentionally references
+# one duotone icon per duotone-shipping pack so the Secondary TTF gets
+# subsetted too; without that, Flutter bundles the on-disk Secondary
+# (425 KB for SolarSecondary, 146 KB for IcSecondary, 136 KB for
+# PhSecondary) at full size and this guard trips.
 
 on:
   pull_request:
@@ -52,7 +60,11 @@ jobs:
           fi
           BYTES=$(find "$APP" -name "*.ttf" -exec stat -f %z {} \; | awk '{s+=$1} END {print s}')
           KB=$(awk "BEGIN {printf \"%.2f\", $BYTES/1024}")
-          THRESHOLD=35840  # 35 KB — 2x headroom over 17.66 KB baseline
+          # Sized to fit:
+          #   ~10 primary TTFs subsetted to ~2 KB each      (~20 KB)
+          # + ~3 Secondary TTFs subsetted to ~3 KB each     (~10 KB)
+          # = ~30 KB baseline. 50 KB threshold = ~1.6× headroom.
+          THRESHOLD=51200  # 50 KB
           echo "Bundled TTF total: ${BYTES} bytes (${KB} KB)"
           echo "Threshold:         ${THRESHOLD} bytes (35.00 KB)"
           echo ""
