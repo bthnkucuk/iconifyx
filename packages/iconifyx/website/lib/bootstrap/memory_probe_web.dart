@@ -71,3 +71,31 @@ Future<MemorySample?> sampleMemoryBytes() async {
 
 @JS('globalThis')
 external JSObject get _globalThis;
+
+/// Returns `window.location.hostname` or `null` if the property isn't
+/// reachable (vanishingly rare — only happens in sandboxed iframes that
+/// strip `location`). Used by [MemoryProbe] to suppress the visit-count
+/// fallback on hosts where the accurate heap API is known to be
+/// unreachable (GitHub Pages: no COOP/COEP).
+String? currentHostname() {
+  try {
+    final loc = _globalThis.getProperty<JSObject?>('location'.toJS);
+    if (loc == null) return null;
+    final host = loc.getProperty<JSString?>('hostname'.toJS);
+    return host?.toDart;
+  } catch (_) {
+    return null;
+  }
+}
+
+/// Reloads the current page via `window.location.reload()`. Wired to the
+/// "Refresh" action on the memory-probe snackbar.
+void reloadPage() {
+  try {
+    final loc = _globalThis.getProperty<JSObject?>('location'.toJS);
+    if (loc == null) return;
+    loc.callMethod<JSAny?>('reload'.toJS);
+  } catch (_) {
+    // Pop-up blocker / sandbox; nothing actionable.
+  }
+}

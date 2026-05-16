@@ -32,12 +32,16 @@ import 'memory_probe_stub.dart'
 ///
 /// When neither is available (Safari / Firefox), the probe degrades to
 /// a pure visit-count signal: after [packVisitCountFallback] unique pack
-/// navigations the snackbar fires unconditionally.
+/// navigations the snackbar fires unconditionally — UNLESS the page is
+/// running on a host where we know the accurate API is unreachable (see
+/// [unsupportedHostSuffixes]), in which case the visit-count signal is
+/// suppressed entirely to avoid alarming the user during normal browsing.
 class MemoryProbe {
   MemoryProbe({
     this.thresholdBytes = 350 * 1024 * 1024,
-    this.packVisitCountFallback = 20,
+    this.packVisitCountFallback = 150,
     this.pollInterval = const Duration(seconds: 8),
+    this.unsupportedHostSuffixes = const <String>['.github.io'],
     this.onThresholdCrossed,
   });
 
@@ -47,7 +51,24 @@ class MemoryProbe {
   final int thresholdBytes;
 
   /// Visit-count fallback used when neither memory API is available.
+  ///
+  /// Raised from 20 → 150 (2026-05-16): the previous value was tuned for
+  /// an environment where the accurate `measureUserAgentSpecificMemory()`
+  /// API fires first and the visit count is purely a backstop. On GitHub
+  /// Pages that API is unreachable (no COOP/COEP), so a 20-visit floor
+  /// became the primary signal and routinely fired during normal
+  /// browsing. 150 visits is well past any realistic "I'm browsing"
+  /// session but still bounds catastrophic crawls.
   final int packVisitCountFallback;
+
+  /// Hostname suffixes where we know the accurate heap API is unreachable
+  /// (no COOP/COEP headers possible). On these hosts the visit-count
+  /// fallback is **suppressed** — we'd rather show no warning than a
+  /// false-positive. Defaults to `['.github.io']`.
+  ///
+  /// Leave empty (`const []`) to force the visit-count signal regardless
+  /// of host — useful for development and CI smoke tests.
+  final List<String> unsupportedHostSuffixes;
 
   /// How often to sample the heap. Each sample is ~1 ms of JS<->Dart
   /// interop; 8 s keeps the overhead well under 0.05 % CPU.
@@ -60,6 +81,7 @@ class MemoryProbe {
 
   Timer? _timer;
   bool _fired = false;
+  bool? _visitCountSuppressed;
 
   /// Most recent sample, if available. Useful for a debug overlay.
   int? lastSampleBytes;
@@ -68,9 +90,18 @@ class MemoryProbe {
   /// / `"unavailable"`. Useful for a debug overlay.
   String lastSampleSource = 'unavailable';
 
+  /// Hostname captured on first probe tick, e.g. `"bthnkucuk.github.io"`.
+  /// Surfaced for debugging.
+  String? lastHostname;
+
   /// Number of unique packs visited this session. Bumped by the page
   /// router after each successful `FontLoaderService.ensurePack`.
   int visitedPackCount = 0;
+
+  /// True when the current host matches one of [unsupportedHostSuffixes]
+  /// and the visit-count fallback is being suppressed. Populated on the
+  /// first `_tick()`; `null` until then.
+  bool? get visitCountSuppressed => _visitCountSuppressed;
 
   /// Start the periodic probe. Safe to call repeatedly — subsequent
   /// calls are no-ops while a timer is already active. No-op outside
@@ -95,6 +126,9 @@ class MemoryProbe {
 
   Future<void> _tick() async {
     if (_fired) return;
+    // Resolve hostname suppression once (cached for the rest of the
+    // session). Cheap JS interop call; returns null off-web.
+    _visitCountSuppressed ??= _resolveVisitCountSuppression();
     final sample = await platform.sampleMemoryBytes();
     if (sample != null) {
       lastSampleBytes = sample.bytes;
@@ -106,9 +140,28 @@ class MemoryProbe {
     } else {
       lastSampleSource = 'unavailable';
     }
+    // Visit-count fallback fires only when we're NOT on a host where the
+    // accurate API is known to be unreachable. On GitHub Pages we suppress
+    // it entirely — the count-based heuristic has no real heap evidence
+    // behind it and would otherwise pop up during normal browsing.
+    if (_visitCountSuppressed == true) return;
     if (visitedPackCount >= packVisitCountFallback) {
+      lastSampleSource = 'visit-count';
       _fire();
     }
+  }
+
+  bool _resolveVisitCountSuppression() {
+    final host = platform.currentHostname();
+    lastHostname = host;
+    if (host == null || host.isEmpty) return false;
+    for (final suffix in unsupportedHostSuffixes) {
+      if (host == suffix.replaceFirst(RegExp(r'^\.'), '') ||
+          host.endsWith(suffix)) {
+        return true;
+      }
+    }
+    return false;
   }
 
   void _fire() {

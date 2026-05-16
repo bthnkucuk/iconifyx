@@ -5,3 +5,9 @@ import 'memory_probe.dart' show MemorySample;
 /// production — but `flutter test` and IDE analysis do, so we return
 /// `null` to make `MemoryProbe` a no-op rather than a compile error.
 Future<MemorySample?> sampleMemoryBytes() async => null;
+
+/// Stub. No hostname concept off-web.
+String? currentHostname() => null;
+
+/// Stub. No page-reload concept off-web.
+void reloadPage() {}
