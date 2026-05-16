@@ -10,6 +10,8 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:flutter/widgets.dart';
 import 'package:iconifyx_core/iconifyx_core.dart';
 
+import 'trigram_index.dart';
+
 /// One icon, reconstructed at runtime from `icons_index.json`. We rebuild
 /// `IconifyIconData` here instead of importing the 215 per-set Dart packages
 /// (that approach generated a 25 MB Dart file and was slow to compile).
@@ -209,7 +211,12 @@ PackSummary _parsePack(Map<String, dynamic> p) {
 /// in a background isolate (Web Worker on Flutter web).
 @immutable
 class IconCatalog {
-  const IconCatalog._(this.icons, this.lowerNames, this.byPrefix);
+  const IconCatalog._(
+    this.icons,
+    this.lowerNames,
+    this.byPrefix,
+    this._trigrams,
+  );
 
   /// Flat icon list. Order is stable: pack prefix asc, then icon name asc.
   final List<IconRecord> icons;
@@ -221,9 +228,67 @@ class IconCatalog {
   /// Per-pack icon lists (same order as `icons`).
   final Map<String, List<IconRecord>> byPrefix;
 
+  /// Trigram posting-list index built in the same isolate as the JSON parse.
+  /// Drives [searchIndices] for `q.length >= 3`; null only on platforms /
+  /// failure modes where the build threw (defensive — we currently always
+  /// build it).
+  final TrigramIndex? _trigrams;
+
+  /// Approximate retained bytes for the trigram index (logging only).
+  int get trigramIndexBytes => _trigrams?.estimatedBytes ?? 0;
+
+  /// Run a substring search across [lowerNames] and return matching icon
+  /// indices in ascending order. For `q.length >= 3` this consults the
+  /// trigram index then verifies survivors with a real `contains(q)` so
+  /// false-positives from byte-folding / overlapping windows are filtered
+  /// out (zero false-negatives by construction).
+  ///
+  /// For `q.length < 3` falls through to a linear scan — the result set is
+  /// always small enough (≤ 36² = 1,296 unique digraphs across the corpus)
+  /// that this stays acceptable.
+  ///
+  /// Pass [limit] to stop scanning once that many matches have been
+  /// captured; the function still returns sorted indices but may not visit
+  /// the full candidate set.
+  List<int> searchIndices(String q, {int? limit}) {
+    if (q.isEmpty) return const <int>[];
+    final out = <int>[];
+    final cap = limit ?? -1;
+    final cands = _trigrams?.candidates(q);
+    if (cands != null) {
+      // Trigram path — verify each candidate. The candidate list is already
+      // sorted ascending so we can append in order.
+      for (var k = 0; k < cands.length; k++) {
+        final i = cands[k];
+        if (lowerNames[i].contains(q)) {
+          out.add(i);
+          if (cap >= 0 && out.length >= cap) return out;
+        }
+      }
+      return out;
+    }
+    // Fallback linear scan (q.length < 3 OR index unavailable).
+    for (var i = 0; i < lowerNames.length; i++) {
+      if (lowerNames[i].contains(q)) {
+        out.add(i);
+        if (cap >= 0 && out.length >= cap) return out;
+      }
+    }
+    return out;
+  }
+
   static Future<IconCatalog> load(Map<String, PackSummary> packsByPrefix) async {
     final raw = await rootBundle.loadString('lib/data/icons_index.json');
-    return await compute(_parse, _ParseInput(raw, packsByPrefix));
+    final catalog = await compute(_parse, _ParseInput(raw, packsByPrefix));
+    // Log boot diagnostics once. The build runs INSIDE the worker via
+    // `_parse` so the cold-start "first paint" main isolate is never
+    // blocked by the trigram pass; we only see the result here.
+    debugPrint(
+      '[trigram] index built · ${catalog.icons.length} icons · '
+      '${(catalog.trigramIndexBytes / 1024 / 1024).toStringAsFixed(2)} MB '
+      'retained',
+    );
+    return catalog;
   }
 
   static IconCatalog _parse(_ParseInput input) {
@@ -264,10 +329,16 @@ class IconCatalog {
       }
       byPrefix[prefix] = List<IconRecord>.unmodifiable(list);
     }
+    // Build the trigram index while we're still in the worker isolate —
+    // the main isolate stays responsive throughout the ~10 MB JSON parse
+    // and the ~2 M-posting trigram build (~0.5-1 s release). Logging the
+    // built-bytes happens on the main side once `compute` returns.
+    final trigrams = TrigramIndex.build(lower);
     return IconCatalog._(
       List<IconRecord>.unmodifiable(flat),
       List<String>.unmodifiable(lower),
       Map<String, List<IconRecord>>.unmodifiable(byPrefix),
+      trigrams,
     );
   }
 }

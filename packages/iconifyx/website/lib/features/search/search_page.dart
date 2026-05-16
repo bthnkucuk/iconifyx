@@ -183,11 +183,22 @@ class _SearchPageState extends State<SearchPage> {
     }
     if (catalog != null) {
       final cap = 60 - list.length;
-      var found = 0;
-      for (var i = 0; i < catalog.icons.length && found < cap; i++) {
-        if (catalog.lowerNames[i].contains(q)) {
+      if (cap > 0) {
+        // Trigram-accelerated path: for `q.length >= 3` this skips ~99 % of
+        // the catalog before the verifying `contains(q)` runs; for shorter
+        // `q` the catalog falls through to a linear scan (small result
+        // set). See `bootstrap/trigram_index.dart` + RESEARCH_PLAN.md §9 #6.
+        final sw = Stopwatch()..start();
+        final hits = catalog.searchIndices(q, limit: cap);
+        sw.stop();
+        // Cheap diagnostic: only log when the query yields a meaningful
+        // result set — single-key noise is filtered out.
+        if (q.length >= 3) {
+          debugPrint('[trigram] palette q="$q" · ${hits.length} hits · '
+              '${sw.elapsedMicroseconds}µs');
+        }
+        for (final i in hits) {
           list.add(_Entry.icon(catalog.icons[i]));
-          found++;
         }
       }
     }

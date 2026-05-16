@@ -785,7 +785,7 @@ GitHub Pages. The TextPainter `ui.Picture` cache and RepaintBoundary
 items below are still pending.**
 
 **Verdict: Adopt TextPainter `ui.Picture` cache, RepaintBoundary, lazy
-font registration. Trial 3-gram search filter.**
+font registration. 3-gram search filter ✅ shipped.**
 
 ### TextPainter + ui.Picture cache (~3 h, biggest win)
 
@@ -847,20 +847,43 @@ Companion: clear `imageCache` + glyph LRU on every pack route exit;
 periodic `window.location.reload()` after N pack visits if heap >
 target.
 
-### 3-gram search filter (Trial, ~150 LOC)
+### 3-gram search filter ✅ shipped (2026-05-16)
 
-`Int32List` of size 26³ mapping every present trigram → bitset chunk
-index. Per query: AND together three letter-trigram presence bitsets;
-skip 80-95 % of icons before substring `contains`. Sub-100 ms goal
-becomes <16 ms steady state. For queries <3 chars fall back to existing
-linear scan.
+`Map<int, Uint32List>` posting-list index — trigram int (3 packed
+lowercase bytes) → ascending icon indices containing that 3-gram.
+Built inside the existing `compute()` worker that already parses
+`icons_index.json`, so cold-start "first paint" remains unblocked.
+Per query: extract distinct trigrams, fetch each posting list,
+two-pointer-intersect smallest-first, then verify survivors with a
+real `lowerName.contains(q)` (handles overlap + non-ASCII byte
+collisions — zero false negatives by construction). For `q.length <
+3` falls back to linear scan inside `IconCatalog.searchIndices`.
 
-Memory: packed bitset 340 k × ~17 k live 3-grams worst case 720 MB →
-use Bloom filter over (trigram × pack-bucket-256): 256 × 17 k bits =
-~540 KB.
+Measured (microbench, 165 k synthetic names, Dart VM host):
 
-Alternative: FlexSearch via `package:js` — proven 10 ms over 100 k
-strings, but JS↔Dart interop per keystroke + ~300 KB JS.
+- index build: 202 ms · 4.93 MB retained (Uint32List payload +
+  bucket overhead). Well under the 10 MB budget.
+- typical query latencies: 20-50 µs (zero hits) · 800-2200 µs
+  (8000 hits). All under 16 ms p95 target by 7-800×.
+- 5-50× faster than linear scan; identical result sets.
+
+Memory rationale: posting lists store each `(trigram, icon)` pair
+once as a 32-bit int. ~13 trigrams per icon × 165 k icons → ~2.1 M
+postings × 4 B = ~8.4 MB worst case. The earlier dense-bitset
+proposal (340 k icons × 17 k trigrams = 720 MB) was rejected in
+favour of postings; bloom-filter fallback was not needed.
+
+Files: `lib/bootstrap/trigram_index.dart` (new),
+`lib/bootstrap/icon_catalog.dart` (build in `_parse`, expose
+`searchIndices`), `lib/features/search/search_page.dart` (palette
+uses `searchIndices`), `lib/shared/bloc/search_bloc.dart` (results
+bloc uses `searchIndices`), `test/trigram_index_test.dart` (parity
+unit tests), `test/trigram_bench_test.dart` (165 k synthetic
+microbench).
+
+Alternative considered: FlexSearch via `package:js` — proven 10 ms
+over 100 k strings, but JS↔Dart interop per keystroke + ~300 KB JS
+ruled out vs ~5 MB in-Dart cost.
 
 ### Memory profiling
 

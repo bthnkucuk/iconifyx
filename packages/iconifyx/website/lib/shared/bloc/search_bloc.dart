@@ -1,5 +1,6 @@
 import 'package:bloc_concurrency/bloc_concurrency.dart';
 import 'package:equatable/equatable.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:rxdart/rxdart.dart';
 
@@ -107,10 +108,21 @@ class SearchBloc extends Bloc<SearchEvent, SearchState> {
     final groups = <String, List<IconRecord>>{};
     int total = 0;
     int captured = 0;
-    final names = catalog.lowerNames;
     final icons = catalog.icons;
-    for (var i = 0; i < icons.length; i++) {
-      if (!names[i].contains(q)) continue;
+    // Pull all matching indices via the trigram-accelerated path. Returns
+    // every match (no `limit:`) because the bloc needs the total count for
+    // the truncation hint — but the trigram intersection narrows the
+    // verification loop from 165k → < 1 % of the catalog for typical
+    // queries. For `q.length < 3` this falls back to a linear scan inside
+    // `IconCatalog.searchIndices`.
+    final sw = Stopwatch()..start();
+    final hits = catalog.searchIndices(q);
+    sw.stop();
+    if (q.length >= 3) {
+      debugPrint('[trigram] bloc q="$q" · ${hits.length} hits · '
+          '${sw.elapsedMicroseconds}µs');
+    }
+    for (final i in hits) {
       total++;
       if (captured >= kMaxSearchResults) continue;
       final ic = icons[i];
