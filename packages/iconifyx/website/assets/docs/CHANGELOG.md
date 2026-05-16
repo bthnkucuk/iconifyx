@@ -7,13 +7,17 @@ The format is based on
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and this project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+Maintained by [@obenkucuk](https://github.com/obenkucuk) and
+[@bthnkucuk](https://github.com/bthnkucuk). Full credits in
+[`doc/backers.md`](doc/backers.md).
+
 ## [Unreleased]
 
 ### Added
 - Authoring docs (`doc/architecture.md`, `doc/duotone.md`,
-  `doc/flutter_3_44_iconData.md`, `doc/pipeline.md`) covering the
-  load-bearing design decisions (tree-shake invariants, per-pack package
-  layout, duotone kinds, generator pipeline).
+  `doc/flutter_3_44_iconData.md`, `doc/pipeline.md`, `doc/backers.md`)
+  covering the load-bearing design decisions (tree-shake invariants,
+  per-pack package layout, duotone kinds, generator pipeline, credits).
 - This changelog file.
 
 ## [0.1.0] - 2026-05-16

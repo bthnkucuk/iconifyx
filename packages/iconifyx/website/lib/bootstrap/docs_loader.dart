@@ -51,6 +51,13 @@ class DocsLoader {
           'What the codegen actually does, in order — duotone split, rasterize, drop, validate, build, merge, emit.',
       path: 'assets/docs/pipeline.md',
     ),
+    'backers': _DocAsset(
+      slug: 'backers',
+      title: 'Backers & credits',
+      blurb:
+          'Who maintains iconifyx and the upstream open-source work it leans on.',
+      path: 'assets/docs/backers.md',
+    ),
   };
 
   static const String _changelogPath = 'assets/docs/CHANGELOG.md';
