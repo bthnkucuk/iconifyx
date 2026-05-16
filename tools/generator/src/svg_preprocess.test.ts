@@ -9,7 +9,11 @@ import {
   isCanonicalWhite,
   shoelaceAreaOfPath,
   elementArea,
+  paintValueIsNoInk,
+  elementHasNoInk,
+  iconNeedsRasterTrace,
 } from './svg_preprocess.ts';
+import { parseBody, directElementChildren } from './dom.ts';
 import type { ResolvedIcon } from './load_iconify.ts';
 
 describe('isDuotoneBody', () => {
@@ -232,6 +236,156 @@ describe('trySplitTwoColorBody — AST-recovered patterns', () => {
       `<rect fill="#000" width="10" height="10"/>` +
       `<g fill="#fff"><path d="M0 0"/></g>`;
     expect(trySplitTwoColorBody(body)).toBeNull();
+  });
+});
+
+// ============================================================================
+// §5 — Unified `elementHasNoInk` predicate
+// ============================================================================
+
+describe('paintValueIsNoInk', () => {
+  test('keyword `none`', () => {
+    expect(paintValueIsNoInk('none')).toBe(true);
+    expect(paintValueIsNoInk('NONE')).toBe(true);
+  });
+  test('keyword `transparent`', () => {
+    expect(paintValueIsNoInk('transparent')).toBe(true);
+  });
+  test('empty string', () => {
+    expect(paintValueIsNoInk('')).toBe(true);
+    expect(paintValueIsNoInk('   ')).toBe(true);
+  });
+  test('rgba zero alpha (comma form)', () => {
+    expect(paintValueIsNoInk('rgba(0,0,0,0)')).toBe(true);
+    expect(paintValueIsNoInk('rgba(255, 128, 64, 0)')).toBe(true);
+  });
+  test('rgba slash form zero alpha (css-color-4)', () => {
+    expect(paintValueIsNoInk('rgb(0 0 0 / 0)')).toBe(true);
+  });
+  test('hsla zero alpha', () => {
+    expect(paintValueIsNoInk('hsla(120, 100%, 50%, 0)')).toBe(true);
+    expect(paintValueIsNoInk('hsl(120 100% 50% / 0)')).toBe(true);
+  });
+  test('8-digit hex zero alpha (#XXXXXX00)', () => {
+    expect(paintValueIsNoInk('#12345600')).toBe(true);
+    expect(paintValueIsNoInk('#FFFFFF00')).toBe(true);
+  });
+  test('4-digit hex zero alpha (#XXX0)', () => {
+    expect(paintValueIsNoInk('#1230')).toBe(true);
+    expect(paintValueIsNoInk('#fff0')).toBe(true);
+  });
+  test('concrete colours are NOT no-ink', () => {
+    expect(paintValueIsNoInk('#000')).toBe(false);
+    expect(paintValueIsNoInk('#ff00ff')).toBe(false);
+    expect(paintValueIsNoInk('rgba(0,0,0,0.5)')).toBe(false);
+    expect(paintValueIsNoInk('rgb(255,0,0)')).toBe(false);
+    expect(paintValueIsNoInk('red')).toBe(false);
+  });
+  test('currentColor is NOT no-ink (it paints visible ink at render time)', () => {
+    expect(paintValueIsNoInk('currentColor')).toBe(false);
+    expect(paintValueIsNoInk('currentcolor')).toBe(false);
+  });
+  test('url() paint-server reference is NOT no-ink', () => {
+    expect(paintValueIsNoInk('url(#grad)')).toBe(false);
+  });
+});
+
+describe('elementHasNoInk', () => {
+  const first = (body: string) => directElementChildren(parseBody(body))[0]!;
+
+  test('element with fill="none" and no stroke → no ink', () => {
+    expect(elementHasNoInk(first(`<path fill="none" d="M0 0"/>`))).toBe(true);
+  });
+  test('element with fill="none" and visible stroke → has ink', () => {
+    expect(
+      elementHasNoInk(first(`<path fill="none" stroke="#000" d="M0 0"/>`))
+    ).toBe(false);
+  });
+  test('element with fill="rgba(0,0,0,0)" → no ink', () => {
+    expect(elementHasNoInk(first(`<rect fill="rgba(0,0,0,0)"/>`))).toBe(true);
+  });
+  test('element with fill="#XXXXXX00" → no ink', () => {
+    expect(elementHasNoInk(first(`<rect fill="#abcdef00"/>`))).toBe(true);
+  });
+  test('element with fill="#XXX0" → no ink', () => {
+    expect(elementHasNoInk(first(`<rect fill="#abc0"/>`))).toBe(true);
+  });
+  test('element with fill=""  → no ink', () => {
+    expect(elementHasNoInk(first(`<rect fill=""/>`))).toBe(true);
+  });
+  test('element with fill-opacity="0" → no ink (fill channel zero)', () => {
+    expect(elementHasNoInk(first(`<rect fill="#000" fill-opacity="0"/>`))).toBe(
+      true
+    );
+  });
+  test('element with opacity="0" → no ink (whole element)', () => {
+    expect(elementHasNoInk(first(`<rect fill="#000" opacity="0"/>`))).toBe(true);
+  });
+  test('element with display="none" → no ink', () => {
+    expect(elementHasNoInk(first(`<rect fill="#000" display="none"/>`))).toBe(
+      true
+    );
+  });
+  test('element with visibility="hidden" → no ink', () => {
+    expect(
+      elementHasNoInk(first(`<rect fill="#000" visibility="hidden"/>`))
+    ).toBe(true);
+  });
+  test('inherited fill="none" from groupAttrs, child with no override → no ink', () => {
+    expect(
+      elementHasNoInk(first(`<path d="M0 0"/>`), { fill: 'none' })
+    ).toBe(true);
+  });
+  test('inherited fill="none", child with visible stroke override → has ink', () => {
+    expect(
+      elementHasNoInk(first(`<path stroke="#000" d="M0 0"/>`), { fill: 'none' })
+    ).toBe(false);
+  });
+  test('style="fill: none" → no ink', () => {
+    expect(elementHasNoInk(first(`<rect style="fill: none"/>`))).toBe(true);
+  });
+  test('style="fill: transparent" → no ink', () => {
+    expect(elementHasNoInk(first(`<rect style="fill: transparent"/>`))).toBe(
+      true
+    );
+  });
+  test('bare <path d="M0 0"/> with no fill attr anywhere → has ink (default fill=black)', () => {
+    expect(elementHasNoInk(first(`<path d="M0 0"/>`))).toBe(false);
+  });
+});
+
+describe('iconNeedsRasterTrace — AST-based no-ink detection (§5)', () => {
+  test('stroke + fill="none" → needs trace', () => {
+    expect(
+      iconNeedsRasterTrace(`<path stroke="#000" fill="none" d="M0 0"/>`)
+    ).toBe(true);
+  });
+  test('stroke + fill="#XXXXXX00" → needs trace (zero-alpha hex)', () => {
+    expect(
+      iconNeedsRasterTrace(`<path stroke="#000" fill="#11223300" d="M0 0"/>`)
+    ).toBe(true);
+  });
+  test('stroke + fill="rgba(0,0,0,0)" → needs trace', () => {
+    expect(
+      iconNeedsRasterTrace(
+        `<path stroke="#000" fill="rgba(0,0,0,0)" d="M0 0"/>`
+      )
+    ).toBe(true);
+  });
+  test('inherited fill="none" from <g> + child stroke → needs trace', () => {
+    expect(
+      iconNeedsRasterTrace(
+        `<g fill="none"><path stroke="#000" d="M0 0"/></g>`
+      )
+    ).toBe(true);
+  });
+  test('fill-rule="evenodd" → needs trace', () => {
+    expect(
+      iconNeedsRasterTrace(`<path fill-rule="evenodd" d="M0 0"/>`)
+    ).toBe(true);
+  });
+  test('fill="#000" with no stroke → does NOT need trace', () => {
+    expect(iconNeedsRasterTrace(`<path fill="#000" d="M0 0"/>`)).toBe(false);
   });
 });
 

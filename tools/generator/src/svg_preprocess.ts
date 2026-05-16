@@ -11,8 +11,9 @@ import {
   parseBody,
   serializeNode,
   setAttr,
+  walkElements,
 } from './dom.ts';
-import { Element, isTag } from 'domhandler';
+import { type AnyNode, Element, isTag } from 'domhandler';
 
 /**
  * Wrap an Iconify icon body in a full SVG document suitable for feeding to
@@ -139,22 +140,48 @@ export function isLikelyStrokeSet(icons: readonly ResolvedIcon[]): boolean {
  * without touching the rest of the pack.
  */
 export function iconNeedsRasterTrace(body: string): boolean {
-  const hasStroke = /stroke=/.test(body);
-  // "No effective fill" canonically means any of:
-  //   • fill="none" / fill=none
-  //   • fill="transparent" — SVG keyword for alpha=0, semantically the same
-  //     as `none` for our purposes (bpmn:call-activity uses this pattern)
-  //   • fill-opacity="0"
-  //   • no fill attribute at all (inherits default fill=black, but if the
-  //     parent has fill=none this is the typical stroke-only case)
-  // svgicons2svgfont treats any of these as "filled with currentColor",
-  // collapsing strokes to zero-width, which produces solid blobs.
-  const hasFillNone =
-    /fill=["']?(?:none|transparent)["']?/.test(body) ||
-    /fill-opacity\s*=\s*["']?0(?:\.0*)?["']?/.test(body) ||
-    !/fill=/.test(body);
-  if (hasStroke && hasFillNone) return true;
+  // fill-rule="evenodd" is a pure attribute check — no inheritance to
+  // worry about (SVG applies it per element). Fast-path before parsing.
   if (/fill-rule\s*=\s*["']?evenodd["']?/.test(body)) return true;
+  if (body.indexOf('stroke') === -1) return false;
+  // Walk the AST and ask "does any element paint via stroke while
+  // contributing no fill ink?" — i.e. it relies on stroke geometry which
+  // svgicons2svgfont collapses to zero width. The unified `elementHasNoInk`
+  // predicate is fill-AND-stroke aware, so we instead check the two
+  // channels independently per element.
+  const root = parseBody(body);
+  for (const el of walkElements(root)) {
+    if (!isPaintableLeaf(el)) continue;
+    // Build the effective ancestor-group attrs by walking parents up to
+    // (but not including) the synthetic `<svg>` root. Closer ancestors
+    // override outer ones, so we set keys only when not already present.
+    const groupAttrs: Record<string, string> = {};
+    let p = el.parent;
+    while (p !== null && isTag(p as AnyNode)) {
+      const pe = p as Element;
+      if (pe.name === 'svg') break;
+      for (const [k, v] of Object.entries(pe.attribs)) {
+        if (!(k in groupAttrs)) groupAttrs[k] = v;
+      }
+      p = pe.parent;
+    }
+    const ownStyle = parseInlineStyle(el.attribs.style);
+    const stroke =
+      ownStyle.stroke ?? el.attribs.stroke ?? groupAttrs.stroke;
+    if (stroke === undefined || paintValueIsNoInk(stroke)) continue;
+    // Stroke is visible-paint. Is the fill no-ink? If yes, stroke is the
+    // only paint contributor → rasterize-trace needed.
+    const fill =
+      ownStyle.fill ?? el.attribs.fill ?? groupAttrs.fill;
+    const fillOp =
+      ownStyle['fill-opacity'] ??
+      el.attribs['fill-opacity'] ??
+      groupAttrs['fill-opacity'];
+    const fillNoInk =
+      (fill !== undefined && paintValueIsNoInk(fill)) ||
+      (fillOp !== undefined && parseFloat(fillOp) === 0);
+    if (fillNoInk) return true;
+  }
   return false;
 }
 
@@ -195,19 +222,197 @@ export function iconNeedsRasterTrace(body: string): boolean {
 // multi-fill body with a single-color equivalent, the next regen will
 // un-deprecate the icon automatically.
 
-const FILL_ATTR_RE = /\bfill\s*=\s*["']([^"']+)["']/g;
+const FILL_ATTR_RE = /\bfill\s*=\s*["']([^"']*)["']/g;
 const FILL_STYLE_RE = /\bfill\s*:\s*([^;"'\s]+)/g;
-const STROKE_ATTR_RE = /\bstroke\s*=\s*["']([^"']+)["']/g;
+const STROKE_ATTR_RE = /\bstroke\s*=\s*["']([^"']*)["']/g;
 const STROKE_STYLE_RE = /\bstroke\s*:\s*([^;"'\s]+)/g;
 
+// ============================================================================
+// Unified no-ink predicate (§5)
+// ============================================================================
+//
+// Before §5, four separate functions each hard-coded their own list of "what
+// counts as no visible ink" — `iconNeedsRasterTrace` knew about
+// `fill="none"|transparent|fill-opacity="0"`, `isNonConcretePaint` only
+// knew about `none|transparent|currentColor|url(...)`, `splitDuotoneBody`
+// inlined yet another set, and `isPaintOrderRiskBody` excluded `currentColor`
+// but no other zero-alpha encodings. Bodies that used less common encodings
+// — `rgba(0,0,0,0)`, `#XXXXXX00`, inherited `fill="none"` from an outer
+// `<g>` — got misclassified by ONE predicate but not another, leading to
+// silent misroutes (e.g. an icon that paints a concrete `<rect/>` plus a
+// "ghost" `rgba(...,0)` shape was flagged as 2-paint and dropped under
+// `isPaintOrderRiskBody`).
+//
+// `elementHasNoInk` + `paintValueIsNoInk` consolidate every encoding into
+// one canonical predicate. Callers either ask "does this element paint
+// anything visible" (element form, considers attrs + style + ancestor
+// group attrs) or "is this raw paint value no-ink" (value form, used when
+// only the string is available from an attribute-scan regex).
+
+/**
+ * True if a raw paint value (the right-hand side of `fill="..."`,
+ * `stroke="..."`, or a `style` clause) represents NO visible ink. Covers:
+ *
+ * - `none` (keyword)
+ * - `transparent` (keyword)
+ * - empty string (`fill=""`)
+ * - `rgba(...,0)` / `rgb(... / 0)` (zero-alpha in any css-color-4 spelling)
+ * - `hsla(...,0)` / `hsl(... / 0)` (zero-alpha)
+ * - 8-digit zero-alpha hex (`#XXXXXX00`) and 4-digit zero-alpha hex (`#XXX0`)
+ *
+ * Does NOT treat `currentColor` or `url(#…)` as no-ink: those represent
+ * visible-but-unknown paint (deferred to render time / paint-server) and
+ * callers that need to distinguish them check separately.
+ */
+export function paintValueIsNoInk(raw: string | undefined | null): boolean {
+  if (raw === undefined || raw === null) return false;
+  const v = raw.trim().toLowerCase();
+  if (v.length === 0) return true;
+  if (v === 'none' || v === 'transparent') return true;
+  // rgba(...) / rgb(... / a) / hsla(...) / hsl(... / a) — final component
+  // is alpha. Accept comma-separated (legacy) and slash-separated
+  // css-color-4 forms (`rgb(0 0 0 / 0)` — space-delimited channels, slash
+  // before alpha). Tokenise by replacing `/` and `,` with space, then
+  // split on whitespace.
+  const fnMatch = v.match(/^(?:rgba?|hsla?)\s*\(([^)]+)\)$/);
+  if (fnMatch) {
+    const tokens = fnMatch[1]!
+      .replace(/[,/]/g, ' ')
+      .split(/\s+/)
+      .filter((p) => p.length > 0);
+    if (tokens.length === 4) {
+      const a = parseFloat(tokens[3]!);
+      if (Number.isFinite(a) && a === 0) return true;
+    }
+  }
+  // 8-digit hex `#RRGGBBAA` — last byte is alpha.
+  const m8 = v.match(/^#([0-9a-f]{6})([0-9a-f]{2})$/);
+  if (m8 && m8[2] === '00') return true;
+  // 4-digit hex `#RGBA` — last nibble is alpha.
+  const m4 = v.match(/^#([0-9a-f]{3})([0-9a-f])$/);
+  if (m4 && m4[2] === '0') return true;
+  return false;
+}
+
+/**
+ * Parse an inline-style string (`"fill: none; stroke: #123"`) into a
+ * lowercase property → value map. Whitespace + trailing semicolons are
+ * tolerated.
+ */
+function parseInlineStyle(style: string | undefined): Record<string, string> {
+  if (style === undefined) return {};
+  const out: Record<string, string> = {};
+  for (const decl of style.split(';')) {
+    const idx = decl.indexOf(':');
+    if (idx === -1) continue;
+    const key = decl.slice(0, idx).trim().toLowerCase();
+    const val = decl.slice(idx + 1).trim();
+    if (key.length > 0) out[key] = val;
+  }
+  return out;
+}
+
+/**
+ * Resolve the effective value of a paint-style property on an element,
+ * walking: own `style` declaration → own attribute → inherited from
+ * `groupAttrs` (which also accepts a `style` declaration). Returns the
+ * raw value (case preserved) or `undefined` when no source defines it.
+ */
+function resolvePaintProp(
+  el: Element,
+  groupAttrs: Record<string, string>,
+  name: 'fill' | 'stroke' | 'opacity' | 'fill-opacity' | 'stroke-opacity' | 'display' | 'visibility'
+): string | undefined {
+  const ownStyle = parseInlineStyle(el.attribs.style);
+  if (ownStyle[name] !== undefined) return ownStyle[name];
+  if (el.attribs[name] !== undefined) return el.attribs[name];
+  const groupStyle = parseInlineStyle(groupAttrs.style);
+  if (groupStyle[name] !== undefined) return groupStyle[name];
+  if (groupAttrs[name] !== undefined) return groupAttrs[name];
+  return undefined;
+}
+
+/**
+ * True if `el` paints no visible ink under the effective attributes
+ * inherited from `groupAttrs` (the ancestor `<g>` chain). Considers both
+ * fill AND stroke channels — an element with `fill="none"` but a visible
+ * `stroke=...` still paints, so this returns false for it.
+ *
+ * The element is no-ink when ANY of:
+ * - `opacity="0"` (effective, including inherited)
+ * - `display="none"` or `visibility="hidden"` (effective)
+ * - BOTH the effective fill is no-ink (`paintValueIsNoInk`, OR
+ *   `fill-opacity="0"`) AND the effective stroke is no-ink (same rule).
+ *
+ * "No fill attribute anywhere in the chain" defaults to SVG's `fill="black"`
+ * (visible), so an unstyled `<path d=…/>` is NOT no-ink.
+ */
+export function elementHasNoInk(
+  el: Element,
+  groupAttrs: Record<string, string> = {}
+): boolean {
+  const opacity = resolvePaintProp(el, groupAttrs, 'opacity');
+  if (opacity !== undefined) {
+    const o = parseFloat(opacity);
+    if (Number.isFinite(o) && o === 0) return true;
+  }
+  const display = resolvePaintProp(el, groupAttrs, 'display');
+  if (display !== undefined && display.trim().toLowerCase() === 'none') {
+    return true;
+  }
+  const visibility = resolvePaintProp(el, groupAttrs, 'visibility');
+  if (
+    visibility !== undefined &&
+    visibility.trim().toLowerCase() === 'hidden'
+  ) {
+    return true;
+  }
+
+  const channelIsNoInk = (
+    paintName: 'fill' | 'stroke',
+    opacityName: 'fill-opacity' | 'stroke-opacity'
+  ): boolean => {
+    const paint = resolvePaintProp(el, groupAttrs, paintName);
+    if (paint !== undefined && paintValueIsNoInk(paint)) return true;
+    const op = resolvePaintProp(el, groupAttrs, opacityName);
+    if (op !== undefined) {
+      const v = parseFloat(op);
+      if (Number.isFinite(v) && v === 0) return true;
+    }
+    return false;
+  };
+
+  // Default SVG `fill` is black (visible). So a fill is "no-ink" only if
+  // explicitly declared somewhere as such.
+  const fillDeclared =
+    resolvePaintProp(el, groupAttrs, 'fill') !== undefined ||
+    resolvePaintProp(el, groupAttrs, 'fill-opacity') !== undefined;
+  const strokeDeclared =
+    resolvePaintProp(el, groupAttrs, 'stroke') !== undefined ||
+    resolvePaintProp(el, groupAttrs, 'stroke-opacity') !== undefined;
+
+  const fillNoInk = fillDeclared ? channelIsNoInk('fill', 'fill-opacity') : false;
+  const strokeNoInk = strokeDeclared
+    ? channelIsNoInk('stroke', 'stroke-opacity')
+    : true; // SVG default stroke is `none`
+
+  // If fill was never declared anywhere, default-black fill is visible →
+  // element paints → not no-ink.
+  if (!fillDeclared) return false;
+  return fillNoInk && strokeNoInk;
+}
+
+/**
+ * Back-compat shim for callers that operate purely on the right-hand-side
+ * of a paint attribute (after a regex scan). Returns true when the value
+ * is no-ink OR a non-concrete paint (`currentColor`, `url(#…)`) — i.e. it
+ * doesn't contribute a concrete colour identity for the purposes of
+ * paint-order analysis.
+ */
 function isNonConcretePaint(raw: string): boolean {
   const v = raw.trim().toLowerCase();
-  return (
-    v === 'none' ||
-    v === 'transparent' ||
-    v === 'currentcolor' ||
-    v.startsWith('url(')
-  );
+  if (paintValueIsNoInk(v)) return true;
+  return v === 'currentcolor' || v.startsWith('url(');
 }
 
 /**
@@ -253,6 +458,9 @@ export function extractConcretePaints(body: string): Set<string> {
     let m: RegExpExecArray | null;
     while ((m = re.exec(body)) !== null) {
       const raw = m[1]!.trim().toLowerCase();
+      // Uses the unified `isNonConcretePaint` shim which covers every
+      // no-ink encoding (none, transparent, rgba(...,0), zero-alpha hex,
+      // empty string) plus the non-concrete `currentColor` / `url(#…)`.
       if (isNonConcretePaint(raw)) continue;
       colors.add(raw);
     }
@@ -1225,8 +1433,10 @@ export function splitDuotoneBody(
     // lets-icons `*-duotone-line` family and IC battery / signal-bars.
     const ownFillStr = getAttrLower(child, 'fill');
     const ownStrokeStr = getAttrLower(child, 'stroke');
-    const ownFillNone = ownFillStr === 'none' || ownFillStr === 'transparent';
-    const ownStrokeNone = ownStrokeStr === 'none';
+    const ownFillNone =
+      ownFillStr !== undefined && paintValueIsNoInk(ownFillStr);
+    const ownStrokeNone =
+      ownStrokeStr !== undefined && paintValueIsNoInk(ownStrokeStr);
     const ownFillVisible =
       ownFillStr !== undefined && !ownFillNone && !ownFillStr.startsWith('url(');
     const ownStrokeVisible =
@@ -1301,9 +1511,8 @@ export function splitDuotoneBody(
  */
 function isVisiblePaint(value: string | undefined): boolean {
   if (value === undefined) return false;
-  const v = value.trim().toLowerCase();
-  if (v === 'none' || v === 'transparent') return false;
-  if (v.startsWith('url(')) return false;
+  if (paintValueIsNoInk(value)) return false;
+  if (value.trim().toLowerCase().startsWith('url(')) return false;
   return true;
 }
 
@@ -1410,18 +1619,11 @@ const PAINT_ATTRS = ['fill', 'stroke'] as const;
 export function extractConcreteColors(body: string): Set<string> {
   const colors = new Set<string>();
   for (const attr of PAINT_ATTRS) {
-    const re = new RegExp(`\\b${attr}\\s*=\\s*["']([^"']+)["']`, 'g');
+    const re = new RegExp(`\\b${attr}\\s*=\\s*["']([^"']*)["']`, 'g');
     let m: RegExpExecArray | null;
     while ((m = re.exec(body)) !== null) {
       const raw = m[1]!.trim().toLowerCase();
-      if (
-        raw === 'none' ||
-        raw === 'transparent' ||
-        raw === 'currentcolor' ||
-        raw.startsWith('url(')
-      ) {
-        continue;
-      }
+      if (isNonConcretePaint(raw)) continue;
       colors.add(raw);
     }
   }
@@ -1439,15 +1641,10 @@ export function normalizeColorsToCurrentColor(body: string): string {
   let out = body;
   for (const attr of PAINT_ATTRS) {
     out = out.replace(
-      new RegExp(`(\\b${attr}\\s*=\\s*["'])([^"']+)(["'])`, 'g'),
+      new RegExp(`(\\b${attr}\\s*=\\s*["'])([^"']*)(["'])`, 'g'),
       (_full, lead, value, tail) => {
         const v = (value as string).trim().toLowerCase();
-        if (
-          v === 'none' ||
-          v === 'transparent' ||
-          v === 'currentcolor' ||
-          v.startsWith('url(')
-        ) {
+        if (isNonConcretePaint(v)) {
           return `${lead}${value}${tail}`;
         }
         return `${lead}currentColor${tail}`;
@@ -1553,13 +1750,6 @@ export function trySplitTwoStrokeColorBody(
 function pickConcrete(raw: string | undefined): string | undefined {
   if (raw === undefined) return undefined;
   const v = raw.trim().toLowerCase();
-  if (
-    v === 'none' ||
-    v === 'transparent' ||
-    v === 'currentcolor' ||
-    v.startsWith('url(')
-  ) {
-    return undefined;
-  }
+  if (isNonConcretePaint(v)) return undefined;
   return v;
 }
