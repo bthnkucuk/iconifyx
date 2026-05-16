@@ -73,6 +73,21 @@ const COMMANDS: Record<string, AuditCommand> = {
       });
     },
   },
+  'pubspec-assets-reconcile': {
+    description:
+      '§16 A7 pubspec ↔ assets reconciliation — three-way diff between assets/fonts/ on disk, manifest.fonts[], and pubspec.yaml font declarations. Flags orphan TTFs, pubspec entries pointing at missing files, manifest fonts not declared in pubspec, and iconCount=0 entries that still ship. `--apply` deletes orphan TTFs + strips orphan pubspec entries. Read-only by default.',
+    run: async (args) => {
+      const flags = parseSharedFlags(args);
+      const apply = args.includes('--apply');
+      const { runPubspecAssetsReconcileAudit } = await import(
+        './audit/pubspec_assets_reconcile.ts'
+      );
+      await runPubspecAssetsReconcileAudit({
+        prefixes: flags.prefixes,
+        apply,
+      });
+    },
+  },
 };
 
 function parseSharedFlags(args: string[]): { prefixes?: Set<string> } {

@@ -1,0 +1,11 @@
+{
+  "issues": [
+    {
+      "code": "manifest-only",
+      "detail": "manifest declares font 'Ic_2Secondary' (iconCount=1277) but pubspec doesn't list it — codegen would emit dangling consts",
+      "family": "Ic_2Secondary",
+      "prefix": "ic"
+    }
+  ],
+  "prefix": "ic"
+}
