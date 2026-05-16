@@ -44,5 +44,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE',
-  iconCount: 671,
+  iconCount: 698,
 );

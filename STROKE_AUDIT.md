@@ -5,15 +5,17 @@ Generated 2026-05-16. For each set we sample the first 25 icons and measure two 
 - **Sets receiving raster pre-pass:** 0 / 225
 - **Of those, auto-detected:** 0
 - **Sets with ≥20% raster signal that were NOT processed:** 0
-- **Sets containing duo-tone icons:** 71 (23,330 icons across them)
-- **Sets with ≥20% paint-order risk (multi-fill bodies that would render as monochrome blobs):** 0
-- **Icons proactively dropped this run for paint-order risk:** 0
+- **Sets containing duo-tone icons:** 71 (18,853 icons across them)
+- **Sets with ≥20% paint-order risk (multi-fill bodies that would render as monochrome blobs):** 1
+- **Icons proactively dropped this run for paint-order risk:** 556
 
 ## Paint-order risk (multi-fill bodies)
 
 Iconify bodies that paint two or more concrete colors (e.g. a light letterform on a dark background rect, like `logos:adobe-after-effects`) cannot be losslessly translated to a monochrome TTF — the foreground shape collapses into the background fill region (same `currentColor`, non-zero winding) and the glyph renders as a featureless filled blob. Rasterize-trace does NOT fix this (Potrace traces the combined silhouette as one filled region). The pipeline now drops such icons at validation so they never appear in the Dart class. Counts below are after duotone-split + stroke-fill, so packs neutralised by the raster pre-pass report 0%.
 
-_No paint-order risk detected._
+| Set | Prefix | Paint-order % | Dropped | Raster applied | Spot-check |
+|---|---|---:|---:|:---:|---|
+| VSCode Icons | `vscode-icons` | 24% | 556 | — | `file-type-access`, `file-type-ada`, `file-type-affinitydesigner` |
 
 ## Duotone sets (manual visual check recommended)
 
@@ -21,24 +23,24 @@ Open these sets in the example app and verify the primary / secondary layers of 
 
 | Set | Prefix | Duotone icons | Spot-check |
 |---|---|---:|---|
-| Twitter Emoji | `twemoji` | 4,498 | `1st-place-medal`, `2nd-place-medal`, `3rd-place-medal` |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 2,836 | `1st-place-medal`, `2nd-place-medal`, `3rd-place-medal` |
-| Glyphs | `glyphs` | 1,603 | `a-outline`, `accessible-duo`, `accessible-outline` |
-| Solar | `solar` | 1,595 | `4k-bold-duotone`, `4k-line-duotone`, `accessibility-bold-duotone` |
-| Google Material Icons | `ic` | 1,289 | `baseline-battery-20`, `baseline-battery-30`, `baseline-battery-50` |
-| Phosphor | `ph` | 1,102 | `acorn-duotone`, `address-book-duotone`, `address-book-tabs-duotone` |
+| Solar | `solar` | 2,413 | `4k-bold-duotone`, `4k-line-duotone`, `accessibility-bold-duotone` |
+| Glyphs | `glyphs` | 1,605 | `a-outline`, `accessible-duo`, `accessible-outline` |
+| Phosphor | `ph` | 1,528 | `acorn-duotone`, `address-book-duotone`, `address-book-tabs-duotone` |
+| Google Material Icons | `ic` | 1,500 | `baseline-battery-20`, `baseline-battery-30`, `baseline-battery-50` |
+| Streamline color | `streamline-color` | 1,292 | `add-bell-notification`, `add-bell-notification-flat`, `add-circle` |
 | Freehand color icons | `streamline-freehand-color` | 971 | `accessories-remote-shutter`, `accessories-retro-film-1`, `accounting-abacus` |
-| Streamline color | `streamline-color` | 810 | `add-bell-notification-flat`, `add-circle-flat`, `add-layer-2-flat` |
-| Circle Flags | `circle-flags` | 732 | `aa`, `ab`, `ac` |
 | Pepicons Print | `pepicons-print` | 703 | `airplane`, `airplane-circle`, `airplane-circle-filled` |
-| Material Icon Theme | `material-icon-theme` | 539 | `adobe-illustrator`, `adobe-illustrator-light`, `adobe-photoshop` |
+| Flex color icons | `streamline-flex-color` | 672 | `3d-coordinate-axis`, `3d-coordinate-axis-flat`, `3d-rotate-1` |
+| Twitter Emoji | `twemoji` | 637 | `a-button`, `a-button-blood-type`, `ab-button` |
+| Material Icon Theme | `material-icon-theme` | 540 | `adobe-illustrator`, `adobe-illustrator-light`, `adobe-photoshop` |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 495 | `a-button-blood-type`, `ab-button-blood-type`, `adhesive-bandage` |
 | Sharp color icons | `streamline-sharp-color` | 437 | `3d-move-flat`, `3d-rotate-y-axis-flat`, `3d-scale-flat` |
 | Plump color icons | `streamline-plump-color` | 435 | `3d-coordinate-axis-flat`, `add-bell-notification-flat`, `add-layer-2-flat` |
-| Flex color icons | `streamline-flex-color` | 433 | `3d-coordinate-axis-flat`, `3d-rotate-1-flat`, `3d-rotate-y-axis-flat` |
+| Lets Icons | `lets-icons` | 380 | `3d-box-duotone`, `add-duotone`, `add-duotone-line` |
+| SVG Logos | `logos` | 379 | `100tb`, `6px`, `adobe-after-effects` |
 | Cryptocurrency Color Icons | `cryptocurrency-color` | 379 | `aave`, `abt`, `act` |
-| SVG Logos | `logos` | 375 | `100tb`, `6px`, `adobe-after-effects` |
 | Streamline Emojis | `streamline-emojis` | 364 | `2`, `airplane`, `alien` |
-| VSCode Icons | `vscode-icons` | 326 | `default-root-folder`, `default-root-folder-opened`, `file-type-access2` |
+| VSCode Icons | `vscode-icons` | 337 | `default-root-folder`, `default-root-folder-opened`, `file-type-access2` |
 | Sargam Icons | `si` | 323 | `actions-duotone`, `add-alarm-duotone`, `add-circle-duotone` |
 | Glyphs Poly | `glyphs-poly` | 293 | `adjust`, `adjust-1`, `analytics` |
 | Lets Icons | `lets-icons` | 286 | `3d-box-duotone`, `add-duotone`, `add-duotone-line` |
@@ -69,6 +71,7 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Flat UI Icons | `flat-ui` | 19 | `android`, `book`, `camera` |
 | Flagpack | `flagpack` | 16 | `al`, `bd`, `bh` |
 | Web3 Icons | `token` | 10 | `akt`, `h2o`, `iotex` |
+| Cyber color icons | `streamline-cyber-color` | 8 | `bin-2`, `bluetooth-searching`, `cursor-scroll-vertical` |
 | Stickies color icons | `streamline-stickies-color` | 5 | `bluetooth-duo`, `help-duo`, `love-duo` |
 | Grommet Icons | `grommet-icons` | 5 | `mastercard`, `star-half`, `wifi-low` |
 | Tabler Icons | `tabler` | 4 | `brand-parsinta`, `brand-parsinta-bold`, `brand-parsinta-light` |
@@ -97,17 +100,21 @@ Open these sets in the example app and verify the primary / secondary layers of 
 
 Sets where the pack-level sample was below the stroke/evenodd threshold but individual icons still needed rasterize-trace. Without per-icon detection, `oui:check-in-circle-empty` shipped as a solid disc and `oui:chat-left` as a filled speech bubble (the `oui` pack sample showed only 16% evenodd, below the 20% pack threshold).
 
-- **Icons rasterize-traced via per-icon path this run:** 0
+- **Icons rasterize-traced via per-icon path this run:** 185
 
-_No per-icon traces this run._
+| Set | Prefix | Icons traced | Stroke % | Evenodd % | Spot-check |
+|---|---|---:|---:|---:|---|
+| VSCode Icons | `vscode-icons` | 185 | 8% | 12% | `file-type-advpl`, `file-type-affinity`, `file-type-agda` |
 
 ## Inverse-mask pattern (resvg-aware trace)
 
 Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a consumer `<path mask="url(#X)"/>` (Solar bold, icon-park-twotone, icon-park-solid, line-md, pepicons-pop/pencil, lets-icons duotone-line, …). Before the custom stroke-fill worker landed, these icons shipped with their main body invisible because `oslllo-svg-fixer` force-set the first <path>'s fill to black inside the mask. The worker bypasses that step now and the bodies trace correctly via resvg.
 
-- **Icons using the inverse-mask pattern across all packs:** 0
+- **Icons using the inverse-mask pattern across all packs:** 11
 
-_No mask-pattern icons detected._
+| Set | Prefix | Mask icons | % of pack | Spot-check |
+|---|---|---:|---:|---|
+| VSCode Icons | `vscode-icons` | 11 | 2% | `file-type-azurepipelines`, `file-type-compass`, `file-type-gemini` |
 
 ## vtracer recovery (multi-colour → duotone)
 
@@ -123,6 +130,7 @@ _No packs opted in this run. Add a prefix to `vtracerSets` in `tools/generator/c
 
 | Set | Prefix | Stroke % | Evenodd % | Paint-order % | Per-icon | Duotone | Applied | Source |
 |---|---|---:|---:|---:|---:|---:|:---:|---|
+| VSCode Icons | `vscode-icons` | 8% | 12% | 24% | 185 | 337 | — | none |
 | Material Symbols | `material-symbols` | 0% | 0% | 0% | — | — | — | none |
 | Material Symbols Light | `material-symbols-light` | 0% | 0% | 0% | — | — | — | none |
 | Google Material Icons | `ic` | 0% | 0% | 0% | — | 1,289 | — | none |
@@ -243,15 +251,14 @@ _No packs opted in this run. Add a prefix to `vtracerSets` in `tools/generator/c
 | Kameleon color icons | `streamline-kameleon-color` | 0% | 0% | 0% | — | 3 | — | none |
 | Stickies color icons | `streamline-stickies-color` | 0% | 0% | 0% | — | 5 | — | none |
 | Fluent UI System Color Icons | `fluent-color` | 0% | 0% | 0% | — | — | — | none |
-| Streamline color | `streamline-color` | 0% | 0% | 0% | — | 810 | — | none |
-| Flex color icons | `streamline-flex-color` | 0% | 0% | 0% | — | 433 | — | none |
+| Streamline color | `streamline-color` | 0% | 0% | 0% | — | 1,292 | — | none |
+| Flex color icons | `streamline-flex-color` | 0% | 0% | 0% | — | 672 | — | none |
 | Sharp color icons | `streamline-sharp-color` | 0% | 0% | 0% | — | 437 | — | none |
-| Cyber color icons | `streamline-cyber-color` | 0% | 0% | 0% | — | — | — | none |
-| IconPark | `icon-park` | 0% | 0% | 0% | — | 79 | — | none |
+| Cyber color icons | `streamline-cyber-color` | 0% | 0% | 0% | — | 8 | — | none |
+| IconPark | `icon-park` | 0% | 0% | 0% | — | 80 | — | none |
 | Marketeq | `marketeq` | 0% | 0% | 0% | — | — | — | none |
-| VSCode Icons | `vscode-icons` | 0% | 0% | 0% | — | 326 | — | none |
 | Codicons | `codicon` | 0% | 0% | 0% | — | — | — | none |
-| Material Icon Theme | `material-icon-theme` | 0% | 0% | 0% | — | 539 | — | none |
+| Material Icon Theme | `material-icon-theme` | 0% | 0% | 0% | — | 540 | — | none |
 | File Icons | `file-icons` | 0% | 0% | 0% | — | — | — | none |
 | Devicon | `devicon` | 0% | 0% | 0% | — | 180 | — | none |
 | Devicon Plain | `devicon-plain` | 0% | 0% | 0% | — | 2 | — | none |
@@ -260,7 +267,7 @@ _No packs opted in this run. Add a prefix to `vtracerSets` in `tools/generator/c
 | Google Cloud Icons | `gcp` | 0% | 0% | 0% | — | 41 | — | none |
 | UnJS Logos | `unjs` | 0% | 0% | 0% | — | — | — | none |
 | Simple Icons | `simple-icons` | 0% | 0% | 0% | — | — | — | none |
-| SVG Logos | `logos` | 0% | 0% | 0% | — | 375 | — | none |
+| SVG Logos | `logos` | 0% | 0% | 0% | — | 379 | — | none |
 | Logos free icons | `streamline-logos` | 0% | 0% | 0% | — | — | — | none |
 | CoreUI Brands | `cib` | 0% | 0% | 0% | — | — | — | none |
 | Font Awesome Brands | `fa7-brands` | 0% | 0% | 0% | — | — | — | none |

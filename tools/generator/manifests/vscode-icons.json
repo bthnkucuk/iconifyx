@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "prefix": "vscode-icons",
-  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersion": "2.2.473",
   "lastUpdated": "2026-05-16",
   "category": "Programming",
   "subPackage": "iconifyx_vscode_icons",
@@ -16,21 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE"
     },
-    "total": 671,
-    "tags": [
-      "Has Padding"
-    ]
+    "total": 698
   },
   "fonts": [
     {
       "family": "VscodeIcons",
-      "nextCodepoint": 58045,
-      "iconCount": 671
+      "nextCodepoint": 58102,
+      "iconCount": 698
     },
     {
       "family": "VscodeIconsSecondary",
-      "nextCodepoint": 58045,
-      "iconCount": 326
+      "nextCodepoint": 58102,
+      "iconCount": 337
     }
   ],
   "icons": {
@@ -355,8 +352,8 @@
       "codepoint": 57397,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCapnp",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-cargo": {
       "codepoint": 57398,
@@ -1012,8 +1009,8 @@
       "codepoint": 57507,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHaml",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-hashicorp": {
       "codepoint": 57508,
@@ -1183,7 +1180,9 @@
     "file-type-jsmap": {
       "codepoint": 57535,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeJsmap"
+      "identifier": "fileTypeJsmap",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-json": {
       "codepoint": 57536,
@@ -1295,8 +1294,8 @@
       "codepoint": 57553,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLeanconfig",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-lex": {
       "codepoint": 57554,
@@ -1469,7 +1468,9 @@
     "file-type-light-jsmap": {
       "codepoint": 57586,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLightJsmap"
+      "identifier": "fileTypeLightJsmap",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-light-json": {
       "codepoint": 57587,
@@ -1494,7 +1495,9 @@
     "file-type-light-leanconfig": {
       "codepoint": 57591,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLightLeanconfig"
+      "identifier": "fileTypeLightLeanconfig",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-light-mailing": {
       "codepoint": 57592,
@@ -1696,7 +1699,9 @@
     "file-type-light-testjs": {
       "codepoint": 57626,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLightTestjs"
+      "identifier": "fileTypeLightTestjs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-light-tex": {
       "codepoint": 57627,
@@ -1723,7 +1728,9 @@
     "file-type-light-toon": {
       "codepoint": 57631,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLightToon"
+      "identifier": "fileTypeLightToon",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-light-tree": {
       "codepoint": 57632,
@@ -1778,6 +1785,20 @@
       "codepoint": 57641,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLog"
+    },
+    "file-type-lolcode": {
+      "codepoint": 58100,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLolcode",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "file-type-lua": {
+      "codepoint": 57531,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLua",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "file-type-luau": {
       "codepoint": 57642,
@@ -2461,7 +2482,9 @@
     "file-type-preact": {
       "codepoint": 57758,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypePreact"
+      "identifier": "fileTypePreact",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-prettier": {
       "codepoint": 57759,
@@ -2480,6 +2503,13 @@
       "codepoint": 57761,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePrismaconfig",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "file-type-publiccode": {
+      "codepoint": 58101,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePubliccode",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
@@ -2775,7 +2805,9 @@
     "file-type-skill": {
       "codepoint": 57810,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeSkill"
+      "identifier": "fileTypeSkill",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-slang": {
       "codepoint": 57811,
@@ -2971,12 +3003,16 @@
     "file-type-testjs": {
       "codepoint": 57842,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeTestjs"
+      "identifier": "fileTypeTestjs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-testts": {
       "codepoint": 57843,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeTestts"
+      "identifier": "fileTypeTestts",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "file-type-tex": {
       "codepoint": 57844,
@@ -3154,15 +3190,15 @@
       "codepoint": 57872,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVala",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-vapi": {
       "codepoint": 57873,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVapi",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-vapor": {
       "codepoint": 57874,
@@ -3261,8 +3297,8 @@
       "codepoint": 57890,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWatchmanconfig",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-wdio": {
       "codepoint": 57891,
@@ -3682,15 +3718,15 @@
       "codepoint": 57955,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeInterfaces",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-type-interfaces-opened": {
       "codepoint": 57956,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeInterfacesOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "folder-type-ios": {
       "codepoint": 57957,
@@ -3856,9 +3892,7 @@
     "folder-type-light-zed": {
       "codepoint": 57982,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeLightZed",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "identifier": "folderTypeLightZed"
     },
     "folder-type-light-zed-opened": {
       "codepoint": 57983,

@@ -1,5 +1,5 @@
 // GENERATED FILE — do not edit.
-// Source: @iconify/json v2.2.472, set "logos"
+// Source: @iconify/json v2.2.473, set "logos"
 // Regenerate via `bun run generate --set logos`.
 
 import 'package:flutter/widgets.dart';
@@ -9,9 +9,9 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Gil Barbara
 /// License: CC0 — https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt
-/// Icons: 930 (split across 2 fonts)
+/// Icons: 936 (split across 2 fonts)
 ///
-/// Generated from @iconify/json v2.2.472.
+/// Generated from @iconify/json v2.2.473.
 @staticIconProvider
 class LogosIcons {
   const LogosIcons._();
@@ -828,13 +828,8 @@ class LogosIcons {
     IconData(0xe096, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `coda-icon`
-  static const IconifyIconData codaIcon = IconifyIconData.solo(
-    IconData(0xe097, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-  );
-
-  /// `codacy`
-  static const IconifyIconData codacy = IconifyIconData.solo(
+  /// `corda`
+  static const IconifyIconData corda = IconifyIconData.solo(
     IconData(0xe098, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
@@ -2332,8 +2327,14 @@ class LogosIcons {
     IconData(0xe1af, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `kafka-icon`
-  static const IconifyIconData kafkaIcon = IconifyIconData.solo(
+  /// `materializecss` (paint-order duotone)
+  static const IconifyIconData materializecss = IconifyIconData.duo(
+    IconData(0xe6ab, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe6ab, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
+  );
+
+  /// `matter`
+  static const IconifyIconData matter = IconifyIconData.solo(
     IconData(0xe1b0, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
@@ -2573,8 +2574,14 @@ class LogosIcons {
     IconData(0xe1dc, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `loom` (paint-order duotone)
-  static const IconifyIconData loom = IconifyIconData.duo(
+  /// `naiveui` (paint-order duotone)
+  static const IconifyIconData naiveui = IconifyIconData.duo(
+    IconData(0xe6ac, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe6ac, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
+  );
+
+  /// `nanonets`
+  static const IconifyIconData nanonets = IconifyIconData.solo(
     IconData(0xe1dd, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe1dd, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
   );
@@ -3516,8 +3523,8 @@ class LogosIcons {
     IconData(0xe28b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `prisma`
-  static const IconifyIconData prisma = IconifyIconData.solo(
+  /// `shields`
+  static const IconifyIconData shields = IconifyIconData.solo(
     IconData(0xe28c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
@@ -4383,13 +4390,8 @@ class LogosIcons {
     IconData(0xe32b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `svgator`
-  static const IconifyIconData svgator = IconifyIconData.solo(
-    IconData(0xe32c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-  );
-
-  /// `swagger` (paint-order duotone)
-  static const IconifyIconData swagger = IconifyIconData.duo(
+  /// `yandex-ru`
+  static const IconifyIconData yandexRu = IconifyIconData.solo(
     IconData(0xe32d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe32d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
   );

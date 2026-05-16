@@ -1,5 +1,5 @@
 // GENERATED FILE — do not edit.
-// Source: @iconify/json v2.2.472, set "streamline-cyber-color"
+// Source: @iconify/json v2.2.473, set "streamline-cyber-color"
 // Regenerate via `bun run generate --set streamline-cyber-color`.
 
 import 'package:flutter/widgets.dart';
@@ -9,9 +9,9 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 497
+/// Icons: 500 (split across 2 fonts)
 ///
-/// Generated from @iconify/json v2.2.472.
+/// Generated from @iconify/json v2.2.473.
 @staticIconProvider
 class StreamlineCyberColorIcons {
   const StreamlineCyberColorIcons._();
@@ -231,9 +231,10 @@ class StreamlineCyberColorIcons {
     IconData(0xe02a, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
-  /// `bin-2`
-  static const IconifyIconData bin2 = IconifyIconData.solo(
+  /// `bin-2` (paint-order duotone)
+  static const IconifyIconData bin2 = IconifyIconData.duo(
     IconData(0xe02b, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
+    IconData(0xe02b, fontFamily: 'StreamlineCyberColorSecondary', fontPackage: 'iconifyx_streamline_cyber_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `binocular-1`
@@ -251,9 +252,10 @@ class StreamlineCyberColorIcons {
     IconData(0xe02e, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
-  /// `bluetooth-searching`
-  static const IconifyIconData bluetoothSearching = IconifyIconData.solo(
+  /// `bluetooth-searching` (paint-order duotone)
+  static const IconifyIconData bluetoothSearching = IconifyIconData.duo(
     IconData(0xe02f, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
+    IconData(0xe02f, fontFamily: 'StreamlineCyberColorSecondary', fontPackage: 'iconifyx_streamline_cyber_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `bomb`
@@ -841,9 +843,10 @@ class StreamlineCyberColorIcons {
     IconData(0xe0a5, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
-  /// `cursor-scroll-vertical`
-  static const IconifyIconData cursorScrollVertical = IconifyIconData.solo(
+  /// `cursor-scroll-vertical` (paint-order duotone)
+  static const IconifyIconData cursorScrollVertical = IconifyIconData.duo(
     IconData(0xe0a6, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
+    IconData(0xe0a6, fontFamily: 'StreamlineCyberColorSecondary', fontPackage: 'iconifyx_streamline_cyber_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `cursor-select-area`
@@ -1066,9 +1069,10 @@ class StreamlineCyberColorIcons {
     IconData(0xe0d2, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
-  /// `focus-3`
-  static const IconifyIconData focus3 = IconifyIconData.solo(
+  /// `focus-3` (paint-order duotone)
+  static const IconifyIconData focus3 = IconifyIconData.duo(
     IconData(0xe0d3, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
+    IconData(0xe0d3, fontFamily: 'StreamlineCyberColorSecondary', fontPackage: 'iconifyx_streamline_cyber_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `football`
@@ -2011,9 +2015,10 @@ class StreamlineCyberColorIcons {
     IconData(0xe191, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
-  /// `signal-2`
-  static const IconifyIconData signal2 = IconifyIconData.solo(
+  /// `signal-2` (paint-order duotone)
+  static const IconifyIconData signal2 = IconifyIconData.duo(
     IconData(0xe192, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
+    IconData(0xe192, fontFamily: 'StreamlineCyberColorSecondary', fontPackage: 'iconifyx_streamline_cyber_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `signal-square`
@@ -2166,9 +2171,10 @@ class StreamlineCyberColorIcons {
     IconData(0xe1b0, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
-  /// `swimming-pool-2`
-  static const IconifyIconData swimmingPool2 = IconifyIconData.solo(
+  /// `swimming-pool-2` (paint-order duotone)
+  static const IconifyIconData swimmingPool2 = IconifyIconData.duo(
     IconData(0xe1b1, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
+    IconData(0xe1b1, fontFamily: 'StreamlineCyberColorSecondary', fontPackage: 'iconifyx_streamline_cyber_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `synchronize-2`
@@ -2241,9 +2247,10 @@ class StreamlineCyberColorIcons {
     IconData(0xe1bf, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
-  /// `timer-mode`
-  static const IconifyIconData timerMode = IconifyIconData.solo(
+  /// `timer-mode` (paint-order duotone)
+  static const IconifyIconData timerMode = IconifyIconData.duo(
     IconData(0xe1c0, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
+    IconData(0xe1c0, fontFamily: 'StreamlineCyberColorSecondary', fontPackage: 'iconifyx_streamline_cyber_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `timer0-1`
@@ -2316,9 +2323,10 @@ class StreamlineCyberColorIcons {
     IconData(0xe1ce, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
-  /// `usb`
-  static const IconifyIconData usb = IconifyIconData.solo(
+  /// `usb` (paint-order duotone)
+  static const IconifyIconData usb = IconifyIconData.duo(
     IconData(0xe1cf, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
+    IconData(0xe1cf, fontFamily: 'StreamlineCyberColorSecondary', fontPackage: 'iconifyx_streamline_cyber_color'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `usb-flash-drive`

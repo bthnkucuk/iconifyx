@@ -1,3 +1,4 @@
+import { SVGPathData } from 'svg-pathdata';
 import type { ResolvedIcon } from './load_iconify.ts';
 import {
   cloneShallow,
@@ -196,6 +197,24 @@ export function iconNeedsRasterTrace(body: string): boolean {
 
 const FILL_ATTR_RE = /\bfill\s*=\s*["']([^"']+)["']/g;
 const FILL_STYLE_RE = /\bfill\s*:\s*([^;"'\s]+)/g;
+const STROKE_ATTR_RE = /\bstroke\s*=\s*["']([^"']+)["']/g;
+const STROKE_STYLE_RE = /\bstroke\s*:\s*([^;"'\s]+)/g;
+
+/**
+ * True if `raw` is a non-paint token: `none`, `transparent`,
+ * `currentColor`, or a `url(...)` paint-server reference. Used by the
+ * paint extractors to skip values that don't contribute to monochrome
+ * layering decisions.
+ */
+function isNonConcretePaint(raw: string): boolean {
+  const v = raw.trim().toLowerCase();
+  return (
+    v === 'none' ||
+    v === 'transparent' ||
+    v === 'currentcolor' ||
+    v.startsWith('url(')
+  );
+}
 
 /**
  * Extract every concrete fill color appearing on elements in `body`.
@@ -203,6 +222,10 @@ const FILL_STYLE_RE = /\bfill\s*:\s*([^;"'\s]+)/g;
  * `transparent`, and `url(#...)` paint-server references are excluded
  * because they don't contribute to the "two fills overlap in the same
  * monochrome color" failure mode.
+ *
+ * Kept as a back-compat shim for callers that only care about fills.
+ * Most paint-order decisions now use `extractConcretePaints` (fill +
+ * stroke aware) — see §14 of `docs/RESEARCH_PLAN.md`.
  */
 function extractConcreteFills(body: string): Set<string> {
   const colors = new Set<string>();
@@ -211,9 +234,7 @@ function extractConcreteFills(body: string): Set<string> {
     let m: RegExpExecArray | null;
     while ((m = re.exec(body)) !== null) {
       const raw = m[1]!.trim().toLowerCase();
-      if (raw === 'none' || raw === 'transparent') continue;
-      if (raw === 'currentcolor') continue;
-      if (raw.startsWith('url(')) continue;
+      if (isNonConcretePaint(raw)) continue;
       colors.add(raw);
     }
   };
@@ -223,78 +244,337 @@ function extractConcreteFills(body: string): Set<string> {
 }
 
 /**
+ * Extract every concrete `fill` AND `stroke` color appearing in `body`.
+ * Returns a set of lowercased color tokens. Both attribute (`fill="…"`,
+ * `stroke="…"`) and inline-style (`style="fill:…; stroke:…"`) forms are
+ * walked.
+ *
+ * This is the §14 fix for fill+stroke 2-paint duotone detection. Many
+ * streamline-color icons paint via a single `fill="#d7e0ff"` background
+ * plus a separate `stroke="#4147d5"` outline path. The old
+ * `extractConcreteFills` saw 1 fill and ignored the stroke, so these
+ * icons fell through to paint-order drop / flat-render. Walking BOTH
+ * attributes lets us correctly identify them as 2-paint candidates and
+ * route them through the duotone primary/secondary split.
+ *
+ * Excludes the same non-paint tokens as `extractConcreteFills`
+ * (`none`, `transparent`, `currentColor`, `url(#…)` paint-server
+ * references).
+ */
+export function extractConcretePaints(body: string): Set<string> {
+  const colors = new Set<string>();
+  const scan = (re: RegExp): void => {
+    re.lastIndex = 0;
+    let m: RegExpExecArray | null;
+    while ((m = re.exec(body)) !== null) {
+      const raw = m[1]!.trim().toLowerCase();
+      if (isNonConcretePaint(raw)) continue;
+      colors.add(raw);
+    }
+  };
+  scan(FILL_ATTR_RE);
+  scan(FILL_STYLE_RE);
+  scan(STROKE_ATTR_RE);
+  scan(STROKE_STYLE_RE);
+  return colors;
+}
+
+/**
+ * Canonical-white predicate. `#fff`, `#ffffff` (any case), and the
+ * keyword `white` are considered pure white. Used by the 2-paint
+ * splitter's "white-as-foreground" override: empirically across logos /
+ * crypto-color / vscode-icons, when a 2-paint body contains white,
+ * the white path is the SMALLER-area (foreground letterform) ~86 % of
+ * the time. See §14 of `docs/RESEARCH_PLAN.md`.
+ */
+export function isCanonicalWhite(colour: string): boolean {
+  const v = colour.trim().toLowerCase();
+  return (
+    v === '#fff' ||
+    v === '#ffffff' ||
+    v === 'white' ||
+    v === 'rgb(255,255,255)' ||
+    v === 'rgb(255, 255, 255)'
+  );
+}
+
+/**
+ * Compute the SHOELACE polygon area of an SVG `d` attribute by parsing
+ * its commands, flattening curves to their endpoints, walking each
+ * closed subpath, and summing the signed contour area
+ * `Σ (x_i · y_{i+1} - x_{i+1} · y_i) / 2`. The result is always
+ * non-negative (signed contributions are summed in absolute value at
+ * the subpath level — interior holes contribute their geometric area
+ * rather than subtracting, which gives us a robust "ink area" estimate
+ * for the duotone area comparator).
+ *
+ * Curves (`C`, `S`, `Q`, `T`, `A`) are approximated as line segments
+ * between their start and end points — this overestimates very curvy
+ * regions slightly but the comparator only needs a per-colour-group
+ * total to feed into the 1.3× area-gap check; exact path-area integrals
+ * via bezier-js / kurbo are overkill at our scale.
+ *
+ * Returns 0 for unparseable / empty paths.
+ */
+export function shoelaceAreaOfPath(d: string): number {
+  let cmds;
+  try {
+    cmds = new SVGPathData(d).toAbs().commands;
+  } catch {
+    return 0;
+  }
+  if (cmds.length === 0) return 0;
+
+  let total = 0;
+  let curX = 0,
+    curY = 0;
+  let startX = 0,
+    startY = 0;
+  let subSum = 0; // signed shoelace running sum for the current subpath
+  let inSubpath = false;
+
+  const flushSubpath = (): void => {
+    if (inSubpath) {
+      total += Math.abs(subSum) / 2;
+    }
+    subSum = 0;
+    inSubpath = false;
+  };
+
+  for (const c of cmds) {
+    switch (c.type) {
+      case SVGPathData.MOVE_TO: {
+        flushSubpath();
+        curX = c.x;
+        curY = c.y;
+        startX = curX;
+        startY = curY;
+        inSubpath = true;
+        break;
+      }
+      case SVGPathData.LINE_TO:
+      case SVGPathData.CURVE_TO:
+      case SVGPathData.SMOOTH_CURVE_TO:
+      case SVGPathData.QUAD_TO:
+      case SVGPathData.SMOOTH_QUAD_TO:
+      case SVGPathData.ARC: {
+        // All of these draw to (c.x, c.y). Approximate the segment as
+        // a straight line from (curX, curY) to (c.x, c.y) for shoelace
+        // accumulation.
+        const cAny = c as { x: number; y: number };
+        subSum += curX * cAny.y - cAny.x * curY;
+        curX = cAny.x;
+        curY = cAny.y;
+        break;
+      }
+      case SVGPathData.HORIZ_LINE_TO: {
+        const cAny = c as { x: number };
+        subSum += curX * curY - cAny.x * curY;
+        curX = cAny.x;
+        break;
+      }
+      case SVGPathData.VERT_LINE_TO: {
+        const cAny = c as { y: number };
+        subSum += curX * cAny.y - curX * curY;
+        curY = cAny.y;
+        break;
+      }
+      case SVGPathData.CLOSE_PATH: {
+        // Close back to subpath start, then flush.
+        subSum += curX * startY - startX * curY;
+        flushSubpath();
+        curX = startX;
+        curY = startY;
+        break;
+      }
+    }
+  }
+  // Any open trailing subpath: still flush so its accumulated signed
+  // area contributes (treat the open path as if it closes back to
+  // start — shoelace tolerates the small error).
+  if (inSubpath) {
+    subSum += curX * startY - startX * curY;
+    flushSubpath();
+  }
+  return total;
+}
+
+/**
+ * Approximate the ink area of a self-closing SVG primitive based on its
+ * attribute string. Used by `trySplitTwoColorBody` to sum per-colour
+ * areas before deciding which colour is the background (larger area)
+ * vs the foreground (smaller).
+ *
+ * Falls back to 0 for elements we can't measure (`<polyline>` without
+ * a closed shape, malformed `d`, etc.). That's fine — area is a tie-
+ * breaker, not a hard requirement; source-order picks up the slack.
+ */
+export function elementArea(tag: string, attrs: string): number {
+  const num = (name: string): number => {
+    const m = attrs.match(
+      new RegExp(`\\b${name}\\s*=\\s*["']([^"']+)["']`)
+    );
+    if (!m) return 0;
+    const n = parseFloat(m[1]!);
+    return Number.isFinite(n) ? n : 0;
+  };
+  switch (tag) {
+    case 'rect': {
+      return Math.abs(num('width') * num('height'));
+    }
+    case 'circle': {
+      const r = num('r');
+      return Math.PI * r * r;
+    }
+    case 'ellipse': {
+      return Math.PI * Math.abs(num('rx') * num('ry'));
+    }
+    case 'path': {
+      const dMatch = attrs.match(/\bd\s*=\s*["']([^"']+)["']/);
+      if (!dMatch) return 0;
+      return shoelaceAreaOfPath(dMatch[1]!);
+    }
+    case 'polygon': {
+      const ptsMatch = attrs.match(/\bpoints\s*=\s*["']([^"']+)["']/);
+      if (!ptsMatch) return 0;
+      const pts = ptsMatch[1]!
+        .split(/[\s,]+/)
+        .map((s) => parseFloat(s))
+        .filter((n) => Number.isFinite(n));
+      if (pts.length < 6 || pts.length % 2 !== 0) return 0;
+      let sum = 0;
+      for (let i = 0; i < pts.length; i += 2) {
+        const x1 = pts[i]!,
+          y1 = pts[i + 1]!;
+        const x2 = pts[(i + 2) % pts.length]!,
+          y2 = pts[(i + 3) % pts.length]!;
+        sum += x1 * y2 - x2 * y1;
+      }
+      return Math.abs(sum) / 2;
+    }
+    case 'line':
+    case 'polyline': {
+      // Open shapes have zero ink area in fill semantics.
+      return 0;
+    }
+    default:
+      return 0;
+  }
+}
+
+/**
  * Returns true if `body` is at risk of rendering as a featureless blob
- * in a monochrome TTF because it relies on >1 distinct fill color to
- * convey its meaning (i.e. paint-order layering).
+ * in a monochrome TTF because it relies on >1 distinct paint
+ * (fill OR stroke) to convey its meaning. The detection runs AFTER the
+ * duotone split passes in `pipeline.ts`, so successfully-split icons
+ * never reach this check.
+ *
+ * Per §14 (`docs/RESEARCH_PLAN.md`): including stroke in this check
+ * matches the new `extractConcretePaints` semantics — bodies with one
+ * fill + one stroke colour are now 2-paint candidates, and if the
+ * duotone split fails for any reason they correctly fall through to
+ * the drop path rather than shipping as a featureless ring.
  */
 export function isPaintOrderRiskBody(body: string): boolean {
-  return extractConcreteFills(body).size >= 2;
+  return extractConcretePaints(body).size >= 2;
 }
 
 /**
  * Try to split a two-color body into a duotone primary + secondary pair.
  *
- * Many Iconify `logos` entries are exactly two colors — a background
- * shape (rounded square / circle) and a foreground letterform on top.
- * Example, `logos:adobe-after-effects`:
+ * Handles two layering conventions across Iconify:
  *
- *   <rect fill="#00005b" rx="42.5" .../>
- *   <path fill="#99f" d="…Ae letterform…"/>
+ * 1. **Two distinct fills** (`logos:adobe-after-effects`, `cryptocurrency-
+ *    color`, vscode-icons, `material-icon-theme`):
  *
- * In monochrome the foreground letter is absorbed into the background
- * fill region (same `currentColor`, non-zero winding) → the glyph
- * ships as a featureless filled square. But the source SVG ALREADY
- * draws the two layers separately, so we can route them through the
- * same Primary / Secondary font pair we already use for opacity-based
- * duotone (Phosphor `*-duotone`, Solar `*-bold-duotone`, etc.).
+ *        <rect fill="#00005b" rx="42.5" .../>
+ *        <path fill="#99f" d="…Ae letterform…"/>
  *
- * **Decision rule:** the body must have exactly 2 distinct concrete
- * fills (`extractConcreteFills` excludes `none` / `currentColor` /
- * `url(#...)`). The element painting FIRST in source order is assigned
- * to the primary layer (background); the second color → secondary
- * (foreground). Both layers have their `fill` attribute normalised to
- * `currentColor` so the runtime widget's color params drive rendering.
+ * 2. **One fill + one stroke** (streamline-color / streamline-flex-color):
  *
- * Returns `null` when the body can't be cleanly split (3+ colors,
+ *        <path fill="#d7e0ff" d="…body…"/>
+ *        <path stroke="#4147d5" d="…outline…"/>
+ *
+ *    Until §14 of `docs/RESEARCH_PLAN.md` was implemented, the detector
+ *    only saw `fill=` attrs (`extractConcreteFills`), so the stroke-
+ *    coloured outline was ignored — 1 distinct fill → no split → ships
+ *    as a flat light-blue body with NO outline. Walking BOTH `fill=` and
+ *    `stroke=` via `extractConcretePaints` lets these icons split
+ *    correctly. A single element carrying BOTH a fill and a stroke
+ *    contributes geometry to BOTH layers (the fill copy goes to one,
+ *    the stroke copy to the other) so the layer-separated geometry is
+ *    preserved.
+ *
+ * **Primary / secondary assignment** (per §14 unified decision tree):
+ *
+ *   a. **White-as-foreground override** (~86 % accurate across logos /
+ *      crypto / vscode-icons): if exactly one of the two colours is
+ *      canonical white (`#fff`, `white`), it goes to SECONDARY
+ *      (foreground letterform).
+ *   b. **Area-leader with 1.3× gap floor**: the colour group with
+ *      larger summed-shoelace area is PRIMARY (background); the smaller
+ *      is SECONDARY (foreground). The 1.3× floor avoids flipping
+ *      near-symmetric Solar / Phosphor duotones where source-order is
+ *      the correct tie-break.
+ *   c. **Source-order tie-break**: when areas are within 1.3× of each
+ *      other, the colour that appears FIRST (W3C SVG painters
+ *      algorithm — first child = bottom = background) becomes PRIMARY.
+ *
+ * Both layers have their paint attributes normalised to `currentColor`.
+ *
+ * Returns `null` when the body can't be cleanly split (3+ colours,
  * gradients, nested groups, non-self-closing elements). Callers then
  * fall through to the paint-order drop path.
  */
 export function trySplitTwoColorBody(
   body: string
 ): { primary: string; secondary: string } | null {
-  const fills = extractConcreteFills(body);
-  if (fills.size !== 2) return null;
+  const distinctPaints = extractConcretePaints(body);
+  if (distinctPaints.size !== 2) return null;
 
-  // Parse the body via AST. Unlike the previous regex implementation
-  // (which bailed on any non-self-closing sibling or nested group), the
-  // AST walk handles `<g>` wrappers around fills uniformly and naturally
-  // skips structural elements like `<defs>`.
-  const root = parseBody(body);
-  if (!onlyElementsOrWhitespace(root)) return null;
-
-  // Optional single outer <g attrs>…</g> wrap. Treat its inner content as
-  // the iteration target and re-wrap each output body in the same group
-  // attrs (minus the `fill` attribute, which becomes per-element after
-  // colour normalisation).
-  let walkRoot: Element = root;
-  let hasOuterGroup = false;
-  let outerGroupAttrs: Record<string, string> = {};
-  const topLevelEls = directElementChildren(root);
-  if (topLevelEls.length === 1 && topLevelEls[0]!.name === 'g') {
-    walkRoot = topLevelEls[0]!;
-    hasOuterGroup = true;
-    outerGroupAttrs = { ...walkRoot.attribs };
+  // Optional single outer <g attrs>…</g> wrap; preserve its non-paint
+  // attrs. We strip the wrapper's concrete fill/stroke because each
+  // child element after splitting carries its own normalised
+  // currentColor paint.
+  const groupMatch = body.match(/^\s*<g\b([^>]*)>([\s\S]*?)<\/g>\s*$/);
+  let groupAttrs = '';
+  let inner = body;
+  if (groupMatch) {
+    groupAttrs = groupMatch[1]!;
+    inner = groupMatch[2]!;
   }
-  const inheritedFill = getAttrLower(walkRoot, 'fill');
-  // Clean outer-group attrs: strip the concrete `fill` so the output
-  // group can carry no inherited paint (children carry per-element
-  // `currentColor`).
-  const groupAttrsClean: Record<string, string> = { ...outerGroupAttrs };
-  if (hasOuterGroup) delete groupAttrsClean.fill;
+  const inheritedFillRaw = groupAttrs
+    .match(/\bfill\s*=\s*["']([^"']+)["']/)?.[1]
+    ?.trim()
+    .toLowerCase();
+  const inheritedStrokeRaw = groupAttrs
+    .match(/\bstroke\s*=\s*["']([^"']+)["']/)?.[1]
+    ?.trim()
+    .toLowerCase();
+  const inheritedFill =
+    inheritedFillRaw && !isNonConcretePaint(inheritedFillRaw)
+      ? inheritedFillRaw
+      : undefined;
+  const inheritedStroke =
+    inheritedStrokeRaw && !isNonConcretePaint(inheritedStrokeRaw)
+      ? inheritedStrokeRaw
+      : undefined;
+  const groupAttrsClean = groupAttrs
+    .replace(/\s+fill\s*=\s*["'][^"']+["']/, '')
+    .replace(/\s+stroke\s*=\s*["'][^"']+["']/, '');
 
-  const primaryEls: Element[] = [];
-  const secondaryEls: Element[] = [];
-  let firstColor: string | null = null;
+  const ELEMENT_RE =
+    /<(path|circle|ellipse|rect|line|polyline|polygon)\b([^>]*?)\/>/g;
+
+  interface Contribution {
+    colour: string;
+    element: string; // normalized self-closing element with currentColor paint
+    area: number;
+    sourceOrder: number; // first appearance index for source-order tie-break
+  }
+  const contributions: Contribution[] = [];
+  let nextSourceOrder = 0;
+  const firstSeenIndex = new Map<string, number>();
 
   for (const child of directElementChildren(walkRoot)) {
     if (!isPaintableLeaf(child)) {
@@ -303,36 +583,144 @@ export function trySplitTwoColorBody(
       // resolution which we leave to the rasterize-trace fallback.
       return null;
     }
-    const rawFill = (
-      getAttrLower(child, 'fill') ??
-      inheritedFill ??
-      'currentcolor'
-    ).trim();
-    if (
-      rawFill === 'none' ||
-      rawFill === 'transparent' ||
-      rawFill === 'currentcolor' ||
-      rawFill.startsWith('url(')
-    ) {
-      // Bail — structurally ambiguous (we can't classify this element
-      // into one of the two colour buckets).
-      return null;
+    lastIndex = ELEMENT_RE.lastIndex;
+    const [, tag, attrs] = m;
+    const a = attrs!;
+
+    // Resolve element's effective fill / stroke against the parent <g>.
+    const ownFillMatch = a.match(/\bfill\s*=\s*["']([^"']+)["']/);
+    const ownStrokeMatch = a.match(/\bstroke\s*=\s*["']([^"']+)["']/);
+    const ownFillRaw = ownFillMatch?.[1]?.trim().toLowerCase();
+    const ownStrokeRaw = ownStrokeMatch?.[1]?.trim().toLowerCase();
+
+    const effectiveFill =
+      ownFillRaw === undefined
+        ? inheritedFill
+        : isNonConcretePaint(ownFillRaw)
+        ? undefined
+        : ownFillRaw;
+    const effectiveStroke =
+      ownStrokeRaw === undefined
+        ? inheritedStroke
+        : isNonConcretePaint(ownStrokeRaw)
+        ? undefined
+        : ownStrokeRaw;
+
+    // An element with no concrete paint that we can attribute to one of
+    // the two colours is structurally ambiguous; bail.
+    if (effectiveFill === undefined && effectiveStroke === undefined) {
+      consumedAll = false;
+      break;
     }
-    if (firstColor === null) firstColor = rawFill;
-    // Normalise the element's fill to currentColor (either by replacing
-    // an existing concrete fill, or by adding a new attribute). Match
-    // the regex's behaviour: if the element had no fill attribute,
-    // append a new `fill="currentColor"` at the end of its attribute
-    // list (preserving insertion order of pre-existing attrs).
-    const copy = cloneShallow(child);
-    setAttr(copy, 'fill', 'currentColor');
-    if (rawFill === firstColor) primaryEls.push(copy);
-    else secondaryEls.push(copy);
+
+    const area = elementArea(tag!, a);
+
+    // Strip every fill / stroke attribute we'll re-emit per layer. We
+    // keep stroke-width / linecap / linejoin etc. so the outline retains
+    // its rendered weight.
+    const strippedAttrs = a
+      .replace(/\s+fill\s*=\s*["'][^"']+["']/g, '')
+      .replace(/\s+stroke\s*=\s*["'][^"']+["']/g, '');
+
+    if (effectiveFill !== undefined) {
+      if (!firstSeenIndex.has(effectiveFill)) {
+        firstSeenIndex.set(effectiveFill, nextSourceOrder++);
+      }
+      contributions.push({
+        colour: effectiveFill,
+        element: `<${tag}${strippedAttrs} fill="currentColor" stroke="none"/>`,
+        area,
+        sourceOrder: firstSeenIndex.get(effectiveFill)!,
+      });
+    }
+    if (effectiveStroke !== undefined) {
+      if (!firstSeenIndex.has(effectiveStroke)) {
+        firstSeenIndex.set(effectiveStroke, nextSourceOrder++);
+      }
+      contributions.push({
+        colour: effectiveStroke,
+        // Stroked layers paint zero ink for area purposes (line/polyline
+        // already return 0; strokes on closed shapes also have negligible
+        // ink area relative to fills). Keep `fill="none"` so the stroke
+        // is the only painted geometry.
+        element: `<${tag}${strippedAttrs} fill="none" stroke="currentColor"/>`,
+        area: 0,
+        sourceOrder: firstSeenIndex.get(effectiveStroke)!,
+      });
+    }
+  }
+  if (inner.slice(lastIndex).trim().length > 0) consumedAll = false;
+  if (!consumedAll || contributions.length === 0) return null;
+
+  // Group contributions by colour.
+  const byColour = new Map<
+    string,
+    { elements: string[]; area: number; sourceOrder: number }
+  >();
+  for (const c of contributions) {
+    const g = byColour.get(c.colour);
+    if (g) {
+      g.elements.push(c.element);
+      g.area += c.area;
+      // Keep the earliest source-order index (first appearance).
+      if (c.sourceOrder < g.sourceOrder) g.sourceOrder = c.sourceOrder;
+    } else {
+      byColour.set(c.colour, {
+        elements: [c.element],
+        area: c.area,
+        sourceOrder: c.sourceOrder,
+      });
+    }
+  }
+  // Exactly 2 colour buckets are required for a clean split.
+  if (byColour.size !== 2) return null;
+  const entries = [...byColour.entries()];
+  // Sort by sourceOrder ascending so [0] is the first-appearing colour.
+  entries.sort((a, b) => a[1].sourceOrder - b[1].sourceOrder);
+  const [first, second] = entries;
+  const firstColour = first![0];
+  const firstGroup = first![1];
+  const secondColour = second![0];
+  const secondGroup = second![1];
+
+  // §14 decision tree.
+  let primaryColour: string;
+  let secondaryColour: string;
+  const firstIsWhite = isCanonicalWhite(firstColour);
+  const secondIsWhite = isCanonicalWhite(secondColour);
+  if (firstIsWhite !== secondIsWhite) {
+    // White-as-foreground override: the white path is the SECONDARY
+    // (foreground letterform) ~86 % of the time across logos / crypto /
+    // vscode-icons / streamline-color.
+    if (firstIsWhite) {
+      primaryColour = secondColour;
+      secondaryColour = firstColour;
+    } else {
+      primaryColour = firstColour;
+      secondaryColour = secondColour;
+    }
+  } else {
+    // Area-leader with 1.3× gap floor.
+    const aArea = firstGroup.area;
+    const bArea = secondGroup.area;
+    const AREA_GAP = 1.3;
+    if (aArea > 0 && bArea > 0 && aArea >= AREA_GAP * bArea) {
+      primaryColour = firstColour;
+      secondaryColour = secondColour;
+    } else if (aArea > 0 && bArea > 0 && bArea >= AREA_GAP * aArea) {
+      primaryColour = secondColour;
+      secondaryColour = firstColour;
+    } else {
+      // Tie-break by source order (W3C painters algorithm: first child =
+      // bottom = background = primary). This also handles the case
+      // where one bucket has all-stroke contributions (zero area).
+      primaryColour = firstColour;
+      secondaryColour = secondColour;
+    }
   }
 
-  if (primaryEls.length === 0 || secondaryEls.length === 0) {
-    return null;
-  }
+  const primaryEls = byColour.get(primaryColour)!.elements;
+  const secondaryEls = byColour.get(secondaryColour)!.elements;
 
   const wrap = (els: Element[]): string => {
     if (els.length === 0) return '';
@@ -1085,10 +1473,14 @@ export function normalizeColorsToCurrentColor(body: string): string {
  * two** distinct concrete colours.
  *
  * Used by the colour-mapped preprocess for two-tone Catppuccin icons
- * like `angular` (red + light-purple). The first colour encountered in
- * source order becomes the primary layer; the second becomes the
- * secondary. Both layers have their paint attributes normalised to
- * `currentColor`.
+ * like `angular` (red + light-purple). Primary / secondary assignment
+ * follows the same §14 unified decision tree as `trySplitTwoColorBody`:
+ *
+ *   a. White-as-foreground override.
+ *   b. Area-leader with 1.3× gap floor.
+ *   c. Source-order tie-break (W3C painters algorithm).
+ *
+ * Both layers have their paint attributes normalised to `currentColor`.
  */
 export function trySplitTwoStrokeColorBody(
   body: string
@@ -1117,9 +1509,14 @@ export function trySplitTwoStrokeColorBody(
 
   const ELEMENT_RE =
     /<(path|circle|ellipse|rect|line|polyline|polygon)\b([^>]*?)\/>/g;
-  const primaryEls: string[] = [];
-  const secondaryEls: string[] = [];
-  let firstColor: string | null = null;
+
+  interface Bucket {
+    elements: string[];
+    area: number;
+    sourceOrder: number;
+  }
+  const byColour = new Map<string, Bucket>();
+  let nextSourceOrder = 0;
 
   let m: RegExpExecArray | null;
   let lastIndex = 0;
@@ -1134,31 +1531,71 @@ export function trySplitTwoStrokeColorBody(
     const [, tag, attrs] = m;
     const elFill = attrs!.match(/\bfill\s*=\s*["']([^"']+)["']/)?.[1];
     const elStroke = attrs!.match(/\bstroke\s*=\s*["']([^"']+)["']/)?.[1];
-    const paint = (
+    const paint =
       pickConcrete(elStroke) ??
       pickConcrete(elFill) ??
       (inheritedStroke ? pickConcrete(inheritedStroke) : undefined) ??
-      (inheritedFill ? pickConcrete(inheritedFill) : undefined)
-    );
+      (inheritedFill ? pickConcrete(inheritedFill) : undefined);
     if (paint === undefined) {
       // Element has no resolvable concrete colour — can't bucket.
       consumedAll = false;
       break;
     }
-    if (firstColor === null) firstColor = paint;
     const normalisedAttrs = normalizeColorsToCurrentColor(attrs!);
     const el = `<${tag}${normalisedAttrs}/>`;
-    if (paint === firstColor) primaryEls.push(el);
-    else secondaryEls.push(el);
+    // For area purposes, only count fill-painted elements — strokes
+    // contribute negligible ink relative to fills, and a path that
+    // paints exclusively via stroke (lines, opened polylines, etc.)
+    // has a zero ink area anyway.
+    const isFillPainted = pickConcrete(elFill) !== undefined ||
+      (inheritedFill !== undefined && pickConcrete(elFill ?? inheritedFill) !== undefined);
+    const area = isFillPainted ? elementArea(tag!, attrs!) : 0;
+    const bucket = byColour.get(paint);
+    if (bucket) {
+      bucket.elements.push(el);
+      bucket.area += area;
+    } else {
+      byColour.set(paint, {
+        elements: [el],
+        area,
+        sourceOrder: nextSourceOrder++,
+      });
+    }
   }
   if (inner.slice(lastIndex).trim().length > 0) consumedAll = false;
-  if (
-    !consumedAll ||
-    primaryEls.length === 0 ||
-    secondaryEls.length === 0
-  ) {
-    return null;
+  if (!consumedAll || byColour.size !== 2) return null;
+
+  const entries = [...byColour.entries()];
+  entries.sort((a, b) => a[1].sourceOrder - b[1].sourceOrder);
+  const [first, second] = entries;
+  const firstColour = first![0];
+  const firstGroup = first![1];
+  const secondColour = second![0];
+  const secondGroup = second![1];
+
+  // §14 decision tree (mirrors trySplitTwoColorBody).
+  let primaryColour: string;
+  const firstIsWhite = isCanonicalWhite(firstColour);
+  const secondIsWhite = isCanonicalWhite(secondColour);
+  if (firstIsWhite !== secondIsWhite) {
+    primaryColour = firstIsWhite ? secondColour : firstColour;
+  } else {
+    const aArea = firstGroup.area;
+    const bArea = secondGroup.area;
+    const AREA_GAP = 1.3;
+    if (aArea > 0 && bArea > 0 && aArea >= AREA_GAP * bArea) {
+      primaryColour = firstColour;
+    } else if (aArea > 0 && bArea > 0 && bArea >= AREA_GAP * aArea) {
+      primaryColour = secondColour;
+    } else {
+      primaryColour = firstColour;
+    }
   }
+  const secondaryColour =
+    primaryColour === firstColour ? secondColour : firstColour;
+
+  const primaryEls = byColour.get(primaryColour)!.elements;
+  const secondaryEls = byColour.get(secondaryColour)!.elements;
 
   const wrap = (els: string[]): string => {
     if (els.length === 0) return '';
