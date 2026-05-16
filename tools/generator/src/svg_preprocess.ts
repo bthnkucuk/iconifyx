@@ -196,6 +196,18 @@ export function iconNeedsRasterTrace(body: string): boolean {
 
 const FILL_ATTR_RE = /\bfill\s*=\s*["']([^"']+)["']/g;
 const FILL_STYLE_RE = /\bfill\s*:\s*([^;"'\s]+)/g;
+const STROKE_ATTR_RE = /\bstroke\s*=\s*["']([^"']+)["']/g;
+const STROKE_STYLE_RE = /\bstroke\s*:\s*([^;"'\s]+)/g;
+
+function isNonConcretePaint(raw: string): boolean {
+  const v = raw.trim().toLowerCase();
+  return (
+    v === 'none' ||
+    v === 'transparent' ||
+    v === 'currentcolor' ||
+    v.startsWith('url(')
+  );
+}
 
 /**
  * Extract every concrete fill color appearing on elements in `body`.
@@ -203,6 +215,10 @@ const FILL_STYLE_RE = /\bfill\s*:\s*([^;"'\s]+)/g;
  * `transparent`, and `url(#...)` paint-server references are excluded
  * because they don't contribute to the "two fills overlap in the same
  * monochrome color" failure mode.
+ *
+ * Kept as a back-compat shim. Most paint-order decisions now use
+ * `extractConcretePaints` (fill + stroke aware) — see §14 of
+ * `docs/RESEARCH_PLAN.md`.
  */
 function extractConcreteFills(body: string): Set<string> {
   const colors = new Set<string>();
@@ -211,9 +227,7 @@ function extractConcreteFills(body: string): Set<string> {
     let m: RegExpExecArray | null;
     while ((m = re.exec(body)) !== null) {
       const raw = m[1]!.trim().toLowerCase();
-      if (raw === 'none' || raw === 'transparent') continue;
-      if (raw === 'currentcolor') continue;
-      if (raw.startsWith('url(')) continue;
+      if (isNonConcretePaint(raw)) continue;
       colors.add(raw);
     }
   };
@@ -223,12 +237,39 @@ function extractConcreteFills(body: string): Set<string> {
 }
 
 /**
+ * Extract every concrete `fill` AND `stroke` color appearing in `body`.
+ * §14 fix: bodies that paint via `fill="#bg"` + `stroke="#fg"` (the
+ * streamline-color family) used to report 1 distinct fill and silently
+ * fall through to a flat single-layer render — losing the outline.
+ * Walking both attribute (`fill="…"`, `stroke="…"`) and inline-style
+ * (`style="fill:…; stroke:…"`) forms lets `isPaintOrderRiskBody` flag
+ * these correctly so downstream split / drop paths can act on them.
+ */
+export function extractConcretePaints(body: string): Set<string> {
+  const colors = new Set<string>();
+  const scan = (re: RegExp): void => {
+    re.lastIndex = 0;
+    let m: RegExpExecArray | null;
+    while ((m = re.exec(body)) !== null) {
+      const raw = m[1]!.trim().toLowerCase();
+      if (isNonConcretePaint(raw)) continue;
+      colors.add(raw);
+    }
+  };
+  scan(FILL_ATTR_RE);
+  scan(FILL_STYLE_RE);
+  scan(STROKE_ATTR_RE);
+  scan(STROKE_STYLE_RE);
+  return colors;
+}
+
+/**
  * Returns true if `body` is at risk of rendering as a featureless blob
- * in a monochrome TTF because it relies on >1 distinct fill color to
- * convey its meaning (i.e. paint-order layering).
+ * in a monochrome TTF because it relies on >1 distinct paint colour
+ * (fill OR stroke) to convey its meaning (i.e. paint-order layering).
  */
 export function isPaintOrderRiskBody(body: string): boolean {
-  return extractConcreteFills(body).size >= 2;
+  return extractConcretePaints(body).size >= 2;
 }
 
 /**
