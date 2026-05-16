@@ -1,0 +1,3159 @@
+{
+  "generatedAt": "2026-05-16",
+  "packs": {
+    "academicons": {
+      "dartConsts": 149,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 149,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 56192
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 56192
+    },
+    "akar-icons": {
+      "dartConsts": 464,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 464,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 157520
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 157520
+    },
+    "ant-design": {
+      "dartConsts": 1870,
+      "duotoneCount": 153,
+      "history": [
+        {
+          "dartConsts": 1870,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 231584
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 231584
+    },
+    "arcticons": {
+      "dartConsts": 15099,
+      "duotoneCount": 3,
+      "history": [
+        {
+          "dartConsts": 15099,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 9841816
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 9841816
+    },
+    "basil": {
+      "dartConsts": 497,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 497,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 176540
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 176540
+    },
+    "bi": {
+      "dartConsts": 2082,
+      "duotoneCount": 1,
+      "history": [
+        {
+          "dartConsts": 2082,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 577616
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 577616
+    },
+    "bitcoin-icons": {
+      "dartConsts": 330,
+      "duotoneCount": 1,
+      "history": [
+        {
+          "dartConsts": 330,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 123584
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 123584
+    },
+    "boxicons": {
+      "dartConsts": 3768,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 3768,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 631888
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 631888
+    },
+    "bpmn": {
+      "dartConsts": 107,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 107,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 38440
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 38440
+    },
+    "brandico": {
+      "dartConsts": 44,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 44,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 14244
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 14244
+    },
+    "bx": {
+      "dartConsts": 2422,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 2422,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 284600
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 284600
+    },
+    "bxl": {
+      "dartConsts": 300,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 300,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 89568
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 89568
+    },
+    "bxs": {
+      "dartConsts": 665,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 665,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 99748
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 99748
+    },
+    "bytesize": {
+      "dartConsts": 102,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 102,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 29156
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 29156
+    },
+    "carbon": {
+      "dartConsts": 2678,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 2678,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 559744
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 559744
+    },
+    "catppuccin": {
+      "dartConsts": 660,
+      "duotoneCount": 264,
+      "history": [
+        {
+          "dartConsts": 660,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 283524
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 283524
+    },
+    "cbi": {
+      "dartConsts": 1602,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1602,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1106880
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1106880
+    },
+    "charm": {
+      "dartConsts": 263,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 263,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 83336
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 83336
+    },
+    "ci": {
+      "dartConsts": 716,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 716,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 199264
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 199264
+    },
+    "cib": {
+      "dartConsts": 810,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 810,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 330484
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 330484
+    },
+    "cif": {
+      "dartConsts": 199,
+      "duotoneCount": 35,
+      "history": [
+        {
+          "dartConsts": 199,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 168916
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 168916
+    },
+    "cil": {
+      "dartConsts": 562,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 562,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 97040
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 97040
+    },
+    "circle-flags": {
+      "dartConsts": 737,
+      "duotoneCount": 732,
+      "history": [
+        {
+          "dartConsts": 737,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 289948
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 289948
+    },
+    "circum": {
+      "dartConsts": 288,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 288,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 115924
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 115924
+    },
+    "clarity": {
+      "dartConsts": 1104,
+      "duotoneCount": 2,
+      "history": [
+        {
+          "dartConsts": 1104,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 239164
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 239164
+    },
+    "codex": {
+      "dartConsts": 78,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 78,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 24312
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 24312
+    },
+    "codicon": {
+      "dartConsts": 564,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 564,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 156204
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 156204
+    },
+    "covid": {
+      "dartConsts": 142,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 142,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 133540
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 133540
+    },
+    "cryptocurrency": {
+      "dartConsts": 489,
+      "duotoneCount": 21,
+      "history": [
+        {
+          "dartConsts": 489,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 245776
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 245776
+    },
+    "cryptocurrency-color": {
+      "dartConsts": 446,
+      "duotoneCount": 379,
+      "history": [
+        {
+          "dartConsts": 446,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 190736
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 190736
+    },
+    "cuida": {
+      "dartConsts": 182,
+      "duotoneCount": 1,
+      "history": [
+        {
+          "dartConsts": 182,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 70336
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 70336
+    },
+    "dashicons": {
+      "dartConsts": 347,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 347,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 58956
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 58956
+    },
+    "devicon": {
+      "dartConsts": 903,
+      "duotoneCount": 202,
+      "history": [
+        {
+          "dartConsts": 903,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 692980
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 692980
+    },
+    "devicon-plain": {
+      "dartConsts": 760,
+      "duotoneCount": 2,
+      "history": [
+        {
+          "dartConsts": 760,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 545276
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 545276
+    },
+    "dinkie-icons": {
+      "dartConsts": 1198,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1198,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 203380
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 203380
+    },
+    "duo-icons": {
+      "dartConsts": 91,
+      "duotoneCount": 91,
+      "history": [
+        {
+          "dartConsts": 91,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 35140
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 35140
+    },
+    "ei": {
+      "dartConsts": 70,
+      "duotoneCount": 3,
+      "history": [
+        {
+          "dartConsts": 70,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 18100
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 18100
+    },
+    "el": {
+      "dartConsts": 304,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 304,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 55400
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 55400
+    },
+    "emojione": {
+      "dartConsts": 357,
+      "duotoneCount": 271,
+      "history": [
+        {
+          "dartConsts": 357,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 77636
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 77636
+    },
+    "emojione-monotone": {
+      "dartConsts": 1674,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1674,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 803588
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 803588
+    },
+    "emojione-v1": {
+      "dartConsts": 365,
+      "duotoneCount": 197,
+      "history": [
+        {
+          "dartConsts": 365,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 169248
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 169248
+    },
+    "entypo": {
+      "dartConsts": 321,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 321,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 62336
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 62336
+    },
+    "entypo-social": {
+      "dartConsts": 76,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 76,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 21336
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 21336
+    },
+    "eos-icons": {
+      "dartConsts": 247,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 247,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 60136
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 60136
+    },
+    "ep": {
+      "dartConsts": 293,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 293,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 56364
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 56364
+    },
+    "et": {
+      "dartConsts": 100,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 100,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 59840
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 59840
+    },
+    "eva": {
+      "dartConsts": 487,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 487,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 81920
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 81920
+    },
+    "f7": {
+      "dartConsts": 1250,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1250,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 310888
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 310888
+    },
+    "fa": {
+      "dartConsts": 786,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 786,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 161488
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 161488
+    },
+    "fa-brands": {
+      "dartConsts": 460,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 460,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 164228
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 164228
+    },
+    "fa-regular": {
+      "dartConsts": 151,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 151,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 43564
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 43564
+    },
+    "fa-solid": {
+      "dartConsts": 1024,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1024,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 243460
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 243460
+    },
+    "fa6-brands": {
+      "dartConsts": 518,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 518,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 175500
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 175500
+    },
+    "fa6-regular": {
+      "dartConsts": 164,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 164,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 46572
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 46572
+    },
+    "fa6-solid": {
+      "dartConsts": 1408,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1408,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 338776
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 338776
+    },
+    "fa7-brands": {
+      "dartConsts": 586,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 586,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 188488
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 188488
+    },
+    "fa7-regular": {
+      "dartConsts": 272,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 272,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 47884
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 47884
+    },
+    "fa7-solid": {
+      "dartConsts": 1999,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1999,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 328860
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 328860
+    },
+    "fad": {
+      "dartConsts": 155,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 155,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 49784
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 49784
+    },
+    "famicons": {
+      "dartConsts": 1339,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1339,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 361264
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 361264
+    },
+    "fe": {
+      "dartConsts": 255,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 255,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 65656
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 65656
+    },
+    "feather": {
+      "dartConsts": 1144,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1144,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 385064
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 385064
+    },
+    "file-icons": {
+      "dartConsts": 930,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 930,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 472516
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 472516
+    },
+    "flag": {
+      "dartConsts": 483,
+      "duotoneCount": 46,
+      "history": [
+        {
+          "dartConsts": 483,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 510804
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 510804
+    },
+    "flagpack": {
+      "dartConsts": 243,
+      "duotoneCount": 15,
+      "history": [
+        {
+          "dartConsts": 243,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 122748
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 122748
+    },
+    "flat-color-icons": {
+      "dartConsts": 97,
+      "duotoneCount": 61,
+      "history": [
+        {
+          "dartConsts": 97,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 23380
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 23380
+    },
+    "flat-ui": {
+      "dartConsts": 74,
+      "duotoneCount": 19,
+      "history": [
+        {
+          "dartConsts": 74,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 32800
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 32800
+    },
+    "flowbite": {
+      "dartConsts": 803,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 803,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 300120
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 300120
+    },
+    "fluent": {
+      "dartConsts": 20197,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 20197,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 5398424
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 5398424
+    },
+    "fluent-color": {
+      "dartConsts": 167,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 167,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 57704
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 57704
+    },
+    "fluent-emoji": {
+      "dartConsts": 2767,
+      "duotoneCount": 1,
+      "history": [
+        {
+          "dartConsts": 2767,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 2246556
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 2246556
+    },
+    "fluent-emoji-flat": {
+      "dartConsts": 2986,
+      "duotoneCount": 2836,
+      "history": [
+        {
+          "dartConsts": 2986,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 4239020
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 4239020
+    },
+    "fluent-emoji-high-contrast": {
+      "dartConsts": 1551,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1551,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 859448
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 859448
+    },
+    "fluent-mdl2": {
+      "dartConsts": 1735,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1735,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 350316
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 350316
+    },
+    "fontelico": {
+      "dartConsts": 34,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 34,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 11948
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 11948
+    },
+    "fontisto": {
+      "dartConsts": 615,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 615,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 232872
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 232872
+    },
+    "formkit": {
+      "dartConsts": 144,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 144,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 50932
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 50932
+    },
+    "foundation": {
+      "dartConsts": 280,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 280,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 65456
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 65456
+    },
+    "fxemoji": {
+      "dartConsts": 244,
+      "duotoneCount": 128,
+      "history": [
+        {
+          "dartConsts": 244,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 90548
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 90548
+    },
+    "gala": {
+      "dartConsts": 55,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 55,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 24536
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 24536
+    },
+    "game-icons": {
+      "dartConsts": 4061,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 4061,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1668032
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1668032
+    },
+    "garden": {
+      "dartConsts": 1027,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1027,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 276408
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 276408
+    },
+    "gcp": {
+      "dartConsts": 211,
+      "duotoneCount": 41,
+      "history": [
+        {
+          "dartConsts": 211,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 57144
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 57144
+    },
+    "geo": {
+      "dartConsts": 30,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 30,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 16408
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 16408
+    },
+    "gg": {
+      "dartConsts": 705,
+      "duotoneCount": 31,
+      "history": [
+        {
+          "dartConsts": 705,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 177680
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 177680
+    },
+    "gis": {
+      "dartConsts": 367,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 367,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 274344
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 274344
+    },
+    "glyphs": {
+      "dartConsts": 3450,
+      "duotoneCount": 1442,
+      "history": [
+        {
+          "dartConsts": 3450,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 2221656
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 2221656
+    },
+    "glyphs-poly": {
+      "dartConsts": 722,
+      "duotoneCount": 293,
+      "history": [
+        {
+          "dartConsts": 722,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 211856
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 211856
+    },
+    "gravity-ui": {
+      "dartConsts": 781,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 781,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 303624
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 303624
+    },
+    "gridicons": {
+      "dartConsts": 207,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 207,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 29632
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 29632
+    },
+    "grommet-icons": {
+      "dartConsts": 637,
+      "duotoneCount": 5,
+      "history": [
+        {
+          "dartConsts": 637,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 185200
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 185200
+    },
+    "guidance": {
+      "dartConsts": 360,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 360,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 158768
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 158768
+    },
+    "healthicons": {
+      "dartConsts": 3373,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 3373,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1361464
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1361464
+    },
+    "heroicons": {
+      "dartConsts": 1297,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1297,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 454736
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 454736
+    },
+    "heroicons-outline": {
+      "dartConsts": 385,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 385,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 154276
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 154276
+    },
+    "heroicons-solid": {
+      "dartConsts": 389,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 389,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 121304
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 121304
+    },
+    "hugeicons": {
+      "dartConsts": 5115,
+      "duotoneCount": 3,
+      "history": [
+        {
+          "dartConsts": 5115,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 2622416
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 2622416
+    },
+    "humbleicons": {
+      "dartConsts": 288,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 288,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 99712
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 99712
+    },
+    "ic": {
+      "dartConsts": 10972,
+      "duotoneCount": 1289,
+      "history": [
+        {
+          "dartConsts": 10972,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.474",
+          "ttfBytes": 1489088
+        }
+      ],
+      "lastIconifyVersion": "2.2.474",
+      "ttfBytes": 1489088
+    },
+    "icomoon-free": {
+      "dartConsts": 491,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 491,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 93812
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 93812
+    },
+    "icon-park": {
+      "dartConsts": 2656,
+      "duotoneCount": 79,
+      "history": [
+        {
+          "dartConsts": 2656,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 985584
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 985584
+    },
+    "icon-park-outline": {
+      "dartConsts": 2657,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 2657,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1150460
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1150460
+    },
+    "icon-park-solid": {
+      "dartConsts": 1970,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1970,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 698168
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 698168
+    },
+    "icon-park-twotone": {
+      "dartConsts": 1947,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1947,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 843792
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 843792
+    },
+    "iconamoon": {
+      "dartConsts": 1781,
+      "duotoneCount": 98,
+      "history": [
+        {
+          "dartConsts": 1781,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 528288
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 528288
+    },
+    "iconoir": {
+      "dartConsts": 8080,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 8080,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1977332
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1977332
+    },
+    "icons8": {
+      "dartConsts": 234,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 234,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 42072
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 42072
+    },
+    "il": {
+      "dartConsts": 84,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 84,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 14660
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 14660
+    },
+    "ion": {
+      "dartConsts": 2602,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 2602,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 577816
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 577816
+    },
+    "iwwa": {
+      "dartConsts": 105,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 105,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 36808
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 36808
+    },
+    "ix": {
+      "dartConsts": 1434,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1434,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 324660
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 324660
+    },
+    "jam": {
+      "dartConsts": 940,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 940,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 316384
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 316384
+    },
+    "la": {
+      "dartConsts": 2330,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 2330,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 368768
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 368768
+    },
+    "lets-icons": {
+      "dartConsts": 1544,
+      "duotoneCount": 286,
+      "history": [
+        {
+          "dartConsts": 1544,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 537628
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 537628
+    },
+    "line-md": {
+      "dartConsts": 1279,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1279,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 355112
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 355112
+    },
+    "lineicons": {
+      "dartConsts": 962,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 962,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 403828
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 403828
+    },
+    "logos": {
+      "dartConsts": 928,
+      "duotoneCount": 378,
+      "history": [
+        {
+          "dartConsts": 928,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 570884
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 570884
+    },
+    "ls": {
+      "dartConsts": 348,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 348,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 87936
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 87936
+    },
+    "lsicon": {
+      "dartConsts": 716,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 716,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 172980
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 172980
+    },
+    "lucide": {
+      "dartConsts": 7920,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 7920,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 3055968
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 3055968
+    },
+    "lucide-lab": {
+      "dartConsts": 1552,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1552,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 757700
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 757700
+    },
+    "mage": {
+      "dartConsts": 1042,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1042,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 406084
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 406084
+    },
+    "majesticons": {
+      "dartConsts": 1045,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1045,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 386448
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 386448
+    },
+    "maki": {
+      "dartConsts": 602,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 602,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 94224
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 94224
+    },
+    "map": {
+      "dartConsts": 165,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 165,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 42596
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 42596
+    },
+    "marketeq": {
+      "dartConsts": 590,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 590,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 212456
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 212456
+    },
+    "material-icon-theme": {
+      "dartConsts": 775,
+      "duotoneCount": 539,
+      "history": [
+        {
+          "dartConsts": 775,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 118832
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 118832
+    },
+    "material-symbols": {
+      "dartConsts": 18575,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 18575,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 3220848
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 3220848
+    },
+    "material-symbols-light": {
+      "dartConsts": 15997,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 15997,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 3188960
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 3188960
+    },
+    "mdi": {
+      "dartConsts": 7636,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 7636,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1397380
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1397380
+    },
+    "mdi-light": {
+      "dartConsts": 304,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 304,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 75444
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 75444
+    },
+    "medical-icon": {
+      "dartConsts": 143,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 143,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 61260
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 61260
+    },
+    "memory": {
+      "dartConsts": 655,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 655,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 135144
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 135144
+    },
+    "meteocons": {
+      "dartConsts": 282,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 282,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 46720
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 46720
+    },
+    "meteor-icons": {
+      "dartConsts": 321,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 321,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 111284
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 111284
+    },
+    "mi": {
+      "dartConsts": 180,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 180,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 35284
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 35284
+    },
+    "mingcute": {
+      "dartConsts": 3352,
+      "duotoneCount": 2,
+      "history": [
+        {
+          "dartConsts": 3352,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1277160
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1277160
+    },
+    "mono-icons": {
+      "dartConsts": 180,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 180,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 35368
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 35368
+    },
+    "mynaui": {
+      "dartConsts": 2852,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 2852,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 949248
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 949248
+    },
+    "nimbus": {
+      "dartConsts": 140,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 140,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 32540
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 32540
+    },
+    "nonicons": {
+      "dartConsts": 69,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 69,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 30020
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 30020
+    },
+    "noto": {
+      "dartConsts": 328,
+      "duotoneCount": 58,
+      "history": [
+        {
+          "dartConsts": 328,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 205940
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 205940
+    },
+    "noto-v1": {
+      "dartConsts": 633,
+      "duotoneCount": 246,
+      "history": [
+        {
+          "dartConsts": 633,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 244836
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 244836
+    },
+    "nrk": {
+      "dartConsts": 241,
+      "duotoneCount": 23,
+      "history": [
+        {
+          "dartConsts": 241,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 51244
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 51244
+    },
+    "octicon": {
+      "dartConsts": 929,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 929,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 310016
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 310016
+    },
+    "oi": {
+      "dartConsts": 223,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 223,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 28788
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 28788
+    },
+    "ooui": {
+      "dartConsts": 365,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 365,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 57384
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 57384
+    },
+    "openmoji": {
+      "dartConsts": 3979,
+      "duotoneCount": 5,
+      "history": [
+        {
+          "dartConsts": 3979,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1854164
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1854164
+    },
+    "oui": {
+      "dartConsts": 437,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 437,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 116004
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 116004
+    },
+    "pajamas": {
+      "dartConsts": 416,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 416,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 139908
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 139908
+    },
+    "pepicons": {
+      "dartConsts": 430,
+      "duotoneCount": 125,
+      "history": [
+        {
+          "dartConsts": 430,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 192032
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 192032
+    },
+    "pepicons-pencil": {
+      "dartConsts": 1275,
+      "duotoneCount": 1,
+      "history": [
+        {
+          "dartConsts": 1275,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 686844
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 686844
+    },
+    "pepicons-pop": {
+      "dartConsts": 1298,
+      "duotoneCount": 1,
+      "history": [
+        {
+          "dartConsts": 1298,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 632336
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 632336
+    },
+    "pepicons-print": {
+      "dartConsts": 1286,
+      "duotoneCount": 703,
+      "history": [
+        {
+          "dartConsts": 1286,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 738628
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 738628
+    },
+    "ph": {
+      "dartConsts": 9161,
+      "duotoneCount": 1102,
+      "history": [
+        {
+          "dartConsts": 9161,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 2072876
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 2072876
+    },
+    "picon": {
+      "dartConsts": 824,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 824,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 80848
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 80848
+    },
+    "pixel": {
+      "dartConsts": 578,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 578,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 122980
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 122980
+    },
+    "pixelarticons": {
+      "dartConsts": 1099,
+      "duotoneCount": 2,
+      "history": [
+        {
+          "dartConsts": 1099,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 176144
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 176144
+    },
+    "prime": {
+      "dartConsts": 313,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 313,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 96964
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 96964
+    },
+    "proicons": {
+      "dartConsts": 572,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 572,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 219056
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 219056
+    },
+    "ps": {
+      "dartConsts": 479,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 479,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 105016
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 105016
+    },
+    "qlementine-icons": {
+      "dartConsts": 884,
+      "duotoneCount": 45,
+      "history": [
+        {
+          "dartConsts": 884,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 380060
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 380060
+    },
+    "quill": {
+      "dartConsts": 146,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 146,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 50724
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 50724
+    },
+    "radix-icons": {
+      "dartConsts": 344,
+      "duotoneCount": 4,
+      "history": [
+        {
+          "dartConsts": 344,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 113372
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 113372
+    },
+    "raphael": {
+      "dartConsts": 265,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 265,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 70892
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 70892
+    },
+    "ri": {
+      "dartConsts": 3241,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 3241,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 538248
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 538248
+    },
+    "rivet-icons": {
+      "dartConsts": 210,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 210,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 29624
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 29624
+    },
+    "roentgen": {
+      "dartConsts": 533,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 533,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 124540
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 124540
+    },
+    "si": {
+      "dartConsts": 1305,
+      "duotoneCount": 323,
+      "history": [
+        {
+          "dartConsts": 1305,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 383696
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 383696
+    },
+    "si-glyph": {
+      "dartConsts": 799,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 799,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 237956
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 237956
+    },
+    "sidekickicons": {
+      "dartConsts": 232,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 232,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 82736
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 82736
+    },
+    "simple-icons": {
+      "dartConsts": 3576,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 3576,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1377964
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1377964
+    },
+    "simple-line-icons": {
+      "dartConsts": 194,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 194,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 53828
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 53828
+    },
+    "skill-icons": {
+      "dartConsts": 379,
+      "duotoneCount": 125,
+      "history": [
+        {
+          "dartConsts": 379,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 168692
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 168692
+    },
+    "solar": {
+      "dartConsts": 7404,
+      "duotoneCount": 1595,
+      "history": [
+        {
+          "dartConsts": 7404,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 3394664
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 3394664
+    },
+    "stash": {
+      "dartConsts": 980,
+      "duotoneCount": 193,
+      "history": [
+        {
+          "dartConsts": 980,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 352896
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 352896
+    },
+    "streamline": {
+      "dartConsts": 4002,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 4002,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1693844
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1693844
+    },
+    "streamline-block": {
+      "dartConsts": 300,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 300,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 50760
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 50760
+    },
+    "streamline-color": {
+      "dartConsts": 1995,
+      "duotoneCount": 810,
+      "history": [
+        {
+          "dartConsts": 1995,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 731740
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 731740
+    },
+    "streamline-cyber": {
+      "dartConsts": 500,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 500,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 263452
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 263452
+    },
+    "streamline-cyber-color": {
+      "dartConsts": 497,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 497,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 187944
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 187944
+    },
+    "streamline-emojis": {
+      "dartConsts": 407,
+      "duotoneCount": 364,
+      "history": [
+        {
+          "dartConsts": 407,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 433804
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 433804
+    },
+    "streamline-flex": {
+      "dartConsts": 1500,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1500,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 729892
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 729892
+    },
+    "streamline-flex-color": {
+      "dartConsts": 998,
+      "duotoneCount": 433,
+      "history": [
+        {
+          "dartConsts": 998,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 426284
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 426284
+    },
+    "streamline-freehand": {
+      "dartConsts": 1000,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1000,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 948472
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 948472
+    },
+    "streamline-freehand-color": {
+      "dartConsts": 978,
+      "duotoneCount": 971,
+      "history": [
+        {
+          "dartConsts": 978,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 975660
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 975660
+    },
+    "streamline-kameleon-color": {
+      "dartConsts": 66,
+      "duotoneCount": 3,
+      "history": [
+        {
+          "dartConsts": 66,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 34748
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 34748
+    },
+    "streamline-logos": {
+      "dartConsts": 1362,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1362,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 577040
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 577040
+    },
+    "streamline-pixel": {
+      "dartConsts": 662,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 662,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 257536
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 257536
+    },
+    "streamline-plump": {
+      "dartConsts": 1499,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1499,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 803700
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 803700
+    },
+    "streamline-plump-color": {
+      "dartConsts": 992,
+      "duotoneCount": 435,
+      "history": [
+        {
+          "dartConsts": 992,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 451996
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 451996
+    },
+    "streamline-sharp": {
+      "dartConsts": 1500,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1500,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 368896
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 368896
+    },
+    "streamline-sharp-color": {
+      "dartConsts": 999,
+      "duotoneCount": 437,
+      "history": [
+        {
+          "dartConsts": 999,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 233068
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 233068
+    },
+    "streamline-stickies-color": {
+      "dartConsts": 165,
+      "duotoneCount": 5,
+      "history": [
+        {
+          "dartConsts": 165,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 156164
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 156164
+    },
+    "streamline-ultimate": {
+      "dartConsts": 1999,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1999,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 1137772
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 1137772
+    },
+    "streamline-ultimate-color": {
+      "dartConsts": 580,
+      "duotoneCount": 2,
+      "history": [
+        {
+          "dartConsts": 580,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 310936
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 310936
+    },
+    "subway": {
+      "dartConsts": 307,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 307,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 47980
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 47980
+    },
+    "svg-spinners": {
+      "dartConsts": 27,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 27,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 3704
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 3704
+    },
+    "system-uicons": {
+      "dartConsts": 432,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 432,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 156596
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 156596
+    },
+    "tabler": {
+      "dartConsts": 25511,
+      "duotoneCount": 4,
+      "history": [
+        {
+          "dartConsts": 25511,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 9262324
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 9262324
+    },
+    "tdesign": {
+      "dartConsts": 2364,
+      "duotoneCount": 1,
+      "history": [
+        {
+          "dartConsts": 2364,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 529844
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 529844
+    },
+    "teenyicons": {
+      "dartConsts": 1200,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1200,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 322004
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 322004
+    },
+    "temaki": {
+      "dartConsts": 555,
+      "duotoneCount": 1,
+      "history": [
+        {
+          "dartConsts": 555,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 158160
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 158160
+    },
+    "token": {
+      "dartConsts": 1854,
+      "duotoneCount": 10,
+      "history": [
+        {
+          "dartConsts": 1854,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 752744
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 752744
+    },
+    "token-branded": {
+      "dartConsts": 1566,
+      "duotoneCount": 203,
+      "history": [
+        {
+          "dartConsts": 1566,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 722436
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 722436
+    },
+    "topcoat": {
+      "dartConsts": 88,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 88,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 17248
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 17248
+    },
+    "twemoji": {
+      "dartConsts": 4576,
+      "duotoneCount": 4498,
+      "history": [
+        {
+          "dartConsts": 4576,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 5522156
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 5522156
+    },
+    "typcn": {
+      "dartConsts": 335,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 335,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 79048
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 79048
+    },
+    "uil": {
+      "dartConsts": 1242,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 1242,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 314904
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 314904
+    },
+    "uim": {
+      "dartConsts": 295,
+      "duotoneCount": 188,
+      "history": [
+        {
+          "dartConsts": 295,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 79772
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 79772
+    },
+    "uis": {
+      "dartConsts": 190,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 190,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 38316
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 38316
+    },
+    "uit": {
+      "dartConsts": 216,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 216,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 58168
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 58168
+    },
+    "uiw": {
+      "dartConsts": 214,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 214,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 74048
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 74048
+    },
+    "unjs": {
+      "dartConsts": 5,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 5,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 2912
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 2912
+    },
+    "vaadin": {
+      "dartConsts": 636,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 636,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 116624
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 116624
+    },
+    "vs": {
+      "dartConsts": 172,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 172,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 39248
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 39248
+    },
+    "vscode-icons": {
+      "dartConsts": 671,
+      "duotoneCount": 326,
+      "history": [
+        {
+          "dartConsts": 671,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 259648
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 259648
+    },
+    "websymbol": {
+      "dartConsts": 85,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 85,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 12528
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 12528
+    },
+    "weui": {
+      "dartConsts": 162,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 162,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 42948
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 42948
+    },
+    "whh": {
+      "dartConsts": 2125,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 2125,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 445732
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 445732
+    },
+    "wi": {
+      "dartConsts": 601,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 601,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 67976
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 67976
+    },
+    "wordpress": {
+      "dartConsts": 334,
+      "duotoneCount": 4,
+      "history": [
+        {
+          "dartConsts": 334,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 69308
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 69308
+    },
+    "wpf": {
+      "dartConsts": 283,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 283,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 61056
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 61056
+    },
+    "zmdi": {
+      "dartConsts": 885,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 885,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 110660
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 110660
+    },
+    "zondicons": {
+      "dartConsts": 301,
+      "duotoneCount": 0,
+      "history": [
+        {
+          "dartConsts": 301,
+          "date": "2026-05-16",
+          "iconifyJsonVersion": "2.2.472",
+          "ttfBytes": 41672
+        }
+      ],
+      "lastIconifyVersion": "2.2.472",
+      "ttfBytes": 41672
+    }
+  },
+  "schemaVersion": 1,
+  "thresholds": {
+    "sizeGrowthWarnRatio": 0.1
+  }
+}

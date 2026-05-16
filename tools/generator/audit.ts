@@ -103,6 +103,21 @@ const COMMANDS: Record<string, AuditCommand> = {
       });
     },
   },
+  'package-size-budget': {
+    description:
+      '§16 A15 package-size budget regression — snapshots per-pack TTF byte sum + Dart const count, compares against the previous ledger entry, and flags packs that grew > 10% without an @iconify/json version bump (suspect: cache loss, glyph inflation, sibling re-split). Updates docs/audit/package-size-ledger.json with bounded history.',
+    run: async (args) => {
+      const flags = parseSharedFlags(args);
+      const dryRun = args.includes('--dry-run');
+      const { runPackageSizeBudgetAudit } = await import(
+        './audit/package_size_budget.ts'
+      );
+      await runPackageSizeBudgetAudit({
+        prefixes: flags.prefixes,
+        dryRun,
+      });
+    },
+  },
 };
 
 function parseSharedFlags(args: string[]): { prefixes?: Set<string> } {
