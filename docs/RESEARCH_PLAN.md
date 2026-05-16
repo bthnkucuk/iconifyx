@@ -4951,101 +4951,128 @@ Most of the agents' recommendations BUILD on top of these.
 
 ---
 
-## §15 — Cmap dedup demote (post-build secondary verification)
+## §22 — Pack structural audit (subset — Rec 3 + Rec 4 landed)
 
-### Root cause
+The full §22 plan (5 recommendations, ~18 h total) lives in the main
+branch's RESEARCH_PLAN.md. This worktree implements the two cheapest
+and most additive: per-pack independent versioning (Rec 3) and
+category-meta packages (Rec 4). Together they unblock a future
+pub.dev publish strategy without disturbing the per-set-package
+layout.
 
-`svg2ttf` runs an outline-dedup pass on save. When multiple secondary
-glyphs share an identical traced outline — common in duotone `_2`
-sibling families where many halka/background layers trace to the same
-silhouette — every duplicate after the first is dropped from the GLYF
-table, but the cmap still maps each original codepoint at the
-*first* surviving glyph's name. The widget then renders the right
-primary plus the WRONG secondary letterform. `font_verify`'s existing
-"glyph has commands" check passes (the codepoint resolves to a real
-glyph), so the bug ships silently.
+### Rec 3 — Per-pack independent versioning  ✅  DONE
 
-The motivating case (caught independently by the `adfadae8`
-paint-algo agent during the Solar alignment investigation):
-`SolarSecondary.ttf` cmap at cp 0xE013 resolves to glyph
-`accessibility-bold-duotone` — NOT `add-circle-bold-duotone` as the
-manifest declares. Empirical counts via the new
-`bun run audit secondary-name-check`:
+**Problem.** Every emitted `iconifyx_<prefix>` pubspec pinned
+`version: 0.1.0`. A regen that touched ONE icon set still rewrote
+225 pubspecs with the same string — `iconifyx_mdi 0.1.0` could mean
+anything from "the day we set up the repo" to "yesterday's full
+Iconify-bump regen", with no way for a consumer to diff.
 
-| Pack | Secondary font | Declared duotones | Aliased (wrong cmap name) |
-|---|---|---:|---:|
-| `solar` | `SolarSecondary` | 1,954 | **676** |
-| `pepicons-print` | `PepiconsPrintSecondary` | 703 | **444** |
-| `ph` | `PhSecondary` | 998 | **281** |
-| `twemoji` | `TwemojiSecondary` | 637 | **262** |
-| `material-icon-theme` | `MaterialIconThemeSecondary` | 539 | **244** |
-| `fluent-emoji-flat` | `FluentEmojiFlatSecondary` | 495 | **164** |
-| `glyphs` | `GlyphsSecondary` | 1,605 | **162** |
-| `ic` | `IcSecondary` | 1,500 | **192** |
-| … 27 more packs | … | … | … |
-| **Total across 35 packs** | | **18,114** | **3,761** |
+**Change** (worktree).
+- New `Manifest.contentHash` (SHA-1) + `Manifest.version` (semver
+  string) fields.
+- New `tools/generator/src/version_bump.ts`:
+  - `computeManifestContentHash(m)` — sorted JSON of every
+    icon's `(codepoint, fontFamily, identifier, deprecated,
+    duotone, duotoneKind)` + sorted font families +
+    `iconifyJsonVersion` + license title. Deliberately
+    excludes `lastUpdated` and `info.total` (derived/stamp
+    fields) so they don't cause spurious bumps.
+  - `decideVersionBump(next, previous)` — four reasons:
+    `first` (seed `0.1.0`), `rollout` (previous lacks hash —
+    record without bumping), `unchanged` (carry forward),
+    `bumped` (patch +1).
+- Pipeline integration in `pipeline.ts`: after font-pruning,
+  call `decideVersionBump`, stamp `manifest.version` +
+  `manifest.contentHash`, then `emitSetDart` and
+  `emitSetPubspec` consume the version.
+- `pubspec_codegen.ts:emitSetPubspec` reads
+  `manifest.version ?? '0.1.0'`.
+- 14 unit tests in `version_bump.test.ts` cover all four
+  reasons + hash determinism + license/iconifyJsonVersion
+  sensitivity.
 
-### Fix
+**Verification** (worktree, 2026-05-15):
+- `bun run src/index.ts --set mdi`  → records hash, version
+  stays 0.1.0 (rollout reason).
+- Re-run with no changes → still 0.1.0 (unchanged reason).
+- Force `contentHash = 'stale'` → version bumps to 0.1.1
+  with log line `"mdi": version 0.1.0 → 0.1.1 (content
+  changed)`.
 
-Three pieces, all generator-side (no widget changes — the widget
-already does the right thing when handed correct fonts):
+**Out of scope (deferred).** Major-bump semantics (icon
+removal / codepoint shift breaking-change detection)
+require the §16-A3 identifier-rename audit, which isn't in
+this worktree. Patch-only bumps are correct for the additive
+changes that dominate Iconify upstream churn.
 
-1. **`tools/generator/src/font_verify.ts:verifySecondaryGlyphNames`**
-   — new function. For every duotone icon in a manifest, open
-   `<Family>Secondary.ttf` (or accept an in-memory buffer map from
-   the pipeline), look up `cmap[codepoint]`, and assert the
-   resolved glyph's NAME equals the icon name. Mismatches return a
-   `SecondaryAliasEntry` for diagnostics.
+### Rec 4 — Category-meta packages  ✅  DONE
 
-2. **`tools/generator/src/pipeline.ts`** — runs the check after
-   the post-build empty-font prune and before `emitSetDart`. Any
-   aliased icon gets `duotone = false`, `duotoneKind` dropped, and
-   the new informational marker `secondaryAliased = true` set.
-   `dart_codegen.ts` then emits `IconifyIconData.solo(...)` for
-   that icon instead of `.duo(...)`. The codepoint stays reserved
-   per CLAUDE.md §3 invariant; only the secondary layer disappears.
+**Problem.** Consumers who want "all logo packs" have to
+list ~12 individual deps (logos + simple-icons + cib +
+cryptocurrency-color + token + token-branded + …). The
+kitchen-sink `iconifyx` meta exists, but it pulls in every
+single Iconify pack's font (~250 MB pre-shake) — too
+expensive for an app that only cares about logos.
 
-3. **`tools/generator/audit.ts`** — new audit dispatcher with a
-   `secondary-name-check` subcommand. `bun run audit
-   secondary-name-check` writes `SECONDARY_NAME_AUDIT.md` at repo
-   root listing per-pack aliased counts so the gap can be tracked
-   between regens.
+**Change** (worktree).
+- New `emitCategoryMetaPubspec` + `emitCategoryMetaLibraryFile`
+  in `pubspec_codegen.ts`.
+- `categoryMetaPackageName(category)` → `iconifyx_<suffix>_meta`.
+  Suffix table for the 11 canonical Iconify categories:
+  `UI 24px → ui_24`, `UI 16px / 32px → ui_compact`,
+  `UI Other / Mixed Grid → ui_mixed`, `UI Multicolor → ui_multicolor`,
+  `Material → material`, `Logos → logos`, `Emoji → emoji`,
+  `Programming → programming`, `Thematic → thematic`,
+  `Flags / Maps → flags`, `Archive / Unmaintained → archive`.
+  Fallback `slugifyCategory()` for any future categories.
+- Mandatory `_meta` tail avoids the collision with
+  `iconifyx_logos` (Iconify ships a `logos` prefix).
+- `writeCategoryMetaPackages` in `pipeline.ts`: group
+  manifests by `manifest.category`, emit only buckets
+  with ≥ 3 members (`CATEGORY_META_MIN_MEMBERS`).
+- `cleanOrphans` protects `*_meta` directories from the
+  orphan sweep.
+- 14 unit tests in `pubspec_codegen.test.ts` cover suffix
+  mapping, collision avoidance, sorted exports, member
+  count in description.
 
-The check is cheap (~ms per font) and self-healing: if a future
-svg2ttf release fixes the dedup-name aliasing, the manifest's
-`secondaryAliased` markers will silently clear on the next regen
-(the duotone-split paths re-mark the icon as duotone and the
-verifier finds it correctly resolved).
+**Verification** (worktree, full regen, 2026-05-15):
+- 11 category-meta packages emitted:
+  `iconifyx_ui_24_meta` (56 members), `iconifyx_ui_mixed_meta`
+  (36), `iconifyx_archive_meta` (30), `iconifyx_ui_compact_meta`
+  (18), `iconifyx_logos_meta` (15), `iconifyx_ui_multicolor_meta`
+  (12), `iconifyx_emoji_meta` (11), `iconifyx_programming_meta`
+  (10), `iconifyx_thematic_meta` (8), `iconifyx_flags_meta`
+  (7), `iconifyx_material_meta` (6).
+- `fvm flutter pub get` on `iconifyx_material_meta` resolves
+  cleanly (14 transitive deps, mdi + mdi-light +
+  material-symbols + material-symbols-light + ic + line-md).
+- All meta packages have version `0.1.0`. Independent
+  versioning for metas is a follow-up if we publish to
+  pub.dev — current strategy ties bumps to per-set Rec 3.
 
-### Empirical verification
+**Trade-off.** Importing a category meta pulls every member
+pack's font asset in even if the consumer never references
+any of its icons. Documented explicitly in the emitted
+library doc-comment. Tree-shake of CONST consts is
+preserved (per-set `@staticIconProvider` is unchanged),
+but asset deps are all-or-nothing per `flutter pub get`.
 
-Smoke regen of `ic` in the worktree demoted **192 cmap-aliased
-duotones to solo** in one pass; re-running `secondary-name-check`
-against the regen'd TTF shows **0 aliased** for the pack. Sample
-demoted Dart const:
+### Files touched (worktree)
 
-```dart
-/// `baseline-signal-cellular-2-bar`
-static const IconifyIconData baselineSignalCellular2Bar =
-    IconifyIconData.solo(
-  IconData(0xe713, fontFamily: 'Ic', fontPackage: 'iconifyx_ic'),
-);
-```
-
-Pre-fix this same const was a `.duo(...)` call pointing at
-`IcSecondary.ttf` cp 0xE713, which resolved to
-`baseline-signal-cellular-1-bar`'s glyph — visible to the user as
-"signal-cellular-2-bar shows up with the wrong number of bars".
-
-### Visual impact
-
-Every previously-aliased duotone now renders as a clean solo glyph
-— no fake halka, no off-by-one signal-bar, no wrong-shape
-secondary letterform. The user-visible Solar
-`add-circle-bold-duotone` misalignment closes via a different
-mechanism than a paint-algorithm fix: instead of trying to align
-the wrong glyph, the icon simply doesn't try to render a secondary
-at all. That's the conservative, codepoint-stable fix
-(`accessibility-bold-duotone` itself still ships as duotone — only
-the icons whose intended secondary was aliased onto something else
-get demoted).
+- `tools/generator/src/manifest.ts` — `Manifest.version?` +
+  `Manifest.contentHash?` fields with doc-comments.
+- `tools/generator/src/version_bump.ts` — NEW. Hash + bump
+  logic + initial-seed semantics.
+- `tools/generator/src/version_bump.test.ts` — NEW. 14
+  tests.
+- `tools/generator/src/pubspec_codegen.ts` — pubspec emit
+  reads version from manifest; new category-meta emitters
+  + name table.
+- `tools/generator/src/pubspec_codegen.test.ts` — NEW. 9
+  tests on category naming + emission.
+- `tools/generator/src/pipeline.ts` — wire `decideVersionBump`
+  in `processOneSet`; new `writeCategoryMetaPackages` step;
+  `cleanOrphans` protects `*_meta`.
+- `docs/RESEARCH_PLAN.md` — this section.

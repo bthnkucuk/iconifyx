@@ -1,0 +1,31 @@
+name: iconifyx_thematic_meta
+description: >-
+  iconifyx category-meta package: re-exports every "Thematic" Iconify pack (8 members). Convenient bundle for apps that want all icons in this category at the cost of shipping every member font.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_academicons:
+    path: ../iconifyx_academicons
+  iconifyx_covid:
+    path: ../iconifyx_covid
+  iconifyx_fad:
+    path: ../iconifyx_fad
+  iconifyx_game_icons:
+    path: ../iconifyx_game_icons
+  iconifyx_healthicons:
+    path: ../iconifyx_healthicons
+  iconifyx_medical_icon:
+    path: ../iconifyx_medical_icon
+  iconifyx_meteocons:
+    path: ../iconifyx_meteocons
+  iconifyx_wi:
+    path: ../iconifyx_wi

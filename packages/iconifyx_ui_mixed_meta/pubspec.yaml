@@ -1,0 +1,87 @@
+name: iconifyx_ui_mixed_meta
+description: >-
+  iconifyx category-meta package: re-exports every "UI Other / Mixed Grid" Iconify pack (36 members). Convenient bundle for apps that want all icons in this category at the cost of shipping every member font.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_clarity:
+    path: ../iconifyx_clarity
+  iconifyx_codex:
+    path: ../iconifyx_codex
+  iconifyx_dinkie_icons:
+    path: ../iconifyx_dinkie_icons
+  iconifyx_ei:
+    path: ../iconifyx_ei
+  iconifyx_f7:
+    path: ../iconifyx_f7
+  iconifyx_fa7_regular:
+    path: ../iconifyx_fa7_regular
+  iconifyx_fa7_solid:
+    path: ../iconifyx_fa7_solid
+  iconifyx_fluent:
+    path: ../iconifyx_fluent
+  iconifyx_garden:
+    path: ../iconifyx_garden
+  iconifyx_glyphs:
+    path: ../iconifyx_glyphs
+  iconifyx_glyphs_poly:
+    path: ../iconifyx_glyphs_poly
+  iconifyx_heroicons:
+    path: ../iconifyx_heroicons
+  iconifyx_ix:
+    path: ../iconifyx_ix
+  iconifyx_maki:
+    path: ../iconifyx_maki
+  iconifyx_memory:
+    path: ../iconifyx_memory
+  iconifyx_nrk:
+    path: ../iconifyx_nrk
+  iconifyx_octicon:
+    path: ../iconifyx_octicon
+  iconifyx_ooui:
+    path: ../iconifyx_ooui
+  iconifyx_oui:
+    path: ../iconifyx_oui
+  iconifyx_pajamas:
+    path: ../iconifyx_pajamas
+  iconifyx_pepicons_pencil:
+    path: ../iconifyx_pepicons_pencil
+  iconifyx_pepicons_pop:
+    path: ../iconifyx_pepicons_pop
+  iconifyx_pepicons_print:
+    path: ../iconifyx_pepicons_print
+  iconifyx_ph:
+    path: ../iconifyx_ph
+  iconifyx_picon:
+    path: ../iconifyx_picon
+  iconifyx_qlementine_icons:
+    path: ../iconifyx_qlementine_icons
+  iconifyx_radix_icons:
+    path: ../iconifyx_radix_icons
+  iconifyx_sidekickicons:
+    path: ../iconifyx_sidekickicons
+  iconifyx_streamline:
+    path: ../iconifyx_streamline
+  iconifyx_streamline_flex:
+    path: ../iconifyx_streamline_flex
+  iconifyx_streamline_freehand:
+    path: ../iconifyx_streamline_freehand
+  iconifyx_system_uicons:
+    path: ../iconifyx_system_uicons
+  iconifyx_teenyicons:
+    path: ../iconifyx_teenyicons
+  iconifyx_temaki:
+    path: ../iconifyx_temaki
+  iconifyx_uiw:
+    path: ../iconifyx_uiw
+  iconifyx_zondicons:
+    path: ../iconifyx_zondicons

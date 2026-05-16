@@ -1,0 +1,127 @@
+name: iconifyx_ui_24_meta
+description: >-
+  iconifyx category-meta package: re-exports every "UI 24px" Iconify pack (56 members). Convenient bundle for apps that want all icons in this category at the cost of shipping every member font.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_akar_icons:
+    path: ../iconifyx_akar_icons
+  iconifyx_basil:
+    path: ../iconifyx_basil
+  iconifyx_bitcoin_icons:
+    path: ../iconifyx_bitcoin_icons
+  iconifyx_boxicons:
+    path: ../iconifyx_boxicons
+  iconifyx_bx:
+    path: ../iconifyx_bx
+  iconifyx_bxs:
+    path: ../iconifyx_bxs
+  iconifyx_ci:
+    path: ../iconifyx_ci
+  iconifyx_circum:
+    path: ../iconifyx_circum
+  iconifyx_cuida:
+    path: ../iconifyx_cuida
+  iconifyx_duo_icons:
+    path: ../iconifyx_duo_icons
+  iconifyx_eos_icons:
+    path: ../iconifyx_eos_icons
+  iconifyx_fe:
+    path: ../iconifyx_fe
+  iconifyx_flowbite:
+    path: ../iconifyx_flowbite
+  iconifyx_gg:
+    path: ../iconifyx_gg
+  iconifyx_gridicons:
+    path: ../iconifyx_gridicons
+  iconifyx_guidance:
+    path: ../iconifyx_guidance
+  iconifyx_hugeicons:
+    path: ../iconifyx_hugeicons
+  iconifyx_humbleicons:
+    path: ../iconifyx_humbleicons
+  iconifyx_icon_park_outline:
+    path: ../iconifyx_icon_park_outline
+  iconifyx_icon_park_solid:
+    path: ../iconifyx_icon_park_solid
+  iconifyx_icon_park_twotone:
+    path: ../iconifyx_icon_park_twotone
+  iconifyx_iconamoon:
+    path: ../iconifyx_iconamoon
+  iconifyx_iconoir:
+    path: ../iconifyx_iconoir
+  iconifyx_jam:
+    path: ../iconifyx_jam
+  iconifyx_lets_icons:
+    path: ../iconifyx_lets_icons
+  iconifyx_lineicons:
+    path: ../iconifyx_lineicons
+  iconifyx_lucide:
+    path: ../iconifyx_lucide
+  iconifyx_lucide_lab:
+    path: ../iconifyx_lucide_lab
+  iconifyx_mage:
+    path: ../iconifyx_mage
+  iconifyx_majesticons:
+    path: ../iconifyx_majesticons
+  iconifyx_meteor_icons:
+    path: ../iconifyx_meteor_icons
+  iconifyx_mi:
+    path: ../iconifyx_mi
+  iconifyx_mingcute:
+    path: ../iconifyx_mingcute
+  iconifyx_mynaui:
+    path: ../iconifyx_mynaui
+  iconifyx_pixel:
+    path: ../iconifyx_pixel
+  iconifyx_pixelarticons:
+    path: ../iconifyx_pixelarticons
+  iconifyx_prime:
+    path: ../iconifyx_prime
+  iconifyx_proicons:
+    path: ../iconifyx_proicons
+  iconifyx_ri:
+    path: ../iconifyx_ri
+  iconifyx_si:
+    path: ../iconifyx_si
+  iconifyx_solar:
+    path: ../iconifyx_solar
+  iconifyx_stash:
+    path: ../iconifyx_stash
+  iconifyx_streamline_cyber:
+    path: ../iconifyx_streamline_cyber
+  iconifyx_streamline_plump:
+    path: ../iconifyx_streamline_plump
+  iconifyx_streamline_sharp:
+    path: ../iconifyx_streamline_sharp
+  iconifyx_streamline_ultimate:
+    path: ../iconifyx_streamline_ultimate
+  iconifyx_svg_spinners:
+    path: ../iconifyx_svg_spinners
+  iconifyx_tabler:
+    path: ../iconifyx_tabler
+  iconifyx_tdesign:
+    path: ../iconifyx_tdesign
+  iconifyx_typcn:
+    path: ../iconifyx_typcn
+  iconifyx_uil:
+    path: ../iconifyx_uil
+  iconifyx_uim:
+    path: ../iconifyx_uim
+  iconifyx_uis:
+    path: ../iconifyx_uis
+  iconifyx_uit:
+    path: ../iconifyx_uit
+  iconifyx_weui:
+    path: ../iconifyx_weui
+  iconifyx_wordpress:
+    path: ../iconifyx_wordpress

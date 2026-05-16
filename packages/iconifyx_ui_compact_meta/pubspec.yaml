@@ -1,0 +1,51 @@
+name: iconifyx_ui_compact_meta
+description: >-
+  iconifyx category-meta package: re-exports every "UI 16px / 32px" Iconify pack (18 members). Convenient bundle for apps that want all icons in this category at the cost of shipping every member font.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_ant_design:
+    path: ../iconifyx_ant_design
+  iconifyx_bi:
+    path: ../iconifyx_bi
+  iconifyx_bytesize:
+    path: ../iconifyx_bytesize
+  iconifyx_carbon:
+    path: ../iconifyx_carbon
+  iconifyx_charm:
+    path: ../iconifyx_charm
+  iconifyx_cil:
+    path: ../iconifyx_cil
+  iconifyx_ep:
+    path: ../iconifyx_ep
+  iconifyx_famicons:
+    path: ../iconifyx_famicons
+  iconifyx_formkit:
+    path: ../iconifyx_formkit
+  iconifyx_gravity_ui:
+    path: ../iconifyx_gravity_ui
+  iconifyx_ion:
+    path: ../iconifyx_ion
+  iconifyx_lsicon:
+    path: ../iconifyx_lsicon
+  iconifyx_nimbus:
+    path: ../iconifyx_nimbus
+  iconifyx_quill:
+    path: ../iconifyx_quill
+  iconifyx_rivet_icons:
+    path: ../iconifyx_rivet_icons
+  iconifyx_roentgen:
+    path: ../iconifyx_roentgen
+  iconifyx_streamline_block:
+    path: ../iconifyx_streamline_block
+  iconifyx_streamline_pixel:
+    path: ../iconifyx_streamline_pixel

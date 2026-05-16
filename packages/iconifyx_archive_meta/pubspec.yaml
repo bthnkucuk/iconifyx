@@ -1,0 +1,75 @@
+name: iconifyx_archive_meta
+description: >-
+  iconifyx category-meta package: re-exports every "Archive / Unmaintained" Iconify pack (30 members). Convenient bundle for apps that want all icons in this category at the cost of shipping every member font.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_dashicons:
+    path: ../iconifyx_dashicons
+  iconifyx_el:
+    path: ../iconifyx_el
+  iconifyx_entypo:
+    path: ../iconifyx_entypo
+  iconifyx_et:
+    path: ../iconifyx_et
+  iconifyx_eva:
+    path: ../iconifyx_eva
+  iconifyx_fa:
+    path: ../iconifyx_fa
+  iconifyx_fa6_brands:
+    path: ../iconifyx_fa6_brands
+  iconifyx_fa6_regular:
+    path: ../iconifyx_fa6_regular
+  iconifyx_fa6_solid:
+    path: ../iconifyx_fa6_solid
+  iconifyx_fa_brands:
+    path: ../iconifyx_fa_brands
+  iconifyx_fa_regular:
+    path: ../iconifyx_fa_regular
+  iconifyx_fa_solid:
+    path: ../iconifyx_fa_solid
+  iconifyx_flat_color_icons:
+    path: ../iconifyx_flat_color_icons
+  iconifyx_fluent_mdl2:
+    path: ../iconifyx_fluent_mdl2
+  iconifyx_fontisto:
+    path: ../iconifyx_fontisto
+  iconifyx_foundation:
+    path: ../iconifyx_foundation
+  iconifyx_gala:
+    path: ../iconifyx_gala
+  iconifyx_grommet_icons:
+    path: ../iconifyx_grommet_icons
+  iconifyx_heroicons_outline:
+    path: ../iconifyx_heroicons_outline
+  iconifyx_heroicons_solid:
+    path: ../iconifyx_heroicons_solid
+  iconifyx_icomoon_free:
+    path: ../iconifyx_icomoon_free
+  iconifyx_icons8:
+    path: ../iconifyx_icons8
+  iconifyx_iwwa:
+    path: ../iconifyx_iwwa
+  iconifyx_la:
+    path: ../iconifyx_la
+  iconifyx_oi:
+    path: ../iconifyx_oi
+  iconifyx_raphael:
+    path: ../iconifyx_raphael
+  iconifyx_simple_line_icons:
+    path: ../iconifyx_simple_line_icons
+  iconifyx_subway:
+    path: ../iconifyx_subway
+  iconifyx_vaadin:
+    path: ../iconifyx_vaadin
+  iconifyx_wpf:
+    path: ../iconifyx_wpf

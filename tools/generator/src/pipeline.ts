@@ -55,6 +55,9 @@ import {
   emitSetLibraryFile,
   emitMetaPubspec,
   emitMetaLibraryFile,
+  emitCategoryMetaPubspec,
+  emitCategoryMetaLibraryFile,
+  categoryMetaPackageName,
 } from './pubspec_codegen.ts';
 import { emitSetThirdPartyLicense, emitSetLicenseDart } from './license_codegen.ts';
 import {
@@ -293,6 +296,9 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
 
   log.step('Writing meta package');
   await writeMetaPackage(allManifests);
+
+  log.step('Writing category-meta packages (§22 Rec 4)');
+  await writeCategoryMetaPackages(allManifests);
 
   log.step('Writing website app data');
   await writeWebsiteData(allManifests, collections, config, iconifyVersion);
@@ -1385,6 +1391,73 @@ async function writeMetaPackage(manifests: Manifest[]): Promise<void> {
   );
 }
 
+/** Only emit category-meta packs that group at least this many member sets. */
+const CATEGORY_META_MIN_MEMBERS = 3;
+
+/**
+ * §22 Rec 4 — emit one `iconifyx_<suffix>_meta` package per Iconify
+ * `info.category` bucket that has ≥ `CATEGORY_META_MIN_MEMBERS` member
+ * packs. Each emitted meta package is structurally identical to the
+ * kitchen-sink `iconifyx` meta — just scoped to the one category.
+ *
+ * Versioning policy: meta package versions are derived from the JOIN
+ * of their members' content hashes. Specifically, hash the sorted list
+ * of `member.contentHash` values and use that as the meta's stable
+ * fingerprint. We don't currently re-bump on hash drift for these
+ * (Rec 3 is about per-set packs); the meta gets a static `0.1.0` for
+ * now. Independent meta versioning is a follow-up if/when these get
+ * published to pub.dev.
+ */
+async function writeCategoryMetaPackages(manifests: Manifest[]): Promise<void> {
+  // Group manifests by raw `info.category` (the Iconify category, NOT the
+  // display alias — we want the canonical key for the package suffix).
+  const byCategory = new Map<string, Manifest[]>();
+  for (const m of manifests) {
+    const cat = m.category;
+    if (!cat) continue;
+    if (!byCategory.has(cat)) byCategory.set(cat, []);
+    byCategory.get(cat)!.push(m);
+  }
+
+  let emitted = 0;
+  for (const [category, members] of byCategory) {
+    if (members.length < CATEGORY_META_MIN_MEMBERS) continue;
+
+    const memberPackages = members
+      .map((m) => setPackageName(m.prefix))
+      .sort();
+
+    const metaName = categoryMetaPackageName(category);
+    const metaDir = path.join(packagesDir(), metaName);
+    await mkdir(path.join(metaDir, 'lib'), { recursive: true });
+
+    await writeFile(
+      path.join(metaDir, 'pubspec.yaml'),
+      emitCategoryMetaPubspec({
+        category,
+        memberPackages,
+        version: '0.1.0',
+      }),
+      'utf8'
+    );
+    await writeFile(
+      path.join(metaDir, 'lib', `${metaName}.dart`),
+      emitCategoryMetaLibraryFile({ category, memberPackages }),
+      'utf8'
+    );
+    emitted += 1;
+    log.info(
+      `  ${metaName}: ${memberPackages.length} member pack${memberPackages.length === 1 ? '' : 's'}`
+    );
+  }
+
+  if (emitted === 0) {
+    log.info('  (no categories with ≥ 3 members; skipping)');
+  } else {
+    log.success(`  emitted ${emitted} category-meta package${emitted === 1 ? '' : 's'}`);
+  }
+}
+
 async function writeWebsiteData(
   manifests: Manifest[],
   collections: Record<string, IconifyCollection>,
@@ -1456,12 +1529,16 @@ export async function cleanOrphans(): Promise<void> {
   }
 
   // Drop per-set package directories for unknown prefixes. The core + meta
-  // package directories are protected.
+  // package directories are protected. So are §22 Rec 4 category-meta
+  // packages (`iconifyx_<suffix>_meta`) — they're regenerated each
+  // run from `manifest.category`, so they don't get removed here even
+  // if no Iconify prefix corresponds to their suffix.
   const pkgRoot = packagesDir();
   if (existsSync(pkgRoot)) {
     for (const entry of await readdir(pkgRoot)) {
       if (!entry.startsWith('iconifyx_')) continue;
       if (entry === 'iconifyx_core') continue;
+      if (entry.endsWith('_meta')) continue; // category-meta pack, regenerated each run
       const suffix = entry.slice('iconifyx_'.length);
       // Reverse-derive: '_' could have been a '-' originally. We need to
       // check if ANY known prefix maps to this suffix.

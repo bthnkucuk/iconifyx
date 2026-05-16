@@ -1,0 +1,39 @@
+name: iconifyx_ui_multicolor_meta
+description: >-
+  iconifyx category-meta package: re-exports every "UI Multicolor" Iconify pack (12 members). Convenient bundle for apps that want all icons in this category at the cost of shipping every member font.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_fluent_color:
+    path: ../iconifyx_fluent_color
+  iconifyx_icon_park:
+    path: ../iconifyx_icon_park
+  iconifyx_marketeq:
+    path: ../iconifyx_marketeq
+  iconifyx_streamline_color:
+    path: ../iconifyx_streamline_color
+  iconifyx_streamline_cyber_color:
+    path: ../iconifyx_streamline_cyber_color
+  iconifyx_streamline_flex_color:
+    path: ../iconifyx_streamline_flex_color
+  iconifyx_streamline_freehand_color:
+    path: ../iconifyx_streamline_freehand_color
+  iconifyx_streamline_kameleon_color:
+    path: ../iconifyx_streamline_kameleon_color
+  iconifyx_streamline_plump_color:
+    path: ../iconifyx_streamline_plump_color
+  iconifyx_streamline_sharp_color:
+    path: ../iconifyx_streamline_sharp_color
+  iconifyx_streamline_stickies_color:
+    path: ../iconifyx_streamline_stickies_color
+  iconifyx_streamline_ultimate_color:
+    path: ../iconifyx_streamline_ultimate_color

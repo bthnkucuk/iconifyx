@@ -1,0 +1,27 @@
+name: iconifyx_material_meta
+description: >-
+  iconifyx category-meta package: re-exports every "Material" Iconify pack (6 members). Convenient bundle for apps that want all icons in this category at the cost of shipping every member font.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_ic:
+    path: ../iconifyx_ic
+  iconifyx_line_md:
+    path: ../iconifyx_line_md
+  iconifyx_material_symbols:
+    path: ../iconifyx_material_symbols
+  iconifyx_material_symbols_light:
+    path: ../iconifyx_material_symbols_light
+  iconifyx_mdi:
+    path: ../iconifyx_mdi
+  iconifyx_mdi_light:
+    path: ../iconifyx_mdi_light

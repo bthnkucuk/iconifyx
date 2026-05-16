@@ -1,0 +1,29 @@
+name: iconifyx_flags_meta
+description: >-
+  iconifyx category-meta package: re-exports every "Flags / Maps" Iconify pack (7 members). Convenient bundle for apps that want all icons in this category at the cost of shipping every member font.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_cif:
+    path: ../iconifyx_cif
+  iconifyx_circle_flags:
+    path: ../iconifyx_circle_flags
+  iconifyx_flag:
+    path: ../iconifyx_flag
+  iconifyx_flagpack:
+    path: ../iconifyx_flagpack
+  iconifyx_geo:
+    path: ../iconifyx_geo
+  iconifyx_gis:
+    path: ../iconifyx_gis
+  iconifyx_map:
+    path: ../iconifyx_map

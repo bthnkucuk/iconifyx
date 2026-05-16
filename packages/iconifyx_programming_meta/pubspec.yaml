@@ -1,0 +1,35 @@
+name: iconifyx_programming_meta
+description: >-
+  iconifyx category-meta package: re-exports every "Programming" Iconify pack (10 members). Convenient bundle for apps that want all icons in this category at the cost of shipping every member font.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_catppuccin:
+    path: ../iconifyx_catppuccin
+  iconifyx_codicon:
+    path: ../iconifyx_codicon
+  iconifyx_devicon:
+    path: ../iconifyx_devicon
+  iconifyx_devicon_plain:
+    path: ../iconifyx_devicon_plain
+  iconifyx_file_icons:
+    path: ../iconifyx_file_icons
+  iconifyx_gcp:
+    path: ../iconifyx_gcp
+  iconifyx_material_icon_theme:
+    path: ../iconifyx_material_icon_theme
+  iconifyx_skill_icons:
+    path: ../iconifyx_skill_icons
+  iconifyx_unjs:
+    path: ../iconifyx_unjs
+  iconifyx_vscode_icons:
+    path: ../iconifyx_vscode_icons
