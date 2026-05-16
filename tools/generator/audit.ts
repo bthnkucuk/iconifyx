@@ -88,6 +88,21 @@ const COMMANDS: Record<string, AuditCommand> = {
       });
     },
   },
+  'strokefill-panics': {
+    description:
+      '§16 A12 stroke-fill panic-list regression tracker — reconstructs the current set of `deprecatedReason: panic-skipped` icons from manifests, diffs against the persisted state at docs/audit/strokefill-panics.json, and surfaces NEW regressions + RECOVERED upstream fixes. Updates the persisted state in place so subsequent runs treat the current regen as baseline. Read-only against pipeline.ts.',
+    run: async (args) => {
+      const flags = parseSharedFlags(args);
+      const dryRun = args.includes('--dry-run');
+      const { runStrokefillPanicsAudit } = await import(
+        './audit/strokefill_panics.ts'
+      );
+      await runStrokefillPanicsAudit({
+        prefixes: flags.prefixes,
+        dryRun,
+      });
+    },
+  },
 };
 
 function parseSharedFlags(args: string[]): { prefixes?: Set<string> } {
