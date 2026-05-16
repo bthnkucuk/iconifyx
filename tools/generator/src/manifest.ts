@@ -88,60 +88,9 @@ export interface ManifestIconEntry {
    */
   duotoneKind?: 'hint' | 'paintOrder' | 'maskInternal';
   /**
-   * Which Unicode tier the codepoint lives in: `'bmp'` (U+E000-U+F8FF,
-   * BMP PUA) or `'supp'` (U+F0000-U+10FFFF, Supplementary PUA).
-   *
-   * Introduced by the post-build font-merge step (RESEARCH_PLAN §32):
-   * when a pack has > 6000 icons (BMP PUA cap), the generator emits
-   * multiple sibling TTFs first, then merges them into ONE TTF using
-   * cmap format 12. The base sibling's icons stay at their original
-   * BMP codepoints (`tier: 'bmp'`); icons from ex-sibling TTFs get
-   * remapped to supp PUA (`tier: 'supp'`) at NEW codepoints.
-   *
-   * Omitted means `'bmp'` (back-compat default for any manifest written
-   * before §32). All single-TTF packs and the base sibling of split
-   * packs leave this field unset.
-   *
-   * NOTE: changing an icon's tier from `'bmp'` to `'supp'` (or vice
-   * versa) is a BREAKING change for consumers — codepoint changes are
-   * baked into compiled Flutter apps. The §32 migration is a one-time
-   * major version bump per affected pack.
-   */
-  tier?: 'bmp' | 'supp';
-  /**
-   * For alias entries (RESEARCH_PLAN §22 Rec 1): the iconify name of the
-   * canonical icon this alias points to. Aliases share the canonical's
-   * codepoint, font family, and rendered glyph — they're a pure rename.
-   *
-   * When set, codegen omits the alias from the main `<Prefix>Icons` class
-   * and instead emits it into `lib/aliases.dart` as a map entry pointing
-   * to the canonical const. This halves the generated Dart line count
-   * for alias-heavy packs (MDI: 6,363 aliases on 7,638 base icons), and
-   * keeps tree-shake intact because the alias map is opt-in (separate
-   * import path; importing it retains every canonical referenced).
-   *
-   * Solo / canonical icons must NOT carry this field.
-   */
-  aliasOf?: string;
-  /**
-   * Per-icon category list (RESEARCH_PLAN §22 Rec 2). Mirrors the keys of
-   * `info.categories` in the upstream Iconify JSON — most packs ship 1-3
-   * categories per icon, with some icons unclassified.
-   *
-   * Populated from `iconify-json/<prefix>.json`'s `categories` map at
-   * pipeline time. Drives the optional `lib/categories.dart` browse-map
-   * codegen: `const Map<String, List<IconifyIconData>>`, NOT exported by
-   * default. Importing it retains every referenced canonical (correct
-   * for browse use cases).
-   *
-   * Omitted when the upstream pack has no `categories` data, or for any
-   * icon that doesn't appear in any category list.
-   */
-  categories?: string[];
-  /**
    * Informational marker: this icon WAS classified as duotone by the
-   * pipeline (opacity / two-colour / mask-internal / vtracer / colour-
-   * mapped split), but the post-build cmap-name verification
+   * pipeline (opacity / two-colour / mask-internal / colour-mapped split),
+   * but the post-build cmap-name verification
    * (`verifySecondaryGlyphNames`, RESEARCH_PLAN §33 demote rule) found
    * that the `<Family>Secondary.ttf` cmap entry for this codepoint
    * resolves to a DIFFERENT glyph than this icon's own name. That

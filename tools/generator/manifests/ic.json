@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "prefix": "ic",
-  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersion": "2.2.474",
   "lastUpdated": "2026-05-16",
   "category": "Material",
   "subPackage": "iconifyx_ic",
@@ -26,8 +26,13 @@
     },
     {
       "family": "IcSecondary",
-      "nextCodepoint": 988948,
-      "iconCount": 1289
+      "nextCodepoint": 63344,
+      "iconCount": 31
+    },
+    {
+      "family": "Ic_2Secondary",
+      "nextCodepoint": 63252,
+      "iconCount": 1277
     }
   ],
   "icons": {
@@ -14391,9 +14396,6 @@
       "fontFamily": "Ic",
       "identifier": "baselineSignalCellular2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "baseline-signal-cellular-3-bar": {
@@ -14401,9 +14403,6 @@
       "fontFamily": "Ic",
       "identifier": "baselineSignalCellular3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "baseline-signal-cellular-4-bar": {
@@ -14460,9 +14459,6 @@
       "fontFamily": "Ic",
       "identifier": "baselineSignalCellularConnectedNoInternet2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "baseline-signal-cellular-connected-no-internet-3-bar": {
@@ -14470,9 +14466,6 @@
       "fontFamily": "Ic",
       "identifier": "baselineSignalCellularConnectedNoInternet3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "baseline-signal-cellular-connected-no-internet-4-bar": {
@@ -14546,9 +14539,6 @@
       "fontFamily": "Ic",
       "identifier": "baselineSignalWifi2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "baseline-signal-wifi-2-bar-lock": {
@@ -14556,9 +14546,6 @@
       "fontFamily": "Ic",
       "identifier": "baselineSignalWifi2BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "baseline-signal-wifi-3-bar": {
@@ -14566,9 +14553,6 @@
       "fontFamily": "Ic",
       "identifier": "baselineSignalWifi3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "baseline-signal-wifi-3-bar-lock": {
@@ -18032,7 +18016,6 @@
       "codepoint": 57651,
       "fontFamily": "Ic",
       "identifier": "battery20",
-      "aliasOf": "baseline-battery-20",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18040,7 +18023,6 @@
       "codepoint": 57653,
       "fontFamily": "Ic",
       "identifier": "battery30",
-      "aliasOf": "baseline-battery-30",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18048,7 +18030,6 @@
       "codepoint": 57656,
       "fontFamily": "Ic",
       "identifier": "battery50",
-      "aliasOf": "baseline-battery-50",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18056,7 +18037,6 @@
       "codepoint": 57658,
       "fontFamily": "Ic",
       "identifier": "battery60",
-      "aliasOf": "baseline-battery-60",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18064,7 +18044,6 @@
       "codepoint": 57659,
       "fontFamily": "Ic",
       "identifier": "battery80",
-      "aliasOf": "baseline-battery-80",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18072,7 +18051,6 @@
       "codepoint": 57660,
       "fontFamily": "Ic",
       "identifier": "battery90",
-      "aliasOf": "baseline-battery-90",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18086,7 +18064,6 @@
       "codepoint": 57662,
       "fontFamily": "Ic",
       "identifier": "batteryCharging20",
-      "aliasOf": "baseline-battery-charging-20",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18094,7 +18071,6 @@
       "codepoint": 57663,
       "fontFamily": "Ic",
       "identifier": "batteryCharging30",
-      "aliasOf": "baseline-battery-charging-30",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18102,7 +18078,6 @@
       "codepoint": 57664,
       "fontFamily": "Ic",
       "identifier": "batteryCharging50",
-      "aliasOf": "baseline-battery-charging-50",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18110,7 +18085,6 @@
       "codepoint": 57665,
       "fontFamily": "Ic",
       "identifier": "batteryCharging60",
-      "aliasOf": "baseline-battery-charging-60",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18118,7 +18092,6 @@
       "codepoint": 57666,
       "fontFamily": "Ic",
       "identifier": "batteryCharging80",
-      "aliasOf": "baseline-battery-charging-80",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -18126,7 +18099,6 @@
       "codepoint": 57667,
       "fontFamily": "Ic",
       "identifier": "batteryCharging90",
-      "aliasOf": "baseline-battery-charging-90",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -23042,9 +23014,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBattery20",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-3-bar": {
@@ -23060,9 +23029,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBattery30",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-4-bar": {
@@ -23086,9 +23052,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBattery50",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-6-bar": {
@@ -23104,9 +23067,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBattery60",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-80": {
@@ -23114,9 +23074,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBattery80",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-90": {
@@ -23124,9 +23081,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBattery90",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-alert": {
@@ -23142,9 +23096,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBatteryCharging20",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-charging-30": {
@@ -23152,9 +23103,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBatteryCharging30",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-charging-50": {
@@ -23162,9 +23110,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBatteryCharging50",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-charging-60": {
@@ -23172,9 +23117,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBatteryCharging60",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-charging-80": {
@@ -23182,9 +23124,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBatteryCharging80",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-charging-90": {
@@ -23192,9 +23131,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineBatteryCharging90",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-battery-charging-full": {
@@ -35090,9 +35026,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalCellular1Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-cellular-2-bar": {
@@ -35100,9 +35033,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalCellular2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-cellular-3-bar": {
@@ -35110,9 +35040,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalCellular3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-cellular-4-bar": {
@@ -35160,9 +35087,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalCellularConnectedNoInternet1Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-cellular-connected-no-internet-2-bar": {
@@ -35170,9 +35094,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalCellularConnectedNoInternet2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-cellular-connected-no-internet-3-bar": {
@@ -35180,9 +35101,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalCellularConnectedNoInternet3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-cellular-connected-no-internet-4-bar": {
@@ -35238,9 +35156,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalWifi1Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-wifi-1-bar-lock": {
@@ -35266,9 +35181,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalWifi2BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-wifi-3-bar": {
@@ -35276,9 +35188,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalWifi3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-wifi-3-bar-lock": {
@@ -35286,9 +35195,6 @@
       "fontFamily": "Ic",
       "identifier": "outlineSignalWifi3BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "outline-signal-wifi-4-bar": {
@@ -53411,9 +53317,6 @@
       "fontFamily": "Ic",
       "identifier": "roundSignalCellular2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "round-signal-cellular-3-bar": {
@@ -53421,9 +53324,6 @@
       "fontFamily": "Ic",
       "identifier": "roundSignalCellular3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "round-signal-cellular-4-bar": {
@@ -53480,9 +53380,6 @@
       "fontFamily": "Ic",
       "identifier": "roundSignalCellularConnectedNoInternet2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "round-signal-cellular-connected-no-internet-3-bar": {
@@ -53490,9 +53387,6 @@
       "fontFamily": "Ic",
       "identifier": "roundSignalCellularConnectedNoInternet3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "round-signal-cellular-connected-no-internet-4-bar": {
@@ -53566,9 +53460,6 @@
       "fontFamily": "Ic",
       "identifier": "roundSignalWifi2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "round-signal-wifi-2-bar-lock": {
@@ -53576,9 +53467,6 @@
       "fontFamily": "Ic",
       "identifier": "roundSignalWifi2BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "round-signal-wifi-3-bar": {
@@ -53586,9 +53474,6 @@
       "fontFamily": "Ic",
       "identifier": "roundSignalWifi3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "round-signal-wifi-3-bar-lock": {
@@ -53596,9 +53481,6 @@
       "fontFamily": "Ic",
       "identifier": "roundSignalWifi3BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "round-signal-wifi-4-bar": {
@@ -71242,9 +71124,6 @@
       "fontFamily": "Ic",
       "identifier": "sharpSignalCellular2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "sharp-signal-cellular-3-bar": {
@@ -71252,9 +71131,6 @@
       "fontFamily": "Ic",
       "identifier": "sharpSignalCellular3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "sharp-signal-cellular-4-bar": {
@@ -71312,9 +71188,6 @@
       "fontFamily": "Ic",
       "identifier": "sharpSignalCellularConnectedNoInternet2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "sharp-signal-cellular-connected-no-internet-3-bar": {
@@ -71322,9 +71195,6 @@
       "fontFamily": "Ic",
       "identifier": "sharpSignalCellularConnectedNoInternet3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "sharp-signal-cellular-connected-no-internet-4-bar": {
@@ -71410,9 +71280,6 @@
       "fontFamily": "Ic",
       "identifier": "sharpSignalWifi2BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "sharp-signal-wifi-3-bar": {
@@ -71420,9 +71287,6 @@
       "fontFamily": "Ic",
       "identifier": "sharpSignalWifi3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "sharp-signal-wifi-3-bar-lock": {
@@ -71430,9 +71294,6 @@
       "fontFamily": "Ic",
       "identifier": "sharpSignalWifi3BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "sharp-signal-wifi-4-bar": {
@@ -74935,7 +74796,6 @@
       "codepoint": 59154,
       "fontFamily": "Ic",
       "identifier": "signalCellular1Bar",
-      "aliasOf": "baseline-signal-cellular-1-bar",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -74943,7 +74803,6 @@
       "codepoint": 59155,
       "fontFamily": "Ic",
       "identifier": "signalCellular2Bar",
-      "aliasOf": "baseline-signal-cellular-2-bar",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -74951,7 +74810,6 @@
       "codepoint": 59156,
       "fontFamily": "Ic",
       "identifier": "signalCellular3Bar",
-      "aliasOf": "baseline-signal-cellular-3-bar",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -74971,7 +74829,6 @@
       "codepoint": 59162,
       "fontFamily": "Ic",
       "identifier": "signalCellularConnectedNoInternet1Bar",
-      "aliasOf": "baseline-signal-cellular-connected-no-internet-1-bar",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -74979,7 +74836,6 @@
       "codepoint": 59163,
       "fontFamily": "Ic",
       "identifier": "signalCellularConnectedNoInternet2Bar",
-      "aliasOf": "baseline-signal-cellular-connected-no-internet-2-bar",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -74987,7 +74843,6 @@
       "codepoint": 59164,
       "fontFamily": "Ic",
       "identifier": "signalCellularConnectedNoInternet3Bar",
-      "aliasOf": "baseline-signal-cellular-connected-no-internet-3-bar",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -75025,7 +74880,6 @@
       "codepoint": 59171,
       "fontFamily": "Ic",
       "identifier": "signalWifi1Bar",
-      "aliasOf": "baseline-signal-wifi-1-bar",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -75041,7 +74895,6 @@
       "codepoint": 59173,
       "fontFamily": "Ic",
       "identifier": "signalWifi2Bar",
-      "aliasOf": "baseline-signal-wifi-2-bar",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -75049,7 +74902,6 @@
       "codepoint": 59174,
       "fontFamily": "Ic",
       "identifier": "signalWifi2BarLock",
-      "aliasOf": "baseline-signal-wifi-2-bar-lock",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -75057,7 +74909,6 @@
       "codepoint": 59175,
       "fontFamily": "Ic",
       "identifier": "signalWifi3Bar",
-      "aliasOf": "baseline-signal-wifi-3-bar",
       "duotone": false,
       "secondaryAliased": true
     },
@@ -76977,9 +76828,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneAppBlocking",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-app-registration": {
@@ -76995,9 +76843,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneAppSettingsAlt",
       "duotone": false,
-      "categories": [
-        "Navigation"
-      ],
       "secondaryAliased": true
     },
     "twotone-app-shortcut": {
@@ -77257,9 +77102,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneAssignment",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-assignment-ind": {
@@ -77477,9 +77319,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneAutoFixNormal",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-auto-fix-off": {
@@ -77770,9 +77609,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneBattery6Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-battery-60": {
@@ -78193,9 +78029,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneBookmarkAdded",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-bookmark-border": {
@@ -78211,9 +78044,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneBookmarkRemove",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-bookmarks": {
@@ -78406,9 +78236,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneBrightness7",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-brightness-auto": {
@@ -78434,9 +78261,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneBrightnessLow",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-brightness-medium": {
@@ -79284,9 +79108,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneClass",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-clean-hands": {
@@ -79362,9 +79183,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneClosedCaptionOff",
       "duotone": false,
-      "categories": [
-        "AV"
-      ],
       "secondaryAliased": true
     },
     "twotone-cloud": {
@@ -79435,9 +79253,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneCloudUpload",
       "duotone": false,
-      "categories": [
-        "File"
-      ],
       "secondaryAliased": true
     },
     "twotone-co-present": {
@@ -79800,9 +79615,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneControlPoint",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-control-point-duplicate": {
@@ -80643,9 +80455,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneDirectionsCarFilled",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-directions-off": {
@@ -80714,9 +80523,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneDirectionsTransitFilled",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-directions-walk": {
@@ -80896,9 +80702,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneDoNotDisturbOn",
       "duotone": false,
-      "categories": [
-        "Notification"
-      ],
       "secondaryAliased": true
     },
     "twotone-do-not-disturb-on-total-silence": {
@@ -80950,9 +80753,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneDomain",
       "duotone": false,
-      "categories": [
-        "Social"
-      ],
       "secondaryAliased": true
     },
     "twotone-domain-add": {
@@ -81298,9 +81098,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneEdgesensorLow",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-edit": {
@@ -81308,9 +81105,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneEdit",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-edit-attributes": {
@@ -81327,9 +81121,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneEditCalendar",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-edit-location": {
@@ -81726,9 +81517,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneEvent",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-event-available": {
@@ -81745,9 +81533,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneEventBusy",
       "duotone": false,
-      "categories": [
-        "Notification"
-      ],
       "secondaryAliased": true
     },
     "twotone-event-note": {
@@ -81755,9 +81540,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneEventNote",
       "duotone": false,
-      "categories": [
-        "Notification"
-      ],
       "secondaryAliased": true
     },
     "twotone-event-repeat": {
@@ -81765,9 +81547,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneEventRepeat",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-event-seat": {
@@ -82166,9 +81945,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneFiberPin",
       "duotone": false,
-      "categories": [
-        "AV"
-      ],
       "secondaryAliased": true
     },
     "twotone-fiber-smart-record": {
@@ -82720,9 +82496,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneFluorescent",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-flutter-dash": {
@@ -83174,9 +82947,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneFreeCancellation",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-front-hand": {
@@ -83294,9 +83064,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneGetApp",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-gif": {
@@ -83732,9 +83499,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneHeadphonesBattery",
       "duotone": false,
-      "categories": [
-        "Hardware"
-      ],
       "secondaryAliased": true
     },
     "twotone-headset": {
@@ -84191,9 +83955,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneHvac",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-ice-skating": {
@@ -84403,9 +84164,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneInsertPhoto",
       "duotone": false,
-      "categories": [
-        "Editor"
-      ],
       "secondaryAliased": true
     },
     "twotone-insights": {
@@ -84439,9 +84197,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneIntegrationInstructions",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-interests": {
@@ -84821,9 +84576,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneLandscape",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-landslide": {
@@ -84849,9 +84601,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneLaptop",
       "duotone": false,
-      "categories": [
-        "Hardware"
-      ],
       "secondaryAliased": true
     },
     "twotone-laptop-chromebook": {
@@ -84877,9 +84626,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneLaptopWindows",
       "duotone": false,
-      "categories": [
-        "Hardware"
-      ],
       "secondaryAliased": true
     },
     "twotone-last-page": {
@@ -84963,9 +84709,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneLens",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-lens-blur": {
@@ -85042,9 +84785,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneLightMode",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-lightbulb": {
@@ -85304,9 +85044,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneLocalHotel",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-local-laundry-service": {
@@ -85394,9 +85131,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneLocalPlay",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-local-police": {
@@ -85499,9 +85233,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneLock",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-lock-clock": {
@@ -85518,9 +85249,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneLockOpen",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-lock-person": {
@@ -85833,9 +85561,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneMapsHomeWork",
       "duotone": false,
-      "categories": [
-        "Navigation"
-      ],
       "secondaryAliased": true
     },
     "twotone-maps-ugc": {
@@ -86036,9 +85761,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneMenuBook",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-menu-open": {
@@ -86106,9 +85828,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneMicNone",
       "duotone": false,
-      "categories": [
-        "AV"
-      ],
       "secondaryAliased": true
     },
     "twotone-mic-off": {
@@ -86245,9 +85964,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneModeEdit",
       "duotone": false,
-      "categories": [
-        "Editor"
-      ],
       "secondaryAliased": true
     },
     "twotone-mode-edit-outline": {
@@ -86255,9 +85971,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneModeEditOutline",
       "duotone": false,
-      "categories": [
-        "Editor"
-      ],
       "secondaryAliased": true
     },
     "twotone-mode-fan-off": {
@@ -86341,9 +86054,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneMonitor",
       "duotone": false,
-      "categories": [
-        "Hardware"
-      ],
       "secondaryAliased": true
     },
     "twotone-monitor-heart": {
@@ -86378,9 +86088,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneMood",
       "duotone": false,
-      "categories": [
-        "Social"
-      ],
       "secondaryAliased": true
     },
     "twotone-mood-bad": {
@@ -86397,9 +86104,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneMoped",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-more": {
@@ -86516,9 +86220,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneMoveToInbox",
       "duotone": false,
-      "categories": [
-        "Content"
-      ],
       "secondaryAliased": true
     },
     "twotone-move-up": {
@@ -86613,9 +86314,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneMusicOff",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-music-video": {
@@ -86632,9 +86330,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneMyLocation",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-nat": {
@@ -86925,9 +86620,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneNoCell",
       "duotone": false,
-      "categories": [
-        "Places"
-      ],
       "secondaryAliased": true
     },
     "twotone-no-crash": {
@@ -86935,9 +86627,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneNoCrash",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-no-drinks": {
@@ -86963,9 +86652,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneNoEncryptionGmailerrorred",
       "duotone": false,
-      "categories": [
-        "Notification"
-      ],
       "secondaryAliased": true
     },
     "twotone-no-flash": {
@@ -87125,9 +86811,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneNotListedLocation",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-not-started": {
@@ -87205,9 +86888,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneNotificationsActive",
       "duotone": false,
-      "categories": [
-        "Social"
-      ],
       "secondaryAliased": true
     },
     "twotone-notifications-none": {
@@ -87215,9 +86895,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneNotificationsNone",
       "duotone": false,
-      "categories": [
-        "Social"
-      ],
       "secondaryAliased": true
     },
     "twotone-notifications-off": {
@@ -87379,9 +87056,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneOutbound",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-outbox": {
@@ -87468,9 +87142,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePalette",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-pan-tool": {
@@ -87505,9 +87176,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePanoramaFishEye",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-panorama-horizontal": {
@@ -87644,9 +87312,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePauseCircleFilled",
       "duotone": false,
-      "categories": [
-        "AV"
-      ],
       "secondaryAliased": true
     },
     "twotone-pause-circle-outline": {
@@ -87732,9 +87397,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePeople",
       "duotone": false,
-      "categories": [
-        "Social"
-      ],
       "secondaryAliased": true
     },
     "twotone-people-alt": {
@@ -87751,9 +87413,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePeopleOutline",
       "duotone": false,
-      "categories": [
-        "Social"
-      ],
       "secondaryAliased": true
     },
     "twotone-percent": {
@@ -87804,9 +87463,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePermDeviceInformation",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-perm-identity": {
@@ -87949,9 +87605,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePersonPinCircle",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-person-remove": {
@@ -87968,9 +87621,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePersonRemoveAlt1",
       "duotone": false,
-      "categories": [
-        "Social"
-      ],
       "secondaryAliased": true
     },
     "twotone-person-search": {
@@ -88091,9 +87741,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePhoneForwarded",
       "duotone": false,
-      "categories": [
-        "Notification"
-      ],
       "secondaryAliased": true
     },
     "twotone-phone-in-talk": {
@@ -88137,9 +87784,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePhonePaused",
       "duotone": false,
-      "categories": [
-        "Notification"
-      ],
       "secondaryAliased": true
     },
     "twotone-phonelink": {
@@ -88147,9 +87791,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePhonelink",
       "duotone": false,
-      "categories": [
-        "Hardware"
-      ],
       "secondaryAliased": true
     },
     "twotone-phonelink-erase": {
@@ -88252,9 +87893,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePhotoLibrary",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-photo-size-select-actual": {
@@ -88425,9 +88063,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePlace",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-plagiarism": {
@@ -88471,9 +88106,6 @@
       "fontFamily": "Ic",
       "identifier": "twotonePlayCircleFilledWhite",
       "duotone": false,
-      "categories": [
-        "AV"
-      ],
       "secondaryAliased": true
     },
     "twotone-play-circle-outline": {
@@ -88918,9 +88550,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneQrCode",
       "duotone": false,
-      "categories": [
-        "Communication"
-      ],
       "secondaryAliased": true
     },
     "twotone-qr-code-2": {
@@ -88953,9 +88582,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneQueryBuilder",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-query-stats": {
@@ -89202,9 +88828,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneRectangle",
       "duotone": false,
-      "categories": [
-        "Editor"
-      ],
       "secondaryAliased": true
     },
     "twotone-recycling": {
@@ -89278,9 +88901,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneRemoveCircle",
       "duotone": false,
-      "categories": [
-        "Content"
-      ],
       "secondaryAliased": true
     },
     "twotone-remove-circle-outline": {
@@ -89645,9 +89265,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneRoom",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-room-preferences": {
@@ -89947,9 +89564,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSchedule",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-schedule-send": {
@@ -90072,9 +89686,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneScreenshot",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-screenshot-monitor": {
@@ -90126,9 +89737,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSdStorage",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-search": {
@@ -90161,9 +89769,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSecurityUpdate",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-security-update-good": {
@@ -90171,9 +89776,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSecurityUpdateGood",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-security-update-warning": {
@@ -90250,9 +89852,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSendToMobile",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-sensor-door": {
@@ -90763,9 +90362,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalCellular1Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-cellular-2-bar": {
@@ -90773,9 +90369,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalCellular2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-cellular-3-bar": {
@@ -90783,9 +90376,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalCellular3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-cellular-4-bar": {
@@ -90833,9 +90423,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalCellularConnectedNoInternet1Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-cellular-connected-no-internet-2-bar": {
@@ -90843,9 +90430,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalCellularConnectedNoInternet2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-cellular-connected-no-internet-3-bar": {
@@ -90853,9 +90437,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalCellularConnectedNoInternet3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-cellular-connected-no-internet-4-bar": {
@@ -90912,9 +90493,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalWifi1Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-wifi-1-bar-lock": {
@@ -90922,9 +90500,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalWifi1BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-wifi-2-bar": {
@@ -90932,9 +90507,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalWifi2Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-wifi-2-bar-lock": {
@@ -90942,9 +90514,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalWifi2BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-wifi-3-bar": {
@@ -90952,9 +90521,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalWifi3Bar",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-wifi-3-bar-lock": {
@@ -90962,9 +90528,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSignalWifi3BarLock",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-signal-wifi-4-bar": {
@@ -91054,9 +90617,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSimCardAlert",
       "duotone": false,
-      "categories": [
-        "Notification"
-      ],
       "secondaryAliased": true
     },
     "twotone-sim-card-download": {
@@ -91203,9 +90763,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSmsFailed",
       "duotone": false,
-      "categories": [
-        "Notification"
-      ],
       "secondaryAliased": true
     },
     "twotone-snapchat": {
@@ -91322,9 +90879,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSource",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-south": {
@@ -91400,9 +90954,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSpatialAudioOff",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-spatial-tracking": {
@@ -91410,9 +90961,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSpatialTracking",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-speaker": {
@@ -91671,9 +91219,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSquare",
       "duotone": false,
-      "categories": [
-        "Editor"
-      ],
       "secondaryAliased": true
     },
     "twotone-square-foot": {
@@ -91816,9 +91361,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneStayCurrentPortrait",
       "duotone": false,
-      "categories": [
-        "Communication"
-      ],
       "secondaryAliased": true
     },
     "twotone-stay-primary-landscape": {
@@ -91826,9 +91368,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneStayPrimaryLandscape",
       "duotone": false,
-      "categories": [
-        "Communication"
-      ],
       "secondaryAliased": true
     },
     "twotone-stay-primary-portrait": {
@@ -91836,9 +91375,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneStayPrimaryPortrait",
       "duotone": false,
-      "categories": [
-        "Communication"
-      ],
       "secondaryAliased": true
     },
     "twotone-sticky-note-2": {
@@ -91899,9 +91435,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneStoreMallDirectory",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-storefront": {
@@ -92210,9 +91743,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSwipeRight",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-swipe-right-alt": {
@@ -92229,9 +91759,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSwipeUp",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-swipe-up-alt": {
@@ -92248,9 +91775,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSwipeVertical",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-switch-access-shortcut": {
@@ -92368,9 +91892,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSystemSecurityUpdate",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-system-security-update-good": {
@@ -92378,9 +91899,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSystemSecurityUpdateGood",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-system-security-update-warning": {
@@ -92388,9 +91906,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneSystemSecurityUpdateWarning",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-system-update": {
@@ -92511,9 +92026,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneTagFaces",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-takeout-dining": {
@@ -92608,9 +92120,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneTerrain",
       "duotone": false,
-      "categories": [
-        "Maps"
-      ],
       "secondaryAliased": true
     },
     "twotone-text-decrease": {
@@ -92733,9 +92242,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneTheaters",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-thermostat": {
@@ -92778,9 +92284,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneThumbDownOffAlt",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-thumb-up": {
@@ -92806,9 +92309,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneThumbUpOffAlt",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-thumbs-up-down": {
@@ -92842,9 +92342,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneTimeToLeave",
       "duotone": false,
-      "categories": [
-        "Notification"
-      ],
       "secondaryAliased": true
     },
     "twotone-timelapse": {
@@ -92953,9 +92450,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneToday",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-toggle-off": {
@@ -93185,9 +92679,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneTry",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-tsunami": {
@@ -93295,9 +92786,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneTv",
       "duotone": false,
-      "categories": [
-        "Hardware"
-      ],
       "secondaryAliased": true
     },
     "twotone-tv-off": {
@@ -93456,9 +92944,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneUpload",
       "duotone": false,
-      "categories": [
-        "File"
-      ],
       "secondaryAliased": true
     },
     "twotone-upload-file": {
@@ -93509,9 +92994,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneVapingRooms",
       "duotone": false,
-      "categories": [
-        "Places"
-      ],
       "secondaryAliased": true
     },
     "twotone-verified": {
@@ -93739,9 +93221,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneViewCarousel",
       "duotone": false,
-      "categories": [
-        "Action"
-      ],
       "secondaryAliased": true
     },
     "twotone-view-column": {
@@ -94209,9 +93688,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneWbIridescent",
       "duotone": false,
-      "categories": [
-        "Image"
-      ],
       "secondaryAliased": true
     },
     "twotone-wb-shade": {
@@ -94424,9 +93900,6 @@
       "fontFamily": "Ic",
       "identifier": "twotoneWifiCalling3",
       "duotone": false,
-      "categories": [
-        "Device"
-      ],
       "secondaryAliased": true
     },
     "twotone-wifi-channel": {

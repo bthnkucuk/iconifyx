@@ -193,7 +193,7 @@ export async function verifyFontsAgainstManifests(
 // `accessibility-bold-duotone` (the alphabetically-first duotone whose outline
 // `svg2ttf` reused). The widget then paints "the right primary plus a wrong
 // secondary that happens to look like a halka" — visually reads as
-// misalignment but is actually a wrong-glyph bug. See RESEARCH_PLAN.md §33.
+// misalignment but is actually a wrong-glyph bug.
 //
 // Detection: walk every duotone icon in the manifest, open its
 // `<Family>Secondary.ttf`, look up `cmap[codepoint]`, and compare the
