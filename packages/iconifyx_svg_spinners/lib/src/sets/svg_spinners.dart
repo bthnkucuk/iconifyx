@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Utkarsh Verma
 /// License: MIT — https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE
-/// Icons: 23
+/// Icons: 27
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -114,6 +114,26 @@ class SvgSpinnersIcons {
   /// `pulse-multiple`
   static const IconifyIconData pulseMultiple = IconifyIconData.solo(
     IconData(0xe013, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+  );
+
+  /// `pulse-ring`
+  static const IconifyIconData pulseRing = IconifyIconData.solo(
+    IconData(0xe014, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+  );
+
+  /// `pulse-rings-2`
+  static const IconifyIconData pulseRings2 = IconifyIconData.solo(
+    IconData(0xe015, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+  );
+
+  /// `pulse-rings-3`
+  static const IconifyIconData pulseRings3 = IconifyIconData.solo(
+    IconData(0xe016, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+  );
+
+  /// `pulse-rings-multiple`
+  static const IconifyIconData pulseRingsMultiple = IconifyIconData.solo(
+    IconData(0xe017, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `ring-resize`

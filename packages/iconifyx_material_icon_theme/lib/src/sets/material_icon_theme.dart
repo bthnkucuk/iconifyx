@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Material Extensions
 /// License: MIT — https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE
-/// Icons: 778 (split across 2 fonts)
+/// Icons: 780 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3627,6 +3627,12 @@ class MaterialIconThemeIcons {
     IconData(0xe26d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
+  /// `mjml` (paint-order duotone)
+  static const IconifyIconData mjml = IconifyIconData.duo(
+    IconData(0xe26e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
+    IconData(0xe26e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
+  );
+
   /// `moonscript`
   static const IconifyIconData moonscript = IconifyIconData.solo(
     IconData(0xe26f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -4098,6 +4104,11 @@ class MaterialIconThemeIcons {
   static const IconifyIconData storybook = IconifyIconData.duo(
     IconData(0xe2c9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe2c9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
+  );
+
+  /// `stylelint`
+  static const IconifyIconData stylelint = IconifyIconData.solo(
+    IconData(0xe2ca, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `stylus`

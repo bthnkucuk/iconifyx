@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE',
-  iconCount: 246,
+  iconCount: 247,
 );

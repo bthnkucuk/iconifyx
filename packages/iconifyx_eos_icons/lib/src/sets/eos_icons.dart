@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: SUSE UX/UI team
 /// License: MIT — https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE
-/// Icons: 246
+/// Icons: 247
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -139,6 +139,11 @@ class EosIconsIcons {
   /// `application-window-outlined`
   static const IconifyIconData applicationWindowOutlined = IconifyIconData.solo(
     IconData(0xe018, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
+  );
+
+  /// `arrow-rotate`
+  static const IconifyIconData arrowRotate = IconifyIconData.solo(
+    IconData(0xe019, fontFamily: 'EosIcons', fontPackage: 'iconifyx_eos_icons'),
   );
 
   /// `atom-electron`

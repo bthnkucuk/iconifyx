@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "material-icon-theme",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-15",
+  "lastUpdated": "2026-05-16",
   "category": "Programming",
   "subPackage": "iconifyx_material_icon_theme",
   "info": {
@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
     },
-    "total": 778
+    "total": 780
   },
   "fonts": [
     {
       "family": "MaterialIconTheme",
       "nextCodepoint": 58124,
-      "iconCount": 778
+      "iconCount": 780
     },
     {
       "family": "MaterialIconThemeSecondary",
       "nextCodepoint": 58124,
-      "iconCount": 539
+      "iconCount": 540
     }
   ],
   "icons": {
@@ -4144,9 +4144,7 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "mjml",
       "duotone": true,
-      "duotoneKind": "paintOrder",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
+      "duotoneKind": "paintOrder"
     },
     "moonscript": {
       "codepoint": 57967,
@@ -4642,9 +4640,7 @@
     "stylelint": {
       "codepoint": 58058,
       "fontFamily": "MaterialIconTheme",
-      "identifier": "stylelint",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
+      "identifier": "stylelint"
     },
     "stylus": {
       "codepoint": 58059,

@@ -1,12 +1,12 @@
 # Iconify coverage report
 
-Generated 2026-05-15 from `@iconify/json` v2.2.472. Source counts are Iconify's `info.total`; Built counts are live (non-deprecated) icons in our manifests.
+Generated 2026-05-16 from `@iconify/json` v2.2.472. Source counts are Iconify's `info.total`; Built counts are live (non-deprecated) icons in our manifests.
 
 - **Sets built:** 225 / 225
 - **Sets fully missing:** 0
-- **Sets partially missing (≥5% gap):** 26
+- **Sets partially missing (≥5% gap):** 24
 - **Source icons:** 301,637
-- **Built icons:** 306,333
+- **Built icons:** 310,935
 
 Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light`/`-bold` suffixes) are excluded from the built count so source-vs-built comparisons stay meaningful — those are local clones, not upstream icons.
 
@@ -18,11 +18,9 @@ _None._
 
 | Set | Prefix | Source | Built | Missing | % |
 |---|---|---:|---:|---:|---:|
-| Circle Flags | `circle-flags` | 634 | 5 | 629 | 99.2% |
 | UnJS Logos | `unjs` | 63 | 5 | 58 | 92.1% |
 | Noto Emoji | `noto` | 3,710 | 328 | 3,382 | 91.2% |
 | Kameleon color icons | `streamline-kameleon-color` | 400 | 66 | 334 | 83.5% |
-| Twitter Emoji | `twemoji` | 3,988 | 715 | 3,273 | 82.1% |
 | Fluent UI System Color Icons | `fluent-color` | 890 | 167 | 723 | 81.2% |
 | Emoji One (Colored) | `emojione` | 1,834 | 357 | 1,477 | 80.5% |
 | Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 645 | 2,500 | 79.5% |
@@ -31,11 +29,11 @@ _None._
 | Flat Color Icons | `flat-color-icons` | 329 | 97 | 232 | 70.5% |
 | Noto Emoji (v1) | `noto-v1` | 2,162 | 647 | 1,515 | 70.1% |
 | VSCode Icons | `vscode-icons` | 1,489 | 701 | 788 | 52.9% |
-| SVG Spinners | `svg-spinners` | 46 | 23 | 23 | 50.0% |
 | SVG Logos | `logos` | 1,861 | 937 | 924 | 49.7% |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | 380 | 48.3% |
+| SVG Spinners | `svg-spinners` | 46 | 27 | 19 | 41.3% |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | 411 | 41.2% |
-| Material Icon Theme | `material-icon-theme` | 1,168 | 778 | 390 | 33.4% |
+| Material Icon Theme | `material-icon-theme` | 1,168 | 780 | 388 | 33.2% |
 | Flat UI Icons | `flat-ui` | 100 | 75 | 25 | 25.0% |
 | Web3 Icons Branded | `token-branded` | 2,028 | 1,664 | 364 | 17.9% |
 | Stickies color icons | `streamline-stickies-color` | 200 | 165 | 35 | 17.5% |
@@ -49,11 +47,9 @@ _None._
 
 | Set | Prefix | Source | Built | Δ | Status |
 |---|---|---:|---:|---:|---|
-| Circle Flags | `circle-flags` | 634 | 5 | +629 | ⚠ partial |
 | UnJS Logos | `unjs` | 63 | 5 | +58 | ⚠ partial |
 | Noto Emoji | `noto` | 3,710 | 328 | +3382 | ⚠ partial |
 | Kameleon color icons | `streamline-kameleon-color` | 400 | 66 | +334 | ⚠ partial |
-| Twitter Emoji | `twemoji` | 3,988 | 715 | +3273 | ⚠ partial |
 | Fluent UI System Color Icons | `fluent-color` | 890 | 167 | +723 | ⚠ partial |
 | Emoji One (Colored) | `emojione` | 1,834 | 357 | +1477 | ⚠ partial |
 | Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 645 | +2500 | ⚠ partial |
@@ -62,11 +58,11 @@ _None._
 | Flat Color Icons | `flat-color-icons` | 329 | 97 | +232 | ⚠ partial |
 | Noto Emoji (v1) | `noto-v1` | 2,162 | 647 | +1515 | ⚠ partial |
 | VSCode Icons | `vscode-icons` | 1,489 | 701 | +788 | ⚠ partial |
-| SVG Spinners | `svg-spinners` | 46 | 23 | +23 | ⚠ partial |
 | SVG Logos | `logos` | 1,861 | 937 | +924 | ⚠ partial |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | +380 | ⚠ partial |
+| SVG Spinners | `svg-spinners` | 46 | 27 | +19 | ⚠ partial |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | +411 | ⚠ partial |
-| Material Icon Theme | `material-icon-theme` | 1,168 | 778 | +390 | ⚠ partial |
+| Material Icon Theme | `material-icon-theme` | 1,168 | 780 | +388 | ⚠ partial |
 | Flat UI Icons | `flat-ui` | 100 | 75 | +25 | ⚠ partial |
 | Web3 Icons Branded | `token-branded` | 2,028 | 1,664 | +364 | ⚠ partial |
 | Stickies color icons | `streamline-stickies-color` | 200 | 165 | +35 | ⚠ partial |
@@ -77,9 +73,9 @@ _None._
 | Academicons | `academicons` | 158 | 149 | +9 | ⚠ partial |
 | BPMN | `bpmn` | 112 | 107 | +5 | ✓ |
 | Röntgen | `roentgen` | 551 | 533 | +18 | ✓ |
-| EOS Icons | `eos-icons` | 253 | 246 | +7 | ✓ |
 | Fluent Emoji High Contrast | `fluent-emoji-high-contrast` | 1,595 | 1,551 | +44 | ✓ |
 | CoreUI Brands | `cib` | 830 | 810 | +20 | ✓ |
+| EOS Icons | `eos-icons` | 253 | 247 | +6 | ✓ |
 | Brandico | `brandico` | 45 | 44 | +1 | ✓ |
 | Freehand color icons | `streamline-freehand-color` | 1,000 | 978 | +22 | ✓ |
 | Game Icons | `game-icons` | 4,133 | 4,061 | +72 | ✓ |
@@ -188,7 +184,6 @@ _None._
 | Grommet Icons | `grommet-icons` | 636 | 637 | -1 | ✓ |
 | Bootstrap Icons | `bi` | 2,078 | 2,082 | -4 | ✓ |
 | Subway Icon Set | `subway` | 306 | 307 | -1 | ✓ |
-| Devicon Plain | `devicon-plain` | 755 | 758 | -3 | ✓ |
 | Font Awesome 6 Solid | `fa6-solid` | 1,402 | 1,408 | -6 | ✓ |
 | Sargam Icons | `si` | 1,299 | 1,305 | -6 | ✓ |
 | System UIcons | `system-uicons` | 430 | 432 | -2 | ✓ |
@@ -199,6 +194,7 @@ _None._
 | Font Awesome 6 Regular | `fa6-regular` | 163 | 164 | -1 | ✓ |
 | Memory Icons | `memory` | 651 | 655 | -4 | ✓ |
 | Font Awesome 5 Brands | `fa-brands` | 457 | 460 | -3 | ✓ |
+| Devicon Plain | `devicon-plain` | 755 | 760 | -5 | ✓ |
 | HeroIcons | `heroicons` | 1,288 | 1,297 | -9 | ✓ |
 | Humbleicons | `humbleicons` | 286 | 288 | -2 | ✓ |
 | Charm Icons | `charm` | 261 | 263 | -2 | ✓ |
@@ -252,8 +248,10 @@ _None._
 | Myna UI Icons | `mynaui` | 2,580 | 2,852 | -272 | ✓ |
 | Flowbite Icons | `flowbite` | 751 | 833 | -82 | ✓ |
 | Material Design Iconic Font | `zmdi` | 777 | 885 | -108 | ✓ |
+| Twitter Emoji | `twemoji` | 3,988 | 4,576 | -588 | ✓ |
 | Font Awesome 4 | `fa` | 678 | 786 | -108 | ✓ |
 | Lucide | `lucide` | 1,704 | 1,980 | -276 | ✓ |
+| Circle Flags | `circle-flags` | 634 | 737 | -103 | ✓ |
 | Emoji One (Monotone) | `emojione-monotone` | 1,403 | 1,674 | -271 | ✓ |
 | Iconoir | `iconoir` | 1,671 | 2,019 | -348 | ✓ |
 | Material Symbols | `material-symbols` | 15,369 | 18,575 | -3206 | ✓ |

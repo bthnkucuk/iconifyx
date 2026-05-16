@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: konpa
 /// License: MIT — https://github.com/devicons/devicon/blob/master/LICENSE
-/// Icons: 758 (split across 2 fonts)
+/// Icons: 760 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3382,6 +3382,11 @@ class DeviconPlainIcons {
     IconData(0xe2a0, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
   );
 
+  /// `towergit-wordmark`
+  static const IconifyIconData towergitWordmark = IconifyIconData.solo(
+    IconData(0xe2a1, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+  );
+
   /// `traefikmesh-wordmark`
   static const IconifyIconData traefikmeshWordmark = IconifyIconData.solo(
     IconData(0xe2a2, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
@@ -3485,6 +3490,11 @@ class DeviconPlainIcons {
   /// `unity-wordmark`
   static const IconifyIconData unityWordmark = IconifyIconData.solo(
     IconData(0xe2b6, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+  );
+
+  /// `uwsgi`
+  static const IconifyIconData uwsgi = IconifyIconData.solo(
+    IconData(0xe2b7, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
   );
 
   /// `v8`

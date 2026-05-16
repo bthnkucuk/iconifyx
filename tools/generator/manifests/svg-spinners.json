@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "svg-spinners",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-15",
+  "lastUpdated": "2026-05-16",
   "category": "UI 24px",
   "subPackage": "iconifyx_svg_spinners",
   "info": {
@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE"
     },
-    "total": 23
+    "total": 27
   },
   "fonts": [
     {
       "family": "SvgSpinners",
       "nextCodepoint": 57371,
-      "iconCount": 23
+      "iconCount": 27
     }
   ],
   "icons": {
@@ -129,30 +129,22 @@
     "pulse-ring": {
       "codepoint": 57364,
       "fontFamily": "SvgSpinners",
-      "identifier": "pulseRing",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
+      "identifier": "pulseRing"
     },
     "pulse-rings-2": {
       "codepoint": 57365,
       "fontFamily": "SvgSpinners",
-      "identifier": "pulseRings2",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
+      "identifier": "pulseRings2"
     },
     "pulse-rings-3": {
       "codepoint": 57366,
       "fontFamily": "SvgSpinners",
-      "identifier": "pulseRings3",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
+      "identifier": "pulseRings3"
     },
     "pulse-rings-multiple": {
       "codepoint": 57367,
       "fontFamily": "SvgSpinners",
-      "identifier": "pulseRingsMultiple",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
+      "identifier": "pulseRingsMultiple"
     },
     "ring-resize": {
       "codepoint": 57368,

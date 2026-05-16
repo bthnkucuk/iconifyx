@@ -474,11 +474,6 @@ dependencies:
   shared_preferences: ^2.3.2
   url_launcher: ^6.3.2
   oref: ^2.8.1
-  # `http` powers the CDN loader in lib/bootstrap/icon_catalog.dart
-  # (RESEARCH_PLAN §11/§12). With kUseCdn=false (current default) the
-  # package is imported but not used; toggling kUseCdn=true lets us drop
-  # the bundled JSONs and lazy-fetch from jsDelivr instead.
-  http: ^1.2.0
   # flutter_svg is used ONLY on the icon-detail sheet, to render the
   # original Iconify-CDN SVG next to our generated TTF rendering for
   # visual QA. Not used anywhere else in the website.
@@ -499,7 +494,6 @@ flutter:
   assets:
     - lib/data/packs.json
     - lib/data/icons_index.json
-    - lib/data/cdn_manifest.json
   fonts:
     - family: PlusJakartaSans
       fonts:

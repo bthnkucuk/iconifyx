@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "devicon-plain",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-15",
+  "lastUpdated": "2026-05-16",
   "category": "Programming",
   "subPackage": "iconifyx_devicon_plain",
   "info": {
@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/devicons/devicon/blob/master/LICENSE"
     },
-    "total": 758
+    "total": 760
   },
   "fonts": [
     {
       "family": "DeviconPlain",
       "nextCodepoint": 58104,
-      "iconCount": 758
+      "iconCount": 760
     },
     {
       "family": "DeviconPlainSecondary",
@@ -3400,9 +3400,7 @@
     "towergit-wordmark": {
       "codepoint": 58017,
       "fontFamily": "DeviconPlain",
-      "identifier": "towergitWordmark",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
+      "identifier": "towergitWordmark"
     },
     "traefikmesh-wordmark": {
       "codepoint": 58018,
@@ -3512,9 +3510,7 @@
     "uwsgi": {
       "codepoint": 58039,
       "fontFamily": "DeviconPlain",
-      "identifier": "uwsgi",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
+      "identifier": "uwsgi"
     },
     "v8": {
       "codepoint": 58040,

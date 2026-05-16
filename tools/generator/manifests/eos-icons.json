@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "eos-icons",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-15",
+  "lastUpdated": "2026-05-16",
   "category": "UI 24px",
   "subPackage": "iconifyx_eos_icons",
   "info": {
@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE"
     },
-    "total": 246
+    "total": 247
   },
   "fonts": [
     {
       "family": "EosIcons",
       "nextCodepoint": 57591,
-      "iconCount": 246
+      "iconCount": 247
     }
   ],
   "icons": {
@@ -154,9 +154,7 @@
     "arrow-rotate": {
       "codepoint": 57369,
       "fontFamily": "EosIcons",
-      "identifier": "arrowRotate",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
+      "identifier": "arrowRotate"
     },
     "atom-electron": {
       "codepoint": 57370,
