@@ -43,6 +43,10 @@ tools/generator/.cache/strokefill/
 tools/generator/.cache/strokefill.sqlite
 tools/generator/.cache/strokefill.sqlite-*
 tools/generator/tmp/
+# §13 Rec 1 manifest-diff incremental snapshot cache. Per-developer;
+# never committed. Bun test creates this lazily when --incremental is
+# used; safe to delete at any time.
+tools/generator/manifests/.cache/
 
 # Python byte-code cache from audit subprocesses
 __pycache__/

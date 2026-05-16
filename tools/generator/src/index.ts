@@ -13,6 +13,7 @@ interface ParsedArgs {
   noCache: boolean;
   cleanCache: boolean;
   sets?: string[];
+  incremental: boolean;
 }
 
 function parseArgs(argv: string[]): ParsedArgs {
@@ -23,6 +24,7 @@ function parseArgs(argv: string[]): ParsedArgs {
     skipMeta: false,
     noCache: false,
     cleanCache: false,
+    incremental: false,
   };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i]!;
@@ -76,6 +78,21 @@ function parseArgs(argv: string[]): ParsedArgs {
         // both clear AND skip writing new entries this run.
         out.cleanCache = true;
         break;
+      case '--incremental':
+        // §13 Rec 1 — consult `manifests/.cache/<prefix>.snapshot.json`
+        // before running the per-pack pipeline. On matching input hash
+        // the pack's cached outputs are replayed verbatim — saves the
+        // full preprocess + svgicons2svgfont + svg2ttf chain (~60-100 s
+        // on a typical regen).
+        out.incremental = true;
+        break;
+      case '--no-incremental':
+        // Explicit opt-out. Useful for CI / determinism audits that
+        // always exercise the full pipeline. Default already false; the
+        // flag is here so scripts that set `--incremental` upstream can
+        // turn it off without rebuilding the arg list.
+        out.incremental = false;
+        break;
       case '-h':
       case '--help':
         printHelp();
@@ -104,6 +121,10 @@ Options:
   --clean                 Remove orphan packages/manifests for sets no longer in Iconify
   --no-cache              Bypass the per-font TTF cache (always rebuild)
   --clean-cache           Wipe .cache/ttf/ before running
+  --incremental           Skip packs whose inputs match the on-disk snapshot
+                          cache (manifests/.cache/<prefix>.snapshot.json).
+                          ~60-100 s saved on a typical iconify bump.
+  --no-incremental        Disable --incremental (default).
   -h, --help              Show this help
 
 Each Iconify set lives in its own \`iconifyx_<prefix>\` directory under
@@ -158,6 +179,7 @@ async function main(): Promise<void> {
     smokeOnly: smoke,
     concurrency: args.concurrency,
     cacheEnabled: !args.noCache,
+    incremental: args.incremental,
   });
   const dt = ((performance.now() - t0) / 1000).toFixed(1);
   log.success(`done in ${dt}s`);

@@ -73,6 +73,16 @@ import { verifyFontsAgainstManifests } from './font_verify.ts';
 import { renameGlyphsInTtfs, type GlyphRenameStats } from './glyph_rename.ts';
 import { resetCacheStats, getCacheStats } from './ttf_cache.ts';
 import {
+  computePackInputHash,
+  inputHashesEqual,
+  readSnapshot,
+  writeSnapshot,
+  buildSnapshot,
+  materializeSnapshot,
+  type PackInputHash,
+  type RestoredPackResult,
+} from './incremental.ts';
+import {
   setPackageDir,
   setPackageFontsDir,
   setPackageLibDir,
@@ -102,6 +112,22 @@ export interface PipelineOptions {
    * Wired via the CLI `--no-cache` flag. Defaults to true.
    */
   cacheEnabled?: boolean;
+  /**
+   * §13 Rec 1 — when true, consult the per-pack snapshot cache in
+   * `manifests/.cache/<prefix>.snapshot.json` before running the
+   * preprocess / svgicons2svgfont / svg2ttf chain for a pack. On
+   * matching input hash the cached outputs (manifest + dart + license +
+   * pubspec + TTFs) are replayed onto disk and the pack is skipped
+   * entirely.
+   *
+   * Defaults to false. Opt in via `--incremental`. CI on `main` push
+   * runs without it so we always exercise the full deterministic
+   * pipeline; developer inner-loop regens turn it on for ~minute-scale
+   * speed-ups.
+   *
+   * @see src/incremental.ts
+   */
+  incremental?: boolean;
 }
 
 /**
@@ -228,16 +254,60 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
     dartSource: string;
     aliasesDart: string | null;
     categoriesDart: string | null;
+    /**
+     * §13 Rec 1 — when set, the result came from a snapshot replay (not
+     * a fresh build) AND/OR snapshot-side sources were threaded through.
+     * `writeSetPackage` honours these to skip codegen emits.
+     */
+    librarySrc?: string;
+    pubspecSrc?: string;
+    licenseDartSrc?: string;
+    license3rdPartyMd?: string;
+    /** Cached input hash, snapshot the result under this key post-build. */
+    inputHash?: PackInputHash;
+    /** Marks a cache-hit replay (vs a fresh build that will write a fresh snapshot). */
+    fromSnapshot?: boolean;
   };
 
   const results: SetResult[] = [];
   const failures: { prefix: string; reason: string }[] = [];
   let done = 0;
+  let snapshotHits = 0;
+  let snapshotMisses = 0;
+  const incremental = options.incremental ?? false;
 
   await Promise.all(
     workPrefixes.map((prefix) =>
       limit(async () => {
         try {
+          // §13 Rec 1 — consult the per-pack snapshot cache. Compute the
+          // input hash up front so we can compare against the prior run's
+          // snapshot; on match we replay the cached outputs and skip the
+          // full preprocess + svgicons2svgfont + svg2ttf chain entirely.
+          let inputHash: PackInputHash | undefined;
+          if (incremental) {
+            const set = await loadIconifySet(prefix);
+            inputHash = computePackInputHash({
+              prefix,
+              set,
+              iconifyVersion,
+              config,
+            });
+            const snap = await readSnapshot(prefix);
+            if (snap && inputHashesEqual(snap.inputHash, inputHash)) {
+              const restored = materializeSnapshot(snap);
+              snapshotHits += 1;
+              results.push({
+                ...restored,
+                inputHash,
+                fromSnapshot: true,
+              });
+              return; // skip processOneSet entirely
+            }
+            // Miss — fall through to a normal rebuild. Count the miss
+            // up front so it appears even if processOneSet later throws.
+            snapshotMisses += 1;
+          }
           const result = await processOneSet(
             prefix,
             collections[prefix]!,
@@ -245,7 +315,7 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
             config,
             cacheEnabled
           );
-          results.push(result);
+          results.push({ ...result, inputHash });
         } catch (err) {
           const msg = err instanceof Error ? err.message : String(err);
           const short = msg.split('\n')[0]!.slice(0, 200);
@@ -263,6 +333,12 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
     )
   );
 
+  if (incremental) {
+    log.info(
+      `incremental: ${snapshotHits} cache hit / ${snapshotMisses} miss across ${workPrefixes.length} pack${workPrefixes.length === 1 ? '' : 's'}`
+    );
+  }
+
   if (failures.length > 0) {
     log.warn(`${failures.length} sets failed to build and were skipped:`);
     for (const f of failures) log.warn(`  ${f.prefix}: ${f.reason}`);
@@ -279,7 +355,34 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
 
   log.step('Writing per-set packages');
   for (const r of results) {
-    await writeSetPackage(r);
+    const written = await writeSetPackage(r);
+    // §13 Rec 1 — refresh the snapshot for any pack we actually
+    // rebuilt this run. Cache hits (`fromSnapshot === true`) keep their
+    // existing snapshot — the inputHash already matched.
+    if (incremental && r.inputHash && !r.fromSnapshot) {
+      try {
+        const snap = buildSnapshot({
+          inputHash: r.inputHash,
+          manifest: r.manifest,
+          manifestJson: written.manifestJson,
+          dartSrc: r.dartSource,
+          aliasesDartSrc: r.aliasesDart,
+          categoriesDartSrc: r.categoriesDart,
+          librarySrc: written.librarySrc,
+          pubspecSrc: written.pubspecSrc,
+          licenseDartSrc: written.licenseDartSrc,
+          license3rdPartyMd: written.license3rdPartyMd,
+          ttfs: r.ttfs,
+        });
+        await writeSnapshot(snap);
+      } catch (err) {
+        // Snapshot writes are advisory — if persistence fails (disk
+        // full, perms, …) keep moving so the rest of the regen still
+        // completes. Next run rebuilds + retries.
+        const short = err instanceof Error ? err.message.split('\n')[0]! : String(err);
+        log.warn(`  snapshot write failed for "${r.prefix}": ${short}`);
+      }
+    }
   }
 
   if (options.skipMeta) {
@@ -1358,6 +1461,14 @@ async function processOneSet(
   return { prefix, manifest, ttfs: renamedTtfs, dartSource };
 }
 
+interface WrittenSources {
+  manifestJson: string;
+  librarySrc: string;
+  pubspecSrc: string;
+  licenseDartSrc: string;
+  license3rdPartyMd: string;
+}
+
 async function writeSetPackage(r: {
   prefix: string;
   manifest: Manifest;
@@ -1365,10 +1476,29 @@ async function writeSetPackage(r: {
   dartSource: string;
   aliasesDart: string | null;
   categoriesDart: string | null;
-}): Promise<void> {
+  /**
+   * §13 Rec 1 — when present, these were pulled from a snapshot replay
+   * and we write them verbatim. Otherwise we re-emit via the codegen
+   * helpers from the live manifest.
+   */
+  librarySrc?: string;
+  pubspecSrc?: string;
+  licenseDartSrc?: string;
+  license3rdPartyMd?: string;
+}): Promise<WrittenSources> {
   const { prefix, manifest, ttfs, dartSource, aliasesDart, categoriesDart } = r;
 
   await writeManifest(manifest);
+  // Capture the canonical (sorted) manifest JSON for snapshot persistence.
+  // Must mirror writeManifest's sort exactly — that's the on-disk shape and
+  // the cache-replay shape needs to match it byte-for-byte. Cheap: a small
+  // re-stringify, no double-fs-write.
+  const sortedIcons: Record<string, ManifestIconEntry> = {};
+  for (const name of Object.keys(manifest.icons).sort()) {
+    sortedIcons[name] = manifest.icons[name]!;
+  }
+  const manifestJson =
+    JSON.stringify({ ...manifest, icons: sortedIcons }, null, 2) + '\n';
 
   // Layout: packages/iconifyx_<prefix>/{lib/, assets/fonts/}
   await mkdir(setPackageFontsDir(prefix), { recursive: true });
@@ -1421,32 +1551,45 @@ async function writeSetPackage(r: {
     await rm(categoriesPath).catch(() => {});
   }
 
-  // Package library file (top-level)
+  // Package library file (top-level). When snapshot-replayed, reuse the
+  // exact bytes the cache holds; otherwise emit fresh from manifest.
   const pkgName = setPackageName(prefix);
+  const librarySrc = r.librarySrc ?? emitSetLibraryFile(manifest);
   await writeFile(
     path.join(setPackageLibDir(prefix), `${pkgName}.dart`),
-    emitSetLibraryFile(manifest),
+    librarySrc,
     'utf8'
   );
 
-  // License helpers
+  // License helpers — same cache-replay-or-emit dance.
+  const license3rdPartyMd = r.license3rdPartyMd ?? emitSetThirdPartyLicense(manifest);
   await writeFile(
     path.join(setPackageDir(prefix), 'LICENSE-3RD-PARTY.md'),
-    emitSetThirdPartyLicense(manifest),
+    license3rdPartyMd,
     'utf8'
   );
+  const licenseDartSrc = r.licenseDartSrc ?? emitSetLicenseDart(manifest);
   await writeFile(
     path.join(setPackageSrcDir(prefix), 'license.dart'),
-    emitSetLicenseDart(manifest),
+    licenseDartSrc,
     'utf8'
   );
 
-  // Pubspec
+  // Pubspec.
+  const pubspecSrc = r.pubspecSrc ?? emitSetPubspec({ manifest });
   await writeFile(
     path.join(setPackageDir(prefix), 'pubspec.yaml'),
-    emitSetPubspec({ manifest }),
+    pubspecSrc,
     'utf8'
   );
+
+  return {
+    manifestJson,
+    librarySrc,
+    pubspecSrc,
+    licenseDartSrc,
+    license3rdPartyMd,
+  };
 }
 
 async function readAllManifests(): Promise<Manifest[]> {

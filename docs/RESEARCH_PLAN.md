@@ -1249,18 +1249,27 @@ meta/audit emit, NOT trace work. Different bottlenecks than expected.
 ### Top 3 changes
 
 1. **Manifest-diff incremental mode + per-font TTF cache** (~6-8 h
-   implementation) — biggest ROI by far.
+   implementation) — biggest ROI by far. ✅ **SHIPPED 2026-05-16**.
 
-   - `--incremental` flag: hash each pack's raw `@iconify/json` body.
-     If `(packHash, generatorGitSha)` matches the last snapshot, SKIP
-     the pack entirely. Copy results from `manifests/.last/<prefix>.
-     {json,ttfs.tar,dart}`.
-   - Per-font TTF cache keyed by `sha1(sortedMembers + bodyHashes +
-     svgicons2svgfont version + svg2ttf version + flags)`. Currently
-     `font_builder.ts` rebuilds every TTF every run (~5 s). With cache,
-     most fonts byte-identical → 0 ms.
-   - **Δ saved**: ~60 s on a typical iconify bump (touches <20 % of
-     packs); ~100 s on no-source-change reruns.
+   - ✅ `--incremental` flag: per-pack `inputHash =
+     {iconifyVersion, iconBodiesSha1, configSha1, generatorGitSha,
+     pipelineVersion}`. On match the cached snapshot at
+     `tools/generator/manifests/.cache/<prefix>.snapshot.json`
+     (manifest + dart + license + pubspec + base64 TTFs) is replayed
+     verbatim, skipping preprocess → stroke-fill → svgicons2svgfont →
+     svg2ttf → font_merger → glyph_rename. Mismatch falls through to
+     the normal rebuild and refreshes the snapshot on success. See
+     `tools/generator/src/incremental.ts` + `incremental.test.ts`.
+   - ✅ Per-font TTF cache landed earlier in commit `b860c119` —
+     `tools/generator/src/ttf_cache.ts` covers the cmap-format-12 +
+     supp-PUA path; cache-key includes svgicons2svgfont / svg2ttf
+     versions + per-member body hashes + stream opts.
+   - **Δ saved**: per the original projection — ~60 s on typical
+     iconify bump (cache hit on >80 % of packs), ~100 s on no-source
+     reruns. Empirical wall-clock numbers pending the upstream-pipeline
+     `renamedTtfs`/`getCacheStats` regressions being unblocked; the
+     per-pack cache hit logic, snapshot read/write, and CLI flag are
+     all wired and tested (`bun test` green, 23 incremental tests).
 
 2. **Persistent subprocess pool** (~4 h)
 

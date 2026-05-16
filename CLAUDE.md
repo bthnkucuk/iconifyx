@@ -349,6 +349,13 @@ bun run generate -- --dry-run
 # Remove generated package dirs + manifests for sets no longer in @iconify/json
 bun run generate -- --clean
 
+# Skip packs whose inputs match the on-disk snapshot cache (~60-100 s
+# saved on a typical iconify bump; full regen from cold cache still ~80 s).
+# Snapshots live at tools/generator/manifests/.cache/<prefix>.snapshot.json
+# (gitignored). CI on `main` push runs WITHOUT this flag so we always
+# exercise the full deterministic pipeline.
+bun run generate -- --incremental
+
 # Run unit tests (identifier + codepoint allocator)
 cd tools/generator && bun test
 ```
