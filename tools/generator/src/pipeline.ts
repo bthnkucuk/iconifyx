@@ -73,6 +73,7 @@ import {
   verifyFontsAgainstManifests,
   verifySecondaryGlyphNames,
 } from './font_verify.ts';
+import { resetCacheStats } from './ttf_cache.ts';
 import {
   setPackageDir,
   setPackageFontsDir,
