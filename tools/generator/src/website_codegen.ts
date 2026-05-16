@@ -1,6 +1,13 @@
 import { createHash } from 'node:crypto';
 
 import type { Manifest } from './manifest.ts';
+export {
+  writeTrigramShards,
+  writeTrigramShardsFromManifests,
+  buildTrigramShards,
+  bucketLetter,
+} from './trigram_shard_codegen.ts';
+export type { TrigramIconEntry, TrigramShard } from './trigram_shard_codegen.ts';
 
 /**
  * Emits the iconifyx_website Flutter app's data files + pubspec.
