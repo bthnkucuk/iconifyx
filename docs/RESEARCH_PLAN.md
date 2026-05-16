@@ -1798,6 +1798,80 @@ collisions across 166 packs.
   regen-twice run on `fontelico` flagged a real TTF non-determinism
   bug — exactly the class this tool was built to surface.
 
+#### Fontelico drift investigation (2026-05-16) — **resolved**
+
+The §16-A10 audit's first regen-twice on `fontelico` surfaced two
+independent bugs, both now fixed:
+
+1. **Upstream `svg2ttf` bug — Glyph header bbox accumulators
+   initialised to `0` instead of `±Infinity`**
+   ([node_modules/svg2ttf/lib/sfnt.js:273-351](../node_modules/svg2ttf/lib/sfnt.js)).
+   For any glyph whose actual geometry has `xMin > 0` or `yMin > 0`
+   (very common — Iconify icons are padded inside a 1000×1000
+   viewBox), `Math.min(0, anyPositive) === 0` clamps the header
+   value at zero, so the emitted `glyf` table per-glyph header lies
+   and reports `(xMin, yMin) = (0, 0)`. Dual flaw for `xMax`/`yMax`
+   on glyphs that live entirely in negative space. Doesn't affect
+   rasterised pixels (Skia draws path data, not header) but pollutes
+   the `glyf` table for third-party tooling, and interacts
+   unpredictably with non-deterministic iteration order in upstream
+   tools.
+
+   Empirical example (Fontelico `crown` glyph, pre-patch):
+   ```
+   header xMin=0   yMin=0   xMax=917 yMax=973
+   actual xMin=80  yMin=250 xMax=917 yMax=972
+   ```
+
+   **Track A (shipped):** local patch via
+   [`bun patch`](../tools/generator/patches/svg2ttf@6.1.0.patch).
+   `bun install` reapplies automatically. Confirmed by re-reading
+   the same glyph post-patch:
+   ```
+   header xMin=79  yMin=250 xMax=917 yMax=973
+   ```
+
+   **Track B (planned):** upstream PR against
+   https://github.com/fontello/svg2ttf with the same `±Infinity`
+   sentinel fix. Not blocking — local patch is the durable fix until
+   upstream lands a release.
+
+2. **`canonicalize_ttf.py` was bumping `head.modified` on every
+   save.** Root cause of the actual Fontelico SHA drift between
+   consecutive regens: `fontTools.TTFont(…)` defaults
+   `recalcTimestamp=True`, which writes the current wall-clock time
+   into `head.modified` on `.save()`. `canonicalize_ttf.py` was
+   relying on the constructor default and (correctly) only passing
+   `recalcBBoxes=False`. Three consecutive regens of Fontelico
+   produced three different SHAs entirely from this `modified`
+   timestamp bump and its `checksumAdjustment` knock-on. The svg2ttf
+   `{ ts: 0 }` step was working as documented — `head.created` was
+   pinned correctly; the timestamp was being overwritten downstream.
+
+   **Fix:** [tools/generator/python/canonicalize_ttf.py](../tools/generator/python/canonicalize_ttf.py)
+   now passes `recalcTimestamp=False` to the `TTFont` constructor
+   AND explicitly sets `head.created = head.modified = 0` alongside
+   the existing canonical bbox pin. Two consecutive regens of
+   `fontelico` now produce byte-identical TTFs (sha256
+   `e856d63d156e5ffe27fc92fae8ac2a5e4958b0022338a238cbdb17d71f787751`).
+
+#### Baseline update + cache invalidation
+
+After the patches above:
+
+- `docs/audit/sha_baseline.json` updated with the new canonical
+  Fontelico hash. Re-running `bun run audit determinism` reports the
+  Fontelico entry as clean.
+- The per-font TTF cache key (§15) is content-addressed by SVG INPUT
+  bytes, not by output. Old (pre-patch) cached entries are still
+  valid byte-output for the OLD chain but stale under the new chain.
+  Anyone with a pre-2026-05-16 `.cache/ttf/` should run
+  `--clean-cache` once after pulling.
+- The two-track svg2ttf fix surfaces a general principle for similar
+  upstream bugs: ship a `bun patch` locally first, file the upstream
+  PR as a goodwill follow-up, document both in
+  [tools/generator/patches/README.md](../tools/generator/patches/README.md).
+
 - **A12 — Stroke-fill panic-list regression tracker** (~2 h).
   Persist panic-skipped name set across regens. New / recovered
   panics surface in `STROKE_AUDIT.md`. Currently CLAUDE.md §5a-bis
