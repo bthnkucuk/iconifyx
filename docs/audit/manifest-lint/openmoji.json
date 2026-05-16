@@ -1,5 +1,426 @@
 {
-  "a1": [],
+  "a1": [
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe017): 'anatomical-heart', 'heart'",
+      "key": "Openmoji:0xe017",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe043): 'autonom-car', 'autonomous-car'",
+      "key": "Openmoji:0xe043",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe0f5): 'bullseye', 'direct-hit'",
+      "key": "Openmoji:0xe0f5",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe235): 'deep-red-flag', 'red-square-flag'",
+      "key": "Openmoji:0xe235",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe24e): 'divide', 'division-sign'",
+      "key": "Openmoji:0xe24e",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "3 live icons share (Openmoji, 0xe2c0): 'dizzy-face', 'face-with-crossed-out-eyes', 'knocked-out-face'",
+      "key": "Openmoji:0xe2c0",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe32a): 'flag-antigua-and-barbuda', 'flag-antigua-barbuda'",
+      "key": "Openmoji:0xe32a",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe341): 'flag-ceuta-and-melilla', 'flag-ceuta-melilla'",
+      "key": "Openmoji:0xe341",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe3aa): 'flag-st-kitts-and-nevis', 'flag-st-kitts-nevis'",
+      "key": "Openmoji:0xe3aa",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe3ad): 'flag-st-pierre-and-miquelon', 'flag-st-pierre-miquelon'",
+      "key": "Openmoji:0xe3ad",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe3af): 'flag-st-vincent-and-grenadines', 'flag-st-vincent-grenadines'",
+      "key": "Openmoji:0xe3af",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe3b3): 'flag-svalbard-and-jan-mayen', 'flag-svalbard-jan-mayen'",
+      "key": "Openmoji:0xe3b3",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe3bc): 'flag-trinidad-and-tobago', 'flag-trinidad-tobago'",
+      "key": "Openmoji:0xe3bc",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe3c0): 'flag-turkey', 'flag-turkiye'",
+      "key": "Openmoji:0xe3c0",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe3cc): 'flag-wallis-and-futuna', 'flag-wallis-futuna'",
+      "key": "Openmoji:0xe3cc",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe5d1): 'link', 'link2'",
+      "key": "Openmoji:0xe5d1",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe5ee): 'lung', 'lungs'",
+      "key": "Openmoji:0xe5ee",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "3 live icons share (Openmoji, 0xe7b4): 'man-with-probing-cane', 'man-with-white-cane', 'person-with-probing-cane'",
+      "key": "Openmoji:0xe7b4",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "3 live icons share (Openmoji, 0xe7b5): 'man-with-probing-cane-dark-skin-tone', 'man-with-white-cane-dark-skin-tone', 'person-with-probing-cane-dark-skin-tone'",
+      "key": "Openmoji:0xe7b5",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "3 live icons share (Openmoji, 0xe7b8): 'man-with-probing-cane-light-skin-tone', 'man-with-white-cane-light-skin-tone', 'person-with-probing-cane-light-skin-tone'",
+      "key": "Openmoji:0xe7b8",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "3 live icons share (Openmoji, 0xe7ba): 'man-with-probing-cane-medium-dark-skin-tone', 'man-with-white-cane-medium-dark-skin-tone', 'person-with-probing-cane-medium-dark-skin-tone'",
+      "key": "Openmoji:0xe7ba",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "3 live icons share (Openmoji, 0xe7bc): 'man-with-probing-cane-medium-light-skin-tone', 'man-with-white-cane-medium-light-skin-tone', 'person-with-probing-cane-medium-light-skin-tone'",
+      "key": "Openmoji:0xe7bc",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "3 live icons share (Openmoji, 0xe7be): 'man-with-probing-cane-medium-skin-tone', 'man-with-white-cane-medium-skin-tone', 'person-with-probing-cane-medium-skin-tone'",
+      "key": "Openmoji:0xe7be",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe846): 'minus', 'minus-sign'",
+      "key": "Openmoji:0xe846",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe871): 'multiplication-sign', 'multiply'",
+      "key": "Openmoji:0xe871",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe94d): 'people-hugging', 'persons-hugging'",
+      "key": "Openmoji:0xe94d",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe9fd): 'man-in-suit-levitating', 'person-in-suit-levitating'",
+      "key": "Openmoji:0xe9fd",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe9fe): 'man-in-suit-levitating-dark-skin-tone', 'person-in-suit-levitating-dark-skin-tone'",
+      "key": "Openmoji:0xe9fe",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xe9ff): 'man-in-suit-levitating-light-skin-tone', 'person-in-suit-levitating-light-skin-tone'",
+      "key": "Openmoji:0xe9ff",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xea00): 'man-in-suit-levitating-medium-dark-skin-tone', 'person-in-suit-levitating-medium-dark-skin-tone'",
+      "key": "Openmoji:0xea00",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xea01): 'man-in-suit-levitating-medium-light-skin-tone', 'person-in-suit-levitating-medium-light-skin-tone'",
+      "key": "Openmoji:0xea01",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xea02): 'man-in-suit-levitating-medium-skin-tone', 'person-in-suit-levitating-medium-skin-tone'",
+      "key": "Openmoji:0xea02",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeab2): 'man-with-skullcap', 'person-with-skullcap'",
+      "key": "Openmoji:0xeab2",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeab3): 'man-with-skullcap-dark-skin-tone', 'person-with-skullcap-dark-skin-tone'",
+      "key": "Openmoji:0xeab3",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeab4): 'man-with-skullcap-light-skin-tone', 'person-with-skullcap-light-skin-tone'",
+      "key": "Openmoji:0xeab4",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeab5): 'man-with-skullcap-medium-dark-skin-tone', 'person-with-skullcap-medium-dark-skin-tone'",
+      "key": "Openmoji:0xeab5",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeab6): 'man-with-skullcap-medium-light-skin-tone', 'person-with-skullcap-medium-light-skin-tone'",
+      "key": "Openmoji:0xeab6",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeab7): 'man-with-skullcap-medium-skin-tone', 'person-with-skullcap-medium-skin-tone'",
+      "key": "Openmoji:0xeab7",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeab8): 'bride-with-veil', 'person-with-veil'",
+      "key": "Openmoji:0xeab8",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeab9): 'bride-with-veil-dark-skin-tone', 'person-with-veil-dark-skin-tone'",
+      "key": "Openmoji:0xeab9",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeaba): 'bride-with-veil-light-skin-tone', 'person-with-veil-light-skin-tone'",
+      "key": "Openmoji:0xeaba",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeabb): 'bride-with-veil-medium-dark-skin-tone', 'person-with-veil-medium-dark-skin-tone'",
+      "key": "Openmoji:0xeabb",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeabc): 'bride-with-veil-medium-light-skin-tone', 'person-with-veil-medium-light-skin-tone'",
+      "key": "Openmoji:0xeabc",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeabd): 'bride-with-veil-medium-skin-tone', 'person-with-veil-medium-skin-tone'",
+      "key": "Openmoji:0xeabd",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeaf4): 'plus', 'plus-sign'",
+      "key": "Openmoji:0xeaf4",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeaf6): 'ice-bear', 'polar-bear'",
+      "key": "Openmoji:0xeaf6",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeb6d): 'exclamation-mark', 'red-exclamation-mark'",
+      "key": "Openmoji:0xeb6d",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeb73): 'question-mark', 'red-question-mark'",
+      "key": "Openmoji:0xeb73",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xeb9a): 'return', 'return-back-button'",
+      "key": "Openmoji:0xeb9a",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xec3e): 'hugging-face', 'smiling-face-with-open-hands'",
+      "key": "Openmoji:0xec3e",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xecb1): 'surveilance', 'surveillance'",
+      "key": "Openmoji:0xecb1",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xed58): 'washington-dc', 'washington-dc-flag'",
+      "key": "Openmoji:0xed58",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xed6e): 'probing-cane', 'white-cane'",
+      "key": "Openmoji:0xed6e",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xef58): 'woman-with-probing-cane', 'woman-with-white-cane'",
+      "key": "Openmoji:0xef58",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xef59): 'woman-with-probing-cane-dark-skin-tone', 'woman-with-white-cane-dark-skin-tone'",
+      "key": "Openmoji:0xef59",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xef5c): 'woman-with-probing-cane-light-skin-tone', 'woman-with-white-cane-light-skin-tone'",
+      "key": "Openmoji:0xef5c",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xef5e): 'woman-with-probing-cane-medium-dark-skin-tone', 'woman-with-white-cane-medium-dark-skin-tone'",
+      "key": "Openmoji:0xef5e",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xef60): 'woman-with-probing-cane-medium-light-skin-tone', 'woman-with-white-cane-medium-light-skin-tone'",
+      "key": "Openmoji:0xef60",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Openmoji, 0xef62): 'woman-with-probing-cane-medium-skin-tone', 'woman-with-white-cane-medium-skin-tone'",
+      "key": "Openmoji:0xef62",
+      "prefix": "openmoji",
+      "severity": "error"
+    },
+    {
+      "code": "font-no-live-icons",
+      "detail": "font 'Openmoji' iconCount=3979 but live icon count is 4045",
+      "key": "Openmoji",
+      "prefix": "openmoji",
+      "severity": "warn"
+    }
+  ],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

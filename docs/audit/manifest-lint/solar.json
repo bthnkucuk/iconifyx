@@ -1,5 +1,55 @@
 {
-  "a1": [],
+  "a1": [
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Solar, 0xe615): 'cloud-cross-bold', 'clound-cross-bold'",
+      "key": "Solar:0xe615",
+      "prefix": "solar",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Solar, 0xe616): 'cloud-cross-bold-duotone', 'clound-cross-bold-duotone'",
+      "key": "Solar:0xe616",
+      "prefix": "solar",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Solar, 0xe617): 'cloud-cross-broken', 'clound-cross-broken'",
+      "key": "Solar:0xe617",
+      "prefix": "solar",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Solar, 0xe618): 'cloud-cross-line-duotone', 'clound-cross-line-duotone'",
+      "key": "Solar:0xe618",
+      "prefix": "solar",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Solar, 0xe619): 'cloud-cross-linear', 'clound-cross-linear'",
+      "key": "Solar:0xe619",
+      "prefix": "solar",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Solar, 0xe61a): 'cloud-cross-outline', 'clound-cross-outline'",
+      "key": "Solar:0xe61a",
+      "prefix": "solar",
+      "severity": "error"
+    },
+    {
+      "code": "font-no-live-icons",
+      "detail": "font 'Solar' iconCount=7404 but live icon count is 7410",
+      "key": "Solar",
+      "prefix": "solar",
+      "severity": "warn"
+    }
+  ],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

@@ -1,5 +1,216 @@
 {
-  "a1": [],
+  "a1": [
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe002): 'address-book-outline', 'adress-book-outline'",
+      "key": "Flowbite:0xe002",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe003): 'address-book-solid', 'adress-book-solid'",
+      "key": "Flowbite:0xe003",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe00f): 'angle-down-outline', 'angle-down-solid'",
+      "key": "Flowbite:0xe00f",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe011): 'angle-left-outline', 'angle-left-solid'",
+      "key": "Flowbite:0xe011",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe013): 'angle-right-outline', 'angle-right-solid'",
+      "key": "Flowbite:0xe013",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe016): 'angle-top-solid', 'angle-up-outline'",
+      "key": "Flowbite:0xe016",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe049): 'bars-from-left-outline', 'bars-from-left-solid'",
+      "key": "Flowbite:0xe049",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe04b): 'bars-outline', 'bars-solid'",
+      "key": "Flowbite:0xe04b",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0b2): 'chart-mixed-outline', 'chart-mixed-solid'",
+      "key": "Flowbite:0xe0b2",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0b9): 'check-circle-solid', 'circle-check-solid'",
+      "key": "Flowbite:0xe0b9",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0c0): 'chevron-double-down-outline', 'chevron-double-down-solid'",
+      "key": "Flowbite:0xe0c0",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0c2): 'chevron-double-left-outline', 'chevron-double-left-solid'",
+      "key": "Flowbite:0xe0c2",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0c4): 'chevron-double-right-outline', 'chevron-double-right-solid'",
+      "key": "Flowbite:0xe0c4",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0c6): 'chevron-double-up-outline', 'chevron-double-up-solid'",
+      "key": "Flowbite:0xe0c6",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0c8): 'chevron-down-outline', 'chevron-down-solid'",
+      "key": "Flowbite:0xe0c8",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0ca): 'chevron-left-outline', 'chevron-left-solid'",
+      "key": "Flowbite:0xe0ca",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0cc): 'chevron-right-outline', 'chevron-right-solid'",
+      "key": "Flowbite:0xe0cc",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0ce): 'chevron-sort-outline', 'chevron-sort-solid'",
+      "key": "Flowbite:0xe0ce",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0d0): 'chevron-up-outline', 'chevron-up-solid'",
+      "key": "Flowbite:0xe0d0",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0e6): 'close-circle-outline', 'x-circle-outline'",
+      "key": "Flowbite:0xe0e6",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe0e8): 'close-outline', 'x-outline'",
+      "key": "Flowbite:0xe0e8",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe102): 'compress-outline', 'compress-solid'",
+      "key": "Flowbite:0xe102",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe147): 'face-laugh-solid', 'face-laughz-solid'",
+      "key": "Flowbite:0xe147",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe228): 'minus-outline', 'minus-solid'",
+      "key": "Flowbite:0xe228",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe251): 'paper-clip-outline', 'paper-clip-solid'",
+      "key": "Flowbite:0xe251",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe253): 'paper-plane-outline', 'papper-plane-outline'",
+      "key": "Flowbite:0xe253",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe259): 'grid-24x24px-outline', 'pause-outline'",
+      "key": "Flowbite:0xe259",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe26e): 'plus-outline', 'plus-solid'",
+      "key": "Flowbite:0xe26e",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flowbite, 0xe2fe): 'dna-solid', 'truck-solid'",
+      "key": "Flowbite:0xe2fe",
+      "prefix": "flowbite",
+      "severity": "error"
+    },
+    {
+      "code": "font-no-live-icons",
+      "detail": "font 'Flowbite' iconCount=803 but live icon count is 832",
+      "key": "Flowbite",
+      "prefix": "flowbite",
+      "severity": "warn"
+    }
+  ],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

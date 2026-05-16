@@ -4,21 +4,21 @@ Verifies that the generator emits byte-identical TTFs / Dart / manifests across 
 
 ## Run metadata
 
-- Mode: `regen-twice`
+- Mode: `snapshot`
 - Snapshot schema version: `1`
 - `@iconify/json`: `2.2.472`
-- Generator commit (current HEAD): `6db87676d454cbd779fa927ab4b2fb6ed75fa32a`
+- Generator commit (current HEAD): `8e1d295d92bd7f594a277b89bb8f7b8f25071e23`
 - Files snapshotted: **746** (296 TTFs, 225 Dart, 225 manifests)
 - Baseline commit: `a34929d41eca1ffca185d2b73727500e963dcb3e`
 - Baseline `@iconify/json`: `2.2.472`
 
 ## Baseline drift
 
-**555** files differ from the committed baseline (554 changed, 1 added, 0 removed).
+**561** files differ from the committed baseline (560 changed, 1 added, 0 removed).
 
 A non-zero drift is OK in normal development — it just means the baseline is older than HEAD. Bump it via `bun run audit determinism -- --update-baseline` once HEAD is verified known-good (e.g. after a deliberate regen).
 
-### TTF fonts (296)
+### TTF fonts (295)
 
 | Path | Status | Baseline | Current |
 |---|---|---|---|
@@ -55,7 +55,7 @@ A non-zero drift is OK in normal development — it just means the baseline is o
 | `packages/iconifyx_clarity/assets/fonts/Clarity.ttf` | changed | `9f40e73ea882` | `2eeabdee0fca` |
 | `packages/iconifyx_clarity/assets/fonts/ClaritySecondary.ttf` | changed | `77c88d37d7af` | `d2308f38b6b0` |
 | `packages/iconifyx_codex/assets/fonts/Codex.ttf` | changed | `2ee10e4765a6` | `d6c1db98de29` |
-| `packages/iconifyx_codicon/assets/fonts/Codicon.ttf` | changed | `a204e1039a28` | `a61947635baa` |
+| `packages/iconifyx_codicon/assets/fonts/Codicon.ttf` | changed | `a204e1039a28` | `230c9202667c` |
 | `packages/iconifyx_covid/assets/fonts/Covid.ttf` | changed | `d9998507b1b3` | `ee6410bc568a` |
 | `packages/iconifyx_cryptocurrency_color/assets/fonts/CryptocurrencyColor.ttf` | changed | `9de9a49cf399` | `d97c10c52574` |
 | `packages/iconifyx_cryptocurrency_color/assets/fonts/CryptocurrencyColorSecondary.ttf` | changed | `8060f71151ee` | `753fe5262524` |
@@ -66,8 +66,8 @@ A non-zero drift is OK in normal development — it just means the baseline is o
 | `packages/iconifyx_dashicons/assets/fonts/Dashicons.ttf` | changed | `23e44bd6500c` | `36ec1eb4008b` |
 | `packages/iconifyx_devicon_plain/assets/fonts/DeviconPlain.ttf` | changed | `38e3c81bf0bf` | `efe99208f405` |
 | `packages/iconifyx_devicon_plain/assets/fonts/DeviconPlainSecondary.ttf` | changed | `0bcc362c5cde` | `d3522877f911` |
-| `packages/iconifyx_devicon/assets/fonts/Devicon.ttf` | changed | `8741c8b42e5b` | `9cd7ea6ece28` |
-| `packages/iconifyx_devicon/assets/fonts/DeviconSecondary.ttf` | changed | `0cf497155f6d` | `a154f7b95ac5` |
+| `packages/iconifyx_devicon/assets/fonts/Devicon.ttf` | changed | `8741c8b42e5b` | `cbe2d676da55` |
+| `packages/iconifyx_devicon/assets/fonts/DeviconSecondary.ttf` | changed | `0cf497155f6d` | `bf10197ae46c` |
 | `packages/iconifyx_dinkie_icons/assets/fonts/DinkieIcons.ttf` | changed | `7b0b1fa909e1` | `ac7fcb084e21` |
 | `packages/iconifyx_duo_icons/assets/fonts/DuoIcons.ttf` | changed | `547b12c8a030` | `77abfa0d002c` |
 | `packages/iconifyx_duo_icons/assets/fonts/DuoIconsSecondary.ttf` | changed | `6170de64d203` | `413e677b3cb7` |
@@ -101,60 +101,67 @@ A non-zero drift is OK in normal development — it just means the baseline is o
 | `packages/iconifyx_fe/assets/fonts/Fe.ttf` | changed | `082347499e9a` | `63bbc5ff1cb6` |
 | `packages/iconifyx_feather/assets/fonts/Feather.ttf` | changed | `0554f2ee15b3` | `a978e6b03814` |
 | `packages/iconifyx_file_icons/assets/fonts/FileIcons.ttf` | changed | `0b3a8a992773` | `869ff4045b43` |
-| `packages/iconifyx_flag/assets/fonts/Flag.ttf` | changed | `7956417afeca` | `f02c6deac7f4` |
-| `packages/iconifyx_flag/assets/fonts/FlagSecondary.ttf` | changed | `d06c99fa32c4` | `1a3dbffee0b0` |
-| `packages/iconifyx_flagpack/assets/fonts/Flagpack.ttf` | changed | `2889105d9e9b` | `b3128460f72c` |
-| `packages/iconifyx_flagpack/assets/fonts/FlagpackSecondary.ttf` | changed | `44b463a794dc` | `28d6a1e03b05` |
+| `packages/iconifyx_flag/assets/fonts/Flag.ttf` | changed | `7956417afeca` | `3dad3d03d8c2` |
+| `packages/iconifyx_flag/assets/fonts/FlagSecondary.ttf` | changed | `d06c99fa32c4` | `5f270eba9283` |
+| `packages/iconifyx_flagpack/assets/fonts/Flagpack.ttf` | changed | `2889105d9e9b` | `55e7fc398c4f` |
+| `packages/iconifyx_flagpack/assets/fonts/FlagpackSecondary.ttf` | changed | `44b463a794dc` | `0b76fe611962` |
 | `packages/iconifyx_flat_color_icons/assets/fonts/FlatColorIcons.ttf` | changed | `56453a6f2bee` | `54a2aae0e75f` |
 | `packages/iconifyx_flat_color_icons/assets/fonts/FlatColorIconsSecondary.ttf` | changed | `34dd2d12e364` | `54d7ad42c48d` |
 | `packages/iconifyx_flat_ui/assets/fonts/FlatUi.ttf` | changed | `f3715712d609` | `6310b7b8fc63` |
 | `packages/iconifyx_flat_ui/assets/fonts/FlatUiSecondary.ttf` | changed | `a8021a724853` | `7fbd15f9f07c` |
-| `packages/iconifyx_flowbite/assets/fonts/Flowbite.ttf` | changed | `1ae5a7fca5dd` | `2c2938d6bc85` |
+| `packages/iconifyx_flowbite/assets/fonts/Flowbite.ttf` | changed | `1ae5a7fca5dd` | `55813cbfbf96` |
 | `packages/iconifyx_fluent_color/assets/fonts/FluentColor.ttf` | changed | `5d71ee6f83b8` | `9d38b7cd2dc1` |
-| `packages/iconifyx_fluent_emoji_flat/assets/fonts/FluentEmojiFlat.ttf` | changed | `2e1f6ee91735` | `8525f29a0197` |
-| `packages/iconifyx_fluent_emoji_flat/assets/fonts/FluentEmojiFlatSecondary.ttf` | changed | `1773c8fc963d` | `3d34a84749da` |
+| `packages/iconifyx_fluent_emoji_flat/assets/fonts/FluentEmojiFlat.ttf` | changed | `2e1f6ee91735` | `12cfff9cecbd` |
+| `packages/iconifyx_fluent_emoji_flat/assets/fonts/FluentEmojiFlatSecondary.ttf` | changed | `1773c8fc963d` | `a2281a73a935` |
 | `packages/iconifyx_fluent_emoji_high_contrast/assets/fonts/FluentEmojiHighContrast.ttf` | changed | `b9e854ea3f0b` | `e3fd1656f847` |
 | `packages/iconifyx_fluent_emoji/assets/fonts/FluentEmoji.ttf` | changed | `02c618ca4e2c` | `71b6f1e6134f` |
 | `packages/iconifyx_fluent_emoji/assets/fonts/FluentEmojiSecondary.ttf` | changed | `96a84f2efdd2` | `391130094209` |
 | `packages/iconifyx_fluent_mdl2/assets/fonts/FluentMdl2.ttf` | changed | `e67151757d2d` | `92d116f45ef2` |
 | `packages/iconifyx_fluent/assets/fonts/Fluent.ttf` | changed | `7d0540d82448` | `cb43be482852` |
-| `packages/iconifyx_fontelico/assets/fonts/Fontelico.ttf` | changed | `6813f2db2837` | `b7036a72f2b0` |
 | `packages/iconifyx_fontisto/assets/fonts/Fontisto.ttf` | changed | `9cb994a73827` | `bc556345afb0` |
 | `packages/iconifyx_formkit/assets/fonts/Formkit.ttf` | changed | `1452fe45d771` | `87544e29565d` |
 | `packages/iconifyx_foundation/assets/fonts/Foundation.ttf` | changed | `8bedc9a1148c` | `723c5eaa5aa8` |
+| `packages/iconifyx_fxemoji/assets/fonts/Fxemoji.ttf` | changed | `4b05e225ad50` | `4373c7d6cfe2` |
 
-…196 more — see `tools/generator/.cache/sha_baseline.json` for full hashes.
+…195 more — see `tools/generator/.cache/sha_baseline.json` for full hashes.
 
-### Generated Dart (34)
+### Generated Dart (41)
 
 | Path | Status | Baseline | Current |
 |---|---|---|---|
 | `packages/iconifyx_circle_flags/lib/src/sets/circle_flags.dart` | changed | `4df73e6ecd5c` | `ab837568ab07` |
-| `packages/iconifyx_codicon/lib/src/sets/codicon.dart` | changed | `52aa4cfc99c5` | `a2807b0cfc75` |
+| `packages/iconifyx_codicon/lib/src/sets/codicon.dart` | changed | `52aa4cfc99c5` | `e6cdd7c286f7` |
 | `packages/iconifyx_cryptocurrency_color/lib/src/sets/cryptocurrency_color.dart` | changed | `dffa92565a8e` | `b16cf93f20fb` |
 | `packages/iconifyx_devicon_plain/lib/src/sets/devicon_plain.dart` | changed | `8e86db18c2d5` | `606833f740e5` |
-| `packages/iconifyx_devicon/lib/src/sets/devicon.dart` | changed | `800c0739b46d` | `9d4b5af8cbca` |
+| `packages/iconifyx_devicon/lib/src/sets/devicon.dart` | changed | `800c0739b46d` | `e3378702a05d` |
 | `packages/iconifyx_emojione_v1/lib/src/sets/emojione_v1.dart` | changed | `060eb11f1e7f` | `5069f4555275` |
 | `packages/iconifyx_eos_icons/lib/src/sets/eos_icons.dart` | changed | `36e379358ea4` | `93a53916c27c` |
-| `packages/iconifyx_flag/lib/src/sets/flag.dart` | changed | `091aaf9e322f` | `f9d63f3d4650` |
-| `packages/iconifyx_flagpack/lib/src/sets/flagpack.dart` | changed | `cf3563501451` | `e4e8d532e74a` |
+| `packages/iconifyx_flag/lib/src/sets/flag.dart` | changed | `091aaf9e322f` | `f49c3b993d76` |
+| `packages/iconifyx_flagpack/lib/src/sets/flagpack.dart` | changed | `cf3563501451` | `19b4ad3eec62` |
 | `packages/iconifyx_flat_ui/lib/src/sets/flat_ui.dart` | changed | `d4f59e047d64` | `ccfda2d5e26e` |
-| `packages/iconifyx_flowbite/lib/src/sets/flowbite.dart` | changed | `99c28772f453` | `c12a4c319d39` |
+| `packages/iconifyx_flowbite/lib/src/sets/flowbite.dart` | changed | `99c28772f453` | `2e0a9ff28db9` |
+| `packages/iconifyx_fluent_emoji_flat/lib/src/sets/fluent_emoji_flat.dart` | changed | `8c360ec479f0` | `009373b70014` |
 | `packages/iconifyx_fluent_emoji/lib/src/sets/fluent_emoji.dart` | changed | `a62d686c1a98` | `3b0b5ad744da` |
 | `packages/iconifyx_gcp/lib/src/sets/gcp.dart` | changed | `97f66a9d2d48` | `b3f151549d20` |
 | `packages/iconifyx_glyphs_poly/lib/src/sets/glyphs_poly.dart` | changed | `515dd87a4d8e` | `148be7fd4d21` |
-| `packages/iconifyx_glyphs/lib/src/sets/glyphs.dart` | changed | `c643447502c1` | `bb18987b0f6c` |
+| `packages/iconifyx_glyphs/lib/src/sets/glyphs.dart` | changed | `c643447502c1` | `9979201ac66b` |
+| `packages/iconifyx_ic/lib/src/sets/ic.dart` | changed | `71e42dfdc738` | `abe34deb1e5a` |
 | `packages/iconifyx_icon_park_outline/lib/src/sets/icon_park_outline.dart` | changed | `d86b1074b0ee` | `6475b520a20f` |
 | `packages/iconifyx_icon_park/lib/src/sets/icon_park.dart` | changed | `b108c1856e5e` | `322c58a97aec` |
-| `packages/iconifyx_logos/lib/src/sets/logos.dart` | changed | `bbf004084035` | `0d4f8e8916a6` |
+| `packages/iconifyx_iconamoon/lib/src/sets/iconamoon.dart` | changed | `71345d1eab0b` | `0b7f2eaea34f` |
+| `packages/iconifyx_lets_icons/lib/src/sets/lets_icons.dart` | changed | `c4700562e1e7` | `0038301b55c9` |
+| `packages/iconifyx_logos/lib/src/sets/logos.dart` | changed | `bbf004084035` | `4c6399b4fda6` |
 | `packages/iconifyx_material_icon_theme/lib/src/sets/material_icon_theme.dart` | changed | `c128a0062cc2` | `241537e88a3a` |
+| `packages/iconifyx_mdi/lib/src/sets/mdi.dart` | changed | `aea57b5a3575` | `0f2e21f2b3e7` |
 | `packages/iconifyx_meteocons/lib/src/sets/meteocons.dart` | changed | `c8868ebd9c90` | `56663f81227c` |
 | `packages/iconifyx_noto_v1/lib/src/sets/noto_v1.dart` | changed | `c067c0021675` | `3f43c14b3be8` |
-| `packages/iconifyx_openmoji/lib/src/sets/openmoji.dart` | changed | `9f7f61eebbf7` | `96b881724d37` |
+| `packages/iconifyx_openmoji/lib/src/sets/openmoji.dart` | changed | `9f7f61eebbf7` | `8cc3fb7ab46d` |
 | `packages/iconifyx_oui/lib/src/sets/oui.dart` | changed | `b01bb94158a3` | `89b60cca1a61` |
+| `packages/iconifyx_ph/lib/src/sets/ph.dart` | changed | `83457af9b7ef` | `19b76dd69b60` |
 | `packages/iconifyx_qlementine_icons/lib/src/sets/qlementine_icons.dart` | changed | `9e6178ca9e4d` | `26ba3dba2586` |
 | `packages/iconifyx_radix_icons/lib/src/sets/radix_icons.dart` | changed | `e4648fbd953e` | `6a13d4df5460` |
 | `packages/iconifyx_skill_icons/lib/src/sets/skill_icons.dart` | changed | `61368e50e981` | `b913e914c482` |
+| `packages/iconifyx_solar/lib/src/sets/solar.dart` | changed | `3217f1fc0d3d` | `b10836dc6be3` |
 | `packages/iconifyx_streamline_color/lib/src/sets/streamline_color.dart` | changed | `81f38b1393a9` | `99bf1b02a30b` |
 | `packages/iconifyx_streamline_cyber_color/lib/src/sets/streamline_cyber_color.dart` | changed | `13ee249fbbe8` | `a37774e2d2fa` |
 | `packages/iconifyx_streamline_plump_color/lib/src/sets/streamline_plump_color.dart` | changed | `0839663209a9` | `a48c0dca8fe4` |
@@ -194,14 +201,14 @@ A non-zero drift is OK in normal development — it just means the baseline is o
 | `tools/generator/manifests/circum.json` | changed | `c78bc054bd5b` | `ae5c13c50487` |
 | `tools/generator/manifests/clarity.json` | changed | `4a5520c2c0f4` | `59325d1112bc` |
 | `tools/generator/manifests/codex.json` | changed | `e659bd70255c` | `c445fe32c394` |
-| `tools/generator/manifests/codicon.json` | changed | `57c1d4ca36fa` | `0634d26d30fd` |
+| `tools/generator/manifests/codicon.json` | changed | `57c1d4ca36fa` | `0617812f75aa` |
 | `tools/generator/manifests/covid.json` | changed | `8ba85652a8fb` | `7935577777b6` |
 | `tools/generator/manifests/cryptocurrency-color.json` | changed | `6295267707da` | `90fd40cc5ee1` |
 | `tools/generator/manifests/cryptocurrency.json` | changed | `99c1617b3281` | `5cf08f85319b` |
 | `tools/generator/manifests/cuida.json` | changed | `35f56d3b431c` | `c624594eafce` |
 | `tools/generator/manifests/dashicons.json` | changed | `7725f0d9b440` | `915a723e7f00` |
 | `tools/generator/manifests/devicon-plain.json` | changed | `bb2b5874ce7f` | `ee27baf9a9f0` |
-| `tools/generator/manifests/devicon.json` | changed | `5673a6864572` | `5a950810503d` |
+| `tools/generator/manifests/devicon.json` | changed | `5673a6864572` | `427f1dc9155b` |
 | `tools/generator/manifests/dinkie-icons.json` | changed | `4614e9e64f72` | `c20cf72a0dcb` |
 | `tools/generator/manifests/duo-icons.json` | changed | `d3ae6642d7f6` | `1d58905662c3` |
 | `tools/generator/manifests/ei.json` | changed | `f8bba3ffdf3d` | `7a6388627cad` |
@@ -231,13 +238,13 @@ A non-zero drift is OK in normal development — it just means the baseline is o
 | `tools/generator/manifests/fe.json` | changed | `c26de2cd7848` | `a434bcfc2762` |
 | `tools/generator/manifests/feather.json` | changed | `9d2f847a3c76` | `b63cdb331ac6` |
 | `tools/generator/manifests/file-icons.json` | changed | `16faa97fdf79` | `c4ed898ac047` |
-| `tools/generator/manifests/flag.json` | changed | `178bf42afffb` | `0038d648f42b` |
-| `tools/generator/manifests/flagpack.json` | changed | `499509e1aa54` | `ccd740f69476` |
+| `tools/generator/manifests/flag.json` | changed | `178bf42afffb` | `d169cbc1ee58` |
+| `tools/generator/manifests/flagpack.json` | changed | `499509e1aa54` | `60d1d2de3202` |
 | `tools/generator/manifests/flat-color-icons.json` | changed | `0d3e9b63c9a0` | `059695ca3c60` |
 | `tools/generator/manifests/flat-ui.json` | changed | `fced8dca8e4a` | `7f265abb3548` |
-| `tools/generator/manifests/flowbite.json` | changed | `5b19e7f919c7` | `75551d8a9e18` |
+| `tools/generator/manifests/flowbite.json` | changed | `5b19e7f919c7` | `f90010352062` |
 | `tools/generator/manifests/fluent-color.json` | changed | `2fd9c7ab5306` | `f1811f12a1c2` |
-| `tools/generator/manifests/fluent-emoji-flat.json` | changed | `1fbb994ceb4b` | `4606d8547e38` |
+| `tools/generator/manifests/fluent-emoji-flat.json` | changed | `1fbb994ceb4b` | `e3643ae587b8` |
 | `tools/generator/manifests/fluent-emoji-high-contrast.json` | changed | `2e2d5301bf50` | `ad6f2804c169` |
 | `tools/generator/manifests/fluent-emoji.json` | changed | `cab101b272f0` | `486d8a6ac38c` |
 | `tools/generator/manifests/fluent-mdl2.json` | changed | `dee9af0a62ff` | `ff1e99776eb1` |
@@ -250,12 +257,12 @@ A non-zero drift is OK in normal development — it just means the baseline is o
 | `tools/generator/manifests/gala.json` | changed | `7674d88d26ac` | `47734d725383` |
 | `tools/generator/manifests/game-icons.json` | changed | `65775332ea07` | `db65cde4ade9` |
 | `tools/generator/manifests/garden.json` | changed | `4ff7ba3e6a10` | `be2507c29170` |
-| `tools/generator/manifests/gcp.json` | changed | `36e6cd26eeaa` | `9c89cf583b1d` |
+| `tools/generator/manifests/gcp.json` | changed | `36e6cd26eeaa` | `24b1d6c6f624` |
 | `tools/generator/manifests/geo.json` | changed | `098bff541bbf` | `4b073cf03090` |
 | `tools/generator/manifests/gg.json` | changed | `b5353bcd866b` | `e9eab1e3f5d5` |
 | `tools/generator/manifests/gis.json` | changed | `c5cbbe00928b` | `5078750320e3` |
 | `tools/generator/manifests/glyphs-poly.json` | changed | `689d3816adc9` | `4fd0345f9eae` |
-| `tools/generator/manifests/glyphs.json` | changed | `13bb3924e708` | `ad2cbccab721` |
+| `tools/generator/manifests/glyphs.json` | changed | `13bb3924e708` | `cc5c620af025` |
 | `tools/generator/manifests/gravity-ui.json` | changed | `f61952e4fd30` | `d48d6680c94d` |
 | `tools/generator/manifests/gridicons.json` | changed | `b5f4b7ed0040` | `e00496d9ca05` |
 | `tools/generator/manifests/grommet-icons.json` | changed | `c5a538c8487f` | `212d21cc1f6e` |
@@ -266,23 +273,10 @@ A non-zero drift is OK in normal development — it just means the baseline is o
 | `tools/generator/manifests/heroicons.json` | changed | `53a80b3bcc8f` | `f8f4c84ddd91` |
 | `tools/generator/manifests/hugeicons.json` | changed | `99778196cdc8` | `ca96e5cb1f30` |
 | `tools/generator/manifests/humbleicons.json` | changed | `6e301bc1264d` | `d9350b6930ad` |
-| `tools/generator/manifests/ic.json` | changed | `e421f8df57da` | `c15d0e82f052` |
+| `tools/generator/manifests/ic.json` | changed | `e421f8df57da` | `4d759a6793de` |
 | `tools/generator/manifests/icomoon-free.json` | changed | `9cbe813a0213` | `882613881c2b` |
 
 …125 more — see `tools/generator/.cache/sha_baseline.json` for full hashes.
-
-
-## Empirical regen-twice check
-
-- Scope: smoke subset **`fontelico`** (use `--full` for the full corpus regen-twice).
-
-**FAIL** — 1 files drifted between two consecutive regens. This is a real non-determinism bug; investigate `svg2ttf({ ts: 0 })`, Python venv ordering, or any newly introduced timestamp/UUID in the codegen path.
-
-### TTF drift (1)
-
-| Path | Status | Baseline | Current |
-|---|---|---|---|
-| `packages/iconifyx_fontelico/assets/fonts/Fontelico.ttf` | changed | `8a7961882e29` | `b7036a72f2b0` |
 
 
 ## How this audit works

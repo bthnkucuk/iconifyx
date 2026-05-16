@@ -1,5 +1,272 @@
 {
-  "a1": [],
+  "a1": [
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe006): 'apps', 'apps-duotone'",
+      "key": "Iconamoon:0xe006",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe00c): 'arrow-bottom-left-1', 'arrow-bottom-left-1-duotone'",
+      "key": "Iconamoon:0xe00c",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe012): 'arrow-bottom-left-2', 'arrow-bottom-left-2-duotone'",
+      "key": "Iconamoon:0xe012",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe030): 'arrow-bottom-right-1', 'arrow-bottom-right-1-duotone'",
+      "key": "Iconamoon:0xe030",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe0c0): 'arrow-top-left-1', 'arrow-top-left-1-duotone'",
+      "key": "Iconamoon:0xe0c0",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe0c6): 'arrow-top-left-2', 'arrow-top-left-2-duotone'",
+      "key": "Iconamoon:0xe0c6",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe0e4): 'arrow-top-right-1', 'arrow-top-right-1-duotone'",
+      "key": "Iconamoon:0xe0e4",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe0ea): 'arrow-top-right-2', 'arrow-top-right-2-duotone'",
+      "key": "Iconamoon:0xe0ea",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe28e): 'download', 'download-duotone'",
+      "key": "Iconamoon:0xe28e",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe2a6): 'exit', 'exit-duotone'",
+      "key": "Iconamoon:0xe2a6",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe3d8): 'menu-kebab-horizontal', 'menu-kebab-horizontal-duotone'",
+      "key": "Iconamoon:0xe3d8",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe3ea): 'menu-kebab-vertical', 'menu-kebab-vertical-duotone'",
+      "key": "Iconamoon:0xe3ea",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe462): 'number-1', 'number-1-duotone'",
+      "key": "Iconamoon:0xe462",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe486): 'number-3', 'number-3-duotone'",
+      "key": "Iconamoon:0xe486",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe498): 'number-4', 'number-4-duotone'",
+      "key": "Iconamoon:0xe498",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe4aa): 'number-5', 'number-5-duotone'",
+      "key": "Iconamoon:0xe4aa",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe4ce): 'number-7', 'number-7-duotone'",
+      "key": "Iconamoon:0xe4ce",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe552): 'playlist', 'playlist-duotone'",
+      "key": "Iconamoon:0xe552",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe557): 'playlist-repeat-list', 'playlist-repeat-list-duotone'",
+      "key": "Iconamoon:0xe557",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe55d): 'playlist-repeat-song', 'playlist-repeat-song-duotone'",
+      "key": "Iconamoon:0xe55d",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe594): 'scanner', 'scanner-duotone'",
+      "key": "Iconamoon:0xe594",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe5ff): 'sign-division-slash', 'sign-division-slash-duotone'",
+      "key": "Iconamoon:0xe5ff",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe60c): 'sign-equal', 'sign-equal-duotone'",
+      "key": "Iconamoon:0xe60c",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe612): 'sign-f', 'sign-f-duotone'",
+      "key": "Iconamoon:0xe612",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe618): 'sign-factorial', 'sign-factorial-duotone'",
+      "key": "Iconamoon:0xe618",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe624): 'sign-minus', 'sign-minus-duotone'",
+      "key": "Iconamoon:0xe624",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe636): 'sign-percent', 'sign-percent-duotone'",
+      "key": "Iconamoon:0xe636",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe63c): 'sign-pi', 'sign-pi-duotone'",
+      "key": "Iconamoon:0xe63c",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe642): 'sign-plus', 'sign-plus-duotone'",
+      "key": "Iconamoon:0xe642",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe64d): 'sign-plus-minus', 'sign-plus-minus-duotone'",
+      "key": "Iconamoon:0xe64d",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe65a): 'sign-radical', 'sign-radical-duotone'",
+      "key": "Iconamoon:0xe65a",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe672): 'sign-x', 'sign-x-duotone'",
+      "key": "Iconamoon:0xe672",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe678): 'sign-y', 'sign-y-duotone'",
+      "key": "Iconamoon:0xe678",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe6b4): 'swap', 'swap-duotone'",
+      "key": "Iconamoon:0xe6b4",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe6d2): 'trend-down', 'trend-down-duotone'",
+      "key": "Iconamoon:0xe6d2",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe6d8): 'trend-up', 'trend-up-duotone'",
+      "key": "Iconamoon:0xe6d8",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Iconamoon, 0xe6ea): 'upload', 'upload-duotone'",
+      "key": "Iconamoon:0xe6ea",
+      "prefix": "iconamoon",
+      "severity": "error"
+    },
+    {
+      "code": "font-no-live-icons",
+      "detail": "font 'Iconamoon' iconCount=1781 but live icon count is 1818",
+      "key": "Iconamoon",
+      "prefix": "iconamoon",
+      "severity": "warn"
+    }
+  ],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

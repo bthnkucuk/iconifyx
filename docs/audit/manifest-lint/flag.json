@@ -1,5 +1,55 @@
 {
-  "a1": [],
+  "a1": [
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flag, 0xe088): 'ea-1x1', 'es-1x1'",
+      "key": "Flag:0xe088",
+      "prefix": "flag",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flag, 0xe089): 'ea-4x3', 'es-4x3'",
+      "key": "Flag:0xe089",
+      "prefix": "flag",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flag, 0xe18a): 'sh-ta-1x1', 'ta-1x1'",
+      "key": "Flag:0xe18a",
+      "prefix": "flag",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flag, 0xe18b): 'sh-ta-4x3', 'ta-4x3'",
+      "key": "Flag:0xe18b",
+      "prefix": "flag",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flag, 0xe1ed): 'ac-1x1', 'sh-ac-1x1'",
+      "key": "Flag:0xe1ed",
+      "prefix": "flag",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Flag, 0xe1ee): 'ac-4x3', 'sh-ac-4x3'",
+      "key": "Flag:0xe1ee",
+      "prefix": "flag",
+      "severity": "error"
+    },
+    {
+      "code": "font-no-live-icons",
+      "detail": "font 'Flag' iconCount=483 but live icon count is 489",
+      "key": "Flag",
+      "prefix": "flag",
+      "severity": "warn"
+    }
+  ],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

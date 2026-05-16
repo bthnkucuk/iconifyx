@@ -6,7 +6,7 @@ Generated 2026-05-16 from `@iconify/json` v2.2.472. Source counts are Iconify's 
 - **Sets fully missing:** 0
 - **Sets partially missing (≥5% gap):** 28
 - **Source icons:** 301,637
-- **Built icons:** 310,370
+- **Built icons:** 312,711
 
 Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light`/`-bold` suffixes) are excluded from the built count so source-vs-built comparisons stay meaningful — those are local clones, not upstream icons.
 
@@ -23,7 +23,6 @@ _None._
 | Kameleon color icons | `streamline-kameleon-color` | 400 | 66 | 334 | 83.5% |
 | Fluent UI System Color Icons | `fluent-color` | 890 | 167 | 723 | 81.2% |
 | Emoji One (Colored) | `emojione` | 1,834 | 357 | 1,477 | 80.5% |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 645 | 2,500 | 79.5% |
 | Firefox OS Emoji | `fxemoji` | 1,034 | 244 | 790 | 76.4% |
 | Emoji One (v1) | `emojione-v1` | 1,262 | 365 | 897 | 71.1% |
 | Noto Emoji (v1) | `noto-v1` | 2,162 | 633 | 1,529 | 70.7% |
@@ -46,6 +45,7 @@ _None._
 | Cryptocurrency Color Icons | `cryptocurrency-color` | 483 | 446 | 37 | 7.7% |
 | Academicons | `academicons` | 158 | 149 | 9 | 5.7% |
 | Skill Icons | `skill-icons` | 400 | 379 | 21 | 5.3% |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 2,986 | 159 | 5.1% |
 
 ## All sets
 
@@ -56,7 +56,6 @@ _None._
 | Kameleon color icons | `streamline-kameleon-color` | 400 | 66 | +334 | ⚠ partial |
 | Fluent UI System Color Icons | `fluent-color` | 890 | 167 | +723 | ⚠ partial |
 | Emoji One (Colored) | `emojione` | 1,834 | 357 | +1477 | ⚠ partial |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 645 | +2500 | ⚠ partial |
 | Firefox OS Emoji | `fxemoji` | 1,034 | 244 | +790 | ⚠ partial |
 | Emoji One (v1) | `emojione-v1` | 1,262 | 365 | +897 | ⚠ partial |
 | Noto Emoji (v1) | `noto-v1` | 2,162 | 633 | +1529 | ⚠ partial |
@@ -79,6 +78,7 @@ _None._
 | Cryptocurrency Color Icons | `cryptocurrency-color` | 483 | 446 | +37 | ⚠ partial |
 | Academicons | `academicons` | 158 | 149 | +9 | ⚠ partial |
 | Skill Icons | `skill-icons` | 400 | 379 | +21 | ⚠ partial |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 2,986 | +159 | ⚠ partial |
 | BPMN | `bpmn` | 112 | 107 | +5 | ✓ |
 | Röntgen | `roentgen` | 551 | 533 | +18 | ✓ |
 | Flagpack | `flagpack` | 254 | 246 | +8 | ✓ |

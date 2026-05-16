@@ -1,5 +1,34 @@
 {
-  "a1": [],
+  "a1": [
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Codicon, 0xe03e): 'circle', 'circle-outline'",
+      "key": "Codicon:0xe03e",
+      "prefix": "codicon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Codicon, 0xe040): 'circle-large', 'circle-large-outline'",
+      "key": "Codicon:0xe040",
+      "prefix": "codicon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Codicon, 0xe047): 'circle-small-filled', 'debug-stackframe-dot'",
+      "key": "Codicon:0xe047",
+      "prefix": "codicon",
+      "severity": "error"
+    },
+    {
+      "code": "font-no-live-icons",
+      "detail": "font 'Codicon' iconCount=564 but live icon count is 567",
+      "key": "Codicon",
+      "prefix": "codicon",
+      "severity": "warn"
+    }
+  ],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

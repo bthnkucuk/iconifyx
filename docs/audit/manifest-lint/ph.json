@@ -1,5 +1,244 @@
 {
-  "a1": [],
+  "a1": [
+    {
+      "code": "codepoint-collision",
+      "detail": "3 live icons share (Ph, 0xe006): 'activity', 'activity-duotone', 'activity-fill'",
+      "key": "Ph:0xe006",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe55e): 'archive-box', 'box-arrow-down'",
+      "key": "Ph:0xe55e",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe55f): 'archive-box-bold', 'box-arrow-down-bold'",
+      "key": "Ph:0xe55f",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe560): 'archive-box-duotone', 'box-arrow-down-duotone'",
+      "key": "Ph:0xe560",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe561): 'archive-box-fill', 'box-arrow-down-fill'",
+      "key": "Ph:0xe561",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe562): 'archive-box-light', 'box-arrow-down-light'",
+      "key": "Ph:0xe562",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe563): 'archive-box-thin', 'box-arrow-down-thin'",
+      "key": "Ph:0xe563",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe6a8): 'browsers-simple', 'cards'",
+      "key": "Ph:0xe6a8",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe6a9): 'browsers-simple-bold', 'cards-bold'",
+      "key": "Ph:0xe6a9",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe6aa): 'browsers-simple-duotone', 'cards-duotone'",
+      "key": "Ph:0xe6aa",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe6ab): 'browsers-simple-fill', 'cards-fill'",
+      "key": "Ph:0xe6ab",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe6ac): 'browsers-simple-light', 'cards-light'",
+      "key": "Ph:0xe6ac",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xe6ad): 'browsers-simple-thin', 'cards-thin'",
+      "key": "Ph:0xe6ad",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0162): 'pedestrian', 'person'",
+      "key": "Ph:0xf0162",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0169): 'pedestrian-bold', 'person-bold'",
+      "key": "Ph:0xf0169",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf016b): 'pedestrian-fill', 'person-fill'",
+      "key": "Ph:0xf016b",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf016c): 'pedestrian-light', 'person-light'",
+      "key": "Ph:0xf016c",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf01af): 'pedestrian-thin', 'person-thin'",
+      "key": "Ph:0xf01af",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf03f0): 'rectangles-two', 'rows'",
+      "key": "Ph:0xf03f0",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf03f2): 'rectangles-two-duotone', 'rows-duotone'",
+      "key": "Ph:0xf03f2",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf03f3): 'rectangles-two-fill', 'rows-fill'",
+      "key": "Ph:0xf03f3",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf03f4): 'rectangles-two-light', 'rows-light'",
+      "key": "Ph:0xf03f4",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0401): 'rectangles-two-thin', 'rows-thin'",
+      "key": "Ph:0xf0401",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "3 live icons share (Ph, 0xf08a2): 'text-bolder', 'text-bolder-duotone', 'text-bolder-fill'",
+      "key": "Ph:0xf08a2",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "4 live icons share (Ph, 0xf08ff): 'text', 'text-duotone', 'text-fill', 'text-t'",
+      "key": "Ph:0xf08ff",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0900): 'text-bold', 'text-t-bold'",
+      "key": "Ph:0xf0900",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0903): 'text-light', 'text-t-light'",
+      "key": "Ph:0xf0903",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf090a): 'text-t-thin', 'text-thin'",
+      "key": "Ph:0xf090a",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0a03): 'archive-tray', 'tray-arrow-down'",
+      "key": "Ph:0xf0a03",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0a05): 'archive-tray-duotone', 'tray-arrow-down-duotone'",
+      "key": "Ph:0xf0a05",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0a06): 'archive-tray-fill', 'tray-arrow-down-fill'",
+      "key": "Ph:0xf0a06",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0a07): 'archive-tray-light', 'tray-arrow-down-light'",
+      "key": "Ph:0xf0a07",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Ph, 0xf0a08): 'archive-tray-thin', 'tray-arrow-down-thin'",
+      "key": "Ph:0xf0a08",
+      "prefix": "ph",
+      "severity": "error"
+    },
+    {
+      "code": "font-no-live-icons",
+      "detail": "font 'Ph' iconCount=9161 but live icon count is 9198",
+      "key": "Ph",
+      "prefix": "ph",
+      "severity": "warn"
+    }
+  ],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

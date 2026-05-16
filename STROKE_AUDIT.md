@@ -5,7 +5,7 @@ Generated 2026-05-16. For each set we sample the first 25 icons and measure two 
 - **Sets receiving raster pre-pass:** 0 / 225
 - **Of those, auto-detected:** 0
 - **Sets with ≥20% raster signal that were NOT processed:** 0
-- **Sets containing duo-tone icons:** 71 (20,989 icons across them)
+- **Sets containing duo-tone icons:** 71 (23,330 icons across them)
 - **Sets with ≥20% paint-order risk (multi-fill bodies that would render as monochrome blobs):** 0
 - **Icons proactively dropped this run for paint-order risk:** 0
 
@@ -22,6 +22,7 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Set | Prefix | Duotone icons | Spot-check |
 |---|---|---:|---|
 | Twitter Emoji | `twemoji` | 4,498 | `1st-place-medal`, `2nd-place-medal`, `3rd-place-medal` |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 2,836 | `1st-place-medal`, `2nd-place-medal`, `3rd-place-medal` |
 | Glyphs | `glyphs` | 1,603 | `a-outline`, `accessible-duo`, `accessible-outline` |
 | Solar | `solar` | 1,595 | `4k-bold-duotone`, `4k-line-duotone`, `accessibility-bold-duotone` |
 | Google Material Icons | `ic` | 1,289 | `baseline-battery-20`, `baseline-battery-30`, `baseline-battery-50` |
@@ -31,7 +32,6 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Circle Flags | `circle-flags` | 732 | `aa`, `ab`, `ac` |
 | Pepicons Print | `pepicons-print` | 703 | `airplane`, `airplane-circle`, `airplane-circle-filled` |
 | Material Icon Theme | `material-icon-theme` | 539 | `adobe-illustrator`, `adobe-illustrator-light`, `adobe-photoshop` |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 495 | `a-button-blood-type`, `ab-button-blood-type`, `adhesive-bandage` |
 | Sharp color icons | `streamline-sharp-color` | 437 | `3d-move-flat`, `3d-rotate-y-axis-flat`, `3d-scale-flat` |
 | Plump color icons | `streamline-plump-color` | 435 | `3d-coordinate-axis-flat`, `add-bell-notification-flat`, `add-layer-2-flat` |
 | Flex color icons | `streamline-flex-color` | 433 | `3d-coordinate-axis-flat`, `3d-rotate-1-flat`, `3d-rotate-y-axis-flat` |
@@ -277,7 +277,7 @@ _No packs opted in this run. Add a prefix to `vtracerSets` in `tools/generator/c
 | OpenMoji | `openmoji` | 0% | 0% | 0% | — | 1 | — | none |
 | Twitter Emoji | `twemoji` | 0% | 0% | 0% | — | 4,498 | — | none |
 | Noto Emoji | `noto` | 0% | 0% | 0% | — | 58 | — | none |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 0% | 0% | 0% | — | 495 | — | none |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 0% | 0% | 0% | — | 2,836 | — | none |
 | Fluent Emoji High Contrast | `fluent-emoji-high-contrast` | 0% | 0% | 0% | — | — | — | none |
 | Noto Emoji (v1) | `noto-v1` | 0% | 0% | 0% | — | 246 | — | none |
 | Emoji One (Colored) | `emojione` | 0% | 0% | 0% | — | 271 | — | none |

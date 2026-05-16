@@ -1,5 +1,27 @@
 {
-  "a1": [],
+  "a1": [
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Devicon, 0xe013): 'amazonwebservices', 'amazonwebservices-wordmark'",
+      "key": "Devicon:0xe013",
+      "prefix": "devicon",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Devicon, 0xe38f): '3dsmax', 'threedsmax'",
+      "key": "Devicon:0xe38f",
+      "prefix": "devicon",
+      "severity": "error"
+    },
+    {
+      "code": "font-no-live-icons",
+      "detail": "font 'Devicon' iconCount=903 but live icon count is 905",
+      "key": "Devicon",
+      "prefix": "devicon",
+      "severity": "warn"
+    }
+  ],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

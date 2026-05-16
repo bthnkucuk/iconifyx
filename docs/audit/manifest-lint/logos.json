@@ -1,5 +1,27 @@
 {
-  "a1": [],
+  "a1": [
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Logos, 0xe104): 'eta-icon', 'eta-lang'",
+      "key": "Logos:0xe104",
+      "prefix": "logos",
+      "severity": "error"
+    },
+    {
+      "code": "codepoint-collision",
+      "detail": "2 live icons share (Logos, 0xe1d6): 'linux-tux', 'tux'",
+      "key": "Logos:0xe1d6",
+      "prefix": "logos",
+      "severity": "error"
+    },
+    {
+      "code": "font-no-live-icons",
+      "detail": "font 'Logos' iconCount=928 but live icon count is 930",
+      "key": "Logos",
+      "prefix": "logos",
+      "severity": "warn"
+    }
+  ],
   "a2": [],
   "a3": [],
   "a3Skipped": null,
