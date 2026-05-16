@@ -29,6 +29,36 @@ export interface ManifestIconEntry {
   /** ISO date when deprecation was detected. */
   deprecatedSince?: string;
   /**
+   * Why the icon was deprecated. Populated by the pipeline at every drop
+   * site (or `'upstream-removed'` when an icon present in a previous
+   * manifest is no longer in the live upstream set). Drives the
+   * `bun run audit upstream-regressions` audit, which buckets new
+   * deprecations and surfaces them in `UPSTREAM_REGRESSIONS.md`.
+   *
+   * - `'upstream-removed'` — Iconify upstream removed the icon. Legitimate.
+   * - `'validator-rejected'` — our `glyph_validator.ts` rejected it
+   *   (unsupported SVG element / coord overflow / malformed `d`).
+   * - `'panic-skipped'` — `oslllo-svg-fixer`'s native resvg crashed on
+   *   this body; bisected isolation skipped it.
+   * - `'paint-order-dropped'` — `isPaintOrderRiskBody` flagged it as a
+   *   multi-fill body that would render as a monochrome blob.
+   * - `'svg2ttf-silent-empty'` — every pipeline defence passed but the
+   *   resulting TTF glyph slot has an empty outline (§16-A2 orphan-const
+   *   drift). Auto-flagged by `audit/orphan_const_fix.ts --apply`.
+   * - `'unknown'` — legacy entries pre-dating this field, or drops that
+   *   couldn't be attributed to a specific path. Backwards-compatible
+   *   default for any manifest written before §16-A8 landed.
+   *
+   * Omitted means `'unknown'` (back-compat default).
+   */
+  deprecatedReason?:
+    | 'upstream-removed'
+    | 'validator-rejected'
+    | 'panic-skipped'
+    | 'paint-order-dropped'
+    | 'svg2ttf-silent-empty'
+    | 'unknown';
+  /**
    * Set to true for icons that ship a secondary (translucent) layer in
    * addition to the primary one. The secondary glyph lives at the same
    * codepoint in the matching `<fontFamily>Secondary` font; Dart codegen
@@ -78,6 +108,58 @@ export interface ManifestIconEntry {
    * major version bump per affected pack.
    */
   tier?: 'bmp' | 'supp';
+  /**
+   * For alias entries (RESEARCH_PLAN §22 Rec 1): the iconify name of the
+   * canonical icon this alias points to. Aliases share the canonical's
+   * codepoint, font family, and rendered glyph — they're a pure rename.
+   *
+   * When set, codegen omits the alias from the main `<Prefix>Icons` class
+   * and instead emits it into `lib/aliases.dart` as a map entry pointing
+   * to the canonical const. This halves the generated Dart line count
+   * for alias-heavy packs (MDI: 6,363 aliases on 7,638 base icons), and
+   * keeps tree-shake intact because the alias map is opt-in (separate
+   * import path; importing it retains every canonical referenced).
+   *
+   * Solo / canonical icons must NOT carry this field.
+   */
+  aliasOf?: string;
+  /**
+   * Per-icon category list (RESEARCH_PLAN §22 Rec 2). Mirrors the keys of
+   * `info.categories` in the upstream Iconify JSON — most packs ship 1-3
+   * categories per icon, with some icons unclassified.
+   *
+   * Populated from `iconify-json/<prefix>.json`'s `categories` map at
+   * pipeline time. Drives the optional `lib/categories.dart` browse-map
+   * codegen: `const Map<String, List<IconifyIconData>>`, NOT exported by
+   * default. Importing it retains every referenced canonical (correct
+   * for browse use cases).
+   *
+   * Omitted when the upstream pack has no `categories` data, or for any
+   * icon that doesn't appear in any category list.
+   */
+  categories?: string[];
+  /**
+   * Informational marker: this icon WAS classified as duotone by the
+   * pipeline (opacity / two-colour / mask-internal / vtracer / colour-
+   * mapped split), but the post-build cmap-name verification
+   * (`verifySecondaryGlyphNames`, RESEARCH_PLAN §33 demote rule) found
+   * that the `<Family>Secondary.ttf` cmap entry for this codepoint
+   * resolves to a DIFFERENT glyph than this icon's own name. That
+   * happens when `svg2ttf`'s outline-dedup pass collapses multiple
+   * identical secondary outlines onto the alphabetically-first name,
+   * leaving every other codepoint silently aliased to the wrong glyph.
+   *
+   * Set in conjunction with `duotone = false`: the icon gets demoted to
+   * solo for codegen so it ships single-layer instead of duotone-with-
+   * wrong-secondary. The flag is purely informational — it lets future
+   * runs know "this WAS duotone, the secondary was aliased, that's why
+   * it's solo now" without recomputing the check. Codepoint stays
+   * reserved per CLAUDE.md §3 invariant.
+   *
+   * Solo / canonical icons that were never duotone must NOT carry this
+   * field.
+   */
+  secondaryAliased?: boolean;
 }
 
 export interface ManifestFontEntry {
@@ -112,6 +194,17 @@ export interface Manifest {
     author: SetAuthorInfo | null;
     license: SetLicenseInfo;
     total: number;
+    /**
+     * Iconify upstream `info.tags`. Empty array for sets that don't ship
+     * tags. Surfaced through codegen to `packInfo.tags` (§22 Rec 5) so
+     * picker / search consumers can introspect without loading the
+     * website's 9.8 MB icons index.
+     *
+     * Omitted (= undefined) means "back-compat default" — manifests
+     * written before §22 Rec 5 land have no tags slot; codegen treats
+     * it as the empty list.
+     */
+    tags?: string[];
   };
   fonts: ManifestFontEntry[];
   icons: Record<string, ManifestIconEntry>;

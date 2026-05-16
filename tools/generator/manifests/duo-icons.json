@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/fazdiu/duo-icons/blob/master/LICENSE"
     },
-    "total": 91
+    "total": 91,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

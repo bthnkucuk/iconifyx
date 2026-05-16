@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Google Inc
 /// License: Apache 2.0 — https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE
-/// Icons: 647 (split across 2 fonts)
+/// Icons: 633 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -99,11 +99,6 @@ class NotoV1Icons {
     IconData(0xe00f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `atom-symbol`
-  static const IconifyIconData atomSymbol = IconifyIconData.solo(
-    IconData(0xe010, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
   /// `b-button` (paint-order duotone)
   static const IconifyIconData bButton = IconifyIconData.duo(
     IconData(0xe011, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -167,11 +162,6 @@ class NotoV1Icons {
   /// `biohazard`
   static const IconifyIconData biohazard = IconifyIconData.solo(
     IconData(0xe01c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
-  /// `birthday-cake`
-  static const IconifyIconData birthdayCake = IconifyIconData.solo(
-    IconData(0xe01d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `black-heart`
@@ -571,11 +561,6 @@ class NotoV1Icons {
     IconData(0xe068, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `e-mail`
-  static const IconifyIconData eMail = IconifyIconData.solo(
-    IconData(0xe069, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
   /// `eagle`
   static const IconifyIconData eagle = IconifyIconData.solo(
     IconData(0xe06a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -637,16 +622,6 @@ class NotoV1Icons {
   static const IconifyIconData endArrow = IconifyIconData.duo(
     IconData(0xe074, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe074, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `envelope`
-  static const IconifyIconData envelope = IconifyIconData.solo(
-    IconData(0xe075, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
-  /// `envelope-with-arrow`
-  static const IconifyIconData envelopeWithArrow = IconifyIconData.solo(
-    IconData(0xe076, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `exclamation-mark`
@@ -918,11 +893,6 @@ class NotoV1Icons {
     IconData(0xe0a7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `handshake`
-  static const IconifyIconData handshake = IconifyIconData.solo(
-    IconData(0xe0a8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
   /// `heart-decoration` (paint-order duotone)
   static const IconifyIconData heartDecoration = IconifyIconData.duo(
     IconData(0xe0a9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1007,11 +977,6 @@ class NotoV1Icons {
   static const IconifyIconData idButton = IconifyIconData.duo(
     IconData(0xe0b8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0b8, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `incoming-envelope`
-  static const IconifyIconData incomingEnvelope = IconifyIconData.solo(
-    IconData(0xe0b9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `information`
@@ -1334,11 +1299,6 @@ class NotoV1Icons {
   /// `letter-n`
   static const IconifyIconData letterN = IconifyIconData.solo(
     IconData(0xe0f3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
-  /// `letter-o`
-  static const IconifyIconData letterO = IconifyIconData.solo(
-    IconData(0xe0f4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `letter-p`
@@ -2128,16 +2088,6 @@ class NotoV1Icons {
     IconData(0xe187, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `peace-symbol`
-  static const IconifyIconData peaceSymbol = IconifyIconData.solo(
-    IconData(0xe188, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
-  /// `peanuts`
-  static const IconifyIconData peanuts = IconifyIconData.solo(
-    IconData(0xe189, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
   /// `pensive-face` (paint-order duotone)
   static const IconifyIconData pensiveFace = IconifyIconData.duo(
     IconData(0xe18a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -2678,11 +2628,6 @@ class NotoV1Icons {
     IconData(0xe1ed, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
-  /// `skull-and-crossbones`
-  static const IconifyIconData skullAndCrossbones = IconifyIconData.solo(
-    IconData(0xe1ee, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
   /// `small-blue-diamond`
   static const IconifyIconData smallBlueDiamond = IconifyIconData.solo(
     IconData(0xe1ef, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -2800,11 +2745,6 @@ class NotoV1Icons {
     IconData(0xe203, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `star-of-david`
-  static const IconifyIconData starOfDavid = IconifyIconData.solo(
-    IconData(0xe204, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
   /// `stop-button`
   static const IconifyIconData stopButton = IconifyIconData.solo(
     IconData(0xe205, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -2846,11 +2786,6 @@ class NotoV1Icons {
   /// `telescope`
   static const IconifyIconData telescope = IconifyIconData.solo(
     IconData(0xe20c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
-  /// `thermometer`
-  static const IconifyIconData thermometer = IconifyIconData.solo(
-    IconData(0xe20d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `thinking-face`
@@ -2984,11 +2919,6 @@ class NotoV1Icons {
   /// `unamused-face`
   static const IconifyIconData unamusedFace = IconifyIconData.solo(
     IconData(0xe224, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
-  );
-
-  /// `unknown-flag`
-  static const IconifyIconData unknownFlag = IconifyIconData.solo(
-    IconData(0xe225, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `up-arrow`

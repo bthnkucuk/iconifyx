@@ -16,13 +16,13 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/opensearch-project/oui/blob/main/LICENSE.txt"
     },
-    "total": 443
+    "total": 437
   },
   "fonts": [
     {
       "family": "Oui",
       "nextCodepoint": 57787,
-      "iconCount": 443
+      "iconCount": 437
     }
   ],
   "icons": {
@@ -749,7 +749,9 @@
     "empty": {
       "codepoint": 57488,
       "fontFamily": "Oui",
-      "identifier": "empty"
+      "identifier": "empty",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "eql": {
       "codepoint": 57489,
@@ -1134,7 +1136,9 @@
     "menu": {
       "codepoint": 57565,
       "fontFamily": "Oui",
-      "identifier": "menu"
+      "identifier": "menu",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "menu-down": {
       "codepoint": 57566,
@@ -1474,7 +1478,9 @@
     "play-filled": {
       "codepoint": 57633,
       "fontFamily": "Oui",
-      "identifier": "playFilled"
+      "identifier": "playFilled",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "plus": {
       "codepoint": 57634,
@@ -1709,7 +1715,9 @@
     "submodule": {
       "codepoint": 57680,
       "fontFamily": "Oui",
-      "identifier": "submodule"
+      "identifier": "submodule",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "swatch-input": {
       "codepoint": 57681,
@@ -1719,7 +1727,9 @@
     "symlink": {
       "codepoint": 57682,
       "fontFamily": "Oui",
-      "identifier": "symlink"
+      "identifier": "symlink",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "table-density-compact": {
       "codepoint": 57683,
@@ -1774,7 +1784,9 @@
     "timeslider": {
       "codepoint": 57693,
       "fontFamily": "Oui",
-      "identifier": "timeslider"
+      "identifier": "timeslider",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "token-alias": {
       "codepoint": 57694,

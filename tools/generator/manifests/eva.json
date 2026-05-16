@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/akveo/eva-icons/blob/master/LICENSE.txt"
     },
-    "total": 487
+    "total": 487,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

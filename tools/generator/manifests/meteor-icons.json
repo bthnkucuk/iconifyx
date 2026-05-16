@@ -16,7 +16,12 @@
       "spdx": "MIT",
       "url": "https://github.com/zkreations/icons/blob/main/LICENSE"
     },
-    "total": 321
+    "total": 321,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

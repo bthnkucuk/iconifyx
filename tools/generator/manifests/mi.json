@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/mono-company/mono-icons/blob/master/LICENSE.md"
     },
-    "total": 180
+    "total": 180,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

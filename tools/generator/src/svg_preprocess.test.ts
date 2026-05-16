@@ -4,6 +4,7 @@ import {
   splitDuotoneBody,
   isPaintOrderRiskBody,
   paintOrderSignal,
+  trySplitTwoColorBody,
 } from './svg_preprocess.ts';
 import type { ResolvedIcon } from './load_iconify.ts';
 

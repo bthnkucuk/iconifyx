@@ -1,0 +1,55 @@
+diff --git a/lib/sfnt.js b/lib/sfnt.js
+index 2f7bff10d4b0f53ef9ede7502355fa6355bb9e83..9a4b845e9bec39587b60f6055439542e4dbde49c 100644
+--- a/lib/sfnt.js
++++ b/lib/sfnt.js
+@@ -270,9 +270,22 @@ function Glyph () {
+   this.width = 0
+ }
+ 
++// iconifyx patch (svg2ttf@6.1.0): the upstream xMin/yMin accessors initialise
++// their accumulators to 0 instead of +Infinity, so any glyph whose minimum X
++// or Y coordinate is strictly positive (very common for Iconify icons, which
++// pack content inside padding inside the 1000-em quad) silently reports a
++// header bbox of (0, 0) rather than the real extent. xMax / yMax have the
++// dual flaw — initialiser of 0 means a glyph that lives entirely in negative
++// coordinate space reports 0 instead of its real maximum. We fix all four
++// with proper ±Infinity sentinels. The `hasPoints` fallback path is
++// unchanged, so empty / blank glyphs still report (0,0) / advance-width.
++//
++// Upstream issue + tracking: see iconifyx tools/generator/patches/README +
++// CLAUDE.md §5. Also fixes Fontelico.ttf non-determinism observed under the
++// regen-twice determinism audit (DETERMINISM_AUDIT.md §16-A10).
+ Object.defineProperty(Glyph.prototype, 'xMin', {
+   get: function () {
+-    var xMin = 0
++    var xMin = Infinity
+     var hasPoints = false
+ 
+     _.forEach(this.contours, function (contour) {
+@@ -292,7 +305,7 @@ Object.defineProperty(Glyph.prototype, 'xMin', {
+ 
+ Object.defineProperty(Glyph.prototype, 'xMax', {
+   get: function () {
+-    var xMax = 0
++    var xMax = -Infinity
+     var hasPoints = false
+ 
+     _.forEach(this.contours, function (contour) {
+@@ -312,7 +325,7 @@ Object.defineProperty(Glyph.prototype, 'xMax', {
+ 
+ Object.defineProperty(Glyph.prototype, 'yMin', {
+   get: function () {
+-    var yMin = 0
++    var yMin = Infinity
+     var hasPoints = false
+ 
+     _.forEach(this.contours, function (contour) {
+@@ -332,7 +345,7 @@ Object.defineProperty(Glyph.prototype, 'yMin', {
+ 
+ Object.defineProperty(Glyph.prototype, 'yMax', {
+   get: function () {
+-    var yMax = 0
++    var yMax = -Infinity
+     var hasPoints = false
+ 
+     _.forEach(this.contours, function (contour) {

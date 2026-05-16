@@ -1,0 +1,65 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 437,
+  "liveCountPrevious": 443,
+  "newDeprecations": [
+    {
+      "codepoint": 57488,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Oui",
+      "iconName": "empty",
+      "identifier": "empty",
+      "prefix": "oui",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57565,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Oui",
+      "iconName": "menu",
+      "identifier": "menu",
+      "prefix": "oui",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57633,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Oui",
+      "iconName": "play-filled",
+      "identifier": "playFilled",
+      "prefix": "oui",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57680,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Oui",
+      "iconName": "submodule",
+      "identifier": "submodule",
+      "prefix": "oui",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57682,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Oui",
+      "iconName": "symlink",
+      "identifier": "symlink",
+      "prefix": "oui",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57693,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Oui",
+      "iconName": "timeslider",
+      "identifier": "timeslider",
+      "prefix": "oui",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "oui",
+  "previousIconifyJsonVersion": "2.2.472"
+}

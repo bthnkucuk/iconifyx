@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/ionic-team/ionicons/blob/main/LICENSE"
     },
-    "total": 2602
+    "total": 2602,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

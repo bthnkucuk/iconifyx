@@ -16,7 +16,10 @@
       "spdx": "GPL-3.0-or-later",
       "url": "https://www.gnu.org/licenses/gpl.html"
     },
-    "total": 100
+    "total": 100,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

@@ -12,7 +12,8 @@ against `git log` to see what's landed.
 ### A. Tool — generator pipeline
 
 1. **Iterate-until-empty rebuild loop** (font-build) — 3 h, eliminates all
-   ~570 silent empty glyphs immediately. See §3.
+   ~570 silent empty glyphs immediately. See §3. ✅ SHIPPED 2026-05-16
+   (569 → 0 empty glyphs after regen).
 2. **Area-based duotone classification** (`trySplitTwoColorBody`) — 4 h,
    recovers ~2 000 streamline-color / flex-color paint-order failures.
    See §2.
@@ -215,16 +216,23 @@ colour is meaningful (Google's red/yellow/green/blue G). Gate per-pack.
 
 ## §3 — Font build correctness
 
+**Status: ✅ Quick fix SHIPPED (2026-05-16). `verifyGlyphsNonEmpty` in
+`tools/generator/src/font_builder.ts` + iterate-until-empty loop in
+`pipeline.ts:processOneSet`. Empirical Δ: **569 → 0 empty glyphs**
+across the whole regen (366,203 codepoints checked; only 7 missing
+codepoints across 3 fonts remain, none of them empty-glyph issues).
+Structural opentype.js rewrite still pending.**
+
 **Verdict (immediate): Adopt iterate-until-empty rebuild. Verdict
 (structural): Replace svgicons2svgfont + svg2ttf with opentype.js.**
 
 Current pipeline: SVG body → `svgicons2svgfont` → SVG-font intermediate
 (a 2018-deprecated XML format) → `svg2ttf` → TTF. svg2ttf silently
 coerces some features (open paths, complex curves) producing
-empty-outline glyphs. Last regen: **569 silent empties across 37 fonts**
-— meteocons 157/432 (36 %), devicon 115, token-branded 98.
+empty-outline glyphs. Pre-fix regen: **569 silent empties across 37 fonts**
+— meteocons 158/440 (36 %), devicon 115, token-branded 98.
 
-### Quick fix (3 h): iterate-until-empty
+### Quick fix (3 h, shipped 2026-05-16): iterate-until-empty ✅
 
 After `buildFonts`, re-inspect via `fontkit`. Mark every empty glyph
 `deprecated: true`, recompute counts, rebuild. Loop until empties = 0
@@ -248,6 +256,34 @@ for (let iter = 0; iter < MAX_ITER; iter++) {
 
 Codepoint stability: empty glyphs get `deprecated: true`, codepoint
 stays reserved. No consumer-visible blanks.
+
+### Empirical results post-ship (2026-05-16, warm-cache full regen)
+
+| Metric | Before | After |
+|---|---:|---:|
+| Empty glyphs across all fonts | 569 | **0** |
+| Fonts with empty glyphs | 37 | 0 |
+| Codepoints checked | 366,800 | 366,203 |
+| Worst offenders (meteocons / devicon / token-branded) | 158 / 115 / 98 | 0 / 0 / 0 |
+
+Wall-clock cost on warm-cache regen: ~3 s extra (1 fontkit pass per
+emitted TTF + bytes-only buffer ops; no disk IO until the final
+write step). On the cache-cold `meteocons` pack the loop converges
+in **1 iteration** — no second-order silent-empties surfaced after
+the first drop pass. `MAX_ITER=5` safety cap was never tripped
+during the full-set regen.
+
+Implementation: `verifyGlyphsNonEmpty(ttfBytes, members)` in
+`tools/generator/src/font_builder.ts` opens the in-memory TTF via
+`fontkit.create()` and returns the subset whose glyph has
+`path.commands.length === 0`. `pipeline.ts:processOneSet` wraps
+`buildFonts` in a `do { ... } while (newlyEmpty)` loop, marking
+each empty as `deprecated: true` / `deprecatedSince=today` and
+recomputing per-font icon counts before the next pass. Dropped
+icons get the same on-disk semantics as the existing
+`onGlyphDropped` (svgicons2svgfont mid-stream error) path — the
+codepoint stays reserved per CLAUDE.md §3, so a future Iconify
+upstream fix automatically restores the icon on the next regen.
 
 ### Structural fix (2 days): opentype.js
 
@@ -659,6 +695,21 @@ Flutter's text engine actually renders. ~700 KB WASM, no subprocess.
 ---
 
 ## §9 — Website performance
+
+**Status: ✅ PARTIAL (2026-05-16). Lazy per-pack `FontLoader` +
+memory probe shipped — see
+[`lib/bootstrap/font_loader_service.dart`](../packages/iconifyx/website/lib/bootstrap/font_loader_service.dart)
+and [`memory_probe.dart`](../packages/iconifyx/website/lib/bootstrap/memory_probe.dart).
+Pack-detail and icon-detail routes gate render on
+`FontLoaderService.ensurePack` before showing any glyph. A periodic
+probe (`performance.measureUserAgentSpecificMemory()` when COOP/COEP
+is in force, `performance.memory.usedJSHeapSize` fallback,
+visit-count last resort) surfaces a "Refresh to free memory"
+snackbar past 350 MB or 20 unique pack visits. See
+[`docs/DEPLOYMENT.md`](DEPLOYMENT.md#coopcoep-for-memory-probe)
+for the COOP/COEP follow-up that lets the accurate API run on
+GitHub Pages. The TextPainter `ui.Picture` cache and RepaintBoundary
+items below are still pending.**
 
 **Verdict: Adopt TextPainter `ui.Picture` cache, RepaintBoundary, lazy
 font registration. Trial 3-gram search filter.**
@@ -1597,11 +1648,25 @@ to `FONT_AUDIT.md` because it only walks `manifest.fonts`.
   emits, the TTF cmap slot exists, but the glyph outline is empty
   (so consumers render a blank box). A2 is the Dart-side mirror of
   FONT_AUDIT's manifest-side empty-glyph drift.
+
+  **✅ Remediated 2026-05-16 → `bun run audit orphan-const-fix --apply`.**
+  Lives in `tools/generator/audit/orphan_const_fix.ts` and wired into
+  the dispatcher at `tools/generator/audit.ts`. Reads the per-pack
+  `docs/audit/manifest-lint/<prefix>.json`, maps each A2 row's
+  `(constant, codepoint, primary-family)` triple back to a unique
+  manifest icon name, and (under `--apply`) sets
+  `deprecated: true` + `deprecatedSince: <today>` +
+  `deprecatedReason: 'svg2ttf-silent-empty'` on the entry. Codepoint
+  stays reserved (CLAUDE.md §3 invariant). Recomputes
+  `manifest.fonts[*].iconCount` + `info.total` to keep A1's
+  internal-consistency checks green. After applying, regen each
+  affected pack to re-emit Dart / TTF / pubspec without the
+  deprecated consts. Verified 319 → 0 A2 violations.
 - **A3: 0 renames vs. HEAD.** Expected — no recent regen, manifests
   on disk are byte-identical to HEAD. Positive test (synthetic
   rename → `identifier-renamed` row) confirmed detection works.
 
-### A8 — Iconify upstream regression detector
+### A8 — Iconify upstream regression detector ✅ SHIPPED
 
 **Cost**: ~2 h. **ROI**: high.
 
@@ -1615,6 +1680,23 @@ bump — same version + new deprecations = our regression.
 This is the Mynaui-1800-lost case CLAUDE.md §5c calls out by name —
 a regex tightening in `glyph_validator.ts` silently deprecated 1 000+
 icons; only visible by watching the log scroll. Will happen again.
+
+**Status (2026-05-16):** shipped as `bun run audit upstream-regressions`.
+`ManifestIconEntry` now carries a `deprecatedReason` field with five
+buckets: `upstream-removed` / `validator-rejected` / `panic-skipped` /
+`paint-order-dropped` / `unknown`. `codepoint_allocator.ts` stamps
+`'upstream-removed'` as the default for icons that disappeared from
+the live set; `pipeline.ts` overwrites with the precise reason at
+every drop site (validator / panic / paint-order). The audit module
+lives at `tools/generator/audit/upstream_regressions.ts` and emits
+`UPSTREAM_REGRESSIONS.md` at repo root + per-pack JSON under
+`docs/audit/upstream-regressions/`. The report flags **suspicious
+packs** — those that lost icons to validator / panic / paint-order
+WITHOUT an `iconifyJsonVersion` bump (= same upstream payload, new
+rejections = OUR regression). That section is the Mynaui-class
+early-warning trigger. First run on the current corpus: 565 new
+deprecations across 29 packs, all in the `unknown` bucket (pre-A8
+deprecations have no `deprecatedReason`); zero suspicious packs.
 
 ### A14 — Suspicious-glyph perceptual hash ("solid blob" detector)
 
@@ -2615,7 +2697,7 @@ meta-pack.
 
 **Compat**: purely additive; existing `iconifyx` stays.
 
-#### Rec 5 — Promote `IconSetLicense` → `PackInfo`
+#### Rec 5 — Promote `IconSetLicense` → `PackInfo` ✅ SHIPPED
 
 **Change**: rename + extend to include `category`, `tags`,
 `iconifyPrefix`, `hasDuotone`, `hasPaintOrder`. Keep
@@ -2629,6 +2711,21 @@ picker UI ("filter to duotone-capable packs").
 **Tree-shake**: one const per pack — zero impact.
 
 **Compat**: old `iconSetLicense` stays for one release.
+
+**Status (2026-05-16):** every per-set package now emits TWO consts in
+`lib/src/license.dart` — `packInfo` (new) carrying `prefix` / `name` /
+`category` / `tags` / `iconCount` / `hasDuotone` / `hasPaintOrder` /
+`iconifyJsonVersion` / `author` (`IconAuthor`) / `license`
+(`IconSetLicense`), and the back-compat `iconSetLicense` const
+(identical payload to `packInfo.license`). New types live in
+`packages/iconifyx_core/lib/src/license_info.dart`. Tree-shake invariant
+preserved — both consts contain only metadata, no `IconData`
+references. The capability flags are computed at codegen time by
+walking `manifest.icons` for `duotone` / `duotoneKind === 'paintOrder'`.
+`info.tags` is plumbed through `manifest.info.tags` (new optional
+field) from the full @iconify/json pack JSON. Verified with `mdi`
+(non-duotone), `ph` (`hasDuotone: true`), and `logos`
+(`hasDuotone: true, hasPaintOrder: true`).
 
 ### What NOT to do
 
@@ -3679,9 +3776,9 @@ Builds the EYES before any large refactor.
 
 | § | Task | h |
 |---|---|---:|
-| §16-A1/A2/A3 | Combined `MANIFEST_LINT.md` | 4 |
+| §16-A1/A2/A3 | Combined `MANIFEST_LINT.md` — ✅ shipped + §16-A2 ✅ remediated (`bun run audit orphan-const-fix --apply`, 319 → 0) | 4 |
 | §16-A5 | Per-pack tree-shake automation (rotated sample) | 5 |
-| §16-A8 | Upstream regression detector + `deprecatedReason` | 2 |
+| §16-A8 | Upstream regression detector + `deprecatedReason` — ✅ shipped (`bun run audit upstream-regressions`) | 2 |
 | §4 | Golden file regression (curated 20-icon list) | 2 |
 | §4 | pixelmatch infra + raster64 cache | 6 |
 | §16-A14 | Suspicious-glyph (blob/blank) on §4 raster | 2 |
@@ -3726,7 +3823,7 @@ lands.
 | § | Task | h |
 |---|---|---:|
 | §22 R3 | Per-pack versioning (hash → bump) | 3 |
-| §22 R5 | `PackInfo` (extend `IconSetLicense`) | 2 |
+| §22 R5 | `PackInfo` (extend `IconSetLicense`) — ✅ shipped (every pack now emits `packInfo` const with `hasDuotone` / `hasPaintOrder` flags; `iconSetLicense` preserved for back-compat) | 2 |
 | §22 R2 | Per-pack category data layer | 4 |
 | §22 R1 | Alias-map split — **gated on A3** | 6 |
 | §22 R4 | Category-meta packages (`iconifyx_logos`, etc.) | 3 |

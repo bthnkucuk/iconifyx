@@ -16,7 +16,12 @@
       "spdx": "MIT",
       "url": "https://github.com/halfmage/majesticons/blob/main/LICENSE"
     },
-    "total": 1045
+    "total": 1045,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/tandpfun/skill-icons/blob/main/LICENSE"
     },
-    "total": 400
+    "total": 379
   },
   "fonts": [
     {
       "family": "SkillIcons",
       "nextCodepoint": 57744,
-      "iconCount": 400
+      "iconCount": 379
     },
     {
       "family": "SkillIconsSecondary",
       "nextCodepoint": 57744,
-      "iconCount": 131
+      "iconCount": 125
     }
   ],
   "icons": {
@@ -91,7 +91,9 @@
     "aiscript-light": {
       "codepoint": 57353,
       "fontFamily": "SkillIcons",
-      "identifier": "aiscriptLight"
+      "identifier": "aiscriptLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "alpinejs-dark": {
       "codepoint": 57354,
@@ -318,7 +320,9 @@
       "codepoint": 57395,
       "fontFamily": "SkillIcons",
       "identifier": "cassandraDark",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cassandra-light": {
       "codepoint": 57396,
@@ -354,7 +358,9 @@
     "cloudflare-light": {
       "codepoint": 57402,
       "fontFamily": "SkillIcons",
-      "identifier": "cloudflareLight"
+      "identifier": "cloudflareLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cmake-dark": {
       "codepoint": 57403,
@@ -944,7 +950,9 @@
       "codepoint": 57505,
       "fontFamily": "SkillIcons",
       "identifier": "ipfsLight",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "java-dark": {
       "codepoint": 57506,
@@ -1170,7 +1178,9 @@
     "mint-light": {
       "codepoint": 57547,
       "fontFamily": "SkillIcons",
-      "identifier": "mintLight"
+      "identifier": "mintLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "misskey-dark": {
       "codepoint": 57548,
@@ -1233,7 +1243,9 @@
     "netlify-light": {
       "codepoint": 57558,
       "fontFamily": "SkillIcons",
-      "identifier": "netlifyLight"
+      "identifier": "netlifyLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nextjs-dark": {
       "codepoint": 57559,
@@ -1264,7 +1276,9 @@
     "nim-light": {
       "codepoint": 57563,
       "fontFamily": "SkillIcons",
-      "identifier": "nimLight"
+      "identifier": "nimLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nix-dark": {
       "codepoint": 57564,
@@ -1441,7 +1455,9 @@
     "pkl-light": {
       "codepoint": 57594,
       "fontFamily": "SkillIcons",
-      "identifier": "pklLight"
+      "identifier": "pklLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "plan9-dark": {
       "codepoint": 57595,
@@ -1644,7 +1660,9 @@
     "react-light": {
       "codepoint": 57629,
       "fontFamily": "SkillIcons",
-      "identifier": "reactLight"
+      "identifier": "reactLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "reactivex-dark": {
       "codepoint": 57630,
@@ -1734,7 +1752,9 @@
     "robloxstudio": {
       "codepoint": 57645,
       "fontFamily": "SkillIcons",
-      "identifier": "robloxstudio"
+      "identifier": "robloxstudio",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "rocket": {
       "codepoint": 57646,
@@ -1780,7 +1800,9 @@
     "sass": {
       "codepoint": 57653,
       "fontFamily": "SkillIcons",
-      "identifier": "sass"
+      "identifier": "sass",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "scala-dark": {
       "codepoint": 57654,
@@ -1805,7 +1827,9 @@
     "selenium": {
       "codepoint": 57658,
       "fontFamily": "SkillIcons",
-      "identifier": "selenium"
+      "identifier": "selenium",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sentry": {
       "codepoint": 57659,
@@ -1842,7 +1866,9 @@
       "codepoint": 57664,
       "fontFamily": "SkillIcons",
       "identifier": "solidity",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "solidjs-dark": {
       "codepoint": 57665,
@@ -1891,7 +1917,9 @@
     "stackoverflow-light": {
       "codepoint": 57673,
       "fontFamily": "SkillIcons",
-      "identifier": "stackoverflowLight"
+      "identifier": "stackoverflowLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "styledcomponents": {
       "codepoint": 57674,
@@ -1964,7 +1992,9 @@
     "tailwindcss-light": {
       "codepoint": 57686,
       "fontFamily": "SkillIcons",
-      "identifier": "tailwindcssLight"
+      "identifier": "tailwindcssLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "tauri-dark": {
       "codepoint": 57687,
@@ -1974,7 +2004,9 @@
     "tauri-light": {
       "codepoint": 57688,
       "fontFamily": "SkillIcons",
-      "identifier": "tauriLight"
+      "identifier": "tauriLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "tensorflow-dark": {
       "codepoint": 57689,
@@ -2032,7 +2064,9 @@
     "ubuntu-light": {
       "codepoint": 57698,
       "fontFamily": "SkillIcons",
-      "identifier": "ubuntuLight"
+      "identifier": "ubuntuLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "unity-dark": {
       "codepoint": 57699,
@@ -2084,7 +2118,9 @@
       "codepoint": 57707,
       "fontFamily": "SkillIcons",
       "identifier": "verilog",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vim-dark": {
       "codepoint": 57708,
@@ -2120,13 +2156,17 @@
       "codepoint": 57714,
       "fontFamily": "SkillIcons",
       "identifier": "vitestDark",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vitest-light": {
       "codepoint": 57715,
       "fontFamily": "SkillIcons",
       "identifier": "vitestLight",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vscode-dark": {
       "codepoint": 57716,
@@ -2218,7 +2258,9 @@
     "windows-light": {
       "codepoint": 57733,
       "fontFamily": "SkillIcons",
-      "identifier": "windowsLight"
+      "identifier": "windowsLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "wordpress": {
       "codepoint": 57734,

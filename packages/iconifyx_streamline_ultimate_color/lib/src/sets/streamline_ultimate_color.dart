@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 587 (split across 2 fonts)
+/// Icons: 580 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -565,11 +565,6 @@ class StreamlineUltimateColorIcons {
   /// `cloud-file`
   static const IconifyIconData cloudFile = IconifyIconData.solo(
     IconData(0xe06d, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
-  );
-
-  /// `cloud-loading`
-  static const IconifyIconData cloudLoading = IconifyIconData.solo(
-    IconData(0xe06e, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
   /// `cloud-warning`
@@ -1267,11 +1262,6 @@ class StreamlineUltimateColorIcons {
     IconData(0xe0f9, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
-  /// `information-circle`
-  static const IconifyIconData informationCircle = IconifyIconData.solo(
-    IconData(0xe0fa, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
-  );
-
   /// `information-desk-customer`
   static const IconifyIconData informationDeskCustomer = IconifyIconData.solo(
     IconData(0xe0fb, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
@@ -1546,11 +1536,6 @@ class StreamlineUltimateColorIcons {
   /// `messages-logo`
   static const IconifyIconData messagesLogo = IconifyIconData.solo(
     IconData(0xe131, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
-  );
-
-  /// `microphone-1`
-  static const IconifyIconData microphone1 = IconifyIconData.solo(
-    IconData(0xe132, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
   /// `microsoft-logo`
@@ -2108,11 +2093,6 @@ class StreamlineUltimateColorIcons {
     IconData(0xe1a1, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
-  /// `scale-horizontal`
-  static const IconifyIconData scaleHorizontal = IconifyIconData.solo(
-    IconData(0xe1a2, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
-  );
-
   /// `scanner`
   static const IconifyIconData scanner = IconifyIconData.solo(
     IconData(0xe1a3, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
@@ -2568,11 +2548,6 @@ class StreamlineUltimateColorIcons {
     IconData(0xe1fd, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
-  /// `team-chat`
-  static const IconifyIconData teamChat = IconifyIconData.solo(
-    IconData(0xe1fe, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
-  );
-
   /// `team-meeting`
   static const IconifyIconData teamMeeting = IconifyIconData.solo(
     IconData(0xe1ff, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
@@ -2591,16 +2566,6 @@ class StreamlineUltimateColorIcons {
   /// `temperature-thermometer-high-alt`
   static const IconifyIconData temperatureThermometerHighAlt = IconifyIconData.solo(
     IconData(0xe202, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
-  );
-
-  /// `text-strike-through-1`
-  static const IconifyIconData textStrikeThrough1 = IconifyIconData.solo(
-    IconData(0xe203, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
-  );
-
-  /// `text-underline`
-  static const IconifyIconData textUnderline = IconifyIconData.solo(
-    IconData(0xe204, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
   /// `ticket-1`

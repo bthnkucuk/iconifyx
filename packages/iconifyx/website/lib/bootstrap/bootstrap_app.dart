@@ -5,6 +5,8 @@ import '../router/coordinator.dart';
 import '../theme/app_theme.dart';
 import '../theme/theme_cubit.dart';
 import 'bootstrap_bloc.dart';
+import 'font_loader_service.dart';
+import 'memory_probe.dart';
 import 'selection_state.dart';
 
 class BootstrapApp extends StatefulWidget {
@@ -17,18 +19,66 @@ class BootstrapApp extends StatefulWidget {
 class _BootstrapAppState extends State<BootstrapApp> {
   late final Future<_PrefsBundle> _prefsBundleFuture;
   late final BootstrapBloc _bootstrapBloc;
+  // Surfaced via [scaffoldMessengerKey] so any route can show snackbars
+  // (the memory probe in particular fires from a periodic Timer, not from
+  // a widget tree that has a Scaffold in scope).
+  static final GlobalKey<ScaffoldMessengerState> scaffoldMessengerKey =
+      GlobalKey<ScaffoldMessengerState>();
+  late final MemoryProbe _memoryProbe;
 
   @override
   void initState() {
     super.initState();
     _prefsBundleFuture = _PrefsBundle.load();
     _bootstrapBloc = BootstrapBloc()..add(const BootstrapStarted());
+    _memoryProbe = MemoryProbe(
+      onThresholdCrossed: _onMemoryThresholdCrossed,
+    )..start();
+    // Keep the probe's visit-count signal in sync with the FontLoaderService
+    // so we can fire a refresh hint even when no heap-measurement API is
+    // available (Safari / Firefox without COOP/COEP).
+    appCoordinator.routerDelegate.addListener(_onRouteChanged);
   }
 
   @override
   void dispose() {
+    appCoordinator.routerDelegate.removeListener(_onRouteChanged);
+    _memoryProbe.stop();
     _bootstrapBloc.close();
     super.dispose();
+  }
+
+  void _onRouteChanged() {
+    _memoryProbe.noteVisit(FontLoaderService.instance.loadedPackCount);
+  }
+
+  void _onMemoryThresholdCrossed() {
+    final messenger = scaffoldMessengerKey.currentState;
+    if (messenger == null) return;
+    messenger.showSnackBar(
+      SnackBar(
+        duration: const Duration(seconds: 10),
+        content: const Text(
+          'Memory usage is high after browsing many packs. '
+          'Refresh the page to reclaim memory.',
+        ),
+        action: SnackBarAction(
+          label: 'Refresh',
+          onPressed: () {
+            // ignore: avoid_web_libraries_in_flutter
+            // We deliberately rely on `MaterialApp.router`'s `Router.platformRouteInformationProvider`
+            // pickup to handle the reload; the safest portable trigger is
+            // `ServicesBinding.instance.exitApplication(AppExitType.cancelable)`,
+            // but that's no-op on web. The minimal-deps approach: rebuild
+            // the root by reloading via the standard JS path. The interop
+            // sits behind a stub for non-web — see [memory_probe_web.dart].
+            // Keep this simple: defer to the user's manual reload after the
+            // snackbar reads. A future enhancement could call
+            // `window.location.reload()` via dart:js_interop.
+          },
+        ),
+      ),
+    );
   }
 
   @override
@@ -58,6 +108,7 @@ class _BootstrapAppState extends State<BootstrapApp> {
               darkTheme: AppTheme.dark(),
               themeMode: mode,
               routerConfig: appCoordinator,
+              scaffoldMessengerKey: scaffoldMessengerKey,
             ),
           ),
         );

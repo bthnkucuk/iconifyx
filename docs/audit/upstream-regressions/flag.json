@@ -1,0 +1,65 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 485,
+  "liveCountPrevious": 491,
+  "newDeprecations": [
+    {
+      "codepoint": 57498,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flag",
+      "iconName": "fm-1x1",
+      "identifier": "fm1x1",
+      "prefix": "flag",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57499,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flag",
+      "iconName": "fm-4x3",
+      "identifier": "fm4x3",
+      "prefix": "flag",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57710,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flag",
+      "iconName": "pw-1x1",
+      "identifier": "pw1x1",
+      "prefix": "flag",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57711,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flag",
+      "iconName": "pw-4x3",
+      "identifier": "pw4x3",
+      "prefix": "flag",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57750,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flag",
+      "iconName": "so-1x1",
+      "identifier": "so1x1",
+      "prefix": "flag",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57751,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flag",
+      "iconName": "so-4x3",
+      "identifier": "so4x3",
+      "prefix": "flag",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "flag",
+  "previousIconifyJsonVersion": "2.2.472"
+}

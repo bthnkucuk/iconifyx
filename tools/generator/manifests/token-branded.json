@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/0xa3k5/web3icons/blob/main/LICENCE"
     },
-    "total": 1664
+    "total": 1566
   },
   "fonts": [
     {
       "family": "TokenBranded",
       "nextCodepoint": 59008,
-      "iconCount": 1664
+      "iconCount": 1566
     },
     {
       "family": "TokenBrandedSecondary",
       "nextCodepoint": 59008,
-      "iconCount": 205
+      "iconCount": 203
     }
   ],
   "icons": {
@@ -46,7 +46,9 @@
     "10set": {
       "codepoint": 57346,
       "fontFamily": "TokenBranded",
-      "identifier": "n10set"
+      "identifier": "n10set",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "1art": {
       "codepoint": 57347,
@@ -76,7 +78,9 @@
     "aag": {
       "codepoint": 57352,
       "fontFamily": "TokenBranded",
-      "identifier": "aag"
+      "identifier": "aag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "aart": {
       "codepoint": 57353,
@@ -86,17 +90,23 @@
     "aave": {
       "codepoint": 57354,
       "fontFamily": "TokenBranded",
-      "identifier": "aave"
+      "identifier": "aave",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "abl": {
       "codepoint": 57355,
       "fontFamily": "TokenBranded",
-      "identifier": "abl"
+      "identifier": "abl",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "abr": {
       "codepoint": 57356,
       "fontFamily": "TokenBranded",
-      "identifier": "abr"
+      "identifier": "abr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "abt": {
       "codepoint": 57357,
@@ -157,7 +167,9 @@
     "ads": {
       "codepoint": 57368,
       "fontFamily": "TokenBranded",
-      "identifier": "ads"
+      "identifier": "ads",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "adx": {
       "codepoint": 57369,
@@ -206,7 +218,9 @@
     "agrs": {
       "codepoint": 57377,
       "fontFamily": "TokenBranded",
-      "identifier": "agrs"
+      "identifier": "agrs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "aht": {
       "codepoint": 57378,
@@ -359,7 +373,9 @@
     "ape": {
       "codepoint": 57406,
       "fontFamily": "TokenBranded",
-      "identifier": "ape"
+      "identifier": "ape",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "apechain": {
       "codepoint": 57407,
@@ -374,7 +390,9 @@
     "apex": {
       "codepoint": 57409,
       "fontFamily": "TokenBranded",
-      "identifier": "apex"
+      "identifier": "apex",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "apex-layer": {
       "codepoint": 57410,
@@ -508,7 +526,9 @@
     "asto": {
       "codepoint": 57435,
       "fontFamily": "TokenBranded",
-      "identifier": "asto"
+      "identifier": "asto",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "astr": {
       "codepoint": 57436,
@@ -597,7 +617,9 @@
     "avinoc": {
       "codepoint": 57452,
       "fontFamily": "TokenBranded",
-      "identifier": "avinoc"
+      "identifier": "avinoc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "avt": {
       "codepoint": 57453,
@@ -799,7 +821,9 @@
     "bfic": {
       "codepoint": 57490,
       "fontFamily": "TokenBranded",
-      "identifier": "bfic"
+      "identifier": "bfic",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "bft": {
       "codepoint": 57491,
@@ -851,12 +875,16 @@
     "bitget": {
       "codepoint": 57500,
       "fontFamily": "TokenBranded",
-      "identifier": "bitget"
+      "identifier": "bitget",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "bitkub-chain": {
       "codepoint": 57501,
       "fontFamily": "TokenBranded",
-      "identifier": "bitkubChain"
+      "identifier": "bitkubChain",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "bkn": {
       "codepoint": 57502,
@@ -901,7 +929,9 @@
     "blur": {
       "codepoint": 57510,
       "fontFamily": "TokenBranded",
-      "identifier": "blur"
+      "identifier": "blur",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "blusd": {
       "codepoint": 57511,
@@ -1027,7 +1057,9 @@
     "brg": {
       "codepoint": 57534,
       "fontFamily": "TokenBranded",
-      "identifier": "brg"
+      "identifier": "brg",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "brick": {
       "codepoint": 57535,
@@ -1295,7 +1327,9 @@
     "cby": {
       "codepoint": 57583,
       "fontFamily": "TokenBranded",
-      "identifier": "cby"
+      "identifier": "cby",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ccd": {
       "codepoint": 57584,
@@ -1305,7 +1339,9 @@
     "ccv2": {
       "codepoint": 57585,
       "fontFamily": "TokenBranded",
-      "identifier": "ccv2"
+      "identifier": "ccv2",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cdai": {
       "codepoint": 57586,
@@ -1392,7 +1428,9 @@
     "cgt": {
       "codepoint": 57602,
       "fontFamily": "TokenBranded",
-      "identifier": "cgt"
+      "identifier": "cgt",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "chain": {
       "codepoint": 57603,
@@ -1481,7 +1519,9 @@
     "clv": {
       "codepoint": 57619,
       "fontFamily": "TokenBranded",
-      "identifier": "clv"
+      "identifier": "clv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "clxy": {
       "codepoint": 57620,
@@ -1615,7 +1655,9 @@
     "cov": {
       "codepoint": 57643,
       "fontFamily": "TokenBranded",
-      "identifier": "cov"
+      "identifier": "cov",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cow": {
       "codepoint": 57644,
@@ -1714,7 +1756,9 @@
     "ctc": {
       "codepoint": 57662,
       "fontFamily": "TokenBranded",
-      "identifier": "ctc"
+      "identifier": "ctc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ctg": {
       "codepoint": 57663,
@@ -1815,7 +1859,9 @@
     "cxo": {
       "codepoint": 57681,
       "fontFamily": "TokenBranded",
-      "identifier": "cxo"
+      "identifier": "cxo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cypherock": {
       "codepoint": 57682,
@@ -1920,17 +1966,23 @@
     "dent": {
       "codepoint": 57702,
       "fontFamily": "TokenBranded",
-      "identifier": "dent"
+      "identifier": "dent",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "dep": {
       "codepoint": 57703,
       "fontFamily": "TokenBranded",
-      "identifier": "dep"
+      "identifier": "dep",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "derc": {
       "codepoint": 57704,
       "fontFamily": "TokenBranded",
-      "identifier": "derc"
+      "identifier": "derc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "dero": {
       "codepoint": 57705,
@@ -2086,7 +2138,9 @@
     "dola": {
       "codepoint": 57734,
       "fontFamily": "TokenBranded",
-      "identifier": "dola"
+      "identifier": "dola",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "domi": {
       "codepoint": 57735,
@@ -2221,7 +2275,9 @@
     "eco": {
       "codepoint": 57759,
       "fontFamily": "TokenBranded",
-      "identifier": "eco"
+      "identifier": "eco",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ecoin": {
       "codepoint": 57760,
@@ -2406,7 +2462,9 @@
     "ertha": {
       "codepoint": 57796,
       "fontFamily": "TokenBranded",
-      "identifier": "ertha"
+      "identifier": "ertha",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "es": {
       "codepoint": 57797,
@@ -2559,7 +2617,9 @@
     "fantom": {
       "codepoint": 57825,
       "fontFamily": "TokenBranded",
-      "identifier": "fantom"
+      "identifier": "fantom",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "fara": {
       "codepoint": 57826,
@@ -2783,7 +2843,9 @@
     "ftm": {
       "codepoint": 57869,
       "fontFamily": "TokenBranded",
-      "identifier": "ftm"
+      "identifier": "ftm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ftn": {
       "codepoint": 57870,
@@ -2808,7 +2870,9 @@
     "fwb": {
       "codepoint": 57874,
       "fontFamily": "TokenBranded",
-      "identifier": "fwb"
+      "identifier": "fwb",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "fx": {
       "codepoint": 57875,
@@ -3100,7 +3164,9 @@
     "grain": {
       "codepoint": 57930,
       "fontFamily": "TokenBranded",
-      "identifier": "grain"
+      "identifier": "grain",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "grav": {
       "codepoint": 57931,
@@ -3164,7 +3230,9 @@
     "gulf": {
       "codepoint": 57942,
       "fontFamily": "TokenBranded",
-      "identifier": "gulf"
+      "identifier": "gulf",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gunz": {
       "codepoint": 57943,
@@ -3205,7 +3273,9 @@
       "codepoint": 57950,
       "fontFamily": "TokenBranded",
       "identifier": "h2o",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "hair": {
       "codepoint": 57951,
@@ -3222,7 +3292,9 @@
     "handy": {
       "codepoint": 57953,
       "fontFamily": "TokenBranded",
-      "identifier": "handy"
+      "identifier": "handy",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "harmony": {
       "codepoint": 57954,
@@ -3458,7 +3530,9 @@
     "hxd": {
       "codepoint": 57997,
       "fontFamily": "TokenBranded",
-      "identifier": "hxd"
+      "identifier": "hxd",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "hxro": {
       "codepoint": 57998,
@@ -3509,7 +3583,9 @@
     "id": {
       "codepoint": 58006,
       "fontFamily": "TokenBranded",
-      "identifier": "id"
+      "identifier": "id",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "idea": {
       "codepoint": 58007,
@@ -3543,7 +3619,9 @@
     "ieth": {
       "codepoint": 58012,
       "fontFamily": "TokenBranded",
-      "identifier": "ieth"
+      "identifier": "ieth",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ignis": {
       "codepoint": 58013,
@@ -3878,7 +3956,9 @@
     "keplr": {
       "codepoint": 58075,
       "fontFamily": "TokenBranded",
-      "identifier": "keplr"
+      "identifier": "keplr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "key": {
       "codepoint": 58076,
@@ -3898,7 +3978,9 @@
     "kick": {
       "codepoint": 58079,
       "fontFamily": "TokenBranded",
-      "identifier": "kick"
+      "identifier": "kick",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "kicks": {
       "codepoint": 58080,
@@ -3938,7 +4020,9 @@
     "klima": {
       "codepoint": 58087,
       "fontFamily": "TokenBranded",
-      "identifier": "klima"
+      "identifier": "klima",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "klt": {
       "codepoint": 58088,
@@ -3958,7 +4042,9 @@
     "knc": {
       "codepoint": 58091,
       "fontFamily": "TokenBranded",
-      "identifier": "knc"
+      "identifier": "knc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "koin": {
       "codepoint": 58092,
@@ -3983,7 +4069,9 @@
     "kroma": {
       "codepoint": 58096,
       "fontFamily": "TokenBranded",
-      "identifier": "kroma"
+      "identifier": "kroma",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ksm": {
       "codepoint": 58097,
@@ -4292,7 +4380,9 @@
     "luca": {
       "codepoint": 58155,
       "fontFamily": "TokenBranded",
-      "identifier": "luca"
+      "identifier": "luca",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "lufc": {
       "codepoint": 58156,
@@ -4393,7 +4483,9 @@
     "map": {
       "codepoint": 58174,
       "fontFamily": "TokenBranded",
-      "identifier": "map"
+      "identifier": "map",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mask": {
       "codepoint": 58175,
@@ -4490,7 +4582,9 @@
     "mdx": {
       "codepoint": 58193,
       "fontFamily": "TokenBranded",
-      "identifier": "mdx"
+      "identifier": "mdx",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mean": {
       "codepoint": 58194,
@@ -4557,17 +4651,23 @@
     "metfi": {
       "codepoint": 58206,
       "fontFamily": "TokenBranded",
-      "identifier": "metfi"
+      "identifier": "metfi",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "metis": {
       "codepoint": 58207,
       "fontFamily": "TokenBranded",
-      "identifier": "metis"
+      "identifier": "metis",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "metis-andromeda": {
       "codepoint": 58208,
       "fontFamily": "TokenBranded",
-      "identifier": "metisAndromeda"
+      "identifier": "metisAndromeda",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mex": {
       "codepoint": 58209,
@@ -4601,7 +4701,9 @@
     "mimatic": {
       "codepoint": 58214,
       "fontFamily": "TokenBranded",
-      "identifier": "mimatic"
+      "identifier": "mimatic",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mimo": {
       "codepoint": 58215,
@@ -4693,7 +4795,9 @@
     "mmy": {
       "codepoint": 58232,
       "fontFamily": "TokenBranded",
-      "identifier": "mmy"
+      "identifier": "mmy",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mnb": {
       "codepoint": 58233,
@@ -4849,7 +4953,9 @@
     "mpl": {
       "codepoint": 58260,
       "fontFamily": "TokenBranded",
-      "identifier": "mpl"
+      "identifier": "mpl",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mplx": {
       "codepoint": 58261,
@@ -4923,7 +5029,9 @@
     "musd": {
       "codepoint": 58274,
       "fontFamily": "TokenBranded",
-      "identifier": "musd"
+      "identifier": "musd",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "muse": {
       "codepoint": 58275,
@@ -5004,7 +5112,9 @@
     "nabox": {
       "codepoint": 58289,
       "fontFamily": "TokenBranded",
-      "identifier": "nabox"
+      "identifier": "nabox",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nada": {
       "codepoint": 58290,
@@ -5034,7 +5144,9 @@
     "nap": {
       "codepoint": 58295,
       "fontFamily": "TokenBranded",
-      "identifier": "nap"
+      "identifier": "nap",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nav": {
       "codepoint": 58296,
@@ -5241,7 +5353,9 @@
     "npm": {
       "codepoint": 58334,
       "fontFamily": "TokenBranded",
-      "identifier": "npm"
+      "identifier": "npm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nrch": {
       "codepoint": 58335,
@@ -5325,7 +5439,9 @@
     "oath": {
       "codepoint": 58350,
       "fontFamily": "TokenBranded",
-      "identifier": "oath"
+      "identifier": "oath",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "obi": {
       "codepoint": 58351,
@@ -5340,12 +5456,16 @@
     "obsr": {
       "codepoint": 58353,
       "fontFamily": "TokenBranded",
-      "identifier": "obsr"
+      "identifier": "obsr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "obvious": {
       "codepoint": 58354,
       "fontFamily": "TokenBranded",
-      "identifier": "obvious"
+      "identifier": "obvious",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "oce": {
       "codepoint": 58355,
@@ -5437,7 +5557,9 @@
     "oni": {
       "codepoint": 58372,
       "fontFamily": "TokenBranded",
-      "identifier": "oni"
+      "identifier": "oni",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "onion": {
       "codepoint": 58373,
@@ -5508,7 +5630,9 @@
     "ordi": {
       "codepoint": 58386,
       "fontFamily": "TokenBranded",
-      "identifier": "ordi"
+      "identifier": "ordi",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "orn": {
       "codepoint": 58387,
@@ -5587,7 +5711,9 @@
     "pai": {
       "codepoint": 58401,
       "fontFamily": "TokenBranded",
-      "identifier": "pai"
+      "identifier": "pai",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "paid": {
       "codepoint": 58402,
@@ -5817,7 +5943,9 @@
     "plex": {
       "codepoint": 58445,
       "fontFamily": "TokenBranded",
-      "identifier": "plex"
+      "identifier": "plex",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "pli": {
       "codepoint": 58446,
@@ -5960,7 +6088,9 @@
     "powr": {
       "codepoint": 58472,
       "fontFamily": "TokenBranded",
-      "identifier": "powr"
+      "identifier": "powr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ppay": {
       "codepoint": 58473,
@@ -5980,7 +6110,9 @@
     "pre": {
       "codepoint": 58476,
       "fontFamily": "TokenBranded",
-      "identifier": "pre"
+      "identifier": "pre",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "primal": {
       "codepoint": 58477,
@@ -5990,7 +6122,9 @@
     "prism": {
       "codepoint": 58478,
       "fontFamily": "TokenBranded",
-      "identifier": "prism"
+      "identifier": "prism",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "pro": {
       "codepoint": 58479,
@@ -6045,7 +6179,9 @@
     "pry": {
       "codepoint": 58489,
       "fontFamily": "TokenBranded",
-      "identifier": "pry"
+      "identifier": "pry",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "psl": {
       "codepoint": 58490,
@@ -6163,7 +6299,9 @@
     "qlc": {
       "codepoint": 58511,
       "fontFamily": "TokenBranded",
-      "identifier": "qlc"
+      "identifier": "qlc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "qnt": {
       "codepoint": 58512,
@@ -6193,12 +6331,16 @@
     "qtcon": {
       "codepoint": 58517,
       "fontFamily": "TokenBranded",
-      "identifier": "qtcon"
+      "identifier": "qtcon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "qtum": {
       "codepoint": 58518,
       "fontFamily": "TokenBranded",
-      "identifier": "qtum"
+      "identifier": "qtum",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "quad": {
       "codepoint": 58519,
@@ -6455,7 +6597,9 @@
     "rjv": {
       "codepoint": 58567,
       "fontFamily": "TokenBranded",
-      "identifier": "rjv"
+      "identifier": "rjv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "rlb": {
       "codepoint": 58568,
@@ -6507,7 +6651,9 @@
     "rootstock": {
       "codepoint": 58577,
       "fontFamily": "TokenBranded",
-      "identifier": "rootstock"
+      "identifier": "rootstock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "route": {
       "codepoint": 58578,
@@ -6574,7 +6720,9 @@
     "rwn": {
       "codepoint": 58590,
       "fontFamily": "TokenBranded",
-      "identifier": "rwn"
+      "identifier": "rwn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "rxd": {
       "codepoint": 58591,
@@ -6651,7 +6799,9 @@
     "sc": {
       "codepoint": 58605,
       "fontFamily": "TokenBranded",
-      "identifier": "sc"
+      "identifier": "sc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "scar": {
       "codepoint": 58606,
@@ -6848,7 +6998,9 @@
     "silk": {
       "codepoint": 58644,
       "fontFamily": "TokenBranded",
-      "identifier": "silk"
+      "identifier": "silk",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sipher": {
       "codepoint": 58645,
@@ -6873,12 +7025,16 @@
     "skl": {
       "codepoint": 58649,
       "fontFamily": "TokenBranded",
-      "identifier": "skl"
+      "identifier": "skl",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "slam": {
       "codepoint": 58650,
       "fontFamily": "TokenBranded",
-      "identifier": "slam"
+      "identifier": "slam",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "slcl": {
       "codepoint": 58651,
@@ -6903,7 +7059,9 @@
     "slr": {
       "codepoint": 58655,
       "fontFamily": "TokenBranded",
-      "identifier": "slr"
+      "identifier": "slr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "smbr": {
       "codepoint": 58656,
@@ -6935,7 +7093,9 @@
     "snft": {
       "codepoint": 58661,
       "fontFamily": "TokenBranded",
-      "identifier": "snft"
+      "identifier": "snft",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sns": {
       "codepoint": 58662,
@@ -7103,7 +7263,9 @@
     "srm": {
       "codepoint": 58694,
       "fontFamily": "TokenBranded",
-      "identifier": "srm"
+      "identifier": "srm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ssv": {
       "codepoint": 58695,
@@ -7254,7 +7416,9 @@
       "codepoint": 58722,
       "fontFamily": "TokenBranded",
       "identifier": "susd",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sushi": {
       "codepoint": 58723,
@@ -7281,7 +7445,9 @@
     "swash": {
       "codepoint": 58727,
       "fontFamily": "TokenBranded",
-      "identifier": "swash"
+      "identifier": "swash",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sweat": {
       "codepoint": 58728,
@@ -7301,7 +7467,9 @@
     "swftc": {
       "codepoint": 58731,
       "fontFamily": "TokenBranded",
-      "identifier": "swftc"
+      "identifier": "swftc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "swise": {
       "codepoint": 58732,
@@ -7328,7 +7496,9 @@
     "symbiosis": {
       "codepoint": 58736,
       "fontFamily": "TokenBranded",
-      "identifier": "symbiosis"
+      "identifier": "symbiosis",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sync": {
       "codepoint": 58737,
@@ -7427,7 +7597,9 @@
     "theo": {
       "codepoint": 58755,
       "fontFamily": "TokenBranded",
-      "identifier": "theo"
+      "identifier": "theo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "theta": {
       "codepoint": 58756,
@@ -7477,7 +7649,9 @@
     "time": {
       "codepoint": 58765,
       "fontFamily": "TokenBranded",
-      "identifier": "time"
+      "identifier": "time",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "tin": {
       "codepoint": 58766,
@@ -7487,7 +7661,9 @@
     "tips": {
       "codepoint": 58767,
       "fontFamily": "TokenBranded",
-      "identifier": "tips"
+      "identifier": "tips",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "titan": {
       "codepoint": 58768,
@@ -7672,7 +7848,9 @@
     "troy": {
       "codepoint": 58802,
       "fontFamily": "TokenBranded",
-      "identifier": "troy"
+      "identifier": "troy",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "tru": {
       "codepoint": 58803,
@@ -7702,7 +7880,9 @@
     "tulip": {
       "codepoint": 58808,
       "fontFamily": "TokenBranded",
-      "identifier": "tulip"
+      "identifier": "tulip",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "tusd": {
       "codepoint": 58809,
@@ -7777,7 +7957,9 @@
     "umami": {
       "codepoint": 58823,
       "fontFamily": "TokenBranded",
-      "identifier": "umami"
+      "identifier": "umami",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "umb": {
       "codepoint": 58824,
@@ -7846,7 +8028,9 @@
     "upp": {
       "codepoint": 58836,
       "fontFamily": "TokenBranded",
-      "identifier": "upp"
+      "identifier": "upp",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "uptick": {
       "codepoint": 58837,
@@ -7934,7 +8118,9 @@
     "vanar": {
       "codepoint": 58852,
       "fontFamily": "TokenBranded",
-      "identifier": "vanar"
+      "identifier": "vanar",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vara": {
       "codepoint": 58853,
@@ -7959,7 +8145,9 @@
     "vee": {
       "codepoint": 58857,
       "fontFamily": "TokenBranded",
-      "identifier": "vee"
+      "identifier": "vee",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vega": {
       "codepoint": 58858,
@@ -8189,7 +8377,9 @@
     "wbtc": {
       "codepoint": 58901,
       "fontFamily": "TokenBranded",
-      "identifier": "wbtc"
+      "identifier": "wbtc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "wcfg": {
       "codepoint": 58902,
@@ -8389,7 +8579,9 @@
     "xcm": {
       "codepoint": 58938,
       "fontFamily": "TokenBranded",
-      "identifier": "xcm"
+      "identifier": "xcm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "xcur": {
       "codepoint": 58939,
@@ -8549,7 +8741,9 @@
     "xvg": {
       "codepoint": 58969,
       "fontFamily": "TokenBranded",
-      "identifier": "xvg"
+      "identifier": "xvg",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "xvs": {
       "codepoint": 58970,
@@ -8648,7 +8842,9 @@
     "zengo": {
       "codepoint": 58988,
       "fontFamily": "TokenBranded",
-      "identifier": "zengo"
+      "identifier": "zengo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "zero": {
       "codepoint": 58989,

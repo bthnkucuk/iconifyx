@@ -9,5 +9,8 @@
     "generate:new-only": "bun --cwd tools/generator run generate --new-only",
     "generate:dry-run": "bun --cwd tools/generator run generate --dry-run",
     "generate:check": "bun --cwd tools/generator run generate --check"
+  },
+  "patchedDependencies": {
+    "svg2ttf@6.1.0": "tools/generator/patches/svg2ttf@6.1.0.patch"
   }
 }

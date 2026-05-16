@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Panayiotis Lipiridis
 /// License: MIT — https://github.com/lipis/flag-icons/blob/main/LICENSE
-/// Icons: 491 (split across 2 fonts)
+/// Icons: 485 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -798,16 +798,6 @@ class FlagIcons {
   /// `fk-4x3`
   static const IconifyIconData fk4x3 = IconifyIconData.solo(
     IconData(0xe099, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-  );
-
-  /// `fm-1x1`
-  static const IconifyIconData fm1x1 = IconifyIconData.solo(
-    IconData(0xe09a, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-  );
-
-  /// `fm-4x3`
-  static const IconifyIconData fm4x3 = IconifyIconData.solo(
-    IconData(0xe09b, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
   /// `fo-1x1`
@@ -1883,16 +1873,6 @@ class FlagIcons {
     IconData(0xe16d, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
-  /// `pw-1x1`
-  static const IconifyIconData pw1x1 = IconifyIconData.solo(
-    IconData(0xe16e, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-  );
-
-  /// `pw-4x3`
-  static const IconifyIconData pw4x3 = IconifyIconData.solo(
-    IconData(0xe16f, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-  );
-
   /// `py-1x1`
   static const IconifyIconData py1x1 = IconifyIconData.solo(
     IconData(0xe170, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
@@ -2085,16 +2065,6 @@ class FlagIcons {
   /// `sm-4x3`
   static const IconifyIconData sm4x3 = IconifyIconData.solo(
     IconData(0xe195, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-  );
-
-  /// `so-1x1`
-  static const IconifyIconData so1x1 = IconifyIconData.solo(
-    IconData(0xe196, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-  );
-
-  /// `so-4x3`
-  static const IconifyIconData so4x3 = IconifyIconData.solo(
-    IconData(0xe197, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
   /// `st-1x1`

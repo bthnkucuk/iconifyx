@@ -1,0 +1,29 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 3450,
+  "liveCountPrevious": 3452,
+  "newDeprecations": [
+    {
+      "codepoint": 58321,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Glyphs",
+      "iconName": "crosshairs-bold",
+      "identifier": "crosshairsBold",
+      "prefix": "glyphs",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58565,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Glyphs",
+      "iconName": "eye-lashes-duo",
+      "identifier": "eyeLashesDuo",
+      "prefix": "glyphs",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "glyphs",
+  "previousIconifyJsonVersion": "2.2.472"
+}

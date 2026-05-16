@@ -16,18 +16,23 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
     },
-    "total": 2658
+    "total": 2656,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {
       "family": "IconPark",
       "nextCodepoint": 60002,
-      "iconCount": 2658
+      "iconCount": 2656
     },
     {
       "family": "IconParkSecondary",
       "nextCodepoint": 60002,
-      "iconCount": 80
+      "iconCount": 79
     }
   ],
   "icons": {
@@ -11690,7 +11695,9 @@
       "fontFamily": "IconPark",
       "identifier": "switchButton",
       "duotone": true,
-      "duotoneKind": "paintOrder"
+      "duotoneKind": "paintOrder",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "switch-contrast": {
       "codepoint": 59649,
@@ -12729,7 +12736,9 @@
     "upload": {
       "codepoint": 59855,
       "fontFamily": "IconPark",
-      "identifier": "upload"
+      "identifier": "upload",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "upload-computer": {
       "codepoint": 59856,

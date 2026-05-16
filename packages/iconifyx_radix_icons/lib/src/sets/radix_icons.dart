@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: WorkOS
 /// License: MIT — https://github.com/radix-ui/icons/blob/master/LICENSE
-/// Icons: 345 (split across 2 fonts)
+/// Icons: 344 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1638,11 +1638,6 @@ class RadixIconsIcons {
   /// `transform`
   static const IconifyIconData transform = IconifyIconData.solo(
     IconData(0xe143, fontFamily: 'RadixIcons', fontPackage: 'iconifyx_radix_icons'),
-  );
-
-  /// `transparency-grid`
-  static const IconifyIconData transparencyGrid = IconifyIconData.solo(
-    IconData(0xe144, fontFamily: 'RadixIcons', fontPackage: 'iconifyx_radix_icons'),
   );
 
   /// `trash`

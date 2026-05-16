@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: 0xa3k5
 /// License: MIT — https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-/// Icons: 1664 (split across 2 fonts)
+/// Icons: 1566 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -25,11 +25,6 @@ class TokenBrandedIcons {
   /// `0xgas`
   static const IconifyIconData n0xgas = IconifyIconData.solo(
     IconData(0xe001, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `10set`
-  static const IconifyIconData n10set = IconifyIconData.solo(
-    IconData(0xe002, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `1art`
@@ -57,29 +52,9 @@ class TokenBrandedIcons {
     IconData(0xe007, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `aag`
-  static const IconifyIconData aag = IconifyIconData.solo(
-    IconData(0xe008, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `aart`
   static const IconifyIconData aart = IconifyIconData.solo(
     IconData(0xe009, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `aave`
-  static const IconifyIconData aave = IconifyIconData.solo(
-    IconData(0xe00a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `abl`
-  static const IconifyIconData abl = IconifyIconData.solo(
-    IconData(0xe00b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `abr`
-  static const IconifyIconData abr = IconifyIconData.solo(
-    IconData(0xe00c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `abt`
@@ -138,11 +113,6 @@ class TokenBrandedIcons {
     IconData(0xe017, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `ads`
-  static const IconifyIconData ads = IconifyIconData.solo(
-    IconData(0xe018, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `adx`
   static const IconifyIconData adx = IconifyIconData.solo(
     IconData(0xe019, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -183,11 +153,6 @@ class TokenBrandedIcons {
   /// `agld`
   static const IconifyIconData agld = IconifyIconData.solo(
     IconData(0xe020, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `agrs`
-  static const IconifyIconData agrs = IconifyIconData.solo(
-    IconData(0xe021, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `aht`
@@ -334,11 +299,6 @@ class TokenBrandedIcons {
     IconData(0xe03d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `ape`
-  static const IconifyIconData ape = IconifyIconData.solo(
-    IconData(0xe03e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `apechain`
   static const IconifyIconData apechain = IconifyIconData.solo(
     IconData(0xe03f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -347,11 +307,6 @@ class TokenBrandedIcons {
   /// `apefi`
   static const IconifyIconData apefi = IconifyIconData.solo(
     IconData(0xe040, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `apex`
-  static const IconifyIconData apex = IconifyIconData.solo(
-    IconData(0xe041, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `apex-layer`
@@ -481,11 +436,6 @@ class TokenBrandedIcons {
     IconData(0xe05a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `asto`
-  static const IconifyIconData asto = IconifyIconData.solo(
-    IconData(0xe05b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `astr`
   static const IconifyIconData astr = IconifyIconData.solo(
     IconData(0xe05c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -566,11 +516,6 @@ class TokenBrandedIcons {
   /// `avi`
   static const IconifyIconData avi = IconifyIconData.solo(
     IconData(0xe06b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `avinoc`
-  static const IconifyIconData avinoc = IconifyIconData.solo(
-    IconData(0xe06c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `avt`
@@ -764,11 +709,6 @@ class TokenBrandedIcons {
     IconData(0xe091, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `bfic`
-  static const IconifyIconData bfic = IconifyIconData.solo(
-    IconData(0xe092, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `bft`
   static const IconifyIconData bft = IconifyIconData.solo(
     IconData(0xe093, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -815,16 +755,6 @@ class TokenBrandedIcons {
     IconData(0xe09b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `bitget`
-  static const IconifyIconData bitget = IconifyIconData.solo(
-    IconData(0xe09c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `bitkub-chain`
-  static const IconifyIconData bitkubChain = IconifyIconData.solo(
-    IconData(0xe09d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `bkn`
   static const IconifyIconData bkn = IconifyIconData.solo(
     IconData(0xe09e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -863,11 +793,6 @@ class TokenBrandedIcons {
   /// `bluesparrow`
   static const IconifyIconData bluesparrow = IconifyIconData.solo(
     IconData(0xe0a5, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `blur`
-  static const IconifyIconData blur = IconifyIconData.solo(
-    IconData(0xe0a6, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `blusd`
@@ -986,11 +911,6 @@ class TokenBrandedIcons {
   /// `breed`
   static const IconifyIconData breed = IconifyIconData.solo(
     IconData(0xe0bd, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `brg`
-  static const IconifyIconData brg = IconifyIconData.solo(
-    IconData(0xe0be, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `brick`
@@ -1245,19 +1165,9 @@ class TokenBrandedIcons {
     IconData(0xe0ee, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `cby`
-  static const IconifyIconData cby = IconifyIconData.solo(
-    IconData(0xe0ef, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `ccd`
   static const IconifyIconData ccd = IconifyIconData.solo(
     IconData(0xe0f0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `ccv2`
-  static const IconifyIconData ccv2 = IconifyIconData.solo(
-    IconData(0xe0f1, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `cdai`
@@ -1341,11 +1251,6 @@ class TokenBrandedIcons {
     IconData(0xe101, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `cgt`
-  static const IconifyIconData cgt = IconifyIconData.solo(
-    IconData(0xe102, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `chain`
   static const IconifyIconData chain = IconifyIconData.solo(
     IconData(0xe103, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -1426,11 +1331,6 @@ class TokenBrandedIcons {
   /// `cls`
   static const IconifyIconData cls = IconifyIconData.solo(
     IconData(0xe112, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `clv`
-  static const IconifyIconData clv = IconifyIconData.solo(
-    IconData(0xe113, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `clxy`
@@ -1555,11 +1455,6 @@ class TokenBrandedIcons {
     IconData(0xe12a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `cov`
-  static const IconifyIconData cov = IconifyIconData.solo(
-    IconData(0xe12b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `cow`
   static const IconifyIconData cow = IconifyIconData.solo(
     IconData(0xe12c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -1650,11 +1545,6 @@ class TokenBrandedIcons {
   /// `cspr`
   static const IconifyIconData cspr = IconifyIconData.solo(
     IconData(0xe13d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `ctc`
-  static const IconifyIconData ctc = IconifyIconData.solo(
-    IconData(0xe13e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `ctg`
@@ -1748,11 +1638,6 @@ class TokenBrandedIcons {
   static const IconifyIconData cws = IconifyIconData.duo(
     IconData(0xe150, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
     IconData(0xe150, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `cxo`
-  static const IconifyIconData cxo = IconifyIconData.solo(
-    IconData(0xe151, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `cypherock`
@@ -1853,21 +1738,6 @@ class TokenBrandedIcons {
   /// `del`
   static const IconifyIconData del = IconifyIconData.solo(
     IconData(0xe165, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `dent`
-  static const IconifyIconData dent = IconifyIconData.solo(
-    IconData(0xe166, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `dep`
-  static const IconifyIconData dep = IconifyIconData.solo(
-    IconData(0xe167, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `derc`
-  static const IconifyIconData derc = IconifyIconData.solo(
-    IconData(0xe168, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `dero`
@@ -2018,11 +1888,6 @@ class TokenBrandedIcons {
     IconData(0xe185, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `dola`
-  static const IconifyIconData dola = IconifyIconData.solo(
-    IconData(0xe186, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `domi`
   static const IconifyIconData domi = IconifyIconData.solo(
     IconData(0xe187, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -2146,11 +2011,6 @@ class TokenBrandedIcons {
   /// `earn`
   static const IconifyIconData earn = IconifyIconData.solo(
     IconData(0xe19e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `eco`
-  static const IconifyIconData eco = IconifyIconData.solo(
-    IconData(0xe19f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `ecoin`
@@ -2333,11 +2193,6 @@ class TokenBrandedIcons {
     IconData(0xe1c3, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `ertha`
-  static const IconifyIconData ertha = IconifyIconData.solo(
-    IconData(0xe1c4, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `es` (paint-order duotone)
   static const IconifyIconData es = IconifyIconData.duo(
     IconData(0xe1c5, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -2480,11 +2335,6 @@ class TokenBrandedIcons {
   /// `fakeai`
   static const IconifyIconData fakeai = IconifyIconData.solo(
     IconData(0xe1e0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `fantom`
-  static const IconifyIconData fantom = IconifyIconData.solo(
-    IconData(0xe1e1, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `fara`
@@ -2704,11 +2554,6 @@ class TokenBrandedIcons {
     IconData(0xe20c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `ftm`
-  static const IconifyIconData ftm = IconifyIconData.solo(
-    IconData(0xe20d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `ftn`
   static const IconifyIconData ftn = IconifyIconData.solo(
     IconData(0xe20e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -2727,11 +2572,6 @@ class TokenBrandedIcons {
   /// `fuse`
   static const IconifyIconData fuse = IconifyIconData.solo(
     IconData(0xe211, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `fwb`
-  static const IconifyIconData fwb = IconifyIconData.solo(
-    IconData(0xe212, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `fx` (paint-order duotone)
@@ -3015,11 +2855,6 @@ class TokenBrandedIcons {
     IconData(0xe249, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `grain`
-  static const IconifyIconData grain = IconifyIconData.solo(
-    IconData(0xe24a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `grav`
   static const IconifyIconData grav = IconifyIconData.solo(
     IconData(0xe24b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -3077,11 +2912,6 @@ class TokenBrandedIcons {
     IconData(0xe255, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `gulf`
-  static const IconifyIconData gulf = IconifyIconData.solo(
-    IconData(0xe256, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `gunz`
   static const IconifyIconData gunz = IconifyIconData.solo(
     IconData(0xe257, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -3117,12 +2947,6 @@ class TokenBrandedIcons {
     IconData(0xe25d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `h2o` (duo-tone)
-  static const IconifyIconData h2o = IconifyIconData.duo(
-    IconData(0xe25e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe25e, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `hair` (paint-order duotone)
   static const IconifyIconData hair = IconifyIconData.duo(
     IconData(0xe25f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -3132,11 +2956,6 @@ class TokenBrandedIcons {
   /// `haka`
   static const IconifyIconData haka = IconifyIconData.solo(
     IconData(0xe260, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `handy`
-  static const IconifyIconData handy = IconifyIconData.solo(
-    IconData(0xe261, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `harmony`
@@ -3362,11 +3181,6 @@ class TokenBrandedIcons {
     IconData(0xe28c, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `hxd`
-  static const IconifyIconData hxd = IconifyIconData.solo(
-    IconData(0xe28d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `hxro` (paint-order duotone)
   static const IconifyIconData hxro = IconifyIconData.duo(
     IconData(0xe28e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -3410,11 +3224,6 @@ class TokenBrandedIcons {
     IconData(0xe295, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `id`
-  static const IconifyIconData id = IconifyIconData.solo(
-    IconData(0xe296, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `idea` (paint-order duotone)
   static const IconifyIconData idea = IconifyIconData.duo(
     IconData(0xe297, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -3440,11 +3249,6 @@ class TokenBrandedIcons {
   /// `idv`
   static const IconifyIconData idv = IconifyIconData.solo(
     IconData(0xe29b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `ieth`
-  static const IconifyIconData ieth = IconifyIconData.solo(
-    IconData(0xe29c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `ignis`
@@ -3767,11 +3571,6 @@ class TokenBrandedIcons {
     IconData(0xe2da, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `keplr`
-  static const IconifyIconData keplr = IconifyIconData.solo(
-    IconData(0xe2db, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `key`
   static const IconifyIconData key = IconifyIconData.solo(
     IconData(0xe2dc, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -3785,11 +3584,6 @@ class TokenBrandedIcons {
   /// `kibshi`
   static const IconifyIconData kibshi = IconifyIconData.solo(
     IconData(0xe2de, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `kick`
-  static const IconifyIconData kick = IconifyIconData.solo(
-    IconData(0xe2df, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `kicks`
@@ -3827,11 +3621,6 @@ class TokenBrandedIcons {
     IconData(0xe2e6, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `klima`
-  static const IconifyIconData klima = IconifyIconData.solo(
-    IconData(0xe2e7, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `klt`
   static const IconifyIconData klt = IconifyIconData.solo(
     IconData(0xe2e8, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -3845,11 +3634,6 @@ class TokenBrandedIcons {
   /// `kmd`
   static const IconifyIconData kmd = IconifyIconData.solo(
     IconData(0xe2ea, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `knc`
-  static const IconifyIconData knc = IconifyIconData.solo(
-    IconData(0xe2eb, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `koin`
@@ -3870,11 +3654,6 @@ class TokenBrandedIcons {
   /// `krom`
   static const IconifyIconData krom = IconifyIconData.solo(
     IconData(0xe2ef, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `kroma`
-  static const IconifyIconData kroma = IconifyIconData.solo(
-    IconData(0xe2f0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `ksm`
@@ -4174,11 +3953,6 @@ class TokenBrandedIcons {
     IconData(0xe32a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `luca`
-  static const IconifyIconData luca = IconifyIconData.solo(
-    IconData(0xe32b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `lufc`
   static const IconifyIconData lufc = IconifyIconData.solo(
     IconData(0xe32c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -4272,11 +4046,6 @@ class TokenBrandedIcons {
     IconData(0xe33d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `map`
-  static const IconifyIconData map = IconifyIconData.solo(
-    IconData(0xe33e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `mask`
   static const IconifyIconData mask = IconifyIconData.solo(
     IconData(0xe33f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -4368,11 +4137,6 @@ class TokenBrandedIcons {
     IconData(0xe350, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `mdx`
-  static const IconifyIconData mdx = IconifyIconData.solo(
-    IconData(0xe351, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `mean`
   static const IconifyIconData mean = IconifyIconData.solo(
     IconData(0xe352, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -4434,21 +4198,6 @@ class TokenBrandedIcons {
     IconData(0xe35d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `metfi`
-  static const IconifyIconData metfi = IconifyIconData.solo(
-    IconData(0xe35e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `metis`
-  static const IconifyIconData metis = IconifyIconData.solo(
-    IconData(0xe35f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `metis-andromeda`
-  static const IconifyIconData metisAndromeda = IconifyIconData.solo(
-    IconData(0xe360, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `mex`
   static const IconifyIconData mex = IconifyIconData.solo(
     IconData(0xe361, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -4474,11 +4223,6 @@ class TokenBrandedIcons {
   static const IconifyIconData milkomedaC1 = IconifyIconData.duo(
     IconData(0xe365, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
     IconData(0xe365, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `mimatic`
-  static const IconifyIconData mimatic = IconifyIconData.solo(
-    IconData(0xe366, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `mimo`
@@ -4565,11 +4309,6 @@ class TokenBrandedIcons {
   /// `mmpro`
   static const IconifyIconData mmpro = IconifyIconData.solo(
     IconData(0xe377, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `mmy`
-  static const IconifyIconData mmy = IconifyIconData.solo(
-    IconData(0xe378, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `mnb`
@@ -4715,11 +4454,6 @@ class TokenBrandedIcons {
     IconData(0xe393, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `mpl`
-  static const IconifyIconData mpl = IconifyIconData.solo(
-    IconData(0xe394, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `mplx`
   static const IconifyIconData mplx = IconifyIconData.solo(
     IconData(0xe395, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -4785,11 +4519,6 @@ class TokenBrandedIcons {
   /// `multiversx`
   static const IconifyIconData multiversx = IconifyIconData.solo(
     IconData(0xe3a1, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `musd`
-  static const IconifyIconData musd = IconifyIconData.solo(
-    IconData(0xe3a2, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `muse`
@@ -4865,11 +4594,6 @@ class TokenBrandedIcons {
     IconData(0xe3b0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `nabox`
-  static const IconifyIconData nabox = IconifyIconData.solo(
-    IconData(0xe3b1, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `nada`
   static const IconifyIconData nada = IconifyIconData.solo(
     IconData(0xe3b2, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -4893,11 +4617,6 @@ class TokenBrandedIcons {
   /// `naos`
   static const IconifyIconData naos = IconifyIconData.solo(
     IconData(0xe3b6, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `nap`
-  static const IconifyIconData nap = IconifyIconData.solo(
-    IconData(0xe3b7, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `nav`
@@ -5096,11 +4815,6 @@ class TokenBrandedIcons {
     IconData(0xe3dd, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `npm`
-  static const IconifyIconData npm = IconifyIconData.solo(
-    IconData(0xe3de, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `nrch` (paint-order duotone)
   static const IconifyIconData nrch = IconifyIconData.duo(
     IconData(0xe3df, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -5178,11 +4892,6 @@ class TokenBrandedIcons {
     IconData(0xe3ed, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `oath`
-  static const IconifyIconData oath = IconifyIconData.solo(
-    IconData(0xe3ee, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `obi`
   static const IconifyIconData obi = IconifyIconData.solo(
     IconData(0xe3ef, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -5191,16 +4900,6 @@ class TokenBrandedIcons {
   /// `obot`
   static const IconifyIconData obot = IconifyIconData.solo(
     IconData(0xe3f0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `obsr`
-  static const IconifyIconData obsr = IconifyIconData.solo(
-    IconData(0xe3f1, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `obvious`
-  static const IconifyIconData obvious = IconifyIconData.solo(
-    IconData(0xe3f2, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `oce`
@@ -5289,11 +4988,6 @@ class TokenBrandedIcons {
     IconData(0xe403, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `oni`
-  static const IconifyIconData oni = IconifyIconData.solo(
-    IconData(0xe404, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `onion`
   static const IconifyIconData onion = IconifyIconData.solo(
     IconData(0xe405, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -5358,11 +5052,6 @@ class TokenBrandedIcons {
   /// `orderly`
   static const IconifyIconData orderly = IconifyIconData.solo(
     IconData(0xe411, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `ordi`
-  static const IconifyIconData ordi = IconifyIconData.solo(
-    IconData(0xe412, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `orn`
@@ -5435,11 +5124,6 @@ class TokenBrandedIcons {
   /// `pac`
   static const IconifyIconData pac = IconifyIconData.solo(
     IconData(0xe420, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `pai`
-  static const IconifyIconData pai = IconifyIconData.solo(
-    IconData(0xe421, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `paid`
@@ -5662,11 +5346,6 @@ class TokenBrandedIcons {
     IconData(0xe44c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `plex`
-  static const IconifyIconData plex = IconifyIconData.solo(
-    IconData(0xe44d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `pli`
   static const IconifyIconData pli = IconifyIconData.solo(
     IconData(0xe44e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -5801,11 +5480,6 @@ class TokenBrandedIcons {
     IconData(0xe467, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `powr`
-  static const IconifyIconData powr = IconifyIconData.solo(
-    IconData(0xe468, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `ppay`
   static const IconifyIconData ppay = IconifyIconData.solo(
     IconData(0xe469, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -5821,19 +5495,9 @@ class TokenBrandedIcons {
     IconData(0xe46b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `pre`
-  static const IconifyIconData pre = IconifyIconData.solo(
-    IconData(0xe46c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `primal`
   static const IconifyIconData primal = IconifyIconData.solo(
     IconData(0xe46d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `prism`
-  static const IconifyIconData prism = IconifyIconData.solo(
-    IconData(0xe46e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `pro`
@@ -5884,11 +5548,6 @@ class TokenBrandedIcons {
   /// `prx`
   static const IconifyIconData prx = IconifyIconData.solo(
     IconData(0xe478, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `pry`
-  static const IconifyIconData pry = IconifyIconData.solo(
-    IconData(0xe479, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `psl`
@@ -6000,11 +5659,6 @@ class TokenBrandedIcons {
     IconData(0xe48e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `qlc`
-  static const IconifyIconData qlc = IconifyIconData.solo(
-    IconData(0xe48f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `qnt`
   static const IconifyIconData qnt = IconifyIconData.solo(
     IconData(0xe490, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -6028,16 +5682,6 @@ class TokenBrandedIcons {
   /// `qsr`
   static const IconifyIconData qsr = IconifyIconData.solo(
     IconData(0xe494, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `qtcon`
-  static const IconifyIconData qtcon = IconifyIconData.solo(
-    IconData(0xe495, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `qtum`
-  static const IconifyIconData qtum = IconifyIconData.solo(
-    IconData(0xe496, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `quad`
@@ -6286,11 +5930,6 @@ class TokenBrandedIcons {
     IconData(0xe4c6, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `rjv`
-  static const IconifyIconData rjv = IconifyIconData.solo(
-    IconData(0xe4c7, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `rlb`
   static const IconifyIconData rlb = IconifyIconData.solo(
     IconData(0xe4c8, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -6335,11 +5974,6 @@ class TokenBrandedIcons {
   /// `ronin`
   static const IconifyIconData ronin = IconifyIconData.solo(
     IconData(0xe4d0, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `rootstock`
-  static const IconifyIconData rootstock = IconifyIconData.solo(
-    IconData(0xe4d1, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `route`
@@ -6401,11 +6035,6 @@ class TokenBrandedIcons {
   /// `rvst`
   static const IconifyIconData rvst = IconifyIconData.solo(
     IconData(0xe4dd, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `rwn`
-  static const IconifyIconData rwn = IconifyIconData.solo(
-    IconData(0xe4de, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `rxd`
@@ -6477,11 +6106,6 @@ class TokenBrandedIcons {
   static const IconifyIconData sbd = IconifyIconData.duo(
     IconData(0xe4ec, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
     IconData(0xe4ec, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `sc`
-  static const IconifyIconData sc = IconifyIconData.solo(
-    IconData(0xe4ed, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `scar`
@@ -6675,11 +6299,6 @@ class TokenBrandedIcons {
     IconData(0xe513, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `silk`
-  static const IconifyIconData silk = IconifyIconData.solo(
-    IconData(0xe514, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `sipher`
   static const IconifyIconData sipher = IconifyIconData.solo(
     IconData(0xe515, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -6700,16 +6319,6 @@ class TokenBrandedIcons {
     IconData(0xe518, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `skl`
-  static const IconifyIconData skl = IconifyIconData.solo(
-    IconData(0xe519, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `slam`
-  static const IconifyIconData slam = IconifyIconData.solo(
-    IconData(0xe51a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `slcl`
   static const IconifyIconData slcl = IconifyIconData.solo(
     IconData(0xe51b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -6728,11 +6337,6 @@ class TokenBrandedIcons {
   /// `slnd`
   static const IconifyIconData slnd = IconifyIconData.solo(
     IconData(0xe51e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `slr`
-  static const IconifyIconData slr = IconifyIconData.solo(
-    IconData(0xe51f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `smbr`
@@ -6759,11 +6363,6 @@ class TokenBrandedIcons {
   /// `snail`
   static const IconifyIconData snail = IconifyIconData.solo(
     IconData(0xe524, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `snft`
-  static const IconifyIconData snft = IconifyIconData.solo(
-    IconData(0xe525, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `sns`
@@ -6928,11 +6527,6 @@ class TokenBrandedIcons {
     IconData(0xe545, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `srm`
-  static const IconifyIconData srm = IconifyIconData.solo(
-    IconData(0xe546, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `ssv` (paint-order duotone)
   static const IconifyIconData ssv = IconifyIconData.duo(
     IconData(0xe547, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -7073,12 +6667,6 @@ class TokenBrandedIcons {
     IconData(0xe561, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `susd` (duo-tone)
-  static const IconifyIconData susd = IconifyIconData.duo(
-    IconData(0xe562, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-    IconData(0xe562, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `sushi`
   static const IconifyIconData sushi = IconifyIconData.solo(
     IconData(0xe563, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -7100,11 +6688,6 @@ class TokenBrandedIcons {
     IconData(0xe566, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `swash`
-  static const IconifyIconData swash = IconifyIconData.solo(
-    IconData(0xe567, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `sweat`
   static const IconifyIconData sweat = IconifyIconData.solo(
     IconData(0xe568, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -7118,11 +6701,6 @@ class TokenBrandedIcons {
   /// `sweth`
   static const IconifyIconData sweth = IconifyIconData.solo(
     IconData(0xe56a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `swftc`
-  static const IconifyIconData swftc = IconifyIconData.solo(
-    IconData(0xe56b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `swise`
@@ -7144,11 +6722,6 @@ class TokenBrandedIcons {
   static const IconifyIconData sylo = IconifyIconData.duo(
     IconData(0xe56f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
     IconData(0xe56f, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `symbiosis`
-  static const IconifyIconData symbiosis = IconifyIconData.solo(
-    IconData(0xe570, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `sync`
@@ -7243,11 +6816,6 @@ class TokenBrandedIcons {
     IconData(0xe582, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `theo`
-  static const IconifyIconData theo = IconifyIconData.solo(
-    IconData(0xe583, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `theta`
   static const IconifyIconData theta = IconifyIconData.solo(
     IconData(0xe584, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -7293,19 +6861,9 @@ class TokenBrandedIcons {
     IconData(0xe58c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `time`
-  static const IconifyIconData time = IconifyIconData.solo(
-    IconData(0xe58d, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `tin`
   static const IconifyIconData tin = IconifyIconData.solo(
     IconData(0xe58e, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `tips`
-  static const IconifyIconData tips = IconifyIconData.solo(
-    IconData(0xe58f, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `titan`
@@ -7483,11 +7041,6 @@ class TokenBrandedIcons {
     IconData(0xe5b1, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `troy`
-  static const IconifyIconData troy = IconifyIconData.solo(
-    IconData(0xe5b2, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `tru`
   static const IconifyIconData tru = IconifyIconData.solo(
     IconData(0xe5b3, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -7511,11 +7064,6 @@ class TokenBrandedIcons {
   /// `ttk`
   static const IconifyIconData ttk = IconifyIconData.solo(
     IconData(0xe5b7, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `tulip`
-  static const IconifyIconData tulip = IconifyIconData.solo(
-    IconData(0xe5b8, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `tusd`
@@ -7588,11 +7136,6 @@ class TokenBrandedIcons {
     IconData(0xe5c6, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `umami`
-  static const IconifyIconData umami = IconifyIconData.solo(
-    IconData(0xe5c7, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `umb`
   static const IconifyIconData umb = IconifyIconData.solo(
     IconData(0xe5c8, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -7653,11 +7196,6 @@ class TokenBrandedIcons {
   static const IconifyIconData upbit = IconifyIconData.duo(
     IconData(0xe5d3, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
     IconData(0xe5d3, fontFamily: 'TokenBrandedSecondary', fontPackage: 'iconifyx_token_branded'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `upp`
-  static const IconifyIconData upp = IconifyIconData.solo(
-    IconData(0xe5d4, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `uptick`
@@ -7739,11 +7277,6 @@ class TokenBrandedIcons {
     IconData(0xe5e3, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `vanar`
-  static const IconifyIconData vanar = IconifyIconData.solo(
-    IconData(0xe5e4, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `vara`
   static const IconifyIconData vara = IconifyIconData.solo(
     IconData(0xe5e5, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -7762,11 +7295,6 @@ class TokenBrandedIcons {
   /// `vcore`
   static const IconifyIconData vcore = IconifyIconData.solo(
     IconData(0xe5e8, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `vee`
-  static const IconifyIconData vee = IconifyIconData.solo(
-    IconData(0xe5e9, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `vega`
@@ -7989,11 +7517,6 @@ class TokenBrandedIcons {
     IconData(0xe614, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `wbtc`
-  static const IconifyIconData wbtc = IconifyIconData.solo(
-    IconData(0xe615, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `wcfg`
   static const IconifyIconData wcfg = IconifyIconData.solo(
     IconData(0xe616, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -8182,11 +7705,6 @@ class TokenBrandedIcons {
     IconData(0xe639, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `xcm`
-  static const IconifyIconData xcm = IconifyIconData.solo(
-    IconData(0xe63a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `xcur`
   static const IconifyIconData xcur = IconifyIconData.solo(
     IconData(0xe63b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -8340,11 +7858,6 @@ class TokenBrandedIcons {
     IconData(0xe658, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
-  /// `xvg`
-  static const IconifyIconData xvg = IconifyIconData.solo(
-    IconData(0xe659, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
   /// `xvs`
   static const IconifyIconData xvs = IconifyIconData.solo(
     IconData(0xe65a, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
@@ -8435,11 +7948,6 @@ class TokenBrandedIcons {
   /// `zen`
   static const IconifyIconData zen = IconifyIconData.solo(
     IconData(0xe66b, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
-  );
-
-  /// `zengo`
-  static const IconifyIconData zengo = IconifyIconData.solo(
-    IconData(0xe66c, fontFamily: 'TokenBranded', fontPackage: 'iconifyx_token_branded'),
   );
 
   /// `zero` (paint-order duotone)

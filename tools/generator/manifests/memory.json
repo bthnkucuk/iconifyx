@@ -16,7 +16,11 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/Pictogrammers/Memory/blob/main/LICENSE"
     },
-    "total": 655
+    "total": 655,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

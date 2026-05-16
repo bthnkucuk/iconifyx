@@ -16,7 +16,12 @@
       "spdx": "MIT",
       "url": "https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md"
     },
-    "total": 102
+    "total": 102,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

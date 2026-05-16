@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
+import '../../bootstrap/font_loader_service.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../bootstrap/selection_state.dart';
 import '../../router/coordinator.dart';
@@ -219,10 +220,22 @@ class _PackDetailPageState extends State<PackDetailPage> {
             return _LoadingCatalog(summary: summary);
           }
           final allIcons = state.catalog.byPrefix[prefix] ?? const [];
-          return _LoadedBody(
-            page: this,
+          // RESEARCH_PLAN §9 lazy font registration. The pack's TTFs are
+          // bundled as assets via the transitive `iconifyx_<prefix>` dep,
+          // but we hold off on calling `FontLoader.load()` until the user
+          // actually opens this page — so packs they never visit never
+          // touch the CanvasKit WASM font registry. Once registered, the
+          // glyph data lives in CanvasKit memory until page reload (no
+          // public unregister API — see `font_loader_service.dart`), so
+          // bounding *which* packs get there is the only growth-control
+          // lever we have.
+          return _FontGate(
             summary: summary,
-            allIcons: allIcons,
+            child: _LoadedBody(
+              page: this,
+              summary: summary,
+              allIcons: allIcons,
+            ),
           );
         },
       ),
@@ -1143,6 +1156,64 @@ class _LoadingCatalog extends StatelessWidget {
           const Center(child: CircularProgressIndicator(color: AppTheme.coral)),
         ],
       ),
+    );
+  }
+}
+
+/// Gates [child] on a successful [FontLoaderService.ensurePack] for
+/// [summary]. Shows the page chrome (breadcrumb-style spinner) while the
+/// first per-pack TTF registration is in flight. Returns the child
+/// synchronously on subsequent visits — the service tracks completed
+/// packs internally so the gate is a near-zero-cost pass-through after
+/// the first paint.
+///
+/// Stateful because the load future must outlive a single build — when
+/// Flutter rebuilds the `BlocBuilder` ancestor (e.g. theme toggle), we
+/// must not re-issue the `ensurePack` call.
+class _FontGate extends StatefulWidget {
+  const _FontGate({required this.summary, required this.child});
+  final PackSummary summary;
+  final Widget child;
+
+  @override
+  State<_FontGate> createState() => _FontGateState();
+}
+
+class _FontGateState extends State<_FontGate> {
+  late Future<void> _future;
+
+  @override
+  void initState() {
+    super.initState();
+    _future = FontLoaderService.instance.ensurePack(widget.summary);
+  }
+
+  @override
+  void didUpdateWidget(covariant _FontGate old) {
+    super.didUpdateWidget(old);
+    // When the route swaps to a different pack while this widget is
+    // still mounted (the BlocBuilder rebuilds with a new prefix), kick
+    // off the new pack's font load. Idempotent if already loaded.
+    if (old.summary.prefix != widget.summary.prefix) {
+      _future = FontLoaderService.instance.ensurePack(widget.summary);
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    // Fast path: pack already registered. Skip the FutureBuilder
+    // rebuild dance entirely so revisits feel instant.
+    if (FontLoaderService.instance.isLoaded(widget.summary.prefix)) {
+      return widget.child;
+    }
+    return FutureBuilder<void>(
+      future: _future,
+      builder: (context, snap) {
+        if (snap.connectionState != ConnectionState.done) {
+          return _LoadingCatalog(summary: widget.summary);
+        }
+        return widget.child;
+      },
     );
   }
 }

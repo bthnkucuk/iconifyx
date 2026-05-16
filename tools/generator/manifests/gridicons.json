@@ -16,7 +16,11 @@
       "spdx": "GPL-2.0-only",
       "url": "https://github.com/Automattic/gridicons/blob/trunk/LICENSE.md"
     },
-    "total": 207
+    "total": 207,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

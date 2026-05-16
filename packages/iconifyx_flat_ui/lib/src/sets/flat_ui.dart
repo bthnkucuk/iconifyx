@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Designmodo, Inc.
 /// License: MIT — https://github.com/designmodo/Flat-UI/blob/master/LICENSE
-/// Icons: 75 (split across 2 fonts)
+/// Icons: 74 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -61,12 +61,6 @@ class FlatUiIcons {
   /// `bowling`
   static const IconifyIconData bowling = IconifyIconData.solo(
     IconData(0xe008, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
-  );
-
-  /// `box` (duo-tone)
-  static const IconifyIconData box = IconifyIconData.duo(
-    IconData(0xe009, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
-    IconData(0xe009, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );
 
   /// `brush`

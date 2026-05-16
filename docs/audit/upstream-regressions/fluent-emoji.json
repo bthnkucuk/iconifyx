@@ -1,0 +1,101 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 2767,
+  "liveCountPrevious": 2777,
+  "newDeprecations": [
+    {
+      "codepoint": 57419,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "backhand-index-pointing-right",
+      "identifier": "backhandIndexPointingRight",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57420,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "backhand-index-pointing-right-dark",
+      "identifier": "backhandIndexPointingRightDark",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57421,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "backhand-index-pointing-right-light",
+      "identifier": "backhandIndexPointingRightLight",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57422,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "backhand-index-pointing-right-medium",
+      "identifier": "backhandIndexPointingRightMedium",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57423,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "backhand-index-pointing-right-medium-dark",
+      "identifier": "backhandIndexPointingRightMediumDark",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57424,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "backhand-index-pointing-right-medium-light",
+      "identifier": "backhandIndexPointingRightMediumLight",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57436,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "balance-scale",
+      "identifier": "balanceScale",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57870,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "gear",
+      "identifier": "gear",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 59325,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "safety-pin",
+      "identifier": "safetyPin",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 59439,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FluentEmoji",
+      "iconName": "soft-ice-cream",
+      "identifier": "softIceCream",
+      "prefix": "fluent-emoji",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "fluent-emoji",
+  "previousIconifyJsonVersion": "2.2.472"
+}

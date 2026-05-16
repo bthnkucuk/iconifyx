@@ -1,0 +1,200 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 379,
+  "liveCountPrevious": 400,
+  "newDeprecations": [
+    {
+      "codepoint": 57353,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "aiscript-light",
+      "identifier": "aiscriptLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57395,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "cassandra-dark",
+      "identifier": "cassandraDark",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57402,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "cloudflare-light",
+      "identifier": "cloudflareLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57505,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "ipfs-light",
+      "identifier": "ipfsLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57547,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "mint-light",
+      "identifier": "mintLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57558,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "netlify-light",
+      "identifier": "netlifyLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57563,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "nim-light",
+      "identifier": "nimLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57594,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "pkl-light",
+      "identifier": "pklLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57629,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "react-light",
+      "identifier": "reactLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57645,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "robloxstudio",
+      "identifier": "robloxstudio",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57653,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "sass",
+      "identifier": "sass",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57658,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "selenium",
+      "identifier": "selenium",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57664,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "solidity",
+      "identifier": "solidity",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57673,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "stackoverflow-light",
+      "identifier": "stackoverflowLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57686,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "tailwindcss-light",
+      "identifier": "tailwindcssLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57688,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "tauri-light",
+      "identifier": "tauriLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57698,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "ubuntu-light",
+      "identifier": "ubuntuLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57707,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "verilog",
+      "identifier": "verilog",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57714,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "vitest-dark",
+      "identifier": "vitestDark",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57715,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "vitest-light",
+      "identifier": "vitestLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57733,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "SkillIcons",
+      "iconName": "windows-light",
+      "identifier": "windowsLight",
+      "prefix": "skill-icons",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "skill-icons",
+  "previousIconifyJsonVersion": "2.2.472"
+}

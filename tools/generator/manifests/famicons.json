@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/familyjs/famicons/blob/main/LICENSE"
     },
-    "total": 1339
+    "total": 1339,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

@@ -16,7 +16,11 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE"
     },
-    "total": 328
+    "total": 328,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

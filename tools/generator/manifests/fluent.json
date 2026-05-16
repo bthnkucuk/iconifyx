@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE"
     },
-    "total": 20197
+    "total": 20197,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

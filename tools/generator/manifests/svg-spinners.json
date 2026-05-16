@@ -16,7 +16,12 @@
       "spdx": "MIT",
       "url": "https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE"
     },
-    "total": 27
+    "total": 27,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Contains Animations"
+    ]
   },
   "fonts": [
     {

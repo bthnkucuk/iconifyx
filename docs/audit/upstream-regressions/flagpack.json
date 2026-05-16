@@ -1,0 +1,101 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 246,
+  "liveCountPrevious": 256,
+  "newDeprecations": [
+    {
+      "codepoint": 57352,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "aq",
+      "identifier": "aq",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57389,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "ci",
+      "identifier": "ci",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57418,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "fm",
+      "identifier": "fm",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57421,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "ga",
+      "identifier": "ga",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57447,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "hn",
+      "identifier": "hn",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57452,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "ie",
+      "identifier": "ie",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57475,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "kz",
+      "identifier": "kz",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57535,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "pw",
+      "identifier": "pw",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57542,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "rw",
+      "identifier": "rw",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57580,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flagpack",
+      "iconName": "ua",
+      "identifier": "ua",
+      "prefix": "flagpack",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "flagpack",
+  "previousIconifyJsonVersion": "2.2.472"
+}

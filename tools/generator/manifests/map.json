@@ -16,7 +16,10 @@
       "spdx": "OFL-1.1",
       "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
     },
-    "total": 165
+    "total": 165,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

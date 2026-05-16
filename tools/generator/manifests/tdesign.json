@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/Tencent/tdesign-icons/blob/main/LICENSE"
     },
-    "total": 2364
+    "total": 2364,
+    "tags": [
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

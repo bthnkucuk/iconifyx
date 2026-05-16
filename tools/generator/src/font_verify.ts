@@ -7,6 +7,7 @@ import * as fontkit from 'fontkit';
 
 import { log } from './log.ts';
 import type { Manifest } from './manifest.ts';
+import { secondaryFontFamily } from './manifest.ts';
 import { setPackageFontsDir } from './paths.ts';
 import { repoRoot } from './paths.ts';
 
@@ -45,7 +46,6 @@ function inspectFont(
   }
   let font: { hasGlyphForCodePoint?: (cp: number) => boolean; glyphForCodePoint?: (cp: number) => { path?: { commands?: unknown[] } } } | null = null;
   try {
-    // @ts-expect-error openSync is untyped under bun
     font = fontkit.openSync(ttfPath);
   } catch (e) {
     return {
@@ -180,4 +180,237 @@ export async function verifyFontsAgainstManifests(
     `font verification: ${totalExpected.toLocaleString('en-US')} codepoints checked, ` +
       `${totalMissing.toLocaleString('en-US')} missing + ${totalEmpty.toLocaleString('en-US')} empty across ${driftRows.length} font(s)`
   );
+}
+
+// ---------------------------------------------------------------------------
+// Secondary-glyph CMAP-NAME verification (cmap-dedup demote detector).
+//
+// The empty-outline check in `verifyFontsAgainstManifests` above passes when a
+// codepoint maps to ANY glyph — including the wrong glyph that `svg2ttf`'s
+// outline-dedup pass aliased the codepoint onto. Solar's
+// `add-circle-bold-duotone` (cp 0xE013) is the canonical case: in
+// `SolarSecondary.ttf` the cmap resolves cp 0xE013 to glyph
+// `accessibility-bold-duotone` (the alphabetically-first duotone whose outline
+// `svg2ttf` reused). The widget then paints "the right primary plus a wrong
+// secondary that happens to look like a halka" — visually reads as
+// misalignment but is actually a wrong-glyph bug. See RESEARCH_PLAN.md §33.
+//
+// Detection: walk every duotone icon in the manifest, open its
+// `<Family>Secondary.ttf`, look up `cmap[codepoint]`, and compare the
+// resolved glyph's NAME against the manifest icon name. A mismatch means the
+// secondary cmap is aliased. `font_verify`'s existing `missing/empty` checks
+// stay; this is an additional layer.
+//
+// The fix is then driven from `pipeline.ts`: any aliased secondary causes the
+// icon's `duotone` flag to flip to `false` (codegen then emits `.solo` instead
+// of `.duo`, so the wrong-glyph never renders). The codepoint stays reserved
+// per CLAUDE.md §3.
+
+export interface SecondaryAliasEntry {
+  /** Iconify icon name that was declared duotone. */
+  iconName: string;
+  /** Codepoint that should have resolved to its own secondary glyph. */
+  codepoint: number;
+  /** Glyph name the cmap actually resolves to in the secondary TTF. */
+  resolvedGlyphName: string;
+}
+
+export interface SecondaryNameVerifyResult {
+  /** Iconify pack prefix (`solar`, `ph`, ...). */
+  prefix: string;
+  /** Secondary TTF family checked (`SolarSecondary`). */
+  family: string;
+  /** Number of declared duotone icons checked. */
+  declared: number;
+  /** Icons whose secondary cmap resolves to a glyph with the WRONG name. */
+  aliased: SecondaryAliasEntry[];
+  /** Icons whose codepoint is missing from the secondary cmap entirely. */
+  missing: string[];
+  /** File-level open failure (couldn't read TTF). */
+  fontError?: string;
+}
+
+/**
+ * For a single manifest, walk every `<Family>Secondary.ttf` declared by the
+ * pack and check each duotone icon's codepoint against the secondary cmap.
+ * Returns one result per Secondary font. Manifests with no duotone icons
+ * return an empty array.
+ *
+ * Pure read — does not mutate the manifest. Callers (pipeline.ts) apply the
+ * demote-to-solo policy themselves.
+ *
+ * @param manifest - pack manifest to walk for duotone icons
+ * @param opts.ttfBuffers - optional in-memory `family → TTF buffer` map. When
+ *   provided, takes precedence over reading from disk (used by the pipeline
+ *   so it can verify TTFs that haven't been written yet). When absent the
+ *   audit reads from `<setPackageFontsDir>/<family>.ttf`.
+ * @param opts.fontsDir - override the on-disk fonts directory (audit / tests).
+ */
+export function verifySecondaryGlyphNames(
+  manifest: Manifest,
+  opts: { ttfBuffers?: Map<string, Buffer>; fontsDir?: string } = {}
+): SecondaryNameVerifyResult[] {
+  const fontsDir = opts.fontsDir ?? setPackageFontsDir(manifest.prefix);
+  const inMem = opts.ttfBuffers;
+  const out: SecondaryNameVerifyResult[] = [];
+
+  // Pre-bucket duotone icons by their PRIMARY family so we only open each
+  // Secondary TTF once.
+  const duotoneByPrimary = new Map<string, { name: string; codepoint: number }[]>();
+  for (const [name, ic] of Object.entries(manifest.icons)) {
+    if (ic.deprecated || !ic.duotone) continue;
+    const arr = duotoneByPrimary.get(ic.fontFamily) ?? [];
+    arr.push({ name, codepoint: ic.codepoint });
+    duotoneByPrimary.set(ic.fontFamily, arr);
+  }
+
+  for (const [primaryFamily, expected] of duotoneByPrimary) {
+    const secFamily = secondaryFontFamily(primaryFamily);
+    let font: {
+      hasGlyphForCodePoint?: (cp: number) => boolean;
+      glyphForCodePoint?: (cp: number) => { name?: string };
+    } | null = null;
+    const inMemBuf = inMem?.get(secFamily);
+    if (inMemBuf) {
+      try {
+        font = fontkit.create(inMemBuf);
+      } catch (e) {
+        out.push({
+          prefix: manifest.prefix,
+          family: secFamily,
+          declared: expected.length,
+          aliased: [],
+          missing: [],
+          fontError: e instanceof Error ? e.message.slice(0, 200) : String(e),
+        });
+        continue;
+      }
+    } else {
+      const ttfPath = path.join(fontsDir, `${secFamily}.ttf`);
+      if (!existsSync(ttfPath)) {
+        out.push({
+          prefix: manifest.prefix,
+          family: secFamily,
+          declared: expected.length,
+          aliased: [],
+          missing: [],
+          fontError: 'TTF file does not exist',
+        });
+        continue;
+      }
+      try {
+        font = fontkit.openSync(ttfPath);
+      } catch (e) {
+        out.push({
+          prefix: manifest.prefix,
+          family: secFamily,
+          declared: expected.length,
+          aliased: [],
+          missing: [],
+          fontError: e instanceof Error ? e.message.slice(0, 200) : String(e),
+        });
+        continue;
+      }
+    }
+    const aliased: SecondaryAliasEntry[] = [];
+    const missing: string[] = [];
+    for (const { name, codepoint } of expected) {
+      if (!font?.hasGlyphForCodePoint?.(codepoint)) {
+        missing.push(name);
+        continue;
+      }
+      const glyph = font.glyphForCodePoint?.(codepoint);
+      const resolved = glyph?.name ?? '';
+      if (resolved !== name) {
+        aliased.push({ iconName: name, codepoint, resolvedGlyphName: resolved });
+      }
+    }
+    out.push({
+      prefix: manifest.prefix,
+      family: secFamily,
+      declared: expected.length,
+      aliased,
+      missing,
+    });
+  }
+
+  return out;
+}
+
+/**
+ * Walk every manifest's Secondary TTFs and write a `SECONDARY_NAME_AUDIT.md`
+ * report under repo root. Used by the `bun run audit secondary-name-check`
+ * dispatcher entry — purely advisory, does NOT mutate any manifest.
+ */
+export async function writeSecondaryNameAudit(
+  manifests: Manifest[]
+): Promise<{ totalDeclared: number; totalAliased: number; totalMissing: number }> {
+  const allResults: SecondaryNameVerifyResult[] = [];
+  for (const m of manifests) {
+    const results = verifySecondaryGlyphNames(m);
+    for (const r of results) allResults.push(r);
+  }
+
+  const totalDeclared = allResults.reduce((s, r) => s + r.declared, 0);
+  const totalAliased = allResults.reduce((s, r) => s + r.aliased.length, 0);
+  const totalMissing = allResults.reduce((s, r) => s + r.missing.length, 0);
+  const totalErrors = allResults.filter((r) => r.fontError).length;
+
+  // Sort: errors first, then by aliased count desc.
+  allResults.sort((a, b) => {
+    if (a.fontError && !b.fontError) return -1;
+    if (!a.fontError && b.fontError) return 1;
+    return b.aliased.length - a.aliased.length;
+  });
+
+  const today = new Date().toISOString().slice(0, 10);
+  const lines: string[] = [];
+  lines.push('# Secondary-glyph cmap-name audit');
+  lines.push('');
+  lines.push(
+    `Generated ${today}. For every duotone icon in every pack, open the ` +
+      `matching \`<Family>Secondary.ttf\` and check that \`cmap[codepoint]\` ` +
+      `resolves to a glyph whose name equals the icon name. A mismatch ` +
+      `means \`svg2ttf\`'s outline-dedup aliased the codepoint to a ` +
+      `different glyph's name, so the icon ships with the wrong secondary ` +
+      `letterform (visible as duotone misalignment / wrong shape). The ` +
+      `pipeline demotes any aliased duotone to \`.solo\` at codegen time; ` +
+      `this report verifies how many would be flagged on the next regen.`
+  );
+  lines.push('');
+  lines.push(`- **Duotone icons checked across all packs:** ${totalDeclared.toLocaleString('en-US')}`);
+  lines.push(`- **Aliased (cmap → wrong glyph name):** ${totalAliased.toLocaleString('en-US')}`);
+  lines.push(`- **Missing (codepoint not in cmap at all):** ${totalMissing.toLocaleString('en-US')}`);
+  lines.push(`- **Secondary TTFs that failed to open:** ${totalErrors}`);
+  lines.push('');
+
+  const driftRows = allResults.filter(
+    (r) => r.fontError || r.aliased.length > 0 || r.missing.length > 0
+  );
+  if (driftRows.length === 0) {
+    lines.push('_No aliased secondaries — every duotone icon paints its own secondary glyph._');
+  } else {
+    lines.push('## Secondary fonts with aliased duotone codepoints');
+    lines.push('');
+    lines.push('| Prefix | Secondary font | Declared | Aliased | Missing | Sample aliasing | Error |');
+    lines.push('|---|---|---:|---:|---:|---|---|');
+    for (const r of driftRows) {
+      const sample = r.aliased
+        .slice(0, 2)
+        .map((a) => `\`${a.iconName}\`→\`${a.resolvedGlyphName}\``)
+        .join(', ') || '—';
+      lines.push(
+        `| \`${r.prefix}\` | \`${r.family}\` | ${r.declared.toLocaleString('en-US')} | ${r.aliased.length.toLocaleString('en-US')} | ${r.missing.length.toLocaleString('en-US')} | ${sample} | ${r.fontError ? '`' + r.fontError + '`' : '—'} |`
+      );
+    }
+  }
+  lines.push('');
+
+  await writeFile(
+    path.join(repoRoot(), 'SECONDARY_NAME_AUDIT.md'),
+    lines.join('\n'),
+    'utf8'
+  );
+
+  return { totalDeclared, totalAliased, totalMissing };
 }

@@ -16,7 +16,11 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/zendeskgarden/svg-icons/blob/main/LICENSE.md"
     },
-    "total": 1027
+    "total": 1027,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

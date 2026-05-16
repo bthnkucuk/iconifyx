@@ -1,0 +1,281 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 671,
+  "liveCountPrevious": 701,
+  "newDeprecations": [
+    {
+      "codepoint": 57352,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-agda",
+      "identifier": "fileTypeAgda",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57414,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-codeowners",
+      "identifier": "fileTypeCodeowners",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57418,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-conda",
+      "identifier": "fileTypeConda",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57441,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-dhall",
+      "identifier": "fileTypeDhall",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57473,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-formkit",
+      "identifier": "fileTypeFormkit",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57489,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-gitpod",
+      "identifier": "fileTypeGitpod",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57542,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-juice",
+      "identifier": "fileTypeJuice",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57547,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-knip",
+      "identifier": "fileTypeKnip",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57552,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-lean",
+      "identifier": "fileTypeLean",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57553,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-leanconfig",
+      "identifier": "fileTypeLeanconfig",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57606,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-light-prettier",
+      "identifier": "fileTypeLightPrettier",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57644,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-mailing",
+      "identifier": "fileTypeMailing",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57652,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-markojs",
+      "identifier": "fileTypeMarkojs",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57655,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-mcp",
+      "identifier": "fileTypeMcp",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57680,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-nest-adapter-js",
+      "identifier": "fileTypeNestAdapterJs",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57684,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-nest-decorator-js",
+      "identifier": "fileTypeNestDecoratorJs",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57686,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-nest-filter-js",
+      "identifier": "fileTypeNestFilterJs",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57688,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-nest-gateway-js",
+      "identifier": "fileTypeNestGatewayJs",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57736,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-pdm",
+      "identifier": "fileTypePdm",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57760,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-prisma",
+      "identifier": "fileTypePrisma",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57805,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-shadcn",
+      "identifier": "fileTypeShadcn",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57807,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-shellcheck",
+      "identifier": "fileTypeShellcheck",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57848,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-tm",
+      "identifier": "fileTypeTm",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57850,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-toit",
+      "identifier": "fileTypeToit",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57877,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-vercel",
+      "identifier": "fileTypeVercel",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57909,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "file-type-zeit",
+      "identifier": "fileTypeZeit",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57955,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "folder-type-interfaces",
+      "identifier": "folderTypeInterfaces",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57956,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "folder-type-interfaces-opened",
+      "identifier": "folderTypeInterfacesOpened",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57976,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "folder-type-light-node",
+      "identifier": "folderTypeLightNode",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57977,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "VscodeIcons",
+      "iconName": "folder-type-light-node-opened",
+      "identifier": "folderTypeLightNodeOpened",
+      "prefix": "vscode-icons",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "vscode-icons",
+  "previousIconifyJsonVersion": "2.2.472"
+}

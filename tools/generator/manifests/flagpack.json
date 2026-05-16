@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/Yummygum/flagpack-core/blob/main/LICENSE"
     },
-    "total": 256
+    "total": 246
   },
   "fonts": [
     {
       "family": "Flagpack",
       "nextCodepoint": 57600,
-      "iconCount": 256
+      "iconCount": 246
     },
     {
       "family": "FlagpackSecondary",
@@ -76,7 +76,9 @@
     "aq": {
       "codepoint": 57352,
       "fontFamily": "Flagpack",
-      "identifier": "aq"
+      "identifier": "aq",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ar": {
       "codepoint": 57353,
@@ -267,7 +269,9 @@
     "ci": {
       "codepoint": 57389,
       "fontFamily": "Flagpack",
-      "identifier": "ci"
+      "identifier": "ci",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ck": {
       "codepoint": 57390,
@@ -414,7 +418,9 @@
     "fm": {
       "codepoint": 57418,
       "fontFamily": "Flagpack",
-      "identifier": "fm"
+      "identifier": "fm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "fo": {
       "codepoint": 57419,
@@ -429,7 +435,9 @@
     "ga": {
       "codepoint": 57421,
       "fontFamily": "Flagpack",
-      "identifier": "ga"
+      "identifier": "ga",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gb": {
       "codepoint": 57422,
@@ -565,7 +573,9 @@
     "hn": {
       "codepoint": 57447,
       "fontFamily": "Flagpack",
-      "identifier": "hn"
+      "identifier": "hn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "hr": {
       "codepoint": 57448,
@@ -590,7 +600,9 @@
     "ie": {
       "codepoint": 57452,
       "fontFamily": "Flagpack",
-      "identifier": "ie"
+      "identifier": "ie",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "il": {
       "codepoint": 57453,
@@ -707,7 +719,9 @@
     "kz": {
       "codepoint": 57475,
       "fontFamily": "Flagpack",
-      "identifier": "kz"
+      "identifier": "kz",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "la": {
       "codepoint": 57476,
@@ -1013,7 +1027,9 @@
     "pw": {
       "codepoint": 57535,
       "fontFamily": "Flagpack",
-      "identifier": "pw"
+      "identifier": "pw",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "py": {
       "codepoint": 57536,
@@ -1050,7 +1066,9 @@
     "rw": {
       "codepoint": 57542,
       "fontFamily": "Flagpack",
-      "identifier": "rw"
+      "identifier": "rw",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sa": {
       "codepoint": 57543,
@@ -1246,7 +1264,9 @@
     "ua": {
       "codepoint": 57580,
       "fontFamily": "Flagpack",
-      "identifier": "ua"
+      "identifier": "ua",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ug": {
       "codepoint": 57581,

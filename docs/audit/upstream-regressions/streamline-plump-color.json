@@ -1,0 +1,65 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 992,
+  "liveCountPrevious": 998,
+  "newDeprecations": [
+    {
+      "codepoint": 57908,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlinePlumpColor",
+      "iconName": "mail-send-reply-all-flat",
+      "identifier": "mailSendReplyAllFlat",
+      "prefix": "streamline-plump-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57914,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlinePlumpColor",
+      "iconName": "man-arm-raises-2-alternate-flat",
+      "identifier": "manArmRaises2AlternateFlat",
+      "prefix": "streamline-plump-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58070,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlinePlumpColor",
+      "iconName": "recycle-1-flat",
+      "identifier": "recycle1Flat",
+      "prefix": "streamline-plump-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58171,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlinePlumpColor",
+      "iconName": "steps-1-flat",
+      "identifier": "steps1Flat",
+      "prefix": "streamline-plump-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58251,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlinePlumpColor",
+      "iconName": "usb-port-flat",
+      "identifier": "usbPortFlat",
+      "prefix": "streamline-plump-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58325,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlinePlumpColor",
+      "iconName": "wifi-flat",
+      "identifier": "wifiFlat",
+      "prefix": "streamline-plump-color",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "streamline-plump-color",
+  "previousIconifyJsonVersion": "2.2.472"
+}

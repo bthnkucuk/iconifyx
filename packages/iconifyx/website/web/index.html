@@ -20,6 +20,34 @@
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
 
+  <!--
+    COOP/COEP requirement for `performance.measureUserAgentSpecificMemory()`.
+
+    The website's runtime memory probe (lib/bootstrap/memory_probe.dart) uses
+    the accurate `measureUserAgentSpecificMemory()` browser API when it's
+    available. That API is gated by Chrome behind cross-origin isolation,
+    which requires the SERVER to emit these response headers on every
+    document and bootstrap script:
+
+        Cross-Origin-Opener-Policy: same-origin
+        Cross-Origin-Embedder-Policy: require-corp
+
+    HTML <meta http-equiv> can carry these on platforms that respect it,
+    but GitHub Pages does NOT — it strips response headers and serves
+    static files with its own fixed set. So on the current pages.github.io
+    deployment the probe automatically falls back to the Chromium-only
+    `performance.memory.usedJSHeapSize` (an underestimate) and ultimately
+    to a visit-count heuristic. See `docs/DEPLOYMENT.md` §"COOP/COEP for
+    memory probe" for the follow-up plan to either (a) move to a CDN
+    that lets us set headers, or (b) inject them via a service worker.
+
+    Leaving the meta tags below in HTML is harmless on environments that
+    don't act on them and lights up the accurate path the moment we
+    deploy somewhere that does respect document-level COOP/COEP.
+  -->
+  <meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin">
+  <meta http-equiv="Cross-Origin-Embedder-Policy" content="require-corp">
+
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">

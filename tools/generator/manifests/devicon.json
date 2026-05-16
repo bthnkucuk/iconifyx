@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/devicons/devicon/blob/master/LICENSE"
     },
-    "total": 1045
+    "total": 924
   },
   "fonts": [
     {
       "family": "Devicon",
       "nextCodepoint": 58389,
-      "iconCount": 1045
+      "iconCount": 924
     },
     {
       "family": "DeviconSecondary",
       "nextCodepoint": 58389,
-      "iconCount": 192
+      "iconCount": 180
     }
   ],
   "icons": {
@@ -155,12 +155,16 @@
     "anaconda": {
       "codepoint": 57365,
       "fontFamily": "Devicon",
-      "identifier": "anaconda"
+      "identifier": "anaconda",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "anaconda-wordmark": {
       "codepoint": 57366,
       "fontFamily": "Devicon",
-      "identifier": "anacondaWordmark"
+      "identifier": "anacondaWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "android": {
       "codepoint": 57367,
@@ -209,7 +213,9 @@
     "angularmaterial": {
       "codepoint": 57375,
       "fontFamily": "Devicon",
-      "identifier": "angularmaterial"
+      "identifier": "angularmaterial",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ansible": {
       "codepoint": 57376,
@@ -300,7 +306,9 @@
     "apex": {
       "codepoint": 57392,
       "fontFamily": "Devicon",
-      "identifier": "apex"
+      "identifier": "apex",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "apify": {
       "codepoint": 57393,
@@ -487,12 +495,16 @@
     "ballerina": {
       "codepoint": 57427,
       "fontFamily": "Devicon",
-      "identifier": "ballerina"
+      "identifier": "ballerina",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ballerina-wordmark": {
       "codepoint": 57428,
       "fontFamily": "Devicon",
-      "identifier": "ballerinaWordmark"
+      "identifier": "ballerinaWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "bamboo": {
       "codepoint": 57429,
@@ -549,7 +561,9 @@
     "biome": {
       "codepoint": 57439,
       "fontFamily": "Devicon",
-      "identifier": "biome"
+      "identifier": "biome",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "biome-wordmark": {
       "codepoint": 57440,
@@ -645,7 +659,9 @@
     "c": {
       "codepoint": 57457,
       "fontFamily": "Devicon",
-      "identifier": "c"
+      "identifier": "c",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cairo": {
       "codepoint": 57458,
@@ -676,13 +692,17 @@
     "canva": {
       "codepoint": 57462,
       "fontFamily": "Devicon",
-      "identifier": "canva"
+      "identifier": "canva",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "capacitor": {
       "codepoint": 57463,
       "fontFamily": "Devicon",
       "identifier": "capacitor",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "capacitor-wordmark": {
       "codepoint": 57464,
@@ -742,7 +762,9 @@
     "chakraui": {
       "codepoint": 57474,
       "fontFamily": "Devicon",
-      "identifier": "chakraui"
+      "identifier": "chakraui",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "chakraui-wordmark": {
       "codepoint": 57475,
@@ -753,13 +775,17 @@
       "codepoint": 57476,
       "fontFamily": "Devicon",
       "identifier": "chartjs",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "chartjs-wordmark": {
       "codepoint": 57477,
       "fontFamily": "Devicon",
       "identifier": "chartjsWordmark",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "chrome": {
       "codepoint": 57478,
@@ -811,7 +837,9 @@
     "cloudflare": {
       "codepoint": 57487,
       "fontFamily": "Devicon",
-      "identifier": "cloudflare"
+      "identifier": "cloudflare",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cloudflare-wordmark": {
       "codepoint": 57488,
@@ -913,12 +941,16 @@
     "contao": {
       "codepoint": 57507,
       "fontFamily": "Devicon",
-      "identifier": "contao"
+      "identifier": "contao",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "contao-wordmark": {
       "codepoint": 57508,
       "fontFamily": "Devicon",
-      "identifier": "contaoWordmark"
+      "identifier": "contaoWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cordova": {
       "codepoint": 57509,
@@ -975,12 +1007,16 @@
     "cpanel": {
       "codepoint": 57519,
       "fontFamily": "Devicon",
-      "identifier": "cpanel"
+      "identifier": "cpanel",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cpanel-wordmark": {
       "codepoint": 57520,
       "fontFamily": "Devicon",
-      "identifier": "cpanelWordmark"
+      "identifier": "cpanelWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cplusplus": {
       "codepoint": 57521,
@@ -1087,7 +1123,9 @@
     "datatables": {
       "codepoint": 57541,
       "fontFamily": "Devicon",
-      "identifier": "datatables"
+      "identifier": "datatables",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "dbeaver": {
       "codepoint": 57542,
@@ -1152,7 +1190,9 @@
     "discloud": {
       "codepoint": 57554,
       "fontFamily": "Devicon",
-      "identifier": "discloud"
+      "identifier": "discloud",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "discloud-wordmark": {
       "codepoint": 57555,
@@ -1289,7 +1329,9 @@
     "ecto": {
       "codepoint": 57580,
       "fontFamily": "Devicon",
-      "identifier": "ecto"
+      "identifier": "ecto",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ecto-wordmark": {
       "codepoint": 57581,
@@ -1351,7 +1393,9 @@
     "emailjs": {
       "codepoint": 57592,
       "fontFamily": "Devicon",
-      "identifier": "emailjs"
+      "identifier": "emailjs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "emailjs-wordmark": {
       "codepoint": 57593,
@@ -1519,13 +1563,17 @@
       "codepoint": 57623,
       "fontFamily": "Devicon",
       "identifier": "firebase",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "firebase-wordmark": {
       "codepoint": 57624,
       "fontFamily": "Devicon",
       "identifier": "firebaseWordmark",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "firebird": {
       "codepoint": 57625,
@@ -1655,7 +1703,9 @@
     "gatling": {
       "codepoint": 57648,
       "fontFamily": "Devicon",
-      "identifier": "gatling"
+      "identifier": "gatling",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gatling-wordmark": {
       "codepoint": 57649,
@@ -1747,7 +1797,9 @@
     "gitea": {
       "codepoint": 57666,
       "fontFamily": "Devicon",
-      "identifier": "gitea"
+      "identifier": "gitea",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gitea-wordmark": {
       "codepoint": 57667,
@@ -1786,12 +1838,16 @@
     "githubcopilot": {
       "codepoint": 57673,
       "fontFamily": "Devicon",
-      "identifier": "githubcopilot"
+      "identifier": "githubcopilot",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "githubcopilot-wordmark": {
       "codepoint": 57674,
       "fontFamily": "Devicon",
-      "identifier": "githubcopilotWordmark"
+      "identifier": "githubcopilotWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gitkraken": {
       "codepoint": 57675,
@@ -1816,7 +1872,9 @@
     "gitpod": {
       "codepoint": 57679,
       "fontFamily": "Devicon",
-      "identifier": "gitpod"
+      "identifier": "gitpod",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gitpod-wordmark": {
       "codepoint": 57680,
@@ -1838,7 +1896,9 @@
     "gnuradio": {
       "codepoint": 57683,
       "fontFamily": "Devicon",
-      "identifier": "gnuradio"
+      "identifier": "gnuradio",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gnuradio-wordmark": {
       "codepoint": 57684,
@@ -1855,7 +1915,9 @@
     "go-wordmark": {
       "codepoint": 57686,
       "fontFamily": "Devicon",
-      "identifier": "goWordmark"
+      "identifier": "goWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "godot": {
       "codepoint": 57687,
@@ -1939,7 +2001,9 @@
     "grpc": {
       "codepoint": 57702,
       "fontFamily": "Devicon",
-      "identifier": "grpc"
+      "identifier": "grpc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "grunt": {
       "codepoint": 57703,
@@ -2135,17 +2199,23 @@
     "hyprland": {
       "codepoint": 57739,
       "fontFamily": "Devicon",
-      "identifier": "hyprland"
+      "identifier": "hyprland",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "hyprland-wordmark": {
       "codepoint": 57740,
       "fontFamily": "Devicon",
-      "identifier": "hyprlandWordmark"
+      "identifier": "hyprlandWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ie10": {
       "codepoint": 57741,
       "fontFamily": "Devicon",
-      "identifier": "ie10"
+      "identifier": "ie10",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ifttt": {
       "codepoint": 57742,
@@ -2212,12 +2282,16 @@
     "ionic": {
       "codepoint": 57754,
       "fontFamily": "Devicon",
-      "identifier": "ionic"
+      "identifier": "ionic",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ionic-wordmark": {
       "codepoint": 57755,
       "fontFamily": "Devicon",
-      "identifier": "ionicWordmark"
+      "identifier": "ionicWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "istio": {
       "codepoint": 57756,
@@ -2285,12 +2359,16 @@
     "jeet": {
       "codepoint": 57767,
       "fontFamily": "Devicon",
-      "identifier": "jeet"
+      "identifier": "jeet",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "jeet-wordmark": {
       "codepoint": 57768,
       "fontFamily": "Devicon",
-      "identifier": "jeetWordmark"
+      "identifier": "jeetWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "jekyll": {
       "codepoint": 57769,
@@ -2311,7 +2389,9 @@
       "codepoint": 57772,
       "fontFamily": "Devicon",
       "identifier": "jetpackcompose",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "jetpackcompose-wordmark": {
       "codepoint": 57773,
@@ -2390,7 +2470,9 @@
     "junie": {
       "codepoint": 57787,
       "fontFamily": "Devicon",
-      "identifier": "junie"
+      "identifier": "junie",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "junie-wordmark": {
       "codepoint": 57788,
@@ -2434,7 +2516,9 @@
     "k3os": {
       "codepoint": 57795,
       "fontFamily": "Devicon",
-      "identifier": "k3os"
+      "identifier": "k3os",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "k3os-wordmark": {
       "codepoint": 57796,
@@ -2446,7 +2530,9 @@
     "k3s": {
       "codepoint": 57797,
       "fontFamily": "Devicon",
-      "identifier": "k3s"
+      "identifier": "k3s",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "k3s-wordmark": {
       "codepoint": 57798,
@@ -2463,12 +2549,16 @@
     "kaggle": {
       "codepoint": 57800,
       "fontFamily": "Devicon",
-      "identifier": "kaggle"
+      "identifier": "kaggle",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "kaggle-wordmark": {
       "codepoint": 57801,
       "fontFamily": "Devicon",
-      "identifier": "kaggleWordmark"
+      "identifier": "kaggleWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "kaldi": {
       "codepoint": 57802,
@@ -2680,12 +2770,16 @@
     "linuxmint": {
       "codepoint": 57841,
       "fontFamily": "Devicon",
-      "identifier": "linuxmint"
+      "identifier": "linuxmint",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "linuxmint-wordmark": {
       "codepoint": 57842,
       "fontFamily": "Devicon",
-      "identifier": "linuxmintWordmark"
+      "identifier": "linuxmintWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "liquibase": {
       "codepoint": 57843,
@@ -2898,7 +2992,9 @@
     "minitab": {
       "codepoint": 57883,
       "fontFamily": "Devicon",
-      "identifier": "minitab"
+      "identifier": "minitab",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mithril": {
       "codepoint": 57884,
@@ -2930,12 +3026,16 @@
     "moleculer": {
       "codepoint": 57889,
       "fontFamily": "Devicon",
-      "identifier": "moleculer"
+      "identifier": "moleculer",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "moleculer-wordmark": {
       "codepoint": 57890,
       "fontFamily": "Devicon",
-      "identifier": "moleculerWordmark"
+      "identifier": "moleculerWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mongock": {
       "codepoint": 57891,
@@ -3021,12 +3121,16 @@
     "nano": {
       "codepoint": 57906,
       "fontFamily": "Devicon",
-      "identifier": "nano"
+      "identifier": "nano",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nano-wordmark": {
       "codepoint": 57907,
       "fontFamily": "Devicon",
-      "identifier": "nanoWordmark"
+      "identifier": "nanoWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nasm": {
       "codepoint": 57908,
@@ -3185,7 +3289,9 @@
     "nim-wordmark": {
       "codepoint": 57934,
       "fontFamily": "Devicon",
-      "identifier": "nimWordmark"
+      "identifier": "nimWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nimble": {
       "codepoint": 57935,
@@ -3239,7 +3345,9 @@
     "nomad": {
       "codepoint": 57944,
       "fontFamily": "Devicon",
-      "identifier": "nomad"
+      "identifier": "nomad",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nomad-wordmark": {
       "codepoint": 57945,
@@ -3303,7 +3411,9 @@
     "nuxt": {
       "codepoint": 57956,
       "fontFamily": "Devicon",
-      "identifier": "nuxt"
+      "identifier": "nuxt",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nuxt-wordmark": {
       "codepoint": 57957,
@@ -3413,12 +3523,16 @@
     "opensuse": {
       "codepoint": 57976,
       "fontFamily": "Devicon",
-      "identifier": "opensuse"
+      "identifier": "opensuse",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "opensuse-wordmark": {
       "codepoint": 57977,
       "fontFamily": "Devicon",
-      "identifier": "opensuseWordmark"
+      "identifier": "opensuseWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "opentelemetry": {
       "codepoint": 57978,
@@ -3501,12 +3615,16 @@
     "passport": {
       "codepoint": 57992,
       "fontFamily": "Devicon",
-      "identifier": "passport"
+      "identifier": "passport",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "passport-wordmark": {
       "codepoint": 57993,
       "fontFamily": "Devicon",
-      "identifier": "passportWordmark"
+      "identifier": "passportWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "payloadcms": {
       "codepoint": 57994,
@@ -3660,12 +3778,16 @@
     "portainer": {
       "codepoint": 58021,
       "fontFamily": "Devicon",
-      "identifier": "portainer"
+      "identifier": "portainer",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "portainer-wordmark": {
       "codepoint": 58022,
       "fontFamily": "Devicon",
-      "identifier": "portainerWordmark"
+      "identifier": "portainerWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "positron": {
       "codepoint": 58023,
@@ -3706,7 +3828,9 @@
     "postman-wordmark": {
       "codepoint": 58029,
       "fontFamily": "Devicon",
-      "identifier": "postmanWordmark"
+      "identifier": "postmanWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "powershell": {
       "codepoint": 58030,
@@ -3921,7 +4045,9 @@
     "qt": {
       "codepoint": 58070,
       "fontFamily": "Devicon",
-      "identifier": "qt"
+      "identifier": "qt",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "qtest": {
       "codepoint": 58071,
@@ -3956,7 +4082,9 @@
     "qwik": {
       "codepoint": 58077,
       "fontFamily": "Devicon",
-      "identifier": "qwik"
+      "identifier": "qwik",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "qwik-wordmark": {
       "codepoint": 58078,
@@ -3998,12 +4126,16 @@
     "railway": {
       "codepoint": 58085,
       "fontFamily": "Devicon",
-      "identifier": "railway"
+      "identifier": "railway",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "railway-wordmark": {
       "codepoint": 58086,
       "fontFamily": "Devicon",
-      "identifier": "railwayWordmark"
+      "identifier": "railwayWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "rancher": {
       "codepoint": 58087,
@@ -4028,12 +4160,16 @@
     "ravendb": {
       "codepoint": 58091,
       "fontFamily": "Devicon",
-      "identifier": "ravendb"
+      "identifier": "ravendb",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ravendb-wordmark": {
       "codepoint": 58092,
       "fontFamily": "Devicon",
-      "identifier": "ravendbWordmark"
+      "identifier": "ravendbWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "reach": {
       "codepoint": 58093,
@@ -4045,27 +4181,37 @@
     "react": {
       "codepoint": 58094,
       "fontFamily": "Devicon",
-      "identifier": "react"
+      "identifier": "react",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "react-wordmark": {
       "codepoint": 58095,
       "fontFamily": "Devicon",
-      "identifier": "reactWordmark"
+      "identifier": "reactWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "reactbootstrap": {
       "codepoint": 58096,
       "fontFamily": "Devicon",
-      "identifier": "reactbootstrap"
+      "identifier": "reactbootstrap",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "reactnative": {
       "codepoint": 58097,
       "fontFamily": "Devicon",
-      "identifier": "reactnative"
+      "identifier": "reactnative",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "reactnative-wordmark": {
       "codepoint": 58098,
       "fontFamily": "Devicon",
-      "identifier": "reactnativeWordmark"
+      "identifier": "reactnativeWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "reactnavigation": {
       "codepoint": 58099,
@@ -4205,7 +4351,9 @@
     "rockylinux": {
       "codepoint": 58124,
       "fontFamily": "Devicon",
-      "identifier": "rockylinux"
+      "identifier": "rockylinux",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "rockylinux-wordmark": {
       "codepoint": 58125,
@@ -4400,17 +4548,23 @@
     "sfml": {
       "codepoint": 58161,
       "fontFamily": "Devicon",
-      "identifier": "sfml"
+      "identifier": "sfml",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "shopware": {
       "codepoint": 58162,
       "fontFamily": "Devicon",
-      "identifier": "shopware"
+      "identifier": "shopware",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "shopware-wordmark": {
       "codepoint": 58163,
       "fontFamily": "Devicon",
-      "identifier": "shopwareWordmark"
+      "identifier": "shopwareWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "shotgrid": {
       "codepoint": 58164,
@@ -4420,7 +4574,9 @@
     "shotgrid-wordmark": {
       "codepoint": 58165,
       "fontFamily": "Devicon",
-      "identifier": "shotgridWordmark"
+      "identifier": "shotgridWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sketch": {
       "codepoint": 58166,
@@ -4472,7 +4628,9 @@
     "sonarqube": {
       "codepoint": 58175,
       "fontFamily": "Devicon",
-      "identifier": "sonarqube"
+      "identifier": "sonarqube",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sonarqube-wordmark": {
       "codepoint": 58176,
@@ -4519,12 +4677,16 @@
     "spring": {
       "codepoint": 58184,
       "fontFamily": "Devicon",
-      "identifier": "spring"
+      "identifier": "spring",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "spring-wordmark": {
       "codepoint": 58185,
       "fontFamily": "Devicon",
-      "identifier": "springWordmark"
+      "identifier": "springWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "spss": {
       "codepoint": 58186,
@@ -4564,7 +4726,9 @@
     "sqldeveloper": {
       "codepoint": 58191,
       "fontFamily": "Devicon",
-      "identifier": "sqldeveloper"
+      "identifier": "sqldeveloper",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sqlite": {
       "codepoint": 58192,
@@ -4626,17 +4790,23 @@
     "stenciljs": {
       "codepoint": 58203,
       "fontFamily": "Devicon",
-      "identifier": "stenciljs"
+      "identifier": "stenciljs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "stenciljs-wordmark": {
       "codepoint": 58204,
       "fontFamily": "Devicon",
-      "identifier": "stenciljsWordmark"
+      "identifier": "stenciljsWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "stimulus": {
       "codepoint": 58205,
       "fontFamily": "Devicon",
-      "identifier": "stimulus"
+      "identifier": "stimulus",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "stimulus-wordmark": {
       "codepoint": 58206,
@@ -4683,12 +4853,16 @@
     "subversion": {
       "codepoint": 58214,
       "fontFamily": "Devicon",
-      "identifier": "subversion"
+      "identifier": "subversion",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "subversion-wordmark": {
       "codepoint": 58215,
       "fontFamily": "Devicon",
-      "identifier": "subversionWordmark"
+      "identifier": "subversionWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sulu": {
       "codepoint": 58216,
@@ -4788,7 +4962,9 @@
     "tailwindcss": {
       "codepoint": 58233,
       "fontFamily": "Devicon",
-      "identifier": "tailwindcss"
+      "identifier": "tailwindcss",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "tailwindcss-wordmark": {
       "codepoint": 58234,
@@ -4812,7 +4988,9 @@
     "tauri-wordmark": {
       "codepoint": 58237,
       "fontFamily": "Devicon",
-      "identifier": "tauriWordmark"
+      "identifier": "tauriWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "teamcity": {
       "codepoint": 58238,
@@ -4837,7 +5015,9 @@
     "tensorflow": {
       "codepoint": 58242,
       "fontFamily": "Devicon",
-      "identifier": "tensorflow"
+      "identifier": "tensorflow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "tensorflow-wordmark": {
       "codepoint": 58243,
@@ -4871,17 +5051,23 @@
     "terramate": {
       "codepoint": 58248,
       "fontFamily": "Devicon",
-      "identifier": "terramate"
+      "identifier": "terramate",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "terramate-wordmark": {
       "codepoint": 58249,
       "fontFamily": "Devicon",
-      "identifier": "terramateWordmark"
+      "identifier": "terramateWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "testrail": {
       "codepoint": 58250,
       "fontFamily": "Devicon",
-      "identifier": "testrail"
+      "identifier": "testrail",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "testrail-wordmark": {
       "codepoint": 58251,
@@ -4898,7 +5084,9 @@
     "thealgorithms": {
       "codepoint": 58253,
       "fontFamily": "Devicon",
-      "identifier": "thealgorithms"
+      "identifier": "thealgorithms",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "thealgorithms-wordmark": {
       "codepoint": 58254,
@@ -5000,7 +5188,9 @@
     "traefikproxy": {
       "codepoint": 58272,
       "fontFamily": "Devicon",
-      "identifier": "traefikproxy"
+      "identifier": "traefikproxy",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "traefikproxy-wordmark": {
       "codepoint": 58273,
@@ -5011,13 +5201,17 @@
       "codepoint": 58274,
       "fontFamily": "Devicon",
       "identifier": "travis",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "travis-wordmark": {
       "codepoint": 58275,
       "fontFamily": "Devicon",
       "identifier": "travisWordmark",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "trello": {
       "codepoint": 58276,
@@ -5046,7 +5240,9 @@
     "turbo": {
       "codepoint": 58280,
       "fontFamily": "Devicon",
-      "identifier": "turbo"
+      "identifier": "turbo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "turbo-wordmark": {
       "codepoint": 58281,
@@ -5100,7 +5296,9 @@
     "typo3": {
       "codepoint": 58290,
       "fontFamily": "Devicon",
-      "identifier": "typo3"
+      "identifier": "typo3",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "typo3-wordmark": {
       "codepoint": 58291,
@@ -5157,7 +5355,9 @@
     "uv": {
       "codepoint": 58301,
       "fontFamily": "Devicon",
-      "identifier": "uv"
+      "identifier": "uv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "uwsgi": {
       "codepoint": 58302,
@@ -5172,7 +5372,9 @@
     "vaadin": {
       "codepoint": 58304,
       "fontFamily": "Devicon",
-      "identifier": "vaadin"
+      "identifier": "vaadin",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vaadin-wordmark": {
       "codepoint": 58305,
@@ -5205,18 +5407,24 @@
       "codepoint": 58310,
       "fontFamily": "Devicon",
       "identifier": "vapor",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vapor-wordmark": {
       "codepoint": 58311,
       "fontFamily": "Devicon",
       "identifier": "vaporWordmark",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vault": {
       "codepoint": 58312,
       "fontFamily": "Devicon",
-      "identifier": "vault"
+      "identifier": "vault",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vault-wordmark": {
       "codepoint": 58313,
@@ -5226,7 +5434,9 @@
     "veevalidate": {
       "codepoint": 58314,
       "fontFamily": "Devicon",
-      "identifier": "veevalidate"
+      "identifier": "veevalidate",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vercel": {
       "codepoint": 58315,
@@ -5259,7 +5469,9 @@
       "codepoint": 58320,
       "fontFamily": "Devicon",
       "identifier": "visualbasic",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "visualstudio": {
       "codepoint": 58321,
@@ -5300,7 +5512,9 @@
       "codepoint": 58328,
       "fontFamily": "Devicon",
       "identifier": "vitest",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vscode": {
       "codepoint": 58329,
@@ -5340,7 +5554,9 @@
     "vuestorefront": {
       "codepoint": 58336,
       "fontFamily": "Devicon",
-      "identifier": "vuestorefront"
+      "identifier": "vuestorefront",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "vuetify": {
       "codepoint": 58337,
@@ -5384,12 +5600,16 @@
     "web3": {
       "codepoint": 58344,
       "fontFamily": "Devicon",
-      "identifier": "web3"
+      "identifier": "web3",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "web3js": {
       "codepoint": 58345,
       "fontFamily": "Devicon",
-      "identifier": "web3js"
+      "identifier": "web3js",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "webflow": {
       "codepoint": 58346,
@@ -5409,7 +5629,9 @@
     "weblate": {
       "codepoint": 58349,
       "fontFamily": "Devicon",
-      "identifier": "weblate"
+      "identifier": "weblate",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "weblate-wordmark": {
       "codepoint": 58350,
@@ -5453,12 +5675,16 @@
     "windows8": {
       "codepoint": 58357,
       "fontFamily": "Devicon",
-      "identifier": "windows8"
+      "identifier": "windows8",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "windows8-wordmark": {
       "codepoint": 58358,
       "fontFamily": "Devicon",
-      "identifier": "windows8Wordmark"
+      "identifier": "windows8Wordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "wireguard": {
       "codepoint": 58359,
@@ -5500,12 +5726,16 @@
     "xamarin": {
       "codepoint": 58366,
       "fontFamily": "Devicon",
-      "identifier": "xamarin"
+      "identifier": "xamarin",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "xamarin-wordmark": {
       "codepoint": 58367,
       "fontFamily": "Devicon",
-      "identifier": "xamarinWordmark"
+      "identifier": "xamarinWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "xcode": {
       "codepoint": 58368,
@@ -5542,12 +5772,16 @@
     "yii": {
       "codepoint": 58374,
       "fontFamily": "Devicon",
-      "identifier": "yii"
+      "identifier": "yii",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "yii-wordmark": {
       "codepoint": 58375,
       "fontFamily": "Devicon",
-      "identifier": "yiiWordmark"
+      "identifier": "yiiWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "youtrack": {
       "codepoint": 58376,
@@ -5584,22 +5818,30 @@
     "zend": {
       "codepoint": 58382,
       "fontFamily": "Devicon",
-      "identifier": "zend"
+      "identifier": "zend",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "zend-wordmark": {
       "codepoint": 58383,
       "fontFamily": "Devicon",
-      "identifier": "zendWordmark"
+      "identifier": "zendWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "zig": {
       "codepoint": 58384,
       "fontFamily": "Devicon",
-      "identifier": "zig"
+      "identifier": "zig",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "zig-wordmark": {
       "codepoint": 58385,
       "fontFamily": "Devicon",
-      "identifier": "zigWordmark"
+      "identifier": "zigWordmark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "zsh": {
       "codepoint": 58386,

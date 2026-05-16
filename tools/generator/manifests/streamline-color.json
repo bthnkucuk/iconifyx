@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1996
+    "total": 1995
   },
   "fonts": [
     {
       "family": "StreamlineColor",
       "nextCodepoint": 59340,
-      "iconCount": 1996
+      "iconCount": 1995
     },
     {
       "family": "StreamlineColorSecondary",
@@ -5041,7 +5041,9 @@
     "gold-flat": {
       "codepoint": 58209,
       "fontFamily": "StreamlineColor",
-      "identifier": "goldFlat"
+      "identifier": "goldFlat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "good-health-and-well-being": {
       "codepoint": 58210,

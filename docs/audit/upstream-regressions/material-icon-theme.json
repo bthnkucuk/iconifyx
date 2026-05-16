@@ -1,0 +1,56 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 775,
+  "liveCountPrevious": 780,
+  "newDeprecations": [
+    {
+      "codepoint": 57351,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "MaterialIconTheme",
+      "iconName": "apiblueprint",
+      "identifier": "apiblueprint",
+      "prefix": "material-icon-theme",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57966,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "MaterialIconTheme",
+      "iconName": "mjml",
+      "identifier": "mjml",
+      "prefix": "material-icon-theme",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58058,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "MaterialIconTheme",
+      "iconName": "stylelint",
+      "identifier": "stylelint",
+      "prefix": "material-icon-theme",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58111,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "MaterialIconTheme",
+      "iconName": "wakatime",
+      "identifier": "wakatime",
+      "prefix": "material-icon-theme",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58118,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "MaterialIconTheme",
+      "iconName": "windicss",
+      "identifier": "windicss",
+      "prefix": "material-icon-theme",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "material-icon-theme",
+  "previousIconifyJsonVersion": "2.2.472"
+}

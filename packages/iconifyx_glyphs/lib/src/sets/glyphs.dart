@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Goran Spasojevic
 /// License: MIT — https://github.com/gorango/glyphs/blob/main/license
-/// Icons: 3452 (split across 2 fonts)
+/// Icons: 3450 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -5349,12 +5349,6 @@ class GlyphsIcons {
     IconData(0xe3d0, fontFamily: 'GlyphsSecondary', fontPackage: 'iconifyx_glyphs'),
   );
 
-  /// `crosshairs-bold` (duo-tone)
-  static const IconifyIconData crosshairsBold = IconifyIconData.duo(
-    IconData(0xe3d1, fontFamily: 'Glyphs', fontPackage: 'iconifyx_glyphs'),
-    IconData(0xe3d1, fontFamily: 'GlyphsSecondary', fontPackage: 'iconifyx_glyphs'),
-  );
-
   /// `crosshairs-duo` (duo-tone)
   static const IconifyIconData crosshairsDuo = IconifyIconData.duo(
     IconData(0xe3d2, fontFamily: 'Glyphs', fontPackage: 'iconifyx_glyphs'),
@@ -6675,12 +6669,6 @@ class GlyphsIcons {
   /// `eye-lashes-bold`
   static const IconifyIconData eyeLashesBold = IconifyIconData.solo(
     IconData(0xe4c4, fontFamily: 'Glyphs', fontPackage: 'iconifyx_glyphs'),
-  );
-
-  /// `eye-lashes-duo` (duo-tone)
-  static const IconifyIconData eyeLashesDuo = IconifyIconData.duo(
-    IconData(0xe4c5, fontFamily: 'Glyphs', fontPackage: 'iconifyx_glyphs'),
-    IconData(0xe4c5, fontFamily: 'GlyphsSecondary', fontPackage: 'iconifyx_glyphs'),
   );
 
   /// `eye-lashes-outline` (duo-tone)

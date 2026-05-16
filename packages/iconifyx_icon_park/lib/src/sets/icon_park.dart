@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: ByteDance
 /// License: Apache 2.0 — https://github.com/bytedance/IconPark/blob/master/LICENSE
-/// Icons: 2658 (split across 2 fonts)
+/// Icons: 2656 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -11603,12 +11603,6 @@ class IconParkIcons {
     IconData(0xe8ff, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
-  /// `switch-button` (paint-order duotone)
-  static const IconifyIconData switchButton = IconifyIconData.duo(
-    IconData(0xe900, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
-    IconData(0xe900, fontFamily: 'IconParkSecondary', fontPackage: 'iconifyx_icon_park'), kind: IconifyIconData.kindPaintOrder,
-  );
-
   /// `switch-contrast`
   static const IconifyIconData switchContrast = IconifyIconData.solo(
     IconData(0xe901, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
@@ -12639,11 +12633,6 @@ class IconParkIcons {
   /// `update-rotation`
   static const IconifyIconData updateRotation = IconifyIconData.solo(
     IconData(0xe9ce, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
-  );
-
-  /// `upload`
-  static const IconifyIconData upload = IconifyIconData.solo(
-    IconData(0xe9cf, fontFamily: 'IconPark', fontPackage: 'iconifyx_icon_park'),
   );
 
   /// `upload-computer`

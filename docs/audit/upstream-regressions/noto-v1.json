@@ -1,0 +1,137 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 633,
+  "liveCountPrevious": 647,
+  "newDeprecations": [
+    {
+      "codepoint": 57360,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "atom-symbol",
+      "identifier": "atomSymbol",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57373,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "birthday-cake",
+      "identifier": "birthdayCake",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57449,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "e-mail",
+      "identifier": "eMail",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57461,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "envelope",
+      "identifier": "envelope",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57462,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "envelope-with-arrow",
+      "identifier": "envelopeWithArrow",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57512,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "handshake",
+      "identifier": "handshake",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57529,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "incoming-envelope",
+      "identifier": "incomingEnvelope",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57588,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "letter-o",
+      "identifier": "letterO",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57736,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "peace-symbol",
+      "identifier": "peaceSymbol",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57737,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "peanuts",
+      "identifier": "peanuts",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57838,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "skull-and-crossbones",
+      "identifier": "skullAndCrossbones",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57860,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "star-of-david",
+      "identifier": "starOfDavid",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57869,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "thermometer",
+      "identifier": "thermometer",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57893,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "NotoV1",
+      "iconName": "unknown-flag",
+      "identifier": "unknownFlag",
+      "prefix": "noto-v1",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "noto-v1",
+  "previousIconifyJsonVersion": "2.2.472"
+}

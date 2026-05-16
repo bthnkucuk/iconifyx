@@ -1,0 +1,20 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 1995,
+  "liveCountPrevious": 1996,
+  "newDeprecations": [
+    {
+      "codepoint": 58209,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineColor",
+      "iconName": "gold-flat",
+      "identifier": "goldFlat",
+      "prefix": "streamline-color",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "streamline-color",
+  "previousIconifyJsonVersion": "2.2.472"
+}

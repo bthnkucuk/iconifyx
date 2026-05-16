@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: ByteDance
 /// License: Apache 2.0 — https://github.com/bytedance/IconPark/blob/master/LICENSE
-/// Icons: 2658
+/// Icons: 2657
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -12569,11 +12569,6 @@ class IconParkOutlineIcons {
   /// `update-rotation`
   static const IconifyIconData updateRotation = IconifyIconData.solo(
     IconData(0xe9ce, fontFamily: 'IconParkOutline', fontPackage: 'iconifyx_icon_park_outline'),
-  );
-
-  /// `upload`
-  static const IconifyIconData upload = IconifyIconData.solo(
-    IconData(0xe9cf, fontFamily: 'IconParkOutline', fontPackage: 'iconifyx_icon_park_outline'),
   );
 
   /// `upload-computer`

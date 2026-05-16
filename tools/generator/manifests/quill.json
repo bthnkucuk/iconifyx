@@ -16,7 +16,12 @@
       "spdx": "MIT",
       "url": "https://github.com/yourtempo/tempo-quill-icons/blob/main/LICENSE"
     },
-    "total": 146
+    "total": 146,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

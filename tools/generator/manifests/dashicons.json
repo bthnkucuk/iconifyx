@@ -16,7 +16,11 @@
       "spdx": "GPL-2.0-or-later",
       "url": "https://github.com/WordPress/dashicons/blob/master/gpl.txt"
     },
-    "total": 347
+    "total": 347,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

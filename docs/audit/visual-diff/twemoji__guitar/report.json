@@ -1,0 +1,64 @@
+{
+  "iconRef": "twemoji:guitar",
+  "prefix": "twemoji",
+  "iconName": "guitar",
+  "packageName": "iconifyx_twemoji",
+  "primary": {
+    "ttf": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/Twemoji.ttf",
+    "codepoint": "0xe7fe",
+    "glyphName": "guitar",
+    "advance": 1000,
+    "lsb": -875,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": -871.3157894736842,
+      "yMin": 17.94202898550725,
+      "xMax": 115,
+      "yMax": 1002.4615384615385,
+      "width": 986.3157894736842,
+      "height": 984.5195094760312,
+      "cx": -378.1578947368421,
+      "cy": 510.20178372352285
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "secondary": {
+    "ttf": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/TwemojiSecondary.ttf",
+    "codepoint": "0xe7fe",
+    "glyphName": "guitar",
+    "advance": 1000,
+    "lsb": -612,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": -612,
+      "yMin": 242,
+      "xMax": 136,
+      "yMax": 1000,
+      "width": 748,
+      "height": 758,
+      "cx": -238,
+      "cy": 621
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "diff": null,
+  "verdict": {
+    "status": "different",
+    "primaryReason": "DUOTONE_BBOX_MISMATCH",
+    "confidence": "high",
+    "problem": "Primary glyph centroid (-378,510) differs from secondary (-238,621) by 14.0% / 11.1% of em — layers will overlay misaligned",
+    "remediation": "GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup (identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see RESEARCH_PLAN §33 for fix."
+  },
+  "fontTtfPath": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/Twemoji.ttf",
+  "secondaryTtfPath": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/TwemojiSecondary.ttf",
+  "duotone": true,
+  "duotoneKind": "paintOrder"
+}

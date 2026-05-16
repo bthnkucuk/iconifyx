@@ -16,13 +16,16 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 500
+    "total": 497,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {
       "family": "StreamlineCyberColor",
       "nextCodepoint": 57844,
-      "iconCount": 500
+      "iconCount": 497
     }
   ],
   "icons": {
@@ -559,7 +562,9 @@
     "cannabis-leaf": {
       "codepoint": 57450,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "cannabisLeaf"
+      "identifier": "cannabisLeaf",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "car-4": {
       "codepoint": 57451,
@@ -1179,7 +1184,9 @@
     "hammer-3": {
       "codepoint": 57574,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "hammer3"
+      "identifier": "hammer3",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "hand-hexagon": {
       "codepoint": 57575,
@@ -1474,7 +1481,9 @@
     "megaman": {
       "codepoint": 57633,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "megaman"
+      "identifier": "megaman",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "megaphone-1": {
       "codepoint": 57634,

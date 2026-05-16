@@ -101,10 +101,54 @@ that §21 / §11 / §12 lay out is independent of this workflow:
 
 - Move `packs.json` (204 KB) to jsDelivr — §12.
 - Shard `icons_index.json` (9.3 MB) + emit `names.bin` — §11.
-- Lazy `FontLoader` per pack to bound CanvasKit heap growth — §9.
+- Lazy `FontLoader` per pack to bound CanvasKit heap growth — §9
+  (shipped: `lib/bootstrap/font_loader_service.dart` + memory probe).
 
 None of these require a workflow change; they're code edits in the
 website that surface via the same `paths:` trigger.
+
+## COOP/COEP for memory probe
+
+[`MemoryProbe`](../packages/iconifyx/website/lib/bootstrap/memory_probe.dart)
+prefers the W3C `performance.measureUserAgentSpecificMemory()` API — it's
+the only browser primitive that includes CanvasKit's WASM heap (where
+the unbounded per-pack-font growth actually lives) in its byte count.
+
+That API is gated behind **cross-origin isolation**, which means the
+server must emit two response headers on every document and bootstrap
+script:
+
+```
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Embedder-Policy: require-corp
+```
+
+GitHub Pages does **not** let us configure response headers — it serves
+static files with a fixed set. Effects on the probe today:
+
+| Environment | Heap API in use | Accuracy |
+|---|---|---|
+| `<user>.github.io/icons/` (Pages) | `performance.memory.usedJSHeapSize` (legacy, Chromium-only) | Underestimate — excludes CanvasKit WASM heap |
+| Safari / Firefox on Pages | none — falls back to visit-count signal | Coarse but bounded |
+| Self-hosted with COOP/COEP headers | `measureUserAgentSpecificMemory()` | Accurate (full origin heap) |
+
+`web/index.html` does ship `<meta http-equiv>` versions of both headers
+as a forward-compat hook — environments that honour document-level
+COOP/COEP will light up the accurate API automatically the moment we
+move off Pages or in front of a CDN that respects them.
+
+Follow-up options if the visit-count fallback proves too noisy in
+practice:
+
+1. Move static hosting to **Cloudflare Pages** / **Vercel** / a custom
+   `_headers` provider that lets us set both headers at the origin.
+2. Inject the headers via a **service worker** — see
+   [coi-serviceworker](https://github.com/gzuidhof/coi-serviceworker)
+   for a turn-key drop-in. Requires registering a SW from
+   `web/index.html` and accepting a one-reload latency on the first
+   visit (the SW intercepts the second navigation onward).
+3. Drop the heap probe entirely and rely on the visit-count signal
+   plus an explicit "Refresh page" button in the top bar.
 
 ## Rollback procedure
 

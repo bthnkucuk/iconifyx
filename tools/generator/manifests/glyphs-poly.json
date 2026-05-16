@@ -16,18 +16,22 @@
       "spdx": "MIT",
       "url": "https://github.com/gorango/glyphs/blob/main/license"
     },
-    "total": 733
+    "total": 722,
+    "tags": [
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {
       "family": "GlyphsPoly",
       "nextCodepoint": 58077,
-      "iconCount": 733
+      "iconCount": 722
     },
     {
       "family": "GlyphsPolySecondary",
       "nextCodepoint": 58077,
-      "iconCount": 294
+      "iconCount": 293
     }
   ],
   "icons": {
@@ -796,7 +800,9 @@
     "building-2": {
       "codepoint": 57474,
       "fontFamily": "GlyphsPoly",
-      "identifier": "building2"
+      "identifier": "building2",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "building-3": {
       "codepoint": 57475,
@@ -1455,7 +1461,9 @@
     "ear": {
       "codepoint": 57589,
       "fontFamily": "GlyphsPoly",
-      "identifier": "ear"
+      "identifier": "ear",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "edit": {
       "codepoint": 57590,
@@ -2321,7 +2329,9 @@
     "kick-scooter": {
       "codepoint": 57739,
       "fontFamily": "GlyphsPoly",
-      "identifier": "kickScooter"
+      "identifier": "kickScooter",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "king": {
       "codepoint": 57740,
@@ -2648,7 +2658,9 @@
     "modulo": {
       "codepoint": 57796,
       "fontFamily": "GlyphsPoly",
-      "identifier": "modulo"
+      "identifier": "modulo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mold": {
       "codepoint": 57797,
@@ -2825,7 +2837,9 @@
     "pause": {
       "codepoint": 57827,
       "fontFamily": "GlyphsPoly",
-      "identifier": "pause"
+      "identifier": "pause",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "pause-circle": {
       "codepoint": 57828,
@@ -2906,7 +2920,9 @@
     "picnic-table": {
       "codepoint": 57842,
       "fontFamily": "GlyphsPoly",
-      "identifier": "picnicTable"
+      "identifier": "picnicTable",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "pill": {
       "codepoint": 57843,
@@ -3222,7 +3238,9 @@
     "screwdriver": {
       "codepoint": 57898,
       "fontFamily": "GlyphsPoly",
-      "identifier": "screwdriver"
+      "identifier": "screwdriver",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "scroll": {
       "codepoint": 57899,
@@ -3690,7 +3708,9 @@
     "stop": {
       "codepoint": 57975,
       "fontFamily": "GlyphsPoly",
-      "identifier": "stop"
+      "identifier": "stop",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "stop-circle": {
       "codepoint": 57976,
@@ -3900,7 +3920,9 @@
     "tilde": {
       "codepoint": 58013,
       "fontFamily": "GlyphsPoly",
-      "identifier": "tilde"
+      "identifier": "tilde",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "timer": {
       "codepoint": 58014,
@@ -3921,12 +3943,16 @@
       "codepoint": 58017,
       "fontFamily": "GlyphsPoly",
       "identifier": "timerFast",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "times": {
       "codepoint": 58018,
       "fontFamily": "GlyphsPoly",
-      "identifier": "times"
+      "identifier": "times",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "tired": {
       "codepoint": 58019,

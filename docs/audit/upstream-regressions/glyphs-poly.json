@@ -1,0 +1,110 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 722,
+  "liveCountPrevious": 733,
+  "newDeprecations": [
+    {
+      "codepoint": 57474,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "building-2",
+      "identifier": "building2",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57589,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "ear",
+      "identifier": "ear",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57739,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "kick-scooter",
+      "identifier": "kickScooter",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57796,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "modulo",
+      "identifier": "modulo",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57827,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "pause",
+      "identifier": "pause",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57842,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "picnic-table",
+      "identifier": "picnicTable",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57898,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "screwdriver",
+      "identifier": "screwdriver",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57975,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "stop",
+      "identifier": "stop",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58013,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "tilde",
+      "identifier": "tilde",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58017,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "timer-fast",
+      "identifier": "timerFast",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58018,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "GlyphsPoly",
+      "iconName": "times",
+      "identifier": "times",
+      "prefix": "glyphs-poly",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "glyphs-poly",
+  "previousIconifyJsonVersion": "2.2.472"
+}

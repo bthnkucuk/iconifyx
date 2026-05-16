@@ -15,7 +15,11 @@
       "title": "MIT",
       "spdx": "MIT"
     },
-    "total": 234
+    "total": 234,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

@@ -89,8 +89,41 @@ describe('allocateCodepoints', () => {
 
     expect(icons['removed-thing']!.deprecated).toBe(true);
     expect(icons['removed-thing']!.codepoint).toBe(0xe001);
+    // §16-A8: freshly-detected "no longer in upstream" defaults to the
+    // upstream-removed bucket. The pipeline can later overwrite this with
+    // a more precise reason at a specific drop site (validator / panic /
+    // paint-order).
+    expect(icons['removed-thing']!.deprecatedReason).toBe('upstream-removed');
     expect(icons['home']!.deprecated).toBeUndefined();
+    expect(icons['home']!.deprecatedReason).toBeUndefined();
     expect(fonts[0]!.iconCount).toBe(1);
+  });
+
+  test('preserves a previously-recorded deprecatedReason', () => {
+    const prev = freshManifest('test');
+    prev.fonts = [{ family: 'Test', nextCodepoint: 0xe002, iconCount: 1 }];
+    prev.icons = {
+      home: { codepoint: 0xe000, fontFamily: 'Test', identifier: 'home' },
+      'broken-old': {
+        codepoint: 0xe001,
+        fontFamily: 'Test',
+        identifier: 'brokenOld',
+        deprecated: true,
+        deprecatedSince: '2024-03-01',
+        deprecatedReason: 'validator-rejected',
+      },
+    };
+
+    const { icons } = allocateCodepoints({
+      prefix: 'test',
+      fontFamilyBase: 'Test',
+      iconNames: ['home'],
+      previous: prev,
+    });
+
+    expect(icons['broken-old']!.deprecated).toBe(true);
+    expect(icons['broken-old']!.deprecatedSince).toBe('2024-03-01');
+    expect(icons['broken-old']!.deprecatedReason).toBe('validator-rejected');
   });
 
   test('keeps existing deprecation date when re-running', () => {

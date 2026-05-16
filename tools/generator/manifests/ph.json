@@ -16,18 +16,21 @@
       "spdx": "MIT",
       "url": "https://github.com/phosphor-icons/core/blob/main/LICENSE"
     },
-    "total": 9198
+    "total": 9198,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {
       "family": "Ph",
       "nextCodepoint": 986238,
-      "iconCount": 9198
+      "iconCount": 9161
     },
     {
       "family": "PhSecondary",
       "nextCodepoint": 986238,
-      "iconCount": 1528
+      "iconCount": 1102
     }
   ],
   "icons": {
@@ -73,14 +76,16 @@
       "identifier": "activityBold"
     },
     "activity-duotone": {
-      "codepoint": 57352,
+      "codepoint": 57350,
       "fontFamily": "Ph",
-      "identifier": "activityDuotone"
+      "identifier": "activityDuotone",
+      "aliasOf": "activity"
     },
     "activity-fill": {
-      "codepoint": 57353,
+      "codepoint": 57350,
       "fontFamily": "Ph",
-      "identifier": "activityFill"
+      "identifier": "activityFill",
+      "aliasOf": "activity"
     },
     "activity-light": {
       "codepoint": 57354,
@@ -318,7 +323,8 @@
       "codepoint": 57399,
       "fontFamily": "Ph",
       "identifier": "airplaneTaxiingDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "airplane-taxiing-fill": {
       "codepoint": 57400,
@@ -1250,35 +1256,42 @@
       "identifier": "archiveBold"
     },
     "archive-box": {
-      "codepoint": 57580,
+      "codepoint": 58718,
       "fontFamily": "Ph",
-      "identifier": "archiveBox"
+      "identifier": "archiveBox",
+      "aliasOf": "box-arrow-down"
     },
     "archive-box-bold": {
-      "codepoint": 57581,
+      "codepoint": 58719,
       "fontFamily": "Ph",
-      "identifier": "archiveBoxBold"
+      "identifier": "archiveBoxBold",
+      "aliasOf": "box-arrow-down-bold"
     },
     "archive-box-duotone": {
-      "codepoint": 57582,
+      "codepoint": 58720,
       "fontFamily": "Ph",
       "identifier": "archiveBoxDuotone",
-      "duotone": true
+      "aliasOf": "box-arrow-down-duotone",
+      "duotone": false,
+      "secondaryAliased": true
     },
     "archive-box-fill": {
-      "codepoint": 57583,
+      "codepoint": 58721,
       "fontFamily": "Ph",
-      "identifier": "archiveBoxFill"
+      "identifier": "archiveBoxFill",
+      "aliasOf": "box-arrow-down-fill"
     },
     "archive-box-light": {
-      "codepoint": 57584,
+      "codepoint": 58722,
       "fontFamily": "Ph",
-      "identifier": "archiveBoxLight"
+      "identifier": "archiveBoxLight",
+      "aliasOf": "box-arrow-down-light"
     },
     "archive-box-thin": {
-      "codepoint": 57585,
+      "codepoint": 58723,
       "fontFamily": "Ph",
-      "identifier": "archiveBoxThin"
+      "identifier": "archiveBoxThin",
+      "aliasOf": "box-arrow-down-thin"
     },
     "archive-duotone": {
       "codepoint": 57586,
@@ -1302,9 +1315,10 @@
       "identifier": "archiveThin"
     },
     "archive-tray": {
-      "codepoint": 57590,
+      "codepoint": 985603,
       "fontFamily": "Ph",
-      "identifier": "archiveTray"
+      "identifier": "archiveTray",
+      "aliasOf": "tray-arrow-down"
     },
     "archive-tray-bold": {
       "codepoint": 57591,
@@ -1312,25 +1326,30 @@
       "identifier": "archiveTrayBold"
     },
     "archive-tray-duotone": {
-      "codepoint": 57592,
+      "codepoint": 985605,
       "fontFamily": "Ph",
       "identifier": "archiveTrayDuotone",
-      "duotone": true
+      "aliasOf": "tray-arrow-down-duotone",
+      "duotone": false,
+      "secondaryAliased": true
     },
     "archive-tray-fill": {
-      "codepoint": 57593,
+      "codepoint": 985606,
       "fontFamily": "Ph",
-      "identifier": "archiveTrayFill"
+      "identifier": "archiveTrayFill",
+      "aliasOf": "tray-arrow-down-fill"
     },
     "archive-tray-light": {
-      "codepoint": 57594,
+      "codepoint": 985607,
       "fontFamily": "Ph",
-      "identifier": "archiveTrayLight"
+      "identifier": "archiveTrayLight",
+      "aliasOf": "tray-arrow-down-light"
     },
     "archive-tray-thin": {
-      "codepoint": 57595,
+      "codepoint": 985608,
       "fontFamily": "Ph",
-      "identifier": "archiveTrayThin"
+      "identifier": "archiveTrayThin",
+      "aliasOf": "tray-arrow-down-thin"
     },
     "armchair": {
       "codepoint": 57596,
@@ -1770,7 +1789,8 @@
       "codepoint": 57680,
       "fontFamily": "Ph",
       "identifier": "arrowCircleDownLeftDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-circle-down-left-fill": {
       "codepoint": 57681,
@@ -1806,7 +1826,8 @@
       "codepoint": 57687,
       "fontFamily": "Ph",
       "identifier": "arrowCircleDownRightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-circle-down-right-fill": {
       "codepoint": 57688,
@@ -1842,7 +1863,8 @@
       "codepoint": 57694,
       "fontFamily": "Ph",
       "identifier": "arrowCircleLeftDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-circle-left-fill": {
       "codepoint": 57695,
@@ -1873,7 +1895,8 @@
       "codepoint": 57700,
       "fontFamily": "Ph",
       "identifier": "arrowCircleRightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-circle-right-fill": {
       "codepoint": 57701,
@@ -1904,7 +1927,8 @@
       "codepoint": 57706,
       "fontFamily": "Ph",
       "identifier": "arrowCircleUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-circle-up-fill": {
       "codepoint": 57707,
@@ -1925,7 +1949,8 @@
       "codepoint": 57710,
       "fontFamily": "Ph",
       "identifier": "arrowCircleUpLeftDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-circle-up-left-fill": {
       "codepoint": 57711,
@@ -1961,7 +1986,8 @@
       "codepoint": 57717,
       "fontFamily": "Ph",
       "identifier": "arrowCircleUpRightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-circle-up-right-fill": {
       "codepoint": 57718,
@@ -2028,7 +2054,8 @@
       "codepoint": 57730,
       "fontFamily": "Ph",
       "identifier": "arrowCounterClockwiseDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-counter-clockwise-fill": {
       "codepoint": 57731,
@@ -3165,7 +3192,8 @@
       "codepoint": 57950,
       "fontFamily": "Ph",
       "identifier": "arrowSquareDownLeftDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-square-down-left-fill": {
       "codepoint": 57951,
@@ -3201,7 +3229,8 @@
       "codepoint": 57957,
       "fontFamily": "Ph",
       "identifier": "arrowSquareDownRightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-square-down-right-fill": {
       "codepoint": 57958,
@@ -3268,7 +3297,8 @@
       "codepoint": 57970,
       "fontFamily": "Ph",
       "identifier": "arrowSquareLeftDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-square-left-fill": {
       "codepoint": 57971,
@@ -3330,7 +3360,8 @@
       "codepoint": 57982,
       "fontFamily": "Ph",
       "identifier": "arrowSquareRightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-square-right-fill": {
       "codepoint": 57983,
@@ -3361,7 +3392,8 @@
       "codepoint": 57988,
       "fontFamily": "Ph",
       "identifier": "arrowSquareUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-square-up-fill": {
       "codepoint": 57989,
@@ -3382,7 +3414,8 @@
       "codepoint": 57992,
       "fontFamily": "Ph",
       "identifier": "arrowSquareUpLeftDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-square-up-left-fill": {
       "codepoint": 57993,
@@ -3418,7 +3451,8 @@
       "codepoint": 57999,
       "fontFamily": "Ph",
       "identifier": "arrowSquareUpRightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrow-square-up-right-fill": {
       "codepoint": 58000,
@@ -3795,7 +3829,8 @@
       "codepoint": 58072,
       "fontFamily": "Ph",
       "identifier": "arrowsClockwiseDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrows-clockwise-fill": {
       "codepoint": 58073,
@@ -3826,7 +3861,8 @@
       "codepoint": 58078,
       "fontFamily": "Ph",
       "identifier": "arrowsCounterClockwiseDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrows-counter-clockwise-fill": {
       "codepoint": 58079,
@@ -3950,7 +3986,8 @@
       "codepoint": 58102,
       "fontFamily": "Ph",
       "identifier": "arrowsInDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrows-in-fill": {
       "codepoint": 58103,
@@ -4038,7 +4075,8 @@
       "codepoint": 58119,
       "fontFamily": "Ph",
       "identifier": "arrowsInSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrows-in-simple-fill": {
       "codepoint": 58120,
@@ -4193,7 +4231,8 @@
       "codepoint": 58149,
       "fontFamily": "Ph",
       "identifier": "arrowsOutLineHorizontalDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrows-out-line-horizontal-fill": {
       "codepoint": 58150,
@@ -4224,7 +4263,8 @@
       "codepoint": 58155,
       "fontFamily": "Ph",
       "identifier": "arrowsOutLineVerticalDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrows-out-line-vertical-fill": {
       "codepoint": 58156,
@@ -4255,7 +4295,8 @@
       "codepoint": 58161,
       "fontFamily": "Ph",
       "identifier": "arrowsOutSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "arrows-out-simple-fill": {
       "codepoint": 58162,
@@ -4353,7 +4394,8 @@
       "codepoint": 58180,
       "fontFamily": "Ph",
       "identifier": "articleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "article-fill": {
       "codepoint": 58181,
@@ -4503,7 +4545,8 @@
       "codepoint": 58209,
       "fontFamily": "Ph",
       "identifier": "asteriskSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "asterisk-simple-fill": {
       "codepoint": 58210,
@@ -4539,7 +4582,8 @@
       "codepoint": 58216,
       "fontFamily": "Ph",
       "identifier": "atDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "at-fill": {
       "codepoint": 58217,
@@ -4694,7 +4738,8 @@
       "codepoint": 58246,
       "fontFamily": "Ph",
       "identifier": "babyDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "baby-fill": {
       "codepoint": 58247,
@@ -4813,7 +4858,8 @@
       "codepoint": 58269,
       "fontFamily": "Ph",
       "identifier": "bagSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "bag-simple-fill": {
       "codepoint": 58270,
@@ -5314,7 +5360,8 @@
       "codepoint": 58366,
       "fontFamily": "Ph",
       "identifier": "batteryEmptyDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-empty-fill": {
       "codepoint": 58367,
@@ -5345,7 +5392,8 @@
       "codepoint": 58372,
       "fontFamily": "Ph",
       "identifier": "batteryFullDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-full-fill": {
       "codepoint": 58373,
@@ -5376,7 +5424,8 @@
       "codepoint": 58378,
       "fontFamily": "Ph",
       "identifier": "batteryHighDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-high-fill": {
       "codepoint": 58379,
@@ -5407,7 +5456,8 @@
       "codepoint": 58384,
       "fontFamily": "Ph",
       "identifier": "batteryLowDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-low-fill": {
       "codepoint": 58385,
@@ -5438,7 +5488,8 @@
       "codepoint": 58390,
       "fontFamily": "Ph",
       "identifier": "batteryMediumDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-medium-fill": {
       "codepoint": 58391,
@@ -5469,7 +5520,8 @@
       "codepoint": 58396,
       "fontFamily": "Ph",
       "identifier": "batteryPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-plus-fill": {
       "codepoint": 58397,
@@ -5500,7 +5552,8 @@
       "codepoint": 58402,
       "fontFamily": "Ph",
       "identifier": "batteryPlusVerticalDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-plus-vertical-fill": {
       "codepoint": 58403,
@@ -5531,7 +5584,8 @@
       "codepoint": 58408,
       "fontFamily": "Ph",
       "identifier": "batteryVerticalEmptyDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-vertical-empty-fill": {
       "codepoint": 58409,
@@ -5562,7 +5616,8 @@
       "codepoint": 58414,
       "fontFamily": "Ph",
       "identifier": "batteryVerticalFullDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-vertical-full-fill": {
       "codepoint": 58415,
@@ -5593,7 +5648,8 @@
       "codepoint": 58420,
       "fontFamily": "Ph",
       "identifier": "batteryVerticalHighDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-vertical-high-fill": {
       "codepoint": 58421,
@@ -5624,7 +5680,8 @@
       "codepoint": 58426,
       "fontFamily": "Ph",
       "identifier": "batteryVerticalLowDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-vertical-low-fill": {
       "codepoint": 58427,
@@ -5655,7 +5712,8 @@
       "codepoint": 58432,
       "fontFamily": "Ph",
       "identifier": "batteryVerticalMediumDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-vertical-medium-fill": {
       "codepoint": 58433,
@@ -5686,7 +5744,8 @@
       "codepoint": 58438,
       "fontFamily": "Ph",
       "identifier": "batteryWarningDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-warning-fill": {
       "codepoint": 58439,
@@ -5717,7 +5776,8 @@
       "codepoint": 58444,
       "fontFamily": "Ph",
       "identifier": "batteryWarningVerticalDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "battery-warning-vertical-fill": {
       "codepoint": 58445,
@@ -5991,7 +6051,8 @@
       "codepoint": 58497,
       "fontFamily": "Ph",
       "identifier": "bellSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "bell-simple-fill": {
       "codepoint": 58498,
@@ -6017,7 +6078,8 @@
       "codepoint": 58502,
       "fontFamily": "Ph",
       "identifier": "bellSimpleRingingDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "bell-simple-ringing-fill": {
       "codepoint": 58503,
@@ -6048,7 +6110,8 @@
       "codepoint": 58508,
       "fontFamily": "Ph",
       "identifier": "bellSimpleSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "bell-simple-slash-fill": {
       "codepoint": 58509,
@@ -6084,7 +6147,8 @@
       "codepoint": 58515,
       "fontFamily": "Ph",
       "identifier": "bellSimpleZDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "bell-simple-z-fill": {
       "codepoint": 58516,
@@ -6115,7 +6179,8 @@
       "codepoint": 58521,
       "fontFamily": "Ph",
       "identifier": "bellSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "bell-slash-fill": {
       "codepoint": 58522,
@@ -6151,7 +6216,8 @@
       "codepoint": 58528,
       "fontFamily": "Ph",
       "identifier": "bellZDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "bell-z-fill": {
       "codepoint": 58529,
@@ -6275,7 +6341,8 @@
       "codepoint": 58552,
       "fontFamily": "Ph",
       "identifier": "binaryDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "binary-fill": {
       "codepoint": 58553,
@@ -6461,7 +6528,8 @@
       "codepoint": 58588,
       "fontFamily": "Ph",
       "identifier": "bluetoothDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "bluetooth-fill": {
       "codepoint": 58589,
@@ -7112,7 +7180,8 @@
       "codepoint": 58714,
       "fontFamily": "Ph",
       "identifier": "bowlingBallDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "bowling-ball-fill": {
       "codepoint": 58715,
@@ -7174,7 +7243,8 @@
       "codepoint": 58726,
       "fontFamily": "Ph",
       "identifier": "boxArrowUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "box-arrow-up-fill": {
       "codepoint": 58727,
@@ -7683,35 +7753,42 @@
       "identifier": "browsersLight"
     },
     "browsers-simple": {
-      "codepoint": 58825,
+      "codepoint": 59048,
       "fontFamily": "Ph",
-      "identifier": "browsersSimple"
+      "identifier": "browsersSimple",
+      "aliasOf": "cards"
     },
     "browsers-simple-bold": {
-      "codepoint": 58826,
+      "codepoint": 59049,
       "fontFamily": "Ph",
-      "identifier": "browsersSimpleBold"
+      "identifier": "browsersSimpleBold",
+      "aliasOf": "cards-bold"
     },
     "browsers-simple-duotone": {
-      "codepoint": 58827,
+      "codepoint": 59050,
       "fontFamily": "Ph",
       "identifier": "browsersSimpleDuotone",
-      "duotone": true
+      "aliasOf": "cards-duotone",
+      "duotone": false,
+      "secondaryAliased": true
     },
     "browsers-simple-fill": {
-      "codepoint": 58828,
+      "codepoint": 59051,
       "fontFamily": "Ph",
-      "identifier": "browsersSimpleFill"
+      "identifier": "browsersSimpleFill",
+      "aliasOf": "cards-fill"
     },
     "browsers-simple-light": {
-      "codepoint": 58829,
+      "codepoint": 59052,
       "fontFamily": "Ph",
-      "identifier": "browsersSimpleLight"
+      "identifier": "browsersSimpleLight",
+      "aliasOf": "cards-light"
     },
     "browsers-simple-thin": {
-      "codepoint": 58830,
+      "codepoint": 59053,
       "fontFamily": "Ph",
-      "identifier": "browsersSimpleThin"
+      "identifier": "browsersSimpleThin",
+      "aliasOf": "cards-thin"
     },
     "browsers-thin": {
       "codepoint": 58831,
@@ -8207,7 +8284,8 @@
       "codepoint": 58926,
       "fontFamily": "Ph",
       "identifier": "calendarCheckDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "calendar-check-fill": {
       "codepoint": 58927,
@@ -8238,7 +8316,8 @@
       "codepoint": 58932,
       "fontFamily": "Ph",
       "identifier": "calendarDotDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "calendar-dot-fill": {
       "codepoint": 58933,
@@ -8269,7 +8348,8 @@
       "codepoint": 58938,
       "fontFamily": "Ph",
       "identifier": "calendarDotsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "calendar-dots-fill": {
       "codepoint": 58939,
@@ -8290,7 +8370,8 @@
       "codepoint": 58942,
       "fontFamily": "Ph",
       "identifier": "calendarDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "calendar-fill": {
       "codepoint": 58943,
@@ -8347,7 +8428,8 @@
       "codepoint": 58953,
       "fontFamily": "Ph",
       "identifier": "calendarMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "calendar-minus-fill": {
       "codepoint": 58954,
@@ -8378,7 +8460,8 @@
       "codepoint": 58959,
       "fontFamily": "Ph",
       "identifier": "calendarPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "calendar-plus-fill": {
       "codepoint": 58960,
@@ -8409,7 +8492,8 @@
       "codepoint": 58965,
       "fontFamily": "Ph",
       "identifier": "calendarSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "calendar-slash-fill": {
       "codepoint": 58966,
@@ -8476,7 +8560,8 @@
       "codepoint": 58978,
       "fontFamily": "Ph",
       "identifier": "calendarXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "calendar-x-fill": {
       "codepoint": 58979,
@@ -8626,7 +8711,8 @@
       "codepoint": 59007,
       "fontFamily": "Ph",
       "identifier": "cameraSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "camera-slash-fill": {
       "codepoint": 59008,
@@ -8941,7 +9027,8 @@
       "codepoint": 59068,
       "fontFamily": "Ph",
       "identifier": "caretCircleDoubleLeftDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "caret-circle-double-left-fill": {
       "codepoint": 59069,
@@ -8972,7 +9059,8 @@
       "codepoint": 59074,
       "fontFamily": "Ph",
       "identifier": "caretCircleDoubleRightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "caret-circle-double-right-fill": {
       "codepoint": 59075,
@@ -9003,7 +9091,8 @@
       "codepoint": 59080,
       "fontFamily": "Ph",
       "identifier": "caretCircleDoubleUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "caret-circle-double-up-fill": {
       "codepoint": 59081,
@@ -9034,7 +9123,8 @@
       "codepoint": 59086,
       "fontFamily": "Ph",
       "identifier": "caretCircleDownDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "caret-circle-down-fill": {
       "codepoint": 59087,
@@ -9065,7 +9155,8 @@
       "codepoint": 59092,
       "fontFamily": "Ph",
       "identifier": "caretCircleLeftDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "caret-circle-left-fill": {
       "codepoint": 59093,
@@ -9096,7 +9187,8 @@
       "codepoint": 59098,
       "fontFamily": "Ph",
       "identifier": "caretCircleRightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "caret-circle-right-fill": {
       "codepoint": 59099,
@@ -9137,7 +9229,8 @@
       "codepoint": 59106,
       "fontFamily": "Ph",
       "identifier": "caretCircleUpDownDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "caret-circle-up-down-fill": {
       "codepoint": 59107,
@@ -9158,7 +9251,8 @@
       "codepoint": 59110,
       "fontFamily": "Ph",
       "identifier": "caretCircleUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "caret-circle-up-fill": {
       "codepoint": 59111,
@@ -9901,7 +9995,8 @@
       "codepoint": 59254,
       "fontFamily": "Ph",
       "identifier": "cellSignalSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cell-signal-slash-fill": {
       "codepoint": 59255,
@@ -10335,7 +10430,8 @@
       "codepoint": 59338,
       "fontFamily": "Ph",
       "identifier": "chartLineDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chart-line-fill": {
       "codepoint": 59339,
@@ -10366,7 +10462,8 @@
       "codepoint": 59344,
       "fontFamily": "Ph",
       "identifier": "chartLineUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chart-line-up-fill": {
       "codepoint": 59345,
@@ -10490,7 +10587,8 @@
       "codepoint": 59368,
       "fontFamily": "Ph",
       "identifier": "chartScatterDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chart-scatter-fill": {
       "codepoint": 59369,
@@ -10562,7 +10660,8 @@
       "codepoint": 59382,
       "fontFamily": "Ph",
       "identifier": "chatCenteredDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-centered-fill": {
       "codepoint": 59383,
@@ -10588,7 +10687,8 @@
       "codepoint": 59387,
       "fontFamily": "Ph",
       "identifier": "chatCenteredSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-centered-slash-fill": {
       "codepoint": 59388,
@@ -10619,7 +10719,8 @@
       "codepoint": 59393,
       "fontFamily": "Ph",
       "identifier": "chatCenteredTextDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-centered-text-fill": {
       "codepoint": 59394,
@@ -10686,7 +10787,8 @@
       "codepoint": 59406,
       "fontFamily": "Ph",
       "identifier": "chatCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-circle-fill": {
       "codepoint": 59407,
@@ -10712,7 +10814,8 @@
       "codepoint": 59411,
       "fontFamily": "Ph",
       "identifier": "chatCircleSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-circle-slash-fill": {
       "codepoint": 59412,
@@ -10743,7 +10846,8 @@
       "codepoint": 59417,
       "fontFamily": "Ph",
       "identifier": "chatCircleTextDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-circle-text-fill": {
       "codepoint": 59418,
@@ -10800,7 +10904,8 @@
       "codepoint": 59428,
       "fontFamily": "Ph",
       "identifier": "chatDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-fill": {
       "codepoint": 59429,
@@ -10826,7 +10931,8 @@
       "codepoint": 59433,
       "fontFamily": "Ph",
       "identifier": "chatSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-slash-fill": {
       "codepoint": 59434,
@@ -10888,7 +10994,8 @@
       "codepoint": 59445,
       "fontFamily": "Ph",
       "identifier": "chatTeardropDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-teardrop-fill": {
       "codepoint": 59446,
@@ -10914,7 +11021,8 @@
       "codepoint": 59450,
       "fontFamily": "Ph",
       "identifier": "chatTeardropSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-teardrop-slash-fill": {
       "codepoint": 59451,
@@ -10945,7 +11053,8 @@
       "codepoint": 59456,
       "fontFamily": "Ph",
       "identifier": "chatTeardropTextDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-teardrop-text-fill": {
       "codepoint": 59457,
@@ -10981,7 +11090,8 @@
       "codepoint": 59463,
       "fontFamily": "Ph",
       "identifier": "chatTextDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "chat-text-fill": {
       "codepoint": 59464,
@@ -11120,7 +11230,8 @@
       "codepoint": 59490,
       "fontFamily": "Ph",
       "identifier": "checkCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "check-circle-fill": {
       "codepoint": 59491,
@@ -11198,7 +11309,8 @@
       "codepoint": 59505,
       "fontFamily": "Ph",
       "identifier": "checkSquareDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "check-square-fill": {
       "codepoint": 59506,
@@ -11508,7 +11620,8 @@
       "codepoint": 59565,
       "fontFamily": "Ph",
       "identifier": "cigaretteSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cigarette-slash-fill": {
       "codepoint": 59566,
@@ -11554,7 +11667,8 @@
       "codepoint": 59574,
       "fontFamily": "Ph",
       "identifier": "circleDashedDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "circle-dashed-fill": {
       "codepoint": 59575,
@@ -11575,7 +11689,8 @@
       "codepoint": 59578,
       "fontFamily": "Ph",
       "identifier": "circleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "circle-fill": {
       "codepoint": 59579,
@@ -11663,7 +11778,8 @@
       "codepoint": 59595,
       "fontFamily": "Ph",
       "identifier": "circleNotchDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "circle-notch-fill": {
       "codepoint": 59596,
@@ -11730,7 +11846,8 @@
       "codepoint": 59608,
       "fontFamily": "Ph",
       "identifier": "circleWavyDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "circle-wavy-fill": {
       "codepoint": 59609,
@@ -11756,7 +11873,8 @@
       "codepoint": 59613,
       "fontFamily": "Ph",
       "identifier": "circleWavyQuestionDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "circle-wavy-question-fill": {
       "codepoint": 59614,
@@ -11792,7 +11910,8 @@
       "codepoint": 59620,
       "fontFamily": "Ph",
       "identifier": "circleWavyWarningDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "circle-wavy-warning-fill": {
       "codepoint": 59621,
@@ -12004,7 +12123,8 @@
       "codepoint": 59661,
       "fontFamily": "Ph",
       "identifier": "clipboardTextDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "clipboard-text-fill": {
       "codepoint": 59662,
@@ -12045,7 +12165,8 @@
       "codepoint": 59669,
       "fontFamily": "Ph",
       "identifier": "clockAfternoonDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "clock-afternoon-fill": {
       "codepoint": 59670,
@@ -12081,7 +12202,8 @@
       "codepoint": 59676,
       "fontFamily": "Ph",
       "identifier": "clockClockwiseDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "clock-clockwise-fill": {
       "codepoint": 59677,
@@ -12112,7 +12234,8 @@
       "codepoint": 59682,
       "fontFamily": "Ph",
       "identifier": "clockCountdownDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "clock-countdown-fill": {
       "codepoint": 59683,
@@ -12143,7 +12266,8 @@
       "codepoint": 59688,
       "fontFamily": "Ph",
       "identifier": "clockCounterClockwiseDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "clock-counter-clockwise-fill": {
       "codepoint": 59689,
@@ -12164,7 +12288,8 @@
       "codepoint": 59692,
       "fontFamily": "Ph",
       "identifier": "clockDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "clock-fill": {
       "codepoint": 59693,
@@ -12293,7 +12418,8 @@
       "codepoint": 59717,
       "fontFamily": "Ph",
       "identifier": "cloudArrowUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cloud-arrow-up-fill": {
       "codepoint": 59718,
@@ -12329,7 +12455,8 @@
       "codepoint": 59724,
       "fontFamily": "Ph",
       "identifier": "cloudCheckDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cloud-check-fill": {
       "codepoint": 59725,
@@ -12350,7 +12477,8 @@
       "codepoint": 59728,
       "fontFamily": "Ph",
       "identifier": "cloudDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cloud-fill": {
       "codepoint": 59729,
@@ -12469,7 +12597,8 @@
       "codepoint": 59751,
       "fontFamily": "Ph",
       "identifier": "cloudRainDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cloud-rain-fill": {
       "codepoint": 59752,
@@ -12500,7 +12629,8 @@
       "codepoint": 59757,
       "fontFamily": "Ph",
       "identifier": "cloudSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cloud-slash-fill": {
       "codepoint": 59758,
@@ -12531,7 +12661,8 @@
       "codepoint": 59763,
       "fontFamily": "Ph",
       "identifier": "cloudSnowDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cloud-snow-fill": {
       "codepoint": 59764,
@@ -12629,7 +12760,8 @@
       "codepoint": 59782,
       "fontFamily": "Ph",
       "identifier": "cloudXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cloud-x-fill": {
       "codepoint": 59783,
@@ -13373,7 +13505,8 @@
       "codepoint": 59926,
       "fontFamily": "Ph",
       "identifier": "contactlessPaymentDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "contactless-payment-fill": {
       "codepoint": 59927,
@@ -13559,7 +13692,8 @@
       "codepoint": 59962,
       "fontFamily": "Ph",
       "identifier": "copyleftDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "copyleft-fill": {
       "codepoint": 59963,
@@ -13590,7 +13724,8 @@
       "codepoint": 59968,
       "fontFamily": "Ph",
       "identifier": "copyrightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "copyright-fill": {
       "codepoint": 59969,
@@ -13652,7 +13787,8 @@
       "codepoint": 59980,
       "fontFamily": "Ph",
       "identifier": "cornersOutDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "corners-out-fill": {
       "codepoint": 59981,
@@ -14024,7 +14160,8 @@
       "codepoint": 60052,
       "fontFamily": "Ph",
       "identifier": "crosshairDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "crosshair-fill": {
       "codepoint": 60053,
@@ -14050,7 +14187,8 @@
       "codepoint": 60057,
       "fontFamily": "Ph",
       "identifier": "crosshairSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "crosshair-simple-fill": {
       "codepoint": 60058,
@@ -14303,7 +14441,8 @@
       "codepoint": 60106,
       "fontFamily": "Ph",
       "identifier": "currencyCircleDollarDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "currency-circle-dollar-fill": {
       "codepoint": 60107,
@@ -14391,7 +14530,8 @@
       "codepoint": 60123,
       "fontFamily": "Ph",
       "identifier": "currencyDollarSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "currency-dollar-simple-fill": {
       "codepoint": 60124,
@@ -14737,7 +14877,8 @@
       "codepoint": 60190,
       "fontFamily": "Ph",
       "identifier": "cursorDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "cursor-fill": {
       "codepoint": 60191,
@@ -15073,7 +15214,8 @@
       "codepoint": 60255,
       "fontFamily": "Ph",
       "identifier": "deviceMobileSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "device-mobile-slash-fill": {
       "codepoint": 60256,
@@ -15104,7 +15246,8 @@
       "codepoint": 60261,
       "fontFamily": "Ph",
       "identifier": "deviceMobileSpeakerDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "device-mobile-speaker-fill": {
       "codepoint": 60262,
@@ -15228,7 +15371,8 @@
       "codepoint": 60285,
       "fontFamily": "Ph",
       "identifier": "deviceTabletSpeakerDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "device-tablet-speaker-fill": {
       "codepoint": 60286,
@@ -15388,7 +15532,8 @@
       "codepoint": 60316,
       "fontFamily": "Ph",
       "identifier": "diceFourDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dice-four-fill": {
       "codepoint": 60317,
@@ -15419,7 +15564,8 @@
       "codepoint": 60322,
       "fontFamily": "Ph",
       "identifier": "diceOneDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dice-one-fill": {
       "codepoint": 60323,
@@ -15450,7 +15596,8 @@
       "codepoint": 60328,
       "fontFamily": "Ph",
       "identifier": "diceSixDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dice-six-fill": {
       "codepoint": 60329,
@@ -15481,7 +15628,8 @@
       "codepoint": 60334,
       "fontFamily": "Ph",
       "identifier": "diceThreeDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dice-three-fill": {
       "codepoint": 60335,
@@ -15512,7 +15660,8 @@
       "codepoint": 60340,
       "fontFamily": "Ph",
       "identifier": "diceTwoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dice-two-fill": {
       "codepoint": 60341,
@@ -15636,7 +15785,8 @@
       "codepoint": 60364,
       "fontFamily": "Ph",
       "identifier": "divideDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "divide-fill": {
       "codepoint": 60365,
@@ -15853,7 +16003,8 @@
       "codepoint": 60406,
       "fontFamily": "Ph",
       "identifier": "dotsNineDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dots-nine-fill": {
       "codepoint": 60407,
@@ -15884,7 +16035,8 @@
       "codepoint": 60412,
       "fontFamily": "Ph",
       "identifier": "dotsSixDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dots-six-fill": {
       "codepoint": 60413,
@@ -15956,7 +16108,8 @@
       "codepoint": 60426,
       "fontFamily": "Ph",
       "identifier": "dotsThreeCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dots-three-circle-fill": {
       "codepoint": 60427,
@@ -15987,7 +16140,8 @@
       "codepoint": 60432,
       "fontFamily": "Ph",
       "identifier": "dotsThreeCircleVerticalDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dots-three-circle-vertical-fill": {
       "codepoint": 60433,
@@ -16256,7 +16410,8 @@
       "codepoint": 60484,
       "fontFamily": "Ph",
       "identifier": "dribbbleLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "dribbble-logo-fill": {
       "codepoint": 60485,
@@ -16406,7 +16561,8 @@
       "codepoint": 60513,
       "fontFamily": "Ph",
       "identifier": "dropSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "drop-simple-fill": {
       "codepoint": 60514,
@@ -16437,7 +16593,8 @@
       "codepoint": 60519,
       "fontFamily": "Ph",
       "identifier": "dropSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "drop-slash-fill": {
       "codepoint": 60520,
@@ -16530,7 +16687,8 @@
       "codepoint": 60537,
       "fontFamily": "Ph",
       "identifier": "earSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "ear-slash-fill": {
       "codepoint": 60538,
@@ -16597,7 +16755,8 @@
       "codepoint": 60550,
       "fontFamily": "Ph",
       "identifier": "eggDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "egg-fill": {
       "codepoint": 60551,
@@ -16721,7 +16880,8 @@
       "codepoint": 60574,
       "fontFamily": "Ph",
       "identifier": "emptyDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "empty-fill": {
       "codepoint": 60575,
@@ -16840,7 +17000,8 @@
       "codepoint": 60597,
       "fontFamily": "Ph",
       "identifier": "envelopeSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "envelope-simple-fill": {
       "codepoint": 60598,
@@ -16866,7 +17027,8 @@
       "codepoint": 60602,
       "fontFamily": "Ph",
       "identifier": "envelopeSimpleOpenDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "envelope-simple-open-fill": {
       "codepoint": 60603,
@@ -16938,7 +17100,8 @@
       "codepoint": 60616,
       "fontFamily": "Ph",
       "identifier": "equalsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "equals-fill": {
       "codepoint": 60617,
@@ -17274,7 +17437,8 @@
       "codepoint": 60681,
       "fontFamily": "Ph",
       "identifier": "eyeSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "eye-slash-fill": {
       "codepoint": 60682,
@@ -17465,7 +17629,8 @@
       "codepoint": 60718,
       "fontFamily": "Ph",
       "identifier": "facebookLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "facebook-logo-fill": {
       "codepoint": 60719,
@@ -17873,7 +18038,8 @@
       "codepoint": 60797,
       "fontFamily": "Ph",
       "identifier": "fileArrowDownDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-arrow-down-fill": {
       "codepoint": 60798,
@@ -17904,7 +18070,8 @@
       "codepoint": 60803,
       "fontFamily": "Ph",
       "identifier": "fileArrowUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-arrow-up-fill": {
       "codepoint": 60804,
@@ -17971,7 +18138,8 @@
       "codepoint": 60816,
       "fontFamily": "Ph",
       "identifier": "fileCDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-c-fill": {
       "codepoint": 60817,
@@ -17997,7 +18165,8 @@
       "codepoint": 60821,
       "fontFamily": "Ph",
       "identifier": "fileCSharpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-c-sharp-fill": {
       "codepoint": 60822,
@@ -18064,7 +18233,8 @@
       "codepoint": 60834,
       "fontFamily": "Ph",
       "identifier": "fileCodeDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-code-fill": {
       "codepoint": 60835,
@@ -18095,7 +18265,8 @@
       "codepoint": 60840,
       "fontFamily": "Ph",
       "identifier": "fileCppDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-cpp-fill": {
       "codepoint": 60841,
@@ -18126,7 +18297,8 @@
       "codepoint": 60846,
       "fontFamily": "Ph",
       "identifier": "fileCssDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-css-fill": {
       "codepoint": 60847,
@@ -18157,7 +18329,8 @@
       "codepoint": 60852,
       "fontFamily": "Ph",
       "identifier": "fileCsvDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-csv-fill": {
       "codepoint": 60853,
@@ -18188,7 +18361,8 @@
       "codepoint": 60858,
       "fontFamily": "Ph",
       "identifier": "fileDashedDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-dashed-fill": {
       "codepoint": 60859,
@@ -18219,7 +18393,8 @@
       "codepoint": 60864,
       "fontFamily": "Ph",
       "identifier": "fileDocDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-doc-fill": {
       "codepoint": 60865,
@@ -18250,7 +18425,8 @@
       "codepoint": 60870,
       "fontFamily": "Ph",
       "identifier": "fileDottedDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-dotted-fill": {
       "codepoint": 60871,
@@ -18271,7 +18447,8 @@
       "codepoint": 60874,
       "fontFamily": "Ph",
       "identifier": "fileDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-fill": {
       "codepoint": 60875,
@@ -18292,7 +18469,8 @@
       "codepoint": 60878,
       "fontFamily": "Ph",
       "identifier": "fileHtmlDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-html-fill": {
       "codepoint": 60879,
@@ -18354,7 +18532,8 @@
       "codepoint": 60890,
       "fontFamily": "Ph",
       "identifier": "fileIniDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-ini-fill": {
       "codepoint": 60891,
@@ -18385,7 +18564,8 @@
       "codepoint": 60896,
       "fontFamily": "Ph",
       "identifier": "fileJpgDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-jpg-fill": {
       "codepoint": 60897,
@@ -18416,7 +18596,8 @@
       "codepoint": 60902,
       "fontFamily": "Ph",
       "identifier": "fileJsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-js-fill": {
       "codepoint": 60903,
@@ -18447,7 +18628,8 @@
       "codepoint": 60908,
       "fontFamily": "Ph",
       "identifier": "fileJsxDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-jsx-fill": {
       "codepoint": 60909,
@@ -18514,7 +18696,8 @@
       "codepoint": 60921,
       "fontFamily": "Ph",
       "identifier": "fileMagnifyingGlassDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-magnifying-glass-fill": {
       "codepoint": 60922,
@@ -18545,7 +18728,8 @@
       "codepoint": 60927,
       "fontFamily": "Ph",
       "identifier": "fileMdDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-md-fill": {
       "codepoint": 60928,
@@ -18576,7 +18760,8 @@
       "codepoint": 60933,
       "fontFamily": "Ph",
       "identifier": "fileMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-minus-fill": {
       "codepoint": 60934,
@@ -18607,7 +18792,8 @@
       "codepoint": 60939,
       "fontFamily": "Ph",
       "identifier": "filePdfDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-pdf-fill": {
       "codepoint": 60940,
@@ -18638,7 +18824,8 @@
       "codepoint": 60945,
       "fontFamily": "Ph",
       "identifier": "filePlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-plus-fill": {
       "codepoint": 60946,
@@ -18669,7 +18856,8 @@
       "codepoint": 60951,
       "fontFamily": "Ph",
       "identifier": "filePngDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-png-fill": {
       "codepoint": 60952,
@@ -18700,7 +18888,8 @@
       "codepoint": 60957,
       "fontFamily": "Ph",
       "identifier": "filePptDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-ppt-fill": {
       "codepoint": 60958,
@@ -18731,7 +18920,8 @@
       "codepoint": 60963,
       "fontFamily": "Ph",
       "identifier": "filePyDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-py-fill": {
       "codepoint": 60964,
@@ -18762,7 +18952,8 @@
       "codepoint": 60969,
       "fontFamily": "Ph",
       "identifier": "fileRsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-rs-fill": {
       "codepoint": 60970,
@@ -18793,7 +18984,8 @@
       "codepoint": 60975,
       "fontFamily": "Ph",
       "identifier": "fileSearchDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-search-fill": {
       "codepoint": 60976,
@@ -18824,7 +19016,8 @@
       "codepoint": 60981,
       "fontFamily": "Ph",
       "identifier": "fileSqlDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-sql-fill": {
       "codepoint": 60982,
@@ -18855,7 +19048,8 @@
       "codepoint": 60987,
       "fontFamily": "Ph",
       "identifier": "fileSvgDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-svg-fill": {
       "codepoint": 60988,
@@ -18886,7 +19080,8 @@
       "codepoint": 60993,
       "fontFamily": "Ph",
       "identifier": "fileTextDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-text-fill": {
       "codepoint": 60994,
@@ -18922,7 +19117,8 @@
       "codepoint": 61000,
       "fontFamily": "Ph",
       "identifier": "fileTsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-ts-fill": {
       "codepoint": 61001,
@@ -18953,7 +19149,8 @@
       "codepoint": 61006,
       "fontFamily": "Ph",
       "identifier": "fileTsxDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-tsx-fill": {
       "codepoint": 61007,
@@ -18984,7 +19181,8 @@
       "codepoint": 61012,
       "fontFamily": "Ph",
       "identifier": "fileTxtDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-txt-fill": {
       "codepoint": 61013,
@@ -19046,7 +19244,8 @@
       "codepoint": 61024,
       "fontFamily": "Ph",
       "identifier": "fileVueDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-vue-fill": {
       "codepoint": 61025,
@@ -19077,7 +19276,8 @@
       "codepoint": 61030,
       "fontFamily": "Ph",
       "identifier": "fileXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-x-fill": {
       "codepoint": 61031,
@@ -19108,7 +19308,8 @@
       "codepoint": 61036,
       "fontFamily": "Ph",
       "identifier": "fileXlsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-xls-fill": {
       "codepoint": 61037,
@@ -19139,7 +19340,8 @@
       "codepoint": 61042,
       "fontFamily": "Ph",
       "identifier": "fileZipDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "file-zip-fill": {
       "codepoint": 61043,
@@ -19232,7 +19434,8 @@
       "codepoint": 61060,
       "fontFamily": "Ph",
       "identifier": "filmScriptDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "film-script-fill": {
       "codepoint": 61061,
@@ -19325,7 +19528,8 @@
       "codepoint": 61078,
       "fontFamily": "Ph",
       "identifier": "fingerprintDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "fingerprint-fill": {
       "codepoint": 61079,
@@ -19351,7 +19555,8 @@
       "codepoint": 61083,
       "fontFamily": "Ph",
       "identifier": "fingerprintSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "fingerprint-simple-fill": {
       "codepoint": 61084,
@@ -19475,7 +19680,8 @@
       "codepoint": 61107,
       "fontFamily": "Ph",
       "identifier": "fireSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "fire-simple-fill": {
       "codepoint": 61108,
@@ -19511,7 +19717,8 @@
       "codepoint": 61114,
       "fontFamily": "Ph",
       "identifier": "fireTruckDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "fire-truck-fill": {
       "codepoint": 61115,
@@ -20255,7 +20462,8 @@
       "codepoint": 61258,
       "fontFamily": "Ph",
       "identifier": "folderDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "folder-fill": {
       "codepoint": 61259,
@@ -20312,7 +20520,8 @@
       "codepoint": 61269,
       "fontFamily": "Ph",
       "identifier": "folderMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "folder-minus-fill": {
       "codepoint": 61270,
@@ -20369,7 +20578,8 @@
       "codepoint": 61280,
       "fontFamily": "Ph",
       "identifier": "folderNotchMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "folder-notch-minus-fill": {
       "codepoint": 61281,
@@ -20431,7 +20641,8 @@
       "codepoint": 61292,
       "fontFamily": "Ph",
       "identifier": "folderNotchPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "folder-notch-plus-fill": {
       "codepoint": 61293,
@@ -20498,7 +20709,8 @@
       "codepoint": 61305,
       "fontFamily": "Ph",
       "identifier": "folderPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "folder-plus-fill": {
       "codepoint": 61306,
@@ -20648,7 +20860,8 @@
       "codepoint": 61334,
       "fontFamily": "Ph",
       "identifier": "folderSimpleMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "folder-simple-minus-fill": {
       "codepoint": 61335,
@@ -20679,7 +20892,8 @@
       "codepoint": 61340,
       "fontFamily": "Ph",
       "identifier": "folderSimplePlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "folder-simple-plus-fill": {
       "codepoint": 61341,
@@ -20777,7 +20991,8 @@
       "codepoint": 61359,
       "fontFamily": "Ph",
       "identifier": "folderStarDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "folder-star-fill": {
       "codepoint": 61360,
@@ -20813,7 +21028,8 @@
       "codepoint": 61366,
       "fontFamily": "Ph",
       "identifier": "folderUserDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "folder-user-fill": {
       "codepoint": 61367,
@@ -20999,7 +21215,8 @@
       "codepoint": 61402,
       "fontFamily": "Ph",
       "identifier": "fourKDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "four-k-fill": {
       "codepoint": 61403,
@@ -21030,7 +21247,8 @@
       "codepoint": 61408,
       "fontFamily": "Ph",
       "identifier": "frameCornersDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "frame-corners-fill": {
       "codepoint": 61409,
@@ -21149,7 +21367,8 @@
       "codepoint": 61431,
       "fontFamily": "Ph",
       "identifier": "funnelSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "funnel-simple-fill": {
       "codepoint": 61432,
@@ -21216,7 +21435,8 @@
       "codepoint": 61444,
       "fontFamily": "Ph",
       "identifier": "funnelXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "funnel-x-fill": {
       "codepoint": 61445,
@@ -21340,7 +21560,8 @@
       "codepoint": 61468,
       "fontFamily": "Ph",
       "identifier": "gasPumpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "gas-pump-fill": {
       "codepoint": 61469,
@@ -21836,7 +22057,8 @@
       "codepoint": 61564,
       "fontFamily": "Ph",
       "identifier": "gitCommitDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "git-commit-fill": {
       "codepoint": 61565,
@@ -22084,7 +22306,8 @@
       "codepoint": 61612,
       "fontFamily": "Ph",
       "identifier": "globeDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "globe-fill": {
       "codepoint": 61613,
@@ -22172,7 +22395,8 @@
       "codepoint": 61629,
       "fontFamily": "Ph",
       "identifier": "globeSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "globe-simple-fill": {
       "codepoint": 61630,
@@ -22203,7 +22427,8 @@
       "codepoint": 61635,
       "fontFamily": "Ph",
       "identifier": "globeSimpleXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "globe-simple-x-fill": {
       "codepoint": 61636,
@@ -22270,7 +22495,8 @@
       "codepoint": 61648,
       "fontFamily": "Ph",
       "identifier": "globeXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "globe-x-fill": {
       "codepoint": 61649,
@@ -22487,7 +22713,8 @@
       "codepoint": 61690,
       "fontFamily": "Ph",
       "identifier": "googleLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "google-logo-fill": {
       "codepoint": 61691,
@@ -22611,7 +22838,8 @@
       "codepoint": 61714,
       "fontFamily": "Ph",
       "identifier": "gpsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "gps-fill": {
       "codepoint": 61715,
@@ -22668,7 +22896,8 @@
       "codepoint": 61725,
       "fontFamily": "Ph",
       "identifier": "gpsSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "gps-slash-fill": {
       "codepoint": 61726,
@@ -22792,7 +23021,8 @@
       "codepoint": 61749,
       "fontFamily": "Ph",
       "identifier": "grainsSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "grains-slash-fill": {
       "codepoint": 61750,
@@ -22828,7 +23058,8 @@
       "codepoint": 61756,
       "fontFamily": "Ph",
       "identifier": "graphDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "graph-fill": {
       "codepoint": 61757,
@@ -23174,7 +23405,8 @@
       "codepoint": 61823,
       "fontFamily": "Ph",
       "identifier": "handArrowUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "hand-arrow-up-fill": {
       "codepoint": 61824,
@@ -23567,7 +23799,8 @@
       "codepoint": 61899,
       "fontFamily": "Ph",
       "identifier": "handSwipeRightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "hand-swipe-right-fill": {
       "codepoint": 61900,
@@ -23722,7 +23955,8 @@
       "codepoint": 61929,
       "fontFamily": "Ph",
       "identifier": "handbagSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "handbag-simple-fill": {
       "codepoint": 61930,
@@ -24249,7 +24483,8 @@
       "codepoint": 62031,
       "fontFamily": "Ph",
       "identifier": "heartStraightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "heart-straight-fill": {
       "codepoint": 62032,
@@ -24285,7 +24520,8 @@
       "codepoint": 62038,
       "fontFamily": "Ph",
       "identifier": "heartbeatDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "heartbeat-fill": {
       "codepoint": 62039,
@@ -24347,7 +24583,8 @@
       "codepoint": 62050,
       "fontFamily": "Ph",
       "identifier": "highDefinitionDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "high-definition-fill": {
       "codepoint": 62051,
@@ -25246,7 +25483,8 @@
       "codepoint": 62224,
       "fontFamily": "Ph",
       "identifier": "infoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "info-fill": {
       "codepoint": 62225,
@@ -25334,7 +25572,8 @@
       "codepoint": 62241,
       "fontFamily": "Ph",
       "identifier": "intersectSquareDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "intersect-square-fill": {
       "codepoint": 62242,
@@ -25675,7 +25914,8 @@
       "codepoint": 62307,
       "fontFamily": "Ph",
       "identifier": "keyReturnDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "key-return-fill": {
       "codepoint": 62308,
@@ -25711,7 +25951,8 @@
       "codepoint": 62314,
       "fontFamily": "Ph",
       "identifier": "keyboardDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "keyboard-fill": {
       "codepoint": 62315,
@@ -26238,7 +26479,8 @@
       "codepoint": 62416,
       "fontFamily": "Ph",
       "identifier": "letterCircleHDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "letter-circle-h-fill": {
       "codepoint": 62417,
@@ -26269,7 +26511,8 @@
       "codepoint": 62422,
       "fontFamily": "Ph",
       "identifier": "letterCirclePDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "letter-circle-p-fill": {
       "codepoint": 62423,
@@ -26300,7 +26543,8 @@
       "codepoint": 62428,
       "fontFamily": "Ph",
       "identifier": "letterCircleVDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "letter-circle-v-fill": {
       "codepoint": 62429,
@@ -26378,7 +26622,8 @@
       "codepoint": 62443,
       "fontFamily": "Ph",
       "identifier": "lightbulbFilamentDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "lightbulb-filament-fill": {
       "codepoint": 62444,
@@ -26512,7 +26757,8 @@
       "codepoint": 62469,
       "fontFamily": "Ph",
       "identifier": "lightningSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "lightning-slash-fill": {
       "codepoint": 62470,
@@ -26610,7 +26856,8 @@
       "codepoint": 62488,
       "fontFamily": "Ph",
       "identifier": "lineVerticalDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "line-vertical-fill": {
       "codepoint": 62489,
@@ -26729,7 +26976,8 @@
       "codepoint": 62511,
       "fontFamily": "Ph",
       "identifier": "linkSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "link-simple-fill": {
       "codepoint": 62512,
@@ -26781,7 +27029,8 @@
       "codepoint": 62521,
       "fontFamily": "Ph",
       "identifier": "linkSimpleHorizontalDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "link-simple-horizontal-fill": {
       "codepoint": 62522,
@@ -27132,7 +27381,8 @@
       "codepoint": 62589,
       "fontFamily": "Ph",
       "identifier": "listPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "list-plus-fill": {
       "codepoint": 62590,
@@ -27246,7 +27496,8 @@
       "codepoint": 62611,
       "fontFamily": "Ph",
       "identifier": "lockKeyOpenDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "lock-key-open-fill": {
       "codepoint": 62612,
@@ -27282,7 +27533,8 @@
       "codepoint": 62618,
       "fontFamily": "Ph",
       "identifier": "lockLaminatedDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "lock-laminated-fill": {
       "codepoint": 62619,
@@ -27308,7 +27560,8 @@
       "codepoint": 62623,
       "fontFamily": "Ph",
       "identifier": "lockLaminatedOpenDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "lock-laminated-open-fill": {
       "codepoint": 62624,
@@ -27349,7 +27602,8 @@
       "codepoint": 62631,
       "fontFamily": "Ph",
       "identifier": "lockOpenDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "lock-open-fill": {
       "codepoint": 62632,
@@ -27380,7 +27634,8 @@
       "codepoint": 62637,
       "fontFamily": "Ph",
       "identifier": "lockSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "lock-simple-fill": {
       "codepoint": 62638,
@@ -27406,7 +27661,8 @@
       "codepoint": 62642,
       "fontFamily": "Ph",
       "identifier": "lockSimpleOpenDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "lock-simple-open-fill": {
       "codepoint": 62643,
@@ -27628,7 +27884,8 @@
       "codepoint": 62685,
       "fontFamily": "Ph",
       "identifier": "magnifyingGlassMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "magnifying-glass-minus-fill": {
       "codepoint": 62686,
@@ -27659,7 +27916,8 @@
       "codepoint": 62691,
       "fontFamily": "Ph",
       "identifier": "magnifyingGlassPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "magnifying-glass-plus-fill": {
       "codepoint": 62692,
@@ -27783,7 +28041,8 @@
       "codepoint": 62715,
       "fontFamily": "Ph",
       "identifier": "mapPinLineDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "map-pin-line-fill": {
       "codepoint": 62716,
@@ -28098,7 +28357,8 @@
       "codepoint": 62776,
       "fontFamily": "Ph",
       "identifier": "maskSadDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "mask-sad-fill": {
       "codepoint": 62777,
@@ -28160,7 +28420,8 @@
       "codepoint": 62788,
       "fontFamily": "Ph",
       "identifier": "mathOperationsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "math-operations-fill": {
       "codepoint": 62789,
@@ -28191,7 +28452,8 @@
       "codepoint": 62794,
       "fontFamily": "Ph",
       "identifier": "matrixLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "matrix-logo-fill": {
       "codepoint": 62795,
@@ -28439,7 +28701,8 @@
       "codepoint": 62842,
       "fontFamily": "Ph",
       "identifier": "messengerLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "messenger-logo-fill": {
       "codepoint": 62843,
@@ -28589,7 +28852,8 @@
       "codepoint": 62871,
       "fontFamily": "Ph",
       "identifier": "microphoneSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "microphone-slash-fill": {
       "codepoint": 62872,
@@ -28749,7 +29013,8 @@
       "codepoint": 62902,
       "fontFamily": "Ph",
       "identifier": "microsoftPowerpointLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "microsoft-powerpoint-logo-fill": {
       "codepoint": 62903,
@@ -28780,7 +29045,8 @@
       "codepoint": 62908,
       "fontFamily": "Ph",
       "identifier": "microsoftTeamsLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "microsoft-teams-logo-fill": {
       "codepoint": 62909,
@@ -28811,7 +29077,8 @@
       "codepoint": 62914,
       "fontFamily": "Ph",
       "identifier": "microsoftWordLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "microsoft-word-logo-fill": {
       "codepoint": 62915,
@@ -28852,7 +29119,8 @@
       "codepoint": 62922,
       "fontFamily": "Ph",
       "identifier": "minusCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "minus-circle-fill": {
       "codepoint": 62923,
@@ -28873,7 +29141,8 @@
       "codepoint": 62926,
       "fontFamily": "Ph",
       "identifier": "minusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "minus-fill": {
       "codepoint": 62927,
@@ -28899,7 +29168,8 @@
       "codepoint": 62931,
       "fontFamily": "Ph",
       "identifier": "minusSquareDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "minus-square-fill": {
       "codepoint": 62932,
@@ -29028,7 +29298,8 @@
       "codepoint": 62956,
       "fontFamily": "Ph",
       "identifier": "monitorDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "monitor-fill": {
       "codepoint": 62957,
@@ -29457,7 +29728,8 @@
       "codepoint": 63039,
       "fontFamily": "Ph",
       "identifier": "mouseSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "mouse-simple-fill": {
       "codepoint": 63040,
@@ -29519,7 +29791,8 @@
       "codepoint": 63051,
       "fontFamily": "Ph",
       "identifier": "musicNoteSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "music-note-simple-fill": {
       "codepoint": 63052,
@@ -29581,7 +29854,8 @@
       "codepoint": 63063,
       "fontFamily": "Ph",
       "identifier": "musicNotesMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "music-notes-minus-fill": {
       "codepoint": 63064,
@@ -29612,7 +29886,8 @@
       "codepoint": 63069,
       "fontFamily": "Ph",
       "identifier": "musicNotesPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "music-notes-plus-fill": {
       "codepoint": 63070,
@@ -29643,7 +29918,8 @@
       "codepoint": 63075,
       "fontFamily": "Ph",
       "identifier": "musicNotesSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "music-notes-simple-fill": {
       "codepoint": 63076,
@@ -29896,7 +30172,8 @@
       "codepoint": 63124,
       "fontFamily": "Ph",
       "identifier": "notEqualsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "not-equals-fill": {
       "codepoint": 63125,
@@ -29927,7 +30204,8 @@
       "codepoint": 63130,
       "fontFamily": "Ph",
       "identifier": "notMemberOfDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "not-member-of-fill": {
       "codepoint": 63131,
@@ -29958,7 +30236,8 @@
       "codepoint": 63136,
       "fontFamily": "Ph",
       "identifier": "notSubsetOfDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "not-subset-of-fill": {
       "codepoint": 63137,
@@ -30082,7 +30361,8 @@
       "codepoint": 63160,
       "fontFamily": "Ph",
       "identifier": "noteDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "note-fill": {
       "codepoint": 63161,
@@ -30299,7 +30579,8 @@
       "codepoint": 63202,
       "fontFamily": "Ph",
       "identifier": "numberCircleEightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-eight-fill": {
       "codepoint": 63203,
@@ -30330,7 +30611,8 @@
       "codepoint": 63208,
       "fontFamily": "Ph",
       "identifier": "numberCircleFiveDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-five-fill": {
       "codepoint": 63209,
@@ -30361,7 +30643,8 @@
       "codepoint": 63214,
       "fontFamily": "Ph",
       "identifier": "numberCircleFourDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-four-fill": {
       "codepoint": 63215,
@@ -30392,7 +30675,8 @@
       "codepoint": 63220,
       "fontFamily": "Ph",
       "identifier": "numberCircleNineDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-nine-fill": {
       "codepoint": 63221,
@@ -30423,7 +30707,8 @@
       "codepoint": 63226,
       "fontFamily": "Ph",
       "identifier": "numberCircleOneDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-one-fill": {
       "codepoint": 63227,
@@ -30454,7 +30739,8 @@
       "codepoint": 63232,
       "fontFamily": "Ph",
       "identifier": "numberCircleSevenDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-seven-fill": {
       "codepoint": 63233,
@@ -30485,7 +30771,8 @@
       "codepoint": 63238,
       "fontFamily": "Ph",
       "identifier": "numberCircleSixDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-six-fill": {
       "codepoint": 63239,
@@ -30516,7 +30803,8 @@
       "codepoint": 63244,
       "fontFamily": "Ph",
       "identifier": "numberCircleThreeDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-three-fill": {
       "codepoint": 63245,
@@ -30547,7 +30835,8 @@
       "codepoint": 63250,
       "fontFamily": "Ph",
       "identifier": "numberCircleTwoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-two-fill": {
       "codepoint": 63251,
@@ -30578,7 +30867,8 @@
       "codepoint": 63256,
       "fontFamily": "Ph",
       "identifier": "numberCircleZeroDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-circle-zero-fill": {
       "codepoint": 63257,
@@ -30609,7 +30899,8 @@
       "codepoint": 63262,
       "fontFamily": "Ph",
       "identifier": "numberEightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-eight-fill": {
       "codepoint": 63263,
@@ -30640,7 +30931,8 @@
       "codepoint": 63268,
       "fontFamily": "Ph",
       "identifier": "numberFiveDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-five-fill": {
       "codepoint": 63269,
@@ -30671,7 +30963,8 @@
       "codepoint": 63274,
       "fontFamily": "Ph",
       "identifier": "numberFourDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-four-fill": {
       "codepoint": 63275,
@@ -30702,7 +30995,8 @@
       "codepoint": 63280,
       "fontFamily": "Ph",
       "identifier": "numberNineDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-nine-fill": {
       "codepoint": 63281,
@@ -30733,7 +31027,8 @@
       "codepoint": 63286,
       "fontFamily": "Ph",
       "identifier": "numberOneDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-one-fill": {
       "codepoint": 63287,
@@ -30764,7 +31059,8 @@
       "codepoint": 63292,
       "fontFamily": "Ph",
       "identifier": "numberSevenDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-seven-fill": {
       "codepoint": 63293,
@@ -30795,7 +31091,8 @@
       "codepoint": 63298,
       "fontFamily": "Ph",
       "identifier": "numberSixDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-six-fill": {
       "codepoint": 63299,
@@ -30826,7 +31123,8 @@
       "codepoint": 63304,
       "fontFamily": "Ph",
       "identifier": "numberSquareEightDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-eight-fill": {
       "codepoint": 63305,
@@ -30857,7 +31155,8 @@
       "codepoint": 63310,
       "fontFamily": "Ph",
       "identifier": "numberSquareFiveDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-five-fill": {
       "codepoint": 63311,
@@ -30888,7 +31187,8 @@
       "codepoint": 63316,
       "fontFamily": "Ph",
       "identifier": "numberSquareFourDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-four-fill": {
       "codepoint": 63317,
@@ -30919,7 +31219,8 @@
       "codepoint": 63322,
       "fontFamily": "Ph",
       "identifier": "numberSquareNineDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-nine-fill": {
       "codepoint": 63323,
@@ -30950,7 +31251,8 @@
       "codepoint": 63328,
       "fontFamily": "Ph",
       "identifier": "numberSquareOneDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-one-fill": {
       "codepoint": 63329,
@@ -30981,7 +31283,8 @@
       "codepoint": 63334,
       "fontFamily": "Ph",
       "identifier": "numberSquareSevenDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-seven-fill": {
       "codepoint": 63335,
@@ -31012,7 +31315,8 @@
       "codepoint": 63340,
       "fontFamily": "Ph",
       "identifier": "numberSquareSixDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-six-fill": {
       "codepoint": 63341,
@@ -31043,7 +31347,8 @@
       "codepoint": 983042,
       "fontFamily": "Ph",
       "identifier": "numberSquareThreeDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-three-fill": {
       "codepoint": 983043,
@@ -31074,7 +31379,8 @@
       "codepoint": 983048,
       "fontFamily": "Ph",
       "identifier": "numberSquareTwoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-two-fill": {
       "codepoint": 983049,
@@ -31105,7 +31411,8 @@
       "codepoint": 983054,
       "fontFamily": "Ph",
       "identifier": "numberSquareZeroDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-square-zero-fill": {
       "codepoint": 983055,
@@ -31136,7 +31443,8 @@
       "codepoint": 983060,
       "fontFamily": "Ph",
       "identifier": "numberThreeDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-three-fill": {
       "codepoint": 983061,
@@ -31167,7 +31475,8 @@
       "codepoint": 983066,
       "fontFamily": "Ph",
       "identifier": "numberTwoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-two-fill": {
       "codepoint": 983067,
@@ -31198,7 +31507,8 @@
       "codepoint": 983072,
       "fontFamily": "Ph",
       "identifier": "numberZeroDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "number-zero-fill": {
       "codepoint": 983073,
@@ -31503,7 +31813,8 @@
       "codepoint": 983131,
       "fontFamily": "Ph",
       "identifier": "orangeSliceDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "orange-slice-fill": {
       "codepoint": 983132,
@@ -32231,7 +32542,8 @@
       "codepoint": 983272,
       "fontFamily": "Ph",
       "identifier": "pauseCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pause-circle-fill": {
       "codepoint": 983273,
@@ -32345,7 +32657,8 @@
       "codepoint": 983294,
       "fontFamily": "Ph",
       "identifier": "peaceDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "peace-fill": {
       "codepoint": 983295,
@@ -32363,14 +32676,16 @@
       "identifier": "peaceThin"
     },
     "pedestrian": {
-      "codepoint": 983298,
+      "codepoint": 983394,
       "fontFamily": "Ph",
-      "identifier": "pedestrian"
+      "identifier": "pedestrian",
+      "aliasOf": "person"
     },
     "pedestrian-bold": {
-      "codepoint": 983299,
+      "codepoint": 983401,
       "fontFamily": "Ph",
-      "identifier": "pedestrianBold"
+      "identifier": "pedestrianBold",
+      "aliasOf": "person-bold"
     },
     "pedestrian-duotone": {
       "codepoint": 983300,
@@ -32379,19 +32694,22 @@
       "duotone": true
     },
     "pedestrian-fill": {
-      "codepoint": 983301,
+      "codepoint": 983403,
       "fontFamily": "Ph",
-      "identifier": "pedestrianFill"
+      "identifier": "pedestrianFill",
+      "aliasOf": "person-fill"
     },
     "pedestrian-light": {
-      "codepoint": 983302,
+      "codepoint": 983404,
       "fontFamily": "Ph",
-      "identifier": "pedestrianLight"
+      "identifier": "pedestrianLight",
+      "aliasOf": "person-light"
     },
     "pedestrian-thin": {
-      "codepoint": 983303,
+      "codepoint": 983471,
       "fontFamily": "Ph",
-      "identifier": "pedestrianThin"
+      "identifier": "pedestrianThin",
+      "aliasOf": "person-thin"
     },
     "pen": {
       "codepoint": 983304,
@@ -32531,7 +32849,8 @@
       "codepoint": 983330,
       "fontFamily": "Ph",
       "identifier": "pencilDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pencil-fill": {
       "codepoint": 983331,
@@ -32557,7 +32876,8 @@
       "codepoint": 983335,
       "fontFamily": "Ph",
       "identifier": "pencilLineDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pencil-line-fill": {
       "codepoint": 983336,
@@ -32619,7 +32939,8 @@
       "codepoint": 983347,
       "fontFamily": "Ph",
       "identifier": "pencilSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pencil-simple-fill": {
       "codepoint": 983348,
@@ -32645,7 +32966,8 @@
       "codepoint": 983352,
       "fontFamily": "Ph",
       "identifier": "pencilSimpleLineDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pencil-simple-line-fill": {
       "codepoint": 983353,
@@ -32676,7 +32998,8 @@
       "codepoint": 983358,
       "fontFamily": "Ph",
       "identifier": "pencilSimpleSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pencil-simple-slash-fill": {
       "codepoint": 983359,
@@ -32712,7 +33035,8 @@
       "codepoint": 983365,
       "fontFamily": "Ph",
       "identifier": "pencilSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pencil-slash-fill": {
       "codepoint": 983366,
@@ -32970,7 +33294,8 @@
       "codepoint": 983415,
       "fontFamily": "Ph",
       "identifier": "personSimpleCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "person-simple-circle-fill": {
       "codepoint": 983416,
@@ -33172,7 +33497,8 @@
       "codepoint": 983454,
       "fontFamily": "Ph",
       "identifier": "personSimpleTaiChiDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "person-simple-tai-chi-fill": {
       "codepoint": 983455,
@@ -33208,7 +33534,8 @@
       "codepoint": 983461,
       "fontFamily": "Ph",
       "identifier": "personSimpleThrowDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "person-simple-throw-fill": {
       "codepoint": 983462,
@@ -33389,7 +33716,8 @@
       "codepoint": 983496,
       "fontFamily": "Ph",
       "identifier": "phoneIncomingDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "phone-incoming-fill": {
       "codepoint": 983497,
@@ -33425,7 +33753,8 @@
       "codepoint": 983503,
       "fontFamily": "Ph",
       "identifier": "phoneListDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "phone-list-fill": {
       "codepoint": 983504,
@@ -33456,7 +33785,8 @@
       "codepoint": 983509,
       "fontFamily": "Ph",
       "identifier": "phoneOutgoingDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "phone-outgoing-fill": {
       "codepoint": 983510,
@@ -33487,7 +33817,8 @@
       "codepoint": 983515,
       "fontFamily": "Ph",
       "identifier": "phonePauseDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "phone-pause-fill": {
       "codepoint": 983516,
@@ -33518,7 +33849,8 @@
       "codepoint": 983521,
       "fontFamily": "Ph",
       "identifier": "phonePlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "phone-plus-fill": {
       "codepoint": 983522,
@@ -33585,7 +33917,8 @@
       "codepoint": 983534,
       "fontFamily": "Ph",
       "identifier": "phoneTransferDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "phone-transfer-fill": {
       "codepoint": 983535,
@@ -33616,7 +33949,8 @@
       "codepoint": 983540,
       "fontFamily": "Ph",
       "identifier": "phoneXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "phone-x-fill": {
       "codepoint": 983541,
@@ -34050,7 +34384,8 @@
       "codepoint": 983624,
       "fontFamily": "Ph",
       "identifier": "pixLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pix-logo-fill": {
       "codepoint": 983625,
@@ -34112,7 +34447,8 @@
       "codepoint": 983636,
       "fontFamily": "Ph",
       "identifier": "placeholderDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "placeholder-fill": {
       "codepoint": 983637,
@@ -34143,7 +34479,8 @@
       "codepoint": 983642,
       "fontFamily": "Ph",
       "identifier": "planetDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "planet-fill": {
       "codepoint": 983643,
@@ -34463,7 +34800,8 @@
       "codepoint": 983704,
       "fontFamily": "Ph",
       "identifier": "plusCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "plus-circle-fill": {
       "codepoint": 983705,
@@ -34484,7 +34822,8 @@
       "codepoint": 983708,
       "fontFamily": "Ph",
       "identifier": "plusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "plus-fill": {
       "codepoint": 983709,
@@ -34510,7 +34849,8 @@
       "codepoint": 983713,
       "fontFamily": "Ph",
       "identifier": "plusMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "plus-minus-fill": {
       "codepoint": 983714,
@@ -34541,7 +34881,8 @@
       "codepoint": 983719,
       "fontFamily": "Ph",
       "identifier": "plusSquareDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "plus-square-fill": {
       "codepoint": 983720,
@@ -34763,7 +35104,8 @@
       "codepoint": 983762,
       "fontFamily": "Ph",
       "identifier": "powerDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "power-fill": {
       "codepoint": 983763,
@@ -34856,7 +35198,8 @@
       "codepoint": 983780,
       "fontFamily": "Ph",
       "identifier": "presentationDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "presentation-fill": {
       "codepoint": 983781,
@@ -34918,7 +35261,8 @@
       "codepoint": 983792,
       "fontFamily": "Ph",
       "identifier": "prohibitDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "prohibit-fill": {
       "codepoint": 983793,
@@ -34939,7 +35283,8 @@
       "codepoint": 983796,
       "fontFamily": "Ph",
       "identifier": "prohibitInsetDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "prohibit-inset-fill": {
       "codepoint": 983797,
@@ -35011,7 +35356,8 @@
       "codepoint": 983810,
       "fontFamily": "Ph",
       "identifier": "projectorScreenDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "projector-screen-fill": {
       "codepoint": 983811,
@@ -35161,7 +35507,8 @@
       "codepoint": 983839,
       "fontFamily": "Ph",
       "identifier": "pushPinSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "push-pin-slash-fill": {
       "codepoint": 983840,
@@ -35259,7 +35606,8 @@
       "codepoint": 983858,
       "fontFamily": "Ph",
       "identifier": "questionDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "question-fill": {
       "codepoint": 983859,
@@ -35285,7 +35633,8 @@
       "codepoint": 983863,
       "fontFamily": "Ph",
       "identifier": "questionMarkDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "question-mark-fill": {
       "codepoint": 983864,
@@ -35486,7 +35835,8 @@
       "codepoint": 983902,
       "fontFamily": "Ph",
       "identifier": "radioButtonDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "radio-button-fill": {
       "codepoint": 983903,
@@ -35724,7 +36074,8 @@
       "codepoint": 983948,
       "fontFamily": "Ph",
       "identifier": "receiptXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "receipt-x-fill": {
       "codepoint": 983949,
@@ -35796,7 +36147,8 @@
       "codepoint": 983962,
       "fontFamily": "Ph",
       "identifier": "rectangleDashedDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "rectangle-dashed-fill": {
       "codepoint": 983963,
@@ -35817,7 +36169,8 @@
       "codepoint": 983966,
       "fontFamily": "Ph",
       "identifier": "rectangleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "rectangle-fill": {
       "codepoint": 983967,
@@ -35835,9 +36188,10 @@
       "identifier": "rectangleThin"
     },
     "rectangles-two": {
-      "codepoint": 983970,
+      "codepoint": 984048,
       "fontFamily": "Ph",
-      "identifier": "rectanglesTwo"
+      "identifier": "rectanglesTwo",
+      "aliasOf": "rows"
     },
     "rectangles-two-bold": {
       "codepoint": 983971,
@@ -35845,25 +36199,30 @@
       "identifier": "rectanglesTwoBold"
     },
     "rectangles-two-duotone": {
-      "codepoint": 983972,
+      "codepoint": 984050,
       "fontFamily": "Ph",
       "identifier": "rectanglesTwoDuotone",
-      "duotone": true
+      "aliasOf": "rows-duotone",
+      "duotone": false,
+      "secondaryAliased": true
     },
     "rectangles-two-fill": {
-      "codepoint": 983973,
+      "codepoint": 984051,
       "fontFamily": "Ph",
-      "identifier": "rectanglesTwoFill"
+      "identifier": "rectanglesTwoFill",
+      "aliasOf": "rows-fill"
     },
     "rectangles-two-light": {
-      "codepoint": 983974,
+      "codepoint": 984052,
       "fontFamily": "Ph",
-      "identifier": "rectanglesTwoLight"
+      "identifier": "rectanglesTwoLight",
+      "aliasOf": "rows-light"
     },
     "rectangles-two-thin": {
-      "codepoint": 983975,
+      "codepoint": 984065,
       "fontFamily": "Ph",
-      "identifier": "rectanglesTwoThin"
+      "identifier": "rectanglesTwoThin",
+      "aliasOf": "rows-thin"
     },
     "recycle": {
       "codepoint": 983976,
@@ -35967,7 +36326,8 @@
       "codepoint": 983995,
       "fontFamily": "Ph",
       "identifier": "repeatOnceDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "repeat-once-fill": {
       "codepoint": 983996,
@@ -36556,7 +36916,8 @@
       "codepoint": 984109,
       "fontFamily": "Ph",
       "identifier": "scanSmileyDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "scan-smiley-fill": {
       "codepoint": 984110,
@@ -36716,7 +37077,8 @@
       "codepoint": 984140,
       "fontFamily": "Ph",
       "identifier": "scribbleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "scribble-fill": {
       "codepoint": 984141,
@@ -36933,7 +37295,8 @@
       "codepoint": 984182,
       "fontFamily": "Ph",
       "identifier": "sealWarningDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "seal-warning-fill": {
       "codepoint": 984183,
@@ -37062,7 +37425,8 @@
       "codepoint": 984207,
       "fontFamily": "Ph",
       "identifier": "selectionAllDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "selection-all-fill": {
       "codepoint": 984208,
@@ -37119,7 +37483,8 @@
       "codepoint": 984218,
       "fontFamily": "Ph",
       "identifier": "selectionDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "selection-fill": {
       "codepoint": 984219,
@@ -37207,7 +37572,8 @@
       "codepoint": 984235,
       "fontFamily": "Ph",
       "identifier": "selectionPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "selection-plus-fill": {
       "codepoint": 984236,
@@ -37238,7 +37604,8 @@
       "codepoint": 984241,
       "fontFamily": "Ph",
       "identifier": "selectionSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "selection-slash-fill": {
       "codepoint": 984242,
@@ -37305,7 +37672,8 @@
       "codepoint": 984254,
       "fontFamily": "Ph",
       "identifier": "shareDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "share-fat": {
       "codepoint": 984255,
@@ -37491,7 +37859,8 @@
       "codepoint": 984290,
       "fontFamily": "Ph",
       "identifier": "shieldDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "shield-fill": {
       "codepoint": 984291,
@@ -37517,7 +37886,8 @@
       "codepoint": 984295,
       "fontFamily": "Ph",
       "identifier": "shieldPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "shield-plus-fill": {
       "codepoint": 984296,
@@ -37548,7 +37918,8 @@
       "codepoint": 984301,
       "fontFamily": "Ph",
       "identifier": "shieldSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "shield-slash-fill": {
       "codepoint": 984302,
@@ -37579,7 +37950,8 @@
       "codepoint": 984307,
       "fontFamily": "Ph",
       "identifier": "shieldStarDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "shield-star-fill": {
       "codepoint": 984308,
@@ -37615,7 +37987,8 @@
       "codepoint": 984314,
       "fontFamily": "Ph",
       "identifier": "shieldWarningDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "shield-warning-fill": {
       "codepoint": 984315,
@@ -37739,7 +38112,8 @@
       "codepoint": 984338,
       "fontFamily": "Ph",
       "identifier": "shoppingBagDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "shopping-bag-fill": {
       "codepoint": 984339,
@@ -38075,7 +38449,8 @@
       "codepoint": 984403,
       "fontFamily": "Ph",
       "identifier": "sidebarSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "sidebar-simple-fill": {
       "codepoint": 984404,
@@ -38674,7 +39049,8 @@
       "codepoint": 984519,
       "fontFamily": "Ph",
       "identifier": "smileyAngryDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "smiley-angry-fill": {
       "codepoint": 984520,
@@ -38705,7 +39081,8 @@
       "codepoint": 984525,
       "fontFamily": "Ph",
       "identifier": "smileyBlankDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "smiley-blank-fill": {
       "codepoint": 984526,
@@ -38731,7 +39108,8 @@
       "codepoint": 984530,
       "fontFamily": "Ph",
       "identifier": "smileyDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "smiley-fill": {
       "codepoint": 984531,
@@ -38757,7 +39135,8 @@
       "codepoint": 984535,
       "fontFamily": "Ph",
       "identifier": "smileyMehDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "smiley-meh-fill": {
       "codepoint": 984536,
@@ -38819,7 +39198,8 @@
       "codepoint": 984547,
       "fontFamily": "Ph",
       "identifier": "smileyNervousDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "smiley-nervous-fill": {
       "codepoint": 984548,
@@ -38850,7 +39230,8 @@
       "codepoint": 984553,
       "fontFamily": "Ph",
       "identifier": "smileySadDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "smiley-sad-fill": {
       "codepoint": 984554,
@@ -38917,7 +39298,8 @@
       "codepoint": 984566,
       "fontFamily": "Ph",
       "identifier": "smileyWinkDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "smiley-wink-fill": {
       "codepoint": 984567,
@@ -38948,7 +39330,8 @@
       "codepoint": 984572,
       "fontFamily": "Ph",
       "identifier": "smileyXEyesDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "smiley-x-eyes-fill": {
       "codepoint": 984573,
@@ -39444,7 +39827,8 @@
       "codepoint": 984668,
       "fontFamily": "Ph",
       "identifier": "speakerLowDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "speaker-low-fill": {
       "codepoint": 984669,
@@ -39475,7 +39859,8 @@
       "codepoint": 984674,
       "fontFamily": "Ph",
       "identifier": "speakerNoneDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "speaker-none-fill": {
       "codepoint": 984675,
@@ -39537,7 +39922,8 @@
       "codepoint": 984686,
       "fontFamily": "Ph",
       "identifier": "speakerSimpleLowDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "speaker-simple-low-fill": {
       "codepoint": 984687,
@@ -39568,7 +39954,8 @@
       "codepoint": 984692,
       "fontFamily": "Ph",
       "identifier": "speakerSimpleNoneDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "speaker-simple-none-fill": {
       "codepoint": 984693,
@@ -39599,7 +39986,8 @@
       "codepoint": 984698,
       "fontFamily": "Ph",
       "identifier": "speakerSimpleSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "speaker-simple-slash-fill": {
       "codepoint": 984699,
@@ -39630,7 +40018,8 @@
       "codepoint": 984704,
       "fontFamily": "Ph",
       "identifier": "speakerSimpleXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "speaker-simple-x-fill": {
       "codepoint": 984705,
@@ -39661,7 +40050,8 @@
       "codepoint": 984710,
       "fontFamily": "Ph",
       "identifier": "speakerSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "speaker-slash-fill": {
       "codepoint": 984711,
@@ -39692,7 +40082,8 @@
       "codepoint": 984716,
       "fontFamily": "Ph",
       "identifier": "speakerXDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "speaker-x-fill": {
       "codepoint": 984717,
@@ -39754,7 +40145,8 @@
       "codepoint": 984728,
       "fontFamily": "Ph",
       "identifier": "sphereDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "sphere-fill": {
       "codepoint": 984729,
@@ -39816,7 +40208,8 @@
       "codepoint": 984740,
       "fontFamily": "Ph",
       "identifier": "spinnerDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "spinner-fill": {
       "codepoint": 984741,
@@ -39837,7 +40230,8 @@
       "codepoint": 984744,
       "fontFamily": "Ph",
       "identifier": "spinnerGapDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "spinner-gap-fill": {
       "codepoint": 984745,
@@ -39971,7 +40365,8 @@
       "codepoint": 984770,
       "fontFamily": "Ph",
       "identifier": "spotifyLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "spotify-logo-fill": {
       "codepoint": 984771,
@@ -40033,7 +40428,8 @@
       "codepoint": 984782,
       "fontFamily": "Ph",
       "identifier": "squareDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "square-fill": {
       "codepoint": 984783,
@@ -40064,7 +40460,8 @@
       "codepoint": 984788,
       "fontFamily": "Ph",
       "identifier": "squareHalfBottomDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "square-half-bottom-fill": {
       "codepoint": 984789,
@@ -40121,7 +40518,8 @@
       "codepoint": 984799,
       "fontFamily": "Ph",
       "identifier": "squareLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "square-logo-fill": {
       "codepoint": 984800,
@@ -40152,7 +40550,8 @@
       "codepoint": 984805,
       "fontFamily": "Ph",
       "identifier": "squareSplitHorizontalDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "square-split-horizontal-fill": {
       "codepoint": 984806,
@@ -40183,7 +40582,8 @@
       "codepoint": 984811,
       "fontFamily": "Ph",
       "identifier": "squareSplitVerticalDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "square-split-vertical-fill": {
       "codepoint": 984812,
@@ -40276,7 +40676,8 @@
       "codepoint": 984829,
       "fontFamily": "Ph",
       "identifier": "stackMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "stack-minus-fill": {
       "codepoint": 984830,
@@ -40338,7 +40739,8 @@
       "codepoint": 984841,
       "fontFamily": "Ph",
       "identifier": "stackPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "stack-plus-fill": {
       "codepoint": 984842,
@@ -40467,7 +40869,8 @@
       "codepoint": 984866,
       "fontFamily": "Ph",
       "identifier": "standardDefinitionDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "standard-definition-fill": {
       "codepoint": 984867,
@@ -40870,7 +41273,8 @@
       "codepoint": 984944,
       "fontFamily": "Ph",
       "identifier": "stopDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "stop-fill": {
       "codepoint": 984945,
@@ -40963,7 +41367,8 @@
       "codepoint": 984962,
       "fontFamily": "Ph",
       "identifier": "stripeLogoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "stripe-logo-fill": {
       "codepoint": 984963,
@@ -41056,7 +41461,8 @@
       "codepoint": 984980,
       "fontFamily": "Ph",
       "identifier": "subsetProperOfDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "subset-proper-of-fill": {
       "codepoint": 984981,
@@ -41087,7 +41493,8 @@
       "codepoint": 984986,
       "fontFamily": "Ph",
       "identifier": "subtitlesDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "subtitles-fill": {
       "codepoint": 984987,
@@ -41113,7 +41520,8 @@
       "codepoint": 984991,
       "fontFamily": "Ph",
       "identifier": "subtitlesSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "subtitles-slash-fill": {
       "codepoint": 984992,
@@ -41345,7 +41753,8 @@
       "codepoint": 985036,
       "fontFamily": "Ph",
       "identifier": "sunDimDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "sun-dim-fill": {
       "codepoint": 985037,
@@ -41366,7 +41775,8 @@
       "codepoint": 985040,
       "fontFamily": "Ph",
       "identifier": "sunDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "sun-fill": {
       "codepoint": 985041,
@@ -41459,7 +41869,8 @@
       "codepoint": 985058,
       "fontFamily": "Ph",
       "identifier": "supersetOfDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "superset-of-fill": {
       "codepoint": 985059,
@@ -41893,7 +42304,8 @@
       "codepoint": 985142,
       "fontFamily": "Ph",
       "identifier": "targetDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "target-fill": {
       "codepoint": 985143,
@@ -41924,7 +42336,8 @@
       "codepoint": 985148,
       "fontFamily": "Ph",
       "identifier": "taxiDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "taxi-fill": {
       "codepoint": 985149,
@@ -42043,7 +42456,8 @@
       "codepoint": 985171,
       "fontFamily": "Ph",
       "identifier": "televisionSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "television-simple-fill": {
       "codepoint": 985172,
@@ -42172,7 +42586,8 @@
       "codepoint": 985196,
       "fontFamily": "Ph",
       "identifier": "terminalWindowDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "terminal-window-fill": {
       "codepoint": 985197,
@@ -42221,9 +42636,10 @@
       "identifier": "testTubeThin"
     },
     "text": {
-      "codepoint": 985206,
+      "codepoint": 985343,
       "fontFamily": "Ph",
-      "identifier": "text"
+      "identifier": "text",
+      "aliasOf": "text-t"
     },
     "text-a-underline": {
       "codepoint": 985207,
@@ -42443,9 +42859,10 @@
       "identifier": "textBThin"
     },
     "text-bold": {
-      "codepoint": 985249,
+      "codepoint": 985344,
       "fontFamily": "Ph",
-      "identifier": "textBold"
+      "identifier": "textBold",
+      "aliasOf": "text-t-bold"
     },
     "text-bolder": {
       "codepoint": 985250,
@@ -42458,14 +42875,16 @@
       "identifier": "textBolderBold"
     },
     "text-bolder-duotone": {
-      "codepoint": 985252,
+      "codepoint": 985250,
       "fontFamily": "Ph",
-      "identifier": "textBolderDuotone"
+      "identifier": "textBolderDuotone",
+      "aliasOf": "text-bolder"
     },
     "text-bolder-fill": {
-      "codepoint": 985253,
+      "codepoint": 985250,
       "fontFamily": "Ph",
-      "identifier": "textBolderFill"
+      "identifier": "textBolderFill",
+      "aliasOf": "text-bolder"
     },
     "text-bolder-light": {
       "codepoint": 985254,
@@ -42491,7 +42910,8 @@
       "codepoint": 985258,
       "fontFamily": "Ph",
       "identifier": "textColumnsDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "text-columns-fill": {
       "codepoint": 985259,
@@ -42509,14 +42929,16 @@
       "identifier": "textColumnsThin"
     },
     "text-duotone": {
-      "codepoint": 985262,
+      "codepoint": 985343,
       "fontFamily": "Ph",
-      "identifier": "textDuotone"
+      "identifier": "textDuotone",
+      "aliasOf": "text-t"
     },
     "text-fill": {
-      "codepoint": 985263,
+      "codepoint": 985343,
       "fontFamily": "Ph",
-      "identifier": "textFill"
+      "identifier": "textFill",
+      "aliasOf": "text-t"
     },
     "text-h": {
       "codepoint": 985264,
@@ -42651,7 +43073,8 @@
       "codepoint": 985289,
       "fontFamily": "Ph",
       "identifier": "textHSixDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "text-h-six-fill": {
       "codepoint": 985290,
@@ -42687,7 +43110,8 @@
       "codepoint": 985296,
       "fontFamily": "Ph",
       "identifier": "textHThreeDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "text-h-three-fill": {
       "codepoint": 985297,
@@ -42749,7 +43173,8 @@
       "codepoint": 985308,
       "fontFamily": "Ph",
       "identifier": "textIndentDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "text-indent-fill": {
       "codepoint": 985309,
@@ -42798,9 +43223,10 @@
       "identifier": "textItalicThin"
     },
     "text-light": {
-      "codepoint": 985318,
+      "codepoint": 985347,
       "fontFamily": "Ph",
-      "identifier": "textLight"
+      "identifier": "textLight",
+      "aliasOf": "text-t-light"
     },
     "text-outdent": {
       "codepoint": 985319,
@@ -42878,7 +43304,8 @@
       "codepoint": 985333,
       "fontFamily": "Ph",
       "identifier": "textSubscriptDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "text-subscript-fill": {
       "codepoint": 985334,
@@ -42989,9 +43416,10 @@
       "identifier": "textTThin"
     },
     "text-thin": {
-      "codepoint": 985355,
+      "codepoint": 985354,
       "fontFamily": "Ph",
-      "identifier": "textThin"
+      "identifier": "textThin",
+      "aliasOf": "text-t-thin"
     },
     "text-underline": {
       "codepoint": 985356,
@@ -43100,7 +43528,8 @@
       "codepoint": 985376,
       "fontFamily": "Ph",
       "identifier": "thermometerDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "thermometer-fill": {
       "codepoint": 985377,
@@ -43121,7 +43550,8 @@
       "codepoint": 985380,
       "fontFamily": "Ph",
       "identifier": "thermometerHotDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "thermometer-hot-fill": {
       "codepoint": 985381,
@@ -43224,7 +43654,8 @@
       "codepoint": 985400,
       "fontFamily": "Ph",
       "identifier": "threeDDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "three-d-fill": {
       "codepoint": 985401,
@@ -43410,7 +43841,8 @@
       "codepoint": 985436,
       "fontFamily": "Ph",
       "identifier": "tildeDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "tilde-fill": {
       "codepoint": 985437,
@@ -43441,7 +43873,8 @@
       "codepoint": 985442,
       "fontFamily": "Ph",
       "identifier": "timerDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "timer-fill": {
       "codepoint": 985443,
@@ -43472,7 +43905,8 @@
       "codepoint": 985448,
       "fontFamily": "Ph",
       "identifier": "tipJarDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "tip-jar-fill": {
       "codepoint": 985449,
@@ -43751,7 +44185,8 @@
       "codepoint": 985502,
       "fontFamily": "Ph",
       "identifier": "tornadoDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "tornado-fill": {
       "codepoint": 985503,
@@ -43808,7 +44243,8 @@
       "codepoint": 985513,
       "fontFamily": "Ph",
       "identifier": "toteSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "tote-simple-fill": {
       "codepoint": 985514,
@@ -43906,7 +44342,8 @@
       "codepoint": 985532,
       "fontFamily": "Ph",
       "identifier": "trademarkDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "trademark-fill": {
       "codepoint": 985533,
@@ -43932,7 +44369,8 @@
       "codepoint": 985537,
       "fontFamily": "Ph",
       "identifier": "trademarkRegisteredDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "trademark-registered-fill": {
       "codepoint": 985538,
@@ -44242,7 +44680,8 @@
       "codepoint": 985597,
       "fontFamily": "Ph",
       "identifier": "trashSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "trash-simple-fill": {
       "codepoint": 985598,
@@ -44314,7 +44753,8 @@
       "codepoint": 985611,
       "fontFamily": "Ph",
       "identifier": "trayArrowUpDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "tray-arrow-up-fill": {
       "codepoint": 985612,
@@ -44340,7 +44780,8 @@
       "codepoint": 985616,
       "fontFamily": "Ph",
       "identifier": "trayDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "tray-fill": {
       "codepoint": 985617,
@@ -44650,7 +45091,8 @@
       "codepoint": 985676,
       "fontFamily": "Ph",
       "identifier": "triangleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "triangle-fill": {
       "codepoint": 985677,
@@ -45084,7 +45526,8 @@
       "codepoint": 985760,
       "fontFamily": "Ph",
       "identifier": "uploadDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "upload-fill": {
       "codepoint": 985761,
@@ -45110,7 +45553,8 @@
       "codepoint": 985765,
       "fontFamily": "Ph",
       "identifier": "uploadSimpleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "upload-simple-fill": {
       "codepoint": 985766,
@@ -45259,7 +45703,8 @@
       "codepoint": 985794,
       "fontFamily": "Ph",
       "identifier": "userCircleDashedDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "user-circle-dashed-fill": {
       "codepoint": 985795,
@@ -45280,7 +45725,8 @@
       "codepoint": 985798,
       "fontFamily": "Ph",
       "identifier": "userCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "user-circle-fill": {
       "codepoint": 985799,
@@ -45337,7 +45783,8 @@
       "codepoint": 985809,
       "fontFamily": "Ph",
       "identifier": "userCircleMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "user-circle-minus-fill": {
       "codepoint": 985810,
@@ -45368,7 +45815,8 @@
       "codepoint": 985815,
       "fontFamily": "Ph",
       "identifier": "userCirclePlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "user-circle-plus-fill": {
       "codepoint": 985816,
@@ -45446,7 +45894,8 @@
       "codepoint": 985830,
       "fontFamily": "Ph",
       "identifier": "userGearDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "user-gear-fill": {
       "codepoint": 985831,
@@ -45513,7 +45962,8 @@
       "codepoint": 985843,
       "fontFamily": "Ph",
       "identifier": "userMinusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "user-minus-fill": {
       "codepoint": 985844,
@@ -45544,7 +45994,8 @@
       "codepoint": 985849,
       "fontFamily": "Ph",
       "identifier": "userPlusDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "user-plus-fill": {
       "codepoint": 985850,
@@ -45668,7 +46119,8 @@
       "codepoint": 985873,
       "fontFamily": "Ph",
       "identifier": "userSwitchDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "user-switch-fill": {
       "codepoint": 985874,
@@ -45988,7 +46440,8 @@
       "codepoint": 985935,
       "fontFamily": "Ph",
       "identifier": "videoCameraSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "video-camera-slash-fill": {
       "codepoint": 985936,
@@ -46396,7 +46849,8 @@
       "codepoint": 986014,
       "fontFamily": "Ph",
       "identifier": "warningCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "warning-circle-fill": {
       "codepoint": 986015,
@@ -46427,7 +46881,8 @@
       "codepoint": 986020,
       "fontFamily": "Ph",
       "identifier": "warningDiamondDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "warning-diamond-fill": {
       "codepoint": 986021,
@@ -46448,7 +46903,8 @@
       "codepoint": 986024,
       "fontFamily": "Ph",
       "identifier": "warningDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "warning-fill": {
       "codepoint": 986025,
@@ -46474,7 +46930,8 @@
       "codepoint": 986029,
       "fontFamily": "Ph",
       "identifier": "warningOctagonDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "warning-octagon-fill": {
       "codepoint": 986030,
@@ -46510,7 +46967,8 @@
       "codepoint": 986036,
       "fontFamily": "Ph",
       "identifier": "washingMachineDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "washing-machine-fill": {
       "codepoint": 986037,
@@ -46541,7 +46999,8 @@
       "codepoint": 986042,
       "fontFamily": "Ph",
       "identifier": "watchDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "watch-fill": {
       "codepoint": 986043,
@@ -46722,7 +47181,8 @@
       "codepoint": 986077,
       "fontFamily": "Ph",
       "identifier": "waveformSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "waveform-slash-fill": {
       "codepoint": 986078,
@@ -46815,7 +47275,8 @@
       "codepoint": 986095,
       "fontFamily": "Ph",
       "identifier": "webcamSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "webcam-slash-fill": {
       "codepoint": 986096,
@@ -47129,7 +47590,8 @@
       "codepoint": 986156,
       "fontFamily": "Ph",
       "identifier": "wifiSlashDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "wifi-slash-fill": {
       "codepoint": 986157,
@@ -47356,7 +47818,8 @@
       "codepoint": 986200,
       "fontFamily": "Ph",
       "identifier": "xCircleDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "x-circle-fill": {
       "codepoint": 986201,
@@ -47377,7 +47840,8 @@
       "codepoint": 986204,
       "fontFamily": "Ph",
       "identifier": "xDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "x-fill": {
       "codepoint": 986205,
@@ -47434,7 +47898,8 @@
       "codepoint": 986215,
       "fontFamily": "Ph",
       "identifier": "xSquareDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "x-square-fill": {
       "codepoint": 986216,
@@ -47470,7 +47935,8 @@
       "codepoint": 986222,
       "fontFamily": "Ph",
       "identifier": "yarnDuotone",
-      "duotone": true
+      "duotone": false,
+      "secondaryAliased": true
     },
     "yarn-fill": {
       "codepoint": 986223,

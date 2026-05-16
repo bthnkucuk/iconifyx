@@ -51,9 +51,16 @@ export interface IconifyJson {
   info: IconifyInfo;
   icons: Record<string, IconifyIconBody>;
   aliases?: Record<string, IconifyAlias>;
+  /**
+   * Optional pack-level category map: `categoryName → iconName[]`.
+   * Present for ~75 of ~225 sets (MDI, lucide, tabler, fluent, etc.).
+   * Used to populate the per-icon `categories` field in the manifest
+   * (RESEARCH_PLAN §22 Rec 2) and drive `lib/categories.dart` codegen.
+   */
+  categories?: Record<string, string[]>;
   width?: number;
   height?: number;
-  // suffixes / themes / chars / categories left unused
+  // suffixes / themes / chars left unused
   lastModified?: number;
 }
 
@@ -131,6 +138,17 @@ export interface ResolvedIcon {
   rotate?: number;
   hFlip?: boolean;
   vFlip?: boolean;
+  /**
+   * For alias entries (`set.aliases[name]`): the canonical icon name this
+   * is an alias of. Set during `resolveIcons` and propagated into the
+   * manifest's `ManifestIconEntry.aliasOf`. Used by the codepoint
+   * allocator (RESEARCH_PLAN §22 Rec 1) to assign the SAME codepoint as
+   * the canonical, so aliases occupy zero font space and ship via a
+   * separate `lib/aliases.dart` import.
+   *
+   * `undefined` for canonical icons.
+   */
+  aliasOf?: string;
 }
 
 const DEFAULT_VIEW = 16;
@@ -157,6 +175,21 @@ export function resolveIcons(set: IconifyJson): ResolvedIcon[] {
     for (const [aliasName, alias] of Object.entries(set.aliases)) {
       const parent = set.icons[alias.parent];
       if (!parent) continue; // orphan alias — skip silently
+      // Aliases that carry transforms (flip / rotate / per-alias viewBox)
+      // can NOT share the canonical's codepoint — they're a different
+      // rendered glyph. Those flow through the pipeline as standalone
+      // icons (no `aliasOf` set, fresh codepoint allocated). Pure
+      // renames (no extra fields) get `aliasOf` set so codegen can
+      // re-route them through `lib/aliases.dart` instead of bloating
+      // the main `<Prefix>Icons` class.
+      const carriesTransform =
+        alias.hFlip !== undefined ||
+        alias.vFlip !== undefined ||
+        alias.rotate !== undefined ||
+        alias.width !== undefined ||
+        alias.height !== undefined ||
+        alias.left !== undefined ||
+        alias.top !== undefined;
       out.push({
         name: aliasName,
         body: parent.body,
@@ -165,6 +198,7 @@ export function resolveIcons(set: IconifyJson): ResolvedIcon[] {
         rotate: (parent.rotate ?? 0) + (alias.rotate ?? 0) || undefined,
         hFlip: parent.hFlip !== alias.hFlip ? true : undefined,
         vFlip: parent.vFlip !== alias.vFlip ? true : undefined,
+        aliasOf: carriesTransform ? undefined : alias.parent,
       });
     }
   }

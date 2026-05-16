@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/twbs/icons/blob/main/LICENSE.md"
     },
-    "total": 2082
+    "total": 2082,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

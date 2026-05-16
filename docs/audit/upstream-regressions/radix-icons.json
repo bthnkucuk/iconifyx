@@ -1,0 +1,20 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 344,
+  "liveCountPrevious": 345,
+  "newDeprecations": [
+    {
+      "codepoint": 57668,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "RadixIcons",
+      "iconName": "transparency-grid",
+      "identifier": "transparencyGrid",
+      "prefix": "radix-icons",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "radix-icons",
+  "previousIconifyJsonVersion": "2.2.472"
+}

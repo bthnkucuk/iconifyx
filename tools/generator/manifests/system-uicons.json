@@ -16,7 +16,11 @@
       "spdx": "Unlicense",
       "url": "https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE"
     },
-    "total": 432
+    "total": 432,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

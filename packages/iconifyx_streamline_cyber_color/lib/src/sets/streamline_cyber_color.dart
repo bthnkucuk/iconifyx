@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 500
+/// Icons: 497
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -544,11 +544,6 @@ class StreamlineCyberColorIcons {
   /// `campfire`
   static const IconifyIconData campfire = IconifyIconData.solo(
     IconData(0xe069, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
-  );
-
-  /// `cannabis-leaf`
-  static const IconifyIconData cannabisLeaf = IconifyIconData.solo(
-    IconData(0xe06a, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
   /// `car-4`
@@ -1166,11 +1161,6 @@ class StreamlineCyberColorIcons {
     IconData(0xe0e5, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
-  /// `hammer-3`
-  static const IconifyIconData hammer3 = IconifyIconData.solo(
-    IconData(0xe0e6, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
-  );
-
   /// `hand-hexagon`
   static const IconifyIconData handHexagon = IconifyIconData.solo(
     IconData(0xe0e7, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
@@ -1459,11 +1449,6 @@ class StreamlineCyberColorIcons {
   /// `medicine-capsule-2`
   static const IconifyIconData medicineCapsule2 = IconifyIconData.solo(
     IconData(0xe120, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
-  );
-
-  /// `megaman`
-  static const IconifyIconData megaman = IconifyIconData.solo(
-    IconData(0xe121, fontFamily: 'StreamlineCyberColor', fontPackage: 'iconifyx_streamline_cyber_color'),
   );
 
   /// `megaphone-1`

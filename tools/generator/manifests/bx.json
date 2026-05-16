@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/box-icons/boxicons/blob/main/LICENSE"
     },
-    "total": 2422
+    "total": 2422,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

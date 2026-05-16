@@ -16,7 +16,11 @@
       "spdx": "CC-BY-SA-4.0",
       "url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
-    "total": 335
+    "total": 335,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

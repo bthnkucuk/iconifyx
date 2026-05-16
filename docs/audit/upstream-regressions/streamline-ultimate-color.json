@@ -1,0 +1,74 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 580,
+  "liveCountPrevious": 587,
+  "newDeprecations": [
+    {
+      "codepoint": 57454,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineUltimateColor",
+      "iconName": "cloud-loading",
+      "identifier": "cloudLoading",
+      "prefix": "streamline-ultimate-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57594,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineUltimateColor",
+      "iconName": "information-circle",
+      "identifier": "informationCircle",
+      "prefix": "streamline-ultimate-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57650,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineUltimateColor",
+      "iconName": "microphone-1",
+      "identifier": "microphone1",
+      "prefix": "streamline-ultimate-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57762,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineUltimateColor",
+      "iconName": "scale-horizontal",
+      "identifier": "scaleHorizontal",
+      "prefix": "streamline-ultimate-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57854,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineUltimateColor",
+      "iconName": "team-chat",
+      "identifier": "teamChat",
+      "prefix": "streamline-ultimate-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57859,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineUltimateColor",
+      "iconName": "text-strike-through-1",
+      "identifier": "textStrikeThrough1",
+      "prefix": "streamline-ultimate-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57860,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineUltimateColor",
+      "iconName": "text-underline",
+      "identifier": "textUnderline",
+      "prefix": "streamline-ultimate-color",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "streamline-ultimate-color",
+  "previousIconifyJsonVersion": "2.2.472"
+}

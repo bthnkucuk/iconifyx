@@ -16,7 +16,11 @@
       "spdx": "CC0-1.0",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "total": 555
+    "total": 555,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

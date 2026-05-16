@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/vmware/clarity-assets/blob/master/LICENSE"
     },
-    "total": 1104
+    "total": 1104,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

@@ -16,7 +16,10 @@
       "spdx": "GPL-2.0-or-later",
       "url": "https://github.com/WordPress/gutenberg/blob/HEAD/LICENSE.md#gnu-general-public-license-version-2"
     },
-    "total": 334
+    "total": 334,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

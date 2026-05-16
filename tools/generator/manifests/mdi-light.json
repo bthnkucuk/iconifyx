@@ -16,7 +16,11 @@
       "spdx": "OFL-1.1",
       "url": "https://github.com/Templarian/MaterialDesignLight/blob/master/LICENSE.md"
     },
-    "total": 304
+    "total": 304,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

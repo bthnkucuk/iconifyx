@@ -1,0 +1,20 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 567,
+  "liveCountPrevious": 568,
+  "newDeprecations": [
+    {
+      "codepoint": 57374,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Codicon",
+      "iconName": "blank",
+      "identifier": "blank",
+      "prefix": "codicon",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "codicon",
+  "previousIconifyJsonVersion": "2.2.472"
+}

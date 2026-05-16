@@ -1,0 +1,38 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 497,
+  "liveCountPrevious": 500,
+  "newDeprecations": [
+    {
+      "codepoint": 57450,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineCyberColor",
+      "iconName": "cannabis-leaf",
+      "identifier": "cannabisLeaf",
+      "prefix": "streamline-cyber-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57574,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineCyberColor",
+      "iconName": "hammer-3",
+      "identifier": "hammer3",
+      "prefix": "streamline-cyber-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57633,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "StreamlineCyberColor",
+      "iconName": "megaman",
+      "identifier": "megaman",
+      "prefix": "streamline-cyber-color",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "streamline-cyber-color",
+  "previousIconifyJsonVersion": "2.2.472"
+}

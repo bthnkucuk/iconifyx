@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Google Cloud
 /// License: Apache 2.0 — https://www.apache.org/licenses/LICENSE-2.0
-/// Icons: 214 (split across 2 fonts)
+/// Icons: 211 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -29,11 +29,6 @@ class GcpIcons {
   /// `advanced-agent-modeling`
   static const IconifyIconData advancedAgentModeling = IconifyIconData.solo(
     IconData(0xe002, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-  );
-
-  /// `advanced-solutions-lab`
-  static const IconifyIconData advancedSolutionsLab = IconifyIconData.solo(
-    IconData(0xe003, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
   /// `agent-assist`
@@ -121,12 +116,6 @@ class GcpIcons {
   /// `assured-workloads`
   static const IconifyIconData assuredWorkloads = IconifyIconData.solo(
     IconData(0xe014, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-  );
-
-  /// `automl` (duo-tone)
-  static const IconifyIconData automl = IconifyIconData.duo(
-    IconData(0xe015, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-    IconData(0xe015, fontFamily: 'GcpSecondary', fontPackage: 'iconifyx_gcp'),
   );
 
   /// `automl-natural-language`
@@ -817,11 +806,6 @@ class GcpIcons {
   /// `migrate-for-compute-engine`
   static const IconifyIconData migrateForComputeEngine = IconifyIconData.solo(
     IconData(0xe099, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
-  );
-
-  /// `my-cloud`
-  static const IconifyIconData myCloud = IconifyIconData.solo(
-    IconData(0xe09a, fontFamily: 'Gcp', fontPackage: 'iconifyx_gcp'),
   );
 
   /// `network-connectivity-center`

@@ -1,4 +1,19 @@
 import type { ResolvedIcon } from './load_iconify.ts';
+import {
+  cloneShallow,
+  deleteAttr,
+  directElementChildren,
+  getAttr,
+  getAttrLower,
+  isPaintableLeaf,
+  makeGroup,
+  onlyElementsOrWhitespace,
+  parseBody,
+  serializeChildren,
+  serializeNode,
+  setAttr,
+} from './dom.ts';
+import { Element, isTag } from 'domhandler';
 
 /**
  * Wrap an Iconify icon body in a full SVG document suitable for feeding to
@@ -252,81 +267,85 @@ export function trySplitTwoColorBody(
   const fills = extractConcreteFills(body);
   if (fills.size !== 2) return null;
 
-  // Optional single outer <g attrs>…</g> wrap; preserve its non-fill attrs.
-  const groupMatch = body.match(/^\s*<g\b([^>]*)>([\s\S]*?)<\/g>\s*$/);
-  let groupAttrs = '';
-  let inner = body;
-  if (groupMatch) {
-    groupAttrs = groupMatch[1]!;
-    inner = groupMatch[2]!;
-  }
-  const inheritedFill = groupAttrs
-    .match(/\bfill\s*=\s*["']([^"']+)["']/)?.[1]
-    ?.toLowerCase();
-  const groupAttrsClean = groupAttrs.replace(
-    /\s+fill\s*=\s*["'][^"']+["']/,
-    ''
-  );
+  // Parse the body via AST. Unlike the previous regex implementation
+  // (which bailed on any non-self-closing sibling or nested group), the
+  // AST walk handles `<g>` wrappers around fills uniformly and naturally
+  // skips structural elements like `<defs>`.
+  const root = parseBody(body);
+  if (!onlyElementsOrWhitespace(root)) return null;
 
-  const ELEMENT_RE =
-    /<(path|circle|ellipse|rect|line|polyline|polygon)\b([^>]*?)\/>/g;
-  const primaryEls: string[] = [];
-  const secondaryEls: string[] = [];
+  // Optional single outer <g attrs>…</g> wrap. Treat its inner content as
+  // the iteration target and re-wrap each output body in the same group
+  // attrs (minus the `fill` attribute, which becomes per-element after
+  // colour normalisation).
+  let walkRoot: Element = root;
+  let hasOuterGroup = false;
+  let outerGroupAttrs: Record<string, string> = {};
+  const topLevelEls = directElementChildren(root);
+  if (topLevelEls.length === 1 && topLevelEls[0]!.name === 'g') {
+    walkRoot = topLevelEls[0]!;
+    hasOuterGroup = true;
+    outerGroupAttrs = { ...walkRoot.attribs };
+  }
+  const inheritedFill = getAttrLower(walkRoot, 'fill');
+  // Clean outer-group attrs: strip the concrete `fill` so the output
+  // group can carry no inherited paint (children carry per-element
+  // `currentColor`).
+  const groupAttrsClean: Record<string, string> = { ...outerGroupAttrs };
+  if (hasOuterGroup) delete groupAttrsClean.fill;
+
+  const primaryEls: Element[] = [];
+  const secondaryEls: Element[] = [];
   let firstColor: string | null = null;
 
-  let m: RegExpExecArray | null;
-  let lastIndex = 0;
-  let consumedAll = true;
-  while ((m = ELEMENT_RE.exec(inner)) !== null) {
-    const gap = inner.slice(lastIndex, m.index);
-    if (gap.trim().length > 0) {
-      consumedAll = false;
-      break;
+  for (const child of directElementChildren(walkRoot)) {
+    if (!isPaintableLeaf(child)) {
+      // The two-colour split refuses non-leaf siblings (nested groups,
+      // <defs>, <mask>, etc.) — those would require recursive paint
+      // resolution which we leave to the rasterize-trace fallback.
+      return null;
     }
-    lastIndex = ELEMENT_RE.lastIndex;
-    const [, tag, attrs] = m;
-    const fillMatch = attrs!.match(/\bfill\s*=\s*["']([^"']+)["']/);
-    const rawFill = (fillMatch?.[1] ?? inheritedFill ?? 'currentcolor')
-      .toLowerCase()
-      .trim();
-    // Anything that's not one of the two concrete colors — `none`,
-    // `transparent`, `currentColor`, `url(...)` — is structurally
-    // ambiguous for splitting; bail.
+    const rawFill = (
+      getAttrLower(child, 'fill') ??
+      inheritedFill ??
+      'currentcolor'
+    ).trim();
     if (
       rawFill === 'none' ||
       rawFill === 'transparent' ||
       rawFill === 'currentcolor' ||
       rawFill.startsWith('url(')
     ) {
-      consumedAll = false;
-      break;
+      // Bail — structurally ambiguous (we can't classify this element
+      // into one of the two colour buckets).
+      return null;
     }
     if (firstColor === null) firstColor = rawFill;
-    const normalizedAttrs = fillMatch
-      ? attrs!.replace(
-          /\s+fill\s*=\s*["'][^"']+["']/,
-          ' fill="currentColor"'
-        )
-      : `${attrs} fill="currentColor"`;
-    const el = `<${tag}${normalizedAttrs}/>`;
-    if (rawFill === firstColor) primaryEls.push(el);
-    else secondaryEls.push(el);
+    // Normalise the element's fill to currentColor (either by replacing
+    // an existing concrete fill, or by adding a new attribute). Match
+    // the regex's behaviour: if the element had no fill attribute,
+    // append a new `fill="currentColor"` at the end of its attribute
+    // list (preserving insertion order of pre-existing attrs).
+    const copy = cloneShallow(child);
+    setAttr(copy, 'fill', 'currentColor');
+    if (rawFill === firstColor) primaryEls.push(copy);
+    else secondaryEls.push(copy);
   }
-  if (inner.slice(lastIndex).trim().length > 0) consumedAll = false;
-  if (
-    !consumedAll ||
-    primaryEls.length === 0 ||
-    secondaryEls.length === 0
-  ) {
+
+  if (primaryEls.length === 0 || secondaryEls.length === 0) {
     return null;
   }
 
-  const wrap = (els: string[]): string => {
+  const wrap = (els: Element[]): string => {
     if (els.length === 0) return '';
-    if (groupAttrsClean.trim().length > 0) {
-      return `<g${groupAttrsClean}>${els.join('')}</g>`;
+    // Determine whether the cleaned outer-group attrs are non-empty
+    // (the regex compared the cleaned string against `.trim().length > 0`;
+    // an empty Record matches that condition trivially).
+    if (hasOuterGroup && Object.keys(groupAttrsClean).length > 0) {
+      const wrapper = makeGroup(groupAttrsClean, els);
+      return serializeNode(wrapper);
     }
-    return els.join('');
+    return els.map((e) => serializeNode(e)).join('');
   };
 
   return { primary: wrap(primaryEls), secondary: wrap(secondaryEls) };
@@ -754,116 +773,238 @@ export function splitDuotoneBody(
 ): { primary: string; secondary: string } {
   if (!isDuotoneBody(body)) return { primary: body, secondary: '' };
 
-  // Optional single outer <g> wrap (common in Phosphor).
-  const groupMatch = body.match(/^\s*<g\b([^>]*)>([\s\S]*?)<\/g>\s*$/);
-  let groupAttrs = '';
-  let inner = body;
-  if (groupMatch) {
-    groupAttrs = groupMatch[1]!;
-    inner = groupMatch[2]!;
-  }
+  // Parse the body into a DOM tree. The synthetic <svg> wrapper from
+  // `parseBody` is just a stable root; its children are the body's
+  // top-level nodes. We use AST-driven iteration instead of the old regex
+  // walk to handle three patterns that the regex silently dropped:
+  //   1. Mixed self-closing + non-self-closing siblings (the regex bailed
+  //      to "whole-body-primary" on any gap).
+  //   2. `<defs>` + `<use>` references (solar `home-bold-duotone` etc.) —
+  //      `<defs>` blocks are preserved in BOTH output bodies; `<use>` is
+  //      treated like a paintable leaf.
+  //   3. Nested `<g opacity=".5">...</g>` sibling groups — the whole group
+  //      now correctly routes to secondary.
+  const root = parseBody(body);
 
-  // Iterate over the immediate child elements. We support the SVG shape
-  // primitives that appear in real Iconify bodies.
-  const ELEMENT_RE =
-    /<(path|circle|ellipse|rect|line|polyline|polygon)\b([^>]*?)\/>/g;
-  const primaryEls: string[] = [];
-  const secondaryEls: string[] = [];
+  // Optional single outer <g> wrap (Phosphor / IC: the whole body is a
+  // single `<g fill="currentColor">…</g>`). When that's the case, treat
+  // the inner of the group as the iteration target and re-wrap each
+  // output body in the same group attrs.
+  let walkRoot: Element = root;
+  let groupAttrs: Record<string, string> = {};
+  let hasOuterGroup = false;
+  const topLevelEls = directElementChildren(root);
+  if (
+    topLevelEls.length === 1 &&
+    topLevelEls[0]!.name === 'g' &&
+    onlyElementsOrWhitespace(root)
+  ) {
+    const outer = topLevelEls[0]!;
+    // The outer group itself carrying opacity<1 isn't a wrapper — it's a
+    // single faded layer. Treat that body as non-splittable so we fall
+    // back to the regex-era "whole body as primary" behaviour (existing
+    // test: `<g opacity=".5"><path d="M0 0"/></g>` returns no split).
+    const outerOpacity =
+      outer.attribs.opacity ??
+      outer.attribs['fill-opacity'] ??
+      outer.attribs['stroke-opacity'];
+    if (outerOpacity === undefined || parseFloat(outerOpacity) >= 1) {
+      walkRoot = outer;
+      groupAttrs = { ...outer.attribs };
+      hasOuterGroup = true;
+    }
+  }
 
   // Does the outer `<g>` wrapper paint via stroke / fill? Used to decide
   // whether a per-element fill-opacity also strips the element's stroke
   // (no — stroke comes from the parent and is at full strength) vs. its
   // fill (yes — that's the faint half).
-  const groupHasStroke = /\bstroke\s*=\s*["'](?!none\b)[^"']+["']/.test(groupAttrs);
-  const groupHasFill = /\bfill\s*=\s*["'](?!none\b)[^"']+["']/.test(groupAttrs);
+  const groupHasStroke = isVisiblePaint(groupAttrs.stroke);
+  const groupHasFill = isVisiblePaint(groupAttrs.fill);
 
-  let m: RegExpExecArray | null;
-  let lastIndex = 0;
-  let consumedAll = true;
-  while ((m = ELEMENT_RE.exec(inner)) !== null) {
-    // Anything between matches that's not whitespace indicates a non-self-
-    // closing element (e.g. `<path>…</path>` with children, nested groups).
-    // We don't try to handle that here; the caller falls back to a single-
-    // layer build by treating the whole thing as primary.
-    const gap = inner.slice(lastIndex, m.index);
-    if (gap.trim().length > 0) {
-      consumedAll = false;
-      break;
-    }
-    lastIndex = ELEMENT_RE.lastIndex;
-    const [, tag, attrs] = m;
-    // Match `opacity`, `fill-opacity`, or `stroke-opacity` (with leading
-    // whitespace). The Iconify `ic` set ships its battery / signal-bars
-    // shadow halves as `fill-opacity=".3"`; without this alternation those
-    // glyphs shipped as single-layer monochrome blobs.
-    const opacityMatch = attrs!.match(
-      /\s(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["']([^"']+)["']/
-    );
-    if (!opacityMatch || parseFloat(opacityMatch[1]!) >= 1) {
-      primaryEls.push(`<${tag}${attrs}/>`);
+  const primaryEls: Element[] = [];
+  const secondaryEls: Element[] = [];
+  // `<defs>` blocks contain reusable shapes referenced via `<use href=...>`.
+  // They paint nothing on their own and must be PRESENT in both output
+  // bodies (otherwise `<use>` references break). Solar's `home-bold-duotone`
+  // is the canonical example: a single `<defs>` then mixed primary/secondary
+  // siblings.
+  const defsEls: Element[] = [];
+
+  for (const child of directElementChildren(walkRoot)) {
+    if (child.name === 'defs') {
+      defsEls.push(child);
       continue;
     }
-    // The element has a per-attribute fade. Decide whether to send the
-    // WHOLE element to secondary (Phosphor / ic / Solar case — element has
-    // bare `opacity=...` so both fill and stroke fade together), or to
-    // CLONE it across layers (lets-icons `*-duotone-line` case —
-    // `fill-opacity=.25` on a circle that ALSO carries a full-opacity
-    // stroke inherited from `<g stroke="currentColor">`).
-    const opacityKind = opacityMatch[0].includes('fill-opacity')
-      ? 'fill'
-      : opacityMatch[0].includes('stroke-opacity')
-      ? 'stroke'
-      : 'all';
-    // Effective fill / stroke for this element (own attrs override parent).
-    const ownFillNone = /\bfill\s*=\s*["'](?:none|transparent)["']/.test(attrs!);
-    const ownStrokeNone = /\bstroke\s*=\s*["']none["']/.test(attrs!);
-    const ownFillVisible = /\bfill\s*=\s*["'](?!none|transparent)[^"']+["']/.test(attrs!);
-    const ownStrokeVisible = /\bstroke\s*=\s*["'](?!none)[^"']+["']/.test(attrs!);
+    // Per-element opacity attribute, in priority `opacity` → `fill-opacity`
+    // → `stroke-opacity`. Matches the existing regex's `opacityMatch[0]`
+    // semantics (first occurrence in attribute order wins; per-fill /
+    // per-stroke variants are detected via `opacityKind`).
+    const opacityAttr = pickOpacityAttribute(child);
+    if (opacityAttr === null || parseFloat(opacityAttr.value) >= 1) {
+      primaryEls.push(child);
+      continue;
+    }
+    if (!isPaintableLeaf(child)) {
+      // The element has an opacity<1 but it's not a leaf primitive (e.g.
+      // a `<g opacity=".5"><use/></g>` secondary group, as in Solar's
+      // bold-duotone variants). Strip the faded opacity attributes from
+      // the whole subtree and route it to secondary in one piece — the
+      // regex pipeline couldn't see inside this node at all.
+      const clone = deepClone(child);
+      stripOpacityAttrsDeep(clone);
+      secondaryEls.push(clone);
+      continue;
+    }
+    // Leaf-with-per-attribute-fade case. Same logic as the regex
+    // implementation; preserved to keep byte-identical output for the
+    // lets-icons `*-duotone-line` family and IC battery / signal-bars.
+    const ownFillStr = getAttrLower(child, 'fill');
+    const ownStrokeStr = getAttrLower(child, 'stroke');
+    const ownFillNone = ownFillStr === 'none' || ownFillStr === 'transparent';
+    const ownStrokeNone = ownStrokeStr === 'none';
+    const ownFillVisible =
+      ownFillStr !== undefined && !ownFillNone && !ownFillStr.startsWith('url(');
+    const ownStrokeVisible =
+      ownStrokeStr !== undefined && !ownStrokeNone && !ownStrokeStr.startsWith('url(');
     const hasFill = !ownFillNone && (ownFillVisible || groupHasFill);
     const hasStroke = !ownStrokeNone && (ownStrokeVisible || groupHasStroke);
-    // Strip ALL opacity-style attributes from the secondary copy so the
-    // resulting glyph renders solid in the Secondary TTF; the runtime
-    // widget controls translucency at display time via
-    // `IconifyIcon.duotone(secondaryOpacity:)`.
-    const stripped = attrs!.replace(
-      /\s(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["'][^"']+["']/g,
-      ''
-    );
-    if (opacityKind === 'fill' && hasStroke && hasFill) {
+    if (opacityAttr.kind === 'fill' && hasStroke && hasFill) {
       // Faint fill on top of a strong stroke → ring goes to primary,
       // faded fill to secondary. lets-icons:alarmclock-duotone-line
       // (silver-ish ring + faint dial) shipped without a visible ring
       // before this split because the whole circle landed in secondary
       // and rasterize-trace collapsed stroke+fill into a solid disc.
-      primaryEls.push(`<${tag}${forceAttr(stripped, 'fill', 'none')}/>`);
-      secondaryEls.push(`<${tag}${forceAttr(stripped, 'stroke', 'none')}/>`);
-    } else if (opacityKind === 'stroke' && hasStroke && hasFill) {
+      const primaryCopy = cloneShallow(child);
+      const secondaryCopy = cloneShallow(child);
+      stripOpacityAttrs(primaryCopy);
+      stripOpacityAttrs(secondaryCopy);
+      setAttr(primaryCopy, 'fill', 'none');
+      setAttr(secondaryCopy, 'stroke', 'none');
+      primaryEls.push(primaryCopy);
+      secondaryEls.push(secondaryCopy);
+    } else if (opacityAttr.kind === 'stroke' && hasStroke && hasFill) {
       // Symmetric case — fill stays strong, stroke is the faint hint.
-      primaryEls.push(`<${tag}${forceAttr(stripped, 'stroke', 'none')}/>`);
-      secondaryEls.push(`<${tag}${forceAttr(stripped, 'fill', 'none')}/>`);
+      const primaryCopy = cloneShallow(child);
+      const secondaryCopy = cloneShallow(child);
+      stripOpacityAttrs(primaryCopy);
+      stripOpacityAttrs(secondaryCopy);
+      setAttr(primaryCopy, 'stroke', 'none');
+      setAttr(secondaryCopy, 'fill', 'none');
+      primaryEls.push(primaryCopy);
+      secondaryEls.push(secondaryCopy);
     } else {
       // Bare `opacity=...` (fades both halves) OR the element only paints
       // via one attribute — the original whole-element split is correct.
-      secondaryEls.push(`<${tag}${stripped}/>`);
+      const secondaryCopy = cloneShallow(child);
+      stripOpacityAttrs(secondaryCopy);
+      secondaryEls.push(secondaryCopy);
     }
   }
-  // Trailing non-whitespace also disqualifies.
-  if (inner.slice(lastIndex).trim().length > 0) consumedAll = false;
 
-  if (!consumedAll || primaryEls.length + secondaryEls.length === 0) {
+  if (primaryEls.length === 0 && secondaryEls.length === 0) {
+    return { primary: body, secondary: '' };
+  }
+  // If one bucket is empty, there's nothing to split (it's a single-layer
+  // icon, possibly with all-faded content). Match the existing fallthrough.
+  if (primaryEls.length === 0 || secondaryEls.length === 0) {
     return { primary: body, secondary: '' };
   }
 
-  const wrap = (els: string[]): string => {
+  const wrap = (els: Element[]): string => {
     if (els.length === 0) return '';
-    if (groupAttrs) return `<g${groupAttrs}>${els.join('')}</g>`;
-    return els.join('');
+    // `<defs>` always comes first in both bodies so `<use>` references
+    // are resolvable in document order.
+    const ordered = [...defsEls, ...els];
+    if (hasOuterGroup) {
+      const wrapper = makeGroup(groupAttrs, ordered);
+      return serializeNode(wrapper);
+    }
+    return ordered.map((e) => serializeNode(e)).join('');
   };
 
   return {
     primary: wrap(primaryEls),
     secondary: wrap(secondaryEls),
   };
+}
+
+/**
+ * True if a paint attribute string represents an actually-visible colour
+ * (i.e. NOT `none`, missing, or a gradient/pattern url). Used to decide
+ * whether a parent group contributes visible paint to its children when
+ * they declare a per-attribute fade (`fill-opacity` vs `stroke-opacity`).
+ */
+function isVisiblePaint(value: string | undefined): boolean {
+  if (value === undefined) return false;
+  const v = value.trim().toLowerCase();
+  if (v === 'none' || v === 'transparent') return false;
+  if (v.startsWith('url(')) return false;
+  return true;
+}
+
+/**
+ * Identify the dominant opacity-style attribute on a leaf element. Returns
+ * the attribute kind + numeric-string value, or `null` when no fade is
+ * present. Bare `opacity` wins over `fill-opacity` / `stroke-opacity` when
+ * multiple are set, mirroring the regex's first-match-wins behaviour on
+ * source order (since SVG element attribute order is `opacity` first by
+ * convention in Iconify bodies).
+ */
+function pickOpacityAttribute(
+  el: Element
+): { kind: 'all' | 'fill' | 'stroke'; value: string } | null {
+  // Match the regex's preference: it scanned the attribute string in order
+  // and took the FIRST hit. In htmlparser2 we get attribs as a Record but
+  // its iteration order matches the source. Walk insertion order to honour
+  // that.
+  for (const key of Object.keys(el.attribs)) {
+    if (key === 'opacity') {
+      return { kind: 'all', value: el.attribs[key]! };
+    }
+    if (key === 'fill-opacity') {
+      return { kind: 'fill', value: el.attribs[key]! };
+    }
+    if (key === 'stroke-opacity') {
+      return { kind: 'stroke', value: el.attribs[key]! };
+    }
+  }
+  return null;
+}
+
+/** Strip every opacity-style attribute from an element (shallow). */
+function stripOpacityAttrs(el: Element): void {
+  deleteAttr(el, 'opacity');
+  deleteAttr(el, 'fill-opacity');
+  deleteAttr(el, 'stroke-opacity');
+}
+
+/** Strip every opacity-style attribute throughout an element subtree. */
+function stripOpacityAttrsDeep(el: Element): void {
+  stripOpacityAttrs(el);
+  for (const child of el.children) {
+    if (isTag(child)) stripOpacityAttrsDeep(child);
+  }
+}
+
+/**
+ * Deep-clone an element subtree. `domhandler`'s built-in helpers are
+ * shallow, so we recurse manually. Used to clone secondary-layer subtrees
+ * before stripping opacity (we don't want to mutate the document's
+ * original tree, in case the caller still holds a reference).
+ */
+function deepClone(el: Element): Element {
+  const copy = new Element(el.name, { ...el.attribs }, []);
+  for (const child of el.children) {
+    if (isTag(child)) {
+      const childCopy = deepClone(child);
+      childCopy.parent = copy;
+      copy.children.push(childCopy);
+    }
+    // Text / comment children are dropped — Iconify bodies don't carry
+    // meaningful text content in element subtrees (whitespace only).
+  }
+  return copy;
 }
 
 // ============================================================================

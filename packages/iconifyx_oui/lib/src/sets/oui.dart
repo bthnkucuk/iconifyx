@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: OpenSearch Contributors
 /// License: Apache 2.0 — https://github.com/opensearch-project/oui/blob/main/LICENSE.txt
-/// Icons: 443
+/// Icons: 437
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -736,11 +736,6 @@ class OuiIcons {
     IconData(0xe08f, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
   );
 
-  /// `empty`
-  static const IconifyIconData empty = IconifyIconData.solo(
-    IconData(0xe090, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
-  );
-
   /// `eql`
   static const IconifyIconData eql = IconifyIconData.solo(
     IconData(0xe091, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
@@ -1121,11 +1116,6 @@ class OuiIcons {
     IconData(0xe0dc, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
   );
 
-  /// `menu`
-  static const IconifyIconData menu = IconifyIconData.solo(
-    IconData(0xe0dd, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
-  );
-
   /// `menu-down`
   static const IconifyIconData menuDown = IconifyIconData.solo(
     IconData(0xe0de, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
@@ -1461,11 +1451,6 @@ class OuiIcons {
     IconData(0xe120, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
   );
 
-  /// `play-filled`
-  static const IconifyIconData playFilled = IconifyIconData.solo(
-    IconData(0xe121, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
-  );
-
   /// `plus`
   static const IconifyIconData plus = IconifyIconData.solo(
     IconData(0xe122, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
@@ -1696,19 +1681,9 @@ class OuiIcons {
     IconData(0xe14f, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
   );
 
-  /// `submodule`
-  static const IconifyIconData submodule = IconifyIconData.solo(
-    IconData(0xe150, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
-  );
-
   /// `swatch-input`
   static const IconifyIconData swatchInput = IconifyIconData.solo(
     IconData(0xe151, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
-  );
-
-  /// `symlink`
-  static const IconifyIconData symlink = IconifyIconData.solo(
-    IconData(0xe152, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
   );
 
   /// `table-density-compact`
@@ -1759,11 +1734,6 @@ class OuiIcons {
   /// `timeline`
   static const IconifyIconData timeline = IconifyIconData.solo(
     IconData(0xe15c, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
-  );
-
-  /// `timeslider`
-  static const IconifyIconData timeslider = IconifyIconData.solo(
-    IconData(0xe15d, fontFamily: 'Oui', fontPackage: 'iconifyx_oui'),
   );
 
   /// `token-alias`

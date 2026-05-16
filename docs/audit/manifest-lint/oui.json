@@ -1,67 +1,6 @@
 {
   "a1": [],
-  "a2": [
-    {
-      "code": "glyph-empty",
-      "codepoint": 57488,
-      "constant": "empty",
-      "detail": "Dart const 'empty' resolves to an empty glyph at 0xe090 in 'Oui.ttf'",
-      "family": "Oui",
-      "fontPackage": "iconifyx_oui",
-      "prefix": "oui",
-      "severity": "warn"
-    },
-    {
-      "code": "glyph-empty",
-      "codepoint": 57565,
-      "constant": "menu",
-      "detail": "Dart const 'menu' resolves to an empty glyph at 0xe0dd in 'Oui.ttf'",
-      "family": "Oui",
-      "fontPackage": "iconifyx_oui",
-      "prefix": "oui",
-      "severity": "warn"
-    },
-    {
-      "code": "glyph-empty",
-      "codepoint": 57633,
-      "constant": "playFilled",
-      "detail": "Dart const 'playFilled' resolves to an empty glyph at 0xe121 in 'Oui.ttf'",
-      "family": "Oui",
-      "fontPackage": "iconifyx_oui",
-      "prefix": "oui",
-      "severity": "warn"
-    },
-    {
-      "code": "glyph-empty",
-      "codepoint": 57680,
-      "constant": "submodule",
-      "detail": "Dart const 'submodule' resolves to an empty glyph at 0xe150 in 'Oui.ttf'",
-      "family": "Oui",
-      "fontPackage": "iconifyx_oui",
-      "prefix": "oui",
-      "severity": "warn"
-    },
-    {
-      "code": "glyph-empty",
-      "codepoint": 57682,
-      "constant": "symlink",
-      "detail": "Dart const 'symlink' resolves to an empty glyph at 0xe152 in 'Oui.ttf'",
-      "family": "Oui",
-      "fontPackage": "iconifyx_oui",
-      "prefix": "oui",
-      "severity": "warn"
-    },
-    {
-      "code": "glyph-empty",
-      "codepoint": 57693,
-      "constant": "timeslider",
-      "detail": "Dart const 'timeslider' resolves to an empty glyph at 0xe15d in 'Oui.ttf'",
-      "family": "Oui",
-      "fontPackage": "iconifyx_oui",
-      "prefix": "oui",
-      "severity": "warn"
-    }
-  ],
+  "a2": [],
   "a3": [],
   "a3Skipped": null,
   "prefix": "oui"

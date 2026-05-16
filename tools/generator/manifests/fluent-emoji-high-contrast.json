@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
     },
-    "total": 1551
+    "total": 1551,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

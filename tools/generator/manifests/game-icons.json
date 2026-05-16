@@ -16,7 +16,10 @@
       "spdx": "CC-BY-3.0",
       "url": "https://github.com/game-icons/icons/blob/master/license.txt"
     },
-    "total": 4061
+    "total": 4061,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

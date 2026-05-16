@@ -1,0 +1,64 @@
+{
+  "iconRef": "twemoji:1st-place-medal",
+  "prefix": "twemoji",
+  "iconName": "1st-place-medal",
+  "packageName": "iconifyx_twemoji",
+  "primary": {
+    "ttf": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/Twemoji.ttf",
+    "codepoint": "0xe2cb",
+    "glyphName": "1st-place-medal",
+    "advance": 1000,
+    "lsb": -107,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": -106,
+      "yMin": -2.0476190476190474,
+      "xMax": 1000,
+      "yMax": 1007,
+      "width": 1106,
+      "height": 1009.047619047619,
+      "cx": 447,
+      "cy": 502.4761904761905
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "secondary": {
+    "ttf": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/TwemojiSecondary.ttf",
+    "codepoint": "0xe2cb",
+    "glyphName": "1st-place-medal",
+    "advance": 1000,
+    "lsb": -222,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": -222,
+      "yMin": 570,
+      "xMax": 1000,
+      "yMax": 1007,
+      "width": 1222,
+      "height": 437,
+      "cx": 389,
+      "cy": 788.5
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "diff": null,
+  "verdict": {
+    "status": "different",
+    "primaryReason": "DUOTONE_BBOX_MISMATCH",
+    "confidence": "high",
+    "problem": "Primary glyph centroid (447,502) differs from secondary (389,789) by 5.8% / 28.6% of em — layers will overlay misaligned",
+    "remediation": "GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup (identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see RESEARCH_PLAN §33 for fix."
+  },
+  "fontTtfPath": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/Twemoji.ttf",
+  "secondaryTtfPath": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/TwemojiSecondary.ttf",
+  "duotone": true,
+  "duotoneKind": "paintOrder"
+}

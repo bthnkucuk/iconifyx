@@ -1,0 +1,20 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 884,
+  "liveCountPrevious": 885,
+  "newDeprecations": [
+    {
+      "codepoint": 57950,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "QlementineIcons",
+      "iconName": "quality-0-16",
+      "identifier": "quality016",
+      "prefix": "qlementine-icons",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "qlementine-icons",
+  "previousIconifyJsonVersion": "2.2.472"
+}

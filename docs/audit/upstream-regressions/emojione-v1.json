@@ -1,0 +1,29 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 365,
+  "liveCountPrevious": 367,
+  "newDeprecations": [
+    {
+      "codepoint": 57384,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "EmojioneV1",
+      "iconName": "crown",
+      "identifier": "crown",
+      "prefix": "emojione-v1",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57708,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "EmojioneV1",
+      "iconName": "womans-sandal",
+      "identifier": "womansSandal",
+      "prefix": "emojione-v1",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "emojione-v1",
+  "previousIconifyJsonVersion": "2.2.472"
+}

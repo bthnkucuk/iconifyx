@@ -16,13 +16,18 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
     },
-    "total": 2658
+    "total": 2657,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {
       "family": "IconParkOutline",
       "nextCodepoint": 60002,
-      "iconCount": 2658
+      "iconCount": 2657
     }
   ],
   "icons": {
@@ -12584,7 +12589,9 @@
     "upload": {
       "codepoint": 59855,
       "fontFamily": "IconParkOutline",
-      "identifier": "upload"
+      "identifier": "upload",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "upload-computer": {
       "codepoint": 59856,

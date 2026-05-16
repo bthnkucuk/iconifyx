@@ -16,7 +16,10 @@
       "spdx": "OFL-1.1",
       "url": "https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE"
     },
-    "total": 107
+    "total": 107,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: OpenMoji
 /// License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-/// Icons: 4049 (split across 2 fonts)
+/// Icons: 4048 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -15534,11 +15534,6 @@ class OpenmojiIcons {
   /// `sign-of-the-horns-medium-skin-tone`
   static const IconifyIconData signOfTheHornsMediumSkinTone = IconifyIconData.solo(
     IconData(0xec1f, fontFamily: 'Openmoji', fontPackage: 'iconifyx_openmoji'),
-  );
-
-  /// `signal`
-  static const IconifyIconData signal = IconifyIconData.solo(
-    IconData(0xec20, fontFamily: 'Openmoji', fontPackage: 'iconifyx_openmoji'),
   );
 
   /// `simple`

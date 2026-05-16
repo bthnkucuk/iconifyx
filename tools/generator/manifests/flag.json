@@ -16,13 +16,16 @@
       "spdx": "MIT",
       "url": "https://github.com/lipis/flag-icons/blob/main/LICENSE"
     },
-    "total": 491
+    "total": 485,
+    "tags": [
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {
       "family": "Flag",
       "nextCodepoint": 57835,
-      "iconCount": 491
+      "iconCount": 485
     },
     {
       "family": "FlagSecondary",
@@ -830,12 +833,16 @@
     "fm-1x1": {
       "codepoint": 57498,
       "fontFamily": "Flag",
-      "identifier": "fm1x1"
+      "identifier": "fm1x1",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "fm-4x3": {
       "codepoint": 57499,
       "fontFamily": "Flag",
-      "identifier": "fm4x3"
+      "identifier": "fm4x3",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "fo-1x1": {
       "codepoint": 57500,
@@ -1936,12 +1943,16 @@
     "pw-1x1": {
       "codepoint": 57710,
       "fontFamily": "Flag",
-      "identifier": "pw1x1"
+      "identifier": "pw1x1",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "pw-4x3": {
       "codepoint": 57711,
       "fontFamily": "Flag",
-      "identifier": "pw4x3"
+      "identifier": "pw4x3",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "py-1x1": {
       "codepoint": 57712,
@@ -2144,12 +2155,16 @@
     "so-1x1": {
       "codepoint": 57750,
       "fontFamily": "Flag",
-      "identifier": "so1x1"
+      "identifier": "so1x1",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "so-4x3": {
       "codepoint": 57751,
       "fontFamily": "Flag",
-      "identifier": "so4x3"
+      "identifier": "so4x3",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "st-1x1": {
       "codepoint": 57752,

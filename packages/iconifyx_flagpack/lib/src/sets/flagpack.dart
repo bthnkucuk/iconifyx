@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Yummygum
 /// License: MIT — https://github.com/Yummygum/flagpack-core/blob/main/LICENSE
-/// Icons: 256 (split across 2 fonts)
+/// Icons: 246 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -55,11 +55,6 @@ class FlagpackIcons {
   /// `ao`
   static const IconifyIconData ao = IconifyIconData.solo(
     IconData(0xe007, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
-  /// `aq`
-  static const IconifyIconData aq = IconifyIconData.solo(
-    IconData(0xe008, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `ar`
@@ -245,11 +240,6 @@ class FlagpackIcons {
     IconData(0xe02c, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `ci`
-  static const IconifyIconData ci = IconifyIconData.solo(
-    IconData(0xe02d, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
   /// `ck`
   static const IconifyIconData ck = IconifyIconData.solo(
     IconData(0xe02e, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
@@ -391,11 +381,6 @@ class FlagpackIcons {
     IconData(0xe049, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `fm`
-  static const IconifyIconData fm = IconifyIconData.solo(
-    IconData(0xe04a, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
   /// `fo`
   static const IconifyIconData fo = IconifyIconData.solo(
     IconData(0xe04b, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
@@ -404,11 +389,6 @@ class FlagpackIcons {
   /// `fr`
   static const IconifyIconData fr = IconifyIconData.solo(
     IconData(0xe04c, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
-  /// `ga`
-  static const IconifyIconData ga = IconifyIconData.solo(
-    IconData(0xe04d, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `gb` (paint-order duotone)
@@ -539,11 +519,6 @@ class FlagpackIcons {
     IconData(0xe066, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `hn`
-  static const IconifyIconData hn = IconifyIconData.solo(
-    IconData(0xe067, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
   /// `hr`
   static const IconifyIconData hr = IconifyIconData.solo(
     IconData(0xe068, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
@@ -562,11 +537,6 @@ class FlagpackIcons {
   /// `id`
   static const IconifyIconData id = IconifyIconData.solo(
     IconData(0xe06b, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
-  /// `ie`
-  static const IconifyIconData ie = IconifyIconData.solo(
-    IconData(0xe06c, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `il`
@@ -678,11 +648,6 @@ class FlagpackIcons {
   /// `ky`
   static const IconifyIconData ky = IconifyIconData.solo(
     IconData(0xe082, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
-  /// `kz`
-  static const IconifyIconData kz = IconifyIconData.solo(
-    IconData(0xe083, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `la`
@@ -983,11 +948,6 @@ class FlagpackIcons {
     IconData(0xe0be, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `pw`
-  static const IconifyIconData pw = IconifyIconData.solo(
-    IconData(0xe0bf, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
   /// `py`
   static const IconifyIconData py = IconifyIconData.solo(
     IconData(0xe0c0, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
@@ -1017,11 +977,6 @@ class FlagpackIcons {
   /// `ru`
   static const IconifyIconData ru = IconifyIconData.solo(
     IconData(0xe0c5, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
-  /// `rw`
-  static const IconifyIconData rw = IconifyIconData.solo(
-    IconData(0xe0c6, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `sa` (paint-order duotone)
@@ -1210,11 +1165,6 @@ class FlagpackIcons {
   /// `tz`
   static const IconifyIconData tz = IconifyIconData.solo(
     IconData(0xe0eb, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
-  /// `ua`
-  static const IconifyIconData ua = IconifyIconData.solo(
-    IconData(0xe0ec, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `ug`

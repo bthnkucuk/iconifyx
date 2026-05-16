@@ -16,7 +16,11 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/Richard9394/MingCute/blob/main/LICENSE"
     },
-    "total": 3352
+    "total": 3352,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

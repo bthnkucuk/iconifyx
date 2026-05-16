@@ -1,0 +1,20 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 4048,
+  "liveCountPrevious": 4049,
+  "newDeprecations": [
+    {
+      "codepoint": 60448,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Openmoji",
+      "iconName": "signal",
+      "identifier": "signal",
+      "prefix": "openmoji",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "openmoji",
+  "previousIconifyJsonVersion": "2.2.472"
+}

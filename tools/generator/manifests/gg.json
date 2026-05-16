@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/astrit/css.gg/blob/master/LICENSE"
     },
-    "total": 705
+    "total": 705,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

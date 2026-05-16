@@ -117,10 +117,9 @@ class SolarIcons {
     IconData(0xe012, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `add-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData addCircleBoldDuotone = IconifyIconData.duo(
+  /// `add-circle-bold-duotone`
+  static const IconifyIconData addCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe013, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe013, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `add-circle-broken`
@@ -128,10 +127,9 @@ class SolarIcons {
     IconData(0xe014, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `add-circle-line-duotone` (duo-tone)
-  static const IconifyIconData addCircleLineDuotone = IconifyIconData.duo(
+  /// `add-circle-line-duotone`
+  static const IconifyIconData addCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe015, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe015, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `add-circle-linear`
@@ -181,10 +179,9 @@ class SolarIcons {
     IconData(0xe01e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `add-square-bold-duotone` (duo-tone)
-  static const IconifyIconData addSquareBoldDuotone = IconifyIconData.duo(
+  /// `add-square-bold-duotone`
+  static const IconifyIconData addSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe01f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe01f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `add-square-broken`
@@ -192,10 +189,9 @@ class SolarIcons {
     IconData(0xe020, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `add-square-line-duotone` (duo-tone)
-  static const IconifyIconData addSquareLineDuotone = IconifyIconData.duo(
+  /// `add-square-line-duotone`
+  static const IconifyIconData addSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe021, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe021, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `add-square-linear`
@@ -363,10 +359,9 @@ class SolarIcons {
     IconData(0xe040, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `airbuds-case-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData airbudsCaseMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `airbuds-case-minimalistic-line-duotone`
+  static const IconifyIconData airbudsCaseMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe041, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe041, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `airbuds-case-minimalistic-linear`
@@ -453,10 +448,9 @@ class SolarIcons {
     IconData(0xe051, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `airbuds-check-bold-duotone` (duo-tone)
-  static const IconifyIconData airbudsCheckBoldDuotone = IconifyIconData.duo(
+  /// `airbuds-check-bold-duotone`
+  static const IconifyIconData airbudsCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xe052, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe052, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `airbuds-check-broken`
@@ -464,10 +458,9 @@ class SolarIcons {
     IconData(0xe053, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `airbuds-check-line-duotone` (duo-tone)
-  static const IconifyIconData airbudsCheckLineDuotone = IconifyIconData.duo(
+  /// `airbuds-check-line-duotone`
+  static const IconifyIconData airbudsCheckLineDuotone = IconifyIconData.solo(
     IconData(0xe054, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe054, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `airbuds-check-linear`
@@ -533,10 +526,9 @@ class SolarIcons {
     IconData(0xe060, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `airbuds-remove-bold-duotone` (duo-tone)
-  static const IconifyIconData airbudsRemoveBoldDuotone = IconifyIconData.duo(
+  /// `airbuds-remove-bold-duotone`
+  static const IconifyIconData airbudsRemoveBoldDuotone = IconifyIconData.solo(
     IconData(0xe061, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe061, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `airbuds-remove-broken`
@@ -544,10 +536,9 @@ class SolarIcons {
     IconData(0xe062, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `airbuds-remove-line-duotone` (duo-tone)
-  static const IconifyIconData airbudsRemoveLineDuotone = IconifyIconData.duo(
+  /// `airbuds-remove-line-duotone`
+  static const IconifyIconData airbudsRemoveLineDuotone = IconifyIconData.solo(
     IconData(0xe063, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe063, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `airbuds-remove-linear`
@@ -640,10 +631,9 @@ class SolarIcons {
     IconData(0xe074, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-line-duotone` (duo-tone)
-  static const IconifyIconData alarmLineDuotone = IconifyIconData.duo(
+  /// `alarm-line-duotone`
+  static const IconifyIconData alarmLineDuotone = IconifyIconData.solo(
     IconData(0xe075, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe075, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-linear`
@@ -661,10 +651,9 @@ class SolarIcons {
     IconData(0xe078, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-pause-bold-duotone` (duo-tone)
-  static const IconifyIconData alarmPauseBoldDuotone = IconifyIconData.duo(
+  /// `alarm-pause-bold-duotone`
+  static const IconifyIconData alarmPauseBoldDuotone = IconifyIconData.solo(
     IconData(0xe079, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe079, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-pause-broken`
@@ -672,10 +661,9 @@ class SolarIcons {
     IconData(0xe07a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-pause-line-duotone` (duo-tone)
-  static const IconifyIconData alarmPauseLineDuotone = IconifyIconData.duo(
+  /// `alarm-pause-line-duotone`
+  static const IconifyIconData alarmPauseLineDuotone = IconifyIconData.solo(
     IconData(0xe07b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe07b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-pause-linear`
@@ -693,10 +681,9 @@ class SolarIcons {
     IconData(0xe07e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-play-bold-duotone` (duo-tone)
-  static const IconifyIconData alarmPlayBoldDuotone = IconifyIconData.duo(
+  /// `alarm-play-bold-duotone`
+  static const IconifyIconData alarmPlayBoldDuotone = IconifyIconData.solo(
     IconData(0xe07f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe07f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-play-broken`
@@ -704,10 +691,9 @@ class SolarIcons {
     IconData(0xe080, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-play-line-duotone` (duo-tone)
-  static const IconifyIconData alarmPlayLineDuotone = IconifyIconData.duo(
+  /// `alarm-play-line-duotone`
+  static const IconifyIconData alarmPlayLineDuotone = IconifyIconData.solo(
     IconData(0xe081, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe081, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-play-linear`
@@ -725,10 +711,9 @@ class SolarIcons {
     IconData(0xe084, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-remove-bold-duotone` (duo-tone)
-  static const IconifyIconData alarmRemoveBoldDuotone = IconifyIconData.duo(
+  /// `alarm-remove-bold-duotone`
+  static const IconifyIconData alarmRemoveBoldDuotone = IconifyIconData.solo(
     IconData(0xe085, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe085, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-remove-broken`
@@ -736,10 +721,9 @@ class SolarIcons {
     IconData(0xe086, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-remove-line-duotone` (duo-tone)
-  static const IconifyIconData alarmRemoveLineDuotone = IconifyIconData.duo(
+  /// `alarm-remove-line-duotone`
+  static const IconifyIconData alarmRemoveLineDuotone = IconifyIconData.solo(
     IconData(0xe087, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe087, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-remove-linear`
@@ -757,10 +741,9 @@ class SolarIcons {
     IconData(0xe08a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-sleep-bold-duotone` (duo-tone)
-  static const IconifyIconData alarmSleepBoldDuotone = IconifyIconData.duo(
+  /// `alarm-sleep-bold-duotone`
+  static const IconifyIconData alarmSleepBoldDuotone = IconifyIconData.solo(
     IconData(0xe08b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe08b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-sleep-broken`
@@ -768,10 +751,9 @@ class SolarIcons {
     IconData(0xe08c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-sleep-line-duotone` (duo-tone)
-  static const IconifyIconData alarmSleepLineDuotone = IconifyIconData.duo(
+  /// `alarm-sleep-line-duotone`
+  static const IconifyIconData alarmSleepLineDuotone = IconifyIconData.solo(
     IconData(0xe08d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe08d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-sleep-linear`
@@ -789,10 +771,9 @@ class SolarIcons {
     IconData(0xe090, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-turn-off-bold-duotone` (duo-tone)
-  static const IconifyIconData alarmTurnOffBoldDuotone = IconifyIconData.duo(
+  /// `alarm-turn-off-bold-duotone`
+  static const IconifyIconData alarmTurnOffBoldDuotone = IconifyIconData.solo(
     IconData(0xe091, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe091, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-turn-off-broken`
@@ -800,10 +781,9 @@ class SolarIcons {
     IconData(0xe092, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `alarm-turn-off-line-duotone` (duo-tone)
-  static const IconifyIconData alarmTurnOffLineDuotone = IconifyIconData.duo(
+  /// `alarm-turn-off-line-duotone`
+  static const IconifyIconData alarmTurnOffLineDuotone = IconifyIconData.solo(
     IconData(0xe093, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe093, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `alarm-turn-off-linear`
@@ -1249,10 +1229,9 @@ class SolarIcons {
     IconData(0xe0e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-check-bold-duotone` (duo-tone)
-  static const IconifyIconData archiveCheckBoldDuotone = IconifyIconData.duo(
+  /// `archive-check-bold-duotone`
+  static const IconifyIconData archiveCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xe0e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0e8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-check-broken`
@@ -1281,10 +1260,9 @@ class SolarIcons {
     IconData(0xe0ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-down-bold-duotone` (duo-tone)
-  static const IconifyIconData archiveDownBoldDuotone = IconifyIconData.duo(
+  /// `archive-down-bold-duotone`
+  static const IconifyIconData archiveDownBoldDuotone = IconifyIconData.solo(
     IconData(0xe0ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0ee, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-down-broken`
@@ -1292,10 +1270,9 @@ class SolarIcons {
     IconData(0xe0ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-down-line-duotone` (duo-tone)
-  static const IconifyIconData archiveDownLineDuotone = IconifyIconData.duo(
+  /// `archive-down-line-duotone`
+  static const IconifyIconData archiveDownLineDuotone = IconifyIconData.solo(
     IconData(0xe0f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0f0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-down-linear`
@@ -1340,10 +1317,9 @@ class SolarIcons {
     IconData(0xe0f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-line-duotone` (duo-tone)
-  static const IconifyIconData archiveLineDuotone = IconifyIconData.duo(
+  /// `archive-line-duotone`
+  static const IconifyIconData archiveLineDuotone = IconifyIconData.solo(
     IconData(0xe0f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0f9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-linear`
@@ -1356,10 +1332,9 @@ class SolarIcons {
     IconData(0xe0fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData archiveMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `archive-minimalistic-bold-duotone`
+  static const IconifyIconData archiveMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe0fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0fc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-minimalistic-broken`
@@ -1367,10 +1342,9 @@ class SolarIcons {
     IconData(0xe0fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData archiveMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `archive-minimalistic-line-duotone`
+  static const IconifyIconData archiveMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe0fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0fe, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-minimalistic-linear`
@@ -1393,10 +1367,9 @@ class SolarIcons {
     IconData(0xe102, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-up-bold-duotone` (duo-tone)
-  static const IconifyIconData archiveUpBoldDuotone = IconifyIconData.duo(
+  /// `archive-up-bold-duotone`
+  static const IconifyIconData archiveUpBoldDuotone = IconifyIconData.solo(
     IconData(0xe103, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe103, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-up-broken`
@@ -1404,10 +1377,9 @@ class SolarIcons {
     IconData(0xe104, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-up-line-duotone` (duo-tone)
-  static const IconifyIconData archiveUpLineDuotone = IconifyIconData.duo(
+  /// `archive-up-line-duotone`
+  static const IconifyIconData archiveUpLineDuotone = IconifyIconData.solo(
     IconData(0xe105, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe105, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-up-linear`
@@ -1420,10 +1392,9 @@ class SolarIcons {
     IconData(0xe107, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-up-minimlistic-bold-duotone` (duo-tone)
-  static const IconifyIconData archiveUpMinimlisticBoldDuotone = IconifyIconData.duo(
+  /// `archive-up-minimlistic-bold-duotone`
+  static const IconifyIconData archiveUpMinimlisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe108, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe108, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-up-minimlistic-broken`
@@ -1431,10 +1402,9 @@ class SolarIcons {
     IconData(0xe109, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `archive-up-minimlistic-line-duotone` (duo-tone)
-  static const IconifyIconData archiveUpMinimlisticLineDuotone = IconifyIconData.duo(
+  /// `archive-up-minimlistic-line-duotone`
+  static const IconifyIconData archiveUpMinimlisticLineDuotone = IconifyIconData.solo(
     IconData(0xe10a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe10a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `archive-up-minimlistic-linear`
@@ -1969,10 +1939,9 @@ class SolarIcons {
     IconData(0xe16e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `augmented-reality-bold-duotone` (duo-tone)
-  static const IconifyIconData augmentedRealityBoldDuotone = IconifyIconData.duo(
+  /// `augmented-reality-bold-duotone`
+  static const IconifyIconData augmentedRealityBoldDuotone = IconifyIconData.solo(
     IconData(0xe16f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe16f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `augmented-reality-broken`
@@ -1980,10 +1949,9 @@ class SolarIcons {
     IconData(0xe170, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `augmented-reality-line-duotone` (duo-tone)
-  static const IconifyIconData augmentedRealityLineDuotone = IconifyIconData.duo(
+  /// `augmented-reality-line-duotone`
+  static const IconifyIconData augmentedRealityLineDuotone = IconifyIconData.solo(
     IconData(0xe171, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe171, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `augmented-reality-linear`
@@ -2225,10 +2193,9 @@ class SolarIcons {
     IconData(0xe19e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bag-bold-duotone` (duo-tone)
-  static const IconifyIconData bagBoldDuotone = IconifyIconData.duo(
+  /// `bag-bold-duotone`
+  static const IconifyIconData bagBoldDuotone = IconifyIconData.solo(
     IconData(0xe19f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe19f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bag-broken`
@@ -2241,10 +2208,9 @@ class SolarIcons {
     IconData(0xe1a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bag-check-bold-duotone` (duo-tone)
-  static const IconifyIconData bagCheckBoldDuotone = IconifyIconData.duo(
+  /// `bag-check-bold-duotone`
+  static const IconifyIconData bagCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xe1a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1a2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bag-check-broken`
@@ -2273,10 +2239,9 @@ class SolarIcons {
     IconData(0xe1a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bag-cross-bold-duotone` (duo-tone)
-  static const IconifyIconData bagCrossBoldDuotone = IconifyIconData.duo(
+  /// `bag-cross-bold-duotone`
+  static const IconifyIconData bagCrossBoldDuotone = IconifyIconData.solo(
     IconData(0xe1a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1a8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bag-cross-broken`
@@ -2305,10 +2270,9 @@ class SolarIcons {
     IconData(0xe1ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bag-heart-bold-duotone` (duo-tone)
-  static const IconifyIconData bagHeartBoldDuotone = IconifyIconData.duo(
+  /// `bag-heart-bold-duotone`
+  static const IconifyIconData bagHeartBoldDuotone = IconifyIconData.solo(
     IconData(0xe1ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1ae, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bag-heart-broken`
@@ -2348,10 +2312,9 @@ class SolarIcons {
     IconData(0xe1b5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bag-music-2-bold-duotone` (duo-tone)
-  static const IconifyIconData bagMusic2BoldDuotone = IconifyIconData.duo(
+  /// `bag-music-2-bold-duotone`
+  static const IconifyIconData bagMusic2BoldDuotone = IconifyIconData.solo(
     IconData(0xe1b6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1b6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bag-music-2-broken`
@@ -2380,10 +2343,9 @@ class SolarIcons {
     IconData(0xe1bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bag-music-bold-duotone` (duo-tone)
-  static const IconifyIconData bagMusicBoldDuotone = IconifyIconData.duo(
+  /// `bag-music-bold-duotone`
+  static const IconifyIconData bagMusicBoldDuotone = IconifyIconData.solo(
     IconData(0xe1bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1bc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bag-music-broken`
@@ -2700,10 +2662,9 @@ class SolarIcons {
     IconData(0xe1f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-charge-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData batteryChargeMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `battery-charge-minimalistic-bold-duotone`
+  static const IconifyIconData batteryChargeMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe1f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1f8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-charge-minimalistic-broken`
@@ -2737,10 +2698,9 @@ class SolarIcons {
     IconData(0xe1fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-full-bold-duotone` (duo-tone)
-  static const IconifyIconData batteryFullBoldDuotone = IconifyIconData.duo(
+  /// `battery-full-bold-duotone`
+  static const IconifyIconData batteryFullBoldDuotone = IconifyIconData.solo(
     IconData(0xe1ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-full-broken`
@@ -2764,10 +2724,9 @@ class SolarIcons {
     IconData(0xe203, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-full-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData batteryFullMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `battery-full-minimalistic-bold-duotone`
+  static const IconifyIconData batteryFullMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe204, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe204, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-full-minimalistic-broken`
@@ -2775,10 +2734,9 @@ class SolarIcons {
     IconData(0xe205, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-full-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData batteryFullMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `battery-full-minimalistic-line-duotone`
+  static const IconifyIconData batteryFullMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe206, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe206, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-full-minimalistic-linear`
@@ -2801,10 +2759,9 @@ class SolarIcons {
     IconData(0xe20a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-half-bold-duotone` (duo-tone)
-  static const IconifyIconData batteryHalfBoldDuotone = IconifyIconData.duo(
+  /// `battery-half-bold-duotone`
+  static const IconifyIconData batteryHalfBoldDuotone = IconifyIconData.solo(
     IconData(0xe20b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe20b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-half-broken`
@@ -2812,10 +2769,9 @@ class SolarIcons {
     IconData(0xe20c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-half-line-duotone` (duo-tone)
-  static const IconifyIconData batteryHalfLineDuotone = IconifyIconData.duo(
+  /// `battery-half-line-duotone`
+  static const IconifyIconData batteryHalfLineDuotone = IconifyIconData.solo(
     IconData(0xe20d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe20d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-half-linear`
@@ -2828,10 +2784,9 @@ class SolarIcons {
     IconData(0xe20f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-half-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData batteryHalfMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `battery-half-minimalistic-bold-duotone`
+  static const IconifyIconData batteryHalfMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe210, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe210, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-half-minimalistic-broken`
@@ -2839,10 +2794,9 @@ class SolarIcons {
     IconData(0xe211, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-half-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData batteryHalfMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `battery-half-minimalistic-line-duotone`
+  static const IconifyIconData batteryHalfMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe212, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe212, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-half-minimalistic-linear`
@@ -2865,10 +2819,9 @@ class SolarIcons {
     IconData(0xe216, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-low-bold-duotone` (duo-tone)
-  static const IconifyIconData batteryLowBoldDuotone = IconifyIconData.duo(
+  /// `battery-low-bold-duotone`
+  static const IconifyIconData batteryLowBoldDuotone = IconifyIconData.solo(
     IconData(0xe217, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe217, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-low-broken`
@@ -2892,10 +2845,9 @@ class SolarIcons {
     IconData(0xe21b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-low-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData batteryLowMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `battery-low-minimalistic-bold-duotone`
+  static const IconifyIconData batteryLowMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe21c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe21c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-low-minimalistic-broken`
@@ -2903,10 +2855,9 @@ class SolarIcons {
     IconData(0xe21d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `battery-low-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData batteryLowMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `battery-low-minimalistic-line-duotone`
+  static const IconifyIconData batteryLowMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe21e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe21e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `battery-low-minimalistic-linear`
@@ -3057,10 +3008,9 @@ class SolarIcons {
     IconData(0xe23a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bedside-table-bold-duotone` (duo-tone)
-  static const IconifyIconData bedsideTableBoldDuotone = IconifyIconData.duo(
+  /// `bedside-table-bold-duotone`
+  static const IconifyIconData bedsideTableBoldDuotone = IconifyIconData.solo(
     IconData(0xe23b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe23b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bedside-table-broken`
@@ -3068,10 +3018,9 @@ class SolarIcons {
     IconData(0xe23c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bedside-table-line-duotone` (duo-tone)
-  static const IconifyIconData bedsideTableLineDuotone = IconifyIconData.duo(
+  /// `bedside-table-line-duotone`
+  static const IconifyIconData bedsideTableLineDuotone = IconifyIconData.solo(
     IconData(0xe23d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe23d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bedside-table-linear`
@@ -3121,10 +3070,9 @@ class SolarIcons {
     IconData(0xe246, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bell-bold-duotone` (duo-tone)
-  static const IconifyIconData bellBoldDuotone = IconifyIconData.duo(
+  /// `bell-bold-duotone`
+  static const IconifyIconData bellBoldDuotone = IconifyIconData.solo(
     IconData(0xe247, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe247, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bell-broken`
@@ -3148,10 +3096,9 @@ class SolarIcons {
     IconData(0xe24b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bell-off-bold-duotone` (duo-tone)
-  static const IconifyIconData bellOffBoldDuotone = IconifyIconData.duo(
+  /// `bell-off-bold-duotone`
+  static const IconifyIconData bellOffBoldDuotone = IconifyIconData.solo(
     IconData(0xe24c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe24c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bell-off-broken`
@@ -3249,10 +3196,9 @@ class SolarIcons {
     IconData(0xe25e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bicycling-round-bold-duotone` (duo-tone)
-  static const IconifyIconData bicyclingRoundBoldDuotone = IconifyIconData.duo(
+  /// `bicycling-round-bold-duotone`
+  static const IconifyIconData bicyclingRoundBoldDuotone = IconifyIconData.solo(
     IconData(0xe25f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe25f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bicycling-round-broken`
@@ -3260,10 +3206,9 @@ class SolarIcons {
     IconData(0xe260, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bicycling-round-line-duotone` (duo-tone)
-  static const IconifyIconData bicyclingRoundLineDuotone = IconifyIconData.duo(
+  /// `bicycling-round-line-duotone`
+  static const IconifyIconData bicyclingRoundLineDuotone = IconifyIconData.solo(
     IconData(0xe261, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe261, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bicycling-round-linear`
@@ -3372,10 +3317,9 @@ class SolarIcons {
     IconData(0xe275, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bill-list-bold-duotone` (duo-tone)
-  static const IconifyIconData billListBoldDuotone = IconifyIconData.duo(
+  /// `bill-list-bold-duotone`
+  static const IconifyIconData billListBoldDuotone = IconifyIconData.solo(
     IconData(0xe276, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe276, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bill-list-broken`
@@ -3383,10 +3327,9 @@ class SolarIcons {
     IconData(0xe277, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bill-list-line-duotone` (duo-tone)
-  static const IconifyIconData billListLineDuotone = IconifyIconData.duo(
+  /// `bill-list-line-duotone`
+  static const IconifyIconData billListLineDuotone = IconifyIconData.solo(
     IconData(0xe278, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe278, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bill-list-linear`
@@ -3520,10 +3463,9 @@ class SolarIcons {
     IconData(0xe291, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bluetooth-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData bluetoothCircleBoldDuotone = IconifyIconData.duo(
+  /// `bluetooth-circle-bold-duotone`
+  static const IconifyIconData bluetoothCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe292, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe292, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bluetooth-circle-broken`
@@ -3568,10 +3510,9 @@ class SolarIcons {
     IconData(0xe29a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bluetooth-square-bold-duotone` (duo-tone)
-  static const IconifyIconData bluetoothSquareBoldDuotone = IconifyIconData.duo(
+  /// `bluetooth-square-bold-duotone`
+  static const IconifyIconData bluetoothSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe29b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe29b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bluetooth-square-broken`
@@ -3742,10 +3683,9 @@ class SolarIcons {
     IconData(0xe2bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bolt-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData boltCircleBoldDuotone = IconifyIconData.duo(
+  /// `bolt-circle-bold-duotone`
+  static const IconifyIconData boltCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe2bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2bc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bolt-circle-broken`
@@ -3806,10 +3746,9 @@ class SolarIcons {
     IconData(0xe2c7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bomb-emoji-bold-duotone` (duo-tone)
-  static const IconifyIconData bombEmojiBoldDuotone = IconifyIconData.duo(
+  /// `bomb-emoji-bold-duotone`
+  static const IconifyIconData bombEmojiBoldDuotone = IconifyIconData.solo(
     IconData(0xe2c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2c8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bomb-emoji-broken`
@@ -3860,10 +3799,9 @@ class SolarIcons {
     IconData(0xe2d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bomb-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData bombMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `bomb-minimalistic-line-duotone`
+  static const IconifyIconData bombMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe2d2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2d2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bomb-minimalistic-linear`
@@ -3982,10 +3920,9 @@ class SolarIcons {
     IconData(0xe2e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bones-bold-duotone` (duo-tone)
-  static const IconifyIconData bonesBoldDuotone = IconifyIconData.duo(
+  /// `bones-bold-duotone`
+  static const IconifyIconData bonesBoldDuotone = IconifyIconData.solo(
     IconData(0xe2e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2e9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bones-broken`
@@ -3993,10 +3930,9 @@ class SolarIcons {
     IconData(0xe2ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bones-line-duotone` (duo-tone)
-  static const IconifyIconData bonesLineDuotone = IconifyIconData.duo(
+  /// `bones-line-duotone`
+  static const IconifyIconData bonesLineDuotone = IconifyIconData.solo(
     IconData(0xe2eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2eb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bones-linear`
@@ -4078,10 +4014,9 @@ class SolarIcons {
     IconData(0xe2fa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `book-bold-duotone` (duo-tone)
-  static const IconifyIconData bookBoldDuotone = IconifyIconData.duo(
+  /// `book-bold-duotone`
+  static const IconifyIconData bookBoldDuotone = IconifyIconData.solo(
     IconData(0xe2fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2fb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `book-bookmark-bold`
@@ -4169,10 +4104,9 @@ class SolarIcons {
     IconData(0xe30b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `book-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData bookMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `book-minimalistic-bold-duotone`
+  static const IconifyIconData bookMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe30c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe30c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `book-minimalistic-broken`
@@ -4222,10 +4156,9 @@ class SolarIcons {
     IconData(0xe315, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bookmark-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData bookmarkCircleBoldDuotone = IconifyIconData.duo(
+  /// `bookmark-circle-bold-duotone`
+  static const IconifyIconData bookmarkCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe316, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe316, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bookmark-circle-broken`
@@ -4233,10 +4166,9 @@ class SolarIcons {
     IconData(0xe317, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bookmark-circle-line-duotone` (duo-tone)
-  static const IconifyIconData bookmarkCircleLineDuotone = IconifyIconData.duo(
+  /// `bookmark-circle-line-duotone`
+  static const IconifyIconData bookmarkCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe318, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe318, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bookmark-circle-linear`
@@ -4302,10 +4234,9 @@ class SolarIcons {
     IconData(0xe324, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bookmark-square-bold-duotone` (duo-tone)
-  static const IconifyIconData bookmarkSquareBoldDuotone = IconifyIconData.duo(
+  /// `bookmark-square-bold-duotone`
+  static const IconifyIconData bookmarkSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe325, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe325, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bookmark-square-broken`
@@ -4329,10 +4260,9 @@ class SolarIcons {
     IconData(0xe329, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bookmark-square-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData bookmarkSquareMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `bookmark-square-minimalistic-bold-duotone`
+  static const IconifyIconData bookmarkSquareMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe32a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe32a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bookmark-square-minimalistic-broken`
@@ -4430,10 +4360,9 @@ class SolarIcons {
     IconData(0xe33c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `bowling-bold-duotone` (duo-tone)
-  static const IconifyIconData bowlingBoldDuotone = IconifyIconData.duo(
+  /// `bowling-bold-duotone`
+  static const IconifyIconData bowlingBoldDuotone = IconifyIconData.solo(
     IconData(0xe33d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe33d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `bowling-broken`
@@ -4489,10 +4418,9 @@ class SolarIcons {
     IconData(0xe347, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `box-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData boxMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `box-minimalistic-bold-duotone`
+  static const IconifyIconData boxMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe348, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe348, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `box-minimalistic-broken`
@@ -4526,10 +4454,9 @@ class SolarIcons {
     IconData(0xe34e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `branching-paths-down-bold-duotone` (duo-tone)
-  static const IconifyIconData branchingPathsDownBoldDuotone = IconifyIconData.duo(
+  /// `branching-paths-down-bold-duotone`
+  static const IconifyIconData branchingPathsDownBoldDuotone = IconifyIconData.solo(
     IconData(0xe34f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe34f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `branching-paths-down-broken`
@@ -4558,10 +4485,9 @@ class SolarIcons {
     IconData(0xe354, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `branching-paths-up-bold-duotone` (duo-tone)
-  static const IconifyIconData branchingPathsUpBoldDuotone = IconifyIconData.duo(
+  /// `branching-paths-up-bold-duotone`
+  static const IconifyIconData branchingPathsUpBoldDuotone = IconifyIconData.solo(
     IconData(0xe355, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe355, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `branching-paths-up-broken`
@@ -4841,10 +4767,9 @@ class SolarIcons {
     IconData(0xe389, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `calculator-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData calculatorMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `calculator-minimalistic-bold-duotone`
+  static const IconifyIconData calculatorMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe38a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe38a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `calculator-minimalistic-broken`
@@ -4926,10 +4851,9 @@ class SolarIcons {
     IconData(0xe399, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `calendar-date-bold-duotone` (duo-tone)
-  static const IconifyIconData calendarDateBoldDuotone = IconifyIconData.duo(
+  /// `calendar-date-bold-duotone`
+  static const IconifyIconData calendarDateBoldDuotone = IconifyIconData.solo(
     IconData(0xe39a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe39a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `calendar-date-broken`
@@ -4937,10 +4861,9 @@ class SolarIcons {
     IconData(0xe39b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `calendar-date-line-duotone` (duo-tone)
-  static const IconifyIconData calendarDateLineDuotone = IconifyIconData.duo(
+  /// `calendar-date-line-duotone`
+  static const IconifyIconData calendarDateLineDuotone = IconifyIconData.solo(
     IconData(0xe39c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe39c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `calendar-date-linear`
@@ -4969,10 +4892,9 @@ class SolarIcons {
     IconData(0xe3a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `calendar-mark-bold-duotone` (duo-tone)
-  static const IconifyIconData calendarMarkBoldDuotone = IconifyIconData.duo(
+  /// `calendar-mark-bold-duotone`
+  static const IconifyIconData calendarMarkBoldDuotone = IconifyIconData.solo(
     IconData(0xe3a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3a2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `calendar-mark-broken`
@@ -4980,10 +4902,9 @@ class SolarIcons {
     IconData(0xe3a3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `calendar-mark-line-duotone` (duo-tone)
-  static const IconifyIconData calendarMarkLineDuotone = IconifyIconData.duo(
+  /// `calendar-mark-line-duotone`
+  static const IconifyIconData calendarMarkLineDuotone = IconifyIconData.solo(
     IconData(0xe3a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3a4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `calendar-mark-linear`
@@ -5001,10 +4922,9 @@ class SolarIcons {
     IconData(0xe3a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `calendar-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData calendarMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `calendar-minimalistic-bold-duotone`
+  static const IconifyIconData calendarMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe3a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3a8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `calendar-minimalistic-broken`
@@ -5012,10 +4932,9 @@ class SolarIcons {
     IconData(0xe3a9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `calendar-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData calendarMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `calendar-minimalistic-line-duotone`
+  static const IconifyIconData calendarMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe3aa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3aa, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `calendar-minimalistic-linear`
@@ -5038,10 +4957,9 @@ class SolarIcons {
     IconData(0xe3ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `calendar-search-bold-duotone` (duo-tone)
-  static const IconifyIconData calendarSearchBoldDuotone = IconifyIconData.duo(
+  /// `calendar-search-bold-duotone`
+  static const IconifyIconData calendarSearchBoldDuotone = IconifyIconData.solo(
     IconData(0xe3af, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3af, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `calendar-search-broken`
@@ -5049,10 +4967,9 @@ class SolarIcons {
     IconData(0xe3b0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `calendar-search-line-duotone` (duo-tone)
-  static const IconifyIconData calendarSearchLineDuotone = IconifyIconData.duo(
+  /// `calendar-search-line-duotone`
+  static const IconifyIconData calendarSearchLineDuotone = IconifyIconData.solo(
     IconData(0xe3b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3b1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `calendar-search-linear`
@@ -5198,10 +5115,9 @@ class SolarIcons {
     IconData(0xe3cc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `call-dropped-bold-duotone` (duo-tone)
-  static const IconifyIconData callDroppedBoldDuotone = IconifyIconData.duo(
+  /// `call-dropped-bold-duotone`
+  static const IconifyIconData callDroppedBoldDuotone = IconifyIconData.solo(
     IconData(0xe3cd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3cd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `call-dropped-broken`
@@ -5209,10 +5125,9 @@ class SolarIcons {
     IconData(0xe3ce, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `call-dropped-line-duotone` (duo-tone)
-  static const IconifyIconData callDroppedLineDuotone = IconifyIconData.duo(
+  /// `call-dropped-line-duotone`
+  static const IconifyIconData callDroppedLineDuotone = IconifyIconData.solo(
     IconData(0xe3cf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3cf, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `call-dropped-linear`
@@ -5230,10 +5145,9 @@ class SolarIcons {
     IconData(0xe3d2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `call-dropped-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData callDroppedRoundedBoldDuotone = IconifyIconData.duo(
+  /// `call-dropped-rounded-bold-duotone`
+  static const IconifyIconData callDroppedRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xe3d3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3d3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `call-dropped-rounded-broken`
@@ -5241,10 +5155,9 @@ class SolarIcons {
     IconData(0xe3d4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `call-dropped-rounded-line-duotone` (duo-tone)
-  static const IconifyIconData callDroppedRoundedLineDuotone = IconifyIconData.duo(
+  /// `call-dropped-rounded-line-duotone`
+  static const IconifyIconData callDroppedRoundedLineDuotone = IconifyIconData.solo(
     IconData(0xe3d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3d5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `call-dropped-rounded-linear`
@@ -5262,10 +5175,9 @@ class SolarIcons {
     IconData(0xe3d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `call-medicine-bold-duotone` (duo-tone)
-  static const IconifyIconData callMedicineBoldDuotone = IconifyIconData.duo(
+  /// `call-medicine-bold-duotone`
+  static const IconifyIconData callMedicineBoldDuotone = IconifyIconData.solo(
     IconData(0xe3d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3d9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `call-medicine-broken`
@@ -5273,10 +5185,9 @@ class SolarIcons {
     IconData(0xe3da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `call-medicine-line-duotone` (duo-tone)
-  static const IconifyIconData callMedicineLineDuotone = IconifyIconData.duo(
+  /// `call-medicine-line-duotone`
+  static const IconifyIconData callMedicineLineDuotone = IconifyIconData.solo(
     IconData(0xe3db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3db, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `call-medicine-linear`
@@ -5294,10 +5205,9 @@ class SolarIcons {
     IconData(0xe3de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `call-medicine-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData callMedicineRoundedBoldDuotone = IconifyIconData.duo(
+  /// `call-medicine-rounded-bold-duotone`
+  static const IconifyIconData callMedicineRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xe3df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3df, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `call-medicine-rounded-broken`
@@ -5305,10 +5215,9 @@ class SolarIcons {
     IconData(0xe3e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `call-medicine-rounded-line-duotone` (duo-tone)
-  static const IconifyIconData callMedicineRoundedLineDuotone = IconifyIconData.duo(
+  /// `call-medicine-rounded-line-duotone`
+  static const IconifyIconData callMedicineRoundedLineDuotone = IconifyIconData.solo(
     IconData(0xe3e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3e1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `call-medicine-rounded-linear`
@@ -5369,10 +5278,9 @@ class SolarIcons {
     IconData(0xe3ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `camera-line-duotone` (duo-tone)
-  static const IconifyIconData cameraLineDuotone = IconifyIconData.duo(
+  /// `camera-line-duotone`
+  static const IconifyIconData cameraLineDuotone = IconifyIconData.solo(
     IconData(0xe3ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3ed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `camera-linear`
@@ -5422,10 +5330,9 @@ class SolarIcons {
     IconData(0xe3f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `camera-rotate-bold-duotone` (duo-tone)
-  static const IconifyIconData cameraRotateBoldDuotone = IconifyIconData.duo(
+  /// `camera-rotate-bold-duotone`
+  static const IconifyIconData cameraRotateBoldDuotone = IconifyIconData.solo(
     IconData(0xe3f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3f7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `camera-rotate-broken`
@@ -5433,10 +5340,9 @@ class SolarIcons {
     IconData(0xe3f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `camera-rotate-line-duotone` (duo-tone)
-  static const IconifyIconData cameraRotateLineDuotone = IconifyIconData.duo(
+  /// `camera-rotate-line-duotone`
+  static const IconifyIconData cameraRotateLineDuotone = IconifyIconData.solo(
     IconData(0xe3f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3f9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `camera-rotate-linear`
@@ -5454,10 +5360,9 @@ class SolarIcons {
     IconData(0xe3fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `camera-square-bold-duotone` (duo-tone)
-  static const IconifyIconData cameraSquareBoldDuotone = IconifyIconData.duo(
+  /// `camera-square-bold-duotone`
+  static const IconifyIconData cameraSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe3fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3fd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `camera-square-broken`
@@ -5465,10 +5370,9 @@ class SolarIcons {
     IconData(0xe3fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `camera-square-line-duotone` (duo-tone)
-  static const IconifyIconData cameraSquareLineDuotone = IconifyIconData.duo(
+  /// `camera-square-line-duotone`
+  static const IconifyIconData cameraSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe3ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `camera-square-linear`
@@ -5518,10 +5422,9 @@ class SolarIcons {
     IconData(0xe408, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `card-bold-duotone` (duo-tone)
-  static const IconifyIconData cardBoldDuotone = IconifyIconData.duo(
+  /// `card-bold-duotone`
+  static const IconifyIconData cardBoldDuotone = IconifyIconData.solo(
     IconData(0xe409, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe409, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `card-broken`
@@ -5625,10 +5528,9 @@ class SolarIcons {
     IconData(0xe41c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `card-send-line-duotone` (duo-tone)
-  static const IconifyIconData cardSendLineDuotone = IconifyIconData.duo(
+  /// `card-send-line-duotone`
+  static const IconifyIconData cardSendLineDuotone = IconifyIconData.solo(
     IconData(0xe41d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe41d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `card-send-linear`
@@ -5678,10 +5580,9 @@ class SolarIcons {
     IconData(0xe426, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cardholder-bold-duotone` (duo-tone)
-  static const IconifyIconData cardholderBoldDuotone = IconifyIconData.duo(
+  /// `cardholder-bold-duotone`
+  static const IconifyIconData cardholderBoldDuotone = IconifyIconData.solo(
     IconData(0xe427, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe427, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cardholder-broken`
@@ -5838,10 +5739,9 @@ class SolarIcons {
     IconData(0xe444, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cart-bold-duotone` (duo-tone)
-  static const IconifyIconData cartBoldDuotone = IconifyIconData.duo(
+  /// `cart-bold-duotone`
+  static const IconifyIconData cartBoldDuotone = IconifyIconData.solo(
     IconData(0xe445, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe445, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cart-broken`
@@ -5886,10 +5786,9 @@ class SolarIcons {
     IconData(0xe44d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cart-cross-bold-duotone` (duo-tone)
-  static const IconifyIconData cartCrossBoldDuotone = IconifyIconData.duo(
+  /// `cart-cross-bold-duotone`
+  static const IconifyIconData cartCrossBoldDuotone = IconifyIconData.solo(
     IconData(0xe44e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe44e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cart-cross-broken`
@@ -6052,10 +5951,9 @@ class SolarIcons {
     IconData(0xe46c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cart-large-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData cartLargeMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `cart-large-minimalistic-line-duotone`
+  static const IconifyIconData cartLargeMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe46d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe46d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cart-large-minimalistic-linear`
@@ -6094,10 +5992,9 @@ class SolarIcons {
     IconData(0xe474, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cart-plus-bold-duotone` (duo-tone)
-  static const IconifyIconData cartPlusBoldDuotone = IconifyIconData.duo(
+  /// `cart-plus-bold-duotone`
+  static const IconifyIconData cartPlusBoldDuotone = IconifyIconData.solo(
     IconData(0xe475, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe475, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cart-plus-broken`
@@ -6542,10 +6439,9 @@ class SolarIcons {
     IconData(0xe4c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chart-square-bold-duotone` (duo-tone)
-  static const IconifyIconData chartSquareBoldDuotone = IconifyIconData.duo(
+  /// `chart-square-bold-duotone`
+  static const IconifyIconData chartSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe4c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4c9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chart-square-broken`
@@ -6553,10 +6449,9 @@ class SolarIcons {
     IconData(0xe4ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chart-square-line-duotone` (duo-tone)
-  static const IconifyIconData chartSquareLineDuotone = IconifyIconData.duo(
+  /// `chart-square-line-duotone`
+  static const IconifyIconData chartSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe4cb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4cb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chart-square-linear`
@@ -6606,10 +6501,9 @@ class SolarIcons {
     IconData(0xe4d4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-line-bold-duotone` (duo-tone)
-  static const IconifyIconData chatLineBoldDuotone = IconifyIconData.duo(
+  /// `chat-line-bold-duotone`
+  static const IconifyIconData chatLineBoldDuotone = IconifyIconData.solo(
     IconData(0xe4d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4d5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-line-broken`
@@ -6686,10 +6580,9 @@ class SolarIcons {
     IconData(0xe4e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-round-check-bold-duotone` (duo-tone)
-  static const IconifyIconData chatRoundCheckBoldDuotone = IconifyIconData.duo(
+  /// `chat-round-check-bold-duotone`
+  static const IconifyIconData chatRoundCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xe4e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4e4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-round-check-broken`
@@ -6750,10 +6643,9 @@ class SolarIcons {
     IconData(0xe4ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-round-like-bold-duotone` (duo-tone)
-  static const IconifyIconData chatRoundLikeBoldDuotone = IconifyIconData.duo(
+  /// `chat-round-like-bold-duotone`
+  static const IconifyIconData chatRoundLikeBoldDuotone = IconifyIconData.solo(
     IconData(0xe4f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4f0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-round-like-broken`
@@ -6782,10 +6674,9 @@ class SolarIcons {
     IconData(0xe4f5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-round-line-bold-duotone` (duo-tone)
-  static const IconifyIconData chatRoundLineBoldDuotone = IconifyIconData.duo(
+  /// `chat-round-line-bold-duotone`
+  static const IconifyIconData chatRoundLineBoldDuotone = IconifyIconData.solo(
     IconData(0xe4f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4f6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-round-line-broken`
@@ -6824,10 +6715,9 @@ class SolarIcons {
     IconData(0xe4fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-round-money-bold-duotone` (duo-tone)
-  static const IconifyIconData chatRoundMoneyBoldDuotone = IconifyIconData.duo(
+  /// `chat-round-money-bold-duotone`
+  static const IconifyIconData chatRoundMoneyBoldDuotone = IconifyIconData.solo(
     IconData(0xe4fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4fe, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-round-money-broken`
@@ -6893,10 +6783,9 @@ class SolarIcons {
     IconData(0xe50a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-round-video-bold-duotone` (duo-tone)
-  static const IconifyIconData chatRoundVideoBoldDuotone = IconifyIconData.duo(
+  /// `chat-round-video-bold-duotone`
+  static const IconifyIconData chatRoundVideoBoldDuotone = IconifyIconData.solo(
     IconData(0xe50b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe50b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-round-video-broken`
@@ -6925,10 +6814,9 @@ class SolarIcons {
     IconData(0xe510, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-square-2-bold-duotone` (duo-tone)
-  static const IconifyIconData chatSquare2BoldDuotone = IconifyIconData.duo(
+  /// `chat-square-2-bold-duotone`
+  static const IconifyIconData chatSquare2BoldDuotone = IconifyIconData.solo(
     IconData(0xe511, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe511, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-square-2-broken`
@@ -6936,10 +6824,9 @@ class SolarIcons {
     IconData(0xe512, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-square-2-line-duotone` (duo-tone)
-  static const IconifyIconData chatSquare2LineDuotone = IconifyIconData.duo(
+  /// `chat-square-2-line-duotone`
+  static const IconifyIconData chatSquare2LineDuotone = IconifyIconData.solo(
     IconData(0xe513, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe513, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-square-2-linear`
@@ -7005,10 +6892,9 @@ class SolarIcons {
     IconData(0xe51f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-square-call-bold-duotone` (duo-tone)
-  static const IconifyIconData chatSquareCallBoldDuotone = IconifyIconData.duo(
+  /// `chat-square-call-bold-duotone`
+  static const IconifyIconData chatSquareCallBoldDuotone = IconifyIconData.solo(
     IconData(0xe520, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe520, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-square-call-broken`
@@ -7037,10 +6923,9 @@ class SolarIcons {
     IconData(0xe525, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-square-check-bold-duotone` (duo-tone)
-  static const IconifyIconData chatSquareCheckBoldDuotone = IconifyIconData.duo(
+  /// `chat-square-check-bold-duotone`
+  static const IconifyIconData chatSquareCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xe526, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe526, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-square-check-broken`
@@ -7101,10 +6986,9 @@ class SolarIcons {
     IconData(0xe531, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `chat-square-like-bold-duotone` (duo-tone)
-  static const IconifyIconData chatSquareLikeBoldDuotone = IconifyIconData.duo(
+  /// `chat-square-like-bold-duotone`
+  static const IconifyIconData chatSquareLikeBoldDuotone = IconifyIconData.solo(
     IconData(0xe532, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe532, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `chat-square-like-broken`
@@ -7180,10 +7064,9 @@ class SolarIcons {
     IconData(0xe540, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `check-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData checkCircleBoldDuotone = IconifyIconData.duo(
+  /// `check-circle-bold-duotone`
+  static const IconifyIconData checkCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe541, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe541, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `check-circle-broken`
@@ -7191,10 +7074,9 @@ class SolarIcons {
     IconData(0xe542, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `check-circle-line-duotone` (duo-tone)
-  static const IconifyIconData checkCircleLineDuotone = IconifyIconData.duo(
+  /// `check-circle-line-duotone`
+  static const IconifyIconData checkCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe543, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe543, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `check-circle-linear`
@@ -7212,10 +7094,9 @@ class SolarIcons {
     IconData(0xe546, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `check-read-bold-duotone` (duo-tone)
-  static const IconifyIconData checkReadBoldDuotone = IconifyIconData.duo(
+  /// `check-read-bold-duotone`
+  static const IconifyIconData checkReadBoldDuotone = IconifyIconData.solo(
     IconData(0xe547, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe547, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `check-read-broken`
@@ -7244,10 +7125,9 @@ class SolarIcons {
     IconData(0xe54c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `check-square-bold-duotone` (duo-tone)
-  static const IconifyIconData checkSquareBoldDuotone = IconifyIconData.duo(
+  /// `check-square-bold-duotone`
+  static const IconifyIconData checkSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe54d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe54d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `check-square-broken`
@@ -7255,10 +7135,9 @@ class SolarIcons {
     IconData(0xe54e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `check-square-line-duotone` (duo-tone)
-  static const IconifyIconData checkSquareLineDuotone = IconifyIconData.duo(
+  /// `check-square-line-duotone`
+  static const IconifyIconData checkSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe54f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe54f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `check-square-linear`
@@ -7303,10 +7182,9 @@ class SolarIcons {
     IconData(0xe557, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `checklist-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData checklistMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `checklist-minimalistic-bold-duotone`
+  static const IconifyIconData checklistMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe558, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe558, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `checklist-minimalistic-broken`
@@ -7314,10 +7192,9 @@ class SolarIcons {
     IconData(0xe559, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `checklist-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData checklistMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `checklist-minimalistic-line-duotone`
+  static const IconifyIconData checklistMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe55a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe55a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `checklist-minimalistic-linear`
@@ -7436,10 +7313,9 @@ class SolarIcons {
     IconData(0xe570, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `circle-bottom-down-bold-duotone` (duo-tone)
-  static const IconifyIconData circleBottomDownBoldDuotone = IconifyIconData.duo(
+  /// `circle-bottom-down-bold-duotone`
+  static const IconifyIconData circleBottomDownBoldDuotone = IconifyIconData.solo(
     IconData(0xe571, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe571, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `circle-bottom-down-broken`
@@ -7468,10 +7344,9 @@ class SolarIcons {
     IconData(0xe576, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `circle-bottom-up-bold-duotone` (duo-tone)
-  static const IconifyIconData circleBottomUpBoldDuotone = IconifyIconData.duo(
+  /// `circle-bottom-up-bold-duotone`
+  static const IconifyIconData circleBottomUpBoldDuotone = IconifyIconData.solo(
     IconData(0xe577, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe577, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `circle-bottom-up-broken`
@@ -7479,10 +7354,9 @@ class SolarIcons {
     IconData(0xe578, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `circle-bottom-up-line-duotone` (duo-tone)
-  static const IconifyIconData circleBottomUpLineDuotone = IconifyIconData.duo(
+  /// `circle-bottom-up-line-duotone`
+  static const IconifyIconData circleBottomUpLineDuotone = IconifyIconData.solo(
     IconData(0xe579, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe579, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `circle-bottom-up-linear`
@@ -7500,10 +7374,9 @@ class SolarIcons {
     IconData(0xe57c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `circle-top-down-bold-duotone` (duo-tone)
-  static const IconifyIconData circleTopDownBoldDuotone = IconifyIconData.duo(
+  /// `circle-top-down-bold-duotone`
+  static const IconifyIconData circleTopDownBoldDuotone = IconifyIconData.solo(
     IconData(0xe57d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe57d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `circle-top-down-broken`
@@ -7532,10 +7405,9 @@ class SolarIcons {
     IconData(0xe582, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `circle-top-up-bold-duotone` (duo-tone)
-  static const IconifyIconData circleTopUpBoldDuotone = IconifyIconData.duo(
+  /// `circle-top-up-bold-duotone`
+  static const IconifyIconData circleTopUpBoldDuotone = IconifyIconData.solo(
     IconData(0xe583, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe583, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `circle-top-up-broken`
@@ -7543,10 +7415,9 @@ class SolarIcons {
     IconData(0xe584, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `circle-top-up-line-duotone` (duo-tone)
-  static const IconifyIconData circleTopUpLineDuotone = IconifyIconData.duo(
+  /// `circle-top-up-line-duotone`
+  static const IconifyIconData circleTopUpLineDuotone = IconifyIconData.solo(
     IconData(0xe585, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe585, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `circle-top-up-linear`
@@ -7639,10 +7510,9 @@ class SolarIcons {
     IconData(0xe596, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clapperboard-line-duotone` (duo-tone)
-  static const IconifyIconData clapperboardLineDuotone = IconifyIconData.duo(
+  /// `clapperboard-line-duotone`
+  static const IconifyIconData clapperboardLineDuotone = IconifyIconData.solo(
     IconData(0xe597, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe597, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clapperboard-linear`
@@ -7687,10 +7557,9 @@ class SolarIcons {
     IconData(0xe59f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clapperboard-open-play-bold-duotone` (duo-tone)
-  static const IconifyIconData clapperboardOpenPlayBoldDuotone = IconifyIconData.duo(
+  /// `clapperboard-open-play-bold-duotone`
+  static const IconifyIconData clapperboardOpenPlayBoldDuotone = IconifyIconData.solo(
     IconData(0xe5a0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5a0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clapperboard-open-play-broken`
@@ -7724,10 +7593,9 @@ class SolarIcons {
     IconData(0xe5a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clapperboard-play-bold-duotone` (duo-tone)
-  static const IconifyIconData clapperboardPlayBoldDuotone = IconifyIconData.duo(
+  /// `clapperboard-play-bold-duotone`
+  static const IconifyIconData clapperboardPlayBoldDuotone = IconifyIconData.solo(
     IconData(0xe5a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5a7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clapperboard-play-broken`
@@ -7756,10 +7624,9 @@ class SolarIcons {
     IconData(0xe5ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clapperboard-text-bold-duotone` (duo-tone)
-  static const IconifyIconData clapperboardTextBoldDuotone = IconifyIconData.duo(
+  /// `clapperboard-text-bold-duotone`
+  static const IconifyIconData clapperboardTextBoldDuotone = IconifyIconData.solo(
     IconData(0xe5ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5ad, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clapperboard-text-broken`
@@ -7820,10 +7687,9 @@ class SolarIcons {
     IconData(0xe5b8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-bold-duotone` (duo-tone)
-  static const IconifyIconData clipboardBoldDuotone = IconifyIconData.duo(
+  /// `clipboard-bold-duotone`
+  static const IconifyIconData clipboardBoldDuotone = IconifyIconData.solo(
     IconData(0xe5b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5b9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-broken`
@@ -7836,10 +7702,9 @@ class SolarIcons {
     IconData(0xe5bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-check-bold-duotone` (duo-tone)
-  static const IconifyIconData clipboardCheckBoldDuotone = IconifyIconData.duo(
+  /// `clipboard-check-bold-duotone`
+  static const IconifyIconData clipboardCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xe5bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5bc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-check-broken`
@@ -7847,10 +7712,9 @@ class SolarIcons {
     IconData(0xe5bd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-check-line-duotone` (duo-tone)
-  static const IconifyIconData clipboardCheckLineDuotone = IconifyIconData.duo(
+  /// `clipboard-check-line-duotone`
+  static const IconifyIconData clipboardCheckLineDuotone = IconifyIconData.solo(
     IconData(0xe5be, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5be, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-check-linear`
@@ -7868,10 +7732,9 @@ class SolarIcons {
     IconData(0xe5c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-heart-bold-duotone` (duo-tone)
-  static const IconifyIconData clipboardHeartBoldDuotone = IconifyIconData.duo(
+  /// `clipboard-heart-bold-duotone`
+  static const IconifyIconData clipboardHeartBoldDuotone = IconifyIconData.solo(
     IconData(0xe5c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5c2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-heart-broken`
@@ -7879,10 +7742,9 @@ class SolarIcons {
     IconData(0xe5c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-heart-line-duotone` (duo-tone)
-  static const IconifyIconData clipboardHeartLineDuotone = IconifyIconData.duo(
+  /// `clipboard-heart-line-duotone`
+  static const IconifyIconData clipboardHeartLineDuotone = IconifyIconData.solo(
     IconData(0xe5c4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5c4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-heart-linear`
@@ -7911,10 +7773,9 @@ class SolarIcons {
     IconData(0xe5c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-list-bold-duotone` (duo-tone)
-  static const IconifyIconData clipboardListBoldDuotone = IconifyIconData.duo(
+  /// `clipboard-list-bold-duotone`
+  static const IconifyIconData clipboardListBoldDuotone = IconifyIconData.solo(
     IconData(0xe5ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5ca, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-list-broken`
@@ -7922,10 +7783,9 @@ class SolarIcons {
     IconData(0xe5cb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-list-line-duotone` (duo-tone)
-  static const IconifyIconData clipboardListLineDuotone = IconifyIconData.duo(
+  /// `clipboard-list-line-duotone`
+  static const IconifyIconData clipboardListLineDuotone = IconifyIconData.solo(
     IconData(0xe5cc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5cc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-list-linear`
@@ -7948,10 +7808,9 @@ class SolarIcons {
     IconData(0xe5d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-remove-bold-duotone` (duo-tone)
-  static const IconifyIconData clipboardRemoveBoldDuotone = IconifyIconData.duo(
+  /// `clipboard-remove-bold-duotone`
+  static const IconifyIconData clipboardRemoveBoldDuotone = IconifyIconData.solo(
     IconData(0xe5d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5d1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-remove-broken`
@@ -7959,10 +7818,9 @@ class SolarIcons {
     IconData(0xe5d2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-remove-line-duotone` (duo-tone)
-  static const IconifyIconData clipboardRemoveLineDuotone = IconifyIconData.duo(
+  /// `clipboard-remove-line-duotone`
+  static const IconifyIconData clipboardRemoveLineDuotone = IconifyIconData.solo(
     IconData(0xe5d3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5d3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-remove-linear`
@@ -7980,10 +7838,9 @@ class SolarIcons {
     IconData(0xe5d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clipboard-text-bold-duotone` (duo-tone)
-  static const IconifyIconData clipboardTextBoldDuotone = IconifyIconData.duo(
+  /// `clipboard-text-bold-duotone`
+  static const IconifyIconData clipboardTextBoldDuotone = IconifyIconData.solo(
     IconData(0xe5d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5d7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clipboard-text-broken`
@@ -8012,10 +7869,9 @@ class SolarIcons {
     IconData(0xe5dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clock-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData clockCircleBoldDuotone = IconifyIconData.duo(
+  /// `clock-circle-bold-duotone`
+  static const IconifyIconData clockCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe5dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5dd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clock-circle-broken`
@@ -8023,10 +7879,9 @@ class SolarIcons {
     IconData(0xe5de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clock-circle-line-duotone` (duo-tone)
-  static const IconifyIconData clockCircleLineDuotone = IconifyIconData.duo(
+  /// `clock-circle-line-duotone`
+  static const IconifyIconData clockCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe5df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5df, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clock-circle-linear`
@@ -8044,10 +7899,9 @@ class SolarIcons {
     IconData(0xe5e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clock-square-bold-duotone` (duo-tone)
-  static const IconifyIconData clockSquareBoldDuotone = IconifyIconData.duo(
+  /// `clock-square-bold-duotone`
+  static const IconifyIconData clockSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe5e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clock-square-broken`
@@ -8055,10 +7909,9 @@ class SolarIcons {
     IconData(0xe5e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clock-square-line-duotone` (duo-tone)
-  static const IconifyIconData clockSquareLineDuotone = IconifyIconData.duo(
+  /// `clock-square-line-duotone`
+  static const IconifyIconData clockSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe5e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5e5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clock-square-linear`
@@ -8076,10 +7929,9 @@ class SolarIcons {
     IconData(0xe5e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `close-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData closeCircleBoldDuotone = IconifyIconData.duo(
+  /// `close-circle-bold-duotone`
+  static const IconifyIconData closeCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe5e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5e9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `close-circle-broken`
@@ -8087,10 +7939,9 @@ class SolarIcons {
     IconData(0xe5ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `close-circle-line-duotone` (duo-tone)
-  static const IconifyIconData closeCircleLineDuotone = IconifyIconData.duo(
+  /// `close-circle-line-duotone`
+  static const IconifyIconData closeCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe5eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5eb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `close-circle-linear`
@@ -8108,10 +7959,9 @@ class SolarIcons {
     IconData(0xe5ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `close-square-bold-duotone` (duo-tone)
-  static const IconifyIconData closeSquareBoldDuotone = IconifyIconData.duo(
+  /// `close-square-bold-duotone`
+  static const IconifyIconData closeSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe5ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5ef, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `close-square-broken`
@@ -8119,10 +7969,9 @@ class SolarIcons {
     IconData(0xe5f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `close-square-line-duotone` (duo-tone)
-  static const IconifyIconData closeSquareLineDuotone = IconifyIconData.duo(
+  /// `close-square-line-duotone`
+  static const IconifyIconData closeSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe5f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe5f1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `close-square-linear`
@@ -8253,10 +8102,9 @@ class SolarIcons {
     IconData(0xe609, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-bolt-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData cloudBoltMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `cloud-bolt-minimalistic-line-duotone`
+  static const IconifyIconData cloudBoltMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe60a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe60a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-bolt-minimalistic-linear`
@@ -8316,10 +8164,9 @@ class SolarIcons {
     IconData(0xe615, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-cross-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudCrossBoldDuotone = IconifyIconData.duo(
+  /// `cloud-cross-bold-duotone`
+  static const IconifyIconData cloudCrossBoldDuotone = IconifyIconData.solo(
     IconData(0xe616, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe616, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-cross-broken`
@@ -8327,10 +8174,9 @@ class SolarIcons {
     IconData(0xe617, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-cross-line-duotone` (duo-tone)
-  static const IconifyIconData cloudCrossLineDuotone = IconifyIconData.duo(
+  /// `cloud-cross-line-duotone`
+  static const IconifyIconData cloudCrossLineDuotone = IconifyIconData.solo(
     IconData(0xe618, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe618, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-cross-linear`
@@ -8348,10 +8194,9 @@ class SolarIcons {
     IconData(0xe61b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-download-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudDownloadBoldDuotone = IconifyIconData.duo(
+  /// `cloud-download-bold-duotone`
+  static const IconifyIconData cloudDownloadBoldDuotone = IconifyIconData.solo(
     IconData(0xe61c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe61c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-download-broken`
@@ -8359,10 +8204,9 @@ class SolarIcons {
     IconData(0xe61d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-download-line-duotone` (duo-tone)
-  static const IconifyIconData cloudDownloadLineDuotone = IconifyIconData.duo(
+  /// `cloud-download-line-duotone`
+  static const IconifyIconData cloudDownloadLineDuotone = IconifyIconData.solo(
     IconData(0xe61e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe61e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-download-linear`
@@ -8423,10 +8267,9 @@ class SolarIcons {
     IconData(0xe629, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-minus-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudMinusBoldDuotone = IconifyIconData.duo(
+  /// `cloud-minus-bold-duotone`
+  static const IconifyIconData cloudMinusBoldDuotone = IconifyIconData.solo(
     IconData(0xe62a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe62a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-minus-broken`
@@ -8434,10 +8277,9 @@ class SolarIcons {
     IconData(0xe62b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-minus-line-duotone` (duo-tone)
-  static const IconifyIconData cloudMinusLineDuotone = IconifyIconData.duo(
+  /// `cloud-minus-line-duotone`
+  static const IconifyIconData cloudMinusLineDuotone = IconifyIconData.solo(
     IconData(0xe62c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe62c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-minus-linear`
@@ -8460,10 +8302,9 @@ class SolarIcons {
     IconData(0xe630, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-plus-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudPlusBoldDuotone = IconifyIconData.duo(
+  /// `cloud-plus-bold-duotone`
+  static const IconifyIconData cloudPlusBoldDuotone = IconifyIconData.solo(
     IconData(0xe631, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe631, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-plus-broken`
@@ -8471,10 +8312,9 @@ class SolarIcons {
     IconData(0xe632, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-plus-line-duotone` (duo-tone)
-  static const IconifyIconData cloudPlusLineDuotone = IconifyIconData.duo(
+  /// `cloud-plus-line-duotone`
+  static const IconifyIconData cloudPlusLineDuotone = IconifyIconData.solo(
     IconData(0xe633, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe633, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-plus-linear`
@@ -8524,10 +8364,9 @@ class SolarIcons {
     IconData(0xe63c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-snowfall-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudSnowfallBoldDuotone = IconifyIconData.duo(
+  /// `cloud-snowfall-bold-duotone`
+  static const IconifyIconData cloudSnowfallBoldDuotone = IconifyIconData.solo(
     IconData(0xe63d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe63d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-snowfall-broken`
@@ -8535,10 +8374,9 @@ class SolarIcons {
     IconData(0xe63e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-snowfall-line-duotone` (duo-tone)
-  static const IconifyIconData cloudSnowfallLineDuotone = IconifyIconData.duo(
+  /// `cloud-snowfall-line-duotone`
+  static const IconifyIconData cloudSnowfallLineDuotone = IconifyIconData.solo(
     IconData(0xe63f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe63f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-snowfall-linear`
@@ -8551,10 +8389,9 @@ class SolarIcons {
     IconData(0xe641, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-snowfall-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudSnowfallMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `cloud-snowfall-minimalistic-bold-duotone`
+  static const IconifyIconData cloudSnowfallMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe642, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe642, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-snowfall-minimalistic-broken`
@@ -8562,10 +8399,9 @@ class SolarIcons {
     IconData(0xe643, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-snowfall-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData cloudSnowfallMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `cloud-snowfall-minimalistic-line-duotone`
+  static const IconifyIconData cloudSnowfallMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe644, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe644, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-snowfall-minimalistic-linear`
@@ -8620,10 +8456,9 @@ class SolarIcons {
     IconData(0xe64e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-storm-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudStormBoldDuotone = IconifyIconData.duo(
+  /// `cloud-storm-bold-duotone`
+  static const IconifyIconData cloudStormBoldDuotone = IconifyIconData.solo(
     IconData(0xe64f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe64f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-storm-broken`
@@ -8631,10 +8466,9 @@ class SolarIcons {
     IconData(0xe650, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-storm-line-duotone` (duo-tone)
-  static const IconifyIconData cloudStormLineDuotone = IconifyIconData.duo(
+  /// `cloud-storm-line-duotone`
+  static const IconifyIconData cloudStormLineDuotone = IconifyIconData.solo(
     IconData(0xe651, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe651, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-storm-linear`
@@ -8716,10 +8550,9 @@ class SolarIcons {
     IconData(0xe660, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-upload-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudUploadBoldDuotone = IconifyIconData.duo(
+  /// `cloud-upload-bold-duotone`
+  static const IconifyIconData cloudUploadBoldDuotone = IconifyIconData.solo(
     IconData(0xe661, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe661, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-upload-broken`
@@ -8727,10 +8560,9 @@ class SolarIcons {
     IconData(0xe662, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-upload-line-duotone` (duo-tone)
-  static const IconifyIconData cloudUploadLineDuotone = IconifyIconData.duo(
+  /// `cloud-upload-line-duotone`
+  static const IconifyIconData cloudUploadLineDuotone = IconifyIconData.solo(
     IconData(0xe663, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe663, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-upload-linear`
@@ -8748,10 +8580,9 @@ class SolarIcons {
     IconData(0xe666, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-waterdrop-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudWaterdropBoldDuotone = IconifyIconData.duo(
+  /// `cloud-waterdrop-bold-duotone`
+  static const IconifyIconData cloudWaterdropBoldDuotone = IconifyIconData.solo(
     IconData(0xe667, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe667, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-waterdrop-broken`
@@ -8759,10 +8590,9 @@ class SolarIcons {
     IconData(0xe668, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-waterdrop-line-duotone` (duo-tone)
-  static const IconifyIconData cloudWaterdropLineDuotone = IconifyIconData.duo(
+  /// `cloud-waterdrop-line-duotone`
+  static const IconifyIconData cloudWaterdropLineDuotone = IconifyIconData.solo(
     IconData(0xe669, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe669, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-waterdrop-linear`
@@ -8780,10 +8610,9 @@ class SolarIcons {
     IconData(0xe66c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cloud-waterdrops-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudWaterdropsBoldDuotone = IconifyIconData.duo(
+  /// `cloud-waterdrops-bold-duotone`
+  static const IconifyIconData cloudWaterdropsBoldDuotone = IconifyIconData.solo(
     IconData(0xe66d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe66d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cloud-waterdrops-broken`
@@ -8812,10 +8641,9 @@ class SolarIcons {
     IconData(0xe672, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clouds-bold-duotone` (duo-tone)
-  static const IconifyIconData cloudsBoldDuotone = IconifyIconData.duo(
+  /// `clouds-bold-duotone`
+  static const IconifyIconData cloudsBoldDuotone = IconifyIconData.solo(
     IconData(0xe673, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe673, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clouds-broken`
@@ -8873,34 +8701,32 @@ class SolarIcons {
 
   /// `clound-cross-bold`
   static const IconifyIconData cloundCrossBold = IconifyIconData.solo(
-    IconData(0xe67e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xe615, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clound-cross-bold-duotone` (duo-tone)
-  static const IconifyIconData cloundCrossBoldDuotone = IconifyIconData.duo(
-    IconData(0xe67f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe67f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
+  /// `clound-cross-bold-duotone`
+  static const IconifyIconData cloundCrossBoldDuotone = IconifyIconData.solo(
+    IconData(0xe616, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clound-cross-broken`
   static const IconifyIconData cloundCrossBroken = IconifyIconData.solo(
-    IconData(0xe680, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xe617, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `clound-cross-line-duotone` (duo-tone)
-  static const IconifyIconData cloundCrossLineDuotone = IconifyIconData.duo(
-    IconData(0xe681, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe681, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
+  /// `clound-cross-line-duotone`
+  static const IconifyIconData cloundCrossLineDuotone = IconifyIconData.solo(
+    IconData(0xe618, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clound-cross-linear`
   static const IconifyIconData cloundCrossLinear = IconifyIconData.solo(
-    IconData(0xe682, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xe619, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `clound-cross-outline`
   static const IconifyIconData cloundCrossOutline = IconifyIconData.solo(
-    IconData(0xe683, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xe61a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `code-2-bold`
@@ -8956,10 +8782,9 @@ class SolarIcons {
     IconData(0xe68d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `code-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData codeCircleBoldDuotone = IconifyIconData.duo(
+  /// `code-circle-bold-duotone`
+  static const IconifyIconData codeCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe68e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe68e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `code-circle-broken`
@@ -8988,10 +8813,9 @@ class SolarIcons {
     IconData(0xe693, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `code-file-bold-duotone` (duo-tone)
-  static const IconifyIconData codeFileBoldDuotone = IconifyIconData.duo(
+  /// `code-file-bold-duotone`
+  static const IconifyIconData codeFileBoldDuotone = IconifyIconData.solo(
     IconData(0xe694, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe694, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `code-file-broken`
@@ -9068,10 +8892,9 @@ class SolarIcons {
     IconData(0xe6a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `code-square-bold-duotone` (duo-tone)
-  static const IconifyIconData codeSquareBoldDuotone = IconifyIconData.duo(
+  /// `code-square-bold-duotone`
+  static const IconifyIconData codeSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe6a3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6a3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `code-square-broken`
@@ -9079,10 +8902,9 @@ class SolarIcons {
     IconData(0xe6a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `code-square-line-duotone` (duo-tone)
-  static const IconifyIconData codeSquareLineDuotone = IconifyIconData.duo(
+  /// `code-square-line-duotone`
+  static const IconifyIconData codeSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe6a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6a5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `code-square-linear`
@@ -9196,10 +9018,9 @@ class SolarIcons {
     IconData(0xe6ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `compass-bold-duotone` (duo-tone)
-  static const IconifyIconData compassBoldDuotone = IconifyIconData.duo(
+  /// `compass-bold-duotone`
+  static const IconifyIconData compassBoldDuotone = IconifyIconData.solo(
     IconData(0xe6bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6bb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `compass-broken`
@@ -9207,10 +9028,9 @@ class SolarIcons {
     IconData(0xe6bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `compass-line-duotone` (duo-tone)
-  static const IconifyIconData compassLineDuotone = IconifyIconData.duo(
+  /// `compass-line-duotone`
+  static const IconifyIconData compassLineDuotone = IconifyIconData.solo(
     IconData(0xe6bd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6bd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `compass-linear`
@@ -9228,10 +9048,9 @@ class SolarIcons {
     IconData(0xe6c0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `compass-square-bold-duotone` (duo-tone)
-  static const IconifyIconData compassSquareBoldDuotone = IconifyIconData.duo(
+  /// `compass-square-bold-duotone`
+  static const IconifyIconData compassSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe6c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6c1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `compass-square-broken`
@@ -9239,10 +9058,9 @@ class SolarIcons {
     IconData(0xe6c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `compass-square-line-duotone` (duo-tone)
-  static const IconifyIconData compassSquareLineDuotone = IconifyIconData.duo(
+  /// `compass-square-line-duotone`
+  static const IconifyIconData compassSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe6c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6c3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `compass-square-linear`
@@ -9388,10 +9206,9 @@ class SolarIcons {
     IconData(0xe6de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `confounded-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData confoundedCircleBoldDuotone = IconifyIconData.duo(
+  /// `confounded-circle-bold-duotone`
+  static const IconifyIconData confoundedCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe6df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6df, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `confounded-circle-broken`
@@ -9399,10 +9216,9 @@ class SolarIcons {
     IconData(0xe6e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `confounded-circle-line-duotone` (duo-tone)
-  static const IconifyIconData confoundedCircleLineDuotone = IconifyIconData.duo(
+  /// `confounded-circle-line-duotone`
+  static const IconifyIconData confoundedCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe6e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6e1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `confounded-circle-linear`
@@ -9420,10 +9236,9 @@ class SolarIcons {
     IconData(0xe6e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `confounded-square-bold-duotone` (duo-tone)
-  static const IconifyIconData confoundedSquareBoldDuotone = IconifyIconData.duo(
+  /// `confounded-square-bold-duotone`
+  static const IconifyIconData confoundedSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe6e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6e5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `confounded-square-broken`
@@ -9431,10 +9246,9 @@ class SolarIcons {
     IconData(0xe6e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `confounded-square-line-duotone` (duo-tone)
-  static const IconifyIconData confoundedSquareLineDuotone = IconifyIconData.duo(
+  /// `confounded-square-line-duotone`
+  static const IconifyIconData confoundedSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe6e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6e7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `confounded-square-linear`
@@ -9484,10 +9298,9 @@ class SolarIcons {
     IconData(0xe6f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `copyright-bold-duotone` (duo-tone)
-  static const IconifyIconData copyrightBoldDuotone = IconifyIconData.duo(
+  /// `copyright-bold-duotone`
+  static const IconifyIconData copyrightBoldDuotone = IconifyIconData.solo(
     IconData(0xe6f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6f1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `copyright-broken`
@@ -9495,10 +9308,9 @@ class SolarIcons {
     IconData(0xe6f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `copyright-line-duotone` (duo-tone)
-  static const IconifyIconData copyrightLineDuotone = IconifyIconData.duo(
+  /// `copyright-line-duotone`
+  static const IconifyIconData copyrightLineDuotone = IconifyIconData.solo(
     IconData(0xe6f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe6f3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `copyright-linear`
@@ -9687,10 +9499,9 @@ class SolarIcons {
     IconData(0xe716, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cpu-line-duotone` (duo-tone)
-  static const IconifyIconData cpuLineDuotone = IconifyIconData.duo(
+  /// `cpu-line-duotone`
+  static const IconifyIconData cpuLineDuotone = IconifyIconData.solo(
     IconData(0xe717, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe717, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cpu-linear`
@@ -9708,10 +9519,9 @@ class SolarIcons {
     IconData(0xe71a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `creative-commons-bold-duotone` (duo-tone)
-  static const IconifyIconData creativeCommonsBoldDuotone = IconifyIconData.duo(
+  /// `creative-commons-bold-duotone`
+  static const IconifyIconData creativeCommonsBoldDuotone = IconifyIconData.solo(
     IconData(0xe71b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe71b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `creative-commons-broken`
@@ -9719,10 +9529,9 @@ class SolarIcons {
     IconData(0xe71c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `creative-commons-line-duotone` (duo-tone)
-  static const IconifyIconData creativeCommonsLineDuotone = IconifyIconData.duo(
+  /// `creative-commons-line-duotone`
+  static const IconifyIconData creativeCommonsLineDuotone = IconifyIconData.solo(
     IconData(0xe71d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe71d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `creative-commons-linear`
@@ -9767,10 +9576,9 @@ class SolarIcons {
     IconData(0xe725, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `crop-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData cropMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `crop-minimalistic-bold-duotone`
+  static const IconifyIconData cropMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe726, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe726, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `crop-minimalistic-broken`
@@ -9778,10 +9586,9 @@ class SolarIcons {
     IconData(0xe727, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `crop-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData cropMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `crop-minimalistic-line-duotone`
+  static const IconifyIconData cropMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe728, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe728, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `crop-minimalistic-linear`
@@ -9837,10 +9644,9 @@ class SolarIcons {
     IconData(0xe732, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `crown-line-line-duotone` (duo-tone)
-  static const IconifyIconData crownLineLineDuotone = IconifyIconData.duo(
+  /// `crown-line-line-duotone`
+  static const IconifyIconData crownLineLineDuotone = IconifyIconData.solo(
     IconData(0xe733, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe733, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `crown-line-linear`
@@ -9899,10 +9705,9 @@ class SolarIcons {
     IconData(0xe73e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `crown-star-bold-duotone` (duo-tone)
-  static const IconifyIconData crownStarBoldDuotone = IconifyIconData.duo(
+  /// `crown-star-bold-duotone`
+  static const IconifyIconData crownStarBoldDuotone = IconifyIconData.solo(
     IconData(0xe73f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe73f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `crown-star-broken`
@@ -10022,10 +9827,9 @@ class SolarIcons {
     IconData(0xe755, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cup-music-bold-duotone` (duo-tone)
-  static const IconifyIconData cupMusicBoldDuotone = IconifyIconData.duo(
+  /// `cup-music-bold-duotone`
+  static const IconifyIconData cupMusicBoldDuotone = IconifyIconData.solo(
     IconData(0xe756, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe756, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cup-music-broken`
@@ -10033,10 +9837,9 @@ class SolarIcons {
     IconData(0xe757, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cup-music-line-duotone` (duo-tone)
-  static const IconifyIconData cupMusicLineDuotone = IconifyIconData.duo(
+  /// `cup-music-line-duotone`
+  static const IconifyIconData cupMusicLineDuotone = IconifyIconData.solo(
     IconData(0xe758, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe758, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cup-music-linear`
@@ -10091,10 +9894,9 @@ class SolarIcons {
     IconData(0xe762, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cup-star-bold-duotone` (duo-tone)
-  static const IconifyIconData cupStarBoldDuotone = IconifyIconData.duo(
+  /// `cup-star-bold-duotone`
+  static const IconifyIconData cupStarBoldDuotone = IconifyIconData.solo(
     IconData(0xe763, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe763, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cup-star-broken`
@@ -10102,10 +9904,9 @@ class SolarIcons {
     IconData(0xe764, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cup-star-line-duotone` (duo-tone)
-  static const IconifyIconData cupStarLineDuotone = IconifyIconData.duo(
+  /// `cup-star-line-duotone`
+  static const IconifyIconData cupStarLineDuotone = IconifyIconData.solo(
     IconData(0xe765, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe765, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cup-star-linear`
@@ -10155,10 +9956,9 @@ class SolarIcons {
     IconData(0xe76e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cursor-square-bold-duotone` (duo-tone)
-  static const IconifyIconData cursorSquareBoldDuotone = IconifyIconData.duo(
+  /// `cursor-square-bold-duotone`
+  static const IconifyIconData cursorSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe76f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe76f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cursor-square-broken`
@@ -10166,10 +9966,9 @@ class SolarIcons {
     IconData(0xe770, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `cursor-square-line-duotone` (duo-tone)
-  static const IconifyIconData cursorSquareLineDuotone = IconifyIconData.duo(
+  /// `cursor-square-line-duotone`
+  static const IconifyIconData cursorSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe771, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe771, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `cursor-square-linear`
@@ -10203,10 +10002,9 @@ class SolarIcons {
     IconData(0xe777, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `danger-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData dangerCircleBoldDuotone = IconifyIconData.duo(
+  /// `danger-circle-bold-duotone`
+  static const IconifyIconData dangerCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe778, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe778, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `danger-circle-broken`
@@ -10214,10 +10012,9 @@ class SolarIcons {
     IconData(0xe779, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `danger-circle-line-duotone` (duo-tone)
-  static const IconifyIconData dangerCircleLineDuotone = IconifyIconData.duo(
+  /// `danger-circle-line-duotone`
+  static const IconifyIconData dangerCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe77a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe77a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `danger-circle-linear`
@@ -10251,10 +10048,9 @@ class SolarIcons {
     IconData(0xe780, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `danger-square-bold-duotone` (duo-tone)
-  static const IconifyIconData dangerSquareBoldDuotone = IconifyIconData.duo(
+  /// `danger-square-bold-duotone`
+  static const IconifyIconData dangerSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe781, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe781, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `danger-square-broken`
@@ -10262,10 +10058,9 @@ class SolarIcons {
     IconData(0xe782, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `danger-square-line-duotone` (duo-tone)
-  static const IconifyIconData dangerSquareLineDuotone = IconifyIconData.duo(
+  /// `danger-square-line-duotone`
+  static const IconifyIconData dangerSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe783, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe783, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `danger-square-linear`
@@ -10443,10 +10238,9 @@ class SolarIcons {
     IconData(0xe7a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `diagram-up-bold-duotone` (duo-tone)
-  static const IconifyIconData diagramUpBoldDuotone = IconifyIconData.duo(
+  /// `diagram-up-bold-duotone`
+  static const IconifyIconData diagramUpBoldDuotone = IconifyIconData.solo(
     IconData(0xe7a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe7a5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `diagram-up-broken`
@@ -10454,10 +10248,9 @@ class SolarIcons {
     IconData(0xe7a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `diagram-up-line-duotone` (duo-tone)
-  static const IconifyIconData diagramUpLineDuotone = IconifyIconData.duo(
+  /// `diagram-up-line-duotone`
+  static const IconifyIconData diagramUpLineDuotone = IconifyIconData.solo(
     IconData(0xe7a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe7a7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `diagram-up-linear`
@@ -10763,10 +10556,9 @@ class SolarIcons {
     IconData(0xe7e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `document-bold-duotone` (duo-tone)
-  static const IconifyIconData documentBoldDuotone = IconifyIconData.duo(
+  /// `document-bold-duotone`
+  static const IconifyIconData documentBoldDuotone = IconifyIconData.solo(
     IconData(0xe7e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe7e1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `document-broken`
@@ -10774,10 +10566,9 @@ class SolarIcons {
     IconData(0xe7e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `document-line-duotone` (duo-tone)
-  static const IconifyIconData documentLineDuotone = IconifyIconData.duo(
+  /// `document-line-duotone`
+  static const IconifyIconData documentLineDuotone = IconifyIconData.solo(
     IconData(0xe7e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe7e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `document-linear`
@@ -10790,10 +10581,9 @@ class SolarIcons {
     IconData(0xe7e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `document-medicine-bold-duotone` (duo-tone)
-  static const IconifyIconData documentMedicineBoldDuotone = IconifyIconData.duo(
+  /// `document-medicine-bold-duotone`
+  static const IconifyIconData documentMedicineBoldDuotone = IconifyIconData.solo(
     IconData(0xe7e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe7e6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `document-medicine-broken`
@@ -10801,10 +10591,9 @@ class SolarIcons {
     IconData(0xe7e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `document-medicine-line-duotone` (duo-tone)
-  static const IconifyIconData documentMedicineLineDuotone = IconifyIconData.duo(
+  /// `document-medicine-line-duotone`
+  static const IconifyIconData documentMedicineLineDuotone = IconifyIconData.solo(
     IconData(0xe7e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe7e8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `document-medicine-linear`
@@ -10827,10 +10616,9 @@ class SolarIcons {
     IconData(0xe7ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `document-text-bold-duotone` (duo-tone)
-  static const IconifyIconData documentTextBoldDuotone = IconifyIconData.duo(
+  /// `document-text-bold-duotone`
+  static const IconifyIconData documentTextBoldDuotone = IconifyIconData.solo(
     IconData(0xe7ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe7ed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `document-text-broken`
@@ -10838,10 +10626,9 @@ class SolarIcons {
     IconData(0xe7ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `document-text-line-duotone` (duo-tone)
-  static const IconifyIconData documentTextLineDuotone = IconifyIconData.duo(
+  /// `document-text-line-duotone`
+  static const IconifyIconData documentTextLineDuotone = IconifyIconData.solo(
     IconData(0xe7ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe7ef, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `document-text-linear`
@@ -10923,10 +10710,9 @@ class SolarIcons {
     IconData(0xe7fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dollar-bold-duotone` (duo-tone)
-  static const IconifyIconData dollarBoldDuotone = IconifyIconData.duo(
+  /// `dollar-bold-duotone`
+  static const IconifyIconData dollarBoldDuotone = IconifyIconData.solo(
     IconData(0xe7ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe7ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dollar-broken`
@@ -10934,10 +10720,9 @@ class SolarIcons {
     IconData(0xe800, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dollar-line-duotone` (duo-tone)
-  static const IconifyIconData dollarLineDuotone = IconifyIconData.duo(
+  /// `dollar-line-duotone`
+  static const IconifyIconData dollarLineDuotone = IconifyIconData.solo(
     IconData(0xe801, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe801, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dollar-linear`
@@ -10950,10 +10735,9 @@ class SolarIcons {
     IconData(0xe803, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dollar-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData dollarMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `dollar-minimalistic-bold-duotone`
+  static const IconifyIconData dollarMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe804, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe804, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dollar-minimalistic-broken`
@@ -10961,10 +10745,9 @@ class SolarIcons {
     IconData(0xe805, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dollar-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData dollarMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `dollar-minimalistic-line-duotone`
+  static const IconifyIconData dollarMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe806, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe806, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dollar-minimalistic-linear`
@@ -11019,10 +10802,9 @@ class SolarIcons {
     IconData(0xe810, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `donut-bold-duotone` (duo-tone)
-  static const IconifyIconData donutBoldDuotone = IconifyIconData.duo(
+  /// `donut-bold-duotone`
+  static const IconifyIconData donutBoldDuotone = IconifyIconData.solo(
     IconData(0xe811, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe811, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `donut-broken`
@@ -11243,10 +11025,9 @@ class SolarIcons {
     IconData(0xe83a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `download-square-bold-duotone` (duo-tone)
-  static const IconifyIconData downloadSquareBoldDuotone = IconifyIconData.duo(
+  /// `download-square-bold-duotone`
+  static const IconifyIconData downloadSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe83b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe83b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `download-square-broken`
@@ -11254,10 +11035,9 @@ class SolarIcons {
     IconData(0xe83c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `download-square-line-duotone` (duo-tone)
-  static const IconifyIconData downloadSquareLineDuotone = IconifyIconData.duo(
+  /// `download-square-line-duotone`
+  static const IconifyIconData downloadSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe83d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe83d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `download-square-linear`
@@ -11275,10 +11055,9 @@ class SolarIcons {
     IconData(0xe840, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `download-twice-square-bold-duotone` (duo-tone)
-  static const IconifyIconData downloadTwiceSquareBoldDuotone = IconifyIconData.duo(
+  /// `download-twice-square-bold-duotone`
+  static const IconifyIconData downloadTwiceSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe841, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe841, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `download-twice-square-broken`
@@ -11286,10 +11065,9 @@ class SolarIcons {
     IconData(0xe842, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `download-twice-square-line-duotone` (duo-tone)
-  static const IconifyIconData downloadTwiceSquareLineDuotone = IconifyIconData.duo(
+  /// `download-twice-square-line-duotone`
+  static const IconifyIconData downloadTwiceSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe843, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe843, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `download-twice-square-linear`
@@ -11339,10 +11117,9 @@ class SolarIcons {
     IconData(0xe84c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dropper-3-bold-duotone` (duo-tone)
-  static const IconifyIconData dropper3BoldDuotone = IconifyIconData.duo(
+  /// `dropper-3-bold-duotone`
+  static const IconifyIconData dropper3BoldDuotone = IconifyIconData.solo(
     IconData(0xe84d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe84d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dropper-3-broken`
@@ -11350,10 +11127,9 @@ class SolarIcons {
     IconData(0xe84e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dropper-3-line-duotone` (duo-tone)
-  static const IconifyIconData dropper3LineDuotone = IconifyIconData.duo(
+  /// `dropper-3-line-duotone`
+  static const IconifyIconData dropper3LineDuotone = IconifyIconData.solo(
     IconData(0xe84f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe84f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dropper-3-linear`
@@ -11371,10 +11147,9 @@ class SolarIcons {
     IconData(0xe852, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dropper-bold-duotone` (duo-tone)
-  static const IconifyIconData dropperBoldDuotone = IconifyIconData.duo(
+  /// `dropper-bold-duotone`
+  static const IconifyIconData dropperBoldDuotone = IconifyIconData.solo(
     IconData(0xe853, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe853, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dropper-broken`
@@ -11382,10 +11157,9 @@ class SolarIcons {
     IconData(0xe854, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dropper-line-duotone` (duo-tone)
-  static const IconifyIconData dropperLineDuotone = IconifyIconData.duo(
+  /// `dropper-line-duotone`
+  static const IconifyIconData dropperLineDuotone = IconifyIconData.solo(
     IconData(0xe855, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe855, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dropper-linear`
@@ -11430,10 +11204,9 @@ class SolarIcons {
     IconData(0xe85d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dropper-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData dropperMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `dropper-minimalistic-bold-duotone`
+  static const IconifyIconData dropperMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xe85e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe85e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dropper-minimalistic-broken`
@@ -11441,10 +11214,9 @@ class SolarIcons {
     IconData(0xe85f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `dropper-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData dropperMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `dropper-minimalistic-line-duotone`
+  static const IconifyIconData dropperMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xe860, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe860, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `dropper-minimalistic-linear`
@@ -11722,10 +11494,9 @@ class SolarIcons {
     IconData(0xe894, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `emoji-funny-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData emojiFunnyCircleBoldDuotone = IconifyIconData.duo(
+  /// `emoji-funny-circle-bold-duotone`
+  static const IconifyIconData emojiFunnyCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe895, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe895, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `emoji-funny-circle-broken`
@@ -11733,10 +11504,9 @@ class SolarIcons {
     IconData(0xe896, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `emoji-funny-circle-line-duotone` (duo-tone)
-  static const IconifyIconData emojiFunnyCircleLineDuotone = IconifyIconData.duo(
+  /// `emoji-funny-circle-line-duotone`
+  static const IconifyIconData emojiFunnyCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe897, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe897, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `emoji-funny-circle-linear`
@@ -11866,10 +11636,9 @@ class SolarIcons {
     IconData(0xe8af, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `eraser-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData eraserCircleBoldDuotone = IconifyIconData.duo(
+  /// `eraser-circle-bold-duotone`
+  static const IconifyIconData eraserCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe8b0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8b0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `eraser-circle-broken`
@@ -11877,10 +11646,9 @@ class SolarIcons {
     IconData(0xe8b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `eraser-circle-line-duotone` (duo-tone)
-  static const IconifyIconData eraserCircleLineDuotone = IconifyIconData.duo(
+  /// `eraser-circle-line-duotone`
+  static const IconifyIconData eraserCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe8b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8b2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `eraser-circle-linear`
@@ -11914,10 +11682,9 @@ class SolarIcons {
     IconData(0xe8b8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `eraser-square-bold-duotone` (duo-tone)
-  static const IconifyIconData eraserSquareBoldDuotone = IconifyIconData.duo(
+  /// `eraser-square-bold-duotone`
+  static const IconifyIconData eraserSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe8b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8b9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `eraser-square-broken`
@@ -11925,10 +11692,9 @@ class SolarIcons {
     IconData(0xe8ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `eraser-square-line-duotone` (duo-tone)
-  static const IconifyIconData eraserSquareLineDuotone = IconifyIconData.duo(
+  /// `eraser-square-line-duotone`
+  static const IconifyIconData eraserSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe8bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8bb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `eraser-square-linear`
@@ -11946,10 +11712,9 @@ class SolarIcons {
     IconData(0xe8be, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `euro-bold-duotone` (duo-tone)
-  static const IconifyIconData euroBoldDuotone = IconifyIconData.duo(
+  /// `euro-bold-duotone`
+  static const IconifyIconData euroBoldDuotone = IconifyIconData.solo(
     IconData(0xe8bf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8bf, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `euro-broken`
@@ -11957,10 +11722,9 @@ class SolarIcons {
     IconData(0xe8c0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `euro-line-duotone` (duo-tone)
-  static const IconifyIconData euroLineDuotone = IconifyIconData.duo(
+  /// `euro-line-duotone`
+  static const IconifyIconData euroLineDuotone = IconifyIconData.solo(
     IconData(0xe8c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8c1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `euro-linear`
@@ -12010,10 +11774,9 @@ class SolarIcons {
     IconData(0xe8ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `explicit-bold-duotone` (duo-tone)
-  static const IconifyIconData explicitBoldDuotone = IconifyIconData.duo(
+  /// `explicit-bold-duotone`
+  static const IconifyIconData explicitBoldDuotone = IconifyIconData.solo(
     IconData(0xe8cb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8cb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `explicit-broken`
@@ -12021,10 +11784,9 @@ class SolarIcons {
     IconData(0xe8cc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `explicit-line-duotone` (duo-tone)
-  static const IconifyIconData explicitLineDuotone = IconifyIconData.duo(
+  /// `explicit-line-duotone`
+  static const IconifyIconData explicitLineDuotone = IconifyIconData.solo(
     IconData(0xe8cd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8cd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `explicit-linear`
@@ -12074,10 +11836,9 @@ class SolarIcons {
     IconData(0xe8d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `expressionless-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData expressionlessCircleBoldDuotone = IconifyIconData.duo(
+  /// `expressionless-circle-bold-duotone`
+  static const IconifyIconData expressionlessCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xe8d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8d7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `expressionless-circle-broken`
@@ -12085,10 +11846,9 @@ class SolarIcons {
     IconData(0xe8d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `expressionless-circle-line-duotone` (duo-tone)
-  static const IconifyIconData expressionlessCircleLineDuotone = IconifyIconData.duo(
+  /// `expressionless-circle-line-duotone`
+  static const IconifyIconData expressionlessCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe8d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8d9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `expressionless-circle-linear`
@@ -12106,10 +11866,9 @@ class SolarIcons {
     IconData(0xe8dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `expressionless-square-bold-duotone` (duo-tone)
-  static const IconifyIconData expressionlessSquareBoldDuotone = IconifyIconData.duo(
+  /// `expressionless-square-bold-duotone`
+  static const IconifyIconData expressionlessSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe8dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8dd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `expressionless-square-broken`
@@ -12117,10 +11876,9 @@ class SolarIcons {
     IconData(0xe8de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `expressionless-square-line-duotone` (duo-tone)
-  static const IconifyIconData expressionlessSquareLineDuotone = IconifyIconData.duo(
+  /// `expressionless-square-line-duotone`
+  static const IconifyIconData expressionlessSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe8df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8df, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `expressionless-square-linear`
@@ -12276,10 +12034,9 @@ class SolarIcons {
     IconData(0xe8fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `face-scan-square-line-duotone` (duo-tone)
-  static const IconifyIconData faceScanSquareLineDuotone = IconifyIconData.duo(
+  /// `face-scan-square-line-duotone`
+  static const IconifyIconData faceScanSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe8fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe8fd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `face-scan-square-linear`
@@ -12308,10 +12065,9 @@ class SolarIcons {
     IconData(0xe902, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `facemask-circle-line-duotone` (duo-tone)
-  static const IconifyIconData facemaskCircleLineDuotone = IconifyIconData.duo(
+  /// `facemask-circle-line-duotone`
+  static const IconifyIconData facemaskCircleLineDuotone = IconifyIconData.solo(
     IconData(0xe903, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe903, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `facemask-circle-linear`
@@ -12340,10 +12096,9 @@ class SolarIcons {
     IconData(0xe908, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `facemask-square-line-duotone` (duo-tone)
-  static const IconifyIconData facemaskSquareLineDuotone = IconifyIconData.duo(
+  /// `facemask-square-line-duotone`
+  static const IconifyIconData facemaskSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe909, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe909, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `facemask-square-linear`
@@ -12489,10 +12244,9 @@ class SolarIcons {
     IconData(0xe924, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-bold-duotone` (duo-tone)
-  static const IconifyIconData fileBoldDuotone = IconifyIconData.duo(
+  /// `file-bold-duotone`
+  static const IconifyIconData fileBoldDuotone = IconifyIconData.solo(
     IconData(0xe925, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe925, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-broken`
@@ -12505,10 +12259,9 @@ class SolarIcons {
     IconData(0xe927, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-check-bold-duotone` (duo-tone)
-  static const IconifyIconData fileCheckBoldDuotone = IconifyIconData.duo(
+  /// `file-check-bold-duotone`
+  static const IconifyIconData fileCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xe928, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe928, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-check-broken`
@@ -12569,10 +12322,9 @@ class SolarIcons {
     IconData(0xe933, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-download-bold-duotone` (duo-tone)
-  static const IconifyIconData fileDownloadBoldDuotone = IconifyIconData.duo(
+  /// `file-download-bold-duotone`
+  static const IconifyIconData fileDownloadBoldDuotone = IconifyIconData.solo(
     IconData(0xe934, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe934, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-download-broken`
@@ -12601,10 +12353,9 @@ class SolarIcons {
     IconData(0xe939, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-favourite-bold-duotone` (duo-tone)
-  static const IconifyIconData fileFavouriteBoldDuotone = IconifyIconData.duo(
+  /// `file-favourite-bold-duotone`
+  static const IconifyIconData fileFavouriteBoldDuotone = IconifyIconData.solo(
     IconData(0xe93a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe93a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-favourite-broken`
@@ -12633,10 +12384,9 @@ class SolarIcons {
     IconData(0xe93f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-left-bold-duotone` (duo-tone)
-  static const IconifyIconData fileLeftBoldDuotone = IconifyIconData.duo(
+  /// `file-left-bold-duotone`
+  static const IconifyIconData fileLeftBoldDuotone = IconifyIconData.solo(
     IconData(0xe940, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe940, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-left-broken`
@@ -12660,10 +12410,9 @@ class SolarIcons {
     IconData(0xe944, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-line-duotone` (duo-tone)
-  static const IconifyIconData fileLineDuotone = IconifyIconData.duo(
+  /// `file-line-duotone`
+  static const IconifyIconData fileLineDuotone = IconifyIconData.solo(
     IconData(0xe945, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe945, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-linear`
@@ -12681,10 +12430,9 @@ class SolarIcons {
     IconData(0xe948, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-remove-bold-duotone` (duo-tone)
-  static const IconifyIconData fileRemoveBoldDuotone = IconifyIconData.duo(
+  /// `file-remove-bold-duotone`
+  static const IconifyIconData fileRemoveBoldDuotone = IconifyIconData.solo(
     IconData(0xe949, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe949, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-remove-broken`
@@ -12713,10 +12461,9 @@ class SolarIcons {
     IconData(0xe94e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-right-bold-duotone` (duo-tone)
-  static const IconifyIconData fileRightBoldDuotone = IconifyIconData.duo(
+  /// `file-right-bold-duotone`
+  static const IconifyIconData fileRightBoldDuotone = IconifyIconData.solo(
     IconData(0xe94f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe94f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-right-broken`
@@ -12745,10 +12492,9 @@ class SolarIcons {
     IconData(0xe954, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-send-bold-duotone` (duo-tone)
-  static const IconifyIconData fileSendBoldDuotone = IconifyIconData.duo(
+  /// `file-send-bold-duotone`
+  static const IconifyIconData fileSendBoldDuotone = IconifyIconData.solo(
     IconData(0xe955, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe955, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-send-broken`
@@ -12777,10 +12523,9 @@ class SolarIcons {
     IconData(0xe95a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-smile-bold-duotone` (duo-tone)
-  static const IconifyIconData fileSmileBoldDuotone = IconifyIconData.duo(
+  /// `file-smile-bold-duotone`
+  static const IconifyIconData fileSmileBoldDuotone = IconifyIconData.solo(
     IconData(0xe95b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe95b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-smile-broken`
@@ -12809,10 +12554,9 @@ class SolarIcons {
     IconData(0xe960, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `file-text-bold-duotone` (duo-tone)
-  static const IconifyIconData fileTextBoldDuotone = IconifyIconData.duo(
+  /// `file-text-bold-duotone`
+  static const IconifyIconData fileTextBoldDuotone = IconifyIconData.solo(
     IconData(0xe961, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe961, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `file-text-broken`
@@ -12968,10 +12712,9 @@ class SolarIcons {
     IconData(0xe97e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `fire-square-bold-duotone` (duo-tone)
-  static const IconifyIconData fireSquareBoldDuotone = IconifyIconData.duo(
+  /// `fire-square-bold-duotone`
+  static const IconifyIconData fireSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xe97f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe97f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `fire-square-broken`
@@ -12979,10 +12722,9 @@ class SolarIcons {
     IconData(0xe980, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `fire-square-line-duotone` (duo-tone)
-  static const IconifyIconData fireSquareLineDuotone = IconifyIconData.duo(
+  /// `fire-square-line-duotone`
+  static const IconifyIconData fireSquareLineDuotone = IconifyIconData.solo(
     IconData(0xe981, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe981, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `fire-square-linear`
@@ -13032,10 +12774,9 @@ class SolarIcons {
     IconData(0xe98a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `flag-bold-duotone` (duo-tone)
-  static const IconifyIconData flagBoldDuotone = IconifyIconData.duo(
+  /// `flag-bold-duotone`
+  static const IconifyIconData flagBoldDuotone = IconifyIconData.solo(
     IconData(0xe98b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe98b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `flag-broken`
@@ -13400,10 +13141,9 @@ class SolarIcons {
     IconData(0xe9cf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `folder-check-bold-duotone` (duo-tone)
-  static const IconifyIconData folderCheckBoldDuotone = IconifyIconData.duo(
+  /// `folder-check-bold-duotone`
+  static const IconifyIconData folderCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xe9d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe9d0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `folder-check-broken`
@@ -13432,10 +13172,9 @@ class SolarIcons {
     IconData(0xe9d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `folder-cloud-bold-duotone` (duo-tone)
-  static const IconifyIconData folderCloudBoldDuotone = IconifyIconData.duo(
+  /// `folder-cloud-bold-duotone`
+  static const IconifyIconData folderCloudBoldDuotone = IconifyIconData.solo(
     IconData(0xe9d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe9d6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `folder-cloud-broken`
@@ -13464,10 +13203,9 @@ class SolarIcons {
     IconData(0xe9db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `folder-error-bold-duotone` (duo-tone)
-  static const IconifyIconData folderErrorBoldDuotone = IconifyIconData.duo(
+  /// `folder-error-bold-duotone`
+  static const IconifyIconData folderErrorBoldDuotone = IconifyIconData.solo(
     IconData(0xe9dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe9dc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `folder-error-broken`
@@ -13528,10 +13266,9 @@ class SolarIcons {
     IconData(0xe9e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `folder-favourite-star-bold-duotone` (duo-tone)
-  static const IconifyIconData folderFavouriteStarBoldDuotone = IconifyIconData.duo(
+  /// `folder-favourite-star-bold-duotone`
+  static const IconifyIconData folderFavouriteStarBoldDuotone = IconifyIconData.solo(
     IconData(0xe9e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe9e8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `folder-favourite-star-broken`
@@ -13640,10 +13377,9 @@ class SolarIcons {
     IconData(0xe9fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `folder-security-bold-duotone` (duo-tone)
-  static const IconifyIconData folderSecurityBoldDuotone = IconifyIconData.duo(
+  /// `folder-security-bold-duotone`
+  static const IconifyIconData folderSecurityBoldDuotone = IconifyIconData.solo(
     IconData(0xe9fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xe9fd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `folder-security-broken`
@@ -13672,10 +13408,9 @@ class SolarIcons {
     IconData(0xea02, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `folder-with-files-bold-duotone` (duo-tone)
-  static const IconifyIconData folderWithFilesBoldDuotone = IconifyIconData.duo(
+  /// `folder-with-files-bold-duotone`
+  static const IconifyIconData folderWithFilesBoldDuotone = IconifyIconData.solo(
     IconData(0xea03, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea03, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `folder-with-files-broken`
@@ -13704,10 +13439,9 @@ class SolarIcons {
     IconData(0xea08, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `football-bold-duotone` (duo-tone)
-  static const IconifyIconData footballBoldDuotone = IconifyIconData.duo(
+  /// `football-bold-duotone`
+  static const IconifyIconData footballBoldDuotone = IconifyIconData.solo(
     IconData(0xea09, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea09, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `football-broken`
@@ -13779,10 +13513,9 @@ class SolarIcons {
     IconData(0xea16, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `forbidden-line-duotone` (duo-tone)
-  static const IconifyIconData forbiddenLineDuotone = IconifyIconData.duo(
+  /// `forbidden-line-duotone`
+  static const IconifyIconData forbiddenLineDuotone = IconifyIconData.solo(
     IconData(0xea17, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea17, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `forbidden-linear`
@@ -13944,10 +13677,9 @@ class SolarIcons {
     IconData(0xea35, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `full-screen-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData fullScreenCircleBoldDuotone = IconifyIconData.duo(
+  /// `full-screen-circle-bold-duotone`
+  static const IconifyIconData fullScreenCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xea36, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea36, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `full-screen-circle-broken`
@@ -13955,10 +13687,9 @@ class SolarIcons {
     IconData(0xea37, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `full-screen-circle-line-duotone` (duo-tone)
-  static const IconifyIconData fullScreenCircleLineDuotone = IconifyIconData.duo(
+  /// `full-screen-circle-line-duotone`
+  static const IconifyIconData fullScreenCircleLineDuotone = IconifyIconData.solo(
     IconData(0xea38, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea38, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `full-screen-circle-linear`
@@ -13992,10 +13723,9 @@ class SolarIcons {
     IconData(0xea3e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `full-screen-square-bold-duotone` (duo-tone)
-  static const IconifyIconData fullScreenSquareBoldDuotone = IconifyIconData.duo(
+  /// `full-screen-square-bold-duotone`
+  static const IconifyIconData fullScreenSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xea3f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea3f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `full-screen-square-broken`
@@ -14003,10 +13733,9 @@ class SolarIcons {
     IconData(0xea40, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `full-screen-square-line-duotone` (duo-tone)
-  static const IconifyIconData fullScreenSquareLineDuotone = IconifyIconData.duo(
+  /// `full-screen-square-line-duotone`
+  static const IconifyIconData fullScreenSquareLineDuotone = IconifyIconData.solo(
     IconData(0xea41, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea41, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `full-screen-square-linear`
@@ -14072,10 +13801,9 @@ class SolarIcons {
     IconData(0xea4d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-check-bold-duotone` (duo-tone)
-  static const IconifyIconData galleryCheckBoldDuotone = IconifyIconData.duo(
+  /// `gallery-check-bold-duotone`
+  static const IconifyIconData galleryCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xea4e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea4e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-check-broken`
@@ -14083,10 +13811,9 @@ class SolarIcons {
     IconData(0xea4f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-check-line-duotone` (duo-tone)
-  static const IconifyIconData galleryCheckLineDuotone = IconifyIconData.duo(
+  /// `gallery-check-line-duotone`
+  static const IconifyIconData galleryCheckLineDuotone = IconifyIconData.solo(
     IconData(0xea50, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea50, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-check-linear`
@@ -14136,10 +13863,9 @@ class SolarIcons {
     IconData(0xea59, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-download-bold-duotone` (duo-tone)
-  static const IconifyIconData galleryDownloadBoldDuotone = IconifyIconData.duo(
+  /// `gallery-download-bold-duotone`
+  static const IconifyIconData galleryDownloadBoldDuotone = IconifyIconData.solo(
     IconData(0xea5a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea5a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-download-broken`
@@ -14147,10 +13873,9 @@ class SolarIcons {
     IconData(0xea5b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-download-line-duotone` (duo-tone)
-  static const IconifyIconData galleryDownloadLineDuotone = IconifyIconData.duo(
+  /// `gallery-download-line-duotone`
+  static const IconifyIconData galleryDownloadLineDuotone = IconifyIconData.solo(
     IconData(0xea5c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea5c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-download-linear`
@@ -14168,10 +13893,9 @@ class SolarIcons {
     IconData(0xea5f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-edit-bold-duotone` (duo-tone)
-  static const IconifyIconData galleryEditBoldDuotone = IconifyIconData.duo(
+  /// `gallery-edit-bold-duotone`
+  static const IconifyIconData galleryEditBoldDuotone = IconifyIconData.solo(
     IconData(0xea60, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea60, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-edit-broken`
@@ -14179,10 +13903,9 @@ class SolarIcons {
     IconData(0xea61, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-edit-line-duotone` (duo-tone)
-  static const IconifyIconData galleryEditLineDuotone = IconifyIconData.duo(
+  /// `gallery-edit-line-duotone`
+  static const IconifyIconData galleryEditLineDuotone = IconifyIconData.solo(
     IconData(0xea62, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea62, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-edit-linear`
@@ -14211,10 +13934,9 @@ class SolarIcons {
     IconData(0xea67, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-favourite-line-duotone` (duo-tone)
-  static const IconifyIconData galleryFavouriteLineDuotone = IconifyIconData.duo(
+  /// `gallery-favourite-line-duotone`
+  static const IconifyIconData galleryFavouriteLineDuotone = IconifyIconData.solo(
     IconData(0xea68, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea68, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-favourite-linear`
@@ -14243,10 +13965,9 @@ class SolarIcons {
     IconData(0xea6d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData galleryMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `gallery-minimalistic-bold-duotone`
+  static const IconifyIconData galleryMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xea6e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea6e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-minimalistic-broken`
@@ -14280,10 +14001,9 @@ class SolarIcons {
     IconData(0xea74, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-remove-bold-duotone` (duo-tone)
-  static const IconifyIconData galleryRemoveBoldDuotone = IconifyIconData.duo(
+  /// `gallery-remove-bold-duotone`
+  static const IconifyIconData galleryRemoveBoldDuotone = IconifyIconData.solo(
     IconData(0xea75, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea75, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-remove-broken`
@@ -14291,10 +14011,9 @@ class SolarIcons {
     IconData(0xea76, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-remove-line-duotone` (duo-tone)
-  static const IconifyIconData galleryRemoveLineDuotone = IconifyIconData.duo(
+  /// `gallery-remove-line-duotone`
+  static const IconifyIconData galleryRemoveLineDuotone = IconifyIconData.solo(
     IconData(0xea77, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea77, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-remove-linear`
@@ -14344,10 +14063,9 @@ class SolarIcons {
     IconData(0xea80, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-send-bold-duotone` (duo-tone)
-  static const IconifyIconData gallerySendBoldDuotone = IconifyIconData.duo(
+  /// `gallery-send-bold-duotone`
+  static const IconifyIconData gallerySendBoldDuotone = IconifyIconData.solo(
     IconData(0xea81, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea81, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-send-broken`
@@ -14355,10 +14073,9 @@ class SolarIcons {
     IconData(0xea82, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gallery-send-line-duotone` (duo-tone)
-  static const IconifyIconData gallerySendLineDuotone = IconifyIconData.duo(
+  /// `gallery-send-line-duotone`
+  static const IconifyIconData gallerySendLineDuotone = IconifyIconData.solo(
     IconData(0xea83, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xea83, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gallery-send-linear`
@@ -14531,10 +14248,9 @@ class SolarIcons {
     IconData(0xeaa3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gamepad-no-charge-bold-duotone` (duo-tone)
-  static const IconifyIconData gamepadNoChargeBoldDuotone = IconifyIconData.duo(
+  /// `gamepad-no-charge-bold-duotone`
+  static const IconifyIconData gamepadNoChargeBoldDuotone = IconifyIconData.solo(
     IconData(0xeaa4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeaa4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gamepad-no-charge-broken`
@@ -14542,10 +14258,9 @@ class SolarIcons {
     IconData(0xeaa5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gamepad-no-charge-line-duotone` (duo-tone)
-  static const IconifyIconData gamepadNoChargeLineDuotone = IconifyIconData.duo(
+  /// `gamepad-no-charge-line-duotone`
+  static const IconifyIconData gamepadNoChargeLineDuotone = IconifyIconData.solo(
     IconData(0xeaa6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeaa6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gamepad-no-charge-linear`
@@ -14563,10 +14278,9 @@ class SolarIcons {
     IconData(0xeaa9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gamepad-old-bold-duotone` (duo-tone)
-  static const IconifyIconData gamepadOldBoldDuotone = IconifyIconData.duo(
+  /// `gamepad-old-bold-duotone`
+  static const IconifyIconData gamepadOldBoldDuotone = IconifyIconData.solo(
     IconData(0xeaaa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeaaa, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gamepad-old-broken`
@@ -14706,10 +14420,9 @@ class SolarIcons {
     IconData(0xeac4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `ghost-smile-line-duotone` (duo-tone)
-  static const IconifyIconData ghostSmileLineDuotone = IconifyIconData.duo(
+  /// `ghost-smile-line-duotone`
+  static const IconifyIconData ghostSmileLineDuotone = IconifyIconData.solo(
     IconData(0xeac5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeac5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ghost-smile-linear`
@@ -14727,10 +14440,9 @@ class SolarIcons {
     IconData(0xeac8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `gift-bold-duotone` (duo-tone)
-  static const IconifyIconData giftBoldDuotone = IconifyIconData.duo(
+  /// `gift-bold-duotone`
+  static const IconifyIconData giftBoldDuotone = IconifyIconData.solo(
     IconData(0xeac9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeac9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `gift-broken`
@@ -14919,10 +14631,9 @@ class SolarIcons {
     IconData(0xeaec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-bold-duotone` (duo-tone)
-  static const IconifyIconData graphBoldDuotone = IconifyIconData.duo(
+  /// `graph-bold-duotone`
+  static const IconifyIconData graphBoldDuotone = IconifyIconData.solo(
     IconData(0xeaed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeaed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-broken`
@@ -14935,10 +14646,9 @@ class SolarIcons {
     IconData(0xeaef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-down-bold-duotone` (duo-tone)
-  static const IconifyIconData graphDownBoldDuotone = IconifyIconData.duo(
+  /// `graph-down-bold-duotone`
+  static const IconifyIconData graphDownBoldDuotone = IconifyIconData.solo(
     IconData(0xeaf0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeaf0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-down-broken`
@@ -14946,10 +14656,9 @@ class SolarIcons {
     IconData(0xeaf1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-down-line-duotone` (duo-tone)
-  static const IconifyIconData graphDownLineDuotone = IconifyIconData.duo(
+  /// `graph-down-line-duotone`
+  static const IconifyIconData graphDownLineDuotone = IconifyIconData.solo(
     IconData(0xeaf2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeaf2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-down-linear`
@@ -14962,10 +14671,9 @@ class SolarIcons {
     IconData(0xeaf4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-down-new-bold-duotone` (duo-tone)
-  static const IconifyIconData graphDownNewBoldDuotone = IconifyIconData.duo(
+  /// `graph-down-new-bold-duotone`
+  static const IconifyIconData graphDownNewBoldDuotone = IconifyIconData.solo(
     IconData(0xeaf5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeaf5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-down-new-broken`
@@ -14994,10 +14702,9 @@ class SolarIcons {
     IconData(0xeafa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-line-duotone` (duo-tone)
-  static const IconifyIconData graphLineDuotone = IconifyIconData.duo(
+  /// `graph-line-duotone`
+  static const IconifyIconData graphLineDuotone = IconifyIconData.solo(
     IconData(0xeafb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeafb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-linear`
@@ -15010,10 +14717,9 @@ class SolarIcons {
     IconData(0xeafd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-new-bold-duotone` (duo-tone)
-  static const IconifyIconData graphNewBoldDuotone = IconifyIconData.duo(
+  /// `graph-new-bold-duotone`
+  static const IconifyIconData graphNewBoldDuotone = IconifyIconData.solo(
     IconData(0xeafe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeafe, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-new-broken`
@@ -15021,10 +14727,9 @@ class SolarIcons {
     IconData(0xeaff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-new-line-duotone` (duo-tone)
-  static const IconifyIconData graphNewLineDuotone = IconifyIconData.duo(
+  /// `graph-new-line-duotone`
+  static const IconifyIconData graphNewLineDuotone = IconifyIconData.solo(
     IconData(0xeb00, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb00, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-new-linear`
@@ -15042,10 +14747,9 @@ class SolarIcons {
     IconData(0xeb03, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-new-up-bold-duotone` (duo-tone)
-  static const IconifyIconData graphNewUpBoldDuotone = IconifyIconData.duo(
+  /// `graph-new-up-bold-duotone`
+  static const IconifyIconData graphNewUpBoldDuotone = IconifyIconData.solo(
     IconData(0xeb04, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb04, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-new-up-broken`
@@ -15053,10 +14757,9 @@ class SolarIcons {
     IconData(0xeb05, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-new-up-line-duotone` (duo-tone)
-  static const IconifyIconData graphNewUpLineDuotone = IconifyIconData.duo(
+  /// `graph-new-up-line-duotone`
+  static const IconifyIconData graphNewUpLineDuotone = IconifyIconData.solo(
     IconData(0xeb06, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb06, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-new-up-linear`
@@ -15079,10 +14782,9 @@ class SolarIcons {
     IconData(0xeb0a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-up-bold-duotone` (duo-tone)
-  static const IconifyIconData graphUpBoldDuotone = IconifyIconData.duo(
+  /// `graph-up-bold-duotone`
+  static const IconifyIconData graphUpBoldDuotone = IconifyIconData.solo(
     IconData(0xeb0b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb0b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-up-broken`
@@ -15090,10 +14792,9 @@ class SolarIcons {
     IconData(0xeb0c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `graph-up-line-duotone` (duo-tone)
-  static const IconifyIconData graphUpLineDuotone = IconifyIconData.duo(
+  /// `graph-up-line-duotone`
+  static const IconifyIconData graphUpLineDuotone = IconifyIconData.solo(
     IconData(0xeb0d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb0d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `graph-up-linear`
@@ -15111,10 +14812,9 @@ class SolarIcons {
     IconData(0xeb10, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hamburger-menu-bold-duotone` (duo-tone)
-  static const IconifyIconData hamburgerMenuBoldDuotone = IconifyIconData.duo(
+  /// `hamburger-menu-bold-duotone`
+  static const IconifyIconData hamburgerMenuBoldDuotone = IconifyIconData.solo(
     IconData(0xeb11, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb11, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hamburger-menu-broken`
@@ -15175,10 +14875,9 @@ class SolarIcons {
     IconData(0xeb1c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hand-money-bold-duotone` (duo-tone)
-  static const IconifyIconData handMoneyBoldDuotone = IconifyIconData.duo(
+  /// `hand-money-bold-duotone`
+  static const IconifyIconData handMoneyBoldDuotone = IconifyIconData.solo(
     IconData(0xeb1d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb1d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hand-money-broken`
@@ -15207,10 +14906,9 @@ class SolarIcons {
     IconData(0xeb22, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hand-pills-bold-duotone` (duo-tone)
-  static const IconifyIconData handPillsBoldDuotone = IconifyIconData.duo(
+  /// `hand-pills-bold-duotone`
+  static const IconifyIconData handPillsBoldDuotone = IconifyIconData.solo(
     IconData(0xeb23, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb23, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hand-pills-broken`
@@ -15271,10 +14969,9 @@ class SolarIcons {
     IconData(0xeb2e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hand-stars-bold-duotone` (duo-tone)
-  static const IconifyIconData handStarsBoldDuotone = IconifyIconData.duo(
+  /// `hand-stars-bold-duotone`
+  static const IconifyIconData handStarsBoldDuotone = IconifyIconData.solo(
     IconData(0xeb2f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb2f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hand-stars-broken`
@@ -15282,10 +14979,9 @@ class SolarIcons {
     IconData(0xeb30, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hand-stars-line-duotone` (duo-tone)
-  static const IconifyIconData handStarsLineDuotone = IconifyIconData.duo(
+  /// `hand-stars-line-duotone`
+  static const IconifyIconData handStarsLineDuotone = IconifyIconData.solo(
     IconData(0xeb31, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb31, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hand-stars-linear`
@@ -15414,10 +15110,9 @@ class SolarIcons {
     IconData(0xeb49, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hashtag-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData hashtagCircleBoldDuotone = IconifyIconData.duo(
+  /// `hashtag-circle-bold-duotone`
+  static const IconifyIconData hashtagCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xeb4a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb4a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hashtag-circle-broken`
@@ -15425,10 +15120,9 @@ class SolarIcons {
     IconData(0xeb4b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hashtag-circle-line-duotone` (duo-tone)
-  static const IconifyIconData hashtagCircleLineDuotone = IconifyIconData.duo(
+  /// `hashtag-circle-line-duotone`
+  static const IconifyIconData hashtagCircleLineDuotone = IconifyIconData.solo(
     IconData(0xeb4c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb4c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hashtag-circle-linear`
@@ -15462,10 +15156,9 @@ class SolarIcons {
     IconData(0xeb52, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hashtag-square-bold-duotone` (duo-tone)
-  static const IconifyIconData hashtagSquareBoldDuotone = IconifyIconData.duo(
+  /// `hashtag-square-bold-duotone`
+  static const IconifyIconData hashtagSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xeb53, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb53, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hashtag-square-broken`
@@ -15473,10 +15166,9 @@ class SolarIcons {
     IconData(0xeb54, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hashtag-square-line-duotone` (duo-tone)
-  static const IconifyIconData hashtagSquareLineDuotone = IconifyIconData.duo(
+  /// `hashtag-square-line-duotone`
+  static const IconifyIconData hashtagSquareLineDuotone = IconifyIconData.solo(
     IconData(0xeb55, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb55, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hashtag-square-linear`
@@ -15590,10 +15282,9 @@ class SolarIcons {
     IconData(0xeb6a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `headphones-square-sound-bold-duotone` (duo-tone)
-  static const IconifyIconData headphonesSquareSoundBoldDuotone = IconifyIconData.duo(
+  /// `headphones-square-sound-bold-duotone`
+  static const IconifyIconData headphonesSquareSoundBoldDuotone = IconifyIconData.solo(
     IconData(0xeb6b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb6b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `headphones-square-sound-broken`
@@ -15825,10 +15516,9 @@ class SolarIcons {
     IconData(0xeb96, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `heart-pulse-line-duotone` (duo-tone)
-  static const IconifyIconData heartPulseLineDuotone = IconifyIconData.duo(
+  /// `heart-pulse-line-duotone`
+  static const IconifyIconData heartPulseLineDuotone = IconifyIconData.solo(
     IconData(0xeb97, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeb97, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `heart-pulse-linear`
@@ -15878,10 +15568,9 @@ class SolarIcons {
     IconData(0xeba0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `heart-unlock-bold-duotone` (duo-tone)
-  static const IconifyIconData heartUnlockBoldDuotone = IconifyIconData.duo(
+  /// `heart-unlock-bold-duotone`
+  static const IconifyIconData heartUnlockBoldDuotone = IconifyIconData.solo(
     IconData(0xeba1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeba1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `heart-unlock-broken`
@@ -15974,10 +15663,9 @@ class SolarIcons {
     IconData(0xebb2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `high-definition-bold-duotone` (duo-tone)
-  static const IconifyIconData highDefinitionBoldDuotone = IconifyIconData.duo(
+  /// `high-definition-bold-duotone`
+  static const IconifyIconData highDefinitionBoldDuotone = IconifyIconData.solo(
     IconData(0xebb3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebb3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `high-definition-broken`
@@ -15985,10 +15673,9 @@ class SolarIcons {
     IconData(0xebb4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `high-definition-line-duotone` (duo-tone)
-  static const IconifyIconData highDefinitionLineDuotone = IconifyIconData.duo(
+  /// `high-definition-line-duotone`
+  static const IconifyIconData highDefinitionLineDuotone = IconifyIconData.solo(
     IconData(0xebb5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebb5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `high-definition-linear`
@@ -16006,10 +15693,9 @@ class SolarIcons {
     IconData(0xebb8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `high-quality-bold-duotone` (duo-tone)
-  static const IconifyIconData highQualityBoldDuotone = IconifyIconData.duo(
+  /// `high-quality-bold-duotone`
+  static const IconifyIconData highQualityBoldDuotone = IconifyIconData.solo(
     IconData(0xebb9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebb9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `high-quality-broken`
@@ -16017,10 +15703,9 @@ class SolarIcons {
     IconData(0xebba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `high-quality-line-duotone` (duo-tone)
-  static const IconifyIconData highQualityLineDuotone = IconifyIconData.duo(
+  /// `high-quality-line-duotone`
+  static const IconifyIconData highQualityLineDuotone = IconifyIconData.solo(
     IconData(0xebbb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebbb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `high-quality-linear`
@@ -16294,10 +15979,9 @@ class SolarIcons {
     IconData(0xebee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-add-bold-duotone` (duo-tone)
-  static const IconifyIconData homeAddBoldDuotone = IconifyIconData.duo(
+  /// `home-add-bold-duotone`
+  static const IconifyIconData homeAddBoldDuotone = IconifyIconData.solo(
     IconData(0xebef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebef, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-add-broken`
@@ -16305,10 +15989,9 @@ class SolarIcons {
     IconData(0xebf0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-add-line-duotone` (duo-tone)
-  static const IconifyIconData homeAddLineDuotone = IconifyIconData.duo(
+  /// `home-add-line-duotone`
+  static const IconifyIconData homeAddLineDuotone = IconifyIconData.solo(
     IconData(0xebf1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebf1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-add-linear`
@@ -16326,10 +16009,9 @@ class SolarIcons {
     IconData(0xebf4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-angle-2-bold-duotone` (duo-tone)
-  static const IconifyIconData homeAngle2BoldDuotone = IconifyIconData.duo(
+  /// `home-angle-2-bold-duotone`
+  static const IconifyIconData homeAngle2BoldDuotone = IconifyIconData.solo(
     IconData(0xebf5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebf5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-angle-2-broken`
@@ -16337,10 +16019,9 @@ class SolarIcons {
     IconData(0xebf6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-angle-2-line-duotone` (duo-tone)
-  static const IconifyIconData homeAngle2LineDuotone = IconifyIconData.duo(
+  /// `home-angle-2-line-duotone`
+  static const IconifyIconData homeAngle2LineDuotone = IconifyIconData.solo(
     IconData(0xebf7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebf7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-angle-2-linear`
@@ -16358,10 +16039,9 @@ class SolarIcons {
     IconData(0xebfa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-angle-bold-duotone` (duo-tone)
-  static const IconifyIconData homeAngleBoldDuotone = IconifyIconData.duo(
+  /// `home-angle-bold-duotone`
+  static const IconifyIconData homeAngleBoldDuotone = IconifyIconData.solo(
     IconData(0xebfb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebfb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-angle-broken`
@@ -16369,10 +16049,9 @@ class SolarIcons {
     IconData(0xebfc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-angle-line-duotone` (duo-tone)
-  static const IconifyIconData homeAngleLineDuotone = IconifyIconData.duo(
+  /// `home-angle-line-duotone`
+  static const IconifyIconData homeAngleLineDuotone = IconifyIconData.solo(
     IconData(0xebfd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xebfd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-angle-linear`
@@ -16432,10 +16111,9 @@ class SolarIcons {
     IconData(0xec08, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-smile-angle-line-duotone` (duo-tone)
-  static const IconifyIconData homeSmileAngleLineDuotone = IconifyIconData.duo(
+  /// `home-smile-angle-line-duotone`
+  static const IconifyIconData homeSmileAngleLineDuotone = IconifyIconData.solo(
     IconData(0xec09, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec09, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-smile-angle-linear`
@@ -16453,10 +16131,9 @@ class SolarIcons {
     IconData(0xec0c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-smile-bold-duotone` (duo-tone)
-  static const IconifyIconData homeSmileBoldDuotone = IconifyIconData.duo(
+  /// `home-smile-bold-duotone`
+  static const IconifyIconData homeSmileBoldDuotone = IconifyIconData.solo(
     IconData(0xec0d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec0d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-smile-broken`
@@ -16464,10 +16141,9 @@ class SolarIcons {
     IconData(0xec0e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-smile-line-duotone` (duo-tone)
-  static const IconifyIconData homeSmileLineDuotone = IconifyIconData.duo(
+  /// `home-smile-line-duotone`
+  static const IconifyIconData homeSmileLineDuotone = IconifyIconData.solo(
     IconData(0xec0f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec0f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-smile-linear`
@@ -16485,10 +16161,9 @@ class SolarIcons {
     IconData(0xec12, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-wifi-angle-bold-duotone` (duo-tone)
-  static const IconifyIconData homeWifiAngleBoldDuotone = IconifyIconData.duo(
+  /// `home-wifi-angle-bold-duotone`
+  static const IconifyIconData homeWifiAngleBoldDuotone = IconifyIconData.solo(
     IconData(0xec13, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec13, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-wifi-angle-broken`
@@ -16496,10 +16171,9 @@ class SolarIcons {
     IconData(0xec14, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-wifi-angle-line-duotone` (duo-tone)
-  static const IconifyIconData homeWifiAngleLineDuotone = IconifyIconData.duo(
+  /// `home-wifi-angle-line-duotone`
+  static const IconifyIconData homeWifiAngleLineDuotone = IconifyIconData.solo(
     IconData(0xec15, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec15, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-wifi-angle-linear`
@@ -16517,10 +16191,9 @@ class SolarIcons {
     IconData(0xec18, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-wifi-bold-duotone` (duo-tone)
-  static const IconifyIconData homeWifiBoldDuotone = IconifyIconData.duo(
+  /// `home-wifi-bold-duotone`
+  static const IconifyIconData homeWifiBoldDuotone = IconifyIconData.solo(
     IconData(0xec19, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec19, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-wifi-broken`
@@ -16528,10 +16201,9 @@ class SolarIcons {
     IconData(0xec1a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `home-wifi-line-duotone` (duo-tone)
-  static const IconifyIconData homeWifiLineDuotone = IconifyIconData.duo(
+  /// `home-wifi-line-duotone`
+  static const IconifyIconData homeWifiLineDuotone = IconifyIconData.solo(
     IconData(0xec1b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec1b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `home-wifi-linear`
@@ -16549,10 +16221,9 @@ class SolarIcons {
     IconData(0xec1e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hospital-bold-duotone` (duo-tone)
-  static const IconifyIconData hospitalBoldDuotone = IconifyIconData.duo(
+  /// `hospital-bold-duotone`
+  static const IconifyIconData hospitalBoldDuotone = IconifyIconData.solo(
     IconData(0xec1f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec1f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hospital-broken`
@@ -16560,10 +16231,9 @@ class SolarIcons {
     IconData(0xec20, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hospital-line-duotone` (duo-tone)
-  static const IconifyIconData hospitalLineDuotone = IconifyIconData.duo(
+  /// `hospital-line-duotone`
+  static const IconifyIconData hospitalLineDuotone = IconifyIconData.solo(
     IconData(0xec21, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec21, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hospital-linear`
@@ -16597,10 +16267,9 @@ class SolarIcons {
     IconData(0xec27, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `hourglass-line-bold-duotone` (duo-tone)
-  static const IconifyIconData hourglassLineBoldDuotone = IconifyIconData.duo(
+  /// `hourglass-line-bold-duotone`
+  static const IconifyIconData hourglassLineBoldDuotone = IconifyIconData.solo(
     IconData(0xec28, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec28, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `hourglass-line-broken`
@@ -16645,10 +16314,9 @@ class SolarIcons {
     IconData(0xec30, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `import-bold-duotone` (duo-tone)
-  static const IconifyIconData importBoldDuotone = IconifyIconData.duo(
+  /// `import-bold-duotone`
+  static const IconifyIconData importBoldDuotone = IconifyIconData.solo(
     IconData(0xec31, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec31, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `import-broken`
@@ -16656,10 +16324,9 @@ class SolarIcons {
     IconData(0xec32, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `import-line-duotone` (duo-tone)
-  static const IconifyIconData importLineDuotone = IconifyIconData.duo(
+  /// `import-line-duotone`
+  static const IconifyIconData importLineDuotone = IconifyIconData.solo(
     IconData(0xec33, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec33, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `import-linear`
@@ -16677,10 +16344,9 @@ class SolarIcons {
     IconData(0xec36, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `inbox-archive-bold-duotone` (duo-tone)
-  static const IconifyIconData inboxArchiveBoldDuotone = IconifyIconData.duo(
+  /// `inbox-archive-bold-duotone`
+  static const IconifyIconData inboxArchiveBoldDuotone = IconifyIconData.solo(
     IconData(0xec37, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec37, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `inbox-archive-broken`
@@ -16725,10 +16391,9 @@ class SolarIcons {
     IconData(0xec3f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `inbox-in-bold-duotone` (duo-tone)
-  static const IconifyIconData inboxInBoldDuotone = IconifyIconData.duo(
+  /// `inbox-in-bold-duotone`
+  static const IconifyIconData inboxInBoldDuotone = IconifyIconData.solo(
     IconData(0xec40, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec40, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `inbox-in-broken`
@@ -16757,10 +16422,9 @@ class SolarIcons {
     IconData(0xec45, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `inbox-line-bold-duotone` (duo-tone)
-  static const IconifyIconData inboxLineBoldDuotone = IconifyIconData.duo(
+  /// `inbox-line-bold-duotone`
+  static const IconifyIconData inboxLineBoldDuotone = IconifyIconData.solo(
     IconData(0xec46, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec46, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `inbox-line-broken`
@@ -16800,10 +16464,9 @@ class SolarIcons {
     IconData(0xec4d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `inbox-out-bold-duotone` (duo-tone)
-  static const IconifyIconData inboxOutBoldDuotone = IconifyIconData.duo(
+  /// `inbox-out-bold-duotone`
+  static const IconifyIconData inboxOutBoldDuotone = IconifyIconData.solo(
     IconData(0xec4e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec4e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `inbox-out-broken`
@@ -16848,10 +16511,9 @@ class SolarIcons {
     IconData(0xec56, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `inbox-unread-line-duotone` (duo-tone)
-  static const IconifyIconData inboxUnreadLineDuotone = IconifyIconData.duo(
+  /// `inbox-unread-line-duotone`
+  static const IconifyIconData inboxUnreadLineDuotone = IconifyIconData.solo(
     IconData(0xec57, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec57, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `inbox-unread-linear`
@@ -16901,10 +16563,9 @@ class SolarIcons {
     IconData(0xec60, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `incoming-call-bold-duotone` (duo-tone)
-  static const IconifyIconData incomingCallBoldDuotone = IconifyIconData.duo(
+  /// `incoming-call-bold-duotone`
+  static const IconifyIconData incomingCallBoldDuotone = IconifyIconData.solo(
     IconData(0xec61, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec61, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `incoming-call-broken`
@@ -16912,10 +16573,9 @@ class SolarIcons {
     IconData(0xec62, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `incoming-call-line-duotone` (duo-tone)
-  static const IconifyIconData incomingCallLineDuotone = IconifyIconData.duo(
+  /// `incoming-call-line-duotone`
+  static const IconifyIconData incomingCallLineDuotone = IconifyIconData.solo(
     IconData(0xec63, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec63, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `incoming-call-linear`
@@ -16933,10 +16593,9 @@ class SolarIcons {
     IconData(0xec66, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `incoming-call-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData incomingCallRoundedBoldDuotone = IconifyIconData.duo(
+  /// `incoming-call-rounded-bold-duotone`
+  static const IconifyIconData incomingCallRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xec67, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec67, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `incoming-call-rounded-broken`
@@ -16944,10 +16603,9 @@ class SolarIcons {
     IconData(0xec68, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `incoming-call-rounded-line-duotone` (duo-tone)
-  static const IconifyIconData incomingCallRoundedLineDuotone = IconifyIconData.duo(
+  /// `incoming-call-rounded-line-duotone`
+  static const IconifyIconData incomingCallRoundedLineDuotone = IconifyIconData.solo(
     IconData(0xec69, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec69, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `incoming-call-rounded-linear`
@@ -16996,10 +16654,9 @@ class SolarIcons {
     IconData(0xec72, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `info-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData infoCircleBoldDuotone = IconifyIconData.duo(
+  /// `info-circle-bold-duotone`
+  static const IconifyIconData infoCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xec73, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec73, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `info-circle-broken`
@@ -17007,10 +16664,9 @@ class SolarIcons {
     IconData(0xec74, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `info-circle-line-duotone` (duo-tone)
-  static const IconifyIconData infoCircleLineDuotone = IconifyIconData.duo(
+  /// `info-circle-line-duotone`
+  static const IconifyIconData infoCircleLineDuotone = IconifyIconData.solo(
     IconData(0xec75, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec75, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `info-circle-linear`
@@ -17028,10 +16684,9 @@ class SolarIcons {
     IconData(0xec78, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `info-square-bold-duotone` (duo-tone)
-  static const IconifyIconData infoSquareBoldDuotone = IconifyIconData.duo(
+  /// `info-square-bold-duotone`
+  static const IconifyIconData infoSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xec79, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec79, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `info-square-broken`
@@ -17039,10 +16694,9 @@ class SolarIcons {
     IconData(0xec7a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `info-square-line-duotone` (duo-tone)
-  static const IconifyIconData infoSquareLineDuotone = IconifyIconData.duo(
+  /// `info-square-line-duotone`
+  static const IconifyIconData infoSquareLineDuotone = IconifyIconData.solo(
     IconData(0xec7b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xec7b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `info-square-linear`
@@ -17247,10 +16901,9 @@ class SolarIcons {
     IconData(0xeca1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `key-minimalistic-square-2-bold-duotone` (duo-tone)
-  static const IconifyIconData keyMinimalisticSquare2BoldDuotone = IconifyIconData.duo(
+  /// `key-minimalistic-square-2-bold-duotone`
+  static const IconifyIconData keyMinimalisticSquare2BoldDuotone = IconifyIconData.solo(
     IconData(0xeca2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeca2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `key-minimalistic-square-2-broken`
@@ -17279,10 +16932,9 @@ class SolarIcons {
     IconData(0xeca7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `key-minimalistic-square-3-bold-duotone` (duo-tone)
-  static const IconifyIconData keyMinimalisticSquare3BoldDuotone = IconifyIconData.duo(
+  /// `key-minimalistic-square-3-bold-duotone`
+  static const IconifyIconData keyMinimalisticSquare3BoldDuotone = IconifyIconData.solo(
     IconData(0xeca8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeca8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `key-minimalistic-square-3-broken`
@@ -17290,10 +16942,9 @@ class SolarIcons {
     IconData(0xeca9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `key-minimalistic-square-3-line-duotone` (duo-tone)
-  static const IconifyIconData keyMinimalisticSquare3LineDuotone = IconifyIconData.duo(
+  /// `key-minimalistic-square-3-line-duotone`
+  static const IconifyIconData keyMinimalisticSquare3LineDuotone = IconifyIconData.solo(
     IconData(0xecaa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xecaa, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `key-minimalistic-square-3-linear`
@@ -17311,10 +16962,9 @@ class SolarIcons {
     IconData(0xecad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `key-minimalistic-square-bold-duotone` (duo-tone)
-  static const IconifyIconData keyMinimalisticSquareBoldDuotone = IconifyIconData.duo(
+  /// `key-minimalistic-square-bold-duotone`
+  static const IconifyIconData keyMinimalisticSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xecae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xecae, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `key-minimalistic-square-broken`
@@ -17322,10 +16972,9 @@ class SolarIcons {
     IconData(0xecaf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `key-minimalistic-square-line-duotone` (duo-tone)
-  static const IconifyIconData keyMinimalisticSquareLineDuotone = IconifyIconData.duo(
+  /// `key-minimalistic-square-line-duotone`
+  static const IconifyIconData keyMinimalisticSquareLineDuotone = IconifyIconData.solo(
     IconData(0xecb0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xecb0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `key-minimalistic-square-linear`
@@ -17348,10 +16997,9 @@ class SolarIcons {
     IconData(0xecb4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `key-square-2-bold-duotone` (duo-tone)
-  static const IconifyIconData keySquare2BoldDuotone = IconifyIconData.duo(
+  /// `key-square-2-bold-duotone`
+  static const IconifyIconData keySquare2BoldDuotone = IconifyIconData.solo(
     IconData(0xecb5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xecb5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `key-square-2-broken`
@@ -17380,10 +17028,9 @@ class SolarIcons {
     IconData(0xecba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `key-square-bold-duotone` (duo-tone)
-  static const IconifyIconData keySquareBoldDuotone = IconifyIconData.duo(
+  /// `key-square-bold-duotone`
+  static const IconifyIconData keySquareBoldDuotone = IconifyIconData.solo(
     IconData(0xecbb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xecbb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `key-square-broken`
@@ -17391,10 +17038,9 @@ class SolarIcons {
     IconData(0xecbc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `key-square-line-duotone` (duo-tone)
-  static const IconifyIconData keySquareLineDuotone = IconifyIconData.duo(
+  /// `key-square-line-duotone`
+  static const IconifyIconData keySquareLineDuotone = IconifyIconData.solo(
     IconData(0xecbd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xecbd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `key-square-linear`
@@ -17903,10 +17549,9 @@ class SolarIcons {
     IconData(0xed1c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `lightbulb-bolt-bold-duotone` (duo-tone)
-  static const IconifyIconData lightbulbBoltBoldDuotone = IconifyIconData.duo(
+  /// `lightbulb-bolt-bold-duotone`
+  static const IconifyIconData lightbulbBoltBoldDuotone = IconifyIconData.solo(
     IconData(0xed1d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xed1d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `lightbulb-bolt-broken`
@@ -18131,10 +17776,9 @@ class SolarIcons {
     IconData(0xed47, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `link-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData linkCircleBoldDuotone = IconifyIconData.duo(
+  /// `link-circle-bold-duotone`
+  static const IconifyIconData linkCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xed48, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xed48, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `link-circle-broken`
@@ -18307,10 +17951,9 @@ class SolarIcons {
     IconData(0xed68, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `link-square-bold-duotone` (duo-tone)
-  static const IconifyIconData linkSquareBoldDuotone = IconifyIconData.duo(
+  /// `link-square-bold-duotone`
+  static const IconifyIconData linkSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xed69, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xed69, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `link-square-broken`
@@ -18403,10 +18046,9 @@ class SolarIcons {
     IconData(0xed7a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `list-arrow-up-bold-duotone` (duo-tone)
-  static const IconifyIconData listArrowUpBoldDuotone = IconifyIconData.duo(
+  /// `list-arrow-up-bold-duotone`
+  static const IconifyIconData listArrowUpBoldDuotone = IconifyIconData.solo(
     IconData(0xed7b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xed7b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `list-arrow-up-broken`
@@ -18414,10 +18056,9 @@ class SolarIcons {
     IconData(0xed7c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `list-arrow-up-line-duotone` (duo-tone)
-  static const IconifyIconData listArrowUpLineDuotone = IconifyIconData.duo(
+  /// `list-arrow-up-line-duotone`
+  static const IconifyIconData listArrowUpLineDuotone = IconifyIconData.solo(
     IconData(0xed7d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xed7d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `list-arrow-up-linear`
@@ -18547,10 +18188,9 @@ class SolarIcons {
     IconData(0xed95, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `list-cross-bold-duotone` (duo-tone)
-  static const IconifyIconData listCrossBoldDuotone = IconifyIconData.duo(
+  /// `list-cross-bold-duotone`
+  static const IconifyIconData listCrossBoldDuotone = IconifyIconData.solo(
     IconData(0xed96, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xed96, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `list-cross-broken`
@@ -18558,10 +18198,9 @@ class SolarIcons {
     IconData(0xed97, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `list-cross-line-duotone` (duo-tone)
-  static const IconifyIconData listCrossLineDuotone = IconifyIconData.duo(
+  /// `list-cross-line-duotone`
+  static const IconifyIconData listCrossLineDuotone = IconifyIconData.solo(
     IconData(0xed98, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xed98, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `list-cross-linear`
@@ -18622,10 +18261,9 @@ class SolarIcons {
     IconData(0xeda3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `list-down-line-duotone` (duo-tone)
-  static const IconifyIconData listDownLineDuotone = IconifyIconData.duo(
+  /// `list-down-line-duotone`
+  static const IconifyIconData listDownLineDuotone = IconifyIconData.solo(
     IconData(0xeda4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeda4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `list-down-linear`
@@ -18675,10 +18313,9 @@ class SolarIcons {
     IconData(0xedad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `list-heart-bold-duotone` (duo-tone)
-  static const IconifyIconData listHeartBoldDuotone = IconifyIconData.duo(
+  /// `list-heart-bold-duotone`
+  static const IconifyIconData listHeartBoldDuotone = IconifyIconData.solo(
     IconData(0xedae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xedae, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `list-heart-broken`
@@ -18686,10 +18323,9 @@ class SolarIcons {
     IconData(0xedaf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `list-heart-line-duotone` (duo-tone)
-  static const IconifyIconData listHeartLineDuotone = IconifyIconData.duo(
+  /// `list-heart-line-duotone`
+  static const IconifyIconData listHeartLineDuotone = IconifyIconData.solo(
     IconData(0xedb0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xedb0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `list-heart-linear`
@@ -18755,10 +18391,9 @@ class SolarIcons {
     IconData(0xedbc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `list-up-bold-duotone` (duo-tone)
-  static const IconifyIconData listUpBoldDuotone = IconifyIconData.duo(
+  /// `list-up-bold-duotone`
+  static const IconifyIconData listUpBoldDuotone = IconifyIconData.solo(
     IconData(0xedbd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xedbd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `list-up-broken`
@@ -18766,10 +18401,9 @@ class SolarIcons {
     IconData(0xedbe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `list-up-line-duotone` (duo-tone)
-  static const IconifyIconData listUpLineDuotone = IconifyIconData.duo(
+  /// `list-up-line-duotone`
+  static const IconifyIconData listUpLineDuotone = IconifyIconData.solo(
     IconData(0xedbf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xedbf, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `list-up-linear`
@@ -18835,10 +18469,9 @@ class SolarIcons {
     IconData(0xedcb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `lock-keyhole-bold-duotone` (duo-tone)
-  static const IconifyIconData lockKeyholeBoldDuotone = IconifyIconData.duo(
+  /// `lock-keyhole-bold-duotone`
+  static const IconifyIconData lockKeyholeBoldDuotone = IconifyIconData.solo(
     IconData(0xedcc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xedcc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `lock-keyhole-broken`
@@ -18862,10 +18495,9 @@ class SolarIcons {
     IconData(0xedd0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `lock-keyhole-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData lockKeyholeMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `lock-keyhole-minimalistic-bold-duotone`
+  static const IconifyIconData lockKeyholeMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xedd1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xedd1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `lock-keyhole-minimalistic-broken`
@@ -18894,10 +18526,9 @@ class SolarIcons {
     IconData(0xedd6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `lock-keyhole-minimalistic-unlocked-bold-duotone` (duo-tone)
-  static const IconifyIconData lockKeyholeMinimalisticUnlockedBoldDuotone = IconifyIconData.duo(
+  /// `lock-keyhole-minimalistic-unlocked-bold-duotone`
+  static const IconifyIconData lockKeyholeMinimalisticUnlockedBoldDuotone = IconifyIconData.solo(
     IconData(0xedd7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xedd7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `lock-keyhole-minimalistic-unlocked-broken`
@@ -18931,10 +18562,9 @@ class SolarIcons {
     IconData(0xeddd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `lock-keyhole-unlocked-bold-duotone` (duo-tone)
-  static const IconifyIconData lockKeyholeUnlockedBoldDuotone = IconifyIconData.duo(
+  /// `lock-keyhole-unlocked-bold-duotone`
+  static const IconifyIconData lockKeyholeUnlockedBoldDuotone = IconifyIconData.solo(
     IconData(0xedde, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xedde, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `lock-keyhole-unlocked-broken`
@@ -18979,10 +18609,9 @@ class SolarIcons {
     IconData(0xede6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `lock-password-bold-duotone` (duo-tone)
-  static const IconifyIconData lockPasswordBoldDuotone = IconifyIconData.duo(
+  /// `lock-password-bold-duotone`
+  static const IconifyIconData lockPasswordBoldDuotone = IconifyIconData.solo(
     IconData(0xede7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xede7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `lock-password-broken`
@@ -19011,10 +18640,9 @@ class SolarIcons {
     IconData(0xedec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `lock-password-unlocked-bold-duotone` (duo-tone)
-  static const IconifyIconData lockPasswordUnlockedBoldDuotone = IconifyIconData.duo(
+  /// `lock-password-unlocked-bold-duotone`
+  static const IconifyIconData lockPasswordUnlockedBoldDuotone = IconifyIconData.solo(
     IconData(0xeded, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeded, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `lock-password-unlocked-broken`
@@ -19043,10 +18671,9 @@ class SolarIcons {
     IconData(0xedf2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `lock-unlocked-bold-duotone` (duo-tone)
-  static const IconifyIconData lockUnlockedBoldDuotone = IconifyIconData.duo(
+  /// `lock-unlocked-bold-duotone`
+  static const IconifyIconData lockUnlockedBoldDuotone = IconifyIconData.solo(
     IconData(0xedf3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xedf3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `lock-unlocked-broken`
@@ -19171,10 +18798,9 @@ class SolarIcons {
     IconData(0xee0a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `logout-2-bold-duotone` (duo-tone)
-  static const IconifyIconData logout2BoldDuotone = IconifyIconData.duo(
+  /// `logout-2-bold-duotone`
+  static const IconifyIconData logout2BoldDuotone = IconifyIconData.solo(
     IconData(0xee0b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee0b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `logout-2-broken`
@@ -19182,10 +18808,9 @@ class SolarIcons {
     IconData(0xee0c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `logout-2-line-duotone` (duo-tone)
-  static const IconifyIconData logout2LineDuotone = IconifyIconData.duo(
+  /// `logout-2-line-duotone`
+  static const IconifyIconData logout2LineDuotone = IconifyIconData.solo(
     IconData(0xee0d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee0d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `logout-2-linear`
@@ -19203,10 +18828,9 @@ class SolarIcons {
     IconData(0xee10, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `logout-3-bold-duotone` (duo-tone)
-  static const IconifyIconData logout3BoldDuotone = IconifyIconData.duo(
+  /// `logout-3-bold-duotone`
+  static const IconifyIconData logout3BoldDuotone = IconifyIconData.solo(
     IconData(0xee11, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee11, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `logout-3-broken`
@@ -19214,10 +18838,9 @@ class SolarIcons {
     IconData(0xee12, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `logout-3-line-duotone` (duo-tone)
-  static const IconifyIconData logout3LineDuotone = IconifyIconData.duo(
+  /// `logout-3-line-duotone`
+  static const IconifyIconData logout3LineDuotone = IconifyIconData.solo(
     IconData(0xee13, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee13, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `logout-3-linear`
@@ -19342,10 +18965,9 @@ class SolarIcons {
     IconData(0xee2a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `magic-stick-line-duotone` (duo-tone)
-  static const IconifyIconData magicStickLineDuotone = IconifyIconData.duo(
+  /// `magic-stick-line-duotone`
+  static const IconifyIconData magicStickLineDuotone = IconifyIconData.solo(
     IconData(0xee2b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee2b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `magic-stick-linear`
@@ -19489,10 +19111,9 @@ class SolarIcons {
     IconData(0xee46, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `magnifer-zoom-in-bold-duotone` (duo-tone)
-  static const IconifyIconData magniferZoomInBoldDuotone = IconifyIconData.duo(
+  /// `magnifer-zoom-in-bold-duotone`
+  static const IconifyIconData magniferZoomInBoldDuotone = IconifyIconData.solo(
     IconData(0xee47, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee47, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `magnifer-zoom-in-broken`
@@ -19520,10 +19141,9 @@ class SolarIcons {
     IconData(0xee4c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `magnifer-zoom-out-bold-duotone` (duo-tone)
-  static const IconifyIconData magniferZoomOutBoldDuotone = IconifyIconData.duo(
+  /// `magnifer-zoom-out-bold-duotone`
+  static const IconifyIconData magniferZoomOutBoldDuotone = IconifyIconData.solo(
     IconData(0xee4d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee4d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `magnifer-zoom-out-broken`
@@ -19679,10 +19299,9 @@ class SolarIcons {
     IconData(0xee6a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-arrow-square-bold-duotone` (duo-tone)
-  static const IconifyIconData mapArrowSquareBoldDuotone = IconifyIconData.duo(
+  /// `map-arrow-square-bold-duotone`
+  static const IconifyIconData mapArrowSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xee6b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee6b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-arrow-square-broken`
@@ -19690,10 +19309,9 @@ class SolarIcons {
     IconData(0xee6c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-arrow-square-line-duotone` (duo-tone)
-  static const IconifyIconData mapArrowSquareLineDuotone = IconifyIconData.duo(
+  /// `map-arrow-square-line-duotone`
+  static const IconifyIconData mapArrowSquareLineDuotone = IconifyIconData.solo(
     IconData(0xee6d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee6d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-arrow-square-linear`
@@ -19823,10 +19441,9 @@ class SolarIcons {
     IconData(0xee85, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-favourite-bold-duotone` (duo-tone)
-  static const IconifyIconData mapPointFavouriteBoldDuotone = IconifyIconData.duo(
+  /// `map-point-favourite-bold-duotone`
+  static const IconifyIconData mapPointFavouriteBoldDuotone = IconifyIconData.solo(
     IconData(0xee86, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee86, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-favourite-broken`
@@ -19834,10 +19451,9 @@ class SolarIcons {
     IconData(0xee87, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-favourite-line-duotone` (duo-tone)
-  static const IconifyIconData mapPointFavouriteLineDuotone = IconifyIconData.duo(
+  /// `map-point-favourite-line-duotone`
+  static const IconifyIconData mapPointFavouriteLineDuotone = IconifyIconData.solo(
     IconData(0xee88, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee88, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-favourite-linear`
@@ -19866,10 +19482,9 @@ class SolarIcons {
     IconData(0xee8d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-hospital-line-duotone` (duo-tone)
-  static const IconifyIconData mapPointHospitalLineDuotone = IconifyIconData.duo(
+  /// `map-point-hospital-line-duotone`
+  static const IconifyIconData mapPointHospitalLineDuotone = IconifyIconData.solo(
     IconData(0xee8e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee8e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-hospital-linear`
@@ -19882,10 +19497,9 @@ class SolarIcons {
     IconData(0xee90, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-line-duotone` (duo-tone)
-  static const IconifyIconData mapPointLineDuotone = IconifyIconData.duo(
+  /// `map-point-line-duotone`
+  static const IconifyIconData mapPointLineDuotone = IconifyIconData.solo(
     IconData(0xee91, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee91, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-linear`
@@ -19903,10 +19517,9 @@ class SolarIcons {
     IconData(0xee94, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-remove-bold-duotone` (duo-tone)
-  static const IconifyIconData mapPointRemoveBoldDuotone = IconifyIconData.duo(
+  /// `map-point-remove-bold-duotone`
+  static const IconifyIconData mapPointRemoveBoldDuotone = IconifyIconData.solo(
     IconData(0xee95, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee95, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-remove-broken`
@@ -19914,10 +19527,9 @@ class SolarIcons {
     IconData(0xee96, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-remove-line-duotone` (duo-tone)
-  static const IconifyIconData mapPointRemoveLineDuotone = IconifyIconData.duo(
+  /// `map-point-remove-line-duotone`
+  static const IconifyIconData mapPointRemoveLineDuotone = IconifyIconData.solo(
     IconData(0xee97, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xee97, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-remove-linear`
@@ -19967,10 +19579,9 @@ class SolarIcons {
     IconData(0xeea0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-school-bold-duotone` (duo-tone)
-  static const IconifyIconData mapPointSchoolBoldDuotone = IconifyIconData.duo(
+  /// `map-point-school-bold-duotone`
+  static const IconifyIconData mapPointSchoolBoldDuotone = IconifyIconData.solo(
     IconData(0xeea1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeea1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-school-broken`
@@ -19978,10 +19589,9 @@ class SolarIcons {
     IconData(0xeea2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-school-line-duotone` (duo-tone)
-  static const IconifyIconData mapPointSchoolLineDuotone = IconifyIconData.duo(
+  /// `map-point-school-line-duotone`
+  static const IconifyIconData mapPointSchoolLineDuotone = IconifyIconData.solo(
     IconData(0xeea3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeea3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-school-linear`
@@ -19999,10 +19609,9 @@ class SolarIcons {
     IconData(0xeea6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-search-bold-duotone` (duo-tone)
-  static const IconifyIconData mapPointSearchBoldDuotone = IconifyIconData.duo(
+  /// `map-point-search-bold-duotone`
+  static const IconifyIconData mapPointSearchBoldDuotone = IconifyIconData.solo(
     IconData(0xeea7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeea7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-search-broken`
@@ -20010,10 +19619,9 @@ class SolarIcons {
     IconData(0xeea8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `map-point-search-line-duotone` (duo-tone)
-  static const IconifyIconData mapPointSearchLineDuotone = IconifyIconData.duo(
+  /// `map-point-search-line-duotone`
+  static const IconifyIconData mapPointSearchLineDuotone = IconifyIconData.solo(
     IconData(0xeea9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeea9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `map-point-search-linear`
@@ -20106,10 +19714,9 @@ class SolarIcons {
     IconData(0xeeba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `mask-sad-line-duotone` (duo-tone)
-  static const IconifyIconData maskSadLineDuotone = IconifyIconData.duo(
+  /// `mask-sad-line-duotone`
+  static const IconifyIconData maskSadLineDuotone = IconifyIconData.solo(
     IconData(0xeebb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeebb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `mask-sad-linear`
@@ -20191,10 +19798,9 @@ class SolarIcons {
     IconData(0xeeca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `maximize-square-2-bold-duotone` (duo-tone)
-  static const IconifyIconData maximizeSquare2BoldDuotone = IconifyIconData.duo(
+  /// `maximize-square-2-bold-duotone`
+  static const IconifyIconData maximizeSquare2BoldDuotone = IconifyIconData.solo(
     IconData(0xeecb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeecb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `maximize-square-2-broken`
@@ -20202,10 +19808,9 @@ class SolarIcons {
     IconData(0xeecc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `maximize-square-2-line-duotone` (duo-tone)
-  static const IconifyIconData maximizeSquare2LineDuotone = IconifyIconData.duo(
+  /// `maximize-square-2-line-duotone`
+  static const IconifyIconData maximizeSquare2LineDuotone = IconifyIconData.solo(
     IconData(0xeecd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeecd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `maximize-square-2-linear`
@@ -20223,10 +19828,9 @@ class SolarIcons {
     IconData(0xeed0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `maximize-square-3-bold-duotone` (duo-tone)
-  static const IconifyIconData maximizeSquare3BoldDuotone = IconifyIconData.duo(
+  /// `maximize-square-3-bold-duotone`
+  static const IconifyIconData maximizeSquare3BoldDuotone = IconifyIconData.solo(
     IconData(0xeed1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeed1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `maximize-square-3-broken`
@@ -20255,10 +19859,9 @@ class SolarIcons {
     IconData(0xeed6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `maximize-square-bold-duotone` (duo-tone)
-  static const IconifyIconData maximizeSquareBoldDuotone = IconifyIconData.duo(
+  /// `maximize-square-bold-duotone`
+  static const IconifyIconData maximizeSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xeed7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeed7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `maximize-square-broken`
@@ -20266,10 +19869,9 @@ class SolarIcons {
     IconData(0xeed8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `maximize-square-line-duotone` (duo-tone)
-  static const IconifyIconData maximizeSquareLineDuotone = IconifyIconData.duo(
+  /// `maximize-square-line-duotone`
+  static const IconifyIconData maximizeSquareLineDuotone = IconifyIconData.solo(
     IconData(0xeed9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeed9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `maximize-square-linear`
@@ -20282,10 +19884,9 @@ class SolarIcons {
     IconData(0xeedb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `maximize-square-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData maximizeSquareMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `maximize-square-minimalistic-bold-duotone`
+  static const IconifyIconData maximizeSquareMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xeedc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeedc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `maximize-square-minimalistic-broken`
@@ -20293,10 +19894,9 @@ class SolarIcons {
     IconData(0xeedd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `maximize-square-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData maximizeSquareMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `maximize-square-minimalistic-line-duotone`
+  static const IconifyIconData maximizeSquareMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xeede, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xeede, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `maximize-square-minimalistic-linear`
@@ -20639,10 +20239,9 @@ class SolarIcons {
     IconData(0xef1e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `mention-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData mentionCircleBoldDuotone = IconifyIconData.duo(
+  /// `mention-circle-bold-duotone`
+  static const IconifyIconData mentionCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xef1f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef1f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `mention-circle-broken`
@@ -20650,10 +20249,9 @@ class SolarIcons {
     IconData(0xef20, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `mention-circle-line-duotone` (duo-tone)
-  static const IconifyIconData mentionCircleLineDuotone = IconifyIconData.duo(
+  /// `mention-circle-line-duotone`
+  static const IconifyIconData mentionCircleLineDuotone = IconifyIconData.solo(
     IconData(0xef21, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef21, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `mention-circle-linear`
@@ -20671,10 +20269,9 @@ class SolarIcons {
     IconData(0xef24, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `mention-square-bold-duotone` (duo-tone)
-  static const IconifyIconData mentionSquareBoldDuotone = IconifyIconData.duo(
+  /// `mention-square-bold-duotone`
+  static const IconifyIconData mentionSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xef25, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef25, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `mention-square-broken`
@@ -20682,10 +20279,9 @@ class SolarIcons {
     IconData(0xef26, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `mention-square-line-duotone` (duo-tone)
-  static const IconifyIconData mentionSquareLineDuotone = IconifyIconData.duo(
+  /// `mention-square-line-duotone`
+  static const IconifyIconData mentionSquareLineDuotone = IconifyIconData.solo(
     IconData(0xef27, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef27, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `mention-square-linear`
@@ -20719,10 +20315,9 @@ class SolarIcons {
     IconData(0xef2d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `menu-dots-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData menuDotsCircleBoldDuotone = IconifyIconData.duo(
+  /// `menu-dots-circle-bold-duotone`
+  static const IconifyIconData menuDotsCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xef2e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef2e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `menu-dots-circle-broken`
@@ -20730,10 +20325,9 @@ class SolarIcons {
     IconData(0xef2f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `menu-dots-circle-line-duotone` (duo-tone)
-  static const IconifyIconData menuDotsCircleLineDuotone = IconifyIconData.duo(
+  /// `menu-dots-circle-line-duotone`
+  static const IconifyIconData menuDotsCircleLineDuotone = IconifyIconData.solo(
     IconData(0xef30, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef30, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `menu-dots-circle-linear`
@@ -20767,10 +20361,9 @@ class SolarIcons {
     IconData(0xef36, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `menu-dots-square-bold-duotone` (duo-tone)
-  static const IconifyIconData menuDotsSquareBoldDuotone = IconifyIconData.duo(
+  /// `menu-dots-square-bold-duotone`
+  static const IconifyIconData menuDotsSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xef37, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef37, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `menu-dots-square-broken`
@@ -20778,10 +20371,9 @@ class SolarIcons {
     IconData(0xef38, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `menu-dots-square-line-duotone` (duo-tone)
-  static const IconifyIconData menuDotsSquareLineDuotone = IconifyIconData.duo(
+  /// `menu-dots-square-line-duotone`
+  static const IconifyIconData menuDotsSquareLineDuotone = IconifyIconData.solo(
     IconData(0xef39, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef39, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `menu-dots-square-linear`
@@ -20927,10 +20519,9 @@ class SolarIcons {
     IconData(0xef54, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimalistic-magnifer-bold-duotone` (duo-tone)
-  static const IconifyIconData minimalisticMagniferBoldDuotone = IconifyIconData.duo(
+  /// `minimalistic-magnifer-bold-duotone`
+  static const IconifyIconData minimalisticMagniferBoldDuotone = IconifyIconData.solo(
     IconData(0xef55, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef55, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimalistic-magnifer-broken`
@@ -20943,10 +20534,9 @@ class SolarIcons {
     IconData(0xef57, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimalistic-magnifer-bug-bold-duotone` (duo-tone)
-  static const IconifyIconData minimalisticMagniferBugBoldDuotone = IconifyIconData.duo(
+  /// `minimalistic-magnifer-bug-bold-duotone`
+  static const IconifyIconData minimalisticMagniferBugBoldDuotone = IconifyIconData.solo(
     IconData(0xef58, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef58, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimalistic-magnifer-bug-broken`
@@ -20989,10 +20579,9 @@ class SolarIcons {
     IconData(0xef60, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimalistic-magnifer-zoom-in-bold-duotone` (duo-tone)
-  static const IconifyIconData minimalisticMagniferZoomInBoldDuotone = IconifyIconData.duo(
+  /// `minimalistic-magnifer-zoom-in-bold-duotone`
+  static const IconifyIconData minimalisticMagniferZoomInBoldDuotone = IconifyIconData.solo(
     IconData(0xef61, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef61, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimalistic-magnifer-zoom-in-broken`
@@ -21020,10 +20609,9 @@ class SolarIcons {
     IconData(0xef66, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimalistic-magnifer-zoom-out-bold-duotone` (duo-tone)
-  static const IconifyIconData minimalisticMagniferZoomOutBoldDuotone = IconifyIconData.duo(
+  /// `minimalistic-magnifer-zoom-out-bold-duotone`
+  static const IconifyIconData minimalisticMagniferZoomOutBoldDuotone = IconifyIconData.solo(
     IconData(0xef67, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef67, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimalistic-magnifer-zoom-out-broken`
@@ -21083,10 +20671,9 @@ class SolarIcons {
     IconData(0xef72, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimize-square-2-bold-duotone` (duo-tone)
-  static const IconifyIconData minimizeSquare2BoldDuotone = IconifyIconData.duo(
+  /// `minimize-square-2-bold-duotone`
+  static const IconifyIconData minimizeSquare2BoldDuotone = IconifyIconData.solo(
     IconData(0xef73, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef73, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimize-square-2-broken`
@@ -21094,10 +20681,9 @@ class SolarIcons {
     IconData(0xef74, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimize-square-2-line-duotone` (duo-tone)
-  static const IconifyIconData minimizeSquare2LineDuotone = IconifyIconData.duo(
+  /// `minimize-square-2-line-duotone`
+  static const IconifyIconData minimizeSquare2LineDuotone = IconifyIconData.solo(
     IconData(0xef75, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef75, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimize-square-2-linear`
@@ -21115,10 +20701,9 @@ class SolarIcons {
     IconData(0xef78, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimize-square-3-bold-duotone` (duo-tone)
-  static const IconifyIconData minimizeSquare3BoldDuotone = IconifyIconData.duo(
+  /// `minimize-square-3-bold-duotone`
+  static const IconifyIconData minimizeSquare3BoldDuotone = IconifyIconData.solo(
     IconData(0xef79, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef79, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimize-square-3-broken`
@@ -21126,10 +20711,9 @@ class SolarIcons {
     IconData(0xef7a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimize-square-3-line-duotone` (duo-tone)
-  static const IconifyIconData minimizeSquare3LineDuotone = IconifyIconData.duo(
+  /// `minimize-square-3-line-duotone`
+  static const IconifyIconData minimizeSquare3LineDuotone = IconifyIconData.solo(
     IconData(0xef7b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef7b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimize-square-3-linear`
@@ -21147,10 +20731,9 @@ class SolarIcons {
     IconData(0xef7e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimize-square-bold-duotone` (duo-tone)
-  static const IconifyIconData minimizeSquareBoldDuotone = IconifyIconData.duo(
+  /// `minimize-square-bold-duotone`
+  static const IconifyIconData minimizeSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xef7f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef7f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimize-square-broken`
@@ -21158,10 +20741,9 @@ class SolarIcons {
     IconData(0xef80, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimize-square-line-duotone` (duo-tone)
-  static const IconifyIconData minimizeSquareLineDuotone = IconifyIconData.duo(
+  /// `minimize-square-line-duotone`
+  static const IconifyIconData minimizeSquareLineDuotone = IconifyIconData.solo(
     IconData(0xef81, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef81, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimize-square-linear`
@@ -21174,10 +20756,9 @@ class SolarIcons {
     IconData(0xef83, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimize-square-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData minimizeSquareMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `minimize-square-minimalistic-bold-duotone`
+  static const IconifyIconData minimizeSquareMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xef84, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef84, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimize-square-minimalistic-broken`
@@ -21185,10 +20766,9 @@ class SolarIcons {
     IconData(0xef85, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minimize-square-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData minimizeSquareMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `minimize-square-minimalistic-line-duotone`
+  static const IconifyIconData minimizeSquareMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xef86, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef86, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minimize-square-minimalistic-linear`
@@ -21211,10 +20791,9 @@ class SolarIcons {
     IconData(0xef8a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minus-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData minusCircleBoldDuotone = IconifyIconData.duo(
+  /// `minus-circle-bold-duotone`
+  static const IconifyIconData minusCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xef8b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef8b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minus-circle-broken`
@@ -21222,10 +20801,9 @@ class SolarIcons {
     IconData(0xef8c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minus-circle-line-duotone` (duo-tone)
-  static const IconifyIconData minusCircleLineDuotone = IconifyIconData.duo(
+  /// `minus-circle-line-duotone`
+  static const IconifyIconData minusCircleLineDuotone = IconifyIconData.solo(
     IconData(0xef8d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef8d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minus-circle-linear`
@@ -21243,10 +20821,9 @@ class SolarIcons {
     IconData(0xef90, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minus-square-bold-duotone` (duo-tone)
-  static const IconifyIconData minusSquareBoldDuotone = IconifyIconData.duo(
+  /// `minus-square-bold-duotone`
+  static const IconifyIconData minusSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xef91, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef91, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minus-square-broken`
@@ -21254,10 +20831,9 @@ class SolarIcons {
     IconData(0xef92, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `minus-square-line-duotone` (duo-tone)
-  static const IconifyIconData minusSquareLineDuotone = IconifyIconData.duo(
+  /// `minus-square-line-duotone`
+  static const IconifyIconData minusSquareLineDuotone = IconifyIconData.solo(
     IconData(0xef93, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xef93, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `minus-square-linear`
@@ -21446,10 +21022,9 @@ class SolarIcons {
     IconData(0xefb6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `monitor-line-duotone` (duo-tone)
-  static const IconifyIconData monitorLineDuotone = IconifyIconData.duo(
+  /// `monitor-line-duotone`
+  static const IconifyIconData monitorLineDuotone = IconifyIconData.solo(
     IconData(0xefb7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xefb7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `monitor-linear`
@@ -21562,10 +21137,9 @@ class SolarIcons {
     IconData(0xefcc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `moon-sleep-bold-duotone` (duo-tone)
-  static const IconifyIconData moonSleepBoldDuotone = IconifyIconData.duo(
+  /// `moon-sleep-bold-duotone`
+  static const IconifyIconData moonSleepBoldDuotone = IconifyIconData.solo(
     IconData(0xefcd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xefcd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `moon-sleep-broken`
@@ -21594,10 +21168,9 @@ class SolarIcons {
     IconData(0xefd2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `moon-stars-bold-duotone` (duo-tone)
-  static const IconifyIconData moonStarsBoldDuotone = IconifyIconData.duo(
+  /// `moon-stars-bold-duotone`
+  static const IconifyIconData moonStarsBoldDuotone = IconifyIconData.solo(
     IconData(0xefd3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xefd3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `moon-stars-broken`
@@ -21605,10 +21178,9 @@ class SolarIcons {
     IconData(0xefd4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `moon-stars-line-duotone` (duo-tone)
-  static const IconifyIconData moonStarsLineDuotone = IconifyIconData.duo(
+  /// `moon-stars-line-duotone`
+  static const IconifyIconData moonStarsLineDuotone = IconifyIconData.solo(
     IconData(0xefd5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xefd5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `moon-stars-linear`
@@ -21829,10 +21401,9 @@ class SolarIcons {
     IconData(0xeffe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `music-library-2-line-duotone` (duo-tone)
-  static const IconifyIconData musicLibrary2LineDuotone = IconifyIconData.duo(
+  /// `music-library-2-line-duotone`
+  static const IconifyIconData musicLibrary2LineDuotone = IconifyIconData.solo(
     IconData(0xefff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xefff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `music-library-2-linear`
@@ -21850,10 +21421,9 @@ class SolarIcons {
     IconData(0xf002, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `music-library-bold-duotone` (duo-tone)
-  static const IconifyIconData musicLibraryBoldDuotone = IconifyIconData.duo(
+  /// `music-library-bold-duotone`
+  static const IconifyIconData musicLibraryBoldDuotone = IconifyIconData.solo(
     IconData(0xf003, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf003, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `music-library-broken`
@@ -21861,10 +21431,9 @@ class SolarIcons {
     IconData(0xf004, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `music-library-line-duotone` (duo-tone)
-  static const IconifyIconData musicLibraryLineDuotone = IconifyIconData.duo(
+  /// `music-library-line-duotone`
+  static const IconifyIconData musicLibraryLineDuotone = IconifyIconData.solo(
     IconData(0xf005, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf005, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `music-library-linear`
@@ -22040,10 +21609,9 @@ class SolarIcons {
     IconData(0xf026, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `music-note-slider-bold-duotone` (duo-tone)
-  static const IconifyIconData musicNoteSliderBoldDuotone = IconifyIconData.duo(
+  /// `music-note-slider-bold-duotone`
+  static const IconifyIconData musicNoteSliderBoldDuotone = IconifyIconData.solo(
     IconData(0xf027, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf027, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `music-note-slider-broken`
@@ -22291,10 +21859,9 @@ class SolarIcons {
     IconData(0xf055, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `notes-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData notesMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `notes-minimalistic-bold-duotone`
+  static const IconifyIconData notesMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf056, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf056, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `notes-minimalistic-broken`
@@ -22339,10 +21906,9 @@ class SolarIcons {
     IconData(0xf05e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `notification-lines-remove-line-duotone` (duo-tone)
-  static const IconifyIconData notificationLinesRemoveLineDuotone = IconifyIconData.duo(
+  /// `notification-lines-remove-line-duotone`
+  static const IconifyIconData notificationLinesRemoveLineDuotone = IconifyIconData.solo(
     IconData(0xf05f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf05f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `notification-lines-remove-linear`
@@ -22360,10 +21926,9 @@ class SolarIcons {
     IconData(0xf062, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `notification-remove-bold-duotone` (duo-tone)
-  static const IconifyIconData notificationRemoveBoldDuotone = IconifyIconData.duo(
+  /// `notification-remove-bold-duotone`
+  static const IconifyIconData notificationRemoveBoldDuotone = IconifyIconData.solo(
     IconData(0xf063, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf063, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `notification-remove-broken`
@@ -22371,10 +21936,9 @@ class SolarIcons {
     IconData(0xf064, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `notification-remove-line-duotone` (duo-tone)
-  static const IconifyIconData notificationRemoveLineDuotone = IconifyIconData.duo(
+  /// `notification-remove-line-duotone`
+  static const IconifyIconData notificationRemoveLineDuotone = IconifyIconData.solo(
     IconData(0xf065, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf065, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `notification-remove-linear`
@@ -22392,10 +21956,9 @@ class SolarIcons {
     IconData(0xf068, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `notification-unread-bold-duotone` (duo-tone)
-  static const IconifyIconData notificationUnreadBoldDuotone = IconifyIconData.duo(
+  /// `notification-unread-bold-duotone`
+  static const IconifyIconData notificationUnreadBoldDuotone = IconifyIconData.solo(
     IconData(0xf069, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf069, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `notification-unread-broken`
@@ -22403,10 +21966,9 @@ class SolarIcons {
     IconData(0xf06a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `notification-unread-line-duotone` (duo-tone)
-  static const IconifyIconData notificationUnreadLineDuotone = IconifyIconData.duo(
+  /// `notification-unread-line-duotone`
+  static const IconifyIconData notificationUnreadLineDuotone = IconifyIconData.solo(
     IconData(0xf06b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf06b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `notification-unread-linear`
@@ -22419,10 +21981,9 @@ class SolarIcons {
     IconData(0xf06d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `notification-unread-lines-bold-duotone` (duo-tone)
-  static const IconifyIconData notificationUnreadLinesBoldDuotone = IconifyIconData.duo(
+  /// `notification-unread-lines-bold-duotone`
+  static const IconifyIconData notificationUnreadLinesBoldDuotone = IconifyIconData.solo(
     IconData(0xf06e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf06e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `notification-unread-lines-broken`
@@ -22430,10 +21991,9 @@ class SolarIcons {
     IconData(0xf06f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `notification-unread-lines-line-duotone` (duo-tone)
-  static const IconifyIconData notificationUnreadLinesLineDuotone = IconifyIconData.duo(
+  /// `notification-unread-lines-line-duotone`
+  static const IconifyIconData notificationUnreadLinesLineDuotone = IconifyIconData.solo(
     IconData(0xf070, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf070, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `notification-unread-lines-linear`
@@ -22488,10 +22048,9 @@ class SolarIcons {
     IconData(0xf07a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `outgoing-call-bold-duotone` (duo-tone)
-  static const IconifyIconData outgoingCallBoldDuotone = IconifyIconData.duo(
+  /// `outgoing-call-bold-duotone`
+  static const IconifyIconData outgoingCallBoldDuotone = IconifyIconData.solo(
     IconData(0xf07b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf07b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `outgoing-call-broken`
@@ -22499,10 +22058,9 @@ class SolarIcons {
     IconData(0xf07c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `outgoing-call-line-duotone` (duo-tone)
-  static const IconifyIconData outgoingCallLineDuotone = IconifyIconData.duo(
+  /// `outgoing-call-line-duotone`
+  static const IconifyIconData outgoingCallLineDuotone = IconifyIconData.solo(
     IconData(0xf07d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf07d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `outgoing-call-linear`
@@ -22520,10 +22078,9 @@ class SolarIcons {
     IconData(0xf080, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `outgoing-call-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData outgoingCallRoundedBoldDuotone = IconifyIconData.duo(
+  /// `outgoing-call-rounded-bold-duotone`
+  static const IconifyIconData outgoingCallRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xf081, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf081, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `outgoing-call-rounded-broken`
@@ -22531,10 +22088,9 @@ class SolarIcons {
     IconData(0xf082, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `outgoing-call-rounded-line-duotone` (duo-tone)
-  static const IconifyIconData outgoingCallRoundedLineDuotone = IconifyIconData.duo(
+  /// `outgoing-call-rounded-line-duotone`
+  static const IconifyIconData outgoingCallRoundedLineDuotone = IconifyIconData.solo(
     IconData(0xf083, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf083, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `outgoing-call-rounded-linear`
@@ -22872,10 +22428,9 @@ class SolarIcons {
     IconData(0xf0c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `paperclip-rounded-2-bold-duotone` (duo-tone)
-  static const IconifyIconData paperclipRounded2BoldDuotone = IconifyIconData.duo(
+  /// `paperclip-rounded-2-bold-duotone`
+  static const IconifyIconData paperclipRounded2BoldDuotone = IconifyIconData.solo(
     IconData(0xf0c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0c3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `paperclip-rounded-2-broken`
@@ -22903,10 +22458,9 @@ class SolarIcons {
     IconData(0xf0c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `paperclip-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData paperclipRoundedBoldDuotone = IconifyIconData.duo(
+  /// `paperclip-rounded-bold-duotone`
+  static const IconifyIconData paperclipRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xf0c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0c9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `paperclip-rounded-broken`
@@ -22993,10 +22547,9 @@ class SolarIcons {
     IconData(0xf0d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `passport-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData passportMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `passport-minimalistic-bold-duotone`
+  static const IconifyIconData passportMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf0da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0da, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `passport-minimalistic-broken`
@@ -23041,10 +22594,9 @@ class SolarIcons {
     IconData(0xf0e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `password-line-duotone` (duo-tone)
-  static const IconifyIconData passwordLineDuotone = IconifyIconData.duo(
+  /// `password-line-duotone`
+  static const IconifyIconData passwordLineDuotone = IconifyIconData.solo(
     IconData(0xf0e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `password-linear`
@@ -23100,10 +22652,9 @@ class SolarIcons {
     IconData(0xf0ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `password-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData passwordMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `password-minimalistic-line-duotone`
+  static const IconifyIconData passwordMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf0ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0ee, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `password-minimalistic-linear`
@@ -23142,10 +22693,9 @@ class SolarIcons {
     IconData(0xf0f5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `pause-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData pauseCircleBoldDuotone = IconifyIconData.duo(
+  /// `pause-circle-bold-duotone`
+  static const IconifyIconData pauseCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf0f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0f6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `pause-circle-broken`
@@ -23153,10 +22703,9 @@ class SolarIcons {
     IconData(0xf0f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `pause-circle-line-duotone` (duo-tone)
-  static const IconifyIconData pauseCircleLineDuotone = IconifyIconData.duo(
+  /// `pause-circle-line-duotone`
+  static const IconifyIconData pauseCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf0f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0f8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `pause-circle-linear`
@@ -23281,10 +22830,9 @@ class SolarIcons {
     IconData(0xf10f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `pen-new-round-bold-duotone` (duo-tone)
-  static const IconifyIconData penNewRoundBoldDuotone = IconifyIconData.duo(
+  /// `pen-new-round-bold-duotone`
+  static const IconifyIconData penNewRoundBoldDuotone = IconifyIconData.solo(
     IconData(0xf110, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf110, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `pen-new-round-broken`
@@ -23313,10 +22861,9 @@ class SolarIcons {
     IconData(0xf115, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `pen-new-square-bold-duotone` (duo-tone)
-  static const IconifyIconData penNewSquareBoldDuotone = IconifyIconData.duo(
+  /// `pen-new-square-bold-duotone`
+  static const IconifyIconData penNewSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf116, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf116, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `pen-new-square-broken`
@@ -23350,10 +22897,9 @@ class SolarIcons {
     IconData(0xf11c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `people-nearby-bold-duotone` (duo-tone)
-  static const IconifyIconData peopleNearbyBoldDuotone = IconifyIconData.duo(
+  /// `people-nearby-bold-duotone`
+  static const IconifyIconData peopleNearbyBoldDuotone = IconifyIconData.solo(
     IconData(0xf11d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf11d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `people-nearby-broken`
@@ -23429,10 +22975,9 @@ class SolarIcons {
     IconData(0xf12b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `phone-calling-bold-duotone` (duo-tone)
-  static const IconifyIconData phoneCallingBoldDuotone = IconifyIconData.duo(
+  /// `phone-calling-bold-duotone`
+  static const IconifyIconData phoneCallingBoldDuotone = IconifyIconData.solo(
     IconData(0xf12c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf12c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `phone-calling-broken`
@@ -23440,10 +22985,9 @@ class SolarIcons {
     IconData(0xf12d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `phone-calling-line-duotone` (duo-tone)
-  static const IconifyIconData phoneCallingLineDuotone = IconifyIconData.duo(
+  /// `phone-calling-line-duotone`
+  static const IconifyIconData phoneCallingLineDuotone = IconifyIconData.solo(
     IconData(0xf12e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf12e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `phone-calling-linear`
@@ -23461,10 +23005,9 @@ class SolarIcons {
     IconData(0xf131, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `phone-calling-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData phoneCallingRoundedBoldDuotone = IconifyIconData.duo(
+  /// `phone-calling-rounded-bold-duotone`
+  static const IconifyIconData phoneCallingRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xf132, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf132, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `phone-calling-rounded-broken`
@@ -23472,10 +23015,9 @@ class SolarIcons {
     IconData(0xf133, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `phone-calling-rounded-line-duotone` (duo-tone)
-  static const IconifyIconData phoneCallingRoundedLineDuotone = IconifyIconData.duo(
+  /// `phone-calling-rounded-line-duotone`
+  static const IconifyIconData phoneCallingRoundedLineDuotone = IconifyIconData.solo(
     IconData(0xf134, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf134, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `phone-calling-rounded-linear`
@@ -23781,10 +23323,9 @@ class SolarIcons {
     IconData(0xf16d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `pin-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData pinCircleBoldDuotone = IconifyIconData.duo(
+  /// `pin-circle-bold-duotone`
+  static const IconifyIconData pinCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf16e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf16e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `pin-circle-broken`
@@ -23792,10 +23333,9 @@ class SolarIcons {
     IconData(0xf16f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `pin-circle-line-duotone` (duo-tone)
-  static const IconifyIconData pinCircleLineDuotone = IconifyIconData.duo(
+  /// `pin-circle-line-duotone`
+  static const IconifyIconData pinCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf170, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf170, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `pin-circle-linear`
@@ -23968,10 +23508,9 @@ class SolarIcons {
     IconData(0xf190, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `plaaylist-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData plaaylistMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `plaaylist-minimalistic-line-duotone`
+  static const IconifyIconData plaaylistMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf191, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf191, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `plaaylist-minimalistic-linear`
@@ -24085,10 +23624,9 @@ class SolarIcons {
     IconData(0xf1a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `planet-2-bold-duotone` (duo-tone)
-  static const IconifyIconData planet2BoldDuotone = IconifyIconData.duo(
+  /// `planet-2-bold-duotone`
+  static const IconifyIconData planet2BoldDuotone = IconifyIconData.solo(
     IconData(0xf1a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf1a7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `planet-2-broken`
@@ -24181,10 +23719,9 @@ class SolarIcons {
     IconData(0xf1b8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `planet-bold-duotone` (duo-tone)
-  static const IconifyIconData planetBoldDuotone = IconifyIconData.duo(
+  /// `planet-bold-duotone`
+  static const IconifyIconData planetBoldDuotone = IconifyIconData.solo(
     IconData(0xf1b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf1b9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `planet-broken`
@@ -24261,10 +23798,9 @@ class SolarIcons {
     IconData(0xf1c7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `play-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData playCircleBoldDuotone = IconifyIconData.duo(
+  /// `play-circle-bold-duotone`
+  static const IconifyIconData playCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf1c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf1c8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `play-circle-broken`
@@ -24272,10 +23808,9 @@ class SolarIcons {
     IconData(0xf1c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `play-circle-line-duotone` (duo-tone)
-  static const IconifyIconData playCircleLineDuotone = IconifyIconData.duo(
+  /// `play-circle-line-duotone`
+  static const IconifyIconData playCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf1ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf1ca, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `play-circle-linear`
@@ -24404,10 +23939,9 @@ class SolarIcons {
     IconData(0xf1e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `playlist-bold-duotone` (duo-tone)
-  static const IconifyIconData playlistBoldDuotone = IconifyIconData.duo(
+  /// `playlist-bold-duotone`
+  static const IconifyIconData playlistBoldDuotone = IconifyIconData.solo(
     IconData(0xf1e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf1e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `playlist-broken`
@@ -24415,10 +23949,9 @@ class SolarIcons {
     IconData(0xf1e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `playlist-line-duotone` (duo-tone)
-  static const IconifyIconData playlistLineDuotone = IconifyIconData.duo(
+  /// `playlist-line-duotone`
+  static const IconifyIconData playlistLineDuotone = IconifyIconData.solo(
     IconData(0xf1e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf1e5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `playlist-linear`
@@ -24883,10 +24416,9 @@ class SolarIcons {
     IconData(0xf23c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `programming-bold-duotone` (duo-tone)
-  static const IconifyIconData programmingBoldDuotone = IconifyIconData.duo(
+  /// `programming-bold-duotone`
+  static const IconifyIconData programmingBoldDuotone = IconifyIconData.solo(
     IconData(0xf23d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf23d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `programming-broken`
@@ -24894,10 +24426,9 @@ class SolarIcons {
     IconData(0xf23e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `programming-line-duotone` (duo-tone)
-  static const IconifyIconData programmingLineDuotone = IconifyIconData.duo(
+  /// `programming-line-duotone`
+  static const IconifyIconData programmingLineDuotone = IconifyIconData.solo(
     IconData(0xf23f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf23f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `programming-linear`
@@ -24958,10 +24489,9 @@ class SolarIcons {
     IconData(0xf24a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `pulse-2-line-duotone` (duo-tone)
-  static const IconifyIconData pulse2LineDuotone = IconifyIconData.duo(
+  /// `pulse-2-line-duotone`
+  static const IconifyIconData pulse2LineDuotone = IconifyIconData.solo(
     IconData(0xf24b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf24b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `pulse-2-linear`
@@ -24979,10 +24509,9 @@ class SolarIcons {
     IconData(0xf24e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `pulse-bold-duotone` (duo-tone)
-  static const IconifyIconData pulseBoldDuotone = IconifyIconData.duo(
+  /// `pulse-bold-duotone`
+  static const IconifyIconData pulseBoldDuotone = IconifyIconData.solo(
     IconData(0xf24f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf24f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `pulse-broken`
@@ -24990,10 +24519,9 @@ class SolarIcons {
     IconData(0xf250, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `pulse-line-duotone` (duo-tone)
-  static const IconifyIconData pulseLineDuotone = IconifyIconData.duo(
+  /// `pulse-line-duotone`
+  static const IconifyIconData pulseLineDuotone = IconifyIconData.solo(
     IconData(0xf251, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf251, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `pulse-linear`
@@ -25043,10 +24571,9 @@ class SolarIcons {
     IconData(0xf25a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `question-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData questionCircleBoldDuotone = IconifyIconData.duo(
+  /// `question-circle-bold-duotone`
+  static const IconifyIconData questionCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf25b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf25b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `question-circle-broken`
@@ -25054,10 +24581,9 @@ class SolarIcons {
     IconData(0xf25c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `question-circle-line-duotone` (duo-tone)
-  static const IconifyIconData questionCircleLineDuotone = IconifyIconData.duo(
+  /// `question-circle-line-duotone`
+  static const IconifyIconData questionCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf25d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf25d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `question-circle-linear`
@@ -25075,10 +24601,9 @@ class SolarIcons {
     IconData(0xf260, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `question-square-bold-duotone` (duo-tone)
-  static const IconifyIconData questionSquareBoldDuotone = IconifyIconData.duo(
+  /// `question-square-bold-duotone`
+  static const IconifyIconData questionSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf261, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf261, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `question-square-broken`
@@ -25086,10 +24611,9 @@ class SolarIcons {
     IconData(0xf262, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `question-square-line-duotone` (duo-tone)
-  static const IconifyIconData questionSquareLineDuotone = IconifyIconData.duo(
+  /// `question-square-line-duotone`
+  static const IconifyIconData questionSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf263, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf263, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `question-square-linear`
@@ -25123,10 +24647,9 @@ class SolarIcons {
     IconData(0xf269, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `quit-full-screen-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData quitFullScreenCircleBoldDuotone = IconifyIconData.duo(
+  /// `quit-full-screen-circle-bold-duotone`
+  static const IconifyIconData quitFullScreenCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf26a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf26a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `quit-full-screen-circle-broken`
@@ -25134,10 +24657,9 @@ class SolarIcons {
     IconData(0xf26b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `quit-full-screen-circle-line-duotone` (duo-tone)
-  static const IconifyIconData quitFullScreenCircleLineDuotone = IconifyIconData.duo(
+  /// `quit-full-screen-circle-line-duotone`
+  static const IconifyIconData quitFullScreenCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf26c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf26c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `quit-full-screen-circle-linear`
@@ -25171,10 +24693,9 @@ class SolarIcons {
     IconData(0xf272, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `quit-full-screen-square-bold-duotone` (duo-tone)
-  static const IconifyIconData quitFullScreenSquareBoldDuotone = IconifyIconData.duo(
+  /// `quit-full-screen-square-bold-duotone`
+  static const IconifyIconData quitFullScreenSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf273, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf273, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `quit-full-screen-square-broken`
@@ -25182,10 +24703,9 @@ class SolarIcons {
     IconData(0xf274, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `quit-full-screen-square-line-duotone` (duo-tone)
-  static const IconifyIconData quitFullScreenSquareLineDuotone = IconifyIconData.duo(
+  /// `quit-full-screen-square-line-duotone`
+  static const IconifyIconData quitFullScreenSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf275, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf275, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `quit-full-screen-square-linear`
@@ -25203,10 +24723,9 @@ class SolarIcons {
     IconData(0xf278, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `quit-pip-bold-duotone` (duo-tone)
-  static const IconifyIconData quitPipBoldDuotone = IconifyIconData.duo(
+  /// `quit-pip-bold-duotone`
+  static const IconifyIconData quitPipBoldDuotone = IconifyIconData.solo(
     IconData(0xf279, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf279, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `quit-pip-broken`
@@ -25235,10 +24754,9 @@ class SolarIcons {
     IconData(0xf27e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `radar-2-bold-duotone` (duo-tone)
-  static const IconifyIconData radar2BoldDuotone = IconifyIconData.duo(
+  /// `radar-2-bold-duotone`
+  static const IconifyIconData radar2BoldDuotone = IconifyIconData.solo(
     IconData(0xf27f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf27f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `radar-2-broken`
@@ -25267,10 +24785,9 @@ class SolarIcons {
     IconData(0xf284, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `radar-bold-duotone` (duo-tone)
-  static const IconifyIconData radarBoldDuotone = IconifyIconData.duo(
+  /// `radar-bold-duotone`
+  static const IconifyIconData radarBoldDuotone = IconifyIconData.solo(
     IconData(0xf285, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf285, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `radar-broken`
@@ -25298,10 +24815,9 @@ class SolarIcons {
     IconData(0xf28a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `radial-blur-bold-duotone` (duo-tone)
-  static const IconifyIconData radialBlurBoldDuotone = IconifyIconData.duo(
+  /// `radial-blur-bold-duotone`
+  static const IconifyIconData radialBlurBoldDuotone = IconifyIconData.solo(
     IconData(0xf28b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf28b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `radial-blur-broken`
@@ -25330,10 +24846,9 @@ class SolarIcons {
     IconData(0xf290, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `radio-bold-duotone` (duo-tone)
-  static const IconifyIconData radioBoldDuotone = IconifyIconData.duo(
+  /// `radio-bold-duotone`
+  static const IconifyIconData radioBoldDuotone = IconifyIconData.solo(
     IconData(0xf291, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf291, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `radio-broken`
@@ -25357,10 +24872,9 @@ class SolarIcons {
     IconData(0xf295, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `radio-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData radioMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `radio-minimalistic-bold-duotone`
+  static const IconifyIconData radioMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf296, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf296, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `radio-minimalistic-broken`
@@ -25426,10 +24940,9 @@ class SolarIcons {
     IconData(0xf2a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `recive-square-bold-duotone` (duo-tone)
-  static const IconifyIconData reciveSquareBoldDuotone = IconifyIconData.duo(
+  /// `recive-square-bold-duotone`
+  static const IconifyIconData reciveSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf2a3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2a3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `recive-square-broken`
@@ -25437,10 +24950,9 @@ class SolarIcons {
     IconData(0xf2a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `recive-square-line-duotone` (duo-tone)
-  static const IconifyIconData reciveSquareLineDuotone = IconifyIconData.duo(
+  /// `recive-square-line-duotone`
+  static const IconifyIconData reciveSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf2a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2a5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `recive-square-linear`
@@ -25458,10 +24970,9 @@ class SolarIcons {
     IconData(0xf2a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `recive-twice-square-bold-duotone` (duo-tone)
-  static const IconifyIconData reciveTwiceSquareBoldDuotone = IconifyIconData.duo(
+  /// `recive-twice-square-bold-duotone`
+  static const IconifyIconData reciveTwiceSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf2a9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2a9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `recive-twice-square-broken`
@@ -25469,10 +24980,9 @@ class SolarIcons {
     IconData(0xf2aa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `recive-twice-square-line-duotone` (duo-tone)
-  static const IconifyIconData reciveTwiceSquareLineDuotone = IconifyIconData.duo(
+  /// `recive-twice-square-line-duotone`
+  static const IconifyIconData reciveTwiceSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf2ab, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2ab, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `recive-twice-square-linear`
@@ -25506,10 +25016,9 @@ class SolarIcons {
     IconData(0xf2b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `record-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData recordCircleBoldDuotone = IconifyIconData.duo(
+  /// `record-circle-bold-duotone`
+  static const IconifyIconData recordCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf2b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2b2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `record-circle-broken`
@@ -25517,10 +25026,9 @@ class SolarIcons {
     IconData(0xf2b3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `record-circle-line-duotone` (duo-tone)
-  static const IconifyIconData recordCircleLineDuotone = IconifyIconData.duo(
+  /// `record-circle-line-duotone`
+  static const IconifyIconData recordCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf2b4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2b4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `record-circle-linear`
@@ -25585,10 +25093,9 @@ class SolarIcons {
     IconData(0xf2c0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `record-square-bold-duotone` (duo-tone)
-  static const IconifyIconData recordSquareBoldDuotone = IconifyIconData.duo(
+  /// `record-square-bold-duotone`
+  static const IconifyIconData recordSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf2c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2c1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `record-square-broken`
@@ -25596,10 +25103,9 @@ class SolarIcons {
     IconData(0xf2c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `record-square-line-duotone` (duo-tone)
-  static const IconifyIconData recordSquareLineDuotone = IconifyIconData.duo(
+  /// `record-square-line-duotone`
+  static const IconifyIconData recordSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf2c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2c3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `record-square-linear`
@@ -25649,10 +25155,9 @@ class SolarIcons {
     IconData(0xf2cc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `reel-bold-duotone` (duo-tone)
-  static const IconifyIconData reelBoldDuotone = IconifyIconData.duo(
+  /// `reel-bold-duotone`
+  static const IconifyIconData reelBoldDuotone = IconifyIconData.solo(
     IconData(0xf2cd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2cd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `reel-broken`
@@ -25697,10 +25202,9 @@ class SolarIcons {
     IconData(0xf2d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `refresh-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData refreshCircleBoldDuotone = IconifyIconData.duo(
+  /// `refresh-circle-bold-duotone`
+  static const IconifyIconData refreshCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf2d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2d6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `refresh-circle-broken`
@@ -25708,10 +25212,9 @@ class SolarIcons {
     IconData(0xf2d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `refresh-circle-line-duotone` (duo-tone)
-  static const IconifyIconData refreshCircleLineDuotone = IconifyIconData.duo(
+  /// `refresh-circle-line-duotone`
+  static const IconifyIconData refreshCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf2d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2d8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `refresh-circle-linear`
@@ -25745,10 +25248,9 @@ class SolarIcons {
     IconData(0xf2de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `refresh-square-bold-duotone` (duo-tone)
-  static const IconifyIconData refreshSquareBoldDuotone = IconifyIconData.duo(
+  /// `refresh-square-bold-duotone`
+  static const IconifyIconData refreshSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf2df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2df, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `refresh-square-broken`
@@ -25756,10 +25258,9 @@ class SolarIcons {
     IconData(0xf2e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `refresh-square-line-duotone` (duo-tone)
-  static const IconifyIconData refreshSquareLineDuotone = IconifyIconData.duo(
+  /// `refresh-square-line-duotone`
+  static const IconifyIconData refreshSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf2e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2e1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `refresh-square-linear`
@@ -25809,10 +25310,9 @@ class SolarIcons {
     IconData(0xf2ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `remote-controller-bold-duotone` (duo-tone)
-  static const IconifyIconData remoteControllerBoldDuotone = IconifyIconData.duo(
+  /// `remote-controller-bold-duotone`
+  static const IconifyIconData remoteControllerBoldDuotone = IconifyIconData.solo(
     IconData(0xf2eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2eb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `remote-controller-broken`
@@ -25820,10 +25320,9 @@ class SolarIcons {
     IconData(0xf2ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `remote-controller-line-duotone` (duo-tone)
-  static const IconifyIconData remoteControllerLineDuotone = IconifyIconData.duo(
+  /// `remote-controller-line-duotone`
+  static const IconifyIconData remoteControllerLineDuotone = IconifyIconData.solo(
     IconData(0xf2ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2ed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `remote-controller-linear`
@@ -25836,10 +25335,9 @@ class SolarIcons {
     IconData(0xf2ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `remote-controller-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData remoteControllerMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `remote-controller-minimalistic-bold-duotone`
+  static const IconifyIconData remoteControllerMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf2f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2f0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `remote-controller-minimalistic-broken`
@@ -25847,10 +25345,9 @@ class SolarIcons {
     IconData(0xf2f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `remote-controller-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData remoteControllerMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `remote-controller-minimalistic-line-duotone`
+  static const IconifyIconData remoteControllerMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf2f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2f2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `remote-controller-minimalistic-linear`
@@ -25873,10 +25370,9 @@ class SolarIcons {
     IconData(0xf2f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `remove-folder-bold-duotone` (duo-tone)
-  static const IconifyIconData removeFolderBoldDuotone = IconifyIconData.duo(
+  /// `remove-folder-bold-duotone`
+  static const IconifyIconData removeFolderBoldDuotone = IconifyIconData.solo(
     IconData(0xf2f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2f7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `remove-folder-broken`
@@ -25905,10 +25401,9 @@ class SolarIcons {
     IconData(0xf2fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `reorder-bold-duotone` (duo-tone)
-  static const IconifyIconData reorderBoldDuotone = IconifyIconData.duo(
+  /// `reorder-bold-duotone`
+  static const IconifyIconData reorderBoldDuotone = IconifyIconData.solo(
     IconData(0xf2fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf2fd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `reorder-broken`
@@ -25975,10 +25470,9 @@ class SolarIcons {
     IconData(0xf309, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `repeat-one-line-duotone` (duo-tone)
-  static const IconifyIconData repeatOneLineDuotone = IconifyIconData.duo(
+  /// `repeat-one-line-duotone`
+  static const IconifyIconData repeatOneLineDuotone = IconifyIconData.solo(
     IconData(0xf30a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf30a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `repeat-one-linear`
@@ -26002,10 +25496,9 @@ class SolarIcons {
     IconData(0xf30e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `repeat-one-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData repeatOneMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `repeat-one-minimalistic-line-duotone`
+  static const IconifyIconData repeatOneMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf30f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf30f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `repeat-one-minimalistic-linear`
@@ -26113,10 +25606,9 @@ class SolarIcons {
     IconData(0xf323, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `restart-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData restartCircleBoldDuotone = IconifyIconData.duo(
+  /// `restart-circle-bold-duotone`
+  static const IconifyIconData restartCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf324, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf324, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `restart-circle-broken`
@@ -26124,10 +25616,9 @@ class SolarIcons {
     IconData(0xf325, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `restart-circle-line-duotone` (duo-tone)
-  static const IconifyIconData restartCircleLineDuotone = IconifyIconData.duo(
+  /// `restart-circle-line-duotone`
+  static const IconifyIconData restartCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf326, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf326, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `restart-circle-linear`
@@ -26160,10 +25651,9 @@ class SolarIcons {
     IconData(0xf32c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `restart-square-bold-duotone` (duo-tone)
-  static const IconifyIconData restartSquareBoldDuotone = IconifyIconData.duo(
+  /// `restart-square-bold-duotone`
+  static const IconifyIconData restartSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf32d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf32d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `restart-square-broken`
@@ -26171,10 +25661,9 @@ class SolarIcons {
     IconData(0xf32e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `restart-square-line-duotone` (duo-tone)
-  static const IconifyIconData restartSquareLineDuotone = IconifyIconData.duo(
+  /// `restart-square-line-duotone`
+  static const IconifyIconData restartSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf32f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf32f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `restart-square-linear`
@@ -26288,10 +25777,9 @@ class SolarIcons {
     IconData(0xf344, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-15-seconds-back-bold-duotone` (duo-tone)
-  static const IconifyIconData rewind15SecondsBackBoldDuotone = IconifyIconData.duo(
+  /// `rewind-15-seconds-back-bold-duotone`
+  static const IconifyIconData rewind15SecondsBackBoldDuotone = IconifyIconData.solo(
     IconData(0xf345, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf345, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-15-seconds-back-broken`
@@ -26299,10 +25787,9 @@ class SolarIcons {
     IconData(0xf346, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-15-seconds-back-line-duotone` (duo-tone)
-  static const IconifyIconData rewind15SecondsBackLineDuotone = IconifyIconData.duo(
+  /// `rewind-15-seconds-back-line-duotone`
+  static const IconifyIconData rewind15SecondsBackLineDuotone = IconifyIconData.solo(
     IconData(0xf347, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf347, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-15-seconds-back-linear`
@@ -26320,10 +25807,9 @@ class SolarIcons {
     IconData(0xf34a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-15-seconds-forward-bold-duotone` (duo-tone)
-  static const IconifyIconData rewind15SecondsForwardBoldDuotone = IconifyIconData.duo(
+  /// `rewind-15-seconds-forward-bold-duotone`
+  static const IconifyIconData rewind15SecondsForwardBoldDuotone = IconifyIconData.solo(
     IconData(0xf34b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf34b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-15-seconds-forward-broken`
@@ -26331,10 +25817,9 @@ class SolarIcons {
     IconData(0xf34c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-15-seconds-forward-line-duotone` (duo-tone)
-  static const IconifyIconData rewind15SecondsForwardLineDuotone = IconifyIconData.duo(
+  /// `rewind-15-seconds-forward-line-duotone`
+  static const IconifyIconData rewind15SecondsForwardLineDuotone = IconifyIconData.solo(
     IconData(0xf34d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf34d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-15-seconds-forward-linear`
@@ -26352,10 +25837,9 @@ class SolarIcons {
     IconData(0xf350, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-5-seconds-back-bold-duotone` (duo-tone)
-  static const IconifyIconData rewind5SecondsBackBoldDuotone = IconifyIconData.duo(
+  /// `rewind-5-seconds-back-bold-duotone`
+  static const IconifyIconData rewind5SecondsBackBoldDuotone = IconifyIconData.solo(
     IconData(0xf351, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf351, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-5-seconds-back-broken`
@@ -26363,10 +25847,9 @@ class SolarIcons {
     IconData(0xf352, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-5-seconds-back-line-duotone` (duo-tone)
-  static const IconifyIconData rewind5SecondsBackLineDuotone = IconifyIconData.duo(
+  /// `rewind-5-seconds-back-line-duotone`
+  static const IconifyIconData rewind5SecondsBackLineDuotone = IconifyIconData.solo(
     IconData(0xf353, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf353, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-5-seconds-back-linear`
@@ -26384,10 +25867,9 @@ class SolarIcons {
     IconData(0xf356, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-5-seconds-forward-bold-duotone` (duo-tone)
-  static const IconifyIconData rewind5SecondsForwardBoldDuotone = IconifyIconData.duo(
+  /// `rewind-5-seconds-forward-bold-duotone`
+  static const IconifyIconData rewind5SecondsForwardBoldDuotone = IconifyIconData.solo(
     IconData(0xf357, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf357, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-5-seconds-forward-broken`
@@ -26395,10 +25877,9 @@ class SolarIcons {
     IconData(0xf358, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-5-seconds-forward-line-duotone` (duo-tone)
-  static const IconifyIconData rewind5SecondsForwardLineDuotone = IconifyIconData.duo(
+  /// `rewind-5-seconds-forward-line-duotone`
+  static const IconifyIconData rewind5SecondsForwardLineDuotone = IconifyIconData.solo(
     IconData(0xf359, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf359, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-5-seconds-forward-linear`
@@ -26432,10 +25913,9 @@ class SolarIcons {
     IconData(0xf35f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-back-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData rewindBackCircleBoldDuotone = IconifyIconData.duo(
+  /// `rewind-back-circle-bold-duotone`
+  static const IconifyIconData rewindBackCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf360, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf360, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-back-circle-broken`
@@ -26443,10 +25923,9 @@ class SolarIcons {
     IconData(0xf361, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-back-circle-line-duotone` (duo-tone)
-  static const IconifyIconData rewindBackCircleLineDuotone = IconifyIconData.duo(
+  /// `rewind-back-circle-line-duotone`
+  static const IconifyIconData rewindBackCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf362, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf362, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-back-circle-linear`
@@ -26496,10 +25975,9 @@ class SolarIcons {
     IconData(0xf36b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-forward-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData rewindForwardCircleBoldDuotone = IconifyIconData.duo(
+  /// `rewind-forward-circle-bold-duotone`
+  static const IconifyIconData rewindForwardCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf36c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf36c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-forward-circle-broken`
@@ -26507,10 +25985,9 @@ class SolarIcons {
     IconData(0xf36d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rewind-forward-circle-line-duotone` (duo-tone)
-  static const IconifyIconData rewindForwardCircleLineDuotone = IconifyIconData.duo(
+  /// `rewind-forward-circle-line-duotone`
+  static const IconifyIconData rewindForwardCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf36e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf36e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rewind-forward-circle-linear`
@@ -26640,10 +26117,9 @@ class SolarIcons {
     IconData(0xf386, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-alt-arrow-down-bold-duotone` (duo-tone)
-  static const IconifyIconData roundAltArrowDownBoldDuotone = IconifyIconData.duo(
+  /// `round-alt-arrow-down-bold-duotone`
+  static const IconifyIconData roundAltArrowDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf387, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf387, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-alt-arrow-down-broken`
@@ -26651,10 +26127,9 @@ class SolarIcons {
     IconData(0xf388, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-alt-arrow-down-line-duotone` (duo-tone)
-  static const IconifyIconData roundAltArrowDownLineDuotone = IconifyIconData.duo(
+  /// `round-alt-arrow-down-line-duotone`
+  static const IconifyIconData roundAltArrowDownLineDuotone = IconifyIconData.solo(
     IconData(0xf389, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf389, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-alt-arrow-down-linear`
@@ -26672,10 +26147,9 @@ class SolarIcons {
     IconData(0xf38c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-alt-arrow-left-bold-duotone` (duo-tone)
-  static const IconifyIconData roundAltArrowLeftBoldDuotone = IconifyIconData.duo(
+  /// `round-alt-arrow-left-bold-duotone`
+  static const IconifyIconData roundAltArrowLeftBoldDuotone = IconifyIconData.solo(
     IconData(0xf38d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf38d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-alt-arrow-left-broken`
@@ -26683,10 +26157,9 @@ class SolarIcons {
     IconData(0xf38e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-alt-arrow-left-line-duotone` (duo-tone)
-  static const IconifyIconData roundAltArrowLeftLineDuotone = IconifyIconData.duo(
+  /// `round-alt-arrow-left-line-duotone`
+  static const IconifyIconData roundAltArrowLeftLineDuotone = IconifyIconData.solo(
     IconData(0xf38f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf38f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-alt-arrow-left-linear`
@@ -26704,10 +26177,9 @@ class SolarIcons {
     IconData(0xf392, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-alt-arrow-right-bold-duotone` (duo-tone)
-  static const IconifyIconData roundAltArrowRightBoldDuotone = IconifyIconData.duo(
+  /// `round-alt-arrow-right-bold-duotone`
+  static const IconifyIconData roundAltArrowRightBoldDuotone = IconifyIconData.solo(
     IconData(0xf393, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf393, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-alt-arrow-right-broken`
@@ -26715,10 +26187,9 @@ class SolarIcons {
     IconData(0xf394, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-alt-arrow-right-line-duotone` (duo-tone)
-  static const IconifyIconData roundAltArrowRightLineDuotone = IconifyIconData.duo(
+  /// `round-alt-arrow-right-line-duotone`
+  static const IconifyIconData roundAltArrowRightLineDuotone = IconifyIconData.solo(
     IconData(0xf395, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf395, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-alt-arrow-right-linear`
@@ -26736,10 +26207,9 @@ class SolarIcons {
     IconData(0xf398, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-alt-arrow-up-bold-duotone` (duo-tone)
-  static const IconifyIconData roundAltArrowUpBoldDuotone = IconifyIconData.duo(
+  /// `round-alt-arrow-up-bold-duotone`
+  static const IconifyIconData roundAltArrowUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf399, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf399, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-alt-arrow-up-broken`
@@ -26747,10 +26217,9 @@ class SolarIcons {
     IconData(0xf39a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-alt-arrow-up-line-duotone` (duo-tone)
-  static const IconifyIconData roundAltArrowUpLineDuotone = IconifyIconData.duo(
+  /// `round-alt-arrow-up-line-duotone`
+  static const IconifyIconData roundAltArrowUpLineDuotone = IconifyIconData.solo(
     IconData(0xf39b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf39b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-alt-arrow-up-linear`
@@ -26768,10 +26237,9 @@ class SolarIcons {
     IconData(0xf39e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-down-bold-duotone` (duo-tone)
-  static const IconifyIconData roundArrowDownBoldDuotone = IconifyIconData.duo(
+  /// `round-arrow-down-bold-duotone`
+  static const IconifyIconData roundArrowDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf39f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf39f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-down-broken`
@@ -26779,10 +26247,9 @@ class SolarIcons {
     IconData(0xf3a0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-down-line-duotone` (duo-tone)
-  static const IconifyIconData roundArrowDownLineDuotone = IconifyIconData.duo(
+  /// `round-arrow-down-line-duotone`
+  static const IconifyIconData roundArrowDownLineDuotone = IconifyIconData.solo(
     IconData(0xf3a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3a1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-down-linear`
@@ -26800,10 +26267,9 @@ class SolarIcons {
     IconData(0xf3a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-left-bold-duotone` (duo-tone)
-  static const IconifyIconData roundArrowLeftBoldDuotone = IconifyIconData.duo(
+  /// `round-arrow-left-bold-duotone`
+  static const IconifyIconData roundArrowLeftBoldDuotone = IconifyIconData.solo(
     IconData(0xf3a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3a5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-left-broken`
@@ -26816,10 +26282,9 @@ class SolarIcons {
     IconData(0xf3a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-left-down-bold-duotone` (duo-tone)
-  static const IconifyIconData roundArrowLeftDownBoldDuotone = IconifyIconData.duo(
+  /// `round-arrow-left-down-bold-duotone`
+  static const IconifyIconData roundArrowLeftDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf3a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3a8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-left-down-broken`
@@ -26827,10 +26292,9 @@ class SolarIcons {
     IconData(0xf3a9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-left-down-line-duotone` (duo-tone)
-  static const IconifyIconData roundArrowLeftDownLineDuotone = IconifyIconData.duo(
+  /// `round-arrow-left-down-line-duotone`
+  static const IconifyIconData roundArrowLeftDownLineDuotone = IconifyIconData.solo(
     IconData(0xf3aa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3aa, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-left-down-linear`
@@ -26843,10 +26307,9 @@ class SolarIcons {
     IconData(0xf3ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-left-line-duotone` (duo-tone)
-  static const IconifyIconData roundArrowLeftLineDuotone = IconifyIconData.duo(
+  /// `round-arrow-left-line-duotone`
+  static const IconifyIconData roundArrowLeftLineDuotone = IconifyIconData.solo(
     IconData(0xf3ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3ad, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-left-linear`
@@ -26864,10 +26327,9 @@ class SolarIcons {
     IconData(0xf3b0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-left-up-bold-duotone` (duo-tone)
-  static const IconifyIconData roundArrowLeftUpBoldDuotone = IconifyIconData.duo(
+  /// `round-arrow-left-up-bold-duotone`
+  static const IconifyIconData roundArrowLeftUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf3b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3b1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-left-up-broken`
@@ -26875,10 +26337,9 @@ class SolarIcons {
     IconData(0xf3b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-left-up-line-duotone` (duo-tone)
-  static const IconifyIconData roundArrowLeftUpLineDuotone = IconifyIconData.duo(
+  /// `round-arrow-left-up-line-duotone`
+  static const IconifyIconData roundArrowLeftUpLineDuotone = IconifyIconData.solo(
     IconData(0xf3b3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3b3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-left-up-linear`
@@ -26896,10 +26357,9 @@ class SolarIcons {
     IconData(0xf3b6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-right-bold-duotone` (duo-tone)
-  static const IconifyIconData roundArrowRightBoldDuotone = IconifyIconData.duo(
+  /// `round-arrow-right-bold-duotone`
+  static const IconifyIconData roundArrowRightBoldDuotone = IconifyIconData.solo(
     IconData(0xf3b7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3b7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-right-broken`
@@ -26912,10 +26372,9 @@ class SolarIcons {
     IconData(0xf3b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-right-down-bold-duotone` (duo-tone)
-  static const IconifyIconData roundArrowRightDownBoldDuotone = IconifyIconData.duo(
+  /// `round-arrow-right-down-bold-duotone`
+  static const IconifyIconData roundArrowRightDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf3ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3ba, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-right-down-broken`
@@ -26923,10 +26382,9 @@ class SolarIcons {
     IconData(0xf3bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-right-down-line-duotone` (duo-tone)
-  static const IconifyIconData roundArrowRightDownLineDuotone = IconifyIconData.duo(
+  /// `round-arrow-right-down-line-duotone`
+  static const IconifyIconData roundArrowRightDownLineDuotone = IconifyIconData.solo(
     IconData(0xf3bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3bc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-right-down-linear`
@@ -26939,10 +26397,9 @@ class SolarIcons {
     IconData(0xf3be, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-right-line-duotone` (duo-tone)
-  static const IconifyIconData roundArrowRightLineDuotone = IconifyIconData.duo(
+  /// `round-arrow-right-line-duotone`
+  static const IconifyIconData roundArrowRightLineDuotone = IconifyIconData.solo(
     IconData(0xf3bf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3bf, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-right-linear`
@@ -26960,10 +26417,9 @@ class SolarIcons {
     IconData(0xf3c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-right-up-bold-duotone` (duo-tone)
-  static const IconifyIconData roundArrowRightUpBoldDuotone = IconifyIconData.duo(
+  /// `round-arrow-right-up-bold-duotone`
+  static const IconifyIconData roundArrowRightUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf3c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3c3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-right-up-broken`
@@ -26971,10 +26427,9 @@ class SolarIcons {
     IconData(0xf3c4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-right-up-line-duotone` (duo-tone)
-  static const IconifyIconData roundArrowRightUpLineDuotone = IconifyIconData.duo(
+  /// `round-arrow-right-up-line-duotone`
+  static const IconifyIconData roundArrowRightUpLineDuotone = IconifyIconData.solo(
     IconData(0xf3c5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3c5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-right-up-linear`
@@ -26992,10 +26447,9 @@ class SolarIcons {
     IconData(0xf3c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-up-bold-duotone` (duo-tone)
-  static const IconifyIconData roundArrowUpBoldDuotone = IconifyIconData.duo(
+  /// `round-arrow-up-bold-duotone`
+  static const IconifyIconData roundArrowUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf3c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3c9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-up-broken`
@@ -27003,10 +26457,9 @@ class SolarIcons {
     IconData(0xf3ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-arrow-up-line-duotone` (duo-tone)
-  static const IconifyIconData roundArrowUpLineDuotone = IconifyIconData.duo(
+  /// `round-arrow-up-line-duotone`
+  static const IconifyIconData roundArrowUpLineDuotone = IconifyIconData.solo(
     IconData(0xf3cb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3cb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-arrow-up-linear`
@@ -27024,10 +26477,9 @@ class SolarIcons {
     IconData(0xf3ce, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-double-alt-arrow-down-bold-duotone` (duo-tone)
-  static const IconifyIconData roundDoubleAltArrowDownBoldDuotone = IconifyIconData.duo(
+  /// `round-double-alt-arrow-down-bold-duotone`
+  static const IconifyIconData roundDoubleAltArrowDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf3cf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3cf, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-double-alt-arrow-down-broken`
@@ -27035,10 +26487,9 @@ class SolarIcons {
     IconData(0xf3d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-double-alt-arrow-down-line-duotone` (duo-tone)
-  static const IconifyIconData roundDoubleAltArrowDownLineDuotone = IconifyIconData.duo(
+  /// `round-double-alt-arrow-down-line-duotone`
+  static const IconifyIconData roundDoubleAltArrowDownLineDuotone = IconifyIconData.solo(
     IconData(0xf3d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3d1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-double-alt-arrow-down-linear`
@@ -27056,10 +26507,9 @@ class SolarIcons {
     IconData(0xf3d4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-double-alt-arrow-left-bold-duotone` (duo-tone)
-  static const IconifyIconData roundDoubleAltArrowLeftBoldDuotone = IconifyIconData.duo(
+  /// `round-double-alt-arrow-left-bold-duotone`
+  static const IconifyIconData roundDoubleAltArrowLeftBoldDuotone = IconifyIconData.solo(
     IconData(0xf3d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3d5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-double-alt-arrow-left-broken`
@@ -27067,10 +26517,9 @@ class SolarIcons {
     IconData(0xf3d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-double-alt-arrow-left-line-duotone` (duo-tone)
-  static const IconifyIconData roundDoubleAltArrowLeftLineDuotone = IconifyIconData.duo(
+  /// `round-double-alt-arrow-left-line-duotone`
+  static const IconifyIconData roundDoubleAltArrowLeftLineDuotone = IconifyIconData.solo(
     IconData(0xf3d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3d7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-double-alt-arrow-left-linear`
@@ -27088,10 +26537,9 @@ class SolarIcons {
     IconData(0xf3da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-double-alt-arrow-right-bold-duotone` (duo-tone)
-  static const IconifyIconData roundDoubleAltArrowRightBoldDuotone = IconifyIconData.duo(
+  /// `round-double-alt-arrow-right-bold-duotone`
+  static const IconifyIconData roundDoubleAltArrowRightBoldDuotone = IconifyIconData.solo(
     IconData(0xf3db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3db, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-double-alt-arrow-right-broken`
@@ -27099,10 +26547,9 @@ class SolarIcons {
     IconData(0xf3dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-double-alt-arrow-right-line-duotone` (duo-tone)
-  static const IconifyIconData roundDoubleAltArrowRightLineDuotone = IconifyIconData.duo(
+  /// `round-double-alt-arrow-right-line-duotone`
+  static const IconifyIconData roundDoubleAltArrowRightLineDuotone = IconifyIconData.solo(
     IconData(0xf3dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3dd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-double-alt-arrow-right-linear`
@@ -27120,10 +26567,9 @@ class SolarIcons {
     IconData(0xf3e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-double-alt-arrow-up-bold-duotone` (duo-tone)
-  static const IconifyIconData roundDoubleAltArrowUpBoldDuotone = IconifyIconData.duo(
+  /// `round-double-alt-arrow-up-bold-duotone`
+  static const IconifyIconData roundDoubleAltArrowUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf3e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3e1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-double-alt-arrow-up-broken`
@@ -27131,10 +26577,9 @@ class SolarIcons {
     IconData(0xf3e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-double-alt-arrow-up-line-duotone` (duo-tone)
-  static const IconifyIconData roundDoubleAltArrowUpLineDuotone = IconifyIconData.duo(
+  /// `round-double-alt-arrow-up-line-duotone`
+  static const IconifyIconData roundDoubleAltArrowUpLineDuotone = IconifyIconData.solo(
     IconData(0xf3e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-double-alt-arrow-up-linear`
@@ -27184,10 +26629,9 @@ class SolarIcons {
     IconData(0xf3ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-sort-horizontal-bold-duotone` (duo-tone)
-  static const IconifyIconData roundSortHorizontalBoldDuotone = IconifyIconData.duo(
+  /// `round-sort-horizontal-bold-duotone`
+  static const IconifyIconData roundSortHorizontalBoldDuotone = IconifyIconData.solo(
     IconData(0xf3ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3ed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-sort-horizontal-broken`
@@ -27195,10 +26639,9 @@ class SolarIcons {
     IconData(0xf3ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-sort-horizontal-line-duotone` (duo-tone)
-  static const IconifyIconData roundSortHorizontalLineDuotone = IconifyIconData.duo(
+  /// `round-sort-horizontal-line-duotone`
+  static const IconifyIconData roundSortHorizontalLineDuotone = IconifyIconData.solo(
     IconData(0xf3ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3ef, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-sort-horizontal-linear`
@@ -27216,10 +26659,9 @@ class SolarIcons {
     IconData(0xf3f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-sort-vertical-bold-duotone` (duo-tone)
-  static const IconifyIconData roundSortVerticalBoldDuotone = IconifyIconData.duo(
+  /// `round-sort-vertical-bold-duotone`
+  static const IconifyIconData roundSortVerticalBoldDuotone = IconifyIconData.solo(
     IconData(0xf3f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3f3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-sort-vertical-broken`
@@ -27227,10 +26669,9 @@ class SolarIcons {
     IconData(0xf3f4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-sort-vertical-line-duotone` (duo-tone)
-  static const IconifyIconData roundSortVerticalLineDuotone = IconifyIconData.duo(
+  /// `round-sort-vertical-line-duotone`
+  static const IconifyIconData roundSortVerticalLineDuotone = IconifyIconData.solo(
     IconData(0xf3f5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3f5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-sort-vertical-linear`
@@ -27259,10 +26700,9 @@ class SolarIcons {
     IconData(0xf3fa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-transfer-diagonal-line-duotone` (duo-tone)
-  static const IconifyIconData roundTransferDiagonalLineDuotone = IconifyIconData.duo(
+  /// `round-transfer-diagonal-line-duotone`
+  static const IconifyIconData roundTransferDiagonalLineDuotone = IconifyIconData.solo(
     IconData(0xf3fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3fb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-transfer-diagonal-linear`
@@ -27280,10 +26720,9 @@ class SolarIcons {
     IconData(0xf3fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-transfer-horizontal-bold-duotone` (duo-tone)
-  static const IconifyIconData roundTransferHorizontalBoldDuotone = IconifyIconData.duo(
+  /// `round-transfer-horizontal-bold-duotone`
+  static const IconifyIconData roundTransferHorizontalBoldDuotone = IconifyIconData.solo(
     IconData(0xf3ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf3ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-transfer-horizontal-broken`
@@ -27291,10 +26730,9 @@ class SolarIcons {
     IconData(0xf400, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-transfer-horizontal-line-duotone` (duo-tone)
-  static const IconifyIconData roundTransferHorizontalLineDuotone = IconifyIconData.duo(
+  /// `round-transfer-horizontal-line-duotone`
+  static const IconifyIconData roundTransferHorizontalLineDuotone = IconifyIconData.solo(
     IconData(0xf401, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf401, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-transfer-horizontal-linear`
@@ -27312,10 +26750,9 @@ class SolarIcons {
     IconData(0xf404, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-transfer-vertical-bold-duotone` (duo-tone)
-  static const IconifyIconData roundTransferVerticalBoldDuotone = IconifyIconData.duo(
+  /// `round-transfer-vertical-bold-duotone`
+  static const IconifyIconData roundTransferVerticalBoldDuotone = IconifyIconData.solo(
     IconData(0xf405, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf405, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-transfer-vertical-broken`
@@ -27323,10 +26760,9 @@ class SolarIcons {
     IconData(0xf406, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `round-transfer-vertical-line-duotone` (duo-tone)
-  static const IconifyIconData roundTransferVerticalLineDuotone = IconifyIconData.duo(
+  /// `round-transfer-vertical-line-duotone`
+  static const IconifyIconData roundTransferVerticalLineDuotone = IconifyIconData.solo(
     IconData(0xf407, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf407, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `round-transfer-vertical-linear`
@@ -27360,10 +26796,9 @@ class SolarIcons {
     IconData(0xf40d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rounded-magnifer-bug-bold-duotone` (duo-tone)
-  static const IconifyIconData roundedMagniferBugBoldDuotone = IconifyIconData.duo(
+  /// `rounded-magnifer-bug-bold-duotone`
+  static const IconifyIconData roundedMagniferBugBoldDuotone = IconifyIconData.solo(
     IconData(0xf40e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf40e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rounded-magnifer-bug-broken`
@@ -27406,10 +26841,9 @@ class SolarIcons {
     IconData(0xf416, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rounded-magnifer-zoom-in-bold-duotone` (duo-tone)
-  static const IconifyIconData roundedMagniferZoomInBoldDuotone = IconifyIconData.duo(
+  /// `rounded-magnifer-zoom-in-bold-duotone`
+  static const IconifyIconData roundedMagniferZoomInBoldDuotone = IconifyIconData.solo(
     IconData(0xf417, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf417, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rounded-magnifer-zoom-in-broken`
@@ -27437,10 +26871,9 @@ class SolarIcons {
     IconData(0xf41c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `rounded-magnifer-zoom-out-bold-duotone` (duo-tone)
-  static const IconifyIconData roundedMagniferZoomOutBoldDuotone = IconifyIconData.duo(
+  /// `rounded-magnifer-zoom-out-bold-duotone`
+  static const IconifyIconData roundedMagniferZoomOutBoldDuotone = IconifyIconData.solo(
     IconData(0xf41d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf41d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `rounded-magnifer-zoom-out-broken`
@@ -27596,10 +27029,9 @@ class SolarIcons {
     IconData(0xf43a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `ruble-bold-duotone` (duo-tone)
-  static const IconifyIconData rubleBoldDuotone = IconifyIconData.duo(
+  /// `ruble-bold-duotone`
+  static const IconifyIconData rubleBoldDuotone = IconifyIconData.solo(
     IconData(0xf43b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf43b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ruble-broken`
@@ -27607,10 +27039,9 @@ class SolarIcons {
     IconData(0xf43c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `ruble-line-duotone` (duo-tone)
-  static const IconifyIconData rubleLineDuotone = IconifyIconData.duo(
+  /// `ruble-line-duotone`
+  static const IconifyIconData rubleLineDuotone = IconifyIconData.solo(
     IconData(0xf43d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf43d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ruble-linear`
@@ -27884,10 +27315,9 @@ class SolarIcons {
     IconData(0xf470, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sad-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData sadCircleBoldDuotone = IconifyIconData.duo(
+  /// `sad-circle-bold-duotone`
+  static const IconifyIconData sadCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf471, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf471, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sad-circle-broken`
@@ -27895,10 +27325,9 @@ class SolarIcons {
     IconData(0xf472, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sad-circle-line-duotone` (duo-tone)
-  static const IconifyIconData sadCircleLineDuotone = IconifyIconData.duo(
+  /// `sad-circle-line-duotone`
+  static const IconifyIconData sadCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf473, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf473, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sad-circle-linear`
@@ -27916,10 +27345,9 @@ class SolarIcons {
     IconData(0xf476, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sad-square-bold-duotone` (duo-tone)
-  static const IconifyIconData sadSquareBoldDuotone = IconifyIconData.duo(
+  /// `sad-square-bold-duotone`
+  static const IconifyIconData sadSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf477, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf477, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sad-square-broken`
@@ -27927,10 +27355,9 @@ class SolarIcons {
     IconData(0xf478, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sad-square-line-duotone` (duo-tone)
-  static const IconifyIconData sadSquareLineDuotone = IconifyIconData.duo(
+  /// `sad-square-line-duotone`
+  static const IconifyIconData sadSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf479, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf479, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sad-square-linear`
@@ -27980,10 +27407,9 @@ class SolarIcons {
     IconData(0xf482, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `safe-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData safeCircleBoldDuotone = IconifyIconData.duo(
+  /// `safe-circle-bold-duotone`
+  static const IconifyIconData safeCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf483, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf483, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `safe-circle-broken`
@@ -28012,10 +27438,9 @@ class SolarIcons {
     IconData(0xf488, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `safe-square-bold-duotone` (duo-tone)
-  static const IconifyIconData safeSquareBoldDuotone = IconifyIconData.duo(
+  /// `safe-square-bold-duotone`
+  static const IconifyIconData safeSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf489, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf489, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `safe-square-broken`
@@ -28076,10 +27501,9 @@ class SolarIcons {
     IconData(0xf494, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sale-square-bold-duotone` (duo-tone)
-  static const IconifyIconData saleSquareBoldDuotone = IconifyIconData.duo(
+  /// `sale-square-bold-duotone`
+  static const IconifyIconData saleSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf495, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf495, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sale-square-broken`
@@ -28087,10 +27511,9 @@ class SolarIcons {
     IconData(0xf496, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sale-square-line-duotone` (duo-tone)
-  static const IconifyIconData saleSquareLineDuotone = IconifyIconData.duo(
+  /// `sale-square-line-duotone`
+  static const IconifyIconData saleSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf497, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf497, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sale-square-linear`
@@ -28139,10 +27562,9 @@ class SolarIcons {
     IconData(0xf4a0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `scale-bold-duotone` (duo-tone)
-  static const IconifyIconData scaleBoldDuotone = IconifyIconData.duo(
+  /// `scale-bold-duotone`
+  static const IconifyIconData scaleBoldDuotone = IconifyIconData.solo(
     IconData(0xf4a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4a1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `scale-broken`
@@ -28171,10 +27593,9 @@ class SolarIcons {
     IconData(0xf4a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `scanner-2-bold-duotone` (duo-tone)
-  static const IconifyIconData scanner2BoldDuotone = IconifyIconData.duo(
+  /// `scanner-2-bold-duotone`
+  static const IconifyIconData scanner2BoldDuotone = IconifyIconData.solo(
     IconData(0xf4a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4a7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `scanner-2-broken`
@@ -28182,10 +27603,9 @@ class SolarIcons {
     IconData(0xf4a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `scanner-2-line-duotone` (duo-tone)
-  static const IconifyIconData scanner2LineDuotone = IconifyIconData.duo(
+  /// `scanner-2-line-duotone`
+  static const IconifyIconData scanner2LineDuotone = IconifyIconData.solo(
     IconData(0xf4a9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4a9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `scanner-2-linear`
@@ -28203,10 +27623,9 @@ class SolarIcons {
     IconData(0xf4ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `scanner-bold-duotone` (duo-tone)
-  static const IconifyIconData scannerBoldDuotone = IconifyIconData.duo(
+  /// `scanner-bold-duotone`
+  static const IconifyIconData scannerBoldDuotone = IconifyIconData.solo(
     IconData(0xf4ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4ad, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `scanner-broken`
@@ -28214,10 +27633,9 @@ class SolarIcons {
     IconData(0xf4ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `scanner-line-duotone` (duo-tone)
-  static const IconifyIconData scannerLineDuotone = IconifyIconData.duo(
+  /// `scanner-line-duotone`
+  static const IconifyIconData scannerLineDuotone = IconifyIconData.solo(
     IconData(0xf4af, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4af, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `scanner-linear`
@@ -28267,10 +27685,9 @@ class SolarIcons {
     IconData(0xf4b8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `scissors-square-bold-duotone` (duo-tone)
-  static const IconifyIconData scissorsSquareBoldDuotone = IconifyIconData.duo(
+  /// `scissors-square-bold-duotone`
+  static const IconifyIconData scissorsSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf4b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4b9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `scissors-square-broken`
@@ -28278,10 +27695,9 @@ class SolarIcons {
     IconData(0xf4ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `scissors-square-line-duotone` (duo-tone)
-  static const IconifyIconData scissorsSquareLineDuotone = IconifyIconData.duo(
+  /// `scissors-square-line-duotone`
+  static const IconifyIconData scissorsSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf4bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4bb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `scissors-square-linear`
@@ -28342,10 +27758,9 @@ class SolarIcons {
     IconData(0xf4c6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `screen-share-line-duotone` (duo-tone)
-  static const IconifyIconData screenShareLineDuotone = IconifyIconData.duo(
+  /// `screen-share-line-duotone`
+  static const IconifyIconData screenShareLineDuotone = IconifyIconData.solo(
     IconData(0xf4c7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4c7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `screen-share-linear`
@@ -28395,10 +27810,9 @@ class SolarIcons {
     IconData(0xf4d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `screencast-bold-duotone` (duo-tone)
-  static const IconifyIconData screencastBoldDuotone = IconifyIconData.duo(
+  /// `screencast-bold-duotone`
+  static const IconifyIconData screencastBoldDuotone = IconifyIconData.solo(
     IconData(0xf4d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4d1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `screencast-broken`
@@ -28459,10 +27873,9 @@ class SolarIcons {
     IconData(0xf4dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `send-square-bold-duotone` (duo-tone)
-  static const IconifyIconData sendSquareBoldDuotone = IconifyIconData.duo(
+  /// `send-square-bold-duotone`
+  static const IconifyIconData sendSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf4dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4dd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `send-square-broken`
@@ -28470,10 +27883,9 @@ class SolarIcons {
     IconData(0xf4de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `send-square-line-duotone` (duo-tone)
-  static const IconifyIconData sendSquareLineDuotone = IconifyIconData.duo(
+  /// `send-square-line-duotone`
+  static const IconifyIconData sendSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf4df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4df, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `send-square-linear`
@@ -28491,10 +27903,9 @@ class SolarIcons {
     IconData(0xf4e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `send-twice-square-bold-duotone` (duo-tone)
-  static const IconifyIconData sendTwiceSquareBoldDuotone = IconifyIconData.duo(
+  /// `send-twice-square-bold-duotone`
+  static const IconifyIconData sendTwiceSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf4e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `send-twice-square-broken`
@@ -28502,10 +27913,9 @@ class SolarIcons {
     IconData(0xf4e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `send-twice-square-line-duotone` (duo-tone)
-  static const IconifyIconData sendTwiceSquareLineDuotone = IconifyIconData.duo(
+  /// `send-twice-square-line-duotone`
+  static const IconifyIconData sendTwiceSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf4e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4e5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `send-twice-square-linear`
@@ -28555,10 +27965,9 @@ class SolarIcons {
     IconData(0xf4ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `server-bold-duotone` (duo-tone)
-  static const IconifyIconData serverBoldDuotone = IconifyIconData.duo(
+  /// `server-bold-duotone`
+  static const IconifyIconData serverBoldDuotone = IconifyIconData.solo(
     IconData(0xf4ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4ef, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `server-broken`
@@ -28566,10 +27975,9 @@ class SolarIcons {
     IconData(0xf4f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `server-line-duotone` (duo-tone)
-  static const IconifyIconData serverLineDuotone = IconifyIconData.duo(
+  /// `server-line-duotone`
+  static const IconifyIconData serverLineDuotone = IconifyIconData.solo(
     IconData(0xf4f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf4f1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `server-linear`
@@ -28726,10 +28134,9 @@ class SolarIcons {
     IconData(0xf50e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `server-square-update-line-duotone` (duo-tone)
-  static const IconifyIconData serverSquareUpdateLineDuotone = IconifyIconData.duo(
+  /// `server-square-update-line-duotone`
+  static const IconifyIconData serverSquareUpdateLineDuotone = IconifyIconData.solo(
     IconData(0xf50f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf50f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `server-square-update-linear`
@@ -28785,10 +28192,9 @@ class SolarIcons {
     IconData(0xf519, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `settings-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData settingsMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `settings-minimalistic-line-duotone`
+  static const IconifyIconData settingsMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf51a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf51a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `settings-minimalistic-linear`
@@ -28933,10 +28339,9 @@ class SolarIcons {
     IconData(0xf535, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-cross-line-duotone` (duo-tone)
-  static const IconifyIconData shieldCrossLineDuotone = IconifyIconData.duo(
+  /// `shield-cross-line-duotone`
+  static const IconifyIconData shieldCrossLineDuotone = IconifyIconData.solo(
     IconData(0xf536, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf536, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-cross-linear`
@@ -28954,10 +28359,9 @@ class SolarIcons {
     IconData(0xf539, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-keyhole-bold-duotone` (duo-tone)
-  static const IconifyIconData shieldKeyholeBoldDuotone = IconifyIconData.duo(
+  /// `shield-keyhole-bold-duotone`
+  static const IconifyIconData shieldKeyholeBoldDuotone = IconifyIconData.solo(
     IconData(0xf53a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf53a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-keyhole-broken`
@@ -28965,10 +28369,9 @@ class SolarIcons {
     IconData(0xf53b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-keyhole-line-duotone` (duo-tone)
-  static const IconifyIconData shieldKeyholeLineDuotone = IconifyIconData.duo(
+  /// `shield-keyhole-line-duotone`
+  static const IconifyIconData shieldKeyholeLineDuotone = IconifyIconData.solo(
     IconData(0xf53c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf53c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-keyhole-linear`
@@ -28981,10 +28384,9 @@ class SolarIcons {
     IconData(0xf53e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-keyhole-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData shieldKeyholeMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `shield-keyhole-minimalistic-bold-duotone`
+  static const IconifyIconData shieldKeyholeMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf53f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf53f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-keyhole-minimalistic-broken`
@@ -28992,10 +28394,9 @@ class SolarIcons {
     IconData(0xf540, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-keyhole-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData shieldKeyholeMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `shield-keyhole-minimalistic-line-duotone`
+  static const IconifyIconData shieldKeyholeMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf541, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf541, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-keyhole-minimalistic-linear`
@@ -29013,10 +28414,9 @@ class SolarIcons {
     IconData(0xf544, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-line-duotone` (duo-tone)
-  static const IconifyIconData shieldLineDuotone = IconifyIconData.duo(
+  /// `shield-line-duotone`
+  static const IconifyIconData shieldLineDuotone = IconifyIconData.solo(
     IconData(0xf545, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf545, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-linear`
@@ -29061,10 +28461,9 @@ class SolarIcons {
     IconData(0xf54d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-minus-bold-duotone` (duo-tone)
-  static const IconifyIconData shieldMinusBoldDuotone = IconifyIconData.duo(
+  /// `shield-minus-bold-duotone`
+  static const IconifyIconData shieldMinusBoldDuotone = IconifyIconData.solo(
     IconData(0xf54e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf54e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-minus-broken`
@@ -29072,10 +28471,9 @@ class SolarIcons {
     IconData(0xf54f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-minus-line-duotone` (duo-tone)
-  static const IconifyIconData shieldMinusLineDuotone = IconifyIconData.duo(
+  /// `shield-minus-line-duotone`
+  static const IconifyIconData shieldMinusLineDuotone = IconifyIconData.solo(
     IconData(0xf550, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf550, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-minus-linear`
@@ -29093,10 +28491,9 @@ class SolarIcons {
     IconData(0xf553, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-network-bold-duotone` (duo-tone)
-  static const IconifyIconData shieldNetworkBoldDuotone = IconifyIconData.duo(
+  /// `shield-network-bold-duotone`
+  static const IconifyIconData shieldNetworkBoldDuotone = IconifyIconData.solo(
     IconData(0xf554, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf554, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-network-broken`
@@ -29104,10 +28501,9 @@ class SolarIcons {
     IconData(0xf555, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-network-line-duotone` (duo-tone)
-  static const IconifyIconData shieldNetworkLineDuotone = IconifyIconData.duo(
+  /// `shield-network-line-duotone`
+  static const IconifyIconData shieldNetworkLineDuotone = IconifyIconData.solo(
     IconData(0xf556, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf556, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-network-linear`
@@ -29130,10 +28526,9 @@ class SolarIcons {
     IconData(0xf55a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-plus-bold-duotone` (duo-tone)
-  static const IconifyIconData shieldPlusBoldDuotone = IconifyIconData.duo(
+  /// `shield-plus-bold-duotone`
+  static const IconifyIconData shieldPlusBoldDuotone = IconifyIconData.solo(
     IconData(0xf55b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf55b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-plus-broken`
@@ -29141,10 +28536,9 @@ class SolarIcons {
     IconData(0xf55c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-plus-line-duotone` (duo-tone)
-  static const IconifyIconData shieldPlusLineDuotone = IconifyIconData.duo(
+  /// `shield-plus-line-duotone`
+  static const IconifyIconData shieldPlusLineDuotone = IconifyIconData.solo(
     IconData(0xf55d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf55d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-plus-linear`
@@ -29162,10 +28556,9 @@ class SolarIcons {
     IconData(0xf560, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-star-bold-duotone` (duo-tone)
-  static const IconifyIconData shieldStarBoldDuotone = IconifyIconData.duo(
+  /// `shield-star-bold-duotone`
+  static const IconifyIconData shieldStarBoldDuotone = IconifyIconData.solo(
     IconData(0xf561, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf561, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-star-broken`
@@ -29173,10 +28566,9 @@ class SolarIcons {
     IconData(0xf562, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-star-line-duotone` (duo-tone)
-  static const IconifyIconData shieldStarLineDuotone = IconifyIconData.duo(
+  /// `shield-star-line-duotone`
+  static const IconifyIconData shieldStarLineDuotone = IconifyIconData.solo(
     IconData(0xf563, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf563, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-star-linear`
@@ -29194,10 +28586,9 @@ class SolarIcons {
     IconData(0xf566, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-up-bold-duotone` (duo-tone)
-  static const IconifyIconData shieldUpBoldDuotone = IconifyIconData.duo(
+  /// `shield-up-bold-duotone`
+  static const IconifyIconData shieldUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf567, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf567, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-up-broken`
@@ -29205,10 +28596,9 @@ class SolarIcons {
     IconData(0xf568, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-up-line-duotone` (duo-tone)
-  static const IconifyIconData shieldUpLineDuotone = IconifyIconData.duo(
+  /// `shield-up-line-duotone`
+  static const IconifyIconData shieldUpLineDuotone = IconifyIconData.solo(
     IconData(0xf569, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf569, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-up-linear`
@@ -29226,10 +28616,9 @@ class SolarIcons {
     IconData(0xf56c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-user-bold-duotone` (duo-tone)
-  static const IconifyIconData shieldUserBoldDuotone = IconifyIconData.duo(
+  /// `shield-user-bold-duotone`
+  static const IconifyIconData shieldUserBoldDuotone = IconifyIconData.solo(
     IconData(0xf56d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf56d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-user-broken`
@@ -29237,10 +28626,9 @@ class SolarIcons {
     IconData(0xf56e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-user-line-duotone` (duo-tone)
-  static const IconifyIconData shieldUserLineDuotone = IconifyIconData.duo(
+  /// `shield-user-line-duotone`
+  static const IconifyIconData shieldUserLineDuotone = IconifyIconData.solo(
     IconData(0xf56f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf56f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-user-linear`
@@ -29258,10 +28646,9 @@ class SolarIcons {
     IconData(0xf572, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-warning-bold-duotone` (duo-tone)
-  static const IconifyIconData shieldWarningBoldDuotone = IconifyIconData.duo(
+  /// `shield-warning-bold-duotone`
+  static const IconifyIconData shieldWarningBoldDuotone = IconifyIconData.solo(
     IconData(0xf573, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf573, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-warning-broken`
@@ -29269,10 +28656,9 @@ class SolarIcons {
     IconData(0xf574, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shield-warning-line-duotone` (duo-tone)
-  static const IconifyIconData shieldWarningLineDuotone = IconifyIconData.duo(
+  /// `shield-warning-line-duotone`
+  static const IconifyIconData shieldWarningLineDuotone = IconifyIconData.solo(
     IconData(0xf575, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf575, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shield-warning-linear`
@@ -29418,10 +28804,9 @@ class SolarIcons {
     IconData(0xf590, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `shuffle-bold-duotone` (duo-tone)
-  static const IconifyIconData shuffleBoldDuotone = IconifyIconData.duo(
+  /// `shuffle-bold-duotone`
+  static const IconifyIconData shuffleBoldDuotone = IconifyIconData.solo(
     IconData(0xf591, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf591, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `shuffle-broken`
@@ -29482,10 +28867,9 @@ class SolarIcons {
     IconData(0xf59c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sidebar-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData sidebarMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `sidebar-minimalistic-bold-duotone`
+  static const IconifyIconData sidebarMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf59d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf59d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sidebar-minimalistic-broken`
@@ -29493,10 +28877,9 @@ class SolarIcons {
     IconData(0xf59e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sidebar-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData sidebarMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `sidebar-minimalistic-line-duotone`
+  static const IconifyIconData sidebarMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf59f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf59f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sidebar-minimalistic-linear`
@@ -29514,10 +28897,9 @@ class SolarIcons {
     IconData(0xf5a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `siderbar-bold-duotone` (duo-tone)
-  static const IconifyIconData siderbarBoldDuotone = IconifyIconData.duo(
+  /// `siderbar-bold-duotone`
+  static const IconifyIconData siderbarBoldDuotone = IconifyIconData.solo(
     IconData(0xf5a3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf5a3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `siderbar-broken`
@@ -29525,10 +28907,9 @@ class SolarIcons {
     IconData(0xf5a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `siderbar-line-duotone` (duo-tone)
-  static const IconifyIconData siderbarLineDuotone = IconifyIconData.duo(
+  /// `siderbar-line-duotone`
+  static const IconifyIconData siderbarLineDuotone = IconifyIconData.solo(
     IconData(0xf5a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf5a5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `siderbar-linear`
@@ -29578,10 +28959,9 @@ class SolarIcons {
     IconData(0xf5ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `signpost-bold-duotone` (duo-tone)
-  static const IconifyIconData signpostBoldDuotone = IconifyIconData.duo(
+  /// `signpost-bold-duotone`
+  static const IconifyIconData signpostBoldDuotone = IconifyIconData.solo(
     IconData(0xf5af, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf5af, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `signpost-broken`
@@ -29637,10 +29017,9 @@ class SolarIcons {
     IconData(0xf5b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sim-card-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData simCardMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `sim-card-minimalistic-bold-duotone`
+  static const IconifyIconData simCardMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf5ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf5ba, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sim-card-minimalistic-broken`
@@ -29962,10 +29341,9 @@ class SolarIcons {
     IconData(0xf5f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `slash-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData slashCircleBoldDuotone = IconifyIconData.duo(
+  /// `slash-circle-bold-duotone`
+  static const IconifyIconData slashCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf5f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf5f7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `slash-circle-broken`
@@ -29973,10 +29351,9 @@ class SolarIcons {
     IconData(0xf5f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `slash-circle-line-duotone` (duo-tone)
-  static const IconifyIconData slashCircleLineDuotone = IconifyIconData.duo(
+  /// `slash-circle-line-duotone`
+  static const IconifyIconData slashCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf5f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf5f9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `slash-circle-linear`
@@ -29994,10 +29371,9 @@ class SolarIcons {
     IconData(0xf5fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `slash-square-bold-duotone` (duo-tone)
-  static const IconifyIconData slashSquareBoldDuotone = IconifyIconData.duo(
+  /// `slash-square-bold-duotone`
+  static const IconifyIconData slashSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf5fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf5fd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `slash-square-broken`
@@ -30005,10 +29381,9 @@ class SolarIcons {
     IconData(0xf5fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `slash-square-line-duotone` (duo-tone)
-  static const IconifyIconData slashSquareLineDuotone = IconifyIconData.duo(
+  /// `slash-square-line-duotone`
+  static const IconifyIconData slashSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf5ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf5ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `slash-square-linear`
@@ -30085,10 +29460,9 @@ class SolarIcons {
     IconData(0xf60d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sleeping-circle-line-duotone` (duo-tone)
-  static const IconifyIconData sleepingCircleLineDuotone = IconifyIconData.duo(
+  /// `sleeping-circle-line-duotone`
+  static const IconifyIconData sleepingCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf60e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf60e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sleeping-circle-linear`
@@ -30133,10 +29507,9 @@ class SolarIcons {
     IconData(0xf616, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sleeping-square-line-duotone` (duo-tone)
-  static const IconifyIconData sleepingSquareLineDuotone = IconifyIconData.duo(
+  /// `sleeping-square-line-duotone`
+  static const IconifyIconData sleepingSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf617, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf617, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sleeping-square-linear`
@@ -30282,10 +29655,9 @@ class SolarIcons {
     IconData(0xf632, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `smart-home-angle-bold-duotone` (duo-tone)
-  static const IconifyIconData smartHomeAngleBoldDuotone = IconifyIconData.duo(
+  /// `smart-home-angle-bold-duotone`
+  static const IconifyIconData smartHomeAngleBoldDuotone = IconifyIconData.solo(
     IconData(0xf633, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf633, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `smart-home-angle-broken`
@@ -30314,10 +29686,9 @@ class SolarIcons {
     IconData(0xf638, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `smart-home-bold-duotone` (duo-tone)
-  static const IconifyIconData smartHomeBoldDuotone = IconifyIconData.duo(
+  /// `smart-home-bold-duotone`
+  static const IconifyIconData smartHomeBoldDuotone = IconifyIconData.solo(
     IconData(0xf639, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf639, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `smart-home-broken`
@@ -30728,10 +30099,9 @@ class SolarIcons {
     IconData(0xf686, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `smile-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData smileCircleBoldDuotone = IconifyIconData.duo(
+  /// `smile-circle-bold-duotone`
+  static const IconifyIconData smileCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf687, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf687, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `smile-circle-broken`
@@ -30739,10 +30109,9 @@ class SolarIcons {
     IconData(0xf688, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `smile-circle-line-duotone` (duo-tone)
-  static const IconifyIconData smileCircleLineDuotone = IconifyIconData.duo(
+  /// `smile-circle-line-duotone`
+  static const IconifyIconData smileCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf689, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf689, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `smile-circle-linear`
@@ -30760,10 +30129,9 @@ class SolarIcons {
     IconData(0xf68c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `smile-square-bold-duotone` (duo-tone)
-  static const IconifyIconData smileSquareBoldDuotone = IconifyIconData.duo(
+  /// `smile-square-bold-duotone`
+  static const IconifyIconData smileSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf68d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf68d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `smile-square-broken`
@@ -30771,10 +30139,9 @@ class SolarIcons {
     IconData(0xf68e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `smile-square-line-duotone` (duo-tone)
-  static const IconifyIconData smileSquareLineDuotone = IconifyIconData.duo(
+  /// `smile-square-line-duotone`
+  static const IconifyIconData smileSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf68f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf68f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `smile-square-linear`
@@ -30824,10 +30191,9 @@ class SolarIcons {
     IconData(0xf698, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `socket-bold-duotone` (duo-tone)
-  static const IconifyIconData socketBoldDuotone = IconifyIconData.duo(
+  /// `socket-bold-duotone`
+  static const IconifyIconData socketBoldDuotone = IconifyIconData.solo(
     IconData(0xf699, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf699, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `socket-broken`
@@ -30952,10 +30318,9 @@ class SolarIcons {
     IconData(0xf6b0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sort-bold-duotone` (duo-tone)
-  static const IconifyIconData sortBoldDuotone = IconifyIconData.duo(
+  /// `sort-bold-duotone`
+  static const IconifyIconData sortBoldDuotone = IconifyIconData.solo(
     IconData(0xf6b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf6b1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sort-broken`
@@ -31202,10 +30567,9 @@ class SolarIcons {
     IconData(0xf6df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `soundwave-circle-line-duotone` (duo-tone)
-  static const IconifyIconData soundwaveCircleLineDuotone = IconifyIconData.duo(
+  /// `soundwave-circle-line-duotone`
+  static const IconifyIconData soundwaveCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf6e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf6e0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `soundwave-circle-linear`
@@ -31239,10 +30603,9 @@ class SolarIcons {
     IconData(0xf6e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `soundwave-square-bold-duotone` (duo-tone)
-  static const IconifyIconData soundwaveSquareBoldDuotone = IconifyIconData.duo(
+  /// `soundwave-square-bold-duotone`
+  static const IconifyIconData soundwaveSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf6e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf6e7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `soundwave-square-broken`
@@ -31250,10 +30613,9 @@ class SolarIcons {
     IconData(0xf6e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `soundwave-square-line-duotone` (duo-tone)
-  static const IconifyIconData soundwaveSquareLineDuotone = IconifyIconData.duo(
+  /// `soundwave-square-line-duotone`
+  static const IconifyIconData soundwaveSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf6e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf6e9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `soundwave-square-linear`
@@ -31298,10 +30660,9 @@ class SolarIcons {
     IconData(0xf6f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `speaker-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData speakerMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `speaker-minimalistic-bold-duotone`
+  static const IconifyIconData speakerMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf6f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf6f2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `speaker-minimalistic-broken`
@@ -31309,10 +30670,9 @@ class SolarIcons {
     IconData(0xf6f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `speaker-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData speakerMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `speaker-minimalistic-line-duotone`
+  static const IconifyIconData speakerMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf6f4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf6f4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `speaker-minimalistic-linear`
@@ -31335,10 +30695,9 @@ class SolarIcons {
     IconData(0xf6f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `special-effects-bold-duotone` (duo-tone)
-  static const IconifyIconData specialEffectsBoldDuotone = IconifyIconData.duo(
+  /// `special-effects-bold-duotone`
+  static const IconifyIconData specialEffectsBoldDuotone = IconifyIconData.solo(
     IconData(0xf6f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf6f9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `special-effects-broken`
@@ -31346,10 +30705,9 @@ class SolarIcons {
     IconData(0xf6fa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `special-effects-line-duotone` (duo-tone)
-  static const IconifyIconData specialEffectsLineDuotone = IconifyIconData.duo(
+  /// `special-effects-line-duotone`
+  static const IconifyIconData specialEffectsLineDuotone = IconifyIconData.solo(
     IconData(0xf6fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf6fb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `special-effects-linear`
@@ -31367,10 +30725,9 @@ class SolarIcons {
     IconData(0xf6fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `spedometer-low-bold-duotone` (duo-tone)
-  static const IconifyIconData spedometerLowBoldDuotone = IconifyIconData.duo(
+  /// `spedometer-low-bold-duotone`
+  static const IconifyIconData spedometerLowBoldDuotone = IconifyIconData.solo(
     IconData(0xf6ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf6ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `spedometer-low-broken`
@@ -31399,10 +30756,9 @@ class SolarIcons {
     IconData(0xf704, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `spedometer-max-bold-duotone` (duo-tone)
-  static const IconifyIconData spedometerMaxBoldDuotone = IconifyIconData.duo(
+  /// `spedometer-max-bold-duotone`
+  static const IconifyIconData spedometerMaxBoldDuotone = IconifyIconData.solo(
     IconData(0xf705, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf705, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `spedometer-max-broken`
@@ -31410,10 +30766,9 @@ class SolarIcons {
     IconData(0xf706, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `spedometer-max-line-duotone` (duo-tone)
-  static const IconifyIconData spedometerMaxLineDuotone = IconifyIconData.duo(
+  /// `spedometer-max-line-duotone`
+  static const IconifyIconData spedometerMaxLineDuotone = IconifyIconData.solo(
     IconData(0xf707, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf707, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `spedometer-max-linear`
@@ -31431,10 +30786,9 @@ class SolarIcons {
     IconData(0xf70a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `spedometer-middle-bold-duotone` (duo-tone)
-  static const IconifyIconData spedometerMiddleBoldDuotone = IconifyIconData.duo(
+  /// `spedometer-middle-bold-duotone`
+  static const IconifyIconData spedometerMiddleBoldDuotone = IconifyIconData.solo(
     IconData(0xf70b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf70b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `spedometer-middle-broken`
@@ -31442,10 +30796,9 @@ class SolarIcons {
     IconData(0xf70c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `spedometer-middle-line-duotone` (duo-tone)
-  static const IconifyIconData spedometerMiddleLineDuotone = IconifyIconData.duo(
+  /// `spedometer-middle-line-duotone`
+  static const IconifyIconData spedometerMiddleLineDuotone = IconifyIconData.solo(
     IconData(0xf70d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf70d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `spedometer-middle-linear`
@@ -31495,10 +30848,9 @@ class SolarIcons {
     IconData(0xf716, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-academic-cap-bold-duotone` (duo-tone)
-  static const IconifyIconData squareAcademicCapBoldDuotone = IconifyIconData.duo(
+  /// `square-academic-cap-bold-duotone`
+  static const IconifyIconData squareAcademicCapBoldDuotone = IconifyIconData.solo(
     IconData(0xf717, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf717, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-academic-cap-broken`
@@ -31527,10 +30879,9 @@ class SolarIcons {
     IconData(0xf71c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-alt-arrow-down-bold-duotone` (duo-tone)
-  static const IconifyIconData squareAltArrowDownBoldDuotone = IconifyIconData.duo(
+  /// `square-alt-arrow-down-bold-duotone`
+  static const IconifyIconData squareAltArrowDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf71d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf71d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-alt-arrow-down-broken`
@@ -31538,10 +30889,9 @@ class SolarIcons {
     IconData(0xf71e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-alt-arrow-down-line-duotone` (duo-tone)
-  static const IconifyIconData squareAltArrowDownLineDuotone = IconifyIconData.duo(
+  /// `square-alt-arrow-down-line-duotone`
+  static const IconifyIconData squareAltArrowDownLineDuotone = IconifyIconData.solo(
     IconData(0xf71f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf71f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-alt-arrow-down-linear`
@@ -31559,10 +30909,9 @@ class SolarIcons {
     IconData(0xf722, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-alt-arrow-left-bold-duotone` (duo-tone)
-  static const IconifyIconData squareAltArrowLeftBoldDuotone = IconifyIconData.duo(
+  /// `square-alt-arrow-left-bold-duotone`
+  static const IconifyIconData squareAltArrowLeftBoldDuotone = IconifyIconData.solo(
     IconData(0xf723, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf723, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-alt-arrow-left-broken`
@@ -31570,10 +30919,9 @@ class SolarIcons {
     IconData(0xf724, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-alt-arrow-left-line-duotone` (duo-tone)
-  static const IconifyIconData squareAltArrowLeftLineDuotone = IconifyIconData.duo(
+  /// `square-alt-arrow-left-line-duotone`
+  static const IconifyIconData squareAltArrowLeftLineDuotone = IconifyIconData.solo(
     IconData(0xf725, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf725, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-alt-arrow-left-linear`
@@ -31591,10 +30939,9 @@ class SolarIcons {
     IconData(0xf728, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-alt-arrow-right-bold-duotone` (duo-tone)
-  static const IconifyIconData squareAltArrowRightBoldDuotone = IconifyIconData.duo(
+  /// `square-alt-arrow-right-bold-duotone`
+  static const IconifyIconData squareAltArrowRightBoldDuotone = IconifyIconData.solo(
     IconData(0xf729, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf729, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-alt-arrow-right-broken`
@@ -31602,10 +30949,9 @@ class SolarIcons {
     IconData(0xf72a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-alt-arrow-right-line-duotone` (duo-tone)
-  static const IconifyIconData squareAltArrowRightLineDuotone = IconifyIconData.duo(
+  /// `square-alt-arrow-right-line-duotone`
+  static const IconifyIconData squareAltArrowRightLineDuotone = IconifyIconData.solo(
     IconData(0xf72b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf72b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-alt-arrow-right-linear`
@@ -31623,10 +30969,9 @@ class SolarIcons {
     IconData(0xf72e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-alt-arrow-up-bold-duotone` (duo-tone)
-  static const IconifyIconData squareAltArrowUpBoldDuotone = IconifyIconData.duo(
+  /// `square-alt-arrow-up-bold-duotone`
+  static const IconifyIconData squareAltArrowUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf72f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf72f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-alt-arrow-up-broken`
@@ -31634,10 +30979,9 @@ class SolarIcons {
     IconData(0xf730, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-alt-arrow-up-line-duotone` (duo-tone)
-  static const IconifyIconData squareAltArrowUpLineDuotone = IconifyIconData.duo(
+  /// `square-alt-arrow-up-line-duotone`
+  static const IconifyIconData squareAltArrowUpLineDuotone = IconifyIconData.solo(
     IconData(0xf731, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf731, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-alt-arrow-up-linear`
@@ -31655,10 +30999,9 @@ class SolarIcons {
     IconData(0xf734, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-down-bold-duotone` (duo-tone)
-  static const IconifyIconData squareArrowDownBoldDuotone = IconifyIconData.duo(
+  /// `square-arrow-down-bold-duotone`
+  static const IconifyIconData squareArrowDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf735, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf735, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-down-broken`
@@ -31666,10 +31009,9 @@ class SolarIcons {
     IconData(0xf736, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-down-line-duotone` (duo-tone)
-  static const IconifyIconData squareArrowDownLineDuotone = IconifyIconData.duo(
+  /// `square-arrow-down-line-duotone`
+  static const IconifyIconData squareArrowDownLineDuotone = IconifyIconData.solo(
     IconData(0xf737, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf737, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-down-linear`
@@ -31687,10 +31029,9 @@ class SolarIcons {
     IconData(0xf73a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-left-bold-duotone` (duo-tone)
-  static const IconifyIconData squareArrowLeftBoldDuotone = IconifyIconData.duo(
+  /// `square-arrow-left-bold-duotone`
+  static const IconifyIconData squareArrowLeftBoldDuotone = IconifyIconData.solo(
     IconData(0xf73b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf73b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-left-broken`
@@ -31703,10 +31044,9 @@ class SolarIcons {
     IconData(0xf73d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-left-down-bold-duotone` (duo-tone)
-  static const IconifyIconData squareArrowLeftDownBoldDuotone = IconifyIconData.duo(
+  /// `square-arrow-left-down-bold-duotone`
+  static const IconifyIconData squareArrowLeftDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf73e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf73e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-left-down-broken`
@@ -31714,10 +31054,9 @@ class SolarIcons {
     IconData(0xf73f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-left-down-line-duotone` (duo-tone)
-  static const IconifyIconData squareArrowLeftDownLineDuotone = IconifyIconData.duo(
+  /// `square-arrow-left-down-line-duotone`
+  static const IconifyIconData squareArrowLeftDownLineDuotone = IconifyIconData.solo(
     IconData(0xf740, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf740, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-left-down-linear`
@@ -31730,10 +31069,9 @@ class SolarIcons {
     IconData(0xf742, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-left-line-duotone` (duo-tone)
-  static const IconifyIconData squareArrowLeftLineDuotone = IconifyIconData.duo(
+  /// `square-arrow-left-line-duotone`
+  static const IconifyIconData squareArrowLeftLineDuotone = IconifyIconData.solo(
     IconData(0xf743, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf743, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-left-linear`
@@ -31751,10 +31089,9 @@ class SolarIcons {
     IconData(0xf746, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-left-up-bold-duotone` (duo-tone)
-  static const IconifyIconData squareArrowLeftUpBoldDuotone = IconifyIconData.duo(
+  /// `square-arrow-left-up-bold-duotone`
+  static const IconifyIconData squareArrowLeftUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf747, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf747, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-left-up-broken`
@@ -31762,10 +31099,9 @@ class SolarIcons {
     IconData(0xf748, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-left-up-line-duotone` (duo-tone)
-  static const IconifyIconData squareArrowLeftUpLineDuotone = IconifyIconData.duo(
+  /// `square-arrow-left-up-line-duotone`
+  static const IconifyIconData squareArrowLeftUpLineDuotone = IconifyIconData.solo(
     IconData(0xf749, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf749, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-left-up-linear`
@@ -31783,10 +31119,9 @@ class SolarIcons {
     IconData(0xf74c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-right-bold-duotone` (duo-tone)
-  static const IconifyIconData squareArrowRightBoldDuotone = IconifyIconData.duo(
+  /// `square-arrow-right-bold-duotone`
+  static const IconifyIconData squareArrowRightBoldDuotone = IconifyIconData.solo(
     IconData(0xf74d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf74d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-right-broken`
@@ -31799,10 +31134,9 @@ class SolarIcons {
     IconData(0xf74f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-right-down-bold-duotone` (duo-tone)
-  static const IconifyIconData squareArrowRightDownBoldDuotone = IconifyIconData.duo(
+  /// `square-arrow-right-down-bold-duotone`
+  static const IconifyIconData squareArrowRightDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf750, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf750, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-right-down-broken`
@@ -31810,10 +31144,9 @@ class SolarIcons {
     IconData(0xf751, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-right-down-line-duotone` (duo-tone)
-  static const IconifyIconData squareArrowRightDownLineDuotone = IconifyIconData.duo(
+  /// `square-arrow-right-down-line-duotone`
+  static const IconifyIconData squareArrowRightDownLineDuotone = IconifyIconData.solo(
     IconData(0xf752, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf752, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-right-down-linear`
@@ -31826,10 +31159,9 @@ class SolarIcons {
     IconData(0xf754, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-right-line-duotone` (duo-tone)
-  static const IconifyIconData squareArrowRightLineDuotone = IconifyIconData.duo(
+  /// `square-arrow-right-line-duotone`
+  static const IconifyIconData squareArrowRightLineDuotone = IconifyIconData.solo(
     IconData(0xf755, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf755, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-right-linear`
@@ -31847,10 +31179,9 @@ class SolarIcons {
     IconData(0xf758, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-right-up-bold-duotone` (duo-tone)
-  static const IconifyIconData squareArrowRightUpBoldDuotone = IconifyIconData.duo(
+  /// `square-arrow-right-up-bold-duotone`
+  static const IconifyIconData squareArrowRightUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf759, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf759, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-right-up-broken`
@@ -31858,10 +31189,9 @@ class SolarIcons {
     IconData(0xf75a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-right-up-line-duotone` (duo-tone)
-  static const IconifyIconData squareArrowRightUpLineDuotone = IconifyIconData.duo(
+  /// `square-arrow-right-up-line-duotone`
+  static const IconifyIconData squareArrowRightUpLineDuotone = IconifyIconData.solo(
     IconData(0xf75b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf75b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-right-up-linear`
@@ -31879,10 +31209,9 @@ class SolarIcons {
     IconData(0xf75e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-up-bold-duotone` (duo-tone)
-  static const IconifyIconData squareArrowUpBoldDuotone = IconifyIconData.duo(
+  /// `square-arrow-up-bold-duotone`
+  static const IconifyIconData squareArrowUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf75f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf75f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-up-broken`
@@ -31890,10 +31219,9 @@ class SolarIcons {
     IconData(0xf760, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-arrow-up-line-duotone` (duo-tone)
-  static const IconifyIconData squareArrowUpLineDuotone = IconifyIconData.duo(
+  /// `square-arrow-up-line-duotone`
+  static const IconifyIconData squareArrowUpLineDuotone = IconifyIconData.solo(
     IconData(0xf761, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf761, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-arrow-up-linear`
@@ -31911,10 +31239,9 @@ class SolarIcons {
     IconData(0xf764, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-bottom-down-bold-duotone` (duo-tone)
-  static const IconifyIconData squareBottomDownBoldDuotone = IconifyIconData.duo(
+  /// `square-bottom-down-bold-duotone`
+  static const IconifyIconData squareBottomDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf765, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf765, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-bottom-down-broken`
@@ -31922,10 +31249,9 @@ class SolarIcons {
     IconData(0xf766, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-bottom-down-line-duotone` (duo-tone)
-  static const IconifyIconData squareBottomDownLineDuotone = IconifyIconData.duo(
+  /// `square-bottom-down-line-duotone`
+  static const IconifyIconData squareBottomDownLineDuotone = IconifyIconData.solo(
     IconData(0xf767, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf767, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-bottom-down-linear`
@@ -31943,10 +31269,9 @@ class SolarIcons {
     IconData(0xf76a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-bottom-up-bold-duotone` (duo-tone)
-  static const IconifyIconData squareBottomUpBoldDuotone = IconifyIconData.duo(
+  /// `square-bottom-up-bold-duotone`
+  static const IconifyIconData squareBottomUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf76b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf76b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-bottom-up-broken`
@@ -31954,10 +31279,9 @@ class SolarIcons {
     IconData(0xf76c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-bottom-up-line-duotone` (duo-tone)
-  static const IconifyIconData squareBottomUpLineDuotone = IconifyIconData.duo(
+  /// `square-bottom-up-line-duotone`
+  static const IconifyIconData squareBottomUpLineDuotone = IconifyIconData.solo(
     IconData(0xf76d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf76d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-bottom-up-linear`
@@ -31975,10 +31299,9 @@ class SolarIcons {
     IconData(0xf0000, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-double-alt-arrow-down-bold-duotone` (duo-tone)
-  static const IconifyIconData squareDoubleAltArrowDownBoldDuotone = IconifyIconData.duo(
+  /// `square-double-alt-arrow-down-bold-duotone`
+  static const IconifyIconData squareDoubleAltArrowDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf0001, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0001, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-down-broken`
@@ -31986,10 +31309,9 @@ class SolarIcons {
     IconData(0xf0002, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-double-alt-arrow-down-line-duotone` (duo-tone)
-  static const IconifyIconData squareDoubleAltArrowDownLineDuotone = IconifyIconData.duo(
+  /// `square-double-alt-arrow-down-line-duotone`
+  static const IconifyIconData squareDoubleAltArrowDownLineDuotone = IconifyIconData.solo(
     IconData(0xf0003, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0003, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-down-linear`
@@ -32007,10 +31329,9 @@ class SolarIcons {
     IconData(0xf0006, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-double-alt-arrow-left-bold-duotone` (duo-tone)
-  static const IconifyIconData squareDoubleAltArrowLeftBoldDuotone = IconifyIconData.duo(
+  /// `square-double-alt-arrow-left-bold-duotone`
+  static const IconifyIconData squareDoubleAltArrowLeftBoldDuotone = IconifyIconData.solo(
     IconData(0xf0007, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0007, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-left-broken`
@@ -32018,10 +31339,9 @@ class SolarIcons {
     IconData(0xf0008, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-double-alt-arrow-left-line-duotone` (duo-tone)
-  static const IconifyIconData squareDoubleAltArrowLeftLineDuotone = IconifyIconData.duo(
+  /// `square-double-alt-arrow-left-line-duotone`
+  static const IconifyIconData squareDoubleAltArrowLeftLineDuotone = IconifyIconData.solo(
     IconData(0xf0009, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0009, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-left-linear`
@@ -32039,10 +31359,9 @@ class SolarIcons {
     IconData(0xf000c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-double-alt-arrow-right-bold-duotone` (duo-tone)
-  static const IconifyIconData squareDoubleAltArrowRightBoldDuotone = IconifyIconData.duo(
+  /// `square-double-alt-arrow-right-bold-duotone`
+  static const IconifyIconData squareDoubleAltArrowRightBoldDuotone = IconifyIconData.solo(
     IconData(0xf000d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf000d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-right-broken`
@@ -32050,10 +31369,9 @@ class SolarIcons {
     IconData(0xf000e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-double-alt-arrow-right-line-duotone` (duo-tone)
-  static const IconifyIconData squareDoubleAltArrowRightLineDuotone = IconifyIconData.duo(
+  /// `square-double-alt-arrow-right-line-duotone`
+  static const IconifyIconData squareDoubleAltArrowRightLineDuotone = IconifyIconData.solo(
     IconData(0xf000f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf000f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-right-linear`
@@ -32071,10 +31389,9 @@ class SolarIcons {
     IconData(0xf0012, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-double-alt-arrow-up-bold-duotone` (duo-tone)
-  static const IconifyIconData squareDoubleAltArrowUpBoldDuotone = IconifyIconData.duo(
+  /// `square-double-alt-arrow-up-bold-duotone`
+  static const IconifyIconData squareDoubleAltArrowUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf0013, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0013, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-up-broken`
@@ -32082,10 +31399,9 @@ class SolarIcons {
     IconData(0xf0014, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-double-alt-arrow-up-line-duotone` (duo-tone)
-  static const IconifyIconData squareDoubleAltArrowUpLineDuotone = IconifyIconData.duo(
+  /// `square-double-alt-arrow-up-line-duotone`
+  static const IconifyIconData squareDoubleAltArrowUpLineDuotone = IconifyIconData.solo(
     IconData(0xf0015, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0015, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-up-linear`
@@ -32135,10 +31451,9 @@ class SolarIcons {
     IconData(0xf001e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-share-line-bold-duotone` (duo-tone)
-  static const IconifyIconData squareShareLineBoldDuotone = IconifyIconData.duo(
+  /// `square-share-line-bold-duotone`
+  static const IconifyIconData squareShareLineBoldDuotone = IconifyIconData.solo(
     IconData(0xf001f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf001f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-share-line-broken`
@@ -32167,10 +31482,9 @@ class SolarIcons {
     IconData(0xf0024, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-sort-horizontal-bold-duotone` (duo-tone)
-  static const IconifyIconData squareSortHorizontalBoldDuotone = IconifyIconData.duo(
+  /// `square-sort-horizontal-bold-duotone`
+  static const IconifyIconData squareSortHorizontalBoldDuotone = IconifyIconData.solo(
     IconData(0xf0025, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0025, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-horizontal-broken`
@@ -32178,10 +31492,9 @@ class SolarIcons {
     IconData(0xf0026, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-sort-horizontal-line-duotone` (duo-tone)
-  static const IconifyIconData squareSortHorizontalLineDuotone = IconifyIconData.duo(
+  /// `square-sort-horizontal-line-duotone`
+  static const IconifyIconData squareSortHorizontalLineDuotone = IconifyIconData.solo(
     IconData(0xf0027, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0027, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-horizontal-linear`
@@ -32199,10 +31512,9 @@ class SolarIcons {
     IconData(0xf002a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-sort-vertical-bold-duotone` (duo-tone)
-  static const IconifyIconData squareSortVerticalBoldDuotone = IconifyIconData.duo(
+  /// `square-sort-vertical-bold-duotone`
+  static const IconifyIconData squareSortVerticalBoldDuotone = IconifyIconData.solo(
     IconData(0xf002b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf002b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-vertical-broken`
@@ -32210,10 +31522,9 @@ class SolarIcons {
     IconData(0xf002c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-sort-vertical-line-duotone` (duo-tone)
-  static const IconifyIconData squareSortVerticalLineDuotone = IconifyIconData.duo(
+  /// `square-sort-vertical-line-duotone`
+  static const IconifyIconData squareSortVerticalLineDuotone = IconifyIconData.solo(
     IconData(0xf002d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf002d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-vertical-linear`
@@ -32231,10 +31542,9 @@ class SolarIcons {
     IconData(0xf0030, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-top-down-bold-duotone` (duo-tone)
-  static const IconifyIconData squareTopDownBoldDuotone = IconifyIconData.duo(
+  /// `square-top-down-bold-duotone`
+  static const IconifyIconData squareTopDownBoldDuotone = IconifyIconData.solo(
     IconData(0xf0031, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0031, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-down-broken`
@@ -32242,10 +31552,9 @@ class SolarIcons {
     IconData(0xf0032, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-top-down-line-duotone` (duo-tone)
-  static const IconifyIconData squareTopDownLineDuotone = IconifyIconData.duo(
+  /// `square-top-down-line-duotone`
+  static const IconifyIconData squareTopDownLineDuotone = IconifyIconData.solo(
     IconData(0xf0033, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0033, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-down-linear`
@@ -32263,10 +31572,9 @@ class SolarIcons {
     IconData(0xf0036, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-top-up-bold-duotone` (duo-tone)
-  static const IconifyIconData squareTopUpBoldDuotone = IconifyIconData.duo(
+  /// `square-top-up-bold-duotone`
+  static const IconifyIconData squareTopUpBoldDuotone = IconifyIconData.solo(
     IconData(0xf0037, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0037, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-up-broken`
@@ -32274,10 +31582,9 @@ class SolarIcons {
     IconData(0xf0038, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-top-up-line-duotone` (duo-tone)
-  static const IconifyIconData squareTopUpLineDuotone = IconifyIconData.duo(
+  /// `square-top-up-line-duotone`
+  static const IconifyIconData squareTopUpLineDuotone = IconifyIconData.solo(
     IconData(0xf0039, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0039, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-up-linear`
@@ -32295,10 +31602,9 @@ class SolarIcons {
     IconData(0xf003c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-transfer-horizontal-bold-duotone` (duo-tone)
-  static const IconifyIconData squareTransferHorizontalBoldDuotone = IconifyIconData.duo(
+  /// `square-transfer-horizontal-bold-duotone`
+  static const IconifyIconData squareTransferHorizontalBoldDuotone = IconifyIconData.solo(
     IconData(0xf003d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf003d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-horizontal-broken`
@@ -32306,10 +31612,9 @@ class SolarIcons {
     IconData(0xf003e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-transfer-horizontal-line-duotone` (duo-tone)
-  static const IconifyIconData squareTransferHorizontalLineDuotone = IconifyIconData.duo(
+  /// `square-transfer-horizontal-line-duotone`
+  static const IconifyIconData squareTransferHorizontalLineDuotone = IconifyIconData.solo(
     IconData(0xf003f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf003f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-horizontal-linear`
@@ -32327,10 +31632,9 @@ class SolarIcons {
     IconData(0xf0042, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-transfer-vertical-bold-duotone` (duo-tone)
-  static const IconifyIconData squareTransferVerticalBoldDuotone = IconifyIconData.duo(
+  /// `square-transfer-vertical-bold-duotone`
+  static const IconifyIconData squareTransferVerticalBoldDuotone = IconifyIconData.solo(
     IconData(0xf0043, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0043, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-vertical-broken`
@@ -32338,10 +31642,9 @@ class SolarIcons {
     IconData(0xf0044, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `square-transfer-vertical-line-duotone` (duo-tone)
-  static const IconifyIconData squareTransferVerticalLineDuotone = IconifyIconData.duo(
+  /// `square-transfer-vertical-line-duotone`
+  static const IconifyIconData squareTransferVerticalLineDuotone = IconifyIconData.solo(
     IconData(0xf0045, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0045, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-vertical-linear`
@@ -32471,10 +31774,9 @@ class SolarIcons {
     IconData(0xf005d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `star-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData starCircleBoldDuotone = IconifyIconData.duo(
+  /// `star-circle-bold-duotone`
+  static const IconifyIconData starCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf005e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf005e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-circle-broken`
@@ -32482,10 +31784,9 @@ class SolarIcons {
     IconData(0xf005f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `star-circle-line-duotone` (duo-tone)
-  static const IconifyIconData starCircleLineDuotone = IconifyIconData.duo(
+  /// `star-circle-line-duotone`
+  static const IconifyIconData starCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf0060, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0060, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-circle-linear`
@@ -32753,10 +32054,9 @@ class SolarIcons {
     IconData(0xf0092, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `star-shine-line-duotone` (duo-tone)
-  static const IconifyIconData starShineLineDuotone = IconifyIconData.duo(
+  /// `star-shine-line-duotone`
+  static const IconifyIconData starShineLineDuotone = IconifyIconData.solo(
     IconData(0xf0093, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0093, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-shine-linear`
@@ -32998,10 +32298,9 @@ class SolarIcons {
     IconData(0xf00c0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sticker-smile-circle-2-bold-duotone` (duo-tone)
-  static const IconifyIconData stickerSmileCircle2BoldDuotone = IconifyIconData.duo(
+  /// `sticker-smile-circle-2-bold-duotone`
+  static const IconifyIconData stickerSmileCircle2BoldDuotone = IconifyIconData.solo(
     IconData(0xf00c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf00c1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-2-broken`
@@ -33041,10 +32340,9 @@ class SolarIcons {
     IconData(0xf00c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sticker-smile-circle-line-duotone` (duo-tone)
-  static const IconifyIconData stickerSmileCircleLineDuotone = IconifyIconData.duo(
+  /// `sticker-smile-circle-line-duotone`
+  static const IconifyIconData stickerSmileCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf00c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf00c9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-linear`
@@ -33142,10 +32440,9 @@ class SolarIcons {
     IconData(0xf00db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `stop-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData stopCircleBoldDuotone = IconifyIconData.duo(
+  /// `stop-circle-bold-duotone`
+  static const IconifyIconData stopCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf00dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf00dc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-circle-broken`
@@ -33153,10 +32450,9 @@ class SolarIcons {
     IconData(0xf00dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `stop-circle-line-duotone` (duo-tone)
-  static const IconifyIconData stopCircleLineDuotone = IconifyIconData.duo(
+  /// `stop-circle-line-duotone`
+  static const IconifyIconData stopCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf00de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf00de, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-circle-linear`
@@ -33200,10 +32496,9 @@ class SolarIcons {
     IconData(0xf00e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `stopwatch-line-duotone` (duo-tone)
-  static const IconifyIconData stopwatchLineDuotone = IconifyIconData.duo(
+  /// `stopwatch-line-duotone`
+  static const IconifyIconData stopwatchLineDuotone = IconifyIconData.solo(
     IconData(0xf00e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf00e7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-linear`
@@ -33221,10 +32516,9 @@ class SolarIcons {
     IconData(0xf00ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `stopwatch-pause-bold-duotone` (duo-tone)
-  static const IconifyIconData stopwatchPauseBoldDuotone = IconifyIconData.duo(
+  /// `stopwatch-pause-bold-duotone`
+  static const IconifyIconData stopwatchPauseBoldDuotone = IconifyIconData.solo(
     IconData(0xf00eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf00eb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-pause-broken`
@@ -33232,10 +32526,9 @@ class SolarIcons {
     IconData(0xf00ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `stopwatch-pause-line-duotone` (duo-tone)
-  static const IconifyIconData stopwatchPauseLineDuotone = IconifyIconData.duo(
+  /// `stopwatch-pause-line-duotone`
+  static const IconifyIconData stopwatchPauseLineDuotone = IconifyIconData.solo(
     IconData(0xf00ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf00ed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-pause-linear`
@@ -33253,10 +32546,9 @@ class SolarIcons {
     IconData(0xf00f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `stopwatch-play-bold-duotone` (duo-tone)
-  static const IconifyIconData stopwatchPlayBoldDuotone = IconifyIconData.duo(
+  /// `stopwatch-play-bold-duotone`
+  static const IconifyIconData stopwatchPlayBoldDuotone = IconifyIconData.solo(
     IconData(0xf00f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf00f1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-play-broken`
@@ -33264,10 +32556,9 @@ class SolarIcons {
     IconData(0xf00f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `stopwatch-play-line-duotone` (duo-tone)
-  static const IconifyIconData stopwatchPlayLineDuotone = IconifyIconData.duo(
+  /// `stopwatch-play-line-duotone`
+  static const IconifyIconData stopwatchPlayLineDuotone = IconifyIconData.solo(
     IconData(0xf00f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf00f3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-play-linear`
@@ -33509,10 +32800,9 @@ class SolarIcons {
     IconData(0xf0120, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `subtitles-bold-duotone` (duo-tone)
-  static const IconifyIconData subtitlesBoldDuotone = IconifyIconData.duo(
+  /// `subtitles-bold-duotone`
+  static const IconifyIconData subtitlesBoldDuotone = IconifyIconData.solo(
     IconData(0xf0121, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0121, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `subtitles-broken`
@@ -33520,10 +32810,9 @@ class SolarIcons {
     IconData(0xf0122, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `subtitles-line-duotone` (duo-tone)
-  static const IconifyIconData subtitlesLineDuotone = IconifyIconData.duo(
+  /// `subtitles-line-duotone`
+  static const IconifyIconData subtitlesLineDuotone = IconifyIconData.solo(
     IconData(0xf0123, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0123, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `subtitles-linear`
@@ -33568,10 +32857,9 @@ class SolarIcons {
     IconData(0xf012b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `suitcase-lines-bold-duotone` (duo-tone)
-  static const IconifyIconData suitcaseLinesBoldDuotone = IconifyIconData.duo(
+  /// `suitcase-lines-bold-duotone`
+  static const IconifyIconData suitcaseLinesBoldDuotone = IconifyIconData.solo(
     IconData(0xf012c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf012c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-lines-broken`
@@ -33605,10 +32893,9 @@ class SolarIcons {
     IconData(0xf0132, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `suitcase-tag-bold-duotone` (duo-tone)
-  static const IconifyIconData suitcaseTagBoldDuotone = IconifyIconData.duo(
+  /// `suitcase-tag-bold-duotone`
+  static const IconifyIconData suitcaseTagBoldDuotone = IconifyIconData.solo(
     IconData(0xf0133, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0133, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-tag-broken`
@@ -33744,10 +33031,9 @@ class SolarIcons {
     IconData(0xf014c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sunrise-line-duotone` (duo-tone)
-  static const IconifyIconData sunriseLineDuotone = IconifyIconData.duo(
+  /// `sunrise-line-duotone`
+  static const IconifyIconData sunriseLineDuotone = IconifyIconData.solo(
     IconData(0xf014d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf014d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunrise-linear`
@@ -33776,10 +33062,9 @@ class SolarIcons {
     IconData(0xf0152, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `sunset-line-duotone` (duo-tone)
-  static const IconifyIconData sunsetLineDuotone = IconifyIconData.duo(
+  /// `sunset-line-duotone`
+  static const IconifyIconData sunsetLineDuotone = IconifyIconData.solo(
     IconData(0xf0153, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0153, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunset-linear`
@@ -34115,10 +33400,9 @@ class SolarIcons {
     IconData(0xf0192, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `target-bold-duotone` (duo-tone)
-  static const IconifyIconData targetBoldDuotone = IconifyIconData.duo(
+  /// `target-bold-duotone`
+  static const IconifyIconData targetBoldDuotone = IconifyIconData.solo(
     IconData(0xf0193, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0193, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `target-broken`
@@ -34392,10 +33676,9 @@ class SolarIcons {
     IconData(0xf01c6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-bold-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData textBoldCircleBoldDuotone = IconifyIconData.duo(
+  /// `text-bold-circle-bold-duotone`
+  static const IconifyIconData textBoldCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf01c7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01c7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-circle-broken`
@@ -34403,10 +33686,9 @@ class SolarIcons {
     IconData(0xf01c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-bold-circle-line-duotone` (duo-tone)
-  static const IconifyIconData textBoldCircleLineDuotone = IconifyIconData.duo(
+  /// `text-bold-circle-line-duotone`
+  static const IconifyIconData textBoldCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf01c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01c9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-circle-linear`
@@ -34446,10 +33728,9 @@ class SolarIcons {
     IconData(0xf01d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-bold-square-bold-duotone` (duo-tone)
-  static const IconifyIconData textBoldSquareBoldDuotone = IconifyIconData.duo(
+  /// `text-bold-square-bold-duotone`
+  static const IconifyIconData textBoldSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf01d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01d1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-square-broken`
@@ -34457,10 +33738,9 @@ class SolarIcons {
     IconData(0xf01d2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-bold-square-line-duotone` (duo-tone)
-  static const IconifyIconData textBoldSquareLineDuotone = IconifyIconData.duo(
+  /// `text-bold-square-line-duotone`
+  static const IconifyIconData textBoldSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf01d3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01d3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-square-linear`
@@ -34483,10 +33763,9 @@ class SolarIcons {
     IconData(0xf01d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData textCircleBoldDuotone = IconifyIconData.duo(
+  /// `text-circle-bold-duotone`
+  static const IconifyIconData textCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf01d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01d8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-circle-broken`
@@ -34494,10 +33773,9 @@ class SolarIcons {
     IconData(0xf01d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-circle-line-duotone` (duo-tone)
-  static const IconifyIconData textCircleLineDuotone = IconifyIconData.duo(
+  /// `text-circle-line-duotone`
+  static const IconifyIconData textCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf01da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01da, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-circle-linear`
@@ -34531,10 +33809,9 @@ class SolarIcons {
     IconData(0xf01e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-cross-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData textCrossCircleBoldDuotone = IconifyIconData.duo(
+  /// `text-cross-circle-bold-duotone`
+  static const IconifyIconData textCrossCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf01e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01e1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-circle-broken`
@@ -34542,10 +33819,9 @@ class SolarIcons {
     IconData(0xf01e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-cross-circle-line-duotone` (duo-tone)
-  static const IconifyIconData textCrossCircleLineDuotone = IconifyIconData.duo(
+  /// `text-cross-circle-line-duotone`
+  static const IconifyIconData textCrossCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf01e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-circle-linear`
@@ -34579,10 +33855,9 @@ class SolarIcons {
     IconData(0xf01e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-cross-square-bold-duotone` (duo-tone)
-  static const IconifyIconData textCrossSquareBoldDuotone = IconifyIconData.duo(
+  /// `text-cross-square-bold-duotone`
+  static const IconifyIconData textCrossSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf01ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01ea, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-square-broken`
@@ -34590,10 +33865,9 @@ class SolarIcons {
     IconData(0xf01eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-cross-square-line-duotone` (duo-tone)
-  static const IconifyIconData textCrossSquareLineDuotone = IconifyIconData.duo(
+  /// `text-cross-square-line-duotone`
+  static const IconifyIconData textCrossSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf01ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01ec, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-square-linear`
@@ -34611,10 +33885,9 @@ class SolarIcons {
     IconData(0xf01ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-field-bold-duotone` (duo-tone)
-  static const IconifyIconData textFieldBoldDuotone = IconifyIconData.duo(
+  /// `text-field-bold-duotone`
+  static const IconifyIconData textFieldBoldDuotone = IconifyIconData.solo(
     IconData(0xf01f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01f0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-broken`
@@ -34627,10 +33900,9 @@ class SolarIcons {
     IconData(0xf01f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-field-focus-bold-duotone` (duo-tone)
-  static const IconifyIconData textFieldFocusBoldDuotone = IconifyIconData.duo(
+  /// `text-field-focus-bold-duotone`
+  static const IconifyIconData textFieldFocusBoldDuotone = IconifyIconData.solo(
     IconData(0xf01f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01f3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-focus-broken`
@@ -34654,10 +33926,9 @@ class SolarIcons {
     IconData(0xf01f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-field-line-duotone` (duo-tone)
-  static const IconifyIconData textFieldLineDuotone = IconifyIconData.duo(
+  /// `text-field-line-duotone`
+  static const IconifyIconData textFieldLineDuotone = IconifyIconData.solo(
     IconData(0xf01f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01f8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-linear`
@@ -34691,10 +33962,9 @@ class SolarIcons {
     IconData(0xf01fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-italic-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData textItalicCircleBoldDuotone = IconifyIconData.duo(
+  /// `text-italic-circle-bold-duotone`
+  static const IconifyIconData textItalicCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf01ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf01ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-circle-broken`
@@ -34702,10 +33972,9 @@ class SolarIcons {
     IconData(0xf0200, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-italic-circle-line-duotone` (duo-tone)
-  static const IconifyIconData textItalicCircleLineDuotone = IconifyIconData.duo(
+  /// `text-italic-circle-line-duotone`
+  static const IconifyIconData textItalicCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf0201, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0201, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-circle-linear`
@@ -34739,10 +34008,9 @@ class SolarIcons {
     IconData(0xf0207, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-italic-square-bold-duotone` (duo-tone)
-  static const IconifyIconData textItalicSquareBoldDuotone = IconifyIconData.duo(
+  /// `text-italic-square-bold-duotone`
+  static const IconifyIconData textItalicSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf0208, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0208, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-square-broken`
@@ -34750,10 +34018,9 @@ class SolarIcons {
     IconData(0xf0209, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-italic-square-line-duotone` (duo-tone)
-  static const IconifyIconData textItalicSquareLineDuotone = IconifyIconData.duo(
+  /// `text-italic-square-line-duotone`
+  static const IconifyIconData textItalicSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf020a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf020a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-square-linear`
@@ -34819,10 +34086,9 @@ class SolarIcons {
     IconData(0xf0216, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-square-2-bold-duotone` (duo-tone)
-  static const IconifyIconData textSquare2BoldDuotone = IconifyIconData.duo(
+  /// `text-square-2-bold-duotone`
+  static const IconifyIconData textSquare2BoldDuotone = IconifyIconData.solo(
     IconData(0xf0217, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0217, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-2-broken`
@@ -34851,10 +34117,9 @@ class SolarIcons {
     IconData(0xf021c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-square-bold-duotone` (duo-tone)
-  static const IconifyIconData textSquareBoldDuotone = IconifyIconData.duo(
+  /// `text-square-bold-duotone`
+  static const IconifyIconData textSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf021d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf021d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-broken`
@@ -34862,10 +34127,9 @@ class SolarIcons {
     IconData(0xf021e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-square-line-duotone` (duo-tone)
-  static const IconifyIconData textSquareLineDuotone = IconifyIconData.duo(
+  /// `text-square-line-duotone`
+  static const IconifyIconData textSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf021f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf021f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-linear`
@@ -34899,10 +34163,9 @@ class SolarIcons {
     IconData(0xf0225, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-underline-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData textUnderlineCircleBoldDuotone = IconifyIconData.duo(
+  /// `text-underline-circle-bold-duotone`
+  static const IconifyIconData textUnderlineCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf0226, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0226, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-circle-broken`
@@ -34910,10 +34173,9 @@ class SolarIcons {
     IconData(0xf0227, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-underline-circle-line-duotone` (duo-tone)
-  static const IconifyIconData textUnderlineCircleLineDuotone = IconifyIconData.duo(
+  /// `text-underline-circle-line-duotone`
+  static const IconifyIconData textUnderlineCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf0228, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0228, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-circle-linear`
@@ -34931,10 +34193,9 @@ class SolarIcons {
     IconData(0xf022b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-underline-cross-bold-duotone` (duo-tone)
-  static const IconifyIconData textUnderlineCrossBoldDuotone = IconifyIconData.duo(
+  /// `text-underline-cross-bold-duotone`
+  static const IconifyIconData textUnderlineCrossBoldDuotone = IconifyIconData.solo(
     IconData(0xf022c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf022c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-cross-broken`
@@ -34942,10 +34203,9 @@ class SolarIcons {
     IconData(0xf022d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `text-underline-cross-line-duotone` (duo-tone)
-  static const IconifyIconData textUnderlineCrossLineDuotone = IconifyIconData.duo(
+  /// `text-underline-cross-line-duotone`
+  static const IconifyIconData textUnderlineCrossLineDuotone = IconifyIconData.solo(
     IconData(0xf022e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf022e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-cross-linear`
@@ -35139,10 +34399,9 @@ class SolarIcons {
     IconData(0xf0252, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `to-pip-bold-duotone` (duo-tone)
-  static const IconifyIconData toPipBoldDuotone = IconifyIconData.duo(
+  /// `to-pip-bold-duotone`
+  static const IconifyIconData toPipBoldDuotone = IconifyIconData.solo(
     IconData(0xf0253, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0253, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `to-pip-broken`
@@ -35150,10 +34409,9 @@ class SolarIcons {
     IconData(0xf0254, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `to-pip-line-duotone` (duo-tone)
-  static const IconifyIconData toPipLineDuotone = IconifyIconData.duo(
+  /// `to-pip-line-duotone`
+  static const IconifyIconData toPipLineDuotone = IconifyIconData.solo(
     IconData(0xf0255, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0255, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `to-pip-linear`
@@ -35235,10 +34493,9 @@ class SolarIcons {
     IconData(0xf0264, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `traffic-bold-duotone` (duo-tone)
-  static const IconifyIconData trafficBoldDuotone = IconifyIconData.duo(
+  /// `traffic-bold-duotone`
+  static const IconifyIconData trafficBoldDuotone = IconifyIconData.solo(
     IconData(0xf0265, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0265, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-broken`
@@ -35251,10 +34508,9 @@ class SolarIcons {
     IconData(0xf0267, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `traffic-economy-bold-duotone` (duo-tone)
-  static const IconifyIconData trafficEconomyBoldDuotone = IconifyIconData.duo(
+  /// `traffic-economy-bold-duotone`
+  static const IconifyIconData trafficEconomyBoldDuotone = IconifyIconData.solo(
     IconData(0xf0268, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0268, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-economy-broken`
@@ -35278,10 +34534,9 @@ class SolarIcons {
     IconData(0xf026c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `traffic-line-duotone` (duo-tone)
-  static const IconifyIconData trafficLineDuotone = IconifyIconData.duo(
+  /// `traffic-line-duotone`
+  static const IconifyIconData trafficLineDuotone = IconifyIconData.solo(
     IconData(0xf026d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf026d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-linear`
@@ -35438,10 +34693,9 @@ class SolarIcons {
     IconData(0xf028a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `translation-line-duotone` (duo-tone)
-  static const IconifyIconData translationLineDuotone = IconifyIconData.duo(
+  /// `translation-line-duotone`
+  static const IconifyIconData translationLineDuotone = IconifyIconData.solo(
     IconData(0xf028b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf028b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-linear`
@@ -35475,10 +34729,9 @@ class SolarIcons {
     IconData(0xf0291, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `transmission-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData transmissionCircleBoldDuotone = IconifyIconData.duo(
+  /// `transmission-circle-bold-duotone`
+  static const IconifyIconData transmissionCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf0292, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0292, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-circle-broken`
@@ -35486,10 +34739,9 @@ class SolarIcons {
     IconData(0xf0293, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `transmission-circle-line-duotone` (duo-tone)
-  static const IconifyIconData transmissionCircleLineDuotone = IconifyIconData.duo(
+  /// `transmission-circle-line-duotone`
+  static const IconifyIconData transmissionCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf0294, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0294, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-circle-linear`
@@ -35523,10 +34775,9 @@ class SolarIcons {
     IconData(0xf029a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `transmission-square-bold-duotone` (duo-tone)
-  static const IconifyIconData transmissionSquareBoldDuotone = IconifyIconData.duo(
+  /// `transmission-square-bold-duotone`
+  static const IconifyIconData transmissionSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf029b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf029b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-square-broken`
@@ -35587,10 +34838,9 @@ class SolarIcons {
     IconData(0xf02a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `trash-bin-minimalistic-2-bold-duotone` (duo-tone)
-  static const IconifyIconData trashBinMinimalistic2BoldDuotone = IconifyIconData.duo(
+  /// `trash-bin-minimalistic-2-bold-duotone`
+  static const IconifyIconData trashBinMinimalistic2BoldDuotone = IconifyIconData.solo(
     IconData(0xf02a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf02a7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-2-broken`
@@ -35651,10 +34901,9 @@ class SolarIcons {
     IconData(0xf02b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `trash-bin-trash-bold-duotone` (duo-tone)
-  static const IconifyIconData trashBinTrashBoldDuotone = IconifyIconData.duo(
+  /// `trash-bin-trash-bold-duotone`
+  static const IconifyIconData trashBinTrashBoldDuotone = IconifyIconData.solo(
     IconData(0xf02b3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf02b3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-trash-broken`
@@ -35907,10 +35156,9 @@ class SolarIcons {
     IconData(0xf02e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `tuning-square-2-bold-duotone` (duo-tone)
-  static const IconifyIconData tuningSquare2BoldDuotone = IconifyIconData.duo(
+  /// `tuning-square-2-bold-duotone`
+  static const IconifyIconData tuningSquare2BoldDuotone = IconifyIconData.solo(
     IconData(0xf02e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf02e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-2-broken`
@@ -35918,10 +35166,9 @@ class SolarIcons {
     IconData(0xf02e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `tuning-square-2-line-duotone` (duo-tone)
-  static const IconifyIconData tuningSquare2LineDuotone = IconifyIconData.duo(
+  /// `tuning-square-2-line-duotone`
+  static const IconifyIconData tuningSquare2LineDuotone = IconifyIconData.solo(
     IconData(0xf02e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf02e5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-2-linear`
@@ -35939,10 +35186,9 @@ class SolarIcons {
     IconData(0xf02e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `tuning-square-bold-duotone` (duo-tone)
-  static const IconifyIconData tuningSquareBoldDuotone = IconifyIconData.duo(
+  /// `tuning-square-bold-duotone`
+  static const IconifyIconData tuningSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf02e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf02e9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-broken`
@@ -35950,10 +35196,9 @@ class SolarIcons {
     IconData(0xf02ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `tuning-square-line-duotone` (duo-tone)
-  static const IconifyIconData tuningSquareLineDuotone = IconifyIconData.duo(
+  /// `tuning-square-line-duotone`
+  static const IconifyIconData tuningSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf02eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf02eb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-linear`
@@ -36288,10 +35533,9 @@ class SolarIcons {
     IconData(0xf032a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `undo-left-round-square-bold-duotone` (duo-tone)
-  static const IconifyIconData undoLeftRoundSquareBoldDuotone = IconifyIconData.duo(
+  /// `undo-left-round-square-bold-duotone`
+  static const IconifyIconData undoLeftRoundSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf032b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf032b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-square-broken`
@@ -36299,10 +35543,9 @@ class SolarIcons {
     IconData(0xf032c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `undo-left-round-square-line-duotone` (duo-tone)
-  static const IconifyIconData undoLeftRoundSquareLineDuotone = IconifyIconData.duo(
+  /// `undo-left-round-square-line-duotone`
+  static const IconifyIconData undoLeftRoundSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf032d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf032d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-square-linear`
@@ -36320,10 +35563,9 @@ class SolarIcons {
     IconData(0xf0330, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `undo-left-square-bold-duotone` (duo-tone)
-  static const IconifyIconData undoLeftSquareBoldDuotone = IconifyIconData.duo(
+  /// `undo-left-square-bold-duotone`
+  static const IconifyIconData undoLeftSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf0331, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0331, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-square-broken`
@@ -36331,10 +35573,9 @@ class SolarIcons {
     IconData(0xf0332, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `undo-left-square-line-duotone` (duo-tone)
-  static const IconifyIconData undoLeftSquareLineDuotone = IconifyIconData.duo(
+  /// `undo-left-square-line-duotone`
+  static const IconifyIconData undoLeftSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf0333, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0333, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-square-linear`
@@ -36416,10 +35657,9 @@ class SolarIcons {
     IconData(0xf0342, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `undo-right-round-square-bold-duotone` (duo-tone)
-  static const IconifyIconData undoRightRoundSquareBoldDuotone = IconifyIconData.duo(
+  /// `undo-right-round-square-bold-duotone`
+  static const IconifyIconData undoRightRoundSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf0343, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0343, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-square-broken`
@@ -36427,10 +35667,9 @@ class SolarIcons {
     IconData(0xf0344, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `undo-right-round-square-line-duotone` (duo-tone)
-  static const IconifyIconData undoRightRoundSquareLineDuotone = IconifyIconData.duo(
+  /// `undo-right-round-square-line-duotone`
+  static const IconifyIconData undoRightRoundSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf0345, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0345, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-square-linear`
@@ -36448,10 +35687,9 @@ class SolarIcons {
     IconData(0xf0348, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `undo-right-square-bold-duotone` (duo-tone)
-  static const IconifyIconData undoRightSquareBoldDuotone = IconifyIconData.duo(
+  /// `undo-right-square-bold-duotone`
+  static const IconifyIconData undoRightSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf0349, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0349, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-square-broken`
@@ -36459,10 +35697,9 @@ class SolarIcons {
     IconData(0xf034a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `undo-right-square-line-duotone` (duo-tone)
-  static const IconifyIconData undoRightSquareLineDuotone = IconifyIconData.duo(
+  /// `undo-right-square-line-duotone`
+  static const IconifyIconData undoRightSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf034b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf034b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-square-linear`
@@ -36480,10 +35717,9 @@ class SolarIcons {
     IconData(0xf034e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `unread-bold-duotone` (duo-tone)
-  static const IconifyIconData unreadBoldDuotone = IconifyIconData.duo(
+  /// `unread-bold-duotone`
+  static const IconifyIconData unreadBoldDuotone = IconifyIconData.solo(
     IconData(0xf034f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf034f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `unread-broken`
@@ -36522,10 +35758,9 @@ class SolarIcons {
     IconData(0xf0356, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `upload-line-duotone` (duo-tone)
-  static const IconifyIconData uploadLineDuotone = IconifyIconData.duo(
+  /// `upload-line-duotone`
+  static const IconifyIconData uploadLineDuotone = IconifyIconData.solo(
     IconData(0xf0357, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0357, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-linear`
@@ -36538,10 +35773,9 @@ class SolarIcons {
     IconData(0xf0359, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `upload-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData uploadMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `upload-minimalistic-bold-duotone`
+  static const IconifyIconData uploadMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf035a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf035a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-minimalistic-broken`
@@ -36549,10 +35783,9 @@ class SolarIcons {
     IconData(0xf035b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `upload-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData uploadMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `upload-minimalistic-line-duotone`
+  static const IconifyIconData uploadMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf035c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf035c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-minimalistic-linear`
@@ -36575,10 +35808,9 @@ class SolarIcons {
     IconData(0xf0360, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `upload-square-bold-duotone` (duo-tone)
-  static const IconifyIconData uploadSquareBoldDuotone = IconifyIconData.duo(
+  /// `upload-square-bold-duotone`
+  static const IconifyIconData uploadSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf0361, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0361, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-square-broken`
@@ -36586,10 +35818,9 @@ class SolarIcons {
     IconData(0xf0362, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `upload-square-line-duotone` (duo-tone)
-  static const IconifyIconData uploadSquareLineDuotone = IconifyIconData.duo(
+  /// `upload-square-line-duotone`
+  static const IconifyIconData uploadSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf0363, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0363, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-square-linear`
@@ -36618,10 +35849,9 @@ class SolarIcons {
     IconData(0xf0368, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `upload-track-2-line-duotone` (duo-tone)
-  static const IconifyIconData uploadTrack2LineDuotone = IconifyIconData.duo(
+  /// `upload-track-2-line-duotone`
+  static const IconifyIconData uploadTrack2LineDuotone = IconifyIconData.solo(
     IconData(0xf0369, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0369, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-2-linear`
@@ -36650,10 +35880,9 @@ class SolarIcons {
     IconData(0xf036e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `upload-track-line-duotone` (duo-tone)
-  static const IconifyIconData uploadTrackLineDuotone = IconifyIconData.duo(
+  /// `upload-track-line-duotone`
+  static const IconifyIconData uploadTrackLineDuotone = IconifyIconData.solo(
     IconData(0xf036f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf036f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-linear`
@@ -36671,10 +35900,9 @@ class SolarIcons {
     IconData(0xf0372, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `upload-twice-square-bold-duotone` (duo-tone)
-  static const IconifyIconData uploadTwiceSquareBoldDuotone = IconifyIconData.duo(
+  /// `upload-twice-square-bold-duotone`
+  static const IconifyIconData uploadTwiceSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf0373, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0373, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-twice-square-broken`
@@ -36682,10 +35910,9 @@ class SolarIcons {
     IconData(0xf0374, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `upload-twice-square-line-duotone` (duo-tone)
-  static const IconifyIconData uploadTwiceSquareLineDuotone = IconifyIconData.duo(
+  /// `upload-twice-square-line-duotone`
+  static const IconifyIconData uploadTwiceSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf0375, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0375, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-twice-square-linear`
@@ -36719,10 +35946,9 @@ class SolarIcons {
     IconData(0xf037b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `usb-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData usbCircleBoldDuotone = IconifyIconData.duo(
+  /// `usb-circle-bold-duotone`
+  static const IconifyIconData usbCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf037c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf037c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-circle-broken`
@@ -36730,10 +35956,9 @@ class SolarIcons {
     IconData(0xf037d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `usb-circle-line-duotone` (duo-tone)
-  static const IconifyIconData usbCircleLineDuotone = IconifyIconData.duo(
+  /// `usb-circle-line-duotone`
+  static const IconifyIconData usbCircleLineDuotone = IconifyIconData.solo(
     IconData(0xf037e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf037e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-circle-linear`
@@ -36767,10 +35992,9 @@ class SolarIcons {
     IconData(0xf0384, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `usb-square-bold-duotone` (duo-tone)
-  static const IconifyIconData usbSquareBoldDuotone = IconifyIconData.duo(
+  /// `usb-square-bold-duotone`
+  static const IconifyIconData usbSquareBoldDuotone = IconifyIconData.solo(
     IconData(0xf0385, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0385, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-square-broken`
@@ -36778,10 +36002,9 @@ class SolarIcons {
     IconData(0xf0386, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `usb-square-line-duotone` (duo-tone)
-  static const IconifyIconData usbSquareLineDuotone = IconifyIconData.duo(
+  /// `usb-square-line-duotone`
+  static const IconifyIconData usbSquareLineDuotone = IconifyIconData.solo(
     IconData(0xf0387, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0387, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-square-linear`
@@ -36890,10 +36113,9 @@ class SolarIcons {
     IconData(0xf039b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-check-line-duotone` (duo-tone)
-  static const IconifyIconData userCheckLineDuotone = IconifyIconData.duo(
+  /// `user-check-line-duotone`
+  static const IconifyIconData userCheckLineDuotone = IconifyIconData.solo(
     IconData(0xf039c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf039c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-linear`
@@ -36922,10 +36144,9 @@ class SolarIcons {
     IconData(0xf03a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-check-rounded-line-duotone` (duo-tone)
-  static const IconifyIconData userCheckRoundedLineDuotone = IconifyIconData.duo(
+  /// `user-check-rounded-line-duotone`
+  static const IconifyIconData userCheckRoundedLineDuotone = IconifyIconData.solo(
     IconData(0xf03a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03a2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-rounded-linear`
@@ -36943,10 +36164,9 @@ class SolarIcons {
     IconData(0xf03a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-circle-bold-duotone` (duo-tone)
-  static const IconifyIconData userCircleBoldDuotone = IconifyIconData.duo(
+  /// `user-circle-bold-duotone`
+  static const IconifyIconData userCircleBoldDuotone = IconifyIconData.solo(
     IconData(0xf03a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03a6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-circle-broken`
@@ -36975,10 +36195,9 @@ class SolarIcons {
     IconData(0xf03ab, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-cross-bold-duotone` (duo-tone)
-  static const IconifyIconData userCrossBoldDuotone = IconifyIconData.duo(
+  /// `user-cross-bold-duotone`
+  static const IconifyIconData userCrossBoldDuotone = IconifyIconData.solo(
     IconData(0xf03ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03ac, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-broken`
@@ -36986,10 +36205,9 @@ class SolarIcons {
     IconData(0xf03ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-cross-line-duotone` (duo-tone)
-  static const IconifyIconData userCrossLineDuotone = IconifyIconData.duo(
+  /// `user-cross-line-duotone`
+  static const IconifyIconData userCrossLineDuotone = IconifyIconData.solo(
     IconData(0xf03ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03ae, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-linear`
@@ -37007,10 +36225,9 @@ class SolarIcons {
     IconData(0xf03b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-cross-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData userCrossRoundedBoldDuotone = IconifyIconData.duo(
+  /// `user-cross-rounded-bold-duotone`
+  static const IconifyIconData userCrossRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xf03b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03b2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-rounded-broken`
@@ -37018,10 +36235,9 @@ class SolarIcons {
     IconData(0xf03b3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-cross-rounded-line-duotone` (duo-tone)
-  static const IconifyIconData userCrossRoundedLineDuotone = IconifyIconData.duo(
+  /// `user-cross-rounded-line-duotone`
+  static const IconifyIconData userCrossRoundedLineDuotone = IconifyIconData.solo(
     IconData(0xf03b4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03b4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-rounded-linear`
@@ -37071,10 +36287,9 @@ class SolarIcons {
     IconData(0xf03bd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-hands-bold-duotone` (duo-tone)
-  static const IconifyIconData userHandsBoldDuotone = IconifyIconData.duo(
+  /// `user-hands-bold-duotone`
+  static const IconifyIconData userHandsBoldDuotone = IconifyIconData.solo(
     IconData(0xf03be, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03be, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hands-broken`
@@ -37135,10 +36350,9 @@ class SolarIcons {
     IconData(0xf03c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-heart-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData userHeartRoundedBoldDuotone = IconifyIconData.duo(
+  /// `user-heart-rounded-bold-duotone`
+  static const IconifyIconData userHeartRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xf03ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03ca, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-rounded-broken`
@@ -37167,10 +36381,9 @@ class SolarIcons {
     IconData(0xf03cf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-id-bold-duotone` (duo-tone)
-  static const IconifyIconData userIdBoldDuotone = IconifyIconData.duo(
+  /// `user-id-bold-duotone`
+  static const IconifyIconData userIdBoldDuotone = IconifyIconData.solo(
     IconData(0xf03d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03d0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-id-broken`
@@ -37210,10 +36423,9 @@ class SolarIcons {
     IconData(0xf03d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-minus-bold-duotone` (duo-tone)
-  static const IconifyIconData userMinusBoldDuotone = IconifyIconData.duo(
+  /// `user-minus-bold-duotone`
+  static const IconifyIconData userMinusBoldDuotone = IconifyIconData.solo(
     IconData(0xf03d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03d8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-broken`
@@ -37221,10 +36433,9 @@ class SolarIcons {
     IconData(0xf03d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-minus-line-duotone` (duo-tone)
-  static const IconifyIconData userMinusLineDuotone = IconifyIconData.duo(
+  /// `user-minus-line-duotone`
+  static const IconifyIconData userMinusLineDuotone = IconifyIconData.solo(
     IconData(0xf03da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03da, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-linear`
@@ -37242,10 +36453,9 @@ class SolarIcons {
     IconData(0xf03dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-minus-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData userMinusRoundedBoldDuotone = IconifyIconData.duo(
+  /// `user-minus-rounded-bold-duotone`
+  static const IconifyIconData userMinusRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xf03de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03de, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-rounded-broken`
@@ -37253,10 +36463,9 @@ class SolarIcons {
     IconData(0xf03df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-minus-rounded-line-duotone` (duo-tone)
-  static const IconifyIconData userMinusRoundedLineDuotone = IconifyIconData.duo(
+  /// `user-minus-rounded-line-duotone`
+  static const IconifyIconData userMinusRoundedLineDuotone = IconifyIconData.solo(
     IconData(0xf03e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03e0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-rounded-linear`
@@ -37279,10 +36488,9 @@ class SolarIcons {
     IconData(0xf03e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-plus-bold-duotone` (duo-tone)
-  static const IconifyIconData userPlusBoldDuotone = IconifyIconData.duo(
+  /// `user-plus-bold-duotone`
+  static const IconifyIconData userPlusBoldDuotone = IconifyIconData.solo(
     IconData(0xf03e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03e5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-broken`
@@ -37290,10 +36498,9 @@ class SolarIcons {
     IconData(0xf03e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-plus-line-duotone` (duo-tone)
-  static const IconifyIconData userPlusLineDuotone = IconifyIconData.duo(
+  /// `user-plus-line-duotone`
+  static const IconifyIconData userPlusLineDuotone = IconifyIconData.solo(
     IconData(0xf03e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03e7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-linear`
@@ -37311,10 +36518,9 @@ class SolarIcons {
     IconData(0xf03ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-plus-rounded-bold-duotone` (duo-tone)
-  static const IconifyIconData userPlusRoundedBoldDuotone = IconifyIconData.duo(
+  /// `user-plus-rounded-bold-duotone`
+  static const IconifyIconData userPlusRoundedBoldDuotone = IconifyIconData.solo(
     IconData(0xf03eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03eb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-rounded-broken`
@@ -37322,10 +36528,9 @@ class SolarIcons {
     IconData(0xf03ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-plus-rounded-line-duotone` (duo-tone)
-  static const IconifyIconData userPlusRoundedLineDuotone = IconifyIconData.duo(
+  /// `user-plus-rounded-line-duotone`
+  static const IconifyIconData userPlusRoundedLineDuotone = IconifyIconData.solo(
     IconData(0xf03ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03ed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-rounded-linear`
@@ -37386,10 +36591,9 @@ class SolarIcons {
     IconData(0xf03f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `user-speak-line-duotone` (duo-tone)
-  static const IconifyIconData userSpeakLineDuotone = IconifyIconData.duo(
+  /// `user-speak-line-duotone`
+  static const IconifyIconData userSpeakLineDuotone = IconifyIconData.solo(
     IconData(0xf03f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf03f9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-linear`
@@ -37503,10 +36707,9 @@ class SolarIcons {
     IconData(0xf040e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `verified-check-bold-duotone` (duo-tone)
-  static const IconifyIconData verifiedCheckBoldDuotone = IconifyIconData.duo(
+  /// `verified-check-bold-duotone`
+  static const IconifyIconData verifiedCheckBoldDuotone = IconifyIconData.solo(
     IconData(0xf040f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf040f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `verified-check-broken`
@@ -37514,10 +36717,9 @@ class SolarIcons {
     IconData(0xf0410, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `verified-check-line-duotone` (duo-tone)
-  static const IconifyIconData verifiedCheckLineDuotone = IconifyIconData.duo(
+  /// `verified-check-line-duotone`
+  static const IconifyIconData verifiedCheckLineDuotone = IconifyIconData.solo(
     IconData(0xf0411, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0411, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `verified-check-linear`
@@ -37663,10 +36865,9 @@ class SolarIcons {
     IconData(0xf042c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `video-frame-play-horizontal-bold-duotone` (duo-tone)
-  static const IconifyIconData videoFramePlayHorizontalBoldDuotone = IconifyIconData.duo(
+  /// `video-frame-play-horizontal-bold-duotone`
+  static const IconifyIconData videoFramePlayHorizontalBoldDuotone = IconifyIconData.solo(
     IconData(0xf042d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf042d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-horizontal-broken`
@@ -37695,10 +36896,9 @@ class SolarIcons {
     IconData(0xf0432, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `video-frame-play-vertical-bold-duotone` (duo-tone)
-  static const IconifyIconData videoFramePlayVerticalBoldDuotone = IconifyIconData.duo(
+  /// `video-frame-play-vertical-bold-duotone`
+  static const IconifyIconData videoFramePlayVerticalBoldDuotone = IconifyIconData.solo(
     IconData(0xf0433, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0433, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-vertical-broken`
@@ -37759,10 +36959,9 @@ class SolarIcons {
     IconData(0xf043e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `video-library-bold-duotone` (duo-tone)
-  static const IconifyIconData videoLibraryBoldDuotone = IconifyIconData.duo(
+  /// `video-library-bold-duotone`
+  static const IconifyIconData videoLibraryBoldDuotone = IconifyIconData.solo(
     IconData(0xf043f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf043f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-library-broken`
@@ -37770,10 +36969,9 @@ class SolarIcons {
     IconData(0xf0440, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `video-library-line-duotone` (duo-tone)
-  static const IconifyIconData videoLibraryLineDuotone = IconifyIconData.duo(
+  /// `video-library-line-duotone`
+  static const IconifyIconData videoLibraryLineDuotone = IconifyIconData.solo(
     IconData(0xf0441, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0441, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-library-linear`
@@ -37791,10 +36989,9 @@ class SolarIcons {
     IconData(0xf0444, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `videocamera-add-bold-duotone` (duo-tone)
-  static const IconifyIconData videocameraAddBoldDuotone = IconifyIconData.duo(
+  /// `videocamera-add-bold-duotone`
+  static const IconifyIconData videocameraAddBoldDuotone = IconifyIconData.solo(
     IconData(0xf0445, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0445, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-add-broken`
@@ -37823,10 +37020,9 @@ class SolarIcons {
     IconData(0xf044a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `videocamera-bold-duotone` (duo-tone)
-  static const IconifyIconData videocameraBoldDuotone = IconifyIconData.duo(
+  /// `videocamera-bold-duotone`
+  static const IconifyIconData videocameraBoldDuotone = IconifyIconData.solo(
     IconData(0xf044b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf044b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-broken`
@@ -37887,10 +37083,9 @@ class SolarIcons {
     IconData(0xf0456, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `vinyl-bold-duotone` (duo-tone)
-  static const IconifyIconData vinylBoldDuotone = IconifyIconData.duo(
+  /// `vinyl-bold-duotone`
+  static const IconifyIconData vinylBoldDuotone = IconifyIconData.solo(
     IconData(0xf0457, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0457, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-broken`
@@ -37919,10 +37114,9 @@ class SolarIcons {
     IconData(0xf045c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `vinyl-record-bold-duotone` (duo-tone)
-  static const IconifyIconData vinylRecordBoldDuotone = IconifyIconData.duo(
+  /// `vinyl-record-bold-duotone`
+  static const IconifyIconData vinylRecordBoldDuotone = IconifyIconData.solo(
     IconData(0xf045d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf045d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-record-broken`
@@ -38334,10 +37528,9 @@ class SolarIcons {
     IconData(0xf04aa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `wallet-bold-duotone` (duo-tone)
-  static const IconifyIconData walletBoldDuotone = IconifyIconData.duo(
+  /// `wallet-bold-duotone`
+  static const IconifyIconData walletBoldDuotone = IconifyIconData.solo(
     IconData(0xf04ab, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf04ab, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-broken`
@@ -38345,10 +37538,9 @@ class SolarIcons {
     IconData(0xf04ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `wallet-line-duotone` (duo-tone)
-  static const IconifyIconData walletLineDuotone = IconifyIconData.duo(
+  /// `wallet-line-duotone`
+  static const IconifyIconData walletLineDuotone = IconifyIconData.solo(
     IconData(0xf04ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf04ad, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-linear`
@@ -38457,10 +37649,9 @@ class SolarIcons {
     IconData(0xf04c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `washing-machine-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData washingMachineMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `washing-machine-minimalistic-bold-duotone`
+  static const IconifyIconData washingMachineMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf04c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf04c2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-minimalistic-broken`
@@ -38468,10 +37659,9 @@ class SolarIcons {
     IconData(0xf04c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `washing-machine-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData washingMachineMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `washing-machine-minimalistic-line-duotone`
+  static const IconifyIconData washingMachineMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf04c4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf04c4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-minimalistic-linear`
@@ -38553,10 +37743,9 @@ class SolarIcons {
     IconData(0xf04d3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `watch-square-minimalistic-bold-duotone` (duo-tone)
-  static const IconifyIconData watchSquareMinimalisticBoldDuotone = IconifyIconData.duo(
+  /// `watch-square-minimalistic-bold-duotone`
+  static const IconifyIconData watchSquareMinimalisticBoldDuotone = IconifyIconData.solo(
     IconData(0xf04d4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf04d4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-broken`
@@ -38569,10 +37758,9 @@ class SolarIcons {
     IconData(0xf04d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `watch-square-minimalistic-charge-bold-duotone` (duo-tone)
-  static const IconifyIconData watchSquareMinimalisticChargeBoldDuotone = IconifyIconData.duo(
+  /// `watch-square-minimalistic-charge-bold-duotone`
+  static const IconifyIconData watchSquareMinimalisticChargeBoldDuotone = IconifyIconData.solo(
     IconData(0xf04d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf04d7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-charge-broken`
@@ -38596,10 +37784,9 @@ class SolarIcons {
     IconData(0xf04db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `watch-square-minimalistic-line-duotone` (duo-tone)
-  static const IconifyIconData watchSquareMinimalisticLineDuotone = IconifyIconData.duo(
+  /// `watch-square-minimalistic-line-duotone`
+  static const IconifyIconData watchSquareMinimalisticLineDuotone = IconifyIconData.solo(
     IconData(0xf04dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf04dc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-linear`
@@ -38750,10 +37937,9 @@ class SolarIcons {
     IconData(0xf04f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `weigher-bold-duotone` (duo-tone)
-  static const IconifyIconData weigherBoldDuotone = IconifyIconData.duo(
+  /// `weigher-bold-duotone`
+  static const IconifyIconData weigherBoldDuotone = IconifyIconData.solo(
     IconData(0xf04f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf04f9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `weigher-broken`
@@ -38761,10 +37947,9 @@ class SolarIcons {
     IconData(0xf04fa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `weigher-line-duotone` (duo-tone)
-  static const IconifyIconData weigherLineDuotone = IconifyIconData.duo(
+  /// `weigher-line-duotone`
+  static const IconifyIconData weigherLineDuotone = IconifyIconData.solo(
     IconData(0xf04fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf04fb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `weigher-linear`
@@ -39389,10 +38574,9 @@ class SolarIcons {
     IconData(0xf0570, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `women-bold-duotone` (duo-tone)
-  static const IconifyIconData womenBoldDuotone = IconifyIconData.duo(
+  /// `women-bold-duotone`
+  static const IconifyIconData womenBoldDuotone = IconifyIconData.solo(
     IconData(0xf0571, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0571, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `women-broken`
@@ -39421,10 +38605,9 @@ class SolarIcons {
     IconData(0xf0576, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `xxx-bold-duotone` (duo-tone)
-  static const IconifyIconData xxxBoldDuotone = IconifyIconData.duo(
+  /// `xxx-bold-duotone`
+  static const IconifyIconData xxxBoldDuotone = IconifyIconData.solo(
     IconData(0xf0577, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0577, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `xxx-broken`
@@ -39432,10 +38615,9 @@ class SolarIcons {
     IconData(0xf0578, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
-  /// `xxx-line-duotone` (duo-tone)
-  static const IconifyIconData xxxLineDuotone = IconifyIconData.duo(
+  /// `xxx-line-duotone`
+  static const IconifyIconData xxxLineDuotone = IconifyIconData.solo(
     IconData(0xf0579, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
-    IconData(0xf0579, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `xxx-linear`

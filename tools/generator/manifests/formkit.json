@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/formkit/formkit/blob/master/packages/icons/LICENSE"
     },
-    "total": 144
+    "total": 144,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

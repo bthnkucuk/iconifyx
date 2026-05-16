@@ -1,0 +1,893 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 1566,
+  "liveCountPrevious": 1664,
+  "newDeprecations": [
+    {
+      "codepoint": 57346,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "10set",
+      "identifier": "n10set",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57352,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "aag",
+      "identifier": "aag",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57354,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "aave",
+      "identifier": "aave",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57355,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "abl",
+      "identifier": "abl",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57356,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "abr",
+      "identifier": "abr",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57368,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "ads",
+      "identifier": "ads",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57377,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "agrs",
+      "identifier": "agrs",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57406,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "ape",
+      "identifier": "ape",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57409,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "apex",
+      "identifier": "apex",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57435,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "asto",
+      "identifier": "asto",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57452,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "avinoc",
+      "identifier": "avinoc",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57490,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "bfic",
+      "identifier": "bfic",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57500,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "bitget",
+      "identifier": "bitget",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57501,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "bitkub-chain",
+      "identifier": "bitkubChain",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57510,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "blur",
+      "identifier": "blur",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57534,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "brg",
+      "identifier": "brg",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57583,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "cby",
+      "identifier": "cby",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57585,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "ccv2",
+      "identifier": "ccv2",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57602,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "cgt",
+      "identifier": "cgt",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57619,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "clv",
+      "identifier": "clv",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57643,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "cov",
+      "identifier": "cov",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57662,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "ctc",
+      "identifier": "ctc",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57681,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "cxo",
+      "identifier": "cxo",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57702,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "dent",
+      "identifier": "dent",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57703,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "dep",
+      "identifier": "dep",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57704,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "derc",
+      "identifier": "derc",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57734,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "dola",
+      "identifier": "dola",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57759,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "eco",
+      "identifier": "eco",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57796,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "ertha",
+      "identifier": "ertha",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57825,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "fantom",
+      "identifier": "fantom",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57869,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "ftm",
+      "identifier": "ftm",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57874,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "fwb",
+      "identifier": "fwb",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57930,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "grain",
+      "identifier": "grain",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57942,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "gulf",
+      "identifier": "gulf",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57950,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "h2o",
+      "identifier": "h2o",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57953,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "handy",
+      "identifier": "handy",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57997,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "hxd",
+      "identifier": "hxd",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58006,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "id",
+      "identifier": "id",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58012,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "ieth",
+      "identifier": "ieth",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58075,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "keplr",
+      "identifier": "keplr",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58079,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "kick",
+      "identifier": "kick",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58087,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "klima",
+      "identifier": "klima",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58091,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "knc",
+      "identifier": "knc",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58096,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "kroma",
+      "identifier": "kroma",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58155,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "luca",
+      "identifier": "luca",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58174,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "map",
+      "identifier": "map",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58193,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "mdx",
+      "identifier": "mdx",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58206,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "metfi",
+      "identifier": "metfi",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58207,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "metis",
+      "identifier": "metis",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58208,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "metis-andromeda",
+      "identifier": "metisAndromeda",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58214,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "mimatic",
+      "identifier": "mimatic",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58232,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "mmy",
+      "identifier": "mmy",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58260,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "mpl",
+      "identifier": "mpl",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58274,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "musd",
+      "identifier": "musd",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58289,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "nabox",
+      "identifier": "nabox",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58295,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "nap",
+      "identifier": "nap",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58334,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "npm",
+      "identifier": "npm",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58350,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "oath",
+      "identifier": "oath",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58353,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "obsr",
+      "identifier": "obsr",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58354,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "obvious",
+      "identifier": "obvious",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58372,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "oni",
+      "identifier": "oni",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58386,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "ordi",
+      "identifier": "ordi",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58401,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "pai",
+      "identifier": "pai",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58445,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "plex",
+      "identifier": "plex",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58472,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "powr",
+      "identifier": "powr",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58476,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "pre",
+      "identifier": "pre",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58478,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "prism",
+      "identifier": "prism",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58489,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "pry",
+      "identifier": "pry",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58511,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "qlc",
+      "identifier": "qlc",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58517,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "qtcon",
+      "identifier": "qtcon",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58518,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "qtum",
+      "identifier": "qtum",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58567,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "rjv",
+      "identifier": "rjv",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58577,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "rootstock",
+      "identifier": "rootstock",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58590,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "rwn",
+      "identifier": "rwn",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58605,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "sc",
+      "identifier": "sc",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58644,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "silk",
+      "identifier": "silk",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58649,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "skl",
+      "identifier": "skl",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58650,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "slam",
+      "identifier": "slam",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58655,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "slr",
+      "identifier": "slr",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58661,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "snft",
+      "identifier": "snft",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58694,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "srm",
+      "identifier": "srm",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58722,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "susd",
+      "identifier": "susd",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58727,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "swash",
+      "identifier": "swash",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58731,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "swftc",
+      "identifier": "swftc",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58736,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "symbiosis",
+      "identifier": "symbiosis",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58755,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "theo",
+      "identifier": "theo",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58765,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "time",
+      "identifier": "time",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58767,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "tips",
+      "identifier": "tips",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58802,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "troy",
+      "identifier": "troy",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58808,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "tulip",
+      "identifier": "tulip",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58823,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "umami",
+      "identifier": "umami",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58836,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "upp",
+      "identifier": "upp",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58852,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "vanar",
+      "identifier": "vanar",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58857,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "vee",
+      "identifier": "vee",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58901,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "wbtc",
+      "identifier": "wbtc",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58938,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "xcm",
+      "identifier": "xcm",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58969,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "xvg",
+      "identifier": "xvg",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58988,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "TokenBranded",
+      "iconName": "zengo",
+      "identifier": "zengo",
+      "prefix": "token-branded",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "token-branded",
+  "previousIconifyJsonVersion": "2.2.472"
+}

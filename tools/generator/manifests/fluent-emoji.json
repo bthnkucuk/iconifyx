@@ -16,13 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
     },
-    "total": 2777
+    "total": 2767,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {
       "family": "FluentEmoji",
       "nextCodepoint": 60121,
-      "iconCount": 2777
+      "iconCount": 2767
     },
     {
       "family": "FluentEmojiSecondary",
@@ -409,32 +414,44 @@
     "backhand-index-pointing-right": {
       "codepoint": 57419,
       "fontFamily": "FluentEmoji",
-      "identifier": "backhandIndexPointingRight"
+      "identifier": "backhandIndexPointingRight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "backhand-index-pointing-right-dark": {
       "codepoint": 57420,
       "fontFamily": "FluentEmoji",
-      "identifier": "backhandIndexPointingRightDark"
+      "identifier": "backhandIndexPointingRightDark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "backhand-index-pointing-right-light": {
       "codepoint": 57421,
       "fontFamily": "FluentEmoji",
-      "identifier": "backhandIndexPointingRightLight"
+      "identifier": "backhandIndexPointingRightLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "backhand-index-pointing-right-medium": {
       "codepoint": 57422,
       "fontFamily": "FluentEmoji",
-      "identifier": "backhandIndexPointingRightMedium"
+      "identifier": "backhandIndexPointingRightMedium",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "backhand-index-pointing-right-medium-dark": {
       "codepoint": 57423,
       "fontFamily": "FluentEmoji",
-      "identifier": "backhandIndexPointingRightMediumDark"
+      "identifier": "backhandIndexPointingRightMediumDark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "backhand-index-pointing-right-medium-light": {
       "codepoint": 57424,
       "fontFamily": "FluentEmoji",
-      "identifier": "backhandIndexPointingRightMediumLight"
+      "identifier": "backhandIndexPointingRightMediumLight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "backhand-index-pointing-up": {
       "codepoint": 57425,
@@ -494,7 +511,9 @@
     "balance-scale": {
       "codepoint": 57436,
       "fontFamily": "FluentEmoji",
-      "identifier": "balanceScale"
+      "identifier": "balanceScale",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ballet-shoes": {
       "codepoint": 57437,
@@ -2664,7 +2683,9 @@
     "gear": {
       "codepoint": 57870,
       "fontFamily": "FluentEmoji",
-      "identifier": "gear"
+      "identifier": "gear",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gem-stone": {
       "codepoint": 57871,
@@ -9939,7 +9960,9 @@
     "safety-pin": {
       "codepoint": 59325,
       "fontFamily": "FluentEmoji",
-      "identifier": "safetyPin"
+      "identifier": "safetyPin",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "safety-vest": {
       "codepoint": 59326,
@@ -10509,7 +10532,9 @@
     "soft-ice-cream": {
       "codepoint": 59439,
       "fontFamily": "FluentEmoji",
-      "identifier": "softIceCream"
+      "identifier": "softIceCream",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sos-button": {
       "codepoint": 59440,

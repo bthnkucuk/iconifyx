@@ -16,7 +16,10 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
     },
-    "total": 1242
+    "total": 1242,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json"
     },
-    "total": 293
+    "total": 293,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

@@ -16,7 +16,11 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/google/material-design-icons/blob/master/LICENSE"
     },
-    "total": 15997
+    "total": 15997,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

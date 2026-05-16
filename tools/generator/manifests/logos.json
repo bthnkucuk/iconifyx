@@ -16,18 +16,18 @@
       "spdx": "CC0-1.0",
       "url": "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt"
     },
-    "total": 937
+    "total": 928
   },
   "fonts": [
     {
       "family": "Logos",
       "nextCodepoint": 58281,
-      "iconCount": 937
+      "iconCount": 928
     },
     {
       "family": "LogosSecondary",
       "nextCodepoint": 58281,
-      "iconCount": 378
+      "iconCount": 375
     }
   ],
   "icons": {
@@ -385,7 +385,9 @@
     "appveyor": {
       "codepoint": 57402,
       "fontFamily": "Logos",
-      "identifier": "appveyor"
+      "identifier": "appveyor",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "architect": {
       "codepoint": 57403,
@@ -685,7 +687,9 @@
     "brandfolder-icon": {
       "codepoint": 57454,
       "fontFamily": "Logos",
-      "identifier": "brandfolderIcon"
+      "identifier": "brandfolderIcon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "broadcom-icon": {
       "codepoint": 57455,
@@ -704,7 +708,9 @@
     "browserify": {
       "codepoint": 57457,
       "fontFamily": "Logos",
-      "identifier": "browserify"
+      "identifier": "browserify",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "browserify-icon": {
       "codepoint": 57458,
@@ -1559,11 +1565,12 @@
       "duotoneKind": "paintOrder"
     },
     "eta-lang": {
-      "codepoint": 57605,
+      "codepoint": 57604,
       "fontFamily": "Logos",
       "identifier": "etaLang",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "aliasOf": "eta-icon",
+      "duotone": false,
+      "secondaryAliased": true
     },
     "etcd": {
       "codepoint": 57606,
@@ -1822,7 +1829,9 @@
       "codepoint": 57651,
       "fontFamily": "Logos",
       "identifier": "geekbot",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "geetest": {
       "codepoint": 57652,
@@ -1922,7 +1931,9 @@
       "codepoint": 57668,
       "fontFamily": "Logos",
       "identifier": "gnuNet",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gnupg": {
       "codepoint": 57669,
@@ -4919,7 +4930,9 @@
     "tsu": {
       "codepoint": 58186,
       "fontFamily": "Logos",
-      "identifier": "tsu"
+      "identifier": "tsu",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "tsuru": {
       "codepoint": 58187,
@@ -4939,7 +4952,9 @@
     "tunein": {
       "codepoint": 58190,
       "fontFamily": "Logos",
-      "identifier": "tunein"
+      "identifier": "tunein",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "turret": {
       "codepoint": 58191,
@@ -4947,9 +4962,10 @@
       "identifier": "turret"
     },
     "tux": {
-      "codepoint": 58192,
+      "codepoint": 57814,
       "fontFamily": "Logos",
-      "identifier": "tux"
+      "identifier": "tux",
+      "aliasOf": "linux-tux"
     },
     "twitter": {
       "codepoint": 58193,

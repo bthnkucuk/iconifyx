@@ -1,0 +1,20 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 832,
+  "liveCountPrevious": 833,
+  "newDeprecations": [
+    {
+      "codepoint": 57960,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Flowbite",
+      "iconName": "pizza-slice-outline",
+      "identifier": "pizzaSliceOutline",
+      "prefix": "flowbite",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "flowbite",
+  "previousIconifyJsonVersion": "2.2.472"
+}

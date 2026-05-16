@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Gil Barbara
 /// License: CC0 — https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt
-/// Icons: 937 (split across 2 fonts)
+/// Icons: 930 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -337,11 +337,6 @@ class LogosIcons {
     IconData(0xe039, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `appveyor`
-  static const IconifyIconData appveyor = IconifyIconData.solo(
-    IconData(0xe03a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-  );
-
   /// `architect`
   static const IconifyIconData architect = IconifyIconData.solo(
     IconData(0xe03b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -617,11 +612,6 @@ class LogosIcons {
     IconData(0xe06d, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `brandfolder-icon`
-  static const IconifyIconData brandfolderIcon = IconifyIconData.solo(
-    IconData(0xe06e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-  );
-
   /// `broadcom-icon` (paint-order duotone)
   static const IconifyIconData broadcomIcon = IconifyIconData.duo(
     IconData(0xe06f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -632,11 +622,6 @@ class LogosIcons {
   static const IconifyIconData brotli = IconifyIconData.duo(
     IconData(0xe070, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe070, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `browserify`
-  static const IconifyIconData browserify = IconifyIconData.solo(
-    IconData(0xe071, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
   /// `browserify-icon` (paint-order duotone)
@@ -1435,10 +1420,9 @@ class LogosIcons {
     IconData(0xe104, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `eta-lang` (paint-order duotone)
-  static const IconifyIconData etaLang = IconifyIconData.duo(
-    IconData(0xe105, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-    IconData(0xe105, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
+  /// `eta-lang`
+  static const IconifyIconData etaLang = IconifyIconData.solo(
+    IconData(0xe104, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
   /// `etcd`
@@ -1680,12 +1664,6 @@ class LogosIcons {
     IconData(0xe132, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `geekbot` (duo-tone)
-  static const IconifyIconData geekbot = IconifyIconData.duo(
-    IconData(0xe133, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-    IconData(0xe133, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
-  );
-
   /// `geetest` (paint-order duotone)
   static const IconifyIconData geetest = IconifyIconData.duo(
     IconData(0xe134, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -1771,12 +1749,6 @@ class LogosIcons {
   /// `gnu`
   static const IconifyIconData gnu = IconifyIconData.solo(
     IconData(0xe143, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-  );
-
-  /// `gnu-net` (duo-tone)
-  static const IconifyIconData gnuNet = IconifyIconData.duo(
-    IconData(0xe144, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-    IconData(0xe144, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
   /// `gnupg`
@@ -4572,11 +4544,6 @@ class LogosIcons {
     IconData(0xe349, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `tsu`
-  static const IconifyIconData tsu = IconifyIconData.solo(
-    IconData(0xe34a, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-  );
-
   /// `tsuru`
   static const IconifyIconData tsuru = IconifyIconData.solo(
     IconData(0xe34b, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -4592,11 +4559,6 @@ class LogosIcons {
     IconData(0xe34d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `tunein`
-  static const IconifyIconData tunein = IconifyIconData.solo(
-    IconData(0xe34e, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
-  );
-
   /// `turret`
   static const IconifyIconData turret = IconifyIconData.solo(
     IconData(0xe34f, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -4604,7 +4566,7 @@ class LogosIcons {
 
   /// `tux`
   static const IconifyIconData tux = IconifyIconData.solo(
-    IconData(0xe350, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe1d6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
   /// `twitter`

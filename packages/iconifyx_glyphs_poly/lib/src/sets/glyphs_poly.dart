@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Goran Spasojevic
 /// License: MIT — https://github.com/gorango/glyphs/blob/main/license
-/// Icons: 733 (split across 2 fonts)
+/// Icons: 722 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -722,11 +722,6 @@ class GlyphsPolyIcons {
     IconData(0xe081, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
   );
 
-  /// `building-2`
-  static const IconifyIconData building2 = IconifyIconData.solo(
-    IconData(0xe082, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
   /// `building-3`
   static const IconifyIconData building3 = IconifyIconData.solo(
     IconData(0xe083, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
@@ -1337,11 +1332,6 @@ class GlyphsPolyIcons {
   /// `dslr`
   static const IconifyIconData dslr = IconifyIconData.solo(
     IconData(0xe0f4, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
-  /// `ear`
-  static const IconifyIconData ear = IconifyIconData.solo(
-    IconData(0xe0f5, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
   );
 
   /// `edit`
@@ -2147,11 +2137,6 @@ class GlyphsPolyIcons {
     IconData(0xe18a, fontFamily: 'GlyphsPolySecondary', fontPackage: 'iconifyx_glyphs_poly'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `kick-scooter`
-  static const IconifyIconData kickScooter = IconifyIconData.solo(
-    IconData(0xe18b, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
   /// `king`
   static const IconifyIconData king = IconifyIconData.solo(
     IconData(0xe18c, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
@@ -2453,11 +2438,6 @@ class GlyphsPolyIcons {
     IconData(0xe1c3, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
   );
 
-  /// `modulo`
-  static const IconifyIconData modulo = IconifyIconData.solo(
-    IconData(0xe1c4, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
   /// `mold`
   static const IconifyIconData mold = IconifyIconData.solo(
     IconData(0xe1c5, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
@@ -2619,11 +2599,6 @@ class GlyphsPolyIcons {
     IconData(0xe1e2, fontFamily: 'GlyphsPolySecondary', fontPackage: 'iconifyx_glyphs_poly'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `pause`
-  static const IconifyIconData pause = IconifyIconData.solo(
-    IconData(0xe1e3, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
   /// `pause-circle` (paint-order duotone)
   static const IconifyIconData pauseCircle = IconifyIconData.duo(
     IconData(0xe1e4, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
@@ -2695,11 +2670,6 @@ class GlyphsPolyIcons {
   /// `pickup-truck`
   static const IconifyIconData pickupTruck = IconifyIconData.solo(
     IconData(0xe1f1, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
-  /// `picnic-table`
-  static const IconifyIconData picnicTable = IconifyIconData.solo(
-    IconData(0xe1f2, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
   );
 
   /// `pill` (paint-order duotone)
@@ -2993,11 +2963,6 @@ class GlyphsPolyIcons {
   /// `scooter-side`
   static const IconifyIconData scooterSide = IconifyIconData.solo(
     IconData(0xe229, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
-  /// `screwdriver`
-  static const IconifyIconData screwdriver = IconifyIconData.solo(
-    IconData(0xe22a, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
   );
 
   /// `scroll` (paint-order duotone)
@@ -3422,11 +3387,6 @@ class GlyphsPolyIcons {
     IconData(0xe276, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
   );
 
-  /// `stop`
-  static const IconifyIconData stop = IconifyIconData.solo(
-    IconData(0xe277, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
   /// `stop-circle` (paint-order duotone)
   static const IconifyIconData stopCircle = IconifyIconData.duo(
     IconData(0xe278, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
@@ -3622,11 +3582,6 @@ class GlyphsPolyIcons {
     IconData(0xe29c, fontFamily: 'GlyphsPolySecondary', fontPackage: 'iconifyx_glyphs_poly'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `tilde`
-  static const IconifyIconData tilde = IconifyIconData.solo(
-    IconData(0xe29d, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
   /// `timer`
   static const IconifyIconData timer = IconifyIconData.solo(
     IconData(0xe29e, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
@@ -3640,17 +3595,6 @@ class GlyphsPolyIcons {
   /// `timer-2`
   static const IconifyIconData timer2 = IconifyIconData.solo(
     IconData(0xe2a0, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
-  /// `timer-fast` (duo-tone)
-  static const IconifyIconData timerFast = IconifyIconData.duo(
-    IconData(0xe2a1, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
-    IconData(0xe2a1, fontFamily: 'GlyphsPolySecondary', fontPackage: 'iconifyx_glyphs_poly'),
-  );
-
-  /// `times`
-  static const IconifyIconData times = IconifyIconData.solo(
-    IconData(0xe2a2, fontFamily: 'GlyphsPoly', fontPackage: 'iconifyx_glyphs_poly'),
   );
 
   /// `tired`

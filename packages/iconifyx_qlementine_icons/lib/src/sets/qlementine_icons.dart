@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Olivier Cléro
 /// License: MIT — https://github.com/oclero/qlementine-icons/blob/master/LICENSE
-/// Icons: 885 (split across 2 fonts)
+/// Icons: 884 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3076,11 +3076,6 @@ class QlementineIconsIcons {
   /// `puzzle-piece-16`
   static const IconifyIconData puzzlePiece16 = IconifyIconData.solo(
     IconData(0xe25d, fontFamily: 'QlementineIcons', fontPackage: 'iconifyx_qlementine_icons'),
-  );
-
-  /// `quality-0-16`
-  static const IconifyIconData quality016 = IconifyIconData.solo(
-    IconData(0xe25e, fontFamily: 'QlementineIcons', fontPackage: 'iconifyx_qlementine_icons'),
   );
 
   /// `quality-1-16` (duo-tone)

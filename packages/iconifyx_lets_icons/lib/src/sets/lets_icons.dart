@@ -74,16 +74,14 @@ class LetsIconsIcons {
     IconData(0xe00a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `add-ring-duotone` (duo-tone)
-  static const IconifyIconData addRingDuotone = IconifyIconData.duo(
+  /// `add-ring-duotone`
+  static const IconifyIconData addRingDuotone = IconifyIconData.solo(
     IconData(0xe00b, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe00b, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `add-ring-duotone-line` (mask-internal duotone)
-  static const IconifyIconData addRingDuotoneLine = IconifyIconData.duo(
+  /// `add-ring-duotone-line`
+  static const IconifyIconData addRingDuotoneLine = IconifyIconData.solo(
     IconData(0xe00c, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe00c, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `add-ring-fill`
@@ -101,16 +99,14 @@ class LetsIconsIcons {
     IconData(0xe00f, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `add-round-duotone` (duo-tone)
-  static const IconifyIconData addRoundDuotone = IconifyIconData.duo(
+  /// `add-round-duotone`
+  static const IconifyIconData addRoundDuotone = IconifyIconData.solo(
     IconData(0xe010, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe010, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `add-round-duotone-line` (mask-internal duotone)
-  static const IconifyIconData addRoundDuotoneLine = IconifyIconData.duo(
+  /// `add-round-duotone-line`
+  static const IconifyIconData addRoundDuotoneLine = IconifyIconData.solo(
     IconData(0xe011, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe011, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `add-round-fill`
@@ -369,10 +365,9 @@ class LetsIconsIcons {
     IconData(0xe042, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `arhive-load-duotone-line` (duo-tone)
-  static const IconifyIconData arhiveLoadDuotoneLine = IconifyIconData.duo(
+  /// `arhive-load-duotone-line`
+  static const IconifyIconData arhiveLoadDuotoneLine = IconifyIconData.solo(
     IconData(0xe043, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe043, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `arhive-load-fill`
@@ -716,10 +711,9 @@ class LetsIconsIcons {
     IconData(0xe086, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `basket-alt-duotone-line` (mask-internal duotone)
-  static const IconifyIconData basketAltDuotoneLine = IconifyIconData.duo(
+  /// `basket-alt-duotone-line`
+  static const IconifyIconData basketAltDuotoneLine = IconifyIconData.solo(
     IconData(0xe087, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe087, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `basket-alt-light`
@@ -781,16 +775,14 @@ class LetsIconsIcons {
     IconData(0xe092, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `battery-low-duotone` (duo-tone)
-  static const IconifyIconData batteryLowDuotone = IconifyIconData.duo(
+  /// `battery-low-duotone`
+  static const IconifyIconData batteryLowDuotone = IconifyIconData.solo(
     IconData(0xe093, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe093, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `battery-low-duotone-line` (duo-tone)
-  static const IconifyIconData batteryLowDuotoneLine = IconifyIconData.duo(
+  /// `battery-low-duotone-line`
+  static const IconifyIconData batteryLowDuotoneLine = IconifyIconData.solo(
     IconData(0xe094, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe094, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `battery-low-fill`
@@ -971,16 +963,14 @@ class LetsIconsIcons {
     IconData(0xe0b6, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `book-duotone` (duo-tone)
-  static const IconifyIconData bookDuotone = IconifyIconData.duo(
+  /// `book-duotone`
+  static const IconifyIconData bookDuotone = IconifyIconData.solo(
     IconData(0xe0b7, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe0b7, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `book-duotone-line` (duo-tone)
-  static const IconifyIconData bookDuotoneLine = IconifyIconData.duo(
+  /// `book-duotone-line`
+  static const IconifyIconData bookDuotoneLine = IconifyIconData.solo(
     IconData(0xe0b8, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe0b8, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `book-fill`
@@ -1110,10 +1100,9 @@ class LetsIconsIcons {
     IconData(0xe0d0, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `box-fill-duotone` (duo-tone)
-  static const IconifyIconData boxFillDuotone = IconifyIconData.duo(
+  /// `box-fill-duotone`
+  static const IconifyIconData boxFillDuotone = IconifyIconData.solo(
     IconData(0xe0d1, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe0d1, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `box-light`
@@ -1267,10 +1256,9 @@ class LetsIconsIcons {
     IconData(0xe0ee, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `calendar-duotone` (duo-tone)
-  static const IconifyIconData calendarDuotone = IconifyIconData.duo(
+  /// `calendar-duotone`
+  static const IconifyIconData calendarDuotone = IconifyIconData.solo(
     IconData(0xe0ef, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe0ef, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `calendar-duotone-line` (mask-internal duotone)
@@ -1395,10 +1383,9 @@ class LetsIconsIcons {
     IconData(0xe106, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chart-alt-duotone-line` (duo-tone)
-  static const IconifyIconData chartAltDuotoneLine = IconifyIconData.duo(
+  /// `chart-alt-duotone-line`
+  static const IconifyIconData chartAltDuotoneLine = IconifyIconData.solo(
     IconData(0xe107, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe107, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `chart-alt-fill`
@@ -1417,10 +1404,9 @@ class LetsIconsIcons {
     IconData(0xe10a, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chart-duotone-line` (duo-tone)
-  static const IconifyIconData chartDuotoneLine = IconifyIconData.duo(
+  /// `chart-duotone-line`
+  static const IconifyIconData chartDuotoneLine = IconifyIconData.solo(
     IconData(0xe10b, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe10b, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `chart-fill`
@@ -1464,10 +1450,9 @@ class LetsIconsIcons {
     IconData(0xe113, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chat-alt-2-duotone-line` (duo-tone)
-  static const IconifyIconData chatAlt2DuotoneLine = IconifyIconData.duo(
+  /// `chat-alt-2-duotone-line`
+  static const IconifyIconData chatAlt2DuotoneLine = IconifyIconData.solo(
     IconData(0xe114, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe114, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `chat-alt-2-fill`
@@ -1485,16 +1470,14 @@ class LetsIconsIcons {
     IconData(0xe117, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chat-alt-3-duotone` (duo-tone)
-  static const IconifyIconData chatAlt3Duotone = IconifyIconData.duo(
+  /// `chat-alt-3-duotone`
+  static const IconifyIconData chatAlt3Duotone = IconifyIconData.solo(
     IconData(0xe118, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe118, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chat-alt-3-duotone-line` (duo-tone)
-  static const IconifyIconData chatAlt3DuotoneLine = IconifyIconData.duo(
+  /// `chat-alt-3-duotone-line`
+  static const IconifyIconData chatAlt3DuotoneLine = IconifyIconData.solo(
     IconData(0xe119, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe119, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `chat-alt-3-fill`
@@ -1534,16 +1517,14 @@ class LetsIconsIcons {
     IconData(0xe120, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chat-alt-duotone` (duo-tone)
-  static const IconifyIconData chatAltDuotone = IconifyIconData.duo(
+  /// `chat-alt-duotone`
+  static const IconifyIconData chatAltDuotone = IconifyIconData.solo(
     IconData(0xe121, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe121, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chat-alt-duotone-line` (duo-tone)
-  static const IconifyIconData chatAltDuotoneLine = IconifyIconData.duo(
+  /// `chat-alt-duotone-line`
+  static const IconifyIconData chatAltDuotoneLine = IconifyIconData.solo(
     IconData(0xe122, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe122, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `chat-alt-fill`
@@ -1583,10 +1564,9 @@ class LetsIconsIcons {
     IconData(0xe129, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chat-plus-duotone` (duo-tone)
-  static const IconifyIconData chatPlusDuotone = IconifyIconData.duo(
+  /// `chat-plus-duotone`
+  static const IconifyIconData chatPlusDuotone = IconifyIconData.solo(
     IconData(0xe12a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe12a, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `chat-plus-duotone-line` (mask-internal duotone)
@@ -1610,10 +1590,9 @@ class LetsIconsIcons {
     IconData(0xe12e, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chat-search-duotone` (duo-tone)
-  static const IconifyIconData chatSearchDuotone = IconifyIconData.duo(
+  /// `chat-search-duotone`
+  static const IconifyIconData chatSearchDuotone = IconifyIconData.solo(
     IconData(0xe12f, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe12f, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `chat-search-duotone-light` (mask-internal duotone)
@@ -1648,10 +1627,9 @@ class LetsIconsIcons {
     IconData(0xe135, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `check-ring-duotone-line` (duo-tone)
-  static const IconifyIconData checkRingDuotoneLine = IconifyIconData.duo(
+  /// `check-ring-duotone-line`
+  static const IconifyIconData checkRingDuotoneLine = IconifyIconData.solo(
     IconData(0xe136, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe136, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `check-ring-light`
@@ -1664,16 +1642,14 @@ class LetsIconsIcons {
     IconData(0xe138, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `check-ring-round-duotone` (duo-tone)
-  static const IconifyIconData checkRingRoundDuotone = IconifyIconData.duo(
+  /// `check-ring-round-duotone`
+  static const IconifyIconData checkRingRoundDuotone = IconifyIconData.solo(
     IconData(0xe139, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe139, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `check-ring-round-duotone-line` (duo-tone)
-  static const IconifyIconData checkRingRoundDuotoneLine = IconifyIconData.duo(
+  /// `check-ring-round-duotone-line`
+  static const IconifyIconData checkRingRoundDuotoneLine = IconifyIconData.solo(
     IconData(0xe13a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe13a, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `check-ring-round-light`
@@ -1733,10 +1709,9 @@ class LetsIconsIcons {
     IconData(0xe145, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `chield-check-duotone` (duo-tone)
-  static const IconifyIconData chieldCheckDuotone = IconifyIconData.duo(
+  /// `chield-check-duotone`
+  static const IconifyIconData chieldCheckDuotone = IconifyIconData.solo(
     IconData(0xe146, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe146, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `chield-check-duotone-line`
@@ -1810,10 +1785,9 @@ class LetsIconsIcons {
     IconData(0xe154, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `clock-duotone` (duo-tone)
-  static const IconifyIconData clockDuotone = IconifyIconData.duo(
+  /// `clock-duotone`
+  static const IconifyIconData clockDuotone = IconifyIconData.solo(
     IconData(0xe155, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe155, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `clock-duotone-line` (mask-internal duotone)
@@ -1837,10 +1811,9 @@ class LetsIconsIcons {
     IconData(0xe159, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `close-ring-duotone` (duo-tone)
-  static const IconifyIconData closeRingDuotone = IconifyIconData.duo(
+  /// `close-ring-duotone`
+  static const IconifyIconData closeRingDuotone = IconifyIconData.solo(
     IconData(0xe15a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe15a, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `close-ring-duotone-line` (mask-internal duotone)
@@ -1864,16 +1837,14 @@ class LetsIconsIcons {
     IconData(0xe15e, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `close-round-duotone` (duo-tone)
-  static const IconifyIconData closeRoundDuotone = IconifyIconData.duo(
+  /// `close-round-duotone`
+  static const IconifyIconData closeRoundDuotone = IconifyIconData.solo(
     IconData(0xe15f, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe15f, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `close-round-duotone-line` (mask-internal duotone)
-  static const IconifyIconData closeRoundDuotoneLine = IconifyIconData.duo(
+  /// `close-round-duotone-line`
+  static const IconifyIconData closeRoundDuotoneLine = IconifyIconData.solo(
     IconData(0xe160, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe160, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `close-round-fill`
@@ -1891,16 +1862,14 @@ class LetsIconsIcons {
     IconData(0xe163, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `close-square-duotone` (duo-tone)
-  static const IconifyIconData closeSquareDuotone = IconifyIconData.duo(
+  /// `close-square-duotone`
+  static const IconifyIconData closeSquareDuotone = IconifyIconData.solo(
     IconData(0xe164, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe164, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `close-square-duotone-line` (mask-internal duotone)
-  static const IconifyIconData closeSquareDuotoneLine = IconifyIconData.duo(
+  /// `close-square-duotone-line`
+  static const IconifyIconData closeSquareDuotoneLine = IconifyIconData.solo(
     IconData(0xe165, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe165, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `close-square-fill`
@@ -2079,10 +2048,9 @@ class LetsIconsIcons {
     IconData(0xe187, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `compass-duotone` (duo-tone)
-  static const IconifyIconData compassDuotone = IconifyIconData.duo(
+  /// `compass-duotone`
+  static const IconifyIconData compassDuotone = IconifyIconData.solo(
     IconData(0xe188, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe188, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `compass-duotone-line` (duo-tone)
@@ -2200,10 +2168,9 @@ class LetsIconsIcons {
     IconData(0xe19e, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `critical-duotone-line` (duo-tone)
-  static const IconifyIconData criticalDuotoneLine = IconifyIconData.duo(
+  /// `critical-duotone-line`
+  static const IconifyIconData criticalDuotoneLine = IconifyIconData.solo(
     IconData(0xe19f, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe19f, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `critical-fill`
@@ -2338,16 +2305,14 @@ class LetsIconsIcons {
     IconData(0xe1b8, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `dell-duotone` (duo-tone)
-  static const IconifyIconData dellDuotone = IconifyIconData.duo(
+  /// `dell-duotone`
+  static const IconifyIconData dellDuotone = IconifyIconData.solo(
     IconData(0xe1b9, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1b9, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `dell-duotone-line` (mask-internal duotone)
-  static const IconifyIconData dellDuotoneLine = IconifyIconData.duo(
+  /// `dell-duotone-line`
+  static const IconifyIconData dellDuotoneLine = IconifyIconData.solo(
     IconData(0xe1ba, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1ba, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `dell-fill`
@@ -2508,16 +2473,14 @@ class LetsIconsIcons {
     IconData(0xe1d8, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `direction-alt-3-duotone` (duo-tone)
-  static const IconifyIconData directionAlt3Duotone = IconifyIconData.duo(
+  /// `direction-alt-3-duotone`
+  static const IconifyIconData directionAlt3Duotone = IconifyIconData.solo(
     IconData(0xe1d9, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1d9, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `direction-alt-3-duotone-line` (mask-internal duotone)
-  static const IconifyIconData directionAlt3DuotoneLine = IconifyIconData.duo(
+  /// `direction-alt-3-duotone-line`
+  static const IconifyIconData directionAlt3DuotoneLine = IconifyIconData.solo(
     IconData(0xe1da, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1da, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `direction-alt-3-fill`
@@ -2552,16 +2515,14 @@ class LetsIconsIcons {
     IconData(0xe1e0, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `direction-duotone` (duo-tone)
-  static const IconifyIconData directionDuotone = IconifyIconData.duo(
+  /// `direction-duotone`
+  static const IconifyIconData directionDuotone = IconifyIconData.solo(
     IconData(0xe1e1, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1e1, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `direction-duotone-line` (mask-internal duotone)
-  static const IconifyIconData directionDuotoneLine = IconifyIconData.duo(
+  /// `direction-duotone-line`
+  static const IconifyIconData directionDuotoneLine = IconifyIconData.solo(
     IconData(0xe1e2, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1e2, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `direction-fill`
@@ -2610,10 +2571,9 @@ class LetsIconsIcons {
     IconData(0xe1eb, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `done-all-round-duotone-line` (duo-tone)
-  static const IconifyIconData doneAllRoundDuotoneLine = IconifyIconData.duo(
+  /// `done-all-round-duotone-line`
+  static const IconifyIconData doneAllRoundDuotoneLine = IconifyIconData.solo(
     IconData(0xe1ec, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1ec, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `done-all-round-light`
@@ -2621,10 +2581,9 @@ class LetsIconsIcons {
     IconData(0xe1ed, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `done-duotone` (duo-tone)
-  static const IconifyIconData doneDuotone = IconifyIconData.duo(
+  /// `done-duotone`
+  static const IconifyIconData doneDuotone = IconifyIconData.solo(
     IconData(0xe1ee, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1ee, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `done-duotone-line` (duo-tone)
@@ -2648,16 +2607,14 @@ class LetsIconsIcons {
     IconData(0xe1f2, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `done-ring-round-duotone` (duo-tone)
-  static const IconifyIconData doneRingRoundDuotone = IconifyIconData.duo(
+  /// `done-ring-round-duotone`
+  static const IconifyIconData doneRingRoundDuotone = IconifyIconData.solo(
     IconData(0xe1f3, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1f3, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `done-ring-round-duotone-line` (duo-tone)
-  static const IconifyIconData doneRingRoundDuotoneLine = IconifyIconData.duo(
+  /// `done-ring-round-duotone-line`
+  static const IconifyIconData doneRingRoundDuotoneLine = IconifyIconData.solo(
     IconData(0xe1f4, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1f4, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `done-ring-round-fill`
@@ -2675,16 +2632,14 @@ class LetsIconsIcons {
     IconData(0xe1f7, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `done-round-duotone` (duo-tone)
-  static const IconifyIconData doneRoundDuotone = IconifyIconData.duo(
+  /// `done-round-duotone`
+  static const IconifyIconData doneRoundDuotone = IconifyIconData.solo(
     IconData(0xe1f8, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1f8, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `done-round-duotone-line` (duo-tone)
-  static const IconifyIconData doneRoundDuotoneLine = IconifyIconData.duo(
+  /// `done-round-duotone-line`
+  static const IconifyIconData doneRoundDuotoneLine = IconifyIconData.solo(
     IconData(0xe1f9, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe1f9, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `done-round-fill`
@@ -3104,16 +3059,14 @@ class LetsIconsIcons {
     IconData(0xe24a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `file-duotone` (duo-tone)
-  static const IconifyIconData fileDuotone = IconifyIconData.duo(
+  /// `file-duotone`
+  static const IconifyIconData fileDuotone = IconifyIconData.solo(
     IconData(0xe24b, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe24b, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `file-duotone-line` (duo-tone)
-  static const IconifyIconData fileDuotoneLine = IconifyIconData.duo(
+  /// `file-duotone-line`
+  static const IconifyIconData fileDuotoneLine = IconifyIconData.solo(
     IconData(0xe24c, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe24c, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `file-fill`
@@ -3142,10 +3095,9 @@ class LetsIconsIcons {
     IconData(0xe251, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `filter-alt-duotone-line` (duo-tone)
-  static const IconifyIconData filterAltDuotoneLine = IconifyIconData.duo(
+  /// `filter-alt-duotone-line`
+  static const IconifyIconData filterAltDuotoneLine = IconifyIconData.solo(
     IconData(0xe252, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe252, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `filter-alt-fill`
@@ -3383,10 +3335,9 @@ class LetsIconsIcons {
     IconData(0xe27f, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `folder-check-duotone` (duo-tone)
-  static const IconifyIconData folderCheckDuotone = IconifyIconData.duo(
+  /// `folder-check-duotone`
+  static const IconifyIconData folderCheckDuotone = IconifyIconData.solo(
     IconData(0xe280, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe280, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `folder-check-duotone-line` (mask-internal duotone)
@@ -3436,16 +3387,14 @@ class LetsIconsIcons {
     IconData(0xe289, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `folder-del-duotone-fill` (duo-tone)
-  static const IconifyIconData folderDelDuotoneFill = IconifyIconData.duo(
+  /// `folder-del-duotone-fill`
+  static const IconifyIconData folderDelDuotoneFill = IconifyIconData.solo(
     IconData(0xe28a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe28a, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `folder-del-duotone-line` (mask-internal duotone)
-  static const IconifyIconData folderDelDuotoneLine = IconifyIconData.duo(
+  /// `folder-del-duotone-line`
+  static const IconifyIconData folderDelDuotoneLine = IconifyIconData.solo(
     IconData(0xe28b, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe28b, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `folder-del-fill`
@@ -3604,10 +3553,9 @@ class LetsIconsIcons {
     IconData(0xe2a9, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `folder-search-duotone` (duo-tone)
-  static const IconifyIconData folderSearchDuotone = IconifyIconData.duo(
+  /// `folder-search-duotone`
+  static const IconifyIconData folderSearchDuotone = IconifyIconData.solo(
     IconData(0xe2aa, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe2aa, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `folder-search-duotone-line` (mask-internal duotone)
@@ -3631,10 +3579,9 @@ class LetsIconsIcons {
     IconData(0xe2ae, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `folder-send-duotone` (duo-tone)
-  static const IconifyIconData folderSendDuotone = IconifyIconData.duo(
+  /// `folder-send-duotone`
+  static const IconifyIconData folderSendDuotone = IconifyIconData.solo(
     IconData(0xe2af, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe2af, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `folder-send-duotone-line` (mask-internal duotone)
@@ -3658,10 +3605,9 @@ class LetsIconsIcons {
     IconData(0xe2b3, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `folder-up-duotone` (duo-tone)
-  static const IconifyIconData folderUpDuotone = IconifyIconData.duo(
+  /// `folder-up-duotone`
+  static const IconifyIconData folderUpDuotone = IconifyIconData.solo(
     IconData(0xe2b4, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe2b4, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `folder-up-duotone-line` (mask-internal duotone)
@@ -3701,10 +3647,9 @@ class LetsIconsIcons {
     IconData(0xe2bb, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
-  /// `folders-line-duotone-line` (mask-internal duotone)
-  static const IconifyIconData foldersLineDuotoneLine = IconifyIconData.duo(
+  /// `folders-line-duotone-line`
+  static const IconifyIconData foldersLineDuotoneLine = IconifyIconData.solo(
     IconData(0xe2bc, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe2bc, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `folders-line-light`
@@ -3965,10 +3910,9 @@ class LetsIconsIcons {
     IconData(0xe2ee, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `hide-eye-duotone-line` (duo-tone)
-  static const IconifyIconData hideEyeDuotoneLine = IconifyIconData.duo(
+  /// `hide-eye-duotone-line`
+  static const IconifyIconData hideEyeDuotoneLine = IconifyIconData.solo(
     IconData(0xe2ef, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe2ef, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `hide-eye-fill`
@@ -4227,16 +4171,14 @@ class LetsIconsIcons {
     IconData(0xe321, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `import-duotone` (duo-tone)
-  static const IconifyIconData importDuotone = IconifyIconData.duo(
+  /// `import-duotone`
+  static const IconifyIconData importDuotone = IconifyIconData.solo(
     IconData(0xe322, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe322, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `import-duotone-line` (duo-tone)
-  static const IconifyIconData importDuotoneLine = IconifyIconData.duo(
+  /// `import-duotone-line`
+  static const IconifyIconData importDuotoneLine = IconifyIconData.solo(
     IconData(0xe323, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe323, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `import-fill`
@@ -4269,10 +4211,9 @@ class LetsIconsIcons {
     IconData(0xe329, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `info-alt-duotone` (duo-tone)
-  static const IconifyIconData infoAltDuotone = IconifyIconData.duo(
+  /// `info-alt-duotone`
+  static const IconifyIconData infoAltDuotone = IconifyIconData.solo(
     IconData(0xe32a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe32a, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `info-alt-duotone-line` (mask-internal duotone)
@@ -4291,10 +4232,9 @@ class LetsIconsIcons {
     IconData(0xe32d, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `info-duotone` (duo-tone)
-  static const IconifyIconData infoDuotone = IconifyIconData.duo(
+  /// `info-duotone`
+  static const IconifyIconData infoDuotone = IconifyIconData.solo(
     IconData(0xe32e, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe32e, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `info-duotone-line` (duo-tone)
@@ -4403,10 +4343,9 @@ class LetsIconsIcons {
     IconData(0xe342, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `key-alt-duotone` (duo-tone)
-  static const IconifyIconData keyAltDuotone = IconifyIconData.duo(
+  /// `key-alt-duotone`
+  static const IconifyIconData keyAltDuotone = IconifyIconData.solo(
     IconData(0xe343, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe343, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `key-alt-duotone-line` (mask-internal duotone)
@@ -4551,16 +4490,14 @@ class LetsIconsIcons {
     IconData(0xe35e, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `lightning-duotone` (mask-internal duotone)
-  static const IconifyIconData lightningDuotone = IconifyIconData.duo(
+  /// `lightning-duotone`
+  static const IconifyIconData lightningDuotone = IconifyIconData.solo(
     IconData(0xe35f, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe35f, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
-  /// `lightning-duotone-line` (mask-internal duotone)
-  static const IconifyIconData lightningDuotoneLine = IconifyIconData.duo(
+  /// `lightning-duotone-line`
+  static const IconifyIconData lightningDuotoneLine = IconifyIconData.solo(
     IconData(0xe360, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe360, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `lightning-fill`
@@ -4584,10 +4521,9 @@ class LetsIconsIcons {
     IconData(0xe364, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `lightning-ring-duotone-line` (duo-tone)
-  static const IconifyIconData lightningRingDuotoneLine = IconifyIconData.duo(
+  /// `lightning-ring-duotone-line`
+  static const IconifyIconData lightningRingDuotoneLine = IconifyIconData.solo(
     IconData(0xe365, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe365, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `lightning-ring-light`
@@ -4696,16 +4632,14 @@ class LetsIconsIcons {
     IconData(0xe37a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `load-circle-duotone` (duo-tone)
-  static const IconifyIconData loadCircleDuotone = IconifyIconData.duo(
+  /// `load-circle-duotone`
+  static const IconifyIconData loadCircleDuotone = IconifyIconData.solo(
     IconData(0xe37b, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe37b, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `load-circle-duotone-line` (mask-internal duotone)
-  static const IconifyIconData loadCircleDuotoneLine = IconifyIconData.duo(
+  /// `load-circle-duotone-line`
+  static const IconifyIconData loadCircleDuotoneLine = IconifyIconData.solo(
     IconData(0xe37c, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe37c, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `load-circle-fill`
@@ -4759,10 +4693,9 @@ class LetsIconsIcons {
     IconData(0xe386, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `lock-alt-duotone-line` (duo-tone)
-  static const IconifyIconData lockAltDuotoneLine = IconifyIconData.duo(
+  /// `lock-alt-duotone-line`
+  static const IconifyIconData lockAltDuotoneLine = IconifyIconData.solo(
     IconData(0xe387, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe387, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `lock-alt-fill`
@@ -4880,10 +4813,9 @@ class LetsIconsIcons {
     IconData(0xe39d, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `message-alt-duotone-line` (duo-tone)
-  static const IconifyIconData messageAltDuotoneLine = IconifyIconData.duo(
+  /// `message-alt-duotone-line`
+  static const IconifyIconData messageAltDuotoneLine = IconifyIconData.solo(
     IconData(0xe39e, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe39e, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `message-alt-fill`
@@ -5011,10 +4943,9 @@ class LetsIconsIcons {
     IconData(0xe3b6, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `money-duotone` (duo-tone)
-  static const IconifyIconData moneyDuotone = IconifyIconData.duo(
+  /// `money-duotone`
+  static const IconifyIconData moneyDuotone = IconifyIconData.solo(
     IconData(0xe3b7, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe3b7, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `money-duotone-line` (duo-tone)
@@ -5220,10 +5151,9 @@ class LetsIconsIcons {
     IconData(0xe3de, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `news-duotone-line` (duo-tone)
-  static const IconifyIconData newsDuotoneLine = IconifyIconData.duo(
+  /// `news-duotone-line`
+  static const IconifyIconData newsDuotoneLine = IconifyIconData.solo(
     IconData(0xe3df, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe3df, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `news-fill`
@@ -5247,10 +5177,9 @@ class LetsIconsIcons {
     IconData(0xe3e3, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
-  /// `nfc-duotone-line` (mask-internal duotone)
-  static const IconifyIconData nfcDuotoneLine = IconifyIconData.duo(
+  /// `nfc-duotone-line`
+  static const IconifyIconData nfcDuotoneLine = IconifyIconData.solo(
     IconData(0xe3e4, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe3e4, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `nfc-fill`
@@ -5502,10 +5431,9 @@ class LetsIconsIcons {
     IconData(0xe414, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `phone-duotone-line` (duo-tone)
-  static const IconifyIconData phoneDuotoneLine = IconifyIconData.duo(
+  /// `phone-duotone-line`
+  static const IconifyIconData phoneDuotoneLine = IconifyIconData.solo(
     IconData(0xe415, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe415, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `phone-fill`
@@ -5639,10 +5567,9 @@ class LetsIconsIcons {
     IconData(0xe42e, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `pipe-duotone-line` (duo-tone)
-  static const IconifyIconData pipeDuotoneLine = IconifyIconData.duo(
+  /// `pipe-duotone-line`
+  static const IconifyIconData pipeDuotoneLine = IconifyIconData.solo(
     IconData(0xe42f, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe42f, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `pipe-fill`
@@ -5760,10 +5687,9 @@ class LetsIconsIcons {
     IconData(0xe445, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `progress-duotone` (duo-tone)
-  static const IconifyIconData progressDuotone = IconifyIconData.duo(
+  /// `progress-duotone`
+  static const IconifyIconData progressDuotone = IconifyIconData.solo(
     IconData(0xe446, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe446, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `progress-duotone-line`
@@ -5801,16 +5727,14 @@ class LetsIconsIcons {
     IconData(0xe44d, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `question-duotone` (duo-tone)
-  static const IconifyIconData questionDuotone = IconifyIconData.duo(
+  /// `question-duotone`
+  static const IconifyIconData questionDuotone = IconifyIconData.solo(
     IconData(0xe44e, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe44e, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `question-duotone-line` (duo-tone)
-  static const IconifyIconData questionDuotoneLine = IconifyIconData.duo(
+  /// `question-duotone-line`
+  static const IconifyIconData questionDuotoneLine = IconifyIconData.solo(
     IconData(0xe44f, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe44f, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `question-fill`
@@ -5939,16 +5863,14 @@ class LetsIconsIcons {
     IconData(0xe468, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `remove-duotone` (duo-tone)
-  static const IconifyIconData removeDuotone = IconifyIconData.duo(
+  /// `remove-duotone`
+  static const IconifyIconData removeDuotone = IconifyIconData.solo(
     IconData(0xe469, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe469, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `remove-duotone-line` (mask-internal duotone)
-  static const IconifyIconData removeDuotoneLine = IconifyIconData.duo(
+  /// `remove-duotone-line`
+  static const IconifyIconData removeDuotoneLine = IconifyIconData.solo(
     IconData(0xe46a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe46a, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `remove-fill`
@@ -6252,10 +6174,9 @@ class LetsIconsIcons {
     IconData(0xe4a4, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `search-duotone-line` (duo-tone)
-  static const IconifyIconData searchDuotoneLine = IconifyIconData.duo(
+  /// `search-duotone-line`
+  static const IconifyIconData searchDuotoneLine = IconifyIconData.solo(
     IconData(0xe4a5, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe4a5, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `search-fill`
@@ -6422,10 +6343,9 @@ class LetsIconsIcons {
     IconData(0xe4c4, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `shop-duotone-line` (mask-internal duotone)
-  static const IconifyIconData shopDuotoneLine = IconifyIconData.duo(
+  /// `shop-duotone-line`
+  static const IconifyIconData shopDuotoneLine = IconifyIconData.solo(
     IconData(0xe4c5, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe4c5, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'), kind: IconifyIconData.kindMaskInternal,
   );
 
   /// `shop-light`
@@ -6678,10 +6598,9 @@ class LetsIconsIcons {
     IconData(0xe4f5, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `sound-min-duotone` (duo-tone)
-  static const IconifyIconData soundMinDuotone = IconifyIconData.duo(
+  /// `sound-min-duotone`
+  static const IconifyIconData soundMinDuotone = IconifyIconData.solo(
     IconData(0xe4f6, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe4f6, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `sound-min-fill`
@@ -6699,10 +6618,9 @@ class LetsIconsIcons {
     IconData(0xe4f9, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `sound-mute-duotone` (duo-tone)
-  static const IconifyIconData soundMuteDuotone = IconifyIconData.duo(
+  /// `sound-mute-duotone`
+  static const IconifyIconData soundMuteDuotone = IconifyIconData.solo(
     IconData(0xe4fa, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe4fa, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `sound-mute-fill`
@@ -7037,10 +6955,9 @@ class LetsIconsIcons {
     IconData(0xe53a, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `target-duotone-line` (duo-tone)
-  static const IconifyIconData targetDuotoneLine = IconifyIconData.duo(
+  /// `target-duotone-line`
+  static const IconifyIconData targetDuotoneLine = IconifyIconData.solo(
     IconData(0xe53b, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe53b, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `target-fill`
@@ -7200,10 +7117,9 @@ class LetsIconsIcons {
     IconData(0xe559, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `time-atack-duotone` (duo-tone)
-  static const IconifyIconData timeAtackDuotone = IconifyIconData.duo(
+  /// `time-atack-duotone`
+  static const IconifyIconData timeAtackDuotone = IconifyIconData.solo(
     IconData(0xe55a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe55a, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `time-atack-duotone-line`
@@ -7226,10 +7142,9 @@ class LetsIconsIcons {
     IconData(0xe55e, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `time-duotone` (duo-tone)
-  static const IconifyIconData timeDuotone = IconifyIconData.duo(
+  /// `time-duotone`
+  static const IconifyIconData timeDuotone = IconifyIconData.solo(
     IconData(0xe55f, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe55f, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `time-duotone-line` (duo-tone)
@@ -7439,10 +7354,9 @@ class LetsIconsIcons {
     IconData(0xe587, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `tumer-duotone` (duo-tone)
-  static const IconifyIconData tumerDuotone = IconifyIconData.duo(
+  /// `tumer-duotone`
+  static const IconifyIconData tumerDuotone = IconifyIconData.solo(
     IconData(0xe588, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe588, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `tumer-duotone-line` (mask-internal duotone)
@@ -7471,10 +7385,9 @@ class LetsIconsIcons {
     IconData(0xe58d, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `unlock-duotone` (duo-tone)
-  static const IconifyIconData unlockDuotone = IconifyIconData.duo(
+  /// `unlock-duotone`
+  static const IconifyIconData unlockDuotone = IconifyIconData.solo(
     IconData(0xe58e, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe58e, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `unlock-duotone-line` (duo-tone)
@@ -7615,10 +7528,9 @@ class LetsIconsIcons {
     IconData(0xe5a8, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `user-box-duotone` (duo-tone)
-  static const IconifyIconData userBoxDuotone = IconifyIconData.duo(
+  /// `user-box-duotone`
+  static const IconifyIconData userBoxDuotone = IconifyIconData.solo(
     IconData(0xe5a9, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe5a9, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `user-box-duotone-line` (duo-tone)
@@ -7642,10 +7554,9 @@ class LetsIconsIcons {
     IconData(0xe5ad, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `user-cicrle-duotone` (duo-tone)
-  static const IconifyIconData userCicrleDuotone = IconifyIconData.duo(
+  /// `user-cicrle-duotone`
+  static const IconifyIconData userCicrleDuotone = IconifyIconData.solo(
     IconData(0xe5ae, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe5ae, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `user-cicrle-duotone-line` (duo-tone)
@@ -7670,10 +7581,9 @@ class LetsIconsIcons {
     IconData(0xe5b2, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `user-duotone-line` (duo-tone)
-  static const IconifyIconData userDuotoneLine = IconifyIconData.duo(
+  /// `user-duotone-line`
+  static const IconifyIconData userDuotoneLine = IconifyIconData.solo(
     IconData(0xe5b3, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe5b3, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `user-fill`
@@ -8062,16 +7972,14 @@ class LetsIconsIcons {
     IconData(0xe5fd, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `world-alt-duotone` (duo-tone)
-  static const IconifyIconData worldAltDuotone = IconifyIconData.duo(
+  /// `world-alt-duotone`
+  static const IconifyIconData worldAltDuotone = IconifyIconData.solo(
     IconData(0xe5fe, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe5fe, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `world-alt-duotone-line` (duo-tone)
-  static const IconifyIconData worldAltDuotoneLine = IconifyIconData.duo(
+  /// `world-alt-duotone-line`
+  static const IconifyIconData worldAltDuotoneLine = IconifyIconData.solo(
     IconData(0xe5ff, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe5ff, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `world-alt-fill`
@@ -8084,16 +7992,14 @@ class LetsIconsIcons {
     IconData(0xe601, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `world-duotone` (duo-tone)
-  static const IconifyIconData worldDuotone = IconifyIconData.duo(
+  /// `world-duotone`
+  static const IconifyIconData worldDuotone = IconifyIconData.solo(
     IconData(0xe602, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe602, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
-  /// `world-duotone-line` (duo-tone)
-  static const IconifyIconData worldDuotoneLine = IconifyIconData.duo(
+  /// `world-duotone-line`
+  static const IconifyIconData worldDuotoneLine = IconifyIconData.solo(
     IconData(0xe603, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
-    IconData(0xe603, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `world-fill`

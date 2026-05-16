@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Themesberg
 /// License: MIT — https://github.com/themesberg/flowbite-icons/blob/main/LICENSE
-/// Icons: 833
+/// Icons: 832
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3094,11 +3094,6 @@ class FlowbiteIcons {
   /// `pie-chart-solid`
   static const IconifyIconData pieChartSolid = IconifyIconData.solo(
     IconData(0xe267, fontFamily: 'Flowbite', fontPackage: 'iconifyx_flowbite'),
-  );
-
-  /// `pizza-slice-outline`
-  static const IconifyIconData pizzaSliceOutline = IconifyIconData.solo(
-    IconData(0xe268, fontFamily: 'Flowbite', fontPackage: 'iconifyx_flowbite'),
   );
 
   /// `pizza-slice-solid`

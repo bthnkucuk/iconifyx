@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
     },
-    "total": 1297
+    "total": 1297,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

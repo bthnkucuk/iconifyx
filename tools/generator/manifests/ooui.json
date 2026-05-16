@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT"
     },
-    "total": 365
+    "total": 365,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

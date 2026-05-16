@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/primefaces/primeicons/blob/master/LICENSE"
     },
-    "total": 313
+    "total": 313,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

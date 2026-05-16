@@ -1,37 +1,6 @@
 {
   "a1": [],
-  "a2": [
-    {
-      "code": "glyph-empty",
-      "codepoint": 57347,
-      "constant": "advancedSolutionsLab",
-      "detail": "Dart const 'advancedSolutionsLab' resolves to an empty glyph at 0xe003 in 'Gcp.ttf'",
-      "family": "Gcp",
-      "fontPackage": "iconifyx_gcp",
-      "prefix": "gcp",
-      "severity": "warn"
-    },
-    {
-      "code": "glyph-empty",
-      "codepoint": 57365,
-      "constant": "automl",
-      "detail": "Dart const 'automl' resolves to an empty glyph at 0xe015 in 'GcpSecondary.ttf'",
-      "family": "GcpSecondary",
-      "fontPackage": "iconifyx_gcp",
-      "prefix": "gcp",
-      "severity": "warn"
-    },
-    {
-      "code": "glyph-empty",
-      "codepoint": 57498,
-      "constant": "myCloud",
-      "detail": "Dart const 'myCloud' resolves to an empty glyph at 0xe09a in 'Gcp.ttf'",
-      "family": "Gcp",
-      "fontPackage": "iconifyx_gcp",
-      "prefix": "gcp",
-      "severity": "warn"
-    }
-  ],
+  "a2": [],
   "a3": [],
   "a3Skipped": null,
   "prefix": "gcp"

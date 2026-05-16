@@ -1,0 +1,74 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 930,
+  "liveCountPrevious": 937,
+  "newDeprecations": [
+    {
+      "codepoint": 57402,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Logos",
+      "iconName": "appveyor",
+      "identifier": "appveyor",
+      "prefix": "logos",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57454,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Logos",
+      "iconName": "brandfolder-icon",
+      "identifier": "brandfolderIcon",
+      "prefix": "logos",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57457,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Logos",
+      "iconName": "browserify",
+      "identifier": "browserify",
+      "prefix": "logos",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57651,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Logos",
+      "iconName": "geekbot",
+      "identifier": "geekbot",
+      "prefix": "logos",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57668,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Logos",
+      "iconName": "gnu-net",
+      "identifier": "gnuNet",
+      "prefix": "logos",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58186,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Logos",
+      "iconName": "tsu",
+      "identifier": "tsu",
+      "prefix": "logos",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 58190,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Logos",
+      "iconName": "tunein",
+      "identifier": "tunein",
+      "prefix": "logos",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "logos",
+  "previousIconifyJsonVersion": "2.2.472"
+}

@@ -1,0 +1,1433 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 282,
+  "liveCountPrevious": 440,
+  "newDeprecations": [
+    {
+      "codepoint": 57348,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "clear-day",
+      "identifier": "clearDay",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57349,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "clear-day-fill",
+      "identifier": "clearDayFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57350,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "clear-night",
+      "identifier": "clearNight",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57351,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "clear-night-fill",
+      "identifier": "clearNightFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57356,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "cloudy",
+      "identifier": "cloudy",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57358,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "code-green",
+      "identifier": "codeGreen",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57360,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "code-orange",
+      "identifier": "codeOrange",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57364,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "code-yellow",
+      "identifier": "codeYellow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57369,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "dust",
+      "identifier": "dust",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57370,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "dust-day",
+      "identifier": "dustDay",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57371,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "dust-day-fill",
+      "identifier": "dustDayFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57372,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "dust-fill",
+      "identifier": "dustFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57373,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "dust-night",
+      "identifier": "dustNight",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57374,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "dust-night-fill",
+      "identifier": "dustNightFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57375,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "dust-wind",
+      "identifier": "dustWind",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57376,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "dust-wind-fill",
+      "identifier": "dustWindFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57431,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "falling-stars",
+      "identifier": "fallingStars",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57432,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "falling-stars-fill",
+      "identifier": "fallingStarsFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57441,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "fog",
+      "identifier": "fog",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57442,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "fog-day",
+      "identifier": "fogDay",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57443,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "fog-day-fill",
+      "identifier": "fogDayFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57444,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "fog-fill",
+      "identifier": "fogFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57445,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "fog-night",
+      "identifier": "fogNight",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57446,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "fog-night-fill",
+      "identifier": "fogNightFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57449,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "hail",
+      "identifier": "hail",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57450,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "hail-fill",
+      "identifier": "hailFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57451,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "haze",
+      "identifier": "haze",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57452,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "haze-day",
+      "identifier": "hazeDay",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57453,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "haze-day-fill",
+      "identifier": "hazeDayFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57455,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "haze-night",
+      "identifier": "hazeNight",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57456,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "haze-night-fill",
+      "identifier": "hazeNightFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57461,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "hurricane",
+      "identifier": "hurricane",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57462,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "hurricane-fill",
+      "identifier": "hurricaneFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57463,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "lightning-bolt",
+      "identifier": "lightningBolt",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57464,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "lightning-bolt-fill",
+      "identifier": "lightningBoltFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57465,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "mist",
+      "identifier": "mist",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57466,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "mist-fill",
+      "identifier": "mistFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57467,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-first-quarter",
+      "identifier": "moonFirstQuarter",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57468,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-first-quarter-fill",
+      "identifier": "moonFirstQuarterFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57469,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-full",
+      "identifier": "moonFull",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57470,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-full-fill",
+      "identifier": "moonFullFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57471,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-last-quarter",
+      "identifier": "moonLastQuarter",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57472,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-last-quarter-fill",
+      "identifier": "moonLastQuarterFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57473,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-new",
+      "identifier": "moonNew",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57474,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-new-fill",
+      "identifier": "moonNewFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57475,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-waning-crescent",
+      "identifier": "moonWaningCrescent",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57476,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-waning-crescent-fill",
+      "identifier": "moonWaningCrescentFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57477,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-waning-gibbous",
+      "identifier": "moonWaningGibbous",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57478,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-waning-gibbous-fill",
+      "identifier": "moonWaningGibbousFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57479,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-waxing-crescent",
+      "identifier": "moonWaxingCrescent",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57480,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-waxing-crescent-fill",
+      "identifier": "moonWaxingCrescentFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57481,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-waxing-gibbous",
+      "identifier": "moonWaxingGibbous",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57482,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "moon-waxing-gibbous-fill",
+      "identifier": "moonWaxingGibbousFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57487,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast",
+      "identifier": "overcast",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57488,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-day",
+      "identifier": "overcastDay",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57492,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-day-fog",
+      "identifier": "overcastDayFog",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57494,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-day-hail",
+      "identifier": "overcastDayHail",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57496,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-day-haze",
+      "identifier": "overcastDayHaze",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57502,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-day-smoke",
+      "identifier": "overcastDaySmoke",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57504,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-day-snow",
+      "identifier": "overcastDaySnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57509,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-fog",
+      "identifier": "overcastFog",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57511,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-hail",
+      "identifier": "overcastHail",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57513,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-haze",
+      "identifier": "overcastHaze",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57515,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-night",
+      "identifier": "overcastNight",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57519,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-night-fog",
+      "identifier": "overcastNightFog",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57521,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-night-hail",
+      "identifier": "overcastNightHail",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57523,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-night-haze",
+      "identifier": "overcastNightHaze",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57529,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-night-smoke",
+      "identifier": "overcastNightSmoke",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57531,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-night-snow",
+      "identifier": "overcastNightSnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57537,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-smoke",
+      "identifier": "overcastSmoke",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57539,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "overcast-snow",
+      "identifier": "overcastSnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57541,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day",
+      "identifier": "partlyCloudyDay",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57544,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-fill",
+      "identifier": "partlyCloudyDayFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57545,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-fog",
+      "identifier": "partlyCloudyDayFog",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57546,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-fog-fill",
+      "identifier": "partlyCloudyDayFogFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57547,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-hail",
+      "identifier": "partlyCloudyDayHail",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57548,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-hail-fill",
+      "identifier": "partlyCloudyDayHailFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57549,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-haze",
+      "identifier": "partlyCloudyDayHaze",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57550,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-haze-fill",
+      "identifier": "partlyCloudyDayHazeFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57555,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-smoke",
+      "identifier": "partlyCloudyDaySmoke",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57556,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-smoke-fill",
+      "identifier": "partlyCloudyDaySmokeFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57557,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-snow",
+      "identifier": "partlyCloudyDaySnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57558,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-day-snow-fill",
+      "identifier": "partlyCloudyDaySnowFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57559,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night",
+      "identifier": "partlyCloudyNight",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57562,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-fill",
+      "identifier": "partlyCloudyNightFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57563,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-fog",
+      "identifier": "partlyCloudyNightFog",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57564,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-fog-fill",
+      "identifier": "partlyCloudyNightFogFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57565,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-hail",
+      "identifier": "partlyCloudyNightHail",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57566,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-hail-fill",
+      "identifier": "partlyCloudyNightHailFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57567,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-haze",
+      "identifier": "partlyCloudyNightHaze",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57568,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-haze-fill",
+      "identifier": "partlyCloudyNightHazeFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57573,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-smoke",
+      "identifier": "partlyCloudyNightSmoke",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57574,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-smoke-fill",
+      "identifier": "partlyCloudyNightSmokeFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57575,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-snow",
+      "identifier": "partlyCloudyNightSnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57576,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "partly-cloudy-night-snow-fill",
+      "identifier": "partlyCloudyNightSnowFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57577,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "pollen",
+      "identifier": "pollen",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57578,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "pollen-fill",
+      "identifier": "pollenFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57579,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "pollen-flower",
+      "identifier": "pollenFlower",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57581,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "pollen-grass",
+      "identifier": "pollenGrass",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57582,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "pollen-grass-fill",
+      "identifier": "pollenGrassFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57593,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "rainbow",
+      "identifier": "rainbow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57594,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "rainbow-clear",
+      "identifier": "rainbowClear",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57600,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "raindrop-measure-fill",
+      "identifier": "raindropMeasureFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57605,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "smoke",
+      "identifier": "smoke",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57606,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "smoke-fill",
+      "identifier": "smokeFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57607,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "smoke-particles",
+      "identifier": "smokeParticles",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57608,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "smoke-particles-fill",
+      "identifier": "smokeParticlesFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57609,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "snow",
+      "identifier": "snow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57610,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "snow-fill",
+      "identifier": "snowFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57611,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "snowflake",
+      "identifier": "snowflake",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57612,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "snowflake-fill",
+      "identifier": "snowflakeFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57614,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "solar-eclipse",
+      "identifier": "solarEclipse",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57615,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "solar-eclipse-fill",
+      "identifier": "solarEclipseFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57616,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "star",
+      "identifier": "star",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57617,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "star-fill",
+      "identifier": "starFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57618,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "starry-night",
+      "identifier": "starryNight",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57619,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "starry-night-fill",
+      "identifier": "starryNightFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57620,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "sun-hot",
+      "identifier": "sunHot",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57621,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "sun-hot-fill",
+      "identifier": "sunHotFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57634,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thermometer-glass",
+      "identifier": "thermometerGlass",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57656,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms",
+      "identifier": "thunderstorms",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57657,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-day",
+      "identifier": "thunderstormsDay",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57662,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-day-fill",
+      "identifier": "thunderstormsDayFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57663,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-day-overcast",
+      "identifier": "thunderstormsDayOvercast",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57665,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-day-overcast-snow",
+      "identifier": "thunderstormsDayOvercastSnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57667,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-day-snow",
+      "identifier": "thunderstormsDaySnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57668,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-day-snow-fill",
+      "identifier": "thunderstormsDaySnowFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57673,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-fill",
+      "identifier": "thunderstormsFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57674,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-night",
+      "identifier": "thunderstormsNight",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57679,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-night-fill",
+      "identifier": "thunderstormsNightFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57680,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-night-overcast",
+      "identifier": "thunderstormsNightOvercast",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57682,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-night-overcast-snow",
+      "identifier": "thunderstormsNightOvercastSnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57684,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-night-snow",
+      "identifier": "thunderstormsNightSnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57685,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-night-snow-fill",
+      "identifier": "thunderstormsNightSnowFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57686,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-overcast",
+      "identifier": "thunderstormsOvercast",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57688,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-overcast-snow",
+      "identifier": "thunderstormsOvercastSnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57690,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-snow",
+      "identifier": "thunderstormsSnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57691,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "thunderstorms-snow-fill",
+      "identifier": "thunderstormsSnowFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57712,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "tornado",
+      "identifier": "tornado",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57713,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "tornado-fill",
+      "identifier": "tornadoFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57721,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-1",
+      "identifier": "uvIndex1",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57722,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-1-fill",
+      "identifier": "uvIndex1Fill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57727,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-2",
+      "identifier": "uvIndex2",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57728,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-2-fill",
+      "identifier": "uvIndex2Fill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57729,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-3",
+      "identifier": "uvIndex3",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57730,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-3-fill",
+      "identifier": "uvIndex3Fill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57731,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-4",
+      "identifier": "uvIndex4",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57732,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-4-fill",
+      "identifier": "uvIndex4Fill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57733,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-5",
+      "identifier": "uvIndex5",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57734,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-5-fill",
+      "identifier": "uvIndex5Fill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57735,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-6",
+      "identifier": "uvIndex6",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57736,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-6-fill",
+      "identifier": "uvIndex6Fill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57737,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-7",
+      "identifier": "uvIndex7",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57738,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "uv-index-7-fill",
+      "identifier": "uvIndex7Fill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57744,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "wind",
+      "identifier": "wind",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57773,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "wind-fill",
+      "identifier": "windFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57778,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "wind-snow",
+      "identifier": "windSnow",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57779,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Meteocons",
+      "iconName": "wind-snow-fill",
+      "identifier": "windSnowFill",
+      "prefix": "meteocons",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "meteocons",
+  "previousIconifyJsonVersion": "2.2.472"
+}

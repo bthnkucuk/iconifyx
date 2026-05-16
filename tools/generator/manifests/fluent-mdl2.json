@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/microsoft/fluentui/blob/master/packages/react-icons-mdl2/LICENSE"
     },
-    "total": 1735
+    "total": 1735,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

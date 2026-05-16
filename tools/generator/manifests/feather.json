@@ -16,7 +16,12 @@
       "spdx": "MIT",
       "url": "https://github.com/feathericons/feather/blob/master/LICENSE"
     },
-    "total": 1144
+    "total": 1144,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

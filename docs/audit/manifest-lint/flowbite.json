@@ -1,17 +1,6 @@
 {
   "a1": [],
-  "a2": [
-    {
-      "code": "glyph-empty",
-      "codepoint": 57960,
-      "constant": "pizzaSliceOutline",
-      "detail": "Dart const 'pizzaSliceOutline' resolves to an empty glyph at 0xe268 in 'Flowbite.ttf'",
-      "family": "Flowbite",
-      "fontPackage": "iconifyx_flowbite",
-      "prefix": "flowbite",
-      "severity": "warn"
-    }
-  ],
+  "a2": [],
   "a3": [],
   "a3Skipped": null,
   "prefix": "flowbite"

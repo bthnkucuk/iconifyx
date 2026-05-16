@@ -16,7 +16,10 @@
       "spdx": "BSD-3-Clause",
       "url": "https://github.com/indiana-university/rivet-icons/blob/develop/LICENSE"
     },
-    "total": 210
+    "total": 210,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

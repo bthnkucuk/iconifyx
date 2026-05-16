@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/siemens/ix-icons/blob/main/LICENSE.md"
     },
-    "total": 1434
+    "total": 1434,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

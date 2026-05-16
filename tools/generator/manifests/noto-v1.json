@@ -16,13 +16,17 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE"
     },
-    "total": 647
+    "total": 633,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {
       "family": "NotoV1",
       "nextCodepoint": 57991,
-      "iconCount": 647
+      "iconCount": 633
     },
     {
       "family": "NotoV1Secondary",
@@ -120,7 +124,9 @@
     "atom-symbol": {
       "codepoint": 57360,
       "fontFamily": "NotoV1",
-      "identifier": "atomSymbol"
+      "identifier": "atomSymbol",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "b-button": {
       "codepoint": 57361,
@@ -195,7 +201,9 @@
     "birthday-cake": {
       "codepoint": 57373,
       "fontFamily": "NotoV1",
-      "identifier": "birthdayCake"
+      "identifier": "birthdayCake",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "black-heart": {
       "codepoint": 57374,
@@ -619,7 +627,9 @@
     "e-mail": {
       "codepoint": 57449,
       "fontFamily": "NotoV1",
-      "identifier": "eMail"
+      "identifier": "eMail",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "eagle": {
       "codepoint": 57450,
@@ -695,12 +705,16 @@
     "envelope": {
       "codepoint": 57461,
       "fontFamily": "NotoV1",
-      "identifier": "envelope"
+      "identifier": "envelope",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "envelope-with-arrow": {
       "codepoint": 57462,
       "fontFamily": "NotoV1",
-      "identifier": "envelopeWithArrow"
+      "identifier": "envelopeWithArrow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "exclamation-mark": {
       "codepoint": 57463,
@@ -998,7 +1012,9 @@
     "handshake": {
       "codepoint": 57512,
       "fontFamily": "NotoV1",
-      "identifier": "handshake"
+      "identifier": "handshake",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "heart-decoration": {
       "codepoint": 57513,
@@ -1095,7 +1111,9 @@
     "incoming-envelope": {
       "codepoint": 57529,
       "fontFamily": "NotoV1",
-      "identifier": "incomingEnvelope"
+      "identifier": "incomingEnvelope",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "information": {
       "codepoint": 57530,
@@ -1454,7 +1472,9 @@
     "letter-o": {
       "codepoint": 57588,
       "fontFamily": "NotoV1",
-      "identifier": "letterO"
+      "identifier": "letterO",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "letter-p": {
       "codepoint": 57589,
@@ -2292,12 +2312,16 @@
     "peace-symbol": {
       "codepoint": 57736,
       "fontFamily": "NotoV1",
-      "identifier": "peaceSymbol"
+      "identifier": "peaceSymbol",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "peanuts": {
       "codepoint": 57737,
       "fontFamily": "NotoV1",
-      "identifier": "peanuts"
+      "identifier": "peanuts",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "pensive-face": {
       "codepoint": 57738,
@@ -2872,7 +2896,9 @@
     "skull-and-crossbones": {
       "codepoint": 57838,
       "fontFamily": "NotoV1",
-      "identifier": "skullAndCrossbones"
+      "identifier": "skullAndCrossbones",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "small-blue-diamond": {
       "codepoint": 57839,
@@ -3005,7 +3031,9 @@
     "star-of-david": {
       "codepoint": 57860,
       "fontFamily": "NotoV1",
-      "identifier": "starOfDavid"
+      "identifier": "starOfDavid",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "stop-button": {
       "codepoint": 57861,
@@ -3056,7 +3084,9 @@
     "thermometer": {
       "codepoint": 57869,
       "fontFamily": "NotoV1",
-      "identifier": "thermometer"
+      "identifier": "thermometer",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "thinking-face": {
       "codepoint": 57870,
@@ -3212,7 +3242,9 @@
     "unknown-flag": {
       "codepoint": 57893,
       "fontFamily": "NotoV1",
-      "identifier": "unknownFlag"
+      "identifier": "unknownFlag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "up-arrow": {
       "codepoint": 57894,

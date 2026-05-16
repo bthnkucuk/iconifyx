@@ -16,7 +16,12 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 716
+    "total": 716,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

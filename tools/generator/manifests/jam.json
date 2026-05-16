@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/cyberalien/jam-backup/blob/main/LICENSE"
     },
-    "total": 940
+    "total": 940,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/stash-ui/icons/blob/master/LICENSE"
     },
-    "total": 980
+    "total": 980,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

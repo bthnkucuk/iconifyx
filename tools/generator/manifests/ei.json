@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/evil-icons/evil-icons/blob/master/LICENSE.txt"
     },
-    "total": 70
+    "total": 70,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

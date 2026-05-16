@@ -2,6 +2,9 @@ import { Readable } from 'node:stream';
 import { Buffer } from 'node:buffer';
 import { SVGIcons2SVGFontStream } from 'svgicons2svgfont';
 import svg2ttf from 'svg2ttf';
+// @ts-expect-error fontkit's published types aren't picked up under bun's
+// resolver (same shim as font_verify.ts). Runtime API is stable.
+import * as fontkit from 'fontkit';
 import type { Manifest, ManifestFontEntry } from './manifest.ts';
 import type { ResolvedIcon } from './load_iconify.ts';
 import { iconToSvg } from './svg_preprocess.ts';
@@ -140,6 +143,69 @@ async function buildOneFontWithRetry(
 
   log.warn(`font ${fontEntry.family} exhausted all members; emitting nothing`);
   return null;
+}
+
+/**
+ * Inspect a freshly-built TTF and return the subset of `members` whose glyph
+ * came out EMPTY (path.commands.length === 0).
+ *
+ * Background: `svgicons2svgfont` + `svg2ttf` can silently drop path data
+ * during the SVG-font → TTF serialization step. The earlier glyph wasn't
+ * rejected (no JS error) but the TTF entry contains a glyph slot with no
+ * outline — Flutter renders that as `.notdef` (a blank box). Hundreds of
+ * those used to ship undetected; `FONT_AUDIT.md` flagged ~569 across 37
+ * fonts at last regen.
+ *
+ * The check operates on the in-memory Buffer (no disk IO) so the iterate-
+ * until-empty loop in `pipeline.ts` can run it before the per-pack write
+ * step. fontkit's `create()` takes raw bytes; failure to open returns
+ * `{ ok: false }` so the caller can short-circuit and accept the TTF
+ * verbatim (treating it as 'no empties found' — same shape `font_verify`
+ * uses).
+ */
+export interface VerifyGlyphsResult {
+  /** True if every member's glyph has at least one path command. */
+  ok: boolean;
+  /** Member names whose glyph is empty in the built TTF. */
+  emptyMembers: string[];
+  /**
+   * Set when the font couldn't be opened by fontkit. Treated as `ok: true`
+   * from the caller's POV — we can't recover what we can't inspect, and
+   * `font_verify.ts` will flag it as `fontError` in FONT_AUDIT.md anyway.
+   */
+  openError?: string;
+}
+
+export function verifyGlyphsNonEmpty(
+  ttfBytes: Buffer,
+  members: readonly { name: string; codepoint: number }[]
+): VerifyGlyphsResult {
+  let font:
+    | {
+        hasGlyphForCodePoint?: (cp: number) => boolean;
+        glyphForCodePoint?: (cp: number) => { path?: { commands?: unknown[] } };
+      }
+    | null = null;
+  try {
+    font = (fontkit as unknown as { create: (b: Buffer) => typeof font }).create(
+      ttfBytes
+    );
+  } catch (e) {
+    return {
+      ok: true,
+      emptyMembers: [],
+      openError: e instanceof Error ? e.message.slice(0, 200) : String(e),
+    };
+  }
+
+  const emptyMembers: string[] = [];
+  for (const m of members) {
+    if (!font?.hasGlyphForCodePoint?.(m.codepoint)) continue;
+    const glyph = font.glyphForCodePoint?.(m.codepoint);
+    const commands = glyph?.path?.commands ?? [];
+    if (commands.length === 0) emptyMembers.push(m.name);
+  }
+  return { ok: emptyMembers.length === 0, emptyMembers };
 }
 
 async function buildOneFont(

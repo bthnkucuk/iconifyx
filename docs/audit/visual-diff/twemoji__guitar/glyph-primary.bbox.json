@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/Twemoji.ttf",
+  "codepoint": "0xe7fe",
+  "glyphName": "guitar",
+  "advance": 1000,
+  "lsb": -875,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": -871.3157894736842,
+    "yMin": 17.94202898550725,
+    "xMax": 115,
+    "yMax": 1002.4615384615385,
+    "width": 986.3157894736842,
+    "height": 984.5195094760312,
+    "cx": -378.1578947368421,
+    "cy": 510.20178372352285
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

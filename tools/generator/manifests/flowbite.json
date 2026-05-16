@@ -16,13 +16,16 @@
       "spdx": "MIT",
       "url": "https://github.com/themesberg/flowbite-icons/blob/main/LICENSE"
     },
-    "total": 833
+    "total": 832,
+    "tags": [
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {
       "family": "Flowbite",
       "nextCodepoint": 58177,
-      "iconCount": 833
+      "iconCount": 832
     }
   ],
   "icons": {
@@ -3109,7 +3112,9 @@
     "pizza-slice-outline": {
       "codepoint": 57960,
       "fontFamily": "Flowbite",
-      "identifier": "pizzaSliceOutline"
+      "identifier": "pizzaSliceOutline",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "pizza-slice-solid": {
       "codepoint": 57961,

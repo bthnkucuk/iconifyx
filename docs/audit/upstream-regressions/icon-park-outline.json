@@ -1,0 +1,20 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 2657,
+  "liveCountPrevious": 2658,
+  "newDeprecations": [
+    {
+      "codepoint": 59855,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "IconParkOutline",
+      "iconName": "upload",
+      "identifier": "upload",
+      "prefix": "icon-park-outline",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "icon-park-outline",
+  "previousIconifyJsonVersion": "2.2.472"
+}

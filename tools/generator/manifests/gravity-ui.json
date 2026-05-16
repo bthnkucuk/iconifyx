@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/gravity-ui/icons/blob/main/LICENSE"
     },
-    "total": 781
+    "total": 781,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

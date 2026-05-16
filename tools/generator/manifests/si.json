@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/planetabhi/sargam-icons/blob/main/LICENSE.txt"
     },
-    "total": 1305
+    "total": 1305,
+    "tags": [
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

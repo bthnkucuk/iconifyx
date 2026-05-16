@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/codex-team/icons/blob/master/LICENSE"
     },
-    "total": 78
+    "total": 78,
+    "tags": [
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

@@ -29,6 +29,15 @@ export interface AllocationInput {
   fontFamilyBase: string;
   /** Live icon names (no aliases resolved here — caller passes the final set). */
   iconNames: string[];
+  /**
+   * Map of alias-name → canonical-name for pure-rename aliases (§22 Rec 1).
+   * Pipelines pass this for icons whose body is identical to a canonical
+   * icon's body — the allocator assigns the SAME codepoint to the alias so
+   * the alias glyph never takes up font space. Aliases that DON'T appear
+   * here are treated as standalone icons (typically because they carry
+   * a hFlip / rotate / etc. transform that materially changes the glyph).
+   */
+  aliasOf?: Record<string, string>;
   /** Existing manifest, or null for a fresh set. */
   previous: Manifest | null;
 }
@@ -47,6 +56,7 @@ export interface AllocationResult {
  */
 export function allocateCodepoints(input: AllocationInput): AllocationResult {
   const { fontFamilyBase, iconNames, previous } = input;
+  const aliasOfMap = input.aliasOf ?? {};
 
   const liveSet = new Set(iconNames);
 
@@ -93,11 +103,21 @@ export function allocateCodepoints(input: AllocationInput): AllocationResult {
     if (f) f.iconCount += 1;
   };
 
-  // Pass 1: preserve existing assignments (sorted for stability).
+  // Pass 1: preserve existing CANONICAL assignments (sorted for stability).
+  // Aliases (§22 Rec 1) are handled separately in Pass 3 below — they
+  // always point at their canonical's codepoint, even when the previous
+  // manifest assigned them their own (a one-time §22 Rec 1 migration).
+  // Skipping aliases here also means an alias-name that previously
+  // claimed an identifier doesn't permanently reserve that identifier
+  // against the canonical's reuse.
   const prevIcons = previous?.icons ?? {};
   const prevNames = Object.keys(prevIcons).sort();
+  const today = new Date().toISOString().slice(0, 10);
   for (const name of prevNames) {
     const prev = prevIcons[name]!;
+    const isAliasNow = name in aliasOfMap;
+    const wasAlias = prev.aliasOf !== undefined;
+    if (isAliasNow || wasAlias) continue;
     const isLive = liveSet.has(name);
     icons[name] = {
       codepoint: prev.codepoint,
@@ -107,16 +127,26 @@ export function allocateCodepoints(input: AllocationInput): AllocationResult {
         ? {}
         : {
             deprecated: true,
-            deprecatedSince: prev.deprecatedSince ?? new Date().toISOString().slice(0, 10),
+            deprecatedSince: prev.deprecatedSince ?? today,
+            // Preserve existing reason if previously recorded; otherwise
+            // freshly-detected "no longer in upstream" is the upstream-
+            // removed bucket. The pipeline can OVERWRITE this later at a
+            // specific drop site (validator / panic / paint-order) when
+            // it has more precise attribution.
+            deprecatedReason:
+              prev.deprecatedReason ??
+              (prev.deprecated ? 'unknown' : 'upstream-removed'),
           }),
     };
     claimedIdentifiers.add(prev.identifier);
     if (isLive) incrementLiveCount(prev.fontFamily);
   }
 
-  // Pass 2: assign codepoints to new icons (sorted alphabetically for determinism).
+  // Pass 2: assign codepoints to new CANONICAL icons (sorted alphabetically
+  // for determinism). Pure-rename aliases are skipped here — they don't
+  // claim font space, only a Dart identifier (Pass 3).
   const newIcons = iconNames
-    .filter((n) => !prevIcons[n])
+    .filter((n) => !prevIcons[n] && !(n in aliasOfMap))
     .sort();
   for (const name of newIcons) {
     const { font } = ensureFontWithRoom();
@@ -132,6 +162,31 @@ export function allocateCodepoints(input: AllocationInput): AllocationResult {
       codepoint,
       fontFamily: font.family,
       identifier,
+    };
+  }
+
+  // Pass 3: emit alias entries pointing at their canonical's codepoint
+  // (§22 Rec 1). An alias whose canonical was skipped (validator drop /
+  // not in live set) gets dropped here too — we can't honour an alias
+  // without a glyph to point at. Identifier preference order:
+  //   1. Previous identifier (preserves Dart-side rename stability)
+  //   2. Freshly sanitised from the alias name, with collision suffix
+  const aliasNames = iconNames.filter((n) => n in aliasOfMap).sort();
+  for (const name of aliasNames) {
+    const canonicalName = aliasOfMap[name]!;
+    const canonical = icons[canonicalName];
+    if (!canonical || canonical.deprecated) continue;
+    const prevEntry = prevIcons[name];
+    const identifier =
+      prevEntry?.identifier && !claimedIdentifiers.has(prevEntry.identifier)
+        ? prevEntry.identifier
+        : sanitizeIdentifier(name, claimedIdentifiers);
+    claimedIdentifiers.add(identifier);
+    icons[name] = {
+      codepoint: canonical.codepoint,
+      fontFamily: canonical.fontFamily,
+      identifier,
+      aliasOf: canonicalName,
     };
   }
 

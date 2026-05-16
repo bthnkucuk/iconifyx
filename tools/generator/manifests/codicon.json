@@ -16,13 +16,17 @@
       "spdx": "CC-BY-4.0",
       "url": "https://github.com/microsoft/vscode-codicons/blob/main/LICENSE"
     },
-    "total": 568
+    "total": 567,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {
       "family": "Codicon",
       "nextCodepoint": 57912,
-      "iconCount": 568
+      "iconCount": 567
     }
   ],
   "icons": {
@@ -179,7 +183,9 @@
     "blank": {
       "codepoint": 57374,
       "fontFamily": "Codicon",
-      "identifier": "blank"
+      "identifier": "blank",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "bold": {
       "codepoint": 57375,

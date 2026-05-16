@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/jaynewey/charm-icons/blob/main/LICENSE"
     },
-    "total": 263
+    "total": 263,
+    "tags": [
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

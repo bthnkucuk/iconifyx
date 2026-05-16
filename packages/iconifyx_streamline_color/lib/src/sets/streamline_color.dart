@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 1996 (split across 2 fonts)
+/// Icons: 1995 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -4680,11 +4680,6 @@ class StreamlineColorIcons {
   /// `gold`
   static const IconifyIconData gold = IconifyIconData.solo(
     IconData(0xe360, fontFamily: 'StreamlineColor', fontPackage: 'iconifyx_streamline_color'),
-  );
-
-  /// `gold-flat`
-  static const IconifyIconData goldFlat = IconifyIconData.solo(
-    IconData(0xe361, fontFamily: 'StreamlineColor', fontPackage: 'iconifyx_streamline_color'),
   );
 
   /// `good-health-and-well-being`

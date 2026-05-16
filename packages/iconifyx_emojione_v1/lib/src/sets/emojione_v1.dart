@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Emoji One
 /// License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-/// Icons: 367 (split across 2 fonts)
+/// Icons: 365 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -245,11 +245,6 @@ class EmojioneV1Icons {
   static const IconifyIconData crossMarkButton = IconifyIconData.duo(
     IconData(0xe027, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe027, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `crown`
-  static const IconifyIconData crown = IconifyIconData.solo(
-    IconData(0xe028, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `customs`
@@ -2030,11 +2025,6 @@ class EmojioneV1Icons {
   static const IconifyIconData whiteSquareButton = IconifyIconData.duo(
     IconData(0xe16b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe16b, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `womans-sandal`
-  static const IconifyIconData womansSandal = IconifyIconData.solo(
-    IconData(0xe16c, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `world-map`

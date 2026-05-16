@@ -1,0 +1,20 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 74,
+  "liveCountPrevious": 75,
+  "newDeprecations": [
+    {
+      "codepoint": 57353,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "FlatUi",
+      "iconName": "box",
+      "identifier": "box",
+      "prefix": "flat-ui",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "flat-ui",
+  "previousIconifyJsonVersion": "2.2.472"
+}

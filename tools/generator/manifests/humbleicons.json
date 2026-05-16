@@ -16,7 +16,12 @@
       "spdx": "MIT",
       "url": "https://github.com/zraly/humbleicons/blob/master/license"
     },
-    "total": 288
+    "total": 288,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

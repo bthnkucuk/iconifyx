@@ -16,7 +16,10 @@
       "spdx": "OFL-1.1",
       "url": "https://github.com/yne/picon/blob/master/OFL.txt"
     },
-    "total": 824
+    "total": 824,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

@@ -16,13 +16,13 @@
       "spdx": "CC0-1.0",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "total": 481
+    "total": 446
   },
   "fonts": [
     {
       "family": "CryptocurrencyColor",
       "nextCodepoint": 57825,
-      "iconCount": 481
+      "iconCount": 446
     },
     {
       "family": "CryptocurrencyColorSecondary",
@@ -34,7 +34,9 @@
     "0xbtc": {
       "codepoint": 57344,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "n0xbtc"
+      "identifier": "n0xbtc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "1inch": {
       "codepoint": 57345,
@@ -44,7 +46,9 @@
     "2give": {
       "codepoint": 57346,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "n2give"
+      "identifier": "n2give",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "aave": {
       "codepoint": 57347,
@@ -125,7 +129,9 @@
     "aion": {
       "codepoint": 57359,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "aion"
+      "identifier": "aion",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "algo": {
       "codepoint": 57360,
@@ -238,7 +244,9 @@
     "atlas": {
       "codepoint": 57376,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "atlas"
+      "identifier": "atlas",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "atm": {
       "codepoint": 57377,
@@ -532,7 +540,9 @@
     "btdx": {
       "codepoint": 57420,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "btdx"
+      "identifier": "btdx",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "btg": {
       "codepoint": 57421,
@@ -584,12 +594,16 @@
     "call": {
       "codepoint": 57428,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "call"
+      "identifier": "call",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cc": {
       "codepoint": 57429,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cc"
+      "identifier": "cc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cdn": {
       "codepoint": 57430,
@@ -615,7 +629,9 @@
     "chain": {
       "codepoint": 57433,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "chain"
+      "identifier": "chain",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "chat": {
       "codepoint": 57434,
@@ -968,12 +984,16 @@
     "ela": {
       "codepoint": 57486,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ela"
+      "identifier": "ela",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "elec": {
       "codepoint": 57487,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "elec"
+      "identifier": "elec",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "elf": {
       "codepoint": 57488,
@@ -985,7 +1005,9 @@
     "elix": {
       "codepoint": 57489,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "elix"
+      "identifier": "elix",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ella": {
       "codepoint": 57490,
@@ -1011,7 +1033,9 @@
     "emc2": {
       "codepoint": 57493,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "emc2"
+      "identifier": "emc2",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "eng": {
       "codepoint": 57494,
@@ -1078,7 +1102,9 @@
     "ethos": {
       "codepoint": 57504,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ethos"
+      "identifier": "ethos",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "etn": {
       "codepoint": 57505,
@@ -1139,7 +1165,9 @@
     "fida": {
       "codepoint": 57513,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "fida"
+      "identifier": "fida",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "fil": {
       "codepoint": 57514,
@@ -1151,7 +1179,9 @@
     "fjc": {
       "codepoint": 57515,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "fjc"
+      "identifier": "fjc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "fldc": {
       "codepoint": 57516,
@@ -1262,7 +1292,9 @@
     "gmt": {
       "codepoint": 57532,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gmt"
+      "identifier": "gmt",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "gno": {
       "codepoint": 57533,
@@ -1356,7 +1388,9 @@
     "gzr": {
       "codepoint": 57546,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gzr"
+      "identifier": "gzr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "hight": {
       "codepoint": 57547,
@@ -1474,7 +1508,9 @@
     "ins": {
       "codepoint": 57564,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ins"
+      "identifier": "ins",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ion": {
       "codepoint": 57565,
@@ -1486,7 +1522,9 @@
     "iop": {
       "codepoint": 57566,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "iop"
+      "identifier": "iop",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "iost": {
       "codepoint": 57567,
@@ -1498,7 +1536,9 @@
     "iotx": {
       "codepoint": 57568,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "iotx"
+      "identifier": "iotx",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "iq": {
       "codepoint": 57569,
@@ -1550,7 +1590,9 @@
     "knc": {
       "codepoint": 57576,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "knc"
+      "identifier": "knc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "krb": {
       "codepoint": 57577,
@@ -1602,7 +1644,9 @@
     "loom": {
       "codepoint": 57584,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "loom"
+      "identifier": "loom",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "lpt": {
       "codepoint": 57585,
@@ -1642,7 +1686,9 @@
     "maid": {
       "codepoint": 57590,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "maid"
+      "identifier": "maid",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "matic": {
       "codepoint": 57591,
@@ -1769,7 +1815,9 @@
     "msr": {
       "codepoint": 57609,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "msr"
+      "identifier": "msr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mth": {
       "codepoint": 57610,
@@ -1856,7 +1904,9 @@
     "neu": {
       "codepoint": 57622,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "neu"
+      "identifier": "neu",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nexo": {
       "codepoint": 57623,
@@ -1915,12 +1965,16 @@
     "npxs": {
       "codepoint": 57631,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "npxs"
+      "identifier": "npxs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ntbc": {
       "codepoint": 57632,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ntbc"
+      "identifier": "ntbc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "nuls": {
       "codepoint": 57633,
@@ -2078,7 +2132,9 @@
     "pink": {
       "codepoint": 57656,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pink"
+      "identifier": "pink",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "pirl": {
       "codepoint": 57657,
@@ -2372,7 +2428,9 @@
     "safemoon": {
       "codepoint": 57700,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "safemoon"
+      "identifier": "safemoon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "sai": {
       "codepoint": 57701,
@@ -2426,7 +2484,9 @@
     "ser": {
       "codepoint": 57708,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ser"
+      "identifier": "ser",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "shift": {
       "codepoint": 57709,
@@ -2793,7 +2853,9 @@
     "unity": {
       "codepoint": 57764,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "unity"
+      "identifier": "unity",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "usd": {
       "codepoint": 57765,
@@ -2937,7 +2999,9 @@
     "wings": {
       "codepoint": 57786,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "wings"
+      "identifier": "wings",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "wpr": {
       "codepoint": 57787,
@@ -3165,17 +3229,23 @@
     "zen": {
       "codepoint": 57820,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "zen"
+      "identifier": "zen",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "zest": {
       "codepoint": 57821,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "zest"
+      "identifier": "zest",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "zil": {
       "codepoint": 57822,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "zil"
+      "identifier": "zil",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "zilla": {
       "codepoint": 57823,

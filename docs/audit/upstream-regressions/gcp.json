@@ -1,0 +1,38 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 211,
+  "liveCountPrevious": 214,
+  "newDeprecations": [
+    {
+      "codepoint": 57347,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Gcp",
+      "iconName": "advanced-solutions-lab",
+      "identifier": "advancedSolutionsLab",
+      "prefix": "gcp",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57365,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Gcp",
+      "iconName": "automl",
+      "identifier": "automl",
+      "prefix": "gcp",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57498,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "Gcp",
+      "iconName": "my-cloud",
+      "identifier": "myCloud",
+      "prefix": "gcp",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "gcp",
+  "previousIconifyJsonVersion": "2.2.472"
+}

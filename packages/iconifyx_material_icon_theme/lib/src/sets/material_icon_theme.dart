@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Material Extensions
 /// License: MIT — https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE
-/// Icons: 780 (split across 2 fonts)
+/// Icons: 775 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -53,11 +53,6 @@ class MaterialIconThemeIcons {
   /// `android`
   static const IconifyIconData android = IconifyIconData.solo(
     IconData(0xe006, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `apiblueprint`
-  static const IconifyIconData apiblueprint = IconifyIconData.solo(
-    IconData(0xe007, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `appveyor`
@@ -3627,12 +3622,6 @@ class MaterialIconThemeIcons {
     IconData(0xe26d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `mjml` (paint-order duotone)
-  static const IconifyIconData mjml = IconifyIconData.duo(
-    IconData(0xe26e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe26e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
   /// `moonscript`
   static const IconifyIconData moonscript = IconifyIconData.solo(
     IconData(0xe26f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -4106,11 +4095,6 @@ class MaterialIconThemeIcons {
     IconData(0xe2c9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `stylelint`
-  static const IconifyIconData stylelint = IconifyIconData.solo(
-    IconData(0xe2ca, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `stylus`
   static const IconifyIconData stylus = IconifyIconData.solo(
     IconData(0xe2cb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -4389,11 +4373,6 @@ class MaterialIconThemeIcons {
     IconData(0xe2fe, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `wakatime`
-  static const IconifyIconData wakatime = IconifyIconData.solo(
-    IconData(0xe2ff, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `wakatime-light`
   static const IconifyIconData wakatimeLight = IconifyIconData.solo(
     IconData(0xe300, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -4423,11 +4402,6 @@ class MaterialIconThemeIcons {
   /// `wepy`
   static const IconifyIconData wepy = IconifyIconData.solo(
     IconData(0xe305, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `windicss`
-  static const IconifyIconData windicss = IconifyIconData.solo(
-    IconData(0xe306, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `wrangler` (paint-order duotone)

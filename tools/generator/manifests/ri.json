@@ -16,7 +16,11 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/cyberalien/RemixIcon/blob/master/License"
     },
-    "total": 3241
+    "total": 3241,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

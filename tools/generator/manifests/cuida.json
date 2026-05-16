@@ -16,7 +16,11 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/Sysvale/cuida-icons/blob/main/LICENSE"
     },
-    "total": 182
+    "total": 182,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

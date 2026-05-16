@@ -131,7 +131,7 @@ colorMappedSets:
 vtracerSets:
   - circle-flags
   - twemoji
-#   - fluent-emoji-flat
+  - fluent-emoji-flat
 #   - noto
 
 # Pretty names for Iconify category strings (example app drawer headers).

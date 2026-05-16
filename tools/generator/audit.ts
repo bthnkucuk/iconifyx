@@ -55,6 +55,55 @@ const COMMANDS: Record<string, AuditCommand> = {
       if (code !== 0) process.exit(code);
     },
   },
+  'orphan-const-fix': {
+    description:
+      'Deprecate orphan-const empty-glyph icons surfaced by manifest-lint A2 (§16-A2 remediation). Read-only by default; pass --apply to mutate manifests.',
+    run: async (args) => {
+      const mod = await import('./audit/orphan_const_fix.ts');
+      // The orphan-const-fix audit owns its own --apply flag in addition
+      // to the shared --prefix sniffer. Forward both — apply must travel
+      // through the raw args, --prefix is handled both here (for type-
+      // narrowing) and inside the audit module for safety.
+      process.argv = [process.argv[0]!, process.argv[1]!, ...args];
+      const { prefixes } = parseSharedFlags(args);
+      const apply = args.includes('--apply');
+      await mod.runOrphanConstFixAudit({ prefixes, apply });
+    },
+  },
+  'upstream-regressions': {
+    description:
+      'Diff every manifest vs git HEAD; surface NEW deprecations bucketed by `deprecatedReason` (§16-A8). Flags suspicious packs where validator / panic / paint-order drops landed without an `iconifyJsonVersion` bump.',
+    run: async (args) => {
+      const mod = await import('./audit/upstream_regressions.ts');
+      process.argv = [process.argv[0]!, process.argv[1]!, ...args];
+      await mod.runUpstreamRegressionsAudit(parseSharedFlags(args));
+    },
+  },
+  'secondary-name-check': {
+    description:
+      'Verify every duotone icon\'s secondary TTF cmap resolves to its own glyph by name (catches svg2ttf cmap-dedup aliasing — RESEARCH_PLAN §33 demote rule). Read-only — pipeline applies the demote on next regen.',
+    run: async (args) => {
+      const flags = parseSharedFlags(args);
+      const { listManifestPrefixes, readManifest } = await import(
+        './src/manifest.ts'
+      );
+      const { writeSecondaryNameAudit } = await import('./src/font_verify.ts');
+      const prefixes = await listManifestPrefixes();
+      const targets = flags.prefixes
+        ? prefixes.filter((p) => flags.prefixes!.has(p))
+        : prefixes;
+      const manifests = [];
+      for (const p of targets) {
+        const m = await readManifest(p);
+        if (m) manifests.push(m);
+      }
+      const { totalDeclared, totalAliased, totalMissing } =
+        await writeSecondaryNameAudit(manifests);
+      log.info(
+        `secondary-name-check: ${totalDeclared.toLocaleString('en-US')} declared duotones; ${totalAliased.toLocaleString('en-US')} aliased; ${totalMissing.toLocaleString('en-US')} missing`
+      );
+    },
+  },
 };
 
 function parseSharedFlags(args: string[]): { prefixes?: Set<string> } {
@@ -77,7 +126,7 @@ function printHelp(): void {
   lines.push('');
   lines.push('Available audits:');
   for (const [name, cmd] of Object.entries(COMMANDS)) {
-    lines.push(`  ${name.padEnd(18)} ${cmd.description}`);
+    lines.push(`  ${name.padEnd(22)} ${cmd.description}`);
   }
   console.log(lines.join('\n'));
 }

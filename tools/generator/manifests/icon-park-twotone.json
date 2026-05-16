@@ -16,7 +16,12 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
     },
-    "total": 1947
+    "total": 1947,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

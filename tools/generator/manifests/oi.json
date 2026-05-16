@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE"
     },
-    "total": 223
+    "total": 223,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

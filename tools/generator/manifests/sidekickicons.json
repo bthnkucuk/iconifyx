@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/ndri/sidekickicons/blob/master/LICENSE"
     },
-    "total": 232
+    "total": 232,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

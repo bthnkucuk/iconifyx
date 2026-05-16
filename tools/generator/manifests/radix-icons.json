@@ -16,13 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/radix-ui/icons/blob/master/LICENSE"
     },
-    "total": 345
+    "total": 344,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {
       "family": "RadixIcons",
       "nextCodepoint": 57689,
-      "iconCount": 345
+      "iconCount": 344
     },
     {
       "family": "RadixIconsSecondary",
@@ -1658,7 +1662,9 @@
     "transparency-grid": {
       "codepoint": 57668,
       "fontFamily": "RadixIcons",
-      "identifier": "transparencyGrid"
+      "identifier": "transparencyGrid",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "trash": {
       "codepoint": 57669,

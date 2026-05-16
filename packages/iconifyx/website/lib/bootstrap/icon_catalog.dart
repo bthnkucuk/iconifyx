@@ -78,6 +78,7 @@ class PackSummary {
     required this.iconCount,
     required this.duotoneCount,
     required this.preview,
+    required this.fontFamilies,
   });
 
   final String prefix;
@@ -91,6 +92,18 @@ class PackSummary {
   final int iconCount;
   final int duotoneCount;
   final List<IconRecord> preview;
+
+  /// Bare font-family names declared by this pack — e.g. `["Mdi", "Mdi_2"]`
+  /// for split sets, or `["AntDesign", "AntDesignSecondary"]` when duotone
+  /// variants exist. Sourced from `packs.json`'s `fonts[].family` array
+  /// (which `website_codegen.ts` emits including secondaries).
+  ///
+  /// Used by [FontLoaderService] to compute the per-pack asset paths
+  /// (`packages/<packageName>/assets/fonts/<family>.ttf`) and the
+  /// `FontLoader` family keys (`packages/<packageName>/<family>`) that
+  /// match what `IconData(..., fontFamily, fontPackage)` resolves to at
+  /// paint time.
+  final List<String> fontFamilies;
 }
 
 @immutable
@@ -172,6 +185,9 @@ PackSummary _parsePack(Map<String, dynamic> p) {
         );
       })
       .toList(growable: false);
+  final fontFamilies = ((p['fonts'] as List?) ?? const [])
+      .map((f) => (f as Map<String, dynamic>)['family'] as String)
+      .toList(growable: false);
   return PackSummary(
     prefix: prefix,
     packageName: pkg,
@@ -184,6 +200,7 @@ PackSummary _parsePack(Map<String, dynamic> p) {
     iconCount: p['iconCount'] as int,
     duotoneCount: p['duotoneCount'] as int,
     preview: preview,
+    fontFamilies: fontFamilies,
   );
 }
 

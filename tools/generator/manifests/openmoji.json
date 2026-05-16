@@ -16,13 +16,18 @@
       "spdx": "CC-BY-SA-4.0",
       "url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
-    "total": 4049
+    "total": 4048,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {
       "family": "Openmoji",
       "nextCodepoint": 61393,
-      "iconCount": 4049
+      "iconCount": 4048
     },
     {
       "family": "OpenmojiSecondary",
@@ -15554,7 +15559,9 @@
     "signal": {
       "codepoint": 60448,
       "fontFamily": "Openmoji",
-      "identifier": "signal"
+      "identifier": "signal",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "simple": {
       "codepoint": 60449,

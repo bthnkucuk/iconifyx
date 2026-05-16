@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Microsoft Corporation
 /// License: MIT — https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
-/// Icons: 2777 (split across 2 fonts)
+/// Icons: 2767 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -391,36 +391,6 @@ class FluentEmojiIcons {
     IconData(0xe04a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
-  /// `backhand-index-pointing-right`
-  static const IconifyIconData backhandIndexPointingRight = IconifyIconData.solo(
-    IconData(0xe04b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
-  /// `backhand-index-pointing-right-dark`
-  static const IconifyIconData backhandIndexPointingRightDark = IconifyIconData.solo(
-    IconData(0xe04c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
-  /// `backhand-index-pointing-right-light`
-  static const IconifyIconData backhandIndexPointingRightLight = IconifyIconData.solo(
-    IconData(0xe04d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
-  /// `backhand-index-pointing-right-medium`
-  static const IconifyIconData backhandIndexPointingRightMedium = IconifyIconData.solo(
-    IconData(0xe04e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
-  /// `backhand-index-pointing-right-medium-dark`
-  static const IconifyIconData backhandIndexPointingRightMediumDark = IconifyIconData.solo(
-    IconData(0xe04f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
-  /// `backhand-index-pointing-right-medium-light`
-  static const IconifyIconData backhandIndexPointingRightMediumLight = IconifyIconData.solo(
-    IconData(0xe050, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
   /// `backhand-index-pointing-up`
   static const IconifyIconData backhandIndexPointingUp = IconifyIconData.solo(
     IconData(0xe051, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
@@ -474,11 +444,6 @@ class FluentEmojiIcons {
   /// `baggage-claim`
   static const IconifyIconData baggageClaim = IconifyIconData.solo(
     IconData(0xe05b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
-  /// `balance-scale`
-  static const IconifyIconData balanceScale = IconifyIconData.solo(
-    IconData(0xe05c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `ballet-shoes`
@@ -2644,11 +2609,6 @@ class FluentEmojiIcons {
   /// `game-die`
   static const IconifyIconData gameDie = IconifyIconData.solo(
     IconData(0xe20d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
-  /// `gear`
-  static const IconifyIconData gear = IconifyIconData.solo(
-    IconData(0xe20e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `gem-stone`
@@ -9921,11 +9881,6 @@ class FluentEmojiIcons {
     IconData(0xe7bc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
-  /// `safety-pin`
-  static const IconifyIconData safetyPin = IconifyIconData.solo(
-    IconData(0xe7bd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
   /// `safety-vest`
   static const IconifyIconData safetyVest = IconifyIconData.solo(
     IconData(0xe7be, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
@@ -10489,11 +10444,6 @@ class FluentEmojiIcons {
   /// `socks`
   static const IconifyIconData socks = IconifyIconData.solo(
     IconData(0xe82e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-  );
-
-  /// `soft-ice-cream`
-  static const IconifyIconData softIceCream = IconifyIconData.solo(
-    IconData(0xe82f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `sos-button`

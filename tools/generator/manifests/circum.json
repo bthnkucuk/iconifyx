@@ -16,7 +16,10 @@
       "spdx": "MPL-2.0",
       "url": "https://github.com/Klarr-Agency/Circum-Icons/blob/main/LICENSE"
     },
-    "total": 288
+    "total": 288,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

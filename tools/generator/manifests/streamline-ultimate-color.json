@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 587
+    "total": 580
   },
   "fonts": [
     {
       "family": "StreamlineUltimateColor",
       "nextCodepoint": 57931,
-      "iconCount": 587
+      "iconCount": 580
     },
     {
       "family": "StreamlineUltimateColorSecondary",
@@ -586,7 +586,9 @@
     "cloud-loading": {
       "codepoint": 57454,
       "fontFamily": "StreamlineUltimateColor",
-      "identifier": "cloudLoading"
+      "identifier": "cloudLoading",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "cloud-warning": {
       "codepoint": 57455,
@@ -1286,7 +1288,9 @@
     "information-circle": {
       "codepoint": 57594,
       "fontFamily": "StreamlineUltimateColor",
-      "identifier": "informationCircle"
+      "identifier": "informationCircle",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "information-desk-customer": {
       "codepoint": 57595,
@@ -1568,7 +1572,9 @@
     "microphone-1": {
       "codepoint": 57650,
       "fontFamily": "StreamlineUltimateColor",
-      "identifier": "microphone1"
+      "identifier": "microphone1",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "microsoft-logo": {
       "codepoint": 57651,
@@ -2128,7 +2134,9 @@
     "scale-horizontal": {
       "codepoint": 57762,
       "fontFamily": "StreamlineUltimateColor",
-      "identifier": "scaleHorizontal"
+      "identifier": "scaleHorizontal",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "scanner": {
       "codepoint": 57763,
@@ -2588,7 +2596,9 @@
     "team-chat": {
       "codepoint": 57854,
       "fontFamily": "StreamlineUltimateColor",
-      "identifier": "teamChat"
+      "identifier": "teamChat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "team-meeting": {
       "codepoint": 57855,
@@ -2613,12 +2623,16 @@
     "text-strike-through-1": {
       "codepoint": 57859,
       "fontFamily": "StreamlineUltimateColor",
-      "identifier": "textStrikeThrough1"
+      "identifier": "textStrikeThrough1",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "text-underline": {
       "codepoint": 57860,
       "fontFamily": "StreamlineUltimateColor",
-      "identifier": "textUnderline"
+      "identifier": "textUnderline",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "ticket-1": {
       "codepoint": 57861,

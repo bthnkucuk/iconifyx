@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/oclero/qlementine-icons/blob/master/LICENSE"
     },
-    "total": 885
+    "total": 884
   },
   "fonts": [
     {
       "family": "QlementineIcons",
       "nextCodepoint": 58229,
-      "iconCount": 885
+      "iconCount": 884
     },
     {
       "family": "QlementineIconsSecondary",
@@ -3096,7 +3096,9 @@
     "quality-0-16": {
       "codepoint": 57950,
       "fontFamily": "QlementineIcons",
-      "identifier": "quality016"
+      "identifier": "quality016",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "quality-1-16": {
       "codepoint": 57951,

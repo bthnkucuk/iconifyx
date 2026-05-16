@@ -16,7 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/cyberalien/line-md/blob/main/license.txt"
     },
-    "total": 1279
+    "total": 1279,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke",
+      "Contains Animations"
+    ]
   },
   "fonts": [
     {

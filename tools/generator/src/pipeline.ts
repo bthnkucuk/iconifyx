@@ -39,9 +39,10 @@ import {
   writeManifest,
   ensureManifestsDir,
   type Manifest,
+  type ManifestIconEntry,
 } from './manifest.ts';
 import { allocateCodepoints } from './codepoint_allocator.ts';
-import { buildFonts } from './font_builder.ts';
+import { buildFonts, verifyGlyphsNonEmpty } from './font_builder.ts';
 import {
   mergeSiblingsInManifest,
   canonicalizeTtfs,
@@ -63,7 +64,10 @@ import {
 import { writeCoverageReport } from './coverage_report.ts';
 import { writeStrokeAudit } from './stroke_audit.ts';
 import type { AuditEntry } from './stroke_audit.ts';
-import { verifyFontsAgainstManifests } from './font_verify.ts';
+import {
+  verifyFontsAgainstManifests,
+  verifySecondaryGlyphNames,
+} from './font_verify.ts';
 import { getCacheStats, resetCacheStats } from './ttf_cache.ts';
 import {
   setPackageDir,
@@ -219,6 +223,8 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
     manifest: Manifest;
     ttfs: Map<string, Buffer>;
     dartSource: string;
+    aliasesDart: string | null;
+    categoriesDart: string | null;
   };
 
   const results: SetResult[] = [];
@@ -383,6 +389,11 @@ async function processOneSet(
           ...orig,
           name: `${orig.name}-${weightName}`,
           body: setStrokeWidth(orig.body, sw),
+          // If the source was an alias of canonical X, the synthetic
+          // weight variant is an alias of (X + '-' + weightName) so the
+          // alias-map split (§22 Rec 1) re-maps weight variants
+          // consistently. Synth variants of non-aliases stay canonical.
+          aliasOf: orig.aliasOf ? `${orig.aliasOf}-${weightName}` : undefined,
         });
       }
     }
@@ -741,11 +752,21 @@ async function processOneSet(
   // choke on. This recovers ~99% of sets that previously failed because of
   // ONE malformed glyph (line-md, icon-park, devicon, …). We validate the
   // post-split primary body for duotone icons.
+  //
+  // §16-A8: tag each drop with its `deprecatedReason` so the
+  // upstream-regression audit can bucket new deprecations by cause
+  // (validator-rejected / panic-skipped / paint-order-dropped) vs.
+  // upstream-removed.
   const resolved: ResolvedIcon[] = [];
   const droppedGlyphs: { name: string; reason: string }[] = [];
+  const dropReasonByName = new Map<
+    string,
+    'validator-rejected' | 'panic-skipped' | 'paint-order-dropped'
+  >();
   for (const ic of allResolved) {
     if (paintOrderDroppedNames.has(ic.name)) {
       droppedGlyphs.push({ name: ic.name, reason: 'paint-order risk (multi-fill body)' });
+      dropReasonByName.set(ic.name, 'paint-order-dropped');
       secondaryByName.delete(ic.name);
       duotoneNames.delete(ic.name);
       continue;
@@ -755,6 +776,7 @@ async function processOneSet(
         name: ic.name,
         reason: 'stroke-fill worker panicked on this body (native resvg crash)',
       });
+      dropReasonByName.set(ic.name, 'panic-skipped');
       secondaryByName.delete(ic.name);
       duotoneNames.delete(ic.name);
       continue;
@@ -764,6 +786,7 @@ async function processOneSet(
       resolved.push(ic);
     } else {
       droppedGlyphs.push({ name: ic.name, reason: v.reason });
+      dropReasonByName.set(ic.name, 'validator-rejected');
       // If this icon was registered as duotone, drop the secondary too so
       // the codepoint isn't reserved for a non-existent secondary glyph.
       secondaryByName.delete(ic.name);
@@ -786,17 +809,69 @@ async function processOneSet(
   const previous = await readManifest(prefix);
   const fontFamilyBase = fontFamilyFromPrefix(prefix);
 
+  // §22 Rec 1: build the alias→canonical map for pure-rename aliases
+  // (those whose body is identical to a canonical's, i.e. no per-alias
+  // transform). The allocator uses this to assign the canonical's
+  // codepoint to the alias and skip glyph-space allocation. Aliases
+  // pointing at a canonical that didn't survive validation get dropped
+  // (the canonical isn't in `icons` post-allocation, so pass 3 drops
+  // the alias).
+  const aliasOfMap: Record<string, string> = {};
+  for (const r of resolved) {
+    if (r.aliasOf !== undefined) aliasOfMap[r.name] = r.aliasOf;
+  }
+
+  // §22 Rec 2: pre-compute per-icon category lists from the upstream
+  // pack's `categories` map. We invert `{categoryName: [iconNames]}` →
+  // `{iconName: [categoryName, ...]}` once here so the per-icon stamp
+  // below is O(1). Aliases inherit their canonical's category list at
+  // the codegen site (a separate lookup), keeping the manifest entries
+  // for aliases lean. Synthetic weight variants inherit categories
+  // from their parent (the stripped base name).
+  const categoriesByIcon = new Map<string, string[]>();
+  if (set.categories && Object.keys(set.categories).length > 0) {
+    for (const [catName, members] of Object.entries(set.categories)) {
+      for (const memberName of members) {
+        let arr = categoriesByIcon.get(memberName);
+        if (!arr) {
+          arr = [];
+          categoriesByIcon.set(memberName, arr);
+        }
+        if (!arr.includes(catName)) arr.push(catName);
+      }
+    }
+  }
+
   const { fonts, icons } = allocateCodepoints({
     prefix,
     fontFamilyBase,
     iconNames: resolved.map((r) => r.name),
+    aliasOf: aliasOfMap,
     previous,
   });
+
+  // §16-A8: stamp `deprecatedReason` on icons we just dropped (validator
+  // / panic / paint-order). `allocateCodepoints` already marked icons
+  // from the previous manifest that aren't in `iconNames` as deprecated
+  // with `deprecatedReason: 'upstream-removed'`; that default is
+  // OVERWRITTEN here when we have a more precise attribution — an icon
+  // present in upstream but rejected by our pipeline is OUR regression,
+  // not an upstream removal.
+  for (const [name, reason] of dropReasonByName) {
+    const entry = icons[name];
+    if (entry && entry.deprecated) entry.deprecatedReason = reason;
+  }
 
   // Mark duotone entries + add Secondary fonts to manifest. Secondary fonts
   // mirror Primary fonts that contain at least one duotone icon. They share
   // the same codepoint cursor (each duotone icon's secondary glyph sits at
   // the same codepoint in the Secondary font as its primary).
+  //
+  // §22 Rec 1 propagation: aliases live in `icons` too (allocator pass 3
+  // gave them the canonical's codepoint). When the canonical is duotone
+  // the alias must inherit `duotone` + `duotoneKind` so codegen routes
+  // alias entries through the right Map type (`Map<String, IconifyIconData>`
+  // works regardless, but for consistency the manifest mirrors the truth).
   for (const name of duotoneNames) {
     const e = icons[name];
     if (e && !e.deprecated) {
@@ -806,8 +881,67 @@ async function processOneSet(
       else if (e.duotoneKind && kind === 'hint') delete e.duotoneKind;
     }
   }
+  // Inherit duotone flag onto alias entries pointing at duotone canonicals.
+  for (const [aliasName, e] of Object.entries(icons)) {
+    if (e.deprecated) continue;
+    const canonicalName = e.aliasOf;
+    if (!canonicalName) continue;
+    const canonical = icons[canonicalName];
+    if (!canonical || canonical.deprecated) continue;
+    if (canonical.duotone) {
+      e.duotone = true;
+      if (canonical.duotoneKind && canonical.duotoneKind !== 'hint') {
+        e.duotoneKind = canonical.duotoneKind;
+      } else if (e.duotoneKind) {
+        delete e.duotoneKind;
+      }
+    } else if (e.duotone) {
+      // Stale duotone flag from a previous manifest run — strip it so
+      // aliases-of-non-duotone stay solo.
+      delete e.duotone;
+      delete e.duotoneKind;
+    }
+    // Belt-and-braces: aliases should never appear in the allocator's
+    // identifier-claim set with a `_` suffix unless the canonical also
+    // collided (sanitizeIdentifier handles that). No-op for the common
+    // case; left here as a marker for future readers.
+    void aliasName;
+  }
+  // §22 Rec 2: stamp upstream `info.categories` membership onto every
+  // canonical icon. Aliases are NOT stamped — the alias map points at
+  // the canonical const, and the canonical const already lives under
+  // its category list, so aliases reusing it through `lib/aliases.dart`
+  // get the categorisation for free. Synthetic weight variants inherit
+  // their parent's categories.
+  if (categoriesByIcon.size > 0) {
+    const weightsForSet = config.multiWeightStrokeSets?.[prefix];
+    const weightSuffixes = weightsForSet ? Object.keys(weightsForSet) : [];
+    for (const [name, e] of Object.entries(icons)) {
+      if (e.deprecated) continue;
+      if (e.aliasOf) continue;
+      let cats = categoriesByIcon.get(name);
+      if (!cats && weightSuffixes.length > 0) {
+        for (const suffix of weightSuffixes) {
+          const suffixTail = `-${suffix}`;
+          if (name.endsWith(suffixTail)) {
+            const baseName = name.slice(0, -suffixTail.length);
+            cats = categoriesByIcon.get(baseName);
+            if (cats) break;
+          }
+        }
+      }
+      if (cats && cats.length > 0) {
+        e.categories = [...cats].sort();
+      }
+    }
+  }
+  // Walk canonicals only — aliases (e.aliasOf set) inherit duotone-ness
+  // for codegen routing but they share the canonical's codepoint and
+  // therefore must NOT contribute a separate glyph slot to the
+  // Secondary font's iconCount.
   const primaryFamiliesWithDuotone = new Set<string>();
   for (const e of Object.values(icons)) {
+    if (e.aliasOf) continue;
     if (e.duotone && !e.deprecated) primaryFamiliesWithDuotone.add(e.fontFamily);
   }
   for (const primaryFamily of primaryFamiliesWithDuotone) {
@@ -816,6 +950,7 @@ async function processOneSet(
     if (!primaryFont) continue;
     let dtCount = 0;
     for (const e of Object.values(icons)) {
+      if (e.aliasOf) continue;
       if (e.duotone && !e.deprecated && e.fontFamily === primaryFamily) dtCount += 1;
     }
     const existing = fonts.find((f) => f.family === secName);
@@ -836,6 +971,11 @@ async function processOneSet(
 
   const liveCount = Object.values(icons).filter((i) => !i.deprecated).length;
 
+  // Upstream `info.tags` from the full pack JSON (collections.json strips
+  // them). Stored on the manifest so codegen can surface them on the
+  // `packInfo` const (§22 Rec 5) without a second pass over @iconify/json.
+  const upstreamTags = set.info.tags ?? [];
+
   const manifest: Manifest = {
     schemaVersion: 1,
     prefix,
@@ -848,39 +988,237 @@ async function processOneSet(
       author: collectionInfo.author ?? null,
       license: collectionInfo.license ?? { title: 'Unknown' },
       total: liveCount,
+      ...(upstreamTags.length > 0 ? { tags: [...upstreamTags] } : {}),
     },
     fonts,
     icons,
   };
+
+  // §22 Rec 1: split the icons map into canonicals + aliases for the
+  // build phase. `iconsForBuild` is the canonical-only view fed into
+  // `buildFonts` (and the iterate-until-empty verifier) — aliases must
+  // NOT appear here, because every alias shares its canonical's
+  // codepoint and font_builder would otherwise try to emit two glyphs
+  // at the same codepoint, breaking the cmap. The full `icons` map
+  // (with aliases) survives unchanged on `manifest` for codegen and
+  // on-disk persistence.
+  const iconsForBuild: Record<string, ManifestIconEntry> = {};
+  const aliasEntries: Record<string, ManifestIconEntry> = {};
+  for (const [name, e] of Object.entries(icons)) {
+    if (e.aliasOf !== undefined) aliasEntries[name] = e;
+    else iconsForBuild[name] = e;
+  }
+
+  // Recompute per-font `iconCount` so it reflects ONLY canonicals (live
+  // members that actually take up a glyph slot). Aliases bypass the
+  // font-cap logic. Secondary fonts get the duotone-canonical count.
+  for (const f of fonts) f.iconCount = 0;
+  for (const e of Object.values(iconsForBuild)) {
+    if (e.deprecated) continue;
+    const primaryF = fonts.find((x) => x.family === e.fontFamily);
+    if (primaryF) primaryF.iconCount += 1;
+    if (e.duotone) {
+      const secName = secondaryFontFamily(e.fontFamily);
+      const secF = fonts.find((x) => x.family === secName);
+      if (secF) secF.iconCount += 1;
+    }
+  }
+
+  // Manifest view used by `buildFonts` + the iterate-until-empty
+  // verifier. Identical to `manifest` except `icons` excludes alias
+  // entries — see the §22 Rec 1 invariant above.
+  const buildManifest: Manifest = { ...manifest, icons: iconsForBuild };
 
   // Build fonts. If individual glyphs trip svgicons2svgfont mid-stream, the
   // builder catches it, drops them, and retries — we collect the names here
   // so we can flag them deprecated in the manifest (codepoint stays reserved
   // in case they get fixed upstream).
   const droppedDuringBuild = new Set<string>();
-  const ttfs = await buildFonts({
-    manifest,
-    resolvedByName,
-    secondaryByName,
-    onGlyphDropped: (name) => droppedDuringBuild.add(name),
-    cacheEnabled,
-  });
-  if (droppedDuringBuild.size > 0) {
+  let ttfs: Map<string, Buffer>;
+
+  // RESEARCH_PLAN.md §3 — iterate-until-empty rebuild loop. svg2ttf can
+  // SILENTLY drop path data on serialization: svgicons2svgfont accepts the
+  // body, no JS error is thrown, but the emitted glyph slot has
+  // `path.commands.length === 0`. Flutter renders that as `.notdef` (a
+  // blank box). Before this loop landed, ~569 such empty glyphs shipped
+  // across 37 fonts each regen — `FONT_AUDIT.md` flagged them all but the
+  // pipeline never reacted.
+  //
+  // After every `buildFonts` we re-open every emitted TTF in-memory via
+  // fontkit (`verifyGlyphsNonEmpty`) and mark any empty members as
+  // `deprecated: true` with `deprecatedSince` set. Their codepoint stays
+  // reserved (CLAUDE.md §3 invariant), but they don't ship as a renderable
+  // glyph. We then re-build the affected fonts; the dropped icons are
+  // excluded automatically because `buildFonts` skips `deprecated` entries.
+  //
+  // The loop terminates when (a) no font has empty glyphs after build, or
+  // (b) `MAX_ITER` iterations have elapsed (safety cap so a pathological
+  // pack can't spin forever — empirically resolves in 1-3 iterations).
+  // Helper: cascade deprecation onto alias entries whose canonical was
+  // just dropped. Aliases share the canonical's codepoint and would
+  // otherwise resolve to a now-dead glyph slot. We update both the
+  // full `icons` map (persisted on the manifest) and the `aliasEntries`
+  // sidecar used to reconstruct the manifest after the build.
+  const cascadeAliasDeprecations = (
+    droppedCanonicalNames: Iterable<string>,
+    today: string,
+  ): void => {
+    const dropped = new Set(droppedCanonicalNames);
+    if (dropped.size === 0) return;
+    for (const [aliasName, aliasEntry] of Object.entries(aliasEntries)) {
+      if (!aliasEntry.aliasOf) continue;
+      if (!dropped.has(aliasEntry.aliasOf)) continue;
+      if (aliasEntry.deprecated) continue;
+      aliasEntry.deprecated = true;
+      aliasEntry.deprecatedSince = today;
+      const fullEntry = icons[aliasName];
+      if (fullEntry) {
+        fullEntry.deprecated = true;
+        fullEntry.deprecatedSince = today;
+      }
+    }
+  };
+
+  const MAX_ITER = 5;
+  let iter = 0;
+  while (true) {
+    ttfs = await buildFonts({
+      manifest: buildManifest,
+      resolvedByName,
+      secondaryByName,
+      onGlyphDropped: (name) => droppedDuringBuild.add(name),
+      cacheEnabled,
+    });
+
+    // Verify every primary + Secondary TTF for empty glyphs. We only need
+    // to inspect the fonts that were actually built (skipped families with
+    // iconCount===0 don't end up in the map). Uses the canonical-only
+    // `iconsForBuild` view so verifier members match the emitted glyphs.
+    const newlyEmpty = new Set<string>();
+    for (const fontEntry of manifest.fonts) {
+      const ttf = ttfs.get(fontEntry.family);
+      if (!ttf) continue;
+
+      const isSecondary = fontEntry.family.endsWith('Secondary');
+      const primaryFamily = isSecondary
+        ? fontEntry.family.slice(0, -'Secondary'.length)
+        : fontEntry.family;
+
+      // Reconstruct the member list the build saw — mirrors the loop in
+      // font_builder.ts:buildFonts.
+      const members: { name: string; codepoint: number }[] = [];
+      for (const [iconName, m] of Object.entries(iconsForBuild)) {
+        if (m.deprecated) continue;
+        if (m.fontFamily !== primaryFamily) continue;
+        if (isSecondary && !m.duotone) continue;
+        members.push({ name: iconName, codepoint: m.codepoint });
+      }
+      if (members.length === 0) continue;
+
+      const res = verifyGlyphsNonEmpty(ttf, members);
+      if (res.openError) {
+        // fontkit couldn't open the buffer — `font_verify.ts` will surface
+        // this in FONT_AUDIT.md as a file-level error; nothing for us to
+        // recover here, accept the TTF as-is and move on.
+        continue;
+      }
+      for (const name of res.emptyMembers) newlyEmpty.add(name);
+    }
+
+    if (newlyEmpty.size === 0) break;
+
+    // Mark every empty as deprecated and let the next iteration rebuild
+    // without them. Mirrors the on-disk semantics for retry-on-error
+    // drops (`droppedDuringBuild` below). Cascade onto aliases so a
+    // dead canonical doesn't leave aliases pointing at a stale slot.
+    // The reason is the §16-A2 bucket: every defence (validator,
+    // retry-on-error, stroke-fill, paint-order, per-icon raster)
+    // passed, the TTF cmap slot exists, but the glyph outline came out
+    // empty. The `upstream-regressions` audit uses this reason to
+    // distinguish silent-empty drift from validator-rejected / panic-
+    // skipped / paint-order-dropped; `orphan-const-fix` writes the same
+    // value when cleaning up pre-§3 residue on disk.
     const today = new Date().toISOString().slice(0, 10);
-    for (const name of droppedDuringBuild) {
+    for (const name of newlyEmpty) {
+      droppedDuringBuild.add(name);
       const entry = icons[name];
       if (entry) {
         entry.deprecated = true;
         entry.deprecatedSince = today;
+        entry.deprecatedReason = 'svg2ttf-silent-empty';
+      }
+      const buildEntry = iconsForBuild[name];
+      if (buildEntry) {
+        buildEntry.deprecated = true;
+        buildEntry.deprecatedSince = today;
+        buildEntry.deprecatedReason = 'svg2ttf-silent-empty';
       }
     }
-    // Recompute live count + per-font live counts. For duotone icons we
-    // also bump the matching Secondary font (the icon's `fontFamily` field
-    // refers to the primary family only).
+    cascadeAliasDeprecations(newlyEmpty, today);
+    // Recompute live count + per-font live counts so the next buildFonts
+    // pass sees correct counts AND so we don't reference a font that just
+    // emptied out. iconCount stays canonical-only (aliases don't take
+    // up font space).
+    {
+      // `manifest.info.total` reports browseable name count, which
+      // includes aliases (they're real names users can reference even
+      // though they don't take a separate font slot). Recompute from
+      // the full `icons` map.
+      const liveCountUpdated = Object.values(icons).filter((i) => !i.deprecated).length;
+      manifest.info.total = liveCountUpdated;
+      for (const f of fonts) f.iconCount = 0;
+      for (const e of Object.values(iconsForBuild)) {
+        if (e.deprecated) continue;
+        const primaryF = fonts.find((x) => x.family === e.fontFamily);
+        if (primaryF) primaryF.iconCount += 1;
+        if (e.duotone) {
+          const secName = secondaryFontFamily(e.fontFamily);
+          const secF = fonts.find((x) => x.family === secName);
+          if (secF) secF.iconCount += 1;
+        }
+      }
+    }
+    log.info(
+      `  "${prefix}": iterate-until-empty — iter ${iter + 1}, dropped ${newlyEmpty.size} silent-empty glyph${newlyEmpty.size === 1 ? '' : 's'} (${[...newlyEmpty].slice(0, 3).join(', ')}${newlyEmpty.size > 3 ? '…' : ''})`
+    );
+
+    iter += 1;
+    if (iter >= MAX_ITER) {
+      log.warn(
+        `  "${prefix}": iterate-until-empty hit MAX_ITER=${MAX_ITER}; ${newlyEmpty.size} more empties not resolved this run`
+      );
+      break;
+    }
+  }
+
+  // Final reconciliation: catch any glyphs the underlying builder reported
+  // via `onGlyphDropped` (svgicons2svgfont mid-stream errors) but that we
+  // haven't yet folded into the manifest. The iterate loop above only
+  // touches silent-empty glyphs; this block handles the explicit drops.
+  if (droppedDuringBuild.size > 0) {
+    const today = new Date().toISOString().slice(0, 10);
+    const justDroppedCanonicals: string[] = [];
+    for (const name of droppedDuringBuild) {
+      const entry = icons[name];
+      if (entry && !entry.deprecated) {
+        entry.deprecated = true;
+        entry.deprecatedSince = today;
+        if (!entry.aliasOf) justDroppedCanonicals.push(name);
+      }
+      const buildEntry = iconsForBuild[name];
+      if (buildEntry && !buildEntry.deprecated) {
+        buildEntry.deprecated = true;
+        buildEntry.deprecatedSince = today;
+      }
+    }
+    cascadeAliasDeprecations(justDroppedCanonicals, today);
+    // Recompute live count + per-font live counts. iconCount is
+    // canonical-only — aliases never count toward font capacity.
+    // Browseable name count = canonicals + aliases.
     const liveCountUpdated = Object.values(icons).filter((i) => !i.deprecated).length;
     manifest.info.total = liveCountUpdated;
     for (const f of fonts) f.iconCount = 0;
-    for (const e of Object.values(icons)) {
+    for (const e of Object.values(iconsForBuild)) {
       if (e.deprecated) continue;
       const primaryF = fonts.find((x) => x.family === e.fontFamily);
       if (primaryF) primaryF.iconCount += 1;
@@ -921,6 +1259,73 @@ async function processOneSet(
   // guarantees primary + secondary glyphs paint in the same reference
   // frame so duotone composition stays aligned. See §33 / `GLYPH_METRICS_AUDIT.md`.
   const finalTtfs = await canonicalizeTtfs(mergeResult.ttfs);
+
+  // Cmap-aliased secondary demote (RESEARCH_PLAN §33 — "Cmap dedup
+  // demote" sub-section). `svg2ttf`'s outline-dedup pass collapses
+  // identical secondary outlines onto a single glyph name in the
+  // GLYF table, then leaves every codepoint pointing at that ONE
+  // glyph in the cmap. The widget still renders the icon (cmap hit),
+  // but it renders the WRONG secondary letterform — visually
+  // indistinguishable from a misalignment bug to the user (and the
+  // motivating case for §33's Solar `add-circle-bold-duotone`
+  // diagnosis).
+  //
+  // `font_verify.ts:verifySecondaryGlyphNames` checks the cmap names
+  // post-canonicalize (canonicalize only touches metric tables; glyph
+  // names + cmap survive). Any aliased codepoint demotes its icon
+  // back to solo: clear `duotone`, drop `duotoneKind`, set the
+  // informational `secondaryAliased: true` marker. Codegen then
+  // emits `IconifyIconData.solo(...)` instead of `.duo(...)`, so the
+  // wrong secondary never makes it onto the canvas. Codepoint stays
+  // reserved per CLAUDE.md §3.
+  //
+  // The check is cheap (~ms per font) and self-healing: if a future
+  // svg2ttf release stops aliasing, the manifest's `secondaryAliased`
+  // markers will silently drop on the next regen.
+  const aliasResults = verifySecondaryGlyphNames(manifest, {
+    ttfBuffers: finalTtfs,
+  });
+  let totalAliasedDemoted = 0;
+  for (const r of aliasResults) {
+    if (r.fontError || r.aliased.length === 0) continue;
+    for (const a of r.aliased) {
+      const entry = manifest.icons[a.iconName];
+      if (!entry) continue;
+      entry.duotone = false;
+      delete entry.duotoneKind;
+      entry.secondaryAliased = true;
+      totalAliasedDemoted += 1;
+    }
+  }
+  if (totalAliasedDemoted > 0) {
+    // Recompute Secondary font iconCounts now that a chunk of duotones
+    // have been demoted to solo. We don't drop Secondary fonts whose
+    // count goes to zero here — buildFonts already emitted them with
+    // the still-valid (correct) secondary glyphs of OTHER duotone
+    // icons in this font, and dropping the asset declaration here
+    // would orphan the on-disk TTF. The Secondary font keeps its
+    // legitimate duotones; only the cmap-aliased subset moves to
+    // solo.
+    for (const f of manifest.fonts) {
+      if (!f.family.endsWith('Secondary')) continue;
+      const primaryFamily = f.family.slice(0, -'Secondary'.length);
+      let dt = 0;
+      for (const e of Object.values(manifest.icons)) {
+        if (e.deprecated) continue;
+        if (!e.duotone) continue;
+        if (e.fontFamily !== primaryFamily) continue;
+        dt += 1;
+      }
+      f.iconCount = dt;
+    }
+    const sample = aliasResults
+      .flatMap((r) => r.aliased.slice(0, 2).map((a) => a.iconName))
+      .slice(0, 3)
+      .join(', ');
+    log.info(
+      `  "${prefix}": demoted ${totalAliasedDemoted} cmap-aliased duotone${totalAliasedDemoted === 1 ? '' : 's'} to solo (${sample}${totalAliasedDemoted > 3 ? '…' : ''})`
+    );
+  }
 
   const dartSource = emitSetDart({
     manifest,

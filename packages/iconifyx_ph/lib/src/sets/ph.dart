@@ -59,12 +59,12 @@ class PhIcons {
 
   /// `activity-duotone`
   static const IconifyIconData activityDuotone = IconifyIconData.solo(
-    IconData(0xe008, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe006, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `activity-fill`
   static const IconifyIconData activityFill = IconifyIconData.solo(
-    IconData(0xe009, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe006, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `activity-light`
@@ -299,10 +299,9 @@ class PhIcons {
     IconData(0xe036, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `airplane-taxiing-duotone` (duo-tone)
-  static const IconifyIconData airplaneTaxiingDuotone = IconifyIconData.duo(
+  /// `airplane-taxiing-duotone`
+  static const IconifyIconData airplaneTaxiingDuotone = IconifyIconData.solo(
     IconData(0xe037, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe037, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `airplane-taxiing-fill`
@@ -1236,33 +1235,32 @@ class PhIcons {
 
   /// `archive-box`
   static const IconifyIconData archiveBox = IconifyIconData.solo(
-    IconData(0xe0ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe55e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `archive-box-bold`
   static const IconifyIconData archiveBoxBold = IconifyIconData.solo(
-    IconData(0xe0ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe55f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `archive-box-duotone` (duo-tone)
-  static const IconifyIconData archiveBoxDuotone = IconifyIconData.duo(
-    IconData(0xe0ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0ee, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
+  /// `archive-box-duotone`
+  static const IconifyIconData archiveBoxDuotone = IconifyIconData.solo(
+    IconData(0xe560, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `archive-box-fill`
   static const IconifyIconData archiveBoxFill = IconifyIconData.solo(
-    IconData(0xe0ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe561, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `archive-box-light`
   static const IconifyIconData archiveBoxLight = IconifyIconData.solo(
-    IconData(0xe0f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe562, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `archive-box-thin`
   static const IconifyIconData archiveBoxThin = IconifyIconData.solo(
-    IconData(0xe0f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe563, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `archive-duotone` (duo-tone)
@@ -1288,7 +1286,7 @@ class PhIcons {
 
   /// `archive-tray`
   static const IconifyIconData archiveTray = IconifyIconData.solo(
-    IconData(0xe0f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a03, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `archive-tray-bold`
@@ -1296,25 +1294,24 @@ class PhIcons {
     IconData(0xe0f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `archive-tray-duotone` (duo-tone)
-  static const IconifyIconData archiveTrayDuotone = IconifyIconData.duo(
-    IconData(0xe0f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0f8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
+  /// `archive-tray-duotone`
+  static const IconifyIconData archiveTrayDuotone = IconifyIconData.solo(
+    IconData(0xf0a05, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `archive-tray-fill`
   static const IconifyIconData archiveTrayFill = IconifyIconData.solo(
-    IconData(0xe0f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a06, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `archive-tray-light`
   static const IconifyIconData archiveTrayLight = IconifyIconData.solo(
-    IconData(0xe0fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a07, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `archive-tray-thin`
   static const IconifyIconData archiveTrayThin = IconifyIconData.solo(
-    IconData(0xe0fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a08, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `armchair`
@@ -1751,10 +1748,9 @@ class PhIcons {
     IconData(0xe14f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-circle-down-left-duotone` (duo-tone)
-  static const IconifyIconData arrowCircleDownLeftDuotone = IconifyIconData.duo(
+  /// `arrow-circle-down-left-duotone`
+  static const IconifyIconData arrowCircleDownLeftDuotone = IconifyIconData.solo(
     IconData(0xe150, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe150, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-circle-down-left-fill`
@@ -1787,10 +1783,9 @@ class PhIcons {
     IconData(0xe156, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-circle-down-right-duotone` (duo-tone)
-  static const IconifyIconData arrowCircleDownRightDuotone = IconifyIconData.duo(
+  /// `arrow-circle-down-right-duotone`
+  static const IconifyIconData arrowCircleDownRightDuotone = IconifyIconData.solo(
     IconData(0xe157, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe157, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-circle-down-right-fill`
@@ -1823,10 +1818,9 @@ class PhIcons {
     IconData(0xe15d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-circle-left-duotone` (duo-tone)
-  static const IconifyIconData arrowCircleLeftDuotone = IconifyIconData.duo(
+  /// `arrow-circle-left-duotone`
+  static const IconifyIconData arrowCircleLeftDuotone = IconifyIconData.solo(
     IconData(0xe15e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe15e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-circle-left-fill`
@@ -1854,10 +1848,9 @@ class PhIcons {
     IconData(0xe163, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-circle-right-duotone` (duo-tone)
-  static const IconifyIconData arrowCircleRightDuotone = IconifyIconData.duo(
+  /// `arrow-circle-right-duotone`
+  static const IconifyIconData arrowCircleRightDuotone = IconifyIconData.solo(
     IconData(0xe164, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe164, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-circle-right-fill`
@@ -1885,10 +1878,9 @@ class PhIcons {
     IconData(0xe169, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-circle-up-duotone` (duo-tone)
-  static const IconifyIconData arrowCircleUpDuotone = IconifyIconData.duo(
+  /// `arrow-circle-up-duotone`
+  static const IconifyIconData arrowCircleUpDuotone = IconifyIconData.solo(
     IconData(0xe16a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe16a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-circle-up-fill`
@@ -1906,10 +1898,9 @@ class PhIcons {
     IconData(0xe16d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-circle-up-left-duotone` (duo-tone)
-  static const IconifyIconData arrowCircleUpLeftDuotone = IconifyIconData.duo(
+  /// `arrow-circle-up-left-duotone`
+  static const IconifyIconData arrowCircleUpLeftDuotone = IconifyIconData.solo(
     IconData(0xe16e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe16e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-circle-up-left-fill`
@@ -1942,10 +1933,9 @@ class PhIcons {
     IconData(0xe174, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-circle-up-right-duotone` (duo-tone)
-  static const IconifyIconData arrowCircleUpRightDuotone = IconifyIconData.duo(
+  /// `arrow-circle-up-right-duotone`
+  static const IconifyIconData arrowCircleUpRightDuotone = IconifyIconData.solo(
     IconData(0xe175, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe175, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-circle-up-right-fill`
@@ -2009,10 +1999,9 @@ class PhIcons {
     IconData(0xe181, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-counter-clockwise-duotone` (duo-tone)
-  static const IconifyIconData arrowCounterClockwiseDuotone = IconifyIconData.duo(
+  /// `arrow-counter-clockwise-duotone`
+  static const IconifyIconData arrowCounterClockwiseDuotone = IconifyIconData.solo(
     IconData(0xe182, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe182, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-counter-clockwise-fill`
@@ -3146,10 +3135,9 @@ class PhIcons {
     IconData(0xe25d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-square-down-left-duotone` (duo-tone)
-  static const IconifyIconData arrowSquareDownLeftDuotone = IconifyIconData.duo(
+  /// `arrow-square-down-left-duotone`
+  static const IconifyIconData arrowSquareDownLeftDuotone = IconifyIconData.solo(
     IconData(0xe25e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe25e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-square-down-left-fill`
@@ -3182,10 +3170,9 @@ class PhIcons {
     IconData(0xe264, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-square-down-right-duotone` (duo-tone)
-  static const IconifyIconData arrowSquareDownRightDuotone = IconifyIconData.duo(
+  /// `arrow-square-down-right-duotone`
+  static const IconifyIconData arrowSquareDownRightDuotone = IconifyIconData.solo(
     IconData(0xe265, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe265, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-square-down-right-fill`
@@ -3249,10 +3236,9 @@ class PhIcons {
     IconData(0xe271, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-square-left-duotone` (duo-tone)
-  static const IconifyIconData arrowSquareLeftDuotone = IconifyIconData.duo(
+  /// `arrow-square-left-duotone`
+  static const IconifyIconData arrowSquareLeftDuotone = IconifyIconData.solo(
     IconData(0xe272, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe272, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-square-left-fill`
@@ -3311,10 +3297,9 @@ class PhIcons {
     IconData(0xe27d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-square-right-duotone` (duo-tone)
-  static const IconifyIconData arrowSquareRightDuotone = IconifyIconData.duo(
+  /// `arrow-square-right-duotone`
+  static const IconifyIconData arrowSquareRightDuotone = IconifyIconData.solo(
     IconData(0xe27e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe27e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-square-right-fill`
@@ -3342,10 +3327,9 @@ class PhIcons {
     IconData(0xe283, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-square-up-duotone` (duo-tone)
-  static const IconifyIconData arrowSquareUpDuotone = IconifyIconData.duo(
+  /// `arrow-square-up-duotone`
+  static const IconifyIconData arrowSquareUpDuotone = IconifyIconData.solo(
     IconData(0xe284, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe284, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-square-up-fill`
@@ -3363,10 +3347,9 @@ class PhIcons {
     IconData(0xe287, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-square-up-left-duotone` (duo-tone)
-  static const IconifyIconData arrowSquareUpLeftDuotone = IconifyIconData.duo(
+  /// `arrow-square-up-left-duotone`
+  static const IconifyIconData arrowSquareUpLeftDuotone = IconifyIconData.solo(
     IconData(0xe288, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe288, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-square-up-left-fill`
@@ -3399,10 +3382,9 @@ class PhIcons {
     IconData(0xe28e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrow-square-up-right-duotone` (duo-tone)
-  static const IconifyIconData arrowSquareUpRightDuotone = IconifyIconData.duo(
+  /// `arrow-square-up-right-duotone`
+  static const IconifyIconData arrowSquareUpRightDuotone = IconifyIconData.solo(
     IconData(0xe28f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe28f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrow-square-up-right-fill`
@@ -3776,10 +3758,9 @@ class PhIcons {
     IconData(0xe2d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrows-clockwise-duotone` (duo-tone)
-  static const IconifyIconData arrowsClockwiseDuotone = IconifyIconData.duo(
+  /// `arrows-clockwise-duotone`
+  static const IconifyIconData arrowsClockwiseDuotone = IconifyIconData.solo(
     IconData(0xe2d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2d8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrows-clockwise-fill`
@@ -3807,10 +3788,9 @@ class PhIcons {
     IconData(0xe2dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrows-counter-clockwise-duotone` (duo-tone)
-  static const IconifyIconData arrowsCounterClockwiseDuotone = IconifyIconData.duo(
+  /// `arrows-counter-clockwise-duotone`
+  static const IconifyIconData arrowsCounterClockwiseDuotone = IconifyIconData.solo(
     IconData(0xe2de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2de, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrows-counter-clockwise-fill`
@@ -3931,10 +3911,9 @@ class PhIcons {
     IconData(0xe2f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrows-in-duotone` (duo-tone)
-  static const IconifyIconData arrowsInDuotone = IconifyIconData.duo(
+  /// `arrows-in-duotone`
+  static const IconifyIconData arrowsInDuotone = IconifyIconData.solo(
     IconData(0xe2f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2f6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrows-in-fill`
@@ -4019,10 +3998,9 @@ class PhIcons {
     IconData(0xe306, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrows-in-simple-duotone` (duo-tone)
-  static const IconifyIconData arrowsInSimpleDuotone = IconifyIconData.duo(
+  /// `arrows-in-simple-duotone`
+  static const IconifyIconData arrowsInSimpleDuotone = IconifyIconData.solo(
     IconData(0xe307, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe307, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrows-in-simple-fill`
@@ -4174,10 +4152,9 @@ class PhIcons {
     IconData(0xe324, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrows-out-line-horizontal-duotone` (duo-tone)
-  static const IconifyIconData arrowsOutLineHorizontalDuotone = IconifyIconData.duo(
+  /// `arrows-out-line-horizontal-duotone`
+  static const IconifyIconData arrowsOutLineHorizontalDuotone = IconifyIconData.solo(
     IconData(0xe325, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe325, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrows-out-line-horizontal-fill`
@@ -4205,10 +4182,9 @@ class PhIcons {
     IconData(0xe32a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrows-out-line-vertical-duotone` (duo-tone)
-  static const IconifyIconData arrowsOutLineVerticalDuotone = IconifyIconData.duo(
+  /// `arrows-out-line-vertical-duotone`
+  static const IconifyIconData arrowsOutLineVerticalDuotone = IconifyIconData.solo(
     IconData(0xe32b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe32b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrows-out-line-vertical-fill`
@@ -4236,10 +4212,9 @@ class PhIcons {
     IconData(0xe330, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `arrows-out-simple-duotone` (duo-tone)
-  static const IconifyIconData arrowsOutSimpleDuotone = IconifyIconData.duo(
+  /// `arrows-out-simple-duotone`
+  static const IconifyIconData arrowsOutSimpleDuotone = IconifyIconData.solo(
     IconData(0xe331, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe331, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `arrows-out-simple-fill`
@@ -4334,10 +4309,9 @@ class PhIcons {
     IconData(0xe343, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `article-duotone` (duo-tone)
-  static const IconifyIconData articleDuotone = IconifyIconData.duo(
+  /// `article-duotone`
+  static const IconifyIconData articleDuotone = IconifyIconData.solo(
     IconData(0xe344, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe344, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `article-fill`
@@ -4484,10 +4458,9 @@ class PhIcons {
     IconData(0xe360, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `asterisk-simple-duotone` (duo-tone)
-  static const IconifyIconData asteriskSimpleDuotone = IconifyIconData.duo(
+  /// `asterisk-simple-duotone`
+  static const IconifyIconData asteriskSimpleDuotone = IconifyIconData.solo(
     IconData(0xe361, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe361, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `asterisk-simple-fill`
@@ -4520,10 +4493,9 @@ class PhIcons {
     IconData(0xe367, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `at-duotone` (duo-tone)
-  static const IconifyIconData atDuotone = IconifyIconData.duo(
+  /// `at-duotone`
+  static const IconifyIconData atDuotone = IconifyIconData.solo(
     IconData(0xe368, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe368, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `at-fill`
@@ -4675,10 +4647,9 @@ class PhIcons {
     IconData(0xe385, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `baby-duotone` (duo-tone)
-  static const IconifyIconData babyDuotone = IconifyIconData.duo(
+  /// `baby-duotone`
+  static const IconifyIconData babyDuotone = IconifyIconData.solo(
     IconData(0xe386, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe386, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `baby-fill`
@@ -4794,10 +4765,9 @@ class PhIcons {
     IconData(0xe39c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `bag-simple-duotone` (duo-tone)
-  static const IconifyIconData bagSimpleDuotone = IconifyIconData.duo(
+  /// `bag-simple-duotone`
+  static const IconifyIconData bagSimpleDuotone = IconifyIconData.solo(
     IconData(0xe39d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe39d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `bag-simple-fill`
@@ -5295,10 +5265,9 @@ class PhIcons {
     IconData(0xe3fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-empty-duotone` (duo-tone)
-  static const IconifyIconData batteryEmptyDuotone = IconifyIconData.duo(
+  /// `battery-empty-duotone`
+  static const IconifyIconData batteryEmptyDuotone = IconifyIconData.solo(
     IconData(0xe3fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3fe, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-empty-fill`
@@ -5326,10 +5295,9 @@ class PhIcons {
     IconData(0xe403, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-full-duotone` (duo-tone)
-  static const IconifyIconData batteryFullDuotone = IconifyIconData.duo(
+  /// `battery-full-duotone`
+  static const IconifyIconData batteryFullDuotone = IconifyIconData.solo(
     IconData(0xe404, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe404, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-full-fill`
@@ -5357,10 +5325,9 @@ class PhIcons {
     IconData(0xe409, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-high-duotone` (duo-tone)
-  static const IconifyIconData batteryHighDuotone = IconifyIconData.duo(
+  /// `battery-high-duotone`
+  static const IconifyIconData batteryHighDuotone = IconifyIconData.solo(
     IconData(0xe40a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe40a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-high-fill`
@@ -5388,10 +5355,9 @@ class PhIcons {
     IconData(0xe40f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-low-duotone` (duo-tone)
-  static const IconifyIconData batteryLowDuotone = IconifyIconData.duo(
+  /// `battery-low-duotone`
+  static const IconifyIconData batteryLowDuotone = IconifyIconData.solo(
     IconData(0xe410, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe410, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-low-fill`
@@ -5419,10 +5385,9 @@ class PhIcons {
     IconData(0xe415, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-medium-duotone` (duo-tone)
-  static const IconifyIconData batteryMediumDuotone = IconifyIconData.duo(
+  /// `battery-medium-duotone`
+  static const IconifyIconData batteryMediumDuotone = IconifyIconData.solo(
     IconData(0xe416, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe416, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-medium-fill`
@@ -5450,10 +5415,9 @@ class PhIcons {
     IconData(0xe41b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-plus-duotone` (duo-tone)
-  static const IconifyIconData batteryPlusDuotone = IconifyIconData.duo(
+  /// `battery-plus-duotone`
+  static const IconifyIconData batteryPlusDuotone = IconifyIconData.solo(
     IconData(0xe41c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe41c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-plus-fill`
@@ -5481,10 +5445,9 @@ class PhIcons {
     IconData(0xe421, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-plus-vertical-duotone` (duo-tone)
-  static const IconifyIconData batteryPlusVerticalDuotone = IconifyIconData.duo(
+  /// `battery-plus-vertical-duotone`
+  static const IconifyIconData batteryPlusVerticalDuotone = IconifyIconData.solo(
     IconData(0xe422, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe422, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-plus-vertical-fill`
@@ -5512,10 +5475,9 @@ class PhIcons {
     IconData(0xe427, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-vertical-empty-duotone` (duo-tone)
-  static const IconifyIconData batteryVerticalEmptyDuotone = IconifyIconData.duo(
+  /// `battery-vertical-empty-duotone`
+  static const IconifyIconData batteryVerticalEmptyDuotone = IconifyIconData.solo(
     IconData(0xe428, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe428, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-vertical-empty-fill`
@@ -5543,10 +5505,9 @@ class PhIcons {
     IconData(0xe42d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-vertical-full-duotone` (duo-tone)
-  static const IconifyIconData batteryVerticalFullDuotone = IconifyIconData.duo(
+  /// `battery-vertical-full-duotone`
+  static const IconifyIconData batteryVerticalFullDuotone = IconifyIconData.solo(
     IconData(0xe42e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe42e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-vertical-full-fill`
@@ -5574,10 +5535,9 @@ class PhIcons {
     IconData(0xe433, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-vertical-high-duotone` (duo-tone)
-  static const IconifyIconData batteryVerticalHighDuotone = IconifyIconData.duo(
+  /// `battery-vertical-high-duotone`
+  static const IconifyIconData batteryVerticalHighDuotone = IconifyIconData.solo(
     IconData(0xe434, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe434, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-vertical-high-fill`
@@ -5605,10 +5565,9 @@ class PhIcons {
     IconData(0xe439, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-vertical-low-duotone` (duo-tone)
-  static const IconifyIconData batteryVerticalLowDuotone = IconifyIconData.duo(
+  /// `battery-vertical-low-duotone`
+  static const IconifyIconData batteryVerticalLowDuotone = IconifyIconData.solo(
     IconData(0xe43a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe43a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-vertical-low-fill`
@@ -5636,10 +5595,9 @@ class PhIcons {
     IconData(0xe43f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-vertical-medium-duotone` (duo-tone)
-  static const IconifyIconData batteryVerticalMediumDuotone = IconifyIconData.duo(
+  /// `battery-vertical-medium-duotone`
+  static const IconifyIconData batteryVerticalMediumDuotone = IconifyIconData.solo(
     IconData(0xe440, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe440, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-vertical-medium-fill`
@@ -5667,10 +5625,9 @@ class PhIcons {
     IconData(0xe445, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-warning-duotone` (duo-tone)
-  static const IconifyIconData batteryWarningDuotone = IconifyIconData.duo(
+  /// `battery-warning-duotone`
+  static const IconifyIconData batteryWarningDuotone = IconifyIconData.solo(
     IconData(0xe446, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe446, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-warning-fill`
@@ -5698,10 +5655,9 @@ class PhIcons {
     IconData(0xe44b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `battery-warning-vertical-duotone` (duo-tone)
-  static const IconifyIconData batteryWarningVerticalDuotone = IconifyIconData.duo(
+  /// `battery-warning-vertical-duotone`
+  static const IconifyIconData batteryWarningVerticalDuotone = IconifyIconData.solo(
     IconData(0xe44c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe44c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `battery-warning-vertical-fill`
@@ -5972,10 +5928,9 @@ class PhIcons {
     IconData(0xe480, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `bell-simple-duotone` (duo-tone)
-  static const IconifyIconData bellSimpleDuotone = IconifyIconData.duo(
+  /// `bell-simple-duotone`
+  static const IconifyIconData bellSimpleDuotone = IconifyIconData.solo(
     IconData(0xe481, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe481, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `bell-simple-fill`
@@ -5998,10 +5953,9 @@ class PhIcons {
     IconData(0xe485, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `bell-simple-ringing-duotone` (duo-tone)
-  static const IconifyIconData bellSimpleRingingDuotone = IconifyIconData.duo(
+  /// `bell-simple-ringing-duotone`
+  static const IconifyIconData bellSimpleRingingDuotone = IconifyIconData.solo(
     IconData(0xe486, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe486, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `bell-simple-ringing-fill`
@@ -6029,10 +5983,9 @@ class PhIcons {
     IconData(0xe48b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `bell-simple-slash-duotone` (duo-tone)
-  static const IconifyIconData bellSimpleSlashDuotone = IconifyIconData.duo(
+  /// `bell-simple-slash-duotone`
+  static const IconifyIconData bellSimpleSlashDuotone = IconifyIconData.solo(
     IconData(0xe48c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe48c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `bell-simple-slash-fill`
@@ -6065,10 +6018,9 @@ class PhIcons {
     IconData(0xe492, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `bell-simple-z-duotone` (duo-tone)
-  static const IconifyIconData bellSimpleZDuotone = IconifyIconData.duo(
+  /// `bell-simple-z-duotone`
+  static const IconifyIconData bellSimpleZDuotone = IconifyIconData.solo(
     IconData(0xe493, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe493, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `bell-simple-z-fill`
@@ -6096,10 +6048,9 @@ class PhIcons {
     IconData(0xe498, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `bell-slash-duotone` (duo-tone)
-  static const IconifyIconData bellSlashDuotone = IconifyIconData.duo(
+  /// `bell-slash-duotone`
+  static const IconifyIconData bellSlashDuotone = IconifyIconData.solo(
     IconData(0xe499, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe499, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `bell-slash-fill`
@@ -6132,10 +6083,9 @@ class PhIcons {
     IconData(0xe49f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `bell-z-duotone` (duo-tone)
-  static const IconifyIconData bellZDuotone = IconifyIconData.duo(
+  /// `bell-z-duotone`
+  static const IconifyIconData bellZDuotone = IconifyIconData.solo(
     IconData(0xe4a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4a0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `bell-z-fill`
@@ -6256,10 +6206,9 @@ class PhIcons {
     IconData(0xe4b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `binary-duotone` (duo-tone)
-  static const IconifyIconData binaryDuotone = IconifyIconData.duo(
+  /// `binary-duotone`
+  static const IconifyIconData binaryDuotone = IconifyIconData.solo(
     IconData(0xe4b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4b8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `binary-fill`
@@ -6442,10 +6391,9 @@ class PhIcons {
     IconData(0xe4db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `bluetooth-duotone` (duo-tone)
-  static const IconifyIconData bluetoothDuotone = IconifyIconData.duo(
+  /// `bluetooth-duotone`
+  static const IconifyIconData bluetoothDuotone = IconifyIconData.solo(
     IconData(0xe4dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4dc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `bluetooth-fill`
@@ -7093,10 +7041,9 @@ class PhIcons {
     IconData(0xe559, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `bowling-ball-duotone` (duo-tone)
-  static const IconifyIconData bowlingBallDuotone = IconifyIconData.duo(
+  /// `bowling-ball-duotone`
+  static const IconifyIconData bowlingBallDuotone = IconifyIconData.solo(
     IconData(0xe55a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe55a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `bowling-ball-fill`
@@ -7155,10 +7102,9 @@ class PhIcons {
     IconData(0xe565, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `box-arrow-up-duotone` (duo-tone)
-  static const IconifyIconData boxArrowUpDuotone = IconifyIconData.duo(
+  /// `box-arrow-up-duotone`
+  static const IconifyIconData boxArrowUpDuotone = IconifyIconData.solo(
     IconData(0xe566, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe566, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `box-arrow-up-fill`
@@ -7669,33 +7615,32 @@ class PhIcons {
 
   /// `browsers-simple`
   static const IconifyIconData browsersSimple = IconifyIconData.solo(
-    IconData(0xe5c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe6a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `browsers-simple-bold`
   static const IconifyIconData browsersSimpleBold = IconifyIconData.solo(
-    IconData(0xe5ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe6a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `browsers-simple-duotone` (duo-tone)
-  static const IconifyIconData browsersSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe5cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5cb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
+  /// `browsers-simple-duotone`
+  static const IconifyIconData browsersSimpleDuotone = IconifyIconData.solo(
+    IconData(0xe6aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `browsers-simple-fill`
   static const IconifyIconData browsersSimpleFill = IconifyIconData.solo(
-    IconData(0xe5cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe6ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `browsers-simple-light`
   static const IconifyIconData browsersSimpleLight = IconifyIconData.solo(
-    IconData(0xe5cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe6ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `browsers-simple-thin`
   static const IconifyIconData browsersSimpleThin = IconifyIconData.solo(
-    IconData(0xe5ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xe6ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `browsers-thin`
@@ -8188,10 +8133,9 @@ class PhIcons {
     IconData(0xe62d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `calendar-check-duotone` (duo-tone)
-  static const IconifyIconData calendarCheckDuotone = IconifyIconData.duo(
+  /// `calendar-check-duotone`
+  static const IconifyIconData calendarCheckDuotone = IconifyIconData.solo(
     IconData(0xe62e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe62e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `calendar-check-fill`
@@ -8219,10 +8163,9 @@ class PhIcons {
     IconData(0xe633, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `calendar-dot-duotone` (duo-tone)
-  static const IconifyIconData calendarDotDuotone = IconifyIconData.duo(
+  /// `calendar-dot-duotone`
+  static const IconifyIconData calendarDotDuotone = IconifyIconData.solo(
     IconData(0xe634, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe634, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `calendar-dot-fill`
@@ -8250,10 +8193,9 @@ class PhIcons {
     IconData(0xe639, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `calendar-dots-duotone` (duo-tone)
-  static const IconifyIconData calendarDotsDuotone = IconifyIconData.duo(
+  /// `calendar-dots-duotone`
+  static const IconifyIconData calendarDotsDuotone = IconifyIconData.solo(
     IconData(0xe63a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe63a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `calendar-dots-fill`
@@ -8271,10 +8213,9 @@ class PhIcons {
     IconData(0xe63d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `calendar-duotone` (duo-tone)
-  static const IconifyIconData calendarDuotone = IconifyIconData.duo(
+  /// `calendar-duotone`
+  static const IconifyIconData calendarDuotone = IconifyIconData.solo(
     IconData(0xe63e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe63e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `calendar-fill`
@@ -8328,10 +8269,9 @@ class PhIcons {
     IconData(0xe648, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `calendar-minus-duotone` (duo-tone)
-  static const IconifyIconData calendarMinusDuotone = IconifyIconData.duo(
+  /// `calendar-minus-duotone`
+  static const IconifyIconData calendarMinusDuotone = IconifyIconData.solo(
     IconData(0xe649, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe649, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `calendar-minus-fill`
@@ -8359,10 +8299,9 @@ class PhIcons {
     IconData(0xe64e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `calendar-plus-duotone` (duo-tone)
-  static const IconifyIconData calendarPlusDuotone = IconifyIconData.duo(
+  /// `calendar-plus-duotone`
+  static const IconifyIconData calendarPlusDuotone = IconifyIconData.solo(
     IconData(0xe64f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe64f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `calendar-plus-fill`
@@ -8390,10 +8329,9 @@ class PhIcons {
     IconData(0xe654, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `calendar-slash-duotone` (duo-tone)
-  static const IconifyIconData calendarSlashDuotone = IconifyIconData.duo(
+  /// `calendar-slash-duotone`
+  static const IconifyIconData calendarSlashDuotone = IconifyIconData.solo(
     IconData(0xe655, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe655, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `calendar-slash-fill`
@@ -8457,10 +8395,9 @@ class PhIcons {
     IconData(0xe661, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `calendar-x-duotone` (duo-tone)
-  static const IconifyIconData calendarXDuotone = IconifyIconData.duo(
+  /// `calendar-x-duotone`
+  static const IconifyIconData calendarXDuotone = IconifyIconData.solo(
     IconData(0xe662, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe662, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `calendar-x-fill`
@@ -8607,10 +8544,9 @@ class PhIcons {
     IconData(0xe67e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `camera-slash-duotone` (duo-tone)
-  static const IconifyIconData cameraSlashDuotone = IconifyIconData.duo(
+  /// `camera-slash-duotone`
+  static const IconifyIconData cameraSlashDuotone = IconifyIconData.solo(
     IconData(0xe67f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe67f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `camera-slash-fill`
@@ -8922,10 +8858,9 @@ class PhIcons {
     IconData(0xe6bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `caret-circle-double-left-duotone` (duo-tone)
-  static const IconifyIconData caretCircleDoubleLeftDuotone = IconifyIconData.duo(
+  /// `caret-circle-double-left-duotone`
+  static const IconifyIconData caretCircleDoubleLeftDuotone = IconifyIconData.solo(
     IconData(0xe6bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6bc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `caret-circle-double-left-fill`
@@ -8953,10 +8888,9 @@ class PhIcons {
     IconData(0xe6c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `caret-circle-double-right-duotone` (duo-tone)
-  static const IconifyIconData caretCircleDoubleRightDuotone = IconifyIconData.duo(
+  /// `caret-circle-double-right-duotone`
+  static const IconifyIconData caretCircleDoubleRightDuotone = IconifyIconData.solo(
     IconData(0xe6c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6c2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `caret-circle-double-right-fill`
@@ -8984,10 +8918,9 @@ class PhIcons {
     IconData(0xe6c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `caret-circle-double-up-duotone` (duo-tone)
-  static const IconifyIconData caretCircleDoubleUpDuotone = IconifyIconData.duo(
+  /// `caret-circle-double-up-duotone`
+  static const IconifyIconData caretCircleDoubleUpDuotone = IconifyIconData.solo(
     IconData(0xe6c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6c8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `caret-circle-double-up-fill`
@@ -9015,10 +8948,9 @@ class PhIcons {
     IconData(0xe6cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `caret-circle-down-duotone` (duo-tone)
-  static const IconifyIconData caretCircleDownDuotone = IconifyIconData.duo(
+  /// `caret-circle-down-duotone`
+  static const IconifyIconData caretCircleDownDuotone = IconifyIconData.solo(
     IconData(0xe6ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6ce, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `caret-circle-down-fill`
@@ -9046,10 +8978,9 @@ class PhIcons {
     IconData(0xe6d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `caret-circle-left-duotone` (duo-tone)
-  static const IconifyIconData caretCircleLeftDuotone = IconifyIconData.duo(
+  /// `caret-circle-left-duotone`
+  static const IconifyIconData caretCircleLeftDuotone = IconifyIconData.solo(
     IconData(0xe6d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6d4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `caret-circle-left-fill`
@@ -9077,10 +9008,9 @@ class PhIcons {
     IconData(0xe6d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `caret-circle-right-duotone` (duo-tone)
-  static const IconifyIconData caretCircleRightDuotone = IconifyIconData.duo(
+  /// `caret-circle-right-duotone`
+  static const IconifyIconData caretCircleRightDuotone = IconifyIconData.solo(
     IconData(0xe6da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6da, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `caret-circle-right-fill`
@@ -9118,10 +9048,9 @@ class PhIcons {
     IconData(0xe6e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `caret-circle-up-down-duotone` (duo-tone)
-  static const IconifyIconData caretCircleUpDownDuotone = IconifyIconData.duo(
+  /// `caret-circle-up-down-duotone`
+  static const IconifyIconData caretCircleUpDownDuotone = IconifyIconData.solo(
     IconData(0xe6e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6e2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `caret-circle-up-down-fill`
@@ -9139,10 +9068,9 @@ class PhIcons {
     IconData(0xe6e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `caret-circle-up-duotone` (duo-tone)
-  static const IconifyIconData caretCircleUpDuotone = IconifyIconData.duo(
+  /// `caret-circle-up-duotone`
+  static const IconifyIconData caretCircleUpDuotone = IconifyIconData.solo(
     IconData(0xe6e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6e6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `caret-circle-up-fill`
@@ -9882,10 +9810,9 @@ class PhIcons {
     IconData(0xe775, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cell-signal-slash-duotone` (duo-tone)
-  static const IconifyIconData cellSignalSlashDuotone = IconifyIconData.duo(
+  /// `cell-signal-slash-duotone`
+  static const IconifyIconData cellSignalSlashDuotone = IconifyIconData.solo(
     IconData(0xe776, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe776, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cell-signal-slash-fill`
@@ -10316,10 +10243,9 @@ class PhIcons {
     IconData(0xe7c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chart-line-duotone` (duo-tone)
-  static const IconifyIconData chartLineDuotone = IconifyIconData.duo(
+  /// `chart-line-duotone`
+  static const IconifyIconData chartLineDuotone = IconifyIconData.solo(
     IconData(0xe7ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7ca, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chart-line-fill`
@@ -10347,10 +10273,9 @@ class PhIcons {
     IconData(0xe7cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chart-line-up-duotone` (duo-tone)
-  static const IconifyIconData chartLineUpDuotone = IconifyIconData.duo(
+  /// `chart-line-up-duotone`
+  static const IconifyIconData chartLineUpDuotone = IconifyIconData.solo(
     IconData(0xe7d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7d0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chart-line-up-fill`
@@ -10471,10 +10396,9 @@ class PhIcons {
     IconData(0xe7e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chart-scatter-duotone` (duo-tone)
-  static const IconifyIconData chartScatterDuotone = IconifyIconData.duo(
+  /// `chart-scatter-duotone`
+  static const IconifyIconData chartScatterDuotone = IconifyIconData.solo(
     IconData(0xe7e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7e8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chart-scatter-fill`
@@ -10543,10 +10467,9 @@ class PhIcons {
     IconData(0xe7f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-centered-duotone` (duo-tone)
-  static const IconifyIconData chatCenteredDuotone = IconifyIconData.duo(
+  /// `chat-centered-duotone`
+  static const IconifyIconData chatCenteredDuotone = IconifyIconData.solo(
     IconData(0xe7f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7f6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-centered-fill`
@@ -10569,10 +10492,9 @@ class PhIcons {
     IconData(0xe7fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-centered-slash-duotone` (duo-tone)
-  static const IconifyIconData chatCenteredSlashDuotone = IconifyIconData.duo(
+  /// `chat-centered-slash-duotone`
+  static const IconifyIconData chatCenteredSlashDuotone = IconifyIconData.solo(
     IconData(0xe7fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7fb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-centered-slash-fill`
@@ -10600,10 +10522,9 @@ class PhIcons {
     IconData(0xe800, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-centered-text-duotone` (duo-tone)
-  static const IconifyIconData chatCenteredTextDuotone = IconifyIconData.duo(
+  /// `chat-centered-text-duotone`
+  static const IconifyIconData chatCenteredTextDuotone = IconifyIconData.solo(
     IconData(0xe801, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe801, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-centered-text-fill`
@@ -10667,10 +10588,9 @@ class PhIcons {
     IconData(0xe80d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-circle-duotone` (duo-tone)
-  static const IconifyIconData chatCircleDuotone = IconifyIconData.duo(
+  /// `chat-circle-duotone`
+  static const IconifyIconData chatCircleDuotone = IconifyIconData.solo(
     IconData(0xe80e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe80e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-circle-fill`
@@ -10693,10 +10613,9 @@ class PhIcons {
     IconData(0xe812, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-circle-slash-duotone` (duo-tone)
-  static const IconifyIconData chatCircleSlashDuotone = IconifyIconData.duo(
+  /// `chat-circle-slash-duotone`
+  static const IconifyIconData chatCircleSlashDuotone = IconifyIconData.solo(
     IconData(0xe813, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe813, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-circle-slash-fill`
@@ -10724,10 +10643,9 @@ class PhIcons {
     IconData(0xe818, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-circle-text-duotone` (duo-tone)
-  static const IconifyIconData chatCircleTextDuotone = IconifyIconData.duo(
+  /// `chat-circle-text-duotone`
+  static const IconifyIconData chatCircleTextDuotone = IconifyIconData.solo(
     IconData(0xe819, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe819, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-circle-text-fill`
@@ -10781,10 +10699,9 @@ class PhIcons {
     IconData(0xe823, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-duotone` (duo-tone)
-  static const IconifyIconData chatDuotone = IconifyIconData.duo(
+  /// `chat-duotone`
+  static const IconifyIconData chatDuotone = IconifyIconData.solo(
     IconData(0xe824, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe824, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-fill`
@@ -10807,10 +10724,9 @@ class PhIcons {
     IconData(0xe828, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-slash-duotone` (duo-tone)
-  static const IconifyIconData chatSlashDuotone = IconifyIconData.duo(
+  /// `chat-slash-duotone`
+  static const IconifyIconData chatSlashDuotone = IconifyIconData.solo(
     IconData(0xe829, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe829, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-slash-fill`
@@ -10869,10 +10785,9 @@ class PhIcons {
     IconData(0xe834, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-teardrop-duotone` (duo-tone)
-  static const IconifyIconData chatTeardropDuotone = IconifyIconData.duo(
+  /// `chat-teardrop-duotone`
+  static const IconifyIconData chatTeardropDuotone = IconifyIconData.solo(
     IconData(0xe835, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe835, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-teardrop-fill`
@@ -10895,10 +10810,9 @@ class PhIcons {
     IconData(0xe839, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-teardrop-slash-duotone` (duo-tone)
-  static const IconifyIconData chatTeardropSlashDuotone = IconifyIconData.duo(
+  /// `chat-teardrop-slash-duotone`
+  static const IconifyIconData chatTeardropSlashDuotone = IconifyIconData.solo(
     IconData(0xe83a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe83a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-teardrop-slash-fill`
@@ -10926,10 +10840,9 @@ class PhIcons {
     IconData(0xe83f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-teardrop-text-duotone` (duo-tone)
-  static const IconifyIconData chatTeardropTextDuotone = IconifyIconData.duo(
+  /// `chat-teardrop-text-duotone`
+  static const IconifyIconData chatTeardropTextDuotone = IconifyIconData.solo(
     IconData(0xe840, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe840, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-teardrop-text-fill`
@@ -10962,10 +10875,9 @@ class PhIcons {
     IconData(0xe846, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `chat-text-duotone` (duo-tone)
-  static const IconifyIconData chatTextDuotone = IconifyIconData.duo(
+  /// `chat-text-duotone`
+  static const IconifyIconData chatTextDuotone = IconifyIconData.solo(
     IconData(0xe847, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe847, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `chat-text-fill`
@@ -11101,10 +11013,9 @@ class PhIcons {
     IconData(0xe861, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `check-circle-duotone` (duo-tone)
-  static const IconifyIconData checkCircleDuotone = IconifyIconData.duo(
+  /// `check-circle-duotone`
+  static const IconifyIconData checkCircleDuotone = IconifyIconData.solo(
     IconData(0xe862, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe862, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `check-circle-fill`
@@ -11179,10 +11090,9 @@ class PhIcons {
     IconData(0xe870, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `check-square-duotone` (duo-tone)
-  static const IconifyIconData checkSquareDuotone = IconifyIconData.duo(
+  /// `check-square-duotone`
+  static const IconifyIconData checkSquareDuotone = IconifyIconData.solo(
     IconData(0xe871, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe871, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `check-square-fill`
@@ -11489,10 +11399,9 @@ class PhIcons {
     IconData(0xe8ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cigarette-slash-duotone` (duo-tone)
-  static const IconifyIconData cigaretteSlashDuotone = IconifyIconData.duo(
+  /// `cigarette-slash-duotone`
+  static const IconifyIconData cigaretteSlashDuotone = IconifyIconData.solo(
     IconData(0xe8ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8ad, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cigarette-slash-fill`
@@ -11535,10 +11444,9 @@ class PhIcons {
     IconData(0xe8b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `circle-dashed-duotone` (duo-tone)
-  static const IconifyIconData circleDashedDuotone = IconifyIconData.duo(
+  /// `circle-dashed-duotone`
+  static const IconifyIconData circleDashedDuotone = IconifyIconData.solo(
     IconData(0xe8b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8b6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `circle-dashed-fill`
@@ -11556,10 +11464,9 @@ class PhIcons {
     IconData(0xe8b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `circle-duotone` (duo-tone)
-  static const IconifyIconData circleDuotone = IconifyIconData.duo(
+  /// `circle-duotone`
+  static const IconifyIconData circleDuotone = IconifyIconData.solo(
     IconData(0xe8ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8ba, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `circle-fill`
@@ -11644,10 +11551,9 @@ class PhIcons {
     IconData(0xe8ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `circle-notch-duotone` (duo-tone)
-  static const IconifyIconData circleNotchDuotone = IconifyIconData.duo(
+  /// `circle-notch-duotone`
+  static const IconifyIconData circleNotchDuotone = IconifyIconData.solo(
     IconData(0xe8cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8cb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `circle-notch-fill`
@@ -11711,10 +11617,9 @@ class PhIcons {
     IconData(0xe8d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `circle-wavy-duotone` (duo-tone)
-  static const IconifyIconData circleWavyDuotone = IconifyIconData.duo(
+  /// `circle-wavy-duotone`
+  static const IconifyIconData circleWavyDuotone = IconifyIconData.solo(
     IconData(0xe8d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8d8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `circle-wavy-fill`
@@ -11737,10 +11642,9 @@ class PhIcons {
     IconData(0xe8dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `circle-wavy-question-duotone` (duo-tone)
-  static const IconifyIconData circleWavyQuestionDuotone = IconifyIconData.duo(
+  /// `circle-wavy-question-duotone`
+  static const IconifyIconData circleWavyQuestionDuotone = IconifyIconData.solo(
     IconData(0xe8dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8dd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `circle-wavy-question-fill`
@@ -11773,10 +11677,9 @@ class PhIcons {
     IconData(0xe8e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `circle-wavy-warning-duotone` (duo-tone)
-  static const IconifyIconData circleWavyWarningDuotone = IconifyIconData.duo(
+  /// `circle-wavy-warning-duotone`
+  static const IconifyIconData circleWavyWarningDuotone = IconifyIconData.solo(
     IconData(0xe8e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8e4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `circle-wavy-warning-fill`
@@ -11985,10 +11888,9 @@ class PhIcons {
     IconData(0xe90c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `clipboard-text-duotone` (duo-tone)
-  static const IconifyIconData clipboardTextDuotone = IconifyIconData.duo(
+  /// `clipboard-text-duotone`
+  static const IconifyIconData clipboardTextDuotone = IconifyIconData.solo(
     IconData(0xe90d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe90d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `clipboard-text-fill`
@@ -12026,10 +11928,9 @@ class PhIcons {
     IconData(0xe914, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `clock-afternoon-duotone` (duo-tone)
-  static const IconifyIconData clockAfternoonDuotone = IconifyIconData.duo(
+  /// `clock-afternoon-duotone`
+  static const IconifyIconData clockAfternoonDuotone = IconifyIconData.solo(
     IconData(0xe915, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe915, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `clock-afternoon-fill`
@@ -12062,10 +11963,9 @@ class PhIcons {
     IconData(0xe91b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `clock-clockwise-duotone` (duo-tone)
-  static const IconifyIconData clockClockwiseDuotone = IconifyIconData.duo(
+  /// `clock-clockwise-duotone`
+  static const IconifyIconData clockClockwiseDuotone = IconifyIconData.solo(
     IconData(0xe91c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe91c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `clock-clockwise-fill`
@@ -12093,10 +11993,9 @@ class PhIcons {
     IconData(0xe921, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `clock-countdown-duotone` (duo-tone)
-  static const IconifyIconData clockCountdownDuotone = IconifyIconData.duo(
+  /// `clock-countdown-duotone`
+  static const IconifyIconData clockCountdownDuotone = IconifyIconData.solo(
     IconData(0xe922, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe922, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `clock-countdown-fill`
@@ -12124,10 +12023,9 @@ class PhIcons {
     IconData(0xe927, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `clock-counter-clockwise-duotone` (duo-tone)
-  static const IconifyIconData clockCounterClockwiseDuotone = IconifyIconData.duo(
+  /// `clock-counter-clockwise-duotone`
+  static const IconifyIconData clockCounterClockwiseDuotone = IconifyIconData.solo(
     IconData(0xe928, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe928, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `clock-counter-clockwise-fill`
@@ -12145,10 +12043,9 @@ class PhIcons {
     IconData(0xe92b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `clock-duotone` (duo-tone)
-  static const IconifyIconData clockDuotone = IconifyIconData.duo(
+  /// `clock-duotone`
+  static const IconifyIconData clockDuotone = IconifyIconData.solo(
     IconData(0xe92c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe92c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `clock-fill`
@@ -12274,10 +12171,9 @@ class PhIcons {
     IconData(0xe944, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cloud-arrow-up-duotone` (duo-tone)
-  static const IconifyIconData cloudArrowUpDuotone = IconifyIconData.duo(
+  /// `cloud-arrow-up-duotone`
+  static const IconifyIconData cloudArrowUpDuotone = IconifyIconData.solo(
     IconData(0xe945, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe945, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cloud-arrow-up-fill`
@@ -12310,10 +12206,9 @@ class PhIcons {
     IconData(0xe94b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cloud-check-duotone` (duo-tone)
-  static const IconifyIconData cloudCheckDuotone = IconifyIconData.duo(
+  /// `cloud-check-duotone`
+  static const IconifyIconData cloudCheckDuotone = IconifyIconData.solo(
     IconData(0xe94c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe94c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cloud-check-fill`
@@ -12331,10 +12226,9 @@ class PhIcons {
     IconData(0xe94f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cloud-duotone` (duo-tone)
-  static const IconifyIconData cloudDuotone = IconifyIconData.duo(
+  /// `cloud-duotone`
+  static const IconifyIconData cloudDuotone = IconifyIconData.solo(
     IconData(0xe950, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe950, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cloud-fill`
@@ -12450,10 +12344,9 @@ class PhIcons {
     IconData(0xe966, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cloud-rain-duotone` (duo-tone)
-  static const IconifyIconData cloudRainDuotone = IconifyIconData.duo(
+  /// `cloud-rain-duotone`
+  static const IconifyIconData cloudRainDuotone = IconifyIconData.solo(
     IconData(0xe967, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe967, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cloud-rain-fill`
@@ -12481,10 +12374,9 @@ class PhIcons {
     IconData(0xe96c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cloud-slash-duotone` (duo-tone)
-  static const IconifyIconData cloudSlashDuotone = IconifyIconData.duo(
+  /// `cloud-slash-duotone`
+  static const IconifyIconData cloudSlashDuotone = IconifyIconData.solo(
     IconData(0xe96d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe96d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cloud-slash-fill`
@@ -12512,10 +12404,9 @@ class PhIcons {
     IconData(0xe972, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cloud-snow-duotone` (duo-tone)
-  static const IconifyIconData cloudSnowDuotone = IconifyIconData.duo(
+  /// `cloud-snow-duotone`
+  static const IconifyIconData cloudSnowDuotone = IconifyIconData.solo(
     IconData(0xe973, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe973, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cloud-snow-fill`
@@ -12610,10 +12501,9 @@ class PhIcons {
     IconData(0xe985, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cloud-x-duotone` (duo-tone)
-  static const IconifyIconData cloudXDuotone = IconifyIconData.duo(
+  /// `cloud-x-duotone`
+  static const IconifyIconData cloudXDuotone = IconifyIconData.solo(
     IconData(0xe986, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xe986, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cloud-x-fill`
@@ -13354,10 +13244,9 @@ class PhIcons {
     IconData(0xea15, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `contactless-payment-duotone` (duo-tone)
-  static const IconifyIconData contactlessPaymentDuotone = IconifyIconData.duo(
+  /// `contactless-payment-duotone`
+  static const IconifyIconData contactlessPaymentDuotone = IconifyIconData.solo(
     IconData(0xea16, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xea16, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `contactless-payment-fill`
@@ -13540,10 +13429,9 @@ class PhIcons {
     IconData(0xea39, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `copyleft-duotone` (duo-tone)
-  static const IconifyIconData copyleftDuotone = IconifyIconData.duo(
+  /// `copyleft-duotone`
+  static const IconifyIconData copyleftDuotone = IconifyIconData.solo(
     IconData(0xea3a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xea3a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `copyleft-fill`
@@ -13571,10 +13459,9 @@ class PhIcons {
     IconData(0xea3f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `copyright-duotone` (duo-tone)
-  static const IconifyIconData copyrightDuotone = IconifyIconData.duo(
+  /// `copyright-duotone`
+  static const IconifyIconData copyrightDuotone = IconifyIconData.solo(
     IconData(0xea40, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xea40, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `copyright-fill`
@@ -13633,10 +13520,9 @@ class PhIcons {
     IconData(0xea4b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `corners-out-duotone` (duo-tone)
-  static const IconifyIconData cornersOutDuotone = IconifyIconData.duo(
+  /// `corners-out-duotone`
+  static const IconifyIconData cornersOutDuotone = IconifyIconData.solo(
     IconData(0xea4c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xea4c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `corners-out-fill`
@@ -14005,10 +13891,9 @@ class PhIcons {
     IconData(0xea93, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `crosshair-duotone` (duo-tone)
-  static const IconifyIconData crosshairDuotone = IconifyIconData.duo(
+  /// `crosshair-duotone`
+  static const IconifyIconData crosshairDuotone = IconifyIconData.solo(
     IconData(0xea94, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xea94, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `crosshair-fill`
@@ -14031,10 +13916,9 @@ class PhIcons {
     IconData(0xea98, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `crosshair-simple-duotone` (duo-tone)
-  static const IconifyIconData crosshairSimpleDuotone = IconifyIconData.duo(
+  /// `crosshair-simple-duotone`
+  static const IconifyIconData crosshairSimpleDuotone = IconifyIconData.solo(
     IconData(0xea99, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xea99, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `crosshair-simple-fill`
@@ -14284,10 +14168,9 @@ class PhIcons {
     IconData(0xeac9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `currency-circle-dollar-duotone` (duo-tone)
-  static const IconifyIconData currencyCircleDollarDuotone = IconifyIconData.duo(
+  /// `currency-circle-dollar-duotone`
+  static const IconifyIconData currencyCircleDollarDuotone = IconifyIconData.solo(
     IconData(0xeaca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeaca, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `currency-circle-dollar-fill`
@@ -14372,10 +14255,9 @@ class PhIcons {
     IconData(0xeada, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `currency-dollar-simple-duotone` (duo-tone)
-  static const IconifyIconData currencyDollarSimpleDuotone = IconifyIconData.duo(
+  /// `currency-dollar-simple-duotone`
+  static const IconifyIconData currencyDollarSimpleDuotone = IconifyIconData.solo(
     IconData(0xeadb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeadb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `currency-dollar-simple-fill`
@@ -14718,10 +14600,9 @@ class PhIcons {
     IconData(0xeb1d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `cursor-duotone` (duo-tone)
-  static const IconifyIconData cursorDuotone = IconifyIconData.duo(
+  /// `cursor-duotone`
+  static const IconifyIconData cursorDuotone = IconifyIconData.solo(
     IconData(0xeb1e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb1e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `cursor-fill`
@@ -15054,10 +14935,9 @@ class PhIcons {
     IconData(0xeb5e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `device-mobile-slash-duotone` (duo-tone)
-  static const IconifyIconData deviceMobileSlashDuotone = IconifyIconData.duo(
+  /// `device-mobile-slash-duotone`
+  static const IconifyIconData deviceMobileSlashDuotone = IconifyIconData.solo(
     IconData(0xeb5f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb5f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `device-mobile-slash-fill`
@@ -15085,10 +14965,9 @@ class PhIcons {
     IconData(0xeb64, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `device-mobile-speaker-duotone` (duo-tone)
-  static const IconifyIconData deviceMobileSpeakerDuotone = IconifyIconData.duo(
+  /// `device-mobile-speaker-duotone`
+  static const IconifyIconData deviceMobileSpeakerDuotone = IconifyIconData.solo(
     IconData(0xeb65, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb65, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `device-mobile-speaker-fill`
@@ -15209,10 +15088,9 @@ class PhIcons {
     IconData(0xeb7c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `device-tablet-speaker-duotone` (duo-tone)
-  static const IconifyIconData deviceTabletSpeakerDuotone = IconifyIconData.duo(
+  /// `device-tablet-speaker-duotone`
+  static const IconifyIconData deviceTabletSpeakerDuotone = IconifyIconData.solo(
     IconData(0xeb7d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb7d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `device-tablet-speaker-fill`
@@ -15369,10 +15247,9 @@ class PhIcons {
     IconData(0xeb9b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dice-four-duotone` (duo-tone)
-  static const IconifyIconData diceFourDuotone = IconifyIconData.duo(
+  /// `dice-four-duotone`
+  static const IconifyIconData diceFourDuotone = IconifyIconData.solo(
     IconData(0xeb9c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb9c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dice-four-fill`
@@ -15400,10 +15277,9 @@ class PhIcons {
     IconData(0xeba1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dice-one-duotone` (duo-tone)
-  static const IconifyIconData diceOneDuotone = IconifyIconData.duo(
+  /// `dice-one-duotone`
+  static const IconifyIconData diceOneDuotone = IconifyIconData.solo(
     IconData(0xeba2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeba2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dice-one-fill`
@@ -15431,10 +15307,9 @@ class PhIcons {
     IconData(0xeba7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dice-six-duotone` (duo-tone)
-  static const IconifyIconData diceSixDuotone = IconifyIconData.duo(
+  /// `dice-six-duotone`
+  static const IconifyIconData diceSixDuotone = IconifyIconData.solo(
     IconData(0xeba8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeba8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dice-six-fill`
@@ -15462,10 +15337,9 @@ class PhIcons {
     IconData(0xebad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dice-three-duotone` (duo-tone)
-  static const IconifyIconData diceThreeDuotone = IconifyIconData.duo(
+  /// `dice-three-duotone`
+  static const IconifyIconData diceThreeDuotone = IconifyIconData.solo(
     IconData(0xebae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xebae, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dice-three-fill`
@@ -15493,10 +15367,9 @@ class PhIcons {
     IconData(0xebb3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dice-two-duotone` (duo-tone)
-  static const IconifyIconData diceTwoDuotone = IconifyIconData.duo(
+  /// `dice-two-duotone`
+  static const IconifyIconData diceTwoDuotone = IconifyIconData.solo(
     IconData(0xebb4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xebb4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dice-two-fill`
@@ -15617,10 +15490,9 @@ class PhIcons {
     IconData(0xebcb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `divide-duotone` (duo-tone)
-  static const IconifyIconData divideDuotone = IconifyIconData.duo(
+  /// `divide-duotone`
+  static const IconifyIconData divideDuotone = IconifyIconData.solo(
     IconData(0xebcc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xebcc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `divide-fill`
@@ -15834,10 +15706,9 @@ class PhIcons {
     IconData(0xebf5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dots-nine-duotone` (duo-tone)
-  static const IconifyIconData dotsNineDuotone = IconifyIconData.duo(
+  /// `dots-nine-duotone`
+  static const IconifyIconData dotsNineDuotone = IconifyIconData.solo(
     IconData(0xebf6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xebf6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dots-nine-fill`
@@ -15865,10 +15736,9 @@ class PhIcons {
     IconData(0xebfb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dots-six-duotone` (duo-tone)
-  static const IconifyIconData dotsSixDuotone = IconifyIconData.duo(
+  /// `dots-six-duotone`
+  static const IconifyIconData dotsSixDuotone = IconifyIconData.solo(
     IconData(0xebfc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xebfc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dots-six-fill`
@@ -15937,10 +15807,9 @@ class PhIcons {
     IconData(0xec09, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dots-three-circle-duotone` (duo-tone)
-  static const IconifyIconData dotsThreeCircleDuotone = IconifyIconData.duo(
+  /// `dots-three-circle-duotone`
+  static const IconifyIconData dotsThreeCircleDuotone = IconifyIconData.solo(
     IconData(0xec0a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xec0a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dots-three-circle-fill`
@@ -15968,10 +15837,9 @@ class PhIcons {
     IconData(0xec0f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dots-three-circle-vertical-duotone` (duo-tone)
-  static const IconifyIconData dotsThreeCircleVerticalDuotone = IconifyIconData.duo(
+  /// `dots-three-circle-vertical-duotone`
+  static const IconifyIconData dotsThreeCircleVerticalDuotone = IconifyIconData.solo(
     IconData(0xec10, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xec10, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dots-three-circle-vertical-fill`
@@ -16237,10 +16105,9 @@ class PhIcons {
     IconData(0xec43, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `dribbble-logo-duotone` (duo-tone)
-  static const IconifyIconData dribbbleLogoDuotone = IconifyIconData.duo(
+  /// `dribbble-logo-duotone`
+  static const IconifyIconData dribbbleLogoDuotone = IconifyIconData.solo(
     IconData(0xec44, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xec44, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `dribbble-logo-fill`
@@ -16387,10 +16254,9 @@ class PhIcons {
     IconData(0xec60, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `drop-simple-duotone` (duo-tone)
-  static const IconifyIconData dropSimpleDuotone = IconifyIconData.duo(
+  /// `drop-simple-duotone`
+  static const IconifyIconData dropSimpleDuotone = IconifyIconData.solo(
     IconData(0xec61, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xec61, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `drop-simple-fill`
@@ -16418,10 +16284,9 @@ class PhIcons {
     IconData(0xec66, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `drop-slash-duotone` (duo-tone)
-  static const IconifyIconData dropSlashDuotone = IconifyIconData.duo(
+  /// `drop-slash-duotone`
+  static const IconifyIconData dropSlashDuotone = IconifyIconData.solo(
     IconData(0xec67, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xec67, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `drop-slash-fill`
@@ -16511,10 +16376,9 @@ class PhIcons {
     IconData(0xec78, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `ear-slash-duotone` (duo-tone)
-  static const IconifyIconData earSlashDuotone = IconifyIconData.duo(
+  /// `ear-slash-duotone`
+  static const IconifyIconData earSlashDuotone = IconifyIconData.solo(
     IconData(0xec79, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xec79, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ear-slash-fill`
@@ -16578,10 +16442,9 @@ class PhIcons {
     IconData(0xec85, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `egg-duotone` (duo-tone)
-  static const IconifyIconData eggDuotone = IconifyIconData.duo(
+  /// `egg-duotone`
+  static const IconifyIconData eggDuotone = IconifyIconData.solo(
     IconData(0xec86, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xec86, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `egg-fill`
@@ -16702,10 +16565,9 @@ class PhIcons {
     IconData(0xec9d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `empty-duotone` (duo-tone)
-  static const IconifyIconData emptyDuotone = IconifyIconData.duo(
+  /// `empty-duotone`
+  static const IconifyIconData emptyDuotone = IconifyIconData.solo(
     IconData(0xec9e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xec9e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `empty-fill`
@@ -16821,10 +16683,9 @@ class PhIcons {
     IconData(0xecb4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `envelope-simple-duotone` (duo-tone)
-  static const IconifyIconData envelopeSimpleDuotone = IconifyIconData.duo(
+  /// `envelope-simple-duotone`
+  static const IconifyIconData envelopeSimpleDuotone = IconifyIconData.solo(
     IconData(0xecb5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xecb5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `envelope-simple-fill`
@@ -16847,10 +16708,9 @@ class PhIcons {
     IconData(0xecb9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `envelope-simple-open-duotone` (duo-tone)
-  static const IconifyIconData envelopeSimpleOpenDuotone = IconifyIconData.duo(
+  /// `envelope-simple-open-duotone`
+  static const IconifyIconData envelopeSimpleOpenDuotone = IconifyIconData.solo(
     IconData(0xecba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xecba, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `envelope-simple-open-fill`
@@ -16919,10 +16779,9 @@ class PhIcons {
     IconData(0xecc7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `equals-duotone` (duo-tone)
-  static const IconifyIconData equalsDuotone = IconifyIconData.duo(
+  /// `equals-duotone`
+  static const IconifyIconData equalsDuotone = IconifyIconData.solo(
     IconData(0xecc8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xecc8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `equals-fill`
@@ -17255,10 +17114,9 @@ class PhIcons {
     IconData(0xed08, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `eye-slash-duotone` (duo-tone)
-  static const IconifyIconData eyeSlashDuotone = IconifyIconData.duo(
+  /// `eye-slash-duotone`
+  static const IconifyIconData eyeSlashDuotone = IconifyIconData.solo(
     IconData(0xed09, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xed09, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `eye-slash-fill`
@@ -17446,10 +17304,9 @@ class PhIcons {
     IconData(0xed2d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `facebook-logo-duotone` (duo-tone)
-  static const IconifyIconData facebookLogoDuotone = IconifyIconData.duo(
+  /// `facebook-logo-duotone`
+  static const IconifyIconData facebookLogoDuotone = IconifyIconData.solo(
     IconData(0xed2e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xed2e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `facebook-logo-fill`
@@ -17854,10 +17711,9 @@ class PhIcons {
     IconData(0xed7c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-arrow-down-duotone` (duo-tone)
-  static const IconifyIconData fileArrowDownDuotone = IconifyIconData.duo(
+  /// `file-arrow-down-duotone`
+  static const IconifyIconData fileArrowDownDuotone = IconifyIconData.solo(
     IconData(0xed7d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xed7d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-arrow-down-fill`
@@ -17885,10 +17741,9 @@ class PhIcons {
     IconData(0xed82, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-arrow-up-duotone` (duo-tone)
-  static const IconifyIconData fileArrowUpDuotone = IconifyIconData.duo(
+  /// `file-arrow-up-duotone`
+  static const IconifyIconData fileArrowUpDuotone = IconifyIconData.solo(
     IconData(0xed83, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xed83, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-arrow-up-fill`
@@ -17952,10 +17807,9 @@ class PhIcons {
     IconData(0xed8f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-c-duotone` (duo-tone)
-  static const IconifyIconData fileCDuotone = IconifyIconData.duo(
+  /// `file-c-duotone`
+  static const IconifyIconData fileCDuotone = IconifyIconData.solo(
     IconData(0xed90, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xed90, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-c-fill`
@@ -17978,10 +17832,9 @@ class PhIcons {
     IconData(0xed94, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-c-sharp-duotone` (duo-tone)
-  static const IconifyIconData fileCSharpDuotone = IconifyIconData.duo(
+  /// `file-c-sharp-duotone`
+  static const IconifyIconData fileCSharpDuotone = IconifyIconData.solo(
     IconData(0xed95, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xed95, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-c-sharp-fill`
@@ -18045,10 +17898,9 @@ class PhIcons {
     IconData(0xeda1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-code-duotone` (duo-tone)
-  static const IconifyIconData fileCodeDuotone = IconifyIconData.duo(
+  /// `file-code-duotone`
+  static const IconifyIconData fileCodeDuotone = IconifyIconData.solo(
     IconData(0xeda2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeda2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-code-fill`
@@ -18076,10 +17928,9 @@ class PhIcons {
     IconData(0xeda7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-cpp-duotone` (duo-tone)
-  static const IconifyIconData fileCppDuotone = IconifyIconData.duo(
+  /// `file-cpp-duotone`
+  static const IconifyIconData fileCppDuotone = IconifyIconData.solo(
     IconData(0xeda8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeda8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-cpp-fill`
@@ -18107,10 +17958,9 @@ class PhIcons {
     IconData(0xedad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-css-duotone` (duo-tone)
-  static const IconifyIconData fileCssDuotone = IconifyIconData.duo(
+  /// `file-css-duotone`
+  static const IconifyIconData fileCssDuotone = IconifyIconData.solo(
     IconData(0xedae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedae, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-css-fill`
@@ -18138,10 +17988,9 @@ class PhIcons {
     IconData(0xedb3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-csv-duotone` (duo-tone)
-  static const IconifyIconData fileCsvDuotone = IconifyIconData.duo(
+  /// `file-csv-duotone`
+  static const IconifyIconData fileCsvDuotone = IconifyIconData.solo(
     IconData(0xedb4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedb4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-csv-fill`
@@ -18169,10 +18018,9 @@ class PhIcons {
     IconData(0xedb9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-dashed-duotone` (duo-tone)
-  static const IconifyIconData fileDashedDuotone = IconifyIconData.duo(
+  /// `file-dashed-duotone`
+  static const IconifyIconData fileDashedDuotone = IconifyIconData.solo(
     IconData(0xedba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedba, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-dashed-fill`
@@ -18200,10 +18048,9 @@ class PhIcons {
     IconData(0xedbf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-doc-duotone` (duo-tone)
-  static const IconifyIconData fileDocDuotone = IconifyIconData.duo(
+  /// `file-doc-duotone`
+  static const IconifyIconData fileDocDuotone = IconifyIconData.solo(
     IconData(0xedc0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedc0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-doc-fill`
@@ -18231,10 +18078,9 @@ class PhIcons {
     IconData(0xedc5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-dotted-duotone` (duo-tone)
-  static const IconifyIconData fileDottedDuotone = IconifyIconData.duo(
+  /// `file-dotted-duotone`
+  static const IconifyIconData fileDottedDuotone = IconifyIconData.solo(
     IconData(0xedc6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedc6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-dotted-fill`
@@ -18252,10 +18098,9 @@ class PhIcons {
     IconData(0xedc9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-duotone` (duo-tone)
-  static const IconifyIconData fileDuotone = IconifyIconData.duo(
+  /// `file-duotone`
+  static const IconifyIconData fileDuotone = IconifyIconData.solo(
     IconData(0xedca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedca, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-fill`
@@ -18273,10 +18118,9 @@ class PhIcons {
     IconData(0xedcd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-html-duotone` (duo-tone)
-  static const IconifyIconData fileHtmlDuotone = IconifyIconData.duo(
+  /// `file-html-duotone`
+  static const IconifyIconData fileHtmlDuotone = IconifyIconData.solo(
     IconData(0xedce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedce, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-html-fill`
@@ -18335,10 +18179,9 @@ class PhIcons {
     IconData(0xedd9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-ini-duotone` (duo-tone)
-  static const IconifyIconData fileIniDuotone = IconifyIconData.duo(
+  /// `file-ini-duotone`
+  static const IconifyIconData fileIniDuotone = IconifyIconData.solo(
     IconData(0xedda, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedda, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-ini-fill`
@@ -18366,10 +18209,9 @@ class PhIcons {
     IconData(0xeddf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-jpg-duotone` (duo-tone)
-  static const IconifyIconData fileJpgDuotone = IconifyIconData.duo(
+  /// `file-jpg-duotone`
+  static const IconifyIconData fileJpgDuotone = IconifyIconData.solo(
     IconData(0xede0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xede0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-jpg-fill`
@@ -18397,10 +18239,9 @@ class PhIcons {
     IconData(0xede5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-js-duotone` (duo-tone)
-  static const IconifyIconData fileJsDuotone = IconifyIconData.duo(
+  /// `file-js-duotone`
+  static const IconifyIconData fileJsDuotone = IconifyIconData.solo(
     IconData(0xede6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xede6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-js-fill`
@@ -18428,10 +18269,9 @@ class PhIcons {
     IconData(0xedeb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-jsx-duotone` (duo-tone)
-  static const IconifyIconData fileJsxDuotone = IconifyIconData.duo(
+  /// `file-jsx-duotone`
+  static const IconifyIconData fileJsxDuotone = IconifyIconData.solo(
     IconData(0xedec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedec, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-jsx-fill`
@@ -18495,10 +18335,9 @@ class PhIcons {
     IconData(0xedf8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-magnifying-glass-duotone` (duo-tone)
-  static const IconifyIconData fileMagnifyingGlassDuotone = IconifyIconData.duo(
+  /// `file-magnifying-glass-duotone`
+  static const IconifyIconData fileMagnifyingGlassDuotone = IconifyIconData.solo(
     IconData(0xedf9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedf9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-magnifying-glass-fill`
@@ -18526,10 +18365,9 @@ class PhIcons {
     IconData(0xedfe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-md-duotone` (duo-tone)
-  static const IconifyIconData fileMdDuotone = IconifyIconData.duo(
+  /// `file-md-duotone`
+  static const IconifyIconData fileMdDuotone = IconifyIconData.solo(
     IconData(0xedff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xedff, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-md-fill`
@@ -18557,10 +18395,9 @@ class PhIcons {
     IconData(0xee04, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-minus-duotone` (duo-tone)
-  static const IconifyIconData fileMinusDuotone = IconifyIconData.duo(
+  /// `file-minus-duotone`
+  static const IconifyIconData fileMinusDuotone = IconifyIconData.solo(
     IconData(0xee05, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee05, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-minus-fill`
@@ -18588,10 +18425,9 @@ class PhIcons {
     IconData(0xee0a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-pdf-duotone` (duo-tone)
-  static const IconifyIconData filePdfDuotone = IconifyIconData.duo(
+  /// `file-pdf-duotone`
+  static const IconifyIconData filePdfDuotone = IconifyIconData.solo(
     IconData(0xee0b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee0b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-pdf-fill`
@@ -18619,10 +18455,9 @@ class PhIcons {
     IconData(0xee10, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-plus-duotone` (duo-tone)
-  static const IconifyIconData filePlusDuotone = IconifyIconData.duo(
+  /// `file-plus-duotone`
+  static const IconifyIconData filePlusDuotone = IconifyIconData.solo(
     IconData(0xee11, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee11, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-plus-fill`
@@ -18650,10 +18485,9 @@ class PhIcons {
     IconData(0xee16, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-png-duotone` (duo-tone)
-  static const IconifyIconData filePngDuotone = IconifyIconData.duo(
+  /// `file-png-duotone`
+  static const IconifyIconData filePngDuotone = IconifyIconData.solo(
     IconData(0xee17, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee17, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-png-fill`
@@ -18681,10 +18515,9 @@ class PhIcons {
     IconData(0xee1c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-ppt-duotone` (duo-tone)
-  static const IconifyIconData filePptDuotone = IconifyIconData.duo(
+  /// `file-ppt-duotone`
+  static const IconifyIconData filePptDuotone = IconifyIconData.solo(
     IconData(0xee1d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee1d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-ppt-fill`
@@ -18712,10 +18545,9 @@ class PhIcons {
     IconData(0xee22, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-py-duotone` (duo-tone)
-  static const IconifyIconData filePyDuotone = IconifyIconData.duo(
+  /// `file-py-duotone`
+  static const IconifyIconData filePyDuotone = IconifyIconData.solo(
     IconData(0xee23, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee23, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-py-fill`
@@ -18743,10 +18575,9 @@ class PhIcons {
     IconData(0xee28, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-rs-duotone` (duo-tone)
-  static const IconifyIconData fileRsDuotone = IconifyIconData.duo(
+  /// `file-rs-duotone`
+  static const IconifyIconData fileRsDuotone = IconifyIconData.solo(
     IconData(0xee29, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee29, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-rs-fill`
@@ -18774,10 +18605,9 @@ class PhIcons {
     IconData(0xee2e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-search-duotone` (duo-tone)
-  static const IconifyIconData fileSearchDuotone = IconifyIconData.duo(
+  /// `file-search-duotone`
+  static const IconifyIconData fileSearchDuotone = IconifyIconData.solo(
     IconData(0xee2f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee2f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-search-fill`
@@ -18805,10 +18635,9 @@ class PhIcons {
     IconData(0xee34, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-sql-duotone` (duo-tone)
-  static const IconifyIconData fileSqlDuotone = IconifyIconData.duo(
+  /// `file-sql-duotone`
+  static const IconifyIconData fileSqlDuotone = IconifyIconData.solo(
     IconData(0xee35, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee35, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-sql-fill`
@@ -18836,10 +18665,9 @@ class PhIcons {
     IconData(0xee3a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-svg-duotone` (duo-tone)
-  static const IconifyIconData fileSvgDuotone = IconifyIconData.duo(
+  /// `file-svg-duotone`
+  static const IconifyIconData fileSvgDuotone = IconifyIconData.solo(
     IconData(0xee3b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee3b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-svg-fill`
@@ -18867,10 +18695,9 @@ class PhIcons {
     IconData(0xee40, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-text-duotone` (duo-tone)
-  static const IconifyIconData fileTextDuotone = IconifyIconData.duo(
+  /// `file-text-duotone`
+  static const IconifyIconData fileTextDuotone = IconifyIconData.solo(
     IconData(0xee41, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee41, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-text-fill`
@@ -18903,10 +18730,9 @@ class PhIcons {
     IconData(0xee47, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-ts-duotone` (duo-tone)
-  static const IconifyIconData fileTsDuotone = IconifyIconData.duo(
+  /// `file-ts-duotone`
+  static const IconifyIconData fileTsDuotone = IconifyIconData.solo(
     IconData(0xee48, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee48, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-ts-fill`
@@ -18934,10 +18760,9 @@ class PhIcons {
     IconData(0xee4d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-tsx-duotone` (duo-tone)
-  static const IconifyIconData fileTsxDuotone = IconifyIconData.duo(
+  /// `file-tsx-duotone`
+  static const IconifyIconData fileTsxDuotone = IconifyIconData.solo(
     IconData(0xee4e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee4e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-tsx-fill`
@@ -18965,10 +18790,9 @@ class PhIcons {
     IconData(0xee53, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-txt-duotone` (duo-tone)
-  static const IconifyIconData fileTxtDuotone = IconifyIconData.duo(
+  /// `file-txt-duotone`
+  static const IconifyIconData fileTxtDuotone = IconifyIconData.solo(
     IconData(0xee54, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee54, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-txt-fill`
@@ -19027,10 +18851,9 @@ class PhIcons {
     IconData(0xee5f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-vue-duotone` (duo-tone)
-  static const IconifyIconData fileVueDuotone = IconifyIconData.duo(
+  /// `file-vue-duotone`
+  static const IconifyIconData fileVueDuotone = IconifyIconData.solo(
     IconData(0xee60, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee60, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-vue-fill`
@@ -19058,10 +18881,9 @@ class PhIcons {
     IconData(0xee65, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-x-duotone` (duo-tone)
-  static const IconifyIconData fileXDuotone = IconifyIconData.duo(
+  /// `file-x-duotone`
+  static const IconifyIconData fileXDuotone = IconifyIconData.solo(
     IconData(0xee66, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee66, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-x-fill`
@@ -19089,10 +18911,9 @@ class PhIcons {
     IconData(0xee6b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-xls-duotone` (duo-tone)
-  static const IconifyIconData fileXlsDuotone = IconifyIconData.duo(
+  /// `file-xls-duotone`
+  static const IconifyIconData fileXlsDuotone = IconifyIconData.solo(
     IconData(0xee6c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee6c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-xls-fill`
@@ -19120,10 +18941,9 @@ class PhIcons {
     IconData(0xee71, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `file-zip-duotone` (duo-tone)
-  static const IconifyIconData fileZipDuotone = IconifyIconData.duo(
+  /// `file-zip-duotone`
+  static const IconifyIconData fileZipDuotone = IconifyIconData.solo(
     IconData(0xee72, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee72, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `file-zip-fill`
@@ -19213,10 +19033,9 @@ class PhIcons {
     IconData(0xee83, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `film-script-duotone` (duo-tone)
-  static const IconifyIconData filmScriptDuotone = IconifyIconData.duo(
+  /// `film-script-duotone`
+  static const IconifyIconData filmScriptDuotone = IconifyIconData.solo(
     IconData(0xee84, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee84, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `film-script-fill`
@@ -19306,10 +19125,9 @@ class PhIcons {
     IconData(0xee95, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `fingerprint-duotone` (duo-tone)
-  static const IconifyIconData fingerprintDuotone = IconifyIconData.duo(
+  /// `fingerprint-duotone`
+  static const IconifyIconData fingerprintDuotone = IconifyIconData.solo(
     IconData(0xee96, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee96, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `fingerprint-fill`
@@ -19332,10 +19150,9 @@ class PhIcons {
     IconData(0xee9a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `fingerprint-simple-duotone` (duo-tone)
-  static const IconifyIconData fingerprintSimpleDuotone = IconifyIconData.duo(
+  /// `fingerprint-simple-duotone`
+  static const IconifyIconData fingerprintSimpleDuotone = IconifyIconData.solo(
     IconData(0xee9b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xee9b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `fingerprint-simple-fill`
@@ -19456,10 +19273,9 @@ class PhIcons {
     IconData(0xeeb2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `fire-simple-duotone` (duo-tone)
-  static const IconifyIconData fireSimpleDuotone = IconifyIconData.duo(
+  /// `fire-simple-duotone`
+  static const IconifyIconData fireSimpleDuotone = IconifyIconData.solo(
     IconData(0xeeb3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeeb3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `fire-simple-fill`
@@ -19492,10 +19308,9 @@ class PhIcons {
     IconData(0xeeb9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `fire-truck-duotone` (duo-tone)
-  static const IconifyIconData fireTruckDuotone = IconifyIconData.duo(
+  /// `fire-truck-duotone`
+  static const IconifyIconData fireTruckDuotone = IconifyIconData.solo(
     IconData(0xeeba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeeba, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `fire-truck-fill`
@@ -20236,10 +20051,9 @@ class PhIcons {
     IconData(0xef49, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `folder-duotone` (duo-tone)
-  static const IconifyIconData folderDuotone = IconifyIconData.duo(
+  /// `folder-duotone`
+  static const IconifyIconData folderDuotone = IconifyIconData.solo(
     IconData(0xef4a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xef4a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `folder-fill`
@@ -20293,10 +20107,9 @@ class PhIcons {
     IconData(0xef54, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `folder-minus-duotone` (duo-tone)
-  static const IconifyIconData folderMinusDuotone = IconifyIconData.duo(
+  /// `folder-minus-duotone`
+  static const IconifyIconData folderMinusDuotone = IconifyIconData.solo(
     IconData(0xef55, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xef55, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `folder-minus-fill`
@@ -20350,10 +20163,9 @@ class PhIcons {
     IconData(0xef5f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `folder-notch-minus-duotone` (duo-tone)
-  static const IconifyIconData folderNotchMinusDuotone = IconifyIconData.duo(
+  /// `folder-notch-minus-duotone`
+  static const IconifyIconData folderNotchMinusDuotone = IconifyIconData.solo(
     IconData(0xef60, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xef60, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `folder-notch-minus-fill`
@@ -20412,10 +20224,9 @@ class PhIcons {
     IconData(0xef6b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `folder-notch-plus-duotone` (duo-tone)
-  static const IconifyIconData folderNotchPlusDuotone = IconifyIconData.duo(
+  /// `folder-notch-plus-duotone`
+  static const IconifyIconData folderNotchPlusDuotone = IconifyIconData.solo(
     IconData(0xef6c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xef6c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `folder-notch-plus-fill`
@@ -20479,10 +20290,9 @@ class PhIcons {
     IconData(0xef78, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `folder-plus-duotone` (duo-tone)
-  static const IconifyIconData folderPlusDuotone = IconifyIconData.duo(
+  /// `folder-plus-duotone`
+  static const IconifyIconData folderPlusDuotone = IconifyIconData.solo(
     IconData(0xef79, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xef79, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `folder-plus-fill`
@@ -20629,10 +20439,9 @@ class PhIcons {
     IconData(0xef95, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `folder-simple-minus-duotone` (duo-tone)
-  static const IconifyIconData folderSimpleMinusDuotone = IconifyIconData.duo(
+  /// `folder-simple-minus-duotone`
+  static const IconifyIconData folderSimpleMinusDuotone = IconifyIconData.solo(
     IconData(0xef96, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xef96, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `folder-simple-minus-fill`
@@ -20660,10 +20469,9 @@ class PhIcons {
     IconData(0xef9b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `folder-simple-plus-duotone` (duo-tone)
-  static const IconifyIconData folderSimplePlusDuotone = IconifyIconData.duo(
+  /// `folder-simple-plus-duotone`
+  static const IconifyIconData folderSimplePlusDuotone = IconifyIconData.solo(
     IconData(0xef9c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xef9c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `folder-simple-plus-fill`
@@ -20758,10 +20566,9 @@ class PhIcons {
     IconData(0xefae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `folder-star-duotone` (duo-tone)
-  static const IconifyIconData folderStarDuotone = IconifyIconData.duo(
+  /// `folder-star-duotone`
+  static const IconifyIconData folderStarDuotone = IconifyIconData.solo(
     IconData(0xefaf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xefaf, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `folder-star-fill`
@@ -20794,10 +20601,9 @@ class PhIcons {
     IconData(0xefb5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `folder-user-duotone` (duo-tone)
-  static const IconifyIconData folderUserDuotone = IconifyIconData.duo(
+  /// `folder-user-duotone`
+  static const IconifyIconData folderUserDuotone = IconifyIconData.solo(
     IconData(0xefb6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xefb6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `folder-user-fill`
@@ -20980,10 +20786,9 @@ class PhIcons {
     IconData(0xefd9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `four-k-duotone` (duo-tone)
-  static const IconifyIconData fourKDuotone = IconifyIconData.duo(
+  /// `four-k-duotone`
+  static const IconifyIconData fourKDuotone = IconifyIconData.solo(
     IconData(0xefda, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xefda, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `four-k-fill`
@@ -21011,10 +20816,9 @@ class PhIcons {
     IconData(0xefdf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `frame-corners-duotone` (duo-tone)
-  static const IconifyIconData frameCornersDuotone = IconifyIconData.duo(
+  /// `frame-corners-duotone`
+  static const IconifyIconData frameCornersDuotone = IconifyIconData.solo(
     IconData(0xefe0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xefe0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `frame-corners-fill`
@@ -21130,10 +20934,9 @@ class PhIcons {
     IconData(0xeff6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `funnel-simple-duotone` (duo-tone)
-  static const IconifyIconData funnelSimpleDuotone = IconifyIconData.duo(
+  /// `funnel-simple-duotone`
+  static const IconifyIconData funnelSimpleDuotone = IconifyIconData.solo(
     IconData(0xeff7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xeff7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `funnel-simple-fill`
@@ -21197,10 +21000,9 @@ class PhIcons {
     IconData(0xf003, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `funnel-x-duotone` (duo-tone)
-  static const IconifyIconData funnelXDuotone = IconifyIconData.duo(
+  /// `funnel-x-duotone`
+  static const IconifyIconData funnelXDuotone = IconifyIconData.solo(
     IconData(0xf004, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf004, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `funnel-x-fill`
@@ -21321,10 +21123,9 @@ class PhIcons {
     IconData(0xf01b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `gas-pump-duotone` (duo-tone)
-  static const IconifyIconData gasPumpDuotone = IconifyIconData.duo(
+  /// `gas-pump-duotone`
+  static const IconifyIconData gasPumpDuotone = IconifyIconData.solo(
     IconData(0xf01c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf01c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `gas-pump-fill`
@@ -21817,10 +21618,9 @@ class PhIcons {
     IconData(0xf07b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `git-commit-duotone` (duo-tone)
-  static const IconifyIconData gitCommitDuotone = IconifyIconData.duo(
+  /// `git-commit-duotone`
+  static const IconifyIconData gitCommitDuotone = IconifyIconData.solo(
     IconData(0xf07c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf07c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `git-commit-fill`
@@ -22065,10 +21865,9 @@ class PhIcons {
     IconData(0xf0ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `globe-duotone` (duo-tone)
-  static const IconifyIconData globeDuotone = IconifyIconData.duo(
+  /// `globe-duotone`
+  static const IconifyIconData globeDuotone = IconifyIconData.solo(
     IconData(0xf0ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0ac, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `globe-fill`
@@ -22153,10 +21952,9 @@ class PhIcons {
     IconData(0xf0bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `globe-simple-duotone` (duo-tone)
-  static const IconifyIconData globeSimpleDuotone = IconifyIconData.duo(
+  /// `globe-simple-duotone`
+  static const IconifyIconData globeSimpleDuotone = IconifyIconData.solo(
     IconData(0xf0bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0bd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `globe-simple-fill`
@@ -22184,10 +21982,9 @@ class PhIcons {
     IconData(0xf0c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `globe-simple-x-duotone` (duo-tone)
-  static const IconifyIconData globeSimpleXDuotone = IconifyIconData.duo(
+  /// `globe-simple-x-duotone`
+  static const IconifyIconData globeSimpleXDuotone = IconifyIconData.solo(
     IconData(0xf0c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0c3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `globe-simple-x-fill`
@@ -22251,10 +22048,9 @@ class PhIcons {
     IconData(0xf0cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `globe-x-duotone` (duo-tone)
-  static const IconifyIconData globeXDuotone = IconifyIconData.duo(
+  /// `globe-x-duotone`
+  static const IconifyIconData globeXDuotone = IconifyIconData.solo(
     IconData(0xf0d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0d0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `globe-x-fill`
@@ -22468,10 +22264,9 @@ class PhIcons {
     IconData(0xf0f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `google-logo-duotone` (duo-tone)
-  static const IconifyIconData googleLogoDuotone = IconifyIconData.duo(
+  /// `google-logo-duotone`
+  static const IconifyIconData googleLogoDuotone = IconifyIconData.solo(
     IconData(0xf0fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0fa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `google-logo-fill`
@@ -22592,10 +22387,9 @@ class PhIcons {
     IconData(0xf111, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `gps-duotone` (duo-tone)
-  static const IconifyIconData gpsDuotone = IconifyIconData.duo(
+  /// `gps-duotone`
+  static const IconifyIconData gpsDuotone = IconifyIconData.solo(
     IconData(0xf112, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf112, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `gps-fill`
@@ -22649,10 +22443,9 @@ class PhIcons {
     IconData(0xf11c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `gps-slash-duotone` (duo-tone)
-  static const IconifyIconData gpsSlashDuotone = IconifyIconData.duo(
+  /// `gps-slash-duotone`
+  static const IconifyIconData gpsSlashDuotone = IconifyIconData.solo(
     IconData(0xf11d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf11d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `gps-slash-fill`
@@ -22773,10 +22566,9 @@ class PhIcons {
     IconData(0xf134, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `grains-slash-duotone` (duo-tone)
-  static const IconifyIconData grainsSlashDuotone = IconifyIconData.duo(
+  /// `grains-slash-duotone`
+  static const IconifyIconData grainsSlashDuotone = IconifyIconData.solo(
     IconData(0xf135, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf135, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `grains-slash-fill`
@@ -22809,10 +22601,9 @@ class PhIcons {
     IconData(0xf13b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `graph-duotone` (duo-tone)
-  static const IconifyIconData graphDuotone = IconifyIconData.duo(
+  /// `graph-duotone`
+  static const IconifyIconData graphDuotone = IconifyIconData.solo(
     IconData(0xf13c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf13c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `graph-fill`
@@ -23155,10 +22946,9 @@ class PhIcons {
     IconData(0xf17e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `hand-arrow-up-duotone` (duo-tone)
-  static const IconifyIconData handArrowUpDuotone = IconifyIconData.duo(
+  /// `hand-arrow-up-duotone`
+  static const IconifyIconData handArrowUpDuotone = IconifyIconData.solo(
     IconData(0xf17f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf17f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `hand-arrow-up-fill`
@@ -23548,10 +23338,9 @@ class PhIcons {
     IconData(0xf1ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `hand-swipe-right-duotone` (duo-tone)
-  static const IconifyIconData handSwipeRightDuotone = IconifyIconData.duo(
+  /// `hand-swipe-right-duotone`
+  static const IconifyIconData handSwipeRightDuotone = IconifyIconData.solo(
     IconData(0xf1cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf1cb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `hand-swipe-right-fill`
@@ -23703,10 +23492,9 @@ class PhIcons {
     IconData(0xf1e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `handbag-simple-duotone` (duo-tone)
-  static const IconifyIconData handbagSimpleDuotone = IconifyIconData.duo(
+  /// `handbag-simple-duotone`
+  static const IconifyIconData handbagSimpleDuotone = IconifyIconData.solo(
     IconData(0xf1e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf1e9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `handbag-simple-fill`
@@ -24230,10 +24018,9 @@ class PhIcons {
     IconData(0xf24e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `heart-straight-duotone` (duo-tone)
-  static const IconifyIconData heartStraightDuotone = IconifyIconData.duo(
+  /// `heart-straight-duotone`
+  static const IconifyIconData heartStraightDuotone = IconifyIconData.solo(
     IconData(0xf24f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf24f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `heart-straight-fill`
@@ -24266,10 +24053,9 @@ class PhIcons {
     IconData(0xf255, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `heartbeat-duotone` (duo-tone)
-  static const IconifyIconData heartbeatDuotone = IconifyIconData.duo(
+  /// `heartbeat-duotone`
+  static const IconifyIconData heartbeatDuotone = IconifyIconData.solo(
     IconData(0xf256, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf256, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `heartbeat-fill`
@@ -24328,10 +24114,9 @@ class PhIcons {
     IconData(0xf261, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `high-definition-duotone` (duo-tone)
-  static const IconifyIconData highDefinitionDuotone = IconifyIconData.duo(
+  /// `high-definition-duotone`
+  static const IconifyIconData highDefinitionDuotone = IconifyIconData.solo(
     IconData(0xf262, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf262, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `high-definition-fill`
@@ -25227,10 +25012,9 @@ class PhIcons {
     IconData(0xf30f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `info-duotone` (duo-tone)
-  static const IconifyIconData infoDuotone = IconifyIconData.duo(
+  /// `info-duotone`
+  static const IconifyIconData infoDuotone = IconifyIconData.solo(
     IconData(0xf310, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf310, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `info-fill`
@@ -25315,10 +25099,9 @@ class PhIcons {
     IconData(0xf320, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `intersect-square-duotone` (duo-tone)
-  static const IconifyIconData intersectSquareDuotone = IconifyIconData.duo(
+  /// `intersect-square-duotone`
+  static const IconifyIconData intersectSquareDuotone = IconifyIconData.solo(
     IconData(0xf321, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf321, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `intersect-square-fill`
@@ -25656,10 +25439,9 @@ class PhIcons {
     IconData(0xf362, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `key-return-duotone` (duo-tone)
-  static const IconifyIconData keyReturnDuotone = IconifyIconData.duo(
+  /// `key-return-duotone`
+  static const IconifyIconData keyReturnDuotone = IconifyIconData.solo(
     IconData(0xf363, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf363, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `key-return-fill`
@@ -25692,10 +25474,9 @@ class PhIcons {
     IconData(0xf369, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `keyboard-duotone` (duo-tone)
-  static const IconifyIconData keyboardDuotone = IconifyIconData.duo(
+  /// `keyboard-duotone`
+  static const IconifyIconData keyboardDuotone = IconifyIconData.solo(
     IconData(0xf36a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf36a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `keyboard-fill`
@@ -26219,10 +26000,9 @@ class PhIcons {
     IconData(0xf3cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `letter-circle-h-duotone` (duo-tone)
-  static const IconifyIconData letterCircleHDuotone = IconifyIconData.duo(
+  /// `letter-circle-h-duotone`
+  static const IconifyIconData letterCircleHDuotone = IconifyIconData.solo(
     IconData(0xf3d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf3d0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `letter-circle-h-fill`
@@ -26250,10 +26030,9 @@ class PhIcons {
     IconData(0xf3d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `letter-circle-p-duotone` (duo-tone)
-  static const IconifyIconData letterCirclePDuotone = IconifyIconData.duo(
+  /// `letter-circle-p-duotone`
+  static const IconifyIconData letterCirclePDuotone = IconifyIconData.solo(
     IconData(0xf3d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf3d6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `letter-circle-p-fill`
@@ -26281,10 +26060,9 @@ class PhIcons {
     IconData(0xf3db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `letter-circle-v-duotone` (duo-tone)
-  static const IconifyIconData letterCircleVDuotone = IconifyIconData.duo(
+  /// `letter-circle-v-duotone`
+  static const IconifyIconData letterCircleVDuotone = IconifyIconData.solo(
     IconData(0xf3dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf3dc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `letter-circle-v-fill`
@@ -26359,10 +26137,9 @@ class PhIcons {
     IconData(0xf3ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `lightbulb-filament-duotone` (duo-tone)
-  static const IconifyIconData lightbulbFilamentDuotone = IconifyIconData.duo(
+  /// `lightbulb-filament-duotone`
+  static const IconifyIconData lightbulbFilamentDuotone = IconifyIconData.solo(
     IconData(0xf3eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf3eb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `lightbulb-filament-fill`
@@ -26493,10 +26270,9 @@ class PhIcons {
     IconData(0xf404, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `lightning-slash-duotone` (duo-tone)
-  static const IconifyIconData lightningSlashDuotone = IconifyIconData.duo(
+  /// `lightning-slash-duotone`
+  static const IconifyIconData lightningSlashDuotone = IconifyIconData.solo(
     IconData(0xf405, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf405, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `lightning-slash-fill`
@@ -26591,10 +26367,9 @@ class PhIcons {
     IconData(0xf417, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `line-vertical-duotone` (duo-tone)
-  static const IconifyIconData lineVerticalDuotone = IconifyIconData.duo(
+  /// `line-vertical-duotone`
+  static const IconifyIconData lineVerticalDuotone = IconifyIconData.solo(
     IconData(0xf418, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf418, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `line-vertical-fill`
@@ -26710,10 +26485,9 @@ class PhIcons {
     IconData(0xf42e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `link-simple-duotone` (duo-tone)
-  static const IconifyIconData linkSimpleDuotone = IconifyIconData.duo(
+  /// `link-simple-duotone`
+  static const IconifyIconData linkSimpleDuotone = IconifyIconData.solo(
     IconData(0xf42f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf42f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `link-simple-fill`
@@ -26762,10 +26536,9 @@ class PhIcons {
     IconData(0xf438, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `link-simple-horizontal-duotone` (duo-tone)
-  static const IconifyIconData linkSimpleHorizontalDuotone = IconifyIconData.duo(
+  /// `link-simple-horizontal-duotone`
+  static const IconifyIconData linkSimpleHorizontalDuotone = IconifyIconData.solo(
     IconData(0xf439, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf439, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `link-simple-horizontal-fill`
@@ -27113,10 +26886,9 @@ class PhIcons {
     IconData(0xf47c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `list-plus-duotone` (duo-tone)
-  static const IconifyIconData listPlusDuotone = IconifyIconData.duo(
+  /// `list-plus-duotone`
+  static const IconifyIconData listPlusDuotone = IconifyIconData.solo(
     IconData(0xf47d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf47d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `list-plus-fill`
@@ -27227,10 +26999,9 @@ class PhIcons {
     IconData(0xf492, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `lock-key-open-duotone` (duo-tone)
-  static const IconifyIconData lockKeyOpenDuotone = IconifyIconData.duo(
+  /// `lock-key-open-duotone`
+  static const IconifyIconData lockKeyOpenDuotone = IconifyIconData.solo(
     IconData(0xf493, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf493, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `lock-key-open-fill`
@@ -27263,10 +27034,9 @@ class PhIcons {
     IconData(0xf499, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `lock-laminated-duotone` (duo-tone)
-  static const IconifyIconData lockLaminatedDuotone = IconifyIconData.duo(
+  /// `lock-laminated-duotone`
+  static const IconifyIconData lockLaminatedDuotone = IconifyIconData.solo(
     IconData(0xf49a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf49a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `lock-laminated-fill`
@@ -27289,10 +27059,9 @@ class PhIcons {
     IconData(0xf49e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `lock-laminated-open-duotone` (duo-tone)
-  static const IconifyIconData lockLaminatedOpenDuotone = IconifyIconData.duo(
+  /// `lock-laminated-open-duotone`
+  static const IconifyIconData lockLaminatedOpenDuotone = IconifyIconData.solo(
     IconData(0xf49f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf49f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `lock-laminated-open-fill`
@@ -27330,10 +27099,9 @@ class PhIcons {
     IconData(0xf4a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `lock-open-duotone` (duo-tone)
-  static const IconifyIconData lockOpenDuotone = IconifyIconData.duo(
+  /// `lock-open-duotone`
+  static const IconifyIconData lockOpenDuotone = IconifyIconData.solo(
     IconData(0xf4a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf4a7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `lock-open-fill`
@@ -27361,10 +27129,9 @@ class PhIcons {
     IconData(0xf4ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `lock-simple-duotone` (duo-tone)
-  static const IconifyIconData lockSimpleDuotone = IconifyIconData.duo(
+  /// `lock-simple-duotone`
+  static const IconifyIconData lockSimpleDuotone = IconifyIconData.solo(
     IconData(0xf4ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf4ad, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `lock-simple-fill`
@@ -27387,10 +27154,9 @@ class PhIcons {
     IconData(0xf4b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `lock-simple-open-duotone` (duo-tone)
-  static const IconifyIconData lockSimpleOpenDuotone = IconifyIconData.duo(
+  /// `lock-simple-open-duotone`
+  static const IconifyIconData lockSimpleOpenDuotone = IconifyIconData.solo(
     IconData(0xf4b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf4b2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `lock-simple-open-fill`
@@ -27609,10 +27375,9 @@ class PhIcons {
     IconData(0xf4dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `magnifying-glass-minus-duotone` (duo-tone)
-  static const IconifyIconData magnifyingGlassMinusDuotone = IconifyIconData.duo(
+  /// `magnifying-glass-minus-duotone`
+  static const IconifyIconData magnifyingGlassMinusDuotone = IconifyIconData.solo(
     IconData(0xf4dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf4dd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `magnifying-glass-minus-fill`
@@ -27640,10 +27405,9 @@ class PhIcons {
     IconData(0xf4e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `magnifying-glass-plus-duotone` (duo-tone)
-  static const IconifyIconData magnifyingGlassPlusDuotone = IconifyIconData.duo(
+  /// `magnifying-glass-plus-duotone`
+  static const IconifyIconData magnifyingGlassPlusDuotone = IconifyIconData.solo(
     IconData(0xf4e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf4e3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `magnifying-glass-plus-fill`
@@ -27764,10 +27528,9 @@ class PhIcons {
     IconData(0xf4fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `map-pin-line-duotone` (duo-tone)
-  static const IconifyIconData mapPinLineDuotone = IconifyIconData.duo(
+  /// `map-pin-line-duotone`
+  static const IconifyIconData mapPinLineDuotone = IconifyIconData.solo(
     IconData(0xf4fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf4fb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `map-pin-line-fill`
@@ -28079,10 +27842,9 @@ class PhIcons {
     IconData(0xf537, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `mask-sad-duotone` (duo-tone)
-  static const IconifyIconData maskSadDuotone = IconifyIconData.duo(
+  /// `mask-sad-duotone`
+  static const IconifyIconData maskSadDuotone = IconifyIconData.solo(
     IconData(0xf538, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf538, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `mask-sad-fill`
@@ -28141,10 +27903,9 @@ class PhIcons {
     IconData(0xf543, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `math-operations-duotone` (duo-tone)
-  static const IconifyIconData mathOperationsDuotone = IconifyIconData.duo(
+  /// `math-operations-duotone`
+  static const IconifyIconData mathOperationsDuotone = IconifyIconData.solo(
     IconData(0xf544, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf544, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `math-operations-fill`
@@ -28172,10 +27933,9 @@ class PhIcons {
     IconData(0xf549, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `matrix-logo-duotone` (duo-tone)
-  static const IconifyIconData matrixLogoDuotone = IconifyIconData.duo(
+  /// `matrix-logo-duotone`
+  static const IconifyIconData matrixLogoDuotone = IconifyIconData.solo(
     IconData(0xf54a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf54a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `matrix-logo-fill`
@@ -28420,10 +28180,9 @@ class PhIcons {
     IconData(0xf579, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `messenger-logo-duotone` (duo-tone)
-  static const IconifyIconData messengerLogoDuotone = IconifyIconData.duo(
+  /// `messenger-logo-duotone`
+  static const IconifyIconData messengerLogoDuotone = IconifyIconData.solo(
     IconData(0xf57a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf57a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `messenger-logo-fill`
@@ -28570,10 +28329,9 @@ class PhIcons {
     IconData(0xf596, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `microphone-slash-duotone` (duo-tone)
-  static const IconifyIconData microphoneSlashDuotone = IconifyIconData.duo(
+  /// `microphone-slash-duotone`
+  static const IconifyIconData microphoneSlashDuotone = IconifyIconData.solo(
     IconData(0xf597, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf597, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `microphone-slash-fill`
@@ -28730,10 +28488,9 @@ class PhIcons {
     IconData(0xf5b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `microsoft-powerpoint-logo-duotone` (duo-tone)
-  static const IconifyIconData microsoftPowerpointLogoDuotone = IconifyIconData.duo(
+  /// `microsoft-powerpoint-logo-duotone`
+  static const IconifyIconData microsoftPowerpointLogoDuotone = IconifyIconData.solo(
     IconData(0xf5b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf5b6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `microsoft-powerpoint-logo-fill`
@@ -28761,10 +28518,9 @@ class PhIcons {
     IconData(0xf5bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `microsoft-teams-logo-duotone` (duo-tone)
-  static const IconifyIconData microsoftTeamsLogoDuotone = IconifyIconData.duo(
+  /// `microsoft-teams-logo-duotone`
+  static const IconifyIconData microsoftTeamsLogoDuotone = IconifyIconData.solo(
     IconData(0xf5bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf5bc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `microsoft-teams-logo-fill`
@@ -28792,10 +28548,9 @@ class PhIcons {
     IconData(0xf5c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `microsoft-word-logo-duotone` (duo-tone)
-  static const IconifyIconData microsoftWordLogoDuotone = IconifyIconData.duo(
+  /// `microsoft-word-logo-duotone`
+  static const IconifyIconData microsoftWordLogoDuotone = IconifyIconData.solo(
     IconData(0xf5c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf5c2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `microsoft-word-logo-fill`
@@ -28833,10 +28588,9 @@ class PhIcons {
     IconData(0xf5c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `minus-circle-duotone` (duo-tone)
-  static const IconifyIconData minusCircleDuotone = IconifyIconData.duo(
+  /// `minus-circle-duotone`
+  static const IconifyIconData minusCircleDuotone = IconifyIconData.solo(
     IconData(0xf5ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf5ca, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `minus-circle-fill`
@@ -28854,10 +28608,9 @@ class PhIcons {
     IconData(0xf5cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `minus-duotone` (duo-tone)
-  static const IconifyIconData minusDuotone = IconifyIconData.duo(
+  /// `minus-duotone`
+  static const IconifyIconData minusDuotone = IconifyIconData.solo(
     IconData(0xf5ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf5ce, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `minus-fill`
@@ -28880,10 +28633,9 @@ class PhIcons {
     IconData(0xf5d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `minus-square-duotone` (duo-tone)
-  static const IconifyIconData minusSquareDuotone = IconifyIconData.duo(
+  /// `minus-square-duotone`
+  static const IconifyIconData minusSquareDuotone = IconifyIconData.solo(
     IconData(0xf5d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf5d3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `minus-square-fill`
@@ -29009,10 +28761,9 @@ class PhIcons {
     IconData(0xf5eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `monitor-duotone` (duo-tone)
-  static const IconifyIconData monitorDuotone = IconifyIconData.duo(
+  /// `monitor-duotone`
+  static const IconifyIconData monitorDuotone = IconifyIconData.solo(
     IconData(0xf5ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf5ec, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `monitor-fill`
@@ -29438,10 +29189,9 @@ class PhIcons {
     IconData(0xf63e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `mouse-simple-duotone` (duo-tone)
-  static const IconifyIconData mouseSimpleDuotone = IconifyIconData.duo(
+  /// `mouse-simple-duotone`
+  static const IconifyIconData mouseSimpleDuotone = IconifyIconData.solo(
     IconData(0xf63f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf63f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `mouse-simple-fill`
@@ -29500,10 +29250,9 @@ class PhIcons {
     IconData(0xf64a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `music-note-simple-duotone` (duo-tone)
-  static const IconifyIconData musicNoteSimpleDuotone = IconifyIconData.duo(
+  /// `music-note-simple-duotone`
+  static const IconifyIconData musicNoteSimpleDuotone = IconifyIconData.solo(
     IconData(0xf64b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf64b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `music-note-simple-fill`
@@ -29562,10 +29311,9 @@ class PhIcons {
     IconData(0xf656, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `music-notes-minus-duotone` (duo-tone)
-  static const IconifyIconData musicNotesMinusDuotone = IconifyIconData.duo(
+  /// `music-notes-minus-duotone`
+  static const IconifyIconData musicNotesMinusDuotone = IconifyIconData.solo(
     IconData(0xf657, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf657, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `music-notes-minus-fill`
@@ -29593,10 +29341,9 @@ class PhIcons {
     IconData(0xf65c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `music-notes-plus-duotone` (duo-tone)
-  static const IconifyIconData musicNotesPlusDuotone = IconifyIconData.duo(
+  /// `music-notes-plus-duotone`
+  static const IconifyIconData musicNotesPlusDuotone = IconifyIconData.solo(
     IconData(0xf65d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf65d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `music-notes-plus-fill`
@@ -29624,10 +29371,9 @@ class PhIcons {
     IconData(0xf662, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `music-notes-simple-duotone` (duo-tone)
-  static const IconifyIconData musicNotesSimpleDuotone = IconifyIconData.duo(
+  /// `music-notes-simple-duotone`
+  static const IconifyIconData musicNotesSimpleDuotone = IconifyIconData.solo(
     IconData(0xf663, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf663, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `music-notes-simple-fill`
@@ -29877,10 +29623,9 @@ class PhIcons {
     IconData(0xf693, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `not-equals-duotone` (duo-tone)
-  static const IconifyIconData notEqualsDuotone = IconifyIconData.duo(
+  /// `not-equals-duotone`
+  static const IconifyIconData notEqualsDuotone = IconifyIconData.solo(
     IconData(0xf694, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf694, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `not-equals-fill`
@@ -29908,10 +29653,9 @@ class PhIcons {
     IconData(0xf699, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `not-member-of-duotone` (duo-tone)
-  static const IconifyIconData notMemberOfDuotone = IconifyIconData.duo(
+  /// `not-member-of-duotone`
+  static const IconifyIconData notMemberOfDuotone = IconifyIconData.solo(
     IconData(0xf69a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf69a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `not-member-of-fill`
@@ -29939,10 +29683,9 @@ class PhIcons {
     IconData(0xf69f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `not-subset-of-duotone` (duo-tone)
-  static const IconifyIconData notSubsetOfDuotone = IconifyIconData.duo(
+  /// `not-subset-of-duotone`
+  static const IconifyIconData notSubsetOfDuotone = IconifyIconData.solo(
     IconData(0xf6a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf6a0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `not-subset-of-fill`
@@ -30063,10 +29806,9 @@ class PhIcons {
     IconData(0xf6b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `note-duotone` (duo-tone)
-  static const IconifyIconData noteDuotone = IconifyIconData.duo(
+  /// `note-duotone`
+  static const IconifyIconData noteDuotone = IconifyIconData.solo(
     IconData(0xf6b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf6b8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `note-fill`
@@ -30280,10 +30022,9 @@ class PhIcons {
     IconData(0xf6e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-eight-duotone` (duo-tone)
-  static const IconifyIconData numberCircleEightDuotone = IconifyIconData.duo(
+  /// `number-circle-eight-duotone`
+  static const IconifyIconData numberCircleEightDuotone = IconifyIconData.solo(
     IconData(0xf6e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf6e2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-eight-fill`
@@ -30311,10 +30052,9 @@ class PhIcons {
     IconData(0xf6e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-five-duotone` (duo-tone)
-  static const IconifyIconData numberCircleFiveDuotone = IconifyIconData.duo(
+  /// `number-circle-five-duotone`
+  static const IconifyIconData numberCircleFiveDuotone = IconifyIconData.solo(
     IconData(0xf6e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf6e8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-five-fill`
@@ -30342,10 +30082,9 @@ class PhIcons {
     IconData(0xf6ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-four-duotone` (duo-tone)
-  static const IconifyIconData numberCircleFourDuotone = IconifyIconData.duo(
+  /// `number-circle-four-duotone`
+  static const IconifyIconData numberCircleFourDuotone = IconifyIconData.solo(
     IconData(0xf6ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf6ee, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-four-fill`
@@ -30373,10 +30112,9 @@ class PhIcons {
     IconData(0xf6f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-nine-duotone` (duo-tone)
-  static const IconifyIconData numberCircleNineDuotone = IconifyIconData.duo(
+  /// `number-circle-nine-duotone`
+  static const IconifyIconData numberCircleNineDuotone = IconifyIconData.solo(
     IconData(0xf6f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf6f4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-nine-fill`
@@ -30404,10 +30142,9 @@ class PhIcons {
     IconData(0xf6f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-one-duotone` (duo-tone)
-  static const IconifyIconData numberCircleOneDuotone = IconifyIconData.duo(
+  /// `number-circle-one-duotone`
+  static const IconifyIconData numberCircleOneDuotone = IconifyIconData.solo(
     IconData(0xf6fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf6fa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-one-fill`
@@ -30435,10 +30172,9 @@ class PhIcons {
     IconData(0xf6ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-seven-duotone` (duo-tone)
-  static const IconifyIconData numberCircleSevenDuotone = IconifyIconData.duo(
+  /// `number-circle-seven-duotone`
+  static const IconifyIconData numberCircleSevenDuotone = IconifyIconData.solo(
     IconData(0xf700, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf700, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-seven-fill`
@@ -30466,10 +30202,9 @@ class PhIcons {
     IconData(0xf705, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-six-duotone` (duo-tone)
-  static const IconifyIconData numberCircleSixDuotone = IconifyIconData.duo(
+  /// `number-circle-six-duotone`
+  static const IconifyIconData numberCircleSixDuotone = IconifyIconData.solo(
     IconData(0xf706, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf706, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-six-fill`
@@ -30497,10 +30232,9 @@ class PhIcons {
     IconData(0xf70b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-three-duotone` (duo-tone)
-  static const IconifyIconData numberCircleThreeDuotone = IconifyIconData.duo(
+  /// `number-circle-three-duotone`
+  static const IconifyIconData numberCircleThreeDuotone = IconifyIconData.solo(
     IconData(0xf70c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf70c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-three-fill`
@@ -30528,10 +30262,9 @@ class PhIcons {
     IconData(0xf711, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-two-duotone` (duo-tone)
-  static const IconifyIconData numberCircleTwoDuotone = IconifyIconData.duo(
+  /// `number-circle-two-duotone`
+  static const IconifyIconData numberCircleTwoDuotone = IconifyIconData.solo(
     IconData(0xf712, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf712, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-two-fill`
@@ -30559,10 +30292,9 @@ class PhIcons {
     IconData(0xf717, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-circle-zero-duotone` (duo-tone)
-  static const IconifyIconData numberCircleZeroDuotone = IconifyIconData.duo(
+  /// `number-circle-zero-duotone`
+  static const IconifyIconData numberCircleZeroDuotone = IconifyIconData.solo(
     IconData(0xf718, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf718, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-circle-zero-fill`
@@ -30590,10 +30322,9 @@ class PhIcons {
     IconData(0xf71d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-eight-duotone` (duo-tone)
-  static const IconifyIconData numberEightDuotone = IconifyIconData.duo(
+  /// `number-eight-duotone`
+  static const IconifyIconData numberEightDuotone = IconifyIconData.solo(
     IconData(0xf71e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf71e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-eight-fill`
@@ -30621,10 +30352,9 @@ class PhIcons {
     IconData(0xf723, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-five-duotone` (duo-tone)
-  static const IconifyIconData numberFiveDuotone = IconifyIconData.duo(
+  /// `number-five-duotone`
+  static const IconifyIconData numberFiveDuotone = IconifyIconData.solo(
     IconData(0xf724, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf724, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-five-fill`
@@ -30652,10 +30382,9 @@ class PhIcons {
     IconData(0xf729, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-four-duotone` (duo-tone)
-  static const IconifyIconData numberFourDuotone = IconifyIconData.duo(
+  /// `number-four-duotone`
+  static const IconifyIconData numberFourDuotone = IconifyIconData.solo(
     IconData(0xf72a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf72a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-four-fill`
@@ -30683,10 +30412,9 @@ class PhIcons {
     IconData(0xf72f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-nine-duotone` (duo-tone)
-  static const IconifyIconData numberNineDuotone = IconifyIconData.duo(
+  /// `number-nine-duotone`
+  static const IconifyIconData numberNineDuotone = IconifyIconData.solo(
     IconData(0xf730, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf730, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-nine-fill`
@@ -30714,10 +30442,9 @@ class PhIcons {
     IconData(0xf735, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-one-duotone` (duo-tone)
-  static const IconifyIconData numberOneDuotone = IconifyIconData.duo(
+  /// `number-one-duotone`
+  static const IconifyIconData numberOneDuotone = IconifyIconData.solo(
     IconData(0xf736, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf736, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-one-fill`
@@ -30745,10 +30472,9 @@ class PhIcons {
     IconData(0xf73b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-seven-duotone` (duo-tone)
-  static const IconifyIconData numberSevenDuotone = IconifyIconData.duo(
+  /// `number-seven-duotone`
+  static const IconifyIconData numberSevenDuotone = IconifyIconData.solo(
     IconData(0xf73c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf73c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-seven-fill`
@@ -30776,10 +30502,9 @@ class PhIcons {
     IconData(0xf741, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-six-duotone` (duo-tone)
-  static const IconifyIconData numberSixDuotone = IconifyIconData.duo(
+  /// `number-six-duotone`
+  static const IconifyIconData numberSixDuotone = IconifyIconData.solo(
     IconData(0xf742, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf742, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-six-fill`
@@ -30807,10 +30532,9 @@ class PhIcons {
     IconData(0xf747, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-eight-duotone` (duo-tone)
-  static const IconifyIconData numberSquareEightDuotone = IconifyIconData.duo(
+  /// `number-square-eight-duotone`
+  static const IconifyIconData numberSquareEightDuotone = IconifyIconData.solo(
     IconData(0xf748, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf748, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-eight-fill`
@@ -30838,10 +30562,9 @@ class PhIcons {
     IconData(0xf74d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-five-duotone` (duo-tone)
-  static const IconifyIconData numberSquareFiveDuotone = IconifyIconData.duo(
+  /// `number-square-five-duotone`
+  static const IconifyIconData numberSquareFiveDuotone = IconifyIconData.solo(
     IconData(0xf74e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf74e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-five-fill`
@@ -30869,10 +30592,9 @@ class PhIcons {
     IconData(0xf753, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-four-duotone` (duo-tone)
-  static const IconifyIconData numberSquareFourDuotone = IconifyIconData.duo(
+  /// `number-square-four-duotone`
+  static const IconifyIconData numberSquareFourDuotone = IconifyIconData.solo(
     IconData(0xf754, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf754, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-four-fill`
@@ -30900,10 +30622,9 @@ class PhIcons {
     IconData(0xf759, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-nine-duotone` (duo-tone)
-  static const IconifyIconData numberSquareNineDuotone = IconifyIconData.duo(
+  /// `number-square-nine-duotone`
+  static const IconifyIconData numberSquareNineDuotone = IconifyIconData.solo(
     IconData(0xf75a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf75a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-nine-fill`
@@ -30931,10 +30652,9 @@ class PhIcons {
     IconData(0xf75f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-one-duotone` (duo-tone)
-  static const IconifyIconData numberSquareOneDuotone = IconifyIconData.duo(
+  /// `number-square-one-duotone`
+  static const IconifyIconData numberSquareOneDuotone = IconifyIconData.solo(
     IconData(0xf760, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf760, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-one-fill`
@@ -30962,10 +30682,9 @@ class PhIcons {
     IconData(0xf765, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-seven-duotone` (duo-tone)
-  static const IconifyIconData numberSquareSevenDuotone = IconifyIconData.duo(
+  /// `number-square-seven-duotone`
+  static const IconifyIconData numberSquareSevenDuotone = IconifyIconData.solo(
     IconData(0xf766, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf766, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-seven-fill`
@@ -30993,10 +30712,9 @@ class PhIcons {
     IconData(0xf76b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-six-duotone` (duo-tone)
-  static const IconifyIconData numberSquareSixDuotone = IconifyIconData.duo(
+  /// `number-square-six-duotone`
+  static const IconifyIconData numberSquareSixDuotone = IconifyIconData.solo(
     IconData(0xf76c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf76c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-six-fill`
@@ -31024,10 +30742,9 @@ class PhIcons {
     IconData(0xf0001, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-three-duotone` (duo-tone)
-  static const IconifyIconData numberSquareThreeDuotone = IconifyIconData.duo(
+  /// `number-square-three-duotone`
+  static const IconifyIconData numberSquareThreeDuotone = IconifyIconData.solo(
     IconData(0xf0002, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0002, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-three-fill`
@@ -31055,10 +30772,9 @@ class PhIcons {
     IconData(0xf0007, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-two-duotone` (duo-tone)
-  static const IconifyIconData numberSquareTwoDuotone = IconifyIconData.duo(
+  /// `number-square-two-duotone`
+  static const IconifyIconData numberSquareTwoDuotone = IconifyIconData.solo(
     IconData(0xf0008, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0008, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-two-fill`
@@ -31086,10 +30802,9 @@ class PhIcons {
     IconData(0xf000d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-square-zero-duotone` (duo-tone)
-  static const IconifyIconData numberSquareZeroDuotone = IconifyIconData.duo(
+  /// `number-square-zero-duotone`
+  static const IconifyIconData numberSquareZeroDuotone = IconifyIconData.solo(
     IconData(0xf000e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf000e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-zero-fill`
@@ -31117,10 +30832,9 @@ class PhIcons {
     IconData(0xf0013, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-three-duotone` (duo-tone)
-  static const IconifyIconData numberThreeDuotone = IconifyIconData.duo(
+  /// `number-three-duotone`
+  static const IconifyIconData numberThreeDuotone = IconifyIconData.solo(
     IconData(0xf0014, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0014, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-three-fill`
@@ -31148,10 +30862,9 @@ class PhIcons {
     IconData(0xf0019, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-two-duotone` (duo-tone)
-  static const IconifyIconData numberTwoDuotone = IconifyIconData.duo(
+  /// `number-two-duotone`
+  static const IconifyIconData numberTwoDuotone = IconifyIconData.solo(
     IconData(0xf001a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf001a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-two-fill`
@@ -31179,10 +30892,9 @@ class PhIcons {
     IconData(0xf001f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `number-zero-duotone` (duo-tone)
-  static const IconifyIconData numberZeroDuotone = IconifyIconData.duo(
+  /// `number-zero-duotone`
+  static const IconifyIconData numberZeroDuotone = IconifyIconData.solo(
     IconData(0xf0020, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0020, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-zero-fill`
@@ -31484,10 +31196,9 @@ class PhIcons {
     IconData(0xf005a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `orange-slice-duotone` (duo-tone)
-  static const IconifyIconData orangeSliceDuotone = IconifyIconData.duo(
+  /// `orange-slice-duotone`
+  static const IconifyIconData orangeSliceDuotone = IconifyIconData.solo(
     IconData(0xf005b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf005b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-slice-fill`
@@ -32212,10 +31923,9 @@ class PhIcons {
     IconData(0xf00e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `pause-circle-duotone` (duo-tone)
-  static const IconifyIconData pauseCircleDuotone = IconifyIconData.duo(
+  /// `pause-circle-duotone`
+  static const IconifyIconData pauseCircleDuotone = IconifyIconData.solo(
     IconData(0xf00e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf00e8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-circle-fill`
@@ -32326,10 +32036,9 @@ class PhIcons {
     IconData(0xf00fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `peace-duotone` (duo-tone)
-  static const IconifyIconData peaceDuotone = IconifyIconData.duo(
+  /// `peace-duotone`
+  static const IconifyIconData peaceDuotone = IconifyIconData.solo(
     IconData(0xf00fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf00fe, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `peace-fill`
@@ -32349,12 +32058,12 @@ class PhIcons {
 
   /// `pedestrian`
   static const IconifyIconData pedestrian = IconifyIconData.solo(
-    IconData(0xf0102, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0162, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian-bold`
   static const IconifyIconData pedestrianBold = IconifyIconData.solo(
-    IconData(0xf0103, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0169, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian-duotone` (duo-tone)
@@ -32365,17 +32074,17 @@ class PhIcons {
 
   /// `pedestrian-fill`
   static const IconifyIconData pedestrianFill = IconifyIconData.solo(
-    IconData(0xf0105, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf016b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian-light`
   static const IconifyIconData pedestrianLight = IconifyIconData.solo(
-    IconData(0xf0106, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf016c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian-thin`
   static const IconifyIconData pedestrianThin = IconifyIconData.solo(
-    IconData(0xf0107, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen`
@@ -32512,10 +32221,9 @@ class PhIcons {
     IconData(0xf0121, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `pencil-duotone` (duo-tone)
-  static const IconifyIconData pencilDuotone = IconifyIconData.duo(
+  /// `pencil-duotone`
+  static const IconifyIconData pencilDuotone = IconifyIconData.solo(
     IconData(0xf0122, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0122, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-fill`
@@ -32538,10 +32246,9 @@ class PhIcons {
     IconData(0xf0126, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `pencil-line-duotone` (duo-tone)
-  static const IconifyIconData pencilLineDuotone = IconifyIconData.duo(
+  /// `pencil-line-duotone`
+  static const IconifyIconData pencilLineDuotone = IconifyIconData.solo(
     IconData(0xf0127, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0127, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-line-fill`
@@ -32600,10 +32307,9 @@ class PhIcons {
     IconData(0xf0132, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `pencil-simple-duotone` (duo-tone)
-  static const IconifyIconData pencilSimpleDuotone = IconifyIconData.duo(
+  /// `pencil-simple-duotone`
+  static const IconifyIconData pencilSimpleDuotone = IconifyIconData.solo(
     IconData(0xf0133, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0133, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-fill`
@@ -32626,10 +32332,9 @@ class PhIcons {
     IconData(0xf0137, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `pencil-simple-line-duotone` (duo-tone)
-  static const IconifyIconData pencilSimpleLineDuotone = IconifyIconData.duo(
+  /// `pencil-simple-line-duotone`
+  static const IconifyIconData pencilSimpleLineDuotone = IconifyIconData.solo(
     IconData(0xf0138, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0138, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-line-fill`
@@ -32657,10 +32362,9 @@ class PhIcons {
     IconData(0xf013d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `pencil-simple-slash-duotone` (duo-tone)
-  static const IconifyIconData pencilSimpleSlashDuotone = IconifyIconData.duo(
+  /// `pencil-simple-slash-duotone`
+  static const IconifyIconData pencilSimpleSlashDuotone = IconifyIconData.solo(
     IconData(0xf013e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf013e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-slash-fill`
@@ -32693,10 +32397,9 @@ class PhIcons {
     IconData(0xf0144, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `pencil-slash-duotone` (duo-tone)
-  static const IconifyIconData pencilSlashDuotone = IconifyIconData.duo(
+  /// `pencil-slash-duotone`
+  static const IconifyIconData pencilSlashDuotone = IconifyIconData.solo(
     IconData(0xf0145, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0145, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-slash-fill`
@@ -32951,10 +32654,9 @@ class PhIcons {
     IconData(0xf0176, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `person-simple-circle-duotone` (duo-tone)
-  static const IconifyIconData personSimpleCircleDuotone = IconifyIconData.duo(
+  /// `person-simple-circle-duotone`
+  static const IconifyIconData personSimpleCircleDuotone = IconifyIconData.solo(
     IconData(0xf0177, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0177, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-circle-fill`
@@ -33153,10 +32855,9 @@ class PhIcons {
     IconData(0xf019d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `person-simple-tai-chi-duotone` (duo-tone)
-  static const IconifyIconData personSimpleTaiChiDuotone = IconifyIconData.duo(
+  /// `person-simple-tai-chi-duotone`
+  static const IconifyIconData personSimpleTaiChiDuotone = IconifyIconData.solo(
     IconData(0xf019e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf019e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-tai-chi-fill`
@@ -33189,10 +32890,9 @@ class PhIcons {
     IconData(0xf01a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `person-simple-throw-duotone` (duo-tone)
-  static const IconifyIconData personSimpleThrowDuotone = IconifyIconData.duo(
+  /// `person-simple-throw-duotone`
+  static const IconifyIconData personSimpleThrowDuotone = IconifyIconData.solo(
     IconData(0xf01a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf01a5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-throw-fill`
@@ -33370,10 +33070,9 @@ class PhIcons {
     IconData(0xf01c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `phone-incoming-duotone` (duo-tone)
-  static const IconifyIconData phoneIncomingDuotone = IconifyIconData.duo(
+  /// `phone-incoming-duotone`
+  static const IconifyIconData phoneIncomingDuotone = IconifyIconData.solo(
     IconData(0xf01c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf01c8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-incoming-fill`
@@ -33406,10 +33105,9 @@ class PhIcons {
     IconData(0xf01ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `phone-list-duotone` (duo-tone)
-  static const IconifyIconData phoneListDuotone = IconifyIconData.duo(
+  /// `phone-list-duotone`
+  static const IconifyIconData phoneListDuotone = IconifyIconData.solo(
     IconData(0xf01cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf01cf, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-list-fill`
@@ -33437,10 +33135,9 @@ class PhIcons {
     IconData(0xf01d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `phone-outgoing-duotone` (duo-tone)
-  static const IconifyIconData phoneOutgoingDuotone = IconifyIconData.duo(
+  /// `phone-outgoing-duotone`
+  static const IconifyIconData phoneOutgoingDuotone = IconifyIconData.solo(
     IconData(0xf01d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf01d5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-outgoing-fill`
@@ -33468,10 +33165,9 @@ class PhIcons {
     IconData(0xf01da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `phone-pause-duotone` (duo-tone)
-  static const IconifyIconData phonePauseDuotone = IconifyIconData.duo(
+  /// `phone-pause-duotone`
+  static const IconifyIconData phonePauseDuotone = IconifyIconData.solo(
     IconData(0xf01db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf01db, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-pause-fill`
@@ -33499,10 +33195,9 @@ class PhIcons {
     IconData(0xf01e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `phone-plus-duotone` (duo-tone)
-  static const IconifyIconData phonePlusDuotone = IconifyIconData.duo(
+  /// `phone-plus-duotone`
+  static const IconifyIconData phonePlusDuotone = IconifyIconData.solo(
     IconData(0xf01e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf01e1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-plus-fill`
@@ -33566,10 +33261,9 @@ class PhIcons {
     IconData(0xf01ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `phone-transfer-duotone` (duo-tone)
-  static const IconifyIconData phoneTransferDuotone = IconifyIconData.duo(
+  /// `phone-transfer-duotone`
+  static const IconifyIconData phoneTransferDuotone = IconifyIconData.solo(
     IconData(0xf01ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf01ee, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-transfer-fill`
@@ -33597,10 +33291,9 @@ class PhIcons {
     IconData(0xf01f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `phone-x-duotone` (duo-tone)
-  static const IconifyIconData phoneXDuotone = IconifyIconData.duo(
+  /// `phone-x-duotone`
+  static const IconifyIconData phoneXDuotone = IconifyIconData.solo(
     IconData(0xf01f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf01f4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-x-fill`
@@ -34031,10 +33724,9 @@ class PhIcons {
     IconData(0xf0247, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `pix-logo-duotone` (duo-tone)
-  static const IconifyIconData pixLogoDuotone = IconifyIconData.duo(
+  /// `pix-logo-duotone`
+  static const IconifyIconData pixLogoDuotone = IconifyIconData.solo(
     IconData(0xf0248, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0248, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pix-logo-fill`
@@ -34093,10 +33785,9 @@ class PhIcons {
     IconData(0xf0253, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `placeholder-duotone` (duo-tone)
-  static const IconifyIconData placeholderDuotone = IconifyIconData.duo(
+  /// `placeholder-duotone`
+  static const IconifyIconData placeholderDuotone = IconifyIconData.solo(
     IconData(0xf0254, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0254, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `placeholder-fill`
@@ -34124,10 +33815,9 @@ class PhIcons {
     IconData(0xf0259, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `planet-duotone` (duo-tone)
-  static const IconifyIconData planetDuotone = IconifyIconData.duo(
+  /// `planet-duotone`
+  static const IconifyIconData planetDuotone = IconifyIconData.solo(
     IconData(0xf025a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf025a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `planet-fill`
@@ -34444,10 +34134,9 @@ class PhIcons {
     IconData(0xf0297, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `plus-circle-duotone` (duo-tone)
-  static const IconifyIconData plusCircleDuotone = IconifyIconData.duo(
+  /// `plus-circle-duotone`
+  static const IconifyIconData plusCircleDuotone = IconifyIconData.solo(
     IconData(0xf0298, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0298, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-circle-fill`
@@ -34465,10 +34154,9 @@ class PhIcons {
     IconData(0xf029b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `plus-duotone` (duo-tone)
-  static const IconifyIconData plusDuotone = IconifyIconData.duo(
+  /// `plus-duotone`
+  static const IconifyIconData plusDuotone = IconifyIconData.solo(
     IconData(0xf029c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf029c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-fill`
@@ -34491,10 +34179,9 @@ class PhIcons {
     IconData(0xf02a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `plus-minus-duotone` (duo-tone)
-  static const IconifyIconData plusMinusDuotone = IconifyIconData.duo(
+  /// `plus-minus-duotone`
+  static const IconifyIconData plusMinusDuotone = IconifyIconData.solo(
     IconData(0xf02a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf02a1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-minus-fill`
@@ -34522,10 +34209,9 @@ class PhIcons {
     IconData(0xf02a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `plus-square-duotone` (duo-tone)
-  static const IconifyIconData plusSquareDuotone = IconifyIconData.duo(
+  /// `plus-square-duotone`
+  static const IconifyIconData plusSquareDuotone = IconifyIconData.solo(
     IconData(0xf02a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf02a7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-square-fill`
@@ -34744,10 +34430,9 @@ class PhIcons {
     IconData(0xf02d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `power-duotone` (duo-tone)
-  static const IconifyIconData powerDuotone = IconifyIconData.duo(
+  /// `power-duotone`
+  static const IconifyIconData powerDuotone = IconifyIconData.solo(
     IconData(0xf02d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf02d2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `power-fill`
@@ -34837,10 +34522,9 @@ class PhIcons {
     IconData(0xf02e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `presentation-duotone` (duo-tone)
-  static const IconifyIconData presentationDuotone = IconifyIconData.duo(
+  /// `presentation-duotone`
+  static const IconifyIconData presentationDuotone = IconifyIconData.solo(
     IconData(0xf02e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf02e4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-fill`
@@ -34899,10 +34583,9 @@ class PhIcons {
     IconData(0xf02ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `prohibit-duotone` (duo-tone)
-  static const IconifyIconData prohibitDuotone = IconifyIconData.duo(
+  /// `prohibit-duotone`
+  static const IconifyIconData prohibitDuotone = IconifyIconData.solo(
     IconData(0xf02f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf02f0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-fill`
@@ -34920,10 +34603,9 @@ class PhIcons {
     IconData(0xf02f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `prohibit-inset-duotone` (duo-tone)
-  static const IconifyIconData prohibitInsetDuotone = IconifyIconData.duo(
+  /// `prohibit-inset-duotone`
+  static const IconifyIconData prohibitInsetDuotone = IconifyIconData.solo(
     IconData(0xf02f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf02f4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-inset-fill`
@@ -34992,10 +34674,9 @@ class PhIcons {
     IconData(0xf0301, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `projector-screen-duotone` (duo-tone)
-  static const IconifyIconData projectorScreenDuotone = IconifyIconData.duo(
+  /// `projector-screen-duotone`
+  static const IconifyIconData projectorScreenDuotone = IconifyIconData.solo(
     IconData(0xf0302, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0302, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-fill`
@@ -35142,10 +34823,9 @@ class PhIcons {
     IconData(0xf031e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `push-pin-slash-duotone` (duo-tone)
-  static const IconifyIconData pushPinSlashDuotone = IconifyIconData.duo(
+  /// `push-pin-slash-duotone`
+  static const IconifyIconData pushPinSlashDuotone = IconifyIconData.solo(
     IconData(0xf031f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf031f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-slash-fill`
@@ -35240,10 +34920,9 @@ class PhIcons {
     IconData(0xf0331, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `question-duotone` (duo-tone)
-  static const IconifyIconData questionDuotone = IconifyIconData.duo(
+  /// `question-duotone`
+  static const IconifyIconData questionDuotone = IconifyIconData.solo(
     IconData(0xf0332, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0332, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-fill`
@@ -35266,10 +34945,9 @@ class PhIcons {
     IconData(0xf0336, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `question-mark-duotone` (duo-tone)
-  static const IconifyIconData questionMarkDuotone = IconifyIconData.duo(
+  /// `question-mark-duotone`
+  static const IconifyIconData questionMarkDuotone = IconifyIconData.solo(
     IconData(0xf0337, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0337, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-mark-fill`
@@ -35467,10 +35145,9 @@ class PhIcons {
     IconData(0xf035d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `radio-button-duotone` (duo-tone)
-  static const IconifyIconData radioButtonDuotone = IconifyIconData.duo(
+  /// `radio-button-duotone`
+  static const IconifyIconData radioButtonDuotone = IconifyIconData.solo(
     IconData(0xf035e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf035e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-button-fill`
@@ -35705,10 +35382,9 @@ class PhIcons {
     IconData(0xf038b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `receipt-x-duotone` (duo-tone)
-  static const IconifyIconData receiptXDuotone = IconifyIconData.duo(
+  /// `receipt-x-duotone`
+  static const IconifyIconData receiptXDuotone = IconifyIconData.solo(
     IconData(0xf038c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf038c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-x-fill`
@@ -35777,10 +35453,9 @@ class PhIcons {
     IconData(0xf0399, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `rectangle-dashed-duotone` (duo-tone)
-  static const IconifyIconData rectangleDashedDuotone = IconifyIconData.duo(
+  /// `rectangle-dashed-duotone`
+  static const IconifyIconData rectangleDashedDuotone = IconifyIconData.solo(
     IconData(0xf039a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf039a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-dashed-fill`
@@ -35798,10 +35473,9 @@ class PhIcons {
     IconData(0xf039d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `rectangle-duotone` (duo-tone)
-  static const IconifyIconData rectangleDuotone = IconifyIconData.duo(
+  /// `rectangle-duotone`
+  static const IconifyIconData rectangleDuotone = IconifyIconData.solo(
     IconData(0xf039e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf039e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-fill`
@@ -35821,7 +35495,7 @@ class PhIcons {
 
   /// `rectangles-two`
   static const IconifyIconData rectanglesTwo = IconifyIconData.solo(
-    IconData(0xf03a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two-bold`
@@ -35829,25 +35503,24 @@ class PhIcons {
     IconData(0xf03a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `rectangles-two-duotone` (duo-tone)
-  static const IconifyIconData rectanglesTwoDuotone = IconifyIconData.duo(
-    IconData(0xf03a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf03a4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
+  /// `rectangles-two-duotone`
+  static const IconifyIconData rectanglesTwoDuotone = IconifyIconData.solo(
+    IconData(0xf03f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two-fill`
   static const IconifyIconData rectanglesTwoFill = IconifyIconData.solo(
-    IconData(0xf03a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two-light`
   static const IconifyIconData rectanglesTwoLight = IconifyIconData.solo(
-    IconData(0xf03a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two-thin`
   static const IconifyIconData rectanglesTwoThin = IconifyIconData.solo(
-    IconData(0xf03a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0401, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `recycle`
@@ -35948,10 +35621,9 @@ class PhIcons {
     IconData(0xf03ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `repeat-once-duotone` (duo-tone)
-  static const IconifyIconData repeatOnceDuotone = IconifyIconData.duo(
+  /// `repeat-once-duotone`
+  static const IconifyIconData repeatOnceDuotone = IconifyIconData.solo(
     IconData(0xf03bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf03bb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-once-fill`
@@ -36537,10 +36209,9 @@ class PhIcons {
     IconData(0xf042c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `scan-smiley-duotone` (duo-tone)
-  static const IconifyIconData scanSmileyDuotone = IconifyIconData.duo(
+  /// `scan-smiley-duotone`
+  static const IconifyIconData scanSmileyDuotone = IconifyIconData.solo(
     IconData(0xf042d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf042d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-smiley-fill`
@@ -36697,10 +36368,9 @@ class PhIcons {
     IconData(0xf044b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `scribble-duotone` (duo-tone)
-  static const IconifyIconData scribbleDuotone = IconifyIconData.duo(
+  /// `scribble-duotone`
+  static const IconifyIconData scribbleDuotone = IconifyIconData.solo(
     IconData(0xf044c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf044c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-fill`
@@ -36914,10 +36584,9 @@ class PhIcons {
     IconData(0xf0475, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `seal-warning-duotone` (duo-tone)
-  static const IconifyIconData sealWarningDuotone = IconifyIconData.duo(
+  /// `seal-warning-duotone`
+  static const IconifyIconData sealWarningDuotone = IconifyIconData.solo(
     IconData(0xf0476, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0476, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-warning-fill`
@@ -37043,10 +36712,9 @@ class PhIcons {
     IconData(0xf048e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `selection-all-duotone` (duo-tone)
-  static const IconifyIconData selectionAllDuotone = IconifyIconData.duo(
+  /// `selection-all-duotone`
+  static const IconifyIconData selectionAllDuotone = IconifyIconData.solo(
     IconData(0xf048f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf048f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-all-fill`
@@ -37100,10 +36768,9 @@ class PhIcons {
     IconData(0xf0499, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `selection-duotone` (duo-tone)
-  static const IconifyIconData selectionDuotone = IconifyIconData.duo(
+  /// `selection-duotone`
+  static const IconifyIconData selectionDuotone = IconifyIconData.solo(
     IconData(0xf049a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf049a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-fill`
@@ -37188,10 +36855,9 @@ class PhIcons {
     IconData(0xf04aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `selection-plus-duotone` (duo-tone)
-  static const IconifyIconData selectionPlusDuotone = IconifyIconData.duo(
+  /// `selection-plus-duotone`
+  static const IconifyIconData selectionPlusDuotone = IconifyIconData.solo(
     IconData(0xf04ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf04ab, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-plus-fill`
@@ -37219,10 +36885,9 @@ class PhIcons {
     IconData(0xf04b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `selection-slash-duotone` (duo-tone)
-  static const IconifyIconData selectionSlashDuotone = IconifyIconData.duo(
+  /// `selection-slash-duotone`
+  static const IconifyIconData selectionSlashDuotone = IconifyIconData.solo(
     IconData(0xf04b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf04b1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-slash-fill`
@@ -37286,10 +36951,9 @@ class PhIcons {
     IconData(0xf04bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `share-duotone` (duo-tone)
-  static const IconifyIconData shareDuotone = IconifyIconData.duo(
+  /// `share-duotone`
+  static const IconifyIconData shareDuotone = IconifyIconData.solo(
     IconData(0xf04be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf04be, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-fat`
@@ -37472,10 +37136,9 @@ class PhIcons {
     IconData(0xf04e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `shield-duotone` (duo-tone)
-  static const IconifyIconData shieldDuotone = IconifyIconData.duo(
+  /// `shield-duotone`
+  static const IconifyIconData shieldDuotone = IconifyIconData.solo(
     IconData(0xf04e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf04e2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-fill`
@@ -37498,10 +37161,9 @@ class PhIcons {
     IconData(0xf04e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `shield-plus-duotone` (duo-tone)
-  static const IconifyIconData shieldPlusDuotone = IconifyIconData.duo(
+  /// `shield-plus-duotone`
+  static const IconifyIconData shieldPlusDuotone = IconifyIconData.solo(
     IconData(0xf04e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf04e7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-plus-fill`
@@ -37529,10 +37191,9 @@ class PhIcons {
     IconData(0xf04ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `shield-slash-duotone` (duo-tone)
-  static const IconifyIconData shieldSlashDuotone = IconifyIconData.duo(
+  /// `shield-slash-duotone`
+  static const IconifyIconData shieldSlashDuotone = IconifyIconData.solo(
     IconData(0xf04ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf04ed, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-slash-fill`
@@ -37560,10 +37221,9 @@ class PhIcons {
     IconData(0xf04f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `shield-star-duotone` (duo-tone)
-  static const IconifyIconData shieldStarDuotone = IconifyIconData.duo(
+  /// `shield-star-duotone`
+  static const IconifyIconData shieldStarDuotone = IconifyIconData.solo(
     IconData(0xf04f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf04f3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-star-fill`
@@ -37596,10 +37256,9 @@ class PhIcons {
     IconData(0xf04f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `shield-warning-duotone` (duo-tone)
-  static const IconifyIconData shieldWarningDuotone = IconifyIconData.duo(
+  /// `shield-warning-duotone`
+  static const IconifyIconData shieldWarningDuotone = IconifyIconData.solo(
     IconData(0xf04fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf04fa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-warning-fill`
@@ -37720,10 +37379,9 @@ class PhIcons {
     IconData(0xf0511, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `shopping-bag-duotone` (duo-tone)
-  static const IconifyIconData shoppingBagDuotone = IconifyIconData.duo(
+  /// `shopping-bag-duotone`
+  static const IconifyIconData shoppingBagDuotone = IconifyIconData.solo(
     IconData(0xf0512, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0512, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-fill`
@@ -38056,10 +37714,9 @@ class PhIcons {
     IconData(0xf0552, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `sidebar-simple-duotone` (duo-tone)
-  static const IconifyIconData sidebarSimpleDuotone = IconifyIconData.duo(
+  /// `sidebar-simple-duotone`
+  static const IconifyIconData sidebarSimpleDuotone = IconifyIconData.solo(
     IconData(0xf0553, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0553, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-simple-fill`
@@ -38655,10 +38312,9 @@ class PhIcons {
     IconData(0xf05c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `smiley-angry-duotone` (duo-tone)
-  static const IconifyIconData smileyAngryDuotone = IconifyIconData.duo(
+  /// `smiley-angry-duotone`
+  static const IconifyIconData smileyAngryDuotone = IconifyIconData.solo(
     IconData(0xf05c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf05c7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-angry-fill`
@@ -38686,10 +38342,9 @@ class PhIcons {
     IconData(0xf05cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `smiley-blank-duotone` (duo-tone)
-  static const IconifyIconData smileyBlankDuotone = IconifyIconData.duo(
+  /// `smiley-blank-duotone`
+  static const IconifyIconData smileyBlankDuotone = IconifyIconData.solo(
     IconData(0xf05cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf05cd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-blank-fill`
@@ -38712,10 +38367,9 @@ class PhIcons {
     IconData(0xf05d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `smiley-duotone` (duo-tone)
-  static const IconifyIconData smileyDuotone = IconifyIconData.duo(
+  /// `smiley-duotone`
+  static const IconifyIconData smileyDuotone = IconifyIconData.solo(
     IconData(0xf05d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf05d2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-fill`
@@ -38738,10 +38392,9 @@ class PhIcons {
     IconData(0xf05d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `smiley-meh-duotone` (duo-tone)
-  static const IconifyIconData smileyMehDuotone = IconifyIconData.duo(
+  /// `smiley-meh-duotone`
+  static const IconifyIconData smileyMehDuotone = IconifyIconData.solo(
     IconData(0xf05d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf05d7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-meh-fill`
@@ -38800,10 +38453,9 @@ class PhIcons {
     IconData(0xf05e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `smiley-nervous-duotone` (duo-tone)
-  static const IconifyIconData smileyNervousDuotone = IconifyIconData.duo(
+  /// `smiley-nervous-duotone`
+  static const IconifyIconData smileyNervousDuotone = IconifyIconData.solo(
     IconData(0xf05e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf05e3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-nervous-fill`
@@ -38831,10 +38483,9 @@ class PhIcons {
     IconData(0xf05e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `smiley-sad-duotone` (duo-tone)
-  static const IconifyIconData smileySadDuotone = IconifyIconData.duo(
+  /// `smiley-sad-duotone`
+  static const IconifyIconData smileySadDuotone = IconifyIconData.solo(
     IconData(0xf05e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf05e9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sad-fill`
@@ -38898,10 +38549,9 @@ class PhIcons {
     IconData(0xf05f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `smiley-wink-duotone` (duo-tone)
-  static const IconifyIconData smileyWinkDuotone = IconifyIconData.duo(
+  /// `smiley-wink-duotone`
+  static const IconifyIconData smileyWinkDuotone = IconifyIconData.solo(
     IconData(0xf05f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf05f6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-wink-fill`
@@ -38929,10 +38579,9 @@ class PhIcons {
     IconData(0xf05fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `smiley-x-eyes-duotone` (duo-tone)
-  static const IconifyIconData smileyXEyesDuotone = IconifyIconData.duo(
+  /// `smiley-x-eyes-duotone`
+  static const IconifyIconData smileyXEyesDuotone = IconifyIconData.solo(
     IconData(0xf05fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf05fc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-x-eyes-fill`
@@ -39425,10 +39074,9 @@ class PhIcons {
     IconData(0xf065b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `speaker-low-duotone` (duo-tone)
-  static const IconifyIconData speakerLowDuotone = IconifyIconData.duo(
+  /// `speaker-low-duotone`
+  static const IconifyIconData speakerLowDuotone = IconifyIconData.solo(
     IconData(0xf065c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf065c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-low-fill`
@@ -39456,10 +39104,9 @@ class PhIcons {
     IconData(0xf0661, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `speaker-none-duotone` (duo-tone)
-  static const IconifyIconData speakerNoneDuotone = IconifyIconData.duo(
+  /// `speaker-none-duotone`
+  static const IconifyIconData speakerNoneDuotone = IconifyIconData.solo(
     IconData(0xf0662, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0662, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-none-fill`
@@ -39518,10 +39165,9 @@ class PhIcons {
     IconData(0xf066d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `speaker-simple-low-duotone` (duo-tone)
-  static const IconifyIconData speakerSimpleLowDuotone = IconifyIconData.duo(
+  /// `speaker-simple-low-duotone`
+  static const IconifyIconData speakerSimpleLowDuotone = IconifyIconData.solo(
     IconData(0xf066e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf066e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-low-fill`
@@ -39549,10 +39195,9 @@ class PhIcons {
     IconData(0xf0673, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `speaker-simple-none-duotone` (duo-tone)
-  static const IconifyIconData speakerSimpleNoneDuotone = IconifyIconData.duo(
+  /// `speaker-simple-none-duotone`
+  static const IconifyIconData speakerSimpleNoneDuotone = IconifyIconData.solo(
     IconData(0xf0674, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0674, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-none-fill`
@@ -39580,10 +39225,9 @@ class PhIcons {
     IconData(0xf0679, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `speaker-simple-slash-duotone` (duo-tone)
-  static const IconifyIconData speakerSimpleSlashDuotone = IconifyIconData.duo(
+  /// `speaker-simple-slash-duotone`
+  static const IconifyIconData speakerSimpleSlashDuotone = IconifyIconData.solo(
     IconData(0xf067a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf067a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-slash-fill`
@@ -39611,10 +39255,9 @@ class PhIcons {
     IconData(0xf067f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `speaker-simple-x-duotone` (duo-tone)
-  static const IconifyIconData speakerSimpleXDuotone = IconifyIconData.duo(
+  /// `speaker-simple-x-duotone`
+  static const IconifyIconData speakerSimpleXDuotone = IconifyIconData.solo(
     IconData(0xf0680, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0680, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-x-fill`
@@ -39642,10 +39285,9 @@ class PhIcons {
     IconData(0xf0685, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `speaker-slash-duotone` (duo-tone)
-  static const IconifyIconData speakerSlashDuotone = IconifyIconData.duo(
+  /// `speaker-slash-duotone`
+  static const IconifyIconData speakerSlashDuotone = IconifyIconData.solo(
     IconData(0xf0686, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0686, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-slash-fill`
@@ -39673,10 +39315,9 @@ class PhIcons {
     IconData(0xf068b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `speaker-x-duotone` (duo-tone)
-  static const IconifyIconData speakerXDuotone = IconifyIconData.duo(
+  /// `speaker-x-duotone`
+  static const IconifyIconData speakerXDuotone = IconifyIconData.solo(
     IconData(0xf068c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf068c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-x-fill`
@@ -39735,10 +39376,9 @@ class PhIcons {
     IconData(0xf0697, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `sphere-duotone` (duo-tone)
-  static const IconifyIconData sphereDuotone = IconifyIconData.duo(
+  /// `sphere-duotone`
+  static const IconifyIconData sphereDuotone = IconifyIconData.solo(
     IconData(0xf0698, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0698, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sphere-fill`
@@ -39797,10 +39437,9 @@ class PhIcons {
     IconData(0xf06a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `spinner-duotone` (duo-tone)
-  static const IconifyIconData spinnerDuotone = IconifyIconData.duo(
+  /// `spinner-duotone`
+  static const IconifyIconData spinnerDuotone = IconifyIconData.solo(
     IconData(0xf06a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf06a4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-fill`
@@ -39818,10 +39457,9 @@ class PhIcons {
     IconData(0xf06a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `spinner-gap-duotone` (duo-tone)
-  static const IconifyIconData spinnerGapDuotone = IconifyIconData.duo(
+  /// `spinner-gap-duotone`
+  static const IconifyIconData spinnerGapDuotone = IconifyIconData.solo(
     IconData(0xf06a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf06a8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-gap-fill`
@@ -39952,10 +39590,9 @@ class PhIcons {
     IconData(0xf06c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `spotify-logo-duotone` (duo-tone)
-  static const IconifyIconData spotifyLogoDuotone = IconifyIconData.duo(
+  /// `spotify-logo-duotone`
+  static const IconifyIconData spotifyLogoDuotone = IconifyIconData.solo(
     IconData(0xf06c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf06c2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spotify-logo-fill`
@@ -40014,10 +39651,9 @@ class PhIcons {
     IconData(0xf06cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `square-duotone` (duo-tone)
-  static const IconifyIconData squareDuotone = IconifyIconData.duo(
+  /// `square-duotone`
+  static const IconifyIconData squareDuotone = IconifyIconData.solo(
     IconData(0xf06ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf06ce, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-fill`
@@ -40045,10 +39681,9 @@ class PhIcons {
     IconData(0xf06d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `square-half-bottom-duotone` (duo-tone)
-  static const IconifyIconData squareHalfBottomDuotone = IconifyIconData.duo(
+  /// `square-half-bottom-duotone`
+  static const IconifyIconData squareHalfBottomDuotone = IconifyIconData.solo(
     IconData(0xf06d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf06d4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-bottom-fill`
@@ -40102,10 +39737,9 @@ class PhIcons {
     IconData(0xf06de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `square-logo-duotone` (duo-tone)
-  static const IconifyIconData squareLogoDuotone = IconifyIconData.duo(
+  /// `square-logo-duotone`
+  static const IconifyIconData squareLogoDuotone = IconifyIconData.solo(
     IconData(0xf06df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf06df, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-logo-fill`
@@ -40133,10 +39767,9 @@ class PhIcons {
     IconData(0xf06e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `square-split-horizontal-duotone` (duo-tone)
-  static const IconifyIconData squareSplitHorizontalDuotone = IconifyIconData.duo(
+  /// `square-split-horizontal-duotone`
+  static const IconifyIconData squareSplitHorizontalDuotone = IconifyIconData.solo(
     IconData(0xf06e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf06e5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-horizontal-fill`
@@ -40164,10 +39797,9 @@ class PhIcons {
     IconData(0xf06ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `square-split-vertical-duotone` (duo-tone)
-  static const IconifyIconData squareSplitVerticalDuotone = IconifyIconData.duo(
+  /// `square-split-vertical-duotone`
+  static const IconifyIconData squareSplitVerticalDuotone = IconifyIconData.solo(
     IconData(0xf06eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf06eb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-vertical-fill`
@@ -40257,10 +39889,9 @@ class PhIcons {
     IconData(0xf06fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `stack-minus-duotone` (duo-tone)
-  static const IconifyIconData stackMinusDuotone = IconifyIconData.duo(
+  /// `stack-minus-duotone`
+  static const IconifyIconData stackMinusDuotone = IconifyIconData.solo(
     IconData(0xf06fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf06fd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-minus-fill`
@@ -40319,10 +39950,9 @@ class PhIcons {
     IconData(0xf0708, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `stack-plus-duotone` (duo-tone)
-  static const IconifyIconData stackPlusDuotone = IconifyIconData.duo(
+  /// `stack-plus-duotone`
+  static const IconifyIconData stackPlusDuotone = IconifyIconData.solo(
     IconData(0xf0709, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0709, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-plus-fill`
@@ -40448,10 +40078,9 @@ class PhIcons {
     IconData(0xf0721, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `standard-definition-duotone` (duo-tone)
-  static const IconifyIconData standardDefinitionDuotone = IconifyIconData.duo(
+  /// `standard-definition-duotone`
+  static const IconifyIconData standardDefinitionDuotone = IconifyIconData.solo(
     IconData(0xf0722, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0722, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `standard-definition-fill`
@@ -40851,10 +40480,9 @@ class PhIcons {
     IconData(0xf076f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `stop-duotone` (duo-tone)
-  static const IconifyIconData stopDuotone = IconifyIconData.duo(
+  /// `stop-duotone`
+  static const IconifyIconData stopDuotone = IconifyIconData.solo(
     IconData(0xf0770, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0770, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-fill`
@@ -40944,10 +40572,9 @@ class PhIcons {
     IconData(0xf0781, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `stripe-logo-duotone` (duo-tone)
-  static const IconifyIconData stripeLogoDuotone = IconifyIconData.duo(
+  /// `stripe-logo-duotone`
+  static const IconifyIconData stripeLogoDuotone = IconifyIconData.solo(
     IconData(0xf0782, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0782, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stripe-logo-fill`
@@ -41037,10 +40664,9 @@ class PhIcons {
     IconData(0xf0793, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `subset-proper-of-duotone` (duo-tone)
-  static const IconifyIconData subsetProperOfDuotone = IconifyIconData.duo(
+  /// `subset-proper-of-duotone`
+  static const IconifyIconData subsetProperOfDuotone = IconifyIconData.solo(
     IconData(0xf0794, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0794, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-proper-of-fill`
@@ -41068,10 +40694,9 @@ class PhIcons {
     IconData(0xf0799, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `subtitles-duotone` (duo-tone)
-  static const IconifyIconData subtitlesDuotone = IconifyIconData.duo(
+  /// `subtitles-duotone`
+  static const IconifyIconData subtitlesDuotone = IconifyIconData.solo(
     IconData(0xf079a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf079a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-fill`
@@ -41094,10 +40719,9 @@ class PhIcons {
     IconData(0xf079e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `subtitles-slash-duotone` (duo-tone)
-  static const IconifyIconData subtitlesSlashDuotone = IconifyIconData.duo(
+  /// `subtitles-slash-duotone`
+  static const IconifyIconData subtitlesSlashDuotone = IconifyIconData.solo(
     IconData(0xf079f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf079f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-slash-fill`
@@ -41326,10 +40950,9 @@ class PhIcons {
     IconData(0xf07cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `sun-dim-duotone` (duo-tone)
-  static const IconifyIconData sunDimDuotone = IconifyIconData.duo(
+  /// `sun-dim-duotone`
+  static const IconifyIconData sunDimDuotone = IconifyIconData.solo(
     IconData(0xf07cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf07cc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-dim-fill`
@@ -41347,10 +40970,9 @@ class PhIcons {
     IconData(0xf07cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `sun-duotone` (duo-tone)
-  static const IconifyIconData sunDuotone = IconifyIconData.duo(
+  /// `sun-duotone`
+  static const IconifyIconData sunDuotone = IconifyIconData.solo(
     IconData(0xf07d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf07d0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-fill`
@@ -41440,10 +41062,9 @@ class PhIcons {
     IconData(0xf07e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `superset-of-duotone` (duo-tone)
-  static const IconifyIconData supersetOfDuotone = IconifyIconData.duo(
+  /// `superset-of-duotone`
+  static const IconifyIconData supersetOfDuotone = IconifyIconData.solo(
     IconData(0xf07e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf07e2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-of-fill`
@@ -41874,10 +41495,9 @@ class PhIcons {
     IconData(0xf0835, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `target-duotone` (duo-tone)
-  static const IconifyIconData targetDuotone = IconifyIconData.duo(
+  /// `target-duotone`
+  static const IconifyIconData targetDuotone = IconifyIconData.solo(
     IconData(0xf0836, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0836, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `target-fill`
@@ -41905,10 +41525,9 @@ class PhIcons {
     IconData(0xf083b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `taxi-duotone` (duo-tone)
-  static const IconifyIconData taxiDuotone = IconifyIconData.duo(
+  /// `taxi-duotone`
+  static const IconifyIconData taxiDuotone = IconifyIconData.solo(
     IconData(0xf083c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf083c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `taxi-fill`
@@ -42024,10 +41643,9 @@ class PhIcons {
     IconData(0xf0852, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `television-simple-duotone` (duo-tone)
-  static const IconifyIconData televisionSimpleDuotone = IconifyIconData.duo(
+  /// `television-simple-duotone`
+  static const IconifyIconData televisionSimpleDuotone = IconifyIconData.solo(
     IconData(0xf0853, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0853, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-simple-fill`
@@ -42153,10 +41771,9 @@ class PhIcons {
     IconData(0xf086b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `terminal-window-duotone` (duo-tone)
-  static const IconifyIconData terminalWindowDuotone = IconifyIconData.duo(
+  /// `terminal-window-duotone`
+  static const IconifyIconData terminalWindowDuotone = IconifyIconData.solo(
     IconData(0xf086c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf086c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-window-fill`
@@ -42207,7 +41824,7 @@ class PhIcons {
 
   /// `text`
   static const IconifyIconData text = IconifyIconData.solo(
-    IconData(0xf0876, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-a-underline`
@@ -42429,7 +42046,7 @@ class PhIcons {
 
   /// `text-bold`
   static const IconifyIconData textBold = IconifyIconData.solo(
-    IconData(0xf08a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0900, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bolder`
@@ -42444,12 +42061,12 @@ class PhIcons {
 
   /// `text-bolder-duotone`
   static const IconifyIconData textBolderDuotone = IconifyIconData.solo(
-    IconData(0xf08a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bolder-fill`
   static const IconifyIconData textBolderFill = IconifyIconData.solo(
-    IconData(0xf08a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bolder-light`
@@ -42472,10 +42089,9 @@ class PhIcons {
     IconData(0xf08a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `text-columns-duotone` (duo-tone)
-  static const IconifyIconData textColumnsDuotone = IconifyIconData.duo(
+  /// `text-columns-duotone`
+  static const IconifyIconData textColumnsDuotone = IconifyIconData.solo(
     IconData(0xf08aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf08aa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-columns-fill`
@@ -42495,12 +42111,12 @@ class PhIcons {
 
   /// `text-duotone`
   static const IconifyIconData textDuotone = IconifyIconData.solo(
-    IconData(0xf08ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-fill`
   static const IconifyIconData textFill = IconifyIconData.solo(
-    IconData(0xf08af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h`
@@ -42632,10 +42248,9 @@ class PhIcons {
     IconData(0xf08c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `text-h-six-duotone` (duo-tone)
-  static const IconifyIconData textHSixDuotone = IconifyIconData.duo(
+  /// `text-h-six-duotone`
+  static const IconifyIconData textHSixDuotone = IconifyIconData.solo(
     IconData(0xf08c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf08c9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-six-fill`
@@ -42668,10 +42283,9 @@ class PhIcons {
     IconData(0xf08cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `text-h-three-duotone` (duo-tone)
-  static const IconifyIconData textHThreeDuotone = IconifyIconData.duo(
+  /// `text-h-three-duotone`
+  static const IconifyIconData textHThreeDuotone = IconifyIconData.solo(
     IconData(0xf08d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf08d0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-three-fill`
@@ -42730,10 +42344,9 @@ class PhIcons {
     IconData(0xf08db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `text-indent-duotone` (duo-tone)
-  static const IconifyIconData textIndentDuotone = IconifyIconData.duo(
+  /// `text-indent-duotone`
+  static const IconifyIconData textIndentDuotone = IconifyIconData.solo(
     IconData(0xf08dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf08dc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-indent-fill`
@@ -42784,7 +42397,7 @@ class PhIcons {
 
   /// `text-light`
   static const IconifyIconData textLight = IconifyIconData.solo(
-    IconData(0xf08e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0903, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-outdent`
@@ -42859,10 +42472,9 @@ class PhIcons {
     IconData(0xf08f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `text-subscript-duotone` (duo-tone)
-  static const IconifyIconData textSubscriptDuotone = IconifyIconData.duo(
+  /// `text-subscript-duotone`
+  static const IconifyIconData textSubscriptDuotone = IconifyIconData.solo(
     IconData(0xf08f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf08f5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-subscript-fill`
@@ -42975,7 +42587,7 @@ class PhIcons {
 
   /// `text-thin`
   static const IconifyIconData textThin = IconifyIconData.solo(
-    IconData(0xf090b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf090a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-underline`
@@ -43081,10 +42693,9 @@ class PhIcons {
     IconData(0xf091f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `thermometer-duotone` (duo-tone)
-  static const IconifyIconData thermometerDuotone = IconifyIconData.duo(
+  /// `thermometer-duotone`
+  static const IconifyIconData thermometerDuotone = IconifyIconData.solo(
     IconData(0xf0920, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0920, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-fill`
@@ -43102,10 +42713,9 @@ class PhIcons {
     IconData(0xf0923, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `thermometer-hot-duotone` (duo-tone)
-  static const IconifyIconData thermometerHotDuotone = IconifyIconData.duo(
+  /// `thermometer-hot-duotone`
+  static const IconifyIconData thermometerHotDuotone = IconifyIconData.solo(
     IconData(0xf0924, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0924, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-hot-fill`
@@ -43205,10 +42815,9 @@ class PhIcons {
     IconData(0xf0937, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `three-d-duotone` (duo-tone)
-  static const IconifyIconData threeDDuotone = IconifyIconData.duo(
+  /// `three-d-duotone`
+  static const IconifyIconData threeDDuotone = IconifyIconData.solo(
     IconData(0xf0938, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0938, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `three-d-fill`
@@ -43391,10 +43000,9 @@ class PhIcons {
     IconData(0xf095b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `tilde-duotone` (duo-tone)
-  static const IconifyIconData tildeDuotone = IconifyIconData.duo(
+  /// `tilde-duotone`
+  static const IconifyIconData tildeDuotone = IconifyIconData.solo(
     IconData(0xf095c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf095c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tilde-fill`
@@ -43422,10 +43030,9 @@ class PhIcons {
     IconData(0xf0961, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `timer-duotone` (duo-tone)
-  static const IconifyIconData timerDuotone = IconifyIconData.duo(
+  /// `timer-duotone`
+  static const IconifyIconData timerDuotone = IconifyIconData.solo(
     IconData(0xf0962, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0962, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `timer-fill`
@@ -43453,10 +43060,9 @@ class PhIcons {
     IconData(0xf0967, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `tip-jar-duotone` (duo-tone)
-  static const IconifyIconData tipJarDuotone = IconifyIconData.duo(
+  /// `tip-jar-duotone`
+  static const IconifyIconData tipJarDuotone = IconifyIconData.solo(
     IconData(0xf0968, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0968, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tip-jar-fill`
@@ -43732,10 +43338,9 @@ class PhIcons {
     IconData(0xf099d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `tornado-duotone` (duo-tone)
-  static const IconifyIconData tornadoDuotone = IconifyIconData.duo(
+  /// `tornado-duotone`
+  static const IconifyIconData tornadoDuotone = IconifyIconData.solo(
     IconData(0xf099e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf099e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tornado-fill`
@@ -43789,10 +43394,9 @@ class PhIcons {
     IconData(0xf09a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `tote-simple-duotone` (duo-tone)
-  static const IconifyIconData toteSimpleDuotone = IconifyIconData.duo(
+  /// `tote-simple-duotone`
+  static const IconifyIconData toteSimpleDuotone = IconifyIconData.solo(
     IconData(0xf09a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf09a9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-simple-fill`
@@ -43887,10 +43491,9 @@ class PhIcons {
     IconData(0xf09bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `trademark-duotone` (duo-tone)
-  static const IconifyIconData trademarkDuotone = IconifyIconData.duo(
+  /// `trademark-duotone`
+  static const IconifyIconData trademarkDuotone = IconifyIconData.solo(
     IconData(0xf09bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf09bc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-fill`
@@ -43913,10 +43516,9 @@ class PhIcons {
     IconData(0xf09c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `trademark-registered-duotone` (duo-tone)
-  static const IconifyIconData trademarkRegisteredDuotone = IconifyIconData.duo(
+  /// `trademark-registered-duotone`
+  static const IconifyIconData trademarkRegisteredDuotone = IconifyIconData.solo(
     IconData(0xf09c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf09c1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-registered-fill`
@@ -44223,10 +43825,9 @@ class PhIcons {
     IconData(0xf09fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `trash-simple-duotone` (duo-tone)
-  static const IconifyIconData trashSimpleDuotone = IconifyIconData.duo(
+  /// `trash-simple-duotone`
+  static const IconifyIconData trashSimpleDuotone = IconifyIconData.solo(
     IconData(0xf09fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf09fd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-simple-fill`
@@ -44295,10 +43896,9 @@ class PhIcons {
     IconData(0xf0a0a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `tray-arrow-up-duotone` (duo-tone)
-  static const IconifyIconData trayArrowUpDuotone = IconifyIconData.duo(
+  /// `tray-arrow-up-duotone`
+  static const IconifyIconData trayArrowUpDuotone = IconifyIconData.solo(
     IconData(0xf0a0b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0a0b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-up-fill`
@@ -44321,10 +43921,9 @@ class PhIcons {
     IconData(0xf0a0f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `tray-duotone` (duo-tone)
-  static const IconifyIconData trayDuotone = IconifyIconData.duo(
+  /// `tray-duotone`
+  static const IconifyIconData trayDuotone = IconifyIconData.solo(
     IconData(0xf0a10, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0a10, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-fill`
@@ -44631,10 +44230,9 @@ class PhIcons {
     IconData(0xf0a4b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `triangle-duotone` (duo-tone)
-  static const IconifyIconData triangleDuotone = IconifyIconData.duo(
+  /// `triangle-duotone`
+  static const IconifyIconData triangleDuotone = IconifyIconData.solo(
     IconData(0xf0a4c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0a4c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-fill`
@@ -45065,10 +44663,9 @@ class PhIcons {
     IconData(0xf0a9f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `upload-duotone` (duo-tone)
-  static const IconifyIconData uploadDuotone = IconifyIconData.duo(
+  /// `upload-duotone`
+  static const IconifyIconData uploadDuotone = IconifyIconData.solo(
     IconData(0xf0aa0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0aa0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-fill`
@@ -45091,10 +44688,9 @@ class PhIcons {
     IconData(0xf0aa4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `upload-simple-duotone` (duo-tone)
-  static const IconifyIconData uploadSimpleDuotone = IconifyIconData.duo(
+  /// `upload-simple-duotone`
+  static const IconifyIconData uploadSimpleDuotone = IconifyIconData.solo(
     IconData(0xf0aa5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0aa5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-simple-fill`
@@ -45240,10 +44836,9 @@ class PhIcons {
     IconData(0xf0ac1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `user-circle-dashed-duotone` (duo-tone)
-  static const IconifyIconData userCircleDashedDuotone = IconifyIconData.duo(
+  /// `user-circle-dashed-duotone`
+  static const IconifyIconData userCircleDashedDuotone = IconifyIconData.solo(
     IconData(0xf0ac2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0ac2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-dashed-fill`
@@ -45261,10 +44856,9 @@ class PhIcons {
     IconData(0xf0ac5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `user-circle-duotone` (duo-tone)
-  static const IconifyIconData userCircleDuotone = IconifyIconData.duo(
+  /// `user-circle-duotone`
+  static const IconifyIconData userCircleDuotone = IconifyIconData.solo(
     IconData(0xf0ac6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0ac6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-fill`
@@ -45318,10 +44912,9 @@ class PhIcons {
     IconData(0xf0ad0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `user-circle-minus-duotone` (duo-tone)
-  static const IconifyIconData userCircleMinusDuotone = IconifyIconData.duo(
+  /// `user-circle-minus-duotone`
+  static const IconifyIconData userCircleMinusDuotone = IconifyIconData.solo(
     IconData(0xf0ad1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0ad1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-minus-fill`
@@ -45349,10 +44942,9 @@ class PhIcons {
     IconData(0xf0ad6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `user-circle-plus-duotone` (duo-tone)
-  static const IconifyIconData userCirclePlusDuotone = IconifyIconData.duo(
+  /// `user-circle-plus-duotone`
+  static const IconifyIconData userCirclePlusDuotone = IconifyIconData.solo(
     IconData(0xf0ad7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0ad7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-plus-fill`
@@ -45427,10 +45019,9 @@ class PhIcons {
     IconData(0xf0ae5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `user-gear-duotone` (duo-tone)
-  static const IconifyIconData userGearDuotone = IconifyIconData.duo(
+  /// `user-gear-duotone`
+  static const IconifyIconData userGearDuotone = IconifyIconData.solo(
     IconData(0xf0ae6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0ae6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-gear-fill`
@@ -45494,10 +45085,9 @@ class PhIcons {
     IconData(0xf0af2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `user-minus-duotone` (duo-tone)
-  static const IconifyIconData userMinusDuotone = IconifyIconData.duo(
+  /// `user-minus-duotone`
+  static const IconifyIconData userMinusDuotone = IconifyIconData.solo(
     IconData(0xf0af3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0af3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-minus-fill`
@@ -45525,10 +45115,9 @@ class PhIcons {
     IconData(0xf0af8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `user-plus-duotone` (duo-tone)
-  static const IconifyIconData userPlusDuotone = IconifyIconData.duo(
+  /// `user-plus-duotone`
+  static const IconifyIconData userPlusDuotone = IconifyIconData.solo(
     IconData(0xf0af9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0af9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-plus-fill`
@@ -45649,10 +45238,9 @@ class PhIcons {
     IconData(0xf0b10, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `user-switch-duotone` (duo-tone)
-  static const IconifyIconData userSwitchDuotone = IconifyIconData.duo(
+  /// `user-switch-duotone`
+  static const IconifyIconData userSwitchDuotone = IconifyIconData.solo(
     IconData(0xf0b11, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0b11, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-switch-fill`
@@ -45969,10 +45557,9 @@ class PhIcons {
     IconData(0xf0b4e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `video-camera-slash-duotone` (duo-tone)
-  static const IconifyIconData videoCameraSlashDuotone = IconifyIconData.duo(
+  /// `video-camera-slash-duotone`
+  static const IconifyIconData videoCameraSlashDuotone = IconifyIconData.solo(
     IconData(0xf0b4f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0b4f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-slash-fill`
@@ -46377,10 +45964,9 @@ class PhIcons {
     IconData(0xf0b9d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `warning-circle-duotone` (duo-tone)
-  static const IconifyIconData warningCircleDuotone = IconifyIconData.duo(
+  /// `warning-circle-duotone`
+  static const IconifyIconData warningCircleDuotone = IconifyIconData.solo(
     IconData(0xf0b9e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0b9e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-circle-fill`
@@ -46408,10 +45994,9 @@ class PhIcons {
     IconData(0xf0ba3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `warning-diamond-duotone` (duo-tone)
-  static const IconifyIconData warningDiamondDuotone = IconifyIconData.duo(
+  /// `warning-diamond-duotone`
+  static const IconifyIconData warningDiamondDuotone = IconifyIconData.solo(
     IconData(0xf0ba4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0ba4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-diamond-fill`
@@ -46429,10 +46014,9 @@ class PhIcons {
     IconData(0xf0ba7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `warning-duotone` (duo-tone)
-  static const IconifyIconData warningDuotone = IconifyIconData.duo(
+  /// `warning-duotone`
+  static const IconifyIconData warningDuotone = IconifyIconData.solo(
     IconData(0xf0ba8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0ba8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-fill`
@@ -46455,10 +46039,9 @@ class PhIcons {
     IconData(0xf0bac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `warning-octagon-duotone` (duo-tone)
-  static const IconifyIconData warningOctagonDuotone = IconifyIconData.duo(
+  /// `warning-octagon-duotone`
+  static const IconifyIconData warningOctagonDuotone = IconifyIconData.solo(
     IconData(0xf0bad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0bad, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-octagon-fill`
@@ -46491,10 +46074,9 @@ class PhIcons {
     IconData(0xf0bb3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `washing-machine-duotone` (duo-tone)
-  static const IconifyIconData washingMachineDuotone = IconifyIconData.duo(
+  /// `washing-machine-duotone`
+  static const IconifyIconData washingMachineDuotone = IconifyIconData.solo(
     IconData(0xf0bb4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0bb4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `washing-machine-fill`
@@ -46522,10 +46104,9 @@ class PhIcons {
     IconData(0xf0bb9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `watch-duotone` (duo-tone)
-  static const IconifyIconData watchDuotone = IconifyIconData.duo(
+  /// `watch-duotone`
+  static const IconifyIconData watchDuotone = IconifyIconData.solo(
     IconData(0xf0bba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0bba, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `watch-fill`
@@ -46703,10 +46284,9 @@ class PhIcons {
     IconData(0xf0bdc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `waveform-slash-duotone` (duo-tone)
-  static const IconifyIconData waveformSlashDuotone = IconifyIconData.duo(
+  /// `waveform-slash-duotone`
+  static const IconifyIconData waveformSlashDuotone = IconifyIconData.solo(
     IconData(0xf0bdd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0bdd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-slash-fill`
@@ -46796,10 +46376,9 @@ class PhIcons {
     IconData(0xf0bee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `webcam-slash-duotone` (duo-tone)
-  static const IconifyIconData webcamSlashDuotone = IconifyIconData.duo(
+  /// `webcam-slash-duotone`
+  static const IconifyIconData webcamSlashDuotone = IconifyIconData.solo(
     IconData(0xf0bef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0bef, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-slash-fill`
@@ -47110,10 +46689,9 @@ class PhIcons {
     IconData(0xf0c2b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `wifi-slash-duotone` (duo-tone)
-  static const IconifyIconData wifiSlashDuotone = IconifyIconData.duo(
+  /// `wifi-slash-duotone`
+  static const IconifyIconData wifiSlashDuotone = IconifyIconData.solo(
     IconData(0xf0c2c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0c2c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-slash-fill`
@@ -47337,10 +46915,9 @@ class PhIcons {
     IconData(0xf0c57, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `x-circle-duotone` (duo-tone)
-  static const IconifyIconData xCircleDuotone = IconifyIconData.duo(
+  /// `x-circle-duotone`
+  static const IconifyIconData xCircleDuotone = IconifyIconData.solo(
     IconData(0xf0c58, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0c58, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-circle-fill`
@@ -47358,10 +46935,9 @@ class PhIcons {
     IconData(0xf0c5b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `x-duotone` (duo-tone)
-  static const IconifyIconData xDuotone = IconifyIconData.duo(
+  /// `x-duotone`
+  static const IconifyIconData xDuotone = IconifyIconData.solo(
     IconData(0xf0c5c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0c5c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-fill`
@@ -47415,10 +46991,9 @@ class PhIcons {
     IconData(0xf0c66, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `x-square-duotone` (duo-tone)
-  static const IconifyIconData xSquareDuotone = IconifyIconData.duo(
+  /// `x-square-duotone`
+  static const IconifyIconData xSquareDuotone = IconifyIconData.solo(
     IconData(0xf0c67, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0c67, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-square-fill`
@@ -47451,10 +47026,9 @@ class PhIcons {
     IconData(0xf0c6d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
-  /// `yarn-duotone` (duo-tone)
-  static const IconifyIconData yarnDuotone = IconifyIconData.duo(
+  /// `yarn-duotone`
+  static const IconifyIconData yarnDuotone = IconifyIconData.solo(
     IconData(0xf0c6e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
-    IconData(0xf0c6e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yarn-fill`

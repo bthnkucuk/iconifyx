@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/designmodo/Flat-UI/blob/master/LICENSE"
     },
-    "total": 75
+    "total": 74
   },
   "fonts": [
     {
       "family": "FlatUi",
       "nextCodepoint": 57419,
-      "iconCount": 75
+      "iconCount": 74
     },
     {
       "family": "FlatUiSecondary",
       "nextCodepoint": 57419,
-      "iconCount": 20
+      "iconCount": 19
     }
   ],
   "icons": {
@@ -83,7 +83,9 @@
       "codepoint": 57353,
       "fontFamily": "FlatUi",
       "identifier": "box",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "brush": {
       "codepoint": 57354,

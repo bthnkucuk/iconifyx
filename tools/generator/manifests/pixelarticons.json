@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/halfmage/pixelarticons/blob/master/LICENSE"
     },
-    "total": 1099
+    "total": 1099,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/packages/iconifyx_twemoji/assets/fonts/Twemoji.ttf",
+  "codepoint": "0xe2cb",
+  "glyphName": "1st-place-medal",
+  "advance": 1000,
+  "lsb": -107,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": -106.0,
+    "yMin": -2.0476190476190474,
+    "xMax": 1000,
+    "yMax": 1007,
+    "width": 1106.0,
+    "height": 1009.047619047619,
+    "cx": 447.0,
+    "cy": 502.4761904761905
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

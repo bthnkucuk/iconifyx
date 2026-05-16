@@ -1,0 +1,326 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 446,
+  "liveCountPrevious": 481,
+  "newDeprecations": [
+    {
+      "codepoint": 57344,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "0xbtc",
+      "identifier": "n0xbtc",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57346,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "2give",
+      "identifier": "n2give",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57359,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "aion",
+      "identifier": "aion",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57376,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "atlas",
+      "identifier": "atlas",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57420,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "btdx",
+      "identifier": "btdx",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57428,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "call",
+      "identifier": "call",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57429,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "cc",
+      "identifier": "cc",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57433,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "chain",
+      "identifier": "chain",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57486,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "ela",
+      "identifier": "ela",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57487,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "elec",
+      "identifier": "elec",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57489,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "elix",
+      "identifier": "elix",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57493,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "emc2",
+      "identifier": "emc2",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57504,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "ethos",
+      "identifier": "ethos",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57513,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "fida",
+      "identifier": "fida",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57515,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "fjc",
+      "identifier": "fjc",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57532,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "gmt",
+      "identifier": "gmt",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57546,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "gzr",
+      "identifier": "gzr",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57564,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "ins",
+      "identifier": "ins",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57566,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "iop",
+      "identifier": "iop",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57568,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "iotx",
+      "identifier": "iotx",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57576,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "knc",
+      "identifier": "knc",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57584,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "loom",
+      "identifier": "loom",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57590,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "maid",
+      "identifier": "maid",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57609,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "msr",
+      "identifier": "msr",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57622,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "neu",
+      "identifier": "neu",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57631,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "npxs",
+      "identifier": "npxs",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57632,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "ntbc",
+      "identifier": "ntbc",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57656,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "pink",
+      "identifier": "pink",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57700,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "safemoon",
+      "identifier": "safemoon",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57708,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "ser",
+      "identifier": "ser",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57764,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "unity",
+      "identifier": "unity",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57786,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "wings",
+      "identifier": "wings",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57820,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "zen",
+      "identifier": "zen",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57821,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "zest",
+      "identifier": "zest",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 57822,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "CryptocurrencyColor",
+      "iconName": "zil",
+      "identifier": "zil",
+      "prefix": "cryptocurrency-color",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "cryptocurrency-color",
+  "previousIconifyJsonVersion": "2.2.472"
+}

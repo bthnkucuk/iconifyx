@@ -16,18 +16,21 @@
       "spdx": "MIT",
       "url": "https://github.com/gorango/glyphs/blob/main/license"
     },
-    "total": 3452
+    "total": 3450,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {
       "family": "Glyphs",
       "nextCodepoint": 60796,
-      "iconCount": 3452
+      "iconCount": 3450
     },
     {
       "family": "GlyphsSecondary",
       "nextCodepoint": 60796,
-      "iconCount": 1605
+      "iconCount": 1603
     }
   ],
   "icons": {
@@ -5368,7 +5371,9 @@
       "codepoint": 58321,
       "fontFamily": "Glyphs",
       "identifier": "crosshairsBold",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "crosshairs-duo": {
       "codepoint": 58322,
@@ -6696,7 +6701,9 @@
       "codepoint": 58565,
       "fontFamily": "Glyphs",
       "identifier": "eyeLashesDuo",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "eye-lashes-outline": {
       "codepoint": 58566,

@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/wisdesignsystem/lsicon/blob/main/LICENSE"
     },
-    "total": 716
+    "total": 716,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

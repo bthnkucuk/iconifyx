@@ -15,7 +15,11 @@
       "title": "Apache 2.0",
       "spdx": "Apache-2.0"
     },
-    "total": 2678
+    "total": 2678,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

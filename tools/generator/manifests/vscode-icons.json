@@ -16,18 +16,21 @@
       "spdx": "MIT",
       "url": "https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE"
     },
-    "total": 701
+    "total": 671,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {
       "family": "VscodeIcons",
       "nextCodepoint": 58045,
-      "iconCount": 701
+      "iconCount": 671
     },
     {
       "family": "VscodeIconsSecondary",
       "nextCodepoint": 58045,
-      "iconCount": 329
+      "iconCount": 326
     }
   ],
   "icons": {
@@ -82,7 +85,9 @@
     "file-type-agda": {
       "codepoint": 57352,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeAgda"
+      "identifier": "fileTypeAgda",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-agents": {
       "codepoint": 57353,
@@ -452,7 +457,9 @@
     "file-type-codeowners": {
       "codepoint": 57414,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeCodeowners"
+      "identifier": "fileTypeCodeowners",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-coffeelint": {
       "codepoint": 57415,
@@ -478,7 +485,9 @@
     "file-type-conda": {
       "codepoint": 57418,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeConda"
+      "identifier": "fileTypeConda",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-config": {
       "codepoint": 57419,
@@ -616,7 +625,9 @@
     "file-type-dhall": {
       "codepoint": 57441,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeDhall"
+      "identifier": "fileTypeDhall",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-diff": {
       "codepoint": 57442,
@@ -800,7 +811,9 @@
     "file-type-formkit": {
       "codepoint": 57473,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeFormkit"
+      "identifier": "fileTypeFormkit",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-fortran": {
       "codepoint": 57474,
@@ -894,7 +907,9 @@
     "file-type-gitpod": {
       "codepoint": 57489,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeGitpod"
+      "identifier": "fileTypeGitpod",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-gleam": {
       "codepoint": 57490,
@@ -1207,7 +1222,9 @@
     "file-type-juice": {
       "codepoint": 57542,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeJuice"
+      "identifier": "fileTypeJuice",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-just": {
       "codepoint": 57543,
@@ -1237,7 +1254,9 @@
       "codepoint": 57547,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeKnip",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-language-configuration": {
       "codepoint": 57548,
@@ -1268,12 +1287,16 @@
     "file-type-lean": {
       "codepoint": 57552,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLean"
+      "identifier": "fileTypeLean",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-leanconfig": {
       "codepoint": 57553,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLeanconfig"
+      "identifier": "fileTypeLeanconfig",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-lex": {
       "codepoint": 57554,
@@ -1561,7 +1584,9 @@
       "codepoint": 57606,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightPrettier",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-light-prisma": {
       "codepoint": 57607,
@@ -1771,7 +1796,9 @@
     "file-type-mailing": {
       "codepoint": 57644,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeMailing"
+      "identifier": "fileTypeMailing",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-makefile": {
       "codepoint": 57645,
@@ -1821,7 +1848,9 @@
     "file-type-markojs": {
       "codepoint": 57652,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeMarkojs"
+      "identifier": "fileTypeMarkojs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-markuplint": {
       "codepoint": 57653,
@@ -1838,7 +1867,9 @@
     "file-type-mcp": {
       "codepoint": 57655,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeMcp"
+      "identifier": "fileTypeMcp",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-mdx": {
       "codepoint": 57656,
@@ -1980,7 +2011,9 @@
     "file-type-nest-adapter-js": {
       "codepoint": 57680,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeNestAdapterJs"
+      "identifier": "fileTypeNestAdapterJs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-nest-adapter-ts": {
       "codepoint": 57681,
@@ -2000,7 +2033,9 @@
     "file-type-nest-decorator-js": {
       "codepoint": 57684,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeNestDecoratorJs"
+      "identifier": "fileTypeNestDecoratorJs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-nest-decorator-ts": {
       "codepoint": 57685,
@@ -2010,7 +2045,9 @@
     "file-type-nest-filter-js": {
       "codepoint": 57686,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeNestFilterJs"
+      "identifier": "fileTypeNestFilterJs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-nest-filter-ts": {
       "codepoint": 57687,
@@ -2020,7 +2057,9 @@
     "file-type-nest-gateway-js": {
       "codepoint": 57688,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeNestGatewayJs"
+      "identifier": "fileTypeNestGatewayJs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-nest-gateway-ts": {
       "codepoint": 57689,
@@ -2294,7 +2333,9 @@
     "file-type-pdm": {
       "codepoint": 57736,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypePdm"
+      "identifier": "fileTypePdm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-peeky": {
       "codepoint": 57737,
@@ -2431,7 +2472,9 @@
     "file-type-prisma": {
       "codepoint": 57760,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypePrisma"
+      "identifier": "fileTypePrisma",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-prismaconfig": {
       "codepoint": 57761,
@@ -2702,7 +2745,9 @@
     "file-type-shadcn": {
       "codepoint": 57805,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeShadcn"
+      "identifier": "fileTypeShadcn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-shaderlab": {
       "codepoint": 57806,
@@ -2713,7 +2758,9 @@
       "codepoint": 57807,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeShellcheck",
-      "duotone": true
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-shuttle": {
       "codepoint": 57808,
@@ -2958,7 +3005,9 @@
     "file-type-tm": {
       "codepoint": 57848,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeTm"
+      "identifier": "fileTypeTm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-tmux": {
       "codepoint": 57849,
@@ -2970,7 +3019,9 @@
     "file-type-toit": {
       "codepoint": 57850,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeToit"
+      "identifier": "fileTypeToit",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-toml": {
       "codepoint": 57851,
@@ -3132,7 +3183,9 @@
     "file-type-vercel": {
       "codepoint": 57877,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeVercel"
+      "identifier": "fileTypeVercel",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-vhdl": {
       "codepoint": 57878,
@@ -3324,7 +3377,9 @@
     "file-type-zeit": {
       "codepoint": 57909,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeZeit"
+      "identifier": "fileTypeZeit",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "file-type-zig": {
       "codepoint": 57910,
@@ -3626,12 +3681,16 @@
     "folder-type-interfaces": {
       "codepoint": 57955,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeInterfaces"
+      "identifier": "folderTypeInterfaces",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "folder-type-interfaces-opened": {
       "codepoint": 57956,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeInterfacesOpened"
+      "identifier": "folderTypeInterfacesOpened",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "folder-type-ios": {
       "codepoint": 57957,
@@ -3759,12 +3818,16 @@
     "folder-type-light-node": {
       "codepoint": 57976,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeLightNode"
+      "identifier": "folderTypeLightNode",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "folder-type-light-node-opened": {
       "codepoint": 57977,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeLightNodeOpened"
+      "identifier": "folderTypeLightNodeOpened",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "folder-type-light-redux": {
       "codepoint": 57978,

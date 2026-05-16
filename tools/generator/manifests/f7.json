@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/framework7io/framework7-icons/blob/master/LICENSE"
     },
-    "total": 1250
+    "total": 1250,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

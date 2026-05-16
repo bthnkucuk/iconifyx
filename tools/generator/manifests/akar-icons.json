@@ -16,7 +16,12 @@
       "spdx": "MIT",
       "url": "https://github.com/artcoholic/akar-icons/blob/master/LICENSE"
     },
-    "total": 464
+    "total": 464,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

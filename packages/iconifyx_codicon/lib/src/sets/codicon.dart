@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Microsoft Corporation
 /// License: CC BY 4.0 — https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
-/// Icons: 568
+/// Icons: 567
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -164,11 +164,6 @@ class CodiconIcons {
   /// `bell-slash-dot`
   static const IconifyIconData bellSlashDot = IconifyIconData.solo(
     IconData(0xe01d, fontFamily: 'Codicon', fontPackage: 'iconifyx_codicon'),
-  );
-
-  /// `blank`
-  static const IconifyIconData blank = IconifyIconData.solo(
-    IconData(0xe01e, fontFamily: 'Codicon', fontPackage: 'iconifyx_codicon'),
   );
 
   /// `bold`

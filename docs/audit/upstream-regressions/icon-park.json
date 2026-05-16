@@ -1,0 +1,29 @@
+{
+  "iconifyJsonVersion": "2.2.472",
+  "iconifyJsonVersionBumped": false,
+  "liveCountCurrent": 2656,
+  "liveCountPrevious": 2658,
+  "newDeprecations": [
+    {
+      "codepoint": 59648,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "IconPark",
+      "iconName": "switch-button",
+      "identifier": "switchButton",
+      "prefix": "icon-park",
+      "reason": "unknown"
+    },
+    {
+      "codepoint": 59855,
+      "deprecatedSince": "2026-05-16",
+      "fontFamily": "IconPark",
+      "iconName": "upload",
+      "identifier": "upload",
+      "prefix": "icon-park",
+      "reason": "unknown"
+    }
+  ],
+  "noPrevious": false,
+  "prefix": "icon-park",
+  "previousIconifyJsonVersion": "2.2.472"
+}

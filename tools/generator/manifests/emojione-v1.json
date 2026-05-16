@@ -16,13 +16,13 @@
       "spdx": "CC-BY-SA-4.0",
       "url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
-    "total": 367
+    "total": 365
   },
   "fonts": [
     {
       "family": "EmojioneV1",
       "nextCodepoint": 57711,
-      "iconCount": 367
+      "iconCount": 365
     },
     {
       "family": "EmojioneV1Secondary",
@@ -295,7 +295,9 @@
     "crown": {
       "codepoint": 57384,
       "fontFamily": "EmojioneV1",
-      "identifier": "crown"
+      "identifier": "crown",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "customs": {
       "codepoint": 57385,
@@ -2245,7 +2247,9 @@
     "womans-sandal": {
       "codepoint": 57708,
       "fontFamily": "EmojioneV1",
-      "identifier": "womansSandal"
+      "identifier": "womansSandal",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "world-map": {
       "codepoint": 57709,

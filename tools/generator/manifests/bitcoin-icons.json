@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/BitcoinDesign/Bitcoin-Icons/blob/main/LICENSE-MIT"
     },
-    "total": 330
+    "total": 330,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

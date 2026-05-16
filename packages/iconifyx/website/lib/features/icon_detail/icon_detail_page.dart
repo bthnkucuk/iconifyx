@@ -7,6 +7,7 @@ import 'package:stupid_simple_sheet/stupid_simple_sheet.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
+import '../../bootstrap/font_loader_service.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../bootstrap/selection_state.dart';
 import '../../router/coordinator.dart';
@@ -43,7 +44,61 @@ class IconDetailPage extends StatelessWidget {
         );
         final related =
             icons.where((r) => r.name != record.name).take(12).toList();
-        return _IconView(record: record, pack: pack, related: related);
+        // RESEARCH_PLAN §9 lazy font registration. Direct-URL hits to
+        // `/pack/<prefix>/icon/<name>` can land here without the pack-
+        // detail page having loaded the TTFs first, so we gate the sheet
+        // body on the same `ensurePack` future. The pack-detail-then-
+        // sheet flow makes this a synchronous fast path (the service's
+        // [_loaded] set already contains the prefix).
+        return _IconFontGate(
+          pack: pack,
+          child: _IconView(record: record, pack: pack, related: related),
+        );
+      },
+    );
+  }
+}
+
+/// Gates the icon-detail sheet body on a successful lazy font load —
+/// mirrors `_FontGate` in `pack_detail_page.dart`. Kept locally because
+/// the sheet has its own scaffolding (transparent background, smaller
+/// chrome) so reusing the pack page's loader UI would look out of
+/// place; this one renders a centred spinner instead.
+class _IconFontGate extends StatefulWidget {
+  const _IconFontGate({required this.pack, required this.child});
+  final PackSummary pack;
+  final Widget child;
+
+  @override
+  State<_IconFontGate> createState() => _IconFontGateState();
+}
+
+class _IconFontGateState extends State<_IconFontGate> {
+  late Future<void> _future;
+
+  @override
+  void initState() {
+    super.initState();
+    _future = FontLoaderService.instance.ensurePack(widget.pack);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (FontLoaderService.instance.isLoaded(widget.pack.prefix)) {
+      return widget.child;
+    }
+    return FutureBuilder<void>(
+      future: _future,
+      builder: (context, snap) {
+        if (snap.connectionState != ConnectionState.done) {
+          return const Center(
+            child: Padding(
+              padding: EdgeInsets.all(48),
+              child: CircularProgressIndicator(color: AppTheme.coral),
+            ),
+          );
+        }
+        return widget.child;
       },
     );
   }

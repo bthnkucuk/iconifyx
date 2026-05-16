@@ -16,7 +16,12 @@
       "spdx": "GPL-3.0",
       "url": "https://github.com/cyberalien/gala-icons/blob/main/LICENSE"
     },
-    "total": 55
+    "total": 55,
+    "tags": [
+      "Precise Shapes",
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

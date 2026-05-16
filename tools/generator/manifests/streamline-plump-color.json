@@ -16,13 +16,16 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 998
+    "total": 992,
+    "tags": [
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {
       "family": "StreamlinePlumpColor",
       "nextCodepoint": 58342,
-      "iconCount": 998
+      "iconCount": 992
     },
     {
       "family": "StreamlinePlumpColorSecondary",
@@ -3352,7 +3355,9 @@
     "mail-send-reply-all-flat": {
       "codepoint": 57908,
       "fontFamily": "StreamlinePlumpColor",
-      "identifier": "mailSendReplyAllFlat"
+      "identifier": "mailSendReplyAllFlat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "mail-setting": {
       "codepoint": 57909,
@@ -3386,7 +3391,9 @@
     "man-arm-raises-2-alternate-flat": {
       "codepoint": 57914,
       "fontFamily": "StreamlinePlumpColor",
-      "identifier": "manArmRaises2AlternateFlat"
+      "identifier": "manArmRaises2AlternateFlat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "map-fold": {
       "codepoint": 57915,
@@ -4296,7 +4303,9 @@
     "recycle-1-flat": {
       "codepoint": 58070,
       "fontFamily": "StreamlinePlumpColor",
-      "identifier": "recycle1Flat"
+      "identifier": "recycle1Flat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "recycle-bin": {
       "codepoint": 58071,
@@ -4889,7 +4898,9 @@
     "steps-1-flat": {
       "codepoint": 58171,
       "fontFamily": "StreamlinePlumpColor",
-      "identifier": "steps1Flat"
+      "identifier": "steps1Flat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "stock": {
       "codepoint": 58172,
@@ -5357,7 +5368,9 @@
     "usb-port-flat": {
       "codepoint": 58251,
       "fontFamily": "StreamlinePlumpColor",
-      "identifier": "usbPortFlat"
+      "identifier": "usbPortFlat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "user-face-id-mask": {
       "codepoint": 58252,
@@ -5793,7 +5806,9 @@
     "wifi-flat": {
       "codepoint": 58325,
       "fontFamily": "StreamlinePlumpColor",
-      "identifier": "wifiFlat"
+      "identifier": "wifiFlat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16"
     },
     "wine": {
       "codepoint": 58326,

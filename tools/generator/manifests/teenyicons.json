@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/teenyicons/teenyicons/blob/master/LICENSE"
     },
-    "total": 1200
+    "total": 1200,
+    "tags": [
+      "Precise Shapes"
+    ]
   },
   "fonts": [
     {

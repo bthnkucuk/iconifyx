@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/ant-design/ant-design-icons/blob/master/LICENSE"
     },
-    "total": 1870
+    "total": 1870,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {

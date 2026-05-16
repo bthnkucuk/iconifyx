@@ -16,7 +16,11 @@
       "spdx": "MIT",
       "url": "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE"
     },
-    "total": 8080
+    "total": 8080,
+    "tags": [
+      "Has Padding",
+      "Uses Stroke"
+    ]
   },
   "fonts": [
     {

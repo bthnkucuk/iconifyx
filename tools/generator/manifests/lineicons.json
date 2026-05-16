@@ -16,7 +16,10 @@
       "spdx": "MIT",
       "url": "https://github.com/LineiconsHQ/Lineicons/blob/main/LICENSE.md"
     },
-    "total": 962
+    "total": 962,
+    "tags": [
+      "Has Padding"
+    ]
   },
   "fonts": [
     {
