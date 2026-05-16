@@ -71,7 +71,7 @@ import { writeStrokeAudit } from './stroke_audit.ts';
 import type { AuditEntry } from './stroke_audit.ts';
 import { verifyFontsAgainstManifests } from './font_verify.ts';
 import { renameGlyphsInTtfs, type GlyphRenameStats } from './glyph_rename.ts';
-import { resetCacheStats } from './ttf_cache.ts';
+import { resetCacheStats, getCacheStats } from './ttf_cache.ts';
 import {
   setPackageDir,
   setPackageFontsDir,
