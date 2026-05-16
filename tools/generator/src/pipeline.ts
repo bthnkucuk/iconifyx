@@ -62,6 +62,7 @@ import { emitSetThirdPartyLicense, emitSetLicenseDart } from './license_codegen.
 import {
   buildPacksJson,
   buildIconsIndexJson,
+  buildCdnManifest,
   emitWebsitePubspec,
 } from './website_codegen.ts';
 import { writeCoverageReport } from './coverage_report.ts';
@@ -1482,23 +1483,47 @@ async function writeWebsiteData(
   const dataDir = path.join(websiteDir(), 'lib', 'data');
   await mkdir(dataDir, { recursive: true });
 
-  // The hand-written Flutter app reads these two JSON files at startup and
+  // The hand-written Flutter app reads these JSON files at startup and
   // constructs `IconifyIconData` instances at runtime — no per-set imports.
+  //
+  // Three sets of outputs live side-by-side until `kUseCdn = true` is
+  // flipped in lib/bootstrap/icon_catalog.dart:
+  //   1. `lib/data/{packs.json,icons_index.json}` — legacy bundled Flutter
+  //      assets the current default reads from rootBundle.
+  //   2. `lib/data/cdn_manifest.json` — tiny routing manifest committed
+  //      alongside the legacy assets so the CDN fetcher has a starting
+  //      point. Always bundled.
+  //   3. `lib/cdn/packs/v1/packs.json` — mirror of the bundled
+  //      packs.json, intended to be served from jsDelivr. The per-pack
+  //      icons-index shards land here in the §11 follow-up commit.
+  //
+  // See website_codegen.ts header for the exact layout. See
+  // RESEARCH_PLAN §11/§12 for the design rationale.
   const codegenInput = { entries, iconifyJsonVersion };
-  await writeFile(
-    path.join(dataDir, 'packs.json'),
-    buildPacksJson(codegenInput),
-    'utf8'
-  );
+  const packsJsonBody = buildPacksJson(codegenInput);
+
+  await writeFile(path.join(dataDir, 'packs.json'), packsJsonBody, 'utf8');
   await writeFile(
     path.join(dataDir, 'icons_index.json'),
     buildIconsIndexJson(codegenInput),
     'utf8'
   );
+  await writeFile(
+    path.join(dataDir, 'cdn_manifest.json'),
+    buildCdnManifest({ iconifyJsonVersion }),
+    'utf8'
+  );
+
+  // CDN tree. Mirror the bundled `packs.json` verbatim so a jsDelivr URL
+  // returns the same bytes the legacy code reads from rootBundle.
+  const cdnRoot = path.join(websiteDir(), 'lib', 'cdn');
+  const cdnPacksDir = path.join(cdnRoot, 'packs', 'v1');
+  await mkdir(cdnPacksDir, { recursive: true });
+  await writeFile(path.join(cdnPacksDir, 'packs.json'), packsJsonBody, 'utf8');
 
   // Pubspec lists every per-set package as a direct path dep so their TTF
   // assets ship with the build — even though the Dart code never imports
-  // them. The two JSON files are declared as assets.
+  // them. The two JSON files (+ cdn_manifest.json) are declared as assets.
   const setPackages = entries.map((e) => setPackageName(e.manifest.prefix));
   await writeFile(
     path.join(websiteDir(), 'pubspec.yaml'),

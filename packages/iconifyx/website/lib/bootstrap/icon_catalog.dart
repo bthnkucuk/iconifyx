@@ -10,6 +10,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:flutter/widgets.dart';
 import 'package:iconifyx_core/iconifyx_core.dart';
 
+import 'cdn_config.dart';
 import 'trigram_index.dart';
 
 /// One icon, reconstructed at runtime from `icons_index.json`. We rebuild
@@ -140,8 +141,53 @@ class PackIndex {
   final Map<String, PackSummary> byPrefix;
   final List<CategoryEntry> categories;
 
+  /// Load the bootstrap manifest.
+  ///
+  /// With [kUseCdn] = false (default) this is identical to the legacy
+  /// behaviour: read the bundled Flutter asset and parse synchronously.
+  ///
+  /// With [kUseCdn] = true the CDN copy at `<baseUrl>/<packsPath>` is
+  /// tried first; on any network / parse failure we fall back to the
+  /// bundled asset and log a warning. The bundled asset stays committed
+  /// alongside the CDN tree so the fallback is always available — see
+  /// RESEARCH_PLAN §12 for the rationale.
   static Future<PackIndex> load() async {
-    final raw = await rootBundle.loadString('lib/data/packs.json');
+    String raw;
+    if (kUseCdn) {
+      raw = await _loadPacksJsonViaCdn();
+    } else {
+      raw = await rootBundle.loadString('lib/data/packs.json');
+    }
+    return _parsePacksJson(raw);
+  }
+
+  /// Try the CDN copy first; fall back to the bundled asset on any
+  /// failure. Exposed at file scope so future callers (e.g. an explicit
+  /// refresh button) can reuse the same fallback semantics.
+  static Future<String> _loadPacksJsonViaCdn() async {
+    final manifest = await CdnManifest.loadFromBundle();
+    if (manifest == null || manifest.baseUrl.isEmpty) {
+      debugPrint(
+        '[iconifyx/website] cdn_manifest.json missing or empty — '
+        'falling back to bundled packs.json',
+      );
+      return rootBundle.loadString('lib/data/packs.json');
+    }
+    final client = CdnHttpClient();
+    try {
+      return await client.getString(manifest.packsJsonUrl);
+    } on CdnFetchException catch (e) {
+      debugPrint(
+        '[iconifyx/website] CDN packs.json fetch failed: $e — falling '
+        'back to bundled copy',
+      );
+      return rootBundle.loadString('lib/data/packs.json');
+    } finally {
+      client.close();
+    }
+  }
+
+  static PackIndex _parsePacksJson(String raw) {
     final doc = jsonDecode(raw) as Map<String, dynamic>;
     final packs = (doc['packs'] as List)
         .map((p) => _parsePack(p as Map<String, dynamic>))

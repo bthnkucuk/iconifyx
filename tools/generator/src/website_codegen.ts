@@ -9,10 +9,16 @@ import type { Manifest } from './manifest.ts';
  * package directly. Per-set packages are still listed in `pubspec.yaml` so
  * their TTF font assets bundle into the build.
  *
- * Two files are emitted into `lib/data/`:
- *   - packs.json — bootstrap manifest (one row per pack, ~80 KB).
+ * Bundled (Flutter assets in `lib/data/`):
+ *   - packs.json — bootstrap manifest (one row per pack, ~200 KB).
  *   - icons_index.json — flat icon index in compact pack-grouped tuple form
  *     (~10 MB for the full ~165K-icon corpus).
+ *   - cdn_manifest.json — tiny routing manifest (see RESEARCH_PLAN §12).
+ *
+ * CDN tree (`lib/cdn/` — emitted but NOT a Flutter asset; intended to be
+ * served from jsDelivr / a static host so the JSONs drop out of the Flutter
+ * web bundle once `kUseCdn = true` is flipped in `icon_catalog.dart`):
+ *   - cdn/packs/v1/packs.json — identical content to the bundled file.
  */
 
 export interface WebsiteCodegenInput {
@@ -190,6 +196,11 @@ ${deps}
   shared_preferences: ^2.3.2
   url_launcher: ^6.3.2
   oref: ^2.8.1
+  # \`http\` powers the CDN loader in lib/bootstrap/icon_catalog.dart
+  # (RESEARCH_PLAN §11/§12). With kUseCdn=false (current default) the
+  # package is imported but not used; toggling kUseCdn=true lets us drop
+  # the bundled JSONs and lazy-fetch from jsDelivr instead.
+  http: ^1.2.0
   # flutter_svg is used ONLY on the icon-detail sheet, to render the
   # original Iconify-CDN SVG next to our generated TTF rendering for
   # visual QA. Not used anywhere else in the website.
@@ -210,6 +221,7 @@ flutter:
   assets:
     - lib/data/packs.json
     - lib/data/icons_index.json
+    - lib/data/cdn_manifest.json
   fonts:
     - family: PlusJakartaSans
       fonts:
@@ -234,6 +246,46 @@ flutter:
         - asset: assets/fonts/JetBrainsMono-Bold.ttf
           weight: 700
 `;
+}
+
+/**
+ * Tiny manifest committed at `lib/data/cdn_manifest.json` (RESEARCH_PLAN
+ * §12). Tells the runtime where the CDN tree lives + which version of the
+ * data it expects.
+ *
+ * The bundle commits THIS file (a few hundred bytes); the bulky
+ * `packs.json` (and eventually the per-pack icons-index shards added in
+ * §11) can drop out of the Flutter web bundle entirely once
+ * `kUseCdn = true` is flipped in `lib/bootstrap/icon_catalog.dart`.
+ *
+ * The default baseUrl points at jsDelivr's
+ * `gh:Bthn/icons@iconify-<version>/packages/iconifyx/website/lib/cdn`
+ * path. Override at deploy time by hand-editing the committed manifest
+ * (or by regenerating with a future `ICONIFYX_CDN_BASE_URL` env var).
+ */
+export interface CdnManifestInput {
+  iconifyJsonVersion: string;
+  /** jsDelivr / static-host URL the website fetches from at runtime. */
+  baseUrl?: string;
+}
+
+export function buildCdnManifest(input: CdnManifestInput): string {
+  const baseUrl =
+    input.baseUrl ??
+    `https://cdn.jsdelivr.net/gh/Bthn/icons@iconify-${input.iconifyJsonVersion}/packages/iconifyx/website/lib/cdn`;
+
+  return JSON.stringify({
+    schemaVersion: 1,
+    version: 'v1',
+    iconifyJsonVersion: input.iconifyJsonVersion,
+    baseUrl,
+    packsPath: 'packs/v1/packs.json',
+    // §11 (deferred to the next commit) populates these too; the
+    // routing manifest carries them ahead so the website's
+    // `CdnManifest` class can ignore version mismatches.
+    iconsIndexPath: 'icons-index/v1',
+    iconsIndexManifestPath: 'icons-index/v1/index.json',
+  });
 }
 
 function categorySlug(name: string): string {
